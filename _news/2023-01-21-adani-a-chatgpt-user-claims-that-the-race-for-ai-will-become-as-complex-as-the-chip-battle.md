@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Google's big fear is AI running wild. After ChatGPT, it's too late."
-    excerpt: "Google's top executives published a report calling for a responsible release of AI, months after rival AI bot ChatGPT has entered the mainstream."
-    publishedDateTime: 2023-01-19T14:17:00Z
-    webUrl: "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fears-ai-running-wild-but-it-is-too-late-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/63c93fe72a1e600018b8ac60?width=1200&format=jpeg"
-        width: 553
-        height: 276
-        isCached: true
   - title: "Google may soon demo an AI Search chatbot amid pressure from ChatGPT"
     excerpt: "Over the last few years, there has been a backlash against Google's handling of AI ethics. Timnit Gebru and Margaret Mitchell, two leading AI ethics researchers, said Google fired them."
     publishedDateTime: 2023-01-20T17:46:00Z
@@ -410,6 +394,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
+  - title: "Google’s answer to ChatGPT could make its debut in May"
+    excerpt: "In their paper, Alphabet-owned DeepMind Technologies define Sparrow as a dialogue agent \"that’s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user,"
+    publishedDateTime: 2023-01-24T04:53:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may/97268755"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97268755,imgsize-1262075,width-1200,height=765,overlay-etbrandequity/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
     excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
     publishedDateTime: 2023-01-23T13:28:00Z

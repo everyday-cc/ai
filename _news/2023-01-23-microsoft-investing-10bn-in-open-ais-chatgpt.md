@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 829
         isCached: true
-  - title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
-    excerpt: "OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT. Microsoft invested $1bn (£808m) in the company, founded by Elon Musk and tech investor Sam Altman in 2019. The Windows and Xbox maker plans up to 10,"
-    publishedDateTime: 2023-01-23T17:43:00Z
-    webUrl: "https://www.bbc.com/news/technology-64374283"
-    ampWebUrl: "https://www.bbc.com/news/technology-64374283.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-64374283.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8C9E/production/_128389953_gettyimages-1176203598.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft Integrates OpenAI AI tools in Workplace Emails and Spreadsheets"
     excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world,” the announcement states. This allows companies to integrate AI capabilities into their products and services to improve efficiency and automate their processes."
     publishedDateTime: 2023-01-23T09:52:00Z
@@ -146,6 +130,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
+    excerpt: "OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT. Microsoft invested $1bn (£808m) in the company, founded by Elon Musk and tech investor Sam Altman in 2019. The Windows and Xbox maker plans up to 10,"
+    publishedDateTime: 2023-01-23T17:43:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-64374283"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-64374283.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-64374283.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8C9E/production/_128389953_gettyimages-1176203598.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft to invest billions in maker of viral AI ChatGPT"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate new images."
     publishedDateTime: 2023-01-23T17:14:00Z
@@ -177,6 +177,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/4089708-screenshot2023-01-23at9.42.58am.png"
         width: 371
         height: 219
+        isCached: true
+  - title: "Microsoft adding to its AI ambitions; Musk is back on the stand in trial over Tesla tweets"
+    excerpt: "Microsoft’s supercomputers are helping to power the startup’s energy-hungry AI systems, while the Redmond, Washington-based tech giant will be able to further integrate OpenAI technology into Microsoft products."
+    publishedDateTime: 2023-01-23T21:00:00Z
+    webUrl: "https://www.postandcourier.com/microsoft-adding-to-its-ai-ambitions-musk-is-back-on-the-stand-in-trial-over/article_8e22063a-9b34-11ed-805b-cf740dd5cedf.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 61
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/b2/8b2190be-0797-58e0-b464-0d886370f09e/63cf009fdc3bb.image.jpg?crop=1670%2C877%2C0%2C182&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft & OpenAI Extend Deal To Make AI Accessible To Everyone"
     excerpt: "Microsoft to extend multi-billion dollar investment in OpenAI to speed up development, democratize AI and make it accessible to everyone."

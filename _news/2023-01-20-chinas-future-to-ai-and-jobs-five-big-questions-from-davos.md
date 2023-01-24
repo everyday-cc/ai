@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/jan/20/davos-questions-wef
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/20/davos-questions-wef-china-future-ai-jobs"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Jobs Safe From AI, And Those That Aren’t"
+    excerpt: "The past few months have given the world a taste of what artificial intelligence can do. For example, ChatGPT can write your essays, while Stable Diffusion can generate images. That leaves many"
+    publishedDateTime: 2023-01-24T05:17:00Z
+    webUrl: "https://technology.inquirer.net/120982/the-jobs-safe-from-ai"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/01/Jobs-safe-from-AI-featured-image-blog.spjain.org_-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "3. Davos frets over AI and white collar jobs"
     excerpt: "The latest artificial intelligence systems dominated the tech conversation in Davos with a mix of excitement and concern."
     publishedDateTime: 2023-01-21T19:34:00Z

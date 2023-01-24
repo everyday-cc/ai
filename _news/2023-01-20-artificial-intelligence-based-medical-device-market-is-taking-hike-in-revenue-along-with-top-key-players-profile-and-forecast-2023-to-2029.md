@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Call Center AI Market is to grow at 13.5% During the Forecast Period 2022 to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2023-01-19T14:59:00Z
-    webUrl: "https://www.fmiblog.com/2023/01/19/call-center-ai-market-is-to-grow-at-13-5-during-the-forecast-period-2022-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 14
 
 secured: "NFsbWZnZ4i+vSZfQzqm1z7goPpc7vgPGTSyJOSDuUf9W8VjLpX4ZzZqxMrPYKbngZ8hYFQB6+IQ4RcMnaYTeDfnq3At0qz7jeUo2it/Qb/RLwtQ7+Wyw6KjM1QB/YsaP5Fh9jRCFxDV+SKuHWYa19JxuQEmhDUCP15DWqwj3f/3juww0Z7PW5CQMtjcwS/aJGo8FjQaCzfRCS3aAFNIzyqxbn3aWMd/fzbd00/vMm04rWbaKPl58Aqzpc5r6iXlu8x3no69ONy7FVBrzy73LQt3UGGmShKd3x4QAJrKLlWgJ15T4aqoY3s2OWZXsYHqbAWaSi3hxio4D75L171uBQiECADiOKufDS/F6yGs25ew=;K34QfeJ5/dOfDkB7WwY3aA=="
 ---

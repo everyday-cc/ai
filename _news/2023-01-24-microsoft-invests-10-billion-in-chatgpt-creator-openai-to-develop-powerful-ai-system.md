@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
+    excerpt: "The partnership will allow Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs."
+    publishedDateTime: 2023-01-23T22:20:00Z
+    webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    type: article
+    provider:
+      name: WVEC
+      domain: 13newsnow.com
+    quality: 52
+    images:
+      - url: "https://media.13newsnow.com/assets/CCT/images/e0045acf-a14c-4bdf-a476-7f33b2c4a928/e0045acf-a14c-4bdf-a476-7f33b2c4a928_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Microsoft's huge bet on ChatGPT is a 'game changing AI investment' that could boost the stock by 20%, Wedbush says"
     excerpt: "Microsoft just confirmed its $10 billion partnership expansion with OpenAI. That could make it a leader in the artificial intelligence space, Wedbush said."
     publishedDateTime: 2023-01-23T17:42:00Z
@@ -157,15 +173,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
-    excerpt: "The partnership will allow Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs."
-    publishedDateTime: 2023-01-23T22:20:00Z
-    webUrl: "https://www.wfaa.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 12
 
 secured: "R4TmA0a2YAvnZyQfT8RLpsHmoMw06yoPdUqOyVFTUOuXbK4z0DLssWZZ/GPWzX6z64LaDT59NE6VsYXzibwtF7HCGnxe66D4EVXSIwxG+DtqriNA6pw/XeNSG1FziOkXJ+eo68TkY1b96ZDtUGYU8DxEmi9Jt1We7xbT2/t+IsnUmIipT1CDowa4RRykyvzzyi0LynEycnVIocXVm22jsdBWl2fqf4yrJa+J845q29l6mIVo4a27u8xYH5jzx2LgIJuA2wZv3XHKvf0rZK4j1WQaUtEfe8caYCo9ah2oL+jeSH7/lt25op5AHeaUja3SBOC7LH6YAUt/EJJxADnVsplc6aoX6YpnmhKyP6gpUdoy8P4Z0SsS0RIEE5ZiEcOFNUfJqq/r5vk6LT3Kor2eCIy9DVrT7DoogGpTU2EPs7D/e/npOMxX89bXfgGOEC74YQtP58+652KmcoctXV4icmDpqIAfjrlbEcY/iyW8F6TDvxNFLDBYnU/KYFYUOpZ3Sz9/K0OWe/4E/YL7NphQUg==;fMY59IYy9ZFYlcOmbBfDjQ=="
 ---

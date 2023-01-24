@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/good-thinking/facial-recognition-clothes/"
 webUrl: "https://newatlas.com/good-thinking/facial-recognition-clothes/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "These clothes can shield you from facial recognition systems (VIDEO)"
-    excerpt: "An Italian start-up is exploiting a flaw in the system by selling a whole range of clothes capable of foiling facial recognition systems. To go incognito,"
-    publishedDateTime: 2023-01-19T14:10:00Z
-    webUrl: "https://www.malaymail.com/news/life/2023/01/19/these-clothes-can-shield-you-from-facial-recognition-systems-video/51163"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 19
 
 secured: "HY18q66KtK7fOAOZmap68zg1Qn+bLRJo0WZly06wEVeiHkiiAPXlsl11ssuxFFUI4NnaoF8fixSHWqYsNdXGYMYdI0eR6YL3BadAV9EyNXHDnOiMV/oXzo7iyAoBct8y0aKAmWm7aahUw84jUsAiX4tMGT4S3LO/fQZN+ykW/ok5xuYJrAslJatAWrlAYeJOEJLJpNLkIVZHhz354ToMjOXwzn3784JshsZ5yr/CXf+se0IaJICzxmnQsRm5R6w2XU7twnTmdsaIjaUwqTYGTbgXfNlTOO3SZ2+c2BZSO1bYsqfJ+8N129I20itLYYpRqdUyU+Ha+ECIwNEoL+y78eDFspHC6bJiKEckTjnLQWnKNQcffrx+IeAG8wDMpnqYdMG9elcInE0cSEAftRJqZ133FisYf93tu33iwtX1iBk7c06ONI8wKvv2vGhgfs0RZ6NsSRgYJ1XC1Cy6EasqkFEExlS+7nSjRHFsLxWjYUsH3AyJtZaOoXS7EGoyTe8HP6oOcTyNDvC+IQg0VkvSjQ==;/cMPqI0ZyhWtmeLaANzirw=="
 ---

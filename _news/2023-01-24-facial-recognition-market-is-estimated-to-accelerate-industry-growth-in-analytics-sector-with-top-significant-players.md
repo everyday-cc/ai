@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Smarten Augmented Analytics Launches PMML Integration Capability"
+    excerpt: "Smarten CEO, Kartik Patel says, 'The addition of PMML integration capability enables faster roll-out and allows users to leverage the Smarten workflow for PMML predictive models, adding more flexibility and power to the Smarten suite of augmented analytics tools."
+    publishedDateTime: 2023-01-24T05:37:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2329873-smarten-augmented-analytics-launches-pmml-integration-capability"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2329873-smarten-augmented-analytics-launches-pmml-integration-capability?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2329873-smarten-augmented-analytics-launches-pmml-integration-capability?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Speech Recognition Software Market 2023 [New Report]: to Eyewitness Huge Growth by Forecast 2025 | Involved Top Key Players and Emerging Trends"
     excerpt: "A cost-effective Latest “ Speech Recognition Software Market ” report that deliver top-notch insights into the Industrialmarket. The report also applies both primary and secondary research methodologies to identify new opportunities for development for the Industrial Speech Recognition Software market during the estimated forecast period,"
     publishedDateTime: 2023-01-20T05:53:00Z

@@ -3,20 +3,28 @@ category: news
 title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
 excerpt: "The partnership will allow Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs."
 publishedDateTime: 2023-01-23T22:20:00Z
-originalUrl: "https://www.wfaa.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-webUrl: "https://www.wfaa.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+originalUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
 type: article
-quality: 12
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: WFAA8
-  domain: wfaa.com
+  name: WVEC
+  domain: 13newsnow.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://media.13newsnow.com/assets/CCT/images/e0045acf-a14c-4bdf-a476-7f33b2c4a928/e0045acf-a14c-4bdf-a476-7f33b2c4a928_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
 
 related:
   - title: "Microsoft invests billions in ChatGPT-maker OpenAI"
@@ -167,6 +175,6 @@ related:
       domain: republicworld.com
     quality: 26
 
-secured: "JrciBNSbNt77vRIbkr5xEl6Rrlq7zMLTjy4kCMa6wvm27cMTT0uBikZNM0kGPaHOJIKbjl1IyCnCYhSl/JEzlDAQ1CInNUXjiQuywUuxUZo4q9dNzmdV2xTd3ev8C7KaGOAqjN6mSTXSY++E/iXNwry/Ue2V3+5AMZeZqZ+LItAVCxLw0r7mGzgWVlcTT8NA2RpcSW5d6ccA6rUmUHndRIPmSrIcWOGgZugMYd2Q3gyX4ZC7PkHU/cAMbnnfSWrHKIUqoDlnmKTrJTP2L4l3ZqztKOvF1PCLd8tEtw28JMw9PACkQafwscYKSiwZifNjYiJUCO90Fa6xZJIvRSWl3SN12U906OEOtQYOpV9mwnOCD17/gdulyqBYFmiRhvi5rmBSB2wOMITZxSceV/6MK1yQ6afKzkQKYR4wO4aJWDzF88WwNqv+Tep6IA8Wg6iWnIsYsPcDSasHEznTxsCccDnBWGhRJXdnYj86/ckVB4uQXxc4QNkj5/SDOyFy28M+mFIEduUhmAZapZFbqRtc9g==;SkfI1ulY53JWoo4zaogmuw=="
+secured: "nyQ8Ep/IRTEc/jAYtoSbNUsf2nzwPbcdPQnWuFuPQGLllY7iFPRZx94BaoE9EkJSWt1gto0dBowUmb35BJZJ2DtUt3mk3ej8NTzPxLSzTFmAiwqEBK7ZTmNOMDaHy0lWVVygNrUKt9NAumzjqDQ4WXKzzTaOUJdYpjvVa3hhoWazVwXtzBFz3zLfUrzdrbzuyxdbClrQmVFqUDDYDTHjDafiMjfgibiXNVibj1AJAvpg1eDb+eukLp0RlFF9zle0KvUapwwOORfuPdmlK2Hgb1WR5yXLuQH4Fe4Tc4RPwP+6I0o9Fn3rd7iqWZXfxW2aRZqUc5lkfw0ppdyBnDHElI0U20qwHXVfvCyJEPSywHE=;kbRymhdeLaihOQ7uZj8jCg=="
 ---
 

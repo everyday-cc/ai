@@ -103,6 +103,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
+    excerpt: "The partnership will allow Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs."
+    publishedDateTime: 2023-01-23T22:20:00Z
+    webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
+    type: article
+    provider:
+      name: WVEC
+      domain: 13newsnow.com
+    quality: 52
+    images:
+      - url: "https://media.13newsnow.com/assets/CCT/images/e0045acf-a14c-4bdf-a476-7f33b2c4a928/e0045acf-a14c-4bdf-a476-7f33b2c4a928_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Microsoft's huge bet on ChatGPT is a 'game changing AI investment' that could boost the stock by 20%, Wedbush says"
     excerpt: "Microsoft just confirmed its $10 billion partnership expansion with OpenAI. That could make it a leader in the artificial intelligence space, Wedbush said."
     publishedDateTime: 2023-01-23T17:42:00Z
@@ -158,15 +174,6 @@ related:
       name: RepublicWorld
       domain: republicworld.com
     quality: 26
-  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
-    excerpt: "The partnership will allow Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs."
-    publishedDateTime: 2023-01-23T22:20:00Z
-    webUrl: "https://www.wfaa.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 12
 
 secured: "WruRFoIb43OFgNwrsEOnvCAtLXr2aTIYWDXndKUvgLTF32SS0nXXvkFVgTqWw5tN9C4o2Li79sf/awAlLpZ+50QibHmiU/piwQzQIi3itX8QA/z5zmpgdcjYsBkgzWt2YFzTjGdu+rAKEY+A+Qw2bMzjgpsR+uKiUopD334d8W9Tlr/DNzgJencyHz8p2MdSDyXy/mGk2ZEHmSzH7Ut4pxQHjQZQifr0fnJ8GjowUd1H/X/b7MexU0SFT8RaFQi5RO68apICIHKN29hLBFGvHCUyZkRdVjejENXE/CeiM8mE1dTM/xbjyBbiztbyug3NRX7fYPI2LyO8moVdmT30wXL2DP3FPkpWFjsz8b9jeh7Jr92PQLC+vSKweQbnMAB19y5HItWMbS5sBXsvyJpL6I0TgRq+Gau7HKoYJhBIB4um6o7tZUAmVk+0zKh1dSBH9EN3k3YpgUdlszMJqlyA12UcVi1HOFkv/ZMsw/dg+4G0h00UmnbKlTVSKUwzpe3xgW6R6rcv8IfI9YHKQn0aPg==;jcUGB2HYEXqIYLjf7kx/7w=="
 ---

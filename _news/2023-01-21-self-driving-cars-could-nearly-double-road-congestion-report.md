@@ -64,15 +64,6 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 16
-  - title: "How an increase in self-driving cars could harm the environment"
-    excerpt: "PARIS: Self-driving vehicles are expected to go mainstream in the near future, but mass numbers of such vehicles could result in a significant increase in CO2 emissions, mainly due to the energy needed for the computers managing all the hardware and software on board."
-    publishedDateTime: 2023-01-19T14:41:00Z
-    webUrl: "https://www.carsifu.my/news/how-an-increase-in-self-driving-cars-could-harm-the-environment"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
 
 secured: "wXReWPE69Jpw3YRyGJt6vGkk21bLE0ERDeuQ92jlwUHpGfQd5hUExSpqGUzpGuFs+a7XTO4PqguxK3nGUGbrAuYoInqJU1xQ0CV4Pp1f2+tPJEcz9oX0Ch5DonqIR+Tyeuk9qeb3JiiGqIm00KhSO17g4pcsb0pXTBdgLjsj9MqKostJrdnniO8o0IK12dhJ6W1XrwFUUZvCRDGd71stCkfL53reoBmNdqQsQGjtmlB/lOJrsO+Xeu+NOlsajNfU0aYT/43I+u+SV7wt9VHtz2qvn2ak2Gqg3pQA4wcz9jnmX3bfgzSturFJeAGY/+5h68vx2hb93xKI5anACpGlInGidLg/wj9Zj7YBlGhsCFw=;vHJixhoycpaK+S7iHvZYUQ=="
 ---

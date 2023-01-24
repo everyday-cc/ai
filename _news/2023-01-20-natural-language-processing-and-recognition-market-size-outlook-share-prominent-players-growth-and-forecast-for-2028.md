@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market Research Report 2022 by Product Type, Application, Region And Global Forecast to 2030"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2023-01-23T05:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-2022-by-product-type-application-region-and-global-forecast-to-2030-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video Analytics and Artificial Intelligence Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2029"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-01-20T01:25:00Z

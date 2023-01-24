@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smarten Augmented Analytics Launches PMML Integration Capability"
+    excerpt: "Smarten CEO, Kartik Patel says, 'The addition of PMML integration capability enables faster roll-out and allows users to leverage the Smarten workflow for PMML predictive models, adding more flexibility and power to the Smarten suite of augmented analytics tools."
+    publishedDateTime: 2023-01-24T05:37:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2329873-smarten-augmented-analytics-launches-pmml-integration-capability"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2329873-smarten-augmented-analytics-launches-pmml-integration-capability?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2329873-smarten-augmented-analytics-launches-pmml-integration-capability?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_41_8935244.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "tXyv7c2iR1QKV9z/1IgpwJsYQxfs647JjDjq1dC0QIMVj39OWFL/rEmY6m5/Wb9kpM46qhWbE52y23R69gV8uaNth4BEx/9zsWKcJGDiLxPIxngE6dsqeKmDTg9j/8/yabIVdNsswofdpfu/D8eTGeEzDb1lt6pujrKG7eSEgpSOOpEuB1ZG+3gDy9E4xlPPmaQvV01/YWnYzu4b39bCodMNtMfNAmceJs3b03u0X978qP+t1ijH6jfY7aAvOEq29/iqB0LDjsx31CyGcrkf2nRivbF93TqCuwpStAcXPDzO5pMENprKE5rOELO923OvhkieC8eFtC/IkLZL2NkSg5Np8MTpXUKhI+9tHQwpig8=;KPDKHiDcjvTJ/+mQG7wnJw=="
 ---

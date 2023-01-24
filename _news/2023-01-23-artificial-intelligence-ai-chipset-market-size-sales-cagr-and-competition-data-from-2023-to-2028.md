@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23"
 type: article
 quality: 103
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -40,6 +40,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market Size 2023 with Strong Supplier, Key Factors, Driving the Market Growth, Information 2029"
+    excerpt: "By Types ( GPU, ASIC, FPGA, CPU, Others ), Applications ( Natural Language Processing (NLP), Robotic, Computer Vision, Network Security, Others ), By Segmentation, Regions and Forecast to 2029. The Global Artificial Intelligence (AI) Chips Market Report provides In-depth analysis on the market status of the Artificial Intelligence (AI) Chips Top manufacturers with best facts and figures,"
+    publishedDateTime: 2023-01-24T00:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-24T00:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

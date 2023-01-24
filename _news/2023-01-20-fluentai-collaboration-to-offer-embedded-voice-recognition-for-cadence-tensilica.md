@@ -20,15 +20,6 @@ topics:
 
 related:
   - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
-    excerpt: "MONTREAL, Jan. 19, 2023 (GLOBE NEWSWIRE) -- Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software ..."
-    publishedDateTime: 2023-01-19T14:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30482769/fluent-ai-announces-collaboration-to-offer-embedded-voice-recognition-for-cadence-tensilica-hifi-5"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
     excerpt: "Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software solutions, today announced its embedded voice recognition solution for True Wireless Stereo (TWS) and other hearable products running on the Cadence ® Tensilica ® HiFi 5 DSP in partnership with Airoha,"
     publishedDateTime: 2023-01-19T18:00:00Z
     webUrl: "https://it.tmcnet.com/news/2023/01/19/9746105.htm"

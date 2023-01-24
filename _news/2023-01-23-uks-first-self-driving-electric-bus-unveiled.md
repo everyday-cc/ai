@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Passengers travel on full-size self-driving bus in UK first"
-    excerpt: "Operator Stagecoach said 22 volunteers were taken on a journey by the autonomous vehicle across the Forth Road Bridge as part of testing."
-    publishedDateTime: 2023-01-20T11:24:00Z
-    webUrl: "https://www.aol.com/passengers-travel-full-size-self-122323908.html"
+  - title: "Oxford: Self-driving bus to trial at business park"
+    excerpt: "The new 16-seat fully accessible single-deck bus is autonomous and fully electric The UK's first zero-emission self-driving bus service has started a trial on public roads. The First Bus will serve Milton Park business,"
+    publishedDateTime: 2023-01-24T06:13:00Z
+    webUrl: "https://www.bbc.com/news/uk-england-oxfordshire-64381204?at_link_origin=BBCOxford&at_format=link&at_campaign_type=owned&at_link_type=web_link&at_ptr_name=twitter&at_bbc_team=editorial&at_link_id=629453EA-9BAE-11ED-8BF4-CBA04744363C"
+    ampWebUrl: "https://www.bbc.com/news/uk-england-oxfordshire-64381204.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-oxfordshire-64381204.amp"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
+      name: BBC
+      domain: bbc.com
+    quality: 74
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/G1mCJtmRKvboNWo.DsOS_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/6b9d89cfe4ae56120eebd0ecb2436263"
-        width: 1200
-        height: 675
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/42DF/production/_128391171_autonomousbus9.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "S+ETXnjMTm1fQOiPcT3muYcLFmbP4VpFyyM5kMcQm/jbsOZlIv2yyO0t+7lZNzPVpRXEAt5xSUWqlWm4TvdBhqjqKQlTQ/VxHVQl0B6sHFHQ5RXDXznmT9kZtv8YpD9A11T3J+YH3eTN4dlK0P5bN0uPeIHTBPa0J63jshPnJKZUIQ8ulQfIh4e8tZPGSoC2VGBSlgGZQPZuvy1oo/UyE2jYzsMFZ1gBFTurK4r2tkClj006hyBzce0HimyHT395KABmA+iKH6mWB0iMVRBgmF057VM/2co73CHTjV39K1+u0ncql21V1JyZ7ZkVDqdjzgVD0wHc5As7wv7T/oyCk8o8raXih/3uUsdX1a4JFBPAnazIlBS2EyBYoX6IUEaExV108ngd42zyxtZ7Ss1OsZEh5bY+qqQbTevaXlnQX/tI2/8Bm4n38LhSCuFXzburQV3T+RtFNZA9r1qWavtfh5lfvTGY5oFBo6esNQa2CRvpq3Jy7ePuKDEvLVK9fy9r7DEzaAkbUvU9sfJMDqmQzQ==;Vj9bj+1MFGDG5a7x2TKXhQ=="

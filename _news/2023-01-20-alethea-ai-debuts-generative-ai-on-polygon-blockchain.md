@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-pol
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 667
     isCached: true
-
-related:
-  - title: "How to prevent AI from ‘annihilating humanity’ using blockchain"
-    excerpt: "By decentralizing control of an artificial general intelligence, blockchain can help ensure it doesn’t “run amok and annihilate humanity.”"
-    publishedDateTime: 2023-01-19T14:30:00Z
-    webUrl: "https://cointelegraph.com/magazine/how-to-prevent-ai-from-annihilating-humanity-using-blockchain/"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2023/01/magazine-How-to-stop-AI-annihilating-humanity-using-blockchain-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "ye6Eeiyhr/iN1DidazOp/wZgyXUu+UcbvvbKQ7JYLUZnF7NzuDIaN2AlRiXWiSYSO8jViaJOZC6FI18FKWAKxr68a3+54m8CCAOQwweV6dsr/VdPrFmrOBJ81BLa9ev201HxMdoqazB8S135vLXfom01bvVsyV8q2r9wCIwsJsfIJDaYSsbcFtcchZgPe/71h9jAAQyIWJQPfGdaek/e32BNYzdtgE4vVczUTC4ZOnvd4X/blA+oOQYmF4W6in6KRoTkFYXQWSQZerKfcO3B4jzyiWR/adA4swmuq/OPTGacppLtmit5WDJr3LKhqoxx2k/kouijPbF/oxD/Zx9xJS/PfBD6xgBgNpKSqXrJLqyby1Xw0uHyF8J7MwdlwcruAzJCBKzTT9+Nm1QVtP0iv8noPMeRLVfqF89aABxY13CT7xwX6F2FmmMlaqC7u/KE/5TnIVq0S/a8thioPKky9PYeNbDo78qbUxtHw4nZsKDixg4QxGUsm04yInyug1X8VDeQvyknO/nKfZjtRNoBiw==;JD46cRDHGmyLs+F7VNzRNQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-19"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "Call Center AI Market is to grow at 13.5% During the Forecast Period 2022 to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2023-01-19T14:59:00Z
-    webUrl: "https://www.fmiblog.com/2023/01/19/call-center-ai-market-is-to-grow-at-13-5-during-the-forecast-period-2022-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 14
 
 secured: "9naUjsv3YSuo8lUVWd6HToDSd0qMSwVUkHaKg4xmR5X5z/Jyj/nLV0ENxlENK23XRcZoKHb8BKZIKaqQlCkBdf1EJTK5+MV4z1vtdjV3xl/A6kmZtenTZjEd6FbQ9AUjSBlWXlRiuHfvVlHTr8DpFBTiKwSiXVNdtwzO0/jgZNlCL6wdNkIde319SU4mni5HNJOMFHkNCogQjukRwvESKqhERPC+5pH86fMl188vT2ngzxkO5kja7ozFAwqNIgtMqvQVc7rlVDDQicF/GepkoqCeiiMO43A+mbMVk4uZNNzKMcnWUEE3DlOR0PCYunG/ZnCfo/i+LpsoT8Oe4qa+Ppc89pLvaJf9TxXgBV/KeDc=;Y+uvTlDj+BrlPBiLmsIwqg=="
 ---

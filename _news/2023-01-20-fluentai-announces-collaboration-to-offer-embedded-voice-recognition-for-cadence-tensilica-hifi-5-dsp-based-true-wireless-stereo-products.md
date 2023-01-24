@@ -28,15 +28,6 @@ related:
       name: Canadian Manufacturing
       domain: canadianmanufacturing.com
     quality: 14
-  - title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
-    excerpt: "MONTREAL, Jan. 19, 2023 (GLOBE NEWSWIRE) -- Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software ..."
-    publishedDateTime: 2023-01-19T14:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30482769/fluent-ai-announces-collaboration-to-offer-embedded-voice-recognition-for-cadence-tensilica-hifi-5"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "2Wm0TdpFNIwX9GrU1uyq5r8UAOIAb4n6MZDoFth4gXkTOdFdWtLuEYBVq6J4+wVslx6VsAFpSLvDTIMgTg4gWMpjk1gGP6ZLjPiqcW9jJHbCmgObcJeSlp+y0vsbdm9nbklAQfF0zvg5RdlbFmeWslaG4PrwPDviH9WMOhnu6he3imdHQNVTndKM7UCGXaW44WPQDOk/5SD8KO88g/Em4Vyrej9svYM48KSpY/0/UmeyoPKjhJu6IFgxMEAmXVNfarkXRIYKyfQKys84xE3G8nt2/s5QA46qNTHIMqCuvv4jLGrxS6ijAc1GoSGHvIE8WOcactnIhOGr6qkm9/SqvRYvBcvNV24J7wn+nXcxC0k=;Sl/HsJJpvbsZl2Av06ttKQ=="
 ---

@@ -3,22 +3,18 @@ category: news
 title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
 excerpt: "OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT. Microsoft invested $1bn (£808m) in the company, founded by Elon Musk and tech investor Sam Altman in 2019. The Windows and Xbox maker plans up to 10,"
 publishedDateTime: 2023-01-23T17:43:00Z
-originalUrl: "https://www.bbc.com/news/technology-64374283"
-webUrl: "https://www.bbc.com/news/technology-64374283"
-ampWebUrl: "https://www.bbc.com/news/technology-64374283.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-64374283.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-64374283"
+webUrl: "https://www.bbc.co.uk/news/technology-64374283"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-64374283.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-64374283.amp"
 type: article
-quality: 104
+quality: 74
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -168,6 +164,20 @@ related:
         width: 371
         height: 219
         isCached: true
+  - title: "Microsoft adding to its AI ambitions; Musk is back on the stand in trial over Tesla tweets"
+    excerpt: "Microsoft’s supercomputers are helping to power the startup’s energy-hungry AI systems, while the Redmond, Washington-based tech giant will be able to further integrate OpenAI technology into Microsoft products."
+    publishedDateTime: 2023-01-23T21:00:00Z
+    webUrl: "https://www.postandcourier.com/microsoft-adding-to-its-ai-ambitions-musk-is-back-on-the-stand-in-trial-over/article_8e22063a-9b34-11ed-805b-cf740dd5cedf.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 61
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/b2/8b2190be-0797-58e0-b464-0d886370f09e/63cf009fdc3bb.image.jpg?crop=1670%2C877%2C0%2C182&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft investing $10bn in Open AI’s ChatGPT"
     excerpt: "Landmark AI tool ChatGPT is to get $10bn in funding from Microsoft Microsoft investing $10bn in Open AI's ChatGPT Artificial intelligence, ChatGPT, Microsoft Technology"
     publishedDateTime: 2023-01-23T15:46:00Z
@@ -238,6 +248,6 @@ related:
       domain: bbc.co.uk
     quality: 27
 
-secured: "n00jNmh6A7Msc+deZiT+EU+YpeBmqoA2iRkVDUuN+XE5Nmw+vT2Tsx+g7Dtg8hfgKAbgNqkT+yJ7T3FSAY64jRr7DhJT1C5DvRB2K1VMYG17GwmcAHII4TvmB5tDzwBzs2YJVxWRwKnAgzUz7uU8C0c53FZtHgE1vpXkEq3f7E/86K66IPJ3+oFkIpxF9+uID4ZcPBYlyXcO83VWWOsf7EY0KMO0dC4aYrE2dEcvxaN4caZ+em13KhGW/wsV62BdaJ+EtXX/r8nryfzKDgKyDAAWz6Kf/XnwTZFyQhdLIcxHgH0dG7AWT3929FyaU/LbIjwh0vSV4kFQyVJjr9IRK3/JXImdKbU2+SKR0WRFtB7Gn+p0BHN7tRoGa7WtJ8kchK65B9CJG3ksSi+O/soHxb4rzOSxJ5+TrcEY4JP649P11LYc8j8giHivZDSk34hSzmdN7Sakl0AeqG7cvbYQTOGWgFFSt3V0hYa2VI7WB6g8390A18hoIlyfyWZa92PsKNw2CQS9ztFzoRtsHEA4AA==;LFmdt2Nr0GM15K9bOO7pAw=="
+secured: "qyO4nLz01IHV9t/O6dRqPtd2/YCHkLEIXrd4IxaQ4RkoGB4ckrgec3qNur5IMDKr+QzeCiMLWEbBGrxxaNiv/tD3XB7xV7agaa31mej5dTbl1cdQl/tyEMFECtpy1+2fSU4O6K4Qm3Zhf1zGakDZKiGs+dWeUwOJMAKH+lykk6irp4EfButXGuqQg1oUZm5KHqi7tiIn2tS9m9WJzV5jMcwoDXdd+kAkSkuefIlemJRiJuQW6AdcrgRCPyeA89DR39LNpPGq6I8IBi2lQsYk9vrjoNxaTrf/P+SsQoRSr65Yb0sddeyqHPIk+mqi22Acp8BP9KpfbPyvdQxO+2pgyg/Jy/zKhdyUFFn1C6q4UTE=;cyCByi18BE63/HKRJ6d3ew=="
 ---
 
