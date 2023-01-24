@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/i-outsourced-my-memory-remember-what
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/i-outsourced-my-memory-remember-what-you-read-using-ai-2023-1?amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4571593-irbo-current-price-great-
 webUrl: "https://seekingalpha.com/article/4571593-irbo-current-price-great-entry-point-gain-exposure-ai-robotics"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,52 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Ted Lieu and a robot make great points about the dangers of AI"
+    excerpt: "The California Democrat used an op-ed in The New York Times — and words written by ChatGPT — to warn about the coming age of artificial intelligence."
+    publishedDateTime: 2023-01-24T21:12:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 74
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230124-ROB-Ted-Lieu-jg-dc9430.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "The future of artificial intelligence explained by a robot"
+    excerpt: "While Paul Budde is an expert in the field of technology this week hes letting artificial intelligence speak for itself to discuss the current state"
+    publishedDateTime: 2023-01-24T22:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273426293/the-future-of-artificial-intelligence-explained-by-a-robot"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 73
+    images:
+      - url: "https://cdn.bignewsnetwork.com/iau1674597130.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "The Scary Part About AI Is That a Lot of Writers Like It"
+    excerpt: "Another underlying challenge to large-language, generative AI systems like GPT-3 is intellectual property. Everything ChatGPT does draws on work previously done by someone, and future generative models will constantly be sucking in new material to “train” them."
+    publishedDateTime: 2023-01-23T17:16:00Z
+    webUrl: "https://observer.com/2023/01/the-scary-part-about-ai-is-that-a-lot-of-writers-like-it/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 37
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/01/GettyImages-72367586.jpg?quality=80&#038;strip"
+        width: 2992
+        height: 1968
+        isCached: true
 
 secured: "8EnqNt95NHbm8TgItedvP5b7pJxWs8OHinhbfHAY6txrpDOOS3qIPissXaV4zSWiA9P82mVSSI7IWyfDqZBcJaVjVRkESE3+4QCeu4PlnUDQGvxx9awjIEpkvAYS+iV8T0LB8pjr0VQjjH6p51z9HH6J52j+yPhPrftBI4h1gc16wEnQvR8m4kHZJ06S+gyIAP/KLaHOlo775OH96zfuonuK9NyFq2yKdewEtOo3tRy4gHidtvZp78tWe9N4cqtB9EQ2F/Is3eb1vfrRYCysP89I1EfHAwJjckRlSbQKAmNtJvtZlb+tuEDlxPRa/3YuZFpzygRp5D/+HK125l3QoF1PE/tZMP+WqsWouqEDkdxJNuUzDPsPgDcDu22hkb1oDwmZfDJtLFNOrCph8Nf4H6Qojbr/Y0DvNZWgLWnBnTTgmqiRGgy4D6L8IHHl+IGpyy5KdXCz3I1i9lj3SMseoY0BgwcEk4HjmQBlW0upMoPGdbC9/JsXZ4RrTcbC0NSYEanYJfT1SSok1CqUDlHyiA==;nQTLcn3laABwPK9z1RZrng=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Medical Imaging Market is Set to Grow in forecast period 2029"
+    excerpt: "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029."
+    publishedDateTime: 2023-01-24T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cyber Security Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
     excerpt: "Artificial Intelligence (AI) in Cyber Security market has witnessed growth from USD million to USD million from 2017"
     publishedDateTime: 2023-01-24T01:06:00Z
@@ -71,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Legal Tech Artificial Intelligence Market Latest Research Report 2023-2029"
-    excerpt: "As per Market Growth Report, “The Men Eye-Cream market has witnessed growth from USD million to USD million from 2017"
-    publishedDateTime: 2023-01-20T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-latest-research-report-2023-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
     excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
     publishedDateTime: 2023-01-20T17:16:00Z
@@ -93,7 +93,12 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IDpW+Saf6LDjdYzTqtcHQwRXhRSc91dz0ajbMu8Jf06VU6Cy8CsHacHtYcV1MJmsGOeUdzcILEU6vGOJFOnwNoUiIB8okK16v+OPCXz4sPGNpD//vvHsrsnNcVYERn7CbFYdKe1QDvyWgrw32X5Orwv9XmtF8TSqKbdUcNoep9yTHjart8wyMKaL9fa13g8F4PaeU/NMMg+hNi3DiI2pNSxLO7UtM+YmXS79vutCK/vbBWvH63huboyL8BgyNzlFJmIHXMPYLK1VMsbNA7o6Lj8VjcpLeSBSkwgf0ToIMvpWtgKPh2AE0NrsZQMs2RwssNZR4PLdp2PPsHNDMPqT8MJvpmCk31WpPSMD2NdOYHA=;NUnb6mJwVDImABBezFqbhw=="
 ---

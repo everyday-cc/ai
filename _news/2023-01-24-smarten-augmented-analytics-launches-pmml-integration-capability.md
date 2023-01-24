@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Software Market 2023 [New Report]: to Eyewitness Huge Growth by Forecast 2025 | Involved Top Key Players and Emerging Trends"
-    excerpt: "A cost-effective Latest “ Speech Recognition Software Market ” report that deliver top-notch insights into the Industrialmarket. The report also applies both primary and secondary research methodologies to identify new opportunities for development for the Industrial Speech Recognition Software market during the estimated forecast period,"
-    publishedDateTime: 2023-01-20T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-2023-new-report-to-eyewitness-huge-growth-by-forecast-2025-involved-top-key-players-and-emerging-trends-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "IouH7uFY+qikKwt7DrJCroONTOdUkBHX7E60eVke61r0BBvoolBLqE2Qrzs1WOP0HX1at8quh0WLw/W1K/C1y11O3d+xCCKrWJaee8oSwICus7+6HeKi6lPhYu2PocN85Du1gXkbM+KakkjXNp4IQiCAD/GoukETDrTgNKL/vcPqZka+wyVGcHGCoXdDPToOK9ScotWH3NR0ijwghu2rdhRxHo3/ahdXVL3EBmyHoA6I7Z0pvRHeos8X1hiB+VQH6jmQeh+2V6g+wZ5sfrS7uiPy04uvY3PkKhueDze4bR20CRBIAQOQ/V1dmQWgAk/z/stej9yAjQdSVJyzKU3NFkONdFFclFNkpKgHX1nGiWNpybTo3Qdl5VvC8CilbjlY4kPuKKXZlbOdE1MuAb1iq2wnS5Ryphv/kvrErOR1mzbv4YIBNneS5u/GpUZXVLro5/f/S1Evrvjt3mb05jFA/uE0dMtNu+0pSvUqfS+HhnS9io8rjdUuAbLaQVDyQdFoM9boHUibY3LXNlUhuuqZCg==;EOgPnZ63FJixjffGIEL9Bw=="
 ---

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-05-deepmind-ai-is-able-to-make-algorithms-better-than-humans-have-imagined-creators-claim.md",
+      "title": "DeepMind AI is able to make algorithms better than humans have imagined, creators claim",
+      "excerpt": "DeepMind, the Google sister company that has brought a number of machine learning breakthroughs, says the latest discovery is one step on its mission to use artificial intelligence to advance science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/ai-algorithm-deepmind-google-new-alphatensor-b2196214.html",
+      "originalUrl": "https://www.independent.co.uk/tech/ai-algorithm-deepmind-google-new-alphatensor-b2196214.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/27/14/artificial%20intelligence%20quantum%20physics%20equation.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-deepmind-ai-invents-faster-algorithms-to-solve-tough-maths-puzzles.md",
       "title": "DeepMind AI invents faster algorithms to solve tough maths puzzles",
       "excerpt": "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess.",

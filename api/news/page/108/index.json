@@ -2,6 +2,256 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-10-17-machine-learning-as-a-service-market-worth-usd-320-billion-by-2030.md",
+      "title": "Machine Learning-as-a-Service Market worth USD 32.0 billion by 2030",
+      "excerpt": "Hence, fraud detection is expected to become one of the core spaces for machine learning applications. Global Machine Learning-as-a-Service Market Segmentation The machine learning-as-a-service market has been segmented into the application,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-worth-usd-320-billion-by-2030-2022-10-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-worth-usd-320-billion-by-2030-2022-10-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029.md",
+      "title": "Object Recognition Imaging Systems Market Size, Growth 2022-Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2029",
+      "excerpt": "Object Recognition Imaging Systems Market report contains type, application, regions, revenue, and offers just as the thorough computation of the business chain structure, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/07fab5a54c84b2812fe98ca367355ae6b17bc253-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-the-google-self-driving-car-all-you-need-to-know-about-waymo.md",
+      "title": "The Google Self-Driving Car: All you need to know about Waymo",
+      "excerpt": "But happy or not, self-driving cars are real ... and machine-learning-based artificial intelligence, both of which have proved to be a step-change in mapping environments. Computer scientists ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-complex-tradeoffs-in-inferencing-chips.md",
+      "title": "Complex Tradeoffs In Inferencing Chips",
+      "excerpt": "Designing AI/ML inferencing chips is emerging as a huge challenge due to the variety of applications and the highly specific power and performance needs for each of them. Put simply, one size does not fit all, and not all applications can afford a custom ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/complex-tradeoffs-in-inferencing-chips/",
+      "originalUrl": "https://semiengineering.com/complex-tradeoffs-in-inferencing-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution.md",
+      "title": "Remote-controlled robots coming to Lake Erie will help remove, study plastic pollution",
+      "excerpt": "The BeBot and the PixieDrone are electric, remote-controlled robots that will be deployed in Lake Erie for testing in the fall and will begin the plastic cleanup in the spring. Lake Erie will soon have two electric, remote-controlled robots on its shores ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
+      "originalUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/482cc9a/2147483647/strip/true/crop/2048x1152+0+0/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F40%2Fa718fcdd4aabbcae7f6d96a3685e%2Fmichael-regan-and-crowd.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
+      "cdnAmpWebUrl": "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
+      "publishedDateTime": "2022-10-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wksu",
+        "domain": "wksu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-local-racer-involved-in-crash-at-findlay-stadium-stateline-speedway-died-on-sunday.md",
+      "title": "Local racer involved in crash at Findlay Stadium Stateline Speedway died on Sunday",
+      "excerpt": "POST FALLS, ID. — A local racer was involved in an crash during a race at Findlay Stadium Stateline Speedway died on Sunday. Scott Eldredge got in the crash Saturday night. Findlay Stadium ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
+      "originalUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/10/l/m/scott-eldredge.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-16T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXLY 4 News",
+        "domain": "kxly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-artists-say-ai-image-generators-are-copying-their-style-to-make-thousands-of-new-images-and-its-completely-out-of-their-control.md",
       "title": "Artists say AI image generators are copying their style to make thousands of new images — and it's completely out of their control",
       "excerpt": "Rutkowski has become one of the most popular names in AI art, despite never having used the technology himself. People are creating thousands of artworks that look like his using programs called ...",
@@ -904,282 +1154,6 @@
         "AI",
         "AI in Security",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-phoenix-street-racer-sentenced-to-25-years-in-prison-after-pleading-guilty.md",
-      "title": "Phoenix street racer sentenced to 2.5 years in prison after pleading guilty",
-      "excerpt": "PHOENIX – A man known for organizing illicit street racing activities in Phoenix was sentenced to 2½ years in prison this week, authorities said Thursday. Jessie Ray Luna-Espinoza pleaded ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
-      "originalUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktar.com/wp-content/uploads/2022/10/Jessie-Luna-Espinoza.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
-      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
-      "publishedDateTime": "2022-10-14T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-the-ai-beat-big-tech-ai-wars-heat-up.md",
-      "title": "The AI Beat: Big Tech AI wars heat up",
-      "excerpt": "Welcome to the AI Beat – my new column digging into some of the week’s AI news and attempting to put it into context.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/",
-      "originalUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1254431708.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/amp/",
-      "publishedDateTime": "2022-10-14T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
-      "title": "Opinion: A driverless vehicle update",
-      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yazoo Herald",
-        "domain": "yazooherald.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-common-ai-language-models-show-bias-against-people-with-disabilities-study.md",
-      "title": "Common AI language models show bias against people with disabilities: study",
-      "excerpt": "New research underscores the implicit bias present in some artificial intelligence language models ... Add Changing America to your Facebook or Twitter feed to stay on top of the news.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/",
-      "originalUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_AI_10142022istock.jpg?w=1280",
-          "width": 1280,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/amp/",
-      "publishedDateTime": "2022-10-14T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
-      "title": "Testing approaches for Amazon SageMaker ML models",
-      "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg",
-          "width": 1549,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T10:51:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models.md",
-      "title": "Encode multi-lingual text properties in Amazon Neptune to train predictive models",
-      "excerpt": "Amazon Neptune ML is a machine learning (ML) capability of Amazon Neptune that helps you make accurate and fast predictions on your graph data. Under the hood, Neptune ML uses Graph Neural Networks (GNNs) to simultaneously take advantage of graph structure and node/edge properties to solve the task at",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/encode-multi-lingual-neptune-to-train-models.jpg",
-          "width": 1551,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T10:47:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

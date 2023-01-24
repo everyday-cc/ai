@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T12:05:00Z
 originalUrl: "https://www.intelligentcio.com/eu/2023/01/23/future-cities-taking-a-smart-approach-to-infrastructure/"
 webUrl: "https://www.intelligentcio.com/eu/2023/01/23/future-cities-taking-a-smart-approach-to-infrastructure/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: intelligentcio

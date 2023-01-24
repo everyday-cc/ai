@@ -2,6 +2,298 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-10-20-watch-out-models-the-ai-revolution-is-coming-for-your-jobs-too.md",
+      "title": "Watch out models, the AI revolution is coming for your jobs too",
+      "excerpt": "The AI revolution has already begun with artists and photographers put on notice with the latest image generators and now even models might need new jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/",
+      "originalUrl": "https://www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/Generated-Photos-offers-full-body-AI-created-models.jpg?p=1",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/?amp",
+      "publishedDateTime": "2022-10-19T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-delta-air-lines-wows-with-parallel-reality.md",
+      "title": "Delta Air Lines Wows With Parallel Reality",
+      "excerpt": "The parallel reality display allows up to 100 customers to each see their personalized flight information on that one digital screen — simultaneously, mind you. And yes, each customer who opts in can see only his or her own flight information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/",
+      "originalUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63503a73e55581d8544d80ff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/amp/",
+      "publishedDateTime": "2022-10-19T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-adobes-ai-prototype-pastes-objects-into-photos-while-adding-realistic-lighting-and-shadows.md",
+      "title": "Adobe’s AI prototype pastes objects into photos while adding realistic lighting and shadows",
+      "excerpt": "Demoed at Adobe Max 2022, Adobe's prototype AI system automates the object compositing process, pasting things into photos realistically.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
+      "originalUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
+      "publishedDateTime": "2022-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-waymo-driverless-rides-are-coming-to-los-angeles.md",
+      "title": "Waymo driverless rides are coming to Los Angeles",
+      "excerpt": "So Angelenos will soon notice Waymo's eye-catching, gadget-heavy driverless cars on LA roads as the company eyes offering its services in as many parts of the Los Angeles area as are feasible.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
+      "originalUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03CfCz72En1mxYmjI6USYVC/hero-image.fill.size_1200x675.v1666127617.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
+      "title": "A deep artificial neural network powered by enzymes",
+      "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-03150-4",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-03150-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03150-4/d41586-022-03150-4_23610918.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-xr-r1-brings-hexapod-robotics-to-tech-savvy-consumers.md",
+      "title": "XR R1 brings hexapod robotics to tech-savvy consumers",
+      "excerpt": "It often seems that soon after a new type of scientific or industrial robot is unveiled, a hobbyist model follows. First, there were the Bittle and Mini Pupper miniature quadrupeds – now, there's the XR R1 hexapod.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/xr-r1-hexapod-robot/",
+      "originalUrl": "https://newatlas.com/robotics/xr-r1-hexapod-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/d772ecd/2147483647/strip/true/crop/841x442+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F05%2Fae%2Fa13f44134fbab219dc17749f4e99%2F309672506-100477289525088-4358260222318445285-n-1.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-waymo-driverless-rides-are-coming-to-los-angeles.md",
       "title": "Waymo driverless rides are coming to Los Angeles",
       "excerpt": "So Angelenos will soon notice Waymo's eye-catching, gadget-heavy driverless cars on LA roads as the company eyes offering its services in as many parts of the Los Angeles area as are feasible.",
@@ -923,301 +1215,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-general-robotics-launches-naval-rcws.md",
-      "title": "General Robotics launches naval RCWS",
-      "excerpt": "Israel-based General Robotics has launched a naval version of its Remote Controlled Weapon Station (RCWS). Known as Shark, the RCWS is designed for small manned and unmanned naval vessels ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
-      "originalUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.janes.com/images/default-source/news-images/bsp_44013-idr-19424.jpg?sfvrsn=c6cabfbd_2",
-          "width": 600,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "publishedDateTime": "2022-10-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-7-ways-to-better-sell-artificial-intelligence-to-the-business.md",
-      "title": "7 Ways To Better Sell Artificial Intelligence To The Business",
-      "excerpt": "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "publishedDateTime": "2022-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr.md",
-      "title": "Artificial Intelligence in Defense Market Size Worth $13.15Bn, Globally, by 2028 at 10.8% CAGR",
-      "excerpt": "The latest research study on \"Artificial Intelligence in Defense Market Forecast to 2028 – COVID-19 Impact and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report.md",
-      "title": "Language Processing Market Strategies, Future Plans, Competitive Landscape, Emerging Trends & Growth Opportunities by Latest Research Report 2022-2028",
-      "excerpt": "Natural language processing is a subfield of computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human languages ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/cyberattacks-hackers-russia-AFP-1K-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-the-disruptive-economic-impact-of-artificial-intelligence.md",
-      "title": "The Disruptive Economic Impact Of Artificial Intelligence",
-      "excerpt": "Artificial Intelligence is promising to disrupt many businesses and industries. While there is huge potential, we are currently in the \"between times,\" just before the true disruption is going to occur.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634fa904bbec04b6b78e9c74/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-19T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast.md",
-      "title": "Latin America Artificial Intelligence Market 2022-27: Trends, Share, Size, Growth and Forecast",
-      "excerpt": "According to the latest report by IMARC Group, titled \"Latin America Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the latin america artificial intelligence market is expected to continue its moderate growth during the forecast period (2022-2027).",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

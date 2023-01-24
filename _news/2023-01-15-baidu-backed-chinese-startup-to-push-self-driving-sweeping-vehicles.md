@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "PbV1ngkpYFQK4l9TdHLle7UEif5qY1E6gRqV2EvscCuOemRWsB2VqXdnqS07IlawkTAnsCXAA6BM45GMYgp+gjnGsZDCdqiWZ4sRABi8t77H3gsNqf394voKVz+bfgvLqngL00S7q+VSdJ5Z8B76+XxX42UY5M7TqymaA6is/898qk/FLej1AY0WM1iR1aEnezpTqRpm5kw22wR4wdY+AEILeUUVckSL+IZ7jz8aFtHlkO+vksMZXXDmZY/odQFz1gkX1Mvlx/M38xQcWhOpUvQ3U21O8gzF7uCr1x5JKIY7ht7A0ZycIZx9i9MioqBmfs8Cs36Tt1wNzc056UbabwbT4jDV2UqkxgopU4ebdKo=;G2warzunoN+noVNTiGrh5w=="
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F8%252F4%252F43794852-1-eng-GB%252Fphoto_SXM2022121900006555.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+    width: 1260
+    height: 630
+    isCached: true
+
+secured: "n1dHiD9Tqt/r4nraec22SCwGUnxyUrn2Kb8ccyzJpyMmteF7slfKnpQlGAbEjUMdkgoXs0VlkPdr/eaFucCXN8kU9IO4jj+aE0f2z8QOLfHBPeQjMPy18IvrQRZhBOQxIpqtJ3EegzZXfUcoMFapPGQxwdO4il0OSS93bvXFC9X8CHkn9ciHpu+StuI3AzuiI1c36xyeIBadJn5WTE1YeZfxpjfNURJyWxReo62I7yYK0hYOkqyaREJfdIF/T2S1VGrT7+pKKnvbSYBC1pcPAo6+8CTDpbrf8oK55A701JFodcqhkOzyOkdFi6rRhh1XgKhqdin+DaMuQCtNby32OA1kCXOvx4/fUwPB4rZaEC4=;HP4kJVwnUwDZoIo1fIe1Xg=="
 ---
 

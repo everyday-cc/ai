@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 880
         isCached: true
-  - title: "How generative AI will supercharge productivity"
-    excerpt: "Imagine software programmers using an AI assistant to write code in their company’s style to four times their output. This is beginning to happen today. Enhanced productivity is now possible with generative tech,"
-    publishedDateTime: 2023-01-20T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90836481/how-generative-ai-will-supercharge-productivity"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
   - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
     excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
     publishedDateTime: 2023-01-24T14:00:00Z

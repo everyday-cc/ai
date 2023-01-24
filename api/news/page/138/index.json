@@ -2,6 +2,302 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2022-09-20-macron-no-international-recognition-for-russia-organised-ukraine-referendums.md",
+      "title": "Macron: No international recognition for Russia-organised Ukraine referendums",
+      "excerpt": "French President Emmanuel Macron said on Tuesday that referendums planned in Russian-occupied Ukrainian regions on joining Russia will not be recognised by the international community.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/europe/macron-no-international-recognition-russia-organised-ukraine-referendums-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/world/europe/macron-no-international-recognition-russia-organised-ukraine-referendums-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/8AQzzDAbY7surcAs5sXqf5H_ltY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4BG2GIZQMNJKPC5J5HGGQJP7CI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-how-the-brain-develops-a-new-way-to-shed-light-on-cognition.md",
+      "title": "How the brain develops: A new way to shed light on cognition",
+      "excerpt": "A new study introduces a new neurocomputational model of the human brain that could shed light on how the brain develops complex cognitive abilities and advance neural artificial intelligence research.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/how-the-brain-develops.jpg",
+          "width": 2045,
+          "height": 1489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-brain-cognition.amp",
+      "publishedDateTime": "2022-09-20T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report.md",
+      "title": "Artificial Intelligence (AI) Chips Market Size, Share, Growth and Forecast to 2027 with 36.6% CAGR | 141 Pages Report",
+      "excerpt": "Sep 20, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) Chips Market\" valuation is projected to reach 50180 Mn USD by 2026, and it is estimated to be valued at 7719.4 Mn USD In 2022 with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report-2022-09-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security.md",
+      "title": "The Algorithm: AI-generated art raises tricky questions about ethics, copyright, and security",
+      "excerpt": "Thanks to his distinctive style, Rutkowski is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion, which was launched late last month—far more popular than some of the world's most famous artists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
+      "originalUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/greg-rutkowski-dragon-cave-square.jpg?w=928",
+          "width": 928,
+          "height": 928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
+      "publishedDateTime": "2022-09-20T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-theories-of-ai-liability-its-still-about-the-human-element.md",
+      "title": "Theories of AI liability: It's still about the human element",
+      "excerpt": "William A. Tanenbaum, Kiyong Song and Linda A. Malek of Moses Singer explore theories of contractual and tort theories applicable to AI systems as well as their current limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/theories-ai-liability-its-still-about-human-element-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/theories-ai-liability-its-still-about-human-element-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/hT1G3G4YSIrcaWmtvbrwwG_-HNo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5P3BQ4T3WRGRLOYFJDYPA7JHD4.JPG",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-nvidia-wants-to-be-the-brains-of-your-self-driving-car.md",
+      "title": "Nvidia Wants to Be the Brains of Your Self-Driving Car",
+      "excerpt": "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/02e686580812771a6c1f41008fd6a55334121716/hub/2022/09/20/2b060158-f211-48cf-8c58-79f54886c3e0/zeekr-001-ev.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "publishedDateTime": "2022-09-20T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
       "title": "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing",
       "excerpt": "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing By Stephen Nellis (Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial ...",
@@ -844,294 +1140,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-machine-learning-developer-truefoundry-raises-23-mn-in-seed-funding.md",
-      "title": "Machine learning developer TrueFoundry raises $2.3 mn in seed funding",
-      "excerpt": "TrueFoundry, a machine learning (ML) developer, has raised $2.3 million in seed funding led by Sequoia India and Southeast Asia's Surge. Other investors in the round included Eniac Ventures and Naval Ravikant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/16/full/1615837220-0307.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
-      "publishedDateTime": "2022-09-19T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market 2022 Trends, Industry Size, Share, Emerging Trends, Top Leading Players, and Forecast 2028",
-      "excerpt": "Sep 20, 2022 (The Expresswire) -- Number of Tables and Figures :157 | The global \"Edge Artificial Intelligence (AI) Chip Market\"size is projected to reach Multimillion USD by 2028, In comparison ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-oracles-short-term-pain-could-be-your-long-term-gain.md",
-      "title": "Oracle’s Short-Term Pain Could Be Your Long-Term Gain",
-      "excerpt": "Database and cloud solutions provider Oracle (NASDAQ: ORCL) stock got smoked on its fiscal Q1 2023 earnings report. Shares were holding up relatively",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644",
-      "originalUrl": "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-aiml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner.md",
-      "title": "AI/ML Bootcamp for Pakistan and ASEAN Startups Is Right Round the Corner",
-      "excerpt": "In the course of businesses' digital transformation, organizations are swamped with vast amounts of data that are both incredibly valuable and",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
-      "originalUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2022/09/AIML-Bootcamp-for-Pakistan-and-ASEAN-Startups-Is-Right-Round-the-Corner.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/",
-      "publishedDateTime": "2022-09-19T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-how-tymely-combines-nlp-and-a-human-in-the-loop-approach-to-improve-chatbot-conversations.md",
-      "title": "How Tymely combines NLP and a human-in-the-loop approach to improve chatbot conversations",
-      "excerpt": "The report further showed more businesses (44%) plan to invest in asynchronous chat experiences to manage customer responses and are turning to artificial intelligence (AI) tools like chatbots to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/",
-      "originalUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/amp/",
-      "publishedDateTime": "2022-09-19T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-meta-alumnis-startup-truefoundry-raises-23-million-to-accelerate-ml-deployments.md",
-      "title": "Meta alumni’s startup TrueFoundry raises $2.3 million to accelerate ML deployments",
-      "excerpt": "TrueFoundry, founded by former Meta engineers, aims to help enterprises deploy machine learning models at the speed of big tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-950196458.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/",
-      "publishedDateTime": "2022-09-19T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

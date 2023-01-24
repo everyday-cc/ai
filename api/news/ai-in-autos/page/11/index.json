@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-10-inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass.md",
+      "title": "Inside Alphabet X’s new effort to combat climate change with seagrass",
+      "excerpt": "A previously unrevealed program would use cameras, computer vision, and machine learning to track the carbon stored in the biomass of the oceans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/",
+      "originalUrl": "https://www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/TIDAL-Seagrass-story_Pulling-the-camera-system_022_1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/amp/",
+      "publishedDateTime": "2022-11-10T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-automotive-artificial-intelligence-global-market-report-2022-growing-demand-for-autonomous-vehicles-driving-sector-researchandmarketscom.md",
       "title": "Automotive Artificial Intelligence Global Market Report 2022: Growing Demand for Autonomous Vehicles Driving Sector - ResearchAndMarkets.com",
       "excerpt": "As technology evolves, the automobile industry has taken advantage of new discoveries to provide new ways to make driving more autonomous. Using artificial intelligence to develop self-driving ...",
@@ -1264,40 +1307,6 @@
       "provider": {
         "name": "WBUR",
         "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-huawei-and-tianjin-port-jointly-built-a-driverless-zero-carbon-vehicle-cloud-synergy-horizontal-transportation-solution.md",
-      "title": "Huawei and Tianjin Port jointly built a driverless, zero-carbon “vehicle-cloud synergy” horizontal transportation solution",
-      "excerpt": "Huawei and Tianjin Port have jointly collaborated on a driverless, zero-carbon \"vehicle-cloud synergy\" horizontal transportation solution. Huawei and Tianjin Port have jointly collaborated on a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-“vehicle-cloud-synergy”",
-      "originalUrl": "https://www.albawaba.com/business/pr/huawei-and-tianjin-port-jointly-built-driverless-zero-carbon-“vehicle-cloud-synergy”",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
         "images": null,
         "publishers": null,
         "authors": null

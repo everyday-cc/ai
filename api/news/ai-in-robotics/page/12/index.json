@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-10-ai-and-robotics-is-the-future-of-healthcare-sector.md",
+      "title": "AI and Robotics is the future of healthcare sector",
+      "excerpt": "Recent advances in artificial intelligence and robotics hold great promise for transforming several fields of medicine. Artificial intelligence (AI) and robots have the potential to revolutionise healthcare by automating and improving a wide range",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Dr.-Vijay-Patil.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "publishedDateTime": "2022-10-10T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-autonomous-delivery-robots-the-precursor-to-self-driving-cars.md",
       "title": "Autonomous Delivery Robots: The Precursor To Self-Driving Cars",
       "excerpt": "Although widespread use of self-driving cars is still years away, autonomous delivery robots may be helping to pave the way toward quicker commercial implementation.",
@@ -1350,40 +1394,6 @@
       "provider": {
         "name": "Science Friday",
         "domain": "sciencefriday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-how-robots-could-change-the-future.md",
-      "title": "How Robots Could Change the Future",
-      "excerpt": "Mind you: This may mean that certain ... And don’t forget the many new and exciting applications for robotics: allowing a surgeon to use a remotely controlled arm to operate on a patient from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/future-robots/",
-      "originalUrl": "https://www.rd.com/article/future-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
         "images": null,
         "publishers": null,
         "authors": null

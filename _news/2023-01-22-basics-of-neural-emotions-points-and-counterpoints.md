@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-21T20:17:00Z
 originalUrl: "https://www.pakistantoday.com.pk/2023/01/22/basics-of-neural-emotions-points-and-counterpoints/"
 webUrl: "https://www.pakistantoday.com.pk/2023/01/22/basics-of-neural-emotions-points-and-counterpoints/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Pakistan Today

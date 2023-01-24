@@ -2,6 +2,135 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-25-stream-it-or-skip-it-jung_e-on-netflix-a-sci-fi-fable-about-ai-and-brain-cloning.md",
+      "title": "Stream It Or Skip It: ‘Jung_E’ on Netflix, a Sci-Fi Fable About AI and Brain-Cloning",
+      "excerpt": "As he offered a new angle on a familiar subgenre with Busan, he surely hopes to do the same for artificial intelligence science-fiction (AI-SCI-FI?!?) with his latest work, which is set in a sort-of-post-apocalyptic dystopia where robots fight wars for us,",
+      "sourceUrl": null,
+      "webUrl": "https://decider.com/2023/01/24/jung_e-on-netflix-stream-it-or-skip-it/",
+      "originalUrl": "https://decider.com/2023/01/24/jung_e-on-netflix-stream-it-or-skip-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://decider.com/wp-content/uploads/2023/01/JUNG_E-NETFLIX-REVIEW.jpg?quality=75&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://decider.com/2023/01/24/jung_e-on-netflix-stream-it-or-skip-it/amp/",
+      "cdnAmpWebUrl": "https://decider-com.cdn.ampproject.org/c/s/decider.com/2023/01/24/jung_e-on-netflix-stream-it-or-skip-it/amp/",
+      "publishedDateTime": "2023-01-24T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Decider",
+        "domain": "decider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-ted-lieu-and-a-robot-make-great-points-about-the-dangers-of-ai.md",
+      "title": "Ted Lieu and a robot make great points about the dangers of AI",
+      "excerpt": "The California Democrat used an op-ed in The New York Times — and words written by ChatGPT — to warn about the coming age of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230124-ROB-Ted-Lieu-jg-dc9430.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282",
+      "publishedDateTime": "2023-01-24T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.md",
+      "title": "Alphabet to close Edmonton office of AI subsidiary DeepMind",
+      "excerpt": "EDMONTON - Alphabet Inc. says it will close the Edmonton office owned by its artificial intelligence subsidiary DeepMind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
+      "originalUrl": "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/business/mars/2023/01/24/bendable-solar-panels-could-be-just-around-the-corner/solaires_co_founder_sahar_sam.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
+      "publishedDateTime": "2023-01-24T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-researchers-used-facial-recognition-technology-to-identify-a-long-lost-painting-by-raphael.md",
       "title": "Researchers Used Facial Recognition Technology to Identify a Long Lost Painting By Raphael",
       "excerpt": "A new study concludes that the previously unattributed de Brécy Tondo is nearly certainly a work by the Italian Old Master.",
@@ -259,7 +388,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -313,7 +442,7 @@
       "originalUrl": "https://www.businessinsider.com/i-outsourced-my-memory-remember-what-you-read-using-ai-2023-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -754,7 +883,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-invests-billions-chatgpt-maker-openai-rcna67011",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -934,7 +1063,7 @@
       "originalUrl": "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1070,155 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
-      "title": "Face Recognition Technology Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029-2023-01-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029-2023-01-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.md",
-      "title": "Microsoft exec: AI will reinvent Windows user experience, define ‘our time’",
-      "excerpt": "At least one Microsoft executive has made it clear artificial intelligence will continue to play a big role in future Windows features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html",
-      "originalUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html",
-      "publishedDateTime": "2023-01-22T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-flamboyant-italian-clothes-defeat-facial-recognition-without-masks.md",
-      "title": "Flamboyant Italian clothes defeat facial recognition without masks",
-      "excerpt": "They may be a little brutal on the eye, but Capable says its visually confusing and extremely pricey cotton knits are designed to throw off AI facial recognition systems, by fooling machine learning systems into thinking you're an animal and not a human.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/good-thinking/facial-recognition-clothes/",
-      "originalUrl": "https://newatlas.com/good-thinking/facial-recognition-clothes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/754120e/2147483647/strip/true/crop/965x507+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F74%2Fb4%2Fb339109845caad60b7e4ae243df3%2F309634727-461346366016754-2441330964910929706-n.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

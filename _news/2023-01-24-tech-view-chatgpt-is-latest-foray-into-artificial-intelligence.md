@@ -58,6 +58,22 @@ related:
         width: 5500
         height: 3667
         isCached: true
+  - title: "The best AI writers: ChatGPT and other interesting alternatives to try"
+    excerpt: "AI writing tools can help lighten your workload by writing emails and essays and even doing math. They use artificial intelligence to generate text or answer queries based on user input. ChatGPT is one popular example,"
+    publishedDateTime: 2023-01-24T22:03:00Z
+    webUrl: "https://www.zdnet.com/article/best-ai-writer/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/best-ai-writer/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-ai-writer/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ChatGPT AI Threat Pulls Google Co-Founders Back Into Action, Report Says"
     excerpt: "Sergey Brin and Larry Page are helping the company respond to an impressive technology that is a direct threat to Google's search business."
     publishedDateTime: 2023-01-20T17:01:00Z
@@ -201,16 +217,16 @@ related:
   - title: "Experts warn about possible misuse of new AI tool ChatGPT"
     excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
     publishedDateTime: 2023-01-24T16:44:00Z
-    webUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
-    ampWebUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    webUrl: "https://www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
+    ampWebUrl: "https://www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
     type: article
     provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
+      name: WDBJ
+      domain: wdbj7.com
     quality: 59
     images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/rHS0lidZxCLKaUAjmNq43_mZzUE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIYVSTOR6RFGHOTXVJOUDCHNUQ.jpg"
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/Ev4lCoCNe-CHIOaQq_req3maf1Q=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7R2GWWTORBEW5CZXHVADYIARZA.png"
         width: 800
         height: 450
         isCached: true
@@ -245,22 +261,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/3e5ebe21-b2cc-4692-9e99-9c37fff7be78/thumbnail/1200x630/def6aa3c6cd71698b2fd33d66abd4116/gettyimages-1246453874.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Worried ChatGPT will steal your job? You’ll have to out-think artificial intelligence"
-    excerpt: "Does ChatGPT really come across as human? If it can do Task X, could it also do Task Y? And, perhaps most importantly: How frightened should I be of this thing taking my job? Such questions can be amusing and addictive,"
-    publishedDateTime: 2023-01-20T03:59:00Z
-    webUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/"
-    ampWebUrl: "https://www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/worried-chatgpt-steal-your-job-youll-have-to-out-think-artificial-intelligence/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 52
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2023/01/city-A.M-1-1.jpg"
-        width: 1536
-        height: 1024
         isCached: true
   - title: "Inside the mind of ChatGPT: How artificial intelligence is changing the way we learn"
     excerpt: "The future is here, and it can do your homework. Artificial intelligence, like the popular ChatGPT app, is ripe for exploitation by students, experts say."
@@ -467,6 +467,24 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
+  - title: "S.F. startup Writer develops tool to help detect writing by ChatGPT"
+    excerpt: "While the prospect of AI writing has garnered worry, it can be actually quite easy to spot its telltale signs. Enter San Francisco startup Writer."
+    publishedDateTime: 2023-01-24T18:26:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/01/24/ai-startup-chatgpt-writer-may-habib.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
+  - title: "This state senator drafted legislation to regulate artificial intelligence technology — with some help from ChatGPT"
+    excerpt: "Could ChatGPT one day run for political office? Probably not. But the artificial intelligence chatbot is already helping elected officials get some work done on Beacon Hill, although it might not be too happy about the goal."
+    publishedDateTime: 2023-01-24T18:45:00Z
+    webUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 0
 
 secured: "GPXqAr3mK9/oUGwWL740eNDF3+XDQyzpdpoDfROJoyY7DzpnY7fGeS6w9eWFxVumNzS58UfDVEus3DOB3xfTGUCF+BEKZpanVzTpOURAngPB1YxL3jU4k9wuTzXVXNTCiayW+N1UG5/M7zvSvJKpYSrgrdbKn1NQrAoGu32iM87V9QfZ3Cfs7YRnE+dHSyQK5wth/l6LdYesscYr3vQXKDwM26/EHG+z0ut4ZWu6VPRFM0Z0Io3jZj4/sEgPu7sOzZJZhe60C7DbqqE19vdkucv69uRFJrH1nY+PWLLWJmvA+wn5y6Ari5D+5lMPre0lt67ODyYyqqCDN98VJW/1RhBUj6Sd+srSMLVw8jmExN++GKpDeux2xgHD/75BS2gwna5uSMDIMlweDKkd6UkwDe6fHIQ/yXQwH+ioKnhB4L/iKj1W1LrnT5IpKKsGf8citcw29kCH9D3a6aE50Yqbi6Bx58x1yau5yBQuZl3lG/UiQ5EYSr89hAzx/xBMjlBvGYxze1ZN+0H5LUDXwfVDDw==;WqID/oiFotaX36gnVZGO4Q=="
 ---

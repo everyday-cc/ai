@@ -8,8 +8,8 @@ webUrl: "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpa
 ampWebUrl: "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/"
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.gizchina.com/wp-content/uploads/images/2023/01/hands-of-robot-and-human-touching-on-big-data-network-connection-background-science-and-artificial-intelligence-technology-innovation-and-futuristic-1200x639.jpeg"

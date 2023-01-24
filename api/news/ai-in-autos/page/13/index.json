@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-28-cruise-opens-robotaxi-waitlist-in-austin-and-phoenix.md",
+      "title": "Cruise opens robotaxi waitlist in Austin and Phoenix",
+      "excerpt": "but a spokesperson told TechCrunch today that Cruise will launch a fully driverless paid service immediately. The company began supervised testing in Austin last month with more than a dozen ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/amp/",
+      "publishedDateTime": "2022-10-27T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028.md",
       "title": "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028.",
       "excerpt": "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand.",
@@ -1384,49 +1436,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas.md",
-      "title": "IKEA Is Using Driverless Trucks to Move Its Furniture in Texas",
-      "excerpt": "Kodiak has been moving furniture and other IKEA goods since August, but the companies carried out a testing period before making the agreement public. The route runs from an IKEA distribution center in Baytown, east of Houstin, to a store in Frisco, 290 ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/",
-      "originalUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/10/Kodiak-Ikea-Back-2.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/?amp=1",
-      "publishedDateTime": "2022-10-19T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

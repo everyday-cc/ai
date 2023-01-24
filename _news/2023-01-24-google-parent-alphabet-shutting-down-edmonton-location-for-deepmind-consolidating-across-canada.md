@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet to close Edmonton office of AI subsidiary DeepMind"
+    excerpt: "EDMONTON - Alphabet Inc. says it will close the Edmonton office owned by its artificial intelligence subsidiary DeepMind."
+    publishedDateTime: 2023-01-24T20:22:00Z
+    webUrl: "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 74
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/mars/2023/01/24/bendable-solar-panels-could-be-just-around-the-corner/solaires_co_founder_sahar_sam.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Alphabet's DeepMind lays off staff, closes Edmonton office"
     excerpt: "The Edmonton office was the only DeepMind site not housed within a Google-managed office. Impacted engineers and researchers will be offered the option to relocate to other offices but those in various organizational infrastructure roles will be laid off."
     publishedDateTime: 2023-01-24T15:22:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/01/google-vw0124.jpg"
         width: 1000
         height: 750
+        isCached: true
+  - title: "Edmonton office of Alphabet AI subsidiary DeepMind to close"
+    excerpt: "DeepMind's Edmonton office was the only international site directly managed by the subsidiary, making it more resource-intensive than the other DeepMind spaces."
+    publishedDateTime: 2023-01-24T20:22:00Z
+    webUrl: "https://www.cbc.ca/news/canada/edmonton/alphabet-closing-edmonton-deepmind-office-1.6724645"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 54
+    images:
+      - url: "https://i.cbc.ca/1.6441460.1674595107!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-medium-file.jpg"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "UhUry2gLgciCv10QyjJG96lZXkCLSb52Us/yZEeBAytpO4oDMfBI52d2bVoP8THI2aHM+M6ayjfi481TEtW9BQxL48ySkJUFR7yxBLvaOxZ8v5RhZiEX2t+Kd/GOi3mHlTfvA8u+lVMTx5xAkzg4FsI+EYnxGcQTJvNUSPuDWrsiMIi5zNWI1uP8cTZAjEVFpD1JP83+lyoHhCWrnmiEJN7DhFxBro8EULZwjNWxurRWT1y6lmO4W748EUnp7y0a8UamvFdEeAqHvOiNgUxjX3RbtHPmpGuoQlkpmmtHd6Q3Ur+t331LAOjNgqzxf3brkRTDVTjx1Xon24++xAd5wPnE/AxINDFDTKELjFg5619bBVcUDr8CXdjY7XPwBRUzMQcLrn5lU9F3sllcaTVykom/KTrMG3xAiTs39d8td7CnDYIKo5KY1m3Um4GoBKi0y24Ws6pbLBG25o26YxPUu/PRxm9bQ4MhrIIWwXcSpbjls0zkaljRhCHVDsTOhTiNLdqYPWCGd3p5YbzwqLLfhQ==;1A04bbA9svH4VPd6ld48vg=="

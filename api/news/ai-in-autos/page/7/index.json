@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-03-three-times-artificial-intelligence-turned-evil-including-ai-microwave-that-tried-to-kill-its-creator.md",
+      "title": "Three times artificial intelligence turned ‘evil’ – including AI microwave that tried to kill its creator",
+      "excerpt": "ARTIFICIAL intelligence has been making serious progress in recent years, although not all of its achievements are necessarily positive. Sometimes, AI can make human functions and our daily lives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/tech/news-tech/9840764/three-times-artificial-intelligence-turned-evil/",
+      "originalUrl": "https://www.thesun.ie/tech/news-tech/9840764/three-times-artificial-intelligence-turned-evil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2022/12/KS-killer-ai-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/tech/news-tech/9840764/three-times-artificial-intelligence-turned-evil/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/9840764/three-times-artificial-intelligence-turned-evil/amp/",
+      "publishedDateTime": "2022-12-02T15:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-this-new-artificial-intelligence-can-help-you-lie.md",
       "title": "This New Artificial Intelligence Can Help You Lie",
       "excerpt": "The artificial intelligence research company, OpenAI, recently released ChatGPT, an enormously capable AI system that can communicate with people using natural language. ChatGPT can answer ...",
@@ -1360,50 +1403,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
-      "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
-      "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "publishedDateTime": "2022-11-29T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

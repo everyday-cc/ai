@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T20:00:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2023/01/plan-federal-ai-research-and-development-resource-emphasizes-diversity-innovation/382144/"
 webUrl: "https://www.nextgov.com/emerging-tech/2023/01/plan-federal-ai-research-and-development-resource-emphasizes-diversity-innovation/382144/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Nextgov

@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-23-face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
+      "title": "Face Recognition Technology Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029-2023-01-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029-2023-01-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.md",
+      "title": "Microsoft exec: AI will reinvent Windows user experience, define ‘our time’",
+      "excerpt": "At least one Microsoft executive has made it clear artificial intelligence will continue to play a big role in future Windows features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html",
+      "originalUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html",
+      "publishedDateTime": "2023-01-22T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-flamboyant-italian-clothes-defeat-facial-recognition-without-masks.md",
+      "title": "Flamboyant Italian clothes defeat facial recognition without masks",
+      "excerpt": "They may be a little brutal on the eye, but Capable says its visually confusing and extremely pricey cotton knits are designed to throw off AI facial recognition systems, by fooling machine learning systems into thinking you're an animal and not a human.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/good-thinking/facial-recognition-clothes/",
+      "originalUrl": "https://newatlas.com/good-thinking/facial-recognition-clothes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/754120e/2147483647/strip/true/crop/965x507+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F74%2Fb4%2Fb339109845caad60b7e4ae243df3%2F309634727-461346366016754-2441330964910929706-n.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-ai-in-computer-vision-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
       "title": "AI in Computer Vision Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View",
       "excerpt": "AI in Computer Vision market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR",
@@ -545,7 +694,7 @@
       "originalUrl": "https://venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -638,7 +787,7 @@
       "originalUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 414,
+      "heat": 434,
       "tags": null,
       "images": [
         {
@@ -793,7 +942,7 @@
       "originalUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-ai21-labs-mad-street-den-aiola-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -948,7 +1097,7 @@
       "originalUrl": "https://venturebeat.com/games/scenario-plans-to-launch-its-ai-art-platform-for-20k-creators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1041,7 +1190,7 @@
       "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1081,143 +1230,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-how-much-will-ai-impact-life-in-2023.md",
-      "title": "How much will AI impact life in 2023?",
-      "excerpt": "Artificial intelligence (AI) has been a part of many aspects of modern life for years, but in the last few weeks the sudden arrival of ChatGPT, a publicly",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumeraffairs.com/news/how-much-will-ai-impact-life-in-2023-012023.html",
-      "originalUrl": "https://www.consumeraffairs.com/news/how-much-will-ai-impact-life-in-2023-012023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.consumeraffairs.com/files/news/Artificial_intelligence_concept_kishore_kumar_Getty_Images.jpg",
-          "width": 900,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html",
-      "cdnAmpWebUrl": "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html",
-      "publishedDateTime": "2023-01-20T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ConsumerAffairs",
-        "domain": "consumeraffairs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex.md",
-      "title": "Davos 2023: Adani is hooked on ChatGPT, says race for AI to get complex",
-      "excerpt": "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding t",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/16/full/1663333122-7833.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/davos-2023-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-123012000936_1.html",
-      "publishedDateTime": "2023-01-20T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-google-parent-to-lay-off-12000-workers-as-ai-focus-intensifies.md",
-      "title": "Google parent to lay off 12,000 workers as AI focus intensifies",
-      "excerpt": "Google's parent Alphabet Inc is cutting about 12,000 jobs, or 6% of its workforce, it said in a staff memo Friday, as the technology sector reels from layoffs and companies stake their futures on artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/",
-      "originalUrl": "https://www.reuters.com/business/google-parent-lay-off-12000-workers-memo-2023-01-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/R1bvBhTymqDIOCrXWG4Y9_Zs1Wg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RI5ZSREWSFIILIYXR22VOHOPME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-20T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

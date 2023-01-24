@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-10-02-parfait-is-here-to-revoluntionize-the-wig-world-with-artificial-intelligence.md",
+      "title": "Parfait Is Here To Revoluntionize The Wig World With Artificial Intelligence",
+      "excerpt": "Four Black women in tech have come together to create Parfait, a startup that customizes wigs using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
+      "originalUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://madamenoire.com/wp-content/uploads/sites/9/2022/09/16645934693721-rotated.jpg?w=311&strip=all&quality=80",
+          "width": 311,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://madamenoire.com/1323782/gorgeous-wigs/amp/",
+      "cdnAmpWebUrl": "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1323782/gorgeous-wigs/amp/",
+      "publishedDateTime": "2022-10-02T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MadameNoire",
+        "domain": "madamenoire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-02-ai-ethics-and-ai-laws-reveal-troubling-concerns-from-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk.md",
       "title": "AI Ethics And AI Laws Reveal Troubling Concerns From Tesla’s AI Day Showcase And The Ever Expanding AI Ambitions Of Elon Musk",
       "excerpt": "A close look at the Tesla AI Day and crucial insights pertaining to AI Ethics and AI & Law that looms ahead for Tesla and Elon Musk.",
@@ -1349,59 +1392,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-25-why-ai-will-never-rule-the-world.md",
-      "title": "Why AI will never rule the world",
-      "excerpt": "Despite fears that AI will one day take over the world, some experts contend that our existing AI systems are incapable of surpassing human intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/",
-      "originalUrl": "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/Superintelligence.jpeg?p=1",
-          "width": 1030,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/?amp",
-      "publishedDateTime": "2022-09-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

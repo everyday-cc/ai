@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-09-speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.md",
+      "title": "Speech pattern analysis can help diagnose, manage psychiatric disorders",
+      "excerpt": "Advances in natural language processing, speech recognition, and computer science have underscored the fact that using speech analysis as an objective, clinical measurement of mental illness is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230109/Speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230109/Speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/depression-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-natural-language-processing-market-size-worth-usd-16181-billion-by-2029-report-by-fortune-business-insights.md",
       "title": "Natural Language Processing Market size Worth USD 161.81 Billion by 2029 | Report by Fortune Business Insights",
       "excerpt": "Moreover, rising adoption of electronics elevated natural language processing adoption. Also rapid digitalization in companies enhanced the adoption of the software. These factors enhanced this ...",
@@ -1261,50 +1304,6 @@
         "Computer Vision",
         "Natural Language Processing",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet.md",
-      "title": "Speech And Voice Recognition Market Growing Massively by Nuance Communications, Microsoft Corporation, Alphabet",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Voice and speech recognition is considered a small part of biometric systems. Speech recognition is defined as a process of converting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Speech-And-Voice-Recognition-1024x635.jpeg",
-          "width": 1024,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

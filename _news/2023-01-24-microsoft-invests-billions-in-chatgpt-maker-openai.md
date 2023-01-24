@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna67011"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna67011"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -128,20 +128,6 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 42
-  - title: "ChatGPT won’t give OpenAI sustainable first-mover advantage"
-    excerpt: "But in our view, though the hype around ChatGPT is justified, we don’t believe OpenAI will lock up the market with its first-mover advantage. Rather, we believe that success in this market will be directly proportional to the quality and quantity of data that a technology company has at its disposal,"
-    publishedDateTime: 2023-01-20T03:40:00Z
-    webUrl: "https://siliconangle.com/2023/01/19/chatgpt-wont-give-openai-sustainable-first-mover-advantage/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/AdobeStock_553851695.jpeg"
-        width: 3072
-        height: 2048
-        isCached: true
   - title: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake"
     excerpt: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake - SiliconANGLE"
     publishedDateTime: 2023-01-23T19:00:00Z

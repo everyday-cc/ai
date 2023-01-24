@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/how-ai-and-data-enrichment-can-prot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "On critical thinking and artificial intelligence"
+    excerpt: "The public, specifically the academe, has recently been confronted by both shock and awe at its latest challenge: artificial intelligence (AI). The issue started when a faculty from the University of"
+    publishedDateTime: 2023-01-24T20:48:00Z
+    webUrl: "https://opinion.inquirer.net/160560/on-critical-thinking-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 17
 
 secured: "Pm/vGyMlga95YA2g+9YwHeV3w2TLgfjc8L/9Ic/SEw4ZPj2/XwT9eFPhnNj5zcqEeeuU7x7ldVej9MbnkSrUCNHd71tL7n9i57mQSjNeRFafg5ICU8144xTTCgpwLg0bpds51kUIXsjSshQEUlM0TaMBTCA8bzAeXAqUVtXHmhmQ5hqDdiPjFi5smBDw16eFVTBcr2TFNkHnG20vS5OYFFkiC9chGYJlJ19OW05aYkNMs4CVFY+KwMyfohWCyFqSThtL1/CaM0E4iui7Kv+vcpkOoJtO2RjGjeB0JOpcn0yquTw1AIM6ZLdHXlOhU9NwVj1+W9hL4pDoFmkWKNtoSBOxdBukqn5bQaGzBnYCW3blUadh7xd09IGh/j0DYNkOd99+dl3K2PkIdv9HVy4tZfhEJ6XkG147cQFhxOolX5Pp5n2Luc8rgKJ79wEXeXVksQg/d4eGGioVuZCAsZDpUoVyKjZ8NsydzYxbQXmYPAMPVYelpMi2BwFm5V3WBwmfW0Xy7tT+kZv8XW6IYjv81w==;OqgOcsTmM0rLj3bEpr4//g=="
 ---

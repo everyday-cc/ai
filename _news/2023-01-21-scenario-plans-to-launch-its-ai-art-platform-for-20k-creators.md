@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/scenario-plans-to-launch-its-ai-art-pl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/scenario-plans-to-launch-its-ai-art-platform-for-20k-creators/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "InsurTech start-up Peppercorn launches AI platform"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-01-20T05:55:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/insurtech-start-up-peppercorn-launches-ai-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/01/Peppercorn-AI-Group.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Bit Index AI Review - Scam Or Legit Crypto Trading Platform?"
     excerpt: "AM Eastern Standard Time bit index ai is a cryptocurrency trading platform that claims to provide access to top coins like Bitcoin, Ethereum, and more. Our Bit Index AI review will study this trading platform's available features,"
     publishedDateTime: 2023-01-21T00:49:00Z

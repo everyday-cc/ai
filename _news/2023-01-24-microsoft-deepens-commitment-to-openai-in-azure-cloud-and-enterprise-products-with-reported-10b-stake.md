@@ -136,20 +136,6 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 42
-  - title: "ChatGPT won’t give OpenAI sustainable first-mover advantage"
-    excerpt: "But in our view, though the hype around ChatGPT is justified, we don’t believe OpenAI will lock up the market with its first-mover advantage. Rather, we believe that success in this market will be directly proportional to the quality and quantity of data that a technology company has at its disposal,"
-    publishedDateTime: 2023-01-20T03:40:00Z
-    webUrl: "https://siliconangle.com/2023/01/19/chatgpt-wont-give-openai-sustainable-first-mover-advantage/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/AdobeStock_553851695.jpeg"
-        width: 3072
-        height: 2048
-        isCached: true
   - title: "Microsoft drops gauntlet on Google, announces 'multibillion-dollar' investment in ChatGPT creator"
     excerpt: "Software giant Microsoft just revealed plans to invest billions in OpenAI, the company behind the ChatGPT artificial intelligence tool that's drawn a tidal wave of interest, and conjecture, since its November release."
     publishedDateTime: 2023-01-23T21:50:00Z

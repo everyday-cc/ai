@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/edgarsten/2023/01/24/carmax-to-screen
 webUrl: "https://www.forbes.com/sites/edgarsten/2023/01/24/carmax-to-screen-auction-cars-with-uveye-ai-drive-through-inspection-tech/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Keys to successful innovation through artificial intelligence"
+    excerpt: "Organisations across industries and geographies have long realised the importance of artificial intelligence (AI) and machine learning (ML)—with 9 out of 10 businesses having invested in the technologies as of 2020."
+    publishedDateTime: 2023-01-23T14:27:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369917/keys-to-successful-innovation-through-artificial"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 49
 
 secured: "HmDcSdEUJJPTrdnd1gUwBiQVqFXUNOMirmHNy5F2mJWL5kY5qp8i3swTtNzZHyEa1QmYLy06tx0b38/ZLrB/t+Tl89gZNX/sW8fPoKlqa/+r6gId9o2fVN/eehWgubF2wW/Zhxpry41pC3RTt36CTygn9fgL6xpKn3Nsm1ChC1NDwm14LxY393omPDr5rQx/LBeJGeOzVtlt7ie6wjGrIKwuAnQ7Hle7lVTjwk+ciCYiSb7gQ5vVV3lSF26w4bPH3AvAbg1sDB+97f8p9L4XuBtGNjxPYSWB0NsCF/amlb6hwIeBqsVJAa93wPn9Gj1YemzvuYSZXKJHNA+ZOti3KPZoV1AnO2i89zvGpNF/+P0bz/KTA/Uqf1nN0+th5wkYqMnnwwD3jrp2RJ4zuRlw7CkJSjevA/cqVkpxSI6Q3+mGB5oqSOjWrwcsDmOCTu8zqZBQKdnPIPtmDGYp9nCUntTgZME3gJ0TQsfU++UUMUA7f2A7TWwBqaF+f/vECBzfZz8CeTI/bdDOvP00scfb5A==;IBA+nkuUlCxLLGcrjW3w7A=="
 ---

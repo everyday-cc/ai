@@ -9,7 +9,7 @@ ampWebUrl: "https://financialpost.com/technology/alphabet-deepmind-close-edmonto
 cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/f382ecb6-8edb-47a2-84cc-c21c78c10f8f/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet to close Edmonton office of AI subsidiary DeepMind"
+    excerpt: "EDMONTON - Alphabet Inc. says it will close the Edmonton office owned by its artificial intelligence subsidiary DeepMind."
+    publishedDateTime: 2023-01-24T20:22:00Z
+    webUrl: "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 74
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/mars/2023/01/24/bendable-solar-panels-could-be-just-around-the-corner/solaires_co_founder_sahar_sam.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Edmonton office of Alphabet AI subsidiary DeepMind to close"
+    excerpt: "DeepMind's Edmonton office was the only international site directly managed by the subsidiary, making it more resource-intensive than the other DeepMind spaces."
+    publishedDateTime: 2023-01-24T20:22:00Z
+    webUrl: "https://www.cbc.ca/news/canada/edmonton/alphabet-closing-edmonton-deepmind-office-1.6724645"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 54
+    images:
+      - url: "https://i.cbc.ca/1.6441460.1674595107!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-medium-file.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Google parent Alphabet shutting down Edmonton location for DeepMind, consolidating across Canada"
     excerpt: "The company, which was acquired by Google in 2014, has artificial intelligence research centres in Canada, France and the United States"
     publishedDateTime: 2023-01-24T12:10:00Z

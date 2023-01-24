@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market Size 2023, Share, Trends, Growth Analysis, CAGR, Challenges, Drivers, Restraints Forecast to 2029"
-    excerpt: "The Global Object Recognition Imaging Systems Market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2029. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-01-20T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-share-trends-growth-analysis-cagr-challenges-drivers-restraints-forecast-to-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Accelerator Market Size 2023 with End-user Industries, Segments Covered in the Report by 2028 | No. of 83 Pages"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 23, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) Accelerator Market” Research Report 2023: incorporates a thorough qualitative and quantitative ..."
     publishedDateTime: 2023-01-23T09:52:00Z
@@ -143,6 +129,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless Car Software Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
+    excerpt: "Global Driverless Car Software Market New Research Report 2023|The Driverless Car Software Market Size is Segmented"
+    publishedDateTime: 2023-01-24T05:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
   - title: "Artificial Intelligence in Computer Networks Market : Key Player, Competition Weakness and Strengths from 2023 to 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence"
     publishedDateTime: 2023-01-23T22:52:00Z

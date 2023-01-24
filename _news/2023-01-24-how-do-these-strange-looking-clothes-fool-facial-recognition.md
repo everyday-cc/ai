@@ -55,6 +55,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Chaotic Italian Fashion Line Baffles Facial Recognition Software"
+    excerpt: "An Italian clothing line, Cap_able, just released a collection of knitwear that tricks facial recognition software into registering you as an animal."
+    publishedDateTime: 2023-01-24T20:35:00Z
+    webUrl: "https://futurism.com/the-byte/italian-fashion-line-fascial-recognition"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "vMS0Pc0vVjwVcTpkzI1ppV2BjhP+A8tZ0mK6bbie6qV/olqPiwbG42Srcspdyx7q5TlJe/68lkJztlODbnGgd0/9DrB2EruqHxXmO0QWl2A9EFpF5hAaruIwMOiHxW3XeSf6qAI0apcAIv/99o49BRrqyK1Ob1IkCVRqFD2rn3MInjzcADZ5/5kcKoj+5YPC5rdOlbd4SOLzY8Y8P5QoZfH1sPKZ311BA1jqIBTZVbKmsz1Tq+sjI1bk7kFO0/VM7SCRByBJBhIJildx8pzDsXtwM1qqwbK8uU5uUe3cOieu5xJUrV40ArwVZ+A1C/PY9xobekl+KJY0JzrIWYHQxEOlbcBMNPzN1FlWfWFrFHxaqXRoQ5SPrXxEuMaVTaAC3h7T7xV03G88fpfHlUvvDQqUkm9+7HvNv+yh2HfY0g1m2ZvBbO0SUS6aCDPZN/6BQv091NPvYQMN3z1OhNJ1ZYyBku1tYTcYFtIEPCqB4u5vsJuHAXxmzsWkCvTWtsAaaOh7EOXAFUtjdFUoh/mtgw==;4ECbq8ZPKR90zA9kvtZmxw=="
 ---

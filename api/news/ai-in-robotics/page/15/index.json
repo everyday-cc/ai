@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-19-soft-robot-biodegrades-inside-body.md",
+      "title": "Soft Robot Biodegrades Inside Body",
+      "excerpt": "The device can be controlled using magnetic fields ... and may even lead to soft robots that can carry out surgical procedures within the body. One of the nicest features of the device is its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2022/09/soft-robot-biodegrades-inside-body.html",
+      "originalUrl": "https://www.medgadget.com/2022/09/soft-robot-biodegrades-inside-body.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-the-creepy-problem-killing-ai-projects.md",
       "title": "The Creepy Problem Killing AI Projects",
       "excerpt": "But once you get into animatronics or the Sophia robot where they are trying to look and act human, they start to fall into the uncanny valley where many people find them to be creepy and are uncomfortable around them.",
@@ -1322,49 +1356,6 @@
       "provider": {
         "name": "El Paso Times",
         "domain": "elpasotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-realtime-robotics-raises-144m-for-motion-planning-software.md",
-      "title": "Realtime Robotics raises $14.4M for motion planning software",
-      "excerpt": "Realtime Robotics' RapidPlan software creates and choreographs robot movements without the need for brand-specific robot programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/",
-      "originalUrl": "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/realtime-robotics-kawasaki-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

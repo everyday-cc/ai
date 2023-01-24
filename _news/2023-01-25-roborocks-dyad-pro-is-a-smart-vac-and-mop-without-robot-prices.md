@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T18:59:00Z
 originalUrl: "https://www.androidauthority.com/roborock-dyad-pro-review-3269211/"
 webUrl: "https://www.androidauthority.com/roborock-dyad-pro-review-3269211/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Android Authority

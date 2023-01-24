@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-14-getting-real-about-ai-in-finance-can-ai-improve-speed-and-closing-accuracy.md",
+      "title": "Getting real about AI in finance - can AI improve speed and closing accuracy?",
+      "excerpt": "Artificial intelligence (AI) continues to emerge as a compelling solution for finance teams that need to close the books faster and more efficiently. AI can not only check large volumes of data for accuracy, it also can learn from data and identify ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/getting-real-about-ai-finance-can-ai-improve-speed-and-closing-accuracy",
+      "originalUrl": "https://diginomica.com/getting-real-about-ai-finance-can-ai-improve-speed-and-closing-accuracy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_1068480284.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/getting-real-about-ai-finance-can-ai-improve-speed-and-closing-accuracy?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/getting-real-about-ai-finance-can-ai-improve-speed-and-closing-accuracy?amp",
+      "publishedDateTime": "2022-11-14T03:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-meta-layoffs-hit-an-entire-ml-research-team-focused-on-infrastructure.md",
       "title": "Meta layoffs hit an entire ML research team focused on infrastructure",
       "excerpt": "After today's Meta layoffs, a researcher said entire team focused on applying ML across the infrastructure stack was cut.",
@@ -1364,59 +1408,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-ai-generated-art-a-tool-for-enhancing-creativity.md",
-      "title": "AI-generated art: A tool for enhancing creativity",
-      "excerpt": "Artists should embrace #AI as the next advance in artistic progress, not summarily reject it as a creative tool.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
-      "originalUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
-      "publishedDateTime": "2022-10-07T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,266 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-11-30-uromems-begins-first-in-human-study-of-smart-implant-for-treating-stress-urinary-incontinence.md",
+      "title": "UroMems begins first-in-human study of smart implant for treating stress urinary incontinence",
+      "excerpt": "UroMems announced today that it completed the first-in-human implant of its UroActive system for treating stress urinary incontinence (SUI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/uromems-first-human-study-smart-implant-sui/",
+      "originalUrl": "https://www.massdevice.com/uromems-first-human-study-smart-implant-sui/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development.md",
+      "title": "Anyscale unveils new tool for building and scaling AI and ML development",
+      "excerpt": "Anyscale Workspaces, available today in early preview, provides users with a cloud-managed developer environment for building and scaling AI in a repeatable approach.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
+      "originalUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
+      "publishedDateTime": "2022-11-29T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm.md",
+      "title": "Artificial Neural Network (ANN) Market Is Booming Worldwide – NEURALA, Ward Systems Group, Clarifai, IBM",
+      "excerpt": "The Artificial Neural Network (ANN) Market research report provides all the information related to the industry. It gives the markets outlook by giving authentic data to its client which helps to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/11/Artificial-Neural-Network-ANN-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-sparking-ml-powered-innovation-in-the-telecommunications-industry.md",
+      "title": "Sparking ML-Powered Innovation In The Telecommunications Industry",
+      "excerpt": "Interview with machine learning Chapter Leads at Spark New Zealand on how the telecommunications giant leverages AI at scale and improves model performance amid real-world challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638632091b6e0dff39cd891c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/",
+      "publishedDateTime": "2022-11-29T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-udacitys-train-to-hire-program-now-available-in-aws-marketplace.md",
+      "title": "Udacity's Train-to-Hire Program Now Available in AWS Marketplace",
+      "excerpt": "Udacity and AWS also worked to offer the AWS Machine Learning Scholarship ... Programs include real world content for job-ready competencies in artificial intelligence, machine learning, data science, autonomous systems, cloud computing, among other ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/udacity-s-train-to-hire-program-now-available-in-aws-marketplace-1031942563",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/udacity-s-train-to-hire-program-now-available-in-aws-marketplace-1031942563",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
+      "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
+      "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
+      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
+      "publishedDateTime": "2022-11-29T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
       "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
       "excerpt": "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers.",
@@ -818,284 +1078,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai.md",
-      "title": "AcuFi Founder, Nicholas Kohlschreiber, Examines the Future of FinTech with AI",
-      "excerpt": "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors-hackers, viruses, and vulnerabilities waiting to be exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273135322/acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273135322/acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1670210247174.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022.md",
-      "title": "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022",
-      "excerpt": "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg",
-          "width": 2365,
-          "height": 1178,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T18:25:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028.md",
-      "title": "Artificial Intelligence (AI) in Cyber Security Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028",
-      "excerpt": "\"Artificial Intelligence (AI) in Cyber Security Market\" Insights 2022 - By Applications (BFSI, Government, IT and Telecom, Healthcare, Aerospace and Defense, Other), By Types (Mac",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-how-immune-cells-prevent-cognitive-decline.md",
-      "title": "How immune cells prevent cognitive decline",
-      "excerpt": "Could the underproduction of poorly understood immune cells contribute to Alzheimer's disease and other forms of cognitive decline? A Rutgers study in Nature Immunology suggests it may -- and that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221129134422.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221129134422.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-microsoft-announces-quarterly-dividend.md",
-      "title": "Microsoft announces quarterly dividend",
-      "excerpt": "REDMOND, Wash. — Nov. 29, 2022 — Microsoft Corp. on Tuesday announced that its board of directors declared a quarterly dividend of $0.68 per share. The dividend is payable March 9, 2023, to shareholders of record on Feb. 16, 2023. The ex-dividend date ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/2022/11/29/microsoft-announces-quarterly-dividend-19/",
-      "originalUrl": "https://news.microsoft.com/2022/11/29/microsoft-announces-quarterly-dividend-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
-      "title": "New Artificial Intelligence Could Help Humans Actually Talk To Animals",
-      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
-      "originalUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsy",
-        "domain": "newsy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

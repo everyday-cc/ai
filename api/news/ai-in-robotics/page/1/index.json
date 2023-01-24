@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-25-ted-lieu-and-a-robot-make-great-points-about-the-dangers-of-ai.md",
+      "title": "Ted Lieu and a robot make great points about the dangers of AI",
+      "excerpt": "The California Democrat used an op-ed in The New York Times — and words written by ChatGPT — to warn about the coming age of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230124-ROB-Ted-Lieu-jg-dc9430.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282",
+      "publishedDateTime": "2023-01-24T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-no-evidence-that-four-ai-robots-killed-29-scientists-in-japan-or-south-korea.md",
       "title": "No evidence that four AI robots killed 29 scientists in Japan or South Korea",
       "excerpt": "There is no evidence to support claims online that four artificial intelligence robots killed 29 scientists in a lab in Japan or South Korea. “Japanese A.I Robots Murders 29 Scientists,” reads one tweet ( here ).",
@@ -1321,49 +1364,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-donotpays-first-robot-lawyer-to-take-on-speeding-tickets-in-court-via-ai.md",
-      "title": "DoNotPay's 'first robot lawyer' to take on speeding tickets in court via AI",
-      "excerpt": "Recent advancements in artificial intelligence have allowed bots to translate text, create art and even write essays.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.html",
-      "originalUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-court.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.amp",
-      "publishedDateTime": "2023-01-10T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

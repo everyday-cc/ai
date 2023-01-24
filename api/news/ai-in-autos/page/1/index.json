@@ -105,7 +105,7 @@
       "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1036,6 +1036,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-13-artificial-intelligence-ai-infrastructure.md",
+      "title": "Artificial Intelligence (AI) Infrastructure...",
+      "excerpt": "BRISBANE, Australia, Jan. 13, 2023 /PRNewswire/ -- Data Bridge Market Research has recently published a report, titled, \"Artificial Intelligence (AI) Infrastructure Market\" The report offers an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30403404/artificial-intelligence-ai-infrastructure-market-is-prospering-at-usd-422-55-billion-with-expected",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30403404/artificial-intelligence-ai-infrastructure-market-is-prospering-at-usd-422-55-billion-with-expected",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30403404",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30403404",
+      "publishedDateTime": "2023-01-12T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-the-year-ahead-in-autonomous-responsibility.md",
       "title": "The Year Ahead in Autonomous Responsibility",
       "excerpt": "But what if the technology is doing more harm than good? As increasing numbers of companies rely on artificial intelligence to power their tech, we see more cases of dangerous AI dysfunction ...",
@@ -1310,51 +1353,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-advances-in-artificial-intelligence-raise-new-ethics-concerns.md",
-      "title": "Advances in artificial intelligence raise new ethics concerns",
-      "excerpt": "In recent months, new artificial intelligence tools have garnered attention, and concern, over their ability to produce original work. The creations range from college-level essays to computer code and works of art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "originalUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "publishedDateTime": "2023-01-10T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

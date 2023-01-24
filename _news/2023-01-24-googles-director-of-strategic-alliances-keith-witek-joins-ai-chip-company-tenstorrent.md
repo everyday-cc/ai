@@ -39,6 +39,15 @@ related:
         width: 853
         height: 449
         isCached: true
+  - title: "Tenstorrent swaps CEOs as Apple, AMD, Intel alum takes helm of AI chip unicorn"
+    excerpt: "Renowned chip designer Jim Keller has become CEO of Toronto-based artificial intelligence hardware company Tenstorrent."
+    publishedDateTime: 2023-01-24T19:45:00Z
+    webUrl: "https://betakit.com/tenstorrent-swaps-ceos-as-apple-amd-intel-alum-takes-helm-of-ai-chip-unicorn/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 30
 
 secured: "3aPaivyDyntsSik9qnhIuSSJkoeB+pGF5s6VPdgxZPFFQrlGdYJttv2vHbCG7XnthN2y/pFyaxX/ojy4wQJD9JFumP1UnzhbaIs9BU5INNJSvLM15/5gje5ef/24ZY9TdDWTXCB3jOYozDYbl/zOV52fYJNmGvhTp73mHl79Qap49nvRcs9+o6sFiGqMDceQXmoBme9a/38jr28pQWDhRK8Q6pntsA2ermdnFYnE/LRKH0pGxYjkTpfAjbijWdtqTlIOVRt5AO2X0WHucJPsaJdUxlIUY5C+ueQAA1/UGlGXOPR2ZIqENxHZS1Ia9L1jdpu6JJA4SFO0oDxxvTelGHxtfnZULXpZQIiys5dROZIXhgP215iQupdeL7F5CDeJc5WMC42/m7VQXOz5v/Cvvu/aUPCOb/6s50aAUN/sjJYqWJPoovecQhXOGcQbMbscLAvSf6pGaKShWzddBrCqR4fXWxazJObNmgoDXCSWZznF68hnJKujjcCK4hdeAP5PmppqHhuaXYL75+fyxK7Ktw==;fZfWAHosQAbsx4WXBCxQBQ=="
 ---

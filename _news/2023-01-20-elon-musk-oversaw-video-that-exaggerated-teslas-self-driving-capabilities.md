@@ -43,22 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Musk oversaw video exaggerating Tesla’s self-driving capabilities"
-    excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
-    publishedDateTime: 2023-01-20T03:50:00Z
-    webUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/"
-    ampWebUrl: "https://www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/01/19/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 59
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/01/OCR-Z-TESLA-MUSK.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Musk oversaw falsified video of Tesla 'self-driving' capabilities"
     excerpt: "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ..."
     publishedDateTime: 2023-01-22T18:48:00Z

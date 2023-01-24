@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T20:11:00Z
 originalUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/01/white-house-ai-task-force-seeks-2-6b-from-congress-to-create-shared-rd-hub-over-6-years/"
 webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/01/white-house-ai-task-force-seeks-2-6b-from-congress-to-create-shared-rd-hub-over-6-years/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: federalnewsnetwork.com

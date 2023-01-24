@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-20T17:16:00Z
 originalUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
 webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
 type: article
-quality: 31
+quality: 53
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AI in Computer Vision Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View"
@@ -50,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Medical Imaging Market is Set to Grow in forecast period 2029"
+    excerpt: "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029."
+    publishedDateTime: 2023-01-24T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cyber Security Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
     excerpt: "Artificial Intelligence (AI) in Cyber Security market has witnessed growth from USD million to USD million from 2017"
     publishedDateTime: 2023-01-24T01:06:00Z
@@ -59,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Legal Tech Artificial Intelligence Market Latest Research Report 2023-2029"
-    excerpt: "As per Market Growth Report, “The Men Eye-Cream market has witnessed growth from USD million to USD million from 2017"
-    publishedDateTime: 2023-01-20T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-latest-research-report-2023-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

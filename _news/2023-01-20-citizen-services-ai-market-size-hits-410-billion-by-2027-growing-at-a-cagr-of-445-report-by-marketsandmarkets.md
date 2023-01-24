@@ -93,15 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Based Medical Device Market is Taking Hike in Revenue Along With Top Key Players Profile and Forecast 2023 To 2029"
-    excerpt: "\"Artificial Intelligence Based Medical Device Market\" Research Report explains how the market growth has been unfolding over the recent past and what would be the future market projections during the anticipated period from 2023 to 2029."
-    publishedDateTime: 2023-01-20T03:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-is-taking-hike-in-revenue-along-with-top-key-players-profile-and-forecast-2023-to-2029-2023-01-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "7EZriGtJCPQ/2dtE+LeISE5jqQO2IR1Q07BRi3GtEjpuvMYeRYjZyhkwht5KqWoaAyUDbewXHL72nwWu7onhaKGOhCI5WS4/Ssz67ERtxdEc244OFqzC1CLpQw0A5gqJqxLR97fuEbgLulfqCQ8+iLa5Bt0FTr7HsCDpTpePPJQD8pLyteO7ACRWYj8xN2L80pCLy5tE3TPTMmgMdsD2Rhs/pzYQnojBdPid7wzizGNA+dkWmc+SkbLJZdPQ93tC6G2IwWG6gwB8zjRlBzUd1YMkBUEhlhNdGZiSIhHRAkFvOQRoIfhrNeK3pv/8VGOPqsTQGAz4YospgdXaZDVJM+ak50p8ZpkkMkNzSUJ/nlA=;UZJ8yYKUXsZq91me/DXqzA=="
 ---
