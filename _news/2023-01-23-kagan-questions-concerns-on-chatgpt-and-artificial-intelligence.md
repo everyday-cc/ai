@@ -311,17 +311,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 43
-  - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
-    excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""
-    publishedDateTime: 2023-01-19T15:02:00Z
-    webUrl: "https://www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "From Fake News to Fake Views: New Challenges Posed by ChatGPT-Like AI"
     excerpt: "An infinite supply of plausible opinions from fake, AI-powered pundits threatens to crowd out genuine discourse."
     publishedDateTime: 2023-01-20T12:16:00Z

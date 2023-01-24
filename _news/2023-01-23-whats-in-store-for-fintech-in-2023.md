@@ -55,20 +55,6 @@ related:
         width: 671
         height: 418
         isCached: true
-  - title: "Top 7 AI trends to watch for in 2023"
-    excerpt: "The leaps AI made last year are expected to boost digital transformation while disrupting various sectors such as cybersecurity and autotech."
-    publishedDateTime: 2023-01-19T15:24:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ai-predictions-tech-trends-2023"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_358292329.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "Z1AXbk5HinCm2oe2VLK+0tnqLxeHMBY+FeBWvae3VhtoI9e7c8P2y+WehJMafk2u/NzzXaTLT/p34rX28Dp9SNoFhiUTLb7G3IrTz859zeBzVKl9uUXfoZ4+BOTR6ZRq1+dzClRiW78Q0KbKFCmVr0pUvhO12+OSlyccQwFQJA+x2r1kLHhiCGYHdGWYvlUBf0bBN9On/BHp4OIFAYzuO/pqjel3OZf42CVGrYJq653n9cAmbETYD/qAAoQPOIhReTUEnuL1q4GwpOhCiLt8jwTqfSImF/p8k1YPFdpu23UjFSMyIMWVQGt4kvprcQvBivNYQlk7JJCX9mbBjfzJYToe4dlsSJu21rirW6ueC5Y=;vkRS0e2QsCW3kbboK5jytg=="
 ---

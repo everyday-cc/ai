@@ -1,26 +1,20 @@
 ---
 category: news
 title: "IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards"
-excerpt: "By making available vital building blocks, the IEEE GET Program for AI Ethics and Governance Standards will help contribute to creating AI systems which are more trustworthy and further the goal ..."
-publishedDateTime: 2023-01-17T11:17:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/ieee-introduces-new-program-for-free-access-to-ai-ethics-and-governance-standards/article_f7026ee1-e330-5603-8082-56ebc78e6bd7.html"
-webUrl: "https://www.bakersfield.com/ap/news/ieee-introduces-new-program-for-free-access-to-ai-ethics-and-governance-standards/article_f7026ee1-e330-5603-8082-56ebc78e6bd7.html"
+excerpt: "IEEE, the world's largest technical professional organization dedicated to advancing technology for humanity, and the IEEE Standards Association (IEEE SA) announce the availability of a program that provides free access to global socio-technical standards in AI Ethics and Governance that provide guidance and considerations towards trustworthy AI."
+publishedDateTime: 2023-01-17T12:39:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/01/17/9743790.htm"
+webUrl: "https://it.tmcnet.com/news/2023/01/17/9743790.htm"
 type: article
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "HfPsVcCp5XAWCVPa8J7ztAkvRizSgIibWhBiGTcJBsk+CjVxvRng27TeikErvrkEQb/S5KrujAntIPFNEBewlfA5SMpkX/UGDV7BC7ML31AQTtt3FhdfZ3H8tgte04cus7QS3MAdZE4FNXq9HkYrU3zpSinlIvS9zJmBWq2TyS6ZF/2pUr4OR5MFz/VVDesQokgxuMoYEGBPH8JxMj+5baJYWnZfThzZKf5wl1Eh75ePO6BZNbU744KcVClx6Sl64aby4o4PcRe1KYRs1Yh8p8zKLrvCj9VJJWA0jaOl3ZEImilox5NTx2fZ5RGuPmwTDRPM+0xY6TEkygdT4yGYgFBV6+3/It3EL8cSHKbX7Rs=;Yqm19j0O1Fkf+wsKjVbWMQ=="
+secured: "XKFUS1wcnfByPXKK9iIu972sBC0Xi+CaA8bMW4t8YVKLO3O87WLnHwVGc1WYKEKAVnQReitnhOIRiBcNSGZZpf/IfiL/8iCkx1yiBWOE6qC5QN+OVy1hFz44G//yQgfdaIU3dbEkDuuwJnKqLXSLfBXVRpjWglS9re4gNcKY5YjgsXSg6UdQ/8BH/TuAunSJDZ1ojq+kCxZUS0Crvr1h3j6z6IKDvjWoD63Ji48bkLPiP5xe+qTpLt08FaLObmMo6+svqKYfNv4Pj55RKEFVXlD2DAssvZUt8fO2C3OoDGrT66bSs6octTkNUnDpCzOKQBGLdbe+9R3bd7RCj1sD1sVXpAI1IyVPLg2cOJXj+K0=;MGtSTWnrHIDrq0KNCGprsw=="
 ---
 

@@ -58,6 +58,15 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Therapy by chatbot? The promise and challenges in using AI for mental health"
+    excerpt: "director of MIT's Affective Computing Research Group. \"We know we can elicit the feeling that the AI cares for you,\" she says. But, because all AI systems actually do is respond based on a series ..."
+    publishedDateTime: 2023-01-19T20:14:00Z
+    webUrl: "https://www.mprnews.org/story/2023/01/19/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 33
 
 secured: "qFacpkr+/1OwE8AQEnwwcRFy5LYQb05yRF8wktUfFeuPByy2rP+wIqIbL2EL6RYhHyQqaiienXHu9pt5hkGy2XfNa/gNwfCdR2Oaw2XGUr+iAiNJw3crqkX7TSKyctZum8XRB9PjOgh9+727iBeyxPluz5XbTLuyvrVBA7svH7A3BhoDfVPFq4tydH7UwcXtKjKe99nHKUjGHNA7vTrI5x3HXPcZ9E09p+uz5+8ZPeqkjOjNVjTlMPU4SVBofnx6WEedSmm/BItR6jk+wlnP5OHapda2/JE2YyY58CZngPI4X92AYys9qq4ug9m+FYixNw5tMAgNlmj/xbjDsnBnrciwiA4djOXWV0RyP7WAf9mkfnJDNFStF05vbtVSNozl/dVq/eC5qZcbcZgAXF7Xk8EUrW0MNxL5GLfRRs6BBMwirkL2Bjh1E89iAl6WaRbSkKZm0ATzGWY4e5mC/pMqtxjlQD/R0V9gdQeaK6754kAhZgSmO6tgkYKVX9ApOxZb8dTqoNA361y1lM4NuJ96Ww==;3eaY/7IIux3rAE63aTBJwQ=="
 ---

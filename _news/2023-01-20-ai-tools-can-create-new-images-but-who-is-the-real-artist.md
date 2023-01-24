@@ -59,20 +59,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI and the future of work: 5 experts on what ChatGPT, DALL-E and other tools mean for artists and knowledge workers"
-    excerpt: "Artificial intelligence researchers discuss how large language models are likely to affect these professionals, and how issues like misinformation to plagiarism could play out."
-    publishedDateTime: 2023-01-19T16:01:00Z
-    webUrl: "https://technical.ly/software-development/ai-future-work-chatgpt-dall-e/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 17
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/01/AI-robots-knowledge-work-file-20230106-23-9vo8lt.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AI and The Future of Work: 5 experts on what ChatGPT, DALL-E and other AI tools mean for artists and knowledge workers"
     excerpt: "By Lynne Parker, University of Tennessee; Casey Greene, University of Colorado Anschutz Medical Campus; Daniel Acuña, University of Colorado Boulder; Kentaro Toyama, University of Michigan, & Mark Finlayson,"
     publishedDateTime: 2023-01-22T16:02:00Z

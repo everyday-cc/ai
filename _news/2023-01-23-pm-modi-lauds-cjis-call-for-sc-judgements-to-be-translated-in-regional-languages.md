@@ -43,6 +43,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Budget 2023: Artificial Intelligence Can Propel Indian Economy To Greater Heights"
+    excerpt: "This will be a year of advanced technology and artificial intelligence, and the industry is expected to reach $7.8 billion by 2025"
+    publishedDateTime: 2023-01-24T08:23:00Z
+    webUrl: "https://news.abplive.com/business/budget/budget-2023-artificial-intelligence-can-propel-indian-economy-to-greater-heights-1577665"
+    ampWebUrl: "https://news.abplive.com/business/budget/budget-2023-artificial-intelligence-can-propel-indian-economy-to-greater-heights-1577665/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/budget/budget-2023-artificial-intelligence-can-propel-indian-economy-to-greater-heights-1577665/amp"
+    type: article
+    provider:
+      name: news.abplive
+      domain: abplive.com
+    quality: 52
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/01/24/63cf1198cb3972aef862cb16812c68b01674548372338314_original.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "Lyhlq7eNNWEyKNleDIPgmoMKXVNToKUEP7wq1TEG413DGmJN0wEf3uf7nqc35x+jYw2iIvao8WKCR1hwVrBKrtin0XRu9heWHd6ffFK35pb95cROKlg1q82hPy9QYbA7/MBZtHght1byzhyMvoEolTqPopbtT0suWD2QEkUnxK+SBhsT+EltdVzMwic6fPMeERWfmmhO2KQY0nWQTyykZdrVzgXBAbgtQOTq9AYveK1zrqzgyzgRlh4k+Aea4H+KF1eeGPs3lk3LKa2Hmi7QDrFk3pCF6t8od8J1wCtwbpk4JTiC6LQSb8NV6unsVqvQzL6OHr12qxyOMVi/SEHrj1o+//LSclhvnkneuVtoCoOKJpjcGIjSTGdVUGT1Rc+S0GTFGFTNkvGZ0+lPKEbwcSNi9FB7Glv5KcLwWm8IRyfpmcygppWcw2OarN3cigHKFBdxIsKqkgo53b7C91XqOfeyF/AMAUJR2LzqNLEaDzWivmx7/h8X+hBGdeoxYmrGOnbsS9WnNwlfwpetJvPbvA==;4nOwSe76aAfm5OZVrA0MEQ=="
 ---

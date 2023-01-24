@@ -323,17 +323,6 @@ related:
         width: 1068
         height: 580
         isCached: true
-  - title: "An AI rival to ChatGPT passed a university level law and economics exam, and did better than many humans, professor says"
-    excerpt: "A professor at George Mason University said the AI's answer to a law and economics exam was \"better than many human responses.\""
-    publishedDateTime: 2023-01-19T15:02:00Z
-    webUrl: "https://www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-financed-by-sam-bankman-fried-passed-law-economics-exam-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Questions and warnings about AI chatbots in wake of ChatGPT launch"
     excerpt: "MUNICH: In a matter of seconds after you type in a prompt, ChatGPT shoots back a well-formulated text. You can scarcely tell the difference from those written by humans."
     publishedDateTime: 2023-01-21T04:00:00Z

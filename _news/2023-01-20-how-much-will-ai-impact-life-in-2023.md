@@ -9,7 +9,7 @@ ampWebUrl: "https://www.consumeraffairs.com/amp/news/how-much-will-ai-impact-lif
 cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/01/uuuuuuuuuuuuuuuuuuuuuuu.png"
         width: 671
         height: 418
-        isCached: true
-  - title: "Top 7 AI trends to watch for in 2023"
-    excerpt: "The leaps AI made last year are expected to boost digital transformation while disrupting various sectors such as cybersecurity and autotech."
-    publishedDateTime: 2023-01-19T15:24:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ai-predictions-tech-trends-2023"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_358292329.jpeg"
-        width: 800
-        height: 600
         isCached: true
   - title: "What’s in store for FinTech in 2023?"
     excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.a
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Therapy by chatbot? The promise and challenges in using AI for mental health"
+    excerpt: "director of MIT's Affective Computing Research Group. \"We know we can elicit the feeling that the AI cares for you,\" she says. But, because all AI systems actually do is respond based on a series ..."
+    publishedDateTime: 2023-01-19T20:14:00Z
+    webUrl: "https://www.mprnews.org/story/2023/01/19/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 33
   - title: "Chatbots are creating thorny ethical questions about transparency in mental health care"
     excerpt: "The mental health field is increasingly looking to chatbots to relieve escalating pressure on a limited pool of licensed therapists."
     publishedDateTime: 2023-01-23T16:19:00Z

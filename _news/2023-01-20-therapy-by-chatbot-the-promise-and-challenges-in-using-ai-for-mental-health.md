@@ -20,49 +20,51 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "IBM And The Grand Challenges Of AI And Quantum Computing"
-    excerpt: "One company that has been pioneering advanced AI for longer than most is IBM. One of IBM’s most senior executives, Alessandro Curioni, joined the London Futurists Podcast to discuss IBM’s current projects in AI,"
-    publishedDateTime: 2023-01-19T16:54:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/"
+  - title: "The Chatbots Can’t Outsmart You. Yet."
+    excerpt: "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it. We need to stay calm — and develop a new test."
+    publishedDateTime: 2023-01-20T10:01:00Z
+    webUrl: "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html"
+    ampWebUrl: "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: The New York Times
+      domain: nytimes.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c91d9baefd5d5958922d86/0x0.jpg?format=jpg&width=1200"
-        width: 1023
-        height: 683
+      - url: "https://static01.nyt.com/images/2023/01/22/business/22Turing-test-illo/22Turing-test-illo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "IBM and MBZUAI Advance AI for Climate and Culture"
-    excerpt: "AI Center of Excellence will focus on finding carbon neutral solutions for existing energy resources and improving access to new AI technologies for Arabic speakers. ABU DHABI, UA"
-    publishedDateTime: 2023-01-19T15:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746327.htm"
+  - title: "Did Johnny write this or a robot? AI chatbots rock Michigan schools"
+    excerpt: "Artificial intelligence writing generators like ChatGPT can compose school assignments at the click of a button. Is it the end of writing as we know it? An invitation to cheating? Or a handy tool like a calculator?"
+    publishedDateTime: 2023-01-20T23:48:00Z
+    webUrl: "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools"
+    ampWebUrl: "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp"
+    cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: Bridge Magazine
+      domain: bridgemi.com
+    quality: 74
     images:
-      - url: "https://mma.prnewswire.com/media/1986757/IBM_MBZUAI_AI_Center.jpg"
-        width: 400
-        height: 256
+      - url: "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-01/teacher%20with%20student.jpg?itok=0Njw6XVo"
+        width: 480
+        height: 320
         isCached: true
-  - title: "Generative AI and the Ensuing Computer Human Whisperer"
-    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
-    publishedDateTime: 2023-01-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
+  - title: "Chatbots are creating thorny ethical questions about transparency in mental health care"
+    excerpt: "The mental health field is increasingly looking to chatbots to relieve escalating pressure on a limited pool of licensed therapists."
+    publishedDateTime: 2023-01-23T16:19:00Z
+    webUrl: "https://www.statnews.com/2023/01/23/mental-health-chatbot-chatgpt/"
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
+      name: STAT
+      domain: statnews.com
+    quality: 33
     images:
-      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
-        width: 1000
-        height: 520
+      - url: "https://www.statnews.com/wp-content/uploads/2023/01/AdobeStock_136361225-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "hvjSp3MVKGhwYSDBlZxvZky30KyPnmA/oT2/cvEKt4PCMtpjRzmm/nvqb5h4y9hKceekdhuGI4b1jPHATtYj0Lr0CZyJkr0n1/OxW8DqGbvpdKrDwW78ptwS8o3q/l2QbpqvyhQwVpr6jtKPqJEiVVCcCsh1rhTvR2bUK0AaekB4W6D4kybsc/U/yPmMebC/x1Q+Xjtt4h7acrCxe7MhdgW/2pemYbu7SNfIIrdaj4cdQiBnoZf4A2mMGRQmW/jnkRyAs4tAoKZUG1ELr9WiYP/TsZM3D9cKCd+LPr0FpieKu400cXUhi3yoaDDX4HheQ1GLSBrm5bAMbjApSD/x4WN7tysfYLpun//kpuahYjM=;7l+FpK1KpDnClLlL14/wwQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachu
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022/amp/1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: NDTV
@@ -42,6 +42,22 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ocqzhpkcil0tojai_1674390438.jpeg"
         width: 768
         height: 439
+        isCached: true
+  - title: "Budget 2023: Artificial Intelligence Can Propel Indian Economy To Greater Heights"
+    excerpt: "This will be a year of advanced technology and artificial intelligence, and the industry is expected to reach $7.8 billion by 2025"
+    publishedDateTime: 2023-01-24T08:23:00Z
+    webUrl: "https://news.abplive.com/business/budget/budget-2023-artificial-intelligence-can-propel-indian-economy-to-greater-heights-1577665"
+    ampWebUrl: "https://news.abplive.com/business/budget/budget-2023-artificial-intelligence-can-propel-indian-economy-to-greater-heights-1577665/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/budget/budget-2023-artificial-intelligence-can-propel-indian-economy-to-greater-heights-1577665/amp"
+    type: article
+    provider:
+      name: news.abplive
+      domain: abplive.com
+    quality: 52
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/01/24/63cf1198cb3972aef862cb16812c68b01674548372338314_original.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "D9Yxm2ifihz6jaL+nl4XAKFFRM4a+0C3VjsANzoaduvHL1cZywq3A8ltcqDwhlLfYEWNa+rP6gXJxkz8kgJuodqi5n9Wq0nzfwOukARALTUGnH66EKuilSDu1N6mUplz+OVjHes3uDL5YLC6PKBBrmwO/JiemFI7P1Gu+6Nt/ZY1aBw6nFQ/iiLFilM6DRSI68YlKZ78AuOwiWS1dGnn7HcjNzM+ZgegtoUhDMd8KavNnVX6MpYfDyV/T6atw8GZQn5faGpELBzyio5VHp5KkoHXCa6pYitiAsX4i5JW4dHJc+68oKfwDdvPDpKod5Gut4HTfvAFpwuF+ZcKQDc40JsuxD7xfVccx7YUNNOTvjKQ1NQWEVgwxBAB0zGtS1d73QKiWEX2PI7iMq8RAUFI+0SEcpcb0mInBP6AtvKkHeOEio9hHOlGVAbnWNRCQt6Pgn7e1p/XbjwwTutk7jTT3vsbvSBMM3B3yHJllwqhdf4Im9D85+HncJ2Ro3XZYfBSIgKLq8+By1hiT0ebchlatw==;KqLsZFo+/U0X8dguYiFL/Q=="

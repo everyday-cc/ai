@@ -42,22 +42,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "1923 cartoon predicts 2023’s AI art generators"
-    excerpt: "The vintage cartoon carries the caption It depicts a cartoonist standing by his drawing table and making plans for social events while an \"idea dynamo\" generates ideas and a \"cartoon dynamo\" renders the artwork."
-    publishedDateTime: 2023-01-19T16:52:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/a-cartoonist-predicted-2023s-ai-drawing-machines-in-1923/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/cartoon_dynamo_hero_main-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Achieving reliable generative AI"
     excerpt: "Generative AI systems like DALL·E 2 and ChatGPT are fun. Here are some ways we'll be able to make them reliable and truly useful."
     publishedDateTime: 2023-01-20T02:07:00Z
@@ -131,20 +115,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Artists file suit over artificial intelligence-generated works"
-    excerpt: "Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889. Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app."
-    publishedDateTime: 2023-01-19T16:06:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/jan/19/artists-file-suit-over-artificial-intelligence-generated-works/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 37
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/01/19/AP23011863010313_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
         isCached: true
   - title: "WATCH: How do AI art generators work and should artists fear them?"
     excerpt: "Visual artists, designers, illustrators and many other creatives have watched the arrival of AI text-to-image generators with a mix of awe and apprehension. This new technology has sparked debate around the role of AI in visual art and issues such as style appropriation."

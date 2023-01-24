@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Artificial Intelligence (AI) Market Size 2023 With Factor Outlook, Deployment Viewpoint, Society Size Outlook"
+    excerpt: "In 2023] The Global Computer Vision in Artificial Intelligence (AI) Market Size (128 Report Pages) is estimated to"
+    publishedDateTime: 2023-01-24T01:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cyber Security Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
     excerpt: "Artificial Intelligence (AI) in Cyber Security market has witnessed growth from USD million to USD million from 2017"
     publishedDateTime: 2023-01-24T01:06:00Z

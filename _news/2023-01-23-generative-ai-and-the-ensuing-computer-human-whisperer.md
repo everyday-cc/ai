@@ -25,45 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "IBM And The Grand Challenges Of AI And Quantum Computing"
-    excerpt: "One company that has been pioneering advanced AI for longer than most is IBM. One of IBM’s most senior executives, Alessandro Curioni, joined the London Futurists Podcast to discuss IBM’s current projects in AI,"
-    publishedDateTime: 2023-01-19T16:54:00Z
-    webUrl: "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/"
-    ampWebUrl: "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/"
+  - title: "Ensuring Better Patient Experience And Outcomes Through Artificial Intelligence"
+    excerpt: "This makes the patient experience especially hard in healthcare. Sixty-eight percent of patients said their healthcare providers need to improve how they interact with patients. W"
+    publishedDateTime: 2023-01-20T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c91d9baefd5d5958922d86/0x0.jpg?format=jpg&width=1200"
-        width: 1023
-        height: 683
+      - url: "https://imageio.forbes.com/specials-images/imageserve/638755d97adcceda18c8a8ba/0x0.jpg?format=jpg&crop=3796,2136,x0,y266,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "IBM and MBZUAI Advance AI for Climate and Culture"
-    excerpt: "AI Center of Excellence will focus on finding carbon neutral solutions for existing energy resources and improving access to new AI technologies for Arabic speakers. ABU DHABI, UA"
-    publishedDateTime: 2023-01-19T15:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/19/9746327.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1986757/IBM_MBZUAI_AI_Center.jpg"
-        width: 400
-        height: 256
-        isCached: true
-  - title: "Therapy by chatbot? The promise and challenges in using AI for mental health"
-    excerpt: "director of MIT's Affective Computing Research Group. \"We know we can elicit the feeling that the AI cares for you,\" she says. But, because all AI systems actually do is respond based on a series ..."
-    publishedDateTime: 2023-01-19T20:14:00Z
-    webUrl: "https://www.mprnews.org/story/2023/01/19/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health"
-    type: article
-    provider:
-      name: MPR News
-      domain: mprnews.org
-    quality: 33
 
 secured: "kTEy/2DvTISZrrBZ5yM+RAF9G82pXlEMaT/iK5HFs0+/a5qhezWV1qu5+fiR5eH37DfB3wfjoMgOuMbjR7IjyyCoiZduxAFUF7F5vlN2dbbVH9TG1/Y5FJ6Lsk8NSk79ElmOzGdGd0zdIpRfGmMkdsMWb+eCcN67eaeOlrJ8vGh8QUMl04pm58RsEhrbeLCB5rO340DpSH1jP5gpOt1G3+SrNTGPn69VjgRFNebBXSXIDEiaJmP8vtW/05r3wzs12+JquC7GsnD7VMRaKDUq39p6tvyIaMgn8PZ0JxVRIarFMlkCnQQ+L12Ifj8EIqjp2+1VbK6Lnas2n+yfM7syzNihiTusuC0lS/wo8JLzP6TN9onMDbZlMuG5QiA0F5LMOZ471rSLqHow/hLdd94/aYGvNRIroJqS7NISMXN9nOp4rJniFawLicMkDhy/aeV+v7JVDnvmeizDHDs2+8AT9KNFQKr0Xt8glkqczuVNwWRv4fOwebCuefb4T4r+eZQZdES5m16h54Erj4PHHBm4mQ==;Ol0ND5bm3w062zFl/i/a3g=="
 ---
