@@ -55,22 +55,6 @@ related:
         width: 1000
         height: 340
         isCached: true
-  - title: "Gautam Adani Is Hooked On ChatGPT, Says Race For AI To Get Complex As Chip War"
-    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
-    publishedDateTime: 2023-01-20T23:49:00Z
-    webUrl: "https://www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242"
-    ampWebUrl: "https://www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/gautam-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war-news-255242/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 70
-    images:
-      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2019/10/29/Adani1_20170111_350_630.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Experts warn about possible misuse of new AI tool ChatGPT"
     excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
     publishedDateTime: 2023-01-24T16:44:00Z

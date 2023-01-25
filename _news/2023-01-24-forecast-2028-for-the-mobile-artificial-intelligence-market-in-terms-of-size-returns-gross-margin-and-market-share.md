@@ -127,6 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Will Be A Defining Year For AI And The Future Of Work"
+    excerpt: "Real-Time Translation: AI could be used by global organizations for universal and real-time translation across languages. For any leader considering AI as a force multiplier for their organization, here are three rules to consider before embarking on your ..."
+    publishedDateTime: 2023-01-25T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/2023-will-be-a-defining-year-for-ai-and-the-future-of-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
     excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
     publishedDateTime: 2023-01-23T04:23:00Z

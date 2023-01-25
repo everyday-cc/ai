@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T14:54:00Z
 originalUrl: "https://www.independent.co.uk/tech/ai-wifi-artificial-intelligence-privacy-b2268882.html"
 webUrl: "https://www.independent.co.uk/tech/ai-wifi-artificial-intelligence-privacy-b2268882.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Independent

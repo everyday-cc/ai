@@ -80,6 +80,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Cloud Natural Language Processing Market 2023: A New Report of Very Rapid Development by Forecast 2027 | 109 Pages Research"
+    excerpt: "This report provides comprehensive analysis of the emerging Cloud Natural Language Processing market segments, including their dynamics, size, growth, regulatory requirements, technological trends ..."
+    publishedDateTime: 2023-01-23T06:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2023-a-new-report-of-very-rapid-development-by-forecast-2027-109-pages-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/01/60126520d970e165e1d9016d9b17b1a02b38c313-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
     excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
     publishedDateTime: 2023-01-24T11:36:00Z

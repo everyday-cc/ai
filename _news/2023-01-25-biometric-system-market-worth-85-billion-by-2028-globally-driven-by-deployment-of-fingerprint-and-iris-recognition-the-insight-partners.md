@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T13:25:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30568097/biometric-system-market-worth-85-billion-by-2028-globally-driven-by-deployment-of-fingerprint-and-"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/g30568097/biometric-system-market-worth-85-billion-by-2028-globally-driven-by-deployment-of-fingerprint-and-"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

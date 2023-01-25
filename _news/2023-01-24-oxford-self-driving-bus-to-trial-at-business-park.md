@@ -36,6 +36,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
+  - title: "Passengers travel on full-size self-driving bus in UK first"
+    excerpt: "It is part of the CAVForth project which is expected to have five self-driving buses run timetabled services between Ferrytoll park-and-ride in Fife and the Edinburgh Park train and tram interchange via the bridge from the spring. The buses will cover the ..."
+    publishedDateTime: 2023-01-25T13:35:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/passengers-travel-on-full-size-self-driving-bus-in-uk-first/42302184.html"
+    type: article
+    provider:
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 4
 
 secured: "MCphI5y5zTsiqEzfnLlptapXFy4MPoH17hf25ej5nH5yxrVC0rEMiKH+RNVCb2RpnKJI474rHn66U6kU7oghpPZeLlpmCuiGso/gYqtInZnGaVNldLImWYbFtqJznq45APJ38xrNox+dPXo+3R7n123ze41s1Cj2zvWTQwQ287S9lLH5uInGnVH3uEV28s/BGrbEa4r2CbVsGZO/kve2+VBfvRdFOlVvT8CqlQIZvysHZzYfjW+I4kYKA9BWUvb4ozif3gHXFXiER+84VO/lF9IlfRvnkIP3LE/zRLXUpFsQT40ErvMaGBH8Q1PTFMTVTFuOgl6ZYh6bQhOz9X0kLtq9CK4k91KRVDFHNKqrQqQ=;46f17NiYKtrb7vodsOAUiA=="
 ---

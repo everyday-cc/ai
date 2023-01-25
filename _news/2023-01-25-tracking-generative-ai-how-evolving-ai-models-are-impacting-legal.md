@@ -41,6 +41,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Federated learning key to securing AI"
+    excerpt: "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it."
+    publishedDateTime: 2023-01-25T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all"
+        width: 1199
+        height: 638
+        isCached: true
   - title: "The human side of generative AI’s gold rush | The AI Beat"
     excerpt: "The current gold rush to capitalize on generative AI is, ultimately, about financial gain. Let's not forget the human toll."
     publishedDateTime: 2023-01-23T16:36:00Z
@@ -100,20 +116,6 @@ related:
       - url: "https://media.blogto.com/articles/2023120-best-things-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-01-21T01:00:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/20/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "CNET’s AI-Generated Articles Riddled With Plagiarism"
     excerpt: "CNET has dug itself into an AI-generated pit. Earlier this month, the tech-focused website was caught quietly publishing AI-generated articles without disclosing the development to readers. Then, the site was embroiled in potential legal trouble when it came to light that a multitude of errors and plagiarism were discovered in the bot’s work by another tech outlet,"

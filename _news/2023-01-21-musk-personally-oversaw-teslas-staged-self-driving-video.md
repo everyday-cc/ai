@@ -41,15 +41,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Elon Musk oversaw video that exaggerated Tesla self-driving capabilities"
-    excerpt: "In an Oct. 19 call with reporters and blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be ..."
-    publishedDateTime: 2023-01-20T23:31:00Z
-    webUrl: "https://www.autoblog.com/2023/01/19/elon-musk-tesla-autopilot-exaggerated-video/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 18
 
 secured: "ToRYySvWNpsTF4JJ5b+O8p1TVTCoBu+7jqTbYucYy0NdRfgLPqGig8pyB0/pX8S8/jciXUMeVEckJ+DfQENN4fRq+++T/R680SrAg0XNBPr5J96yzHceUQMkLetj4JDU/9p5ehgl8xVQ0e3UZ3btLhiQhUHpIn256o63wllBcU0HciBXHBxfXuTvEVtEFkH8Wmi+lkRomdqG0LumIX8I2ajiMRu+OlbkcpX4lWtGVOrF1ysihfafOhF40+I4Iqt9VTw2lKyOmA/UX1g/lHvJIrwU+GGW5Y3kXv9BfecF2ZQu9iu2gVs4yxs0YxiuHo8uF99ChUeby9MQWpucPblb0kTW2AK8EIPAU2/FxdpZXk8=;t7HTkEvZDWho62Hqrm2lnA=="
 ---

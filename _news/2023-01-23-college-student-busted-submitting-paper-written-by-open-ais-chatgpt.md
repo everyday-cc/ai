@@ -225,6 +225,15 @@ related:
         width: 1240
         height: 786
         isCached: true
+  - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
+    excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
+    publishedDateTime: 2023-01-25T13:05:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-gives-a-new-lease-of-life-to-healthcare-via-chatgpt/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
   - title: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake"
     excerpt: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake - SiliconANGLE"
     publishedDateTime: 2023-01-23T19:00:00Z

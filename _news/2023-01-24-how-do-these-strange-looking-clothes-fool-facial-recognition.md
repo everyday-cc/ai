@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Korean Facial Recognition Project Faces Opposition"
-    excerpt: "It’s unheard of for state organizations — whose duty it is to manage and control facial recognition technology — to hand over biometric information collected for public purposes to a private ..."
-    publishedDateTime: 2023-01-21T00:00:00Z
-    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Chaotic Italian Fashion Line Baffles Facial Recognition Software"
     excerpt: "An Italian clothing line, Cap_able, just released a collection of knitwear that tricks facial recognition software into registering you as an animal."
     publishedDateTime: 2023-01-24T20:35:00Z

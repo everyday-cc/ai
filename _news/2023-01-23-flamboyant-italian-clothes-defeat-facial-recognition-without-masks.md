@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/good-thinking/facial-recognition-clothes/"
 webUrl: "https://newatlas.com/good-thinking/facial-recognition-clothes/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Korean Facial Recognition Project Faces Opposition"
-    excerpt: "It’s unheard of for state organizations — whose duty it is to manage and control facial recognition technology — to hand over biometric information collected for public purposes to a private ..."
-    publishedDateTime: 2023-01-21T00:00:00Z
-    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Chaotic Italian Fashion Line Baffles Facial Recognition Software"
     excerpt: "An Italian clothing line, Cap_able, just released a collection of knitwear that tricks facial recognition software into registering you as an animal."

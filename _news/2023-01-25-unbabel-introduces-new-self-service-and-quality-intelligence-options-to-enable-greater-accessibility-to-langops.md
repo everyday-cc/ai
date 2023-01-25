@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T14:28:00Z
 originalUrl: "https://multichannelmerchant.com/press-releases/unbabel-introduces-new-self-service-and-quality-intelligence-options-to-enable-greater-accessibility-to-langops/"
 webUrl: "https://multichannelmerchant.com/press-releases/unbabel-introduces-new-self-service-and-quality-intelligence-options-to-enable-greater-accessibility-to-langops/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Multichannel Merchant

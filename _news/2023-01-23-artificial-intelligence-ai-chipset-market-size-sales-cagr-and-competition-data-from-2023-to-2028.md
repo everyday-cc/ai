@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23"
 type: article
 quality: 103
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -189,6 +189,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "New Report on Artificial Intelligence Chipsets Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027"
+    excerpt: "Latest Research Report 2023: A new Artificial Intelligence Chipsets market report provides up-to-date information on"
+    publishedDateTime: 2023-01-25T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-chipsets-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
 
 secured: "RFZHloKqcGtgpb3hCM6Qm546pupp4K1Ip7siCZpcfCNvfNbWUgjE8Cff3MmeVJVMrfhgEAFPBwpYKzXR7NIgfAIVsBD0zbAEk8WK4BpQNMX7sBXkYDWSi6rEHjg9v2ao9wv0IGjsqca+2v89u/fAcHV2oZrDJGLTNCtjHN7KrDEo6Mmtav0+5NotwwKKODfCHvjKTgO0+T5zkiZ3vpnt1sKKmnCYixCErGqSVcvQSz/OM3qViubJ2xC6IntzsVNhtIOtWsSuhEBvD68rm8yuntHfv2b8xQSzUhjd1BOaRL6fj5YrqOnT+XjZ2JWmJPmrjPoai7RxBlUpPjKaxdp8gfkXqJesbiua2OomoB64uVc=;+8jYA9El70OOVTeNRrQgFw=="
 ---

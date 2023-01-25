@@ -92,6 +92,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
+    excerpt: "The tech giant described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
+    publishedDateTime: 2023-01-23T18:47:00Z
+    webUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
+    ampWebUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 89
+    images:
+      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Microsoft announces major investment in artificial intelligence startup OpenAI"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can generate readable text, images and computer code."
     publishedDateTime: 2023-01-23T16:45:00Z
@@ -249,6 +265,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft expects slower Azure growth"
+    excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
+    publishedDateTime: 2023-01-25T16:07:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/01/26/2003793152"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 54
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/01/26/P05-230126-312.jpg"
+        width: 866
+        height: 577
+        isCached: true
   - title: "Microsoft and OpenAI extend partnerships in AI supercomputing and research"
     excerpt: "Microsoft has extended its partnership with OpenAI for the third time as the agreement follows previous investments in 2019 and 2021."
     publishedDateTime: 2023-01-24T14:27:00Z
@@ -272,15 +302,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
-  - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
-    excerpt: "The tech giant described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
-    publishedDateTime: 2023-01-23T18:47:00Z
-    webUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 49
   - title: "FirstFT: Microsoft’s big bet on AI"
     excerpt: "Also in today’s newsletter, China official says holiday travel is low risk and ex-FBI agent charged over Deripaska ties"
     publishedDateTime: 2023-01-23T21:54:00Z
@@ -298,6 +319,15 @@ related:
     provider:
       name: BBC
       domain: bbc.co.uk
+    quality: 34
+  - title: "Microsoft Earnings Call: New-Business ‘Slowdown,’ Big AI Bets"
+    excerpt: "Microsoft CEO Satya Nadella used the 2Q earnings call to talk about business growth deceleration, OpenAI, Teams and other topics."
+    publishedDateTime: 2023-01-25T14:48:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-call-new-business-slowdown-big-ai-bets"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
     quality: 34
   - title: "Why is Microsoft putting billions of dollars into an Artificial Intelligence chatbot?"
     excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. Show more Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI."

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T14:37:00Z
 originalUrl: "https://www.consumerreports.org/cars/car-safety/active-driving-assistance-systems-review-a2103632203/"
 webUrl: "https://www.consumerreports.org/cars/car-safety/active-driving-assistance-systems-review-a2103632203/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Consumer Reports

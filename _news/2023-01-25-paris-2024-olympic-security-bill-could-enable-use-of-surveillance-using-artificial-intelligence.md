@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T14:03:00Z
 originalUrl: "https://www.rfi.fr/en/france/20230125-paris-2024-olympic-security-bill-could-enable-use-of-surveillance-using-artificial-intelligence"
 webUrl: "https://www.rfi.fr/en/france/20230125-paris-2024-olympic-security-bill-could-enable-use-of-surveillance-using-artificial-intelligence"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Radio France Internationale

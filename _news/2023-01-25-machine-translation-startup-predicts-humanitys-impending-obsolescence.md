@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T13:25:00Z
 originalUrl: "https://www.pcgamer.com/machine-translation-startup-predicts-humanitys-impending-obsolescence/"
 webUrl: "https://www.pcgamer.com/machine-translation-startup-predicts-humanitys-impending-obsolescence/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: PC Gamer

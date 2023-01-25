@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T14:11:00Z
 originalUrl: "https://techxplore.com/news/2023-01-disturbance-nonlinear-dynamics-augment-edge.html"
 webUrl: "https://techxplore.com/news/2023-01-disturbance-nonlinear-dynamics-augment-edge.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

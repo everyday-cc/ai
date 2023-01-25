@@ -33,6 +33,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "MLSE and AWS create sports tech development arm SportsX"
+    excerpt: "MLSE owns the Toronto Raptors and Maple Leafs AWS partnership was agreed in 2022 and includes cloud and AI tech SportsX could commercialise tech for wider sports industry Maple Leaf Sports and Entertainment (MLSE) Digital Labs and Amazon Web Services (AWS) have launched SportsX,"
+    publishedDateTime: 2023-01-25T14:04:00Z
+    webUrl: "https://www.sportspromedia.com/news/mlse-aws-sportx-vr-ar-nba-nhl/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 19
 
 secured: "C/dDssFSIyf6Ug2TRcndLQjwTzKUmwNPWKM1VpUe7fDbLk1H7BfQNe+3JLbOt4tYuxZ+IG6LAIi5QbN5h1mCA6jr6KsZAs3PNKBktQA6IFhkhOVrBhgvuJAHWh0Sk3Qch3lSXspaK5yQoWVbfy8E8JtzBSkZ0t/7Z3kTzj0IrD0O6qa+T9wRHNr6STMovyhnM7SC/40tkxonQwf1S99JO4ghPwux08JAXMVoPXaJaiywJKF+hkmLjSoESPz9fFtMboOUfULSsh54PCIh4PaiiDByfBA5u34zPh8YD+TTNjj4wLYmhnAjTwqSD8WgdocOE7Bzfz8ZOlkxUUXLL1Fg8UVput0kxfiJ5DjR21z5q9M=;2i6hgy8Bjml2i5Tfei3ckQ=="
 ---

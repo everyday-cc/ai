@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T13:30:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/funded-startups-locus-amp-exits-spac-ipo/"
 webUrl: "https://news.crunchbase.com/ai-robotics/funded-startups-locus-amp-exits-spac-ipo/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: news.crunchbase

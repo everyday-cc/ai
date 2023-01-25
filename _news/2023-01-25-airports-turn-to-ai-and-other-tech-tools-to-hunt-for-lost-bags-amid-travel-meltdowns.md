@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T13:27:00Z
 originalUrl: "https://www.nbcnews.com/tech/travel/airports-turn-ai-tech-tools-hunt-lost-bags-rcna65335"
 webUrl: "https://www.nbcnews.com/tech/travel/airports-turn-ai-tech-tools-hunt-lost-bags-rcna65335"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: NBC News

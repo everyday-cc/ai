@@ -185,6 +185,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
+  - title: "New Report on Artificial Intelligence Chipsets Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027"
+    excerpt: "Latest Research Report 2023: A new Artificial Intelligence Chipsets market report provides up-to-date information on"
+    publishedDateTime: 2023-01-25T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-chipsets-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
 
 secured: "Kt47AAtcunAPj7FJD79Q/gxthO08HC9RHitkUhOVeLG/Td23Igp3ygCRyBIYfraUbG2CUpTMBCNHu2N3xY53uhpwHGfMfQeq7xhMToU67d6roI/uBBGh5Vo48fJnmJ4sSUgnCV6sd5rwesnq4s2DJyLdRV4CqiE3B2yS6lthMmJxVdu89AIW/hdP5boFjvO/jVAnuEMxocoIq2tPycMqCrWU1geSO5/a6icP5P7KojtB4LMwptfaNKOk6fEB2OuS/sqdPA1QWEkY5Q+GrR7ZkXPi6fpF9gXAw9ta1awCtlcBhKI2ZGEP3ddyQGXb8sWXVSr9+0zQF/ksvOBa4RcNm6jX+qT0nHodiLzW39X395c=;wGsGiXXi6s3F29F10VADCg=="
 ---

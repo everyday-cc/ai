@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T14:00:00Z
 originalUrl: "https://www.popsci.com/sponsored-content/ai-seo-tool-deal/"
 webUrl: "https://www.popsci.com/sponsored-content/ai-seo-tool-deal/"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Popular Science

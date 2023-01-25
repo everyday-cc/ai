@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/jan/21/rentokil-pilots-fac
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2023/01/22/01/66828415-0-image-a-75_1674349507452.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Facial recognition: Can fake data produce real results?"
-    excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
-    publishedDateTime: 2023-01-20T21:46:00Z
-    webUrl: "https://gcn.com/emerging-tech/2023/01/facial-recognition-can-fake-data-produce-real-results/382050/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2023/01/20/01202023_levinson_facialrec2-3/860x394.jpg?1674251006"
-        width: 860
-        height: 394
         isCached: true
   - title: "Rentokil Pilots Facial Recognition System as Way to Exterminate Rats"
     excerpt: "U.K. pest control services provider Rentokil is testing facial recognition software as a tool for rat extermination."

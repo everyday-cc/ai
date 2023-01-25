@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T13:00:00Z
 originalUrl: "https://www.seafoodsource.com/news/processing-equipment/yamaya-communications-cod-roe-plant-to-feature-ai-for-labor-saving"
 webUrl: "https://www.seafoodsource.com/news/processing-equipment/yamaya-communications-cod-roe-plant-to-feature-ai-for-labor-saving"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: SeafoodSource
