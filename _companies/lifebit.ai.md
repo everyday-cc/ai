@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lifebitAI"
   url: "https://twitter.com/lifebitAI"
-  followers: 4281
+  followers: 4280
 
 size: 2-10 employees
 yearFounded: 2017
