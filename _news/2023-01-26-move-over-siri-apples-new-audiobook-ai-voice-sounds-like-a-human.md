@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b27374-8393-481b-9616-6a55b4a55a55/1047e1eb-df4e-4cd9-a305-0b15a2c04946/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "/lXlRRTBAytTHEho0w2YD35RDL6YQUcnKdPVN8LlfuPMWYAyAMGGR9zA8QJibkuWZw+ZnaCiumne3A8ajvNTsK90yhLudN8lsrccAckpWahwYoY7RfQOXaKbLatB0VGghjQl+5Rmg82GIxVP0lGxv7KX85sqFoRxzwgf3mAhjEsWcT5vgypp5UfSNommIiieoUIp5QVFXXQ49BpptbMFEt8qNVqm1O2CvV9Ql90UUH2cYdwxV7IAWJiRveAWCKhnnAW3WWSE/0vnzVOl6DqoloQqXc5ouDZIqa0E2PX5Xr2aJptx/zkZw5qKUFvCs348fTQ1PBcRxPK4L/cdaNw4MH9JWh5M3Du/Wht2arpvlss=;+EGLIe2T1anMA2IM8TsOKA=="
+secured: "UNSsIAspqOqGHpR/vFYGVaFk0iP9rK/Bu171hIunssdYuKjtwbHPS59s7D/pjITdrAf4OkrCzTNvaPubw5n1U9K4XpQT9qapOMFgl6IeeFVoOm7eGzA9NZ7N/VZjv3PgQUWLm13Ovm2RxTkPiXOSbjZ+JH3funDbxVs72vkeuPiQEPn+wlxOY0xyphQmaZSFNhPIi5S50e16DG7D3oCfCLyXCEICuoEhGnCZbuPTPMQ+4LmdcBwsUIN+Xd6AKGI+rC/3htsZcVusbAD2N5LxD6f1QOPG7tkg73yzSxXaeKw1ei2zjwzi2RyB9dv4dUOiiHs5nUKYObDL5pW0UaJArZqpijtMojLu/oOlyKCpLysExB1m2jlKzg5d85OYiVO1ACKzZB4o0xmCvy/Zvm2IK9HCbh+b1nVf3xUOpAVlLnpKUQLU+cXtCZfz1fYPXqvBa40uzgFhdujrReaZr9Ynn/WVIWfxIHRAlKrIWSdAti77QRsBeeekvKj65y9Oa6CTtDfl9qekwYiNjWrjI4RZZA==;FfVnJ5VGO+c/4fTszvan1Q=="
 ---
 
