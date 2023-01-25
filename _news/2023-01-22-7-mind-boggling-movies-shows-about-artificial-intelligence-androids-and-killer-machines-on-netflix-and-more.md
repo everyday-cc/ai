@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "8 Sci-Fi Games About Artificial Intelligence"
-    excerpt: "This applies to the development of artificial and virtual intelligence as well, something that Cyberpunk 2077 discusses in immense detail. AI gaining sentience is something that is discussed ..."
-    publishedDateTime: 2023-01-20T15:42:00Z
-    webUrl: "https://gamerant.com/sci-fi-games-artificial-intelligence/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 39
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/collage-maker-13-jan-2023-07-57-am.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
 
 secured: "PBgjmRxGSviQac50ucR/ty962ROBpbH3va1QxybOIxIuqDIF00CWm3wsLWr6sgCqCsa3xOI2eQyV2zaJ+vnebegyZ+1/hZWGlJZNyogkwKu5pOSHye1yck330ChnuNKU5dhOhaWaWLWzLka86gbhiyDi1stOFu0tPYONXx6eij+qC4h9oef9NbWStTel59b2H6mh/kAlApaH0q1d9r1aysyNlE3HM6iB+C932Noqay3t/tGncyfwIJbDvN9xY2djO3B+j8kWXR6XT+1dNexCqANpHXrZNnd5gUpy4u3zRncV32gmq11whYiYBv47SuJBzjTs/bijCMmSNX9LWex65JL2yGnw4p34kKzNP2Vp2GZOtCvsIQnb35/oXQMUz1zY+Gl7e8FuXlyDpTZtJEmqKRt2P709Unv5mZKOJZzt82XjYqH/YsdrMBW/6MFZtUlTBBDcHgcROu4nERFfFTwHwuHpGwV9bu6oim1gQKwkoXigJbOpZvXER2nliGZxRN63bbyFWdDScBfFGSEOv/IHUg==;MJhRiyokXXY4f1bCiuH+Wg=="
 ---

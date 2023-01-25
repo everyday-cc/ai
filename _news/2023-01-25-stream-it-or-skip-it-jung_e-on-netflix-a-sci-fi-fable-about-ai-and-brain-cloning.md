@@ -9,8 +9,8 @@ ampWebUrl: "https://decider.com/2023/01/24/jung_e-on-netflix-stream-it-or-skip-i
 cdnAmpWebUrl: "https://decider-com.cdn.ampproject.org/c/s/decider.com/2023/01/24/jung_e-on-netflix-stream-it-or-skip-it/amp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Decider
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "8 Sci-Fi Games About Artificial Intelligence"
-    excerpt: "This applies to the development of artificial and virtual intelligence as well, something that Cyberpunk 2077 discusses in immense detail. AI gaining sentience is something that is discussed ..."
-    publishedDateTime: 2023-01-20T15:42:00Z
-    webUrl: "https://gamerant.com/sci-fi-games-artificial-intelligence/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 39
-    images:
-      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/collage-maker-13-jan-2023-07-57-am.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "7 mind-boggling movies & shows about Artificial Intelligence, androids and killer machines on Netflix and more"
     excerpt: "Real Steel, Westworld and more, 7 mind-boggling movies & shows about Artificial Intelligence, androids and killer machines on Netflix and more"
     publishedDateTime: 2023-01-22T06:00:00Z

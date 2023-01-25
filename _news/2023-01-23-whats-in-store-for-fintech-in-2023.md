@@ -25,50 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "How much will AI impact life in 2023?"
-    excerpt: "Artificial intelligence (AI) has been a part of many aspects of modern life for years, but in the last few weeks the sudden arrival of ChatGPT, a publicly"
-    publishedDateTime: 2023-01-20T15:02:00Z
-    webUrl: "https://www.consumeraffairs.com/news/how-much-will-ai-impact-life-in-2023-012023.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/how-much-will-ai-impact-life-in-2023-012023.html"
+  - title: "Fintech Qolo Processed Over $1B in Total Payouts in Q4 2022"
+    excerpt: "Qolo recently revealed that it processed more than $1 billion in total payouts in Q4 of 2022! Qolo is a cloud-based payments processor."
+    publishedDateTime: 2023-01-22T19:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/01/201418-fintech-qolo-processed-over-1b-in-total-payouts-in-q4-2022/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/01/201418-fintech-qolo-processed-over-1b-in-total-payouts-in-q4-2022/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201418-fintech-qolo-processed-over-1b-in-total-payouts-in-q4-2022/amp/"
     type: article
     provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://media.consumeraffairs.com/files/news/Artificial_intelligence_concept_kishore_kumar_Getty_Images.jpg"
-        width: 900
-        height: 629
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-1024x768.jpeg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "How Artificial Intelligence Is Changing Businesses In 2023"
-    excerpt: "As businesses continue to embrace the digital revolution, Artificial Intelligence (AI) has become an integral part of their operations. From customer service to marketing, AI is being used to automate processes,"
-    publishedDateTime: 2023-01-22T11:07:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-is-changing-businesses-in-2023/"
+  - title: "Top 10 fintech disruptions to watch out for in 2023"
+    excerpt: "From new technologies to tough regulations for crypto, 2023 is already looking like a year of change for fintech."
+    publishedDateTime: 2023-01-24T12:10:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/top-10-fintech-disruptions-to-watch-out-for-in-2023"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 43
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/01/uuuuuuuuuuuuuuuuuuuuuuu.png"
-        width: 671
-        height: 418
+      - url: "https://assets.bizclikmedia.net/1800/b9ea599af5e4cdf45bd09a2efce17d09:2d2218789124b00b58b28baca6ef5e04/gettyimages-1130023029.jpg.jpg"
+        width: 1799
+        height: 1010
         isCached: true
-  - title: "How AI will impact the future of work and life"
-    excerpt: "Artificial Intelligence (AI) is rapidly becoming one of the most important and rapidly-evolving technologies of our time. With advancements in machine learning, natural language processing, and computer vision,"
-    publishedDateTime: 2023-01-24T11:42:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/shikshacoach/how-ai-will-impact-the-future-of-work-and-life-49577/"
+  - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
+    excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
+    publishedDateTime: 2023-01-23T19:30:00Z
+    webUrl: "https://financialit.net/blog/fintech/look-top-six-fintech-trends-uk-2023"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "Z1AXbk5HinCm2oe2VLK+0tnqLxeHMBY+FeBWvae3VhtoI9e7c8P2y+WehJMafk2u/NzzXaTLT/p34rX28Dp9SNoFhiUTLb7G3IrTz859zeBzVKl9uUXfoZ4+BOTR6ZRq1+dzClRiW78Q0KbKFCmVr0pUvhO12+OSlyccQwFQJA+x2r1kLHhiCGYHdGWYvlUBf0bBN9On/BHp4OIFAYzuO/pqjel3OZf42CVGrYJq653n9cAmbETYD/qAAoQPOIhReTUEnuL1q4GwpOhCiLt8jwTqfSImF/p8k1YPFdpu23UjFSMyIMWVQGt4kvprcQvBivNYQlk7JJCX9mbBjfzJYToe4dlsSJu21rirW6ueC5Y=;vkRS0e2QsCW3kbboK5jytg=="
 ---

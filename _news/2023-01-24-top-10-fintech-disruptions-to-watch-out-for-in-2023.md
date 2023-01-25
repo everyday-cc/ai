@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "What’s in store for FinTech in 2023?"
+    excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."
+    publishedDateTime: 2023-01-23T12:23:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Whats_In_Store_For_FinTech_In_2023_Feature.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
   - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
     excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
     publishedDateTime: 2023-01-23T19:30:00Z

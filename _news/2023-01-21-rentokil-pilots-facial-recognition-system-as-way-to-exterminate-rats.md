@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/jan/21/rentokil-pilots-fac
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Facial recognition: Can fake data produce real results?"
+    excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
+    publishedDateTime: 2023-01-20T21:46:00Z
+    webUrl: "https://gcn.com/emerging-tech/2023/01/facial-recognition-can-fake-data-produce-real-results/382050/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2023/01/20/01202023_levinson_facialrec2-3/860x394.jpg?1674251006"
+        width: 860
+        height: 394
+        isCached: true
   - title: "Rentokil takes on the world’s rat problem with facial recognition"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Rentokil Initial PLC news every morning. You’re never more than 6ft away from a rat in a big city, according to the adage. Now, the world’s biggest pest control group is planning to annihilate the pesky rodents by using facial recognition to track their habits."
     publishedDateTime: 2023-01-20T21:00:00Z
@@ -55,6 +69,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 19
+  - title: "Rentokil Pilots Facial Recognition System as Way to Exterminate Rats"
+    excerpt: "U.K. pest control services provider Rentokil is testing facial recognition software as a tool for rat extermination."
+    publishedDateTime: 2023-01-23T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/269043-rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
   - title: "Pest controllers using facial recognition software to kill rats in people's homes"
     excerpt: "The software - which Rentokil began developing 18 months ago alongside Vodafone - will track the rodents' habits to help decide how to kill them."

@@ -51,6 +51,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Facial recognition: Can fake data produce real results?"
+    excerpt: "Diversifying training datasets with computer-generated faces may help break down bias in the technology, but one expert says using synthetic images is a step too far."
+    publishedDateTime: 2023-01-20T21:46:00Z
+    webUrl: "https://gcn.com/emerging-tech/2023/01/facial-recognition-can-fake-data-produce-real-results/382050/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2023/01/20/01202023_levinson_facialrec2-3/860x394.jpg?1674251006"
+        width: 860
+        height: 394
+        isCached: true
   - title: "Rentokil takes on the world’s rat problem with facial recognition"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Rentokil Initial PLC news every morning. You’re never more than 6ft away from a rat in a big city, according to the adage. Now, the world’s biggest pest control group is planning to annihilate the pesky rodents by using facial recognition to track their habits."
     publishedDateTime: 2023-01-20T21:00:00Z
@@ -59,6 +73,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 19
+  - title: "Rentokil Pilots Facial Recognition System as Way to Exterminate Rats"
+    excerpt: "U.K. pest control services provider Rentokil is testing facial recognition software as a tool for rat extermination."
+    publishedDateTime: 2023-01-23T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/269043-rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "gJz/S2xng6lmGmfOpNmox0q+8Lu1wEuIYpmhezb3d5cFLZ76j7ts6oIYXDu7hvLl+VDCNORjxir/Nx2QLipM5/6uYQ8TZ6vx7AnDbtdYYzghRq/3iEvNp9V5xrMKQm/lbcGML/UawEic07esFDySuxTIe0o2nqjddWsNis6ClDYOKDZ2/NpF3qs+QFC70xhC0eZ/ghwcFUooHqK2xULwZgP4IMzf7g8eby2tIzxTuKtxpJ1tP7F2KFZuJ/WlZdqnrXRirKEz7K3TlNKeVUQwceyuQoH84Igd8EmzUY9yTWG1sP808d3u5KULZB7c3UsgZLI8/DoquXqGNWaY2pL3SUZ72ryS24yaJOJMQMcoy36Y8Z1CNCglRzdrEyi1UMoESGAKYU/yGLK9eKv5Aw9mJFY9L9YsmRQhMkmkC5/iqjpHMYbM8jrEiHWP3XdskW60LwrucNnttHbUFZVpvLr19QWHbxYP5/emfn4+qctgo3yqLfFUvsqFsS6Xll1S+OIG7VP15MfWpmQ9OV0Y37evcw==;KpifeM0sKChC9NU2rmRaGg=="

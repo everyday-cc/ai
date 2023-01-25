@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-drivi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Can ChatGPT boost socioeconomic development?"
+    excerpt: "Will ChatGPT Transform International Development? After the spectacular failure of a 10-year project launched in 1982 by the legendary Japanese government agency, MITI, to dominate the global artificial intelligence (AI) landscape by developing systems suited to processing knowledge (rather than just data) in a user-friendly way,"
+    publishedDateTime: 2023-01-25T08:10:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Can-ChatGPT-boost-socioeconomic-development-1701341"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/672/67201928.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "6Jgg5zyB3gYuixIFnHdjibGt46D7qi9oZNqVCObc6YQcvvnKnyyU7kuqlwsDxD+3/8+/RHYs47OHPQ4K1DGWs0U6L0K9v59jM6HFD6xmZg0fdZw37WO1/oSVlG7W+WJy+uLrJ1OwFkQtF2A7cwIkQC6qURhS2/EwNQwkFdlZFyugskiSgh/16p4dAY2ynXKPy9EkpuYpBU/A1OIQHADV7TghZCoryN/06SCdm/3u4VMT3d6wq8R2rnplJCmYMfKqXJmfeXxJZHrYEO7+I+h1nTIz/k/J45ASSDGWy7FLEjBwao78u45t7saV2PYc1LwgKqtJ1xlwPJytsLa6eNOOAbb7E42m8106z5ZhkbfxILjHKYmXqTgSZScejPVr8fSjxvJFVH2H+25v2IVJbFRAx+r4IW0u0LGRy2o0R3yaOjsk9FaEMVSm1oWhqOWXeh1VD9Vv9N1DG6YdTnje46Akd6PfLwg0LrbG9YeX+Qonn6yG2rh2ufE85fJv+NkILOxbSrfgbfVgbi24wniao0zGsg==;wABNbYtVl1L9nI4+XPFtoA=="
 ---

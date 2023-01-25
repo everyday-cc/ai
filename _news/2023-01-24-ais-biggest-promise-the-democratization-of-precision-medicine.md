@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-bigges
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 903
     isCached: true
-
-related:
-  - title: "Global (AI) Artificial Intelligence in Precision Medicine Market"
-    excerpt: "According to the research report, the global (AI) artificial intelligence in precision medicine market size & share was valued at USD 1.26 Billion in 2022 and is expected to reach USD 26.24 Billion by 2032,"
-    publishedDateTime: 2023-01-20T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-artificial-intelligence-precision-medicine-market-size-/2023/01/20/9746711.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "q/j7b/Ouo63d3ITV4xQ9ejkwa6L0NeZ0MQbNCB+M2BtTk0NcDgRyBMyIyA4NY+sO1QvPjXAkZzJQxzdk4kY+SK+YwngrWqTKcJ5TSuyPr+ECtqdLW59W0FHDjKf9/gRfHJP53tm8epIgBL7Dh5IhkL4D5giIjvFBMNsFbA3jc/3DETQj3kTlgMNm73S6+OcsNBTvdcEBSJiG0V7g6XIPP66Hv0ll6+5yZ7e2doJe8uMApchyUv1Fj6K7WpMVVuWzjHHZXCGvgZiRI3W4nfoK6JMZdiP2YLUHWyyW2oHeur5NZNMBE5sXaPkD9IEDTUrmpzQu6XzNDB1hLL26bWWz8vm8fVAM+PyRRY3df4hE0FYd56P2lzBeJZj8+tjxfFvKtOCiI/hN9WqwvwB0un/fn3T6naCjrYpEqx1uKO6lu1mb2BKtKy+HGHET/7hGcHVC4/psLK06IHfPOnwNwA53Rn3QnHzqo9WLCkb91x9i/57fh/I14/YkU5/z975YlS+0pG68adxzTux2aDepDT4Z4Q==;GGQhkKTRAxtFSm8tLpb8YA=="
 ---

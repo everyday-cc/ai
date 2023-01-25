@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58133831-fint
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58133831-fintech-sandbox-continues-strong-momentum-into-2023-with-expansion-of-global-footprint-and-growth-of-data-access-residency-200.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Budget 2023-24 Expectation: Government should ease regulatory environment to boost fintech sector growth"
+    excerpt: "With more investments, and a conducive regulatory environment created by the government, fintech could be a strong catalyst to drive India’s growth in the coming years"
+    publishedDateTime: 2023-01-25T07:52:00Z
+    webUrl: "https://www.firstpost.com/opinion/budget-2023-24-expectation-government-should-ease-regulatory-environment-to-boost-fintech-sector-growth-12045312.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/budget-2023-24-expectation-government-should-ease-regulatory-environment-to-boost-fintech-sector-growth-12045312.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/budget-2023-24-expectation-government-should-ease-regulatory-environment-to-boost-fintech-sector-growth-12045312.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 27
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/01/fintech-2.jpg"
+        width: 640
+        height: 363
+        isCached: true
 
 secured: "q1FF5uIK6bMiuIW3E/Nu9VcEQpSqWMa3I113WJaqPJ0u0Q5k+uAbJI8JIKIL7UfUIluYFEnHgH1Fl17P5/uMl/Q5Fin2/VcqHIhYVs+v5kHf9TeLk6+hwwjbuuk1xNOKu4Ade2qEZxfJTX/ZhDgpuftFw0mckD+o5oj9b3AOoM9YEAB8yQeNYKwzpHhaEyx5SvRctCO79C1CD6IasNpVpr86+gH1s+Qq1CfX2spez7j8OYVD0BCJOL9Ktnkl2LByOzid2wy+As+A6VRzLDtCLMpCnN+zP5kiHn8ui8hVE5P622pHid6fJd2vwCs2UoR0umi7lCCOvcYvfSuqIGcRCipKNR0sEldxfAQ7fC7b2Sg=;zeZ3UATGs0OhPM5R2sEneQ=="
 ---

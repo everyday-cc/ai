@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Uses AI To Leave Apple's AirTag In The Dust"
-    excerpt: "Tile was once the top name in the Bluetooth tracker market. While there was some competition, Tile raised over $140 million from venture capital firms, making it by far the most well-funded option on the market."
-    publishedDateTime: 2023-01-20T14:51:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30504786/this-startup-uses-ai-to-leave-apples-airtag-in-the-dust"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/20/anh-nhat-ff0oh63jhji-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Educators worry about students using artificial intelligence to cheat"
     excerpt: "New York City public schools blocked access to the popular artificial intelligence tool ChatGPT. Educators are concerned that students could use this technology to write papers – the tool wasn’t even a month old when a college professor in South Carolina caught a student using it to write an essay in philosophy class."
     publishedDateTime: 2023-01-23T17:25:00Z

@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT AI Threat Pulls Google Co-Founders Back Into Action, Report Says"
-    excerpt: "Sergey Brin and Larry Page are helping the company respond to an impressive technology that is a direct threat to Google's search business."
-    publishedDateTime: 2023-01-20T17:01:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-threat-pulls-google-co-founders-back-into-action-report/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/resize/6566d0eccf5fec01e2a5403685c78a26e676b622/hub/2019/10/09/f3cb3e1b-9560-4bc9-a30d-88e1471b28e1/20191008-google-headquarters-campus-mountain-view-006.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Is C3.ai Stock a ChatGPT Artificial Intelligence Play?"
     excerpt: "You've seen the headlines about the artificial intelligence (AI) platform ChatGPT being able to write term papers and articles in a matter of minutes."
     publishedDateTime: 2023-01-23T08:00:00Z
@@ -120,6 +104,22 @@ related:
     quality: 83
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63cc9ea2aeaaf7f509922d82/0x0.jpg?format=jpg&crop=2250,1265,x212,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Dangerous Are ChatGPT And Natural Language Technology For Cybersecurity?"
+    excerpt: "Generative artificial intelligence and natural language technology is advancing very quickly. Here, we take a look at how these technologies cheese will affect cyber security."
+    publishedDateTime: 2023-01-25T06:44:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d0dd18e25181291f6e3aec/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true

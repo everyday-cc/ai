@@ -7,8 +7,8 @@ originalUrl: "https://timesofindia.indiatimes.com/readersblog/the-wordsmith/the-
 webUrl: "https://timesofindia.indiatimes.com/readersblog/the-wordsmith/the-future-of-artificial-intelligence-ai-49562/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Indiatimes
@@ -37,6 +37,20 @@ related:
       - url: "https://indianapublicmedia.org/images/news-images/dsc03239.jpg"
         width: 1200
         height: 803
+        isCached: true
+  - title: "How AI will impact the future of work and life"
+    excerpt: "Artificial Intelligence (AI) is rapidly becoming one of the most important and rapidly-evolving technologies of our time. With advancements in machine learning, natural language processing, and computer vision,"
+    publishedDateTime: 2023-01-24T11:42:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/shikshacoach/how-ai-will-impact-the-future-of-work-and-life-49577/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "l2rNWz2auOQGhcONXmyRS4n3a3Z4864CDlzgCDkNq9s4JjIPaGLcmJDyjkp2X0m3o1bLHJHRlWNOExJL6Oxj80pnrj0qz2iuQNqBYJVfP/H3OVJhtp/knXsq5Xyg5echCLi4P04V/Kk7oIWHjOJLwj9J6xi0kZOzQ/3pxVMrTXunD5rquHFXZtxViKRK83GEifRWsmMIQoHWjb7dPQWWm9tS6uGBRfO7rEbSEZW/8DK+/X0jfqxs0jQXdrOyTSmLgt71JcXgi0OARE9fBO4VibXa8q30VFH7k8VUi42Qlc+bzfIK0GTdyEEJCFs6M6yK77vqoBWd8gDAvpBGtGgesNgWTL2PdRnuIHjOcZPUwwE=;raH2LQLR4scpD+KJMZdHUg=="

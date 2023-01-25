@@ -25,20 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Individuals barred from top NYC venues slam use of facial recognition: ‘Slippery slope’"
-    excerpt: "Kelly Conlon, who was kept from seeing the Rockettes, and Sam Davis, who was barred from attending a Rangers game, speak out against MSG Entertainment and James Dolan for their use of facial recognition on 'America's Newsroom."
-    publishedDateTime: 2023-01-20T16:50:00Z
-    webUrl: "https://www.foxnews.com/video/6318967719112"
+  - title: "Rentokil pilots facial recognition system as way to exterminate rats"
+    excerpt: "World’s largest pest control group has developed technology to track individual rodents and assess how best to deal with them"
+    publishedDateTime: 2023-01-21T15:29:00Z
+    webUrl: "https://www.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 61
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a59fcf2c-07db-48d9-8cb6-3d4e5c54cb91/c444767f-fa42-4280-b081-73c50a1754d4/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        width: 1024
-        height: 512
+      - url: "https://i.guim.co.uk/img/media/ab7a99eef50b4a1c84a7ae9b794e08fb65fd72b7/87_0_2012_1208/master/2012.jpg?width=620&quality=85&auto=format&fit=max&s=d019b229a3aa34c8fdb6d4438778067c"
+        width: 620
+        height: 372
         isCached: true
+  - title: "Have you seen this rat? Pest controllers use face recognition to track pesky rodents as population in Britain hits 150million"
+    excerpt: "Pest controllers are using the latest facial recognition technology to tackle Britain's booming population of rats. High-tech cameras can identify individual rodents by comparing tiny differences ..."
+    publishedDateTime: 2023-01-22T01:15:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11662487/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11662487/amp/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11662487/amp/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 47
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/01/22/01/66828415-0-image-a-75_1674349507452.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Rentokil takes on the world’s rat problem with facial recognition"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Rentokil Initial PLC news every morning. You’re never more than 6ft away from a rat in a big city, according to the adage. Now, the world’s biggest pest control group is planning to annihilate the pesky rodents by using facial recognition to track their habits."
+    publishedDateTime: 2023-01-20T21:00:00Z
+    webUrl: "https://www.ft.com/content/641036f1-acbb-409b-9b78-e63c04bdf4e7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
+  - title: "Rentokil Pilots Facial Recognition System as Way to Exterminate Rats"
+    excerpt: "U.K. pest control services provider Rentokil is testing facial recognition software as a tool for rat extermination."
+    publishedDateTime: 2023-01-23T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/269043-rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
+  - title: "Pest controllers using facial recognition software to kill rats in people's homes"
+    excerpt: "The software - which Rentokil began developing 18 months ago alongside Vodafone - will track the rodents' habits to help decide how to kill them."
+    publishedDateTime: 2023-01-21T13:40:00Z
+    webUrl: "https://news.sky.com/story/pest-controllers-using-facial-recognition-software-to-kill-rats-in-peoples-homes-12791683"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 14
 
 secured: "5QoWrEAlD3aM7D6A2+w0bH1owRbYP9qzIBOsUdHNlgkPGwSC17FEO5NMjdoKCIT5GZiHnuQAcBQnZ/4IWwbVRQB2RbmLSYnlguy1/LhsJJfyAeapXgOvKefGVT/stgrfORB4D0KcoNr7Zt+mYunsXDGRNlZJTbXc+DjdFTvkoIwfQsbk6D+ffxpTmi6fJ+YpLEfkjJuLZQTebfedsaog4IfPYOxPHUIK9zlM3v/5gtZJZYru0VzLmdp/lLDjlOxRh+9clkLZSaVEvqq+tyEjFAV4RV+m2ncRNmyiQkDaKJDGqB+tH8lqT8UL9rXJ4G9dqSwyPG8v1WyLB29jk4p9EQrfeUuRGMClfLoSkCMo4aFV36zUOVXvwLATcOAZyjdvcQrDeY/R+WyEO9pXEXlJlC3rnX7YRumgr5ES1bXtmTst58B5NAKtOXOwJpNCWjKaZDtglEOAYxQjzr5iblsK2VX6wSHC6V8idOL96JeGsRfoJokte22azed8OIscmLtu2FMKcDgQCEu5bs5sywdAbQ==;LO4DUSVdM1mR4zAgU1oneg=="
 ---

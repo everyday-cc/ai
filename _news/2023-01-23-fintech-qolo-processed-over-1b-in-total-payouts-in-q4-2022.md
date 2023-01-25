@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "What’s in store for FinTech in 2023?"
+    excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."
+    publishedDateTime: 2023-01-23T12:23:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Whats_In_Store_For_FinTech_In_2023_Feature.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
   - title: "Top 10 fintech disruptions to watch out for in 2023"
     excerpt: "From new technologies to tough regulations for crypto, 2023 is already looking like a year of change for fintech."
     publishedDateTime: 2023-01-24T12:10:00Z

@@ -92,22 +92,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
-  - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
-    excerpt: "The tech giant described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
-    publishedDateTime: 2023-01-23T18:38:00Z
-    webUrl: "https://www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
-    ampWebUrl: "https://www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 89
-    images:
-      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Microsoft announces major investment in artificial intelligence startup OpenAI"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can generate readable text, images and computer code."
     publishedDateTime: 2023-01-23T16:45:00Z
@@ -258,20 +242,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
-  - title: "OpenAI Co-Founder Sam Altman Doesn't See Artificial Intelligence Ending Google, Discusses Microsoft Partnership And More"
-    excerpt: "OpenAI co-founder Sam Altman shares thoughts on what could be ahead for artificial intelligence. One of the hottest topics of 2023 is likely to be artificial intelligence and the company OpenAI ..."
-    publishedDateTime: 2023-01-20T16:03:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30491171/openai-co-founder-sam-altman-doesnt-see-artificial-intelligence-ending-google-discusses-microsoft-pa"
+  - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
+    excerpt: "The tech giant described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
+    publishedDateTime: 2023-01-23T18:47:00Z
+    webUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/20/samaltman.thegrove.flickr.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 49
   - title: "Microsoft Expands Access to AI Tools for Businesses"
     excerpt: "Microsoft wants every single one of its products to have some AI capabilities and is investing billions to make that happen."
     publishedDateTime: 2023-01-23T14:48:00Z

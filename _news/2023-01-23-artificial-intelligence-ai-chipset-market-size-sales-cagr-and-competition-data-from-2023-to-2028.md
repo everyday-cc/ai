@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23"
 type: article
 quality: 103
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Size Estimation, Share, Future Trends, Industry changing aspects CAGR, New Technologies and Forecast to 2029"
+    excerpt: "Global Face Recognition Systems MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market"
+    publishedDateTime: 2023-01-25T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-estimation-share-future-trends-industry-changing-aspects-cagr-new-technologies-and-forecast-to-2029-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

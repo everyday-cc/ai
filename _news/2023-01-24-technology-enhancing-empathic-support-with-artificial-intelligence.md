@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI in ICT (Information and Communications Technology) Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI in ICT (Information"
+    publishedDateTime: 2023-01-24T03:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence on forefront thanks to new technology"
     excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
     publishedDateTime: 2023-01-22T18:02:00Z

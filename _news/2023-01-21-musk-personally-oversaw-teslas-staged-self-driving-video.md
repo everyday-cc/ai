@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk oversaw staged Tesla self-driving video, emails show"
-    excerpt: "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,"
-    publishedDateTime: 2023-01-20T15:25:00Z
-    webUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/"
-    ampWebUrl: "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 104
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1233956223-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Musk oversaw falsified video of Tesla 'self-driving' capabilities"
     excerpt: "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ..."
     publishedDateTime: 2023-01-22T18:48:00Z
@@ -66,15 +50,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 49
-  - title: "Elon Musk oversaw video exaggerating Tesla’s self-driving capabilities"
-    excerpt: "The company’s CEO wrote to Tesla’s Autopilot team after 2 a.m. California time in October 2016 to emphasize the importance of a demonstration drive to promote the system"
-    publishedDateTime: 2023-01-20T14:13:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/01/20/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 19
   - title: "Elon Musk oversaw video that exaggerated Tesla self-driving capabilities"
     excerpt: "In an Oct. 19 call with reporters and blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be ..."
     publishedDateTime: 2023-01-20T23:31:00Z

@@ -29,20 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Neural Networks Market Insights : Industry dynamics, New Technologies and Forecast to 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A latest"
-    publishedDateTime: 2023-01-23T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-industry-dynamics-new-technologies-and-forecast-to-2029-2023-01-23"
+  - title: "Technology: While AI fascinates, it brings up questions"
+    excerpt: "Like any technology, whether AI is a net gain or net loss for society depends on how we humans choose to use it. On the positive side, advancements in AI can do things like help doctors to diagnose illnesses or help scientists combat climate change."
+    publishedDateTime: 2023-01-22T11:00:00Z
+    webUrl: "https://www.tennessean.com/story/money/tech/2023/01/22/technology-while-ai-fascinates-it-brings-up-questions/69819021007/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Tennessean
+      domain: tennessean.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.gannett-cdn.com/presto/2022/12/19/PNAS/6d276d11-9f5d-4c9e-861c-4bc059ccc693-NASBrd_11-19-2016_Tennessean_1_B002__2016_11_18_IMG_laptop_1_1_QQGF5VQU_L922754430_IMG_laptop_1_1_QQGF5VQU.jpg?auto=webp&crop=506,285,x0,y25&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 676
         isCached: true
+  - title: "Technology: Enhancing empathic support with artificial intelligence"
+    excerpt: "An artificial intelligence (AI)-based chat interface, named HAILEY, that offers assistance to mental health peer supporters who interact online with individuals seeking support, is described in a paper published in Nature Machine Intelligence."
+    publishedDateTime: 2023-01-24T01:28:00Z
+    webUrl: "https://www.natureasia.com/en/research/highlight/14361"
+    type: article
+    provider:
+      name: nature　asia
+      domain: natureasia.com
+    quality: 19
+  - title: "Artificial intelligence on forefront thanks to new technology"
+    excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
+    publishedDateTime: 2023-01-22T18:02:00Z
+    webUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology"
+    type: article
+    provider:
+      name: WPTV-TV
+      domain: wptv.com
+    quality: 17
 
 secured: "WB/OXJ/0J0Utdtqv9wX/BpyBGD61KOe6cUlRdYvCvdvscwLbmIyH2eeP/OjFtnRO+XdmyzsbLd36iSJKJUgiSHMgDnPBQxxlqB5J04RO36sdrpqcW6ATwMvtCqXECVpRbi6538bM3dXvOrylXkVtNm88uVpKRRWApAE6O2QzW5cBfg/tHUswpJ5E3yuoasqm4LlPaLrVsaDKQgt7Q4G+AMfdoyVPlD0S0tWWvTIcv563UmIpaLNmiQcvfmQL7OyzzeRQvKyuZnGPaOEnKVEII/sjUWQmY2hh2cAb6iReLI2DC40nr7Mmo8tLkN0OREj7sYd4l+6e/dRIwIDAQ7jCcX9ZOpVTLEfYQEIrG1uSGMM=;lUQr2gaT8376B0bLxxVx2Q=="
 ---

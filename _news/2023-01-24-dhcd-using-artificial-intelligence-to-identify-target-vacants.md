@@ -8,8 +8,8 @@ webUrl: "https://www.wmar2news.com/infocus/dhcd-using-artificial-intelligence-to
 ampWebUrl: "https://www.wmar2news.com/infocus/dhcd-using-artificial-intelligence-to-identify-target-vacants?_amp=true"
 cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/infocus/dhcd-using-artificial-intelligence-to-identify-target-vacants?_amp=true"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

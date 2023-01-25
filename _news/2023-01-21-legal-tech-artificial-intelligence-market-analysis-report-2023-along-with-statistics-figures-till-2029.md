@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Data and AI Ethics Market Size 2023 Will Touch A New Level In The Upcoming Year 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-25T00:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud AI Developer Services Market Latest Research Report 2023-2029"
     excerpt: "As per latest research on Cloud AI Developer Services Market (Report spread across 116 Pages), the growth of Cloud"
     publishedDateTime: 2023-01-24T16:37:00Z
@@ -71,10 +85,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Technologies of Voice Recognition Market Research Report 2023-2027"
-    excerpt: "The “Technologies of Voice Recognition market” research study provides a detailed examination of the market based"
-    publishedDateTime: 2023-01-24T07:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-research-report-2023-2027-2023-01-24"
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-25T00:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Neural Networks Market Insights : Industry dynamics, New Technologies and Forecast to 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A latest"
+    publishedDateTime: 2023-01-23T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-industry-dynamics-new-technologies-and-forecast-to-2029-2023-01-23"
     type: article
     provider:
       name: MarketWatch
@@ -85,47 +113,76 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data Science and Machine Learning Service Market Analysis Report 2023 Along with Statistics Figures, till 2029"
-    excerpt: "As per latest research on Data Science and Machine Learning Service Market (Report spread across 102 Pages), the growth"
-    publishedDateTime: 2023-01-23T03:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-22"
+  - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
+    excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
+    publishedDateTime: 2023-01-23T10:21:00Z
+    webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 53
+    images:
+      - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
+    publishedDateTime: 2023-01-24T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-mobile-artificial-intelligence-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
-    publishedDateTime: 2023-01-23T14:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
+  - title: "2023 will be the year of AI accountability"
+    excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
+    publishedDateTime: 2023-01-24T12:00:00Z
+    webUrl: "https://www.thedrum.com/opinion/2023/01/24/2023-will-be-the-year-ai-accountability"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2023-01-23T17:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-global-market-report-2022-rising-demand-/2023/01/23/9747446.htm"
+      name: The Drum
+      domain: thedrum.com
+    quality: 39
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/637022/aiethics.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
+    excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
+    publishedDateTime: 2023-01-23T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-artificial-intelligence-based-personalization-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
-    excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
-    publishedDateTime: 2023-01-24T11:36:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/24/9747825.htm"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Market (New Survey) Report 2023: To Garner Flourishing Growth Across World in Coming Year with Top Countries Data"
+    excerpt: "The “Artificial Intelligence Market” Research Report 2023: incorporates a thorough qualitative and quantitative"
+    publishedDateTime: 2023-01-24T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-new-survey-report-2023-to-garner-flourishing-growth-across-world-in-coming-year-with-top-countries-data-2023-01-24"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0ghJR7KeankXMJRdl7cF9CuaDNvIKp5FrwJLznHjNRrTKTsPwKCK8Q14tsO5QKy21gNvYCOb52LepBJ2Qkv3GZZ/ahNLcthoKNsoRxIVS4xOJDUXZLPacI235ddKwzHxQJNlgWA9Wdwgv+SMvzfz12btlf13m2vm1Wweb7AOxxEABOPIhvAsy8bQ93R9dEGHmYZ7G3xOeBfvfgoigaUtz4q2a3bnAsIWplM7GKuNYR59PYfyan1sJZi00EJNGsb3lj2bKW/JFiNxf4JBqv+RjfDNV7rGtF8fWvyCHnyrGsMBvUBn0fP13qOgpN9ujeBVm8IJOU7auNrPV+pLhfvvbUy71+6WumNk36W1XZ2hp2g=;1GcW6q+llqVwT2ovTdoebA=="
 ---

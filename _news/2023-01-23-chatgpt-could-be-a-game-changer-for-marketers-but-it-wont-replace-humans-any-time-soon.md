@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: ChatGPT could be a game-changer for marketers, but it won't replace humans any time soon"
-    excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest. In essence, ChatGPT is an AI-powered chatbot allowing users to simulate human-like conversations with an AI."
-    publishedDateTime: 2023-01-23T17:08:00Z
-    webUrl: "https://techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.html"
-    ampWebUrl: "https://techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.amp"
+  - title: "AI experts on whether you should be \"terrified\" of ChatGPT"
+    excerpt: "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code."
+    publishedDateTime: 2023-01-22T17:38:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 31
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/chatgpt-could-be-a-gam.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Is ChatGPT a form of magic or the apocalypse?"
-    excerpt: "The new generation of artificial intelligence has ingested an internet’s worth of data and generates content that appears to be magical. It might also be a form of creative bankruptcy from which humans never recover."
-    publishedDateTime: 2023-01-23T18:00:00Z
-    webUrl: "https://www.afr.com/technology/is-chatgpt-a-form-of-magic-or-the-apocalypse-20230117-p5cd4p"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_1.0347%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_248/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/17c81cf72fe7d0573f6927940263850e594b7139"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
         width: 1200
-        height: 628
+        height: 630
+        isCached: true
+  - title: "AI and The Future of Work: 5 experts on what ChatGPT, DALL-E and other AI tools mean for artists and knowledge workers"
+    excerpt: "By Lynne Parker, University of Tennessee; Casey Greene, University of Colorado Anschutz Medical Campus; Daniel Acuña, University of Colorado Boulder; Kentaro Toyama, University of Michigan, & Mark Finlayson,"
+    publishedDateTime: 2023-01-22T16:02:00Z
+    webUrl: "https://businessmirror.com.ph/2023/01/23/ai-and-the-future-of-work-5-experts-on-what-chatgpt-dall-e-and-other-ai-tools-mean-for-artists-and-knowledge-workers/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 15
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/explainer01-012323.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "ChatGPT could be a game-changer for marketers, but it won’t replace humans any time soon"
     excerpt: "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the"

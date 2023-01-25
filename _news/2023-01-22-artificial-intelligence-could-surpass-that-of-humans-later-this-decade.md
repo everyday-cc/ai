@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-su
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: GizChina
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 639
     isCached: true
+
+related:
+  - title: "AI Is Improving Faster Than Most Humans Realize"
+    excerpt: "Technologies such as ChatGPT will profoundly change the economy, but they are getting better so quickly that it’s impossible to say how."
+    publishedDateTime: 2023-01-23T07:44:00Z
+    webUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 19
 
 secured: "Hc1IPYfARN8u41RQjWVW923YUDtzS+I2UwpDgT6AekxJbQEAqbhoG3ZT7zcWU5SIdxMZXamxIJJPeCTNkAdRSdX+ZFX3lXKjWnmmdMWk0Tu2lbIJjje7fhFNUQMjN+7wjn5oNhP4fCWR/vBT0VXbJsTchHzkv+dTBq/OSXuaZhvJxxbB2whflr+VuDnVk0wFZCYE/OcW2WDDfkVLFBRlV2D52miCPgIk3NcydAbq7zoFGIiNE4te+vBozSnF0Qdrfc8m/i4IXDRDLCSWP6sIDiyOUDtGxeWlpvBWXYUjP+jldiBMJNe7euOXt1w3Qw+6sDLO/7h+kfgz+vAHvK5mAsumhYXb21ZO+hKbbo8qsJs=;jjUwQvTS5GnmXsKEmmzjGg=="
 ---

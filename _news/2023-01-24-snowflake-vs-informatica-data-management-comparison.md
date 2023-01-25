@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-24T00:48:00Z
 originalUrl: "https://www.eweek.com/big-data-and-analytics/snowflake-vs-informatica/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/snowflake-vs-informatica/"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "9ep3xMP7oeDgwZYcg1wrpYVUH3MbwgPITy56aQrbW0fl1AE+GiSEjI9o3858DbLTm60YxxhoPnpfRNX/plnweN2HszE7Y5L70z8o9W16M7FYOf03Ky02wgVJg9Ge3GKmTgryry5Yy33Gqjqbq5N951HkNyrX7uUcLGork9/f0W0eI/W2R1NZZBedYD6vwFUGZAwS8S33oaihH2TPmHrhb064ZRX0i+8NPTvzcf/7/2JjZ7nFjr6kd/KmD63IWKo4j/BAGfX7esSP7m3xp8FSVN4iBQy1nIbMt+MojuP3TmW0yNG3KDCI+0w/lwBiswA2Fz3K++2SumiYoddRYdDr+PMvvtfUzoMcD+9N+irUjCw=;guwNpU7n61kr3FHji2nsDg=="
+images:
+  - url: "https://www.eweek.com/wp-content/uploads/2022/01/Fortinet-christina-wocintechchat-com-R_W_9D-53lw-unsplash-1-1.jpg"
+    width: 800
+    height: 600
+    isCached: true
+
+secured: "o6nnGe9I7XiiVuBj0v6CKJWuFI18LH1YLupsehnGvAHea6nEfLrAwGEcxjcEWUnAmzOMObDAWzJqFjF0rD6MOyB3zsAdNY7d8JrSPzw9seKb/k0ktLpJTuqo8+Cf34M/CBKK01LzBKNMojIrugIa/j64rrX9ecsr1Iu+uAcA57julwd+PZ/DNjWdsziyBhJ1qcepWleMLLItZ9WaiinswqrUgMSs5cRFnao4R/7bt6CLdLt79NcHQUan9DJ4hH+z3sD6BstO5YCNFkIuMdHNdhCeAWCgkCn5LlrwnfjHBi+tP3N3iVObpQsX2zJum/vfMjOTbrUQ07nkowN/m03kN6iKop/aZiy/mtF2N23/iaQ=;1R0Zhn30RkHSE0x6uOckig=="
 ---
 

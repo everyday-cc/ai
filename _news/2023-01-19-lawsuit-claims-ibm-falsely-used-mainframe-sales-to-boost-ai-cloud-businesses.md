@@ -5,6 +5,8 @@ excerpt: "A lawsuit has been filed against 13 current and former IBM executives,
 publishedDateTime: 2023-01-19T03:03:00Z
 originalUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
 webUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html"
+ampWebUrl: "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/"
 type: article
 
 provider:
@@ -16,6 +18,12 @@ topics:
   - AI
   - AI in Sales
 
-secured: "LXpu1B8y0ne0OaE9pXnBNmT5Ju5Ba8J1Ofnzns1stjfNzhMOgiwY2SxXLEVLNNDInWenpjnb1IFLIs9es7Bc/uhhOIEG2g0TIeiItpH5VOgGrz2fGRZrT/UZcog+eGjJWFbeQ/KdbtP550eagyZpgOqgEjKVrD2Xb8wSbBYSeQZxuj+fCnRrS/ahqrSUs6XIdDvVIrnvLWm64KyTv34BI2o7NwFARXuS/wyhIqmjX1jdynvcLHtU0XotC+lNGyPSvnL/h1jg2VaICmaaVaC7KVGoGr+RxBqsKlB/G5UlZ3T4UC9gN+RpMG4FkzeYcPvqeOKMQ/Wv0CkZZgEnCYsXYnD/ppmWVuuRwHiV8SKyfkg=;PSfpDVbdpo7ylSsimhRq0Q=="
+images:
+  - url: "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-5.jpg?quality=50&strip=all&w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "GYiVVNmH30F3cebF87BhBc5VrETO5oSZoNOLO7CVN06LYGwjvbqwCU30C0WDF+ieb1MhvoVvHURzU+korfpEuRb82VfI7+Xf6EQnlUk4spw8cdbOc+hOLtFSgYclsS8ZRGkh8WatvVS7oNwt8ZcJ2kofwf+hz5CzjdDuPNWqgZj27Ss7NxPJ+DgAx1JV75+Cc6A/Y/fx4InXusTZuRTsrsKJZOHhPC0Ds6tKA3cDxC4o8omX+VFUy8qvOOm4T9sl/R+djWd5wvZ3E/S9V5zRFFVZEtI75q1WEAGtmzDI2kuEv1J7gB+nvAMVA4Vz0TfIhkTElsbYk7AqBtQNOA/M3sKgfhHHzSUSSHZoqLbfQZM=;hVnh9Jjb1YsCWRelhxwSRA=="
 ---
 

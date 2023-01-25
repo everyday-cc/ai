@@ -30,16 +30,18 @@ related:
   - title: "AI-powered lawyer to defend in court next month"
     excerpt: "Artificial intelligence is being used to create art, answer your questions, and write essays. What about an AI-powered lawyer?"
     publishedDateTime: 2023-01-24T20:29:00Z
-    webUrl: "https://www.wxyz.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+    webUrl: "https://www.wcpo.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+    ampWebUrl: "https://www.wcpo.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
+    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
     type: article
     provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 39
+      name: WCPO Cincinnati
+      domain: wcpo.com
+    quality: 59
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9c7d701/2147483647/strip/true/crop/4121x2164+0+292/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
-        width: 1200
-        height: 630
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6025408/2147483647/strip/true/crop/4121x2318+0+214/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "+tBSq4rquW9hW36kl9gank+lArfbQ5f4OVCT+YDI2ZleXMaJSNGA7LWiC4ovWSNsH3PbJ+rKeDkrgkjBz/NVaKfkDmYwjd8SOGN6VavZoDDuDAHMkBLl2sXci4jKGX+PjX01JsqSxTm69ii4MM7hFxIm5Mur3dwlRuLqUAWozbnKfwIA3/ywXkSAR0cc0oQxi5JUVJnOPFNopDl7DBPgnpz/a45JljhY+0S6Yp9XV5LcmO6TR98Rt/kvvA9XWn3XhwmCl+us68KVtNbMaWiBPIs9TWKB9Ro/NL9rVZRX+3zsI8PbLpVpQqMWqtJZDPaRVxaXN1EYUaSyoaSBVLqMFeKe+Eswx4JA+ZAWyBXWh1tWwP6AMqZmEJ71BDZYsW2l7AGZ2qYK4rN5J8IsdfKfYLL3A3tuIwKSDnJ3Kd9FYAFKpq1MCB+Yl7Wa/+QbKz1JfMyxW/x+OH6/l2K6kp18p1AW4NDsTWgolJsQCOZ0e7qQqZZrX2tPmilna2ni2gloJrH7tH9AInjO2K9BdbCQHQ==;i31zOy1AizFKE2hnFOPvPQ=="

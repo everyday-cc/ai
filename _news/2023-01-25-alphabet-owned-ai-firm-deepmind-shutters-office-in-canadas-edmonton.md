@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
-excerpt: "London-based DeepMind's Edmonton office is the only international site directly managed by the artificial intelligence firm, making it far more resource-intensive to operate, the spokesperson said. All other DeepMind sites are housed within Google-managed offices."
-publishedDateTime: 2023-01-25T02:16:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
+excerpt: "DeepMind Technologies, owned by Alphabet, is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google's parent announced it would lay off 12,000 employees."
+publishedDateTime: 2023-01-25T07:42:00Z
+originalUrl: "https://www.channelnewsasia.com/business/alphabet-owned-ai-firm-deepmind-shutters-office-canadas-edmonton-3229161"
+webUrl: "https://www.channelnewsasia.com/business/alphabet-owned-ai-firm-deepmind-shutters-office-canadas-edmonton-3229161"
 type: article
-quality: 74
-heat: 124
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-97294835,imgsize-29614,width-1200,height-628,overlay-ettelecom/alphabet-owned-ai-firm-deepmind-shutters-office-in-canada-s-edmonton.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -102,6 +100,6 @@ related:
         height: 800
         isCached: true
 
-secured: "OsDPCMM2pJ5x35q+jdQsDkgGPu5oP5+wJ+D8opPY68aS77OwFm2UM/8310Mm87J0OIhcqCaUwUOQJTQUE8d+zx5jIHcr3K4MDALPgOV5/MkOwBJDXOqsNx4/ESiWU32DmtiLbF3E/a5sQvD7VZQmz2FCDAZEdodYBq1QUo3/GxNZgAUUAGwQQjWbHZ9yYVh0RgEGfFi4+3LdCxBFWb9lUQMZ1V7u6v4VAgowDkal1j0uoF3EWmclOj7npITVkF0IlEvzYvGdkoMqWXcMmZZ4yLnQgrP//3zFGUOWsQglcOajJBf7qPS8+1Cf9j6ORjIPZsQ8xpBD32QMKc32qwnpDbtjAJLJ7aBJj7CQjG/MZq4=;i7aqhdI5uq35P8rD6K22vA=="
+secured: "cJw7g0vPf6ewAHpVxT6k150N8c2r6WCC8t8jAbOB6i/+GA//X5xRRmIvdBDb4FKdA1kFfLoRlxFLiU+laoAhZMcFeuB8p74qwURbdeRxD3D7nZa/7lS/fq9uwZSJUudB2xoyrveN9TUibxj2KY7/eXZBoS7M2568qqfRfwqauKDC9hjhq0fByP0YUmH2ROzuK7DOGXwwL+jsqakbQz9AMbLP1bynBYmMX3EL43QfDkOZ+Q2RojtKdRyvS1wCs/GvWcA6FFGWfwxwPv5YlgNwe+Q2xP0ruvwOSBRYw0+EImPWSXn/cg4AHIy0HftCS/pFAq6GDT+vlf3wKnFaVg1NWbxP45gUZvbWHjQNcoDVdnY=;HeoCkubtrnbiGcjLBo1l3A=="
 ---
 

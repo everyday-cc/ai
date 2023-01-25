@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T05:51:00Z
 originalUrl: "https://www.livemint.com/news/india/republic-day-2023-delhi-police-announces-ban-on-flying-objects-other-restrictions-on-kartavya-path-11674620318641.html"
 webUrl: "https://www.livemint.com/news/india/republic-day-2023-delhi-police-announces-ban-on-flying-objects-other-restrictions-on-kartavya-path-11674620318641.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mint

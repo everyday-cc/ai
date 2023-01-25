@@ -30,6 +30,15 @@ related:
       name: iotevolutionworld.com
       domain: iotevolutionworld.com
     quality: 38
+  - title: "4 healthcare AI updates"
+    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Four AI in healthcare updates Becker's has covered since Jan."
+    publishedDateTime: 2023-01-20T23:07:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/4-healthcare-ai-updates.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "puGi+yaFWSDZNeD3vzEvZXvbHLxjUAyMSAliX/BNlGg+Sr5uf7gY6Zh9ZcPMss8adRBiL38j8ymQumkyWfRWij2/NqrTgeOo2hsqUOK9GK0jD34BSe1SJdOf5lRImNTjBab0ycBMGtuYjxJLDAk6DFeHc9OdIZtJnoVHDM9p9TpqUwmL9WUlx4N/Mom7LWKBVF5sgWXTbTEZVuOmNMfjE0UXVad5aTqHRWr5lfMvErqSwZcEyhjp/0k+XPjB/wd7bI42fANHBkElePkalG9+YbGbj9u1WxeR5XJvWbfJjRgWq5gZ1iL+hA1XSDAw5RmJlQqP2hMRXpcmRjTCL5PHQCLZwMXNpgI5BlEvqVZyvoI=;MJ8EXuZB49POg7pGIoCGBg=="
 ---

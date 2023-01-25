@@ -102,15 +102,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "WATCH: How do AI art generators work and should artists fear them?"
-    excerpt: "Visual artists, designers, illustrators and many other creatives have watched the arrival of AI text-to-image generators with a mix of awe and apprehension. This new technology has sparked debate around the role of AI in visual art and issues such as style appropriation."
-    publishedDateTime: 2023-01-20T15:59:00Z
-    webUrl: "https://www.iol.co.za/news/feel-good/watch-how-do-ai-art-generators-work-and-should-artists-fear-them-24aaba97-ce37-4d79-8990-ca4a43be7fb1"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
   - title: "CNET’s AI-Generated Articles Riddled With Plagiarism"
     excerpt: "CNET has dug itself into an AI-generated pit. Earlier this month, the tech-focused website was caught quietly publishing AI-generated articles without disclosing the development to readers. Then, the site was embroiled in potential legal trouble when it came to light that a multitude of errors and plagiarism were discovered in the bot’s work by another tech outlet,"
     publishedDateTime: 2023-01-24T01:16:00Z

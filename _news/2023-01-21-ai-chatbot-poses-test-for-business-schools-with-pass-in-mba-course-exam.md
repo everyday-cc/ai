@@ -18,38 +18,45 @@ topics:
   - AI
 
 related:
-  - title: "A chatbot that lets you talk with Jesus and Hitler is the latest controversy in the AI gold rush"
-    excerpt: "The Historical Figures app is available in Apple's App Store and lets you chat with notable people from history re-animated by artificial intelligence."
-    publishedDateTime: 2023-01-20T15:59:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/chatgpt-gpt-chat-bot-ai-hitler-historical-figures-open-rcna66531"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66531"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66531"
+  - title: "Did Johnny write this or a robot? AI chatbots rock Michigan schools"
+    excerpt: "Artificial intelligence writing generators like ChatGPT can compose school assignments at the click of a button. Is it the end of writing as we know it? An invitation to cheating? Or a handy tool like a calculator?"
+    publishedDateTime: 2023-01-20T23:48:00Z
+    webUrl: "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools"
+    ampWebUrl: "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp"
+    cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Bridge Magazine
+      domain: bridgemi.com
     quality: 74
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230120-Historical-AI-Chat-jg-aaa290.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-01/teacher%20with%20student.jpg?itok=0Njw6XVo"
+        width: 480
+        height: 320
         isCached: true
-  - title: "New AI app slammed for allowing users to chat with Hitler and Jesus"
-    excerpt: "Historical Figures became available on Apple’s App Store earlier this month and is climbing the charts in the “Education” category."
-    publishedDateTime: 2023-01-23T17:12:00Z
-    webUrl: "https://nypost.com/2023/01/23/historical-ai-app-slammed-for-allowing-users-to-chat-with-hitler-jesus/"
-    ampWebUrl: "https://nypost.com/2023/01/23/historical-ai-app-slammed-for-allowing-users-to-chat-with-hitler-jesus/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/23/historical-ai-app-slammed-for-allowing-users-to-chat-with-hitler-jesus/amp/"
+  - title: "Michigan teachers wary of new artificial intelligence software"
+    excerpt: "ChatGPT has been around since November and has taken the internet by storm, but is raising questions in Michigan classrooms."
+    publishedDateTime: 2023-01-23T03:02:00Z
+    webUrl: "https://www.detroitnews.com/story/news/education/2023/01/23/michigan-teachers-wary-of-new-artificial-intelligence-software-chatgpt/69827626007/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 37
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/comp1-9.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://www.gannett-cdn.com/presto/2021/08/31/PDTN/d24ffaa2-673b-4ac9-a796-0798f6ce1752-genericschool.jpg?auto=webp&crop=5186,2917,x106,y876&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "AI chatbot’s MBA exam pass poses test for business schools"
+    excerpt: "Elon Musk has long dismissed the MBA as irrelevant or damaging, but now a company backed by the outspoken tech entrepreneur is threatening to directly undermine the value of the flagship business degree: the artificial intelligence chatbot ChatGPT."
+    publishedDateTime: 2023-01-21T14:00:00Z
+    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c?amp"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "F+KeWWefbCkMT3zXMdKH7Way/vPiPOfAUJWr5R/KI1TwD417tYCBEu2i46TmzuWjoGuX61fmvM5MBgGgAAK+dWR7WdaKxLzjCttQHeGhv4+hZQa6e9pQLLrFEAdrvuKtcN5IB39wacEIulxNyczkIRvj68pjUaBDQtv0rPdUVrmwCafcsFQX9wwnstOC77b1QuynyhJIIN2tERMC89ydxyjSdYU6U1b7yk7b0uKK0/4FOCqa6AwjO3EETyYPwEZrYGMT3maL4W35Wvo4e3gV9QFH6HFMLHjsQNnOnqrvkjdbw8ZnGngGaZ0pwoXGIUhGcX7SZ2QYX6qR5rJdn3nw+TEaf7PDcq2Yq7awgIdRbSFdbnQ6p8fkp4sq+LkY5xvBz4e+5daenGrlJj+y3h8KNyQPEbMEs7bFKGgJzBESHbuPBVnfWdohAl8OA1wdK4IY0YsjpU1e9OqXZGS1fC0fxCHmnsZPzQzFGr/IryVQY6SHwOODPugzIs3ehaGTXstCaWC2HAe3J0fxQ9KPU7k+GA==;wdT/qyQYzW33twMaKE9j8A=="
 ---
