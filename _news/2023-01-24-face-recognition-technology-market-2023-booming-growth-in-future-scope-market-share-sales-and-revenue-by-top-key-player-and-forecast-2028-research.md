@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-technol
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -30,48 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technologies of Voice Recognition Market Research Report 2023-2027"
-    excerpt: "The “Technologies of Voice Recognition market” research study provides a detailed examination of the market based"
-    publishedDateTime: 2023-01-24T07:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-research-report-2023-2027-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition Market International Business Analysis, Development Outlook and Regional Strategies 2029"
-    excerpt: "In 2023, Current Speech Recognition Market Size | 2029 | Newest [117] Pages Report Speech Recognition Market Size"
-    publishedDateTime: 2023-01-24T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market Research Report 2022 by Product Type, Application, Region And Global Forecast to 2030"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2023-01-23T05:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-2022-by-product-type-application-region-and-global-forecast-to-2030-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Technology Market Size 2023 with Strong Supplier, Key Factors, Driving the Market Growth, Information 2029"
     excerpt: "Face Recognition Technology market has witnessed growth from USD million to USD million from 2017 to 2022. With the"
     publishedDateTime: 2023-01-24T00:57:00Z
@@ -100,33 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
-    publishedDateTime: 2023-01-23T14:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
+  - title: "AI in ICT (Information and Communications Technology) Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2029"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI in ICT (Information"
+    publishedDateTime: 2023-01-24T03:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2029-2023-01-23"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2023-01-23T17:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-global-market-report-2022-rising-demand-/2023/01/23/9747446.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
-    excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
-    publishedDateTime: 2023-01-24T11:36:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/24/9747825.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6T3z6vxp+lKRfZZtJlfeGLNMSu4Gf4hm1OFP2pjyoq9YgDA/hPZc0sqPUo5L7nsHivatN/ircGnioQIuvJZmNVTCNC3qLsaDGenx9ySGabPVe28xqkr4wzHH+62SjRRGJMPAs9dhOHvGtOGN+PZnr7HJdyUmMtwFuSu79L0uT/Y/Ki5u+JXf2WLDJBYlFrHQsnMzNvcQFQHZ2xebuyckoupRL6DyZNZ9LWGY8Y+dpawOwj/zF4CwDb7ns/VWim0ukbv6D+ePofOeeHv3S6J3OUkODaNcK5QZpQbfyP58X2+5VGua7j6p2cp7uZrnK60nldKRYv6825t1IX4nZ9hSKz9ZCG7Jj9P3CrvIXW/JwFY=;akyP2rdogQFy7ubZWTvd5g=="
 ---

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-27-seal-conservation-efforts-aided-by-new-facial-recognition-technology.md",
+      "title": "Seal conservation efforts aided by new facial recognition technology",
+      "excerpt": "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
+      "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/harbor-seals-comp.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
+      "publishedDateTime": "2022-11-26T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-26-sd-times-news-digest-amazon-announces-rekognition-custom-labs-scalajs-100-rc1-and-julia-13.md",
       "title": "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3",
       "excerpt": "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case.",
@@ -1352,58 +1395,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-amazon-to-test-facial-recognition-technology-to-verify-seller-identity.md",
-      "title": "Amazon to test facial recognition technology to verify seller identity",
-      "excerpt": "Amazon will test facial recognition, forgery detection, and other automated technologies as a new alternative for verifying the identities of online sellers. The test will be rolled out as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/amazon-to-test-facial-recognition-technology-to-verify-seller-identity/",
-      "originalUrl": "https://www.geekwire.com/2022/amazon-to-test-facial-recognition-technology-to-verify-seller-identity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/11/amazon-id.png",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

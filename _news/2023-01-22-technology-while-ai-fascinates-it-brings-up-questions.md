@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in ICT (Information and Communications Technology) Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI in ICT (Information"
-    publishedDateTime: 2023-01-24T03:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Technology: Enhancing empathic support with artificial intelligence"
     excerpt: "An artificial intelligence (AI)-based chat interface, named HAILEY, that offers assistance to mental health peer supporters who interact online with individuals seeking support, is described in a paper published in Nature Machine Intelligence."
     publishedDateTime: 2023-01-24T01:28:00Z

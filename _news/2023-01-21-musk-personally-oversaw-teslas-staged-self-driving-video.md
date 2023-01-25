@@ -41,15 +41,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Elon Musk Reportedly Oversaw Staged Tesla Self-Driving Demo"
-    excerpt: "The Tesla \"Full Self Driving\" feature is one of the brand's biggest draws for potential consumers. According to Tesla, the $15,000 feature allows the car to change lanes automatically ..."
-    publishedDateTime: 2023-01-20T17:12:00Z
-    webUrl: "https://www.slashgear.com/1173675/elon-musk-reportedly-oversaw-staged-tesla-self-driving-demo/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
   - title: "Elon Musk oversaw video that exaggerated Tesla self-driving capabilities"
     excerpt: "In an Oct. 19 call with reporters and blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be ..."
     publishedDateTime: 2023-01-20T23:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checko
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/"
 type: article
 quality: 125
-heat: 325
+heat: 335
 published: true
 
 provider:
@@ -120,6 +120,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VNDWT2UXERGS5D6XYF6MMB2LG4.jpg"
         width: 4121
         height: 2747
+        isCached: true
+  - title: "Microsoft says cloud demand waning, plans to infuse AI into products"
+    excerpt: "Cloud revenue growth has been slowing quarter-on-quarter for the Windows maker, which expects the growth to continue to decline through the year."
+    publishedDateTime: 2023-01-25T06:45:00Z
+    webUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.html"
+    ampWebUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/10/10/cso_microsoft_cloud_app_security_cloud_apps_by_thinkstock_625397192_3x2_1500x1000-100801369-large-100934412-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft Invests Billions More Into AI, Which It Believes Could Be As Big As The Internet"
     excerpt: "Microsoft believes AI could be a \"transformative\" technology that could make an impact as big as the PC, the internet, and mobile devices."

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-09-the-potentially-adverse-impact-of-twitter-20-on-scientific-and-research-communication.md",
+      "title": "The potentially adverse impact of Twitter 2.0 on scientific and research communication",
+      "excerpt": "In just over a month after the change in Twitter leadership, there have been significant changes to the social media platform, in its new \"Twitter 2.0.\" version.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/twitter-and-research.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.amp",
+      "publishedDateTime": "2022-12-08T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform.md",
       "title": "Bidscale Connect: Linking Government and Industry Through an AI-Powered Platform",
       "excerpt": "Bidscale Connect is now live in Beta with an AI-powered market intelligence platform to power Federal contracting. Bidscale Connect is tailor-made to accelerate the contracting process for Government buyers and Industry vendors.",
@@ -1351,49 +1394,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-were-getting-a-better-idea-of-ais-true-carbon-footprint.md",
-      "title": "We’re getting a better idea of AI’s true carbon footprint",
-      "excerpt": "AI startup Hugging Face has undertaken the tech sector’s first attempt to estimate the broader carbon footprint of a large language model. Large language models (LLMs) have a dirty secret: they require vast amounts of energy to train and run. What’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/",
-      "originalUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/11/nuclear-power-BLOOMa.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/amp/",
-      "publishedDateTime": "2022-11-14T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

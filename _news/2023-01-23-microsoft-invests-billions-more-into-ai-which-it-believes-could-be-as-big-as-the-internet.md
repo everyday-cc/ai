@@ -132,6 +132,22 @@ related:
         width: 4121
         height: 2747
         isCached: true
+  - title: "Microsoft says cloud demand waning, plans to infuse AI into products"
+    excerpt: "Cloud revenue growth has been slowing quarter-on-quarter for the Windows maker, which expects the growth to continue to decline through the year."
+    publishedDateTime: 2023-01-25T06:45:00Z
+    webUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.html"
+    ampWebUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/10/10/cso_microsoft_cloud_app_security_cloud_apps_by_thinkstock_625397192_3x2_1500x1000-100801369-large-100934412-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft adding to its AI ambitions; Musk is back on the stand in trial over Tesla tweets"
     excerpt: "Microsoft’s supercomputers are helping to power the startup’s energy-hungry AI systems, while the Redmond, Washington-based tech giant will be able to further integrate OpenAI technology into Microsoft products."
     publishedDateTime: 2023-01-23T21:00:00Z

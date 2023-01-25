@@ -110,20 +110,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
-    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
-    publishedDateTime: 2023-01-20T17:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
     publishedDateTime: 2023-01-24T09:37:00Z

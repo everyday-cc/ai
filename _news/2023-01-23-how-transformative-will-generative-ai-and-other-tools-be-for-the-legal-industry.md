@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Artificial Intelligence Supply Chain Market 2023 Constitutes Trends, Segment Size, Restraints, and Drivers that Transform the Industry to 2028"
+    excerpt: "A comprehensive research on Artificial Intelligence Supply Chain Market Overview 2023-2028. It displays the market size"
+    publishedDateTime: 2023-01-25T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2023-constitutes-trends-segment-size-restraints-and-drivers-that-transform-the-industry-to-2028-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Generative AI and the Ensuing Computer Human Whisperer"
     excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
     publishedDateTime: 2023-01-23T12:00:00Z

@@ -33,7 +33,12 @@ related:
     provider:
       name: wusfnews.wusf.usf.edu
       domain: usf.edu
-    quality: 12
+    quality: 32
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/3a6109f/2147483647/strip/true/crop/5689x2987+0+107/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F20%2Fjesse-zhang-face-ai-final_custom-20c61e8560ae339ccf6c0ef0ae5b2734e6a0a10f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MozOThrpig3Jvs6/3qsZwbjmWqKmJ9b51GNfe4Ad61H7qSjEpRe0kTrn7U2CzaRVX31VfYDEVuonB9LdfMxVbyhb/vxA8ZiDPl+ZyQB5hHAHoC5g1eKOY5t1KPksjaTDqwHPy5a3rgSpD/cwcekc0er4zr+W3JDohckQzzQVPibrq7IIi0JVjMAMubhSTXwCC/eVUqiCoMd5xKI19N78kfhGjWidbfVfTn5iteHb1XACHsKrB9qSWWrYeI/KZ8mOeVqlr1z5pgqrUmD0fzau61J+FlcB/ZFzDZql23sHQfAdNdtvdxGNzW4ZE7/DcOhKD87ZHsgFNFRPFjz6iWlbbcR92qw2xAq7YDkTmUSL2AE=;C8EspT/3uCV9fY28ESf62A=="
 ---

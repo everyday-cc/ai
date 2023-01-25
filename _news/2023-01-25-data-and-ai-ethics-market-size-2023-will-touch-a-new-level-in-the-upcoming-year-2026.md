@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24"
 type: article
 quality: 77
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
-    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
-    publishedDateTime: 2023-01-20T17:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -26,6 +26,17 @@ images:
     height: 313
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
+    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
+    publishedDateTime: 2023-01-23T14:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
+
 secured: "4sQMslPF4bqVQ/wtf51sJwRpKXmyu8ea+A76pxHhwutpROlOTX7mGuyFv4Q+HBq1KoDbUFFsttCpHJ+yFO3zTw6kob0NrU1aON4dgtghAN0yavtWG0Lb9a+TJudjXjn1vxRKdrbEO+Vp+VhiH1S4WxeJO7oWVyecJ+DUfB5aEeRb12KNaBZ6/ck3QM/gKKszeemFVLtwePlauVBKfcuctMngsV6SUEOqdv48NBKc6tAnop3rz/pCAq5r8//AC9PBziGUrVQNh2ByWPQmECZ7w+80iqXdy7mTA59+4v9c2FgLS5v+t9QpKvyFzay2oPQ+tAr9jyGkzZTHxSng052VCSaMChiTQdnEvutCZzr+i88=;fbiWSQiWFmpRC/zYdwk+vA=="
 ---
 

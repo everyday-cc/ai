@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/international/explained-is-chatgpt-late
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/explained-is-chatgpt-latest-ai-innovation-a-trend-or-a-threat--news-255981/amp"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Outlookindia
@@ -26,6 +26,17 @@ images:
     width: 1000
     height: 665
     isCached: true
+
+related:
+  - title: "This state senator drafted legislation to regulate artificial intelligence technology — with some help from ChatGPT"
+    excerpt: "Could ChatGPT one day run for political office? Probably not. But the artificial intelligence chatbot is already helping elected officials get some work done on Beacon Hill, although it might not be too happy about the goal."
+    publishedDateTime: 2023-01-24T18:45:00Z
+    webUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 0
 
 secured: "YLeCRCMDH4GVfRK4Mn3LtJMLpv0NhA2zSjkawnnRlmZe6GogRx4z45B+Okf4+gUMY63Tix9KeGY+TrulZgwWdoZduHTZ+Om/0tTYLNAwYCzYV9nk5NTIDDOvug80/wjec83w0/Sv+ookwZs+19nx5yhXql3TuRLOH37LdTokocPbTPCrsboS9Bx+im/9sm5y5aU9Fujnz6tdKkhnxUt9gU2dvJR3YP0gllGkFgbbtNt+b8yIjb7y4LlQwbVAYROsKylrTsfiNyqmW2fcLD++ydrVp2AMZO7ymEF8PMG/kmGaCDGwB3OJzHM8qcjKYidA1HVc+FWpwB7LxAGP91FJ690G4TjUTnEPnUhFEUooyB+Kwzi6L8tgsRFzs0L4fwpCKykFfJ0xZFFKPG6hN9oHOdPzO/OtbLF2XVcdO/YsYHP4J0THPsKECr3Gc/o9ooxSuTyS30DiF5/1V/fefgcZ1qF7wYDOoMxyNFPQ8h5LTJ6yl+O/p+9GgpQ14fzOKydXPscP7lEv/aht6ZOrextoBQ==;B5JU75XMLV62xzyEF6OQZQ=="
 ---

@@ -2,6 +2,191 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-12-02-facial-strain-sensor-could-give-a-voice-to-the-voiceless.md",
+      "title": "Facial strain sensor could give a voice to the voiceless",
+      "excerpt": "While some assistance is available to individuals who lack the power of speech, verbally communicating with other people can still be challenging. A new face-worn strain sensor could help, as it's able to \"read\" the wearer's silently mouthed words.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/strain-sensors-face-voice/",
+      "originalUrl": "https://newatlas.com/wearables/strain-sensors-face-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/441f07b/2147483647/strip/true/crop/851x447+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F52%2Fa87333324a11820a5474a2eef5b3%2Fscreen-shot-2022-12-01-at-9.32.31%20AM.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-ai-could-have-20-chance-of-sentience-in-10-years-says-philosopher-david-chalmers.md",
+      "title": "AI could have 20% chance of sentience in 10 years, says philosopher David Chalmers",
+      "excerpt": "AI programs that combine sensing and action and world models might achieve fish-level intelligence, says the NeurIPS 2022 keynote speaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
+      "originalUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4540138c5a94e1211ab4775544b48650380c3b89/2022/12/01/9bb85d12-1a32-4015-8f8a-d1f852c5e3cc/david-chalmers-2022-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
+      "publishedDateTime": "2022-12-01T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-and-robotics-to-help-early-detect-urinary-tract-infections.md",
+      "title": "Artificial intelligence and robotics to help early detect urinary tract infections",
+      "excerpt": "A team of researchers at the University of Edinburgh and Heriot-Watt University are developing AI and robots to detect urinary tract infections (UTIs) earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
+      "originalUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hw.ac.uk/img/Pepper.png",
+          "width": 705,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heriot-Watt University",
+        "domain": "hw.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-yahoo-selects-aws-as-its-preferred-public-cloud-provider-for-its-ad-tech-business.md",
+      "title": "Yahoo Selects AWS as Its Preferred Public Cloud Provider for Its Ad Tech Business",
+      "excerpt": "Invent, Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Yahoo has selected AWS as its preferred public cloud provider for its advertising technology business Yahoo Ad Tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/12/01/9723025.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/12/01/9723025.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-how-the-collapse-of-sam-bankman-frieds-crypto-empire-has-disrupted-ai.md",
       "title": "How the Collapse of Sam Bankman-Fried’s Crypto Empire Has Disrupted A.I.",
       "excerpt": "Mr. Bankman-Fried and his colleagues spent more than $530 million to battle what they saw as the dangers of artificial intelligence. Now those efforts are reeling. Send any friend a story As a ...",
@@ -986,179 +1171,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-intel-arc-graphics-card-performance-is-improving-sort-of.md",
-      "title": "Intel Arc graphics card performance is improving, sort of",
-      "excerpt": "While the Alchemist GPU lineup offers decent performance for the price, driver issues initially caused a bit of a ruckus. Thanks to post-launch updates, A770 performance appears to be on the up, ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamesn.com/intel/arc-gpu-performance-improvements",
-      "originalUrl": "https://www.pcgamesn.com/intel/arc-gpu-performance-improvements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/intel-arc-gpu-performance-improvements.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-all-the-actually-important-stuff-neuralink-just-announced.md",
-      "title": "All the Actually Important Stuff Neuralink Just Announced",
-      "excerpt": "The company is vying for an edge in an increasingly crowded field that seeks to let people control machines with their minds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/all-the-actually-important-stuff-neuralink-just-announced/",
-      "originalUrl": "https://www.wired.com/story/all-the-actually-important-stuff-neuralink-just-announced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6387e565d3946fe9523246cd/master/pass/Elon-Musk-Neuralink-1240652428.jpg",
-          "width": 2400,
-          "height": 1795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/all-the-actually-important-stuff-neuralink-just-announced/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/all-the-actually-important-stuff-neuralink-just-announced/amp",
-      "publishedDateTime": "2022-11-30T21:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-thundersoft-joins-the-amazon-sagemaker-ready-program.md",
-      "title": "ThunderSoft Joins the Amazon SageMaker Ready Program",
-      "excerpt": "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program.This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/b29917464/thundersoft-joins-the-amazon-sagemaker-ready-program",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/b29917464/thundersoft-joins-the-amazon-sagemaker-ready-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T20:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-harnessing-the-power-of-data-and-artificial-intelligence-in-higher-education.md",
-      "title": "Harnessing the Power of Data and Artificial Intelligence in Higher Education",
-      "excerpt": "In this industry fireside chat, Campus Technology Editor-in-Chief Rhea Kelly will speak with Jim Keller, AWS Channel Global Leader at Quantiphi, about key challenges that colleges and universities face across the student lifecycle and how intelligent data ...",
-      "sourceUrl": null,
-      "webUrl": "https://campustechnology.com/webcasts/2022/12/quantiphi-aws-power-of-data-webcast.aspx",
-      "originalUrl": "https://campustechnology.com/webcasts/2022/12/quantiphi-aws-power-of-data-webcast.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Technology",
-        "domain": "campustechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

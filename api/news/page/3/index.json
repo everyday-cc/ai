@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-21-can-an-ai-angel-help-find-thousands-in-mexico-who-were-forcibly-disappeared.md",
+      "title": "Can an AI 'angel' help find thousands in Mexico who were forcibly disappeared?",
+      "excerpt": "The Angelus program is \"producing relevant evidence for the location of tens of thousands\" of missing people, said historian and National Search Commission member Daniel Yankelevich.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/can-ai-angel-help-find-thousands-mexico-forcibly-disappeared-rcna66545",
+      "originalUrl": "https://www.nbcnews.com/news/latino/can-ai-angel-help-find-thousands-mexico-forcibly-disappeared-rcna66545",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2023-01/230120-mexico-disappeared-angelus-se-240p-e28409.jpg",
+          "width": 560,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna66545",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66545",
+      "publishedDateTime": "2023-01-20T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-orca-security-deploys-chatgpt-to-secure-the-cloud-with-ai.md",
+      "title": "Orca Security deploys ChatGPT to secure the cloud with AI",
+      "excerpt": "Orca Security announces the launch of a new integration with ChatGPT designed to secure the cloud with AI-driven remediation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
+      "originalUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/12/cloud-computing.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/chatgpt-secure-cloud/amp/",
+      "publishedDateTime": "2023-01-20T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker.md",
+      "title": "­­How CCC Intelligent Solutions created a custom approach for hosting complex AI models using Amazon SageMaker",
+      "excerpt": "This post is co-written by Christopher Diaz, Sam Kinard, Jaime Hidalgo and Daniel Suarez&nbsp; from CCC Intelligent Solutions. In this post, we discuss how CCC Intelligent Solutions (CCC) combined Amazon SageMaker with other AWS services to create a custom solution capable of hosting the types of complex",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/20/Featured-images-for-ML-11307.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T10:28:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-hearing-health-startup-orka-wants-to-make-hearing-aids-as-cool-as-airpods-with-its-orka-one-device.md",
       "title": "Hearing Health Startup Orka Wants To Make Hearing Aids As Cool As AirPods With Its Orka One Device",
       "excerpt": "The team is committed to do their part in shepherding the healthcare industry towards a more modern form that embraces cutting-edge tech like that in Orka’s hearing aid.",
@@ -1056,154 +1202,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-how-should-government-regulate-ai-we-asked-a-robot.md",
-      "title": "How Should Government Regulate AI? We Asked a Robot",
-      "excerpt": "Artificial intelligence's potential in the public sector has grown exponentially, as have questions around appropriate guardrails. We interviewed the ChatGPT chatbot from OpenAI to see what it had to say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot",
-      "originalUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5d1d1b3/2147483647/strip/true/crop/950x495+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe2%2F3d%2F834edc3a810426eb0559d2e2c41d%2Fshutterstock-524344900.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot?_amp=true",
-      "publishedDateTime": "2023-01-19T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-federated-learning-ai-model-could-lead-to-healthcare-breakthrough.md",
-      "title": "Federated learning AI model could lead to healthcare breakthrough",
-      "excerpt": "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
-      "originalUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
-      "publishedDateTime": "2023-01-19T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets.md",
-      "title": "Scenario lands $6M for its AI platform that generates game art assets",
-      "excerpt": "Scenario, a startup developing a platform for creating game assets with AI, has raised $6 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/",
-      "originalUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/Little-Robots-collage-1-e1673991425721.jpeg?resize=1200,660",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/",
-      "publishedDateTime": "2023-01-19T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

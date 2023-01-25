@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Robot Market 2023-2028: Estimated to Growth by CAGR Status, Revenue, Top Industry Players with Size and Share Estimates"
+    excerpt: "Global “Self-driving Robot Market” Research Report (107 Pages) provides granular insights on on-going industry"
+    publishedDateTime: 2023-01-25T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2023-2028-estimated-to-growth-by-cagr-status-revenue-top-industry-players-with-size-and-share-estimates-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
     excerpt: "In 2023, Current Voice Recognition Market Size | 2029 | Newest [111] Pages Report Voice Recognition Market Size Outlook"
     publishedDateTime: 2023-01-24T03:06:00Z

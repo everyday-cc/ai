@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
+    publishedDateTime: 2023-01-25T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Technologies of Voice Recognition Market Research Report 2023-2027"
     excerpt: "The “Technologies of Voice Recognition market” research study provides a detailed examination of the market based"
     publishedDateTime: 2023-01-24T07:15:00Z
@@ -43,71 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market International Business Analysis, Development Outlook and Regional Strategies 2029"
-    excerpt: "In 2023, Current Speech Recognition Market Size | 2029 | Newest [117] Pages Report Speech Recognition Market Size"
-    publishedDateTime: 2023-01-24T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-01-23"
+  - title: "Data Science and Machine Learning Service Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "As per latest research on Data Science and Machine Learning Service Market (Report spread across 102 Pages), the growth"
+    publishedDateTime: 2023-01-23T03:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
-    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
-    publishedDateTime: 2023-01-24T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market Size 2023 with Strong Supplier, Key Factors, Driving the Market Growth, Information 2029"
-    excerpt: "Face Recognition Technology market has witnessed growth from USD million to USD million from 2017 to 2022. With the"
-    publishedDateTime: 2023-01-24T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Forecast 2028 for the Voice Recognition Biometrics Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Voice Recognition Biometrics Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
-    publishedDateTime: 2023-01-23T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-voice-recognition-biometrics-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
-    publishedDateTime: 2023-01-23T14:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
     excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2023-01-23T17:08:00Z

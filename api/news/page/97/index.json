@@ -2,6 +2,180 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-10-26-generative-ai-startups-attract-business-customers-investor-funding.md",
+      "title": "Generative AI Startups Attract Business Customers, Investor Funding",
+      "excerpt": "Austin-based Jasper, whose AI platform generates marketing materials, last week announced a $125 million Series A fundraising round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-651809/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-microsoft-gaming-revenue-grew-slightly-yoy-xbox-hardware-up-13-content-services-down-3.md",
+      "title": "Microsoft Gaming Revenue Grew Slightly YoY: Xbox Hardware Up 13%, Content & Services Down 3%",
+      "excerpt": "Today, Microsoft announced its financial results for the first quarter of the fiscal year 2023, related to the period between July 1, 2022, and September 30, 2022. The press release shared today ...",
+      "sourceUrl": null,
+      "webUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "originalUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twinfinite",
+        "domain": "twinfinite.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
+      "title": "MLsec could be the answer to adversarial AI and machine learning attacks",
+      "excerpt": "With research showing that private investment in artificial intelligence (AI) reached roughly $93.5 billion in 2021, it’s no secret that many organizations are implementing AI and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/mlsec-ai-machine-learning/",
+      "originalUrl": "https://venturebeat.com/business/mlsec-ai-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks.md",
+      "title": "Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS",
+      "excerpt": "This post was co-written with Sachin Kadyan, a leading developer of OpenFold. In drug discovery, understanding the 3D structure of proteins is key to assessing the ability of a drug to bind to it, directly impacting its efficacy. Predicting the 3D protein form, however, is very complex, challenging,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T12:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-ibm-announces-three-new-ai-libraries-for-natural-language-processing.md",
       "title": "IBM announces three new AI libraries for natural language processing",
       "excerpt": "IBM unveiled three new embeddable AI libraries to reduce the barriers for AI adoption and to address the AI skills shortage.",
@@ -965,170 +1139,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-across-their-business.md",
-      "title": "IBM Helps Ecosystem Partners Accelerate AI Adoption by Making it Easier to Embed and Scale AI Across Their Business",
-      "excerpt": "\"By bringing to market the same portfolio of embeddable AI technology that powers our industry-leading IBM Watson products, we are helping Ecosystem partners more efficiently deliver AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29394114/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-acro",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29394114/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-acro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-google-cloud-in-2022-whats-in-it-for-the-enterprise.md",
-      "title": "Google Cloud in 2022: What’s in it for the enterprise?",
-      "excerpt": "Google Cloud has seen its market share and revenue soar in recent quarters as enterprises flock to its platform, but profitability continues to elude the firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252526440/Google-Cloud-in-2022-Whats-in-it-for-the-enterprise",
-      "originalUrl": "https://www.computerweekly.com/news/252526440/Google-Cloud-in-2022-Whats-in-it-for-the-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
-      "title": "Deep Learning Computing Stick Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
-      "excerpt": "An in-depth analysis of market segmentation based on product types, applications, growth factors, trends, research, innovations, and new product launches is given in this \" Deep Learning Computing Stick Market .",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-i-tried-ai-therapy-could-it-replace-the-real-thing.md",
-      "title": "I tried AI therapy — could it replace the real thing?",
-      "excerpt": "I’m sprawled across my bed in pyjamas, conversing with an artificial intelligence via my phone ... text or voice call with a voice bot trained in cognitive behavioural therapy (CBT). Still",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg",
-      "originalUrl": "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F86a2be20-53bf-11ed-bac9-be98e2faf9fd.jpg?crop=3306%2C1859%2C337%2C346&resize=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

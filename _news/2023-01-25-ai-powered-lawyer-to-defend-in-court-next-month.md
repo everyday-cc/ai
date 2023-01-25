@@ -3,27 +3,25 @@ category: news
 title: "AI-powered lawyer to defend in court next month"
 excerpt: "Artificial intelligence is being used to create art, answer your questions, and write essays. What about an AI-powered lawyer?"
 publishedDateTime: 2023-01-24T20:29:00Z
-originalUrl: "https://www.wcpo.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-webUrl: "https://www.wcpo.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-ampWebUrl: "https://www.wcpo.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
+originalUrl: "https://www.wxyz.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+webUrl: "https://www.wxyz.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: WXYZ
+  domain: wxyz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/6025408/2147483647/strip/true/crop/4121x2318+0+214/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/9c7d701/2147483647/strip/true/crop/4121x2164+0+292/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Do/2it/RMtUrla5TfQgndJPAuZm3kJmRminhhyj0PO2BidpRl9CucqWAxS0iX17WSnyXhn7w+rv5j2vmkHckVK3+seDHEBrkr1uBQb5T2uVbnsfOMeRwEJ6gmlI3u2NSRNUwUp7BEp4eMwBembm+wmQDsGFF2VXQKj3Vq2p5UC7tkQxVIy5uGPDRQ/6ENwd0mZWrf7KbQEc0Ia3KpdRml0UxUQU8OQFv93tow6Wy7Te0AH+13PxOmHMtpG8DQ2VsVwmWBpTtvQVMD7zcxuQKfAyTpOBz0g6F4iMMgyUE+0PZ7NR1/G+GH7YB40GrKBnmBkrRjFiG1qKoX7PmDY/BMludrgk23IfW8qY+6xuGTys=;ULIk3NChFiGpERG31uDWqg=="
+secured: "b5DnFvOKsOQvU4Ow3Tc+4mKCBeNAqd0rp4aK2JGQ+05wRUp+Ib49XZMXWughqV3uG3GCVO0Tcxne9srGLJsQ+tjYRP15l/vNeAJ8wmmZB3XMo3xvMCpnWoTKMBLoQUrItA4w7uRO1TJc0+LuXtpGutn6NXoU+PdcOamMLCyp4OPpygDuauFeVCWBKB3ax4lodTTIRU3HYjD4+DiaErqVHEe+y9n2yWH5KerGe/tXQKsRCA234A51nuUfRf9E5i4sJ2SF4pvD3k1gM2eEX/eDqiHyDayaPoUaVTEnT0Wu1cde6A0HsILO+U4juJPifrTIUBfltnE63j/IQN7wzcmWc36SKY4uue/ewbGOELDDY1o=;yVgQZLpSOdo8B0D5VXb+FA=="
 ---
 

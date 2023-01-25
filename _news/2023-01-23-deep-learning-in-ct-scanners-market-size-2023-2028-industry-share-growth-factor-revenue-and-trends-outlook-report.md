@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Healthcare Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
+    excerpt: "Jan 24, 2023 (The Expresswire) -- Machine Learning in Healthcare Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at..."
+    publishedDateTime: 2023-01-25T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-statistics-2023-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Natural Language Processing (NLP) Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
     excerpt: "Healthcare Natural Language Processing (NLP) Market Size is projected to Reach Multimillion USD by 2029, In comparison"
     publishedDateTime: 2023-01-23T10:36:00Z
@@ -60,6 +74,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+  - title: "Artificial Intelligence Voice Market (New Reporgt) 2023 Overview By Recent Opportunities, Growth Size, Regional Analysis and Forecasts To 2027"
+    excerpt: "Global Artificial Intelligence Voice Market 2023 | New Report (125 Pages) | Research Report Provides Size, Share,"
+    publishedDateTime: 2023-01-25T05:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-new-reporgt-2023-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2027-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Data Science and Machine-Learning Platforms Market (New Report-2023) Outlook and Forecast to 2029 with Top Competitors Data"
     excerpt: "Global Data Science and Machine-Learning Platforms MarketNEW REPORT 2023 presents an exclusive overview of the"
     publishedDateTime: 2023-01-23T06:08:00Z

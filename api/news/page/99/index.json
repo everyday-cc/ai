@@ -2,6 +2,186 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2022-10-24-1-in-10-americans-over-65-have-dementia-study-finds.md",
+      "title": "1 in 10 Americans over 65 have dementia, study finds",
+      "excerpt": "One in 10 Americans over 65 had dementia, while 22% experienced mild cognitive impairment, the earliest stage of the slow slide into senility, according to a new study conducted between 2016 and 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221021141210-elderly-person-holding-hands-with-younger-person-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "publishedDateTime": "2022-10-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-top-10-robots-in-gaming-ranked.md",
+      "title": "Top 10 Robots in Gaming, Ranked",
+      "excerpt": "Our shiny metal buddies have wormed their way into all forms of media, and games are no exception, but who among them is the best? Robots always end up being such interesting characters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dualshockers.com/best-robots-in-gaming/",
+      "originalUrl": "https://www.dualshockers.com/best-robots-in-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DualShockers",
+        "domain": "dualshockers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-d-wave-quantum-launches-in-aws-marketplace.md",
+      "title": "D-Wave Quantum Launches in AWS Marketplace",
+      "excerpt": "D-Wave Quantum Inc. - a leader in quantum computing systems, software, and services, and the only quantum computing company building both annealing and gate-model quantum computers - announced that it has launched in AWS Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bctechnology.com/news/2022/10/24/D-Wave-Quantum-Launches-in-AWS-Marketplace.cfm",
+      "originalUrl": "https://www.bctechnology.com/news/2022/10/24/D-Wave-Quantum-Launches-in-AWS-Marketplace.cfm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bctechnology.com/tmp/social/news/tw/9340EBC648B62D55FB18AB88AAA8FECD7AF4BBAF66A239716A48991BC2E294AA.png?1667260844",
+          "width": 600,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "T-Net",
+        "domain": "bctechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-fact-check-did-ai-predict-humans-evolving-into-cyborgs-in-viral-video.md",
+      "title": "Fact Check: Did AI Predict Humans Evolving into Cyborgs in Viral Video?",
+      "excerpt": "Artist Fabio Comparelli responded to the social media hype surrounding his work, which some claim showed the demise of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
+      "originalUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2138844/evolution-ai.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
+      "publishedDateTime": "2022-10-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-bics-launches-communications-platform-as-a-service.md",
       "title": "BICS launches Communications Platform as a Service",
       "excerpt": "BICS says its new CPaaS for text, voice, and messaging can integrate using APIs and plug-ins, no coding required.",
@@ -985,187 +1165,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-one-in-10-older-americans-has-dementia.md",
-      "title": "One in 10 older Americans has dementia",
-      "excerpt": "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia,\" Manly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221024131046.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221024131046.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-report-tsmc-stops-work-on-chinese-ai-chip-amid-sanctions-confusion.md",
-      "title": "Report: TSMC stops work on Chinese AI chip amid sanctions confusion",
-      "excerpt": "Foundry Taiwan Semiconductor Manufacturing Co. Ltd. has stopped making AI chips for Chinese startup Biren while it ensures compliance with US requirements, according to a Bloomberg report. Biren is a 2019 startup that has developed its first GPU/AI chip as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52902/report-tsmc-stops-work-on-chinese-ai-chip-amid-sanctions-confusion.html",
-      "originalUrl": "https://www.design-reuse.com/news/52902/report-tsmc-stops-work-on-chinese-ai-chip-amid-sanctions-confusion.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52902/usb.jpg",
-          "width": 470,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-snap-way-to-design-ads-ranking-service-using-deep-learning.md",
-      "title": "Snap Way to Design Ads Ranking Service Using Deep Learning",
-      "excerpt": "Subscribe for free. Snap engineering has recently published a blog post on how they designed their Ads ranking and targeting service using deep learning. Showing ads to the users is the mainstream ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/10/snap-ad-ranking/en/headerimage/generatedHeaderImage-1666456310522.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022.md",
-      "title": "Media Alert: BrainChip Exhibits its Essential AI Capabilities at the Linley Fall Processor Conference 2022",
-      "excerpt": "As part of the presentation, Mankar will demonstrate how BrainChip uses hardware/software co-design, AutoML and the results of discussions with many AI application customers to achieve advances in system-level hardware performance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-2022-10-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-2022-10-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

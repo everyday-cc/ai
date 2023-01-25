@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-21T16:00:00Z
 originalUrl: "https://wusfnews.wusf.usf.edu/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
 webUrl: "https://wusfnews.wusf.usf.edu/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/3a6109f/2147483647/strip/true/crop/5689x2987+0+107/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F20%2Fjesse-zhang-face-ai-final_custom-20c61e8560ae339ccf6c0ef0ae5b2734e6a0a10f.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "She was denied entry to a Rockettes show — then the facial recognition debate ignited"
@@ -34,6 +40,6 @@ related:
         height: 1124
         isCached: true
 
-secured: "R2svJyrjImtg1MM28giPx5BRTSpRcb/rW2vnxnSdgRafJG9GP5h1GHTrpW08S7OX9+gUQnB5JxWlfqZDt/B/orF87lZGxvt8muPDtnjiN8bGHmkfUoyofhO5Fc9/C0e+8l6aaA4ZGZsGWYMwuHq+kXeqGwJcm3xvyDFXk1Q4DL8hr/8gk1q1JWotLyCRCz5Gzsqlw4ll7swEcEt9JWGqL9k3V7TVXw46+dIqpqaP9aGOKfokVWnduy96Dompl37KfqG0H9MrF5tOw7BbS4CasRFPGMDVTvpcTe/91I/nCHg4Hw/YSpuM0uh/5smUgPhAn2A70OGIJJCMf/B1lsY7GQlCAItYCBt6/pcqjvRNyDa9zX8oYLRVKF1fF9mUrRIvCaMv+eHkSFm9F/qmz1nLHE9wRbm3fl8p+1Rb+Ku/x448IrTo7r+BwfGdbqfXT/8+3xbuHRjQRBLA3tuvVRuvriafY0qxcJWy4RKjeRbzU47PLUDhufRJyTVUP4pEcdFNC8fBD56hK0IimeW8I0kgZA==;2tHcOYk8IaRpbFpP0YY2Tw=="
+secured: "O5p3vcxhvp4ip++wZuMxet42/a3SReD7WKObxNcJp8Ndci1IncoRi9YkxxRVD6vwHYAHneCnR/Kc/BQzAtcH/v3Ln7yPIHLl90yBaSh84g5Bxo2pgqIuh6kwejxSPIB9XfIN5/w3+iViqFhBXa2GOs3Ou2x91d4+PlDbBm1MtpTXKYlozamy48aILGRULZOCRDYvtPTGQIZXGiopP1YYIWDDB1K2h1wnAKrc1tWVeKoiVT4v7MwL/p9E6Mr99AR9bznMvuojevnzqh/02GGofVWaBTrh3oohAQ0gtTyVCHItV/e+FsSaaC1BAUlabQWWUcKtjpehkiTlc7t4ZF73gwhS0TtYEUaPiNZzGgpTmXA=;Lpa7BXsCaJfiuNfvPz9VmA=="
 ---
 

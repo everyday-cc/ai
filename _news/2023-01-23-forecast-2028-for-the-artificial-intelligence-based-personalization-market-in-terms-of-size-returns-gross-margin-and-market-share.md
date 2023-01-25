@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
-    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
-    publishedDateTime: 2023-01-20T17:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
     excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
     publishedDateTime: 2023-01-23T10:21:00Z

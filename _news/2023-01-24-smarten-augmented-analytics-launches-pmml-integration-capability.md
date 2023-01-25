@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2329873-smarten-augm
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2329873-smarten-augmented-analytics-launches-pmml-integration-capability?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,19 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market is Estimated to Accelerate Industry Growth in Analytics Sector with Top Significant Players"
-    excerpt: "Facial Recognition Market Report 2023 is spread across 112 Pages and provides exclusive statistics data, and competitive landscape of Facial Recognition Market in niche sector. The global Facial Recognition market size was valued at USD 3975."
-    publishedDateTime: 2023-01-23T16:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-estimated-to-accelerate-industry-growth-in-analytics-sector-with-top-significant-players-2023-01-23"
+  - title: "Denodo achieves AWS Data and Analytics ISV Competency status"
+    excerpt: "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status. Attaining this status differentiates Denodo as an AWS Partner that has successfully demonstrated deep expertise in data integration,"
+    publishedDateTime: 2023-01-25T00:41:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/denodo-achieves-aws-data-and-analytics-isv-competency-status.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: ITWire
+      domain: itwire.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
+        width: 600
+        height: 260
+        isCached: true
+  - title: "Powered by Intel Startup Program, Staqu’s AI-enabled video analytics platform is helping its customers generate more revenue"
+    excerpt: "Staqu’s homegrown AI platform JARVIS gives companies real-time alerts and detailed analytics, helping them cut losses and generate opportunities for more revenue."
+    publishedDateTime: 2023-01-24T11:19:00Z
+    webUrl: "https://yourstory.com/2022/12/intel-startup-program-staqu-ai-enabled-video-analytics-platform"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 10
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Image71vh-1670848676845.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "IouH7uFY+qikKwt7DrJCroONTOdUkBHX7E60eVke61r0BBvoolBLqE2Qrzs1WOP0HX1at8quh0WLw/W1K/C1y11O3d+xCCKrWJaee8oSwICus7+6HeKi6lPhYu2PocN85Du1gXkbM+KakkjXNp4IQiCAD/GoukETDrTgNKL/vcPqZka+wyVGcHGCoXdDPToOK9ScotWH3NR0ijwghu2rdhRxHo3/ahdXVL3EBmyHoA6I7Z0pvRHeos8X1hiB+VQH6jmQeh+2V6g+wZ5sfrS7uiPy04uvY3PkKhueDze4bR20CRBIAQOQ/V1dmQWgAk/z/stej9yAjQdSVJyzKU3NFkONdFFclFNkpKgHX1nGiWNpybTo3Qdl5VvC8CilbjlY4kPuKKXZlbOdE1MuAb1iq2wnS5Ryphv/kvrErOR1mzbv4YIBNneS5u/GpUZXVLro5/f/S1Evrvjt3mb05jFA/uE0dMtNu+0pSvUqfS+HhnS9io8rjdUuAbLaQVDyQdFoM9boHUibY3LXNlUhuuqZCg==;EOgPnZ63FJixjffGIEL9Bw=="

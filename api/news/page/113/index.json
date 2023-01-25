@@ -2,6 +2,171 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2022-10-12-can-artificial-intelligence-help-identify-best-treatments-for-cancers-lsu-researchers-say-yes.md",
+      "title": "Can artificial intelligence help identify best treatments for cancers? LSU researchers say yes",
+      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
+      "sourceUrl": null,
+      "webUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
+      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/06/c06b7424-44c6-11ed-ab1d-9b7bc78c5670/633daa3a94e74.image.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
+      "cdnAmpWebUrl": "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
+      "publishedDateTime": "2022-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Advocate",
+        "domain": "theadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-its-like-molecular-speed-dating-lsu-using-artificial-intelligence-in-cancer-treatments.md",
+      "title": "It's like molecular speed dating: LSU using artificial intelligence in cancer treatments",
+      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
+      "sourceUrl": null,
+      "webUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
+      "originalUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
+      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
+      "publishedDateTime": "2022-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NOLA.com",
+        "domain": "nola.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-neural-circuit-that-control-alcohol-abuse-in-mice-identified.md",
+      "title": "Neural Circuit That Control Alcohol Abuse in Mice Identified",
+      "excerpt": "Would you like to receive further email communication from Technology Networks? - Select - Yes No “Alcohol dependence ... Reference: Belmer A, Depoortere R, Beecher K, Newman-Tancredi A, Bartlett SE. Neural serotonergic circuits for controlling long ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/366489/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489-640x360.jpg?cb=20221012",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation.md",
+      "title": "Seagate Launches Lyve Cloud Analytics Platform to Optimize Machine Learning Operations and Accelerate Innovation",
+      "excerpt": "These challenges pose even larger roadblocks for data-intensive industries where enterprises rely heavily on the vast amount of collected data to train their data analytics, AI, and machine learning systems ... professional services that can dramatically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation/",
+      "originalUrl": "https://www.01net.it/seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-how-can-banks-supercharge-credit-operations-with-ai.md",
       "title": "How can banks supercharge credit operations with AI?",
       "excerpt": "Financial services aren’t just complex businesses, they’re incredibly rigid too. Just ask a bank. Most banks spend decades trying to move their net interest margin up a couple basis points. This isn’t for the",
@@ -930,205 +1095,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
-      "title": "Medical Speech Recognition Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
-      "excerpt": "This \"Medical Speech Recognition market\" study analysis the top company in the global market and splits the Medical Speech Recognition market by product type and Application/end industries. Global \"Medical Speech Recognition Market\" Industry Report 2022 to 2028 examine the Medical Speech Recognition Market's growth potential and threats in terms of business tactics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
-      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
-      "excerpt": "XACT Robotics ®, developer of the world’s first and only comprehensive robotic system for interventional procedures, announced today that its ACE Xtend™ Remote Control Unit received U.S. Food ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html",
-      "originalUrl": "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/8a/38a71a80-e7fe-52db-9cea-b4c69212cb07/6345a26dbcbb3.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip.md",
-      "title": "TechCrunch+ roundup: Growth hacking real talk, RPA market slowdown, AI and IP",
-      "excerpt": "IMO, “growth hacking\" is a sloppy way to describe the iterative work required to fine-tune marketing campaigns and systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/",
-      "originalUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1324729821.jpg?resize=1200,859",
-          "width": 1200,
-          "height": 859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/amp/",
-      "publishedDateTime": "2022-10-11T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-m3gan-trailer-showcases-a-lifelike-robot-turned-evil.md",
-      "title": "M3GAN trailer showcases a lifelike robot turned evil",
-      "excerpt": "A lifelike doll powered by artificial intelligence begins to wreak havoc on its creators in the trailer for M3GAN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/",
-      "originalUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/M3GAN-trailer-photo.jpg?p=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/m3gan-trailer/?amp",
-      "publishedDateTime": "2022-10-11T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

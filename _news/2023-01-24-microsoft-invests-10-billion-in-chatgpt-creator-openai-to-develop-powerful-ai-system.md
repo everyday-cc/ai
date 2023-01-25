@@ -83,6 +83,22 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
+    excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
+    publishedDateTime: 2023-01-24T10:05:00Z
+    webUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 57
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Microsoft Officially Extends Partnership With OpenAI"
     excerpt: "Microsoft has just officially announced that its partnership with ChatGPT maker OpenAI is entering its third phase, with a new \"multiyear, multibillion dollar investment\" to democratize OpenAI's cutting-edge AI technology."
     publishedDateTime: 2023-01-23T14:44:00Z
@@ -127,6 +143,45 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Microsoft to invest billions in parent company of controversial AI chatbot ChatGPT that could mean the end of Google"
+    excerpt: "MICROSOFT has revealed plans to invest billions into ChartGPT’s parent company OpenAI. On Monday, Microsoft announced it was making a “multi-year multibillion-dollar investment”"
+    publishedDateTime: 2023-01-24T15:58:00Z
+    webUrl: "https://www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 51
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/01/SC-Microsoft-AI-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "I spent an hour with a new, ChatGPT-inspired AI chatbot, and I may die laughing"
+    excerpt: "So I ruminated deeply upon how to create my own chatbot excitement. The Tweet that launched a thousand questions. Well, a few. Fortun"
+    publishedDateTime: 2023-01-22T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/i-spent-an-hour-with-a-new-chatgpt-inspired-ai-chatbot-and-i-may-die-laughing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
+  - title: "Kagan: Questions, concerns on ChatGPT and Artificial Intelligence"
+    excerpt: "Will ChatGPT lead in the AI space going forward or it is just one step that will be replaced by another more advanced technology?"
+    publishedDateTime: 2023-01-23T15:30:00Z
+    webUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 43
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "Microsoft's huge bet on ChatGPT is a 'game changing AI investment' that could boost the stock by 20%, Wedbush says"
     excerpt: "Microsoft just confirmed its $10 billion partnership expansion with OpenAI. That could make it a leader in the artificial intelligence space, Wedbush said."
     publishedDateTime: 2023-01-23T17:42:00Z
@@ -136,6 +191,34 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 42
+  - title: "Questions and warnings about AI chatbots in wake of ChatGPT launch"
+    excerpt: "MUNICH: In a matter of seconds after you type in a prompt, ChatGPT shoots back a well-formulated text. You can scarcely tell the difference from those written by humans."
+    publishedDateTime: 2023-01-21T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/21/questions-and-warnings-about-ai-chatbots-in-wake-of-chatgpt-launch"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909914.jpeg"
+        width: 1240
+        height: 786
+        isCached: true
+  - title: "College student busted submitting paper written by Open AI's ChatGPT"
+    excerpt: "Popular Now: AI creates 1980s 'Matrix' starring Jeff Goldblum as Morpheus Chatbots such as OpenAI's ChatGPT are free and have very powerful capabilities that are resulted in them going viral."
+    publishedDateTime: 2023-01-22T16:22:00Z
+    webUrl: "https://www.tweaktown.com/news/90083/college-student-busted-submitting-paper-written-by-open-ais-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90083_02_college-student-caught-submitting-paper-using-chatgpt.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake"
     excerpt: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake - SiliconANGLE"
     publishedDateTime: 2023-01-23T19:00:00Z
@@ -158,6 +241,20 @@ related:
       - url: "https://img.ksl.com/slc/2912/291233/29123388.jpg?filter=kslv2/responsive_story_lg"
         width: 1228
         height: 690
+        isCached: true
+  - title: "Google’s answer to ChatGPT could make its debut in May"
+    excerpt: "In their paper, Alphabet-owned DeepMind Technologies define Sparrow as a dialogue agent \"that’s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user,"
+    publishedDateTime: 2023-01-24T04:53:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may/97268755"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97268755,imgsize-1262075,width-1200,height=765,overlay-etbrandequity/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "R4TmA0a2YAvnZyQfT8RLpsHmoMw06yoPdUqOyVFTUOuXbK4z0DLssWZZ/GPWzX6z64LaDT59NE6VsYXzibwtF7HCGnxe66D4EVXSIwxG+DtqriNA6pw/XeNSG1FziOkXJ+eo68TkY1b96ZDtUGYU8DxEmi9Jt1We7xbT2/t+IsnUmIipT1CDowa4RRykyvzzyi0LynEycnVIocXVm22jsdBWl2fqf4yrJa+J845q29l6mIVo4a27u8xYH5jzx2LgIJuA2wZv3XHKvf0rZK4j1WQaUtEfe8caYCo9ah2oL+jeSH7/lt25op5AHeaUja3SBOC7LH6YAUt/EJJxADnVsplc6aoX6YpnmhKyP6gpUdoy8P4Z0SsS0RIEE5ZiEcOFNUfJqq/r5vk6LT3Kor2eCIy9DVrT7DoogGpTU2EPs7D/e/npOMxX89bXfgGOEC74YQtP58+652KmcoctXV4icmDpqIAfjrlbEcY/iyW8F6TDvxNFLDBYnU/KYFYUOpZ3Sz9/K0OWe/4E/YL7NphQUg==;fMY59IYy9ZFYlcOmbBfDjQ=="

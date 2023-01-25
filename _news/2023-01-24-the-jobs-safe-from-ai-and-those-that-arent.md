@@ -24,17 +24,6 @@ images:
     height: 349
     isCached: true
 
-related:
-  - title: "5 Reasons Leaders Shouldn't Worry That Generative AI Will Take Their Jobs"
-    excerpt: "Here are five reasons you should not be worried about generative AI. Many people have asked me over the years if I see qualities that are shared by all the successful entrepreneurs I meet. The answer is that there are two,"
-    publishedDateTime: 2023-01-20T18:36:00Z
-    webUrl: "https://www.inc.com/hillel-fuld/5-reasons-leaders-shouldnt-worry-that-generative-ai-will-take-their-jobs.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 16
-
 secured: "bzQc0A2HHbs0VNRApasDZim2/86vl3T9TYN9oustHN/UV1GgsdrNxvyDo1/9TDzPk8faWtIsvwvi1ZnrzYcHENLYiJjdrppZew8BmMc4l4tYAHHgXedJmz2xmLak22k0hVQSjvxB8sFjeXBDd/9zoTKijL9jThtu6mv3yMe5Wj3BpfjdxuB77JcoCWPoViExh1ZwbBcz7dWNAiuNaKGh/2GYzrjPfP4PQCfXgmjtNG596cPWq3k8LbwsYEzZUf1lsv6Hb6l3MRmFtbztFe2RLmWXadwDHk6XMTOfSIbdikZ9+Qw7zWPHZWfSwebTXfd0FRpHF/whbk372uqt3/gXoAdkWxDufBPfPy6zYTWRrVhHNy8JI2yyvAOxNwMu4cnHuiS36CYeie7yQUC8Zooy1JDTSwIrst1MKEf0Mu3aQcRnL4hwKm2QxMz9tVpcY2PDWVrZz6pnVqdV2sADTAG4KLWd8Ji9myWjGGe7CZt/Mh0tR7NFCGd/LbCQuOMrW4/O2s9I9S1Ipe5T/ur/eX7WMw==;r5Qf09jrevDiPP9YFAPzwg=="
 ---
 

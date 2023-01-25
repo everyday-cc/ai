@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI tools can create new images, but who is the real artist?"
+    excerpt: "Some living artists and photographers are starting to fight back against the AI software companies creating images derived from their works."
+    publishedDateTime: 2023-01-25T10:00:00Z
+    webUrl: "https://www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html"
+    ampWebUrl: "https://www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 59
+    images:
+      - url: "https://www.inquirer.com/resizer/SIuPiGILjA7CGKOR0AR_HumLenE=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/CT5NORLI7GITECVM2TJFD6K46I.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "What AI art means for society, according to Yale experts"
     excerpt: "Will AI art elevate human creativity? Will AI be a tool or a replacement for artists? Is AI art, art? Yale experts weigh in."
     publishedDateTime: 2023-01-23T07:02:00Z

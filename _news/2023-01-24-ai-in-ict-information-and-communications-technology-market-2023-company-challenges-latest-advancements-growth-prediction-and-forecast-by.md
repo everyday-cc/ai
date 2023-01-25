@@ -29,38 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Technology: While AI fascinates, it brings up questions"
-    excerpt: "Like any technology, whether AI is a net gain or net loss for society depends on how we humans choose to use it. On the positive side, advancements in AI can do things like help doctors to diagnose illnesses or help scientists combat climate change."
-    publishedDateTime: 2023-01-22T11:00:00Z
-    webUrl: "https://www.tennessean.com/story/money/tech/2023/01/22/technology-while-ai-fascinates-it-brings-up-questions/69819021007/"
+  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
+    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
+    publishedDateTime: 2023-01-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://www.gannett-cdn.com/presto/2022/12/19/PNAS/6d276d11-9f5d-4c9e-861c-4bc059ccc693-NASBrd_11-19-2016_Tennessean_1_B002__2016_11_18_IMG_laptop_1_1_QQGF5VQU_L922754430_IMG_laptop_1_1_QQGF5VQU.jpg?auto=webp&crop=506,285,x0,y25&format=pjpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 676
+        height: 630
         isCached: true
-  - title: "Technology: Enhancing empathic support with artificial intelligence"
-    excerpt: "An artificial intelligence (AI)-based chat interface, named HAILEY, that offers assistance to mental health peer supporters who interact online with individuals seeking support, is described in a paper published in Nature Machine Intelligence."
-    publishedDateTime: 2023-01-24T01:28:00Z
-    webUrl: "https://www.natureasia.com/en/research/highlight/14361"
+  - title: "Face Recognition Technology Market Size 2023 with Strong Supplier, Key Factors, Driving the Market Growth, Information 2029"
+    excerpt: "Face Recognition Technology market has witnessed growth from USD million to USD million from 2017 to 2022. With the"
+    publishedDateTime: 2023-01-24T00:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-2029-2023-01-23"
     type: article
     provider:
-      name: nature　asia
-      domain: natureasia.com
-    quality: 19
-  - title: "Artificial intelligence on forefront thanks to new technology"
-    excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
-    publishedDateTime: 2023-01-22T18:02:00Z
-    webUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Forecast 2028 for the Voice Recognition Biometrics Market in terms of size, returns, gross margin, and market share"
+    excerpt: "Voice Recognition Biometrics Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2023-01-23T07:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-voice-recognition-biometrics-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
     type: article
     provider:
-      name: WPTV-TV
-      domain: wptv.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WB/OXJ/0J0Utdtqv9wX/BpyBGD61KOe6cUlRdYvCvdvscwLbmIyH2eeP/OjFtnRO+XdmyzsbLd36iSJKJUgiSHMgDnPBQxxlqB5J04RO36sdrpqcW6ATwMvtCqXECVpRbi6538bM3dXvOrylXkVtNm88uVpKRRWApAE6O2QzW5cBfg/tHUswpJ5E3yuoasqm4LlPaLrVsaDKQgt7Q4G+AMfdoyVPlD0S0tWWvTIcv563UmIpaLNmiQcvfmQL7OyzzeRQvKyuZnGPaOEnKVEII/sjUWQmY2hh2cAb6iReLI2DC40nr7Mmo8tLkN0OREj7sYd4l+6e/dRIwIDAQ7jCcX9ZOpVTLEfYQEIrG1uSGMM=;lUQr2gaT8376B0bLxxVx2Q=="
 ---

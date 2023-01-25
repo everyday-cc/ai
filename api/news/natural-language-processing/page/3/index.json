@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-14-amazons-alexa-adds-text-to-speech-gestures-and-captioning-features.md",
+      "title": "Amazon's Alexa Adds Text-to-Speech, Gestures and Captioning Features",
+      "excerpt": "Amazon on Tuesday added three new Alexa features to its Echo Show smart display that are geared toward improving accessibility. The first, called Gestures, lets users dismiss timers by just ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
+      "originalUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
       "title": "4 Mind-Boggling Technology Advances In Store For 2023",
       "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
@@ -1328,61 +1371,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-how-ai-ml-are-transforming-asset-management.md",
-      "title": "How AI & ML are transforming Asset Management",
-      "excerpt": "Asset management is the process of managing money by determining your financial objectives and then working to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "Computer Vision"
       ]
     }
   ],
