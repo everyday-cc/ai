@@ -2,102 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
-      "title": "The TSA plans to take facial recognition technology nationwide",
-      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
-      "originalUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/Airport.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
-      "publishedDateTime": "2022-12-08T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-improve-scalability-for-amazon-rekognition-stateless-apis-using-multiple-regions.md",
-      "title": "Improve scalability for Amazon Rekognition stateless APIs using multiple regions",
-      "excerpt": "In previous blog post, we described an end-to-end identity verification solution in a single AWS Region. The solution uses the Amazon Rekognition APIs DetectFaces for face detection and CompareFaces for face comparison. We think of those APIs as stateless APIs because they don’t depend on an Amazon Rekognition",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-scalability-for-amazon-rekognition-stateless-apis-using-multiple-regions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-scalability-for-amazon-rekognition-stateless-apis-using-multiple-regions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/07/improve-scalability-rekognition-multiple-regions.jpg",
-          "width": 1547,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T09:18:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-12-08-cyens-centre-of-excellence-a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-handling-of-provisions.md",
       "title": "CYENS Centre of Excellence: A new collaboration to explore augmented reality & computer vision in assisting crew in the safe handling of provisions",
       "excerpt": "to explore augmented reality and computer vision in assisting crew in the safe handling and storage of vessel provisions. Kyriakos Hadjikyriakou, Managing Director at Oceanic, commented ...",
@@ -1319,6 +1223,101 @@
       "provider": {
         "name": "Buffalo News",
         "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report.md",
+      "title": "Image Recognition Technology Market 2023 In-Depth Insights and Business Scenario, by Analysts Certification 2028 | Newst 96 Pages Report",
+      "excerpt": "Impact on the Image Recognition Technology market, and how it could impact business in the near and distant future. How big is the global Image Recognition Technology market? Who are the Top Image Recognition Technology manufacturer of the Industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-seal-conservation-efforts-aided-by-new-facial-recognition-technology.md",
+      "title": "Seal conservation efforts aided by new facial recognition technology",
+      "excerpt": "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
+      "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/harbor-seals-comp.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
+      "publishedDateTime": "2022-11-26T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

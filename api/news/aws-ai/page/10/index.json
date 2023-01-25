@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-19-name-your-price-on-this-aws-ebook-bundle.md",
+      "title": "Name Your Price On This AWS eBook Bundle",
+      "excerpt": "As of 2022, AWS Cloud is available in 87 zones and “27 geographic regions around the world, with announced plans for 21 more Availability Zones and 7 more AWS Regions in Australia, Canada ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/",
+      "originalUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/09/sale_20142_article_image.jpeg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/amp/",
+      "cdnAmpWebUrl": "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/amp/",
+      "publishedDateTime": "2022-09-18T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Black Enterprise",
+        "domain": "blackenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-contact-center-intelligence-market-2022-size-status-and-global-outlook-aws-artificial-solutions-avaya-google.md",
       "title": "Contact Center Intelligence Market 2022 Size, Status And Global Outlook -AWS, Artificial Solutions, Avaya, Google",
       "excerpt": "Click here to get a Sample Copy of the Report: Top Leading Companies of Global Contact Center Intelligence Market are AWS, Artificial Solutions, Avaya, Google, IBM, Microsoft, Nuance ...",
@@ -1362,61 +1405,7 @@
         "Machine Learning",
         "AWS AI"
       ]
-    },
-    {
-      "path": "_news/2022-09-07-transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker.md",
-      "title": "Transfer learning for TensorFlow image classification models in Amazon SageMaker",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/tenworflow-image-classification-sagemaker.jpg",
-          "width": 1534,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T10:49:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 11
 }

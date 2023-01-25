@@ -41,15 +41,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "The Davos Chats 2023: From New Geopolitical Couplings To AI — Gautam Adani Writes"
-    excerpt: "Onshoring, self-reliance, energy independence, and building resilience in supply chains is as mandatory as is local job creation, writes Gautam Adani in The Davos Chats – 2023."
-    publishedDateTime: 2023-01-20T12:49:00Z
-    webUrl: "https://news.abplive.com/business/the-davos-chats-2023-from-new-geopolitical-couplings-to-ai-gautam-adani-writes-1576957"
-    type: article
-    provider:
-      name: news.abplive
-      domain: abplive.com
-    quality: 14
 
 secured: "EM69ZAENP4iD0Kl9mVIg/RLSkU9CKyYo7dJ2ByJ4ZpzM9hGoMK8XOh1Y9SEcdhJfhkS3ks349FvvughX65Ey6brBq3hI7rFZnS0F5sIFSzBlSZbGR6vA1k0mMex7ctY+0v+HkpesPv4cgxPD/8WGqjoXaOU1DTrEDOKessf8Eek1S8drfxLychDMnC4IxtF69ViMCVcN02ZoGFiE125uy7vCJQb6WvIyh3EDQZaVTXUOLmv5tjDDzLsoLl8dypFXyq24DtR5/lij6WgYTTciAkP35Rb+/rB8LhCqVRZ6tKkDuqN4xEab53ZrsfeI6BU7OmaQz98gtreo5RqjdgvTs684HouwxNy9jT9E4VDMJYYIDj2BfVnZ3r1NdoEVX1Ie1AR7wLHJTRReeXMA40YbH8yu9Ms3o0PjN0iQeCe7dCRtRFMyFey3OyhcrY7ADvoNdb3/4KivrD3aBwH7ebHk1mF6RyRbO/d6I2Dwg1hjhGAwUlDnkZHLDrYT67u2+bCGNl3mTOAxLV8TzQgp2Ef4cA==;gycwOyEH98t6hFnF1L15sQ=="
 ---

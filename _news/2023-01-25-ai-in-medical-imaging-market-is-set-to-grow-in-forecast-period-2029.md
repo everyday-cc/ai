@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View"
-    excerpt: "AI in Computer Vision market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR"
-    publishedDateTime: 2023-01-23T01:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-22"
+  - title: "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028"
+    excerpt: "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison"
+    publishedDateTime: 2023-01-24T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24"
     type: article
     provider:
       name: MarketWatch
@@ -43,57 +43,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Artificial Intelligence (AI) Market Size 2023 With Factor Outlook, Deployment Viewpoint, Society Size Outlook"
-    excerpt: "In 2023] The Global Computer Vision in Artificial Intelligence (AI) Market Size (128 Report Pages) is estimated to"
-    publishedDateTime: 2023-01-24T01:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-23"
+  - title: "Healthcare Natural Language Processing (NLP) Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
+    excerpt: "Healthcare Natural Language Processing (NLP) Market Size is projected to Reach Multimillion USD by 2029, In comparison"
+    publishedDateTime: 2023-01-23T10:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2023-01-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 44
+  - title: "Deep Learning in CT Scanners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
+    excerpt: "Deep Learning in CT Scanners Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-23T11:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-2023-2028-industry-share-growth-factor-revenue-and-trends-outlook-report-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Global Data Science and Machine-Learning Platforms Market (New Report-2023) Outlook and Forecast to 2029 with Top Competitors Data"
+    excerpt: "Global Data Science and Machine-Learning Platforms MarketNEW REPORT 2023 presents an exclusive overview of the"
+    publishedDateTime: 2023-01-23T06:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-new-report-2023-outlook-and-forecast-to-2029-with-top-competitors-data-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Cyber Security Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
-    excerpt: "Artificial Intelligence (AI) in Cyber Security market has witnessed growth from USD million to USD million from 2017"
-    publishedDateTime: 2023-01-24T01:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-size-2023-with-over-all-dominated-share-of-everywhere-ease-of-access-of-solutions-2023-01-23"
+  - title: "Self-driving Cars and Trucks Market Research report forecast 2023 To 2028, Latest Industry News, Top Company Analysis, Research Methodology"
+    excerpt: "Self-driving Cars and Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-24T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-research-report-forecast-2023-to-2028-latest-industry-news-top-company-analysis-research-methodology-2023-01-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
-    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
-    publishedDateTime: 2023-01-20T17:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market Size 2023 with Strong Supplier, Key Factors, Driving the Market Growth, Information 2029"
-    excerpt: "Face Recognition Technology market has witnessed growth from USD million to USD million from 2017 to 2022. With the"
-    publishedDateTime: 2023-01-24T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+    quality: 20
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,20 +1,26 @@
 ---
 category: news
-title: "DLR Launches Ground-breaking Robot Control Software"
-excerpt: "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control ..."
-publishedDateTime: 2023-01-17T19:53:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
+title: "DLR Launches Ground-Breaking Robot Control Software'"
+excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for ..."
+publishedDateTime: 2023-01-17T21:12:00Z
+originalUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
+webUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "HeJTuIyAblpZK7ycntK17/xGZ8XaLK/8TZi52Us9hv2M4p6854D1rirgHTpJrHEqjWviY+ui2ZmOCERpM/cdXGvzqmDSLW0TDZhndFBIufMT9OaZ/NtkD9XdHUbZzgDyDYeg1+bmu0Cxe+7gtTYIiCySxHChJHjQj7MSHPyfToOtM7tTtmVBLf4hVWD5XTHu/dfc4Y3us0OgOVZn278D1SDJkp+BfnWz2WnVD3kpxT7nROv3EdPc06fvr895h8sVrkgFO+0+4PLkRctq5fl6xcnN/+11BTyrkb2egZ30NtSzqZ629O7DrAq8RGkfvRqxRhxRUe4UbI82tLTaYrhJeP40Vz6klWtJ8SHPyhWjxM8=;ew/qqztpbd/Wr/2ZafXzcg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?307752"
+    width: 445
+    height: 250
+    isCached: true
+
+secured: "Bmdwi9NgQ1kGYiOxeVkvKhsJ/VYa29ZwnS/rfXW6HS7AdargoYBurcKve5Su7Ww3rH+qhuZXBuP4O7rIMe/iR20I5s6mLyGLXqhqYDjY1Pbk0eax89jw51JQIkmk75sTdNn92FepoKK6A8cfyG1kisJEXhhKf8l48AI0Bpq0aT3mbyghDyJNdQytHDlhr/3DWPZYR87vv4okFe5RETVfBL/qsQQ32Tt2YfU5Vb9HHvq4T4w2kQnXduJ+IkRRaoa4SJjnOFWbgfrRMUHhI1Gwsbp75nKg0+pjs0rdC6Tai6pBi/uEAjG1k0NHH5OXgnCmOMJasR8FK6B4V72KL6y0GdUjbkOgT1CJ+bmJzMMPL/4=;GuWgTWWu/lVT1/fS41upIA=="
 ---
 

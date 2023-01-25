@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-11-large-language-models-will-define-artificial-intelligence.md",
+      "title": "Large Language Models Will Define Artificial Intelligence",
+      "excerpt": "In recent months, the Internet has been set ablaze with the introduction for the public beta of ChatGPT. People across the world shared their thoughts on such an incredible development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bdffc05989c30c33964a41/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029.md",
       "title": "Machine Learning as a Service (MLaaS) Market Massive Growth Strikes Due To Technological Innovation During 2023-2029",
       "excerpt": "Market Research Report is spread across 122 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Machine Learning as a Service (MLaaS) Market Size is projected to Reach Multimillion USD by 2029,",
@@ -1323,50 +1375,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-deep-learning-tools-computational-microscope-predicts-protein-interactions-potential-paths-to-new-antibiotics.md",
-      "title": "Deep learning tool's 'computational microscope' predicts protein interactions, potential paths to new antibiotics",
-      "excerpt": "Though it is a cornerstone of virtually every process that occurs in living organisms, the proper folding and transport of biological proteins is a notoriously difficult and time-consuming process to experimentally study.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.html",
-      "originalUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/af2complex-computation.jpg",
-          "width": 740,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-tool-microscope-protein-interactions.amp",
-      "publishedDateTime": "2023-01-05T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI",
         "Machine Learning"
       ]

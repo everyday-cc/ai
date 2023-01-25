@@ -1,38 +1,34 @@
 ---
 category: news
-title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
-publishedDateTime: 2023-01-23T14:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
+title: "Cloud AI Developer Services Market Latest Research Report 2023-2029"
+excerpt: "As per latest research on Cloud AI Developer Services Market (Report spread across 116 Pages), the growth of Cloud"
+publishedDateTime: 2023-01-24T16:37:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-latest-research-report-2023-2029-2023-01-24"
+webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-latest-research-report-2023-2029-2023-01-24"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 69
+heat: 149
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "Cloud AI Developer Services Market Latest Research Report 2023-2029"
-    excerpt: "As per latest research on Cloud AI Developer Services Market (Report spread across 116 Pages), the growth of Cloud"
-    publishedDateTime: 2023-01-24T16:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-latest-research-report-2023-2029-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Technology Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review"
     publishedDateTime: 2023-01-23T07:48:00Z
@@ -104,6 +100,15 @@ related:
         height: 630
         isCached: true
   - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
+    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
+    publishedDateTime: 2023-01-23T14:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
+  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
     excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2023-01-23T17:08:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-global-market-report-2022-rising-demand-/2023/01/23/9747446.htm"
@@ -122,6 +127,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "DN7RaSamqHH7HauUhS7EABsonibLBTQ+UIDB6q5TWNkU+NOo4glIO26c2NkXioJMpw9pjcRyndgSexHNvsQA0S29O3Z9gCikenfR81fMIObLHWvHbyRwP2RdwtDCZhBY5qrVj7KczAhgm3UxQGqviMp37uWbafTAVKrf9NzzgsQGsa02ms8yDKTLBMM3/0gFfX42BG+b/6++HX4jUT+LouWnTN7XFXvVaKKNDKAwnAjs4XaYT+JBeWtbvWlZp7nkkB6KeHujjJy62g/cbP/lJazAB3pwzRCvLeXrZCriwFCjmaUBoXas0ekTrgJURetsEQmz0p88tygj2pw6tciPPyLPtY7cg9h1aobeBDJh6vU=;ui6aUD5kHvGFnMR7tOFXIg=="
+secured: "W/DrR5hnnFztA9th/auLWTiuDQRpcsdq2WSRXiqdIYYnkSanHIsAMK0cNRYEwp1OWssfMAqlAnNKHgj/EnLq7NWzn71UwXiz8ST2NqFVkkM0ynS+uSsG/xkAlfsSjMnFcUspbzBm8bvTV57y814ItXHt/TC2SO6+CtjQKIDoPx8L4xr0eJmJWsCCyWiw92Qia1PbHh0IT+XBGfMoKe28PTvvlW7Edb8TQsEdiU5vVI5UXyc6tt8Kppy0p8iZRaHbKcW42BN4e3qmo0G/RVb74b3ABb4Lu8Vg2H6jyT/e7/tmuUQqtuh337dfNHkEwnqYmDCRzG6MhLio4iy4Eg3Ga9KsvrC5WA16Is/R6RKz6sA=;BRVSbESByJ4fWfq8fElAMQ=="
 ---
 

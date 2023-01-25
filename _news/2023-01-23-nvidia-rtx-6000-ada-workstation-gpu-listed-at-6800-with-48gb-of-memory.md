@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/90105/nvidia-rtx-6000-ada-workstati
 webUrl: "https://www.tweaktown.com/news/90105/nvidia-rtx-6000-ada-workstation-gpu-listed-at-6800-with-48gb-of-memory/index.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia RTX 4060 Ti GPU may only offer RTX 3070 performance"
-    excerpt: "Fresh Nvidia RTX 4060 Ti performance leaks have arrived, and the entry level graphics card might only pack the same punch as the RTX 3070"
-    publishedDateTime: 2023-01-20T12:39:00Z
-    webUrl: "https://www.pcgamesn.com/nvidia/rtx-4060-ti-gpu-rtx-3070-performance"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 39
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/nvidia-rtx-4060-ti-gpu-rtx-3070-performance-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Marvel’s Midnight Suns is getting an Nvidia RTX 4000 GPU boost"
     excerpt: "Nvidia has revealed that Marvel's Midnight Suns will gain DLSS 3 support, and you'll also be able to boost fps in Hitman 3 using an RTX 4000 graphics card"
     publishedDateTime: 2023-01-24T14:00:00Z

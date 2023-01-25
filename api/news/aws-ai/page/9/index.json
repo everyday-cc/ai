@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-09-30-celebrate-over-20-years-of-aiml-at-innovation-day.md",
+      "title": "Celebrate over 20 years of AI/ML at Innovation Day",
+      "excerpt": "Be our guest as we celebrate 20 years of AI/ML innovation on October 25, 2022, 9:00 AM – 10:30 AM PT. &nbsp;The first 1,500 people to register will receive $50 of AWS credits. Register here. Over the past 20 years, Amazon has delivered many world firsts for artificial intelligence (AI) and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/celebrate-ai-ml-innovation.jpg",
+          "width": 1533,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T16:23:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-aws-panorama-now-supports-nvidia-jetpack-sdk-462.md",
       "title": "AWS Panorama now supports NVIDIA JetPack SDK 4.6.2",
       "excerpt": "AWS Panorama is a collection of machine learning (ML) devices and a software development kit (SDK) that brings computer vision to on-premises internet protocol (IP) cameras. AWS Panorama device options include the AWS Panorama Appliance and the Lenovo ThinkEdge SE70, powered by AWS Panorama. These device",
@@ -1293,49 +1346,6 @@
       "provider": {
         "name": "Hydrogen Fuel News",
         "domain": "hydrogenfuelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-name-your-price-on-this-aws-ebook-bundle.md",
-      "title": "Name Your Price On This AWS eBook Bundle",
-      "excerpt": "As of 2022, AWS Cloud is available in 87 zones and “27 geographic regions around the world, with announced plans for 21 more Availability Zones and 7 more AWS Regions in Australia, Canada ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/",
-      "originalUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/09/sale_20142_article_image.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/amp/",
-      "cdnAmpWebUrl": "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/amp/",
-      "publishedDateTime": "2022-09-18T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Black Enterprise",
-        "domain": "blackenterprise.com",
         "images": null,
         "publishers": null,
         "authors": null

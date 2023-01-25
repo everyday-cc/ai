@@ -24,22 +24,6 @@ images:
     height: 258
     isCached: true
 
-related:
-  - title: "7 FinTech tweets you should see!"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-01-20T11:46:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-12/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/tweets.jpg"
-        width: 300
-        height: 300
-        isCached: true
-
 secured: "7xrVFbgayVqsbAHTq0cA56ts5tkHUqGVwB1Mqt78YPj1buYMqrkWACvs4LFymWgqhrikrL3UujZMlByrABRKxMV8JKeyZaqBmTgtyJn+dhsdlqnuONHwHbHxhQkVyPZlD5Fz/zL94BxaOfXYQCqG4GsJS2Z5D7rJjhcj4rTkGTDGd8NRvdytGBl/Cx1PkC1tEBdZL6FscoVcFf5XPAirwCQ1qrMA7dwVCv6+biNrZlAnzNf700cCWQ0VMijGe1Qb75VWD4SH72O9GduATIM73yDaqDe0T10m0xEusJ+Cs7jby92EdpPaubvYgIt/iUPDkCeclQy73DOme6Mk0JzGBQsDoF44Qh3XbSvMI/g3wHei+UVCcpLnBqsK8M50OVQjwsg5uGxnY6Y3cpZS9KSJ8po4Liii8zfWWeorf43S/kLOkSjnu2NnFE7Gr+K3dRaC0rFJNicKYP51Xit/a5R1bvSXd4CZ6yZB5+7XItbp3uH6a23c8/QimV7V8jjyIim5fC63Yw/JXVDBMCu5bOsOFw==;rybEtaA2e5/VcETDsSTe4A=="
 ---
 

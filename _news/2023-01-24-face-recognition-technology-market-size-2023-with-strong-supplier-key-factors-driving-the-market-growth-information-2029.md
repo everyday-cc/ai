@@ -29,71 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View"
-    excerpt: "AI in Computer Vision market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR"
-    publishedDateTime: 2023-01-23T01:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-22"
+  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
+    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
+    publishedDateTime: 2023-01-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Artificial Intelligence (AI) Market Size 2023 With Factor Outlook, Deployment Viewpoint, Society Size Outlook"
-    excerpt: "In 2023] The Global Computer Vision in Artificial Intelligence (AI) Market Size (128 Report Pages) is estimated to"
-    publishedDateTime: 2023-01-24T01:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-23"
+  - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
+    publishedDateTime: 2023-01-24T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-mobile-artificial-intelligence-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Medical Imaging Market is Set to Grow in forecast period 2029"
-    excerpt: "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029."
-    publishedDateTime: 2023-01-24T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24"
+  - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
+    excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
+    publishedDateTime: 2023-01-23T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-artificial-intelligence-based-personalization-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Cyber Security Market Size 2023 with Over-all Dominated, Share of Everywhere, Ease of Access of Solutions"
-    excerpt: "Artificial Intelligence (AI) in Cyber Security market has witnessed growth from USD million to USD million from 2017"
-    publishedDateTime: 2023-01-24T01:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-size-2023-with-over-all-dominated-share-of-everywhere-ease-of-access-of-solutions-2023-01-23"
+  - title: "Forecast 2028 for the Voice Recognition Biometrics Market in terms of size, returns, gross margin, and market share"
+    excerpt: "Voice Recognition Biometrics Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2023-01-23T07:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-voice-recognition-biometrics-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Legal Tech Artificial Intelligence Market Analysis Report 2023 Along with Statistics Figures, till 2029"
-    excerpt: "As per Market Growth Report, “The Legal Tech Artificial Intelligence market has witnessed growth from USD million to"
-    publishedDateTime: 2023-01-20T17:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-01-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

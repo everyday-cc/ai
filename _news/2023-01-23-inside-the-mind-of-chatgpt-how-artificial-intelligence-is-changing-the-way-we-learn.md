@@ -121,54 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google isn't just afraid of competition from ChatGPT — the giant is scared ChatGPT will kill AI"
-    excerpt: "ChatGPT. If ChatGPT runs rampant, the search giant fears it could ruin AI adoption for everyone."
-    publishedDateTime: 2023-01-20T11:39:00Z
-    webUrl: "https://www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-is-scared-that-chatgpt-will-kill-artificial-intelligence-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/63ca186aeee94d001a790dc5?width=1200&format=jpeg"
-        width: 553
-        height: 276
-        isCached: true
-  - title: "Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
-    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
-    publishedDateTime: 2023-01-20T11:57:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war"
-    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2326125-adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex-as-chip-war?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 74
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_08_2022_02_53_58_2717576.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Gautam Adani is hooked on ChatGPT, says race for AI to get complex as chip war"
-    excerpt: "Gautam Adani, the CEO of Adani Group, notes that advancements in AI, specifically generative AI, were a major topic of discussion at the World Economic Forum, mentioning that the recent release of ChatGPT is a \"transformational moment in the democratization of AI\"."
-    publishedDateTime: 2023-01-20T12:47:00Z
-    webUrl: "https://www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/gautam-adani-hooked-on-chatgpt-says-ai-race-to-get-complex-chip-war-15728761.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 70
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/12/chatbot-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Gautam Adani Is Hooked On ChatGPT, Says Race For AI To Get Complex As Chip War"
     excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amounts of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
     publishedDateTime: 2023-01-20T23:49:00Z
@@ -198,22 +150,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-1-4.jpg&signature=49a0eaf18d6a9ed5139bdb7a17178718"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Adani is hooked on ChatGPT, says race for AI to get complex"
-    excerpt: "Asia's richest man Gautam Adani, besides looking at opportunities to expand his vast empire, is hooked on ChatGPT - the programme that trawls vast amount of information to generate natural-sounding text on virtually anything - from crafting jokes to writing ad copy,"
-    publishedDateTime: 2023-01-20T12:19:00Z
-    webUrl: "https://www.rediff.com/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
-    ampWebUrl: "https://m.rediff.com/amp/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/adani-is-hooked-on-chatgpt-says-race-for-ai-to-get-complex/20230120.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 59
-    images:
-      - url: "https://im.rediff.com/345-230/money/2023/jan/20construction.jpg"
-        width: 345
-        height: 230
         isCached: true
   - title: "Experts warn about possible misuse of new AI tool ChatGPT"
     excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
@@ -357,20 +293,6 @@ related:
         width: 1068
         height: 580
         isCached: true
-  - title: "From Fake News to Fake Views: New Challenges Posed by ChatGPT-Like AI"
-    excerpt: "An infinite supply of plausible opinions from fake, AI-powered pundits threatens to crowd out genuine discourse."
-    publishedDateTime: 2023-01-20T12:16:00Z
-    webUrl: "https://www.lawfareblog.com/fake-news-fake-views-new-challenges-posed-chatgpt-ai"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 39
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/Pioneer_Building%2C_San_Francisco_%282019%29_-1.jpg"
-        width: 2560
-        height: 1286
-        isCached: true
   - title: "Questions and warnings about AI chatbots in wake of ChatGPT launch"
     excerpt: "MUNICH: In a matter of seconds after you type in a prompt, ChatGPT shoots back a well-formulated text. You can scarcely tell the difference from those written by humans."
     publishedDateTime: 2023-01-21T04:00:00Z
@@ -427,24 +349,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adani is hooked on ChatGPT, says the race for AI to get as complex as chip war"
-    excerpt: "Adani, whose conglomerate has in recent years diversified from mines, ports and power plants into airports, data centres and defence, penned musing from his visit to Davos to attend the World Economic Forum meeting."
-    publishedDateTime: 2023-01-20T12:51:00Z
-    webUrl: "https://yourstory.com/2023/01/adani-hooked-on-chatgpt-says-ai-world-economic-forum"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 30
-  - title: "Those Schools Banning Access To Generative AI ChatGPT Are Not Going To Move The Needle And Are Missing The Boat, Says AI Ethics And AI Law"
-    excerpt: "Some rather high-profile bans have been announced regarding the use of generative AI such as ChatGPT. We need to closely examine these bans and decide whether they make any sense. Here's the scoop."
-    publishedDateTime: 2023-01-20T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/20/those-schools-banning-access-to-generative-ai-chatgpt-are-not-going-to-move-the-needle-and-are-missing-the-boat-says-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 30
   - title: "Will ChatGPT, artificial intelligence replace financial professionals any time soon?"
     excerpt: "Will artificial intelligence replace financial advisors or insurance agents anytime soon? The consensus is that it won’t in the near future, but AI can provide some assistance and a little bit of fun in the meantime."
     publishedDateTime: 2023-01-23T19:12:00Z

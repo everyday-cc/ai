@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-02-pytorch-machine-learning-framework-compromised-with-malicious-dependency.md",
+      "title": "PyTorch Machine Learning Framework Compromised with Malicious Dependency",
+      "excerpt": "PyTorch, a well-known machine learning framework, fell victim to a supply chain attack between Dec. 25 and Dec. 30, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
+      "originalUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEifiFY4TB4xInGZvI7gizGIvPBUZbr9Egk3zV-NefK97gEBfE_67-u41jrPzOlaz7iS94W4hu0BamT55Wb3QxIoK69F_mYwYhM9fVaNVFrzMt0csy-wjD7fDViYLZCBN8-BP1zKl_7pqUNJbEXYYRdKYgJWc6DSJVTeQ2EFLN5rh6KuBwY-h29g2_0R/s728-rj-e3650/python.png",
+          "width": 728,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
+      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
+      "publishedDateTime": "2023-01-02T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hacker News",
+        "domain": "thehackernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-02-data-privacy-and-the-future-of-artificial-intelligence.md",
       "title": "Data, Privacy, And the Future of Artificial Intelligence",
       "excerpt": "By Michael G. McLaughlin, Associate, Baker, Donelson, Bearman, Caldwell & Berkowitz, PC Data privacy and protection have become both central and increasingly restrictive for businesses in the United States and Europe.",
@@ -1320,49 +1365,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-the-potentially-adverse-impact-of-twitter-20-on-scientific-and-research-communication.md",
-      "title": "The potentially adverse impact of Twitter 2.0 on scientific and research communication",
-      "excerpt": "In just over a month after the change in Twitter leadership, there have been significant changes to the social media platform, in its new \"Twitter 2.0.\" version.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/twitter-and-research.jpg",
-          "width": 2880,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.amp",
-      "publishedDateTime": "2022-12-08T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

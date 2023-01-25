@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/hospital-physician-relations
 webUrl: "https://www.beckershospitalreview.com/hospital-physician-relationships/a-peek-into-healthcares-future-ai-passes-medical-licensing-exam.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Paging Dr AI to the Emergency Room! Artificial Intelligence passes U.S Medical Licensing Exam"
-    excerpt: "We may soon see AI tools run diagnostic tests and clinical research trials on humans, now that ChatGPT and Flan-PaLM have passed the U.S. Medical Licensing Examination (USMLE)."
-    publishedDateTime: 2023-01-20T12:31:00Z
-    webUrl: "https://www.digit.in/news/machine-learning-and-ai/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam-66910.html"
-    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/66910/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/66910/paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam"
+  - title: "4 healthcare AI updates"
+    excerpt: "Artificial intelligence has the potential to transform healthcare delivery, and hospitals across the country are making serious investments in AI. Four AI in healthcare updates Becker's has covered since Jan."
+    publishedDateTime: 2023-01-20T23:07:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/4-healthcare-ai-updates.html"
     type: article
     provider:
-      name: Digit
-      domain: digit.in
-    quality: 65
-    images:
-      - url: "https://static.digit.in/default/1280-720px-15-279ca90502.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "nTBdaGinbgXeQxZph9kjn+iNh0sey6RaYAxJOgQvXUgyUrB9Uv6pjnrokc4jEKVozllmcxvqgFfA6HNvfgS5m1DjDFrQj4etqG29qoufaGr9b0er39/kUhpu4NgSgfC8oPqFIRMeIcinALU9azU9Y2nO3TDSFtfLvT7ee76q3fG5BSTzBKy6e9bGXh6Wz8GcoA4c3TFZeT+f4jpO81oz+oT/ChgH+gz14SOVBuRmPNhmmRtNl4loVn1tvhJTov2aTEQ8e1V4lnPQmj2HWnjaKlFf39qWbvkwSp5kwBwN13hP2l2k3RCrDM6yA10ESn1jUDPPPCtmdJDIiADgbm9BdP3jfLJHzndVtDsTQ1MYlVc=;M2cvVTVGK6RQTqenXeHCNQ=="
 ---

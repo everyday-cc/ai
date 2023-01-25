@@ -2,92 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-11-07-how-pensioners-can-submit-life-certificate-through-face-recognition-facility.md",
-      "title": "How pensioners can submit life certificate through face recognition facility",
-      "excerpt": "Union Minister Jitendra Singh launched the nationwide campaign for November and urged all pensioners to avail the facility of face authentication technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility-11667799845560.html",
-      "originalUrl": "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility-11667799845560.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/11/07/600x338/Pensioners_1667802523496_1667802523707_1667802523707.PNG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility/amp-11667799845560.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/how-pensioners-can-submit-life-certificate-through-face-recognition-facility/amp-11667799845560.html",
-      "publishedDateTime": "2022-11-06T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-recognition-of-the-rights-of-nature-a-must.md",
-      "title": "Recognition of the Rights of Nature a Must",
-      "excerpt": "The Tightens Bond to the Growing Number of Countries Pushing for the Recognition of the Rights of Nature “Typhoons Paeng and Karding are cries",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
-      "originalUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn77.pressenza.com/wp-content/uploads/2022/11/PSWS_of_Typhoon_Noru_Kardingre.jpg",
-          "width": 1920,
-          "height": 1574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PRESSENZA",
-        "domain": "pressenza.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-05-indonesian-police-use-face-recognition-for-g20-summit-security.md",
       "title": "Indonesian Police Use Face Recognition for G20 Summit Security",
       "excerpt": "Wakapolri said that through the command center, Indonesian police can find out the situation of members and facilities G20 Summit. They also provide the face recognition.",
@@ -1369,6 +1283,102 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers.md",
+      "title": "How The Availability Of AI Is Changing The Security Landscape For Both Users And Developers",
+      "excerpt": "In certain instances, analytics like movement tracking and basic object recognition helped organizations that could afford to implement them, but they were still hampered by limiting factors such as camera quality and processing power. Today, that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6352a22b37aebac3a2e382e7/0x0.jpg?format=jpg&crop=2015,1134,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
+      "publishedDateTime": "2022-10-24T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-study-of-biometric-tech-in-schools-winding-down.md",
+      "title": "Study of biometric tech in schools winding down",
+      "excerpt": "The New York State Office of Information Technology Services (ITS) held a virtual public hearing Thursday on the use of biometric technology in schools. The hearing is part of a",
+      "sourceUrl": null,
+      "webUrl": "https://www.niagara-gazette.com/news/local_news/study-of-biometric-tech-in-schools-winding-down/article_9b9dcc7d-8846-5bcd-9b72-3e81cb4810c9.html",
+      "originalUrl": "https://www.niagara-gazette.com/news/local_news/study-of-biometric-tech-in-schools-winding-down/article_9b9dcc7d-8846-5bcd-9b72-3e81cb4810c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/custom/image/2d2bf594-8308-11e5-99eb-af7c5b751692.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Niagara Gazette",
+        "domain": "niagara-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],
