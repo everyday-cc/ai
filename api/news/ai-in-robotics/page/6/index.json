@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-02-artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026.md",
+      "title": "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-san-francisco-police-defend-killer-robots-plan.md",
       "title": "San Francisco police defend 'killer robots' plan",
       "excerpt": "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,",
@@ -1310,51 +1362,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-can-an-artificial-intelligence-be-considered-an-artist.md",
-      "title": "Can an artificial intelligence be considered an artist?",
-      "excerpt": "In the majority of fiction that concerns artificial intelligence (AI), it replaces us in almost every industry. Often, only the artistic fields are left untouched. Usually, a robot or AI showing capabilities to create a work is seen as a completion ...",
-      "sourceUrl": null,
-      "webUrl": "https://cursus.edu/en/25914/can-an-artificial-intelligence-be-considered-an-artist",
-      "originalUrl": "https://cursus.edu/en/25914/can-an-artificial-intelligence-be-considered-an-artist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cursus.edu/storage/thumbnails/7ZVqQtw5b8GmadzNNUhf0iyrebl1wUruX356Ujkh.jpeg",
-          "width": 900,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T21:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cursus.edu",
-        "domain": "cursus.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

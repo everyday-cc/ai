@@ -9,7 +9,7 @@ ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authent
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
 type: article
 quality: 66
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Famous venue is advised to stop using facial recognition technology"
-    excerpt: "State lawmakers have warned the Madison Square Garden stadium in New York City not to use face recognition technology as a weapon against visitors if"
-    publishedDateTime: 2023-01-22T13:36:00Z
-    webUrl: "https://menafn.com/1105462269/Famous-venue-is-advised-to-stop-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "63XxJZBP6VI9sgeDy9L+MQS6EqtYME+ZZZqPopVIDpMTsacleuM7tKQDoctjpmMbMPybPyxGZSjVsB0zKJ/VmLSUvnxvDqbnQJzCvQiCedm40bz+Dsx9XWkBoouSsnBi96kzQz0FaFuu1NYmXA/pWDBwyinzwtca3jPa6f4Bkz5HCsvhCWrb59eLIuN46t6huhRER/xmbd/JS4YsEGWMYFDItg4nqd9vlUatyoi0Z1bVx6TTgmfuJdKtt/YqmfS/2gcdU66ZEHt6G/51GZiZmEGbpt/OZiPMglb5PkcZjbbvDaJlWAQqx8IVlPnWuCoNIax6owwdduU15JHr1j+LXq5+oJB3KD/Ufh57Th+67+2qS5aJyodghkRHcPzvgoCA7oFOVQbfTm9TiB5coLGW06NrGl6zaSdSo/YWrLvGT28EBHFB812lKsmgvDugo+7pDjt05Kkz9So5UXHj6TDxw4dpPj4aPtoHlduILAWiOTWrW9DFEU4waOJY838+sAp+Keok8k2nA2DdMdAz7MUQIg==;YzputLLS3SEN2xLvVB00EA=="
 ---

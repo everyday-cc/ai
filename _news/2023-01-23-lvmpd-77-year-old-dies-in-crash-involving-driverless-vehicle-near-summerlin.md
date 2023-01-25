@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T07:02:00Z
 originalUrl: "https://www.ktnv.com/traffic/lvmpd-77-year-old-dies-in-crash-involving-driverless-vehicle-near-summerlin"
 webUrl: "https://www.ktnv.com/traffic/lvmpd-77-year-old-dies-in-crash-involving-driverless-vehicle-near-summerlin"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: KTNV Las Vegas

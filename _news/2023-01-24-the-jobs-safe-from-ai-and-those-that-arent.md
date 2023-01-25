@@ -35,7 +35,7 @@ related:
     provider:
       name: The Express Tribune
       domain: tribune.com.pk
-    quality: 59
+    quality: 61
     images:
       - url: "https://i.tribune.com.pk/media/images/1082218-ShahidJavedBurkiNew-1460302235/1082218-ShahidJavedBurkiNew-1460302235.jpg"
         width: 800

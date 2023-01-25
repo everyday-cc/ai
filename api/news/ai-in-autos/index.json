@@ -106,6 +106,188 @@
       ]
     },
     {
+      "path": "_news/2023-01-24-european-union-to-aggregate-cancer-imaging-data-with-artificial-intelligence-to-speed-up-early-diagnosis.md",
+      "title": "European Union to aggregate cancer imaging data with artificial intelligence to speed up early diagnosis",
+      "excerpt": "The European Union has launched a new project aimed at providing health researchers large amounts of cancer data. The initiative will use artificial intelligence to speed up innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis",
+      "originalUrl": "https://www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccf9d72c-adbc-4118-814e-009b2b9f98c8/863ea4d8-3acc-47ee-8661-dfd55881a7e7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis.amp",
+      "publishedDateTime": "2023-01-23T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-artificial-intelligence-and-how-it-may-change-the-world.md",
+      "title": "Artificial Intelligence and how it may change the world",
+      "excerpt": "He (or she) will step forward and take over the procedure from the robot. The next step in the development of artificial intelligence, AI, is to have machines develop conscientiousness.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world",
+      "originalUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1082218-ShahidJavedBurkiNew-1460302235/1082218-ShahidJavedBurkiNew-1460302235.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1",
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-musk-oversaw-falsified-video-of-tesla-self-driving-capabilities.md",
+      "title": "Musk oversaw falsified video of Tesla 'self-driving' capabilities",
+      "excerpt": "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ...",
+      "sourceUrl": null,
+      "webUrl": "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities",
+      "originalUrl": "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/09/Tesla-Autopilot-hands-free-autonomous-self-driving-2.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/",
+      "cdnAmpWebUrl": "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/",
+      "publishedDateTime": "2023-01-22T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "blogs.driving.ca",
+        "domain": "driving.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-artificial-intelligence-on-forefront-thanks-to-new-technology.md",
+      "title": "Artificial intelligence on forefront thanks to new technology",
+      "excerpt": "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology",
+      "originalUrl": "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/2fa/2fbf8a5e953e4a01960f2f5161cc4953/2fa94b66144647d684da70b6f2e4379f/poster_d756cdb6393a4cf9b11a4275568c2734.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true",
+      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true",
+      "publishedDateTime": "2023-01-22T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPTV-TV",
+        "domain": "wptv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-22-artificial-intelligence-could-surpass-that-of-humans-later-this-decade.md",
       "title": "Artificial intelligence could surpass that of humans later this decade",
       "excerpt": "Artificial intelligence (AI) has the potential to ... This ability can be particularly useful in fields such as finance, healthcare, and transportation, where AI is already being used to analyze ...",
@@ -1180,188 +1362,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-artificial-intelligence-ai-infrastructure.md",
-      "title": "Artificial Intelligence (AI) Infrastructure...",
-      "excerpt": "BRISBANE, Australia, Jan. 13, 2023 /PRNewswire/ -- Data Bridge Market Research has recently published a report, titled, \"Artificial Intelligence (AI) Infrastructure Market\" The report offers an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30403404/artificial-intelligence-ai-infrastructure-market-is-prospering-at-usd-422-55-billion-with-expected",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30403404/artificial-intelligence-ai-infrastructure-market-is-prospering-at-usd-422-55-billion-with-expected",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30403404",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30403404",
-      "publishedDateTime": "2023-01-12T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-the-year-ahead-in-autonomous-responsibility.md",
-      "title": "The Year Ahead in Autonomous Responsibility",
-      "excerpt": "But what if the technology is doing more harm than good? As increasing numbers of companies rely on artificial intelligence to power their tech, we see more cases of dangerous AI dysfunction ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/autonomy-artificial-intelligence-predictions-2023-1849914786",
-      "originalUrl": "https://gizmodo.com/autonomy-artificial-intelligence-predictions-2023-1849914786",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dedc7c6fda52d16de9b1f876ee0e2416.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-data-science-vs-artificial-intelligence-ai-key-comparisons.md",
-      "title": "Data science vs. artificial intelligence (AI): Key comparisons",
-      "excerpt": "Data science and artificial intelligence (AI) are two complementary technologies in the modern tech environment. Data science organizes and crunches the large, often variably structured ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/",
-      "originalUrl": "https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1-e1668621183469.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/amp/",
-      "publishedDateTime": "2023-01-12T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-driverless-revolution-isnt-coming-ever-1.md",
-      "title": "Driverless revolution isn't coming... ever (1)",
-      "excerpt": "Matthew Sparkes correctly assesses the total failure of developing anything like a truly driverless car, yet he still feels compelled to end his piece on a relatively optimistic note(17/24 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/letter/mg25734211-200-driverless-revolution-isnt-coming-ever-1/",
-      "originalUrl": "https://www.newscientist.com/letter/mg25734211-200-driverless-revolution-isnt-coming-ever-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

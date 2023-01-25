@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-fo
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-for-lawyers-suing-them-as-lawmakers-may-target-face-recognition/4064038/?amp=1"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "MSG's use of facial recognition tech on ticketholders may violate human rights laws, NY AG warns"
+    excerpt: "It's the latest hurdle for James Dolan’s quest to ban his perceived enemies from sporting events and concerts."
+    publishedDateTime: 2023-01-25T20:08:00Z
+    webUrl: "https://gothamist.com/news/msgs-use-of-facial-recognition-tech-on-ticketholders-may-violate-human-rights-laws-ny-ag-warns"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 6
 
 secured: "HBSzoyhkuJxVCHVAVDYbK+iqjOAGtGBBfoqwILzb6TR7HAo6W1qOtZc6Xw7azBNcXPUWrFDaqvuHtfgyeGFN+FOsBovusnIxsmrAmwtHLCANEpU9AABGT82e0edJufDKiBzjAH2w9dMBwci8HJIFAbpdd3UZ2luiDAw4QledBMlgZebn7C9+NeRMNJp0yPen4r0F1t/FBQogsRG9JGvMvrSJIghRsPZGISq/De7QW+i0UYyyTO/x+/OC8wTQP0OmN2GMkN2O9igaUBQqOohu1LDUIkJRJxq2DO0+dURLuIrSUFKFwbU08OwHKdv+0ZsfD3zXpdu+8tRZRiChxFDPcVrt7drlS0mlsJdW3HhyYs7EN4Q5k4UT1lA8CrhPSPkDUDmgQIRymPHKXYOpEZuFuxFO6r0ihWx10qwiX6o+E38GSoJnaB7Du9oCh0EcN+hlxVTw5ascdnfDhNyFzAz5cIG57606Tv+EZa+MMal9gZ4Rg7meZJhIm/g386UDx3/ykZ7ZSYrX69od69W0Kz2jPQ==;9AZ4mKus5hxmJG0kDS0QAQ=="
 ---

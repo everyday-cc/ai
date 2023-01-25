@@ -110,7 +110,7 @@ related:
     provider:
       name: PBS
       domain: pbs.org
-    quality: 85
+    quality: 87
     images:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/hackattack1-1024x683.jpg"
         width: 1024

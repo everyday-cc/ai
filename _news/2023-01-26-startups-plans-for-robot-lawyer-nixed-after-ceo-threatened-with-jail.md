@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T20:52:00Z
 originalUrl: "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo"
 webUrl: "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Futurism

@@ -2,6 +2,169 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-17-set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk.md",
+      "title": "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK",
+      "excerpt": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T12:36:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-artists-sue-ai-art-generators-over-copyright-infringement.md",
+      "title": "Artists sue AI art generators over copyright infringement",
+      "excerpt": "A group of artists — Sarah Andersen, Kelly McK­er­nan, and Karla Ortiz — have filed a class-action lawsuit against Midjourney and Stability AI, companies behind AI art tools Midjourney and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.polygon.com/23558946/ai-art-lawsuit-stability-stable-diffusion-deviantart-midjourney",
+      "originalUrl": "https://www.polygon.com/23558946/ai-art-lawsuit-stability-stable-diffusion-deviantart-midjourney",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/seCKD5EZsU7PMM9sgjPg961ii60=/0x0:5000x3333/1400x933/filters:focal(2100x1267:2900x2067):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/71875831/1243526891.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/23558946/ai-art-lawsuit-stability-stable-diffusion-deviantart-midjourney",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23558946/ai-art-lawsuit-stability-stable-diffusion-deviantart-midjourney",
+      "publishedDateTime": "2023-01-17T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
+      "title": "DLR Launches Ground-breaking Robot Control Software",
+      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-whats-going-on-with-baidu-shares.md",
+      "title": "What's Going On With Baidu Shares",
+      "excerpt": "Baidu Inc BIDU shares are trading lower by 6.23% to $130.30 during Tuesday's trading session. Shares of Chinese companies at large are trading lower after China's GDP growth slowed in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
+      "originalUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/01/17/analysis-4937349_0.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources.md",
       "title": "AI21 Labs intros an AI writing assistant that cites its sources",
       "excerpt": "AI21 Labs new AI-powered writing assistant, called Wordtune Spices, cites its sources -- perhaps better than ChatGPT.",
@@ -1008,206 +1171,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-microsoft-brings-chatgpt-support-to-azure-all-the-details.md",
-      "title": "Microsoft brings ChatGPT support to Azure: All the details",
-      "excerpt": "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/articleshow/97049819.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/articleshow/97049819.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-97049819,width-1070,height-580,imgsize-65374,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms",
-      "publishedDateTime": "2023-01-16T22:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing.md",
-      "title": "How Will ChatGPT Affect Your Job If You Work In Advertising And Marketing?",
-      "excerpt": "ChatGPT is a tools that is enabling anyone to see the power of artificial intelligence and machine learning. It is also forcing people to think about the implications of such powerful technology on jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c64c5d2085183335766ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1034,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/amp/",
-      "publishedDateTime": "2023-01-16T22:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View",
-      "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Marketsize, segment (mainly coveringMajorType (, Statistical NLP, Hybrid based NLP, Rule NLP, ,),End Users (, Healthcare, Life Sciences,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-mit-mass-general-hospital-have-developed-an-ai-system-that-can-detect-lung-cancer.md",
-      "title": "MIT & Mass General Hospital Have Developed An AI System That Can Detect Lung Cancer",
-      "excerpt": "One notable accomplishment in this arena is the recent announcement by the Massachusetts Institute of Technology (MIT) and Mass General Hospital (MGH) regarding the development of a deep learning model named “Sybil” that can be used to predict lung cancer risk,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/01/16/mit--mass-general-hospital-have-developed-an-ai-system-that-can-detect-lung-cancer/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/01/16/mit--mass-general-hospital-have-developed-an-ai-system-that-can-detect-lung-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c625efe08d59122bc2bb21/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/01/16/mit--mass-general-hospital-have-developed-an-ai-system-that-can-detect-lung-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/01/16/mit--mass-general-hospital-have-developed-an-ai-system-that-can-detect-lung-cancer/amp/",
-      "publishedDateTime": "2023-01-16T19:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo161658437822"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo161658437822"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle"
-    excerpt: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle - Gautam Adani, the richest man in Asia, is addicted to ChatGPT, a tool that scours large quantities of"
-    publishedDateTime: 2023-01-21T04:20:00Z
-    webUrl: "https://www.siliconindia.com/news/general/adani-a-chatgpt-user-claims-that-the-race-for-ai-will-become-as-complex-as-the-chip-battle-nid-221054-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 43
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/g95fRIB1.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Google Sparrow: an AI to compete with ChatGPT"
     excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."
     publishedDateTime: 2023-01-23T09:44:00Z
@@ -122,7 +108,7 @@ related:
     provider:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://insurancenewsnet.com/wp-content/uploads/2023/01/MicrosoftTeams-image-106-900x472.jpg"
         width: 900

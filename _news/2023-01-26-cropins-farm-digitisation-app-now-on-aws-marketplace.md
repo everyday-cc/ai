@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T19:51:00Z
 originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/cropins-farm-digitisation-app-now-on-aws-marketplace/articleshow/97330319.cms"
 webUrl: "https://timesofindia.indiatimes.com/gadgets-news/cropins-farm-digitisation-app-now-on-aws-marketplace/articleshow/97330319.cms"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Indiatimes

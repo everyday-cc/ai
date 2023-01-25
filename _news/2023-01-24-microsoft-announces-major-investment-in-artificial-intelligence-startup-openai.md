@@ -8,7 +8,7 @@ webUrl: "https://www.pbs.org/newshour/science/microsoft-announces-major-investme
 ampWebUrl: "https://www.pbs.org/newshour/amp/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
 type: article
-quality: 85
+quality: 87
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/hackattack1-1024x683.jpg"

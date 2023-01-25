@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T20:22:00Z
 originalUrl: "https://www.horsetalk.co.nz/2023/01/26/smartphone-cameras-promise-lameness-horses/"
 webUrl: "https://www.horsetalk.co.nz/2023/01/26/smartphone-cameras-promise-lameness-horses/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Horse Talk

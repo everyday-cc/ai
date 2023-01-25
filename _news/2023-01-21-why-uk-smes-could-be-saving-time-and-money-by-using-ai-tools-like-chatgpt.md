@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI experts on whether you should be \"terrified\" of ChatGPT"
+    excerpt: "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code."
+    publishedDateTime: 2023-01-22T17:38:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How will ChatGPT, DALL-E and other AI tools impact the future of work? We asked 5 experts"
     excerpt: "Could the rise of advanced AI tools mean the end of some creative and knowledge jobs? Here's what the experts had to say."
     publishedDateTime: 2023-01-23T11:54:00Z
@@ -72,22 +88,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-1-4.jpg&signature=49a0eaf18d6a9ed5139bdb7a17178718"
         width: 1280
         height: 640
-        isCached: true
-  - title: "AI experts on whether you should be \"terrified\" of ChatGPT"
-    excerpt: "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code."
-    publishedDateTime: 2023-01-22T17:38:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Generative AI and ChatGPT – Is it a disruptor in the digital world needs?"
     excerpt: "AI has easily been the most loved and loathed technology simultaneously. Sometimes it is hated by its creators, and other times; it is loved by its critics. Safe to say that AI is loved"
@@ -144,6 +144,15 @@ related:
         width: 2992
         height: 1968
         isCached: true
+  - title: "The CEO of the company behind AI chatbot ChatGPT says the worst-case scenario for artificial intelligence is 'lights out for all of us'"
+    excerpt: "Experts warn OpenAI's ChatGPT could be abused to scam people or spread misinformation. CEO Sam Altman fears the worst case for AI is much bleaker."
+    publishedDateTime: 2023-01-25T20:52:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-openai-ceo-worst-case-ai-lights-out-for-all-2023-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
     excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
     publishedDateTime: 2023-01-23T13:28:00Z

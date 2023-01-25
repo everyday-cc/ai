@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Famous venue is advised to stop using facial recognition technology"
-    excerpt: "State lawmakers have warned the Madison Square Garden stadium in New York City not to use face recognition technology as a weapon against visitors if"
-    publishedDateTime: 2023-01-22T13:36:00Z
-    webUrl: "https://menafn.com/1105462269/Famous-venue-is-advised-to-stop-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "QvTOdOc+BGK0KxTYfj/cIy2j3DXCuuxfcgtS8NA6PaKyWKE9rYXoK3bUySvjjndkE7UlsE2p6MEz3eEL6InA70Ljn1kgk5OnWB15gtwtZ2NVL4XW1BWBbnfY/sIDTx9TL/APEARsX3egQACbnVpMveuMI3v8wUuPIrjQOA5lMOZTxZ5gsg7DpBdDCKXl69GjDg2t5Y7qNG7VJVGe2yHjm4g5TMMT3+qI7riM1et4p3nDm7Apu5l2P4hVeIngfuCA8Mql2f7PgylbUSSLf/NyPA/GH+e9u2jKTwIHpEK56Hy5Cnj65xyfpSx6aKfPvr4KfLude/Yoyhot5Nlnf/fV7e3Z2aR7tD8QPvDSfEHyZiDcKI3w/MuFAasxaFAABL9SdfNzYFqJw+fEJXTp8DNmqc35hwm2tz7gd7ZvPmOfFUGccKQbGu0iX3i6GAGoZ99moLcMSytHpbCnzrN5ciwQSnjTiZnSs2gbVdbunWN0t097i4Q+G3AfWmJG1/Z5Dk0xVeizkfith257R1bo2mg7LA==;vto0ZgYlk77C+TbvWC4uwQ=="
 ---

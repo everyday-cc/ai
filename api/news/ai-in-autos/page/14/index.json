@@ -2,6 +2,188 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-10-22-elon-musks-language-about-teslas-self-driving-is-changing.md",
+      "title": "Elon Musk’s language about Tesla’s self-driving is changing",
+      "excerpt": "The language used by Elon Musk about Tesla’s self-driving effort is changing, and it is muddying the timeline for the automaker to deliver on its promise. Musk use to make statements that made him sound supremely confident that Tesla could soon deliver a self-driving system and virtually all vehicles the automaker produced since 2016 through a software update.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/",
+      "originalUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/",
+      "publishedDateTime": "2022-10-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister.md",
+      "title": "Over 30 Lakh Officials To Be Trained In Artificial Intelligence: Minister",
+      "excerpt": "Union Minister Jitendra Singh on Friday said more than 30 lakh central and state government officials will be trained and exposed to emerging technologies such as artificial intelligence (AI), machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748",
+      "originalUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-08/6uvni4e_jitendra-singh-650-_625x300_21_August_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1",
+      "publishedDateTime": "2022-10-21T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-dalle-mini-and-the-future-of-artificial-intelligence-art.md",
+      "title": "Dall·E Mini And The Future Of Artificial Intelligence Art",
+      "excerpt": "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/",
+      "publishedDateTime": "2022-10-21T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-driverless-cabs-ai-perfume-and-a-history-mystery.md",
+      "title": "Driverless cabs, AI perfume and a history mystery",
+      "excerpt": "Click takes a ride in one of the first fare paying driverless cabs in San Francisco ... visitors solve a historical mystery. And how artificial intelligence is helping the perfume industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
+      "originalUrl": "https://www.bbc.co.uk/programmes/m001cv9d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
       "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
       "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
@@ -1197,196 +1379,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-a-sort-of-driverless-cars-journey-through-san-francisco.md",
-      "title": "A (sort of) driverless car’s journey through San Francisco",
-      "excerpt": "A Waymo Jaguar SUV outside Mission High School. Photo by Yujie Zhou. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. The electric car that emerged from the fog on Monday morning might have ...",
-      "sourceUrl": null,
-      "webUrl": "https://missionlocal.org/2022/10/waymo-driverless-car-san-francisco-cruise/",
-      "originalUrl": "https://missionlocal.org/2022/10/waymo-driverless-car-san-francisco-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2022/10/selfDrivingCar_banner.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mission Local",
-        "domain": "missionlocal.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-piggly-wiggly-midwest-partners-with-focal-systems-to-leverage-artificial-intelligence-and-automation-to-transform-the-shopper-experience.md",
-      "title": "Piggly Wiggly® Midwest Partners with Focal Systems to Leverage Artificial Intelligence and Automation to Transform the Shopper Experience",
-      "excerpt": "Focal Systems, the industry leader in retail automation, today announced a partnership with Piggly Wiggly Midwest stores. Piggly Wiggly Midwest will be piloting the Focal Operating System (FocalOS) in its Wisconsin and Illinois stores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/piggly-wiggly-midwest-partners-with-focal-systems-to-leverage-artificial-intelligence-and-automation-to-transform/article_7173d335-71c3-5704-a74d-251a79e22a4c.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/piggly-wiggly-midwest-partners-with-focal-systems-to-leverage-artificial-intelligence-and-automation-to-transform/article_7173d335-71c3-5704-a74d-251a79e22a4c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-self-driving-cars-and-asimovs-three-laws-about-robots.md",
-      "title": "Self-Driving Cars And Asimov’s Three Laws About Robots",
-      "excerpt": "Advances in Artificial Intelligence (AI ... One such example is the advent of AI-based true self-driving cars. A car that is being driven by an AI system can be said to be a type of robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fdbda74b146f4f451dec796/0x0.jpg?format=jpg&crop=4743,3751,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 949,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/05/self-driving-cars-and-asimovs-three-laws-about-robots/amp/",
-      "publishedDateTime": "2022-10-13T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-volkswagen-to-invest-23-bln-in-china-self-driving-tech-jv.md",
-      "title": "Volkswagen to Invest $2.3 Bln in China Self-Driving Tech JV",
-      "excerpt": "By Joshua Kirby Volkswagen AG said Thursday that it will invest more than 2 billion euros ($1.94 billion) in a joint venture in China that aims to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "originalUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "publishedDateTime": "2022-10-13T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

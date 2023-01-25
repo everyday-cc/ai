@@ -2,6 +2,196 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-11-30-study-shows-alzheimers-drug-moderately-slowed-cognitive-decline.md",
+      "title": "Study shows Alzheimer’s drug ‘moderately’ slowed cognitive decline",
+      "excerpt": "An experimental drug from Biogen and its Japanese partner, Eisai, led to “moderately less” cognitive decline in patients with early symptoms of Alzheimer’s disease, but caused side effects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/11/29/business/alzheimers-drug/",
+      "originalUrl": "https://www.bostonglobe.com/2022/11/29/business/alzheimers-drug/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Fp_9Aexwb7QP08vZDSg9ZptDq_A=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/HIJPRU7MVIVDGB44MKAEESRRQI.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-how-to-capitalize-on-ai-and-data-to-personalize-live-events.md",
+      "title": "How to capitalize on AI and data to personalize live events",
+      "excerpt": "Data-driven AI technology, when correctly deployed and managed, can offer enhanced event experiences for attendees and organizations alike.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-capitalize-on-ai-and-data-to-personalize-live-events/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-capitalize-on-ai-and-data-to-personalize-live-events/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/12/data-focus.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-capitalize-on-ai-and-data-to-personalize-live-events/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-capitalize-on-ai-and-data-to-personalize-live-events/amp/",
+      "publishedDateTime": "2022-11-29T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-self-driving-lorries-hit-the-road-in-sweden.md",
+      "title": "Self-driving Lorries Hit The Road In Sweden",
+      "excerpt": "In the pilot project, the self-driving truck is manoeuvring a stretch of some 300 kilometres (186 miles) between Sodertalje and Jonkoping in Sweden's south, delivering fast-food goods. From the outside,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809",
+      "originalUrl": "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4388782/lorry-combines-all-input-various-sensors-gps-system.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809?amp=1",
+      "publishedDateTime": "2022-11-29T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-predictions-for-ai-video-chips-and-more-in-2023-deloitte.md",
+      "title": "Predictions for AI, video, chips and more in 2023 | Deloitte",
+      "excerpt": "The new year will see AI tools for chip design, video streams with ad support, and a crowd of satellites in space, according to Deloitte.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/",
+      "originalUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/deloitte-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/",
+      "publishedDateTime": "2022-11-29T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-alzheimers-drug-lecanemab-slows-cognitive-decline-among-patients-in-early-stages-study-finds.md",
       "title": "Alzheimer's drug lecanemab slows cognitive decline among patients in early stages, study finds",
       "excerpt": "A study released Tuesday showed a closely-watched Alzheimer's drug slowed cognitive decline among people with early signs of the disease but also carries safety risks for some patients.",
@@ -878,196 +1068,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-amazons-new-alexa-feature-uses-ai-to-create-animated-stories-on-echo-show.md",
-      "title": "Amazon’s new Alexa feature uses AI to create animated stories on Echo Show",
-      "excerpt": "Amazon announced today the launch of “Create with Alexa,” a new AI tool for kids that generates animated stories. The company first revealed the feature in September. “Create with Alexa” launched in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/",
-      "originalUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/assets.aboutamazon.webp",
-          "width": 1189,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/amp/",
-      "publishedDateTime": "2022-11-29T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-brain-mri-data-machine-learning-models-might-help-in-diagnosing-adhd.md",
-      "title": "Brain MRI Data & Machine Learning Models Might Help In Diagnosing ADHD",
-      "excerpt": "In a new study, researchers made a breakthrough by potentially finding a far more robust mechanism through which ADHD diagnosis via brain MRI scans might become a reality in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
-      "originalUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6384bb904b07cd85744597a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1114,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
-      "publishedDateTime": "2022-11-29T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on-civilians.md",
-      "title": "San Francisco police are controversially asking permission to use killer robots on civilians",
-      "excerpt": "A new California law is forcing a discussion on whether police departments should be allowed to use robots to kill people. The Oakland Police Department recently proposed arming remote-control ...",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/robots/1018794/san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on",
-      "originalUrl": "https://theweek.com/robots/1018794/san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1669729886/GettyImages-1320231095.jpg",
-          "width": 814,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/robots/1018794/san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/robots/1018794/san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on?amp",
-      "publishedDateTime": "2022-11-29T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-research-assistant-or-research-associate-in-computer-vision-and-machine-learning.md",
-      "title": "Research Assistant or Research Associate in Computer Vision and Machine Learning",
-      "excerpt": "Apply(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds)",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/unijobs/listing/318923/research-assistant-or-research-associate-in-computer-vision-and-machine-learning/",
-      "originalUrl": "https://www.timeshighereducation.com/unijobs/listing/318923/research-assistant-or-research-associate-in-computer-vision-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/unijobs/getasset/2fbdfe3e-048e-46ee-b378-abefdc41d627/;w=600;h=315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

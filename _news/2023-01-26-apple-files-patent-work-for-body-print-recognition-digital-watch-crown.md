@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T20:31:00Z
 originalUrl: "https://www.biometricupdate.com/202301/apple-files-patent-work-for-body-print-recognition-digital-watch-crown"
 webUrl: "https://www.biometricupdate.com/202301/apple-files-patent-work-for-body-print-recognition-digital-watch-crown"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Biometric Companies

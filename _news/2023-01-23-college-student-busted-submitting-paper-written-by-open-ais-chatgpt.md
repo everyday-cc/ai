@@ -211,20 +211,6 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 42
-  - title: "Questions and warnings about AI chatbots in wake of ChatGPT launch"
-    excerpt: "MUNICH: In a matter of seconds after you type in a prompt, ChatGPT shoots back a well-formulated text. You can scarcely tell the difference from those written by humans."
-    publishedDateTime: 2023-01-21T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/21/questions-and-warnings-about-ai-chatbots-in-wake-of-chatgpt-launch"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909914.jpeg"
-        width: 1240
-        height: 786
-        isCached: true
   - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
     excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
     publishedDateTime: 2023-01-25T13:05:00Z

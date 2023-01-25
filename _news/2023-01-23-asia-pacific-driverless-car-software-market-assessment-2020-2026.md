@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T06:45:00Z
 originalUrl: "https://menafn.com/1105463816/Asia-Pacific-Driverless-Car-Software-Market-Assessment-2020-2026"
 webUrl: "https://menafn.com/1105463816/Asia-Pacific-Driverless-Car-Software-Market-Assessment-2020-2026"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mena FN

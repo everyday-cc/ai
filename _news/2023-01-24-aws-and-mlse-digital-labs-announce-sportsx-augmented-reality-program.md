@@ -43,6 +43,15 @@ related:
       name: SportsPro
       domain: sportspromedia.com
     quality: 19
+  - title: "SportsX: MLSE, AWS team up to launch unique R&D initiative"
+    excerpt: "How fans watch sports, and how coaches gauge the performance of individual players - and the team as a whole - is about to head in an entirely new direction following the launch yesterday of a research and development program called SportsX by MLSE Digital Labs and Amazon Web Services (AWS)."
+    publishedDateTime: 2023-01-25T19:47:00Z
+    webUrl: "https://www.itworldcanada.com/article/sportsx-mlse-aws-team-up-to-launch-unique-rd-initiative/523824"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 19
 
 secured: "4zY4vAtR9OzybATa8QD3K+ZjXqiea+QzX5wKVrJ+kWT5MGORCN9lBOmhUj3+dT3F8wCo7W4AR309jVI2eT4yCVsfMSTEtZmxcfP0efZj8ILSgYyf/8usmYQOcZHsr53dHo3xj+699i0U2l0Gr50vauW5mqfq/9iaZHVG2t/ZAypQaIABlfekRsD2NWof1GhUcGIQfEA9G1xaYSSyn/cpn4Z/BMDXlfYKJ85n7JiZck7x/FH5fhqhL0izlOlxi7VAgPZa/SCPQDLir4szCeliSX2HLqU0QD8PNCs9d2b/HZBGhsSzYM1Tu4BqVwlVao1yoYZNKhZ5Y/RiPNDJaQymGFNyOcNnU7aTxbuT5DhgnjeCBP0XPIPAaV7r5YTbSCs3YAdwOuYi2BGRV5amZnysxlTvzAZy2ismXct/DmWjC3CgkMtq2fy+zjA/liDbMbNObfXosJiiB8zhUmMLlQatRHJwXK4SLlzjTuQrfrpEEGe+D73X5mPa2VDWWuRDXc75NyRlqex5JVmNCnqOv9z5tQ==;27D+8fD5AluFf9x83zrRzQ=="
 ---

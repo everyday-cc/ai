@@ -27,28 +27,44 @@ images:
     isCached: true
 
 related:
-  - title: "Flamboyant Italian clothes defeat facial recognition without masks"
-    excerpt: "They may be a little brutal on the eye, but Capable says its visually confusing and extremely pricey cotton knits are designed to throw off AI facial recognition systems, by fooling machine learning systems into thinking you're an animal and not a human."
-    publishedDateTime: 2023-01-23T05:35:00Z
-    webUrl: "https://newatlas.com/good-thinking/facial-recognition-clothes/"
+  - title: "How to stop facial recognition cameras from monitoring your every move"
+    excerpt: "As was the case for New Jersey native Kelly Conlan. Conlan was just passing through security at an event at Radio City Music Hall when security stopped her and refused to let her into a Rockettes ..."
+    publishedDateTime: 2023-01-23T16:48:00Z
+    webUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move"
+    ampWebUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
     images:
-      - url: "https://assets.newatlas.com/dims4/default/754120e/2147483647/strip/true/crop/965x507+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F74%2Fb4%2Fb339109845caad60b7e4ae243df3%2F309634727-461346366016754-2441330964910929706-n.jpg&na.image_optimisation=0"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4637f8a2-8a8b-4e88-ad30-23a60beee5a2/a469454b-e28d-428c-b4b0-b4c0d04de9b2/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Chaotic Italian Fashion Line Baffles Facial Recognition Software"
-    excerpt: "An Italian clothing line, Cap_able, just released a collection of knitwear that tricks facial recognition software into registering you as an animal."
-    publishedDateTime: 2023-01-24T20:35:00Z
-    webUrl: "https://futurism.com/the-byte/italian-fashion-line-fascial-recognition"
+  - title: "How China outsells everyone on facial recognition surveillance"
+    excerpt: "Global manufacturers, consultants and researchers in the facial recognition industry looking to profit from AI surveillance algorithms have a new resource."
+    publishedDateTime: 2023-01-25T22:20:00Z
+    webUrl: "https://www.biometricupdate.com/202301/how-china-outsells-everyone-on-facial-recognition-surveillance"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
+        width: 2048
+        height: 1257
+        isCached: true
+  - title: "Famous venue is advised to stop using facial recognition technology"
+    excerpt: "State lawmakers have warned the Madison Square Garden stadium in New York City not to use face recognition technology as a weapon against visitors if"
+    publishedDateTime: 2023-01-22T13:36:00Z
+    webUrl: "https://menafn.com/1105462269/Famous-venue-is-advised-to-stop-using-facial-recognition-technology"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 19
 
 secured: "vMS0Pc0vVjwVcTpkzI1ppV2BjhP+A8tZ0mK6bbie6qV/olqPiwbG42Srcspdyx7q5TlJe/68lkJztlODbnGgd0/9DrB2EruqHxXmO0QWl2A9EFpF5hAaruIwMOiHxW3XeSf6qAI0apcAIv/99o49BRrqyK1Ob1IkCVRqFD2rn3MInjzcADZ5/5kcKoj+5YPC5rdOlbd4SOLzY8Y8P5QoZfH1sPKZ311BA1jqIBTZVbKmsz1Tq+sjI1bk7kFO0/VM7SCRByBJBhIJildx8pzDsXtwM1qqwbK8uU5uUe3cOieu5xJUrV40ArwVZ+A1C/PY9xobekl+KJY0JzrIWYHQxEOlbcBMNPzN1FlWfWFrFHxaqXRoQ5SPrXxEuMaVTaAC3h7T7xV03G88fpfHlUvvDQqUkm9+7HvNv+yh2HfY0g1m2ZvBbO0SUS6aCDPZN/6BQv091NPvYQMN3z1OhNJ1ZYyBku1tYTcYFtIEPCqB4u5vsJuHAXxmzsWkCvTWtsAaaOh7EOXAFUtjdFUoh/mtgw==;4ECbq8ZPKR90zA9kvtZmxw=="

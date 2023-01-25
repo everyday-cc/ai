@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T20:09:00Z
 originalUrl: "https://www.cincinnati.com/story/news/nation/2023/01/13/artificial-intelligence-protect-whales-offshore-wind-tries-vineyard-wind/11042267002/"
 webUrl: "https://www.cincinnati.com/story/news/nation/2023/01/13/artificial-intelligence-protect-whales-offshore-wind-tries-vineyard-wind/11042267002/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Cincinnati Enquirer

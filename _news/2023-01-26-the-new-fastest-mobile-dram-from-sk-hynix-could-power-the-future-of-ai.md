@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T20:47:00Z
 originalUrl: "https://www.techradar.com/news/sk-hynix-unveils-the-worlds-fastest-mobile-dram-to-power-the-future-of-ai"
 webUrl: "https://www.techradar.com/news/sk-hynix-unveils-the-worlds-fastest-mobile-dram-to-power-the-future-of-ai"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechRadar

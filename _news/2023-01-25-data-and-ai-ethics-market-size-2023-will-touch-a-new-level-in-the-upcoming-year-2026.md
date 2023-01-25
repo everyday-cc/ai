@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24"
 type: article
 quality: 77
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Growth, Trends and Industry Forecast 2023-2028 with Top Countries Data"
+    excerpt: "Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected"
+    publishedDateTime: 2023-01-25T10:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-growth-trends-and-industry-forecast-2023-2028-with-top-countries-data-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
   - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
     publishedDateTime: 2023-01-24T09:37:00Z

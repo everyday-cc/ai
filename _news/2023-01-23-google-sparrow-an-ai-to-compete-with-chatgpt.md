@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle"
-    excerpt: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle - Gautam Adani, the richest man in Asia, is addicted to ChatGPT, a tool that scours large quantities of"
-    publishedDateTime: 2023-01-21T04:20:00Z
-    webUrl: "https://www.siliconindia.com/news/general/adani-a-chatgpt-user-claims-that-the-race-for-ai-will-become-as-complex-as-the-chip-battle-nid-221054-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 43
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/g95fRIB1.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "AI chatbot passes a final business school exam, beating Wharton students"
     excerpt: "A Wharton professor tested an artificial intelligence chatbot on Wharton's MBA exam, and the AI beat some of the students receiving a solid B or B-."
     publishedDateTime: 2023-01-24T10:07:00Z
@@ -123,7 +109,7 @@ related:
     provider:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://insurancenewsnet.com/wp-content/uploads/2023/01/MicrosoftTeams-image-106-900x472.jpg"
         width: 900

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
         width: 712
         height: 400
         isCached: true
+  - title: "Member of Congress reads AI-generated speech on House floor"
+    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
+    publishedDateTime: 2023-01-25T21:31:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/US/230125_vod_onlocation_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Future of Artificial Intelligence (AI)"
     excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
     publishedDateTime: 2023-01-24T08:55:00Z
@@ -107,6 +123,15 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 47
+  - title: "Generative AI Won’t Revolutionize Game Development Just Yet"
+    excerpt: "Hypesters say artificial intelligence will one day automate all the hard work of video game creation. But it’s not that simple."
+    publishedDateTime: 2023-01-25T18:35:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-video-game-development/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
     quality: 47
   - title: "Generative AI and the Ensuing Computer Human Whisperer"
     excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."

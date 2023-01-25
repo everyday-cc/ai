@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T17:55:00Z
 originalUrl: "https://www.newscientist.com/article/2356520-ai-legal-assistants-first-appearance-in-court-has-been-cancelled/"
 webUrl: "https://www.newscientist.com/article/2356520-ai-legal-assistants-first-appearance-in-court-has-been-cancelled/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: New Scientist

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T19:24:00Z
 originalUrl: "https://www.ft.com/content/57a16cc9-26ec-4024-8981-56eb05a0eec6"
 webUrl: "https://www.ft.com/content/57a16cc9-26ec-4024-8981-56eb05a0eec6"
 type: article
+quality: 16
+heat: -1
+published: false
 
 provider:
   name: The Financial Times
@@ -14,6 +17,36 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "New York Attorney General Questions Madison Square Garden Entertainment Over Facial Recognition Technology Use"
+    excerpt: "The state’s top lawyer is requesting details after reports the software has been used to ban attorneys involved in lawsuits against the company from its venues."
+    publishedDateTime: 2023-01-25T21:23:00Z
+    webUrl: "https://www.billboard.com/pro/new-york-ag-questions-madison-square-garden-facial-recognition/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 34
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/01/madison-square-garden-exterior-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Madison Square Garden Pressed by NY AG James Over Face Scans"
+    excerpt: "New York Attorney General Letitia James is raising concerns about Madison Square Garden Entertainment Corp.'s reported use of facial recognition technology to prevent lawyers from accessing its venues because of ongoing litigation against the company."
+    publishedDateTime: 2023-01-25T16:28:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/madison-square-garden-pressed-by-ny-ag-james-over-face-scans"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 24
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/3f52060/2147483647/crop/3499x1345%2B0%2B15/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F2b%2Feb%2F457143b74700b6d65c029b277f13%2Fmadison-square-garden-new-york.jpg"
+        width: 959
+        height: 369
+        isCached: true
 
 secured: "mtCArCsASJKrQL/fEX27d1kdc31YcMXry1eKonqt8ruuYpnFmvH1yrj4dCZsQn9U05oPx9Z933IB+WPCroAnZqu88H93qXBN1ZaV8/WjyyORaeOu21bTKCyVzAGLHgV64d2UUM92PF3ctYPk9rGARLgRNWkvPxNytG4FJw3kpwdZIf/xdUG3uJhwEgAadygoLWZjcaRE1xpPotu60O4tzT2q7SPC39xMsCU3D8N0wU9kku8WeO1ebvi6jlvHaeGoeWbPOFnDrbSa/glkCM/9Gb08sc4uDaFR4dGTRW3jq2lj9b+vXXe98AiM97aoP//UXX4HDtmcLc0ze4kfpurUu2GJkiQT6klvvCSstIZP5tc=;+wncvpdXXdQnnV54B2yrZQ=="
 ---

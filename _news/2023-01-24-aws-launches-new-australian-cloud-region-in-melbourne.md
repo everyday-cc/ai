@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-new-austra
 webUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-new-australian-cloud-region-in-melbourne/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "South Australian universities to allow use of artificial intelligence in assignments, if disclosed"
-    excerpt: "Flinders University, the University of Adelaide and the University of South Australia adjust policies"
-    publishedDateTime: 2023-01-21T04:47:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/jan/21/south-australian-universities-to-allow-use-of-artificial-intelligence-in-assignments-if-disclosed"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/21/south-australian-universities-to-allow-use-of-artificial-intelligence-in-assignments-if-disclosed"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/21/south-australian-universities-to-allow-use-of-artificial-intelligence-in-assignments-if-disclosed"
+  - title: "AWS Melbourne now officially open"
+    excerpt: "Amazon Web Services has announced the general availability of its Melbourne region. This will feature three Availability Zones, and is the second AWS region in Australia. The regi"
+    publishedDateTime: 2023-01-23T23:18:00Z
+    webUrl: "https://www.crn.com.au/news/aws-melbourne-now-officially-open-590073"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/f4150275f2ad179cde24039c0e19cd43545aa83b/0_95_5000_3001/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=6bc667ef792e291ac425aa3d8ac801b6"
-        width: 620
-        height: 372
+      - url: "https://i.nextmedia.com.au/News/whichcloud_shutterstock_66520039.jpg"
+        width: 1000
+        height: 665
         isCached: true
+  - title: "AWS opens Melbourne region"
+    excerpt: "The Melbourne region follows a long way behind AWS’s original entry into the Australian market, the Sydney region which launched in 2012. The region consists of three availabili"
+    publishedDateTime: 2023-01-24T00:32:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-opens-melbourne-region-590074"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20140325062424_20130918094129_CRN-amazon-cloud-aws.jpg"
+        width: 460
+        height: 285
+        isCached: true
+  - title: "AWS launches Melbourne region"
+    excerpt: "Cloud giant Amazon Web Services has launched the AWS Asia Pacific (Melbourne) Region, its second infrastructure region in Australia. The new region comprises three availability zones – data centres that are sufficiently separated to ensure continuity of operation,"
+    publishedDateTime: 2023-01-24T01:11:00Z
+    webUrl: "https://itwire.com/it-industry-news/enterprise-cloud/aws-launches-melbourne-region.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 19
+  - title: "AWS Launches Second Infrastructure Region In Australia"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastruc"
+    publishedDateTime: 2023-01-25T20:02:00Z
+    webUrl: "https://menafn.com/1105477072/AWS-Launches-Second-Infrastructure-Region-In-Australia"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "1lhiUDtU2VbchVK6srMOCUzmOP2iqjtS+EBIk9+KaaL4P+xjwCqAPr8P0XTzkbztpCaEwWfchLAWYt0ohBvhJmikhN6yXJqhn39Jb+owBmTqiZ7NXlhS2Hw6GuwOedLYXqw64r5EigfkvoZfifd6BssO3STxUv597E8LmHlhvpC/6JXrNgangWpzvpHB69nryGNO6LgLmAgU0hV8UG1ZtBF7HnR5oh53ZXGuX5/iUbNT0Rd2s+R3m/dipbhTObcG/qvGPvH6ulrgvpXjH5v6cmj2QfqCbV6gAPyUB2I8+EDCo7pXzIXwLsPKVHBEIeWiOj5vEUpMQCyEpSUjWiVTbjkPEO3ZMLiX2TLF5uPP+IE6hR4wKKDBDxo9dLHmGuBMdvYUgB2ECw8Ie9aU7Z/1VHuuVvaC0g5XSGwN7tnDcM4zMLtUVEj40tNiP0PjYtQwysxmmsLv9fp+UfLVHHF2ep06lCA1PIN7iQC7mTsHPR0dncFzqp6XhN6qlrykkcfqmoyBvsI9EhkDI94j4bkH7A==;6M3ojJLkdomIwnAxlBXQVA=="
 ---

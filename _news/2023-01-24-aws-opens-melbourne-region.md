@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS launches new Australian cloud region in Melbourne"
+    excerpt: "First announced in December 2020, this is the second cloud region AWS has in the country, following the opening of Sydney in 2012. “We are excited about the launch of a second A"
+    publishedDateTime: 2023-01-24T10:47:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-new-australian-cloud-region-in-melbourne/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/gettyimages-600688368-170667a.2e16d0ba.fill-1200x630.jpg"
+        width: 509
+        height: 269
+        isCached: true
   - title: "AWS Melbourne now officially open"
     excerpt: "Amazon Web Services has announced the general availability of its Melbourne region. This will feature three Availability Zones, and is the second AWS region in Australia. The regi"
     publishedDateTime: 2023-01-23T23:18:00Z
@@ -47,6 +61,15 @@ related:
     provider:
       name: ITWire
       domain: itwire.com
+    quality: 19
+  - title: "AWS Launches Second Infrastructure Region In Australia"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastruc"
+    publishedDateTime: 2023-01-25T20:02:00Z
+    webUrl: "https://menafn.com/1105477072/AWS-Launches-Second-Infrastructure-Region-In-Australia"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 19
 
 secured: "2+LMrNqf5Y1guaAvKjOvFkSbPtxo4WA9YSjjy8X9cpidEEAjK4V22ER1/DZc4I8QgYEVMDqwoTAoarqEe2P/3/LN1mr71optgsivOXfIehm/p/xIM3JRzIVCfqbpTJkAQ8QS4mUdq3Jrx6XNfP7Y8uIc/dRAbMs2XWCwDowUE3uzJU5Dqdp5ZsDckzP3dIYTlGAhcSng215dRw9q7HxsKf3UXWnnQ19EK8jXobxUGYJ4jdNF4OEgMLXIjH1JrPUD2IdyX72R/3dBLBmZK/tULu2wsnn+eh9RfLHrzZY7aSkrNJmvp2ovkicjVoSYKESsZhoNbu7zWD5+mswvkjPYvAphJyTdO8XRbXsPveqRKA4hSDlKWhMz14suClzlTpYIOYvkRReDspTcGnn9/3WPNvRGtOXzii32m4sne9wkGE+dNM05mWYDigvrhfjjb+stQO7GckivaYLquUqa68XVBEqbjqTRPcp6y6QxxA81mnwgSCSJacahvsk/SI+VxHj3dpOAaAmwUWrDeFx/XLvG/g==;RwW+e6u4tLSO9CyzE0U6fg=="

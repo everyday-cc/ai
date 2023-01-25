@@ -5,7 +5,12 @@ excerpt: "Artificial intelligence (AI) deep learning combined with patient imagi
 publishedDateTime: 2023-01-24T15:21:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
 webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
 type: article
+quality: 74
+heat: -1
+published: false
 
 provider:
   name: Psychology Today
@@ -15,6 +20,140 @@ topics:
   - Machine Learning
   - AI
 
-secured: "Lcp3NtDUYFepxP6/FiE7YgAT/MfXUvGDuC6eIKVkt8hAMgqiO2/wBi8xVjOfIZuBe/IOrmYRosVqgqChoJu7pWfzxBbMzFBLKTImkj66ylHc1iOEWmjFf4ZU7GmXg73dlUifSSr/Sx1K7LC2ukUBS6MGIs0nwo+OgnlPl7ayBu2BCPIwjs7EYLX4i0rLA4553hEMIqrduiWsIlEaqc97Uy3kebixHAIdQuV2HfQYzOTYNqMXFWe9opXAjr++iSmG5HTD12SdYWhEmVUVevKVtopqMs5tAHKREov8VSoENcH2tHvNtRSowHVBJkLKkO0RwYSWW2AR1Req4qM3xajqQ61BNSG7mNnOEncQtzNhyfc=;jaaNnrqTQCcjJECtfna4gQ=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu"
+    width: 1528
+    height: 800
+    isCached: true
+
+related:
+  - title: "Federated learning key to securing AI"
+    excerpt: "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it."
+    publishedDateTime: 2023-01-25T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all"
+        width: 1199
+        height: 638
+        isCached: true
+  - title: "How to Spot AI-Generated Art, According to Artists"
+    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
+    publishedDateTime: 2023-01-21T11:59:00Z
+    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
+    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "How Artificial Intelligence is Transforming Banking"
+    excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
+    publishedDateTime: 2023-01-23T22:57:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/01/iStock-1168748420.jpg"
+        width: 750
+        height: 530
+        isCached: true
+  - title: "Learning to lie: AI tools adept at creating disinformation"
+    excerpt: "Artificial intelligence is writing fiction, making images inspired by Van Gogh and fighting wildfires. Now it's competing in another"
+    publishedDateTime: 2023-01-24T00:01:00Z
+    webUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+    ampWebUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_c1a300d8870140f595152edf1fe2c773.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
+    excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
+    publishedDateTime: 2023-01-23T10:21:00Z
+    webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 53
+    images:
+      - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-24T18:46:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/24/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-25T21:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Learning to lie: AI tools adept at creating disinformation"
+    excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda."
+    publishedDateTime: 2023-01-25T04:19:00Z
+    webUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+    ampWebUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "On critical thinking and artificial intelligence"
+    excerpt: "The public, specifically the academe, has recently been confronted by both shock and awe at its latest challenge: artificial intelligence (AI). The issue started when a faculty from the University of"
+    publishedDateTime: 2023-01-24T20:48:00Z
+    webUrl: "https://opinion.inquirer.net/160560/on-critical-thinking-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 17
+
+secured: "s40fYlEwq4YnEF+8udWsxVqdwEAizztGMTdoRxZJwLQdeMraoqS76S458ddNqotQ/Zq5d68Sfei8s66i2njHLXVBv04TfdXcacSTYVW46stnsj9x2afCQ4hEY2xCRS8qsZuBaANj681IkuDb92DtV5uv9CfElqhj3o4X/rqobfJLWPwSFynvrX6J94DhpP5mWDlBzTXZWNlS/ZruJR0SJfwbMRuhfjQPiCJXfF+iJlVMHWWtA+4xeMBVkpI9EPp93WHu3z6OhZtnqeT00iUujcj9FCQttfC7Bh3g9n0Gqg6MprnqKbJ00SnP+MV5qNUoAKGtqdhBenqL5VBg5En8UpvVFsJ6P/AW66iNp8dN1ww=;R2aDXNJzx+yar/ud3w8UGg=="
 ---
 

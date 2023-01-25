@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T15:03:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30570760/hd-map-for-autonomous-vehicles-market-report-2022-featuring-autonavi-baidu-dynamic-map-platform-nv"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/g30570760/hd-map-for-autonomous-vehicles-market-report-2022-featuring-autonavi-baidu-dynamic-map-platform-nv"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

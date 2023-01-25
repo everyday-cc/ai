@@ -199,20 +199,6 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 42
-  - title: "Questions and warnings about AI chatbots in wake of ChatGPT launch"
-    excerpt: "MUNICH: In a matter of seconds after you type in a prompt, ChatGPT shoots back a well-formulated text. You can scarcely tell the difference from those written by humans."
-    publishedDateTime: 2023-01-21T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/21/questions-and-warnings-about-ai-chatbots-in-wake-of-chatgpt-launch"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909914.jpeg"
-        width: 1240
-        height: 786
-        isCached: true
   - title: "College student busted submitting paper written by Open AI's ChatGPT"
     excerpt: "Popular Now: AI creates 1980s 'Matrix' starring Jeff Goldblum as Morpheus Chatbots such as OpenAI's ChatGPT are free and have very powerful capabilities that are resulted in them going viral."
     publishedDateTime: 2023-01-22T16:22:00Z

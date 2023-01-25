@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/good-thinking/facial-recognition-clothes/"
 webUrl: "https://newatlas.com/good-thinking/facial-recognition-clothes/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How do these strange-looking clothes fool facial recognition?"
-    excerpt: "With the rise of facial recognition technology has come an increase in demand for ways to avoid it. That’s why one Italian fashion house designed a clothing line that will deter facial recognition systems from trying to identify the wearer."
-    publishedDateTime: 2023-01-23T22:06:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Chaotic Italian Fashion Line Baffles Facial Recognition Software"
     excerpt: "An Italian clothing line, Cap_able, just released a collection of knitwear that tricks facial recognition software into registering you as an animal."
     publishedDateTime: 2023-01-24T20:35:00Z

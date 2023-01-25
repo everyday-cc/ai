@@ -5,9 +5,11 @@ excerpt: "Engineers at Tokyo Institute of Technology (Tokyo Tech) have demonstra
 publishedDateTime: 2023-01-25T14:11:00Z
 originalUrl: "https://techxplore.com/news/2023-01-disturbance-nonlinear-dynamics-augment-edge.html"
 webUrl: "https://techxplore.com/news/2023-01-disturbance-nonlinear-dynamics-augment-edge.html"
+ampWebUrl: "https://techxplore.com/news/2023-01-disturbance-nonlinear-dynamics-augment-edge.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-disturbance-nonlinear-dynamics-augment-edge.amp"
 type: article
-quality: 0
-heat: 0
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "gjXBA5+2cQlndOeTsLYApK1dxV23WAUaQNKvx4vgyVzyRmRl+GaX8SrVFQsUbLiG1NZTuUaW2Bas8/B3PqdyzuWvuOFUw8KnEGzJDwiwIImOa5EqGwoIMy8l545XsIG0SoRHhbb0bR8gKl7Rw2FmXJWcf9UpEaPi6LDfPNWPwnaerKNhde11Ny79alupPlVQ+2lyfh3Hgyk5BderAklvqSrt5wI12j15EixD13OaHgZVAsagisN0sTQ8AcRuYAmc4I1X4zXtEghPpmvWcqDc0ySjX4XGeYKUX5i0uO0mszdd6C0UwzTDPuJP0XJtNIPRXxiHbz9DS18AIk1oXkanUQul8zIW4lDxeHk69ONFiic=;w6RKf4vgCmD2D/ZpSM03HQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/helpful-disturbance-ho.jpg"
+    width: 2172
+    height: 3050
+    isCached: true
+
+secured: "b4vhDw1FH0GkGfsqB/vO74vCqIVcTWduRk5ICRNUFnNsJPrnbIBWA9x058xYbKGO9+rR5qdLg+Xu7679W5/M2ZGtoeDGuhX6TLJN/cXqdlxv1hFgZkYGcmNSLPi+nqtEPtTrS5pVEEJ31cEPzVCKnwiDD8e5BvAeIiV5vn/PaOCIcSGCWyHvH41vGftbAQFA9NpjcrDo9mbChVpgnYtn25tPnkY1zKG2QxIszu9a2gJvTH9eurIq9fP2wsew7WExRIAo7gWOPO8MKgwHLKCoz5JEb3wWZV9+IbsphsyfeCKvekFiOf2xoyQK4BplObfMqlF3pHssO5QejCLzvqplx0FS5anIparDtlenzXkqrNg=;6JbTWFfTB8yk7LcsUZ/9Nw=="
 ---
 

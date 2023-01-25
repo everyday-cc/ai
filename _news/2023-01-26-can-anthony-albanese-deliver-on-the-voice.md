@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T19:00:00Z
 originalUrl: "https://www.afr.com/politics/federal/can-anthony-albanese-deliver-on-the-voice-20230124-p5cf7e"
 webUrl: "https://www.afr.com/politics/federal/can-anthony-albanese-deliver-on-the-voice-20230124-p5cf7e"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian Financial Review

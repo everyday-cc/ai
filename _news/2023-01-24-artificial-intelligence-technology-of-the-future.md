@@ -7,7 +7,7 @@ originalUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence
 webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence on forefront thanks to new technology"
+    excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
+    publishedDateTime: 2023-01-22T18:02:00Z
+    webUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology"
+    ampWebUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true"
+    type: article
+    provider:
+      name: WPTV-TV
+      domain: wptv.com
+    quality: 59
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/2fa/2fbf8a5e953e4a01960f2f5161cc4953/2fa94b66144647d684da70b6f2e4379f/poster_d756cdb6393a4cf9b11a4275568c2734.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Technology: While AI fascinates, it brings up questions"
     excerpt: "Like any technology, whether AI is a net gain or net loss for society depends on how we humans choose to use it. On the positive side, advancements in AI can do things like help doctors to diagnose illnesses or help scientists combat climate change."
     publishedDateTime: 2023-01-22T11:00:00Z
@@ -40,24 +56,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Artificial intelligence on forefront thanks to new technology"
-    excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
-    publishedDateTime: 2023-01-22T18:02:00Z
-    webUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology"
-    type: article
-    provider:
-      name: WPTV-TV
-      domain: wptv.com
-    quality: 17
-  - title: "Smart clothing and artificial intelligence: A new technology for the diagnosis and monitoring of neurological diseases"
-    excerpt: "Dr. Aldo Faisal, Professor of Digital Health at the University of Bayreuth, have developed a novel set of tools for diagnosing and monitoring neurological diseases based on body-worn sensors (wearables) and artificial intelligence."
-    publishedDateTime: 2023-01-23T12:45:00Z
-    webUrl: "https://idw-online.de/de/news808047"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 0
 
 secured: "x+nWbxXsqwZpj62eaFWZ7leXNRGxneZtCq8C78l+qsi1VwHgc61mZCi749LasKO3iDSUXA4UUu1/N8gZEPE7r6rM4Ug1Kb6AQQ4j6aviy0VmcLiHPaqLsAxg848eXKU6w/BPbAXU7iE/+3DqbwM3z2XBkc6dFYmAF26JYAi7Sn5Nk1MjpMvJffJzK/KPdQE5EJfN1o4/Ay7xWHLgP/KmSvrs4y10aZIcPcgOv0hTBfEGRbsoKfaRcjiBaYUmO3jgsck3pH+M/ZXQPiewiBWU8TLQ03hG/m7g50mliuDmYtvNItd00OUXBlJR2coASDEZxvbHyMfFPfrTolgsEWlT6UoCSKyyJfqybwdbrcddfDrHNgXUz108i+dDTwvTxGq2l8fmpHA+qOBgB4cbBKJcxcnap1rcJxxqY22ZH40qVOfEb7sw53yAzaCCFLT5NqaLRZdIsbbyaxCuuFPprwe/CGz1PfrUbj8e6ev/mZHrDpuXXHn2ZxobbR4N0g/g10jcpjEbs2sw65Ynh6UucO1/ew==;qKifWnqkSlS7WIGNrkYvCg=="
 ---

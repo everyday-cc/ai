@@ -71,7 +71,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
         width: 1200
@@ -148,6 +148,15 @@ related:
         width: 2992
         height: 1968
         isCached: true
+  - title: "The CEO of the company behind AI chatbot ChatGPT says the worst-case scenario for artificial intelligence is 'lights out for all of us'"
+    excerpt: "Experts warn OpenAI's ChatGPT could be abused to scam people or spread misinformation. CEO Sam Altman fears the worst case for AI is much bleaker."
+    publishedDateTime: 2023-01-25T20:52:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-openai-ceo-worst-case-ai-lights-out-for-all-2023-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
     excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
     publishedDateTime: 2023-01-23T13:28:00Z

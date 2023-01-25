@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T20:06:00Z
 originalUrl: "https://venturebeat.com/enterprise-analytics/2023-predictions-for-data-ai-c-suite-leadership-and-privacy/"
 webUrl: "https://venturebeat.com/enterprise-analytics/2023-predictions-for-data-ai-c-suite-leadership-and-privacy/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

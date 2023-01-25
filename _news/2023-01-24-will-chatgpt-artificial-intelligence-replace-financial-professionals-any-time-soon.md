@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-23T19:12:00Z
 originalUrl: "https://insurancenewsnet.com/innarticle/will-chatgpt-artificial-intelligence-replace-financial-professionals-any-time-soon"
 webUrl: "https://insurancenewsnet.com/innarticle/will-chatgpt-artificial-intelligence-replace-financial-professionals-any-time-soon"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/uploads/2023/01/MicrosoftTeams-image-106-900x472.jpg"
@@ -86,20 +87,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle"
-    excerpt: "Adani, a ChatGPT user, claims that the race for AI will become as complex as the chip battle - Gautam Adani, the richest man in Asia, is addicted to ChatGPT, a tool that scours large quantities of"
-    publishedDateTime: 2023-01-21T04:20:00Z
-    webUrl: "https://www.siliconindia.com/news/general/adani-a-chatgpt-user-claims-that-the-race-for-ai-will-become-as-complex-as-the-chip-battle-nid-221054-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 43
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/g95fRIB1.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Google Sparrow: an AI to compete with ChatGPT"
     excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."

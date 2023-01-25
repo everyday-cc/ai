@@ -57,6 +57,15 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
+    excerpt: "DeepMind Technologies, owned by Alphabet Inc , is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google's parent announced it would lay off 12,"
+    publishedDateTime: 2023-01-24T19:37:00Z
+    webUrl: "https://www.reuters.com/technology/alphabet-owned-ai-firm-deepmind-shutters-office-canadas-edmonton-2023-01-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "Alphabet's DeepMind lays off staff, closes Edmonton office"
     excerpt: "The Edmonton office was the only DeepMind site not housed within a Google-managed office. Impacted engineers and researchers will be offered the option to relocate to other offices but those in various organizational infrastructure roles will be laid off."
     publishedDateTime: 2023-01-24T15:22:00Z
@@ -72,20 +81,6 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/edmontonsun/wp-content/uploads/2023/01/google-vw0124.jpg?quality=100&strip=all"
         width: 1000
         height: 750
-        isCached: true
-  - title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
-    excerpt: "DeepMind Technologies, owned by Alphabet, is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google's parent announced it would lay off 12,000 employees."
-    publishedDateTime: 2023-01-25T07:42:00Z
-    webUrl: "https://www.channelnewsasia.com/business/alphabet-owned-ai-firm-deepmind-shutters-office-canadas-edmonton-3229161"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Alphabet company DeepMind shutters Edmonton site as part of Google layoffs"
     excerpt: "UK-based DeepMind Technologies, which is owned by Google’s parent company Alphabet, is consolidating its offices in Canada and shutting down its Edmonton site."

@@ -5,10 +5,12 @@ excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs lik
 publishedDateTime: 2023-01-22T18:02:00Z
 originalUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology"
 webUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology"
+ampWebUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true"
+cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
   name: WPTV-TV
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://x-default-stgec.uplynk.com/ausw/slices/2fa/2fbf8a5e953e4a01960f2f5161cc4953/2fa94b66144647d684da70b6f2e4379f/poster_d756cdb6393a4cf9b11a4275568c2734.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Artificial Intelligence: technology of the future"
@@ -46,16 +55,7 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Smart clothing and artificial intelligence: A new technology for the diagnosis and monitoring of neurological diseases"
-    excerpt: "Dr. Aldo Faisal, Professor of Digital Health at the University of Bayreuth, have developed a novel set of tools for diagnosing and monitoring neurological diseases based on body-worn sensors (wearables) and artificial intelligence."
-    publishedDateTime: 2023-01-23T12:45:00Z
-    webUrl: "https://idw-online.de/de/news808047"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 0
 
-secured: "Ukk/GcrIuVcJ862QzIdFhyrw4e+gOM+yDmEsVeNwaM6+AqYkixVNuRcLMuB7HD0qDeIHp0SgavFqOijBwo/Hovmc8vIbxp4SgB/KceNg3hOQLBYjwokVzSxgm0gOvEOQXuTxx983/bv/ULHLRgtWRprrKFd2S7NJtWWo9jpU9sVB8YWxsNEkZz7qqhk9PtihKe4gx6FAjEKgBXj28aaq2HmZRmTGwYv7Z+8yGKla1SJCHMtnVuPCB90b5kO1uNwGIB4rkE2VQwdE7mxK4yjbyTDlOdy1lcaTQn+ioxkpB6iYHXinkhqhBbgVAB3tpRjLKZMAslCN6G6pvEqRYTm4hLGjoMSaqIfreab1lrifk41R9TGQEmSVXzevpxWoQ7nAM2PNlmFedSwx1DevI9FKLK6/J/vYe7SRy86zuYadDm3fjrHBRRt4PgUsWvBtnmjyZUmfz6SKdRtoNeVBu4YjYRWVZn1fC9AmE33Ph+CxkkdlKYMazbYwUpxPN15YjzHw50OpcEaEob529myf2WsAsg==;m89Zsc790c3fJBqwZsAS4Q=="
+secured: "mDeHJkWCAVP87+wPKz8X1BfkLeNenRS6Ydv1M9XGClrUiMxBY1D4NlTkWuV1XhOJ0ayOveyZFK+/lKs255S4kM8vt/5+C9HSYJWtQAoiYl79JxJ/A9hvUYLHGO7r2E8oBuAdokC8dKJRpr/2oJX6zjU+2q1IQbbsOIrp/KjlQQq2vgG/Rd1hRK1OFmu4MScXk0pHWwkIT6wJLqA+OQYmGwydroUqztjAP5ga4Q20sYy41LG0Z9gEa1DnoG13Ke5ux8k/TTfDiaOzhHJV14gC8J/JCLKPZjZllfZdeJ0NY1ls37iPldGXB9bXrCILuYoHVzBUj5bY4gUdLUqSGRFTfytNn56Ejj+7yVnXZkHFbpQ=;8Etk6LQN6e/1R4OWKqovVA=="
 ---
 

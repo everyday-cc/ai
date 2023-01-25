@@ -19,53 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "Researchers Used Facial Recognition Technology to Identify a Long Lost Painting By Raphael"
-    excerpt: "A new study concludes that the previously unattributed de Brécy Tondo is nearly certainly a work by the Italian Old Master."
-    publishedDateTime: 2023-01-24T17:05:00Z
-    webUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583"
-    ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
-    cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
+  - title: "How to stop facial recognition cameras from monitoring your every move"
+    excerpt: "As was the case for New Jersey native Kelly Conlan. Conlan was just passing through security at an event at Radio City Music Hall when security stopped her and refused to let her into a Rockettes ..."
+    publishedDateTime: 2023-01-23T16:48:00Z
+    webUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move"
+    ampWebUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
     type: article
     provider:
-      name: Artnet
-      domain: artnet.com
-    quality: 66
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
     images:
-      - url: "https://p-news-uploads.storage.googleapis.com/2020/03/de-Bre%CC%81cy-Tondo-painting.x7ee14c4d.jpeg"
-        width: 1270
-        height: 1270
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4637f8a2-8a8b-4e88-ad30-23a60beee5a2/a469454b-e28d-428c-b4b0-b4c0d04de9b2/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "MSG faces backlash for using facial recognition technology"
-    excerpt: "Sen. Kristen Gonzalez joined advocates sounding off last weekend, demanding that MSG Entertainment seize the use of the technology on fans."
-    publishedDateTime: 2023-01-21T07:14:00Z
-    webUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
-    ampWebUrl: "https://brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
+  - title: "How do these strange-looking clothes fool facial recognition?"
+    excerpt: "With the rise of facial recognition technology has come an increase in demand for ways to avoid it. That’s why one Italian fashion house designed a clothing line that will deter facial recognition systems from trying to identify the wearer."
+    publishedDateTime: 2023-01-23T22:06:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition?_amp=true"
     type: article
     provider:
-      name: News 12 Networks
-      domain: news12.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://images.ctfassets.net/3kqcuzntcg31/6MoUTJYfbgBxQxVY46j4WD/a5ea15e7a69faaa364b96a99ef9d8b77/3b96f50a-c2f9-4d18-afe0-ff8ec91a49a6.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Artificial intelligence study determined a painting with mysterious origins is a likely a Raphael, researchers say"
-    excerpt: "The technology found the de Brécy Tondo, which features a woman and baby, closely matched Raphael's Sistine Madonna."
-    publishedDateTime: 2023-01-24T17:34:00Z
-    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-study-finds-painting-likely-raphael/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-study-finds-painting-likely-raphael/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-study-finds-painting-likely-raphael/"
+  - title: "How China outsells everyone on facial recognition surveillance"
+    excerpt: "Global manufacturers, consultants and researchers in the facial recognition industry looking to profit from AI surveillance algorithms have a new resource."
+    publishedDateTime: 2023-01-25T22:20:00Z
+    webUrl: "https://www.biometricupdate.com/202301/how-china-outsells-everyone-on-facial-recognition-surveillance"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 52
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/24/671f4227-bd0f-4bd4-bc75-1da2e97616f3/thumbnail/1200x630g2/0086d84eeb4a7cf532d9183a9f1bbcc3/raphael-tondo-sistine-madonna-xb5d3f5c5.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
+        width: 2048
+        height: 1257
         isCached: true
 
 secured: "gHIb2eOxuMKBoRsIj+a5Xeoa3n8Gm7y6XOYme0OG+jRp8wyQcNIdv682U/MvYKZWFuB74+ZmIrKrUg2ehiIs4ou1Pfw21SwFy3RJUv3xzGOyvGSmSFOiD6OvxPLkj2YMuVcvKOKRt8J+G+7MYqxwdraF67LwablEKwnA6EjbEfbtwRpGN27Qkvrl3tUxcsbTifAe9Fat4gpglNQs/60Pw+qTF8TItjMvyZ/rj/H5Kb77QLOCdcZk2uCCEwj8qeOsTnKoDUH5QdL/2sqKhCX3JvBkmgs7KzR/CiNNNOB2LolyvEih6Y7tvzHJBKrlk/I4hWxVBipdqDiZI4mfpjtlOBN3PTZuNfABIb9OxvjMzEY=;umAtwlE7vRK0yE920NYpjA=="

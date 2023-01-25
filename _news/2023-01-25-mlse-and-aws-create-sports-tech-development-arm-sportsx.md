@@ -42,6 +42,15 @@ related:
       name: Sports Business Journal
       domain: sportsbusinessjournal.com
     quality: 22
+  - title: "SportsX: MLSE, AWS team up to launch unique R&D initiative"
+    excerpt: "How fans watch sports, and how coaches gauge the performance of individual players - and the team as a whole - is about to head in an entirely new direction following the launch yesterday of a research and development program called SportsX by MLSE Digital Labs and Amazon Web Services (AWS)."
+    publishedDateTime: 2023-01-25T19:47:00Z
+    webUrl: "https://www.itworldcanada.com/article/sportsx-mlse-aws-team-up-to-launch-unique-rd-initiative/523824"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 19
 
 secured: "jFJIy2WjOSKXBpu5mZCAd9C89/cKAzPm2Aampkb9D90ywrXjG61u6nQGqPtA3u4F2dN4uIKAa7S4VeBRoThHax+PIYfZjbLNKVj4UQ9mZmZjvD+gwnxtc0hZ+x+2iyHWuEHcSDtnpdpfhyIo0ExXluRBeuNM5+12wP0L6Cmml80pwvPj5aSpx/IX3+1BAnYVyot6NoWv2cNFD8I2OSPmM0EkcUp98LjUt5KiGI6moXVortOMMeFRv887vg84sUVdN7D6ystgcKa03m6RgNtqBONc4yhbd9OQVstwBQjvYtLM8y+Lereaz2u3uawKflMDIKeE9aFlv2r9VcMWoD5AjNojJNb0cbf6atZJVihmjm8=;m5gcJN456yByxDi8AM/MJA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T19:05:00Z
 originalUrl: "https://www.datanami.com/this-just-in/deci-delivers-breakthrough-inference-performance-on-intels-4th-gen-sapphire-rapids-cpu/"
 webUrl: "https://www.datanami.com/this-just-in/deci-delivers-breakthrough-inference-performance-on-intels-4th-gen-sapphire-rapids-cpu/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: datanami.com

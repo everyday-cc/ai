@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-13-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "Losing one AI ethics board might be unlucky, but two is surely careless given the ethical hot water the company has found itself in lately. 10/04/2019 EC lists seven requirements for ethical AI A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup-updated.md",
       "title": "DeviantArt upsets artists with its new AI art generator, DreamUp [Updated]",
       "excerpt": "As for DreamUp itself? We experimented with the service, which feels like a vanilla Stable Diffusion model. DeviantArt members get five free prompts to try it out, and members can",
@@ -1392,59 +1427,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai.md",
-      "title": "AI Ethics And AI Law Clarifying What In Fact Is Trustworthy AI",
-      "excerpt": "There is a lot of talk about trustworthy AI, which needs clarification and also more so additional walk-the-talk attainment by AI builders and fielders, including the case of autonomous self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626ddc92dca052a0c9ab771e/0x0.jpg?format=jpg&crop=4134,3039,x366,y0,safe&width=1200",
-          "width": 1200,
-          "height": 882,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/amp/",
-      "publishedDateTime": "2022-10-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],
