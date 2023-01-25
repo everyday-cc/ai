@@ -2,19 +2,19 @@
 category: news
 title: "AI-powered lawyer to defend in court next month"
 excerpt: "Artificial intelligence is being used to create art, answer your questions, and write essays. What about an AI-powered lawyer?"
-publishedDateTime: 2023-01-25T08:37:00Z
-originalUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-webUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-ampWebUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
+publishedDateTime: 2023-01-25T15:07:00Z
+originalUrl: "https://www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+webUrl: "https://www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+ampWebUrl: "https://www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
+cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: ABC15 Arizona
+  domain: abc15.com
 
 topics:
   - AI in Robotics
@@ -28,11 +28,11 @@ images:
 
 related:
   - title: "First AI-powered \"robot\" lawyer will represent defendant in court next month"
-    excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
-    publishedDateTime: 2023-01-23T14:52:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+    excerpt: "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ..."
+    publishedDateTime: 2023-01-23T10:53:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
     type: article
     provider:
       name: CBS News
@@ -44,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "x2PJ8Bd79Pitw5XbdeVFHReQ50Jf3RvCRoD2miC9A5y1kSqXq091jDrZH+abjfJ1BmD0QqZrNbRpIpnKfztKy7aeHu8zjrbrxFdCs73U2Pxj0tBjRY+Tu9Hlpl1h6oeBxf3Y8RfvFqTqvII+3taybfikMZdqAzMUdTYBl7jxadJUc+F9PqdHZYWWh2njtdV2jJeSdwME3gYer9RLytk5GI0LTSPautL0KR+1RAPCaTtFCfkXz5qOnkLfHXER4QZrh7DLlSNDP9lTYjobgTkAS3T3x+TsR8EzkfAJbnUR8ZKkLtDrseZcLDMq1fq5izhV+Xv3Pv/tFF1WHZEYS3kZ6ICpvWMQe89W7s6M6ppVFjY3ly23731HQV/pJQyDAYJsqAbtd800lUNqrrrMXxd/BjStvdPQeCrDvVcG4gX+hceghaDJLVqswmew8Uhd7hI7JYoh9tKfSZen458cp7C7iEiuSjuUAgJ8dOGmPuPBn/XoQKzm2rGpSh3gpQVtD+cFxDOSskeXyzWFTn/Kcl9neQ==;TEjJbjgRMfLjEua5ThzqSQ=="
+secured: "wVLFf0MV/NG/pwLLKq5DoWF7Uxh7Td46ebovEQZYMic31LJXrtvlSpaS22bIwT3wVanutxfrKlbwwrKr4VKH04JvCQJmhRZHrr91BrJbfQlI/s5vBBFaMgLJ6xsS5EG6Pz1jtqQioCBw/yFMelcMQdoiWlslB/luE6DNyHs26f0AuDgymvLCkeyfAUswLrjj4pUTLTo9dXS9p4FsNtMUaHYhCfiFR0rgzsWrUDkB5XGXq9ATqKuPzJ5RdhkxQzsH6NliPmgv5Kd0qeG5C6o25I4B0RccyhEqT8FAMLJRi3ap8gXP/bjyA+MsD6qo1E/8ag1gcQfXlyONqc+Zw+LUMbAPqico70OsApyGdUDK7QQ=;zsL4CUlOHmpdGjQSw4z7Yg=="
 ---
 

@@ -96,7 +96,7 @@
       "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -229,10 +229,10 @@
     {
       "path": "_news/2023-01-23-first-ai-powered-robot-lawyer-will-represent-defendant-in-court-next-month.md",
       "title": "First AI-powered \"robot\" lawyer will represent defendant in court next month",
-      "excerpt": "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month.",
+      "excerpt": "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
-      "originalUrl": "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "webUrl": "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
       "featuredContent": null,
       "highlight": null,
       "heat": 81,
@@ -249,13 +249,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
-      "publishedDateTime": "2023-01-23T06:52:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "publishedDateTime": "2023-01-23T02:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-artificial-intelligence-and-how-it-may-change-the-world.md",
+      "title": "Artificial Intelligence and how it may change the world",
+      "excerpt": "He (or she) will step forward and take over the procedure from the robot. The next step in the development of artificial intelligence, AI, is to have machines develop conscientiousness.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world",
+      "originalUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1082218-ShahidJavedBurkiNew-1460302235/1082218-ShahidJavedBurkiNew-1460302235.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1",
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -783,24 +826,33 @@
     {
       "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
       "title": "DLR Launches Ground-breaking Robot Control Software",
-      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task.",
+      "excerpt": "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control ...",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T11:43:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30449359",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30449359",
+      "publishedDateTime": "2023-01-17T11:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1322,58 +1374,6 @@
         "name": "Bangkok Post",
         "domain": "bangkokpost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-artificial-intelligence-ai-robots-market-growth-2023-with-market-developments-drivers-limits-and-openings-outlook-2028.md",
-      "title": "Artificial Intelligence (AI) Robots Market Growth 2023 with Market Developments, Drivers, Limits, and Openings Outlook 2028",
-      "excerpt": "Robots Market ” report 2023 delivers a complete overview of crucial factors like drivers, limitations, major and current trends, specialized development, and unborn growth. Research report contains company analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-growth-2023-with-market-developments-drivers-limits-and-openings-outlook-2028-2023-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-growth-2023-with-market-developments-drivers-limits-and-openings-outlook-2028-2023-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T19:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

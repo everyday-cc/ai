@@ -280,6 +280,20 @@ related:
       name: RepublicWorld
       domain: republicworld.com
     quality: 26
+  - title: "Put Not Your Trust in ChatGPT, for Now"
+    excerpt: "Q&A with a veteran AI engineer and entrepreneur, Tom Kehler, about the limits of the popular chatbot and the wonders of the human brain."
+    publishedDateTime: 2023-01-25T18:55:00Z
+    webUrl: "https://www.christianitytoday.com/news/2023/january/chatgpt-artificial-intelligence-ethics-tom-kehler.html"
+    type: article
+    provider:
+      name: Christianity Today
+      domain: christianitytoday.com
+    quality: 24
+    images:
+      - url: "https://www-images.christianitytoday.com/images/133062.jpg?h=675&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OGjgUMjoV2WhIgs5wOFfgAfVmYQaH6Cs2X4G29FjGhrDEiFmWcMcl3F8UaU+Kv9YtjXl/snppD1xHaGTlmZrWa76ixJ7NM60Z79JlrRV6s/3G/knQd1ebPYb+G5CnJKQs29mtquiVvBVS96XltFtaTMO9SKwMqAyW7duDS5xvZtStHLIxFJRdeUF2txwiqYD1qdoOlzJ22azDNHd+g1x/KK+7dLnUKmcWlpvDX5EO/H4Kn+1+8inzeXiREKkg8dLLfW1/WhG5hE2L1xFCW7KnJWQqdQedAOcRN3HRuH0sKRS9Dh8/gVgTmf9xJTHe58TYLBIf7AS8/QKzATaCyuxTC1tPL+d5ySd09bXVAqqPvk=;wE+pcYYRsKtU+d1bHPLQ5g=="
 ---

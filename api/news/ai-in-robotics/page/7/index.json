@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-22-sequoia-indias-surge-backs-health-tech-startup-redbrick-ai-in-46m-funding.md",
+      "title": "Sequoia India’s Surge backs health tech startup RedBrick AI in $4.6M funding",
+      "excerpt": "Health tech startup RedBrick AI has raised $4.6 million in a funding round led by Sequoia India and Southeast Asia’s Surge as it plans to expand the market for its medical imagery annotations ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
+      "originalUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/medical-imagery-examine-pexels.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
+      "publishedDateTime": "2022-11-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-part-of-the-kill-chain-how-can-we-control-weaponised-robots.md",
       "title": "‘Part of the kill chain’: how can we control weaponised robots?",
       "excerpt": "With that in mind, a force of hackable robot warriors would be the most obvious ... In order to achieve meaningful control of such terrible weapons, suggests Martin, we should keep one eye on ...",
@@ -1376,59 +1429,6 @@
         "IBM AI",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-amazons-latest-robot-picker-for-warehouses-uses-ai-to-identify-objects.md",
-      "title": "Amazon's latest robot picker for warehouses uses AI to identify objects",
-      "excerpt": "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
-      "originalUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg",
-          "width": 875,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

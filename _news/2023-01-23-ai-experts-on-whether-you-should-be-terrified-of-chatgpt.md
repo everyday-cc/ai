@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intellige
 ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"

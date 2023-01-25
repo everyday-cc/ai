@@ -2,6 +2,196 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-10-18-aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region.md",
+      "title": "AWS unveils 15-year $5B investment in Thailand, with plans for new region",
+      "excerpt": "Cloud vendor says its $5 billion investment in Thailand will go towards a new region in Bangkok, where there already are 10 CloudFront edge points, and driving support for the country's early-stage startups and upskilling efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "originalUrl": "https://www.zdnet.com/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0ca08f7783f39a4d6167ebdf97dd4ad715ce1346/2021/09/20/b29a89e4-b35a-4af8-8f8b-f24910c85801/shutterstock-724512826.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "publishedDateTime": "2022-10-18T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-amazon-to-boost-cloud-computing-in-thailand-with-5b-investment.md",
+      "title": "Amazon to boost cloud computing in Thailand with $5B investment",
+      "excerpt": "AWS’ cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. (Reuters Archive) Amazon Web Services, the cloud computing division of Amazon.com ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entornointeligente.com/2022-10-18/amazon-to-boost-cloud-computing-in-thailand-with-5b-investment/",
+      "originalUrl": "https://www.entornointeligente.com/2022-10-18/amazon-to-boost-cloud-computing-in-thailand-with-5b-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smart-reputation.com/wp-content/uploads/2018/09/logo_smart_transparente.png",
+          "width": 402,
+          "height": 287,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entornointeligente.com/2022-10-18/amazon-to-boost-cloud-computing-in-thailand-with-5b-investment/",
+      "cdnAmpWebUrl": "https://www-entornointeligente-com.cdn.ampproject.org/c/s/www.entornointeligente.com/2022-10-18/amazon-to-boost-cloud-computing-in-thailand-with-5b-investment/",
+      "publishedDateTime": "2022-10-18T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entorno Inteligente",
+        "domain": "entornointeligente.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm.md",
+      "title": "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM",
+      "excerpt": "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-deep-sea-organisms-research-oriented-by-deep-sea-technologies-development.md",
+      "title": "Deep-sea organisms research oriented by deep-sea technologies development",
+      "excerpt": "The deep sea has been documented as the largest biome on earth. Typical deep-sea ecosystems such as hydrothermal vents, cold seeps, seamounts, oceanic trenches, and whale falls, shatter our early ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-deep-sea-technologies.html",
+      "originalUrl": "https://phys.org/news/2022-10-deep-sea-technologies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-sea-organisms-res.jpg",
+          "width": 1600,
+          "height": 1671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-deep-sea-technologies.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-sea-technologies.amp",
+      "publishedDateTime": "2022-10-17T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-amazon-to-boost-thailand-cloud-infrastructure-with-5-bln-investment.md",
       "title": "Amazon to boost Thailand cloud infrastructure with $5 bln investment",
       "excerpt": "Amazon Web Services (AWS),the cloud computing division of Amazon.com Inc, said on Monday it plans to invest $5 billion in Thailand over the next 15 years to strengthen its infrastructure in the ...",
@@ -903,190 +1093,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
-      "title": "Four thoughts on AI deep learning in 2022",
-      "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
-      "publishedDateTime": "2022-10-17T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-machine-learning-as-a-service-market-worth-usd-320-billion-by-2030.md",
-      "title": "Machine Learning-as-a-Service Market worth USD 32.0 billion by 2030",
-      "excerpt": "Hence, fraud detection is expected to become one of the core spaces for machine learning applications. Global Machine Learning-as-a-Service Market Segmentation The machine learning-as-a-service market has been segmented into the application,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-worth-usd-320-billion-by-2030-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-worth-usd-320-billion-by-2030-2022-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029.md",
-      "title": "Object Recognition Imaging Systems Market Size, Growth 2022-Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2029",
-      "excerpt": "Object Recognition Imaging Systems Market report contains type, application, regions, revenue, and offers just as the thorough computation of the business chain structure, opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/07fab5a54c84b2812fe98ca367355ae6b17bc253-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-the-google-self-driving-car-all-you-need-to-know-about-waymo.md",
-      "title": "The Google Self-Driving Car: All you need to know about Waymo",
-      "excerpt": "But happy or not, self-driving cars are real ... and machine-learning-based artificial intelligence, both of which have proved to be a step-change in mapping environments. Computer scientists ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
-      "originalUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CAR Magazine",
-        "domain": "carmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

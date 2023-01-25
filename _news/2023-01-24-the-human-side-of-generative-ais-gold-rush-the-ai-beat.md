@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 207
+published: true
 
 provider:
   name: VentureBeat
@@ -30,105 +30,168 @@ images:
     isCached: true
 
 related:
-  - title: "How to Spot AI-Generated Art, According to Artists"
-    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
-    publishedDateTime: 2023-01-21T11:59:00Z
-    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
-    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
+  - title: "Lawsuits over Stability AI's Stable Diffusion could threaten the future of AI-generated art"
+    excerpt: "Lawsuits from artists and photo-licensing giant Getty Images ask the court to decide AI-generated art's relationship with content creators."
+    publishedDateTime: 2023-01-25T16:49:00Z
+    webUrl: "https://www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 77
     images:
-      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://i.insider.com/63d0071ddde3fc0018a8f4d4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Federated learning key to securing AI"
-    excerpt: "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it."
-    publishedDateTime: 2023-01-25T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
+  - title: "The future of artificial intelligence explained by a robot"
+    excerpt: "While Paul Budde is an expert in the field of technology this week hes letting artificial intelligence speak for itself to discuss the current state"
+    publishedDateTime: 2023-01-24T22:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273426293/the-future-of-artificial-intelligence-explained-by-a-robot"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 73
+    images:
+      - url: "https://cdn.bignewsnetwork.com/iau1674597130.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Teaching In The Age Of AI Means Getting Creative"
+    excerpt: "Alarm bells seemed to sound in teachers’ lounges across America late last year with the debut of ChatGPT — an AI chatbot that was both easy to use and capable"
+    publishedDateTime: 2023-01-23T11:00:00Z
+    webUrl: "https://fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/"
+    ampWebUrl: "https://fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/amp/"
+    cdnAmpWebUrl: "https://fivethirtyeight-com.cdn.ampproject.org/c/s/fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/amp/"
+    type: article
+    provider:
+      name: FiveThirtyEight
+      domain: fivethirtyeight.com
+    quality: 59
+    images:
+      - url: "https://fivethirtyeight.com/wp-content/uploads/2023/01/EDUCATION-AI-16x9-1.png?w=712"
+        width: 712
+        height: 400
+        isCached: true
+  - title: "The Future of Artificial Intelligence (AI)"
+    excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
+    publishedDateTime: 2023-01-24T08:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/the-wordsmith/the-future-of-artificial-intelligence-ai-49562/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "2023 Will Be A Defining Year For AI And The Future Of Work"
+    excerpt: "Real-Time Translation: AI could be used by global organizations for universal and real-time translation across languages. For any leader considering AI as a force multiplier for their organization, here are three rules to consider before embarking on your ..."
+    publishedDateTime: 2023-01-25T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/2023-will-be-a-defining-year-for-ai-and-the-future-of-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How generative AI will help power your presentation in 2023"
+    excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-will-help-power-your-presentation-in-2023/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all"
-        width: 1199
-        height: 638
-        isCached: true
-  - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "Some living artists and photographers are starting to fight back against the AI software companies creating images derived from their works."
-    publishedDateTime: 2023-01-25T10:00:00Z
-    webUrl: "https://www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html"
-    ampWebUrl: "https://www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html?outputType=amp"
+    quality: 47
+  - title: "Generative AI and the Ensuing Computer Human Whisperer"
+    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
+    publishedDateTime: 2023-01-23T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 59
-    images:
-      - url: "https://www.inquirer.com/resizer/SIuPiGILjA7CGKOR0AR_HumLenE=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/CT5NORLI7GITECVM2TJFD6K46I.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "What AI art means for society, according to Yale experts"
-    excerpt: "Will AI art elevate human creativity? Will AI be a tool or a replacement for artists? Is AI art, art? Yale experts weigh in."
-    publishedDateTime: 2023-01-23T07:02:00Z
-    webUrl: "https://yaledailynews.com/blog/2023/01/23/what-ai-art-means-for-society-according-to-yale-experts/"
-    type: article
-    provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 41
-    images:
-      - url: "https://yaledailynews.com/wp-content/uploads/2023/01/Screen_Shot_2023-01-22_at_5.33.01_PM-839x1024.png"
-        width: 839
-        height: 1024
-        isCached: true
-  - title: "The best things about Toronto according to artificial intelligence"
-    excerpt: "What's the best thing about living in Toronto? Depending on who you ask, some might say the city's multiculturalism, thriving food scene, or the"
-    publishedDateTime: 2023-01-21T10:18:00Z
-    webUrl: "https://www.blogto.com/city/2023/01/best-things-about-toronto-according-artificial-intelligence/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
+      name: TechNewsWorld
+      domain: technewsworld.com
     quality: 39
     images:
-      - url: "https://media.blogto.com/articles/2023120-best-things-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
-        width: 1200
-        height: 630
+      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
+        width: 1000
+        height: 520
         isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-01-24T18:46:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/24/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+  - title: "2023 will be the year of AI accountability"
+    excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
+    publishedDateTime: 2023-01-24T12:00:00Z
+    webUrl: "https://www.thedrum.com/opinion/2023/01/24/2023-will-be-the-year-ai-accountability"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: The Drum
+      domain: thedrum.com
     quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/637022/aiethics.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "CNET’s AI-Generated Articles Riddled With Plagiarism"
-    excerpt: "CNET has dug itself into an AI-generated pit. Earlier this month, the tech-focused website was caught quietly publishing AI-generated articles without disclosing the development to readers. Then, the site was embroiled in potential legal trouble when it came to light that a multitude of errors and plagiarism were discovered in the bot’s work by another tech outlet,"
-    publishedDateTime: 2023-01-24T01:16:00Z
-    webUrl: "https://www.thedailybeast.com/cnets-ai-generated-articles-riddled-with-errors-and-plagiarism"
+  - title: "The Top 5 Artificial Intelligence Stocks To Own"
+    excerpt: "The Top 5 Artificial Intelligence Stocks to Own The age of artificial intelligence (AI) is here. And it could very well transform just about ever"
+    publishedDateTime: 2023-01-23T21:18:00Z
+    webUrl: "https://menafn.com/1105468147/The-Top-5-Artificial-Intelligence-Stocks-To-Own"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?326268"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "These AI generated PC case designs look impressive and futuristic"
+    excerpt: "A Redditor has used the Midjourney AI image generator to create some potential PC case designs, and the results are very cool, with some funky spherical designs. On that note, Hybective (the ..."
+    publishedDateTime: 2023-01-24T01:31:00Z
+    webUrl: "https://www.tweaktown.com/news/90103/these-ai-generated-pc-case-designs-look-impressive-and-futuristic/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90103_08_these-ai-designed-computer-cases-look-impressive-and-futuristic.jpg"
+        width: 620
+        height: 348
+        isCached: true
+  - title: "Artificial Intelligence is no match for the human heart"
+    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
+    publishedDateTime: 2023-01-23T07:00:00Z
+    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
+    type: article
+    provider:
+      name: The Big Issue
+      domain: bigissue.com
+    quality: 37
+    images:
+      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The AI ‘gold rush’ is here. What will it bring?"
+    excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
+    publishedDateTime: 2023-01-23T19:40:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/01/07/ai-2023-predictions/?sf174575354=1"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2YMDG447JGZ3ERGAN6WLG35MI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "drI1tJ/hNvS9YSRL6WiybG0OG3+MYkLPMU/3yoF3B+MOEMAD7FjedFz9l/3irBjDe9IRZPQV3ULaHwrcPNUGbCpKfhhjVcVA+kl+Ka7F2BiEyExv3jm6BrmjLEnJR3kS1I+2qlIT6/oO8CdzIq11SUOCD2+611WvKsDEVZIBnppIeUts5L1DgETSPnnX1iqyVQAGcIOWjP6ExQP24ZKADFzQnW4cHSKNhMaVJ6qqpXCepvWXNmZDkFK7CCwuXDASFZpafrGl7RO/Sf1cGfhG5YM7eMcRxZ9tqmE3dVv4U9OpgqF9bG/8xwjmdCHEVIukskooKk8/ZH3R1aNFV6UEq2QRW5G+cJi6INP+7Se+JcR8FWMkeLXFdStwJRMzz5d9/oesTQmLSLdh7nvHPRWQg96nge1G7TZ9zKFqHKjO8N5FcX3GNYp2wAP045yhZ5Ssi+fYt5PeyctdLxEmKL3Hvet3ethnLKcAJx1F53JwfZHwztJrlGqy0UqCp6whcJ43Gl/8sEVvdBEp8c7OOhOeXA==;QBaffB9p9HXBO/XXrVuKVA=="
 ---

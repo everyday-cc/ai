@@ -280,6 +280,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Put Not Your Trust in ChatGPT, for Now"
+    excerpt: "Q&A with a veteran AI engineer and entrepreneur, Tom Kehler, about the limits of the popular chatbot and the wonders of the human brain."
+    publishedDateTime: 2023-01-25T18:55:00Z
+    webUrl: "https://www.christianitytoday.com/news/2023/january/chatgpt-artificial-intelligence-ethics-tom-kehler.html"
+    type: article
+    provider:
+      name: Christianity Today
+      domain: christianitytoday.com
+    quality: 24
+    images:
+      - url: "https://www-images.christianitytoday.com/images/133062.jpg?h=675&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+9bFE7pM8PLBkFG6X36bcrhWLdMHJJcUweM2Y7Dxr7AHGa78vzuQz9p3TMe0aMF5pKvOiOAswGXAWIcT8GVIND1qFEwPtTquTiHFIHIOCMpgeovAbHsv/yDUk2pYTZTV5lP3l2y98Elsrd1KO1uHDSewvQWFYq7cH4Xlzyp+XSsYR1w2YnycdNv1JemcUB3aVy+X+Kqr4WoY7RMdNQg9vI5WiR6S+5pCFfq4kqihVYu4vY9r21CQcjlmh5q84uKd/XwNwMrgG/egclmI4QsoK/nkuZ7GbI3kLnw7d3rWZC1praAtkWwHRoUjpNzpkfh7Skvg/zNlSxDTv8bS1ZNTBKVp2qH8WbzVNdpQXknrEBI=;uOMOInDp5aTek9dNnzfqgA=="
 ---

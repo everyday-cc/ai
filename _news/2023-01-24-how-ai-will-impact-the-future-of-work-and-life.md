@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Artificial Intelligence (AI)"
-    excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
-    publishedDateTime: 2023-01-24T08:55:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/the-wordsmith/the-future-of-artificial-intelligence-ai-49562/"
+  - title: "Artificial Intelligence and how it may change the world"
+    excerpt: "He (or she) will step forward and take over the procedure from the robot. The next step in the development of artificial intelligence, AI, is to have machines develop conscientiousness."
+    publishedDateTime: 2023-01-23T00:00:00Z
+    webUrl: "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world"
+    ampWebUrl: "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+      - url: "https://i.tribune.com.pk/media/images/1082218-ShahidJavedBurkiNew-1460302235/1082218-ShahidJavedBurkiNew-1460302235.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence: technology of the future"
-    excerpt: "Join us this Friday as we talk with experts about concerns, the positives, and the future of artificial intelligence in the world as we know it."
-    publishedDateTime: 2023-01-24T00:01:00Z
-    webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
+  - title: "The Jobs Safe From AI, And Those That Aren’t"
+    excerpt: "The past few months have given the world a taste of what artificial intelligence can do. For example, ChatGPT can write your essays, while Stable Diffusion can generate images. That leaves many"
+    publishedDateTime: 2023-01-24T05:17:00Z
+    webUrl: "https://technology.inquirer.net/120982/the-jobs-safe-from-ai"
     type: article
     provider:
-      name: WFIU
-      domain: indianapublicmedia.org
-    quality: 41
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
     images:
-      - url: "https://indianapublicmedia.org/images/news-images/dsc03239.jpg"
-        width: 1200
-        height: 803
+      - url: "https://technology.inquirer.net/files/2023/01/Jobs-safe-from-AI-featured-image-blog.spjain.org_-620x349.png"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "fInHDn7Hk7wlijXexnKSQqwFd4/6TXS6YdHIKNCYYAGVHhbQgMqA4iywPvEulcsvjjkgDb7HM38ZrM30xR1QeuaqL5Q9molECEWDwDgxCcqfNRkhNgzPEt/I/5VWiogM5JAFXOHxXl5EyNXqQizI9xcgRGKqxPiIrGs9cFUBoimzkG9uOLfyQUx5WIJ1C+5EitddGvEOBXCJHksmwDFr6pYxrlxroqHdrAzZy4loZZSdaK9lsLN3pycE0JSLnJO8yfiGg7271YWIyy0+RBsIHQh+oO5+OgoJRUjuThSWHzA/P5HfIilhx4dNHDRWKRcR6t8MtBTNiaq8qQHV9w+X6WAPSalpMgWqsXY7rEzqftQ=;pE9wIBExYonB49QHiqNG7Q=="

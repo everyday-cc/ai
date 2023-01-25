@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-26-move-over-siri-apples-new-audiobook-ai-voice-sounds-like-a-human.md",
+      "title": "Move over, Siri: Apple’s new audiobook AI voice sounds like a human",
+      "excerpt": "AI technologies are being developed and used in various applications, including natural language processing, as Apple is doing, robotics, and expert systems for various industries and purposes. Apple decided to make this move to give those books from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human",
+      "originalUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b27374-8393-481b-9616-6a55b4a55a55/1047e1eb-df4e-4cd9-a305-0b15a2c04946/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp",
+      "publishedDateTime": "2023-01-25T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity.md",
       "title": "How Dangerous Are ChatGPT And Natural Language Technology For Cybersecurity?",
       "excerpt": "Generative artificial intelligence and natural language technology is advancing very quickly. Here, we take a look at how these technologies cheese will affect cyber security.",
@@ -1366,40 +1418,6 @@
       "provider": {
         "name": "Total Retail",
         "domain": "mytotalretail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-ub-awarded-20-million-to-establish-institute-to-create-ai-technologies-to-help-children-with-speech-language-disorders.md",
-      "title": "UB awarded $20 million to establish institute to create AI technologies to help children with speech, language disorders",
-      "excerpt": "The award, which UB will use to create the AI Institute for Exceptional Education, also will advance foundational AI technologies, human-centered AI design, and learning science that improve educational outcomes for young children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/home/story-repository.host.html/content/shared/university/news/ub-reporter-articles/stories/2023/01/nsf-award-ai.detail.html",
-      "originalUrl": "https://www.buffalo.edu/home/story-repository.host.html/content/shared/university/news/ub-reporter-articles/stories/2023/01/nsf-award-ai.detail.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
         "images": null,
         "publishers": null,
         "authors": null

@@ -35,20 +35,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "The future of artificial intelligence explained by a robot"
-    excerpt: "While Paul Budde is an expert in the field of technology this week hes letting artificial intelligence speak for itself to discuss the current state"
-    publishedDateTime: 2023-01-24T22:45:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273426293/the-future-of-artificial-intelligence-explained-by-a-robot"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 73
-    images:
-      - url: "https://cdn.bignewsnetwork.com/iau1674597130.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "8EnqNt95NHbm8TgItedvP5b7pJxWs8OHinhbfHAY6txrpDOOS3qIPissXaV4zSWiA9P82mVSSI7IWyfDqZBcJaVjVRkESE3+4QCeu4PlnUDQGvxx9awjIEpkvAYS+iV8T0LB8pjr0VQjjH6p51z9HH6J52j+yPhPrftBI4h1gc16wEnQvR8m4kHZJ06S+gyIAP/KLaHOlo775OH96zfuonuK9NyFq2yKdewEtOo3tRy4gHidtvZp78tWe9N4cqtB9EQ2F/Is3eb1vfrRYCysP89I1EfHAwJjckRlSbQKAmNtJvtZlb+tuEDlxPRa/3YuZFpzygRp5D/+HK125l3QoF1PE/tZMP+WqsWouqEDkdxJNuUzDPsPgDcDu22hkb1oDwmZfDJtLFNOrCph8Nf4H6Qojbr/Y0DvNZWgLWnBnTTgmqiRGgy4D6L8IHHl+IGpyy5KdXCz3I1i9lj3SMseoY0BgwcEk4HjmQBlW0upMoPGdbC9/JsXZ4RrTcbC0NSYEanYJfT1SSok1CqUDlHyiA==;nQTLcn3laABwPK9z1RZrng=="
 ---

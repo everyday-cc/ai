@@ -122,7 +122,7 @@ related:
     provider:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://insurancenewsnet.com/wp-content/uploads/2023/01/MicrosoftTeams-image-106-900x472.jpg"
         width: 900

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
+      "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
+      "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
+      "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
+      "publishedDateTime": "2022-10-04T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
       "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
       "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
@@ -1343,49 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre.md",
-      "title": "Don't be afraid of Artificial Intelligence, says head of UK's new robotics centre",
-      "excerpt": "The head of the UK's largest and most advanced robotics centre has said that society needs to prepare for the increased integration of robots but shouldn't fear the rise of artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
-      "originalUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/22/09/1600x900/skynews-robot-parkinsons_5912547.jpg?20220927154814",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
-      "publishedDateTime": "2022-09-27T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

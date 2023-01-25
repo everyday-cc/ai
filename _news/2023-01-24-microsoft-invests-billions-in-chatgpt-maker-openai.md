@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna67011"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna67011"
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -279,6 +279,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-97268755,imgsize-1262075,width-1200,height=765,overlay-etbrandequity/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Put Not Your Trust in ChatGPT, for Now"
+    excerpt: "Q&A with a veteran AI engineer and entrepreneur, Tom Kehler, about the limits of the popular chatbot and the wonders of the human brain."
+    publishedDateTime: 2023-01-25T18:55:00Z
+    webUrl: "https://www.christianitytoday.com/news/2023/january/chatgpt-artificial-intelligence-ethics-tom-kehler.html"
+    type: article
+    provider:
+      name: Christianity Today
+      domain: christianitytoday.com
+    quality: 24
+    images:
+      - url: "https://www-images.christianitytoday.com/images/133062.jpg?h=675&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "A3H6hMqd99VEybnLMvoGQ8JxqfOd5mNyqP9AGzec6R8wcBCJultr8X8yBlsHCdg583PgAbxFq+F5YZ1PQQD90HOjRIWz+DEpj4geV41kUQ8pZtgW7FfGu3KTN+mF68yYy3KYAY+3gExD1lZYeE0cykHieOBx9iMFeZ2g8jqQG3DAwTygZsve+M+rSiKrWNcrImtSDJqTvDyuEYWk2VNAYuFsXVWM5WXS4N2B+Uxai7F4fbYO+nIRUZRRj7xKgC1n4d0O3vYJteDWoyrURJ0TyGozFB46/REzGD+OMjRFgjeRk2kSyFqdmMzj83x4Kzl3YEbg47jkIg/OMBnTT67MVQllE+W+og8fnZTXZpnINuc=;a1wVR4V8r5SV8ELm+IHt2w=="

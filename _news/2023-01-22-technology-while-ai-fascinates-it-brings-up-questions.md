@@ -7,7 +7,7 @@ originalUrl: "https://www.tennessean.com/story/money/tech/2023/01/22/technology-
 webUrl: "https://www.tennessean.com/story/money/tech/2023/01/22/technology-while-ai-fascinates-it-brings-up-questions/69819021007/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Technology: Enhancing empathic support with artificial intelligence"
-    excerpt: "An artificial intelligence (AI)-based chat interface, named HAILEY, that offers assistance to mental health peer supporters who interact online with individuals seeking support, is described in a paper published in Nature Machine Intelligence."
-    publishedDateTime: 2023-01-24T01:28:00Z
-    webUrl: "https://www.natureasia.com/en/research/highlight/14361"
+  - title: "Artificial Intelligence: technology of the future"
+    excerpt: "Join us this Friday as we talk with experts about concerns, the positives, and the future of artificial intelligence in the world as we know it."
+    publishedDateTime: 2023-01-24T00:01:00Z
+    webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
     type: article
     provider:
-      name: nature　asia
-      domain: natureasia.com
-    quality: 19
+      name: WFIU
+      domain: indianapublicmedia.org
+    quality: 41
+    images:
+      - url: "https://indianapublicmedia.org/images/news-images/dsc03239.jpg"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "Artificial intelligence on forefront thanks to new technology"
     excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
     publishedDateTime: 2023-01-22T18:02:00Z
@@ -42,6 +47,15 @@ related:
       name: WPTV-TV
       domain: wptv.com
     quality: 17
+  - title: "Smart clothing and artificial intelligence: A new technology for the diagnosis and monitoring of neurological diseases"
+    excerpt: "Dr. Aldo Faisal, Professor of Digital Health at the University of Bayreuth, have developed a novel set of tools for diagnosing and monitoring neurological diseases based on body-worn sensors (wearables) and artificial intelligence."
+    publishedDateTime: 2023-01-23T12:45:00Z
+    webUrl: "https://idw-online.de/de/news808047"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 0
 
 secured: "EiOdRsUP161Rj5h+EZh/aXncJS1mU3KTMEDAfKpq/gXRQhzg/dwNGR0SSu+yoDMRusAe/7PafyuWV0UyLxs9dUrymctHbIOM3nvTm4UkLNgLKLZPHFTkqcMkJGxfxBsZyoX9a3NyPsPsDglG/kcKD92+QLgezNofANdI2vp1rZdldzIOZIEXaazj5Qfb0vDz1ujR9tdruY0B5IKW1oWnLESHLZjb83RAzF5IKWrCYyWcu//AKJIpbVa2ZXjZEkWosJxkrPxk3iHe1MYtoV5PjUTO9VcC0DJHmvAp6jHBYodYHVvo9v/zVh9BE81fMWQeRXwmABsAQegP2y7C9A5RbKXcQ1uqzuCukutTkTaDDBD83+g06AZLM9JUIRUsVOZLEfsStcnBe65+rQhawt6AXUjIJfUJHlnDQliVxjCQ2Rg5s1ihyIKmjGmRjXIpm7GA5Ql7+5+VnnAbwy9i+mnOLmEMffiHdQahIwNJX5J9FhrfBzDgTjyI/5zWbtQUyC8oqPHiq9FmFVlTc0usvQ6NCA==;yMoMa3ya7GWQKADaYVeTaA=="
 ---

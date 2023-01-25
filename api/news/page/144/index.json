@@ -2,6 +2,188 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2022-09-16-elon-musk-believes-self-driving-cars-are-the-future-but-most-americans-are-wary-new-survey-shows.md",
+      "title": "Elon Musk believes self-driving cars are the future, but most Americans are wary, new survey shows",
+      "excerpt": "Tech entrepreneurs like Elon Musk have said that self-driving cars will make regular vehicles obsolete, but most Americans are wary. A new survey found that three out of every four Americans feel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9",
+      "originalUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63235b62d5916b0019abe86f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9?amp",
+      "publishedDateTime": "2022-09-15T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-cognitive-systems-a-quick-study-in-dedication-and-self-belief.md",
+      "title": "Cognitive Systems – A quick study in dedication and self-belief",
+      "excerpt": "How would you prove you were right? Apparently, if you were the founders of Cognitive Systems Corp., you’d do whatever it took — up to and including building and manufacturing your own device ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/sponsored/cognitive-systems-a-quick-study-in-dedication-and-self-belief",
+      "originalUrl": "https://www.itworldcanada.com/sponsored/cognitive-systems-a-quick-study-in-dedication-and-self-belief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-winnai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls.md",
+      "title": "Winn.AI launches out of stealth with an AI assistant for sales calls",
+      "excerpt": "Winn.AI, a startup developing a real-time assistant for sales calls, has raised $17 million in funding as it launches out of stealth.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/15/winn-ai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls/",
+      "originalUrl": "https://techcrunch.com/2022/09/15/winn-ai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml.md",
+      "title": "Use Amazon SageMaker Data Wrangler for data preparation and Studio Labs to learn and experiment with ML",
+      "excerpt": "Amazon SageMaker Studio Lab is a free machine learning (ML) development environment based on open-source JupyterLab for anyone to learn and experiment with ML using AWS ML compute resources. It’s based on the same architecture and user interface as Amazon SageMaker Studio, but with a subset of Studio",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/15/data-wrangler-studio-labs.jpg",
+          "width": 1549,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T09:14:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-microsofts-69b-activision-deal-faces-in-depth-uk-inquiry.md",
       "title": "Microsoft's $69B Activision deal faces in-depth UK inquiry",
       "excerpt": "Microsoft's $69 billion deal to buy video game company Activision Blizzard faces an in-depth antitrust investigation in Britain after the tech company refused to offer proposals to ease competition concerns.",
@@ -947,169 +1129,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-existential-catastrophe-caused-by-ai-is-likely-unavoidable-deepmind-researcher-warns.md",
-      "title": "‘Existential catastrophe’ caused by AI is likely unavoidable, DeepMind researcher warns",
-      "excerpt": "Researchers from the University of Oxford and Google’s artificial intelligence division DeepMind have claimed that there is a high probability of advanced forms of AI becoming “existentially dangerous to life on Earth”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/artificial-intelligence-deepmind-ai-catastrophe-b2166954.html?src=rss",
-      "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-deepmind-ai-catastrophe-b2166954.html?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
-      "title": "Face Recognition Smart Lock Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
-      "excerpt": "The \"Face Recognition Smart Lock Market\" is segmented into North America: United States, Canada, Europe: GermanyFrance, U.K., Italy, Russia,Asia-Pacific: China, Japan, South, India, Australia, China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-study-indicates-a-daily-multivitamin-slows-cognitive-decline.md",
-      "title": "Study indicates a daily multivitamin slows cognitive decline",
-      "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "originalUrl": "https://www.wtvr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wtvr",
-        "domain": "wtvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-taking-daily-multivitamin-could-slow-cognitive-decline-among-older-people-by-2-years-study-say.md",
-      "title": "Taking daily multivitamin could slow cognitive decline among older people by 2 years, study say",
-      "excerpt": "The ability to slow cognitive decline by almost two years with a multivitamin is significant, and while more research is needed, doctors say this is a critical first step. Diane Lowe is healthy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "originalUrl": "https://www.cbsnews.com/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/14/dba80da9-51d1-436a-a16b-271834a51f30/thumbnail/1200x630/d7b0f25c03d6bf21e42d77643d44a9c1/gettyimages-51730199.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/daily-multivitamin-alzheimers-association-cognitive-decline-study/",
-      "publishedDateTime": "2022-09-14T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

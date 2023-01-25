@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/"
 ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 91
+heat: 171
+published: true
 
 provider:
   name: VentureBeat
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all"
@@ -47,63 +48,65 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "The human side of generative AI’s gold rush | The AI Beat"
-    excerpt: "The current gold rush to capitalize on generative AI is, ultimately, about financial gain. Let's not forget the human toll."
-    publishedDateTime: 2023-01-23T16:36:00Z
-    webUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
+  - title: "AI Deep Learning Predicts Brain Tumor Growth"
+    excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
+    publishedDateTime: 2023-01-24T15:21:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/pexels-pixabay-47047.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "Some living artists and photographers are starting to fight back against the AI software companies creating images derived from their works."
-    publishedDateTime: 2023-01-25T10:00:00Z
-    webUrl: "https://www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html"
-    ampWebUrl: "https://www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html?outputType=amp"
+  - title: "How Artificial Intelligence is Transforming Banking"
+    excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
+    publishedDateTime: 2023-01-23T22:57:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
     quality: 59
     images:
-      - url: "https://www.inquirer.com/resizer/SIuPiGILjA7CGKOR0AR_HumLenE=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/CT5NORLI7GITECVM2TJFD6K46I.jpg"
-        width: 760
-        height: 507
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/01/iStock-1168748420.jpg"
+        width: 750
+        height: 530
         isCached: true
-  - title: "What AI art means for society, according to Yale experts"
-    excerpt: "Will AI art elevate human creativity? Will AI be a tool or a replacement for artists? Is AI art, art? Yale experts weigh in."
-    publishedDateTime: 2023-01-23T07:02:00Z
-    webUrl: "https://yaledailynews.com/blog/2023/01/23/what-ai-art-means-for-society-according-to-yale-experts/"
+  - title: "Learning to lie: AI tools adept at creating disinformation"
+    excerpt: "Artificial intelligence is writing fiction, making images inspired by Van Gogh and fighting wildfires. Now it's competing in another"
+    publishedDateTime: 2023-01-24T00:01:00Z
+    webUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+    ampWebUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
     type: article
     provider:
-      name: Yale Daily News
-      domain: yaledailynews.com
-    quality: 41
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
     images:
-      - url: "https://yaledailynews.com/wp-content/uploads/2023/01/Screen_Shot_2023-01-22_at_5.33.01_PM-839x1024.png"
-        width: 839
-        height: 1024
+      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_c1a300d8870140f595152edf1fe2c773.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "The best things about Toronto according to artificial intelligence"
-    excerpt: "What's the best thing about living in Toronto? Depending on who you ask, some might say the city's multiculturalism, thriving food scene, or the"
-    publishedDateTime: 2023-01-21T10:18:00Z
-    webUrl: "https://www.blogto.com/city/2023/01/best-things-about-toronto-according-artificial-intelligence/"
+  - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
+    excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
+    publishedDateTime: 2023-01-23T10:21:00Z
+    webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
     type: article
     provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 39
+      name: InfoQ
+      domain: infoq.com
+    quality: 53
     images:
-      - url: "https://media.blogto.com/articles/2023120-best-things-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
+      - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -121,16 +124,27 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "CNET’s AI-Generated Articles Riddled With Plagiarism"
-    excerpt: "CNET has dug itself into an AI-generated pit. Earlier this month, the tech-focused website was caught quietly publishing AI-generated articles without disclosing the development to readers. Then, the site was embroiled in potential legal trouble when it came to light that a multitude of errors and plagiarism were discovered in the bot’s work by another tech outlet,"
-    publishedDateTime: 2023-01-24T01:16:00Z
-    webUrl: "https://www.thedailybeast.com/cnets-ai-generated-articles-riddled-with-errors-and-plagiarism"
+  - title: "Learning to lie: AI tools adept at creating disinformation"
+    excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda."
+    publishedDateTime: 2023-01-25T04:19:00Z
+    webUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+    ampWebUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "On critical thinking and artificial intelligence"
+    excerpt: "The public, specifically the academe, has recently been confronted by both shock and awe at its latest challenge: artificial intelligence (AI). The issue started when a faculty from the University of"
+    publishedDateTime: 2023-01-24T20:48:00Z
+    webUrl: "https://opinion.inquirer.net/160560/on-critical-thinking-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
     quality: 17
 
-secured: "r3mDozSGnmYzXTmRnCIzmAtLiG9mrb/QHK5mJzDbn4WFVBHYMtTFVTNBD67++b+WAwDBO2sipLCK8JnD0zMm/8NYd7vbT/ErjJCuCIS50iEMnmH+Nf4lT2ml2LqOxZzP7OJQlC9pta3/BMUqX3D0UyJEgeHUhnQXOYDbUH1UwOwH7+EU+9Uow3oqq44tovLuKK5lSJcApA/tZJbIisJR/shqHurDupjvPfmCYSddzlXfpvk2uvZR4OYjllcWKs6rESxbYWrdctc6mvoSnRAUODFeGZOskOzO1zUnfnT+iU7jior+f3nprZT6UfS8u+8i7lCqcEcEtbWxNhIDieh87eEalDmPBYgm8RgFdQWpVbs=;RbaDMeWzK3MXiJW/4RYV7Q=="
+secured: "uEerhXjmwHYNKI2Lau5dYBm8tjwSUkhaUwSj1rvxzcCm30X5TiuR9VaG0tUVqAAhj0VA6/R83RJlX4gcO342ypA82ZBrIpfTLZWjx6E6lafI+oOvfAPDeMkQsYnvHo2Bj5/XWzDsUFsxy1uUkpNQKgXow9aUy5vnuVB27Un1ABrYeZjr35+UqAguPfThpVcLMiefLEAPL8lvbCY4gyOVzTsjqVXvW4CekQyQKL0j6dTdLpo7V+VuefcsFd6zsAQZX44mw5Vm60r6vDUTPpfqlYPXShhBA929tYFGxERxDbBexCykiCwVXXVa1/9XDM+aB4ZxtD2Y3OYCz50C4yrNB4A7cCJLMCG6SysUwAlihL4+u1qANzXXvlLnC6ETj4gUuAt6f72oVEIF0H1mOj8kJrfRRyavSRLf/6GbZsBTRpMNJH/Jxd2FqAubgTxy0MGbCjKHo1XF9MzBXwT1O9oJAHHAJ8mH1Spp2aH8o9YYKWE8tJhhENiPM1SFXD27x4fO9G4SyllSNlwqmsZ9K98H1w==;L2EULheLcxRkvo8ZMh2BPg=="
 ---
 

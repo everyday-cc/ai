@@ -2,6 +2,42 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-18-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
+      "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
+      "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
+      "originalUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-fintech-investment-innovation-ideology-and-technology-swift-growth-in-new-technology-such-as-ai-vital-for-sector-expansion.md",
       "title": "FinTech Investment, Innovation, Ideology and Technology: Swift Growth in New Technology Such as AI Vital for Sector Expansion",
       "excerpt": "Dublin, Nov. 17, 2022 (GLOBE NEWSWIRE) -- The \"FinTech: Investment, Innovation, Ideology and Technology\" report has been added to ResearchAndMarkets.com's offering. The fintech sector includes ...",
@@ -1307,59 +1343,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m.md",
-      "title": "Galileo looks to improve unstructured data for machine learning (ML), raises $18M",
-      "excerpt": "Register here. Machine Learning (ML) requires data on which to train and iterate. Making use of data for ML also requires a basic understanding of what is in the training data, which isn’t always an easy problem to solve. Notably, there is a real ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/",
-      "originalUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-954077270.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/",
-      "publishedDateTime": "2022-11-01T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-23T19:12:00Z
 originalUrl: "https://insurancenewsnet.com/innarticle/will-chatgpt-artificial-intelligence-replace-financial-professionals-any-time-soon"
 webUrl: "https://insurancenewsnet.com/innarticle/will-chatgpt-artificial-intelligence-replace-financial-professionals-any-time-soon"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/uploads/2023/01/MicrosoftTeams-image-106-900x472.jpg"

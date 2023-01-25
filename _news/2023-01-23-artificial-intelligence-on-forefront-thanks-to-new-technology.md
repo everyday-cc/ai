@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence: technology of the future"
+    excerpt: "Join us this Friday as we talk with experts about concerns, the positives, and the future of artificial intelligence in the world as we know it."
+    publishedDateTime: 2023-01-24T00:01:00Z
+    webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
+    type: article
+    provider:
+      name: WFIU
+      domain: indianapublicmedia.org
+    quality: 41
+    images:
+      - url: "https://indianapublicmedia.org/images/news-images/dsc03239.jpg"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "Technology: While AI fascinates, it brings up questions"
     excerpt: "Like any technology, whether AI is a net gain or net loss for society depends on how we humans choose to use it. On the positive side, advancements in AI can do things like help doctors to diagnose illnesses or help scientists combat climate change."
     publishedDateTime: 2023-01-22T11:00:00Z
@@ -32,15 +46,15 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Technology: Enhancing empathic support with artificial intelligence"
-    excerpt: "An artificial intelligence (AI)-based chat interface, named HAILEY, that offers assistance to mental health peer supporters who interact online with individuals seeking support, is described in a paper published in Nature Machine Intelligence."
-    publishedDateTime: 2023-01-24T01:28:00Z
-    webUrl: "https://www.natureasia.com/en/research/highlight/14361"
+  - title: "Smart clothing and artificial intelligence: A new technology for the diagnosis and monitoring of neurological diseases"
+    excerpt: "Dr. Aldo Faisal, Professor of Digital Health at the University of Bayreuth, have developed a novel set of tools for diagnosing and monitoring neurological diseases based on body-worn sensors (wearables) and artificial intelligence."
+    publishedDateTime: 2023-01-23T12:45:00Z
+    webUrl: "https://idw-online.de/de/news808047"
     type: article
     provider:
-      name: nature　asia
-      domain: natureasia.com
-    quality: 19
+      name: idw
+      domain: idw-online.de
+    quality: 0
 
 secured: "Ukk/GcrIuVcJ862QzIdFhyrw4e+gOM+yDmEsVeNwaM6+AqYkixVNuRcLMuB7HD0qDeIHp0SgavFqOijBwo/Hovmc8vIbxp4SgB/KceNg3hOQLBYjwokVzSxgm0gOvEOQXuTxx983/bv/ULHLRgtWRprrKFd2S7NJtWWo9jpU9sVB8YWxsNEkZz7qqhk9PtihKe4gx6FAjEKgBXj28aaq2HmZRmTGwYv7Z+8yGKla1SJCHMtnVuPCB90b5kO1uNwGIB4rkE2VQwdE7mxK4yjbyTDlOdy1lcaTQn+ioxkpB6iYHXinkhqhBbgVAB3tpRjLKZMAslCN6G6pvEqRYTm4hLGjoMSaqIfreab1lrifk41R9TGQEmSVXzevpxWoQ7nAM2PNlmFedSwx1DevI9FKLK6/J/vYe7SRy86zuYadDm3fjrHBRRt4PgUsWvBtnmjyZUmfz6SKdRtoNeVBu4YjYRWVZn1fC9AmE33Ph+CxkkdlKYMazbYwUpxPN15YjzHw50OpcEaEob529myf2WsAsg==;m89Zsc790c3fJBqwZsAS4Q=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft CEO: “Every App Is Going To Be An AI App”"
+    excerpt: "Microsoft CEO, Satya Nadella, states that AI will be integrated into all of Microsoft's applications in the future."
+    publishedDateTime: 2023-01-25T18:02:00Z
+    webUrl: "https://www.searchenginejournal.com/microsoft-ceo-every-app-is-going-to-be-an-ai-app/477334/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 54
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-ai-apps-63d16e7a0d8b7-sej.png"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "Zy/5lgJ9FVlBc6Q/zIacYCfxACCJNuLmdpNJC7zztt3gvb+7mjrDDF4Hd4NJCD1FuT/mXsE9w48bfjglafCo9R/nTwDzUUTh98cT701hHCk5LvSDXOSulneyAIuDgPLJ2CvZc7fc9hzs6pr5K0GlHWgMWQ+Y/2kSKbeL3ODxYd+G2BLNUJGp4b7Gqusz4gG5jN+jnIU6rFVyb7soWIhnwXy5DAG/ke6DwvfLs/oxlF1BFIX0eUgmrqNjyFkGissUdrm6EyzsH5lxORXmjBDfJhrCRz9xrhP1Qniv2MtRV04nRMXwuM9swGmMIRKy0hxf03rEL/WboEwFBQ+zXFIz4XAT0CW12gSPpRAvyJr7JmE=;AR3e6NcjfSRqHQcJhJJqkw=="
 ---

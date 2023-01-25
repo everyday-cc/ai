@@ -23,145 +23,174 @@ topics:
   - AI
 
 related:
-  - title: "Data and AI Ethics Market Size 2023 Will Touch A New Level In The Upcoming Year 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-25T00:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24"
+  - title: "The human side of generative AI’s gold rush | The AI Beat"
+    excerpt: "The current gold rush to capitalize on generative AI is, ultimately, about financial gain. Let's not forget the human toll."
+    publishedDateTime: 2023-01-23T16:36:00Z
+    webUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/pexels-pixabay-47047.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Lawsuits over Stability AI's Stable Diffusion could threaten the future of AI-generated art"
+    excerpt: "Lawsuits from artists and photo-licensing giant Getty Images ask the court to decide AI-generated art's relationship with content creators."
+    publishedDateTime: 2023-01-25T16:49:00Z
+    webUrl: "https://www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
     quality: 77
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/63d0071ddde3fc0018a8f4d4?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Cloud AI Developer Services Market Latest Research Report 2023-2029"
-    excerpt: "As per latest research on Cloud AI Developer Services Market (Report spread across 116 Pages), the growth of Cloud"
-    publishedDateTime: 2023-01-24T16:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-latest-research-report-2023-2029-2023-01-24"
+  - title: "The future of artificial intelligence explained by a robot"
+    excerpt: "While Paul Budde is an expert in the field of technology this week hes letting artificial intelligence speak for itself to discuss the current state"
+    publishedDateTime: 2023-01-24T22:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273426293/the-future-of-artificial-intelligence-explained-by-a-robot"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 73
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/iau1674597130.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Face Recognition Technology Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review"
-    publishedDateTime: 2023-01-23T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029-2023-01-23"
+  - title: "Teaching In The Age Of AI Means Getting Creative"
+    excerpt: "Alarm bells seemed to sound in teachers’ lounges across America late last year with the debut of ChatGPT — an AI chatbot that was both easy to use and capable"
+    publishedDateTime: 2023-01-23T11:00:00Z
+    webUrl: "https://fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/"
+    ampWebUrl: "https://fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/amp/"
+    cdnAmpWebUrl: "https://fivethirtyeight-com.cdn.ampproject.org/c/s/fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: FiveThirtyEight
+      domain: fivethirtyeight.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://fivethirtyeight.com/wp-content/uploads/2023/01/EDUCATION-AI-16x9-1.png?w=712"
+        width: 712
+        height: 400
         isCached: true
-  - title: "Cloud AI in Fintech Market Analysis Report 2023 Along with Statistics Figures, till 2028"
-    excerpt: "AI helps Fintech companies in resolving human problems, by enhancing efficiency. According to our latest research, The global Cloud AI in Fintech market size will reach USD million in 2028, growing at a CAGR of over the analysis period 2022-2028."
-    publishedDateTime: 2023-01-24T16:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-analysis-report-2023-along-with-statistics-figures-till-2028-2023-01-24"
+  - title: "The Future of Artificial Intelligence (AI)"
+    excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
+    publishedDateTime: 2023-01-24T08:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/the-wordsmith/the-future-of-artificial-intelligence-ai-49562/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-25T00:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-24"
+  - title: "How generative AI will help power your presentation in 2023"
+    excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-will-help-power-your-presentation-in-2023/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market Insights : Industry dynamics, New Technologies and Forecast to 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A latest"
-    publishedDateTime: 2023-01-23T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-industry-dynamics-new-technologies-and-forecast-to-2029-2023-01-23"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Generative AI and the Ensuing Computer Human Whisperer"
+    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
+    publishedDateTime: 2023-01-23T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
+        width: 1000
+        height: 520
         isCached: true
-  - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
-    excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
-    publishedDateTime: 2023-01-23T10:21:00Z
-    webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
+  - title: "2023 will be the year of AI accountability"
+    excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
+    publishedDateTime: 2023-01-24T12:00:00Z
+    webUrl: "https://www.thedrum.com/opinion/2023/01/24/2023-will-be-the-year-ai-accountability"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 53
+      name: The Drum
+      domain: thedrum.com
+    quality: 39
     images:
-      - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/637022/aiethics.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
-    publishedDateTime: 2023-01-24T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-mobile-artificial-intelligence-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-24"
+  - title: "The Top 5 Artificial Intelligence Stocks To Own"
+    excerpt: "The Top 5 Artificial Intelligence Stocks to Own The age of artificial intelligence (AI) is here. And it could very well transform just about ever"
+    publishedDateTime: 2023-01-23T21:18:00Z
+    webUrl: "https://menafn.com/1105468147/The-Top-5-Artificial-Intelligence-Stocks-To-Own"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?326268"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
-    publishedDateTime: 2023-01-23T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-artificial-intelligence-based-personalization-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
+  - title: "These AI generated PC case designs look impressive and futuristic"
+    excerpt: "A Redditor has used the Midjourney AI image generator to create some potential PC case designs, and the results are very cool, with some funky spherical designs. On that note, Hybective (the ..."
+    publishedDateTime: 2023-01-24T01:31:00Z
+    webUrl: "https://www.tweaktown.com/news/90103/these-ai-generated-pc-case-designs-look-impressive-and-futuristic/index.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.tweaktown.com/news/9/0/90103_08_these-ai-designed-computer-cases-look-impressive-and-futuristic.jpg"
+        width: 620
+        height: 348
         isCached: true
-  - title: "Global Artificial Intelligence Market (New Survey) Report 2023: To Garner Flourishing Growth Across World in Coming Year with Top Countries Data"
-    excerpt: "The “Artificial Intelligence Market” Research Report 2023: incorporates a thorough qualitative and quantitative"
-    publishedDateTime: 2023-01-24T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-new-survey-report-2023-to-garner-flourishing-growth-across-world-in-coming-year-with-top-countries-data-2023-01-24"
+  - title: "Artificial Intelligence is no match for the human heart"
+    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
+    publishedDateTime: 2023-01-23T07:00:00Z
+    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: The Big Issue
+      domain: bigissue.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The AI ‘gold rush’ is here. What will it bring?"
+    excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
+    publishedDateTime: 2023-01-23T19:40:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/01/07/ai-2023-predictions/?sf174575354=1"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2YMDG447JGZ3ERGAN6WLG35MI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "7xPdAfbH5bJqWT+LDKESqq4amaqS94Ftv1/OgadsJQQIE6CqVxziXqdbdsxh8v7BrHs6YshosVFlRJaRqaAtOk0McjaGX3fF2jBwONMgPRbXbLeQinYwFf2dWIpDkqFNhrndvqj1EM4yaXC/AOVbHeU3jbYHmHRZv3QwYKbOxFCi2yRlBvqrquEOtDLBhMrIMe8DYCkZGmIp0uatXNcnRgmfzhWkC9y38bYSXZIXh5Rmhd9AT/UHEqDy7xEVB8hV67BC0dwmJEhY2mP886H0pctWGghsYnYjIYy6l6AkXTUv6a2IZBPfSoz8st/vS72ybVeK7Mw2WSJwvwr79hYDeS+ysTaPThBoFUOk6O4k0ZmWxuBYhz5fXiqABAUBQidsR2+JnXAYbSTM/tH4JnwQKEOPBtOSJhu3/LV7vw8MD6/4Hq2uRtqSKBReiZzA3jamh3yMIPdVZBhT1ptakyAuYk0jaP+sGFDPH6AO3/Yf31d0c9jy0dUGx37BEK9MwzakSqhkIthIHYg7taGWKWrauw==;XEzbUETl3c4ufI+5B9r+nQ=="

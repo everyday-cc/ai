@@ -26,22 +26,6 @@ images:
     height: 1276
     isCached: true
 
-related:
-  - title: "Self-driving cars could nearly double road congestion – report"
-    excerpt: "LONDON: Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a UK government report warns."
-    publishedDateTime: 2023-01-21T03:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/21/self-driving-cars-could-nearly-double-road-congestion---report"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909817.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
-
-secured: "oi+DqFRVw7yIfuLTqx0fnqALV+ntr1ZJLh+Yanm0Xts/luzRXCaWWePCWKK+NBc+ftKQMnGWKtUtb5tKOrkJpdhJDmC/nyttDBDKrSqwoB6ATg7myzfHlrH5U8DpARPNbIn+c5m2XD4pZtgl7XrgDLrPMukqKYiY8WFrtRD7LtE9bOozlv3Lhlt/+rGDGGRidvOpgjXebPEsoXgRG1SqmxxbfY69E+cli4uzXJekyAJi7ic0J2des3EiTIze5fc4XC7RyjwEgRaV9Uogt470VgDHOj09ZDKWkHs5IdysoLOEdfW9Y72C9ikWuzawbFcxpdQnvcXAeO10zVyx8RelkplEWs8U9/PYVRkqfAl9lcY=;0M6GUVi/Kc5//wQrZ8Psuw=="
+secured: "4aCR/m4W+XKmfNTht6tElV8xzCJ63yq+xWgpn/WKceB3MbG2VnMraUrUSdolV+F+YEmK1fYM3Iv1/9g85UbbQ+oD8BAE3IMk3M8p48w8QJspgSdlr2k37lFSdJN3EzDB7MomUgsxdtRCI8uKOtaxcETvPUowgTUW3cFEOFucEHjdDBO9uInFeWxZ9JAcL1LZkr9Z0IQsWB1hdDB54YUxoqZI8zSjZytOoCBu5N2OGNA5dyScDSKuFnsqonFi7UNZeF10mxATWooaT7ISsvWjWwjtvJTb3BGxdM5kBuhCFSrccMe4WG6O5ffDunv1J9C7785sQnBdtgTBXjS72atvQ0RV9SL3QVEoc25sxz9wBJKiq+GxOzH3aEkDGDnAJ5bMSCYLOhd1Dxj0NSpJbVittbZVpyfkN6X9nh331bs4CJrqBB8bR4V/kyV1BHzxPAhMHLNy450+oM8bBFuoGxT7XOZdnjW8NDrWnKj7eIUglXyusstU5A6i8AyO44r4IG1VGsVZePq2zoMsZOjCDN1cSQ==;6BV0OqcnX8ix58kHt3CMVw=="
 ---
 

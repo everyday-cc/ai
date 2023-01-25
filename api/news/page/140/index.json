@@ -2,6 +2,187 @@
   "page": 140,
   "value": [
     {
+      "path": "_news/2022-09-20-artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report.md",
+      "title": "Artificial Intelligence (AI) Robots Market | Top Trends and Key Players Analysis Report",
+      "excerpt": "AI, or artificial intelligence, in robotics is the integration of AI technology with robots, enabling them to perform repetitive tasks more efficiently without human intervention. Rapid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/CCC-1-e1663981758586-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-machine-learning-developer-truefoundry-raises-23-mn-in-seed-funding.md",
+      "title": "Machine learning developer TrueFoundry raises $2.3 mn in seed funding",
+      "excerpt": "TrueFoundry, a machine learning (ML) developer, has raised $2.3 million in seed funding led by Sequoia India and Southeast Asia's Surge. Other investors in the round included Eniac Ventures and Naval Ravikant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/16/full/1615837220-0307.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
+      "publishedDateTime": "2022-09-19T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market 2022 Trends, Industry Size, Share, Emerging Trends, Top Leading Players, and Forecast 2028",
+      "excerpt": "Sep 20, 2022 (The Expresswire) -- Number of Tables and Figures :157 | The global \"Edge Artificial Intelligence (AI) Chip Market\"size is projected to reach Multimillion USD by 2028, In comparison ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-09-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T22:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-oracles-short-term-pain-could-be-your-long-term-gain.md",
+      "title": "Oracle’s Short-Term Pain Could Be Your Long-Term Gain",
+      "excerpt": "Database and cloud solutions provider Oracle (NASDAQ: ORCL) stock got smoked on its fiscal Q1 2023 earnings report. Shares were holding up relatively",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644",
+      "originalUrl": "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-aiml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner.md",
       "title": "AI/ML Bootcamp for Pakistan and ASEAN Startups Is Right Round the Corner",
       "excerpt": "In the course of businesses' digital transformation, organizations are swamped with vast amounts of data that are both incredibly valuable and",
@@ -985,205 +1166,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-xiaomi-face-recognition-smart-door-lock-with-3d-structured-light-tech-launched.md",
-      "title": "Xiaomi Face Recognition Smart Door Lock with 3D structured light tech launched",
-      "excerpt": "Xiaomi’s latest smart door lock features 3D structured light facial recognition. The Xiaomi Face Recognition Smart Door Lock, as it is called, is an iteration of the 2021 Xiaomi Smart Door Lock X. Pre-sale of the new smart door lock opens on September 20,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/",
-      "originalUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/xiaomi-2.png",
-          "width": 525,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/?amp=1",
-      "publishedDateTime": "2022-09-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-global-data-science-and-machine-learning-platforms-market-foreseen-to-grow-exponentially-by-2030.md",
-      "title": "Global Data Science and Machine Learning Platforms Market Foreseen to Grow Exponentially by 2030",
-      "excerpt": "According to the Regional Research Reports, the Global Data Science and Machine Learning Platforms market size was valued",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030.md",
-      "title": "global Deep Learning Software Market Foreseen to Grow Exponentially by 2030",
-      "excerpt": "According to the Regional Research Reports, the global Deep Learning Software Market size was valued at USD 3.4 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-new-artificial-intelligence-recycling-technology-can-sort-plastics-on-its-own.md",
-      "title": "New artificial intelligence recycling technology can sort plastics on its own",
-      "excerpt": "The AI is meant to help the world overcome its struggle with sending recyclable plastics to landfills. New recycling technology has been developed using artifi",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
-      "originalUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.hydrogenfuelnews.com/wp-content/uploads/2022/09/Recycling-technology-New-Tech.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrogen Fuel News",
-        "domain": "hydrogenfuelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

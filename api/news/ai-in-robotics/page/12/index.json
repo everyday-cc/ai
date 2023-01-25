@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-11-get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15.md",
+      "title": "Get up to 44% off Roborock robot vacuums & mops until October 15",
+      "excerpt": "Get great deals on Roborock's lineup of robot vacuum cleaners and mops during the Amazon Prime Early Access Sale, starting from October 11.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/22/10/11/get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15",
+      "originalUrl": "https://appleinsider.com/articles/22/10/11/get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/50636-99726-roborock-header-xl.jpg",
+          "width": 1312,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/22/10/11/get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/10/11/get-up-to-44-off-roborock-robot-vacuums-mops-until-october-15/amp/",
+      "publishedDateTime": "2022-10-11T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-the-growing-influence-of-robots-on-the-auto-industry.md",
       "title": "The Growing Influence Of Robots On The Auto Industry",
       "excerpt": "Despite the century-old notion of robots working within the auto industry, society continues to think of robots as limited, human substitutes. But that will likely change in the coming years as they become increasingly capable.",
@@ -1386,49 +1429,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
-      "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
-      "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
-      "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
-      "publishedDateTime": "2022-10-04T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

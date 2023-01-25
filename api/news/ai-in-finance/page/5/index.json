@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-02-galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m.md",
+      "title": "Galileo looks to improve unstructured data for machine learning (ML), raises $18M",
+      "excerpt": "Register here. Machine Learning (ML) requires data on which to train and iterate. Making use of data for ML also requires a basic understanding of what is in the training data, which isn’t always an easy problem to solve. Notably, there is a real ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/",
+      "originalUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-954077270.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/",
+      "publishedDateTime": "2022-11-01T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-how-ai-and-machine-learning-quietly-went-mainstream.md",
       "title": "How AI And Machine Learning Quietly Went Mainstream",
       "excerpt": "Now that the novelty, and frankly, some of the fear factor, around AI has begun to fade, we’re entering a generation in which technology will just be better.",
@@ -1277,40 +1330,6 @@
       "provider": {
         "name": "Gulf News",
         "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-q2-acquires-sensibill-to-enhance-data-insights-for-financial-institutions-and-their-customers.md",
-      "title": "Q2 Acquires Sensibill to Enhance Data Insights for Financial Institutions and their Customers",
-      "excerpt": "Sensibill's machine learning platform enables financial institutions to capture and categorize granular spending details in order to better understand and serve their small business and consumer account holders throughout their financial journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/q2-acquires-sensibill-to-enhance-data-insights-for-financial-institutions-and-their-customers/article_afc0b8de-9a25-5506-9f0a-c2f74489ab1b.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/q2-acquires-sensibill-to-enhance-data-insights-for-financial-institutions-and-their-customers/article_afc0b8de-9a25-5506-9f0a-c2f74489ab1b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

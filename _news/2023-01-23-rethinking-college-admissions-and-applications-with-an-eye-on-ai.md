@@ -7,7 +7,7 @@ originalUrl: "https://www.the74million.org/article/rethinking-college-admissions
 webUrl: "https://www.the74million.org/article/rethinking-college-admissions-and-applications-with-an-eye-on-ai/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Can Artificial Intelligence Crack College Admissions?"
+    excerpt: "While the program is well equipped to pass even complex tests, it cannot be a substitute for innovation, creativity, and critical thinking—attributes that students are expected to showcase on the college admissions essay."
+    publishedDateTime: 2023-01-25T17:45:00Z
+    webUrl: "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/"
+    ampWebUrl: "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d1786b06f7c970a36e3ae4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 780
+        isCached: true
 
 secured: "FS+YrzJuYOf+7PDKLYo15jZZ03T7g5l5phTl+d/Lx/4CjG3aKOCaid+PLFJ2vVXS2cITvIcpFoZ1K9eHGI+gV9yLzD4TAvQyaHcc6sKFuDkQn27Gc8Vu4umnBAjiz2gIgAayEqu6TEnbeGrsUMVn+7CMBJMYWlQ/K+gKkq4wpgXIhfJo+aBjc26YRo4fPkNAb6Jajbfk8tVmn+9I4+PtBtjNOyaEsxykJ/SDRBliSAo5FjBwrIRaKYPH3qpNtxPro2v8LEk/hc9ooX3FoKwmjy9sDzqmCqOUqgEBmk9wp2GF47ZWH+5NfMC8CaeOdEut8x6ZwXzLKFTwCkRZYMOC8OZHXNz8eI7sbJQoI37cqSHg/2Qy1mK47ypI/kQJ0rex6aphshDKbZoDj7/uJQ2z+pMOhmXgpf5+WHWaMfNWR8r4JhDRn6bCUNT/zP0ogWl0uATKTRgG8FIRyY4bkk0bX73VVvdGW08ieEeRp5U6topozKPbeYsd71zAHKIfpMWmMH1lRgOxp5A36EDh2pE6jw==;y1mw/7A/U+rcC9Ul0yxvTg=="
 ---

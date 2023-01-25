@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "2023 will be the year of AI accountability"
-    excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
-    publishedDateTime: 2023-01-24T12:00:00Z
-    webUrl: "https://www.thedrum.com/opinion/2023/01/24/2023-will-be-the-year-ai-accountability"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 39
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/637022/aiethics.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Top 5 Artificial Intelligence Stocks To Own"
-    excerpt: "The Top 5 Artificial Intelligence Stocks to Own The age of artificial intelligence (AI) is here. And it could very well transform just about ever"
-    publishedDateTime: 2023-01-23T21:18:00Z
-    webUrl: "https://menafn.com/1105468147/The-Top-5-Artificial-Intelligence-Stocks-To-Own"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?326268"
-        width: 375
-        height: 250
-        isCached: true
   - title: "It's time for banks to get more intelligent about artificial intelligence"
     excerpt: "Artificial intelligence now has the potential to fundamentally change customers' relationships with banks, impacting everything from onboarding to retention and upselling."
     publishedDateTime: 2023-01-25T15:26:00Z

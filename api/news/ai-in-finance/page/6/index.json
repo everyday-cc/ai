@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-04-q2-acquires-sensibill-to-enhance-data-insights-for-financial-institutions-and-their-customers.md",
+      "title": "Q2 Acquires Sensibill to Enhance Data Insights for Financial Institutions and their Customers",
+      "excerpt": "Sensibill's machine learning platform enables financial institutions to capture and categorize granular spending details in order to better understand and serve their small business and consumer account holders throughout their financial journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/q2-acquires-sensibill-to-enhance-data-insights-for-financial-institutions-and-their-customers/article_afc0b8de-9a25-5506-9f0a-c2f74489ab1b.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/q2-acquires-sensibill-to-enhance-data-insights-for-financial-institutions-and-their-customers/article_afc0b8de-9a25-5506-9f0a-c2f74489ab1b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation.md",
       "title": "Machine Learning as a Service Market projected to discern stable expansion during 2022-2028 | Amazon Web Services, BigML Inc., Microsoft Corporation",
       "excerpt": "Machine Learning as a Service Market - Global Outlook and Forecast 2022-2028 is latest research study released by",
@@ -1364,49 +1398,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists.md",
-      "title": "Ecobank partners with AMA Academy to launch fintech training for journalists",
-      "excerpt": "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
-      "originalUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hapakenya.com/wp-content/uploads/2014/04/Ecobank.jpg",
-          "width": 640,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hapakenya.com",
-        "domain": "hapakenya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-26-federated-learning-key-to-securing-ai.md",
+      "title": "Federated learning key to securing AI",
+      "excerpt": "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
+      "publishedDateTime": "2023-01-25T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-we-forgot-to-give-neural-networks-the-ability-to-forget.md",
       "title": "We Forgot To Give Neural Networks The Ability To Forget",
       "excerpt": "A conversation with social entrepreneur Miguel Luengo about artificial intelligence’s current inability to forget and what this means for the right to privacy and user agency.",
@@ -255,7 +308,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1412,59 +1465,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-4-ai-and-ml-job-hunting-tips-from-chip-huyen.md",
-      "title": "4 AI and ML job hunting tips from Chip Huyen",
-      "excerpt": "It may be a tough market, but author and computer scientist Chip Huyen says there are several ways AI and ML job hunters can stand out.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/",
-      "originalUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/chip-huyen-1-1-e1673449558562.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/amp/",
-      "publishedDateTime": "2023-01-11T15:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

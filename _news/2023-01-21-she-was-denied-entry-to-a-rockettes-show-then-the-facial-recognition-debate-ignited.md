@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "She was denied entry to a Rockettes show — then the facial recognition debate ignited"
-    excerpt: "They told her their facial recognition system already knew who she was, and more importantly, where she worked, Conlon told The New York Times. She was denied entry. The issue was her law firm was ..."
-    publishedDateTime: 2023-01-22T03:28:00Z
-    webUrl: "https://www.kuow.org/stories/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
+    excerpt: "When a lawyer was denied entry to a Rockettes show, it became a flashpoint in the debate over facial recognition technology. Does it keep people safe, or risk further harm?"
+    publishedDateTime: 2023-01-21T16:00:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
     quality: 32
     images:
-      - url: "https://kuow-prod.imgix.net/store/1dee9c24c63add54b7d5d04639b5ed53.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 839
-        height: 628
+      - url: "https://npr.brightspotcdn.com/dims4/default/3a6109f/2147483647/strip/true/crop/5689x2987+0+107/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F20%2Fjesse-zhang-face-ai-final_custom-20c61e8560ae339ccf6c0ef0ae5b2734e6a0a10f.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MozOThrpig3Jvs6/3qsZwbjmWqKmJ9b51GNfe4Ad61H7qSjEpRe0kTrn7U2CzaRVX31VfYDEVuonB9LdfMxVbyhb/vxA8ZiDPl+ZyQB5hHAHoC5g1eKOY5t1KPksjaTDqwHPy5a3rgSpD/cwcekc0er4zr+W3JDohckQzzQVPibrq7IIi0JVjMAMubhSTXwCC/eVUqiCoMd5xKI19N78kfhGjWidbfVfTn5iteHb1XACHsKrB9qSWWrYeI/KZ8mOeVqlr1z5pgqrUmD0fzau61J+FlcB/ZFzDZql23sHQfAdNdtvdxGNzW4ZE7/DcOhKD87ZHsgFNFRPFjz6iWlbbcR92qw2xAq7YDkTmUSL2AE=;C8EspT/3uCV9fY28ESf62A=="

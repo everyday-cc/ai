@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-ceo-nadella-expec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 267
         height: 400
         isCached: true
+  - title: "Microsoft CEO: “Every App Is Going To Be An AI App”"
+    excerpt: "Microsoft CEO, Satya Nadella, states that AI will be integrated into all of Microsoft's applications in the future."
+    publishedDateTime: 2023-01-25T18:02:00Z
+    webUrl: "https://www.searchenginejournal.com/microsoft-ceo-every-app-is-going-to-be-an-ai-app/477334/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 54
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-ai-apps-63d16e7a0d8b7-sej.png"
+        width: 1600
+        height: 840
+        isCached: true
 
-secured: "wfZsUiFcq36lwFwBRB0OnwRg3nOTcg15UTPGAzfb/kzluoAo7fVxIJ/vO2PWoBtY0/3lZ+BBgz/uMmUtG5s1e+fWEKKnRbUdUlnqX+bBEHg1TjkP2pUGet0TTRX3CY4wou1haDYUCKgDFh3Baq/PQAiF9HepC/OYESLMTazw0XtFu7abb4tE7rmw0ySFS1WMKaYSDe9ww0ORkA24vA6TYOOdl7Xk36wFrmcJiDCJ1Y0vvyoewPCxnauTfI8gVwgGKlRlodqi1M9dURDkJYav7BR74HtdNFWp80svOf80Ok5RHygm8ZFUc1wBLUEDmWmR0Rp/zGwQJG9F0lsGxhgAa+gJOa8ZpYlRtXN+pwKk8Ww=;at1D6kxuAKW1l2wW1Sihyg=="
+secured: "gfFllcMfqsD3yL+B1XT0PHHgw3dmTv3O3xhN2aI1tgyV4g/NZRC9dzr4jkxpxVSXIvHDZTcO9c+dl+IGhv2P9Nby19cqveEmDpSfNjoJ1/Bq4pSomq9tnG5Jbrm6aoUPE2bytqEjgZJQsanOFeYjeQDwPJ6tcuKwaFZhb/unBehzC4DNeBPq0VZ1jP5HS2yDeLqb3ry0dPdqJdR0xyy6uULrzyp69TUkAOYqrFb4j9VDA6Eb9mzfpDXXpxcr1Kdr1D0fwj9kyCr3im4NpO9zXIF2zI8mdVKAZUA5BxeiOULSn8T/d6Rs/kHrLDUf3RKvfyF57U/eYmXMrmiv08sb36TkfK5imbYD7BZXKpVPuUd+xXXhEfTx7qKAt+pZizmygBVkUo1DdqwAjjOSEqO/YNkjRKairnvLgMc8z7nnUh54mrAIbBQRsHWLRC3jp3JKqta3GxE3QuOB93UkRkB26Wxp39SEhJyWZUIieoaFaZYJdqKOk/OitBZfJtnzY4WgfYQxrrlJF2wf6Qt3b2cxgw==;NaRbtqMfVTKFlH+vB0E6ZQ=="
 ---
 

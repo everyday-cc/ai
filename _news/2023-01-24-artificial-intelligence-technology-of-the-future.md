@@ -7,7 +7,7 @@ originalUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence
 webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,34 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Artificial Intelligence (AI)"
-    excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
-    publishedDateTime: 2023-01-24T08:55:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/the-wordsmith/the-future-of-artificial-intelligence-ai-49562/"
+  - title: "Technology: While AI fascinates, it brings up questions"
+    excerpt: "Like any technology, whether AI is a net gain or net loss for society depends on how we humans choose to use it. On the positive side, advancements in AI can do things like help doctors to diagnose illnesses or help scientists combat climate change."
+    publishedDateTime: 2023-01-22T11:00:00Z
+    webUrl: "https://www.tennessean.com/story/money/tech/2023/01/22/technology-while-ai-fascinates-it-brings-up-questions/69819021007/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
+      name: Tennessean
+      domain: tennessean.com
+    quality: 37
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+      - url: "https://www.gannett-cdn.com/presto/2022/12/19/PNAS/6d276d11-9f5d-4c9e-861c-4bc059ccc693-NASBrd_11-19-2016_Tennessean_1_B002__2016_11_18_IMG_laptop_1_1_QQGF5VQU_L922754430_IMG_laptop_1_1_QQGF5VQU.jpg?auto=webp&crop=506,285,x0,y25&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "How AI will impact the future of work and life"
-    excerpt: "Artificial Intelligence (AI) is rapidly becoming one of the most important and rapidly-evolving technologies of our time. With advancements in machine learning, natural language processing, and computer vision,"
-    publishedDateTime: 2023-01-24T11:42:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/shikshacoach/how-ai-will-impact-the-future-of-work-and-life-49577/"
+  - title: "Artificial intelligence on forefront thanks to new technology"
+    excerpt: "Artificial intelligence is a hot topic nowadays thanks to programs like ChatGPT and Dalle. Michael Williams speaks with Infostream CEO Alan Crowetz about the future of artificial intelligence."
+    publishedDateTime: 2023-01-22T18:02:00Z
+    webUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
+      name: WPTV-TV
+      domain: wptv.com
+    quality: 17
+  - title: "Smart clothing and artificial intelligence: A new technology for the diagnosis and monitoring of neurological diseases"
+    excerpt: "Dr. Aldo Faisal, Professor of Digital Health at the University of Bayreuth, have developed a novel set of tools for diagnosing and monitoring neurological diseases based on body-worn sensors (wearables) and artificial intelligence."
+    publishedDateTime: 2023-01-23T12:45:00Z
+    webUrl: "https://idw-online.de/de/news808047"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 0
 
 secured: "x+nWbxXsqwZpj62eaFWZ7leXNRGxneZtCq8C78l+qsi1VwHgc61mZCi749LasKO3iDSUXA4UUu1/N8gZEPE7r6rM4Ug1Kb6AQQ4j6aviy0VmcLiHPaqLsAxg848eXKU6w/BPbAXU7iE/+3DqbwM3z2XBkc6dFYmAF26JYAi7Sn5Nk1MjpMvJffJzK/KPdQE5EJfN1o4/Ay7xWHLgP/KmSvrs4y10aZIcPcgOv0hTBfEGRbsoKfaRcjiBaYUmO3jgsck3pH+M/ZXQPiewiBWU8TLQ03hG/m7g50mliuDmYtvNItd00OUXBlJR2coASDEZxvbHyMfFPfrTolgsEWlT6UoCSKyyJfqybwdbrcddfDrHNgXUz108i+dDTwvTxGq2l8fmpHA+qOBgB4cbBKJcxcnap1rcJxxqY22ZH40qVOfEb7sw53yAzaCCFLT5NqaLRZdIsbbyaxCuuFPprwe/CGz1PfrUbj8e6ev/mZHrDpuXXHn2ZxobbR4N0g/g10jcpjEbs2sw65Ynh6UucO1/ew==;qKifWnqkSlS7WIGNrkYvCg=="
 ---

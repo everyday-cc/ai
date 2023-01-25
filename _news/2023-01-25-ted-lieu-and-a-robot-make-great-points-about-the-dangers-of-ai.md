@@ -9,7 +9,7 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282"
 type: article
 quality: 74
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future of artificial intelligence explained by a robot"
-    excerpt: "While Paul Budde is an expert in the field of technology this week hes letting artificial intelligence speak for itself to discuss the current state"
-    publishedDateTime: 2023-01-24T22:45:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273426293/the-future-of-artificial-intelligence-explained-by-a-robot"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 73
-    images:
-      - url: "https://cdn.bignewsnetwork.com/iau1674597130.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "IRBO: Current Price Offers A Great Entry Point To Gain Exposure To AI And Robotics"
     excerpt: "Current price of IRBO is favorable and macrotrends have very large potential upside. However, given the volatile environment, buying should be done gradually. Click here to know more."
     publishedDateTime: 2023-01-23T11:40:00Z

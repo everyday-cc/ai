@@ -61,6 +61,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 4
+  - title: "The Emerging FinTech Trends That Will Shape 2023"
+    excerpt: "Here are some of the financial technology trends that I believe might be key in shaping the sector in this new year: Open-banking: open banking has been at the forefront of fintech trends for the past few years,"
+    publishedDateTime: 2023-01-25T18:33:00Z
+    webUrl: "https://www.finextra.com/blogposting/23631/the-emerging-fintech-trends-that-will-shape-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "p8OkJ/bKq9Ohjl+hhznE6sqoTg2miUULRVvRHMetC2MfoJwMC30wpg4LuI+ywGqTeSSEk4/PROmYv0d5DOd6E8BCke9WXccR1OXUijRukU8T+fVciCRUJabZcfi1HnHLGPenABrspAoK+wqZBvBs2c029czpsAHdc6FepT8TX67FRmtzbpjfvc2sdrK93Ueu44rcF5038EqC2ZmZ5xKNsVxRfDu515gZLabZKxlUa84iSXIrDxdSfpXMD5CIuO7YfQhR/urKx9zvkc9kNEB4Dxu6D8YRe2Vjgfi9dhO4gMlb/lzRiTlDiF/Q/nAkcM6cnYit0lyU+37voMvLWDsqi4YX8iB2WckFMckbx2GF8+OFlyAsN1Wb++Zjjv3hmfusUNWotkFeCdb29axkGDyOzU2CEpIaKoML9GmVcrQbTyBPMcK77HQBUjuU6IaR4yUs/DgQk83oKGq4vNTHJ1hJns9e+jNr2fRwgHIVzTm3Cys6I6p5OfA1SkQF2E3zXzps2+WVJq24/yGyR9HxSOIvHA==;mAYu+cqJLCf6FEbRWuyg7w=="
 ---

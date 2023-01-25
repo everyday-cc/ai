@@ -40,35 +40,7 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "2023 will be the year of AI accountability"
-    excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
-    publishedDateTime: 2023-01-24T12:00:00Z
-    webUrl: "https://www.thedrum.com/opinion/2023/01/24/2023-will-be-the-year-ai-accountability"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 39
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/637022/aiethics.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Top 5 Artificial Intelligence Stocks To Own"
-    excerpt: "The Top 5 Artificial Intelligence Stocks to Own The age of artificial intelligence (AI) is here. And it could very well transform just about ever"
-    publishedDateTime: 2023-01-23T21:18:00Z
-    webUrl: "https://menafn.com/1105468147/The-Top-5-Artificial-Intelligence-Stocks-To-Own"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?326268"
-        width: 375
-        height: 250
-        isCached: true
 
-secured: "sS9NFC0QLztp85ZEoEHmXpttp2cbdRK29U1KB0IGhA4vlohohgdQ94EOEcoL9oX0Uld+bFK4+CpYuqEru17lHNY8V4IOgixbkDI5V1uB+81M8oZ/P8heWwAXPXpjCCtwY+e3aOS9ITW7HvNAVD+4cXL4vwxeUgLxIuJvc1eBtxhaWR3wgFax9GtwXA09oZ43QvL8b/1G7lTea7Yso8ciHHcCaj3L2R3sHNESYAfsG6c8rQf9gDX4jOw5u12h/GxbfNsup8TcPoVvgLa8tBP9E4TwpgoodLvEGdF1vy+f47rO4UcI0tK/mTEYpqrvuXpbbqA4fkz4oHXVwQ5lN1shN1eCS3RuszR7Keqn0VQwRn8=;hpUnuyJobeAD1YGmrvJKcg=="
+secured: "w5ni9i5ZpyDRg0FP5AwHKSmK4sMFbP/n9fU5vpJzrvvOCOtAn16ZlsYmh6+JetGPCBXTQw/jZfGe5qPtjGSviMqawA1e/hxu0V3bKXH+7lHxHdCxretZt2+eS5yJfAAUdEcBli+esPTSDENO5Fy5fyMd+hy9DbnPqhKq2XGj9Ydz6Wkwwgsy12oPw0X9XGXRx6zEkbfPDwfYW5udq7z3kd6uM3+/EVIzxbgt+97nXrNi4jIx3+dlOAs2Cyq59kMkeohA8e03YfMztBojVBpBN01GEOP7BCK9UtNJ9Py8iLANrcW+gsp2MaFG2lP5r436sTtMdSpZnWtPfMWT1YgfJLq48XR6IHr51oBbh9WghH/FU1a4QLHbsqaX37iwUTySd4LzF9d6Vp8NakQGwIv+TpDNbWwi2suo5ClVwbDI0ANZR7eWZswvOt4F/CjQEseiHWkht1ClMYkdLAT2CYPdudD7ukRwGblLTWk7SOrDgv41cVxc3xujzDitUfh5XNJheDo84C59ijJ56y/g3O61vA==;mjUykrvDROF6DUcV1I2iGg=="
 ---
 

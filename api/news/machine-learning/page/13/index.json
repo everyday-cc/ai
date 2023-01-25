@@ -2,6 +2,59 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-06-global-marketing-study-on-machine-learning-stock-2022-2029.md",
+      "title": "Global Marketing study on machine learning stock 2022-2029",
+      "excerpt": "Theglobal \"Machine Learning Stock Market \"2022 research report provides an in-depth analysis of the current trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-how-to-invest-in-artificial-intelligence.md",
       "title": "How To Invest In Artificial Intelligence",
       "excerpt": "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now.",
@@ -1374,60 +1427,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-hugging-face-takes-step-toward-democratizing-ai-and-ml.md",
-      "title": "Hugging Face takes step toward democratizing AI and ML",
-      "excerpt": "Hugging Face has launched a new AI-as-a-service offering, designed to take on large workloads of enterprises and help speed up ML projects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-09-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

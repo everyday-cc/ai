@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI experts on whether you should be \"terrified\" of ChatGPT"
+    excerpt: "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code."
+    publishedDateTime: 2023-01-22T17:38:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Generative AI and ChatGPT – Is it a disruptor in the digital world needs?"
     excerpt: "AI has easily been the most loved and loathed technology simultaneously. Sometimes it is hated by its creators, and other times; it is loved by its critics. Safe to say that AI is loved"
     publishedDateTime: 2023-01-23T12:37:00Z
@@ -92,22 +108,6 @@ related:
       - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/01/shutterstock_2237752713-1-scaled.jpg"
         width: 850
         height: 567
-        isCached: true
-  - title: "AI experts on whether you should be \"terrified\" of ChatGPT"
-    excerpt: "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code."
-    publishedDateTime: 2023-01-22T17:38:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Inside the mind of ChatGPT: How artificial intelligence is changing the way we learn"
     excerpt: "The future is here, and it can do your homework. Artificial intelligence, like the popular ChatGPT app, is ripe for exploitation by students, experts say."

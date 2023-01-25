@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-26-move-over-siri-apples-new-audiobook-ai-voice-sounds-like-a-human.md",
+      "title": "Move over, Siri: Apple’s new audiobook AI voice sounds like a human",
+      "excerpt": "AI technologies are being developed and used in various applications, including natural language processing, as Apple is doing, robotics, and expert systems for various industries and purposes. Apple decided to make this move to give those books from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human",
+      "originalUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b27374-8393-481b-9616-6a55b4a55a55/1047e1eb-df4e-4cd9-a305-0b15a2c04946/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp",
+      "publishedDateTime": "2023-01-25T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-can-artificial-intelligence-crack-college-admissions.md",
+      "title": "Can Artificial Intelligence Crack College Admissions?",
+      "excerpt": "While the program is well equipped to pass even complex tests, it cannot be a substitute for innovation, creativity, and critical thinking—attributes that students are expected to showcase on the college admissions essay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
+      "originalUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d1786b06f7c970a36e3ae4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
+      "publishedDateTime": "2023-01-25T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief.md",
+      "title": "As AI booms, reducing risks of algorithmic systems is a must, says new ACM brief",
+      "excerpt": "AI is booming, but a new ACM brief says ubiquity of algorithmic systems “creates serious risks that are not being adequately addressed.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/",
+      "originalUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-25-at-10.39.59-AM-e1674661281828.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/amp/",
+      "publishedDateTime": "2023-01-25T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-nhs-to-use-robots-as-it-scrambles-to-slash-waiting-lists-during-winter-crisis.md",
       "title": "NHS to use robots as it scrambles to slash waiting lists during winter crisis",
       "excerpt": "More info The NHS is set to deploy robots to help it decide who should receive care ... to be paid £10 to stop using energy-guzzling appliances tonight [REVEAL] Artificial Intelligence tools were included as part of the initiative for the purposes listed ...",
@@ -192,6 +346,59 @@
       ]
     },
     {
+      "path": "_news/2023-01-26-federated-learning-key-to-securing-ai.md",
+      "title": "Federated learning key to securing AI",
+      "excerpt": "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
+      "publishedDateTime": "2023-01-25T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-we-forgot-to-give-neural-networks-the-ability-to-forget.md",
       "title": "We Forgot To Give Neural Networks The Ability To Forget",
       "excerpt": "A conversation with social entrepreneur Miguel Luengo about artificial intelligence’s current inability to forget and what this means for the right to privacy and user agency.",
@@ -252,7 +459,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -304,7 +511,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -606,7 +813,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -751,7 +958,7 @@
       "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1026,214 +1233,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-can-ai-replace-cloud-architects.md",
-      "title": "Can AI replace cloud architects?",
-      "excerpt": "AI systems get more impressive every day. Today’s AI can automate the tasks of many information workers, so those in cloud jobs worry they're next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.html",
-      "originalUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/robot-arm-using-laptop-100714626-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.amp.html",
-      "publishedDateTime": "2023-01-24T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-ais-biggest-promise-the-democratization-of-precision-medicine.md",
-      "title": "AI's Biggest Promise: The Democratization Of Precision Medicine",
-      "excerpt": "While AI is making its mark across numerous industries, one of its most significant single impacts will be the democratization of precision (or personalized) medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ced3e6b8203c89aa6e3ae4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 903,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/amp/",
-      "publishedDateTime": "2023-01-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-this-startup-is-using-ai-to-unearth-new-smells.md",
-      "title": "This Startup Is Using AI to Unearth New Smells",
-      "excerpt": "Google Research spinout Osmo wants to find substitutes for hard-to-source aromas. The tech could inspire new perfumes—and help combat mosquito-borne diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/",
-      "originalUrl": "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63cf16193e88ab88db98da03/master/pass/osmo_science_GettyImages-815059888.jpg",
-          "width": 1840,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp",
-      "publishedDateTime": "2023-01-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028.md",
-      "title": "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028",
-      "excerpt": "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI in Healthcare"
       ]
     }
   ],

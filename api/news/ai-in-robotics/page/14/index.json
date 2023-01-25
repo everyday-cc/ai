@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-28-dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre.md",
+      "title": "Don't be afraid of Artificial Intelligence, says head of UK's new robotics centre",
+      "excerpt": "The head of the UK's largest and most advanced robotics centre has said that society needs to prepare for the increased integration of robots but shouldn't fear the rise of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "originalUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/09/1600x900/skynews-robot-parkinsons_5912547.jpg?20220927154814",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "publishedDateTime": "2022-09-27T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-startup-with-portland-connection-raises-8m-for-robots-that-make-coffee-drinks-like-a-barista.md",
       "title": "Startup with Portland connection raises $8M for robots that make coffee drinks like a barista",
       "excerpt": "Artly announced the raise, which the startup is calling ... the help of advanced AI technologies such as imitation learning and vision-language generative models, our robots can now adapt to ...",
@@ -1354,49 +1397,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-their-teacher-is-a-robot-named-sophia-the-lesson-is-their-humanity.md",
-      "title": "Their teacher is a robot named Sophia. The lesson is their humanity.",
-      "excerpt": "So I've been primed to imagine AI-powered robots as indestructible killing machines ... development of our digital helpers. \"People should start questioning whether they should do these things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/teacher-robot-named-sophia-lesson-100000934.html",
-      "originalUrl": "https://www.aol.com/teacher-robot-named-sophia-lesson-100000934.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/5nzlLtRJpsC1PK7tWmCAEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_mashable_370/f29ef20893d9a898122a7d7b843f677e",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

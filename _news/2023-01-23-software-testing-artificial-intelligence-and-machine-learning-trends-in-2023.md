@@ -26,141 +26,120 @@ images:
     isCached: true
 
 related:
-  - title: "Data and AI Ethics Market Size 2023 Will Touch A New Level In The Upcoming Year 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-25T00:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24"
+  - title: "Federated learning key to securing AI"
+    excerpt: "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it."
+    publishedDateTime: 2023-01-25T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all"
+        width: 1199
+        height: 638
         isCached: true
-  - title: "Cloud AI Developer Services Market Latest Research Report 2023-2029"
-    excerpt: "As per latest research on Cloud AI Developer Services Market (Report spread across 116 Pages), the growth of Cloud"
-    publishedDateTime: 2023-01-24T16:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-latest-research-report-2023-2029-2023-01-24"
+  - title: "How to Spot AI-Generated Art, According to Artists"
+    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
+    publishedDateTime: 2023-01-21T11:59:00Z
+    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
+    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "Face Recognition Technology Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review"
-    publishedDateTime: 2023-01-23T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029-2023-01-23"
+  - title: "AI Deep Learning Predicts Brain Tumor Growth"
+    excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
+    publishedDateTime: 2023-01-24T15:21:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Cloud AI in Fintech Market Analysis Report 2023 Along with Statistics Figures, till 2028"
-    excerpt: "AI helps Fintech companies in resolving human problems, by enhancing efficiency. According to our latest research, The global Cloud AI in Fintech market size will reach USD million in 2028, growing at a CAGR of over the analysis period 2022-2028."
-    publishedDateTime: 2023-01-24T16:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-analysis-report-2023-along-with-statistics-figures-till-2028-2023-01-24"
+  - title: "How Artificial Intelligence is Transforming Banking"
+    excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
+    publishedDateTime: 2023-01-23T22:57:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/01/iStock-1168748420.jpg"
+        width: 750
+        height: 530
         isCached: true
-  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-25T00:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-24"
+  - title: "Learning to lie: AI tools adept at creating disinformation"
+    excerpt: "Artificial intelligence is writing fiction, making images inspired by Van Gogh and fighting wildfires. Now it's competing in another"
+    publishedDateTime: 2023-01-24T00:01:00Z
+    webUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+    ampWebUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_c1a300d8870140f595152edf1fe2c773.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Artificial Neural Networks Market Insights : Industry dynamics, New Technologies and Forecast to 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A latest"
-    publishedDateTime: 2023-01-23T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-industry-dynamics-new-technologies-and-forecast-to-2029-2023-01-23"
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-24T18:46:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/24/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "2023 Will Be A Defining Year For AI And The Future Of Work"
-    excerpt: "Real-Time Translation: AI could be used by global organizations for universal and real-time translation across languages. For any leader considering AI as a force multiplier for their organization, here are three rules to consider before embarking on your ..."
-    publishedDateTime: 2023-01-25T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/2023-will-be-a-defining-year-for-ai-and-the-future-of-work/"
+  - title: "Learning to lie: AI tools adept at creating disinformation"
+    excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda."
+    publishedDateTime: 2023-01-25T04:19:00Z
+    webUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+    ampWebUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
-    publishedDateTime: 2023-01-24T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-mobile-artificial-intelligence-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-24"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "On critical thinking and artificial intelligence"
+    excerpt: "The public, specifically the academe, has recently been confronted by both shock and awe at its latest challenge: artificial intelligence (AI). The issue started when a faculty from the University of"
+    publishedDateTime: 2023-01-24T20:48:00Z
+    webUrl: "https://opinion.inquirer.net/160560/on-critical-thinking-and-artificial-intelligence"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
-    publishedDateTime: 2023-01-23T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-artificial-intelligence-based-personalization-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market (New Survey) Report 2023: To Garner Flourishing Growth Across World in Coming Year with Top Countries Data"
-    excerpt: "The “Artificial Intelligence Market” Research Report 2023: incorporates a thorough qualitative and quantitative"
-    publishedDateTime: 2023-01-24T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-new-survey-report-2023-to-garner-flourishing-growth-across-world-in-coming-year-with-top-countries-data-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 17
 
 secured: "sO9qW7bGu0ClwqERYQTk+122SyjpZ/WiG8WCjrYvmuNfLowqR1EI3kHLRwl3gpP/jLIUeidrCeVJgB22v+B5gmPF2br5ByMOH2dOnC/k3Hp730yHfL4ODiQcTBLjLBZ8S2OguwYCrIHCr5nNVVKyT4ZnKMN0Gg8U/RnxHRXN183WTXzpRaRhesAxlu/ZE43gBo4hv0+bib/bxVvCw2g+khoX7VbPcCML0NkaPWzbnGbTIlvSTEfbj/wLpqLjd+QkfI8TOmhewVD/s3MqBCYkx4lhRj4bprjX7PsdTuEwPtTMM3iud8GmT6GdmbTmpny7K8UJiV5Ih3Dx4OvFQp0ZMkZvgAM1PWHVR+dx0w/9lVDdPAGCkn9dgNsJmm2ATyqgAkDxDjgVb/Zr3UEXgxiPmEsBMsKryON31d0JDr6ITTRZplLAYQzGuf0KI607jrtj3K4HPk6bkM9JPqI4v0KUCs6OTCREkpSHerL1tpUXDdkSl4HeTiPYfFOWmbdqpnFIrLK5YsMI86DUyswaXJYRtA==;RdDScOtF5Gunc9oc8GwxVQ=="
 ---

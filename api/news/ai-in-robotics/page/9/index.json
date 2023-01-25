@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
+      "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
+      "excerpt": "SiMa.ai CEO Krishna Rangasayee poses for a picture with his machine learning system used for processing video and images for security cameras, satellite images, drones, industrial robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
+      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-how-artificial-intelligence-is-transforming-out-of-home-advertising-for-small-businesses.md",
       "title": "How Artificial Intelligence Is Transforming Out-Of-Home Advertising For Small Businesses",
       "excerpt": "Like almost every part of our lives, artificial intelligence is transforming out-of-home advertising. Now, it could be a more efficient alternative for small businesses, especially brick-and-mortar companies.",
@@ -1304,49 +1357,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-your-guide-to-robotic-prostatectomy-procedure-recovery-and-alternatives.md",
-      "title": "Your Guide to Robotic Prostatectomy: Procedure, Recovery, and Alternatives",
-      "excerpt": "During this procedure, a surgeon removes your prostate by guiding a robotic arm from behind a control panel. The robotic arm allows for greater precision than if they perform the surgery by hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "originalUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/09/Doctor-Robotic-surgery-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

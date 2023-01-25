@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-27-your-guide-to-robotic-prostatectomy-procedure-recovery-and-alternatives.md",
+      "title": "Your Guide to Robotic Prostatectomy: Procedure, Recovery, and Alternatives",
+      "excerpt": "During this procedure, a surgeon removes your prostate by guiding a robotic arm from behind a control panel. The robotic arm allows for greater precision than if they perform the surgery by hand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
+      "originalUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/09/Doctor-Robotic-surgery-facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
       "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
       "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
@@ -1353,58 +1396,6 @@
       "ampWebUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
       "publishedDateTime": "2022-10-18T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage.md",
-      "title": "Announcing the TechCrunch Startup Battlefield 20 companies on the Disrupt Stage",
-      "excerpt": "Disrupt runs Tuesday through Thursday, October 18-20 in San Francisco.. The agenda is packed full of the heavyweights of the industry hashing it out on stage stage with TechCrunch Editors. Newsmakers,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/",
-      "originalUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/bf200_122x628_header.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/amp/",
-      "publishedDateTime": "2022-10-18T14:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",

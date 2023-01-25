@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How generative AI will help power your presentation in 2023"
-    excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
-    publishedDateTime: 2023-01-24T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-will-help-power-your-presentation-in-2023/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Artificial Intelligence Supply Chain Market 2023 Constitutes Trends, Segment Size, Restraints, and Drivers that Transform the Industry to 2028"
     excerpt: "A comprehensive research on Artificial Intelligence Supply Chain Market Overview 2023-2028. It displays the market size"
     publishedDateTime: 2023-01-25T09:02:00Z
@@ -63,20 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Generative AI and the Ensuing Computer Human Whisperer"
-    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
-    publishedDateTime: 2023-01-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
-        width: 1000
-        height: 520
         isCached: true
   - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
     excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
