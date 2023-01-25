@@ -44,6 +44,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Generative AI and the Ensuing Computer Human Whisperer"
+    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
+    publishedDateTime: 2023-01-23T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
+        width: 1000
+        height: 520
+        isCached: true
   - title: "Canada has leading AI experts. But does Ottawa have the right plan to support an AI industry?"
     excerpt: "Many leaders in Canada’s innovation sector say the government’s strategy to build on the country’s early lead in AI is emblematic of how Ottawa routinely fails to leverage the country’s brains to prod"
     publishedDateTime: 2023-01-23T06:00:00Z

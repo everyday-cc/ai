@@ -8,8 +8,8 @@ webUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authentica
 ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
 type: article
-quality: 64
-heat: 94
+quality: 66
+heat: 96
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://p-news-uploads.storage.googleapis.com/2020/03/de-Bre%CC%81cy-Tondo-painting.x7ee14c4d.jpeg"

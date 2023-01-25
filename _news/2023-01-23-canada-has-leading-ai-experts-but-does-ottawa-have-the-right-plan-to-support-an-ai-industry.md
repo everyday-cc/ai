@@ -50,6 +50,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Generative AI and the Ensuing Computer Human Whisperer"
+    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
+    publishedDateTime: 2023-01-23T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
+        width: 1000
+        height: 520
+        isCached: true
   - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
     excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
     publishedDateTime: 2023-01-24T14:00:00Z

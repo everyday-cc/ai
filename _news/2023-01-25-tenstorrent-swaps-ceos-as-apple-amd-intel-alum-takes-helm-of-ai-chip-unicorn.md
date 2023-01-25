@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Jim Keller becomes CEO of AI chip company Tenstorrent"
-    excerpt: "Storied chip designer Jim Keller has been named CEO of artificial intelligence-focused chip company Tenstorrent. Keller was named CTO of the Canadian startup back in early 2021, but is now swapping his role with founder and former CEO Ljubisa Bajic."
-    publishedDateTime: 2023-01-20T09:13:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Intel-Jim-Keller.5fcd5158.fill-1200x630.jpg"
-        width: 853
-        height: 449
-        isCached: true
   - title: "Google's director of strategic alliances Keith Witek joins AI chip company Tenstorrent"
     excerpt: "Artificial intelligence chip company Tenstorrent has hired Keith Witek as its chief operating officer. Witek was previously the director of strategic relationships and deals at Google. “There has never been a better time in the industry to drive heterogeneous compute with AI and RISC-V,"
     publishedDateTime: 2023-01-24T11:12:00Z

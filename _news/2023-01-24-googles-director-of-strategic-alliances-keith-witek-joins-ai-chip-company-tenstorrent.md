@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/googles-director-of-str
 webUrl: "https://www.datacenterdynamics.com/en/news/googles-director-of-strategic-alliances-keith-witek-joins-ai-chip-company-tenstorrent/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jim Keller becomes CEO of AI chip company Tenstorrent"
-    excerpt: "Storied chip designer Jim Keller has been named CEO of artificial intelligence-focused chip company Tenstorrent. Keller was named CTO of the Canadian startup back in early 2021, but is now swapping his role with founder and former CEO Ljubisa Bajic."
-    publishedDateTime: 2023-01-20T09:13:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Intel-Jim-Keller.5fcd5158.fill-1200x630.jpg"
-        width: 853
-        height: 449
-        isCached: true
   - title: "Tenstorrent swaps CEOs as Apple, AMD, Intel alum takes helm of AI chip unicorn"
     excerpt: "Renowned chip designer Jim Keller has become CEO of Toronto-based artificial intelligence hardware company Tenstorrent."
     publishedDateTime: 2023-01-24T19:45:00Z

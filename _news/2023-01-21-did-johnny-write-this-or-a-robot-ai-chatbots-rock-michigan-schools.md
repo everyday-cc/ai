@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-
 cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Bridge Magazine
@@ -27,36 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "The Chatbots Can’t Outsmart You. Yet."
-    excerpt: "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it. We need to stay calm — and develop a new test."
-    publishedDateTime: 2023-01-20T10:01:00Z
-    webUrl: "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html"
-    ampWebUrl: "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html"
+  - title: "Michigan teachers wary of new artificial intelligence software"
+    excerpt: "ChatGPT has been around since November and has taken the internet by storm, but is raising questions in Michigan classrooms."
+    publishedDateTime: 2023-01-23T03:02:00Z
+    webUrl: "https://www.detroitnews.com/story/news/education/2023/01/23/michigan-teachers-wary-of-new-artificial-intelligence-software-chatgpt/69827626007/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 76
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 37
     images:
-      - url: "https://static01.nyt.com/images/2023/01/22/business/22Turing-test-illo/22Turing-test-illo-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://www.gannett-cdn.com/presto/2021/08/31/PDTN/d24ffaa2-673b-4ac9-a796-0798f6ce1752-genericschool.jpg?auto=webp&crop=5186,2917,x106,y876&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Chatbots are creating thorny ethical questions about transparency in mental health care"
-    excerpt: "The mental health field is increasingly looking to chatbots to relieve escalating pressure on a limited pool of licensed therapists."
-    publishedDateTime: 2023-01-23T16:19:00Z
-    webUrl: "https://www.statnews.com/2023/01/23/mental-health-chatbot-chatgpt/"
+  - title: "AI chatbot’s MBA exam pass poses test for business schools"
+    excerpt: "Elon Musk has long dismissed the MBA as irrelevant or damaging, but now a company backed by the outspoken tech entrepreneur is threatening to directly undermine the value of the flagship business degree: the artificial intelligence chatbot ChatGPT."
+    publishedDateTime: 2023-01-21T14:00:00Z
+    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c?amp"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
-    quality: 33
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/01/AdobeStock_136361225-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "CRQ744q80QTTUA0RaRLLjATqhb0PsB9UQXfhb4+WTw7bpRKxYP6rvdQn0Ar2fqEUUg0QKrVvH8xX2kUWW0bmO0+0CLTY9DIJLqUP0aZM0Q9TjKCu4hTAkP1AEizXqR6ztIOMC4ZGrCvHUBotvCoKQwU3ct4prrPXjBeNMAqph6xuCHUJIJtf4i4CmSY5ov0Frl/41tLY3ooJCqtLdabiFXKmKiGvazofwyplpyOextcEKn2LPwP8FQm0bG2MfoH9+VqhVPwbqWy/PqKrQyEQ7QlpC6Q3YxbHxr7ZYTA/To4xkMCRsDwKnZ2qrx6VmrBrPkjq6xWqReJ2A6JGu5X9HvqLBBJNvYREbRXWFe/P9zKnvpQPlogyEq/dxN/cz8m0I7M0AuRzC3A4Eptb7Uy/kidWyK1TfVxmCqR2h0kke597wZoKa9BDrzG917+8xfC5nCooBeChNP8uDqFdyH9hj4UeFmlRUaBDupyou0ifwJ8h+7BNuCccNzaUvGHmKO0GDuymtu2xW31NjobGKU4nHg==;Fmf8h0OS+HdQTEXgwDDv4w=="
 ---

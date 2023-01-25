@@ -217,16 +217,16 @@ related:
   - title: "Experts warn about possible misuse of new AI tool ChatGPT"
     excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
     publishedDateTime: 2023-01-24T16:44:00Z
-    webUrl: "https://www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
-    ampWebUrl: "https://www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    cdnAmpWebUrl: "https://www-weau-com.cdn.ampproject.org/c/s/www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    webUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
+    ampWebUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
     type: article
     provider:
-      name: WEAU
-      domain: weau.com
+      name: ABC Kcrg  9
+      domain: kcrg.com
     quality: 59
     images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/uz6XoFAaC2l0n7Y7TH5gYDevJRg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3RAM4CBW3RETVA7UOIQMSRKSMA.jpg"
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/rHS0lidZxCLKaUAjmNq43_mZzUE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIYVSTOR6RFGHOTXVJOUDCHNUQ.jpg"
         width: 800
         height: 450
         isCached: true
@@ -444,6 +444,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
+  - title: "Will ChatGPT, artificial intelligence replace financial professionals any time soon?"
+    excerpt: "Will artificial intelligence replace financial advisors or insurance agents anytime soon? The consensus is that it won’t in the near future, but AI can provide some assistance and a little bit of fun in the meantime."
+    publishedDateTime: 2023-01-23T19:12:00Z
+    webUrl: "https://insurancenewsnet.com/innarticle/will-chatgpt-artificial-intelligence-replace-financial-professionals-any-time-soon"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 30
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/01/MicrosoftTeams-image-106-900x472.jpg"
+        width: 900
+        height: 472
+        isCached: true
   - title: "Google’s answer to ChatGPT could make its debut in May"
     excerpt: "In their paper, Alphabet-owned DeepMind Technologies define Sparrow as a dialogue agent \"that’s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user,"
     publishedDateTime: 2023-01-24T04:53:00Z

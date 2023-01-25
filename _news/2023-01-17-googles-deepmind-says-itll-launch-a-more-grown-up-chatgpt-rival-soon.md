@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google's DeepMind says it'll launch a more grown-up ChatGPT rival soon"
-excerpt: "DeepMind has been a pioneer in AI research for the last decade and was acquired by Google nine years ago. However, with ChatGPT stealing the recent headlines, DeepMind CEO Demis H"
+excerpt: "Google subsidiary DeepMind says it could launch a ChatGPT rival soon – and its chatbot promises to be a safer kind of AI assistant. DeepMind has been a pioneer in AI research for the last decade ..."
 publishedDateTime: 2023-01-16T17:10:00Z
-originalUrl: "https://www.techradar.com/news/googles-deepmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way"
-webUrl: "https://www.techradar.com/news/googles-deepmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way"
+originalUrl: "https://www.techradar.com/news/googles-deepmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way?ref=futuretools.io"
+webUrl: "https://www.techradar.com/news/googles-deepmind-promises-chatgpt-rival-soon-and-it-could-be-better-in-one-key-way?ref=futuretools.io"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "M79RYN0I8mlxWr9JuIiPMM316xQvWst3fnceCBHxCN1QtY+jITrt+g4FLoMl33aOJrqOPZqMQtc7dAcokCii1NYZwdDcyu4MYfsqe3dhUeKx2U523bqujN8yKL4UbxRKqtUPFlt2CwT277ufPX530OJf9HDf1XARrWTQkjjA3StNgwQHpzClKq9a7PhbBuU7kVwyjI63Kn8wlAxvHaa2y7r5uPrOBzlC4Km+VTafzvGpJBf68pJrDZXzg3DWh6TZpEBzc++c7oK5gYDkOMlNBU6NhOaEqDTMxWocTJJkVO4wGN9b/MJ+/LbL8jUtDALEMMl9ff57OKlOZ4r5H/0vAGXf6Atw19TW5JyvDt8MDm3m8s94GUmj7rRnBvk0yV/OXpbAWyR9T80bf3KuDGG1ixTzfWaVQMy24cOK9APxA2VerXvMPYy7O4JFwPdPScUnooFHg3xG9ZpGOhcrGQHLsCuTZ922+UR+xmlRX5hs/DNYNse/JaXJxFnX/M/bBkjnOw5knGjWab7SffTK4xImsw==;R0JfVcpAenY0lcGKK9yGhQ=="
+secured: "PEpoj/ebyR/IUjDnkcvOPROMi7G52vrco2/dPjHy8SKTvQof9n1Krf/Fjzm+bBI2HvHbZb1U7yHEVk0GNiiwGJiQOhQgmU1g44JajRRQ6RXLofG8MZVncTEWguvNHNpoRrft1NcwO9LhFbMuxADWaLI++rHlSsCRsH9RqkYxSJHc6Mrz7fIQDzW/QDLPHtzWPjFyq35HSAPJlnas8LaBtugUjiRu67O3Ecl3rLDhxTIqX1844GJf46MTQX4QWdHAmQYN11KHraXKiOHg/u8SEw23oULSMbEIqxVTchlRVPUPcOPyWV/n5PyHw1bQ7g/vKIc0h3VwYm1IRF872pNff0sb2poPMym7O0M+Z7UI8TM=;NTfupS8kJ9dFk7OWMNWc8w=="
 ---
 

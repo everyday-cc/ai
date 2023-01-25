@@ -29,7 +29,7 @@ related:
     provider:
       name: Artnet
       domain: artnet.com
-    quality: 64
+    quality: 66
     images:
       - url: "https://p-news-uploads.storage.googleapis.com/2020/03/de-Bre%CC%81cy-Tondo-painting.x7ee14c4d.jpeg"
         width: 1270

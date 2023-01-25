@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/jan/21/rentokil-pilots-fac
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Have you seen this rat? Pest controllers use face recognition to track pesky rodents as population in Britain hits 150million"
+    excerpt: "Pest controllers are using the latest facial recognition technology to tackle Britain's booming population of rats. High-tech cameras can identify individual rodents by comparing tiny differences ..."
+    publishedDateTime: 2023-01-22T01:15:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11662487/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11662487/amp/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11662487/amp/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 47
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/01/22/01/66828415-0-image-a-75_1674349507452.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Rentokil takes on the world’s rat problem with facial recognition"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Rentokil Initial PLC news every morning. You’re never more than 6ft away from a rat in a big city, according to the adage. Now, the world’s biggest pest control group is planning to annihilate the pesky rodents by using facial recognition to track their habits."
     publishedDateTime: 2023-01-20T21:00:00Z

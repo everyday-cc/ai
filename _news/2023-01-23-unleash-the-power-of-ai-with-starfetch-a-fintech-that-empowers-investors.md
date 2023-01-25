@@ -7,7 +7,7 @@ originalUrl: "https://www.fortuneindia.com/enterprise/unleash-the-power-of-ai-wi
 webUrl: "https://www.fortuneindia.com/enterprise/unleash-the-power-of-ai-with-starfetch-a-fintech-that-empowers-investors/111268"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The world's most high-tech stroller is powered by artificial intelligence"
-    excerpt: "AI is everywhere these days, and the humble baby stroller industry is no exception. Canadian stroller maker Glüxkind is set to release the world’s most advanced AI-powered baby stroller. Originally unveiled at this year’s Consumer Electronics Show (CES),"
-    publishedDateTime: 2023-01-20T10:23:00Z
-    webUrl: "https://dunyanews.tv/en/WeirdNews/691747-The-worlds-most-high-tech-stroller-is-powered-by-artificial-intelligenc"
-    ampWebUrl: "https://dunyanews.tv/amp/english/691747.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/691747.php"
+  - title: "7 FinTech tweets you should see!"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-01-20T11:46:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-12/"
     type: article
     provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 58
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://img.dunyanews.tv/news/2023/January/01-20-23/news_big_images/691747_89986671.jpg"
-        width: 725
-        height: 423
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/tweets.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "7xrVFbgayVqsbAHTq0cA56ts5tkHUqGVwB1Mqt78YPj1buYMqrkWACvs4LFymWgqhrikrL3UujZMlByrABRKxMV8JKeyZaqBmTgtyJn+dhsdlqnuONHwHbHxhQkVyPZlD5Fz/zL94BxaOfXYQCqG4GsJS2Z5D7rJjhcj4rTkGTDGd8NRvdytGBl/Cx1PkC1tEBdZL6FscoVcFf5XPAirwCQ1qrMA7dwVCv6+biNrZlAnzNf700cCWQ0VMijGe1Qb75VWD4SH72O9GduATIM73yDaqDe0T10m0xEusJ+Cs7jby92EdpPaubvYgIt/iUPDkCeclQy73DOme6Mk0JzGBQsDoF44Qh3XbSvMI/g3wHei+UVCcpLnBqsK8M50OVQjwsg5uGxnY6Y3cpZS9KSJ8po4Liii8zfWWeorf43S/kLOkSjnu2NnFE7Gr+K3dRaC0rFJNicKYP51Xit/a5R1bvSXd4CZ6yZB5+7XItbp3uH6a23c8/QimV7V8jjyIim5fC63Yw/JXVDBMCu5bOsOFw==;rybEtaA2e5/VcETDsSTe4A=="

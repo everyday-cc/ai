@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-24T21:43:00Z
 originalUrl: "https://www.ocbj.com/technology/aondevices-chips-activated-by-voice-sound-motion/"
 webUrl: "https://www.ocbj.com/technology/aondevices-chips-activated-by-voice-sound-motion/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.ocbj.com/wp-content/uploads/2023/01/Aeon-Chip.jpg"
@@ -24,6 +25,6 @@ images:
     height: 950
     isCached: true
 
-secured: "H8GrVRRm0PMC7H/1/oRqftR41wCbcqxCyqPlDpNex+OEfvr5A3TVM+QhIb4JkZM8THY9BPuGGf1/u/sRcKc9tdaAWyOAGd3ayM4jHomzMoZKUaq7NOCl4S3VxSVTkzvn0zbAQ8FTy3y56kvb2cUE6eXmC4rBEDyz/fxDY4oEnxeEPYtbJDct86nCQMwNIA7D9hXNwch8hTTZ8KE15hhD1TEWzmzsctX5eY89lCJNg+ZtVHcVrjb5WNAJS37xfT8n4nlphebLNlDegGLZY09wNvAOp7rspWqIlzQuqdUaL2i5QfN5tbpUMCTCCo4b4USj6cmzvaNkMSZHseb76xgFshAU3gLMqk13XNLlFRiBvGI=;QbUv9lKuYAs/BzWx7C76rw=="
+secured: "G2kjPy6E3cMMGN43RJL1PyRR+5JvvRDmQvZnkRWYpWeH5DzrXq1B3ovNzlZar3J7/3RHYXPnsEXgFhWIFA/OyKePyo2X5VPePcNmrdLSnpUrcjWM5jLpzYYSDswbweVNOxQ2z4SKuAB0TMFKLqIuiT9MqTYvoajUe3Te4TyCCjtvm6RrwBuZgMsnjmXQ6gu/cVTWIjniHtmltm28ru+3/862YAM0XesT6j7CKyxtltKNDaKfcjLjsp++5nQh9M9D62PgUVIvC22djbAgGBYMIhRgyagMqlf5owWAbC1245X1ehUkXvPLH/uw/LSH6f8ArYb7OWukpz9Ue6bsmXpBYvFukUGGmZqoWxMS+kS1+P+GJ801SZ0gwnNJX1+2SMrHvv4IiIniO2FHRyVxIYDQAXBH7qSNA2lDYYOpKzuJKOBHzPsikNsLPdjjQXUK1m6U47yD2pDtrgp5k6XBZPmCJ2CPGIVQ8CwhcAwj6nxoO9sAJxYBPC/i//swcO49A0WYyl7vn11hc3fDm9nCrUO/ew==;ypdR9xfcz/IMz2rZnd2nQg=="
 ---
 

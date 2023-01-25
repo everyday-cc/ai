@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
+    excerpt: "London-based DeepMind's Edmonton office is the only international site directly managed by the artificial intelligence firm, making it far more resource-intensive to operate, the spokesperson said. All other DeepMind sites are housed within Google-managed offices."
+    publishedDateTime: 2023-01-25T02:16:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97294835,imgsize-29614,width-1200,height-628,overlay-ettelecom/alphabet-owned-ai-firm-deepmind-shutters-office-in-canada-s-edmonton.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Alphabet to close Edmonton office of AI subsidiary DeepMind"
     excerpt: "EDMONTON - Alphabet Inc. says it will close the Edmonton office owned by its artificial intelligence subsidiary DeepMind."
     publishedDateTime: 2023-01-24T20:22:00Z
@@ -86,6 +102,6 @@ related:
         height: 800
         isCached: true
 
-secured: "AHGR4Bs2c85/lHao00wfzNa8AXJxP0nw4hBJBJDvV2/hwGKGs2md6TypYlLUOix/uZn9jtyxmlt/At4NPgJQXBebijkzA3a8EYbqrz+dEsyAZnBx3k6DyyRmfuga7MBquDXmpGqbh/R6GUjORYwzk+qt/+0uE2cCd/u/JY1mb3PEWGJJcK+0u3JwaXVUXLOQu7UY3IHD84r3/NSL9J+EiSudDRfk3NthZNnvOVJT3GKCMPj6jrlDgEQ0fLHLvg/7uRXxd6BjItwhXJLggxiN6MpCa2HxKjEzuNdXik5YRchmsnINaiieKG8fusa3nIdmiP1Ak3JmSuS4Zo+5EZ28gkUVR/YGihrq8yogSgzQbxA=;U8m4EARD8W0gU62jXh5q3w=="
+secured: "lF9ipRGKSyv78htnJPgx2uvCAnTm44ZhmGxEA9+XDt8T9iuDX/bKu0sfW3Ijd7ib0MzVDSfrLvKZq+JMvKXkL86jQCzSAtxrFNBrAWIqxLIQB4Bcna7iymO0j18LdY6LfwArkpD7/7moXbPS5EJN+3lYdIoARibtSDxkOYOD1us+UPzTEgTXsAGfpoL2gLFlTgelQzjmlTlu6BKMMxhDVSzpbelC5peBvTz+2Kc3fS+Ai1K3y9rxWrKy7vLmCq6ryDsCtWJjWrUnDrjbthyI536y29uONaLolzXjb2pbske1AswFVKnPwElgrcqZhxMNE2N1/iF0i3J4KIQZc+5eh+kTCwUojEMXDMIY2ua+af+T5MsRxlWH7RO3hRkcL7R1BsPamrES8duRgOEQ9qk1fhQu3kUps1j3d7+Po6Lnk7cHMFIXEENoNOAZ4217h4tKkbk4HY5NAY7xIE3YJJv6HR/HwAx/xhTGOZwYZW96RTysFdwp9XfncGwCSd1rUq1YNWz9ma3xIjvpUOBZ1D/NZg==;nhbOi8NTCLkgmHMFm9I2Kw=="
 ---
 

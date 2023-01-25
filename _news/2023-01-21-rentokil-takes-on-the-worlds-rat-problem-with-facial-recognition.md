@@ -35,6 +35,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Have you seen this rat? Pest controllers use face recognition to track pesky rodents as population in Britain hits 150million"
+    excerpt: "Pest controllers are using the latest facial recognition technology to tackle Britain's booming population of rats. High-tech cameras can identify individual rodents by comparing tiny differences ..."
+    publishedDateTime: 2023-01-22T01:15:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11662487/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11662487/amp/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11662487/amp/Pest-controllers-use-face-recognition-track-rodents-population-Britain-hits-150million.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 47
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/01/22/01/66828415-0-image-a-75_1674349507452.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Pest controllers using facial recognition software to kill rats in people's homes"
     excerpt: "The software - which Rentokil began developing 18 months ago alongside Vodafone - will track the rodents' habits to help decide how to kill them."
     publishedDateTime: 2023-01-21T13:40:00Z

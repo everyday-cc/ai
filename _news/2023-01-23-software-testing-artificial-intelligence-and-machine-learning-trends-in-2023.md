@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
 webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Learning to lie: AI tools adept at creating disinformation"
-    excerpt: "Artificial intelligence is writing fiction, making images inspired by Van Gogh and fighting wildfires. Now it's competing in another"
-    publishedDateTime: 2023-01-24T00:01:00Z
-    webUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
-    ampWebUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
+  - title: "2023 will be the year of AI accountability"
+    excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
+    publishedDateTime: 2023-01-24T12:00:00Z
+    webUrl: "https://www.thedrum.com/opinion/2023/01/24/2023-will-be-the-year-ai-accountability"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
+      name: The Drum
+      domain: thedrum.com
+    quality: 39
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_c1a300d8870140f595152edf1fe2c773.jpg"
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/637022/aiethics.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
 
 secured: "sO9qW7bGu0ClwqERYQTk+122SyjpZ/WiG8WCjrYvmuNfLowqR1EI3kHLRwl3gpP/jLIUeidrCeVJgB22v+B5gmPF2br5ByMOH2dOnC/k3Hp730yHfL4ODiQcTBLjLBZ8S2OguwYCrIHCr5nNVVKyT4ZnKMN0Gg8U/RnxHRXN183WTXzpRaRhesAxlu/ZE43gBo4hv0+bib/bxVvCw2g+khoX7VbPcCML0NkaPWzbnGbTIlvSTEfbj/wLpqLjd+QkfI8TOmhewVD/s3MqBCYkx4lhRj4bprjX7PsdTuEwPtTMM3iud8GmT6GdmbTmpny7K8UJiV5Ih3Dx4OvFQp0ZMkZvgAM1PWHVR+dx0w/9lVDdPAGCkn9dgNsJmm2ATyqgAkDxDjgVb/Zr3UEXgxiPmEsBMsKryON31d0JDr6ITTRZplLAYQzGuf0KI607jrtj3K4HPk6bkM9JPqI4v0KUCs6OTCREkpSHerL1tpUXDdkSl4HeTiPYfFOWmbdqpnFIrLK5YsMI86DUyswaXJYRtA==;RdDScOtF5Gunc9oc8GwxVQ=="

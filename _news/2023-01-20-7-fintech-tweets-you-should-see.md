@@ -25,54 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech technologies: Harbinger of financial revolution in Maharashtra"
-    excerpt: "Finance Technology, or FinTech, as it is called has brought about a whirlwind change in the working of the ﬁnancial industry sector. It is one of the fastest and most adopted techs globally. Finance"
-    publishedDateTime: 2023-01-20T10:38:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-technologies-harbinger-of-financial-revolution-in-maharashtra/"
+  - title: "Unleash the Power of AI With STARFETCH, a Fintech that Empowers Investors"
+    excerpt: "This does not mean that AI can replace human traders. Financial institutions can improve the effectiveness and efficiency of their trading operations by fusing the analytical prowess of AI with the imagination and intuition of human traders."
+    publishedDateTime: 2023-01-23T14:59:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/unleash-the-power-of-ai-with-starfetch-a-fintech-that-empowers-investors/111268"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 38
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://gumlet.assettype.com/fortuneindia/2023-01/a0a70a17-4f56-492d-9a06-7237e4b7c7d5/unnamed__21_.png?w=700"
+        width: 512
+        height: 258
         isCached: true
-  - title: "Top 10 fintech disruptions to watch out for in 2023"
-    excerpt: "From new technologies to tough regulations for crypto, 2023 is already looking like a year of change for fintech."
-    publishedDateTime: 2023-01-24T12:10:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/top-10-fintech-disruptions-to-watch-out-for-in-2023"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/b9ea599af5e4cdf45bd09a2efce17d09:2d2218789124b00b58b28baca6ef5e04/gettyimages-1130023029.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
-  - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
-    excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
-    publishedDateTime: 2023-01-23T19:30:00Z
-    webUrl: "https://financialit.net/blog/fintech/look-top-six-fintech-trends-uk-2023"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 4
-  - title: "The GTV of KSA Fintech Market is expected to reach USD ~100 bn by 2027F owing to major government initiatives and technology adoption: Ken Research"
-    excerpt: "Fintech Market in KSA has various players ... The industry is moving towards digital advancement and technologies such as AI and ML to improve capabilities. Other government regulations and ..."
-    publishedDateTime: 2023-01-20T09:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30497615/the-gtv-of-ksa-fintech-market-is-expected-to-reach-usd-100-bn-by-2027f-owing-to-major-government-i"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "LZy50m7SXofwu9MdYdJ+cl9qg9jF8gmDkr1hlKIWB6jYB7Yyr9wl2ZJ35Mc9LLjp/S6rnhIOBPyxNeAyP1vNoauXl7a2aVZzvVGUx8fua27OTjeReokbnpHuKd3Wr7NsjWTPbVgBeMgazLISCmMzgCoDTdpeQJ9QxyEcFvqleHD8MMFG2iGbTFbcS0xJ2j1AlRfKMFHv+YH2GpK0yqrhxW7jv6quzU9tRvOQFTF07U1nte63aQPAGLRhBJQGE93Syo2EgI17NpahFG8mLLJRI47XNsboeS6C/AnBiFr5pNBDYgXEturYbMWoVPwgGNiIQaTVP6j+kFlKgMfV1fuUkvZMNBUp0R27Jy+YNJyAKsDsjHMjtYaP82Kq9WdRPGTbErletWUIrbvI2f2l6BlT6bG/rUlhqEX1fXhpJUNlNkOK+YXy7Z35XSX4s3U1aOK11Gz7Oilwqr9z1G5UYQnUlSQgPIMdXRnC9LFo0drzOumzntRnwx/LRC1WD5Vpe6yXy6cOQv24j1idAHRywhvBXw==;La1Y41F/R4Xo7FVSJDdcOA=="
 ---
