@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sentifi"
   url: "https://twitter.com/sentifi"
-  followers: 4739
+  followers: 4738
 
 size: 51-200 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "3V1pS4vLz8fRxHtOBfZbFFAVxS9x6POc4jVpBUHC5Ssb7vX1PU91Fis/jtr8U7ddSVAoQWT7KC045heizAKMbcWFutDUZRUSrc+LhMJArC45lxuCxS04qx9YuMPcE1LSiOLQHUf5xplFN0+XIUi5Gw1ngYH+bJC+nVVQJ0SboL+Ew0oMz1FKKQkYS6ZGe3aee2tBccRP/KixYm838amin8KOdvjaiocSvXHLDUryWoDAQbk+blyNOrrFhwNPinfCjm3Nl13y4eFSuZmA7jl4U0SAeo3n6xkbPLUVjrJTs6JqQ+sslzY/89+AgWRBs/a9Gk/IKzB5+JcAL0kG3Hj1/cZr/9FI6CrzXcDTrokPOnuDR2Y9Tvzf8kM04nTZlh/EFMq5+o8PEiXpzN9a3Ga5NVp92kODt1c9Rs0So2tTE3E=;dg2ZxU9Q17noQmIHVRLcQw=="
+secured: "9WQu/4R1rnugm9yX9QrsYtTETOSOYHTg/9GWzFdI8XJP8LjhbOpLKYabI8CZvxhUr2G17RDnPZkUev5KsNn7PFAjZZU2JSWJGxzLgfSys6uTMzgDFUKJ+GoIn5IHRVQ7hP3BPPabdWCTXoHmPXTPrlUV1xnZve5fYWLp4UhGtMg5JLKryh1dFKiozyJxqblSE5wDrB7Jtgv5n/Sr/Lxbkjpxw7ZNyEVUglGmVineuRsqgHWftpKGPHPPWzFPw1R3VwcpzQB/sI+ZQ1/LVGrlKiLWCENICHQ8jSZSCDijxLgfQf/u2GrRaCxFuRwVSHZU2ptsSBKgWej5ybgTIqYS5ih1yMbE3N5T3nb3IujIAI4EUWKZdlsrripIQPM1S0L0rp0N6HH6nvE/4X0OKPNbndtWHBk4RSSuiylLFoxWP6Q=;jJiMKyXW3kUYyaqoJidwAw=="
 ---
 
