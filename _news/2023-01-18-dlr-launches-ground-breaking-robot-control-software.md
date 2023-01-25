@@ -1,26 +1,20 @@
 ---
 category: news
-title: "DLR Launches Ground-Breaking Robot Control Software'"
-excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for ..."
-publishedDateTime: 2023-01-17T21:12:00Z
-originalUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
-webUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
+title: "DLR Launches Ground-breaking Robot Control Software"
+excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task."
+publishedDateTime: 2023-01-17T19:43:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/17/9744604.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/17/9744604.htm"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?486104"
-    width: 352
-    height: 249
-    isCached: true
-
-secured: "tSlg6AZJ7El9CRMzDv/B/eMLZqchfH24n6274Mo6ucvnfYegSgoSQlzyvYvbDsc39g7TFtdWMALjTKqaIiQsbmFPdCgFb90CRIZpRwfIrvOvI1V7qdwchfFwrfh87d2hvUtmoSRMPI7wy4WGa4MfdlXFe1JMlpE02r7cfYXkpIVFqJVoPhr/pHLsJLtTv74PdxQ9FNRnAoRTPcSxJJukxwHRhkczmMf0lzJVca3m/mXQagxbYZt9TxZTmBD2VjO80jhE9bdq26zLa6xQaKuNtO1OQwFZbncjH5PRBuE/IOcSTgtneQEP5jiS1eHuJTJYrD6oc3ixqKw5ZYMB+9OPA2022VHx6DJTuPxqfx5Yemc=;CAT75jwBghfy7Ci0jygkZw=="
+secured: "frpCAnOsBe7s9WR/1nNkmw7nPVYwNIq7BOq2ytrLX6cPGzKdZ15KcNkqvkyrStcTZRlXuDQ+u9OeichQkNycXOPHwc/iugVjWvi0d+F5KsZuseqSjm4DSeeE3iJrChDMwC5Fq3X2BdDBv4Ia8/zXno9Yk7hZgnkg6lMu/AQZQtiGYbhn/xHssLBvOkrnw7twFLjjGzOkFbIEwbgn/SlKLcZ1Rwbs+/rQ+7xQdqlK/mAVC2WfhRg2xVssaFcXRcSoQK+EjQgaRY38XjaOoCOD2GNbSHfeCqbxW3JIz0LVd12o332bOx7voShV08AM0qr8uTsJy703kSL8rZZR376FuiS62S6teWvTk8YgAuRbZYM=;FHOWuyvc73A0AaI4Olbhkg=="
 ---
 
