@@ -3,18 +3,24 @@ category: news
 title: "Tesla engineer testifies 2016 self-driving video was staged"
 excerpt: "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified."
 publishedDateTime: 2023-01-18T16:45:00Z
-originalUrl: "https://omaha.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_2ff3abe9-8ece-5e39-990e-82531c05f142.html"
-webUrl: "https://omaha.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_2ff3abe9-8ece-5e39-990e-82531c05f142.html"
+originalUrl: "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html"
+webUrl: "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "o72yOBIOFXOGKCydDwzK/ruH+5aJXhGJjK9zT8vw/9LoGelrJCNIWjKjBngEupqXtjY9mcCAGAVLXxwqP02t/iBf4VEKT3NnLMaiSr3gWkvGAarvgovy7Qd5hMfRsKJ/MlDx1fRB93Y3kX2tvZ4W7ZkDFpo6t4jZpbji802GckSyhNTYnCmTZJLLVrGrrGKqoxZDVGv0mOglj8UwwB0jpcOXUEYKXlr7lTtMA/nRmH9h2JxyzQUbmUxThFEMkDQ9798fherxfOuhiZrMiQDdDgdpi5DL28bOS9mkIXa+ZBRTPs0E3n/u3Y4qukwLhx81NlJ7Q/0MeAt9s6idIUjJFRTYAI0v4FjepLhOD1uUjWDYhlANQpfRqzthtRQ8Yp0rea2q8CuxkpHThNlHX1sEaO1Ymi3FcUzlNestt6DeN1dMQK8U+MIWhvkkAYkLTZml3Fv2jtUCfAjVa99IuxQ809SVrGmdzEYAIbBaWN14w0fUzMAaS664a911PXfjEfVZ6PtV9zJkuYjOL1m7wN982Q==;ESMbua6lMdNSoV819LLEcg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7c/37c9fd77-0ec1-553b-bc13-e3827518db0f/63c8200c3b33e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "RpzgkrSvQpUyDU1ycqwTdnF/YYQIMaw2oyGm1ePrUNef7PXBkvH4pGvT6CMn4fP67G6DTFQBGpkf+HunklXCyKLiCULnsEdE6DfrXOIEc2b5jIbjyJCmDB8YujFVO3qAv9dC1LQE+wJ4mozSYMLGHDPRF41eYZiPTvo0lQXX7e1migxCjTioPNnclO84mj1pE9paY/I97bESKNjircdkdDXrFX8Ejh0ihaU5BfQlCdJLl4E48zMq3TpqjpxtQmrNp/tJLDkY6W4/4pn+zqDoE5iTgJm00nd1UIgQ9GrxoD9QabFNJHdJf2RyTnrLkdUznYugwxllKEcG+lkAVpZuzoJjIVx1DJTEN06M7o6HFq8=;p6Z05/O5/R+cSLgY/S5mNw=="
 ---
 

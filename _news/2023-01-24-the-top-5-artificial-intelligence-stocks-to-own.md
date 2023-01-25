@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105468147/The-Top-5-Artificial-Intelligence-St
 webUrl: "https://menafn.com/1105468147/The-Top-5-Artificial-Intelligence-Stocks-To-Own"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 375
     height: 250
     isCached: true
+
+related:
+  - title: "It's Time To Look Harder At The Morality Of AI"
+    excerpt: "Are we giving adequate thought to—and building sufficient guardrails around—AI's impact on the world's workers?"
+    publishedDateTime: 2023-01-25T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 652
+        isCached: true
+  - title: "2023 will be the year of AI accountability"
+    excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
+    publishedDateTime: 2023-01-24T12:00:00Z
+    webUrl: "https://www.thedrum.com/opinion/2023/01/24/2023-will-be-the-year-ai-accountability"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 39
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/637022/aiethics.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7e9vgCMokJT42nJNfcOCi89PCnTAldlY+fD7i7dij5X7RFd+yNaXow7j/fAYhOY7MfYD//srmGwFpWcFK1OlJpWnlmJJckCOMLU9aKftjuo/i2dUR4BOx86WlnjhJQYWzk5UcJxmdGcISBPlfy7cJ2akgN3KB/bxNrVTKW/auEAER0TojrggMd+eQc0r1y/pAtHi93qbrs2G0PwuEKWayXRHcWo/ThoJYnFWMAKmehr2cMjkzOCA8CIQVrgn36LrYODPDyyWiIuWkuJsx6ZjmruNSngUGLSLW1/N8W3+Eb3ptWwwsPZlJB44UnnQN/T6YhikXpvs+jb1Dm5Kj/AR4RaOyLXroaRPhmibTkP7KCQ=;GMSMt15Dyt0CBlhh1zUZiQ=="
 ---

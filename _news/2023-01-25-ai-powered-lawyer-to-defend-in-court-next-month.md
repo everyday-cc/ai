@@ -2,26 +2,28 @@
 category: news
 title: "AI-powered lawyer to defend in court next month"
 excerpt: "Artificial intelligence is being used to create art, answer your questions, and write essays. What about an AI-powered lawyer?"
-publishedDateTime: 2023-01-24T20:29:00Z
-originalUrl: "https://www.wxyz.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-webUrl: "https://www.wxyz.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+publishedDateTime: 2023-01-25T08:37:00Z
+originalUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+webUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+ampWebUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
+cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WXYZ
-  domain: wxyz.com
+  name: WTKR
+  domain: wtkr.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/9c7d701/2147483647/strip/true/crop/4121x2164+0+292/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
-    width: 1200
-    height: 630
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/6025408/2147483647/strip/true/crop/4121x2318+0+214/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "b5DnFvOKsOQvU4Ow3Tc+4mKCBeNAqd0rp4aK2JGQ+05wRUp+Ib49XZMXWughqV3uG3GCVO0Tcxne9srGLJsQ+tjYRP15l/vNeAJ8wmmZB3XMo3xvMCpnWoTKMBLoQUrItA4w7uRO1TJc0+LuXtpGutn6NXoU+PdcOamMLCyp4OPpygDuauFeVCWBKB3ax4lodTTIRU3HYjD4+DiaErqVHEe+y9n2yWH5KerGe/tXQKsRCA234A51nuUfRf9E5i4sJ2SF4pvD3k1gM2eEX/eDqiHyDayaPoUaVTEnT0Wu1cde6A0HsILO+U4juJPifrTIUBfltnE63j/IQN7wzcmWc36SKY4uue/ewbGOELDDY1o=;yVgQZLpSOdo8B0D5VXb+FA=="
+secured: "XWCS211CabD4d6giB7HGwwpF8hTyEs+QSEOEd/LIlotc6EEZdqRhXKJsMnKN9dHoZy9Rts8c9KOjRDItFbjyQfND8AxoxU70bY4k9fnqn/o+ryCT/mCoW5LZ9Fsv4wiPvf2HSRsNiDEbcoSIpfmWlWsTp7tncoKEjN+Cs2GTJVqUK4h0IC51Lep9cCfwEUGQHMhcKnXaZLs9lxsJUCEJ7Jx2ek3Qi22SbYz7KB/hnhhgW5vPfYc9FRwgK8PWC4eSKGAlLMSfECJbjjgv6SrGOgbm1rFds6gjzkeccgGoi81ZK9JTEUfB6Rzqng0kgaZVny+6E0DB1JLo8OLh2IPjYfaLkluQfJZlgdSBVHTc7NY=;JXZOSIow2b9eXny1nt3QGw=="
 ---
 

@@ -28,15 +28,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "Single sentence that could end the debate over an Indigenous Voice"
-    excerpt: "The most frustrating thing about the Voice is that it is an idea that sells itself – frustrating because at this rate it’s going to have to."
-    publishedDateTime: 2023-01-20T19:33:00Z
-    webUrl: "https://www.news.com.au/finance/single-sentence-that-could-end-the-debate-over-an-indigenous-voice/news-story/0679bf5b9127d1f4a182ffb128e16d9d"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
 
 secured: "kHIupC3AgIhx9TZban5d8+ysIkBYG0wta0iCpK88wkplBZXQ3frYBygFqjynW0zywJ2Y5qJhBx/i8JinXL88CndWcI8VDNrImE2bJ6F/zbKVcE9T/1fywLU64I8o2C1UP6azenTZQrGJBt28qinrIZUPZxPQsfZDfODAzu28dBj+S8LGgG96cGPTOZqTA/uSF6qKfTRcDPEf+mhyNBXtb1kvoTdF+PaIjbUpnTnvqmFNlmRro3OiJG6i+yHovN5zqZgxpkaUkvEaU3XaqXINWu2AWBz8Ki8YZbvvBdaH4UpOGKVM6sb4AxnLu4aMolzkHubZAdIDOFE7fx3CrLrcaRruK3NHH1Ug/Dpd6W8gkX/xcUT/3cf4JxbPNnEO5A5B+HWikNr/4k4hndUO6TGB2xztU1dZe+iboTrc+CaUHTyFAV+ypMRSXSSqWZe6PRyewhs+2AtHq6rts8u7zKeC0I4OpXFLKO60VV5HQjpbLc+gl7/XhKmaBqyYOfJEZj897fuB2Kv8jXMOp5MY+tX6kA==;3HSjAw3jxdv/c56V0BMG1g=="
 ---

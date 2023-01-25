@@ -49,15 +49,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Musk Led Effort to Exaggerate Tesla’s Self-Driving Capabilities, Documents Reveal"
-    excerpt: "Tesla CEO Elon Musk personally dictated language used in a company video which, critics charge, overstated the capabilities the capabilities of the company’s Autopilot driver-assistance system. The re"
-    publishedDateTime: 2023-01-20T19:03:00Z
-    webUrl: "https://www.thedetroitbureau.com/2023/01/musk-led-effort-to-exaggerate-teslas-self-driving-capabilities-documents-reveal/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 14
 
 secured: "/Kp9i3j+d0g4QwIAIr4HzlQMxVjl835I3aFZRWgZrV4dgG8LHNn/T4f8MmnKEZ2Wvdc2JvYgQP7YOXShFvAzBA5ucAcCHsAFfqRngfcQH4v/wNjky53zT8CsdieAZx+cE+9AyTqOv/pbRP4YBnGmeqAdZML/1hA8Ct/Rs9S2xUJetNUlN7tgTHjHzNJ7610bngsXu5qjCCdr7tiHI8MbV0lIzSMqb8Tp2sc+5Z1q1Mf8wsrNYSHt56lP63DCgB+3KHAPcp40vnWBT9DJzjFECEyGlrOLDoW9SW6UBx2uzkHmfmrFF4ChADtRIgUiKQfg4wLswLFulPTFpbLpM5qTmI8HK0Z4++/FaVDLu/6EJvo=;cRHIJbsG+SNQD0wawc2k6Q=="
 ---

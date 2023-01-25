@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-25T09:27:00Z
 originalUrl: "https://dailycal.org/2023/01/25/grapple-with-this-new-reality-berkeley-launches-new-artificial-intelligence-project"
 webUrl: "https://dailycal.org/2023/01/25/grapple-with-this-new-reality-berkeley-launches-new-artificial-intelligence-project"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://dailycal.org/wp-content/uploads/2023/01/responsibility_Jonathan-Hale_ss.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1160
     isCached: true
 
-secured: "88FDC7+Uc7qAJTZCohFBzRNGfw9/snoLHc6ghzepTcUALIiLBihHFmydqTfqJSGo5idEuCpHWpTJt4oGcVVWn6a4Z7wfeVFU+ZZDe6nQ/+epbiLqmk13xyl1oNB/tl/eek3mpRGNKHEpqZ8vMedH6qBqguUD3mb55X3C3ccR6Ro8dnmhuQJV01bP3u/aOZk+F+ZCWnxsIjOKY4eXSU7Yd7GCGfJuAEQ4RUF4JhEjyIefu3IOmfEG+PkaGV4I9jxCgHsKDY2CyHVJIlFvP9CEyMov2tgakOfrF58RFKcYtFtyFtAU8dny1y7Fm2WWe3nWWjbBRXeKcfv+HsJuWs/ecmJHQ2HavD5qdL/xvo0X6g8=;xqosaL6SlyULP9dXAcRqSg=="
+secured: "otulr4351KqEVpEH9EODdp/sWyQHvagEWfKZ621ufJduZJdcC+Z6B2jWMUoB8JhAe3nxZCHZXd4CGi5D7Wb4hQMaYF65eXCftJrDijWpaBT8wsBesQQ7La/3qWrXTckv7NE1GCo1afKiftIoQfHs9bz4nZs4ybmzDauQCvd5IBY66tzdhOM1e033J9lEfvzUmWL+YBiNp5hAUJtA2CgCCEP7FK6sKGs42tV1KKqGn//rPCnXK1/l7HgX4KFRanFngUSqx6KIY78TybT4i7HZxPfNAolBROpHh23kncI7WLuqzaWuGQlHHcUOUI5k7NyFc4Gju8ywhd5Q3B++WodJ2l7QBo+cXS7ZX2pAYOpyPzsf0TSTW1MX22y5YEr2pLL3UZo5OqM0z1tL5HpEPuhQTeH7rXN8tYJczQoc/OTvkjsZl69EzHkDGgblxGz3yw4uhhjjzJaNrYLQ0HSM5sjyif79bqaL61AAgz2IJjW1pVS/2dq/oMrJ9rXkgBBu2aYUhm0eMm6TxF7HoAH/ezad0g==;Qr8cZsffQ6OfP+14KcuCMg=="
 ---
 

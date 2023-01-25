@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Single sentence that could end the debate over an Indigenous Voice"
-    excerpt: "The most frustrating thing about the Voice is that it is an idea that sells itself – frustrating because at this rate it’s going to have to."
-    publishedDateTime: 2023-01-20T19:33:00Z
-    webUrl: "https://www.news.com.au/finance/single-sentence-that-could-end-the-debate-over-an-indigenous-voice/news-story/0679bf5b9127d1f4a182ffb128e16d9d"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
   - title: "Voice to Parliament comes into sharp focus as referendum turns increasingly political"
     excerpt: "Anthony Albanese is returning to the playbook that delivered Labor government, but it remains unclear if that will deliver constitutional recognition for First Australians."
     publishedDateTime: 2023-01-24T18:58:00Z

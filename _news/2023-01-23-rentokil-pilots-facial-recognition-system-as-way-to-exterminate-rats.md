@@ -65,15 +65,6 @@ related:
         width: 860
         height: 394
         isCached: true
-  - title: "Rentokil takes on the world’s rat problem with facial recognition"
-    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Rentokil Initial PLC news every morning. You’re never more than 6ft away from a rat in a big city, according to the adage. Now, the world’s biggest pest control group is planning to annihilate the pesky rodents by using facial recognition to track their habits."
-    publishedDateTime: 2023-01-20T21:00:00Z
-    webUrl: "https://www.ft.com/content/641036f1-acbb-409b-9b78-e63c04bdf4e7"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "Pest controllers using facial recognition software to kill rats in people's homes"
     excerpt: "The software - which Rentokil began developing 18 months ago alongside Vodafone - will track the rodents' habits to help decide how to kill them."
     publishedDateTime: 2023-01-21T13:40:00Z

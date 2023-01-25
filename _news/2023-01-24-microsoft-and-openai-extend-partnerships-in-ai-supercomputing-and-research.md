@@ -241,6 +241,20 @@ related:
         width: 1566
         height: 1080
         isCached: true
+  - title: "Microsoft attracting users to its code-writing, generative AI software"
+    excerpt: "Microsoft Corp on Tuesday aimed to assure investors that its big bet on artificial intelligence (AI) is paying off, even as economic turbulence is making Microsoft customers scrutinize their cloud spend."
+    publishedDateTime: 2023-01-25T12:52:00Z
+    webUrl: "https://www.channelnewsasia.com/business/microsoft-attracting-users-its-code-writing-generative-ai-software-3229606"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--pWdYYrVO--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-01-25t005337z_1_lynxmpej0o00p_rtroptp_3_microsoft-openai.jpg?itok=qNsIKnXb"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft doubles down on healthcare AI investments"
     excerpt: "Microsoft is doubling down on its healthcare artificial intelligence investments with two new partnerships. The first partnership the company inked this year was with AI-powered pathology company Paige."
     publishedDateTime: 2023-01-24T15:29:00Z

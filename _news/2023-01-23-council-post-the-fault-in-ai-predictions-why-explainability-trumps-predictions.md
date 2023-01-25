@@ -24,17 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Power and prediction: U of T's Avi Goldfarb on the disruptive economics of artificial intelligence"
-    excerpt: "The Disruptive Economics of Artificial Intelligence, co-author Avi Goldfarb argues we live in the “Between Times”: after discovering the potential of AI, but before its widespread adoption. Delays in implementation are an essential part of any technology with the power to truly reshape society,"
-    publishedDateTime: 2023-01-20T19:36:00Z
-    webUrl: "https://www.utoronto.ca/news/power-and-prediction-u-t-s-avi-goldfarb-disruptive-economics-artificial-intelligence"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 5
-
 secured: "do36bH7OnLAMoOeKrTkG+NPzTniZB1UAfq3bfQElysNnU3kci4NMPV+T3RaiQhODfoDqhcUhbsLvw9BYC2EZKmIJKE00t3d8yTD50/nfzTBphMcDHbcHR9+6EeeCep/KcMsgwThD+GsOHbVt2fxdpBrxGgfCuxH0s0Rqd8R7JW6sOuq07fkEQKxbgo5M3WJu7QpSuFhAs30QsjPK7KbUj8wSxYcNDLLqP7BgD1rGAUPzUfoyjfbBtwgeWBthJsTrxkyJTAV8GMeOcnfeLIPRFLWaiRMoHykk2pcMi76igD0lxxdGWvIC4nHEHjevJMlb+BocHnlch3N5FZ1jEK+WjzENP5NJqRoT8A4hVVYPPCVmhVPTI6x55m8fBy7oJJ7w1hdVivJ4zuJQSAQ+tpMgoml29DcSwyJJ90JL8IYJ11lr7sycz7LBAmc1b9Qf9Uz30mUjH2Bv1z9tAjXO6mjtiWW76mtR4+wVBszxROpdBjCMpK/iDtI9QatuxxhOBG6GBh6S10veLZCLXL3aqjEJ/A==;KBuGjbWdIX6yVV78Bdxv7Q=="
 ---
 

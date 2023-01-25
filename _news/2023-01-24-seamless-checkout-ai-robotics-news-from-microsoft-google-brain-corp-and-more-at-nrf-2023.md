@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checko
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/"
 type: article
 quality: 125
-heat: 335
+heat: 345
 published: true
 
 provider:
@@ -231,6 +231,20 @@ related:
       - url: "https://rollingout.com/wp-content/uploads/2023/01/MicrosoftOffice-scaled.jpg"
         width: 1566
         height: 1080
+        isCached: true
+  - title: "Microsoft attracting users to its code-writing, generative AI software"
+    excerpt: "Microsoft Corp on Tuesday aimed to assure investors that its big bet on artificial intelligence (AI) is paying off, even as economic turbulence is making Microsoft customers scrutinize their cloud spend."
+    publishedDateTime: 2023-01-25T12:52:00Z
+    webUrl: "https://www.channelnewsasia.com/business/microsoft-attracting-users-its-code-writing-generative-ai-software-3229606"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--pWdYYrVO--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-01-25t005337z_1_lynxmpej0o00p_rtroptp_3_microsoft-openai.jpg?itok=qNsIKnXb"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Microsoft and OpenAI extend partnerships in AI supercomputing and research"
     excerpt: "Microsoft has extended its partnership with OpenAI for the third time as the agreement follows previous investments in 2019 and 2021."

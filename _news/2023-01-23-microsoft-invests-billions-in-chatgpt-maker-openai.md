@@ -60,6 +60,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "While Microsoft pours billions into OpenAI, Meta's AI chief says ChatGPT is \"not particularly innovative\""
+    excerpt: "Over the following years, OpenAI received an estimated $2 billion and built its infrastructure around Microsoft Azure. Training and testing AI ... putting out systems that make stuff up.\" Many machine learning experts agree with LeCun."
+    publishedDateTime: 2023-01-25T12:11:00Z
+    webUrl: "https://www.techspot.com/news/97362-microsoft-pours-billions-openai-plan-integrate-ai-all.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-24-image-24.jpg"
+        width: 1588
+        height: 1074
+        isCached: true
   - title: "Microsoft to invest billions in AI startup behind ChaptGPT for writing, image creation"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate new images."
     publishedDateTime: 2023-01-23T15:22:00Z

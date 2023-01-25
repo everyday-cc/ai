@@ -9,7 +9,7 @@ ampWebUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-o
 cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 18
-  - title: "Musk Led Effort to Exaggerate Tesla’s Self-Driving Capabilities, Documents Reveal"
-    excerpt: "Tesla CEO Elon Musk personally dictated language used in a company video which, critics charge, overstated the capabilities the capabilities of the company’s Autopilot driver-assistance system. The re"
-    publishedDateTime: 2023-01-20T19:03:00Z
-    webUrl: "https://www.thedetroitbureau.com/2023/01/musk-led-effort-to-exaggerate-teslas-self-driving-capabilities-documents-reveal/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 14
 
 secured: "zSGiLLPuw4giuY4tgmhE6iN/VssOU2iEheyvyOZPqtKmckhjXlnmOY3RO/kmBGo6ZoqvQA8/cMUTLdCybmvjVRtFMoW8AfgO7Ri4WXyEVcUTy0MSxubTOT7m2udUDLhcL9ZokNiPlya8gm1H1l7DPnXsD7hprLWuHwRts0S6Y7tT9liEftODllkLy94tPx5eZuXqh1iZ4aZmau36ZxTPhqB+HoLd/02pX5S1gzzOKNeWcNydWkLgk1G3e9ArzqO8JaeJUew/E5wAbQfDHBbHame2MVsSdNlPjYznrndFH12ZGZCrZ/9kPGSrWPKe9RRpnfLCzrA9H7C7ks7EhAKNCEt0K94U6H7weJyEHA+9eGRj57lDPPFrjVHMGrQktxTUydR8B81ymQqL+/qs9M2IBUXekXEq/gtgjeNKZksvld4uoQrvjfbvRM85b5xcM+ReyoGJZt5S/IPDgphhMWwTk35xZX/xa/4BacKKDzfyf3Rn8ZqOjZmORN7lSdG8I8kFgRXShV++NjAKVWnVeJaXZQ==;0JJjGaVk/t9BBo+mBQbU2g=="
 ---
