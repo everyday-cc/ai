@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/877fb9f/2147483647/strip/true/crop/2100x1181+0+159/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F8b%2F1a%2F6a3d97604bcf9dc7ede14df852e4%2Fai-finding-vacants.jpg"

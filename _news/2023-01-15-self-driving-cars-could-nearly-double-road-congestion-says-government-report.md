@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Self-driving cars could nearly double road congestion, says Government report"
-excerpt: "Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a Government report warns. Department for Transport (DfT) traffic projections ..."
-publishedDateTime: 2023-01-15T09:08:00Z
-originalUrl: "https://www.aol.com/self-driving-cars-could-nearly-090027319.html"
-webUrl: "https://www.aol.com/self-driving-cars-could-nearly-090027319.html"
+excerpt: "But the document, published last month, claims “the ability to work or relax while travelling in a self-driving car” means occupants will be “more amenable to sitting in traffic”."
+publishedDateTime: 2023-01-15T14:40:00Z
+originalUrl: "https://www.independent.co.uk/tech/government-england-wales-department-for-transport-dft-b2262444.html"
+webUrl: "https://www.independent.co.uk/tech/government-england-wales-department-for-transport-dft-b2262444.html"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
   - AI in Autos
   - AI
 
-secured: "EOzRzSrqigpuWWFkGaI/1Pd0YdFhpj12FdoDjZDbuQWG0gckfn1sfsT2HZ1QlE/f+wjDjscyvhkiBxf0jAdfWhH0zDPehVNEI5RTXBjiURJunIRIQFwUAbK9aHCFiXJxCU1YJBWhBI//7/bCILYlKMdYmD5X+BGNy5NpSp/gUS7ZAGrEY4+rBfaJeEyUMkFh6jyuoLcmyeLikNWNWxVztZN7pidbXz+FfwjgGN+kWuOxDYGZZQscOxxcAGbCS6223gmAOvZ3x0JQFUa8/xEtTOkRy2Jjg2awWkjOkliynu6vyxss3Ttpfspx0ZccodsOhAgdxCvD9DuvxEER4laoXg4L7CuD67Ow5Ub9XOagB2Q=;e5fHyy3VpmYzwsiDMUDGOQ=="
+secured: "y5SaQIpqYdGMq1+fT8zOtwES3lisfLHHZvEJ4iBnwRwUWseYRo//uYq7OrE52TbpOmuJtAAzLpEzAj6iU177a7DS/xiwhGcQPlp8dF1G4FV9vwRgcghFuB68c25gDwRZHQVO3rU2B4uM+uszsEJIkmkCp4QNkhYsteHu9wkjRnKo6QO1L+RU1jMi7/JyJ6BWqX4r8krArsr7WKb8Es7hhnmlJ1TU4Lv13eaPY0mf25/j9r8Wb7fhxakKuZ4tv+GeqkpcSANCsi52yDcxbENdWxh2pe5LF82miAfwoKKF8MZ6Y3+W2dKK5mFx0f7qNu6loFiUzOoPBJDVjOzbqysMidwgdUtpY0fOgeTsNZOrYpA=;saondrUD/AdbZuI3ZhmOeQ=="
 ---
 
