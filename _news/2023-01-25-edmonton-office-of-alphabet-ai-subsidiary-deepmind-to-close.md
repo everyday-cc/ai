@@ -44,18 +44,32 @@ related:
   - title: "Alphabet's DeepMind lays off staff, closes Edmonton office"
     excerpt: "The Edmonton office was the only DeepMind site not housed within a Google-managed office. Impacted engineers and researchers will be offered the option to relocate to other offices but those in various organizational infrastructure roles will be laid off."
     publishedDateTime: 2023-01-24T15:22:00Z
-    webUrl: "https://financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs"
-    ampWebUrl: "https://financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/f382ecb6-8edb-47a2-84cc-c21c78c10f8f/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/f382ecb6-8edb-47a2-84cc-c21c78c10f8f/amp/"
+    webUrl: "https://edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9"
+    ampWebUrl: "https://edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9/amp/"
+    cdnAmpWebUrl: "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9/amp/"
     type: article
     provider:
-      name: Financial Post
-      domain: financialpost.com
+      name: edmontonsun
+      domain: edmontonsun.com
     quality: 59
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/01/google-vw0124.jpg"
+      - url: "https://smartcdn.gprod.postmedia.digital/edmontonsun/wp-content/uploads/2023/01/google-vw0124.jpg?quality=100&strip=all"
         width: 1000
         height: 750
+        isCached: true
+  - title: "Alphabet company DeepMind shutters Edmonton site as part of Google layoffs"
+    excerpt: "UK-based DeepMind Technologies, which is owned by Google’s parent company Alphabet, is consolidating its offices in Canada and shutting down its Edmonton site."
+    publishedDateTime: 2023-01-24T23:13:00Z
+    webUrl: "https://betakit.com/alphabet-company-deepmind-shutters-edmonton-site-as-part-of-google-layoffs/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 37
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2017/07/deepmind.jpg"
+        width: 1500
+        height: 1001
         isCached: true
   - title: "Google parent Alphabet shutting down Edmonton location for DeepMind, consolidating across Canada"
     excerpt: "The company, which was acquired by Google in 2014, has artificial intelligence research centres in Canada, France and the United States"
@@ -72,6 +86,6 @@ related:
         height: 800
         isCached: true
 
-secured: "zD477cGYUWkm0twu1r4TYZkJODg0PZ7E7LQmPip/zxG9CTpj1tH0BAl2RwS4DKWw8YOCxnPYtWCDEnFxmGOv4qHAjM8F8tXgyWV4eBQzJsfUZVd3IuOurh4Lq2OmyAfA07GFDCd9Qutf0BL3AIX1WKHKKSMJIi9jI5X2UkhKmd7zw2bEZQDXQ66pSuEjIoubkz5ixVq8owZrpiZaVQcwSrmkOdj7ElftRpTFmekWadYb2hnQZzvZsAdJa3BAPn5qawxR3PGcccW6yre3Q5368yDdVwMyj44AGY+e19AwD5oWObQ4stYC7ANUtHFp7vSiNfawFKkjU1ePj1jmW6aPedDqqYkmsjTvNCHr5usH/YI=;H/Qv9GJsFgq/6iSgCbKADg=="
+secured: "N3FxqfcT+wW9jsHcK4ceaoWFRf6zv1yEEPqkeHF2IF44SRGNXdT3mo9w1Ni7kKBd//1Oqbg01rIlzpp5gwpoOUcrzHlaVgkqnGAaESnpjM5/fVeo0hZKgO8yWzCcGydcBEtvAVZMZ3ONZv4a7ogJV3w0NKMcqek+FRFs3ET7VXP6k+97HNE2bKubPr93zz+R207iJy68WTwEJLBnAaIYk7PVxii0lhA/trloKK7KsOW+I+Cbm1ans8V+4EJk5punV0Bo9S64Qz/PxNzH3M1gZpQHAHUB/1XFTQ4SLtDfaHt7E14qeQkBh5r9iYsJ8XZPj3VaftwAMJotG2q/OAqv7W9rjj4G76kmEAIkm4wfJTSUWdxJHsad3gNrIvRd8vEH9ekMk4W/FoEMmxL4vxZmHsiX+wc7+Ydr7fJUnVu84qNT6RmW1T87+G4L9Ggta/SaaU44gSCNcRB/iVsPwRnVfZFKDpDqWKJQFrDySUH7/8e/JPgK3k00vlw6Awi+v4dLf4WBDkqK4jxBPbXNZRxmCw==;lKjrMYXjokAdUIxtJ9Ij1Q=="
 ---
 

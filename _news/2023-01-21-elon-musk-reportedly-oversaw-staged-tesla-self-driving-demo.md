@@ -55,22 +55,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Elon Musk oversaw video that exaggerated Tesla's self-driving capabilities"
-    excerpt: "Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,” Musk said in the email. “Since this is a demo, it is fine to hardcode some of it, since we will backfill with production code later in an OTA update,"
-    publishedDateTime: 2023-01-20T08:10:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/industry/elon-musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/97166614"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/industry/elon-musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/97166614"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/industry/elon-musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities/97166614"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97166614,imgsize-31024,width-1200,height-628,overlay-etauto/elon-musk-oversaw-video-that-exaggerated-tesla-s-self-driving-capabilities.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Musk Personally Oversaw Tesla's Staged Self-Driving Video"
     excerpt: "Tesla CEO Elon Musk personally oversaw the 2016 video that exaggerated Autopilot's self-driving capabilities which is now the subject of a wrongful death lawsuit. The update comes from Bloomberg which claims it's viewed internal Tesla emails attesting to Musk's direct involvement in the video's production."
     publishedDateTime: 2023-01-21T15:35:00Z

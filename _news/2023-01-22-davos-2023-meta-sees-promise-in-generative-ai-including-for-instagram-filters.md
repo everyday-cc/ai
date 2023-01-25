@@ -41,22 +41,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "ChatGPT Is Doing for AI What Apple's iPhone Did for Smartphones"
-    excerpt: "ChatGPT isn’t the first company to do what it’s doing, but it is what is taking the world of AI mainstream. To stay updated with top startup investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter Venture capitalists ..."
-    publishedDateTime: 2023-01-24T14:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30548006/chatgpt-is-doing-for-ai-what-apples-iphone-did-for-smartphones"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30548006"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30548006"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Davos Chats 2023: From New Geopolitical Couplings To AI — Gautam Adani Writes"
     excerpt: "Onshoring, self-reliance, energy independence, and building resilience in supply chains is as mandatory as is local job creation, writes Gautam Adani in The Davos Chats – 2023."
     publishedDateTime: 2023-01-20T12:49:00Z

@@ -3,18 +3,18 @@ category: news
 title: "She was denied entry to a Rockettes show — then the facial recognition debate ignited"
 excerpt: "They told her their facial recognition system already knew who she was, and more importantly, where she worked, Conlon told The New York Times. The issue was her law firm was involved in ..."
 publishedDateTime: 2023-01-21T12:04:00Z
-originalUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-webUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
-ampWebUrl: "https://www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
-cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
+originalUrl: "https://www.wshu.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
+webUrl: "https://www.wshu.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited"
+ampWebUrl: "https://www.wshu.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
+cdnAmpWebUrl: "https://www-wshu-org.cdn.ampproject.org/c/s/www.wshu.org/npr-news/2023-01-21/she-was-denied-entry-to-a-rockettes-show-then-the-facial-recognition-debate-ignited?_amp=true"
 type: article
 quality: 52
 heat: 62
 published: false
 
 provider:
-  name: WWNO
-  domain: wwno.org
+  name: WSHU news
+  domain: wshu.org
 
 topics:
   - Computer Vision
@@ -37,6 +37,6 @@ related:
       domain: usf.edu
     quality: 12
 
-secured: "SR7Zzzp0o4wCg4bC5VYN3f7O/1ogJm7497Na+zGrOjUYedSoggoplw7JLukLDdKjNBLaj4Wn0R7AZApaiOtOp/hl57oBjdeOWP0LHaidkLC+Ao0XeV1tY/Devu5NytRw6hJ+MuGnOiZiY5UHxWMkdc0TqdlB6PhUEHnQ07IqMU712kLWY87hh0bsw1xqPC1mrnBWgBWOsMbtZM0sBmWGe3IAUDVacGS/ZCTiv+uOSrFdZpwwoUxEuTmDTfheAFFIWg6svdksKXPvL++YW3YCnZaQExGERxrIuj1IwAh3z86sWb9mWQ2EnV4QtSYqhLyMyyVafxSgSg4Ox0PtySoiIy1f60zsz2FMLogNp+l6Jeg=;ezzKhm6pGiHkDp9jrjNcyw=="
+secured: "ThKj1AnDOUKDFERtoH3UJpHkICelSWiQeRCtTEY2SEtjz4SHCTizsj5l+FWGeKEx3s0o68vAhbY7iQDPIUJbP1b1LwNE6xV+8iivNE1BE4zCbTDUSa1M9PvBOf9ySRtbXI6eenR/9eQS3XTmV3bD9/beH0+6UqxCusDMKY2fuCOqQ1k1U8qAGUUsAaRgKlhiTX+NcPddAZX5FRW8Exn5nsaLlPp2zwql2n7Jb87EUw+LJPQuC0Pp16UjBzu1XuOOeEYhVQ4fK5KaFNnjqrXYE8EZEkIqyeOxTNXu02oR8d5P3TSuKhtl9vhvSMtl+TWdiqpWyRZ0oDPwZW3KPFLpBljr6wUeP/A/LOJR3S6kMr8=;4ArrULlJJF2eMICvidYX/w=="
 ---
 

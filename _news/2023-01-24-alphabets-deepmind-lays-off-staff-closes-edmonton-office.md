@@ -3,25 +3,25 @@ category: news
 title: "Alphabet's DeepMind lays off staff, closes Edmonton office"
 excerpt: "The Edmonton office was the only DeepMind site not housed within a Google-managed office. Impacted engineers and researchers will be offered the option to relocate to other offices but those in various organizational infrastructure roles will be laid off."
 publishedDateTime: 2023-01-24T15:22:00Z
-originalUrl: "https://financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs"
-webUrl: "https://financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs"
-ampWebUrl: "https://financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/f382ecb6-8edb-47a2-84cc-c21c78c10f8f/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/f382ecb6-8edb-47a2-84cc-c21c78c10f8f/amp/"
+originalUrl: "https://edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9"
+webUrl: "https://edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9"
+ampWebUrl: "https://edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9/amp/"
+cdnAmpWebUrl: "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: edmontonsun
+  domain: edmontonsun.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/01/google-vw0124.jpg"
+  - url: "https://smartcdn.gprod.postmedia.digital/edmontonsun/wp-content/uploads/2023/01/google-vw0124.jpg?quality=100&strip=all"
     width: 1000
     height: 750
     isCached: true
@@ -57,6 +57,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Alphabet company DeepMind shutters Edmonton site as part of Google layoffs"
+    excerpt: "UK-based DeepMind Technologies, which is owned by Google’s parent company Alphabet, is consolidating its offices in Canada and shutting down its Edmonton site."
+    publishedDateTime: 2023-01-24T23:13:00Z
+    webUrl: "https://betakit.com/alphabet-company-deepmind-shutters-edmonton-site-as-part-of-google-layoffs/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 37
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2017/07/deepmind.jpg"
+        width: 1500
+        height: 1001
+        isCached: true
   - title: "Google parent Alphabet shutting down Edmonton location for DeepMind, consolidating across Canada"
     excerpt: "The company, which was acquired by Google in 2014, has artificial intelligence research centres in Canada, France and the United States"
     publishedDateTime: 2023-01-24T12:10:00Z
@@ -72,6 +86,6 @@ related:
         height: 800
         isCached: true
 
-secured: "BiTAvvaqA95UdN5PimzbcR3nAYF1qZ1KB103ZaLysr7DPZrssWJ9tm0fFcdrlPPw7G0tMIa9Y5sX68phTdmlyAM4dN+HWghpvuHfqzYmOVx9715uW0KF3NtSvPx7uC5EVNzrP9pNqwN3R18f5nGBGiRnbav3fEyWPn4jI849dUkNBYLZ7QGmMzZ519aR27Y6kdp/MCCIoQAgKIZEx5Dz0ZAqNFs0EEMWvDi/sBym3srXYSOC36f0WdnyiVOfXs7YHG/2nDdwNwYjR1TH+6PKUEA79nq+we9cZl0pYBuxLa+rXyyVaaMVN+kh7BYgkeWktvLhazMejh8MszHaCbb9834vCDUK9y4jx3ixhFm4i53d0Rddvwkz19MjL6oJlYYpi5ShjUt4scKbxG6JThOZLJOrMExUMQdGVIVji+lXjYxhehTv1PKTx719UxA26ZdATLVP1lrdH34Y4ay18sR0A4c0t/CgB8bdp36+9HccT8XVl1GjcR2pYd5WSbGMsfO1gzxL5ASijm5M/0BPcZZ0Yg==;rpKMazn6W21vcOYxANSpvQ=="
+secured: "IDRztpHS3ALGh+hbW7RoEF1kywACfGye0thTZlQJPCXgjDatURdpEu10NkMYd1C/Gklwi5RYHZKmGSo5VjzOmX3IN2YBOdDCK5epntxFkUfB8d+aWf12VtF+2rs4UgtcUe76YkUlUYlY8W8ECuUu5cgDdgwld7e0D4XeyVLq9dre7lMbFODvucCtyUXD7OlinVAttfX8jzP18QK5hbT55oklergHdcYIEcPuOO59IHyuodtBx3iBMKoWiOaba9PnNwL+4GltY7MhuVMi61VJySZ2EdkEvz/986By4kejSjaMXGH8B/ZKsacE8cjhjqOsL2PcC45+0EwHkKghXn8DM66OFYQ/ZW5pn16OJd5UT5w=;vaT4pH2J4Pz7UGBHOVPXDw=="
 ---
 

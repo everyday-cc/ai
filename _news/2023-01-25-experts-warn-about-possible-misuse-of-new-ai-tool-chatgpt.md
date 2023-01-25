@@ -3,25 +3,25 @@ category: news
 title: "Experts warn about possible misuse of new AI tool ChatGPT"
 excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
 publishedDateTime: 2023-01-24T16:44:00Z
-originalUrl: "https://www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
-webUrl: "https://www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
-ampWebUrl: "https://www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+originalUrl: "https://www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
+webUrl: "https://www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
+ampWebUrl: "https://www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+cdnAmpWebUrl: "https://www-weau-com.cdn.ampproject.org/c/s/www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WDBJ
-  domain: wdbj7.com
+  name: WEAU
+  domain: weau.com
 
 topics:
-  - Facebook AI
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/Ev4lCoCNe-CHIOaQq_req3maf1Q=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7R2GWWTORBEW5CZXHVADYIARZA.png"
+  - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/uz6XoFAaC2l0n7Y7TH5gYDevJRg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3RAM4CBW3RETVA7UOIQMSRKSMA.jpg"
     width: 800
     height: 450
     isCached: true
@@ -487,6 +487,6 @@ related:
       domain: bostonglobe.com
     quality: 0
 
-secured: "9wW7XujCzV8nkyrzARMMi7nhOggGKHtyKattukDY6V7SqcWy0NUM5LRp8EIE5vN7qLlLC5iaK6fbrbbrZpmHzmaeLAAUchLKtmnbIycenvUEXSYp0DA2D5Rzj52azaAjFMQy8dV3XBY96oB9qxPENk3Hut2DjvztaPOHCX429A9X6d8sarYNtwUQODacxYJVyPIwX/2E61xfqdY2v9ebtL6QNqmENKYG6VW4inPavO+7VI20Fw0eG2NP9w+8CCdmXM7tyrScto2veddCni3LTSbT/+eLp/F22qYz9P8X8l34PxbgJ9gLUY935NGZAIcQG4uckCuU5RUh2aWUEWt+JCSYDYqRffecgCN8kJeoUsI=;8L/PX2nQTxA341nn0rC8nw=="
+secured: "5hs1YicZblf7slAi1CQGhmFzfHhlsPA76efiZ2l0nCxHcye6fabXpJuU9SjFvniD57VjG3PdnsltSyDpmBvw7cRA+lrd89MJq2323m9ucgMm1S1+xbDAU9vYhtRQQcNKYFJjT99VFy2lztsOI02cs3yHcPTDG6B+l20QezUP5q11H/LC2ihVG+c+q5goDLOsEPe004+u/mTWXmt0+o5uaPtfmrWU/YP8/bg/y3ZprlNuZRg7IZRQ0nUu2yR06PrxL7kevEijcH5tneCYjrCAceFERYkDtUOu35SGWgHZFdzJCCp102HZ05R3LZT65dTbvl87MV6fPnl6fAl/jca9o0WSztJKIjGNFNYPoBKiZ+w=;fJv6QvOb6lH7FR1OpJfz1Q=="
 ---
 

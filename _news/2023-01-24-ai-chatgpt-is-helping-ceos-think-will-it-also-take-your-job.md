@@ -217,16 +217,16 @@ related:
   - title: "Experts warn about possible misuse of new AI tool ChatGPT"
     excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
     publishedDateTime: 2023-01-24T16:44:00Z
-    webUrl: "https://www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
-    ampWebUrl: "https://www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    webUrl: "https://www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
+    ampWebUrl: "https://www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    cdnAmpWebUrl: "https://www-weau-com.cdn.ampproject.org/c/s/www.weau.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
     type: article
     provider:
-      name: WDBJ
-      domain: wdbj7.com
+      name: WEAU
+      domain: weau.com
     quality: 59
     images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/Ev4lCoCNe-CHIOaQq_req3maf1Q=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7R2GWWTORBEW5CZXHVADYIARZA.png"
+      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/uz6XoFAaC2l0n7Y7TH5gYDevJRg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3RAM4CBW3RETVA7UOIQMSRKSMA.jpg"
         width: 800
         height: 450
         isCached: true

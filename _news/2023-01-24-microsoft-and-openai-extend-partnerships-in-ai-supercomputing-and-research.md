@@ -227,6 +227,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Amid layoffs, Microsoft extends billion-dollar AI partnership"
+    excerpt: "After announcing that the layoffs of thousands of employees were on the horizon, Microsoft announced it’s extending its partnership with an artificial intelligence service, OpenAI. OpenAI is a startup that’s behind art-and-text generating AI systems like ChatGPT,"
+    publishedDateTime: 2023-01-25T00:12:00Z
+    webUrl: "https://rollingout.com/2023/01/24/microsoft-artificial-intelligence-ai-partnership/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 54
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/01/MicrosoftOffice-scaled.jpg"
+        width: 1566
+        height: 1080
+        isCached: true
   - title: "Microsoft doubles down on healthcare AI investments"
     excerpt: "Microsoft is doubling down on its healthcare artificial intelligence investments with two new partnerships. The first partnership the company inked this year was with AI-powered pathology company Paige."
     publishedDateTime: 2023-01-24T15:29:00Z

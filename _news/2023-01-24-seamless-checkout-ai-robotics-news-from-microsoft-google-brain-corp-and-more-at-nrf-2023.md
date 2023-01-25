@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checko
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/"
 type: article
 quality: 125
-heat: 325
+heat: 335
 published: true
 
 provider:
@@ -217,6 +217,20 @@ related:
       - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-openai-partnership-63cef0f3cd13b-sej.png"
         width: 1600
         height: 840
+        isCached: true
+  - title: "Amid layoffs, Microsoft extends billion-dollar AI partnership"
+    excerpt: "After announcing that the layoffs of thousands of employees were on the horizon, Microsoft announced it’s extending its partnership with an artificial intelligence service, OpenAI. OpenAI is a startup that’s behind art-and-text generating AI systems like ChatGPT,"
+    publishedDateTime: 2023-01-25T00:12:00Z
+    webUrl: "https://rollingout.com/2023/01/24/microsoft-artificial-intelligence-ai-partnership/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 54
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/01/MicrosoftOffice-scaled.jpg"
+        width: 1566
+        height: 1080
         isCached: true
   - title: "Microsoft and OpenAI extend partnerships in AI supercomputing and research"
     excerpt: "Microsoft has extended its partnership with OpenAI for the third time as the agreement follows previous investments in 2019 and 2021."
