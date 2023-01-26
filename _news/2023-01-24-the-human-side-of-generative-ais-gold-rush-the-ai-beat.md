@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-human-side-of-generative-ais-gold-rus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-human-side-of-generative-ais-gold-rush-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 227
+heat: 257
 published: true
 
 provider:
@@ -106,6 +106,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
+    excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
+    publishedDateTime: 2023-01-26T12:06:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
+    ampWebUrl: "https://amp.sacbee.com/press-releases/article271680117.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271680117.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 51
   - title: "2023 Will Be A Defining Year For AI And The Future Of Work"
     excerpt: "Real-Time Translation: AI could be used by global organizations for universal and real-time translation across languages. For any leader considering AI as a force multiplier for their organization, here are three rules to consider before embarking on your ..."
     publishedDateTime: 2023-01-25T14:30:00Z
@@ -133,6 +144,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Remote IT management gets a generative AI boost as Atera adds OpenAI Codex"
+    excerpt: "Atera announced that it is integrating OpenAI Codex with its RMM platform, to help users automatically generate scripts to help execute processes."
+    publishedDateTime: 2023-01-26T14:12:00Z
+    webUrl: "https://venturebeat.com/ai/remote-it-management-gets-a-generative-ai-boost-as-atera-adds-openai-codex/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Artificial Intelligence is no match for the human heart"
     excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
     publishedDateTime: 2023-01-23T07:00:00Z
@@ -217,6 +237,15 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Mass. congressman reads AI-generated speech on House floor"
+    excerpt: "Auchincloss said part of the decision to read a ChatGPT-generated text was to help spur debate on AI. Read more at Boston.com."
+    publishedDateTime: 2023-01-26T14:29:00Z
+    webUrl: "https://www.boston.com/news/politics/2023/01/26/mass-congressman-reads-ai-generated-speech-on-house-floor/"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 17
 
 secured: "drI1tJ/hNvS9YSRL6WiybG0OG3+MYkLPMU/3yoF3B+MOEMAD7FjedFz9l/3irBjDe9IRZPQV3ULaHwrcPNUGbCpKfhhjVcVA+kl+Ka7F2BiEyExv3jm6BrmjLEnJR3kS1I+2qlIT6/oO8CdzIq11SUOCD2+611WvKsDEVZIBnppIeUts5L1DgETSPnnX1iqyVQAGcIOWjP6ExQP24ZKADFzQnW4cHSKNhMaVJ6qqpXCepvWXNmZDkFK7CCwuXDASFZpafrGl7RO/Sf1cGfhG5YM7eMcRxZ9tqmE3dVv4U9OpgqF9bG/8xwjmdCHEVIukskooKk8/ZH3R1aNFV6UEq2QRW5G+cJi6INP+7Se+JcR8FWMkeLXFdStwJRMzz5d9/oesTQmLSLdh7nvHPRWQg96nge1G7TZ9zKFqHKjO8N5FcX3GNYp2wAP045yhZ5Ssi+fYt5PeyctdLxEmKL3Hvet3ethnLKcAJx1F53JwfZHwztJrlGqy0UqCp6whcJ43Gl/8sEVvdBEp8c7OOhOeXA==;QBaffB9p9HXBO/XXrVuKVA=="
 ---

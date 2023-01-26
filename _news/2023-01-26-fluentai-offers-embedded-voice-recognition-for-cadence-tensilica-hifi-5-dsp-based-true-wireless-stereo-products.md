@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T14:17:00Z
 originalUrl: "https://www.design-reuse.com/news/53387/fluent-ai-embedded-voice-recognition-cadence-tensilica-hifi-5-dsp.html"
 webUrl: "https://www.design-reuse.com/news/53387/fluent-ai-embedded-voice-recognition-cadence-tensilica-hifi-5-dsp.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Design-Reuse

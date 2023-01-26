@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Optimizing the Healthcare Supply Chain: The Predictive Power of Artificial Intelligence"
-    excerpt: "As health systems across North America face one supply chain crisis after another in pursuit of essential medical supplies and medications, the need for intelligent,"
-    publishedDateTime: 2023-01-24T18:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30556406/optimizing-the-healthcare-supply-chain-the-predictive-power-of-artificial-intelligence"
+  - title: "AI, Machine Learning, Robotics Will Improve Supply Chains Amid Ongoing Disruptions in 2023"
+    excerpt: "War, raw materials shortages, rising energy costs and extreme weather conditions are just some of the factors that will disrupt global supply chains in 2023, warns the non-profit organisation that aims to elevate,"
+    publishedDateTime: 2023-01-26T15:44:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 76
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-2-696x452.jpg"
+        width: 696
+        height: 452
+        isCached: true
 
 secured: "AhoeRB0UA10ayDtGms3Em3eOmqwNbOk/gymtuQqRfMvD4t4Y7BlW3YEUQS/H7mv+mQ4fYi2MhdvXIH4j0NoUF5CJxFXMqMbI+3oBumcog0NXMdmkN6VQxEknVgnQNN3f6WRQlrMtr6sx0msAj+Bii5WPLq5R/wcVX39cwUcHwPhT+U8zgIndw0E/Ek3IqCmX4s1N9XmB6BiDkjs7mHbrOd5uYbITXOWBGRWKSBs7JNBdfm1CggwJ87+hUs+3XfTFfCC8fba2I6x1h2YGcRA/v3lchCX/4MuQQF8hiohO8qenedRM6mRKrLQ03jF+KJPyubE3DwYyA2vm+8J0EkOorXxhmnG+BFF/IiPs6FdCssF1UU/sw5601Uqb9L4zhwU4uP6diLG9S9Sh/F2DLfR6FZsT5Yqpsz+vrb0b3/6wC19v+UhLBSgRT7kXo6aT1Pxn88mRDyZGIpPSJg96tS+EogK8O8YDBcIMwyqpqo/2XAfMgBn271tfeGecPPxxN2PHllZb9K7bz0Eo0Zvks+qU5Q==;eei9TreTBjbFQIpWCSYFmw=="
 ---

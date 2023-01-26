@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T00:01:00Z
 originalUrl: "https://www.electronicdesign.com/markets/automotive/article/21258708/electronic-design-deeplearningbased-perception-algorithms-tuned-to-l2-adas"
 webUrl: "https://www.electronicdesign.com/markets/automotive/article/21258708/electronic-design-deeplearningbased-perception-algorithms-tuned-to-l2-adas"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Electronic Design

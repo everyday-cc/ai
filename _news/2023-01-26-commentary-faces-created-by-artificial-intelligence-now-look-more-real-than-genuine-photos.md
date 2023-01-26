@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/commentary/ai-generated-face-image
 webUrl: "https://www.channelnewsasia.com/commentary/ai-generated-face-image-deepfake-social-media-account-real-tech-3230301"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deepfakes: Faces created by AI now look more real than genuine photos"
+    excerpt: "Even if you think you are good at analyzing faces, research shows many people cannot reliably distinguish between photos of real faces and images that have been computer-generated. This is particularly problematic now that computer systems can create realistic-looking photos of people who don't exist."
+    publishedDateTime: 2023-01-26T15:36:00Z
+    webUrl: "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.html"
+    ampWebUrl: "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/deepfakes-faces-create.jpg"
+        width: 926
+        height: 560
+        isCached: true
   - title: "Deepfakes: faces created by AI now look more real than genuine photos"
     excerpt: "Even if you think you are good at analysing faces research shows many people cannot reliably distinguish between photos of real faces and images that"
     publishedDateTime: 2023-01-23T13:16:00Z

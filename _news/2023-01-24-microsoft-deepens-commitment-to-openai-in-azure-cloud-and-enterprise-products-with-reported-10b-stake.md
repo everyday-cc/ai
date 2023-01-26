@@ -67,6 +67,20 @@ related:
         width: 1280
         height: 951
         isCached: true
+  - title: "Microsoft erases gains after saying Azure growth will slow down"
+    excerpt: "Downbeat forecast brings focus back to software giant’s challenges as corporate customers rein in spending. Read more at straitstimes.com."
+    publishedDateTime: 2023-01-25T07:22:00Z
+    webUrl: "https://www.straitstimes.com/business/microsoft-profit-beats-estimates-on-strong-cloud-performance"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 69
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/25/2023-01-24T165211Z621949402RC23XY9X083BRTRMADP3MICROSOFT-RESULTS_4.JPG?VersionId=nIpg3gnXYt.LO4UBD7_B6wHnErn3r8xI"
+        width: 860
+        height: 573
+        isCached: true
   - title: "While Microsoft pours billions into OpenAI, Meta's AI chief says ChatGPT is \"not particularly innovative\""
     excerpt: "Over the following years, OpenAI received an estimated $2 billion and built its infrastructure around Microsoft Azure. Training and testing AI ... putting out systems that make stuff up.\" Many machine learning experts agree with LeCun."
     publishedDateTime: 2023-01-25T12:11:00Z
@@ -97,6 +111,15 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
+    excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."
+    publishedDateTime: 2023-01-26T14:13:00Z
+    webUrl: "https://www.wired.com/story/chatgpt-artificial-intelligence-education-networks/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 66
   - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
     excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
     publishedDateTime: 2023-01-24T10:05:00Z
@@ -279,6 +302,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT AI bot passes law exams"
+    excerpt: "An AI chatbot powered by data harvested from the internet has passed exams at a US law school after automatically generating essays to an acceptable academic standard on topics ranging from constitutional law to taxation."
+    publishedDateTime: 2023-01-26T14:09:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/01/chatgpt-ai-bot-passes-law-exams/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 19
 
 secured: "/2RIb6UalWYzUHVnj0NVXTk5f6sMsQ7cnpnEaWRUZz63PkSeLbg3d2k/+vtN3eHoL5nJ1dXdc1S+YTKsgKkGthqrHhASfnizxLL2yqjiG0Q2Z2Bedng+xnJP68j7Bw6YgMH8ttAI6HCrp9E/1olXT4idQfW6gVmCVROTQPumEW5o+78GE79dVZEkhUpB2anF+oAQWDQQQgyVYi4nLkNhklxfQ/I1GmRGxJL4jGAXQMyp5qiQIFm3FB/FbHaYZZ8N2BiQDxdOumMnBUgcMcH0CNEX9FaFfzbxnSef3Sg5KI8oz9ZzHQfRfRlP/c+SuxiDUuib15mrw4MpTAZeQEiQk7Ot3kXCGIBRb0nEX9otyjw=;HBmx7y+SGgy0M/ANioO2sg=="
 ---

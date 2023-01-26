@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T12:14:00Z
 originalUrl: "https://www.miamiherald.com/press-releases/article271678367.html"
 webUrl: "https://www.miamiherald.com/press-releases/article271678367.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Miami Herald

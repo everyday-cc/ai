@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T14:34:00Z
 originalUrl: "https://www.barrons.com/articles/mobileye-earnings-stock-self-driving-cars-51674743627"
 webUrl: "https://www.barrons.com/articles/mobileye-earnings-stock-self-driving-cars-51674743627"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -14,6 +17,33 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Mobileye’s Blow-Out Earnings Show the Growth in Self-Driving Cars"
+    excerpt: "Mobileye, a provider of technology for advanced driver assistance systems, reported strong fourth-quarter numbers, and upbeat guidance."
+    publishedDateTime: 2023-01-26T16:26:00Z
+    webUrl: "https://www.barrons.com/articles/mobileye-earnings-stock-price-51674743627"
+    ampWebUrl: "https://www.barrons.com/amp/articles/mobileye-earnings-stock-price-51674743627"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/mobileye-earnings-stock-price-51674743627"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-710706/social"
+        width: 1280
+        height: 639
+        isCached: true
+  - title: "Mobileye expects strong 2023 as customers lap up autonomous driving tech"
+    excerpt: "The listing of Mobileye Global Inc., the self-driving unit of chip maker Intel Corp, is seen on a jumbotron outside the Nasdaq MarketSite at Times Square in New York City, U.S., October 26, 2022. REUTERS/Shannon Stapleton Jan 26 (Reuters) - Mobileye Global ..."
+    publishedDateTime: 2023-01-26T12:59:00Z
+    webUrl: "https://www.reuters.com/article/mobileye-results/mobileye-expects-strong-2023-as-customers-lap-up-autonomous-driving-tech-idUSKBN2U50V8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 33
 
 secured: "4qk07SJV7733gRZdrMDt3WG/RKhK6ghHyDjG8rGxcDDTZWrlxam9Fx2SsmwIox6Ho9h7STvAkJ4EaIcqpEIztFCjL2V3TmhZbeImg3ee3YkguMLsa1VloSE8snjtQi6catjqBpnPR9I7MUt29SCjHufFuHjobl85kjaN8Ubw2kFs8CCvr8CrO23urio15N6CiuTOKsZDp4WpTYbxYlM9k9iVKcoA+WK1BuwwaCDHp9v5tHmsl93uWs7sqtRKsrFdBdqx5X9Te3by6Nx7U3tSwK++XDJ7FTO6mDW8C9N3/uD+7JwBctBBLPEKFDyhWGqn5Ru/nwWQ9k77/r/XHEL6dwwW0uim0Ztak9Tg1g2dtiWTSN9TdHSRPR50L2CEbIBb7jf1oapHJ16pIcA21no7om1uhU6HPBhWSDhMf71ZZDrAXkOrSN38KYEKgskgiodm4qsSIlWPj58V98nWZqmZgStwk4MOJ4NdVWSFwtMEg+D4ac/3dNzdoJ0UvdMX0MpAIVnXJmabjc87nS+iDLHKAA==;VlwtzQwvfY524fZW3m+CMA=="
 ---

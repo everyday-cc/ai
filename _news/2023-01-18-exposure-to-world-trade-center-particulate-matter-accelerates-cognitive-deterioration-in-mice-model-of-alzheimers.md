@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg"

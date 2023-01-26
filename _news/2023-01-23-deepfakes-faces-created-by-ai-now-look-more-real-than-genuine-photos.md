@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Deepfakes: Faces created by AI now look more real than genuine photos"
+    excerpt: "Even if you think you are good at analyzing faces, research shows many people cannot reliably distinguish between photos of real faces and images that have been computer-generated. This is particularly problematic now that computer systems can create realistic-looking photos of people who don't exist."
+    publishedDateTime: 2023-01-26T15:36:00Z
+    webUrl: "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.html"
+    ampWebUrl: "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/deepfakes-faces-create.jpg"
+        width: 926
+        height: 560
+        isCached: true
   - title: "Commentary: Faces created by artificial intelligence now look more real than genuine photos"
     excerpt: "A failure to distinguish artificial faces from real ones will erode our trust and change the way we communicate online, says this researcher."
     publishedDateTime: 2023-01-25T22:09:00Z

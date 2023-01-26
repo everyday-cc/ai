@@ -18,19 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "SAS Intelligent Planning Cloud Provides AI-Powered Supply Chain Solutions"
-    excerpt: "SAS Intelligent Planning Cloud, powered by Microsoft Azure, deploys quickly and delivers rapid results for retailers and manufacturers navigating volatility in consumer demand."
-    publishedDateTime: 2023-01-23T21:29:00Z
-    webUrl: "https://www.iotevolutionworld.com/iot/articles/454708-sas-intelligent-planning-cloud-provides-ai-powered-supply.htm"
-    ampWebUrl: "https://www.iotevolutionworld.com/iot/articles/454708-sas-intelligent-planning-cloud-provides-ai-powered-supply.htm/amp"
-    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/s/www.iotevolutionworld.com/iot/articles/454708-sas-intelligent-planning-cloud-provides-ai-powered-supply.htm/amp"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 38
-
 secured: "puGi+yaFWSDZNeD3vzEvZXvbHLxjUAyMSAliX/BNlGg+Sr5uf7gY6Zh9ZcPMss8adRBiL38j8ymQumkyWfRWij2/NqrTgeOo2hsqUOK9GK0jD34BSe1SJdOf5lRImNTjBab0ycBMGtuYjxJLDAk6DFeHc9OdIZtJnoVHDM9p9TpqUwmL9WUlx4N/Mom7LWKBVF5sgWXTbTEZVuOmNMfjE0UXVad5aTqHRWr5lfMvErqSwZcEyhjp/0k+XPjB/wd7bI42fANHBkElePkalG9+YbGbj9u1WxeR5XJvWbfJjRgWq5gZ1iL+hA1XSDAw5RmJlQqP2hMRXpcmRjTCL5PHQCLZwMXNpgI5BlEvqVZyvoI=;MJ8EXuZB49POg7pGIoCGBg=="
 ---
 

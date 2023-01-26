@@ -131,6 +131,15 @@ related:
         width: 900
         height: 472
         isCached: true
+  - title: "ChatGPT AI technology is a wake-up call for Google co-founders"
+    excerpt: "This AI-driven platform is proving to be a threat ... some people are abandoning Google search and relying on ChatGPT for their various research needs. If left unchecked, OpenAI might cripple ..."
+    publishedDateTime: 2023-01-23T12:43:00Z
+    webUrl: "https://www.androidheadlines.com/2023/01/chatgpt-ai-technology-wake-up-call-for-google-co-founders.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 19
 
 secured: "j/dxIEX3i+HeYqQBD5RdO6JE95ZbMtju2sEsKoWBBvR/vkbazgiNqiKGn/6+7cxt8iueS7IxZjZojY8x29wkdvadqSUP/rISnz6Cl2kpAfFRDIQc4A8AX35/CItkPcbPocb/FKNu5xFQJ+UkzaN9PSgl3q2wDMbCpHTY7Ggga8NfPoNfT7PfrDoWIhZKWn/F0NT3Hq34vMHioEjHy5Ko2uUiTvfrK/8ADwJO6iXShpGTDB52rJ1O6R4ydBg7rCcymHGjZ8Yg55bo/9XmcKvQEcaf5eVAylKgwzVXHetGVmqk7hgP/1x+0U0CrNWLCfo6b+UNy7zgFOPp5NJrZ6ACLo6g7nJS6KmHnn9K08+EAg3nJCGPudEUDd9DhDaq7GUr92qDY99dXjw8PUP8VsBpbV1+oTyXay1+m4bz4o1kVG3ws7SAQh9jOObFC5E7p8TN6KiQGe4DmExpC8hnj8rwm0/fGFOSVkqrGCYvRAEO63nJQWIhplTifZ2A5+an0iDS0MLu5xt8Nih0DEPEDOl3YA==;Wum4P8U+9MHkrS0x98MDIg=="
 ---

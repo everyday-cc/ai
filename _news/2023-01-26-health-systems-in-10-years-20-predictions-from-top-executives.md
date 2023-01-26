@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T14:22:00Z
 originalUrl: "https://www.beckershospitalreview.com/strategy/health-systems-in-10-years-20-predictions-from-top-executives.html"
 webUrl: "https://www.beckershospitalreview.com/strategy/health-systems-in-10-years-20-predictions-from-top-executives.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Becker's Hospital Review

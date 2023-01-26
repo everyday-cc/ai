@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-26T10:30:00Z
 originalUrl: "https://adage.com/article/opinion/embracing-ai-5-reasons-marketers-shouldnt-fear-artificial-intelligence/2465531"
 webUrl: "https://adage.com/article/opinion/embracing-ai-5-reasons-marketers-shouldnt-fear-artificial-intelligence/2465531"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:

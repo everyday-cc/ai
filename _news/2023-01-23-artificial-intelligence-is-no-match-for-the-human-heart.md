@@ -117,6 +117,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
+    excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
+    publishedDateTime: 2023-01-26T12:06:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
+    ampWebUrl: "https://amp.sacbee.com/press-releases/article271680117.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271680117.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 51
   - title: "2023 Will Be A Defining Year For AI And The Future Of Work"
     excerpt: "Real-Time Translation: AI could be used by global organizations for universal and real-time translation across languages. For any leader considering AI as a force multiplier for their organization, here are three rules to consider before embarking on your ..."
     publishedDateTime: 2023-01-25T14:30:00Z
@@ -144,6 +155,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Remote IT management gets a generative AI boost as Atera adds OpenAI Codex"
+    excerpt: "Atera announced that it is integrating OpenAI Codex with its RMM platform, to help users automatically generate scripts to help execute processes."
+    publishedDateTime: 2023-01-26T14:12:00Z
+    webUrl: "https://venturebeat.com/ai/remote-it-management-gets-a-generative-ai-boost-as-atera-adds-openai-codex/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Generative AI and the Ensuing Computer Human Whisperer"
     excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
     publishedDateTime: 2023-01-23T12:00:00Z
@@ -214,6 +234,15 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Mass. congressman reads AI-generated speech on House floor"
+    excerpt: "Auchincloss said part of the decision to read a ChatGPT-generated text was to help spur debate on AI. Read more at Boston.com."
+    publishedDateTime: 2023-01-26T14:29:00Z
+    webUrl: "https://www.boston.com/news/politics/2023/01/26/mass-congressman-reads-ai-generated-speech-on-house-floor/"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 17
 
 secured: "2YLfCJzcG76SB+x/V4fwYatWVmK6FaTU8EisuA7CXWFzC2rMzIfHqcglldY5PxTEF5dsZyQcc+S12H8NlPMKTE76+4K9MmB9TLDovXl6TKXDExfa+Z9fvVcSryhbFLbbQPutAp1s97h3kK4eVepr6xACSHK9sRdq27KyDURT7OAt85idsh3xasnWPWAfI25r/44NRzg3n/HaHhdVqeycMwBaGDJLbk2b27POCPVCmddYhaHwD+qNhgNccPDbD9thFlE7GmHAS3a45BT5Q6Ri/NHFOXaL5nx1zoxNo9CHMuQP2xdWvsZ3/qFDNp95nYwmIQozjGVIXqNSYxa+E61QtE6Fb+x/cASu0NpKp1w0yBI=;LBtuMMMYgkT1sCjz5M8gsw=="
 ---

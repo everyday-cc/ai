@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Worth $8.95 Billion by 2030 - Exclusive Report by Meticulous Research®"
+    excerpt: "Redding, California, Jan. 26, 2023 (GLOBE NEWSWIRE) -- According to a new market research report titled, 'Artificial Intelligence in Drug Discovery Market by Offering (Software, Services), Application (Target"
+    publishedDateTime: 2023-01-26T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30586798/artificial-intelligence-ai-in-drug-discovery-market-worth-8-95-billion-by-2030-exclusive-report-by"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30586798"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30586798"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Cloud Natural Language Processing Market 2023: A New Report of Very Rapid Development by Forecast 2027 | 109 Pages Research"
     excerpt: "This report provides comprehensive analysis of the emerging Cloud Natural Language Processing market segments, including their dynamics, size, growth, regulatory requirements, technological trends ..."
     publishedDateTime: 2023-01-23T06:01:00Z

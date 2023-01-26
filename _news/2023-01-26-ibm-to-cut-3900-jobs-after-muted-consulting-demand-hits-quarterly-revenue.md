@@ -143,6 +143,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "IBM announces 3,900 job cuts as cash generation disappoints"
+    excerpt: "International Business Machines Corp (IBM) has announced plans to cut around 1.5% of its workforce after missing cash flow targets by close to US$1bln."
+    publishedDateTime: 2023-01-26T12:13:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/1004433/ibm-announces-3-900-job-cuts-as-cash-generation-disappoints-1004433.html"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 4
 
 secured: "QrJbktICgD35uXy4tqAfY3EoVdGds5l4kgurvG+V5kFPEnC4DQG0oAa4W8HrG4KRFMvZwXs5IFTkAIHsDpJo31klLttT4bvI5W4FOYr5tKrl/jUroEMNOHs4EpuEov6d1mS4F9O8PkV4A13JhKKdbjVLLThHERxuvc/bZvAeqpJyNv/VDvK5oBPOSJWszTgyK6zM+6grVqvv6QjPk8NLHebUdzpyq1Y1V+tKCU390bZRQBLPmYaoi9hTC4AEZqfAKWiagykIuGD3EodMMcyQu54hk6K4TyIPr7ya6+c/3tQzUjRe1AayvyKQdRe/O9E0nynDTuDUz6zQ4wbwM34k5KShH5OY1i68D/Z1HmeWcxGuxjDSRDFn2O+ajx8UwtdjaoxFSncTli7gj6hOrF9H/9XbbajV7h/rurTrswH9Rkz2O+fc6qRyFIwUZWY9E+pxVaVZmNVa7UjLcaSZ8tMRDUEzUI2BVymCP3pYuYhWAvdEuk3xo2po98HEjuDajmE4lroN5KKRV7Wwip4XNgccDQ==;QBrNFodBOz1jMzFZ47jH3w=="
 ---

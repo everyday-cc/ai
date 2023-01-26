@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T12:37:00Z
 originalUrl: "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164"
 webUrl: "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Wall Street Journal
@@ -18,6 +21,12 @@ provider:
 topics:
   - AI
 
-secured: "AsTa2W4Ew3YdSaJzkYvGsJSYrUIH9vG35CXwmkcpxCt+5yg4ydQKLflbY1g/4E9ThtF5HqAaZz54gsSGMNOHnskXtS4LWinfXo+EjbxTcwcQ7SHoa9SxTRhPDqK+px1BibYr7CPX2PrhnikecSnspiB1QfXMMPO65jU0QTUItDXfS4q69fXFKTm50BZdENixmjcNGSl4Oy4y/Xk9b69Mad5kcjT0bMS+CeMzkuid1xn2TSMUuydQnYJfKN91oEBWVTIiUHV6Sn9vqARg3sfYcwH+q2OqLo3X96/+j3SCeDjLGkHrN4aZxR9S1TG9PSC+O8G3PYtPA56KXmbydn4azO71yZH0/MvSzC4FU9uGcUA=;1gh7g2ZJ7BiZPqa8czoVfA=="
+images:
+  - url: "https://images.wsj.net/im-704289/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "OfseWOanRMnExnrWQDXPThiENnS3Uta3dNAvmLKAcu3gRvG6V4EiogriyatOUaAqR0MhHTGWh/T6ez0oNEuVrYn86sPPezm2e/0AZvWsYw/Cq7TrXS5gmINlLf9zaCSkme5BnnJ6cOz1zFRqHcH8K16TgZy/pCMqLvMl2gf/v1tdNk49FgVxKJPr0tHxk4+m+kto30aJNV6JdzAq1Gy3c/iE2QgZ7FhxQzpEEYVxio1T5IxUmDuExLvMORJ2DktwRAeTGROcmCyRMK68nIt5uP13MF9kha/dBp6OaAjvQGlZqeknkLoTFchd4S+a3PoEhGbSS3JNzO976ylQDIsuK/TgqShbUUIEegWmaGyjJgQ=;3VAz9c+XR/eOkEpkDTfjug=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T14:45:00Z
 originalUrl: "https://www.businessinsider.com/drone-ai-russia-ukraine-war-experts-concerned-for-future-2023-1"
 webUrl: "https://www.businessinsider.com/drone-ai-russia-ukraine-war-experts-concerned-for-future-2023-1"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Business Insider

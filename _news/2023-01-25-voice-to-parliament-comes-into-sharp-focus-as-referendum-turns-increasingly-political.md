@@ -19,14 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "Referendum not about the details, say Indigenous voice supporters"
-    excerpt: "Indigenous leaders campaigning for the voice say the referendum is solely about whether Australians support constitutional recognition and a voice to parliament, with details of how the advisory body would work to be decided afterwards by politicians."
-    publishedDateTime: 2023-01-24T10:54:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/referendum-not-about-the-details-say-indigenous-voice-supporters/news-story/a7c8ecb8cbe55892e2793704b8b44101"
+  - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
+    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies"
+    publishedDateTime: 2023-01-26T16:12:00Z
+    webUrl: "https://wtop.com/australia/2023/01/explainer-what-is-an-australian-black-voice-to-parliament/"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
+      name: WTOP News
+      domain: wtop.com
+    quality: 39
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Australia news live: Invasion Day rally speakers stir opposition to voice to parliament, stressing push for treaty"
+    excerpt: "Follow the day’s news, live"
+    publishedDateTime: 2023-01-26T01:04:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police?page=with:block-63d1d9fa8f08f60f4de85740"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 22
+    images:
+      - url: "https://i.guim.co.uk/img/media/7fe44a12ebe7c230851aa047db2ea75fe7c8c368/0_546_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=284518ac1832f591d6e3d286fba1c664"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
+    excerpt: "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage."
+    publishedDateTime: 2023-01-26T10:15:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/explainer-what-is-an-australian-black-voice-to-17742818.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 19
 
 secured: "kHIupC3AgIhx9TZban5d8+ysIkBYG0wta0iCpK88wkplBZXQ3frYBygFqjynW0zywJ2Y5qJhBx/i8JinXL88CndWcI8VDNrImE2bJ6F/zbKVcE9T/1fywLU64I8o2C1UP6azenTZQrGJBt28qinrIZUPZxPQsfZDfODAzu28dBj+S8LGgG96cGPTOZqTA/uSF6qKfTRcDPEf+mhyNBXtb1kvoTdF+PaIjbUpnTnvqmFNlmRro3OiJG6i+yHovN5zqZgxpkaUkvEaU3XaqXINWu2AWBz8Ki8YZbvvBdaH4UpOGKVM6sb4AxnLu4aMolzkHubZAdIDOFE7fx3CrLrcaRruK3NHH1Ug/Dpd6W8gkX/xcUT/3cf4JxbPNnEO5A5B+HWikNr/4k4hndUO6TGB2xztU1dZe+iboTrc+CaUHTyFAV+ypMRSXSSqWZe6PRyewhs+2AtHq6rts8u7zKeC0I4OpXFLKO60VV5HQjpbLc+gl7/XhKmaBqyYOfJEZj897fuB2Kv8jXMOp5MY+tX6kA==;3HSjAw3jxdv/c56V0BMG1g=="

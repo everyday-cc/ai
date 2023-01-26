@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-fo
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-for-lawyers-suing-them-as-lawmakers-may-target-face-recognition/4064038/?amp=1"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: NBC New York
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "‘The Garden Has to Defend Itself’: MSG Chief James Dolan Hits Back at Facial Recognition Criticism"
+    excerpt: "Dolan says the company will not back down in using the tech to bar entry to lawyers engaged in legal matters against company."
+    publishedDateTime: 2023-01-26T15:32:00Z
+    webUrl: "https://www.billboard.com/pro/msg-james-dolan-defends-facial-recognition-tech-alcohol-ban-threat/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 25
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/01/02-madison-square-garden-exterior-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "MSG's use of facial recognition tech on ticketholders may violate human rights laws, NY AG warns"
     excerpt: "It's the latest hurdle for James Dolan’s quest to ban his perceived enemies from sporting events and concerts."
     publishedDateTime: 2023-01-25T20:08:00Z

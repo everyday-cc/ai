@@ -5,7 +5,12 @@ excerpt: "With the rise of ChatGPT, all eyes are on the artificial intelligence 
 publishedDateTime: 2023-01-26T14:02:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/"
 webUrl: "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/"
+ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/amp/"
 type: article
+quality: 83
+heat: 93
+published: true
 
 provider:
   name: Forbes
@@ -17,7 +22,30 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "+yEohkfVcZCbrn/Mbn2S+NUr4fIwTj/zAYEuqkiqueAUnV8O8mNyrUROjgqKCkqAtNdx925p2uj1niaLzXSevnQifbbChdpcQbKTGzZtFlDa7XKy8gtd/JD3R3z2TtY4XR+YPP6qdZm55+x28u1vh8mIwS1jddAsy4bUtsJjNwvl3WpBBKyZ0J5sW2d0J38f/1ydwXG9DbJ1oEJ+9raWpyrEZMpun06jBvXFMg9rv6qYXJmMzTZBTNwwRQZpCq8s05FR0YEAMc6+DZVwpHYf6BgWR6p8kN2cBQAXeczJ90jckzmyEdo+xrcHpYGB58Wl1ri5kjNBnlmCXH+mEdFpT+UNGvFgbF9u5z0B3ghV08O8wa6PN7yVILJeMf6kzsJuGI5muxrktYoRr6DPNkQbyv0Wctc69mQQAOP/ev0r8xGsm2UC7eYxN5lCDlg8z1QkcTE56Sa0K8mEwHQOhQ9PB0TbB7MT6dr8yLa91ksTq1ynJWd5yv0cT8/zWVLLIYEMnswkHuVzao4jsdcTN7VqHA==;TVowIhhgvDfRQIFAZiCxpg=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63d19ed712cd6030ab922d84/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 799
+    isCached: true
+
+related:
+  - title: "What’s in store for FinTech in 2023?"
+    excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."
+    publishedDateTime: 2023-01-23T12:23:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Whats_In_Store_For_FinTech_In_2023_Feature.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
+
+secured: "ckblKioSWzLxP22OdTiibuPZiNKcVHWjUpBXyD001Sy7M1CGUbD/Rkq7IbKE8l3HzbWybZCtG40i44+cPg2u/pskUe65TSI+1uPSHk6AT2z/CUiaUocV/PD02pT5H4Ff9OSNvLhfRTvVYrbB4JEyMV0LQKPUYT2zEgU1uns3ukKIVCwNLFU2LTBazx92zerWJF/y00NwPiwq/n2x99NR2c13Mn4dRp0XQ+5Rm26NsCDZJ0Di39XudQWwXFtjkOz1ej834Vmsgq8hU+0hp1kxsKLzZGtC9cG/9I1jJ4etWLJyC3dxzS4iXHPgz+CxrHuG8rleLWguxDKnS0Zbtxkplsp3hoPuNjvmrFaVGx+a7IQ=;mtvuNc8RUSlaw+apAx/QpA=="
 ---
 

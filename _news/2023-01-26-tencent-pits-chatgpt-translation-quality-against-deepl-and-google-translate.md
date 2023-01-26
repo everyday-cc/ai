@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T12:25:00Z
 originalUrl: "https://slator.com/tencent-pits-chatgpt-translation-quality-against-deepl-google-translate/"
 webUrl: "https://slator.com/tencent-pits-chatgpt-translation-quality-against-deepl-google-translate/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Slator

@@ -2,19 +2,41 @@
 category: news
 title: "A robot was scheduled to argue in court, then came the jail threats"
 excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
-publishedDateTime: 2023-01-25T23:05:00Z
-originalUrl: "https://www.kpbs.org/news/news/science-technology/2023/01/25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
-webUrl: "https://www.kpbs.org/news/news/science-technology/2023/01/25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+publishedDateTime: 2023-01-26T04:06:00Z
+originalUrl: "https://www.wuwm.com/health-science/health-science/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+webUrl: "https://www.wuwm.com/health-science/health-science/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+ampWebUrl: "https://www.wuwm.com/health-science/health-science/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
+cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/health-science/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
 type: article
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: KPBS
-  domain: kpbs.org
+  name: WUWM
+  domain: wuwm.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "uTYp+FhDCAyaJ9OHSKQCjDGuZZfDp4txzK4M9NrUnzCqN0MLXD2D7a1gEc+EIF43+OSe1iOkGky4qHzVhJnXSsw6kidWBmMH9jsMsw70j5nxgcfsEZCHijbaFd8shWhdzViXxWMNe2RlHZvt1ZyOPe/Ejca0CIbaHbiVCDLGl86eO2+Vt2YA3yQW3DzCQ89WGKnj43PRji1wg97TbBmsSBjvma6Xb31KIBSIJiMB089iEyB9Ca7UPsv4w/XPfVrE4zutH7MwOh/lkuPChK8sUkZA6dINNd22DDmv+HxHe3DuVNeSLf4nyVuYyVS8BmUF03WALqQmjBcDsJyNbJ+LZuu/npu8OG8f1WVTG/bZkmppEr5dUZGp3ymGAyMbe/rY12kYcUmGfVEQ7gp4ozpMdnTxRU9zJ5RY3uUyS4v3Fmdo70xxo2IKoxvGMNhTEAOpSYIVT36R1FSqzqIk6mitjKzLiw3L4gOl0jR+avV2fRDu8Z1MlrWvAN95J/T6uU9A6ZMBWFZDn7s4GoSdeT1OMA==;mHOBXppdwOuL0jg8BYsRWw=="
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/f2f3f2a/2147483647/strip/true/crop/876x540+0+106/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2F22222_custom-32c6a66f8277ba536f6b7c8d91afd3debcf30a4a.jpg"
+    width: 880
+    height: 542
+    isCached: true
+
+related:
+  - title: "First AI-powered robot lawyer won't be used in court due to jail threats"
+    excerpt: "News that an AI would represent a defendant fighting a speeding ticket in court on February 22 arrived earlier this month. It would have involved an"
+    publishedDateTime: 2023-01-26T15:16:00Z
+    webUrl: "https://www.techspot.com/news/97393-first-ai-powered-robot-lawyer-wont-appear-court.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 63
+
+secured: "AHIgU/vQSL5L0GzD/FVudXXzakubIcFXgq4sN4+MR9HxKBKg1dlUFQEq5rPKiaJw5qj2n0bwoA8ELaR2DrZvS/2K4idj7XSLTbDpUjNmEGGjv4qJe1U+m0Z0Ef5ddqVA+5Atip+ig1uPHL1xOzga2BGqmegSFcva8FHtkSKpbMYdzSejuHirAZVBRi1V8cwP/7e2pfzqrNBVldN8Iz5ApACqHTba3JU7C3WbPavqrMf7l7P1lZEpu8ry08X0+FtikQxFDOGTmNjKqXajvjtGQitSwmoOzWtGVy/xtRhXYORaBBy1xdfgJzCGGToT7PWj/iw/5oZrn2zHyGzs/9k7KEkB1CRW09SVh3a0IiEGXnw=;5iNrPNo/Jpd2Bafjt7xLEw=="
 ---
 

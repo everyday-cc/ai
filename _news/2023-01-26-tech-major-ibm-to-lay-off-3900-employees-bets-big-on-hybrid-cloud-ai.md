@@ -41,20 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tech major IBM lays off 3,900 employees, bets big on hybrid cloud, AI"
-    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyndryl business and part of the AI unit called 'Watson Health'. The layoffs will cause a charge of $300 million in the January-March period to the company,"
-    publishedDateTime: 2023-01-26T09:36:00Z
-    webUrl: "https://www.dailypioneer.com/2023/business/tech-major-ibm-lays-off-3-900-employees--bets-big-on-hybrid-cloud--ai.html"
+  - title: "Tech Major IBM Lays Off 3,900 Employees, Bets Big On Hybrid Cloud, AI"
+    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyn"
+    publishedDateTime: 2023-01-26T14:15:00Z
+    webUrl: "https://menafn.com/1105480938/Tech-Major-IBM-Lays-Off-3900-Employees-Bets-Big-On-Hybrid-Cloud-AI"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/tech-major-ibm-lays-off-3-900-employees--bets-big-on-hybrid-cloud--ai-2023-01-26.jpg"
-        width: 1000
-        height: 800
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "XmtLZmVo43xJqvi3yr7m3MhufD3+P2gX7gYxbsIO7aCZ5Ccc0lwtZpN72Mnhq6hHiq2Cxps0nrW4lde1r3p2pZod8uQMPaNqaYc2T27q6jYBAlCHJFoMkfTAYvK8sPpMGvoCzCowTVxwYSxCNTEwQ94eAIEzQ79UnEQ6YjAmTBbtckWm/kXmJM6vV360lpvVCr7q7HsV8psYFg4wbUa9/yQsE3b/5il3YH5nhDwezaxolEyVrYJ5laEGMb8SVODz/icUGJRycFqfsncMB3BmRr1toWN5h4tQCviwU9jORj5XOo1Tr8ZZOQdYu2BLYnd8oddnyVQEHhBt/sGpgTOq6XGQyFtedWiV5dbhwBlStYaTfKrI9WG5CiduvtEN9LTWJyp/PfPCrvcu95JVU0sFJf+NMWEIrUcPWi/MUBCzXp+Mx4GUa/vH/9lzACdL74FETonyW9xGXcLhC9iTIq6l/5g+BsIfl0tsquHCmmfGZMf1li5mo12az1s6KgUlEsdKVxP4c98u9NxoegD925gzCg==;RjWhewWxh1vvln2V6+CW3g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T14:06:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/01/26/chatgpt-and-ethics-can-generative-ai-break-privilege-and-waive-confidentiality/"
 webUrl: "https://www.law.com/legaltechnews/2023/01/26/chatgpt-and-ethics-can-generative-ai-break-privilege-and-waive-confidentiality/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Law

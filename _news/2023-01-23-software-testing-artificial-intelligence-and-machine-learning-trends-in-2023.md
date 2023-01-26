@@ -58,22 +58,6 @@ related:
         width: 750
         height: 530
         isCached: true
-  - title: "Learning to lie: AI tools adept at creating disinformation"
-    excerpt: "Artificial intelligence is writing fiction, making images inspired by Van Gogh and fighting wildfires. Now it's competing in another"
-    publishedDateTime: 2023-01-24T00:01:00Z
-    webUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
-    ampWebUrl: "https://mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3790030/learning-to-lie-ai-tools-adept-at-creating-disinformation/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_c1a300d8870140f595152edf1fe2c773.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AI Deep Learning Predicts Brain Tumor Growth"
     excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
     publishedDateTime: 2023-01-24T15:21:00Z
@@ -85,6 +69,20 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 54
+  - title: "Learning to lie: AI tools adept at creating disinformation"
+    excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda. When researchers asked the online AI chatbot ChatGPT to compose a blog ..."
+    publishedDateTime: 2023-01-24T15:07:00Z
+    webUrl: "https://www.news4jax.com/news/politics/2023/01/24/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+    type: article
+    provider:
+      name: News4Jax
+      domain: news4jax.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LVJM5ZPSZ5AKRBDFATZROJM3IU.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Learning to lie: AI tools adept at creating disinformation"
     excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda."
     publishedDateTime: 2023-01-25T04:19:00Z

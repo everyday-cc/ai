@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo161658437822"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo161658437822"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -130,6 +130,15 @@ related:
         width: 900
         height: 472
         isCached: true
+  - title: "ChatGPT AI technology is a wake-up call for Google co-founders"
+    excerpt: "This AI-driven platform is proving to be a threat ... some people are abandoning Google search and relying on ChatGPT for their various research needs. If left unchecked, OpenAI might cripple ..."
+    publishedDateTime: 2023-01-23T12:43:00Z
+    webUrl: "https://www.androidheadlines.com/2023/01/chatgpt-ai-technology-wake-up-call-for-google-co-founders.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 19
 
 secured: "9I/QFooDVSrilG4EWEwf5Eee0kMhV+CZAe0HBTTCoxDzSzlSO5iqUrLNFo9mA7VxFvwpT+6/rWGw3F4J7uY7E4S7L2zvHVU1Y2bJKTYjRFWy6VSHKy5dFDP6qpc5FZV0mGTfHHRvvHfBPWKBQPmbeiT6kUokqF3hc1MqCWIX/1yAtvT7ve20+lJroG7He/enr19eXhOa2+pKJrt/vDXn8kiIfuG0sOcqflRXZyhzmuqVuD41MC/E3sLhQhtuTvB7pa0vbTGG2TztiryTZgO5gqCEKXF0Kr22T7sq/q7ebgMWRB9suehGNiibDYnO65SgIJCQy03j79fnmpITLRFEfj1zak8Ara/Jhj03Yf6hoyYuWWHbJH5cldu8F0VwWh4TPQ3R7UHUKF4HA1zLqHDeazPRTQyW+nxCI/LNujJqkbLsSUIWbK61laa2ThHTp/FFEn8ij0MZWdHu69lCRYNIHxl81UT8pLN9D4QAZ2wvizr0mPXoaeF5UC7c2QmErBx/TJHnTuaecgn0Jn2gQLSDyQ==;UcJ9Dmwq1ADyeGViq6Rp2A=="
 ---

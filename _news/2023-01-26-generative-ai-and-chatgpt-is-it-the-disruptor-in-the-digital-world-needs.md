@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T13:14:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-in-the-digital-world-needs/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-in-the-digital-world-needs/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Indiatimes

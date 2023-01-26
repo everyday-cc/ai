@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: PBS
       domain: pbs.org
     quality: 19
+  - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
+    excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that automates ROI-based creative decisions as well as content strategy."
+    publishedDateTime: 2023-01-26T12:22:00Z
+    webUrl: "https://www.benzinga.com/general/movers-shakers/23/01/30583996/how-this-startup-uses-ai-to-deliver-roi-based-creative-intelligence"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "pvzzO6awEE1ff99LwqsFgSasPqkMwr2WeQrmI9ExMq7KM4QnvkS+WPIGsZr762YDxOLO+cyr2ktxwZ7yLcx2L0qVjTbDxBOp/fkzFm69nC7ZIcVWi4SQQLMYuTwwXQ+srPt1PDIAsYmoibCmY24VbI23qvVHbTAiACGA19HC69FOAWgLDmUlqjdDd0+R14koMs2VPhfKRjE4MReUKuz2jl3JL5dTtyKr2FFMyBFIdbo8pQUnTbxSCyOWp1AjXUf3nvdgvk1LEp2ZyJUDsZiA9hyJWieCNvmM44W0eiHvwvIbiOS5nffrpKO90/OHwqW9EmUWmbDihLcxDu1ZGlA2jRk+cKGmBEHa6q5HMGncKl9gw9iuRQoAfscefVgm0e+tcC4Ka+rGTtkNL1pd3K915yebQ3Ej8Gi0d53I4KQTwa3XzYGA/9AeJ3zNh9A0pRLj9aAfm4rMPN7rVO5ND6MLvsHZtdcP9yDoLID1HEIh1aif9c2jlzOyfT1neOg6vsnmc7+dctUgKOhKKespl98Vmg==;4DCfHvWnkmDTP4P5n+TDtA=="
 ---

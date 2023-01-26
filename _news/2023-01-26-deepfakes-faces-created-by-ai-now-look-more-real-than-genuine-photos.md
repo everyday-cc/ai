@@ -1,0 +1,56 @@
+---
+category: news
+title: "Deepfakes: Faces created by AI now look more real than genuine photos"
+excerpt: "Even if you think you are good at analyzing faces, research shows many people cannot reliably distinguish between photos of real faces and images that have been computer-generated. This is particularly problematic now that computer systems can create realistic-looking photos of people who don't exist."
+publishedDateTime: 2023-01-26T15:36:00Z
+originalUrl: "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.html"
+webUrl: "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.html"
+ampWebUrl: "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp"
+type: article
+quality: 59
+heat: 79
+published: true
+
+provider:
+  name: Phys.org
+  domain: phys.org
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/deepfakes-faces-create.jpg"
+    width: 926
+    height: 560
+    isCached: true
+
+related:
+  - title: "Commentary: Faces created by artificial intelligence now look more real than genuine photos"
+    excerpt: "A failure to distinguish artificial faces from real ones will erode our trust and change the way we communicate online, says this researcher."
+    publishedDateTime: 2023-01-25T22:09:00Z
+    webUrl: "https://www.channelnewsasia.com/commentary/ai-generated-face-image-deepfake-social-media-account-real-tech-3230301"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 29
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BT-uqiOg--/c_crop,h_432,w_768,x_0,y_65/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/191aefde7be3a70c46e8b5cc471776dc576f2d37.jpg?itok=3YKFJ6o3"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Deepfakes: faces created by AI now look more real than genuine photos"
+    excerpt: "Even if you think you are good at analysing faces research shows many people cannot reliably distinguish between photos of real faces and images that"
+    publishedDateTime: 2023-01-23T13:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273418654/deepfakes-faces-created-by-ai-now-look-more-real-than-genuine-photos"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
+
+secured: "kakzuDnh+pkmzazm3OqQJRY547E27tpmA1FD5UqaxX1WLXRCiSFYCBrlpjC97iEfOjz4ADSvVCsLos0QnHU2L5Txk8u5nUk/D9WjW8FV7K1tu8zaWTB4+3ui92rpTQUd0DqLarJxYwEUWeiHf6NesNW4LY2X9Hse5hR2LU2sF32cPAj4JM/vDIZdM31Rs1pSNMjWG5rPF5RRt4MfJHeaakaM6xpPlSbGFuGhfj4+y6jOt9sMH+ytgwoSFDh/iuXkbGypRtQDCjsP20htCnm1u5sICYQjN8BqUYEv/WvKSX53P6KtpP0eI/0yMp49/PfTfvLXqjkhW11eNG6vXhHY/WZ3ME+RCBjGSYZ9ZfGsbIk=;zYD01bvV5EzRsTizNXDFIw=="
+---
+

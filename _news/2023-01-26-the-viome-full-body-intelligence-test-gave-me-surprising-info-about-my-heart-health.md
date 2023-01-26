@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T12:05:00Z
 originalUrl: "https://www.popsugar.com/fitness/viome-at-home-full-body-intelligence-test-review-49070401"
 webUrl: "https://www.popsugar.com/fitness/viome-at-home-full-body-intelligence-test-review-49070401"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: PopSugar

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T14:43:00Z
 originalUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
 webUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: WHDH

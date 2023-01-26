@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T14:23:00Z
 originalUrl: "https://www.itpro.co.uk/technology/machine-learning/369948/solve-global-challenges-with-machine-learning"
 webUrl: "https://www.itpro.co.uk/technology/machine-learning/369948/solve-global-challenges-with-machine-learning"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: IT Pro

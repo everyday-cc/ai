@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T14:17:00Z
 originalUrl: "https://techxplore.com/news/2023-01-raibo-versatile-robo-dog-sandy-beach.html"
 webUrl: "https://techxplore.com/news/2023-01-raibo-versatile-robo-dog-sandy-beach.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: techxplore
