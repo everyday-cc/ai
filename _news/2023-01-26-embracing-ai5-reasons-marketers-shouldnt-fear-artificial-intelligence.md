@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20230125_AI_iStock-851955816_3X2.jpg"
@@ -24,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "miGT7Oncys6ssNCkZgH5aUcNaTvdSTqDok1SOXZbhW1cHo2J4t7hPsYAqwDxnyGD4R/ofAYYqVCpg6BjxnxCwdxLBMY6C4i8PjG7Q1Y/qZHzAeKSBFBa6H61raViYVp4MwFVtJTcm8z7GDyOLxOwWW7p+IiA8A8OFGM4WSvWzntFMBVdvZ4zXoigEVpBh6Yto1RJru9/ymji29lhMKkI5G8gKIonCQ+H3J9B4UoGUsx2Y/iLS6An7ZZOqFg3K3VMbzy6X1W3rffkfITibCoeWRUCnX+LzLHQDZ/jNjX0z569EJ4fvL969Y9v0GTj+Q1Qa9yZjPc/7+8KuhUq43aOSoa3wgxk37iQEek0NapHFaY=;mfDij5+EWo4jMKb0pGdDdQ=="
+secured: "JfQvMTIhJb8SsUhYD+eXXrMRBLqzDhxEIELMIQhQG2hHid/lBVhJsTcoTT5MWREgGXCbEqUItcrMWJfQqO+3pTtgmSdOoF0jcwC5w+aRUwW8/fsGVyneZa9puIn/t4W58w9ODGD27yHgl0FXiredXq+Hvt/vTLHX8dFSnzEqW5xBmdY60YcInWfvGgSnLVtHuuWynYAKk8HTwlJz1vBAyWDGcC4lPS3JhG8CB1nZVRNdnqObzcSWdQNA8Uj4OsUY7Bwd2BxXGl5+Z0Zr+tpv1p0tiqJtbBggWPsh6Unti+J+MXqe1noDXIZ0WsRI/LOaJVNqCd2loMM4uDC3BWyd9FV64/Pvc2AIaiRAE5Xzy3Sf6xoXs34lRo/pH5F26EdpGbsUCL/DkfJVqlHRz7XWQTzrhDFu2kYLJMzTeekn9nkL8zMlHTUJVuEtx9j6L8H+jrpxx3sof22G1qRNa1hfy77v0rCUnrgT8/MkWenEgudJH6yXXBu6GY1MhCYwse7ZX8ckFAL4ZzDtp5fmxW8X5A==;zXM0SmJats5gIwKzq4UnNQ=="
 ---
 

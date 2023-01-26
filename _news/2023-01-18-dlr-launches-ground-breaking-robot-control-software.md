@@ -5,8 +5,6 @@ excerpt: "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotic
 publishedDateTime: 2023-01-17T19:53:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
-ampWebUrl: "https://www.benzinga.com/amp/content/30449359"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30449359"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "M3avT3RaVghhtUXRLDNWyzKBLpF3yT9MlDvCppUtW0IkeXIvo48lF2VSmu5KKqcxC1bP1zqhUIl0ghkTDtzWdw5aFHRUz5+LDaKD7KLoHBtpF5nhp/2zoLo4unQwbPpGp9vTg4NTR4VsJzqwAKtnru0hiY/IDX+9kKzBH5hMeIpyu+57t07gmLKzd8Qooy4N1ePgp9W64pniJbZh9Ix2TUsrtQIHHvopsDZ3oRrNP8l1IchsNN7kNcKq6rLQ4j0CR5yTRLNdp/Uo7N81tLieAhd76e1FfQm8IqiBShFAy+kVnMGaTJw0/P9NENsBA6ePyfoJHDvGnYUuZzfGcTtUaH/iQ5XLZ+L7haV0eHobsgc=;Trg9Zfh9bHoXG7srmnSFZA=="
+secured: "NLPMrtXpLQii0cyER34SG/NjgluG2ICVEfaqXhiEIlYn87tXZH6RJ6wxaRGMI8gGRMW1iaIyUUwi+QCKnu8Hx3VCyuKKiqmS69og5ZZiRKSFzRmWa94uaWvQsF/pBwgk5JwmbiQtgfEI8XYO7oA98+Dk/deMwRzVksPU8GUjtL4aSGhTwV0xga4FZzB6ySkvuX55Eb18zRYtlnQCYWPswItZnhpp6MBQCUCWZ3hg7U54xLboHRzHOOhssKLX/atrJHrYzohPGpPhBrWpvjT3g/m92O2ou++10a+rkBnDZx3MNO/rtCHg9g24cBidbBTh8xqCSf/Sp3XgKYxh2dX+0UWGrXV5K3emuTt47HSaY/M=;+5Hek4MddJJHDjwynZCu0g=="
 ---
 
