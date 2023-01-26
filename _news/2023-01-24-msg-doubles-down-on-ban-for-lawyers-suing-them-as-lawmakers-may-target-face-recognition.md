@@ -43,6 +43,22 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "James Dolan defends facial-recognition policy as lawyers sue Madison Square Garden owner: ‘Please don’t come’"
+    excerpt: "Several attorneys say they have been denied entry into MSG-owned venues because their firm is in active litigation against the company."
+    publishedDateTime: 2023-01-26T18:59:00Z
+    webUrl: "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://images.mktw.net/im-710774/horizontal"
+        width: 1320
+        height: 742
+        isCached: true
   - title: "New York’s Attorney General Investigates MSG’s Use of Facial Recognition to Ban Lawyers"
     excerpt: "NY AG Letitia James wants answers from Madison Square Garden over its use of facial recognition technology to bar entry for lawyers involved in litigation against the company."
     publishedDateTime: 2023-01-26T17:17:00Z
@@ -94,6 +110,29 @@ related:
       name: pix11
       domain: pix11.com
     quality: 19
+  - title: "James Dolan defends MSG’s use of facial recognition: ‘Just a technology’"
+    excerpt: "James Dolan responded publicly Thursday to criticisms of Madison Square Garden's use of facial recognition technology."
+    publishedDateTime: 2023-01-26T19:30:00Z
+    webUrl: "https://theathletic.com/4128420/2023/01/26/madison-square-garden-facial-recognition-dolan/"
+    type: article
+    provider:
+      name: The Athletic
+      domain: theathletic.com
+    quality: 18
+  - title: "New York Knicks Owner James Dolan Gives Unhinged Interview About Madison Square Garden’s Facial Recognition Technology"
+    excerpt: "James Dolan and the New York Knicks yet again came under fire recently. No, not because they're bad at basketball. That's yet again true. But this time"
+    publishedDateTime: 2023-01-26T19:52:00Z
+    webUrl: "https://brobible.com/sports/article/james-dolan-under-fire-for-facial-recognition-msg/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 15
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2023/01/James-Dolan-New-York-Knicks.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "HBSzoyhkuJxVCHVAVDYbK+iqjOAGtGBBfoqwILzb6TR7HAo6W1qOtZc6Xw7azBNcXPUWrFDaqvuHtfgyeGFN+FOsBovusnIxsmrAmwtHLCANEpU9AABGT82e0edJufDKiBzjAH2w9dMBwci8HJIFAbpdd3UZ2luiDAw4QledBMlgZebn7C9+NeRMNJp0yPen4r0F1t/FBQogsRG9JGvMvrSJIghRsPZGISq/De7QW+i0UYyyTO/x+/OC8wTQP0OmN2GMkN2O9igaUBQqOohu1LDUIkJRJxq2DO0+dURLuIrSUFKFwbU08OwHKdv+0ZsfD3zXpdu+8tRZRiChxFDPcVrt7drlS0mlsJdW3HhyYs7EN4Q5k4UT1lA8CrhPSPkDUDmgQIRymPHKXYOpEZuFuxFO6r0ihWx10qwiX6o+E38GSoJnaB7Du9oCh0EcN+hlxVTw5ascdnfDhNyFzAz5cIG57606Tv+EZa+MMal9gZ4Rg7meZJhIm/g386UDx3/ykZ7ZSYrX69od69W0Kz2jPQ==;9AZ4mKus5hxmJG0kDS0QAQ=="
 ---

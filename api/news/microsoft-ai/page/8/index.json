@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-17-new-study-discovers-pre-treatment-cognitive-impairment-in-younger-cancer-patients.md",
+      "title": "New study discovers pre-treatment cognitive impairment in younger cancer patients",
+      "excerpt": "Cancer in those aged 15 to 39 is rare. Only about 70,000 cases are diagnosed annually in the U.S., so there is little information about cognitive toxicity in this population. However, as cure ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/hospital-patient-3.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.amp",
+      "publishedDateTime": "2022-11-16T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-study-parents-of-boys-more-likely-to-have-faster-cognitive-decline.md",
       "title": "Study: Parents Of Boys More Likely To Have Faster Cognitive Decline",
       "excerpt": "The researchers of the study found that having boys may lead to quicker cognitive decline in parents. The study showed that parents who had at least one son experienced faster rate of cognitive ...",
@@ -1321,50 +1364,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-cloud-giants-file-major-eu-antitrust-suit-against-microsoft.md",
-      "title": "Cloud giants file major EU antitrust suit against Microsoft",
-      "excerpt": "A cloud computing industry group has filed an antitrust complaint about Microsoft to the European Commission’s Directorate-General for Competition. The body, dubbed Cloud Infrastructure Service Providers in Europe or \"Cispe\",",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
-      "originalUrl": "https://www.techradar.com/news/cloud-giants-file-major-eu-antitrust-suit-against-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

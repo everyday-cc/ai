@@ -2,6 +2,272 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2022-09-28-arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql.md",
+      "title": "Arcion Announces Agentless Change Data Capture for Azure, SQL Server, Oracle, SAP HANA, and MySQL",
+      "excerpt": "Arcion, creator of the only cloud-native, CDC-based data replication platform, today announced agentless change data capture (CDC) for all of its supported databases and applications. Enterprises can",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29051857",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29051857",
+      "publishedDateTime": "2022-09-28T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform.md",
+      "title": "AtScale Announces Data Science and Enterprise AI Capabilities Within Semantic Layer Platform",
+      "excerpt": "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards.md",
+      "title": "Q.ai Wins \"InvestmentTech\" and \"Personal Finance Tech of the Year\" at 2022 US FinTech Awards",
+      "excerpt": "Q.ai Wins \"InvestmentTech\" and \"Personal Finance Tech of the Year\" at 2022 US FinTech Awards Sep 28, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch.md",
+      "title": "AiAdvertising Signs Multi-Million Dollar Agreement with Fintech Unicorn to Empower its Upcoming Launch",
+      "excerpt": "(OTC: AIAD), a next-generation AdTech company focused on harnessing the power of artificial intelligence (AI) and machine learning (ML) to build software for today’s marketing leaders, today announced it has signed a multi-million dollar agreement with a fintech unicorn.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-cloud-api-market-is-anticipated-grow-usd-371-billion-at-a-cagr-of-232-by-2030-report-by-market-research-future-mrfr.md",
+      "title": "Cloud API Market Is Anticipated Grow USD 3.71 Billion At A CAGR Of 23.2% By 2030 - Report By Market Research Future (MRFR)",
+      "excerpt": "According to a comprehensive research report by Market Research Future (MRFR),“ by End-Users and Vertical - Forecast to 2030”, the market is anticipated to acquire a valuation of approximately USD 3.71 Billion by the end of 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104938286/Cloud-API-Market-Is-Anticipated-Grow-USD-371-Billion-At-A-CAGR-Of-232-By-2030-Report-By-Market-Research-Future-MRFR",
+      "originalUrl": "https://menafn.com/1104938286/Cloud-API-Market-Is-Anticipated-Grow-USD-371-Billion-At-A-CAGR-Of-232-By-2030-Report-By-Market-Research-Future-MRFR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?945943",
+          "width": 349,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-aion-labs-launches-ai-startup-addressing-drug-trial-improvement.md",
+      "title": "AION Labs Launches AI Startup Addressing Drug Trial Improvement",
+      "excerpt": "AION Labs Launches AI Startup Addressing Drug Trial Improvement Sep 28, 2022 (PRNewswire via COMTEX) -- PR Newswire REHOVOT, Israel, Sept. 28, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aion-labs-launches-ai-startup-addressing-drug-trial-improvement-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/aion-labs-launches-ai-startup-addressing-drug-trial-improvement-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-the-long-road-to-driverless-trucks.md",
       "title": "The Long Road to Driverless Trucks",
       "excerpt": "Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?",
@@ -871,295 +1137,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
-      "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
-      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
-      "sourceUrl": null,
-      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
-      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
-          "width": 765,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
-      "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
-      "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/intel-arc-alchemist-launch.jpg?p=1",
-          "width": 1723,
-          "height": 967,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
-      "publishedDateTime": "2022-09-27T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-speech-recognition-market-size-to-hit-usd-488-billion-at-a-2130-cagr-by-2030-report-by-market-research-future-mrfr.md",
-      "title": "Speech Recognition Market Size To Hit USD 48.8 Billion at a 21.30% CAGR by 2030 - Report by Market Research Future (MRFR)",
-      "excerpt": "The speech recognition market witness's rapid revenue growth due to the increasing use in the education sectors globally. Besides, the rising demand for accurate and easy-to-use speech recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g29036418/speech-recognition-market-size-to-hit-usd-48-8-billion-at-a-21-30-cagr-by-2030-report-by-market-re",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g29036418/speech-recognition-market-size-to-hit-usd-48-8-billion-at-a-21-30-cagr-by-2030-report-by-market-re",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29036418",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29036418",
-      "publishedDateTime": "2022-09-27T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-intel-geti-and-openvino-efforts-advance-ai-and-computer-vision.md",
-      "title": "Intel Geti and OpenVINO efforts advance AI and computer vision",
-      "excerpt": "Intel launches new platform with Geti to help make it easier for users to build computer vision models that can be deployed using OpenVINO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
-      "originalUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1351781263-e1664230107251.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/",
-      "publishedDateTime": "2022-09-27T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-hugging-face-takes-step-toward-democratizing-ai-and-ml.md",
-      "title": "Hugging Face takes step toward democratizing AI and ML",
-      "excerpt": "Hugging Face has launched a new AI-as-a-service offering, designed to take on large workloads of enterprises and help speed up ML projects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-09-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday.md",
-      "title": "Document onboarding startup Flatfile nabs $50M from investors, including Workday",
-      "excerpt": "Flatfile, which uses AI to process and normalize data from documents, has raised $50 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
-      "originalUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-737368899.jpg?resize=1200,601",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/",
-      "publishedDateTime": "2022-09-27T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

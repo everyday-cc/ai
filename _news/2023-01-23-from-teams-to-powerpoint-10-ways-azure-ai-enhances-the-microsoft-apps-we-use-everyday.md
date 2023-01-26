@@ -181,6 +181,15 @@ related:
         width: 371
         height: 219
         isCached: true
+  - title: "Microsoft attracting users to its code-writing, generative AI software"
+    excerpt: "Microsoft Corp on Tuesday aimed to assure investors that its big bet on artificial intelligence (AI) is paying off, even as economic turbulence is making Microsoft customers scrutinize their cloud spend."
+    publishedDateTime: 2023-01-24T23:52:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-attracting-users-its-code-writing-generative-ai-software-2023-01-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "Microsoft adding to its AI ambitions; Musk is back on the stand in trial over Tesla tweets"
     excerpt: "Microsoft’s supercomputers are helping to power the startup’s energy-hungry AI systems, while the Redmond, Washington-based tech giant will be able to further integrate OpenAI technology into Microsoft products."
     publishedDateTime: 2023-01-23T21:00:00Z
@@ -260,20 +269,6 @@ related:
         width: 1566
         height: 1080
         isCached: true
-  - title: "Microsoft attracting users to its code-writing, generative AI software"
-    excerpt: "Microsoft Corp on Tuesday aimed to assure investors that its big bet on artificial intelligence (AI) is paying off, even as economic turbulence is making Microsoft customers scrutinize their cloud spend."
-    publishedDateTime: 2023-01-25T12:52:00Z
-    webUrl: "https://www.channelnewsasia.com/business/microsoft-attracting-users-its-code-writing-generative-ai-software-3229606"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--pWdYYrVO--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-01-25t005337z_1_lynxmpej0o00p_rtroptp_3_microsoft-openai.jpg?itok=qNsIKnXb"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft expects slower Azure growth"
     excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
     publishedDateTime: 2023-01-25T16:07:00Z
@@ -288,6 +283,15 @@ related:
         width: 866
         height: 577
         isCached: true
+  - title: "Microsoft's AI push has some analysts raving about the stock even after lackluster earnings"
+    excerpt: "Microsoft 's earnings report earlier this week was largely considered dissatisfying to analysts. But the tech giant's focus on artificial intelligence, or AI, is keeping many on Wall Street optimistic."
+    publishedDateTime: 2023-01-26T17:17:00Z
+    webUrl: "https://www.cnbc.com/2023/01/26/microsofts-ai-push-has-some-analysts-raving-about-the-stock-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 54
   - title: "Microsoft and OpenAI extend partnerships in AI supercomputing and research"
     excerpt: "Microsoft has extended its partnership with OpenAI for the third time as the agreement follows previous investments in 2019 and 2021."
     publishedDateTime: 2023-01-24T14:27:00Z

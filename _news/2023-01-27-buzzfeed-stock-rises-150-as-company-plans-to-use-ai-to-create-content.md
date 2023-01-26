@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Will Start Writing BuzzFeed's Notorious Personalized Quizzes"
+    excerpt: "The company said it wouldn’t use AI for news journalism, but CEO Jonah Peretti talked up AI as a shift 'toward longer term trends.'"
+    publishedDateTime: 2023-01-26T21:40:00Z
+    webUrl: "https://gizmodo.com/ai-buzzfeed-chatgpt-quiz-1850036965"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8fea373d749715dfcbe4768a647f0955.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "BuzzFeed says it will use AI tools from OpenAI to personalize its content"
     excerpt: "BuzzFeed says it’s going to use more AI tools to “enhance” and “personalize” its content, according to a memo sent this morning to staff by CEO Jonah Peretti. News of the memo was first reported by The Wall Street Journal,"
     publishedDateTime: 2023-01-26T18:02:00Z

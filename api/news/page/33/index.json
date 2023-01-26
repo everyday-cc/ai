@@ -2,6 +2,274 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-12-19-genesis-face-connect-could-eliminate-the-need-for-key-fobs-in-the-future.md",
+      "title": "Genesis' Face Connect Could Eliminate The Need For Key Fobs In The Future",
+      "excerpt": "It can be a hassle, but with Genesis introducing face recognition technology, this problem could soon be a thing of the past. Genesis has rolled out a new EV, the GV 60, with a Face Recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.topspeed.com/genesis-face-recognition-to-eliminate-key-fobs/",
+      "originalUrl": "https://www.topspeed.com/genesis-face-recognition-to-eliminate-key-fobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/2022/12/3056-genesisgv60.jpg",
+          "width": 4096,
+          "height": 2304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T00:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TopSpeed",
+        "domain": "topspeed.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-this-mechanical-engineer-is-building-robots-to-harvest-raspberries.md",
+      "title": "This mechanical engineer is building robots to harvest raspberries",
+      "excerpt": "Mechanical engineer Josie Hughes is on a mission to show how robotics can play a role in our everyday lives, particularly when it comes to food. Starting with LEGO robots as a child, the Cambridge graduate now leads the Computational Robot Design & Fabrication Lab (CREATE) at the Swiss Federal Institute of Technology Lausanne (EPFL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221215134817-03-josie-hughes-raspberry-robot-t4g-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "publishedDateTime": "2022-12-18T23:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-stereolabs-launches-3d-robot-camera.md",
+      "title": "Stereolabs Launches 3D Robot Camera",
+      "excerpt": "the ZED-X is built for production-scale deployments of autonomous robots under rugged conditions. With the ZED SDK and the ZED Hub multi-camera control platform, the ZED-X delivers capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/product/22591988/stereolabs-stereolabs-launches-3d-robot-camera",
+      "originalUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/product/22591988/stereolabs-stereolabs-launches-3d-robot-camera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/12/ZEDX_V01_v02.639356278b6e6.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-18T22:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "For Construction Pros",
+        "domain": "forconstructionpros.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-with-robots-and-ai-a-five-star-hotel-to-help-honeybees.md",
+      "title": "With robots and AI, a “five-star hotel” to help honeybees",
+      "excerpt": "Beewise, a 4-year-old startup based in Oakland, California, offers a particularly inspiring example of how robotics and AI might radically slow and even reverse the global honeybee die-off.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-96746,msid-96332564/bees-istock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
+      "publishedDateTime": "2022-12-18T20:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Geographical Segmentation By Forecast Revenue 2023-2029",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 19, 2022 (The Expresswire) -- “Healthcare Natural Language Processing (NLP) Market\" is segmented by Company, Region (country), By Type, Application, stakeholders and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-low-et-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.md",
+      "title": "Low ET levels in blood plasma may predict increased risk of cognitive impairment, dementia",
+      "excerpt": "A study by Prof Halliwell's team in 2016 showed lower ET levels in blood plasma among participants with mild cognitive impairment. This was verified in a much larger group of cognitively impaired ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221219/Low-ET-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221219/Low-ET-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-the-backstory-of-chatgpt-creator-openai.md",
       "title": "The Backstory of ChatGPT Creator OpenAI",
       "excerpt": "ChatGPT, the artificial-intelligence program captivating Silicon Valley with its sophisticated prose, had its origin three years ago, when technology investor Sam Altman became chief executive of ...",
@@ -874,288 +1142,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-top-tip-if-you-want-more-of-that-vc-money-stick-some-ai-in-your-chips.md",
-      "title": "Top tip: If you want more of that VC money, stick some AI in your chips",
-      "excerpt": "Analysis Some AI chip startups are managing to raise capital from investors despite operating in a crowded market of competitors where venture capital funding has plummeted in the past year. Venture-backed AI chip designers that have raised funding rounds in recent months include Israel-based NeuReality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/12/16/ai_chip_vc_funding/",
-      "originalUrl": "https://www.theregister.com/2022/12/16/ai_chip_vc_funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/08/19/chip_shutterstock.jpg",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/12/16/ai_chip_vc_funding/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/16/ai_chip_vc_funding/",
-      "publishedDateTime": "2022-12-16T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-how-artificial-intelligence-could-be-used-to-fight-wildfires.md",
-      "title": "How artificial intelligence could be used to fight wildfires",
-      "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "q13fox",
-        "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-conversing-with-my-ai-friend-chatgpt-the-deanbeat.md",
-      "title": "Conversing with my AI friend ChatGPT | The DeanBeat",
-      "excerpt": "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/",
-      "originalUrl": "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/dean-vana-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/",
-      "publishedDateTime": "2022-12-16T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study.md",
-      "title": "TechCrunch+ roundup: New VC rules, AI biotech investor survey, Instagram ad case study",
-      "excerpt": "\"Growth at all costs\" is a fairy tale made possible by cheap money that helped VCs set expectations for founders — and each other.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/",
-      "originalUrl": "https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1245655241.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/amp/",
-      "publishedDateTime": "2022-12-16T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-top-ai-startup-news-of-the-week-dataiku-zappi-vicai-and-more.md",
-      "title": "Top AI startup news of the week: Dataiku, Zappi, Vic.ai and more",
-      "excerpt": "As we get ready for 2023, this is the first VentureBeat weekly roundup of AI startup news — read more about last week's AI headline-makers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week/",
-      "originalUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/micheile-dot-com-ZVprbBmT8QA-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week/amp/",
-      "publishedDateTime": "2022-12-16T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-gm-units-self-driving-taxis-are-subject-of-us-safety-investigation.md",
-      "title": "G.M. Unit’s Self-Driving Taxis Are Subject of U.S. Safety Investigation",
-      "excerpt": "The National Highway Traffic Safety Administration is looking into unexpected braking by cars operated by Cruise, a part of General Motors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/16/multimedia/16CRUISE-1-b179/16CRUISE-1-b179-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html",
-      "publishedDateTime": "2022-12-16T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

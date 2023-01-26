@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-09-21-lets-investigate-a-way-to-invest-in-artificial-intelligence-and-robotics.md",
+      "title": "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics",
+      "excerpt": "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) .",
+      "sourceUrl": null,
+      "webUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
+      "originalUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png",
+          "width": 1152,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-sales-revenue-of-autonomous-cars-market-to-escalate-in-the-coming-years-owing-to-rapid-growth-in-consumer-adoption.md",
       "title": "Sales Revenue of Autonomous Cars Market to Escalate in the Coming Years Owing to Rapid Growth in Consumer Adoption",
       "excerpt": "How is the level 2 vehicle segment of autonomous car market faring of late? According to reliable reports, with automotive technologies showing incredible potential, a big shift has been witnessed from level-1 to level-4 type of autonomous driving.",
@@ -1364,58 +1408,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-what-the-eu-ai-act-means-for-the-insurance-industry.md",
-      "title": "What the EU AI Act means for the insurance industry",
-      "excerpt": "A new EU AI Act draft shows that regulatory oversight of AI and the data fed into AI systems will increase in Europe and also globally.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/",
-      "originalUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/amp/",
-      "publishedDateTime": "2022-09-13T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T19:17:00Z
 originalUrl: "https://www.technologyreview.com/2023/01/26/1067317/podcast-roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy-consent-agreement-misled/"
 webUrl: "https://www.technologyreview.com/2023/01/26/1067317/podcast-roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy-consent-agreement-misled/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MIT Technology Review

@@ -39,7 +39,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/01/9-Sponsored-How-infrastructure-helps-CIOs-unify-enterprise-AI-GREEN-e1674659119985.jpg?w=1200&strip=all"
         width: 1200

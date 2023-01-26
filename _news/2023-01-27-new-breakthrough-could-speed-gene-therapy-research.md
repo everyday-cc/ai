@@ -1,20 +1,27 @@
 ---
 category: news
 title: "New Breakthrough Could Speed Gene Therapy Research"
-excerpt: "A new artificial intelligence program is poised to enable the simple production ... Zinc finger tools also are smaller and might provide more flexible gene therapy techniques compared with CRISPR, researchers added. “By speeding up zinc finger design ..."
-publishedDateTime: 2023-01-26T20:27:00Z
-originalUrl: "https://tulsaworld.com/lifestyles/health-med-fit/new-breakthrough-could-speed-gene-therapy-research/article_4169b87a-44e9-534b-949e-dd00b444d4d0.html"
-webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/new-breakthrough-could-speed-gene-therapy-research/article_4169b87a-44e9-534b-949e-dd00b444d4d0.html"
+excerpt: "This technology could accelerate development of gene therapies for illnesses like cystic fibrosis, Tay-Sachs disease and sickle cell anemia, which are all caused by errors in the"
+publishedDateTime: 2023-01-26T16:00:00Z
+originalUrl: "https://www.usnews.com/news/health-news/articles/2023-01-26/new-breakthrough-could-speed-gene-therapy-research"
+webUrl: "https://www.usnews.com/news/health-news/articles/2023-01-26/new-breakthrough-could-speed-gene-therapy-research"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "fhgNeet3oKAiPB10OJBVoYGBPIbcaY0USoR6PQKfin/IXKsW5bLNolmk9PbuwadOAWzQH5KzhWzPB8o1cRMP+WmrV4aFFns9xO/GwCd2jz1Akf3vs7SsSkKcL9knTdcQfQGXCjfWGml4RiAD2yrFJ1ymnlYCHxxSkpQkzZFSHr3Mhkg/cP10j33x8I3gg4cpf9e2xvYaBdEiZxbptZfxjccpGnppFW7ggf0w+XOoXPwEOboUX0rteJV4z4YUo9wVDtUG3CoAofIzxRji2zQz33LkSJWe+ZBN6aYZaoVWYMajX/Vad+ZHjTqU7pOj07F+xEZmRuvRUKJgU8U9HrkioEgNgg7XFmM8egDf8wJzhev2vtCXgikAe1YF9XCv/L66NlVg3mW3z7uwJhmj9a2l0w8UCyASzOV4DUNYu3clcDsJ0+5Yejg0WXG2GdX+5XmsfK1WoLupgNT9KZQxWoohG5sw8RlyR8rPR2ApZ94yJv1mPJxab1lPBovYNVI/wC+WZ9RZr1VvPbw9FjdKgYPZJg==;ozvKtTbLu1QUd7ifymAnpw=="
+secured: "cpcudaJBYA8gsQpnJBhoGF4viI+HDqjubLoh+X8WWSa1gmdf6DW7sPDQc9HOkyBmK5qvx24Ull8DoothSpMeIBQKdBa3xx2C/df5EnkJ4aEEJ65hEyFB0NoFB5nP1xvey8P1BzaYc/SyRfjvbBXRrPkBLHGvOJYhtbwLWy6JWglrzMXcV6GbbOrH+ILc5EQ0aVBoGWxLojlWZ0YsUiRreTsc2sKuFvfgEcUXYgFV4rw3+56MLK0LFDzdp+h6Sf+4F22AnpFTDTvB7P8WU4S3LZNTjQTnD4JtEbhGmOKzgzBNdYNdrwNJbqi3YOr7z3IvNoD5qdfNt9fPdx8BxSjeA1NwvVycpQVaWHrNlhr9J4UBWreVMku4su/OmDOILsXMNF2s+d8feEE/rcoP+k6/MtgZsCA8fV4OCNaX/sTmYP8wPNwKO5q7MBNPlZKT43Onv7a2/k9N+CNq0CdYkWvJc+f4loAI/vk5OuEgMKGHOuM34tGADXqbD8vpFgZwB+cuYUjeMPZqpl68CgVkRmaOJw==;NauvKtad/XIwj1YBmRRdTg=="
 ---
 

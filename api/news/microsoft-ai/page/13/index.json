@@ -2,6 +2,59 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-07-dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multicloud-preview.md",
+      "title": "Domino’s MLops release focuses on GPUs and deep learning, offers multicloud preview",
+      "excerpt": "[Also read: Domino Data Lab announces latest MLops platform to satisfy both data science and IT] GPUs can make lots of ML and deep learning operations go faster because they parallelize massive ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
+      "originalUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/fpga-ai-production.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
+      "publishedDateTime": "2022-10-06T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-hanson-an-epidemic-of-cognitive-impairment.md",
       "title": "HANSON: An epidemic of cognitive impairment?",
       "excerpt": "Partisan charges grew so intense that Trump voluntarily took — and aced — the Montreal Cognitive Assessment. Strangely, the same Left arm-chair psychiatrists offer no such worries about Biden ...",
@@ -1269,40 +1322,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql.md",
-      "title": "Arcion Announces Agentless Change Data Capture for Azure, SQL Server, Oracle, SAP HANA, and MySQL",
-      "excerpt": "Arcion, creator of the only cloud-native, CDC-based data replication platform, today announced agentless change data capture (CDC) for all of its supported databases and applications. Enterprises can",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29051857",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29051857",
-      "publishedDateTime": "2022-09-28T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

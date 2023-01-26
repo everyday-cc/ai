@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
+    excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
+    publishedDateTime: 2023-01-26T22:03:00Z
+    webUrl: "https://electrek.co/2023/01/26/elon-musk-thinks-not-smar-dont-teslas-full-self-driving-claims/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The future of testing self-driving cars"
     excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
     publishedDateTime: 2023-01-25T23:24:00Z

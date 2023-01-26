@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T19:30:00Z
 originalUrl: "https://liliputing.com/nviida-jetson-orin-nx-16gb-is-now-available-tiny-system-on-a-module-up-to-100-tops-ai-performance/"
 webUrl: "https://liliputing.com/nviida-jetson-orin-nx-16gb-is-now-available-tiny-system-on-a-module-up-to-100-tops-ai-performance/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Liliputing

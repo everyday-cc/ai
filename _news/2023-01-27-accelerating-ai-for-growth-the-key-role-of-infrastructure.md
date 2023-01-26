@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-i
 ampWebUrl: "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:

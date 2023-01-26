@@ -2,6 +2,275 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2022-09-16-ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists.md",
+      "title": "Ecobank partners with AMA Academy to launch fintech training for journalists",
+      "excerpt": "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
+      "originalUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hapakenya.com/wp-content/uploads/2014/04/Ecobank.jpg",
+          "width": 640,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hapakenya.com",
+        "domain": "hapakenya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-oracle-announces-mysql-heatwave-on-aws.md",
+      "title": "Oracle announces MySQL HeatWave on AWS",
+      "excerpt": "Oracle recently announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP,",
+      "sourceUrl": null,
+      "webUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
+      "originalUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manilastandard.net/wp-content/uploads/2022/09/Mina-Lim-Managing-Director-Oracle-Philippines.jpg",
+          "width": 603,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilastandard",
+        "domain": "manilastandard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-machine-learning-gives-glimpse-of-how-a-dogs-brain-represents-what-it-sees.md",
+      "title": "Machine learning gives glimpse of how a dog's brain represents what it sees",
+      "excerpt": "Scientists have decoded visual images from a dog's brain, offering a first look at how the canine mind reconstructs what it sees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220915123716.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220915123716.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
+      "title": "Oracle Brings HeatWave To AWS",
+      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
+      "publishedDateTime": "2022-09-15T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.md",
+      "title": "Balanced meal timing has potentially positive effects on cognitive health",
+      "excerpt": "However, evidence regarding the relationship between TPEI and cognitive function at the population level is relatively lacking. Previous studies in animal models have shown that the disruption in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220916/Balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220916/Balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/10/Breakfast_served_with_coffee%2c_orange_juice%2c_croissants%2c_cereals_and_fruits._Balanced_diet-monticello_75d5748bf4164d1cb1502f79dcbee848-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-how-artificial-intelligence-is-transforming-cx.md",
+      "title": "How Artificial Intelligence Is Transforming CX",
+      "excerpt": "Artificial intelligence (AI) is driving a great wave of contact center system and application overhauls and upgrades. In the past three years, AI has progressed from a concept with great potential to a practical set of technologies that are being used to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154964",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154964",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/148038-CRM_1022_RC-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-will-artificial-intelligence-chatbots-become-our-new-best-friends.md",
       "title": "Will artificial intelligence chatbots become our new best friends?",
       "excerpt": "There was a time when the idea of artificial intelligence was confined to the world of distant research labs and little-known technology whizzes. That time has gone. AI-based concepts have slipped ...",
@@ -851,292 +1120,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-ai-act-what-does-general-purpose-ai-gpai-even-mean.md",
-      "title": "AI Act: What does general purpose AI (GPAI) even mean?",
-      "excerpt": "In a discussion about the EU's AI Act this week, panelists discussed the difficulty of defining GPAI and other new AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
-      "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all",
-          "width": 800,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
-      "publishedDateTime": "2022-09-15T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis.md",
-      "title": "Artificial Intelligence Can Bring Real Solutions To The Power Grid Crisis",
-      "excerpt": "The state utility registered a one-day summertime record for electricity usage, peaking at 21,086 megawatt-hours of electricity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/",
-      "originalUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631a5150de0822c428d70388/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/",
-      "publishedDateTime": "2022-09-15T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast.md",
-      "title": "Artificial Intelligence Chip Market Size 2022-2027, Share, Trends, Analysis and Forecast",
-      "excerpt": "The latest research study \" Artificial Intelligence Chip Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \" by IMARC Group, finds that the global artificial intelligence chip market size reached a value of US$ 9.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast-2022-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast-2022-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-vonage-launches-ai-studio.md",
-      "title": "Vonage Launches AI Studio",
-      "excerpt": "Founder and CEO of Aragon Research. \"Similarly, businesses need the tools that enable them to easily create these kinds of meaningful connections, augmented by AI capabilities to add efficiencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vonage-launches-ai-studio-1031745371",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vonage-launches-ai-studio-1031745371",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-get-global-exposure-to-japans-robotics-industry-with-this-etf.md",
-      "title": "Get Global Exposure to Japan’s Robotics Industry With This ETF",
-      "excerpt": "There's no doubt that robotics is going to experience unprecedented growth over the next decade as the world becomes more automated, but certain countries have been leading the charge towards that shift,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
-      "originalUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
-      "publishedDateTime": "2022-09-15T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-expanding-access-to-technology-by-democratizing-access-to-ai-powered-software.md",
-      "title": "Expanding Access To Technology By Democratizing Access To AI-Powered Software",
-      "excerpt": "AI is now transforming the software development space itself and making it easier for businesses of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63207effe02c83fcd4d70386/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
-      "publishedDateTime": "2022-09-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

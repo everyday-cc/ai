@@ -107,6 +107,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
+    excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
+    publishedDateTime: 2023-01-26T12:06:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article271680117.html"
+    ampWebUrl: "https://amp.kansascity.com/press-releases/article271680117.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/press-releases/article271680117.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 53
   - title: "The Future of Artificial Intelligence (AI)"
     excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
     publishedDateTime: 2023-01-24T08:55:00Z
@@ -121,17 +132,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
-    excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
-    publishedDateTime: 2023-01-26T12:06:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
-    ampWebUrl: "https://amp.sacbee.com/press-releases/article271680117.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271680117.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 51
   - title: "2023 Will Be A Defining Year For AI And The Future Of Work"
     excerpt: "Real-Time Translation: AI could be used by global organizations for universal and real-time translation across languages. For any leader considering AI as a force multiplier for their organization, here are three rules to consider before embarking on your ..."
     publishedDateTime: 2023-01-25T14:30:00Z

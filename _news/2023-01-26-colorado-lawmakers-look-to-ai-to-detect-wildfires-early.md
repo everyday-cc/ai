@@ -44,18 +44,20 @@ related:
         height: 675
         isCached: true
   - title: "Colorado lawmakers look to AI to detect wildfires earlier"
-    excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires before they burn out of control."
-    publishedDateTime: 2023-01-26T16:48:00Z
-    webUrl: "https://www.clickorlando.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
+    excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
+    publishedDateTime: 2023-01-26T16:55:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/colorado-lawmakers-ai-detect-wildfires-earlier-96692633"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/colorado-lawmakers-ai-detect-wildfires-earlier-96692633"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/colorado-lawmakers-ai-detect-wildfires-earlier-96692633"
     type: article
     provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 39
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/R2F5NBORTZDIJBMRSAUUHEUFGI.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 398
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
 secured: "uWvuP7kAWEajxIqSiWqEKfbgR9+YZTMJKGjfkSagC4cPeq/0d5z1QqeJUPfV/YNshbni7GAfJ/QqfbNnaulDBb8bkEMenS+3ybs0C1snh5TyhKMNNJHdKbPlPy/YLGeR66zDq3czLVqKgirkP9b9q64v2PJ6T1P4/Gdvzvjdc3WFJwl9X/Q6hOudyKELe+uWmA/O94uRhev0ivU08HJKYt+/nOjDVgAEh2Fu0vEi/LO1LV7FQl8D9H5WzMUd5E3csZiw7RCrVL86GBEKWwYEDBNAtEMhXUj3Q8zowFDEH2FHQGy7qmo7p7IaX6GsUpBlxXeLHCJ6o226EFF1N9u3Bmcf3DkqBLd/NxyQBYdFOFg=;IlyjNgXZFyGrTpxceQhRqQ=="

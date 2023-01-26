@@ -3,18 +3,95 @@ category: news
 title: "Man planned on using AI-powered lawyer in court; then he started getting threats"
 excerpt: "Artificial intelligence is being used to create art, answer your questions, and write essays. What about an AI-powered lawyer?"
 publishedDateTime: 2023-01-26T12:15:00Z
-originalUrl: "https://www.10news.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-webUrl: "https://www.10news.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+originalUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+webUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
+ampWebUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
+cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
 type: article
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: ABC 10 News
-  domain: 10news.com
+  name: WTKR
+  domain: wtkr.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "HZqxPs1SU51awiKy082WjI8P2PgFhjvC5izjcxd/4cdUF2hVtZx+wjOvXcJp5R7i1o7KG9ZTINMeWRKiIEYPwHZdOSx4CDm5PoBPCoBXvOKbsSD2wmcWR6i+lONrGcZtCS3XPhsku4YYlpr9ZnxL4I882E96styGBBAJrCLxHUlukAXQp5XB6guwc/+fSDH22EDTG0G6HWSMNsEs7tMJJ57Q92OBvZVtyJgrAuaYaVri4UZXN2syMGm9ygHlJ0YcSFATj3N9JOrza/urGkwrhn4KH2KqZLcE9x0PwDCAF1/VtkIkTkwX4SCVNPU9E7QnF8kh7KW1ex5dJ82KYPK6bvo6dzx+xvFtO1aNG/Oi3cc=;pRFO+vXqYuTPYK7hvKvQdA=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/6025408/2147483647/strip/true/crop/4121x2318+0+214/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "A robot was scheduled to argue in court, then came the jail threats"
+    excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
+    publishedDateTime: 2023-01-26T20:29:00Z
+    webUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+    ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
+    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 74
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/f2f3f2a/2147483647/strip/true/crop/876x540+0+106/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2F22222_custom-32c6a66f8277ba536f6b7c8d91afd3debcf30a4a.jpg"
+        width: 880
+        height: 542
+        isCached: true
+  - title: "AI Robot Lawyer Just Got Disbarred By Its Creator Before Its First Court Case"
+    excerpt: "Under the threat of jail time, Joshua Browder, founder and CEO of DoNotPay, has decided not to let the 'world's first robot lawyer' help a defendant argue a traffic infraction in court."
+    publishedDateTime: 2023-01-26T15:21:00Z
+    webUrl: "https://hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
+    ampWebUrl: "https://amp.hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 71
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/60754/content/Courtroom_Hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
+  - title: "First AI-powered robot lawyer won't be used in court due to jail threats"
+    excerpt: "News that an AI would represent a defendant fighting a speeding ticket in court on February 22 arrived earlier this month. It would have involved an"
+    publishedDateTime: 2023-01-26T15:16:00Z
+    webUrl: "https://www.techspot.com/news/97393-first-ai-powered-robot-lawyer-wont-appear-court.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 63
+  - title: "A robot was scheduled to argue in court, then came the jail threats"
+    excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
+    publishedDateTime: 2023-01-26T06:11:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1151435033/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 54
+    images:
+      - url: "https://media.npr.org/assets/img/2023/01/25/22222-43fdec9bf493d0af69c55146baf0717b62e92b05.jpg?s=6"
+        width: 948
+        height: 712
+        isCached: true
+  - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
+    excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
+    publishedDateTime: 2023-01-26T17:08:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 34
+
+secured: "EjJfCyRf7Uh+apdqCgR8JBx8CRHoDab2izcu4W1EPI3dsigDI9fYH1W7g9OI/oGADX1bMASjTUP3BgaO3uYKngIckfE98jCD+HSMVt7J9mN20FNF5B0HeFLYvdVw4qUTEQNfCCaCnnTVGVIv2egBNNhRM4MXvbvTlxKwinDcVS0X/7BybbxNsJZLOx5RA3xo2rSafFnRRREyuAuf+nIIWWARR+D9Ya94w5Ui5yMr6d73ET4Ub9rrp0sa0lkjZRHZ+WSP7hl5vchcrusls8XIRBfAD81BQ9RNnRZZ6tyZjl76jSHQ5bZYTC88/s13mfl1mgcs3aqVGoXAOdb8sKMTpapZ3ZqcYKBRntPagueiVYQ=;PNrXCO5SJFnLONaBzasDHg=="
 ---
 

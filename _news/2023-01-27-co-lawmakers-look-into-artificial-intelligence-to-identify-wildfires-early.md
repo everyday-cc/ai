@@ -47,20 +47,22 @@ related:
         height: 749
         isCached: true
   - title: "Colorado lawmakers look to AI to detect wildfires earlier"
-    excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires before they burn out of control."
-    publishedDateTime: 2023-01-26T16:48:00Z
-    webUrl: "https://www.clickorlando.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
+    excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
+    publishedDateTime: 2023-01-26T16:55:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/colorado-lawmakers-ai-detect-wildfires-earlier-96692633"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/colorado-lawmakers-ai-detect-wildfires-earlier-96692633"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/colorado-lawmakers-ai-detect-wildfires-earlier-96692633"
     type: article
     provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 39
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/R2F5NBORTZDIJBMRSAUUHEUFGI.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 398
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
-secured: "yJGbC2TpwFqo1RGfLcivmBAVR81hA+fI0gIFK6iv8hDcaqEcbzf9TC93N5W9e2AYv9dKZHRuKRmD7SBkvZC2BKC1yfh9H4+ocL/uGKGcXNM30fCw2/4b0jmRiBvVqWuoXusobsuT2kXv0YfpCydW0m/7XNxVptMDE3gaETnOPdXdnyIJWw2e2R/0jGe6Zk/NjNOXzAfp0FNA87UrziM8/549wRzsjiPtfeHjoAuY9bGgsoo6aoSCgcYl9Ocx/+GTfKFAXtdoNq0F/yLYMp0bRJQprpzigqNMq6pU8mqjsxnMPSIIPim3rkT5U7l/nlckImvXU+555D7A/6Sd7NVahqZHfbSz00dMUGiNMpW5QWI=;aY4WRBkA/gSRJ+/Q4nvpmw=="
+secured: "GmkUDeWlTRi3oG7vQePktP8gzVf1trzw9/wq3tX6OvLA8AcpTk/tI0gU1sKxjWJ2ZhdpWV8Dd6AO2/XnF5r3gO6h9T8uYr81nryL/gSpjiFKeOspod/WmKEBCYKhS8JuD4tc7OBNgYCLDqVaI07+Kl4B/WgIG34wpO/XNncxlz1OcTEL/kUyD7U623W8oXT3zrNb+jBMar4GUJ3tjtDgwuo5+MZVmHHFRNFLCnwDM4XzF7EnoROvgmnAOHdQIVWl6s/8Yn86JE6x4pe542UiP27XAVA64f41LFgPormnSNFMwTj0JfcKqoS/k40kre/jJEDF9aP5ciZ0fUIDHv7wjviKf1VyephKbVZprSvvlfuXWxx0a04pqH9nGzl3pIsaXPwwnNGOeQQmSrrHSvSFasDYIL/S1BHt4D7woonWopGXLKIAC9gkv2BqHw5cbN0Qykd2ngjlITOd2LFy5yptiQQaHcpdsy13jb89d1oP8aF4KYeHKMXKlkIA94DPFdAgHtgbq4VeVTh8rSgN6wTTcQ==;n89ErZrrcU5mC9RRP2tpJA=="
 ---
 

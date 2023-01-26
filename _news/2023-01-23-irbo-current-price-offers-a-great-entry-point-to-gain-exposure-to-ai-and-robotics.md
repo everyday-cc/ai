@@ -35,6 +35,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Experts grow concerned about potential misuse of artificial intelligence"
+    excerpt: "Amid the expansion of artificial intelligence applications for military and civilian use, more experts are growing concerned about the possible misuse of the technology."
+    publishedDateTime: 2023-01-26T19:09:00Z
+    webUrl: "https://www.local10.com/news/local/2023/01/26/experts-grow-concerned-about-potential-misuse-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 18
 
 secured: "8EnqNt95NHbm8TgItedvP5b7pJxWs8OHinhbfHAY6txrpDOOS3qIPissXaV4zSWiA9P82mVSSI7IWyfDqZBcJaVjVRkESE3+4QCeu4PlnUDQGvxx9awjIEpkvAYS+iV8T0LB8pjr0VQjjH6p51z9HH6J52j+yPhPrftBI4h1gc16wEnQvR8m4kHZJ06S+gyIAP/KLaHOlo775OH96zfuonuK9NyFq2yKdewEtOo3tRy4gHidtvZp78tWe9N4cqtB9EQ2F/Is3eb1vfrRYCysP89I1EfHAwJjckRlSbQKAmNtJvtZlb+tuEDlxPRa/3YuZFpzygRp5D/+HK125l3QoF1PE/tZMP+WqsWouqEDkdxJNuUzDPsPgDcDu22hkb1oDwmZfDJtLFNOrCph8Nf4H6Qojbr/Y0DvNZWgLWnBnTTgmqiRGgy4D6L8IHHl+IGpyy5KdXCz3I1i9lj3SMseoY0BgwcEk4HjmQBlW0upMoPGdbC9/JsXZ4RrTcbC0NSYEanYJfT1SSok1CqUDlHyiA==;nQTLcn3laABwPK9z1RZrng=="
 ---

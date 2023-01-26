@@ -7,7 +7,7 @@ originalUrl: "https://cns.utexas.edu/news/ai-master-s-program-launches-at-ut-aus
 webUrl: "https://cns.utexas.edu/news/ai-master-s-program-launches-at-ut-austin-with-ability-to-serve-thousands"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 701
     height: 416
     isCached: true
+
+related:
+  - title: "UT launching master's program in artificial intelligence"
+    excerpt: "The degree will include formal AI ethics training that was created by the Institute for Foundations of Machine Learning and UT's Good Systems project faculty."
+    publishedDateTime: 2023-01-26T22:18:00Z
+    webUrl: "https://www.kvue.com/article/news/education/university-of-texas/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/education/university-of-texas/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/education/university-of-texas/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 59
+    images:
+      - url: "https://media.kvue.com/assets/KVUE/images/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "zmkKzYzTXprTeROk2h6py/UFG+bai2WBiQoPJR5gha7IqCDVJn3jtZT+PyR+EhivfGALEsqysKaoA8yu6MJiH7iKONT7c2UkG97OX04rk/8x6Zy+ZEMbdZqewFCpDqA/93hfFPrjmmbFs7C1bWJXQg5l2rr6xLiwcoWpPruPaOH3KLYupTdYDiXIHuJjEPViKx9DfThlmDWGlPRd+Qxj9kREzvCteOWAPt6a0xbdEejM2r9+oS0cearDSbqprf/zzDnAHoPdZqyBJ5YTGtduJaF7vEThHfdVp5qMCeg8KKLE/sj/9xeNZYUPN2Lzzx+clVaA6RzbOe7/gWeBq1QujigTx5pw25YaJMfZgMrlO+qTdlFVdLMasukASYRkHE8ldNTtwctjRXuIG5pI55vx+QJp6NvICkBjnmMYXrCixaxS4LmSEa//sW2MDCy6MSkGPl1opdyA3re0b7YIimsLdelGYEozPoFgh4jfoIN8U1am8dB+7EB7wwD+ZJPZjq9A9/q2gsn6sYaoW2gKdybqKg==;7FEjsOqy5AfjFGitmeZLEg=="
 ---

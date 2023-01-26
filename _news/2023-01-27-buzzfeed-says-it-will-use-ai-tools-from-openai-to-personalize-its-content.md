@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/1/26/23572834/buzzfeed-using-ai-tool
 webUrl: "https://www.theverge.com/2023/1/26/23572834/buzzfeed-using-ai-tools-personalize-generate-content-openai"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Will Start Writing BuzzFeed's Notorious Personalized Quizzes"
+    excerpt: "The company said it wouldn’t use AI for news journalism, but CEO Jonah Peretti talked up AI as a shift 'toward longer term trends.'"
+    publishedDateTime: 2023-01-26T21:40:00Z
+    webUrl: "https://gizmodo.com/ai-buzzfeed-chatgpt-quiz-1850036965"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8fea373d749715dfcbe4768a647f0955.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "BuzzFeed stock rises 150% as company plans to use AI to create content"
     excerpt: "Buzzfeed is planning to heavily lean on AI-generated content, CEO Jonah Peretti said in a memo to staff on Thursday."
     publishedDateTime: 2023-01-26T17:29:00Z

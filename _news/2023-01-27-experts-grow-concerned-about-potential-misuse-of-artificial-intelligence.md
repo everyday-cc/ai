@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T19:09:00Z
 originalUrl: "https://www.local10.com/news/local/2023/01/26/experts-grow-concerned-about-potential-misuse-of-artificial-intelligence/"
 webUrl: "https://www.local10.com/news/local/2023/01/26/experts-grow-concerned-about-potential-misuse-of-artificial-intelligence/"
 type: article
+quality: 18
+heat: -1
+published: false
 
 provider:
   name: WPLG
@@ -14,6 +17,33 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Ted Lieu and a robot make great points about the dangers of AI"
+    excerpt: "The California Democrat used an op-ed in The New York Times — and words written by ChatGPT — to warn about the coming age of artificial intelligence."
+    publishedDateTime: 2023-01-24T21:12:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 74
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230124-ROB-Ted-Lieu-jg-dc9430.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "IRBO: Current Price Offers A Great Entry Point To Gain Exposure To AI And Robotics"
+    excerpt: "Current price of IRBO is favorable and macrotrends have very large potential upside. However, given the volatile environment, buying should be done gradually. Click here to know more."
+    publishedDateTime: 2023-01-23T11:40:00Z
+    webUrl: "https://seekingalpha.com/article/4571593-irbo-current-price-great-entry-point-gain-exposure-ai-robotics"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 43
 
 secured: "FAdyVZJSz+CmG63DF9Qu953FYVIJUtcwKoQR/olxvv+YHeB00eIU/3VKNJr91/9C4r9+45z3c7p/8lXn9ZI0OPtsj2BUCXOC9QNAJStw6+Fs5ttyo9cNZmmB1eONIdc+zz1j8Z9yLJLOls8erDnjK8zeUalYpH/Wg7IvNmdm0E6KWaR1nMN/XmULJ6lzb8dCFUfRljjn2Q3c97nQKGKUGdnPcAZQpz+WJ2CmI8gcRT2q6C+M9O/riYkLXwbbQ8YAw0bumnDslwTcBNZY/dp0bmMapbAt3T4qumqumdfpoXE3salxoJue4kOUh5Tojj2hmCNSQdTx8y9n0FlYzAIY5IwO4DSssmArw+KHVkxYjVg=;Aedpsoyz80EkwSZLE9jflw=="
 ---

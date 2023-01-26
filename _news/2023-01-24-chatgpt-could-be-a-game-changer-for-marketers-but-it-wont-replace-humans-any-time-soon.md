@@ -63,6 +63,15 @@ related:
         width: 1250
         height: 703
         isCached: true
+  - title: "Is ChatGPT Becoming Synonymous With Plagiarism in Scientific Research?"
+    excerpt: "Holden Thorp, PhD, editor-in-chief of Science, highlighted the capabilities and potential benefits of using ChatGPT and other language-generating AI programs, but emphasized that this technology should not be considered true authorship for scientific papers."
+    publishedDateTime: 2023-01-26T19:37:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/102830"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 4
 
 secured: "nACbvrmO3JTdKu2QVuC7CSUkwqLws/w11tLdqoTBCzd2hjQ7U3eSsCT4DFcdynjPOSvSh3uv6daBj7ePFkyYnIv8u/9XMz2qtHD51nV8uSCADsGu9rAHhL5mxMNYaNhs6MQrTPROIZlpdqwV7PcfM67az1K2n4pxcx3/seG/fiTKUesgrxB4WR8W3FJFsmMw5cC0ayDCqsowt6GXyp7ZpM6UJFbJIv2W6PD4HZWM4bqp6SWjt/vjIOUzwiJ93hizJrjDLe66Nuxy6nBlwFCumMuOBMIMWOCZJvS0vOTbWEC+2ahOKXpnwZg23grGAYZ5dx4JayjTEaxLj7BskcdxvR5oIvR1CwEV+PlBoEPC8wg=;jseoUwEbugXuH64aOrDNFw=="
 ---

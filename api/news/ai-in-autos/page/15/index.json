@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-10-13-piggly-wiggly-midwest-partners-with-focal-systems-to-leverage-artificial-intelligence-and-automation-to-transform-the-shopper-experience.md",
+      "title": "Piggly Wiggly® Midwest Partners with Focal Systems to Leverage Artificial Intelligence and Automation to Transform the Shopper Experience",
+      "excerpt": "Focal Systems, the industry leader in retail automation, today announced a partnership with Piggly Wiggly Midwest stores. Piggly Wiggly Midwest will be piloting the Focal Operating System (FocalOS) in its Wisconsin and Illinois stores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/piggly-wiggly-midwest-partners-with-focal-systems-to-leverage-artificial-intelligence-and-automation-to-transform/article_7173d335-71c3-5704-a74d-251a79e22a4c.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/piggly-wiggly-midwest-partners-with-focal-systems-to-leverage-artificial-intelligence-and-automation-to-transform/article_7173d335-71c3-5704-a74d-251a79e22a4c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-self-driving-cars-and-asimovs-three-laws-about-robots.md",
       "title": "Self-Driving Cars And Asimov’s Three Laws About Robots",
       "excerpt": "Advances in Artificial Intelligence (AI ... One such example is the advent of AI-based true self-driving cars. A car that is being driven by an AI system can be said to be a type of robot.",
@@ -1326,49 +1369,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-chaos-on-launch-day-for-scotlands-first-driverless-bus-system-as-technical-glitches-saw-one-of-the-electric-shuttles-get-lost-forcing-a.md",
-      "title": "Chaos on launch day for Scotland's first driverless bus system as 'technical glitches' saw one of the electric shuttles get LOST - forcing a human operator to drive instead",
-      "excerpt": "Itsy Bitsy Teenie Weenie Driverless Machiney has a capacity of up to 15 passengers and is a first for Scotland. The vehicle uses sensors to guide its way through a pre-taught route but there are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/10/07/20/63239185-0-image-a-16_1665172533692.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "publishedDateTime": "2022-10-07T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

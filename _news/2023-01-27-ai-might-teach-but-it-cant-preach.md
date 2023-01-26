@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T19:45:00Z
 originalUrl: "https://www.christianitytoday.com/ct/2023/january-web-only/chatgpt-artificial-intelligence-ai-preach-sermons-church.html"
 webUrl: "https://www.christianitytoday.com/ct/2023/january-web-only/chatgpt-artificial-intelligence-ai-preach-sermons-church.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Christianity Today

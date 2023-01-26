@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-mon
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "MSG probed over use of facial recognition to eject lawyers from show venues"
+    excerpt: "The operator of Madison Square Garden and Radio City Music Hall is being probed by New York's attorney general over the company's use of facial recognition technology to identify and exclude lawyers from events."
+    publishedDateTime: 2023-01-26T20:03:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/01/msg-probed-over-use-of-facial-recognition-to-eject-lawyers-from-show-venues/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "How China outsells everyone on facial recognition surveillance"
     excerpt: "Global manufacturers, consultants and researchers in the facial recognition industry looking to profit from AI surveillance algorithms have a new resource."
     publishedDateTime: 2023-01-25T22:20:00Z

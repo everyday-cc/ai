@@ -41,6 +41,15 @@ related:
         width: 711
         height: 407
         isCached: true
+  - title: "Watch this person-shaped robot liquify and escape jail, all with the power of magnets"
+    excerpt: "Where traditional robots are hard-bodied and stiff, \"soft\" robots have the opposite problem; they are flexible but weak, and their movements are difficult to control. \"Giving robots the ability to switch between liquid and solid states endows them with ..."
+    publishedDateTime: 2023-01-25T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230125121555.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 57
 
 secured: "6QpMwH50uzkp9bourym3Sx5S9EZwj6KSX74hXsgkBrvS7D+UyLFSZ1TZqZK4fNtdwf7imQmwB+CRYV1AVlp3nAigm3uhw4e1ilyvqHEUwfjRzLoKuc/UCWKqWndhbih0UqXIjWgPaGuosO4+51s8y8RUcrutJjg8zLov/I4Fy7aoLDyby+3tEl6D5P4tTP6aZTFNF3qZ171XTfNavYd+SobaX9soCxjaoqVKPQT18uGAOTLY1+1kwrw0GsmFcGOM3gQ6wDGTxfGsPKj8lLHITRiO8iuFkRrUv/q0vkcvoHsowsfrErw5TxsO2XXw4lMgAFkNcDv37aLTd3NLigvkE7Q+iP0MU/U+DCk3ZTLH+Po=;GmXFH9CFQDi+FC7M/SeMnA=="
 ---

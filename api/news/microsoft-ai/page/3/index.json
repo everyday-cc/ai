@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-05-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility.md",
+      "title": "Hyundai Motor Group’s Supernal Collaborates With Microsoft to Advance Critical Technology for Advanced Air Mobility",
+      "excerpt": "Supernal announced a collaboration with Microsoft to advance autonomy, digital operations and cloud integration technologies for the aviation industry by running advanced air mobi",
+      "sourceUrl": null,
+      "webUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
+      "originalUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AviationPros",
+        "domain": "aviationpros.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-idc-marketscape-deems-sas-a-leader-for-machine-learning-operations-mlops-platforms.md",
       "title": "IDC MarketScape deems SAS a leader for machine learning operations (MLOps) platforms",
       "excerpt": "SAS has been named a leader in the inaugural IDC MarketScape: Worldwide Machine Learning Operations Platforms 2022 Vendor Assessment (doc #US48325822, December 2022). The report noted that as organizations are moving more models from experimentation to production,",
@@ -1261,49 +1295,6 @@
       "provider": {
         "name": "Indiana Daily Student",
         "domain": "idsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-exercise-mindfulness-dont-boost-cognitive-function-in-elderly-study-confirms.md",
-      "title": "Exercise, mindfulness don't boost cognitive function in elderly? Study confirms",
-      "excerpt": "An extensive study that looked at whether mindfulness training and exercise could improve cognitive performance in older persons showed no such improvement after either intervention. Researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/12/14/1600x900/pexels-brett-sayles-3729182_1664608913158_1671016541290_1671016541290.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608-amp.html",
-      "publishedDateTime": "2022-12-14T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

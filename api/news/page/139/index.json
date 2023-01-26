@@ -2,6 +2,301 @@
   "page": 139,
   "value": [
     {
+      "path": "_news/2022-09-21-edge-ai-chips-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
+      "title": "Edge AI Chips Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
+      "excerpt": "The total information and communication technology goods (including computers, peripheral devices, communication",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns.md",
+      "title": "AI And ML Have The Potential To Revolutionize How CMOs Conduct Campaigns",
+      "excerpt": "Though people have talked about AI for more than 50 years, only now has it moved from a tech buzzword to part of the common vernacular. Having worked in fintech for the past 10 years, the uptake I’ve witnessed has led me to wholly believe in the immense value these technologies hold for communications professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61814ed70e1ae168d212c0bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/amp/",
+      "publishedDateTime": "2022-09-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-this-uncensored-ai-art-tool-can-generate-fantasiesand-nightmares.md",
+      "title": "This Uncensored AI Art Tool Can Generate Fantasies—and Nightmares",
+      "excerpt": "Artists are free to create fantasies or nightmares with unrestricted image generator Stable Diffusion, but some fear a flood of AI-made horrors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/the-joy-and-dread-of-ai-image-generators-without-limits/",
+      "originalUrl": "https://www.wired.com/story/the-joy-and-dread-of-ai-image-generators-without-limits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/632a20908990652479ff393a/master/pass/lede_Corruption-of-a-Dark-mage.jpg",
+          "width": 1664,
+          "height": 1248,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/the-joy-and-dread-of-ai-image-generators-without-limits/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/the-joy-and-dread-of-ai-image-generators-without-limits/amp",
+      "publishedDateTime": "2022-09-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-the-role-of-explainable-ai-in-increasing-inclusion-in-talent.md",
+      "title": "The Role Of Explainable AI In Increasing Inclusion In Talent",
+      "excerpt": "Abakar Saidov is co-founder and CEO of Beamery, a leader in talent lifecycle management. In the wake of the \" Great Reshuffle ,\" companies continue to reevaluate their approach to recruitment and retention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6329b997b369a03f8d7b42bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/amp/",
+      "publishedDateTime": "2022-09-21T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority.md",
+      "title": "UNESCO urges government to consider ethics of AI in education as an absolute priority",
+      "excerpt": "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Sep/1663753381_unesco.png",
+          "width": 2560,
+          "height": 1907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "publishedDateTime": "2022-09-21T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence.md",
+      "title": "Dementia diagnosis could be fast-tracked using artificial intelligence",
+      "excerpt": "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
+      "originalUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Surrey",
+        "domain": "surrey.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-startup-diveplane-wants-to-make-ai-ethical.md",
       "title": "Startup Diveplane wants to make AI ethical",
       "excerpt": "In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases. One startup in North Carolina's Research Triangle is striving to make AI systems more ethical,",
@@ -922,265 +1217,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-robotic-eyes-attached-to-front-of-self-driving-cars-may-improve-safety.md",
-      "title": "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety",
-      "excerpt": "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
-      "originalUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg",
-          "width": 2058,
-          "height": 1330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
-      "publishedDateTime": "2022-09-20T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline.md",
-      "title": "Study suggests older adults show greater mental well-being despite cognitive decline",
-      "excerpt": "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/09/20/study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline/",
-      "originalUrl": "https://nypost.com/2022/09/20/study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-in-order-to-make-driverless-cars-safer-give-them-big-eyes.md",
-      "title": "In order to make driverless cars safer ... give them big eyes?",
-      "excerpt": "That person was hidden from outside view by a one-way mirror film on the windshield, making the cart appear to be driverless. Next, an omnidirectional camera was used to shoot four videos in which ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/driverless-cars-pedestrians-eyes/",
-      "originalUrl": "https://newatlas.com/automotive/driverless-cars-pedestrians-eyes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/00d364d/2147483647/strip/true/crop/1013x532+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd8%2Fd7%2F303b402d423799e21acb61a483d9%2Fscreen-shot-2022-09-20-at-9.37.13%20AM.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom.md",
-      "title": "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Global Artificial Neural Network Market (2022-2027) by Component, Organization Size, Application, Deployment Mode, Industry Vertical, and Geography, with Competitive Analysis, Impact of COVID ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/global-artificial-neural-network-market-to-reach-258-45-million-by-2027---researchandmarkets/article_1fda7ac2-1da7-5258-8e45-0390d21a9fa8.html",
-      "originalUrl": "https://www.eagletribune.com/region/global-artificial-neural-network-market-to-reach-258-45-million-by-2027---researchandmarkets/article_1fda7ac2-1da7-5258-8e45-0390d21a9fa8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-lets-investigate-a-way-to-invest-in-artificial-intelligence-and-robotics.md",
-      "title": "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics",
-      "excerpt": "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) .",
-      "sourceUrl": null,
-      "webUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
-      "originalUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png",
-          "width": 1152,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-and-booz-allen-hamilton-expand-partnership-to-bring-ai-enabled-cybersecurity-to-public-and-private-sectors.md",
-      "title": "NVIDIA and Booz Allen Hamilton Expand Partnership to Bring AI-Enabled Cybersecurity to Public and Private Sectors",
-      "excerpt": "NVIDIA and Booz Allen Hamilton (NYSE: BAH) today announced an expanded collaboration to bring an AI-enabled, GPU-accelerated cybersecurity platform to customers in the public and private sectors. The platform enables next-generation incident response systems that help customers pinpoint cybersecurity threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-nvidia-booz-allen-hamilton-expand-partnership-bring-ai-/2022/09/20/9677405.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-nvidia-booz-allen-hamilton-expand-partnership-bring-ai-/2022/09/20/9677405.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

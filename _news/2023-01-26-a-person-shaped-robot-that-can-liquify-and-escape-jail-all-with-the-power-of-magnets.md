@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-01-person-shaped-robot-liquify-powe
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-person-shaped-robot-liquify-power-magnets.amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Watch this person-shaped robot liquify and escape jail, all with the power of magnets"
+    excerpt: "Where traditional robots are hard-bodied and stiff, \"soft\" robots have the opposite problem; they are flexible but weak, and their movements are difficult to control. \"Giving robots the ability to switch between liquid and solid states endows them with ..."
+    publishedDateTime: 2023-01-25T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230125121555.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 57
   - title: "Sea cucumbers inspire liquid robots"
     excerpt: "The scientists put their robots through an obstacle course of mobility and shape-changing tests. (CN) — To create what an international team of engineers calls \"liquid\" robots, they had to overcome the limitations of both traditional and so-called \"soft\" robots."
     publishedDateTime: 2023-01-25T16:47:00Z

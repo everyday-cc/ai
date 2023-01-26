@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T19:02:00Z
 originalUrl: "https://www.thehansindia.com/business/ibm-gives-pink-slips-to-3900-employees-779390"
 webUrl: "https://www.thehansindia.com/business/ibm-gives-pink-slips-to-3900-employees-779390"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: The Hans India
@@ -14,6 +17,79 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "IBM fires 3,900 employees after missing annual cash target"
+    excerpt: "In an official statement, IBM said that the layoffs are related to the spinoff of its Kyndryl business and a part of AI unit Watson Health. According to IBM Corp, the layoffs will cause a $300 million charge in the January-March period, while its shares ..."
+    publishedDateTime: 2023-01-26T00:38:00Z
+    webUrl: "https://www.livemint.com/companies/news/ibm-fires-3-900-employees-after-missing-annual-cash-target-11674691655600.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ibm-fires-3-900-employees-after-missing-annual-cash-target/amp-11674691655600.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-fires-3-900-employees-after-missing-annual-cash-target/amp-11674691655600.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2023/01/26/600x338/IBM_1674693371290_1674693371531_1674693371531.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "IBM To Cut 3,900 Jobs Amid Mass Layoffs: Report"
+    excerpt: "The layoffs - related to the spinoff of its Kyndryl business and a part of AI unit Watson Health - will cause a $300 million charge in the January-March period, IBM said. Shares of the company fell 2% in extended trading, erasing earlier gains on the ..."
+    publishedDateTime: 2023-01-26T01:55:00Z
+    webUrl: "https://www.ndtv.com/world-news/ibm-to-cut-3-900-jobs-amid-mass-layoffs-report-3725451"
+    ampWebUrl: "https://www.ndtv.com/world-news/ibm-to-cut-3-900-jobs-amid-mass-layoffs-report-3725451/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/ibm-to-cut-3-900-jobs-amid-mass-layoffs-report-3725451/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 44
+    images:
+      - url: "https://c.ndtvimg.com/2019-01/8jkmi1m8_ibm-bloomberg_625x300_09_January_19.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "IBM to lay off employees amid tech jobs bloodbath"
+    excerpt: "The retrenchments impact workers remaining after the Kyndryl and Watson Health spinoffs, and will cost $300 million."
+    publishedDateTime: 2023-01-26T09:27:00Z
+    webUrl: "https://www.itweb.co.za/content/lwrKxv3Y3x2Mmg1o"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/01/Arvind-Krishna-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tech major IBM to lay off 3,900 employees, bets big on hybrid cloud, AI"
+    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyndryl business and part of the AI unit called 'Watson Health'. The layoffs will cause a charge of $300 million in the January-March ..."
+    publishedDateTime: 2023-01-26T06:12:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/tech-major-ibm-to-lay-off-3-900-employees-bets-big-on-hybrid-cloud-ai-473946"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/1/2023_1$largeimg_661123783.jpg"
+        width: 708
+        height: 470
+        isCached: true
+  - title: "Tech Major IBM Lays Off 3,900 Employees, Bets Big On Hybrid Cloud, AI"
+    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyn"
+    publishedDateTime: 2023-01-26T14:15:00Z
+    webUrl: "https://menafn.com/1105480938/Tech-Major-IBM-Lays-Off-3900-Employees-Bets-Big-On-Hybrid-Cloud-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "LxD7XM2sVfC4ibWugnspFsSzLxJpFi3GbFocap3HgFmua9jZBSSFJL3Z9D9v4tC9uQhPNfTzpp5VKbWlInxmmM7jrBZpdT5xRoCI1RWQzi4nRtRjPAt2WUIxze7xO5jdvXA4bdO2UpGm4rg2TJoLbsgz/ThxaJDsk5h/m6ItEdYnWdephAru78tK+YQYZ0WvBJ0iSb9xtPwmTep816f4F2YH3DeO+xOlQrYQDolxE/1/GPqdk+Scys5rnjSyyBUOcEXdWw3yAmjrXuKM8hCK5B+Z6bgF4orPZ0o/6NkPl0o+PHwkwwyeqYlIc8ZPSxmQlN0Bx4uHlHlb0P73iQ9DHTPxMIbx7qzwUtWvjsEEuN3Wg/5RA0KOujyZacOb4PhbDysowUtNCRcvlZ6pgg7wSB9dJt2/AtQSfrYcWvEbbLXfDR/36s0KLt02De4VfO9c2ZzyHghMKfPgROMv4pZmlX3OC7gpmyMxAdm0fPk70khVT8CDdNn2nvCWEybyyp2DAY5DhnRt5LL12O00guc8uw==;CI1axAGj2sZa6DpUHgKN3Q=="
 ---

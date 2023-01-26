@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T17:45:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30591862/thirdeye-announces-ar-thermal-healthcare-holographic-solution-for-hospitals"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/n30591862/thirdeye-announces-ar-thermal-healthcare-holographic-solution-for-hospitals"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Benzinga.com

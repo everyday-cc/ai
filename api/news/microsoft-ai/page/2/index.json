@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-11-geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space.md",
+      "title": "Geospatial industry investor Keith Masback joins board of directors of Cognitive Space",
+      "excerpt": "WASHINGTON — Cognitive Space, a startup based in Houston, Texas, announced Jan. 10 the appointment of Keith Masback as an independent board member. Masback is a former National Geospatial ...",
+      "sourceUrl": null,
+      "webUrl": "https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/",
+      "originalUrl": "https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T14:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SpaceNews",
+        "domain": "spacenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-the-chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot.md",
       "title": "The ChatGPT revolution? Microsoft seems to have very big plans for this AI chatbot",
       "excerpt": "Microsoft could be ready to spend billions on ChatGPT and extend use of the chatbot through its products according to reports.",
@@ -1244,40 +1278,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility.md",
-      "title": "Hyundai Motor Group’s Supernal Collaborates With Microsoft to Advance Critical Technology for Advanced Air Mobility",
-      "excerpt": "Supernal announced a collaboration with Microsoft to advance autonomy, digital operations and cloud integration technologies for the aviation industry by running advanced air mobi",
-      "sourceUrl": null,
-      "webUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
-      "originalUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AviationPros",
-        "domain": "aviationpros.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

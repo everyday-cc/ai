@@ -149,6 +149,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Device Market (New Research Insights) Dominated Regions 2023: Upcoming Demand, Global Size and Share Forecast to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 26, 2023 (The Expresswire) -- “Face Recognition Device Market” [122 Pages] report provides precise and strategic analysis of market historic, present and future ..."
+    publishedDateTime: 2023-01-26T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-new-research-insights-dominated-regions-2023-upcoming-demand-global-size-and-share-forecast-to-2027-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
 secured: "Q5BpH1zutOooRzrCWXT70oAcCNlGUt46EI2XctTlgAH0H6IJAVkADJvCKS11VE0lnQ/hPC210ZXwxahosj456BJZGBckQmH3XuHDDYI0B3NHHQY6jtM5uyRdwzuol5Q3KP58lDK2JWyLOb+XzRLRhx///qeywiegLrvaFqPMqjb8f9je3vD7DeFMclynKHMDLVf/WUDE5sS7OSFIEu2tUJU6yl0uKUKYlK8K3iDpo7fBUOpVbdaw9T6+vF2aKk8hltm+14l/VHRd507R+LLT5G9P/8EibpqK0sDUwkaTzgVjYeo99BNh2jSvEof9skqF3P5rffPzIteEO1mitlfQUYyngDj2QooxQkLWWHUhC+A=;ha+kbKgiCVfeG21cMTJYFw=="
 ---

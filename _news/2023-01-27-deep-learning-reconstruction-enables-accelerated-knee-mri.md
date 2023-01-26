@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T19:10:00Z
 originalUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
 webUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

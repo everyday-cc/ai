@@ -57,6 +57,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "MSG probed over use of facial recognition to eject lawyers from show venues"
+    excerpt: "The operator of Madison Square Garden and Radio City Music Hall is being probed by New York's attorney general over the company's use of facial recognition technology to identify and exclude lawyers from events."
+    publishedDateTime: 2023-01-26T20:03:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/01/msg-probed-over-use-of-facial-recognition-to-eject-lawyers-from-show-venues/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Famous venue is advised to stop using facial recognition technology"
     excerpt: "State lawmakers have warned the Madison Square Garden stadium in New York City not to use face recognition technology as a weapon against visitors if"
     publishedDateTime: 2023-01-22T13:36:00Z
