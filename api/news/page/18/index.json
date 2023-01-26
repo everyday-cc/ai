@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-01-10-will-ai-make-creative-workers-redundant.md",
+      "title": "Will AI Make Creative Workers Redundant?",
+      "excerpt": "Software has turned human language translators into editors. ChatGPT and other programs may do something similar to writers and other artists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/will-ai-make-creative-workers-redundant-machine-learning-artificial-intelligence-technology-human-art-11673303015",
+      "originalUrl": "https://www.wsj.com/articles/will-ai-make-creative-workers-redundant-machine-learning-artificial-intelligence-technology-human-art-11673303015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-699715/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-aws-max-peterson-shares-5-predictions-for-public-sector-technology-transformation.md",
       "title": "AWS’ Max Peterson Shares 5 Predictions for Public Sector Technology Transformation",
       "excerpt": "Looking for the latest Government Contracting News? Read about AWS’ Max Peterson Shares 5 Predictions for Public Sector Technology Transformation.",
@@ -1049,49 +1101,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-hdfc-limited-is-certified-as-a-best-firm-for-data-scientists.md",
-      "title": "HDFC Limited is certified as a Best Firm For Data Scientists",
-      "excerpt": "The Best Firm For Data Scientists certification surveys a company’s data scientists and analytics employees to identify and recognise organisations with great company culture.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/hdfc-limited-is-certified-as-a-best-firm-for-data-scientists/",
-      "originalUrl": "https://analyticsindiamag.com/hdfc-limited-is-certified-as-a-best-firm-for-data-scientists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/1.-Press-Release-Banner-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

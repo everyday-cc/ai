@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-26T01:00:00Z
 originalUrl: "https://medcitynews.com/2023/01/marriage-of-artificial-intelligence-biology-spawns-rna-targeting-startup-atomic-ai/"
 webUrl: "https://medcitynews.com/2023/01/marriage-of-artificial-intelligence-biology-spawns-rna-targeting-startup-atomic-ai/"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://medcitynews.com/uploads/2021/08/GettyImages-1295693748.jpg"

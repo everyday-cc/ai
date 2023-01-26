@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-10-nvidia-would-be-working-on-ai-optimized-drivers.md",
+      "title": "NVIDIA would be working on AI-optimized drivers",
+      "excerpt": "NVIDIA is rumored to develop AI-optimized drivers that will boost GPU performance by up to 30%. This could provide a significant free upgrade to its users while also revolutionizing the way NVIDIA",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
+      "originalUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-c3ai-bear-with-this-company-as-it-executes-a-turnaround.md",
       "title": "C3.ai: Bear With This Company As It Executes A Turnaround",
       "excerpt": "C3.ai has kicked off a business model transition to convert its contracts into consumption-based pricing and away from subscriptions. See why AI stock is a Buy.",
@@ -1356,58 +1390,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications.md",
-      "title": "Perceive AI Launches 2nd Edge AI Chip For Low Power Applications",
-      "excerpt": "Company claims Ergo2 is up to four times faster than Perceive’s first-generation Ergo chip, and can handle much larger models such as NLP. Edge AI is coming into its own, with a variety of chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b493feacba027dca69d65f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/amp/",
-      "publishedDateTime": "2023-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

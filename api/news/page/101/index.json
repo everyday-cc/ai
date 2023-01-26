@@ -2,6 +2,49 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-10-24-the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei.md",
+      "title": "The Metaverse Is Here, And OneMeta AI Is Already Changing Its Landscape ($ONEI)",
+      "excerpt": "Many have heard the word \"Metaverse.\" Still, most have absolutely no clue what it is or means. A word of advice- learn about it. Why? Because it will change how people live, interact, and do business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1666363200.png",
+          "width": 1222,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29375003",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29375003",
+      "publishedDateTime": "2022-10-24T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-5-modelops-capabilities-that-boost-data-science-productivity.md",
       "title": "5 modelops capabilities that boost data science productivity",
       "excerpt": "Organizations are hiring data scientists to develop ML models and experiment with AI, but the business impact is lagging for many large enterprises.",
@@ -1102,59 +1145,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning.md",
-      "title": "Top 5 stories of the week: Deloitte, Meta, Nvidia and Oracle news highlights current state of AI, deep learning",
-      "excerpt": "The state of AI in 2022 continues to evolve and new trends are emerging with it. This week, news on AI from Nvidia and Oracle, Meta, and Deloitte topped our coverage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1040897864.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/amp/",
-      "publishedDateTime": "2022-10-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

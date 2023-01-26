@@ -2,6 +2,58 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-11-16-cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours.md",
+      "title": "Cruise has expanded its driverless robotaxi service to daytime hours",
+      "excerpt": "Cruise is expanding its driverless ride-hailing service in San Francisco to daytime hours, Cruise CEO Kyle Vogt tweeted Wednesday. The robotaxi service is now available to employees 24 hours a day.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
+      "originalUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
+      "publishedDateTime": "2022-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-protein-programmers-get-a-helping-hand-from-cradles-generative-ai.md",
       "title": "Protein programmers get a helping hand from Cradle’s generative AI",
       "excerpt": "The company emerged from stealth today with a substantial seed round. AI and proteins have been in the news lately, but largely because of the efforts of research outfits like DeepMind and Baker Lab. Their machine learning models take in easily collected ...",
@@ -1128,57 +1180,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-ai-for-diabetic-retinopathy-screening-gets-us-fda-approval.md",
-      "title": "AI For Diabetic Retinopathy Screening Gets U.S. FDA Approval",
-      "excerpt": "The AEYE Health AI model performs better than human experts, diagnosing diabetes from otherwise healthy retinas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63729d325ee651502ca8fb83/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/amp/",
-      "publishedDateTime": "2022-11-15T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

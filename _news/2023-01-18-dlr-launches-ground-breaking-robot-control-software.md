@@ -1,26 +1,28 @@
 ---
 category: news
-title: "DLR Launches Ground-Breaking Robot Control Software'"
-excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for ..."
-publishedDateTime: 2023-01-17T21:12:00Z
-originalUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
-webUrl: "https://menafn.com/1105441789/DLR-Launches-Ground-Breaking-Robot-Control-Software"
+title: "DLR Launches Ground-breaking Robot Control Software"
+excerpt: "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control ..."
+publishedDateTime: 2023-01-17T19:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
+ampWebUrl: "https://www.benzinga.com/amp/content/30449359"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30449359"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?954944"
-    width: 375
-    height: 250
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
     isCached: true
 
-secured: "IAGeneiGqNbF53d8cbHM1nxrXvV6SRcYdk2m/jCg63dC2UbvREH5LgoBp9HY6WblDw8c4MJWJyern70l7ta057CuDsOOoN0TYBVCxT/E/L5BszA3HW24RgWG4RMqd1dsEVxNOhXWb2XSkd/xK28MqI2dJ7bmoNcunXmlDhHOwEGH9AFtKKIRjAqCvsutI8a6wJpcKkSRb7Z9m2pg+SLbuZPB5KyG5hicGiI8fYWp0/1QiEy9q0z3Np8B/8A72PwLp2kMGaH7Gnfwuka2cMV7qruVcLQ42KFDg2YrjMI4qD6PW1mGJ+k+ZQXLuohs/mds7WIntnjr5aDZYSQzHCl70OobzQVjgPwr8bs9A69jPKE=;ExXfFzXAbDB2+xyRdCHAZA=="
+secured: "K6tTT8npeUq3idj8JhPn+yCPM+OLGCSe6dqdW+v29arq9FDfOe8KdSs7UXOCdXh9316FjTaVyJlrHV9tjEK1dx1eD/H1JB3ro2O5Xqa9uo1pjC1LHzJjdON6/w407QySa/Sjm0wFZhKxeYuUKHggBEFAXZGpewZyAU1O2AanzwnIs3l9C7IJAC+iNCAFNfAZDCA6hGcaY51PEtYsMw5zTmre465k84Q91aNzSh0MyMRHRujahIYA4ZbUv4/7azK3+b0OvWKM89R5f6npEof6OU+H9B4GGAAyW5eH2F34zCgc4+tNXwRX2P8X+BwSsWQS/FB2cEeq3yqncpNiy/MlJL5eq76Zkp7Hg68uhqkYJ84=;/E4t4BbzaaupAisotk01mw=="
 ---
 

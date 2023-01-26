@@ -2,6 +2,58 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-12-16-biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector.md",
+      "title": "Biden blacklists China's YMTC, crackdowns on AI chip sector",
+      "excerpt": "The 21 Chinese AI chip entities being added to the trade blacklist, which include Cambricon Technologies Corp (688256.SS) and CETC, face an even tougher penalty, with the U.S. government ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/biden-blacklist-chinas-ymtc-crackdown-ai-chip-sector-2022-12-15/",
+      "originalUrl": "https://www.reuters.com/technology/biden-blacklist-chinas-ymtc-crackdown-ai-chip-sector-2022-12-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/BRC6FHT1vO4raPOFCAIAFkNcCIQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E7B2VVTKSFIP7LIFXUDK7J5ZFI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T19:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-implementing-ai-during-a-worldwide-talent-shortage.md",
       "title": "Implementing AI during a worldwide talent shortage",
       "excerpt": "Upskilling and investing in education are two ways to address the IT talent shortage, which is exacerbated by rapidly evolving AI models.",
@@ -1114,58 +1166,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-what-we-got-right-and-wrong-in-our-2022-ai-predictions.md",
-      "title": "What We Got Right And Wrong In Our 2022 AI Predictions",
-      "excerpt": "To keep ourselves honest, with 2022 now coming to a close, let’s revisit these predictions to see how things actually played out. There is much to learn from these retrospectives about the state and trajectory of AI today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638ecf2a893e70f66e93c5c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/amp/",
-      "publishedDateTime": "2022-12-15T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

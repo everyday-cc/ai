@@ -2,6 +2,57 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-11-15-ai-for-diabetic-retinopathy-screening-gets-us-fda-approval.md",
+      "title": "AI For Diabetic Retinopathy Screening Gets U.S. FDA Approval",
+      "excerpt": "The AEYE Health AI model performs better than human experts, diagnosing diabetes from otherwise healthy retinas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63729d325ee651502ca8fb83/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/15/ai-for-diabetic-retinopathy-screening-gets-us-fda-approval/amp/",
+      "publishedDateTime": "2022-11-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-use-of-tech-like-ai-and-ml-has-the-potential-to-transform-higher-education.md",
       "title": "Use of tech like AI and ML has the potential to transform higher education",
       "excerpt": "Technologies like AI and ML are rapidly transforming every aspect of human lives; yet, one industry that has seen limited use of this new technology but offers incredible potential and opportunity, is education. The magic of software applications ...",
@@ -1113,49 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-google-epic-partnering-to-allow-epic-hospital-clients-to-run-ehrs-on-google-cloud.md",
-      "title": "Google, Epic partnering to allow Epic hospital clients to run EHRs on Google Cloud",
-      "excerpt": "Instead, Cerner elected to go with AWS, despite being offered about $250 million in ... center Mayo Clinic and for-profit behemoth HCA, and building up its artificial intelligence and machine-learning offerings. For example, Google Cloud announced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/news/google-epic-cloud-partnership-host-ehr-hackensack/636400/",
-      "originalUrl": "https://www.healthcaredive.com/news/google-epic-cloud-partnership-host-ehr-hackensack/636400/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcaredive.com/imgproxy/Od7194B5yckvKHMTZrM1r_6AnOc1BJC1kBAy2vLsaII/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTUwODAwMzc2LmpwZw.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

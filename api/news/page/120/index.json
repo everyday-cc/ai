@@ -2,6 +2,49 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-10-07-this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives.md",
+      "title": "This AI-powered, deep learning firefighter helmet could help save lives",
+      "excerpt": "The helmet allows firefighters literally see through smoke. Veuer’s Tony Spitz has the details. Get up-to-the-minute news sent straight to your device.",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
+      "originalUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8f/48f0f46b-a94e-5866-87f1-9ee642bd6983/633efb996ab23.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-gender-recognition-reforms-backed-by-holyrood-committee.md",
       "title": "Gender recognition reforms backed by Holyrood committee",
       "excerpt": "The changes could result in the number of people applying for a gender recognition certificate (GRC ... The Morning Star is unique, as a lone socialist voice in a sea of corporate media. We offer a platform for those who would otherwise never be listened ...",
@@ -1149,59 +1192,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence.md",
-      "title": "Can We Reverse Our Psychological Age And Get Happier At The Same Time Using Artificial Intelligence?",
-      "excerpt": "As the body grows old, our minds are often instigated by mental decline and progressive, natural psychological aging. However, while there are very little we can do about biological aging, there are many ways to reverse psychological aging and get happier at the same time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633e91a7876cdce21e209bb4/0x0.jpg?format=jpg&width=1200",
-          "width": 773,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-06T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

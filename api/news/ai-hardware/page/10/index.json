@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
+      "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
+      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
+      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
+          "width": 765,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
       "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
       "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
@@ -1387,49 +1432,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps.md",
-      "title": "Arm Fills In Some Gaps – And Details – In Server Chip Roadmaps",
-      "excerpt": "Let’s just say it right here at the beginning. The first wave of attempts at creating Arm server chips –Calxeda, Applied Micro, AMD, Marvell, Nvidia, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/",
-      "originalUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/arm-neoverse-server-logo-scaled.jpg",
-          "width": 2560,
-          "height": 1421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/amp/",
-      "publishedDateTime": "2022-09-16T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

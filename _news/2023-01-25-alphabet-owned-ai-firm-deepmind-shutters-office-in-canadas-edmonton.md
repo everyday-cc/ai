@@ -86,18 +86,18 @@ related:
         height: 349
         isCached: true
   - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
-    excerpt: "Alberta’s Opposition NDP says policy changes from the governing UCP are to blame for the closure of Alphabet Inc.’s DeepMind office in Edmonton and recent layoffs at Benevity in Calgary. On Tuesday, Bloomberg reported the artificial intelligence lab ..."
-    publishedDateTime: 2023-01-26T02:14:00Z
-    webUrl: "https://calgaryherald.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/61450778-6c44-4f9f-8103-bb401df25315"
-    ampWebUrl: "https://calgaryherald.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/61450778-6c44-4f9f-8103-bb401df25315/amp/"
-    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/61450778-6c44-4f9f-8103-bb401df25315/amp/"
+    excerpt: "NDP Leader Rachel Notley said at a news conference in Edmonton Wednesday that without investment-targeted incentives in the sector, the province is at risk of los"
+    publishedDateTime: 2023-01-25T23:39:00Z
+    webUrl: "https://edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace"
+    ampWebUrl: "https://edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace/amp/"
+    cdnAmpWebUrl: "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace/amp/"
     type: article
     provider:
-      name: Calgary Herald
-      domain: calgaryherald.com
+      name: edmontonsun
+      domain: edmontonsun.com
     quality: 48
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2023/01/DeepMind-1.jpg"
+      - url: "https://smartcdn.gprod.postmedia.digital/edmontonsun/wp-content/uploads/2023/01/DeepMind-1.jpg?quality=100&strip=all"
         width: 1000
         height: 750
         isCached: true

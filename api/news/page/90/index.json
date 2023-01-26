@@ -2,6 +2,59 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-11-02-improve-data-extraction-and-document-processing-with-amazon-textract.md",
+      "title": "Improve data extraction and document processing with Amazon Textract",
+      "excerpt": "Intelligent document processing (IDP) has seen widespread adoption across enterprise and government organizations. Gartner estimates the IDP market will grow more than 100% year over year, and is projected to reach $4.8 billion in 2022. IDP helps transform structured, semi-structured, and unstructured",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-data-extraction-and-document-processing-with-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/02/improve-data-extract-textract.jpg",
+          "width": 1340,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-02T09:04:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-tesla-gives-demo-to-agency-probing-self-driving-claims.md",
       "title": "Tesla Gives Demo to Agency Probing Self-Driving Claims",
       "excerpt": "Tesla Inc. demonstrated a beta version of its driver-assistance system for California transportation officials.",
@@ -1037,49 +1090,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-synthesis-ai-releases-new-products-for-human-centric-computer-vision-models.md",
-      "title": "Synthesis AI Releases New Products for Human-Centric Computer Vision Models",
-      "excerpt": "Synthesis AI, a leading company in synthetic data technologies, has announced the release of two new products for the development of advanced human-centric computer vision models. The two products, called Synthesis Humans and Synthesis Scenarios,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/synthesis-ai-releases-new-products-for-human-centric-computer-vision-models/",
-      "originalUrl": "https://www.unite.ai/synthesis-ai-releases-new-products-for-human-centric-computer-vision-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/cb:QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/11/get-started-quickly-1440x900-1.jpg.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

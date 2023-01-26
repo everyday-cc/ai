@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-14-the-snapdragon-ai-journey.md",
+      "title": "The Snapdragon AI Journey",
+      "excerpt": "Qualcomm Technologies, Inc. (QTI) has been researching, developing, and shipping AI acceleration on their Snapdragon processors for the past decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63484e1cf003b2ae28de06ab/0x0.png?format=png&width=1200",
+          "width": 628,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/",
+      "publishedDateTime": "2022-10-13T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-ai-accelerator-chip-market-shows-enormous-growth-with-leading-players-like-nvidia-cadence-amd-intel.md",
       "title": "AI Accelerator Chip Market Shows Enormous Growth with Leading Players like Nvidia, Cadence, AMD, Intel",
       "excerpt": "The Global AI Accelerator Chip Market Report studies extensive evaluation of the market growth predictions and",
@@ -1414,51 +1467,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
-      "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
-      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
-      "sourceUrl": null,
-      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
-      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
-          "width": 765,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

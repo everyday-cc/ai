@@ -73,6 +73,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "IBM and SAP to cut thousands of jobs in latest tech sector layoffs"
+    excerpt: "IBM on Wednesday announced 3,900 layoffs as part of some asset divestments. Chief financial officer James Kavanaugh told Reuters that the company was still \"committed to hiring for client-facing research and development\"."
+    publishedDateTime: 2023-01-26T09:44:00Z
+    webUrl: "https://www.breakingnews.ie/business/ibm-and-sap-to-cut-thousands-of-jobs-in-latest-tech-sector-layoffs-1424153.html"
+    type: article
+    provider:
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 24
+    images:
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDFcXFwvMjYwOTQyNTJcXFwvR2V0dHlJbWFnZXMtMTEzMjI3NzcwNy1lMTY3NDcyNjI0NDExNC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY5YWExOGMyMGM0ZjU2MjU3NzkzYmRhMDc5NGMxY2M2NTdlZGM2ZjQifQ==/ibm-and-sap-to-cut-thousands-of-jobs-in-latest-tech-sector-layoffs.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Layoffs in tech industry continues as IBM cuts 3,900 jobs"
     excerpt: "Despite the planned layoffs, which would impact 1.5% of its workforce, IBM still plans on hiring more within \"higher growth areas\"."
     publishedDateTime: 2023-01-26T05:16:00Z
@@ -100,6 +114,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--gjHQ1jcZ--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-01-25t211104z_1_lynxmpej0o0vp_rtroptp_3_ibm-amadeus-travel-health.jpg?itok=T3nuVpbJ"
         width: 1200
         height: 676
+        isCached: true
+  - title: "IBM to cut 3,900 jobs after muted consulting demand hits quarterly revenue"
+    excerpt: "IBM still expects to hire in the “higher-growth areas”, Mr Kavanaugh said. “Unlike many others over the last two to 2½ years that were hiring in tens and thousands of people... we are leveraging digitisation,"
+    publishedDateTime: 2023-01-26T02:05:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 22
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/26/2023-01-25T221936Z570121139RC2XXY925S8BRTRMADP3IBM-RESULTS_6.JPG?VersionId=_M1cUymbKFhuEiaev8E1t7BJ43e6zrlt"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "BFxa+CRZEeVNr9+jyEHGZELaY6n8dBEeLxDkpvPAT2dE8+jT0kWi7ZxjFXw5JfdvZnl9bP2MhalZcBFLQG9zfJF+5AdzMgKeAI9Yk/tWH82EcsWua6hjh6jm7taaZlEb3F7ql/h8kbPOYswLVCBe7op7YSR4DQOaPF7syyesQtG4Qqratz1vTKLOVFt37H6VQ77/Bc0Ubkn8Tb5HT3ySGWX3SduxBNZCsT8jS+0cRs3uIVqsnh/+gA5XdX0Jq+uvcI2Wi0LnZBFdbghxGlTAzsiP3LAU1vKKRMnCy67EtxprsCq6fptGAe1qWd3sf9yYZhiQXj+hPSilnUKJxko28wo4T43wu/bBZQTrxfUA/sU=;FRy4s2r6xmZJ2wWVilZJig=="

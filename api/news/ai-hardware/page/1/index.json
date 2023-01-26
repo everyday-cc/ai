@@ -886,6 +886,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-13-nvidia-broadcasts-ai-powered-update-makes-it-look-like-youre-paying-attention-when-youre-not.md",
+      "title": "Nvidia Broadcast’s AI-powered update makes it look like you’re paying attention when you’re not",
+      "excerpt": "Nvidia Broadcast, the GPU-maker's software for live streaming and conferencing, has something that'll make it easier to be distracted while",
+      "sourceUrl": null,
+      "webUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/",
+      "originalUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stuff.co.za/wp-content/uploads/2023/01/Nvidia-Broadcast.png",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/?amp=1",
+      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/?amp=1",
+      "publishedDateTime": "2023-01-13T02:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stuff.co.za",
+        "domain": "stuff.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-global-chipmakers-to-invest-over-300m-in-ai-designed-chips-this-year.md",
       "title": "Global chipmakers to invest over $300m in AI-designed chips this year",
       "excerpt": "The world’s leading semiconductor companies will likely spend more than $300 million in the development of artificial intelligence (AI) to help design semiconductors faster this year as a global chip shortage continues to put a strain on demand,",
@@ -1374,40 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-would-be-working-on-ai-optimized-drivers.md",
-      "title": "NVIDIA would be working on AI-optimized drivers",
-      "excerpt": "NVIDIA is rumored to develop AI-optimized drivers that will boost GPU performance by up to 30%. This could provide a significant free upgrade to its users while also revolutionizing the way NVIDIA",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
-      "originalUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

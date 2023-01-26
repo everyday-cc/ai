@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Voice to Parliament comes into sharp focus as referendum turns increasingly political"
+    excerpt: "Anthony Albanese is returning to the playbook that delivered Labor government, but it remains unclear if that will deliver constitutional recognition for First Australians."
+    publishedDateTime: 2023-01-24T18:58:00Z
+    webUrl: "https://www.abc.net.au/news/2023-01-25/voice-to-parliament-albanese-dutton-strategies-referendum/101886144"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 0
+
 secured: "b80NSX5jFTnzEoz/i6fHxFRDe5XI55DyEtB87b7rf8AQDN197Zigt9iNcg4hziYmiaAfAQdCSI6G9e6uHWjmD6Q3naEtvVfbFzYf6irYlLAIVlZJB9jP18Ask5HT8PEfJxJokjsGrMIszi7tNqHCydI8ZZj5ck61oPSpNG4UYdA1BpEufpHR/HUy7r+/svC/HeYtDbsfMDYcFJ7KudDC+OFgi0JI93rDsn2te2DkKV6a727AHYWn74DjmVa6Z6rkjueepKHwHd9K2IofTeqJbQPB0k8xXfyOpm0bopgIiiCsWoVjNgOkLVfxX0j2KdJh4i6SUIN3dKWdpKH2ffg3UrjmtMQABSJfQm3miF4fHi5SPLWnZ8Qe0RRlSScbGnjGpsjkUc2AeuqmLJJ7u3kJbLvQZi4cXi+MnCzIm+LzIhpBrB5V47+wNRaTFUnENtZxmQg350hHe02UTR0mifZPQ1v2EuLyKeyDN83ezzjXlSVJ40mpgzBcPrLFXkAoArwakbDP0bFVrgJfOrh3uwawjQ==;nLiWKNt9JP6TYHLJVP2eGQ=="
 ---
 

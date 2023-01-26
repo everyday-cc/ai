@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-01-20-chatgpt-is-it-possible-to-detect-ai-generated-text.md",
-      "title": "ChatGPT: Is it possible to detect AI-generated text?",
-      "excerpt": "A few weeks after the launch of ChatGPT, a powerful artificial intelligence (AI) chatbot, Darren Hick said he caught one of his students cheating by submitting a robot ... at AI start-up Hugging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
-      "originalUrl": "https://www.euronews.com/next/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/31/50/48/1000x563_cmsv2_586c42f6-6a01-56c8-bc0b-3d0c6e25cf55-7315048.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
-      "publishedDateTime": "2023-01-19T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-20-federated-learning-ai-model-could-lead-to-healthcare-breakthrough.md",
       "title": "Federated learning AI model could lead to healthcare breakthrough",
       "excerpt": "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment.",
@@ -1136,8 +1093,8 @@
       "title": "The Schools We Need for the New 'Cognitive Economy'",
       "excerpt": "This rapidly changing environment might be called a “cognitive economy.” It requires workers who are not only literate but numerate. That means effective training in math and science and the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!",
+      "webUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1205,6 +1162,57 @@
         "name": "MLive",
         "domain": "mlive.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery.md",
+      "title": "Nick Cave Calls AI Song Written in His Style 'Grotesque Mockery'",
+      "excerpt": "Tools like ChatGPT can never experience the complex human struggles that lead to emotionally resonant songs, the singer-songwriter says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/entertainment/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
+      "originalUrl": "https://www.cnet.com/culture/entertainment/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/defe08f4f2ceaf8687284194a29636cd016dd62d/hub/2023/01/17/8dbff024-4f5a-4e19-9655-84dd5a112a50/1246226412.jpg?auto=webp",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
+      "publishedDateTime": "2023-01-18T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,40 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-11-17-rackspace-technology-celebrates-11-years-of-aws-reinvent-as-an-aws-premier-consulting-partner-and-platinum-sponsor.md",
+      "title": "Rackspace Technology Celebrates 11 Years of AWS re:Invent as an AWS Premier Consulting Partner and Platinum Sponsor",
+      "excerpt": "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, multicloud technology solutions company, today announced it is celebrating 11 years of sponsoring re:Invent",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29751475/rackspace-technology-celebrates-11-years-of-aws-re-invent-as-an-aws-premier-consulting-partner-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29751475",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29751475",
+      "publishedDateTime": "2022-11-16T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-why-shelf-vision-matters-and-why-retail-businesses-health-starts-at-the-shelf.md",
       "title": "Why shelf vision matters – and why retail businesses’ health starts at the shelf",
       "excerpt": "The humble store shelf has moved from being a convenient place to range goods to a critical indicator of the performance of the whole retail business, and cameras can now monitor the status of the business at all times,",
@@ -1055,58 +1089,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours.md",
-      "title": "Cruise has expanded its driverless robotaxi service to daytime hours",
-      "excerpt": "Cruise is expanding its driverless ride-hailing service in San Francisco to daytime hours, Cruise CEO Kyle Vogt tweeted Wednesday. The robotaxi service is now available to employees 24 hours a day.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours/amp/",
-      "publishedDateTime": "2022-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "The future of Fintech in 2023"
+    excerpt: "With a rate of 87%, India is far ahead of the global average of 64% in the FinTech adoption race. By 2030, it is anticipated that the promising Indian FinTech market will generate $200"
+    publishedDateTime: 2023-01-26T09:57:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "What’s in store for FinTech in 2023?"
     excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."
     publishedDateTime: 2023-01-23T12:23:00Z

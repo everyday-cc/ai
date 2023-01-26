@@ -661,6 +661,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-13-nvidia-broadcasts-ai-powered-update-makes-it-look-like-youre-paying-attention-when-youre-not.md",
+      "title": "Nvidia Broadcast’s AI-powered update makes it look like you’re paying attention when you’re not",
+      "excerpt": "Nvidia Broadcast, the GPU-maker's software for live streaming and conferencing, has something that'll make it easier to be distracted while",
+      "sourceUrl": null,
+      "webUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/",
+      "originalUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stuff.co.za/wp-content/uploads/2023/01/Nvidia-Broadcast.png",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/?amp=1",
+      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/?amp=1",
+      "publishedDateTime": "2023-01-13T02:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stuff.co.za",
+        "domain": "stuff.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-computer-vision-software-market-detailed-analysis-of-current-industry-figures-with-forecasts-regional-outlook-2028.md",
       "title": "Computer Vision Software Market Detailed Analysis of Current Industry Figures with Forecasts Regional Outlook 2028",
       "excerpt": "Computer Vision Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at",
@@ -1125,58 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook.md",
-      "title": "Speech Recognition Market Growth Rate, Comprehensive Analysis of Profitable Key Business Trends, and Outlook",
-      "excerpt": "The analysis tracks the impact of key Speech Recognition market dynamics on the major challenges and the strategies",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook-2023-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook-2023-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

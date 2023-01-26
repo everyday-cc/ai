@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-06-no-linux-no-problem-just-get-ai-to-hallucinate-it-for-you.md",
+      "title": "No Linux? No problem. Just get AI to hallucinate it for you",
+      "excerpt": "The simulated rabbit hole goes deep, and ChatGPT can even hallucinate new Linux commands. In a prompting maneuver similar to conjuring up an AI-hallucinated Linux shell, someone named gfodor on Twitter discovered that OpenGPT could simulate calling a vintage dial-up BBS,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ai_terminal_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/amp/",
+      "publishedDateTime": "2022-12-05T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-amazons-new-chip-moves-aws-into-high-performance-computing.md",
       "title": "Amazon’s new chip moves AWS into high-performance computing",
       "excerpt": "Peter DeSantis, a senior vice president who oversees most of AWS’s engineering teams, said in an interview that the product is a springboard for making what the industry calls high-performance ...",
@@ -1379,49 +1431,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators.md",
-      "title": "NVIDIA GeForce RTX 4080 GPU unlocks 1.6x performance for creators",
-      "excerpt": "State-of-the-art AI technology — including AI image generators ... Expand creative possibilities and pick up the GeForce RTX 4080 GPU today from retailers in the region. Get Breaking News ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "originalUrl": "https://gulfnews.com/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/11/25/The-new-GeForce-RTX-4080-GPU---GN--1-_184ae53c852_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "publishedDateTime": "2022-11-25T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
