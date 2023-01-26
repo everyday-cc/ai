@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-25T20:52:00Z
 originalUrl: "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo"
 webUrl: "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "cqfVG4IVaO8U4n7JOj7S9UApKUP8RYRKme5BIvE4EuqHXSEd6AEuVYave7QNPa2h2l3wsNkUXdUk6VuCPW8dzpW1ayAzxXsqie5AQl25oCLLkrMbXq+EQd0x7HgVUlIKcUm7MyLyl9DwNQb55N1gxoBNwH1gkvQrJ6p/mEbwdaOWXnJNTSwUj+hfbS7Blj2GXMLRWB1+oyWoKKGPLhMuWCV3OCctsaCr9S/Kri7cU3uq+W0NJTaUaIeIY1SgdQ8HFOM3A18Vep3f3j9gnbcZCNz07EPnE0yWSWztUPvztCFlmHCGHG0uX4POGHt3zCz6JzybOAYtVLWWusxuaIvfQB3lUAS/F+QYPCE13yn208c=;W6CwD4eIZP+1x3W8A/WWSQ=="
+images:
+  - url: "https://wp-assets.futurism.com/2023/01/robot-lawyer-postponed-judge-jail-ceo.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "DZvnWdNb+sxvSfGQmQGctWqz98PYoYVM7Mbklnk/269SD7VnfNCVLvoYo5vwc+5yxw1YRtHm02VlcsznslkbxGdP27Njas3iLXb9U87Q0yq2bBVyLF7eqmCRC7rG8zzl5HBAjlpzhMgLAWSRzzyMoE5wMXJYEYvVsFv8W/SVv5Ih8GNqzDrc8hPdJ70QfPvBYIBaBt4Ladsx/dAFSmju0wC5LNomdUE3usCLMdKinU4u9QcQmv0CbgObeMeqoiZzSJDHhnLfSNRuYDz7JeUKu1ax8eZnhd7tbek96xd53aqBuruhQqtr23N5G2cXwTDB7H6G6c7/QQyVTjmRXv9Ix+uI+zeG4axnpsFTs2Cj8wg=;I2MUFjoQ1iT4vGYpb9+15Q=="
 ---
 

@@ -2,6 +2,85 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-11-researchers-investigate-when-how-healthcare-ai-models-will-fail.md",
+      "title": "Researchers Investigate When, How Healthcare AI Models Will Fail",
+      "excerpt": "Researchers are exploring strategies to identify when AI suggests a solution for clinical decision-making that isn’t effective in practice.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/researchers-investigate-when-how-healthcare-ai-models-will-fail",
+      "originalUrl": "https://healthitanalytics.com/news/researchers-investigate-when-how-healthcare-ai-models-will-fail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/researchers-investigate-when-how-healthcare-ai-models-will-fail",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/researchers-investigate-when-how-healthcare-ai-models-will-fail",
+      "publishedDateTime": "2023-01-11T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-advances-in-artificial-intelligence-raise-new-ethics-concerns.md",
+      "title": "Advances in artificial intelligence raise new ethics concerns",
+      "excerpt": "In recent months, new artificial intelligence tools have garnered attention, and concern, over their ability to produce original work. The creations range from college-level essays to computer code and works of art.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "originalUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "publishedDateTime": "2023-01-10T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-houston-community-college-reveals-first-two-bachelors-degree-programs.md",
       "title": "Houston Community College reveals first two bachelor’s degree programs",
       "excerpt": "Students can obtain a four-year degree in Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management.",
@@ -1251,94 +1330,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-facial-recognition-wielded-in-india-to-enforce-covid-policy.md",
-      "title": "Facial recognition wielded in India to enforce COVID policy",
-      "excerpt": "After a pair of Islamist bombings rocked the south-central Indian city of Hyderabad in 2013, officials rushed to install 5,000",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/",
-      "originalUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/12/ap_8df9a889fe874ba4a466839c97ed3cdd.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/",
-      "publishedDateTime": "2022-12-19T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics.md",
-      "title": "Genrobotics expands R&D facility to Technocity for healthcare robotics",
-      "excerpt": "The company said the centre opened at Technocity, Thiruvananthapuram, will strengthen its R&D for healthcare products with special focus on developing healthcare robots. State Health Minister ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/12/Technocity.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html/amp",
-      "publishedDateTime": "2022-12-19T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

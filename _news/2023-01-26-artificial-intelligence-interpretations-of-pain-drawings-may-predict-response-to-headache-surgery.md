@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-pain-res
 ampWebUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-pain-response-headache.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-artificial-intelligence-pain-response-headache.amp"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-8.jpg"
@@ -26,6 +27,6 @@ images:
     height: 2655
     isCached: true
 
-secured: "BJEAikOE+GWzxrk4KIb22BUDnkSCqii7qToF35iWWPV0XSbQh1sqFLxe6ykTk8r4k8/C0bkIByDHbLuD+B+KVtAKjiuA6x2SOj/bU/DYZTDtbfTtCC/xwK+RS8l603whRDKY6UU8OcgOwBLzmiKjWTyIaiwrbX2VQaeRw2Pac5b7+RwB7zTkyrdXHRYRW7IewtEGFDVYNvIYzZKv3raF3clCljDlEOIsE1DvePrOy/BlTnm19FB6RPySemqo95z798wXXqpm+PobsVWmr6J387biDCHxH1BrQpAS3lKJ6o/bUklHQnxyEj4w/JIsh+gloFFoAEh9hUEvHsrKiZGnNVg41kLxMmQueVCTboSnxHM=;uXuLwkmaj99VQ6yeeZYZNA=="
+secured: "a7ux/DjBODODyWGl4+ydvEPkIJDeMlic/gy3pWqiDDQeJ+MShBf2QJi8ILbFhWFa5TuuY99SaZiUM/M02Fe9g8Cb2wiKWnqyaV8W3OrrvBFPNpgRD0o8eIcrATbxkMgrzivLOwIBfp1XDjuE5ZMoQdNCzDwPShaNdgiCxYnHQn6JlbXI9qjBMNjKV8Kx32y9AwDCFF91vXyAtIZz/LEF7xo7NHQ8MYVv0zFcupC7WnF5xi8C23BWb8rEd2sC06xR7N50ck2s/rHEOtrWrw0oZiH6x+sgWYnO03c9SLrf9N6gTw8x1cs43NmWL3W6cGyWzrK0C3veZzbfkFErI7zDkt9krRnGeqChfaaYbdHHk1PnQ+b72vOpENaoefUyKUbJ4p18TlVaW7eIWCoe/oMdDDYt1GS+h2uGaqB7J77xCnwKjNjSO8SKvxrZXIPqEivchaSEwGr94bFdsGjAnfutrwxJwGvLmdUMuqoDj+Bd6OyOYIK/sOVZQ15hplKRb6TSlGXiuTnQO7NuII9T8mgv4g==;i5jt2J9pC7N4KGJ0zGxHPw=="
 ---
 

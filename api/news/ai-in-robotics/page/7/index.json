@@ -2,6 +2,135 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-23-ces-2023-robotics-innovation-award-winners-announced.md",
+      "title": "CES 2023 robotics Innovation Award winners announced",
+      "excerpt": "A quick look at the 2023 CES Innovation award winners in the robotics category covers a broad range of solutions that impact consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
+      "originalUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/Tonework-CES-2023-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-this-manta-ray-inspired-soft-robot-flies-through-the-water.md",
+      "title": "This manta ray-inspired soft robot flies through the water",
+      "excerpt": "with the ability to move 3.74 body lengths per second — a big increase over soft robots that struggle to move a single body length in that time. A second, designed for more control, moves around ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/",
+      "originalUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Jie-Yin-Butterfly-HEADER.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/amp/",
+      "publishedDateTime": "2022-11-22T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-robots-authorized-to-kill-in-sfpd-draft-policy.md",
+      "title": "Robots authorized to kill in SFPD draft policy",
+      "excerpt": "A remote-controlled police robot used to disarm bombs. Image from Shutterstock. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. A policy proposal that is heading for Board of Supervisors ...",
+      "sourceUrl": null,
+      "webUrl": "https://missionlocal.org/2022/11/killer-robots-to-be-permitted-under-sfpd-draft-policy/",
+      "originalUrl": "https://missionlocal.org/2022/11/killer-robots-to-be-permitted-under-sfpd-draft-policy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mission Local",
+        "domain": "missionlocal.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-can-an-artificial-intelligence-be-considered-an-artist.md",
       "title": "Can an artificial intelligence be considered an artist?",
       "excerpt": "In the majority of fiction that concerns artificial intelligence (AI), it replaces us in almost every industry. Often, only the artistic fields are left untouched. Usually, a robot or AI showing capabilities to create a work is seen as a completion ...",
@@ -1270,144 +1399,6 @@
         "name": "The Digital Universe",
         "domain": "byu.edu",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-can-the-armys-robotics-programs-build-ai-the-silicon-valley-way.md",
-      "title": "Can the Army’s robotics programs build AI the Silicon Valley way?",
-      "excerpt": "DIU has brokered a potentially groundbreaking contract between the Army’s Robotic Combat Vehicle program and a small California firm that trains AI algorithms to navigate off-road.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/",
-      "originalUrl": "https://breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/05/210428-A-VA676-0002-e1668451301243-1024x575.jpg",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/?amp=1",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/?amp=1",
-      "publishedDateTime": "2022-11-14T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-caixabank-robot-answers-the-most-customer-questions.md",
-      "title": "CaixaBank robot answers the most customer questions",
-      "excerpt": "The Spanish bank said the CaixaBankNow virtual assistant receives an average of 50,000 questions a day, either spoken or written, to help access services such as making payments or blocking lost cash cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
-      "originalUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/Artificial-intelligence-robot-datacenter-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
-      "publishedDateTime": "2022-11-14T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-verefa-v60-pro-the-game-changer-is-coming.md",
-      "title": "VEREFA V60 Pro: The Game Changer is Coming",
-      "excerpt": "Press Release The better auto-emptying robot vacuum is coming. Verefa has debuted its latest model V60 Pro.This press release features multimedia. View the full release here:  Business Wire)Verefa,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/",
-      "originalUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20221113005166/en/1635558/4/Image_1_V60_Pro.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/verefa-v60-pro-the-game-changer-is-coming/amp/",
-      "publishedDateTime": "2022-11-14T01:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

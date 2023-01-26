@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-04-dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects.md",
+      "title": "Dataloop Automates Data Management and Annotation to Accelerate AI Projects",
+      "excerpt": "Dataloop, an Israeli startup, has made the announcement that it will offer businesses a complete platform covering every stage",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/11/Dataloop-Automates-Data-Management-and-Annotation-to-Accelerate-AI-Projects.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
+      "publishedDateTime": "2022-11-04T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-destiny-robotics-megi-kavtaradzes-entrepreneurial-adventure-in-the-usa.md",
+      "title": "Destiny Robotics - Megi Kavtaradze's entrepreneurial adventure in the USA",
+      "excerpt": "The goal of Destiny Robotics is to create socially intelligent, human-like robots that can interact with users in-depth. The main robot of the company is named Destiny. It has a natural appearance and a pleasant voice that is welcoming to individuals of all ages and currently,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491",
+      "originalUrl": "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1667513097-image-safe-zone-check.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-us-army-digs-deeper-to-develop-robotic-breachers.md",
+      "title": "US Army digs deeper to develop robotic breachers",
+      "excerpt": "As part of the Joint Warfighting Assessment exercise, two of the vehicles controlled by a Marine Corps unit tackled obstacles atop a desert plateau. Both robotic vehicles were controlled from a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/unmanned/2022/11/03/us-army-digs-deeper-to-develop-robotic-breachers/",
+      "originalUrl": "https://www.defensenews.com/unmanned/2022/11/03/us-army-digs-deeper-to-develop-robotic-breachers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defensenews.com/resizer/Uwpm-Wm0MVv3xtPlt_6-IJ3KRpk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/7375MPBJAZHYPBNQR5NDGYYKGM.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-ai-can-teach-robot-dogs-tricks-for-cheap.md",
       "title": "AI can teach robot dogs tricks for cheap",
       "excerpt": "According to a new report courtesy of The New Scientist, however, that cost could soon drop precipitously thanks to training regimen overseen by multiple AI “coaches.” Judging from the video clip, we might as well start rolling out the red carpet—they certainly will have no trouble walking a straight line down one,",
@@ -1210,144 +1348,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf-nysemkt-irbo.md",
-      "title": "iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF (NYSEMKT: IRBO)",
-      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 10/31/2022. Discounted offers are only available to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/quote/nysemkt/irbo/",
-      "originalUrl": "https://www.fool.com/quote/nysemkt/irbo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
-          "width": 843,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
-      "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
-      "excerpt": "where the robots can be controlled and programmed, for another two years after that. Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/10/lego-is-discontinuing-its-mindstorms-buildable-robot-kits/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/10/lego-is-discontinuing-its-mindstorms-buildable-robot-kits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers.md",
-      "title": "Logistics Operators Find Robots Are Helping Recruit Tech-Savvy Workers",
-      "excerpt": "Some companies say that investing in automation is helping them bring in a new generation of tech-savvy workers interested in working on the latest developments in artificial intelligence, robotics and other technologies aimed at driving efficiency in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "originalUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-653155/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "publishedDateTime": "2022-10-27T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

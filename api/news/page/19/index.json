@@ -2,6 +2,178 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-01-09-aurora-sees-driverless-trucks-on-the-road-in-2024.md",
+      "title": "Aurora Sees Driverless Trucks On the Road in 2024",
+      "excerpt": "Every day, self-driving trucks carrying FedEx packages make repeated runs between Dallas and Houston, and between Fort Worth and El Paso. At least for now, those trucks rumbling through Texas have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "originalUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-697502/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-computer-vision-maps-christmas-lights.md",
+      "title": "Computer Vision Maps Christmas Lights",
+      "excerpt": "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
+      "originalUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/10/led-light-map-main.jpg",
+          "width": 1195,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-force-control-in-actuators-and-robot-end-effectors.md",
+      "title": "Force Control in Actuators and Robot End Effectors",
+      "excerpt": "Motors and end effectors come in many shapes and sizes but compared to actuators that transport an object from point A to B, end effectors also integrate force sensing to ensure that objects being ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
+      "originalUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2023/01/force_control_1540x800.63b71e3c7ef35.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards.md",
+      "title": "Google Deepmind Creates Bizarre Magic: The Gathering and Hearthstone Cards",
+      "excerpt": "Google Deepmind may be dominant at the game of Go, but it’s still struggling when it comes to card games like Magic: The Gathering and Hearthstone. Still, researchers fully intend to push it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards",
+      "originalUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/inverse/90/d3/d5/8c/4e82/4e62/844a/065f95f6925b/nissa-the-vastwood-seer.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards/amp",
+      "cdnAmpWebUrl": "https://www-inverse-com.cdn.ampproject.org/c/s/www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards/amp",
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-ibm-inks-725-million-deal-so-public-servants-can-tap-key-technologies.md",
       "title": "IBM inks $725 million deal so public servants can tap key technologies",
       "excerpt": "The agreement gives agencies access to IBM’s strong capabilities in artificial intelligence automation – through its Watson offering – quantum technologies, enterprise level cybersecurity ...",
@@ -904,169 +1076,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-the-drawbacks-of-chatgpt-for-production-conversational-ai-systems.md",
-      "title": "The Drawbacks of ChatGPT for Production Conversational AI Systems",
-      "excerpt": "With its detailed and human-like written responses, ChatGPT has caught the world’s attention and spawned a meaningful discussion about how people should",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/01/06/the-drawbacks-of-chatgpt-for-production-conversational-ai-systems/",
-      "originalUrl": "https://www.datanami.com/2023/01/06/the-drawbacks-of-chatgpt-for-production-conversational-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/01/chat_gpt_shutterstock_Ebru-Omer.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court.md",
-      "title": "‘Robot lawyer’ powered by AI will help fight speeding ticket as it takes first case in court",
-      "excerpt": "The AI, billed as “the world’s first robot lawyer” by the startup that created it, DoNotPay, will run on a smartphone and listen to court arguments in real-time before telling the defendant ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/",
-      "originalUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/comp2.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/05/robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court/amp/",
-      "publishedDateTime": "2023-01-06T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-ces-2023-ais-at-a-really-important-moment-says-sonys-ai-ethics-expert.md",
-      "title": "CES 2023: AI's at a ‘really important moment,' says Sony's AI ethics expert",
-      "excerpt": "This amounts to a crucial moment for AI, Alice Xiang, Head of Sony Group's (SONY) AI Ethics Office and AI Lead Research Scientist, told Yahoo Finance Live (video above). “We're really seeing an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/ces-2023-ais-really-important-200046285.html",
-      "originalUrl": "https://www.aol.com/finance/ces-2023-ais-really-important-200046285.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_yahoo_finance_433/5c8b533b3390eeae6f9ec4727d034d18",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator.md",
-      "title": "Skynet Smiles: AMD Unveils Monster Instinct MI300 Hybrid AI Accelerator",
-      "excerpt": "The MI300 sports 24 Zen 4 cores along with its CDNA 3 GPU architecture and 128GB of high-bandwidth memory (HBM3). AMD didn’t mention how many CUs were being used on the GPU side. The CPU and GPU chiplets are 3D-stacked on top of a base die that connects them to the eight stacks of HBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
-      "originalUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

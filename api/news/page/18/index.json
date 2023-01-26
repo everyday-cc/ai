@@ -2,6 +2,178 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-01-10-ai-and-spam-how-artificial-intelligence-protects-your-inbox.md",
+      "title": "AI and Spam: How Artificial Intelligence Protects Your Inbox",
+      "excerpt": "Conversations around AI often include its role in cybersecurity prevention. AI is a powerful, indispensable tool in fighting cyber threats, but it can also comb through email inboxes to eliminate spam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/ai-and-spam/",
+      "originalUrl": "https://www.unite.ai/ai-and-spam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2023/01/ai-spam-feature-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-attention-uses-natural-language-processing-to-help-sales-reps-sell-faster.md",
+      "title": "Attention uses natural language processing to help sales reps sell faster",
+      "excerpt": "Attention wants to fix that with its sales assistant, which uses AI tech and natural language processing to automatically fill in CRMs after calls and draft follow-up emails. The New York-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/09/attention/",
+      "originalUrl": "https://techcrunch.com/2023/01/09/attention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1337983366.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/09/attention/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/09/attention/amp/",
+      "publishedDateTime": "2023-01-09T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-worlds-first-ai-generated-online-course-created-by-minnesota-startup.md",
+      "title": "World's first AI-generated online course created by Minnesota startup",
+      "excerpt": "World's first AI-created online course made by Minnesota start-up 04:09 MINNEAPOLIS – A Minnesota startup says it has made the world's first online course that was created entirely by using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/minnesota/news/worlds-first-ai-generated-online-course-created-by-minnesota-startup/",
+      "originalUrl": "https://www.cbsnews.com/minnesota/news/worlds-first-ai-generated-online-course-created-by-minnesota-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-nvidia-reportedly-using-ai-optimized-drivers-to-improve-their-gpu-drivers.md",
+      "title": "NVIDIA Reportedly Using AI-Optimized Drivers To Improve Their GPU Drivers",
+      "excerpt": "NVIDIA is reportedly looking to include artificial intelligence (AI) in its new GPU (Graphics Processing Unit) drivers expected to release in the first",
+      "sourceUrl": null,
+      "webUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
+      "originalUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techworm.net/wp-content/uploads/2023/01/NVIDIA.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techworm.net",
+        "domain": "techworm.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-cobalt-robotics-expands-deployment-with-ally-financial-to-secure-its-facilities-keep-employees-safe-save-money-and-tackle-labor-shortage.md",
       "title": "Cobalt Robotics Expands Deployment with Ally Financial to Secure Its Facilities, Keep Employees Safe, Save Money, and Tackle Labor Shortage",
       "excerpt": "Cobalt Robotics, the only machine learning company to automate repetitive manual security and facility tasks with autonomous robots around the world, today announced it has expanded its customer implementation with Ally Financial,",
@@ -948,178 +1120,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-aurora-sees-driverless-trucks-on-the-road-in-2024.md",
-      "title": "Aurora Sees Driverless Trucks On the Road in 2024",
-      "excerpt": "Every day, self-driving trucks carrying FedEx packages make repeated runs between Dallas and Houston, and between Fort Worth and El Paso. At least for now, those trucks rumbling through Texas have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "originalUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-697502/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-computer-vision-maps-christmas-lights.md",
-      "title": "Computer Vision Maps Christmas Lights",
-      "excerpt": "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
-      "originalUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/10/led-light-map-main.jpg",
-          "width": 1195,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-force-control-in-actuators-and-robot-end-effectors.md",
-      "title": "Force Control in Actuators and Robot End Effectors",
-      "excerpt": "Motors and end effectors come in many shapes and sizes but compared to actuators that transport an object from point A to B, end effectors also integrate force sensing to ensure that objects being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
-      "originalUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2023/01/force_control_1540x800.63b71e3c7ef35.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards.md",
-      "title": "Google Deepmind Creates Bizarre Magic: The Gathering and Hearthstone Cards",
-      "excerpt": "Google Deepmind may be dominant at the game of Go, but it’s still struggling when it comes to card games like Magic: The Gathering and Hearthstone. Still, researchers fully intend to push it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards",
-      "originalUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/inverse/90/d3/d5/8c/4e82/4e62/844a/065f95f6925b/nissa-the-vastwood-seer.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards/amp",
-      "cdnAmpWebUrl": "https://www-inverse-com.cdn.ampproject.org/c/s/www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards/amp",
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inverse",
-        "domain": "inverse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,178 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-12-14-study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people.md",
+      "title": "Study finds exercise, mindfulness don't boost cognitive function in older people",
+      "excerpt": "An extensive study that looked at whether mindfulness training and exercise could improve cognitive performance in older persons showed no such improvement after either intervention. Researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/health/study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people-460876",
+      "originalUrl": "https://www.tribuneindia.com/news/health/study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people-460876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/12/2022_12$largeimg_784993222.jpg",
+          "width": 509,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/health/study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people-460876",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people-460876",
+      "publishedDateTime": "2022-12-14T01:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-oppo-claims-its-bluetooth-audio-chip-delivers-wired-quality.md",
+      "title": "Oppo claims its Bluetooth audio chip delivers wired quality",
+      "excerpt": "The first day of Inno Day 2022 was filled with announcements including Oppo's new Bluetooth audio SoC, health monitor, and AR glasses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/",
+      "originalUrl": "https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/03/Oppo-logo-angled-MWC-2022.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea.md",
+      "title": "transcosmos releases \"transpeech,\" its contact center speech recognition solution in South Korea",
+      "excerpt": "With one-stop services from deploying essential environment for speech recognition to operations, boost contact center service quality and operational efficiency transcosmos inc. hereby announces ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-6-ibm-cybersecurity-predictions-for-2023-ransomware-and-caas-will-spike.md",
+      "title": "6 IBM cybersecurity predictions for 2023: Ransomware and CaaS will spike",
+      "excerpt": "Recently, IBM Security and the X-Force threat research ... Intelligent Security Summit On-Demand Learn the critical role of AI & ML in cybersecurity and industry specific case studies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
+      "originalUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-mondelez-international-expands-partnership-with-hcl-tech.md",
       "title": "Mondelez International expands partnership with HCL Tech",
       "excerpt": "Under the contract, HCL Tech will leverage its automation and artificial intelligence (AI) capabilities to enable Mondelez International to provide on-demand personalised user experience and accelerated issue resolution to its over 1.",
@@ -961,187 +1133,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns.md",
-      "title": "Image-generating AI can copy and paste from training data, raising IP concerns",
-      "excerpt": "A new study offers some evidence that art-generating AI systems like Stable Diffusion copy from the data on which they were trained.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/",
-      "originalUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/",
-      "publishedDateTime": "2022-12-13T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028.md",
-      "title": "Artificial Intelligence in Healthcare Market New Innovations, Trends, Technology and Applications Market Report to 2022-2028",
-      "excerpt": "Pune, Maharashtra — (SBWIRE) — 12/13/2022 — Artificial Intelligence in Healthcare Market Analysis & Overview 2022: Artificial intelligence is utilised in medical research to discover how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-deepminds-alphacode-is-the-best-example-of-ai-gearing-up-to-snatch-your-white-collar-jobs.md",
-      "title": "DeepMind's AlphaCode is the best example of AI gearing up to snatch your white-collar jobs",
-      "excerpt": "Researchers from DeepMind, which is a subsidiary of Alphabet, believe that this system will someday assist coders, but might not replace them. “It’s very impressive, the performance they’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/general/ai-gearing-up-to-apply-for-your-white-collar-jobs-66359.html",
-      "originalUrl": "https://www.digit.in/news/general/ai-gearing-up-to-apply-for-your-white-collar-jobs-66359.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/12980-88c90f7dc7.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/general/66359/ai-gearing-up-to-apply-for-your-white-collar-jobs",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/66359/ai-gearing-up-to-apply-for-your-white-collar-jobs",
-      "publishedDateTime": "2022-12-13T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-a-tech-worker-is-selling-a-childrens-book-he-made-using-ai-professional-illustrators-are-pissed.md",
-      "title": "A Tech Worker Is Selling A Children's Book He Made Using AI. Professional Illustrators Are Pissed.",
-      "excerpt": "Ammaar Reshi told BuzzFeed News that he has received death threats and messages encouraging self-harm on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "originalUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-12/11/17/campaign_images/7d22e253fcf3/which-jenna-ortega-character-are-you-2-414-1670780454-80_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "publishedDateTime": "2022-12-13T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -154,7 +154,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -210,7 +211,7 @@
       "originalUrl": "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -253,7 +254,7 @@
       "originalUrl": "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -284,7 +285,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1018,49 +1020,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-15-baidu-backed-chinese-startup-to-push-self-driving-sweeping-vehicles.md",
-      "title": "Baidu-backed Chinese startup to push self-driving sweeping vehicles",
-      "excerpt": "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
-      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F8%252F4%252F43794852-1-eng-GB%252Fphoto_SXM2022121900006555.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-15-self-driving-cars-could-nearly-double-road-congestion-says-government-report.md",
       "title": "Self-driving cars could nearly double road congestion, says Government report",
       "excerpt": "Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a Government report warns. Department for Transport (DfT) traffic projections ...",
@@ -1090,6 +1049,49 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-baidu-backed-chinese-startup-to-push-self-driving-sweeping-vehicles.md",
+      "title": "Baidu-backed Chinese startup to push self-driving sweeping vehicles",
+      "excerpt": "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
+      "originalUrl": "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F8%252F4%252F43794852-1-eng-GB%252Fphoto_SXM2022121900006555.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-14T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Autos
+  - AI Hardware
 
 images:
   - url: "https://insidebitcoins.com/wp-content/uploads/2023/01/ai-crypto-coins-to-buy.png"

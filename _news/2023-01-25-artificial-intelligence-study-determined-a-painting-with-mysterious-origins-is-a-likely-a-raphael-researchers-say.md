@@ -43,22 +43,6 @@ related:
         width: 1270
         height: 1270
         isCached: true
-  - title: "MSG faces backlash for using facial recognition technology"
-    excerpt: "Sen. Kristen Gonzalez joined advocates sounding off last weekend, demanding that MSG Entertainment seize the use of the technology on fans."
-    publishedDateTime: 2023-01-21T07:14:00Z
-    webUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
-    ampWebUrl: "https://brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 59
-    images:
-      - url: "https://images.ctfassets.net/3kqcuzntcg31/6MoUTJYfbgBxQxVY46j4WD/a5ea15e7a69faaa364b96a99ef9d8b77/3b96f50a-c2f9-4d18-afe0-ff8ec91a49a6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "d00Wge0xqfUCG4KqM1vsC+/6zpYZT19yApTvQB+pX0UGoG3ApnPENeSz6QykTW6+bSezu2N9mTiUl4ODEVjOivJv+RP8awkPCmj157b+iGLMZfz3lxytXze0MWybZYcifz5xfn7+LlDXGzsQtQ5O/J6paf6MzHNVU4vbIaIu3KLeN44+vVpA8q2BdBAIYbDxd8k/d0abUZFu+ZBrgRQxxQx4X66PzwQueHTRojlY0Seas3FopqpzWLMHCh4g4DQ+lS3dVi6RLJrjKjrfurnt3uQO1PMVwxiJjfnsRxs/lRPx1ZHWtV2MidkxXqYse7D1Wog4Ud2R+IfADhtrrkaVa3iP3XGe6a3rloUmrcxT1dM=;keTMKPvJ+d/JJzhh4me2Zw=="
 ---

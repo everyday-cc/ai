@@ -9,7 +9,7 @@ ampWebUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-o
 cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "http://cdn.carbuzz.com/gallery-images/900x600/1096000/100/1096116.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "The future of testing self-driving cars"
+    excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
+    publishedDateTime: 2023-01-25T23:24:00Z
+    webUrl: "https://www.udel.edu/udaily/2023/january/self-driving-cars-automated-vehicles-andreas-malikopoulos-algorithms-transportation-equity/"
+    type: article
+    provider:
+      name: University of Delaware
+      domain: udel.edu
+    quality: 24
+    images:
+      - url: "https://www.udel.edu/content/dam/udelImages/udaily/2023/January/fb-AMalikopoulos-scaled-smart-city_800x420.jpg"
+        width: 800
+        height: 420
         isCached: true
   - title: "Tesla's Autopilot system tumbles in self-driving safety ratings"
     excerpt: "Autopilot had once been regarded by the Consumer Reports team as one of the best systems in class, ranking second in the same study last year. It wasn’t as fortunate this year, with the firm ranking it a mere seventh on the list."

@@ -9,7 +9,7 @@ ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authent
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
 type: article
 quality: 66
-heat: 87
+heat: 78
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "MSG faces backlash for using facial recognition technology"
-    excerpt: "Sen. Kristen Gonzalez joined advocates sounding off last weekend, demanding that MSG Entertainment seize the use of the technology on fans."
-    publishedDateTime: 2023-01-21T07:14:00Z
-    webUrl: "https://brooklyn.news12.com/msg-faces-backlash-for-using-facial-recognition-technology"
-    ampWebUrl: "https://brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-    cdnAmpWebUrl: "https://brooklyn-news12-com.cdn.ampproject.org/c/s/brooklyn.news12.com/amp/msg-faces-backlash-for-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 59
-    images:
-      - url: "https://images.ctfassets.net/3kqcuzntcg31/6MoUTJYfbgBxQxVY46j4WD/a5ea15e7a69faaa364b96a99ef9d8b77/3b96f50a-c2f9-4d18-afe0-ff8ec91a49a6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence study determined a painting with mysterious origins is a likely a Raphael, researchers say"
     excerpt: "The technology found the de Brécy Tondo, which features a woman and baby, closely matched Raphael's Sistine Madonna."
     publishedDateTime: 2023-01-24T17:34:00Z

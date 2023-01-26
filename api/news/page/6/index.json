@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-19-vdoai-aims-to-bring-new-revenue-to-publishers.md",
+      "title": "VDO.AI Aims To Bring New Revenue To Publishers",
+      "excerpt": "VDO says their AI technology is enabling platforms such as theirs so they can handle over 5 billion transactions daily each.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/",
+      "originalUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c826873b5ed2b91de9af4f/0x0.jpg?format=jpg&crop=3840,1699,x0,y219,safe&width=1200",
+          "width": 1200,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2023/01/18/vdo-aims-to-bring-new-revenue-to-publishers/amp/",
+      "publishedDateTime": "2023-01-18T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-natural-language-processing-in-artificial-intelligence-what-it-is-and-why-it-matters.md",
+      "title": "Natural Language Processing in Artificial Intelligence: What It Is and Why It Matters",
+      "excerpt": "F or the past few decades, the idea of Artificial Intelligence (AI) has moved from being the stuff of pure science fiction to something that seems to be inching closer to reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
+      "originalUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
+      "publishedDateTime": "2023-01-18T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-artificial-intelligence-based-medical-device-market-is-set-to-grow-in-forecast-period-2029.md",
       "title": "Artificial Intelligence Based Medical Device Market is Set to Grow in forecast period 2029",
       "excerpt": "Artificial Intelligence Based Medical Device Market Report Insights: (Report Pages: 110) “The Artificial Intelligence",
@@ -959,6 +1045,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-18-roomba-robot-vacuum-deals-start-at-179-for-the-roomba-694.md",
+      "title": "Roomba robot vacuum deals start at $179 for the Roomba 694",
+      "excerpt": "Prices start at just $399, and you’ll save $200 on the plus model. You can learn more about this AI-powered robot vacuum in my Roomba j7+ review. On top of that, the hot new Roomba Combo j7+ is ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
+      "originalUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/03/Roomba-692-robot-vacuum.jpg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-epson-signs-motion-automation-intelligence-as-distributor-in-central-and-southeast-regions.md",
       "title": "Epson signs Motion Automation Intelligence as distributor in central and southeast regions",
       "excerpt": "Epson's Robots offer customers value and simplicity through Motion Ai's manufacturers and Premier Automation Solutions",
@@ -1034,160 +1163,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity.md",
-      "title": "John Chambers expects a ‘tough’ 2023 but plenty of opportunities for AI, cybersecurity",
-      "excerpt": "\"This year is going to be tough,\" Chambers told MarketWatch. \"However, I believe strongly that downturns are when the next generation of leaders can emerge.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609?mod=home-page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-705156/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/john-chambers-expects-a-tough-2023-but-plenty-of-opportunities-for-ai-cybersecurity-11673995609",
-      "publishedDateTime": "2023-01-17T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips.md",
-      "title": "Daily Crunch: Apple powers up 14- and 16-inch MacBook Pro models with M2 Pro and Max chips",
-      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
-      "originalUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1149447240.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
-      "publishedDateTime": "2023-01-17T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate.md",
-      "title": "Why are Getty and Shutterstock on opposite sides of the AI legal debate?",
-      "excerpt": "It has become clear that Getty and Shutterstock have diverged in their efforts to deal with the escalating legal issues around generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
-      "originalUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-8.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate/amp/",
-      "publishedDateTime": "2023-01-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

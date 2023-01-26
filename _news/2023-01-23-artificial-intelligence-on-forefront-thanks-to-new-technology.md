@@ -8,8 +8,8 @@ webUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligenc
 ampWebUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true"
 cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://x-default-stgec.uplynk.com/ausw/slices/2fa/2fbf8a5e953e4a01960f2f5161cc4953/2fa94b66144647d684da70b6f2e4379f/poster_d756cdb6393a4cf9b11a4275568c2734.jpg"

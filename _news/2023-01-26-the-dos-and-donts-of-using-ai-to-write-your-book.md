@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-25T22:01:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/the-pros-and-cons-of-using-ai-to-write-your-book/442535"
 webUrl: "https://www.entrepreneur.com/science-technology/the-pros-and-cons-of-using-ai-to-write-your-book/442535"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1674499920-GettyImages-1220656664.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "0uN/qZdF8/fskxpZmAC7yOnQEo1cwAfJhBLvkkQG8LjPsUWX60NUDZHZDjWU0qjgasx4sfc/SUbWIg7dE0Dy7L7L/EPqEh1ym31vGxvlHNThkljpRozww9nkquTrAlpLds65Sy/3QUtmcP615GC3olYnxSXXLmQT5nQi1g/CGBCOZv0j3b43QEgYvlUpBwpSEW5kAX0EQbgeScCPNDmzwXA5tJ+k7xFwfn1evRajahFFkm8bPwv7XMohEx0BhFHZqUgPZOOfcqsH9F9CVVWlFS/UaPkxwU/IlpL/e7HoSCT7oTJ0zqrcRQfr7SVHbT6BAZt2G3n/p0hLf2O0jaRKnRYvO0oDn5aGhrGl7N2Sooc=;I08D+SaSWvv+7CWs76wUDg=="
+secured: "cWj2uOESXW+GaDq05kvj7Rer8SVS4/1YkInLKtj3HMrmY2O/jHZRzL3ON5gqEfYidkTqYJaaRuy34exQa1IkxFjDf6xgD9pLTX8deMuDziQOD0GVoBC1I80hK+sRL0Y3A6M2rzOxF/vd6Y9bkShovRxyHP2J1euIpskO0tl1yWVDEC0UUOTKdk6spwYuot8vukZcoWpaU9WCn0hDswj7xsVdR9wRAWXMC6V01rvKW2HCRfbb6NwDqKPsXUmNiMUjg2uE+5ZABUY0jjd0CiQfr268AOUzLxQV23d91v6f4Hqme0bFnUqK+PISy38oPfXBu+0l7PKBCz/vKToErxSU8XoF0tPsEFWOV7vSfYEPfsl8tb6b0eUnHaDWANIfXxMX4lBaX8OsAuIqjZMRY+X9enK09fTA+X/IeVwY26XZdDaPbdiCLUE/sh7HeSYwnbh0tkaJbZwz7aXYI5BzOHmgUwMY98OZwXdlhNYilnGqhTnEh5/onJWYFAynmpX1xgsaKJ8qufoDj2pCoUlNXY2VAg==;+SqFI+COst3jLn3zCIPTNw=="
 ---
 

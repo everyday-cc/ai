@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-12-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
+      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
+      "excerpt": "XACT Robotics ®, developer of the world’s first and only comprehensive robotic system for interventional procedures, announced today that its ACE Xtend™ Remote Control Unit received U.S. Food ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html",
+      "originalUrl": "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/8a/38a71a80-e7fe-52db-9cea-b4c69212cb07/6345a26dbcbb3.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-m3gan-trailer-showcases-a-lifelike-robot-turned-evil.md",
+      "title": "M3GAN trailer showcases a lifelike robot turned evil",
+      "excerpt": "A lifelike doll powered by artificial intelligence begins to wreak havoc on its creators in the trailer for M3GAN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/",
+      "originalUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/M3GAN-trailer-photo.jpg?p=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/m3gan-trailer/?amp",
+      "publishedDateTime": "2022-10-11T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
+      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. HINGHAM, Mass., (BUSINESS WIRE) -- XACT Robotics®, developer of the world’s first and only comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/xact-robotics-receives-fda-clearance-for-its-ace-xtendtm-remote-control-unit-2022-10-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre.md",
       "title": "Don't be afraid of Artificial Intelligence, says head of UK's new robotics centre",
       "excerpt": "The head of the UK's largest and most advanced robotics centre has said that society needs to prepare for the increased integration of robots but shouldn't fear the rise of artificial intelligence ...",
@@ -1288,137 +1435,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-robots-are-making-french-fries-faster-better-than-humans.md",
-      "title": "Robots are making French fries faster, better than humans",
-      "excerpt": "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
-      "originalUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/2022-10-04T133833Z_4_LYNXMPEI930JZ_RTROPTP_4_TECH-ROBOT-FRENCH-FRIES.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
-      "publishedDateTime": "2022-10-04T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people.md",
-      "title": "IDTechEx Asks if Tesla's Humanoid Robot \"Optimus\" Will Really Be Able to Serve People",
-      "excerpt": "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1913841/IDTechEx_Service_Robots.jpg",
-          "width": 400,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29136946",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29136946",
-      "publishedDateTime": "2022-10-04T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel.md",
-      "title": "Artificial Intelligence Robotics Market Is Expected to Boom- Hanson Robotics, Softbank, Intel",
-      "excerpt": "New Jersey, United States, Oct. 03, 2022 /DigitalJournal/ The Artificial Intelligence Robotics Market research report provides all the information related to the industry. It gives the markets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/10/Artificial-Intelligence-Robotics.jpg",
-          "width": 599,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

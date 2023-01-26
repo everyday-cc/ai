@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Microsoft invests billions in artificial intelligence startup OpenAI"
-excerpt: "The tech giant described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
-publishedDateTime: 2023-01-23T18:47:00Z
-originalUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
-webUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
-ampWebUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
-cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate ..."
+publishedDateTime: 2023-01-23T18:41:00Z
+originalUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
+webUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
+ampWebUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: Fox 5 NY
-  domain: fox5ny.com
+  name: FOX 10 Phoenix
+  domain: fox10phoenix.com
 
 topics:
+  - AI in Autos
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -340,6 +341,6 @@ related:
       domain: bbc.co.uk
     quality: 27
 
-secured: "TxcQAmRUdJh6JiBqRQfHhO0SDC2BVzFK4mjI7xBf92EZ8soKcirHkMk0CQXp4VaGYhFc6mrZuRIAs73iCR2peVzvW85hImxw8rTlkUFqgpNjrPpUFPSe5Jn/j0/OYcc8X8Tu7cAkcqIngAtzlIfM86OWAztU5hhAzPWOjZ1JHnmymGOl622DQKC1hnF5MHEVPz2XdZzsKUF27+nCiyHsa1M8xxFwUQNYdxL5TwavDVc/4Q05lNjAKzniw0a9oG2gGfN24ICc2cjGjCs66HXWszxM8aI9ZJC4T+OXvnivoYTzfFxnY8W9SgaeDlF4srKgEt6D6bO/HlnMehFWPuKaXH6RtHPG9bOm+cTYD+DMZS7nN54H6i8n8ElXetS0GmdjlPGNxNbn3JY8Fm38p/aK1EQpxTncgrwWdkTCfAnhhzZmMn1w81+KKdoPvlrKiyGdwA/bsRZaIO6TxgCRDufVY1No8BwUbcDY9MiciffeiUqoMbC+ahIcBIR65qCc+r633c7y2GYZ2tZ89lUo7/hTKw==;mHm2gWaXZGLCATGtqifDIQ=="
+secured: "JjED8Ei7jZIg9v0Lxu+wOBRTx1z+fbfBgejTUrNlvjtWLD5f43o8+8SrGnliwCxfKc5lCbAcICAIdT611ljYp/mZNAlYTZvHcvKkslJeMPH7vEFmFZWdDCLkg1kPgLM+DMhJV2lkSeH53/Z8BreijPuLTvE5KWUvieHRDLZS0W38xEU1uacw3DlSsJaeAr9n1ix2CenKSb+GqdLqQPdjS5QdqAL+OdvH0Iasj1ZtBgXEYQETFnwVAYBa1L/yyXD+t4faWeOW1uaClWm+00xs7/RjPVefSFd0XPYjiQDHyiv2pR9GGJZixMmXq9Qo1lz9JrSnjdKhLdWLdnA6aqN0oJTCQS4qoXf43NhSK9H380s=;7SKzDh3lfAkqtJvOA3tvGg=="
 ---
 

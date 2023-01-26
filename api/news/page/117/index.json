@@ -2,6 +2,198 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-10-10-ai-and-robotics-is-the-future-of-healthcare-sector.md",
+      "title": "AI and Robotics is the future of healthcare sector",
+      "excerpt": "Recent advances in artificial intelligence and robotics hold great promise for transforming several fields of medicine. Artificial intelligence (AI) and robots have the potential to revolutionise healthcare by automating and improving a wide range",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Dr.-Vijay-Patil.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "publishedDateTime": "2022-10-10T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030.md",
+      "title": "Deep Learning Market 2022 Research Report, Industry Growth, Competitors Analysis and Forecast 2030",
+      "excerpt": "The research also provides a market analysis using various analytical techniques, including Porter’s Five Forces Analysis and PESTEL Analysis. These tools provide an in-depth analysis of the micro- and macro-environmental elements that influence the market’s expansion during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-autonomous-delivery-robots-the-precursor-to-self-driving-cars.md",
+      "title": "Autonomous Delivery Robots: The Precursor To Self-Driving Cars",
+      "excerpt": "Although widespread use of self-driving cars is still years away, autonomous delivery robots may be helping to pave the way toward quicker commercial implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634028fd5ebb205248de06a9/0x0.jpg?format=jpg&crop=4735,2664,x0,y351,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/amp/",
+      "publishedDateTime": "2022-10-10T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice.md",
+      "title": "Artificial intelligence could soon diagnose illness based on the sound of your voice",
+      "excerpt": "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
+      "originalUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/456da3a/2147483647/strip/true/crop/3556x2190+0+238/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F06%2F20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
+      "cdnAmpWebUrl": "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
+      "publishedDateTime": "2022-10-10T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAMC",
+        "domain": "wamc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030.md",
       "title": "Asia-Pacific Self-driving Car Market 2022 Key Applications, New Technology and Forecast till 2030",
       "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Asia-Pacific Self-driving Car Market are also discussed in detail in the research,",
@@ -967,198 +1159,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-what-makes-a-champagne-vintage-great-ask-a-deep-learning-model.md",
-      "title": "What Makes a Champagne Vintage Great? Ask a Deep Learning Model",
-      "excerpt": "Bollinger is data mining its meticulous records to predict vintage years and weather the challenges of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
-      "originalUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6340b2bf6f81dc98cfa7cfa4/master/pass/Bollinger-Champagne-Featured-Gear.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp",
-      "publishedDateTime": "2022-10-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games.md",
-      "title": "Explained: How Artificial Intelligence can be used to cheat in chess games",
-      "excerpt": "The issue cheating in chess has resurfaced after World Champion Magnus Carlsen refused to play against Hans Niemann, apparently alleging cheating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/10/08/1600x900/chess_1665218963112_1665218963387_1665218963387.jpeg",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692-amp.html",
-      "publishedDateTime": "2022-10-08T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-new-alzheimers-drug-that-slows-cognitive-decline-could-be-available-next-year.md",
-      "title": "New Alzheimer's drug that slows cognitive decline could be available next year",
-      "excerpt": "So is the benefit worth the risk and cost? Lecanemab slowed the rate of cognitive decline in people with mild cognitive impairment and early-stage Alzheimer’s disease by 27% over 18 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.plymouthherald.co.uk/news/uk-world-news/new-alzheimers-drug-slows-cognitive-7680021",
-      "originalUrl": "https://www.plymouthherald.co.uk/news/uk-world-news/new-alzheimers-drug-slows-cognitive-7680021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.stokesentinel.co.uk/incoming/article6760879.ece/ALTERNATES/s1200/1_GettyImages-951637976.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Plymouth Herald",
-        "domain": "plymouthherald.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
-      "title": "GPU for Deep Learning Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
-      "excerpt": "The \" GPU for Deep Learning Market \" study helps to Interact with valuable trends, gain insight into consumer behavior, and use visualizations to perform effective competitor analysis. Rather than adding streams of shaky data to a static spreadsheet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
       ]
     }
   ],

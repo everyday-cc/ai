@@ -2,6 +2,136 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-16-meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages.md",
+      "title": "Meet Michael Running Wolf, the man using AI to reclaim Native languages",
+      "excerpt": "Imagine putting on a virtual reality headset and entering a world where you can explore communities, like Missoula, except your character, and everyone you interact with, speaks Salish.",
+      "sourceUrl": null,
+      "webUrl": "https://helenair.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_98e41425-fcbd-5a10-98b6-3d4de30fe37b.html",
+      "originalUrl": "https://helenair.com/news/state-and-regional/meet-michael-running-wolf-the-man-using-ai-to-reclaim-native-languages/article_98e41425-fcbd-5a10-98b6-3d4de30fe37b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/9/8e/98e41425-fcbd-5a10-98b6-3d4de30fe37b/63c1f7d19ca1a.preview.jpg?crop=1322%2C694%2C50%2C200&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent Record",
+        "domain": "helenair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-machine-learning-predicts-brain-tumor-progression.md",
+      "title": "Machine Learning Predicts Brain Tumor Progression",
+      "excerpt": "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/salmonella-for-treatment-of-glioblastoma.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
+      "publishedDateTime": "2023-01-16T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare.md",
+      "title": "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare",
+      "excerpt": "To understand the potential for machine learning to transform medicine, we must go back to the controversial origins of data use in healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
+      "originalUrl": "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/503380/original/file-20230106-16-mc22tn.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=226&fit=crop",
+          "width": 320,
+          "height": 226,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
+      "publishedDateTime": "2023-01-16T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-top-10-fintech-and-innovation-trends-to-watch-in-2023.md",
       "title": "Top 10 Fintech and innovation trends to watch in 2023",
       "excerpt": "Following the increasing levels of automated processes and digitized transformations in financial services, Fintech companies are leveraging AI and Machine learning in handling “Big data” and ...",
@@ -671,49 +801,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-15-baidu-backed-chinese-startup-to-push-self-driving-sweeping-vehicles.md",
-      "title": "Baidu-backed Chinese startup to push self-driving sweeping vehicles",
-      "excerpt": "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
-      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F8%252F4%252F43794852-1-eng-GB%252Fphoto_SXM2022121900006555.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-15-no-black-boxes-keep-humans-involved-in-artificial-intelligence.md",
       "title": "No Black Boxes: Keep Humans Involved In Artificial Intelligence",
       "excerpt": "Human decision-making is critical in the loop of AI functioning. Without it, we’ll end up with biased, unhelpful technology that serves no one.",
@@ -855,6 +942,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-baidu-backed-chinese-startup-to-push-self-driving-sweeping-vehicles.md",
+      "title": "Baidu-backed Chinese startup to push self-driving sweeping vehicles",
+      "excerpt": "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
+      "originalUrl": "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F8%252F4%252F43794852-1-eng-GB%252Fphoto_SXM2022121900006555.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-14T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1047,154 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028.md",
-      "title": "Facial Recognition Devices Market Geographical Segmentation By Forecast Revenue 2023-2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Facial Recognition",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-01-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-01-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-why-chip-maker-nvidia-was-at-a-healthcare-conference.md",
-      "title": "Why Chip Maker Nvidia Was at a Healthcare Conference",
-      "excerpt": "Healthcare could become a billion dollar a year market for Nvidia's number-crunching and artificial intelligence products, writes J.P. Morgan's semiconductor analyst Harlan Sur, in a note about the chip maker's Thursday presentation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-703942/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
-      "publishedDateTime": "2023-01-14T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws.md",
-      "title": "Top 5 stories of the week: ChatGPT, CES and cybersecurity advice from AWS",
-      "excerpt": "A roundup of the top 5 stories this week, including AI at CES and coming soon to Microsoft Office, and security advice from AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_weekly-5_tony-hand-P3uJUQ62uXE-unsplash-e1673647845482.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/amp/",
-      "publishedDateTime": "2023-01-14T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

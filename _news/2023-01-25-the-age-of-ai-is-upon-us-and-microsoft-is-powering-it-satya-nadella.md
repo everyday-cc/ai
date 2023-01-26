@@ -49,7 +49,7 @@ related:
     provider:
       name: Searchenginejournal.com
       domain: searchenginejournal.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-ai-apps-63d16e7a0d8b7-sej.png"
         width: 1600

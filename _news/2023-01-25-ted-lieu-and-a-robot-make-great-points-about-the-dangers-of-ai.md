@@ -9,7 +9,7 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282"
 type: article
 quality: 74
-heat: 85
+heat: 86
 published: true
 
 provider:

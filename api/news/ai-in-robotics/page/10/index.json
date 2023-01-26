@@ -2,6 +2,144 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-28-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf-nysemkt-irbo.md",
+      "title": "iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF (NYSEMKT: IRBO)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 10/31/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "originalUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
+      "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
+      "excerpt": "where the robots can be controlled and programmed, for another two years after that. Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/10/lego-is-discontinuing-its-mindstorms-buildable-robot-kits/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/10/lego-is-discontinuing-its-mindstorms-buildable-robot-kits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers.md",
+      "title": "Logistics Operators Find Robots Are Helping Recruit Tech-Savvy Workers",
+      "excerpt": "Some companies say that investing in automation is helping them bring in a new generation of tech-savvy workers interested in working on the latest developments in artificial intelligence, robotics and other technologies aimed at driving efficiency in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
+      "originalUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-653155/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
+      "publishedDateTime": "2022-10-27T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run.md",
       "title": "Lego to discontinue Mindstorms robot line after a 24-year run",
       "excerpt": "Lego Mindstorms debuted on September 1, 1998, as a breakthrough educational tool—originally developed at MIT—that allowed kids and adults alike to craft robotic systems using",
@@ -1255,154 +1393,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament.md",
-      "title": "AI Law And AI Ethics Deeply Disturbed By That Recent “History-Making Moment” Of An AI Robot Testifying To The UK Parliament",
-      "excerpt": "An AI robot spoke to the UK Parliament in a committee hearing, which has been heralded as historic and meanwhile scoffed at as being nothing more than a cheap stunt. We take a close look at what occurred and examine the true limits of AI and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634dd406801f9839f3ad84c7/0x0.jpg?format=jpg&crop=3835,2159,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
-      "publishedDateTime": "2022-10-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-general-robotics-launches-naval-rcws.md",
-      "title": "General Robotics launches naval RCWS",
-      "excerpt": "Israel-based General Robotics has launched a naval version of its Remote Controlled Weapon Station (RCWS). Known as Shark, the RCWS is designed for small manned and unmanned naval vessels ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
-      "originalUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.janes.com/images/default-source/news-images/bsp_44013-idr-19424.jpg?sfvrsn=c6cabfbd_2",
-          "width": 600,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "publishedDateTime": "2022-10-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr.md",
-      "title": "Artificial Intelligence in Defense Market Size Worth $13.15Bn, Globally, by 2028 at 10.8% CAGR",
-      "excerpt": "The latest research study on \"Artificial Intelligence in Defense Market Forecast to 2028 – COVID-19 Impact and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

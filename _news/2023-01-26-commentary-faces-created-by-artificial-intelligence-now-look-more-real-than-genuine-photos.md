@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/commentary/ai-generated-face-image
 webUrl: "https://www.channelnewsasia.com/commentary/ai-generated-face-image-deepfake-social-media-account-real-tech-3230301"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,37 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "Commentary: Artificial intelligence can’t reproduce the wonders of original human creativity"
-    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
-    publishedDateTime: 2023-01-21T08:00:00Z
-    webUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.html"
-    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.amp.html"
-    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_7587b1c2-96ef-11ed-b879-ef837a5d11ec.amp.html"
+  - title: "Deepfakes: faces created by AI now look more real than genuine photos"
+    excerpt: "Even if you think you are good at analysing faces research shows many people cannot reliably distinguish between photos of real faces and images that"
+    publishedDateTime: 2023-01-23T13:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273418654/deepfakes-faces-created-by-ai-now-look-more-real-than-genuine-photos"
     type: article
     provider:
-      name: Yakima Herald-Republic
-      domain: yakimaherald.com
-    quality: 46
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/b/91/b91f8270-96ef-11ed-a539-7bf89a46a19d/63c78198bfc59.image.jpg?resize=1024%2C655"
-        width: 1024
-        height: 655
-        isCached: true
-  - title: "Syndicated Column: Artificial intelligence can’t reproduce the wonders of original human creativity"
-    excerpt: "The biggest story of the year — the story we should all be paying attention to — is the increasing power of artificial intelligence. Computer code can write itself, chatbots"
-    publishedDateTime: 2023-01-22T08:01:00Z
-    webUrl: "https://www.victoriaadvocate.com/opinion/syndicated-column-artificial-intelligence-can-t-reproduce-the-wonders-of-original-human-creativity/article_932e140a-99c4-11ed-a4c0-83b2447add40.html"
-    type: article
-    provider:
-      name: The Victoria Advocate
-      domain: victoriaadvocate.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/32/932e140a-99c4-11ed-a4c0-83b2447add40/5ab134b46b320.preview.jpg?crop=769%2C404%2C0%2C309&resize=769%2C404&order=crop%2Cresize"
-        width: 769
-        height: 404
-        isCached: true
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
 
-secured: "RKY4LbTglGjI/P9NSrnF80eMTYQ4vEQ3iSmEg2in8OgDiCX5qangJOAs4xrN0Lhof7VBUniIxshudTSSx3rWgjD3ztucQVCLrv7WQbzViEJh9fz+vt0kcaKOiFDFcDtenJ2/2+J4FHw1yfvqA9a2OpACCW3jgM4OLZg2LKs8QIHEji1QSfjl22zaDeGOV1GQ78KMWyp6lq0zD6a830j8qxLKH5BWEU5PnAIbhzZUPl8RNv2RdO9L+7IlrBcw/A0QbbM3qd9BerUmODdmWZaTlUAiHYbja1AES4IkCANC8XQ4yXLc+FHpweYrLJQWsklHsnNTRJmjeyHSMWG8oXlnF0DFXbNio1XPhx8bBjV+BKA=;J2vC1pGsiJkcnx8Xs8lALQ=="
+secured: "bg6yPDoVmKFn++LEzoiZGrJMCyz60KGsrs/1r/wTrdaAywUm9ySb/QVvB4v5BFIOm68/cZHVv56AXilli8SmWnlO3Ump6FLcMddh214mh+aQ4O/ySvDbuNJRdMAUNT5yMCoFm/37umy/YO6Qs1ZI0se4vY8x4SCkUq2zlJIB8gjokLX4eiCf4lJ8cKAn49l4vNc8TWeLkMnhfgrfpgA5PjejCpVgcs0fKKxZCKkO5BF8DjPzemWSU5Fh9I2u4qBV/wN0feU9u6n1+m/c75ht7cgSyiU5gwynvDukfyIAZK8ybJxN7a6dNehxTTkMbXTATFVufWklpRgddfnJwIOTiBELJ8DBEZk/goREJGjtRi14ylvFVnO4oFPDN3ndWS9lZ8BkdJVlRlDyMWMTV0t83jc8TdfaN8Cz5LHTP3G7BQu0f7vDBPhnFI+B4aNCzWUnWEoqNr6LFwXfl8So2Ap0/Z15PzgWyOd+erdbT10OZsKHdxSamLe+oJBpACe2Z/EJGOzFrHlOru+/GzsLLblvvg==;Grw+SdUiF2kB+g0jtCcJoQ=="
 ---
 

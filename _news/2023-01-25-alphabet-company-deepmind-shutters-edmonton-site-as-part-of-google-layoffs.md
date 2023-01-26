@@ -96,6 +96,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
+    excerpt: "NDP Leader Rachel Notley said at a news conference in Edmonton Wednesday that without investment-targeted incentives in the sector, the province is at risk of los"
+    publishedDateTime: 2023-01-25T23:39:00Z
+    webUrl: "https://edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace"
+    ampWebUrl: "https://edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace/amp/"
+    cdnAmpWebUrl: "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace/amp/"
+    type: article
+    provider:
+      name: edmontonsun
+      domain: edmontonsun.com
+    quality: 48
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/edmontonsun/wp-content/uploads/2023/01/DeepMind-1.jpg?quality=100&strip=all"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Google parent Alphabet shutting down Edmonton location for DeepMind, consolidating across Canada"
     excerpt: "The company, which was acquired by Google in 2014, has artificial intelligence research centres in Canada, France and the United States"
     publishedDateTime: 2023-01-24T12:10:00Z

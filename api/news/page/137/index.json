@@ -2,6 +2,196 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2022-09-22-ai-ethics-an-overview.md",
+      "title": "AI Ethics: An Overview",
+      "excerpt": "This rise in the power of AI highlights the importance of ethics in AI – we must use this powerful technology in responsible ways. For example, modern artificial intelligence is capable of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/ai-ethics/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg",
+          "width": 1920,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-neural-network-speeds-holographic-image-reconstruction-for-biological-samples.md",
+      "title": "Neural network speeds holographic image reconstruction for biological samples",
+      "excerpt": "Researchers have developed a new end-to-end neural network that can speed up the reconstruction of holographic images. Unlike other deep learning techniques, the approach can be used on samples not encountered during training,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/965510",
+      "originalUrl": "https://www.eurekalert.org/news-releases/965510",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d5478dc3-2da0-4289-ae22-39a8babe2c18/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-startup-diveplane-wants-to-make-ai-ethical-ceo-explains-what-that-means.md",
+      "title": "Startup Diveplane wants to make AI ethical: CEO explains what that means",
+      "excerpt": "In today's world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
+          "width": 1920,
+          "height": 1633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.amp",
+      "publishedDateTime": "2022-09-21T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-microsofts-october-12-surface-launch-whats-on-tap.md",
+      "title": "Microsoft's October 12 Surface launch: What's on tap",
+      "excerpt": "Surface launch event now has an official date but not a lot of other hints. Expectations are there could be a couple of Arm-based devices unveiled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3b60b27b90d76587e4582ccec59f95db8ce99f36/2022/09/21/684b5819-4efb-4fff-8f1b-08c53a4ca7e6/oct12savethedate.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-october-12-surface-launch-whats-on-tap/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-october-12-surface-launch-whats-on-tap/",
+      "publishedDateTime": "2022-09-21T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-voxel51-raises-125m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data.md",
       "title": "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data",
       "excerpt": "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ...",
@@ -1014,208 +1204,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
-      "title": "3D Facial Recognition Systems Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
-      "excerpt": "The purpose of the research report is to provide a clear, accurate, and comprehensive report on the “ 3D Facial Recognition Systems market ”. It should help to clarify the research issues so that management can use the findings to make decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-new-yorks-landmark-ai-bias-law-prompts-uncertainty.md",
-      "title": "New York’s Landmark AI Bias Law Prompts Uncertainty",
-      "excerpt": "Businesses and their service providers are grappling with how to comply with New York City’s mandate for audits of artificial intelligence systems used in hiring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
-      "originalUrl": "https://www.wsj.com/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-627364/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
-      "publishedDateTime": "2022-09-21T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Worth $15.9 Billion by 2027",
-      "excerpt": "According to a new market research report \"Automotive Artificial Intelligence (AI) Market by Component (Hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-elon-musks-tesla-to-unveil-humanoid-robot-next-week.md",
-      "title": "Elon Musk’s Tesla to unveil humanoid robot next week",
-      "excerpt": "Tesla is preparing to unveil a humanoid robot. Really. Plans are underway to launch a prototype of the mannequin-shaped droid — known as Tesla Bot or Optimus — at it’s ‘AI Day’ on 30 September, Reuters reports.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
-      "originalUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/09/HK3GFOZNRJJNHFHO4TNPIOP7WM-ed19.jpeg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
-      "publishedDateTime": "2022-09-21T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -57,22 +57,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "AI Deep Learning Predicts Brain Tumor Growth"
-    excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
-    publishedDateTime: 2023-01-24T15:21:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 74
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "How Artificial Intelligence is Transforming Banking"
     excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
     publishedDateTime: 2023-01-23T22:57:00Z
@@ -105,6 +89,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AI Deep Learning Predicts Brain Tumor Growth"
+    excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
+    publishedDateTime: 2023-01-24T15:21:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 54
   - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
     excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
     publishedDateTime: 2023-01-23T10:21:00Z
@@ -154,6 +149,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "aKhZqXcMz/Ii76zR0yGfiAx6TmbF2d4Tjz+avxFIAu8WXJpWX0/obk0888NkblFSWYI80E6Zjb+oZibqdVBdyhD0CUMOGhQAwTPI6lG14Ac0WAizDatPtXkMWgXdSKSFvd5zOg8KeJom2Py931yhrAs0pxcQjwRF6LTzoBcS3rgyoahrrAqxGs3HBLoeWhg5dBTk/6V3AyU3krjEAs/arYl9EEfWRGwxn90QOTC6rqGHbVNA91nWuOg1AKWGohwLpuTYY8KUymb3bOwJz1C5e8z5BTww0EhUR6pHnjPNCOguhY4MGx8uFRnPSdiN7stvUNqIDmgUdAK1JqBOzcslzZWUVfyTO7ooPMXbDqJoAUg=;mOjNgAGN3V172CDbj4jiGA=="
+secured: "IikERDeAbllk+fUhUkk399VQeKykIuAsA007hSYSoBA+kGJr9YInqwVATA1hO5ByWxDXg3pDOAc/wDxo/Ph9KUzknEuFtnH0xZ74ZCnKS8Etl3TCAK7VKSQajuQWS9cpJp7frAn7UbcdGVtK8owg1qQDT+2O5oUzYGizddSOBLU2L7n9eyEAcyskb7gLTYefPJD5Ldrx6mbkO5ELEFUfQjNHKnQfEJeG/nqYHNZGFFAzoSkF6/IDS8qhcTsyY3K/MkC08jiGDxlDMohQ5o79wP/Bibtl50NUIUphIWYZtGUxHXO8FRTEGSqZHurkjP3vJoC/pctxxknGa0idsWgEVDwR42kRcoUnA5p7nkEWWDeZIm8ZQOkSZ9KiQYmiyLXLfTl71RyP8y3WXlY9/egcBYvhq97Vg9jF9Ry9n1rwnmsGEgoQMie0FAz8cD9ZfoICQHG/I5t+9btNDkfE+6YJ6nw1+gcRM4fJZkfMI6G+iBcXRY9kivps1jWhSNuKvkqkmebnJC2pJLVOvtig6LdHHw==;8vq3R2tT+84AAXXzp7JF9Q=="
 ---
 

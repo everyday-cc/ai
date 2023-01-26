@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/health/european-union-aggregate-cancer-imaging-
 ampWebUrl: "https://www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis.amp"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccf9d72c-adbc-4118-814e-009b2b9f98c8/863ea4d8-3acc-47ee-8661-dfd55881a7e7/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Kq/O9onBXRIN55XZAgxRDyAcSl+JTA30qLM/FMkpDcV3KijPbKEChwRixHiAiDPyHrNjpzOneNiP8bBRwnYCjrRebqxhDycNC/4pHkk1LDUisPw7hENNWYaaFvYRUi6p3gUXOdOgiue8wlIJ7qJDWvxLwA3MjiMyeFVY0L5G87T32q+w780EN0/EwrKLCZk9fKaKr7t419AlZXCfB5Lfj7ru68mNSR5Qhqk7psfWFGHqSg6HuhK/rVP9WvrxENmMZdNZFGLHevksg4iDXEmhScHHpkj1dmQXzZ5cE/RsEEqWWm7493tahdJ2hLFikpofteXFmEx/EG+Yk4mEQ86G3KiSYt+ZEoEWKkpZP2EkbeA=;o/NVPsPvDveV3sH6S55vww=="
+secured: "qi+a8dP8Td98RCtbgjkasl+yQ53AbsDEctvapHHKD8WRTqAyR4a2ZS2fGnu3aBSGNjYepOaCCKSkts1Kd1+kKU9j2k4iOF/q+21FTUZc+Brm4vvOLKwBZZN584psYnap9b/R+SbrizczcoA6gACMA7FyQIJbQe5+MLi8iO0C5twoxARdpdGBJN6MKgLvl+y/Nz7kDzTvNP2dQl5M6iO6qcAoCixE46m4dlMAAWYnO+qMo2TyP654AJYwxOvA1u5M29vSOycZdNeBPf0P97IyieLn/ByKIx949hp7+aFwEECh5skJHG15vFin3kJjh1Ig8hjd89fdMLCTAuu1O1iAeI6RVkME7Eqrc8jtpyanTUFNft/fXVbzSI7iPsEN1KiFwOwWEe5Zy/6+jTM4LCsvLHqts13gBjSQo5dpAtepG7Bi6UmnWyR6uNfEQR6Fk+0CGAZ7E4spUV+ggbTMjCNOTgl69/P+HGhqbW6kwxxaWIdOH3RM/oLCOxFvif/vfv/fseSF7TEFiW94W2/N0GA/UQ==;XdFVlIG/3FRcuvEoFpl0Bg=="
 ---
 

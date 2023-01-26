@@ -90,18 +90,18 @@ related:
       domain: microsoft.com
     quality: 91
   - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
-    excerpt: "The tech giant described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
-    publishedDateTime: 2023-01-23T18:47:00Z
-    webUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
-    ampWebUrl: "https://www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+    excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate ..."
+    publishedDateTime: 2023-01-23T18:41:00Z
+    webUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
+    ampWebUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 89
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 91
     images:
-      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true

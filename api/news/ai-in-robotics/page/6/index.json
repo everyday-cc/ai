@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-02-the-rise-and-regulation-of-killer-police-robots.md",
+      "title": "The rise and regulation of killer police robots",
+      "excerpt": "Larger police departments in the United States have the capacity to arm remote-controlled robots with lethal weaponry and send those robots in to kill suspects. But should they be able to use that ...",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
+      "originalUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1669910848/SF%20killer%20robot.jpg",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots?amp",
+      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/san-francisco/1018852/lethal-police-robots?amp",
+      "publishedDateTime": "2022-12-02T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030.md",
+      "title": "Artificial Intelligence Robots Market Share, Projections & Future Opportunities Recorded For The Period Until 2022-2030",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-electric-robot-tractors-powered-by-nvidia-ai-chips-are-here.md",
+      "title": "Electric robot tractors powered by Nvidia AI chips are here",
+      "excerpt": "It’s the Livermore, California-based startup ... its Jetson Xavier AI computer and the Isaac developer platform that helps companies develop and train autonomous robots. Many tractors out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/12/1/23487910/nvidia-jetson-mk-v-electric-autonomous-monarch-tractor-delivery",
+      "originalUrl": "https://www.theverge.com/2022/12/1/23487910/nvidia-jetson-mk-v-electric-autonomous-monarch-tractor-delivery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/CeQ4mrXfCoMxlViNFS8LBzgElJk=/0x0:1731x1193/1200x628/filters:focal(866x597:867x598)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247347/NVIDIA_Jetson_Powers_Monarch_Tractor.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026.md",
       "title": "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence",
@@ -1233,135 +1380,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-ces-2023-robotics-innovation-award-winners-announced.md",
-      "title": "CES 2023 robotics Innovation Award winners announced",
-      "excerpt": "A quick look at the 2023 CES Innovation award winners in the robotics category covers a broad range of solutions that impact consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
-      "originalUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/Tonework-CES-2023-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-this-manta-ray-inspired-soft-robot-flies-through-the-water.md",
-      "title": "This manta ray-inspired soft robot flies through the water",
-      "excerpt": "with the ability to move 3.74 body lengths per second — a big increase over soft robots that struggle to move a single body length in that time. A second, designed for more control, moves around ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/",
-      "originalUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Jie-Yin-Butterfly-HEADER.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/this-manta-ray-inspired-soft-robot-flies-through-the-water/amp/",
-      "publishedDateTime": "2022-11-22T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-robots-authorized-to-kill-in-sfpd-draft-policy.md",
-      "title": "Robots authorized to kill in SFPD draft policy",
-      "excerpt": "A remote-controlled police robot used to disarm bombs. Image from Shutterstock. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. A policy proposal that is heading for Board of Supervisors ...",
-      "sourceUrl": null,
-      "webUrl": "https://missionlocal.org/2022/11/killer-robots-to-be-permitted-under-sfpd-draft-policy/",
-      "originalUrl": "https://missionlocal.org/2022/11/killer-robots-to-be-permitted-under-sfpd-draft-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mission Local",
-        "domain": "missionlocal.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

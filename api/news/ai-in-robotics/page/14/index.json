@@ -2,6 +2,146 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-29-oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash.md",
+      "title": "Oregon State's bipedal robot, Cassie, sets Guinness World Record in 100-meter dash",
+      "excerpt": "A bipedal robot named Cassie just set an official Guinness World Record by running 100 meters in 24.73 seconds. With knees that bend like an ostrich's, Cassie is the first bipedal robot to use machine learning to control a running stride on outdoor terrain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/",
+      "originalUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/r/2022/09/28/f1b73e30-0853-4cee-af52-c10150c5d7a8/thumbnail/640x360/d7fdd2e2afb10bf62f6ad1d424043e33/cassie-100m-1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/",
+      "cdnAmpWebUrl": "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/",
+      "publishedDateTime": "2022-09-28T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBSSports.com",
+        "domain": "cbssports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-inside-abu-dhabis-thriving-artificial-intelligence-scene.md",
+      "title": "Inside Abu Dhabi’s Thriving Artificial Intelligence Scene",
+      "excerpt": "Abu Dhabi is becoming a thriving hub for artificial intelligence and an increasingly attractive destination for meetings and events.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
+      "originalUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://skift.com/wp-content/uploads/2022/09/MBZUAI-External-shot..jpg",
+          "width": 1797,
+          "height": 1166,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
+      "publishedDateTime": "2022-09-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs.md",
+      "title": "Amazon's household robot Astro can now recognize your cats and dogs",
+      "excerpt": "Now Amazon's friendly house robot Astro will bring checking in on your pets to a whole new level. Amazon announced today that the Astro will soon be able to detect cats and dogs in the home. The pet recognition will allow the robot to,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "originalUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/374d54dc3923c98af0cea39805fd86bf0edad6bf/2022/09/28/31ede2b8-bbf6-46b3-ba51-9f6a9032a60c/screen-shot-2022-09-28-at-12-39-13-pm.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
+      "publishedDateTime": "2022-09-28T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-amazon-wants-to-cocoon-you-with-ambient-intelligence.md",
       "title": "Amazon Wants to Cocoon You With ‘Ambient Intelligence’",
       "excerpt": "The company’s new smart gadget uses radar to track your breathing while you sleep. It’s part of Amazon’s plan to weave its products invisibly into your life.",
@@ -1248,163 +1388,6 @@
         "AI Ethics",
         "AI in Security",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028.md",
-      "title": "Artificial Intelligence Robots Market Size to Record 21.3% CAGR Through 2028",
-      "excerpt": "Sep 20, 2022 (Market Insight Reports) -- Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates the growth trends of the industry through historical study and estimates future prospects based on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-factbox-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
-      "title": "Factbox: The challenges automakers, and now Tesla, face with humanoid robots",
-      "excerpt": "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
-      "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-trimble-sets-new-standard-for-robotic-total-station-scalability.md",
-      "title": "Trimble Sets New Standard for Robotic Total Station Scalability",
-      "excerpt": "20, 2022 /PRNewswire/ -- Trimble (NASDAQ: TRMB) introduced today the latest addition to its portfolio of innovative robotic total stations ... users can control and automate their workflow ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/trimble-sets-new-standard-for-robotic-total-station-scalability-1031752906",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/trimble-sets-new-standard-for-robotic-total-station-scalability-1031752906",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1902812/Trimble_Ri_Total_Station.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

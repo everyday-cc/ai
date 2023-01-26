@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/01/VB_Dell_poweredge_R760_011723-e1673966368373.jpg?w=1200&strip=all"

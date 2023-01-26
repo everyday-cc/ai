@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-25T18:02:00Z
 originalUrl: "https://www.searchenginejournal.com/microsoft-ceo-every-app-is-going-to-be-an-ai-app/477334/"
 webUrl: "https://www.searchenginejournal.com/microsoft-ceo-every-app-is-going-to-be-an-ai-app/477334/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-ai-apps-63d16e7a0d8b7-sej.png"

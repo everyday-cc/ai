@@ -87,20 +87,20 @@ related:
         height: 400
         isCached: true
   - title: "Member of Congress reads AI-generated speech on House floor"
-    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
-    publishedDateTime: 2023-01-25T21:31:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking. The brief"
+    publishedDateTime: 2023-01-25T19:47:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: The Hill
+      domain: thehill.com
+    quality: 59
     images:
-      - url: "https://s.abcnews.com/images/US/230125_vod_onlocation_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
+        width: 512
+        height: 512
         isCached: true
   - title: "The Future of Artificial Intelligence (AI)"
     excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
@@ -143,6 +143,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Artificial Intelligence is no match for the human heart"
+    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
+    publishedDateTime: 2023-01-23T07:00:00Z
+    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
+    type: article
+    provider:
+      name: The Big Issue
+      domain: bigissue.com
+    quality: 39
+    images:
+      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Generative AI and the Ensuing Computer Human Whisperer"
     excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
     publishedDateTime: 2023-01-23T12:00:00Z
@@ -198,20 +212,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/0/90103_08_these-ai-designed-computer-cases-look-impressive-and-futuristic.jpg"
         width: 620
         height: 348
-        isCached: true
-  - title: "Artificial Intelligence is no match for the human heart"
-    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
-    publishedDateTime: 2023-01-23T07:00:00Z
-    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
-    type: article
-    provider:
-      name: The Big Issue
-      domain: bigissue.com
-    quality: 37
-    images:
-      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "7K60fFAecF2leLZimmkHXFVihPXbBnC8ZndHGXlZk5yWWTH0IvwIuOqIxEYhUrPudfV3BbQTKQjg0lDmGVeGGCSiBM8FOLvqviiNp21967hsX/c796e++xaOYsDhmY188Vy+sfxi1UHlTAQL3wv9y42p3POUXn+YJi7aUsyJuGD/ftDMCNmZDNo025s6/m4bGo4+h+Dc4TalrFs+s5HMy0uKoeomLRPCigewGhaAnsxuMCVMVPOZALmxpBkV/zy/46Sf3xPN7Nx8I3yii+d/smtn3nrPWpTK1acFwDDlsnosNB86+foIxwcG95d7K+iwkMOmAbkewU4UexFyHVAtAHAGbAksMcyya5z3d9RlA+E=;dRSrPkoeBlUdML1nazApBw=="

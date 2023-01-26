@@ -67,6 +67,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "The future of testing self-driving cars"
+    excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
+    publishedDateTime: 2023-01-25T23:24:00Z
+    webUrl: "https://www.udel.edu/udaily/2023/january/self-driving-cars-automated-vehicles-andreas-malikopoulos-algorithms-transportation-equity/"
+    type: article
+    provider:
+      name: University of Delaware
+      domain: udel.edu
+    quality: 24
+    images:
+      - url: "https://www.udel.edu/content/dam/udelImages/udaily/2023/January/fb-AMalikopoulos-scaled-smart-city_800x420.jpg"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "kac8+KPde+kUWZm3jAtY8Wx8sLuyrV/gU9b+cqV0rVHOKQLsCKW9a3PmiM8/l15Blt+CkvslXPvMG0rpdfNthIy3pLEvw9Q1UmOkwon8/3ZRvcZBAR+0o+LZtihYbl21d96MT+qAm2Kgjxta+9zjpH3aRwqz9iu3kwSiabWGgGOD02DglxQ72P3DIPMCxLmhVjPXE6E5Iy8J7biKJI4BO23G4jv/Anecw9jlqHs0N+yLRlyMP7NlCAyNiqnTWJphp871DnUuoqUQhXKIb0uB3geRz1Kreq2X1SQEX6MUA0egFQNMlzYcQuOukZGd4+E/84U9dxrha2s6XBMHpRCBilxRndoALcX/7iJfLSid93iVOqLR9btpHsdGdKS7gdVVx2YQpTylXcvH91wpQQVbi2db2aBT95ra998qIB3lnEIUDwxGmxq5xk7h3P849Ms6Fm1IheIpJ4/7q/vxHDbpy60kYpYBf+Q4cRkfcjtLAmiPi9fU0UwepTS0jNqNMeinpw6pSmB2Kxmcs2BiWVzt/w==;j2HBjY9SkhqAz795m2YC8w=="
 ---

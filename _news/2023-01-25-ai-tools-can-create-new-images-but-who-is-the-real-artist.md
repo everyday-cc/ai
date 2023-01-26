@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who
 cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/wires/ap/ai-tools-can-create-new-images-who-is-real-artist-20230125.html?outputType=amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 760
     height: 507
     isCached: true
-
-related:
-  - title: "AI Tools Can Create New Images, But Who Is the Real Artist"
-    excerpt: "Countless artists have taken inspiration from The Starry Night since Vincent Van Gogh painted the swirling scene in 1889 Now artificial inte"
-    publishedDateTime: 2023-01-21T08:47:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273407545/ai-tools-can-create-new-images-but-who-is-the-real-artist"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1674288420.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "U+VWjLXNgWOW9/b+CvogAyx71r6a0kv7GCOK68MKdHsqsxN9DM0CJrLGX3/KworCOnwuue5FH79jY2u+pT1lVwhQ4VEa9KyQIfeh9hxni2wtn7QqyEhjHv2P8uO7ot4ME6p6RbESWnJwmnusBHrW7jyZ49uUXA3317DAu57gasWiMFDOd3J0ywkjVvkv5nwMz4ZUXwdcA4KG3HNNWL/jR+r+IskE/tdsqDVjaMlvf16lrRsv8R1VXw0Mi919DuMVVZf4SuqBJ3Kbvy7ZldpZiIhXU5X76pDR3j8SKc3d0fUDwRoWbETMlDlz4HAaCd5cCCEY+WCacMSJKUmoN5jZZR1J5hvn0jywNlR5xbbG13c=;O8ZSmc/4AThBGspjas7boA=="
 ---

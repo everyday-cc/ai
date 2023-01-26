@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Member of Congress reads AI-generated speech on House floor"
-excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
-publishedDateTime: 2023-01-25T21:31:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
-webUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking. The brief"
+publishedDateTime: 2023-01-25T19:47:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
+webUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/230125_vod_onlocation_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -129,6 +130,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Artificial Intelligence is no match for the human heart"
+    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
+    publishedDateTime: 2023-01-23T07:00:00Z
+    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
+    type: article
+    provider:
+      name: The Big Issue
+      domain: bigissue.com
+    quality: 39
+    images:
+      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Generative AI and the Ensuing Computer Human Whisperer"
     excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
     publishedDateTime: 2023-01-23T12:00:00Z
@@ -185,20 +200,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Artificial Intelligence is no match for the human heart"
-    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
-    publishedDateTime: 2023-01-23T07:00:00Z
-    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
-    type: article
-    provider:
-      name: The Big Issue
-      domain: bigissue.com
-    quality: 37
-    images:
-      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The AI ‘gold rush’ is here. What will it bring?"
     excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
     publishedDateTime: 2023-01-23T19:40:00Z
@@ -214,6 +215,6 @@ related:
         height: 960
         isCached: true
 
-secured: "jbKK3LtIqcCTwQw10NaD7/oFn8m5pTma0mm9ghhZEFL+IHhd6PIOa9veIbN0CgPN1o1K9IF0PePMuBhKVQb3Wo427rIwu/kNhOfm19wsa5EiMFCcKcvULKYkN/0i4pLJ5NRzfSQBgBcCsJLwUodqVHw8bnuALm4BReiPR73iYoLOK7C27AM57ovz0E2LJzE1UhyZFmBua2wuyK6moT9Do/x4w0vFvk1sYdWqfXNOkHf6W/Oq8NoN7TLodHvSqRm4ntj2covd99Kj6yXgH0TZuY6JIsrz1NxhuYg7AsT4MD/idENJ2He9ubk2xXhRpU1u15L9NT0O2aIBJ49KTUfJ1+cKqru05J/Cg7QMKyQi+r0=;G9aasxg7uQw1pzvBgRXH7w=="
+secured: "57DtIA07/Qo+KeHbrVAKqQRMbUmsY7LVQawy1nFCwOgrhuCYa7vR+sh/aUvV5sfNyRHwQuhytJGtVrzZH/AJeSlAhR61BOtE/9lbGvhYFwacworoi/ednK/K/D7dP2EJ7Ignxn3jytMKVaNRJ6c8sIAqPO7n/eCuyyQvrYTvARgjmQ27woJnoQsLLxb41E/BZCj04w9Hsgg3nWfR1ErCaCJoRYfx3GEk5PUnF+kLZ8dnrncgh90OCtEKztXq51MqZCRlq0BvVZUNiFqzhC+Pb+ZioP1CWenHhoEOKsgYv6zQAksxYZI6+rkrt6U4wsnGK5pNPK6a5TblITHo+JZ/vWBpAzQIRNTdI32lb1rHM10=;FcvVITDC4/EpcsW9eUfZWw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/business/2023/01/24/alphabet-to-close-ed
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -81,6 +81,22 @@ related:
       - url: "https://i.cbc.ca/1.6441460.1674595107!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-medium-file.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
+    excerpt: "NDP Leader Rachel Notley said at a news conference in Edmonton Wednesday that without investment-targeted incentives in the sector, the province is at risk of los"
+    publishedDateTime: 2023-01-25T23:39:00Z
+    webUrl: "https://edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace"
+    ampWebUrl: "https://edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace/amp/"
+    cdnAmpWebUrl: "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/b8f2372d-b6b9-47e4-8ba2-a5f84205eace/amp/"
+    type: article
+    provider:
+      name: edmontonsun
+      domain: edmontonsun.com
+    quality: 48
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/edmontonsun/wp-content/uploads/2023/01/DeepMind-1.jpg?quality=100&strip=all"
+        width: 1000
+        height: 750
         isCached: true
   - title: "Alphabet company DeepMind shutters Edmonton site as part of Google layoffs"
     excerpt: "UK-based DeepMind Technologies, which is owned by Google’s parent company Alphabet, is consolidating its offices in Canada and shutting down its Edmonton site."

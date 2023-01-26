@@ -2,6 +2,188 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2022-09-15-trinity-and-ibm-deal-to-advance-research-in-areas-such-as-quantum-and-ai.md",
+      "title": "Trinity and IBM deal to advance research in areas such as quantum and AI",
+      "excerpt": "TCD and IBM are collaborating on research activities and extending their pre-PhD programme to train next-gen talent in quantum, AI and security. Trinity College Dublin (TCD) has signed a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
+      "originalUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/09/IBM-MoU-signing.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030.md",
+      "title": "Latin America Machine Learning Market 2022 Comprehensive Industry and Vendor Landscape 2030",
+      "excerpt": "The value of the Machine Learning market in Latin America is expected to reach USD 0.93 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 24.8% during 2018-2023. Request To Download Free Sample of This Strategic Report: -  Key Companies Covered in the Latin America Machine Learning Market Research are Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030-2022-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030-2022-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-speech-voice-recognition-systems-market-size-growth-2022-global-business-industry-revenue-demand-and-applications-market-research-report.md",
+      "title": "Speech & Voice Recognition Systems Market Size, Growth 2022 Global Business Industry Revenue, Demand and Applications Market Research Report to 2028",
+      "excerpt": "Speech & Voice Recognition Systems Market report covers the manufacturers’ data, including business distribution, cost and price, margin, and gross revenue. This allows a reader to understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/speech-voice-recognition-systems-market-size-growth-2022-global-business-industry-revenue-demand-and-applications-market-research-report-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/speech-voice-recognition-systems-market-size-growth-2022-global-business-industry-revenue-demand-and-applications-market-research-report-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Wall-Street-New-York-1600px-Digital-Journal-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-neural-switch-sets-the-brain-up-for-learning-or-remembering.md",
+      "title": "Neural \"Switch\" Sets the Brain Up for Learning or Remembering",
+      "excerpt": "These two functions are controlled by different neural circuits. Using an animal model ... For further information, please contact the cited source. Technology Networks",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/365698/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698-640x360.jpg?cb=20220915",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges.md",
       "title": "Sensormatic Solutions by Johnson Controls Expands Its Computer Vision Offering to Address Retail’s Most Pressing Challenges",
       "excerpt": "Sensormatic Solutions, the leading global retail solutions portfolio of Johnson Controls, has expanded its computer vision analytics offering, which focuses on driving sales, reducing risk and enhancing the shopper experience. The company’s computer ...",
@@ -904,188 +1086,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges.md",
-      "title": "Sensormatic Solutions by Johnson Controls Expands Computer Vision Offering to Address Retail’s Most Pressing Challenges",
-      "excerpt": "Johnson Controls brand Sensormatic Solutions’ innovative technology architecture offers flexible, computer-vision-powered analytics to facilitate next-generation loss-prevention solutions, traffic monitoring,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges-2022-09-14-16159428",
-      "originalUrl": "https://www.marketwatch.com/press-release/sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges-2022-09-14-16159428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-announcing-visual-conversation-builder-for-amazon-lex.md",
-      "title": "Announcing Visual Conversation Builder for Amazon Lex",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces using voice and text. Amazon Lex provides high-quality speech recognition and language understanding capabilities. With Amazon Lex, you can add sophisticated, natural language bots to new and existing applications. Amazon Lex reduces multi-platform",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/14/visual-conversation-builder.jpg",
-          "width": 1548,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:38:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-machine-learning-predicts-porosity-effects-on-zr-alloys-corrosion.md",
-      "title": "Machine Learning Predicts Porosity Effects on Zr Alloys Corrosion",
-      "excerpt": "Study: Nano-Porosity effects on Corrosion Rate of Zr Alloys Using Nanoscale Microscopy Coupled to Machine Learning. Image Credit: Korawat photo shoot/Shutterstock.com In a study published in Corrosion Science, the team exposed Zircaloy-4 to oxidation for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azonano.com/news.aspx?newsID=39679",
-      "originalUrl": "https://www.azonano.com/news.aspx?newsID=39679",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1otjdv2bf0507.cloudfront.net/images/news/SocialSharingImage_39679_16631616235793625.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azonano.com/amp/news.aspx?newsID=39679",
-      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=39679",
-      "publishedDateTime": "2022-09-14T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoNano",
-        "domain": "azonano.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

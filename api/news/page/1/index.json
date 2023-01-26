@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-26-a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats.md",
+      "title": "A robot was scheduled to argue in court, then came the jail threats",
+      "excerpt": "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kunc.org/npr-news/npr-news/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats",
+      "originalUrl": "https://www.kunc.org/npr-news/npr-news/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/f2f3f2a/2147483647/strip/true/crop/876x540+0+106/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2F22222_custom-32c6a66f8277ba536f6b7c8d91afd3debcf30a4a.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kunc.org/npr-news/npr-news/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true",
+      "cdnAmpWebUrl": "https://www-kunc-org.cdn.ampproject.org/c/s/www.kunc.org/npr-news/npr-news/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true",
+      "publishedDateTime": "2023-01-25T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUNC",
+        "domain": "kunc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-move-over-siri-apples-new-audiobook-ai-voice-sounds-like-a-human.md",
       "title": "Move over, Siri: Apple’s new audiobook AI voice sounds like a human",
       "excerpt": "AI technologies are being developed and used in various applications, including natural language processing, as Apple is doing, robotics, and expert systems for various industries and purposes. Apple decided to make this move to give those books from ...",
@@ -960,7 +1003,7 @@
       "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1003,7 +1046,7 @@
       "originalUrl": "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1046,7 +1089,7 @@
       "originalUrl": "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-self-driving-golf-cart-development-why-is-it-in-demand.md",
-      "title": "Self-Driving Golf Cart Development: Why Is It In Demand?",
-      "excerpt": "Golf Carts Push For Autonomy. Faced with the harsh reality that a future of fully autonomous cars is further away than promised, automakers and tech companies are pivoting to alte",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceff7ab891403906766ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
-      "publishedDateTime": "2023-01-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

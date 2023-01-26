@@ -2,6 +2,163 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-20-artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028.md",
+      "title": "Artificial Intelligence Robots Market Size to Record 21.3% CAGR Through 2028",
+      "excerpt": "Sep 20, 2022 (Market Insight Reports) -- Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates the growth trends of the industry through historical study and estimates future prospects based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-factbox-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
+      "title": "Factbox: The challenges automakers, and now Tesla, face with humanoid robots",
+      "excerpt": "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-trimble-sets-new-standard-for-robotic-total-station-scalability.md",
+      "title": "Trimble Sets New Standard for Robotic Total Station Scalability",
+      "excerpt": "20, 2022 /PRNewswire/ -- Trimble (NASDAQ: TRMB) introduced today the latest addition to its portfolio of innovative robotic total stations ... users can control and automate their workflow ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/trimble-sets-new-standard-for-robotic-total-station-scalability-1031752906",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/trimble-sets-new-standard-for-robotic-total-station-scalability-1031752906",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1902812/Trimble_Ri_Total_Station.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more.md",
       "title": "IIT Guwahati’s TIC incubates 42 start-ups in sectors like Robotics, IT, Machine Learning and more",
       "excerpt": "Guwahati’s Technology Incubation Centre (TIC) has incubated 42 start-ups that will work in different sectors such as robotics, IT, water, oil sector, biotechnology, Machine Learning, IoT, renewable energy,",
@@ -1248,135 +1405,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-realtime-robotics-integrates-robot-motion-planning-control-software-with-siemens-process-simulate.md",
-      "title": "Realtime Robotics Integrates Robot Motion Planning & Control Software With Siemens Process Simulate",
-      "excerpt": "The integration empowers Siemens customers to visualize, simulate and validate robot task plans from directly within the process simulate environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/0175e750-28d0-4f9c-a429-0a0d95a0ae4b/robotics-motion-news-Sept-13-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-3-challenges-collaborative-robots-need-to-overcome.md",
-      "title": "3 Challenges Collaborative Robots Need to Overcome",
-      "excerpt": "It addresses issues such as making sure the base knows where the robot arm is at all times. Rob Spiegel has covered automation and control for 19 years, 17 of them for Design News. Other topics he has covered include supply chain technology, alternative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/3-challenges-collaborative-robots-need-overcome",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/3-challenges-collaborative-robots-need-overcome",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Kollaborierende_Roboter_0.jpg",
-          "width": 6082,
-          "height": 4054,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-a-start-ups-evolution-from-ai-lab-to-ai-business.md",
-      "title": "A Start-up’s Evolution from AI Lab to AI Business",
-      "excerpt": "This Tokyo-based start-up has been incrementally realising the potential of AI to reshape the internet of things (IoT) – ever since shifting focus from search engines to deep learning (and dropping its original moniker, Preferred Infrastructure) ...",
-      "sourceUrl": null,
-      "webUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
-      "originalUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2019/11/from_ai_lab_to_ai_business.jpg?itok=RHEzbS9N",
-          "width": 1999,
-          "height": 1499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "knowledge.insead.edu",
-        "domain": "insead.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
