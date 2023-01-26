@@ -22,6 +22,22 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Council Post: The Fault in AI Predictions: Why Explainability Trump’s Predictions"
+    excerpt: "While everyone focuses on model manufacturing, the right product teams have started emphasising the fundamentals of good AI Solutions. XAI is the 101 feature to achieve it. However, the vision of achieving trustworthy AI is incomplete without Explainability."
+    publishedDateTime: 2023-01-23T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/the-fault-in-ai-predictions-why-explainability-trumps-predictions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/The-Fault-in-AI-Predictions-Why-Explainability-Trumps-Predictions.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "cxBMYavY8nOsxzx7KB1c4dUt0lGhamGsQSbbNw7DxWUG2sYLwLU5QEsTZfOt+uvUcEkmGcy65Oo3S6t8O7eDMjK7W/UUKbzN/EP1N/RuOznz+BDUdQ94cFBd9tvnrOLAv6AqLy9IPrK7JikmCrdRzCeAOfxQMjdGULElVqQ68Qrfpi3qjBeI4nejYAEM/3lGptxFPFkvfitpX5dcstaF4tbknS0ZKhCfB0ETC7LYxM8Jlu4WRNFMqURXCP/Ig5owJOm6DTXQc6y5+roq+xLg8DEteQwoUY4LIGGjWOn6dVXrqbs6CJHOivoaRfmEswoxUR4lKopG5qBtoRDBRJDTVlRF4g+9ICnFFDuhjUnnsIcr78SAX9uTnjFu3hOjRFSSxx6VIyghjaktxzwZZqbvWQ0dN1yXNADlpfSivsqUoUs8DPBUNVOTGOW62eY6m4LO0jRxvS4mcshi5D3vKhQdcRprd/OJWn592HtR1ZTbecTCGJuJjjT8kkpBExrshIIad38XsGX+JSoRiYq+j8CuOA==;gVXRelotjj8W0Q0PkNjMUw=="
 ---
 

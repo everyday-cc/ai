@@ -19,37 +19,79 @@ topics:
   - AI
 
 related:
-  - title: "Researchers Used Facial Recognition Technology to Identify a Long Lost Painting By Raphael"
-    excerpt: "A new study concludes that the previously unattributed de Brécy Tondo is nearly certainly a work by the Italian Old Master."
-    publishedDateTime: 2023-01-24T17:05:00Z
-    webUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583"
-    ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
-    cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
+  - title: "James Dolan defends facial recognition policy against lawyers who are suing MSG: ‘Please don’t come’"
+    excerpt: "Several attorneys say they have been denied entry into MSG-owned venues because their firm is in active litigation against the company."
+    publishedDateTime: 2023-01-26T16:56:00Z
+    webUrl: "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
     type: article
     provider:
-      name: Artnet
-      domain: artnet.com
-    quality: 66
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
     images:
-      - url: "https://p-news-uploads.storage.googleapis.com/2020/03/de-Bre%CC%81cy-Tondo-painting.x7ee14c4d.jpeg"
-        width: 1270
-        height: 1270
+      - url: "https://images.mktw.net/im-710774/horizontal"
+        width: 1320
+        height: 742
         isCached: true
-  - title: "Artificial intelligence study determined a painting with mysterious origins is a likely a Raphael, researchers say"
-    excerpt: "The technology found the de Brécy Tondo, which features a woman and baby, closely matched Raphael's Sistine Madonna."
-    publishedDateTime: 2023-01-24T17:34:00Z
-    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-study-finds-painting-likely-raphael/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-study-finds-painting-likely-raphael/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-study-finds-painting-likely-raphael/"
+  - title: "MSG Doubles Down on Ban for Lawyers Suing Them, As Lawmakers May Target Face Recognition"
+    excerpt: "New York legislators are looking to get better protections for ticketholders and soon could take aim at the company’s use of facial recognition technology in enforcing their policy — even as the company refuses to back down."
+    publishedDateTime: 2023-01-24T11:01:00Z
+    webUrl: "https://www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-for-lawyers-suing-them-as-lawmakers-may-target-face-recognition/4064038/"
+    ampWebUrl: "https://www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-for-lawyers-suing-them-as-lawmakers-may-target-face-recognition/4064038/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-for-lawyers-suing-them-as-lawmakers-may-target-face-recognition/4064038/?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 52
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 50
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/24/671f4227-bd0f-4bd4-bc75-1da2e97616f3/thumbnail/1200x630g2/0086d84eeb4a7cf532d9183a9f1bbcc3/raphael-tondo-sistine-madonna-xb5d3f5c5.jpg"
+      - url: "https://media.nbcnewyork.com/2023/01/Radio-City-w-dolan-inset.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "New York’s Attorney General Investigates MSG’s Use of Facial Recognition to Ban Lawyers"
+    excerpt: "NY AG Letitia James wants answers from Madison Square Garden over its use of facial recognition technology to bar entry for lawyers involved in litigation against the company."
+    publishedDateTime: 2023-01-26T17:17:00Z
+    webUrl: "https://observer.com/2023/01/new-yorks-attorney-general-investigates-msgs-use-of-facial-recognition-to-ban-lawyers/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 31
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/01/GettyImages-1231347402.jpg?quality=80&#038;strip"
+        width: 5573
+        height: 3446
+        isCached: true
+  - title: "‘The Garden Has to Defend Itself’: MSG Chief James Dolan Hits Back at Facial Recognition Criticism"
+    excerpt: "Dolan says the company will not back down in using the tech to bar entry to lawyers engaged in legal matters against company."
+    publishedDateTime: 2023-01-26T15:32:00Z
+    webUrl: "https://www.billboard.com/pro/msg-james-dolan-defends-facial-recognition-tech-alcohol-ban-threat/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 25
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/01/02-madison-square-garden-exterior-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "James Dolan defends use of creepy facial recognition, says he may ban liquor at MSG in bizarre interview"
+    excerpt: "Dolan sat down for a 17-minute segment on FOX’s Good Day New York. He covered an expansive range of topics ranging from his controversial use of facial recognition technology, ticket resellers and TicketMaster, the Bill of Rights, crime in New York City ..."
+    publishedDateTime: 2023-01-26T18:48:00Z
+    webUrl: "https://ftw.usatoday.com/2023/01/knicks-james-dolan-madison-square-garden-james-dolan-facial-recognition"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 22
+    images:
+      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/03/1029472488-e1648583175712.png?w=1000"
+        width: 1000
+        height: 751
         isCached: true
 
 secured: "kGgwKBWdODnvDe4MjlbRr29JCHNfa6QIgx76nhSvqAnQxHgtM0cI6VQ6huzvp6zZD2g5jo1OwzeyaL80MoK48NwHKA3cAvId2afNt5KTlgopcC6GwXVAwElSIjhl1IAI3VGguKvraEXyjBAtfZG2yJbtuke6B99/sgZEGzu627Ek3sTEpZ1I8lEJThGfHNmfK5+8FGbCp+0mzEjRgXNJ1jMqPiPqtcVdrDODBoWjKNH6xtOunX9PZNS5opC6pJGdnjMkJ9i0+GnMXY815Q67pWIK6OGyB/LlQMWAD1HrzMCD/T3LIy5t+qKSIfPrbSeoC5J2UQNcd13EZquy3s4UNlzDDiVYnk9BDilsI41yDVFPrAnSUQ3wiav1gecNw2GyKdQP8kRdMZ/Y/CqS+Z8bcaJkEOIws38DlUgGdXxnKIvnQ7P840+AamrW3bajajkiPYz0wfAu3/JDOXKtunDtd7XAVHEAlPBS3bcoKqYlDmPM/uR2HFMag1G/u+/AL6Q6n2DmGtzxVR7lK9pwAnqlNQ==;xvHIOACrMTCTkKzW0CMmww=="

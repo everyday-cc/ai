@@ -8,8 +8,8 @@ webUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-repor
 ampWebUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://talkingbiznews.com/wp-content/uploads/2022/08/Bloomberg-logo.png"
@@ -25,6 +26,6 @@ images:
     height: 233
     isCached: true
 
-secured: "OtcFWitUog/cUki3GgOjPXSys26lSPcqD3iyeK4fYMmkFyIFpfEN0sYF8Jumv4aTz1p1z9OPtlrw6NX3q/zYUeiujG51J7XFpgDeTmthpapixRf1U2HZy74th4QBkUW3/FnpnpBLispe5/0CVRiCMAzoVwrVHJZEKD2GPm8Ny0sgxgafeXY7kehwQwF6uXZpSYM8QWVvbrJhJ3MNBwP+YjpdAZ+kP+iz5Ot55xHw7cxMFILIcoRqw8DqoJe9qIucMyBjUWNAgOkInLhQgEgk3HQxK+JgERI0m4TgltvFmwUD4lPTxgEjWdHH3iPD6lhEhV0xnTP6g1ovIueR3gmluySOj2BgSUbEi2zb6+V81Lk=;RhmGF7/4/JLWr+k5/2twRw=="
+secured: "p1tO7xrKZc38JvoCCF4Jlj6mNu7DN928R/iKhjKaSs/IcLPAYSwZLS0ypled2SWwRRxGmgpjpjRMMYwq0LSXROwKyHzs7PizmWJ+pZRh7wGOnPieYr1CbzXKGNxO88OUuQhFSOHP/kk6B2fCUponhkIX2T7joY5zEE/A2Xn4d9i585RZbnQzRhG6H0ANgYi7KbgjJOHlmj9Hauhrcxs++e2S0oCY35arxAMvyrQd3+fL6YZN5AkakWFlgwgEq+ee6VAK6M1x5L9+KxpPWs0n1oQHU91+D9arbwTT1ApuM+a94/AnR+nga3b1x/o1P0risHuBzpSWYSxbKJyHPRJwdnb+iMlih8fUZGaHTBX+Lu3cUGcqLeoUM/l0/9bn9TYnDqFDtUWnY6hsWZSbTrQnwQ3WzX71cvM6/ihgFu7J2fjcWEccjeD426/QygxEj5vM47F1b6G6YKGWDVA6CkkcNygVo3lKJYbwPJbvhsVbg3LI1iIrXMf4I46HCVVNmGT1qqiOwbG05zmzQQdskfglDQ==;L5AtZD2n0zZ8ECpLacy8dQ=="
 ---
 

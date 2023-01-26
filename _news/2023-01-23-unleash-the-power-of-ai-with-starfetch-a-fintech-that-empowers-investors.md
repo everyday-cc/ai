@@ -7,7 +7,7 @@ originalUrl: "https://www.fortuneindia.com/enterprise/unleash-the-power-of-ai-wi
 webUrl: "https://www.fortuneindia.com/enterprise/unleash-the-power-of-ai-with-starfetch-a-fintech-that-empowers-investors/111268"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,189 @@ images:
     width: 512
     height: 258
     isCached: true
+
+related:
+  - title: "Trends and Big Ideas Shaping Fintech in 2023"
+    excerpt: "At Visa, we see our work with fintechs as one of our greatest opportunities. Fintechs are changing the game, reinventing the ways consumers manage their finances, and businesses manage their operations."
+    publishedDateTime: 2023-01-26T18:38:00Z
+    webUrl: "https://techcrunch.com/sponsor/visa/trends-and-big-ideas-shaping-fintech-in-2023/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 54
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/Visa_Illustrations_Techcrunch4_HeroImage_01_1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Fintech Qolo Processed Over $1B in Total Payouts in Q4 2022"
+    excerpt: "Qolo recently revealed that it processed more than $1 billion in total payouts in Q4 of 2022! Qolo is a cloud-based payments processor."
+    publishedDateTime: 2023-01-22T19:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/01/201418-fintech-qolo-processed-over-1b-in-total-payouts-in-q4-2022/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/01/201418-fintech-qolo-processed-over-1b-in-total-payouts-in-q4-2022/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201418-fintech-qolo-processed-over-1b-in-total-payouts-in-q4-2022/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-1024x768.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Budget 2023: Fintech players hope for further tax relief"
+    excerpt: "India now boasts of more than 7,000-plus fintech players, and majority of them expect further tax relief and the Union government's continued focus on digital innovation. Fintech startups and other stakeholders in the fintech ecosystem expect a positive budget 2023 and there is a broad feeling among the majority of players that the government will push for more digital-led innovation."
+    publishedDateTime: 2023-01-25T09:55:00Z
+    webUrl: "https://www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.html"
+    ampWebUrl: "https://www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 44
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/biz-tech/images/2022/1/27/Fintech-companies-.jpg"
+        width: 760
+        height: 443
+        isCached: true
+  - title: "The future of Fintech in 2023"
+    excerpt: "With a rate of 87%, India is far ahead of the global average of 64% in the FinTech adoption race. By 2030, it is anticipated that the promising Indian FinTech market will generate $200"
+    publishedDateTime: 2023-01-26T09:57:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "Lloyds Bank invests in car payment FinTech"
+    excerpt: "Lloyds Banking group has invested £4 million in “all-in-one” motoring app Caura. According to the FinTech, many of the 30 million drivers in the UK use between eight and 10 apps and websites to manage their vehicles."
+    publishedDateTime: 2023-01-26T12:02:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Lloyds_Bank_Invests_In_Car_Payment_FinTech.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/LloydsBank.jpg"
+        width: 515
+        height: 215
+        isCached: true
+  - title: "Top 10 fintech disruptions to watch out for in 2023"
+    excerpt: "From new technologies to tough regulations for crypto, 2023 is already looking like a year of change for fintech."
+    publishedDateTime: 2023-01-24T12:10:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/top-10-fintech-disruptions-to-watch-out-for-in-2023"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/b9ea599af5e4cdf45bd09a2efce17d09:2d2218789124b00b58b28baca6ef5e04/gettyimages-1130023029.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
+  - title: "FinTech Bolt ‘cuts 10%’ of workforce"
+    excerpt: "One-click checkout FinTech Bolt is reportedly cutting 50 roles, around 10 per cent of its workforce. <br /> <br /> US business publication The Information reports that the company has now culled more than half of its headcount since May 2022,"
+    publishedDateTime: 2023-01-26T11:35:00Z
+    webUrl: "https://www.fstech.co.uk/fst/FinTech_Bolt_cuts_10_of_workforce.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
+  - title: "Reasons Why You Should Consider a Career in Fintech"
+    excerpt: "If you’ve always wanted to work in fintech, you’ve come to the right place. Fintech is an exciting field with plenty of potential. As a matter of fact, there’s always something new happening in this field."
+    publishedDateTime: 2023-01-26T17:37:00Z
+    webUrl: "https://techbullion.com/reasons-why-you-should-consider-a-career-in-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/01/pexels-rodnae-productions-7413891.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Shufti Pro Sweeps Ultimate FinTech Awards 2023 with Three Major Wins"
+    excerpt: "Globally acclaimed for its state-of-the-art identity verification and KYC/AML solutions, Shufti Pro wins three major Ultimate Fintech"
+    publishedDateTime: 2023-01-23T15:06:00Z
+    webUrl: "https://www.01net.it/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 4
+  - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
+    excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
+    publishedDateTime: 2023-01-23T19:30:00Z
+    webUrl: "https://financialit.net/blog/fintech/look-top-six-fintech-trends-uk-2023"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
+  - title: "Shufti Pro Sweeps Ultimate FinTech Awards 2023 with Three Major Wins"
+    excerpt: "wins three Ultimate FinTech Awards 2023 under the categories of \"Best Fintech AI Solution,\" \"Best Regtech Reporting Solution,\" and \"Best Client Onboarding Solution.\" Honouring excellence across ..."
+    publishedDateTime: 2023-01-23T16:11:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58124943-shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
+  - title: "The Emerging FinTech Trends That Will Shape 2023"
+    excerpt: "Here are some of the financial technology trends that I believe might be key in shaping the sector in this new year: Open-banking: open banking has been at the forefront of fintech trends for the past few years,"
+    publishedDateTime: 2023-01-25T18:33:00Z
+    webUrl: "https://www.finextra.com/blogposting/23631/the-emerging-fintech-trends-that-will-shape-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "Grand View Research, Inc: Fintech Players Hone ESG Strategies in Digital Lending Industry: Astra ESG Solutions"
+    excerpt: "Fintech companies, banks and non-banking financial players have exhibited traction for digital lending to streamline seamless loan disbursement,"
+    publishedDateTime: 2023-01-23T13:12:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58122974-grand-view-research-inc-fintech-players-hone-esg-strategies-in-digital-lending-industry-astra-esg-solutions-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+  - title: "Fintech Sandbox Continues Strong Momentum into 2023 with Expansion of Global Footprint and Growth of Data Access Residency"
+    excerpt: "Nonprofit Continues to Have High Demand from Early-Stage Startups as it Makes a Positive Impact with its Programming and Community-Led EventsBOSTOM, MA /  / January 24, 2023 / Fintech Sandbox"
+    publishedDateTime: 2023-01-24T14:06:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58133831-fintech-sandbox-continues-strong-momentum-into-2023-with-expansion-of-global-footprint-and-growth-of-data-access-residency-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora's capabilities in AI,"
+    publishedDateTime: 2023-01-26T18:43:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302361&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "7xrVFbgayVqsbAHTq0cA56ts5tkHUqGVwB1Mqt78YPj1buYMqrkWACvs4LFymWgqhrikrL3UujZMlByrABRKxMV8JKeyZaqBmTgtyJn+dhsdlqnuONHwHbHxhQkVyPZlD5Fz/zL94BxaOfXYQCqG4GsJS2Z5D7rJjhcj4rTkGTDGd8NRvdytGBl/Cx1PkC1tEBdZL6FscoVcFf5XPAirwCQ1qrMA7dwVCv6+biNrZlAnzNf700cCWQ0VMijGe1Qb75VWD4SH72O9GduATIM73yDaqDe0T10m0xEusJ+Cs7jby92EdpPaubvYgIt/iUPDkCeclQy73DOme6Mk0JzGBQsDoF44Qh3XbSvMI/g3wHei+UVCcpLnBqsK8M50OVQjwsg5uGxnY6Y3cpZS9KSJ8po4Liii8zfWWeorf43S/kLOkSjnu2NnFE7Gr+K3dRaC0rFJNicKYP51Xit/a5R1bvSXd4CZ6yZB5+7XItbp3uH6a23c8/QimV7V8jjyIim5fC63Yw/JXVDBMCu5bOsOFw==;rybEtaA2e5/VcETDsSTe4A=="
 ---

@@ -73,6 +73,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "IBM reports rise in Q4 profit, but plans to cut 3,900 jobs"
+    excerpt: "Despite posting revenue growth across all its business segments, IBM is set to lay off around 1.5% of its workforce."
+    publishedDateTime: 2023-01-26T17:56:00Z
+    webUrl: "https://www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html"
+    ampWebUrl: "https://www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 44
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-6.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "IBM and SAP to cut thousands of jobs in latest tech sector layoffs"
     excerpt: "IBM on Wednesday announced 3,900 layoffs as part of some asset divestments. Chief financial officer James Kavanaugh told Reuters that the company was still \"committed to hiring for client-facing research and development\"."
     publishedDateTime: 2023-01-26T09:44:00Z

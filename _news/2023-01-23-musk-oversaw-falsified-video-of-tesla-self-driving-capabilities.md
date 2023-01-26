@@ -9,8 +9,8 @@ ampWebUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-o
 cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: blogs.driving.ca
@@ -27,24 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Ford Beats GM And Tesla For Best Active Driving Assistance System"
-    excerpt: "These systems take advantage of the array of sensors that are present on many modern cars. Tesla's Autopilot and Full Self-Driving features recently came under fire after the system's capabilities were reportedly exaggerated in a demo video from 2016."
-    publishedDateTime: 2023-01-25T19:35:00Z
-    webUrl: "https://www.slashgear.com/1178519/ford-beats-gm-and-tesla-for-best-active-driving-assistance-system/"
+  - title: "Elon Musk kills hope of Tesla retrofitting new Autopilot/Self-Driving hardware"
+    excerpt: "Elon Musk has killed the little hope some had for Tesla in offering a retrofit to the new Autopilot/Self-Driving"
+    publishedDateTime: 2023-01-26T16:29:00Z
+    webUrl: "https://electrek.co/2023/01/26/elon-musk-kills-hope-tesla-retrofitting-new-autopilot-self-driving-hardware/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
-  - title: "Consumer Reports calls Ford’s automated driving tech much better than Tesla’s"
-    excerpt: "Tesla's Autopilot, which at its core combines lane keeping assist with traffic aware cruise control to help guide a car down a highway, was once groundbreaking technology."
-    publishedDateTime: 2023-01-25T19:54:00Z
-    webUrl: "https://www.cnn.com/2023/01/25/business/consumer-reports-ford-bluecruise-tesla"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 46
+      name: Electrek
+      domain: electrek.co
+    quality: 65
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/06/2120x1192-side-repeater-camera-sunny.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The future of testing self-driving cars"
     excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
     publishedDateTime: 2023-01-25T23:24:00Z

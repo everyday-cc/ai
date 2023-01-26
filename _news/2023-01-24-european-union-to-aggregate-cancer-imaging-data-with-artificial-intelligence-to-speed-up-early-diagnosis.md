@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/health/european-union-aggregate-cancer-imagi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/european-union-aggregate-cancer-imaging-data-artificial-intelligence-speed-early-diagnosis.amp"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "European banks struggle with AI, while US banks lead the field, according to a new index"
+    excerpt: "“As the real-world application of AI accelerates at astonishing speed ... Over a call she added: “Setting our methodology onto the banks felt like the right place to start because this is a sector that has been really focused on this for a number ..."
+    publishedDateTime: 2023-01-26T17:12:00Z
+    webUrl: "https://techcrunch.com/2023/01/26/european-banks-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/01/26/european-banks-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/26/european-banks-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/01/EVIDENT_INSIGHTS_COL_HR-1-1.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "qi+a8dP8Td98RCtbgjkasl+yQ53AbsDEctvapHHKD8WRTqAyR4a2ZS2fGnu3aBSGNjYepOaCCKSkts1Kd1+kKU9j2k4iOF/q+21FTUZc+Brm4vvOLKwBZZN584psYnap9b/R+SbrizczcoA6gACMA7FyQIJbQe5+MLi8iO0C5twoxARdpdGBJN6MKgLvl+y/Nz7kDzTvNP2dQl5M6iO6qcAoCixE46m4dlMAAWYnO+qMo2TyP654AJYwxOvA1u5M29vSOycZdNeBPf0P97IyieLn/ByKIx949hp7+aFwEECh5skJHG15vFin3kJjh1Ig8hjd89fdMLCTAuu1O1iAeI6RVkME7Eqrc8jtpyanTUFNft/fXVbzSI7iPsEN1KiFwOwWEe5Zy/6+jTM4LCsvLHqts13gBjSQo5dpAtepG7Bi6UmnWyR6uNfEQR6Fk+0CGAZ7E4spUV+ggbTMjCNOTgl69/P+HGhqbW6kwxxaWIdOH3RM/oLCOxFvif/vfv/fseSF7TEFiW94W2/N0GA/UQ==;XdFVlIG/3FRcuvEoFpl0Bg=="
 ---

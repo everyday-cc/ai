@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1178519/ford-beats-gm-and-tesla-for-best
 webUrl: "https://www.slashgear.com/1178519/ford-beats-gm-and-tesla-for-best-active-driving-assistance-system/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Musk oversaw falsified video of Tesla 'self-driving' capabilities"
-    excerpt: "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ..."
-    publishedDateTime: 2023-01-22T18:48:00Z
-    webUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities"
-    ampWebUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
-    type: article
-    provider:
-      name: blogs.driving.ca
-      domain: driving.ca
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/09/Tesla-Autopilot-hands-free-autonomous-self-driving-2.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "Consumer Reports calls Ford’s automated driving tech much better than Tesla’s"
     excerpt: "Tesla's Autopilot, which at its core combines lane keeping assist with traffic aware cruise control to help guide a car down a highway, was once groundbreaking technology."
     publishedDateTime: 2023-01-25T19:54:00Z
@@ -48,29 +32,29 @@ related:
       name: CNN
       domain: cnn.com
     quality: 46
-  - title: "The future of testing self-driving cars"
-    excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
-    publishedDateTime: 2023-01-25T23:24:00Z
-    webUrl: "https://www.udel.edu/udaily/2023/january/self-driving-cars-automated-vehicles-andreas-malikopoulos-algorithms-transportation-equity/"
+  - title: "Ford's BlueCruise automated driving system tops Consumer Reports study"
+    excerpt: "Ford Motor Co.'s BlueCruise active driving assistance (ADA) system has surpassed General Motors Co.'s SuperCruise and Tesla Inc.'s Autopilot to achieve the top spot in a Consumer Reports' study of 12 of the ADA systems released Wednesday."
+    publishedDateTime: 2023-01-25T17:41:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/01/25/fords-bluecruise-automated-driving-system-tops-consumer-reports-study/69840447007/"
     type: article
     provider:
-      name: University of Delaware
-      domain: udel.edu
+      name: Detroit News
+      domain: detroitnews.com
     quality: 24
     images:
-      - url: "https://www.udel.edu/content/dam/udelImages/udaily/2023/January/fb-AMalikopoulos-scaled-smart-city_800x420.jpg"
-        width: 800
-        height: 420
+      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PDTN/a21a1171-617e-4fd3-a851-8c6e3fc22df9-BlueCruise_f150-cockpit.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Tesla's Autopilot system tumbles in self-driving safety ratings"
-    excerpt: "Autopilot had once been regarded by the Consumer Reports team as one of the best systems in class, ranking second in the same study last year. It wasn’t as fortunate this year, with the firm ranking it a mere seventh on the list."
-    publishedDateTime: 2023-01-25T19:35:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/131067368/teslas-autopilot-system-tumbles-in-selfdriving-safety-ratings"
+  - title: "Ford’s BlueCruise Ousts GM’s Super Cruise as CR’s Top-Rated Active Driving Assistance System"
+    excerpt: "The amazement soon follows: With your hands off the wheel and relaxing on the armrests as the automated systems take charge, you might start to believe that the age of the self-driving car is finally upon us. But while BlueCruise’s capabilities are ..."
+    publishedDateTime: 2023-01-25T14:37:00Z
+    webUrl: "https://www.consumerreports.org/cars/car-safety/active-driving-assistance-systems-review-a2103632203/"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 19
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 0
 
 secured: "WqKf9oc27HeBpO23ZSoO/QONZcWfCIVhYNdnZ9SsO4acIEES0/Ha/v7jja1IW8jQuqBOMqL7YkFT6ltMZa1Fm7uscU2yVVm6/xTCJQsKrIH17mvhOfwV8ezIOh2Qs9QCh6sIAKtTjrffZiJZ1llGl3/yNz7WZ+0rgVSBy4ux8N0MWGR2t+LAn3FdbEmqI/OEAjSOMJMytkG9Um+tH/omkvfGEIUUxnSTo+b/MXfXiPN+dz4VmEnhuYQpL5s3j1XtkykBCr47CVQeTLem42+1F27ckhKTTZ5pMGfSGYuDEFEDpxSwkbPv24DX7Z+QHtIMqUGHSDhb+BjzS6ebFfIqKHOhhmnlavxxAol7bFaM4ksWqOBo8EG+7Dxoz4NwEiCgiJ0Rsi394dcGe7KEKnRYmkSQscoiOhzb8Wa22HnXJ7d76+jwDm54HF+2d7wjEnd8pQ4kGtm1NnJrLNc5k6R1ewpuQ6n+pxZHyDnUooykhk70bCfgy2m2tIeNv533v+/9aDNT2TwTIYHyWfm2cfE6wg==;mmSdMFmGBzEtM7mNVRvayA=="
 ---

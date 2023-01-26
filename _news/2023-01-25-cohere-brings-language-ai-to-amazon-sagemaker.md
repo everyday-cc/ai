@@ -23,6 +23,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "Best Egg achieved three times faster ML model training with Amazon SageMaker Automatic Model Tuning"
+    excerpt: "This post is co-authored by Tristan Miller from Best Egg. Best Egg is a leading financial confidence platform that provides lending products and resources focused on helping people feel more confident as they manage their everyday finances. Since March 2014, Best Egg has delivered $22 billion in consumer"
+    publishedDateTime: 2023-01-26T17:45:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 107
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/26/best-egg-sagemaker.jpg"
+        width: 1567
+        height: 789
+        isCached: true
   - title: "Explain text classification model predictions using Amazon SageMaker Clarify"
     excerpt: "Model explainability refers to the process of relating the prediction of a machine learning (ML) model to the input feature values of an instance in humanly understandable terms. This field is often referred to as explainable artificial intelligence (XAI). Amazon SageMaker Clarify is a feature of Amazon"
     publishedDateTime: 2023-01-25T16:13:50Z
@@ -50,20 +64,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/25/upscale-images.jpg"
         width: 1564
         height: 780
-        isCached: true
-  - title: "Council Post: The Fault in AI Predictions: Why Explainability Trump’s Predictions"
-    excerpt: "While everyone focuses on model manufacturing, the right product teams have started emphasising the fundamentals of good AI Solutions. XAI is the 101 feature to achieve it. However, the vision of achieving trustworthy AI is incomplete without Explainability."
-    publishedDateTime: 2023-01-23T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/the-fault-in-ai-predictions-why-explainability-trumps-predictions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/The-Fault-in-AI-Predictions-Why-Explainability-Trumps-Predictions.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "oIr8ObR3OdcMlw8hx+TaGGcf8ljV44pffRomTbXgbkLcSipTDPNc1tSo+zLSjr1tnpg5BjUCQEd0w2RAosUcKiQqNeEmxRbpbpajFjL6vEfpthn+dDsbs4W+JCwo7HTRpiZukgOxPV+47ZGgC07s5QiQOywEq9iZ7lyvAmJRdqK6J9TTicimMLEvlWvw39dbnKU0r6Is9BnQmB23JL7NR9bhpjkbl78n43uZHopetBNX1g5LBxNW8aon0cJ61p2FpEQo20enK099OY7gVOsmt0Lz2BqNfLNoO9XPPbOegg5WjkJi7nKpjduvNKhkxZokFZwdrG8kgPbdZUA9nYfmjNq3BZB9kdauqNaUO40hFX0=;BqZI+fN+Mp1rw/HEui5DOA=="

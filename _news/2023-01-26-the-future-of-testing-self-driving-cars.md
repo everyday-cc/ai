@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk kills hope of Tesla retrofitting new Autopilot/Self-Driving hardware"
+    excerpt: "Elon Musk has killed the little hope some had for Tesla in offering a retrofit to the new Autopilot/Self-Driving"
+    publishedDateTime: 2023-01-26T16:29:00Z
+    webUrl: "https://electrek.co/2023/01/26/elon-musk-kills-hope-tesla-retrofitting-new-autopilot-self-driving-hardware/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 65
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/06/2120x1192-side-repeater-camera-sunny.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Musk oversaw falsified video of Tesla 'self-driving' capabilities"
     excerpt: "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ..."
     publishedDateTime: 2023-01-22T18:48:00Z
@@ -41,24 +55,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Ford Beats GM And Tesla For Best Active Driving Assistance System"
-    excerpt: "These systems take advantage of the array of sensors that are present on many modern cars. Tesla's Autopilot and Full Self-Driving features recently came under fire after the system's capabilities were reportedly exaggerated in a demo video from 2016."
-    publishedDateTime: 2023-01-25T19:35:00Z
-    webUrl: "https://www.slashgear.com/1178519/ford-beats-gm-and-tesla-for-best-active-driving-assistance-system/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
-  - title: "Consumer Reports calls Ford’s automated driving tech much better than Tesla’s"
-    excerpt: "Tesla's Autopilot, which at its core combines lane keeping assist with traffic aware cruise control to help guide a car down a highway, was once groundbreaking technology."
-    publishedDateTime: 2023-01-25T19:54:00Z
-    webUrl: "https://www.cnn.com/2023/01/25/business/consumer-reports-ford-bluecruise-tesla"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 46
   - title: "Tesla's Autopilot system tumbles in self-driving safety ratings"
     excerpt: "Autopilot had once been regarded by the Consumer Reports team as one of the best systems in class, ranking second in the same study last year. It wasn’t as fortunate this year, with the firm ranking it a mere seventh on the list."
     publishedDateTime: 2023-01-25T19:35:00Z

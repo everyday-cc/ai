@@ -9,7 +9,7 @@ ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authent
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
 type: article
 quality: 66
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MSG faces scrutiny over facial recognition technology"
-    excerpt: "New York State Attorney General Letitia James and MSG Entertainment do not see eye to eye when it comes to the company’s controversial use of the technology to ban certain customers from its venues."
-    publishedDateTime: 2023-01-26T11:55:00Z
-    webUrl: "https://pix11.com/video/msg-faces-scrutiny-over-facial-recognition-technology/8336434/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 19
 
 secured: "63XxJZBP6VI9sgeDy9L+MQS6EqtYME+ZZZqPopVIDpMTsacleuM7tKQDoctjpmMbMPybPyxGZSjVsB0zKJ/VmLSUvnxvDqbnQJzCvQiCedm40bz+Dsx9XWkBoouSsnBi96kzQz0FaFuu1NYmXA/pWDBwyinzwtca3jPa6f4Bkz5HCsvhCWrb59eLIuN46t6huhRER/xmbd/JS4YsEGWMYFDItg4nqd9vlUatyoi0Z1bVx6TTgmfuJdKtt/YqmfS/2gcdU66ZEHt6G/51GZiZmEGbpt/OZiPMglb5PkcZjbbvDaJlWAQqx8IVlPnWuCoNIax6owwdduU15JHr1j+LXq5+oJB3KD/Ufh57Th+67+2qS5aJyodghkRHcPzvgoCA7oFOVQbfTm9TiB5coLGW06NrGl6zaSdSo/YWrLvGT28EBHFB812lKsmgvDugo+7pDjt05Kkz9So5UXHj6TDxw4dpPj4aPtoHlduILAWiOTWrW9DFEU4waOJY838+sAp+Keok8k2nA2DdMdAz7MUQIg==;YzputLLS3SEN2xLvVB00EA=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-25T18:01:00Z
 originalUrl: "https://www.newscientist.com/article/2356286-tom-gauld-on-the-learning-potential-of-artificial-intelligence/"
 webUrl: "https://www.newscientist.com/article/2356286-tom-gauld-on-the-learning-potential-of-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2023/01/25095219/SEI_141449958.jpg"
