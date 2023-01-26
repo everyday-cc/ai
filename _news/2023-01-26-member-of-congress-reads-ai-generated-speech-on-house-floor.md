@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Member of Congress reads AI-generated speech on House floor"
-excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking. The brief"
-publishedDateTime: 2023-01-25T19:47:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
-webUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
+excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
+publishedDateTime: 2023-01-25T21:31:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+webUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
-    width: 512
-    height: 512
+  - url: "https://s.abcnews.com/images/US/230125_vod_onlocation_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -172,6 +171,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The AI ‘gold rush’ is here. What will it bring?"
+    excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
+    publishedDateTime: 2023-01-23T19:40:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/01/07/ai-2023-predictions/?sf174575354=1"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2YMDG447JGZ3ERGAN6WLG35MI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Top 5 Artificial Intelligence Stocks To Own"
     excerpt: "The Top 5 Artificial Intelligence Stocks to Own The age of artificial intelligence (AI) is here. And it could very well transform just about ever"
     publishedDateTime: 2023-01-23T21:18:00Z
@@ -200,21 +213,7 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "The AI ‘gold rush’ is here. What will it bring?"
-    excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
-    publishedDateTime: 2023-01-23T19:40:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/01/07/ai-2023-predictions/?sf174575354=1"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2YMDG447JGZ3ERGAN6WLG35MI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
-secured: "57DtIA07/Qo+KeHbrVAKqQRMbUmsY7LVQawy1nFCwOgrhuCYa7vR+sh/aUvV5sfNyRHwQuhytJGtVrzZH/AJeSlAhR61BOtE/9lbGvhYFwacworoi/ednK/K/D7dP2EJ7Ignxn3jytMKVaNRJ6c8sIAqPO7n/eCuyyQvrYTvARgjmQ27woJnoQsLLxb41E/BZCj04w9Hsgg3nWfR1ErCaCJoRYfx3GEk5PUnF+kLZ8dnrncgh90OCtEKztXq51MqZCRlq0BvVZUNiFqzhC+Pb+ZioP1CWenHhoEOKsgYv6zQAksxYZI6+rkrt6U4wsnGK5pNPK6a5TblITHo+JZ/vWBpAzQIRNTdI32lb1rHM10=;FcvVITDC4/EpcsW9eUfZWw=="
+secured: "ghHeFBoAWucjYPv5KkaTsIruAc4ovTZFNyX6fy0WPIOzFsVvldD3aj+TbF7J8sz9wwcDNgGY64jxdl4nO2y48WnXFcs7s9SgAPEmYFevRW5Xts4OotX1wHZ1TUNdMbwkffvFsqHwMvwvND3nTCB0o4vpIUZ25AP4ok8EQGN66S4azkN+9EuXmkLg6Ec0FkEn/hDk58m0gYq+N/1Ni6cxsjNJ8lQnh41d0SS7jLuNDGURwEKV3tXG9MoG5+jobJNSGMSlv44KtHKr3JPfCgZmm9YEwOe7+mBvbDrlD0xz4Bu8bF+8BNGPMeJd3T9YeB1oHXyMARJZusU6NpMmG7Hw6wwBN0oVAGIFUE/8sBBhG1s=;oy4hdTNUgfE9CUWixvYVaQ=="
 ---
 

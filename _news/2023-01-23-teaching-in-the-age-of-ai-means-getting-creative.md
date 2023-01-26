@@ -74,20 +74,20 @@ related:
         height: 420
         isCached: true
   - title: "Member of Congress reads AI-generated speech on House floor"
-    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking. The brief"
-    publishedDateTime: 2023-01-25T19:47:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
+    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
+    publishedDateTime: 2023-01-25T21:31:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
-        width: 512
-        height: 512
+      - url: "https://s.abcnews.com/images/US/230125_vod_onlocation_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Future of Artificial Intelligence (AI)"
     excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
@@ -172,6 +172,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The AI ‘gold rush’ is here. What will it bring?"
+    excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
+    publishedDateTime: 2023-01-23T19:40:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/01/07/ai-2023-predictions/?sf174575354=1"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2YMDG447JGZ3ERGAN6WLG35MI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Top 5 Artificial Intelligence Stocks To Own"
     excerpt: "The Top 5 Artificial Intelligence Stocks to Own The age of artificial intelligence (AI) is here. And it could very well transform just about ever"
     publishedDateTime: 2023-01-23T21:18:00Z
@@ -199,20 +213,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/0/90103_08_these-ai-designed-computer-cases-look-impressive-and-futuristic.jpg"
         width: 620
         height: 348
-        isCached: true
-  - title: "The AI ‘gold rush’ is here. What will it bring?"
-    excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
-    publishedDateTime: 2023-01-23T19:40:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/01/07/ai-2023-predictions/?sf174575354=1"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2YMDG447JGZ3ERGAN6WLG35MI.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "g51SDl5fjpHuxLGZPS8lRzuOv4IlKSMSXGrvQAbVZe3V/lcn8NOWKWtj6k0eVDieSJ8Z584xZsoUZNKSTxSoyQz39BF+Xxi1K/7xC4HDltWeNDDKM3RNIlJu36xPvcsNUl21NZnpz4oFpqo7d55AznW+A+ehXLtXJC/vkUu5pRavYa3TMsNhby/+PHqJG/LaPFixRZh9vdEPGt/HQw87spwTUZHQFts+2uGXSkO8Oj72Z/Gm/87kLlsBbPLpuknorhYG0LlpxUw86+FIjm+VLjujR9qqT3v4zxjDijXzY5YAB09M1ThBBV6rOjarOJ88nnf4JmDKDsr303JAA5W0ypIxlkUsjsz/wUYnvptwvH4WRlHndbvdinemafYgqIfK/TynfRklkTponaB83q4eZOc33wS8ZpPv7DVUwaa901ZD6VFo1A1vdT5H3Sk0/8lunXUUKvqqzgEITXvCdS22QVgmqJtudlATegwbPwkF/NJmqJ25AgLOGfrPxLGBbkkv2yMiDNL3ToyliExOW/qdKg==;Rc7VZMlSaPJHojsO17QeXw=="

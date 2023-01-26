@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience/"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Oklahoma Schools React To Developments In Artificial Intelligence"
-    excerpt: "Schools across Green Country are working to deal with the latest developments in artificial intelligence. Across the nation, there are concerns about students using AI technology to do their assignments for them."
-    publishedDateTime: 2023-01-23T03:32:00Z
-    webUrl: "https://www.newson6.com/story/63cdffc05ae97f072749c1cd/oklahoma-schools-react-to-developments-in-artificial-intelligence-"
+  - title: "Massachusetts congressman reads AI-generated speech on House floor"
+    excerpt: "Democratic  Rep. Jake Auchincloss used an online chatbot to generate a speech on establishing a U.S.-Israel artificial intelligence center that he read on the House floor."
+    publishedDateTime: 2023-01-26T01:18:00Z
+    webUrl: "https://www.foxnews.com/politics/massachusetts-congressman-reads-ai-generated-speech-house-floor"
+    ampWebUrl: "https://www.foxnews.com/politics/massachusetts-congressman-reads-ai-generated-speech-house-floor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/massachusetts-congressman-reads-ai-generated-speech-house-floor.amp"
     type: article
     provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 37
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
     images:
-      - url: "https://cdn.field59.com/KOTV/97e54f91212f625c9a464359f1f0eb298ce8d331.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87f4e9f1-442f-477e-b18f-7ba061637861/cb93e889-a1c5-48cf-9860-694534ae5379/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "SRO4n8BZti9mlmi9GC/tEheXe7vVlZudl7n+pzFA06Pk5PnkYZS6FldcNuRJcLiIgFYF9jEdoygINKeJGuWY83psJHRx5Zn2bukHL8fP5/FYWQDdwTR5uJaE4cSNfPLsz0PUKuTQszftPMCWpdjNhsZHkDedU3zM4twTHqIEDvEoDCHz5+oJ2rNw65R5OeV+Oz6YiqYP4qat3JrQlNwXjT5nDns2mAfwbK140emfXRCY27FnyRv9rmBbuPfak+xSlxSZtlppO1GWbIOyHSBWbvUozqQVQGkl5rvc+ux+rZFXuPWzwcOUg4xsCMWf/lbNnCnBFxO/V6+k8Z8s+ArGFie1MEKZiNFgo5l1/gOtX12+/YeJR0XQZsxzfbn/hj7YrLCKI6FXYerWLcUcQ6YIJX1zyxoocH0BfnRTDUV6AnU3+wAfRGdTauy6awqv126mtaZRxrr/KevX3hArO681LbiHS+38deivgVGvxZVZrLthyDXd7cs+xoBTIz1/1zaD4uNBnQbkPm+a9EURRcdmWw==;cWFt9huxbANotmok/QeJWg=="

@@ -88,20 +88,20 @@ related:
         height: 400
         isCached: true
   - title: "Member of Congress reads AI-generated speech on House floor"
-    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking. The brief"
-    publishedDateTime: 2023-01-25T19:47:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
+    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
+    publishedDateTime: 2023-01-25T21:31:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
-        width: 512
-        height: 512
+      - url: "https://s.abcnews.com/images/US/230125_vod_onlocation_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Future of Artificial Intelligence (AI)"
     excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
@@ -186,6 +186,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The AI ‘gold rush’ is here. What will it bring?"
+    excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
+    publishedDateTime: 2023-01-23T19:40:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/01/07/ai-2023-predictions/?sf174575354=1"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2YMDG447JGZ3ERGAN6WLG35MI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "These AI generated PC case designs look impressive and futuristic"
     excerpt: "A Redditor has used the Midjourney AI image generator to create some potential PC case designs, and the results are very cool, with some funky spherical designs. On that note, Hybective (the ..."
     publishedDateTime: 2023-01-24T01:31:00Z
@@ -199,20 +213,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/0/90103_08_these-ai-designed-computer-cases-look-impressive-and-futuristic.jpg"
         width: 620
         height: 348
-        isCached: true
-  - title: "The AI ‘gold rush’ is here. What will it bring?"
-    excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
-    publishedDateTime: 2023-01-23T19:40:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/01/07/ai-2023-predictions/?sf174575354=1"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2YMDG447JGZ3ERGAN6WLG35MI.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "7e9vgCMokJT42nJNfcOCi89PCnTAldlY+fD7i7dij5X7RFd+yNaXow7j/fAYhOY7MfYD//srmGwFpWcFK1OlJpWnlmJJckCOMLU9aKftjuo/i2dUR4BOx86WlnjhJQYWzk5UcJxmdGcISBPlfy7cJ2akgN3KB/bxNrVTKW/auEAER0TojrggMd+eQc0r1y/pAtHi93qbrs2G0PwuEKWayXRHcWo/ThoJYnFWMAKmehr2cMjkzOCA8CIQVrgn36LrYODPDyyWiIuWkuJsx6ZjmruNSngUGLSLW1/N8W3+Eb3ptWwwsPZlJB44UnnQN/T6YhikXpvs+jb1Dm5Kj/AR4RaOyLXroaRPhmibTkP7KCQ=;GMSMt15Dyt0CBlhh1zUZiQ=="

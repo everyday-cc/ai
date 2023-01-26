@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/ibm-cuts-3900-jobs-after-
 webUrl: "https://www.channelnewsasia.com/business/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue-3232156"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,56 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "IBM cuts 3,900 jobs, misses annual cash target"
+    excerpt: "IBM Corp on Wednesday announced 3,900 layoffs as part of some asset divestments and missed its annual cash target, dampening cheer around beating revenue expectations in the fourth quarter."
+    publishedDateTime: 2023-01-26T02:44:00Z
+    webUrl: "https://www.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
+    ampWebUrl: "https://amp.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 44
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1710587/man-stands-near-ibm-logo-mobile-world-congress-barcelona.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM fires 3,900 employees after missing annual cash target"
+    excerpt: "In an official statement, IBM said that the layoffs are related to the spinoff of its Kyndryl business and a part of AI unit Watson Health. According to IBM Corp, the layoffs will cause a $300 million charge in the January-March period, while its shares ..."
+    publishedDateTime: 2023-01-26T00:38:00Z
+    webUrl: "https://www.livemint.com/companies/news/ibm-fires-3-900-employees-after-missing-annual-cash-target-11674691655600.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ibm-fires-3-900-employees-after-missing-annual-cash-target/amp-11674691655600.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-fires-3-900-employees-after-missing-annual-cash-target/amp-11674691655600.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2023/01/26/600x338/IBM_1674693371290_1674693371531_1674693371531.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "IBM To Cut 3,900 Jobs Amid Mass Layoffs: Report"
+    excerpt: "The layoffs - related to the spinoff of its Kyndryl business and a part of AI unit Watson Health - will cause a $300 million charge in the January-March period, IBM said. Shares of the company fell 2% in extended trading, erasing earlier gains on the ..."
+    publishedDateTime: 2023-01-26T01:55:00Z
+    webUrl: "https://www.ndtv.com/world-news/ibm-to-cut-3-900-jobs-amid-mass-layoffs-report-3725451"
+    ampWebUrl: "https://www.ndtv.com/world-news/ibm-to-cut-3-900-jobs-amid-mass-layoffs-report-3725451/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/ibm-to-cut-3-900-jobs-amid-mass-layoffs-report-3725451/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 44
+    images:
+      - url: "https://c.ndtvimg.com/2019-01/8jkmi1m8_ibm-bloomberg_625x300_09_January_19.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "nrBwJHkA2U3+M1EQJx7gpCf0LrrbVCWkwKxzougS0c2pttKKeaOBoQRdynPT/sj35h0iJHmJmNJ0DVxjB+sv1A4wioeHgzk2iCE8oM2FzOdaCy1jWtuaKnOQAaZpo55F6YHn831+Ffvd5QmKjS3fwmhwBcAEay4Ld2lqkPj2jePLPg6EKBik336wlELQI6gkI4fwr+ce4ojUk6W4QMgaME3orR0M5sQIkxCltRUgBv10yFv5LlJiBVbhI96bz7FVG0v+ihaq7o+7ICojZuzVWdzurd47A8aUcAr23bEFpAAo/3K3/pgSLT+2d9D8VIiAab/vtdCCU/Pjqk4lYVFVuWJVHsaZnaCMjix7PRmMUTA=;pgWeSnELC3u/VABV/xEyLg=="
 ---

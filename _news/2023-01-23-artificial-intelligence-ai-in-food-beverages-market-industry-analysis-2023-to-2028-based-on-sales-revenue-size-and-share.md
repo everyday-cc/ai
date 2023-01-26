@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- Artificial Intelligence and Robotics in Aerospace and Defense Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
+    publishedDateTime: 2023-01-25T19:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Chips Market Size 2023 with Strong Supplier, Key Factors, Driving the Market Growth, Information 2029"
     excerpt: "By Types ( GPU, ASIC, FPGA, CPU, Others ), Applications ( Natural Language Processing (NLP), Robotic, Computer Vision, Network Security, Others ), By Segmentation, Regions and Forecast to 2029. The Global Artificial Intelligence (AI) Chips Market Report provides In-depth analysis on the market status of the Artificial Intelligence (AI) Chips Top manufacturers with best facts and figures,"
     publishedDateTime: 2023-01-24T00:55:00Z
@@ -99,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- Artificial Intelligence and Robotics in Aerospace and Defense Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
-    publishedDateTime: 2023-01-25T19:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
   - title: "Artificial Intelligence (AI) Accelerator Market Size 2023 with End-user Industries, Segments Covered in the Report by 2028 | No. of 83 Pages"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 23, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) Accelerator Market” Research Report 2023: incorporates a thorough qualitative and quantitative ..."
     publishedDateTime: 2023-01-23T09:52:00Z
