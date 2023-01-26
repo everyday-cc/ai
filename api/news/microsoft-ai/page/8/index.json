@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-16-can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-alzheimers-disease-risk.md",
+      "title": "Can a multicultural healthy diet reduce cognitive decline and Alzheimer's disease risk?",
+      "excerpt": "Study: Multicultural healthy diet to reduce cognitive decline & Alzheimer's disease risk: Study protocol for a pilot randomized controlled trial. Image Credit: Olga Klochanko/Shutterstock They ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221116/Can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-Alzheimers-disease-risk.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221116/Can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-Alzheimers-disease-risk.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_731251_16686023275581223.jpg",
+          "width": 2000,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-cohesity-leapfrogging-the-competition-in-data-security-and-management.md",
       "title": "Cohesity - Leapfrogging The Competition In Data Security And Management",
       "excerpt": "The latest member to join the Cohesity Security Advisory Council is Kelly Bissell, leader of Microsoft Security Services. I've watched this market ... Cloudera, Clumio, Cognitive Systems, CompuCom, Cradlepoint, CyberArk, Dell, Dell EMC, Dell Technologies ...",
@@ -1293,58 +1336,6 @@
         "name": "EURACTIV",
         "domain": "euractiv.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-microsoft-faces-fresh-antitrust-complaint-in-europe.md",
-      "title": "Microsoft Faces Fresh Antitrust Complaint in Europe",
-      "excerpt": "BRUSSELS—Microsoft Corp. faces an antitrust complaint from a European industry group over its cloud services, adding to recent allegations of anticompetitive behavior against the U.S. tech company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/microsoft-faces-fresh-antitrust-complaint-in-europe-11667947828",
-      "originalUrl": "https://www.wsj.com/articles/microsoft-faces-fresh-antitrust-complaint-in-europe-11667947828",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-661686/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

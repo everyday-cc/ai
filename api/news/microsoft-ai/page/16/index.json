@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-09-14-best-things-you-can-do-to-slow-cognitive-decline-revealed.md",
+      "title": "Best Things You Can Do to Slow Cognitive Decline Revealed",
+      "excerpt": "The decline in cognitive abilities as we get older is thought to be to do with changes to our brain structures that take place over time. It is estimated that one in nine adults in the U.S. has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762",
+      "originalUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2115680/brain-drawing.jpg",
+          "width": 1800,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762?amp=1",
+      "publishedDateTime": "2022-09-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud.md",
       "title": "Synopsys To Seed Startup Innovation With AI-Powered Chip Design Tools In The Cloud",
       "excerpt": "This new chip design tool seed program for startups could help accelerate the pace of innovation in many markets and industries.",
@@ -1291,40 +1343,6 @@
       "provider": {
         "name": "MedCity News",
         "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications.md",
-      "title": "Spice AI Raises $13.5 Million Seed Funding to Enable Web3 Developers to Build Data and AI-driven Applications",
-      "excerpt": "Company building AI Infrastructure for Developers Addresses the “data problem” for Web3 Infrastructure . Spice AI today announced a seed round of $13.5 million for its platfor",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

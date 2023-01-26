@@ -73,6 +73,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Layoffs in tech industry continues as IBM cuts 3,900 jobs"
+    excerpt: "Despite the planned layoffs, which would impact 1.5% of its workforce, IBM still plans on hiring more within \"higher growth areas\"."
+    publishedDateTime: 2023-01-26T05:16:00Z
+    webUrl: "https://techwireasia.com/2023/01/layoffs-in-tech-industry-continues-as-ibm-cuts-3900-jobs/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 24
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/10/shutterstock_1164885235-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
 
 secured: "nrBwJHkA2U3+M1EQJx7gpCf0LrrbVCWkwKxzougS0c2pttKKeaOBoQRdynPT/sj35h0iJHmJmNJ0DVxjB+sv1A4wioeHgzk2iCE8oM2FzOdaCy1jWtuaKnOQAaZpo55F6YHn831+Ffvd5QmKjS3fwmhwBcAEay4Ld2lqkPj2jePLPg6EKBik336wlELQI6gkI4fwr+ce4ojUk6W4QMgaME3orR0M5sQIkxCltRUgBv10yFv5LlJiBVbhI96bz7FVG0v+ihaq7o+7ICojZuzVWdzurd47A8aUcAr23bEFpAAo/3K3/pgSLT+2d9D8VIiAab/vtdCCU/Pjqk4lYVFVuWJVHsaZnaCMjix7PRmMUTA=;pgWeSnELC3u/VABV/xEyLg=="
 ---

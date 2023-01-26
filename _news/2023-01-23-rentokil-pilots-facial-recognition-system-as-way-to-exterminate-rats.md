@@ -51,15 +51,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Pest controllers using facial recognition software to kill rats in people's homes"
-    excerpt: "The software - which Rentokil began developing 18 months ago alongside Vodafone - will track the rodents' habits to help decide how to kill them."
-    publishedDateTime: 2023-01-21T13:40:00Z
-    webUrl: "https://news.sky.com/story/pest-controllers-using-facial-recognition-software-to-kill-rats-in-peoples-homes-12791683"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 14
 
 secured: "Wmx6raWBtfVzh/s5pAN5+yuP1yY/e2lk29sDnobwDH6FNd2bojE8d+YsiFkfhU7HqywnLHHdhMaZz81M+pAdywZdq9uMtbhHHWCC6Qopn/ZvLDQe9e9iK1W5FH/G/Y7uC3qGOzlNmi1YOzxvarbZMp30fVeZt3/HKH6uosGs4XAp3icyLHnvKsGPDjgh4Ni9pjxRGU6Rc9j4F6d8wEgo4EYIHImNTUvApB5ZYitMMFZ0DQvKgvmbn0296pirlPbMSIJze3hORefAROZDXW5kmb8Cn90Xp2rHogLzgyv+agGlhWvb7Sgoz/fvG+vliElWL6P5sbDwh7wmXDnpWSR4myuA7V2oVDnXSE5CB8BpOBQ=;0u2pYQyr/KRHq/F6QqdxtQ=="
 ---

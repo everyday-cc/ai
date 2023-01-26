@@ -2,6 +2,111 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-11-07-cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler.md",
+      "title": "Cost-effective data preparation for machine learning using SageMaker Data Wrangler",
+      "excerpt": "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg",
+          "width": 1553,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T10:16:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-eight-ways-to-reduce-ai-burnout.md",
+      "title": "Eight ways to reduce AI burnout",
+      "excerpt": "Responsible and ethical artificial intelligence has become the hot-button issue of our times, especially as AI seeps into every aspect of decision making and automation. 35% of companies now report using AI in their businesses and 42% are exploring the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/",
+      "originalUrl": "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6c40aa780c005f0c8fd592a610e85f8e9f3081d1/2021/07/16/17b162b7-11cd-4a0a-9c87-13fb721e5e72/artificial-intelligence-shutterstock-1218220324.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/",
+      "publishedDateTime": "2022-11-07T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-pittsburgh-area-tech-companies-look-to-fill-open-roles-following-closure-of-local-robotics-firms.md",
       "title": "Pittsburgh-area tech companies look to fill open roles following closure of local robotics firms",
       "excerpt": "The recent closures of Strip District-based autonomous vehicle startup Argo AI LLC and South Side-based vertical farming startup Fifth Season Inc. have resulted in the termination of an estimated 800 jobs in the region,",
@@ -1050,92 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-recognition-of-the-rights-of-nature-a-must.md",
-      "title": "Recognition of the Rights of Nature a Must",
-      "excerpt": "The Tightens Bond to the Growing Number of Countries Pushing for the Recognition of the Rights of Nature “Typhoons Paeng and Karding are cries",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
-      "originalUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn77.pressenza.com/wp-content/uploads/2022/11/PSWS_of_Typhoon_Noru_Kardingre.jpg",
-          "width": 1920,
-          "height": 1574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PRESSENZA",
-        "domain": "pressenza.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-which-doctor-should-i-see-for-dementia-and-cognitive-decline.md",
-      "title": "Which Doctor Should I See for Dementia and Cognitive Decline?",
-      "excerpt": "But, especially in older adults, they could also be early signs of cognitive decline or dementia ... to ensure safety or adding caregiving services. “If you’re considering alternative ...",
-      "sourceUrl": null,
-      "webUrl": "https://health.usnews.com/health-care/patient-advice/which-doctor-should-i-see-for-dementia-and-cognitive-decline",
-      "originalUrl": "https://health.usnews.com/health-care/patient-advice/which-doctor-should-i-see-for-dementia-and-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-05T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

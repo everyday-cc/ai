@@ -2,6 +2,112 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-28-english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence.md",
+      "title": "English-learning startup ELSA launches Speech Analyzer to help people gain conversational confidence",
+      "excerpt": "ELSA is based on mid-Western American English as the standard most often used in business, education and everyday settings. Speech Analyzer is free.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/3-1.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
+      "publishedDateTime": "2022-10-27T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-could-you-get-paid-to-do-ai-safety-research-and-should-you.md",
+      "title": "Could You Get Paid To Do AI Safety Research – And Should You?",
+      "excerpt": "A few years ago he began experimenting with deep learning, the type of AI which has dominated the field since the Big Bang in 2012, when a team led by Geoff Hinton achieved startling results in an image recognition ... Some people object that this subject ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63598fa6d32ba318a208fd10/0x0.jpg?format=jpg&width=1200",
+          "width": 922,
+          "height": 1518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/",
+      "publishedDateTime": "2022-10-27T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-speech-recognition-for-consumer-electronics-market-strategic-imperatives-for-growth-analysis-and-success-rate-by-2026-newst-99-pages-report.md",
       "title": "Speech Recognition for Consumer Electronics Market – Strategic Imperatives for Growth Analysis and Success Rate By 2026 | Newst 99 Pages Report",
       "excerpt": "In 2022, Current Speech Recognition for Consumer Electronics Market Size with Newest [99] Pages Report The latest",
@@ -1315,83 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-us.md",
-      "title": "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S.",
-      "excerpt": "Augnito's medical voice recognition solution will be used by providers across all of PhysicianOne Urgent Care's 20-plus U.S. locations. \"PhysicianOne Urgent Care provides convenient access to high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29292537",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29292537",
-      "publishedDateTime": "2022-10-17T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-tech-companies-ui-researchers-partner-for-speech-accessibility-project.md",
-      "title": "Tech companies, UI researchers partner for speech accessibility project",
-      "excerpt": "According to the Beckman Institute’s website, the project aims to adapt speech recognition to a more diverse variety of speech patterns, including those with speech disabilities. The project will be funded for a minimum of 2 years and will result in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
-      "originalUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Illini",
-        "domain": "dailyillini.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

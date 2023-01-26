@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-17-physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-us.md",
+      "title": "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S.",
+      "excerpt": "Augnito's medical voice recognition solution will be used by providers across all of PhysicianOne Urgent Care's 20-plus U.S. locations. \"PhysicianOne Urgent Care provides convenient access to high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29292537",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29292537",
+      "publishedDateTime": "2022-10-17T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-tech-companies-ui-researchers-partner-for-speech-accessibility-project.md",
+      "title": "Tech companies, UI researchers partner for speech accessibility project",
+      "excerpt": "According to the Beckman Institute’s website, the project aims to adapt speech recognition to a more diverse variety of speech patterns, including those with speech disabilities. The project will be funded for a minimum of 2 years and will result in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
+      "originalUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-16T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Illini",
+        "domain": "dailyillini.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022.md",
       "title": "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022",
       "excerpt": "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,",
@@ -1306,101 +1383,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-aiello-inc-raises-us58m-to-expand-its-voice-ai-solutions-internationally.md",
-      "title": "Aiello Inc. raises US$5.8M to expand its Voice AI solutions internationally",
-      "excerpt": "Aiello Inc.(Aiello), a leading Natural Language Processing and Voice AI startup, announced it has raised US$5.8M in a Series Pre-A+ funding round led by two major institutional investors, JAFCO Asia and Wistron Corporation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aiello-inc-raises-us58m-expand-its-voice-ai-/2022/10/04/9685332.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aiello-inc-raises-us58m-expand-its-voice-ai-/2022/10/04/9685332.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1913638/Image__The_Aiello_Voice_Assistant__AVA__has_been_introduced_in_several_international_hotel_brands_in.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive.md",
-      "title": "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive",
-      "excerpt": "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/727c3f40e46bd156e23fe082b021fdbf46f90b69/hub/2022/09/28/2da9106a-c646-435f-99b3-c88a36ab519d/echo-dot-1920x1080-301.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
-      "publishedDateTime": "2022-10-03T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

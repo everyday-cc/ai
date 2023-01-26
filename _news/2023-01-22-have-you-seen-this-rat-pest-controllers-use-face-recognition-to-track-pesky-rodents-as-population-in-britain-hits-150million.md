@@ -52,15 +52,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 19
-  - title: "Pest controllers using facial recognition software to kill rats in people's homes"
-    excerpt: "The software - which Rentokil began developing 18 months ago alongside Vodafone - will track the rodents' habits to help decide how to kill them."
-    publishedDateTime: 2023-01-21T13:40:00Z
-    webUrl: "https://news.sky.com/story/pest-controllers-using-facial-recognition-software-to-kill-rats-in-peoples-homes-12791683"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 14
 
 secured: "7wQP+2kapqTHPGA1Bqz5ACQU35+jB0gIEZxAHzuBoYhMLLNQfqfvcyRaARxR1vazIskeustTpORII6ivgzA1cDXclQ5QWrIUn9LuLnsiiivgaVyH5xPewMGBVS71pQUnRexaLmI/NADSnNskdBu3ASS75IPUNmVpvJn7ZhaLyHzf6dVToOfd2LJU+d+pmQXCWtIzTGUV5S6lV/+EBFTihH5PSIQX5k/uHfcHypXEVV6AlW76u1ys5I23QCYLqixbq5MrRz6tqye8/ijUTmMpZz+qepIgcGeyee2X7uMCo4TXQN1vDc9P1TFsEAdF7Nvf1CT1bH1lMeeBQ86ck1rdffFcYeOn5eB6vf3I335OaGo=;x4ZEbjiQATZ6vBpdRPKFzQ=="
 ---

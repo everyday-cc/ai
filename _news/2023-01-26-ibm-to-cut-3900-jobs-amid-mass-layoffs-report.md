@@ -59,6 +59,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Layoffs in tech industry continues as IBM cuts 3,900 jobs"
+    excerpt: "Despite the planned layoffs, which would impact 1.5% of its workforce, IBM still plans on hiring more within \"higher growth areas\"."
+    publishedDateTime: 2023-01-26T05:16:00Z
+    webUrl: "https://techwireasia.com/2023/01/layoffs-in-tech-industry-continues-as-ibm-cuts-3900-jobs/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 24
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/10/shutterstock_1164885235-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "IBM cuts 3,900 jobs after muted consulting demand hits quarterly revenue"
     excerpt: "IBM Corp on Wednesday said it would lay off 3,900 people as part of some asset divestments and posted flat fourth-quarter revenue due to lackluster demand for its consulting services.Big Blue spun-off its large and laggard managed infrastructure business,"
     publishedDateTime: 2023-01-25T22:20:00Z

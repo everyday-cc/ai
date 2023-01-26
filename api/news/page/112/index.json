@@ -2,6 +2,101 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-10-13-a-sort-of-driverless-cars-journey-through-san-francisco.md",
+      "title": "A (sort of) driverless car’s journey through San Francisco",
+      "excerpt": "A Waymo Jaguar SUV outside Mission High School. Photo by Yujie Zhou. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. The electric car that emerged from the fog on Monday morning might have ...",
+      "sourceUrl": null,
+      "webUrl": "https://missionlocal.org/2022/10/waymo-driverless-car-san-francisco-cruise/",
+      "originalUrl": "https://missionlocal.org/2022/10/waymo-driverless-car-san-francisco-cruise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2022/10/selfDrivingCar_banner.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mission Local",
+        "domain": "missionlocal.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees.md",
+      "title": "The Role Of Recognition In Supporting Offline, Remote And Hybrid Employees",
+      "excerpt": "Knowing how to properly recognize employees outside of a traditional workplace setting is vital for ensuring their job satisfaction and productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/1141999796/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/amp/",
+      "publishedDateTime": "2022-10-13T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle.md",
       "title": "A remote-controlled car with a flag on a pole can herd cattle",
       "excerpt": "A small remote-controlled vehicle proved effective at keeping cows away from overgrazed areas, and the animals showed few signs of fear or aggression",
@@ -1099,110 +1194,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-thanks-to-ai-you-can-now-create-automations-in-power-automate-by-simply-describing-them.md",
-      "title": "Thanks to AI, you can now create automations in Power Automate by simply describing them",
-      "excerpt": "Microsoft debuted a new feature that leverages OpenAI's Codex AI system to streamline workflow creation in Power Automate.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/12/2420274/",
-      "originalUrl": "https://techcrunch.com/2022/10/12/2420274/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/12/2420274/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/2420274/amp/",
-      "publishedDateTime": "2022-10-12T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next.md",
-      "title": "Google focuses on data innovations for enterprise users at Cloud Next",
-      "excerpt": "At this year’s Google Cloud Next conference, Google has treated enterprises with some notable product developments, starting with the launch of new AI agents and software delivery shield to new cloud regions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/",
-      "publishedDateTime": "2022-10-12T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

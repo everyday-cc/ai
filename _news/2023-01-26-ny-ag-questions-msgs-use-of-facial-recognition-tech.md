@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-26T02:36:00Z
 originalUrl: "https://pix11.com/video/ny-ag-questions-msgs-use-of-facial-recognition-tech/8335716/"
 webUrl: "https://pix11.com/video/ny-ag-questions-msgs-use-of-facial-recognition-tech/8335716/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2023/01/snapshot-1-2.jpg?w=2000&#038;ssl=1"
@@ -72,6 +73,6 @@ related:
         height: 681
         isCached: true
 
-secured: "qtnX/3OZCPgWJ9hgfcc4NBqvhcNfr4gMNgwVM9047xE7YJ6zJq0ApKbETNAiFPLmTDlON+w6mEmcVcozSO08JNourPTtZybEQisDXgKgECtvr96rB5jJxjs74CoKgvqxNt+ZvkfqmhBEO1pIIxyxASEyro9gqozRSIT31jrQQXyS2YX4GiEx7wzKd+2G1u0OzJS8JenTgQvrtOKQ/C/l5rlhAd2U2gi2OIOOrOQ7ntofjwYVVClBQKMIlStepe6DEJdTz+0XYcav2nHIt4k/tgJXDUfr1tHKZ20zb8g90xWnuLb/8lL1g3QrgG12i626hxN1JQfnBOlYjcJhYYrmJlYFRcDGBvrXhL4hrcSiD58=;yZ9Udgsmh2PJpP8ZJvvZZw=="
+secured: "P/oFDY02CFFyuKcydufLWJGz/bZ5saKKtfy555b+QJw+cAG7EnPo7C0wc24BGg1zES9i1TpChgddlGvem6PoCo4ewuEXtEPoKHrfNFF7at7TQKhpJRnsODGkG8jxu3KIZf/l2LKV5jaHdw3W9Fj732fov3X+Sl1sbT/uiKOCaav9Eq4/E3O059hl5/1FkXQGc+6pJIlTUB5AyHHdFAp5JrCVdEHr+Cn4tjJ8WvbcrC5TOwpSNYaJa53syGtfDcw7guKnmJwRKnhGtZa5sP+ihSvnaCo8vpKqPcbyYLpnO3s6z7YGUiIO51jIrvYVWkqKFjk4ww3DFfxA0HmIXnBpiOcRvcjkzg3p2iC99aUAlbltLXwfauW6rMqG9APEr1QGPx0GpKXkLklknp6vubmckYdu+vYBxZuQDidAASFE/9lLjU2qn+NwphtiEKPx17O6+H6iHN0H4An6neTr5zQ+lTiKZ7Ffbjws+jVJtv9eL8/y7KDjrybLN/6YfG/p+P1WwKF+JdnnKFpZ9IYhQTGKHg==;lH0cpv0RUJFeVqBqBL52cQ=="
 ---
 

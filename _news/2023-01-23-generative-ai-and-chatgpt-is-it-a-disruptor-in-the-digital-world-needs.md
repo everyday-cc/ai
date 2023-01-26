@@ -69,7 +69,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
         width: 1200
@@ -88,22 +88,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-1-4.jpg&signature=49a0eaf18d6a9ed5139bdb7a17178718"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Why UK SME’s could be saving time and money by using AI tools like ChatGPT"
-    excerpt: "SMEs need to find new and innovative ways to engage with customers and improve their bottom line. One solution to achieve these goals is the use of ChatGPT"
-    publishedDateTime: 2023-01-21T14:53:00Z
-    webUrl: "https://bmmagazine.co.uk/in-business/advice/why-uk-smes-could-be-saving-time-and-money-by-using-ai-tools-like-chatgpt/"
-    ampWebUrl: "https://bmmagazine.co.uk/in-business/advice/why-uk-smes-could-be-saving-time-and-money-by-using-ai-tools-like-chatgpt/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/advice/why-uk-smes-could-be-saving-time-and-money-by-using-ai-tools-like-chatgpt/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 57
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/01/shutterstock_2237752713-1-scaled.jpg"
-        width: 850
-        height: 567
         isCached: true
   - title: "Inside the mind of ChatGPT: How artificial intelligence is changing the way we learn"
     excerpt: "The future is here, and it can do your homework. Artificial intelligence, like the popular ChatGPT app, is ripe for exploitation by students, experts say."

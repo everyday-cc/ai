@@ -2,6 +2,92 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-10-20-nvidia-supercharges-oracles-cloud-infrastructure-to-help-industries-adopt-ai-into-their-business.md",
+      "title": "NVIDIA supercharges Oracle’s cloud infrastructure to help industries adopt AI into their business",
+      "excerpt": "NVIDIA and Oracle has jointly released a statement detailing a new multi-year partnership regarding the latter's cloud-computing division getting buffed with some serious hardware and software support from the former.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
+      "originalUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/10/NVIDIA-x-Oracle-Enterprise-AI-Partnership.jpg",
+          "width": 1271,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
+      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
+      "publishedDateTime": "2022-10-19T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech-critter.com",
+        "domain": "tech-critter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-after-turmoil-datarobots-new-boss-looks-to-turn-ai-startup-around.md",
+      "title": "After turmoil, DataRobot’s new boss looks to turn AI startup around",
+      "excerpt": "Saha’s career experience positioned him well to guide the AI startup through its recovery ... she will tell you that I have always been a robot and finally found the right place,” he joked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/10/19/business/after-turmoil-datarobots-new-boss-looks-turn-ai-startup-around/",
+      "originalUrl": "https://www.bostonglobe.com/2022/10/19/business/after-turmoil-datarobots-new-boss-looks-turn-ai-startup-around/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/o-VvcTqQoVPB1j1st4moDxj4Dmg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/AH2QJHW6UNDHPEVWMMC776SEEQ.png",
+          "width": 506,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-construction-robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2028-116-pages-report.md",
       "title": "Construction Robotics Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2028 | 116 Pages Report",
       "excerpt": "This report studies the construction robotics, including the remote controlled demolition robots, construction 3D printing robots, bricklaying robots, and remote control rescue robots etc.",
@@ -1096,110 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-design-patterns-for-serial-inference-on-amazon-sagemaker.md",
-      "title": "Design patterns for serial inference on Amazon SageMaker",
-      "excerpt": "As machine learning (ML) goes mainstream and gains wider adoption, ML-powered applications are becoming increasingly common to solve a range of complex business problems. The solution to these complex business problems often requires using multiple ML models. These models can be sequentially combined",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/serial-inference-sagemaker.jpg",
-          "width": 1340,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T08:52:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-watch-googles-ping-pong-robot-pull-off-a-340-hit-rally.md",
-      "title": "Watch Google’s Ping-Pong robot pull off a 340-hit rally",
-      "excerpt": "Google researchers have used an interesting method to create a powerful (but friendly) Ping-Pong bot capable of returning hundreds of times.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/",
-      "originalUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/google-ping-pong.jpg?resize=1200,784",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/amp/",
-      "publishedDateTime": "2022-10-19T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

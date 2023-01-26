@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/d6/8d6dc229-525d-5489-b6e0-ca3df0cd6c94/63d068e2c40ef.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "DoD wants to declassify more intelligence to enhance private-sector cybersecurity"
+    excerpt: "The Defense Department wants to declassify more intelligence to enhance private-sector cybersecurity. GSA is taking new steps to make sure the software it uses is secure."
+    publishedDateTime: 2023-01-25T16:24:00Z
+    webUrl: "https://federalnewsnetwork.com/federal-newscast/2023/01/dod-wants-to-declassify-more-intelligence-to-enhance-private-sector-cybersecurity/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/02/Defense_Department_Journalists_37555-e1613618428392.jpg"
+        width: 1200
+        height: 707
         isCached: true
 
 secured: "1mgvHtvOE/+MO4Nunvrm98Sqp3EyOu9nGbrrW2AoBmOwa86XxkhjkAKn9Dx7EKpGWTSibTKPxmJgh3EEGKUTxZmfWNGRYgm8XpTGrs2CYdkDga/gJbe+X0SZgBCERvzEdGITG6fNL3OEzDLyOQ7TVoLxkkMV7ReMIsfL8A7wrL3zf7/vvRlAlfEVy1kyITu9r6Qr5qAIxhTgBakimXMdPV64j+wq+NeUeQz6iHEykEXRuAxvkl6vJR/9mzE0XaWMG0waDT3RTnYKd5hBmY36S5vZOKTKpyZ3rY4v/J9PLtZkglymAAZpD0ec9dsxp9WHRt54G5vdWa0PtHSEhHYRUkE0nq52vGfhZ1/9+3lt9Lx8EoTvqS2Y+Wxynr86sQvCc5F9fjthOEqZxMdzzTgSq9FbGvnbL4jA5EGekccQuwS5BBcvvMJLjAV4bpFYyeMUFwQBV6ErPjz6fsyP/Ay5L+IMB9F0mhMexXDdMY2qER98fSvO304vkOfFmMrhajEAfwMhce08uVTu+LNcd7hCZQ==;mg7CCP1nDG2vGJCvLMhIfg=="

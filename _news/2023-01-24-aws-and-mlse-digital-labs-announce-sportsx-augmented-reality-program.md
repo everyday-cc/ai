@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Maple Leaf Sports & Entertainment, Amazon Web Services launch new R&D program SportsX"
+    excerpt: "SportsX, a new research and development program will focus on advancing innovation in sports as it relates to team performance and fan experiences."
+    publishedDateTime: 2023-01-26T06:58:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/01/24/Technology/maple-leaf-sports-entertainment-amazon-web-services-sportsx.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 27
   - title: "Maple Leaf Sports & Entertainment and Amazon Web Services launch new R&D program called SportsX"
     excerpt: "SportsX, a new research and development program will focus on advancing innovation in sports as it relates to team performance and fan experiences."
     publishedDateTime: 2023-01-24T16:04:00Z

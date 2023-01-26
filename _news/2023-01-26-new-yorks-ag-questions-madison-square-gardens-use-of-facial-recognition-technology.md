@@ -65,13 +65,13 @@ related:
     provider:
       name: pix11
       domain: pix11.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2023/01/snapshot-1-2.jpg?w=2000&#038;ssl=1"
         width: 888
         height: 499
         isCached: true
 
-secured: "hp0zcn42Mlv947JpoVZXvPcAMIfZh+9GC979gZ/1s4fDuMWlVbOKvT+F5gaG1LfvRuyslwdGuALv2T9SmlL3cGsMuEwfel9Cod/PaJNpHcNnAaG8Gmu9s+s2aKH4ZWGGJmjfRntIbJj7Fdvxht1BNWmMQOkft/rTd5fvUKqQfLuCFlnsgXBtqiIDJwbi/Qbt1GQpBeExHUxlpkxSjKTYYJeMPpeacxbNkd4ZgxsvjY2THk+jf9hnLMISHSiHSChya90RbJy9B6nGw1s22yDTfpQi5Abp+DSdVgkdKf0Yqp94+hmjAfpGehiRFTtPK4eZ7ZSnvZYXxiTTXg4oCI7eZ4+7HiyaPj2rDLluADzvSRM=;VgVOb485JrQRXqUQSQJ49w=="
+secured: "+rTYeZespmqKsX30KNopNRKSeZqE4gW4VYTuCUssa9tgzIb0t21FutH8/I5emTzqZFHReWRDPVxKV+aorflYkCktzj8+8n7VD7VzQDlAnbeL+tD1dI1EnzjeXvR6vwyqHFshdJsYoQuZYw9mq8CXvoEyg0QT3ceZ7x1he0IvUW00rfWlWQ+PSzt9b8wCjGewzYqxcIl9gMT8xkJ8H5b01mYCoqul1mAEHn4m031Skxz7/S8DURZScw16843x+H33DAmms+FE8xxTd99X4miT42Wq2I5dasoFKjSyQiw3B7usszPaQ3mCZsSV/OguPed6vdppkfxKNJpMeLP03Lrfjg06+QP+WoNFIoa2PWJ6ssdqvgCyXQx0hFrT5j810R1N2qcRPFaHLMlnumzPDJzD7Ih8FDqkDqmv+XlBhnHUPXk8+b+vL/kfClOwwxpASXyrVPauUmCwFFtpcWiMhkbAKVQmhdkzBJa5eMZVjqbvvIYoYYqeK79KqZRkQbJSH2ggCqSXhvtOPiTWD7uZNSjiBg==;ZfyfkrbM1o0IFmxGiD1OUQ=="
 ---
 

@@ -69,7 +69,7 @@ related:
     provider:
       name: pix11
       domain: pix11.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2023/01/snapshot-1-2.jpg?w=2000&#038;ssl=1"
         width: 888

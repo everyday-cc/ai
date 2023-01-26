@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jan/23/australi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jan/23/australia-news-ato-cyber-scam-online-dating-qantas-recession-interest-rates-robodebt"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Australia news live: Invasion Day rally speakers stir opposition to voice to parliament, stressing push for treaty"
-    excerpt: "Follow the day’s news, live"
-    publishedDateTime: 2023-01-26T01:04:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police?page=with:block-63d1d9fa8f08f60f4de85740"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 22
-    images:
-      - url: "https://i.guim.co.uk/img/media/7fe44a12ebe7c230851aa047db2ea75fe7c8c368/0_546_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=284518ac1832f591d6e3d286fba1c664"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "PiImwUd3OwMqSMZNtYMK/TKb5Ub5AAsf/LwHc1g++CflsvkNEmnP3dTDOM4HeeodmrpW7qtbhVtz/a7jQGhFpN0bDUUFPCWz+veKXgRliWPLZV+nD2/lUSE6wzu7H/VEkVjV0qZUPnKjHi/RTAZVetvF/5/gzbUt1UWvARMXqFO/7XUaREPxqmZq2oOpmwMXc+5iqlzrNCypvhXU0tF1CoWmld6y1b3qrX2z8pdzWd7Z0UVDaRPjwOWGhm+dYFwfPMUEe+rg0rngxFkdMIyiq0x5cmYp1IyAdL1cXrULnCap4T3PVfOtq1WkO6OTZUcP5GgydafYvMfpMOQJtAHMzXPa/C8mmCjTFTH6oY49Mnw=;gtFQZUgRVWhEP8W8PjiUqw=="
 ---

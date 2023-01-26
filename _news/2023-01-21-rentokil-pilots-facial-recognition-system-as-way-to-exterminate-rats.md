@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/business/2023/jan/21/rentokil-pilots-fac
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 19
-  - title: "Pest controllers using facial recognition software to kill rats in people's homes"
-    excerpt: "The software - which Rentokil began developing 18 months ago alongside Vodafone - will track the rodents' habits to help decide how to kill them."
-    publishedDateTime: 2023-01-21T13:40:00Z
-    webUrl: "https://news.sky.com/story/pest-controllers-using-facial-recognition-software-to-kill-rats-in-peoples-homes-12791683"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 14
 
 secured: "QR0uejtPyIv0z2+Hi8vES+oOAynI++bGO7n6SWY1dyAyXt72TGZEtAcMNrhmywKIjWRI295qn/W5GOAI6b1gXlZkxGf0iiLBQhGnbBqYMoz0xqnooV3sbOnCODTQYJhNd+mYuIvWwe11WPmnb6bFHGCr8qq85wmYUyHOj9B1ACl/eXa9LEr6kK8FaoC8Ha26PPOp08Kfzj/Ywu3IqyaxCAUisq5DOIo32/br/c8rj+Vr/sqDNVXAzmtIL9Z/Imnh9kyONuX2reKNtcdpIjGUdZe5pWG+vFss2cEeV7GlePAWbnaVOgqz/IYK4Asiwc1DHv8mwY2lDVVNws6SyMmRVLOmqaAalpXyoPwQYMeJjbAtnGmMhed0uRLotmMwkh9aiSyuPMcewABDIf1rIZrEJIaF94KlhuG12tt+O8b5kwvGM48Toz8jlIiWi1I8435mWn6/ifm6syYHazRUYtGwr5+X3czEgrynCvypC1cXBd39jZ1ouu1f59jjT0Btm5h0lWIIXtUUPhW44hv61XYIfA==;uGrawF74B029G7r5hm2aSg=="
 ---

@@ -2,6 +2,101 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-10-25-from-artificial-intelligence-to-ancestral-foods-check-out-these-november-happenings.md",
+      "title": "From Artificial Intelligence to Ancestral Foods, Check Out These November Happenings",
+      "excerpt": "The ceremony is open to the public and will include an Objects Out of Storage display showcasing artifacts from the museum’s noted military history collections. Guest chefs Elena Terry and Zoe Fess will prepare Seedy SassSquash,",
+      "sourceUrl": null,
+      "webUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
+      "originalUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-thumbnailer.cdn-si-edu.com/uDp3cqkk6y0G3GfJ9d7m41ONrbY=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/7b/cf7bdb68-a1fa-425f-bac2-a0fc7e3e81db/lemelson.png",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smithsonian Magazine",
+        "domain": "smithsonianmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project.md",
+      "title": "Red Hat and IBM team up to enhance AIops with an open-source project",
+      "excerpt": "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
+      "originalUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
+      "publishedDateTime": "2022-10-24T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-ai-model-using-daily-step-counts-predicts-unplanned-hospitalizations-during-cancer-therapy.md",
       "title": "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy",
       "excerpt": "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer. The machine-learning model uses daily step counts as a proxy to monitor patients' health as they go through cancer therapy,",
@@ -1063,101 +1158,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-timekettle-ai-translator-earbuds-empower-english-language-learners.md",
-      "title": "Timekettle AI Translator Earbuds Empower English Language Learners",
-      "excerpt": "OTTUMWA, Iowa, Oct. 24, 2022 /PRNewswire/ -- Tech company Timekettle was recently invited to attend the Ottumwa Community School District Board Meeting in the U.S of Iowa to showcase its ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-english-language-learners-1031827735",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-english-language-learners-1031827735",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1927562/Co_founder_Timekettle_Alex_Qin_students_wearing_translator_earbuds_Ottumwa_School.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-these-15-people-are-shaping-the-office-of-the-future-designing-meeting-pods-hologram-calls-and-buildings-that-actually-make-workers-healthier.md",
-      "title": "These 15 people are shaping the office of the future, designing meeting pods, hologram calls, and buildings that actually make workers healthier",
-      "excerpt": "Power players from tech-startup CEOs to architects make workplaces safer and happier. See how offices can be more interactive, collaborative, and flexible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/people-shaping-future-of-office-workplace-commercial-real-estate-2022-10",
-      "originalUrl": "https://www.businessinsider.com/people-shaping-future-of-office-workplace-commercial-real-estate-2022-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

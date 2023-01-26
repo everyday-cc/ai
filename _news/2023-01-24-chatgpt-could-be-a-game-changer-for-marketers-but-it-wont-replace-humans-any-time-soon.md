@@ -49,24 +49,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "AI chatbot poses test for business schools with pass in MBA course exam"
-    excerpt: "A professor at the University of Pennsylvania’s Wharton School said ChatGPT earned a ‘B to B-’ on his operations management test © Bloomberg AI chatbot poses test for business schools with pass in MBA"
-    publishedDateTime: 2023-01-21T14:00:00Z
-    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "AI chatbot’s MBA exam pass poses test for business schools"
-    excerpt: "Elon Musk has long dismissed the MBA as irrelevant or damaging, but now a company backed by the outspoken tech entrepreneur is threatening to directly undermine the value of the flagship business degree: the artificial intelligence chatbot ChatGPT."
-    publishedDateTime: 2023-01-21T14:00:00Z
-    webUrl: "https://www.ft.com/content/7229ba86-142a-49f6-9821-f55c07536b7c?amp"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Chatgpt Could Be A Game-Changer For Marketers, But It Won't Replace Humans Any Time Soon"
     excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest . In essence, ChatGPT is an AI-powered chatb"
     publishedDateTime: 2023-01-22T18:26:00Z

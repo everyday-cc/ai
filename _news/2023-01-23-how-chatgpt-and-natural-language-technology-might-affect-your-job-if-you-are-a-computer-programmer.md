@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DoD wants to declassify more intelligence to enhance private-sector cybersecurity"
+    excerpt: "The Defense Department wants to declassify more intelligence to enhance private-sector cybersecurity. GSA is taking new steps to make sure the software it uses is secure."
+    publishedDateTime: 2023-01-25T16:24:00Z
+    webUrl: "https://federalnewsnetwork.com/federal-newscast/2023/01/dod-wants-to-declassify-more-intelligence-to-enhance-private-sector-cybersecurity/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/02/Defense_Department_Journalists_37555-e1613618428392.jpg"
+        width: 1200
+        height: 707
+        isCached: true
 
 secured: "4/fu5XOv47c9qt0EMzMnxu9AZYFeND2cDt8rNg/Gfm2C49AzxpabmkNxrMMVEr+2+QSWGUnnIyNVyc4dXnlwESoFSKDjHlSIBGogeUj3XTZstQUKu03osL4ABH9YEvBGj1hGyuM5dbzOTd5h4tW6/EiILPEqbs09DxgHGdD8cA/gEHbloi8qcN1J3Pblfjoj6n5cnF834rwdmtw4C0E5c1RgWFgKjKPBdN9PzPiA6huwJAisgsSs7kYlX+AedgS+RLs6ejt/UtH1elBVjA+Kb2ZKJDTv3yOnBlsKiM9WBM2bEEcgLw4tJyZQ4VoGbiOjGcUgS2LVr07ry/KLpWSbhKElXseTy65C7I0wfIgsHec=;4yz4fxFl2Pt6X+MWZN/DKw=="
 ---

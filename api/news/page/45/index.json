@@ -2,6 +2,91 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-12-09-chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot.md",
+      "title": "ChatGPT: Why Everyone's Obsessed With This Mind-Blowing AI Chatbot",
+      "excerpt": "This artificial intelligence bot is an impressive writer and conversationalist. But be careful how much you trust its answers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/",
+      "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/",
+      "publishedDateTime": "2022-12-08T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-why-every-office-needs-a-window-the-influence-of-a-view-on-cognitive-performance.md",
+      "title": "Why every office needs a window: The influence of a view on cognitive performance",
+      "excerpt": "Dr. Baumann, a cognitive neuroscientist, said those in the room with a view performed best. \"When people were able to see the sky and trees they produced more answers in a task that demanded they ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-office-window-view-cognitive.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-office-window-view-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-can-machines-invent-things-without-human-help-these-ai-examples-show-the-answer-is-yes.md",
       "title": "Can machines invent things without human help? These AI examples show the answer is 'yes'",
       "excerpt": "The question of whether artificial intelligence (AI) can invent is nearly 200 years old, going back to the very beginning of computing. Victorian mathematician Ada Lovelace wrote what's generally considered the first computer program.",
@@ -1055,109 +1140,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027.md",
-      "title": "Gene Therapy On Cardiovascular Disease Market Industry Trends, Share, Size, Growth and Opportunities and Forecast by 2022-2027",
-      "excerpt": "Dec 08, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Gene Therapy On",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027-2022-12-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027-2022-12-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not.md",
-      "title": "AI Finally Gives Everyone A Voice... Whether We Like It Or Not!",
-      "excerpt": "Surveys and focus groups have replaced the ancient forum as a way of gathering perspectives of large number of people but each have their limitations. AI, however, offers new ways of accurately and fairly taking into account many peoples perspectives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/",
-      "originalUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63917c89344e25a4a18465da/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/amp/",
-      "publishedDateTime": "2022-12-07T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

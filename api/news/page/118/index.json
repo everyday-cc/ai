@@ -2,6 +2,91 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-10-09-iit-mandi-start-up-to-launch-worlds-first-ai-backed-giant-swing-in-manali.md",
+      "title": "IIT Mandi start up to launch world's first AI-backed giant swing in Manali",
+      "excerpt": "Four engineer friends have claimed to have innovated a giant swing backed by AI which will provide an \"impeccable\" security to the jumpers with more than 100 jump styles",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
+      "originalUrl": "https://www.business-standard.com/article/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/09/full/1665323291-3562.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
+      "publishedDateTime": "2022-10-09T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-09-loblaw-goes-driverless-credit-card-surcharges-and-why-adulting-is-unaffordable-must-read-business-and-investing-stories.md",
+      "title": "Loblaw goes driverless, credit card surcharges and why adulting is unaffordable: Must-read business and investing stories",
+      "excerpt": "Canada’s largest grocer announced this week the launch of driverless delivery trucks on the roads across Toronto and surrounding suburbs, delivering products to its stores. In partnership with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/article-loblaw-driverless-trucks-credit-card-surcharges-business-stories/",
+      "originalUrl": "https://www.theglobeandmail.com/business/article-loblaw-driverless-trucks-credit-card-surcharges-business-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/Cf3tJBON22F-3vh5rfEQxw1ScyM=/1200x798/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/L6MRR6HZ3NHZHBQKV2OFPY56PI.JPG",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-09T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-09-stuck-on-the-streets-of-san-francisco-in-a-driverless-car.md",
       "title": "Stuck on the streets of San Francisco in a driverless car",
       "excerpt": "“Who’s driving?” he yelled. “No one,” I yelled back. I was riding in a driverless car operated by Cruise, a company backed by General Motors that is now offering low-cost rides to a ...",
@@ -1074,102 +1159,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-robot-ai-da-will-speak-to-the-house-of-lords-in-westminster.md",
-      "title": "Robot Ai-Da will speak to the House of Lords in Westminster",
-      "excerpt": "A robot called Ai-Da will become the first robot to speak in the House of Lords in Westminster. The robot will speak to the Lords about Artificial Intelligence (AI) and the future of arts, design, fashion and music industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/newsround/63173407",
-      "originalUrl": "https://www.bbc.co.uk/newsround/63173407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/101C6/production/_127009956_gettyimages-1404663363.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/newsround/63173407.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/63173407.amp",
-      "publishedDateTime": "2022-10-07T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-recent-advancements-in-artificial-intelligence.md",
-      "title": "Recent Advancements In Artificial Intelligence",
-      "excerpt": "Over the last few years, artificial intelligence (AI) has worked its way into every area of our lives. If you’re a programmer, chances are you’ve started working with GitHubs",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-07T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

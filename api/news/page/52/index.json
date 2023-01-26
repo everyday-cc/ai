@@ -2,6 +2,102 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-12-06-aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption.md",
+      "title": "AWS names 6 key trends driving machine learning innovation and adoption",
+      "excerpt": "From data growth and democratization to industrialization and responsible AI, AWS identified 6 key drivers of machine learning adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/aws.png?w=1200&strip=all",
+          "width": 891,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/",
+      "publishedDateTime": "2022-12-05T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-the-best-gpu-benchmarking-software.md",
+      "title": "The best GPU benchmarking software",
+      "excerpt": "Here are some of the best GPU benchmarking applications you can use today. 3DMark is a 3D rendering benchmarking app developed by UL (after it acquired the original developer, Futuremark).",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/best-gpu-benchmarking-software/",
+      "originalUrl": "https://www.digitaltrends.com/computing/best-gpu-benchmarking-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-the-gtx-1650-has-become-the-most-popular-gpu-among-steam-users.md",
       "title": "The GTX 1650 Has Become The Most Popular GPU Among Steam Users",
       "excerpt": "The third spot is currently occupied by the relatively more powerful NVIDIA RTX 2060 GPU. This card is built on the new Turing architecture and boasts some serious hardware improvements over its ...",
@@ -1031,111 +1127,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-dataai-mobile-gaming-starts-to-wane-after-pandemic-spike.md",
-      "title": "Data.ai: Mobile gaming starts to wane after pandemic spike",
-      "excerpt": "Data.ai's latest report shows that mobile games are declining, but the numbers are still higher than they were pre-pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
-      "originalUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-01-at-9.22.12-AM.png?w=1200&strip=all",
-          "width": 880,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
-      "publishedDateTime": "2022-12-02T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-the-story-of-neuralink-elon-musks-ai-brain-chip-company-where-he-had-twins-with-a-top-executive.md",
-      "title": "The story of Neuralink: Elon Musk's AI brain chip company where he had twins with a top executive",
-      "excerpt": "He says he started one of them to achieve \"symbiosis\" between the human brain and artificial intelligence ... treatment of the monkeys used in its research. In February 2022, animal-rights ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
-      "originalUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcd5470eadd8400183df66e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2?amp",
-      "publishedDateTime": "2022-12-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,40 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-12-10-remote-controlled-robot-toy-from-air-freshener-parts.md",
-      "title": "Remote-controlled Robot Toy From Air Freshener Parts",
-      "excerpt": "Using a pair of pencils for legs, he constructed his robot, “Limpy.” He removed a pair of motors and control board from an old toy, mounting it to his creation with a few strips of electrical ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2011/03/07/remote-controlled-robot-toy-from-air-freshener-parts/",
-      "originalUrl": "https://hackaday.com/2011/03/07/remote-controlled-robot-toy-from-air-freshener-parts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-10-bring-on-the-killer-robots-we-need-em-more-than-ever.md",
       "title": "Bring on the killer robots! We need ‘em more than ever",
       "excerpt": "In the mid-1990s, Cyberdyne Systems Corporation created an Artificial Intelligence ... from the time when robots achieve human-like autonomy, or when AI matches our intelligence.",
@@ -1354,6 +1320,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-03-nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022.md",
+      "title": "Nvidia showcases groundbreaking generative AI research at NeurIPS 2022",
+      "excerpt": "Nvidia continues to push boundaries of generative AI in machine learning, self-driving cars, robotics, graphics, simulation and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/image4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/",
+      "publishedDateTime": "2022-12-02T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
       ]
     }
   ],

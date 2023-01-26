@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-26-explainer-what-is-an-australian-black-voice-to-parliament.md",
+      "title": "EXPLAINER: What is an Australian Black Voice to Parliament?",
+      "excerpt": "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known a",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/wirestory_07694a5fc5e28b243c09873c994bb3d6_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527",
+      "publishedDateTime": "2023-01-25T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-move-over-siri-apples-new-audiobook-ai-voice-sounds-like-a-human.md",
       "title": "Move over, Siri: Apple’s new audiobook AI voice sounds like a human",
       "excerpt": "AI technologies are being developed and used in various applications, including natural language processing, as Apple is doing, robotics, and expert systems for various industries and purposes. Apple decided to make this move to give those books from ...",
@@ -63,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -620,6 +663,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-peter-duttons-approach-to-referendum-on-indigenous-voice-straight-from-john-howards-playbook.md",
+      "title": "Peter Dutton’s approach to referendum on Indigenous voice straight from John Howard’s playbook",
+      "excerpt": "Indigenous people asked for the voice to be constitutionally entrenched in the Uluru statement from the Heart. The whole point of the exercise is constitutional recognition and if that is the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2023/jan/14/peter-duttons-approach-to-referendum-on-indigenous-voice-straight-from-john-howards-playbook",
+      "originalUrl": "https://www.theguardian.com/australia-news/2023/jan/14/peter-duttons-approach-to-referendum-on-indigenous-voice-straight-from-john-howards-playbook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/55ee0383f55d003baff5bb5279dfab4177b993d0/0_133_3990_2394/master/3990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=b419bf78c5f48a1db16a2e1426bc0e82",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theguardian.com/australia-news/2023/jan/14/peter-duttons-approach-to-referendum-on-indigenous-voice-straight-from-john-howards-playbook",
+      "cdnAmpWebUrl": "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/australia-news/2023/jan/14/peter-duttons-approach-to-referendum-on-indigenous-voice-straight-from-john-howards-playbook",
+      "publishedDateTime": "2023-01-16T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1353,93 +1448,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-will-new-ai-signal-the-death-of-the-essay.md",
-      "title": "Will new AI signal the ‘death’ of the essay?",
-      "excerpt": "A new open source AI tool has been sending shock waves across the sector as educators witness for the first time, the true power and availability of machine-authored content. Nicholas first began his career with Nottingham Trent University in the UK in international student recruitment.",
-      "sourceUrl": null,
-      "webUrl": "https://thepienews.com/news/will-new-ai-signal-the-death-of-the-essay/",
-      "originalUrl": "https://thepienews.com/news/will-new-ai-signal-the-death-of-the-essay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1pe6f90ru47yo.cloudfront.net/wp-content/uploads/2023/01/10105127/pexels-peter-olexa-4012966-860x375.jpg",
-          "width": 860,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The PIE News",
-        "domain": "thepienews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-achieving-greater-accuracy-in-real-time-vision-processing-with-transformers.md",
-      "title": "Achieving Greater Accuracy In Real-Time Vision Processing With Transformers",
-      "excerpt": "Transformers, first proposed in a Google research paper in 2017, were initially designed for natural language processing (NLP) tasks. Recently, researchers applied transformers to vision applications and got interesting results.",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/achieving-greater-accuracy-in-real-time-vision-processing-with-transformers/",
-      "originalUrl": "https://semiengineering.com/achieving-greater-accuracy-in-real-time-vision-processing-with-transformers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/Synopsys_Vision-Processing-with-Transformers-Fig2_transformer-cnn.jpeg",
-          "width": 640,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T00:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
