@@ -2,6 +2,145 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2022-09-21-arm-continues-its-datacenter-drive-with-neoverse-2.md",
+      "title": "Arm Continues Its Datacenter Drive With Neoverse 2",
+      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives in as ARM recently announced Neoverse 2 – an updated IP portfolio designed to achieve greater performance, efficiency, and security gains. Matt unpacks Neoverse 2 and what this means for enterprise IT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632b24e9f617a31a3a44b11e/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/amp/",
+      "publishedDateTime": "2022-09-21T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar.md",
+      "title": "India is building a database for companies to train AI models: Rajeev Chandrasekhar",
+      "excerpt": "Chandrasekhar said it will be ‘one of the largest datasets programs where anonymized non-personal data will be available for the entire AI ecosystem’",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar-11663770780027.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar-11663770780027.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/09/21/600x338/PTI07-18-2022-000319B-0_1663771171118_1663771171118_1663771204375_1663771204375.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar/amp-11663770780027.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar/amp-11663770780027.html",
+      "publishedDateTime": "2022-09-21T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-robotics-programming-is-becoming-easier-but-improvements-are-still-needed.md",
+      "title": "Robotics Programming is Becoming Easier, But Improvements are Still Needed",
+      "excerpt": "CPGs also have simpler interfaces on the mind. “We need simpler diagnostics and more ... It also has the benefit of connecting multiple robots to one “shared brain,” allowing robots to be controlled through one centralized system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/factory/robotics/article/22445407/robotics-improvements-in-high-demand-as-technology-progresses",
+      "originalUrl": "https://www.automationworld.com/factory/robotics/article/22445407/robotics-improvements-in-high-demand-as-technology-progresses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2022/09/Robots_Programming_2.632cc5ad7bb47.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-brightflow-ai-aims-to-spotlight-small-business-cash-flow.md",
       "title": "Brightflow AI aims to spotlight small business cash flow",
       "excerpt": "Brightflow AI automates financial services and disseminates that information in a way that a business owner can understand.",
@@ -1068,145 +1207,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-smart-microrobots-walk-autonomously-with-electronic-brains.md",
-      "title": "Smart microrobots walk autonomously with electronic 'brains'",
-      "excerpt": "Researchers have installed electronic 'brains' on solar-powered robots that are 100 to 250 micrometers in size -- smaller than an ant's head -- so that they can walk autonomously without being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220921210054.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220921210054.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles.md",
-      "title": "Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles",
-      "excerpt": "Nvidia revealed a next-generation automotive-grade chip that will unify a wide-range of in-car technology and go into production in 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/DRIVE-Thor-GTC-Fall-22.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/",
-      "publishedDateTime": "2022-09-20T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
-      "title": "Nvidia unveils gaming chip with AI features, taps TSMC for manufacturing",
-      "excerpt": "Nvidia announced chips for video gamers that use artificial intelligence (AI) to enhance graphics. Nvidia has also selected Taiwan Semiconductor Manufacturing (TSMC) to make the processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomlead.com/latest-news/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652",
-      "originalUrl": "https://www.telecomlead.com/latest-news/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecomlead.com/wp-content/uploads/2021/04/Nvidia-chip-business.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecom Lead",
-        "domain": "telecomlead.com",
         "images": null,
         "publishers": null,
         "authors": null

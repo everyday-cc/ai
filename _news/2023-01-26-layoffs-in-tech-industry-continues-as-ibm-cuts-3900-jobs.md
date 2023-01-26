@@ -101,6 +101,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "IBM slashes 3,900 roles, SAP chops 3,000"
+    excerpt: "The company announced the move on Wednesday, stating that it would cut 3,900 jobs, or 1.5% of its worldwide workforce, as part of asset divestment. IBM chief financial officer James Kavanaugh said the layoffs are related to the previously announced spinoff and sale of Kyndryl,"
+    publishedDateTime: 2023-01-26T10:26:00Z
+    webUrl: "https://www.computing.co.uk/news/4066156/ibm-slashes-900-roles-sap-chops"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 24
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/761d442/e1928f0b-a251-4880-a97c-6139061eb2ab/14/IBM-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "IBM cuts 3,900 jobs after muted consulting demand hits quarterly revenue"
     excerpt: "IBM Corp on Wednesday said it would lay off 3,900 people as part of some asset divestments and posted flat fourth-quarter revenue due to lackluster demand for its consulting services.Big Blue spun-off its large and laggard managed infrastructure business,"
     publishedDateTime: 2023-01-25T22:20:00Z

@@ -57,6 +57,20 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Lloyds Bank invests in car payment FinTech"
+    excerpt: "Lloyds Banking group has invested £4 million in “all-in-one” motoring app Caura. According to the FinTech, many of the 30 million drivers in the UK use between eight and 10 apps and websites to manage their vehicles."
+    publishedDateTime: 2023-01-26T12:02:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Lloyds_Bank_Invests_In_Car_Payment_FinTech.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/LloydsBank.jpg"
+        width: 515
+        height: 215
+        isCached: true
   - title: "Top 10 fintech disruptions to watch out for in 2023"
     excerpt: "From new technologies to tough regulations for crypto, 2023 is already looking like a year of change for fintech."
     publishedDateTime: 2023-01-24T12:10:00Z

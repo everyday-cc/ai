@@ -34,15 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Five Ways That Artificial Intelligence Is Revolutionizing Web Development And Digital Marketing"
-    excerpt: "Artificail Intelligence Assisted Web Development Is Now A Reality The future is here - and companies are now taking advantage of"
-    publishedDateTime: 2023-01-21T19:26:00Z
-    webUrl: "https://menafn.com/1105460254/Five-Ways-That-Artificial-Intelligence-Is-Revolutionizing-Web-Development-And-Digital-Marketing"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
   - title: "Viva la revolution! AI use cases in B2C commerce – it’s time to move forward"
     excerpt: "He shared his perspectives on the use of AI and machine learning for commerce brands. Fulfilling the primary use case for AI The primary AI use case for e-commerce and marketing focuses on data, according to Walker."
     publishedDateTime: 2023-01-24T10:11:00Z

@@ -2,6 +2,145 @@
   "page": 150,
   "value": [
     {
+      "path": "_news/2022-09-13-heres-the-exclusive-16-slide-pitch-deck-that-startup-alcatraz-ai-used-to-raise-25-million-to-open-doors-with-facial-recognition.md",
+      "title": "Here's the exclusive 16-slide pitch deck that startup Alcatraz AI used to raise $25 million to open doors with facial recognition",
+      "excerpt": "AI startup Alcatraz AI's funding was led by global VC firm Almaz Capital, and involved several new and existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9",
+      "originalUrl": "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/631f9683e8b500001850e508?width=1200&format=jpeg",
+          "width": 963,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030.md",
+      "title": "Europe Self-driving Car Market 2022 Top Players, Emerging Demand, Business Profit Analysis and Expansion Strategies by 2030",
+      "excerpt": "The Europe Self-driving Car Market is expected to expand at a CAGR of 49.9%, leading to global revenue of USD 38.51 Bn by 2024. The key players in the Europe Self-driving Car Market are Apple, Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-natural-language-processing-nlp-market-research-2030-key-growth-factors-and-opportunity-analysis.md",
+      "title": "Natural Language Processing (NLP) Market Research, 2030 | Key Growth Factors And Opportunity Analysis",
+      "excerpt": "The high implementation cost is one of the major factors for businesses accessing natural language processing solutions through cloud-based deployments. PORTLAND , PORTLAND, OR, UNITED STATE ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104855393/Natural-Language-Processing-NLP-Market-Research-2030-Key-Growth-Factors-And-Opportunity-Analysis",
+      "originalUrl": "https://menafn.com/1104855393/Natural-Language-Processing-NLP-Market-Research-2030-Key-Growth-Factors-And-Opportunity-Analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-09/13/EP_e1e64image_story.jpeg",
+          "width": 738,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MENAFN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
       "title": "Truly autonomous cars may be impossible without helpful human touch",
       "excerpt": "Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly, especially when encountering unexpected incidents.",
@@ -986,153 +1125,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-biden-to-hit-china-with-broader-curbs-on-us-chip-and-tool-exports.md",
-      "title": "Biden to hit China with broader curbs on US chip and tool exports",
-      "excerpt": "The Biden administration plans next month to broaden curbs on U.S shipments to China of semiconductors used for artificial intelligence and chipmaking tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports",
-      "originalUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/384e1113-3270-4bae-b62e-e27212b6cd05/8edd5d67-6702-4141-a355-04c14d7d9b45/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp",
-      "publishedDateTime": "2022-09-12T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-why-the-explainable-ai-market-is-growing-rapidly.md",
-      "title": "Why the explainable AI market is growing rapidly",
-      "excerpt": "The explainable AI market is booming due to regulations requiring visibility into the hows and whys of AI model predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/",
-      "originalUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/",
-      "publishedDateTime": "2022-09-12T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-tighter-vc-capital-forces-ai-startups-to-face-the-music.md",
-      "title": "Tighter VC capital forces AI startups to face the music",
-      "excerpt": "A new Pitchbook report shows that funding for AI startups isn't plentiful as it once was, with some struggling more than others.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
-      "originalUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

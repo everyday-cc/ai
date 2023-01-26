@@ -101,6 +101,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "IBM slashes 3,900 roles, SAP chops 3,000"
+    excerpt: "The company announced the move on Wednesday, stating that it would cut 3,900 jobs, or 1.5% of its worldwide workforce, as part of asset divestment. IBM chief financial officer James Kavanaugh said the layoffs are related to the previously announced spinoff and sale of Kyndryl,"
+    publishedDateTime: 2023-01-26T10:26:00Z
+    webUrl: "https://www.computing.co.uk/news/4066156/ibm-slashes-900-roles-sap-chops"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 24
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/761d442/e1928f0b-a251-4880-a97c-6139061eb2ab/14/IBM-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Layoffs in tech industry continues as IBM cuts 3,900 jobs"
     excerpt: "Despite the planned layoffs, which would impact 1.5% of its workforce, IBM still plans on hiring more within \"higher growth areas\"."
     publishedDateTime: 2023-01-26T05:16:00Z
@@ -130,6 +144,6 @@ related:
         height: 676
         isCached: true
 
-secured: "sPXZjLzH6VfE+dXQQyxeT/rx3pbHXKuumkKopN3nGalIigd9p5dyMM+iCAOc+AMosnFWMf5FzJmob0WuD92uRcd2Kqtld/O5HDLFf9bTdOGEg3VFmMkozU3GN46PL2pGaZgBI871x40RTPZJ5Zd6AgxdxFS4OJtdUSY0DhIPbnsPlvwpc2h3bb5D14B6Grlk6vpoO6FNOb2s5C8QRww49f1vhRS6YUtNlR2l+BifhIX5p0JZ3JpIBTvPg8+m7JhmU2vOSr3KqcXqvKgF1jr3mrfUjEY1DoNI183qM2tHYTegJ1CzMUu0Lg6nnP8P4VP+EOKaq0YWzuGtvIur4GGQXIe90gZ+3EIHmsfl1Rrjnw0=;BQm5KI++LUus45JBsQ2Whw=="
+secured: "QrJbktICgD35uXy4tqAfY3EoVdGds5l4kgurvG+V5kFPEnC4DQG0oAa4W8HrG4KRFMvZwXs5IFTkAIHsDpJo31klLttT4bvI5W4FOYr5tKrl/jUroEMNOHs4EpuEov6d1mS4F9O8PkV4A13JhKKdbjVLLThHERxuvc/bZvAeqpJyNv/VDvK5oBPOSJWszTgyK6zM+6grVqvv6QjPk8NLHebUdzpyq1Y1V+tKCU390bZRQBLPmYaoi9hTC4AEZqfAKWiagykIuGD3EodMMcyQu54hk6K4TyIPr7ya6+c/3tQzUjRe1AayvyKQdRe/O9E0nynDTuDUz6zQ4wbwM34k5KShH5OY1i68D/Z1HmeWcxGuxjDSRDFn2O+ajx8UwtdjaoxFSncTli7gj6hOrF9H/9XbbajV7h/rurTrswH9Rkz2O+fc6qRyFIwUZWY9E+pxVaVZmNVa7UjLcaSZ8tMRDUEzUI2BVymCP3pYuYhWAvdEuk3xo2po98HEjuDajmE4lroN5KKRV7Wwip4XNgccDQ==;QBrNFodBOz1jMzFZ47jH3w=="
 ---
 

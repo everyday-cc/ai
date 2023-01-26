@@ -24,6 +24,17 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "Assessing the Threat of AI Misuse in Disinformation Campaigns"
+    excerpt: "The proliferation of AI could allow hostile and unfriendly actors to create and spread disinformation more easily and effectively, but there are a series of measures we can take to mitigate these harms."
+    publishedDateTime: 2023-01-26T11:01:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/assessing-the-threat-of-ai-misuse-in-disinformation-campaigns/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
+
 secured: "kswCKoX/TB7QwTdzLx1kw2bmuWLEAxBaBNKPvMCyasPml6MYGtDRd6JJsPOMxLTu+NvHlX2z9y3ML0m28UsIjPRTrk8K3cQlHgGEL95TnQMTHr2o6e8f4G+Cx/MPVaHd5B7cWLpMlrO+uYvAcJMs1I9gubQy14td1Cj9ucqHmKjYNMGwS3e836nP7VqCCevXx/PSCtfs7bBsStPo1WDMTp1Hbjp/A6bzm3W18z8JIxF5dh2vuGBcR3ejZS9L9vPx3fZOykfjDj/GEStES9dz2TnEKrLXP9DnScBiLr3e98tU3mbuk7AyE5vZInsH6OBjkyGr2Su1UYUCD1wGKW4b3sQbJ6S/PCG8a6jVf968QYU=;Z7pUG5RiooEmrETCbt8/bw=="
 ---
 

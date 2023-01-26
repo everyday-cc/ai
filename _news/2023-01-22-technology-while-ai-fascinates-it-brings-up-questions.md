@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence: technology of the future"
-    excerpt: "Join us this Friday as we talk with experts about concerns, the positives, and the future of artificial intelligence in the world as we know it."
-    publishedDateTime: 2023-01-24T00:01:00Z
-    webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
-    type: article
-    provider:
-      name: WFIU
-      domain: indianapublicmedia.org
-    quality: 41
-    images:
-      - url: "https://indianapublicmedia.org/images/news-images/dsc03239.jpg"
-        width: 1200
-        height: 803
-        isCached: true
 
 secured: "EiOdRsUP161Rj5h+EZh/aXncJS1mU3KTMEDAfKpq/gXRQhzg/dwNGR0SSu+yoDMRusAe/7PafyuWV0UyLxs9dUrymctHbIOM3nvTm4UkLNgLKLZPHFTkqcMkJGxfxBsZyoX9a3NyPsPsDglG/kcKD92+QLgezNofANdI2vp1rZdldzIOZIEXaazj5Qfb0vDz1ujR9tdruY0B5IKW1oWnLESHLZjb83RAzF5IKWrCYyWcu//AKJIpbVa2ZXjZEkWosJxkrPxk3iHe1MYtoV5PjUTO9VcC0DJHmvAp6jHBYodYHVvo9v/zVh9BE81fMWQeRXwmABsAQegP2y7C9A5RbKXcQ1uqzuCukutTkTaDDBD83+g06AZLM9JUIRUsVOZLEfsStcnBe65+rQhawt6AXUjIJfUJHlnDQliVxjCQ2Rg5s1ihyIKmjGmRjXIpm7GA5Ql7+5+VnnAbwy9i+mnOLmEMffiHdQahIwNJX5J9FhrfBzDgTjyI/5zWbtQUyC8oqPHiq9FmFVlTc0usvQ6NCA==;yMoMa3ya7GWQKADaYVeTaA=="
 ---

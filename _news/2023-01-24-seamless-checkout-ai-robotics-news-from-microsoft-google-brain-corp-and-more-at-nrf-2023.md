@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checko
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/"
 type: article
 quality: 125
-heat: 365
+heat: 375
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/10/10/cso_microsoft_cloud_app_security_cloud_apps_by_thinkstock_625397192_3x2_1500x1000-100801369-large-100934412-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Q2 Results: Approach Azure And AI Hype With Caution"
+    excerpt: "Microsoft posted solid Q2 results by topping guidance in nearly each segment, and restoring faith in Wall Street's visibility of Azure. Satya Nadella's vision and execution have been second-to-none, and while AI is in its infancy, early practical use cases ..."
+    publishedDateTime: 2023-01-26T12:30:00Z
+    webUrl: "https://seekingalpha.com/article/4572522-microsoft-q2-earnings-approach-azure-ai-hype-caution"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 69
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341937940/image_1341937940.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
         isCached: true
   - title: "Microsoft Invests Billions More Into AI, Which It Believes Could Be As Big As The Internet"
     excerpt: "Microsoft believes AI could be a \"transformative\" technology that could make an impact as big as the PC, the internet, and mobile devices."

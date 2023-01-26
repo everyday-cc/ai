@@ -83,34 +83,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-01-24T18:46:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/24/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-01-25T21:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Learning to lie: AI tools adept at creating disinformation"
     excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda."
     publishedDateTime: 2023-01-25T04:19:00Z
@@ -132,6 +104,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "mklXVKosmMyhAqcV/Dmab+Mq735LaXTneMCaUubFNY3cEo/Nn+BR6WRg8K7pDMhASkAae0qWbk+5N5+1jWpDedSv5Kt5bN9O6oJz0WBcdqVTRALaPY7OiJgWRmIawXvR9EG/HSJmAs33E4sLZkN68iN59JivLV2/ZAHjSvk7zww55Jr1a9w2hL5b+rb7L0NNfVuLMDI3jHF7oJYOY66BpbK2LOl57NIlyzhPHGR0XRorBPSUwbpHnEzBvCUWFqXKmeiBAHe/IyfUNpWQRH4/8pZuiCtfSRFZvC4Lpa79j79S0IpQ2llq23c3LE7yw3XMU3BXC2xjpPw0ZCP8/B/FjNuPBkB8XAA2U2HhCuonk+I=;e+JY0XiJUPeyCxjvwn+1hA=="
+secured: "uBRjShr+MY8E6kwTQLDGy6RycqtE/BWcwcHDw8vuujIsbD2XoCZ984NtgKqlpFp5IlNCAnYFqjTGJWYcj384g5TPVO2p1rtzupeS1zWgDikCbJQYVDRtBXp1GyKmB/Zx/q5Gav0VkmlbuLXUXx2tvvav9PkPWzK5R0gM/b8dxK1JPL7t3DoRNszaJSUHCjiECEJanzjYl7xKprChgJcFAMpDVSoE/PU1Dj8fU+UO3CJY0vFEgIuZ+se+N0o77jjn6T+x0VTeDqm/LHrRJXTVVf8sOBVopKprgf43wMxEObFdKbxRC88JhjBzhDt+nSZ8TrIn/jA10bLhEqiAUnVcmWnGUGCebgiGwpYveh+c7wQ=;gqRT+cKVPX51XOAHzl5KhQ=="
 ---
 

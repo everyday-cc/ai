@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-09-artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group.md",
+      "title": "Artificial Intelligence (AI) Consulting Market Recovery and Impact Analysis Report | IBM, Mckinsey, Boston Consulting Group",
+      "excerpt": "Artificial intelligence (AI) consulting is the process of utilizing AI technologies and tools to solve business problems. As a new and emerging field, AI consulting is still in its early stages ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-consulting-market-recovery-and-impact-analysis-report-ibm-mckinsey-boston-consulting-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-8-ways-to-reduce-ai-burnout.md",
       "title": "8 ways to reduce AI burnout",
       "excerpt": "\"Corporations should take extra care with both transparency in AI decisions and the ethics and governance that are applied. Explainable AI from top to bottom and transparency are two important ...",
@@ -1337,40 +1371,6 @@
       "provider": {
         "name": "NBC4 Columbus",
         "domain": "nbc4i.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives-using-ai.md",
-      "title": "IBM In Deal With Saudi's SDAIA, Ministry Of Energy To Speed Up Sustainability Initiatives Using AI",
-      "excerpt": "(RTTNews) - IBM (IBM) Tuesday said it has signed a strategic agreement with Saudi Arabia's Saudi Data, Artificial Intelligence Authority or SDAIA and Ministry of Energy to accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives?amp",
-      "publishedDateTime": "2022-09-26T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

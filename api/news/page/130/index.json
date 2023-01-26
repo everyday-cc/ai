@@ -2,6 +2,153 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-09-29-former-gop-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues.md",
+      "title": "Former GOP congressman: I “came to believe” some far-right colleagues had “serious cognitive issues”",
+      "excerpt": "In a new book by former Rep. Denver Riggleman, R-Va., in his last days serving in the House he admits he grew more and more disturbed by the wild ravings of two of his colleagues who were all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2022/09/27/former-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues_partner/",
+      "originalUrl": "https://www.salon.com/2022/09/27/former-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues_partner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/12/louie-gohmert-12121.jpg",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-amazon-wants-to-cocoon-you-with-ambient-intelligence.md",
+      "title": "Amazon Wants to Cocoon You With ‘Ambient Intelligence’",
+      "excerpt": "The company’s new smart gadget uses radar to track your breathing while you sleep. It’s part of Amazon’s plan to weave its products invisibly into your life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/",
+      "originalUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/633481ccc4d3ebc9237bc77d/master/pass/Halo_Rise_Pull-apart_01_RGB_science.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp",
+      "publishedDateTime": "2022-09-28T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex.md",
+      "title": "Build an AI-powered virtual agent for Genesys Cloud using QnABot and Amazon Lex",
+      "excerpt": "The rise of artificial intelligence technologies enables organizations to adopt and improve self-service capabilities in contact center operations to create a more proactive, timely, and effective customer experience. Voice bots, or conversational interactive voice response systems (IVR), use natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/genesys-cloud-qna-bot.jpg",
+          "width": 1532,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T09:29:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-make-your-very-own-ai-generated-pokemon-like-creature.md",
       "title": "Make your very own AI-generated Pokémon-like creature",
       "excerpt": "After nine generations of Pokémon, it can sometimes feel like the game developers are just pulling random words from a hat and seeing what they come up with. I still can’t decide if Klefki, the sentient keyring Pokémon,",
@@ -1008,135 +1155,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group.md",
-      "title": "TCS Named a Leader and Star Performer in Microsoft Azure Services by Everest Group",
-      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) has been recognized as a Leader and Star Performer in Everest Group’s PEAK Matrix® for Microsoft Azure System Integration Capabilities .TCS was",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
-      "originalUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-named-a-leader-and-star-performer-in-microsoft-azure-services-by-everest-group/",
-      "publishedDateTime": "2022-09-27T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-the-j7-is-irobots-first-two-in-one-vacuum-and-mop-combo.md",
-      "title": "The j7+ is iRobot’s first two-in-one vacuum and mop combo",
-      "excerpt": "Robot has revealed the Roomba Combo j7+, a premium robot vacuum featuring a retractable mop that allows it to both mop and vacuum without input from the user.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
-      "originalUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/Roomba-j7-Lifestyle.jpg?p=1",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
-      "publishedDateTime": "2022-09-27T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
-      "title": "AWS Announces General Availability of AWS IoT FleetWise",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/",
-      "originalUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

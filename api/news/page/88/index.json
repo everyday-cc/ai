@@ -2,6 +2,126 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-11-04-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canadas-preeminent-technology-innovation-conference.md",
+      "title": "More than 300 industry leaders and researchers will speak this month at WeaveSphere, Canada’s preeminent technology innovation conference",
+      "excerpt": "Keynote speakers include Dr. William Barry, an artificial intelligence (AI ... Marcel Mitran, IBM Fellow, IBM Master Inventor and the CTO for Cloud Platform for zSystems and LinuxONE, will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
+      "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
+      "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
+      "originalUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
+      "publishedDateTime": "2022-11-03T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-amd-unveils-new-radeon-rx-7900-xtx-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000.md",
+      "title": "AMD unveils new Radeon RX 7900 XTX GPU with RDNA 3 to take on Nvidia RTX 4000",
+      "excerpt": "In addition to powering AMD's PC graphics cards, the company's GPU cores are also found on consoles ... that shares resources between rendering AI and ray tracing to make most effective use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/hardware/computers-desktops/amd-unveils-new-radeon-rx-7000-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000",
+      "originalUrl": "https://www.windowscentral.com/hardware/computers-desktops/amd-unveils-new-radeon-rx-7000-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eeVCzAfsfXxWK6Gxzp9JHo-1200-80.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-destiny-robotics-megi-kavtaradzes-entrepreneurial-adventure-in-the-usa.md",
       "title": "Destiny Robotics - Megi Kavtaradze's entrepreneurial adventure in the USA",
       "excerpt": "The goal of Destiny Robotics is to create socially intelligent, human-like robots that can interact with users in-depth. The main robot of the company is named Destiny. It has a natural appearance and a pleasant voice that is welcoming to individuals of all ages and currently,",
@@ -1020,135 +1140,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030.md",
-      "title": "Machine learning Market Analytical Overview and Size (Value and Volume) by 2030",
-      "excerpt": "financial services and insurance (BFSI), automotive, healthcare, government and others. The trend of using machine learning techniques in the healthcare sector, financial sector and retail sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/caeb17642ba63e541976d733a2d5bd53ec7092bd-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-if-youre-a-facebook-user-youre-also-a-research-subject.md",
-      "title": "If you're a Facebook user, you're also a research subject",
-      "excerpt": "According to its public database of published research, Facebook's written more than 180 public papers about artificial intelligence but just one study about elections, based on an experiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforum.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
-      "originalUrl": "https://www.inforum.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inforum",
-        "domain": "inforum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-data-quality-is-also-an-ai-problem.md",
-      "title": "Data Quality Is Also An AI Problem",
-      "excerpt": "Any AI processes that use traditional data sources will be just as dependent on those sources being of high quality as any other analytic processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63122d3b4220a3347b2931c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/11/03/data-quality-is-also-an-ai-problem/amp/",
-      "publishedDateTime": "2022-11-03T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

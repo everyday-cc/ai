@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-28-facial-recognition-can-help-conserve-seals-scientists-say.md",
+      "title": "Facial recognition can help conserve seals, scientists say",
+      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-research-assistant-or-research-associate-in-computer-vision-and-machine-learning.md",
       "title": "Research Assistant or Research Associate in Computer Vision and Machine Learning",
       "excerpt": "Apply(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds)",
@@ -1318,58 +1352,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-woman-revealing-why-she-shows-only-half-her-face-on-work-calls-melts-hearts.md",
-      "title": "Woman Revealing Why She Shows Only Half Her Face on Work Calls Melts Hearts",
-      "excerpt": "A woman melted hearts online after revealing the reason she shows only half her face on work calls ... This kind of non-detailed phonetic recognition is also the way babies process speech up to the age of about 14 months and goes some way toward explaining ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080",
-      "originalUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2150294/dog-attending-work-meeting-melts-hearts.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/woman-tiktok-only-shows-half-face-work-calls-melts-hearts-dog-1760080?amp=1",
-      "publishedDateTime": "2022-11-16T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

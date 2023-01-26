@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intellig
 cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence: technology of the future"
-    excerpt: "Join us this Friday as we talk with experts about concerns, the positives, and the future of artificial intelligence in the world as we know it."
-    publishedDateTime: 2023-01-24T00:01:00Z
-    webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
-    type: article
-    provider:
-      name: WFIU
-      domain: indianapublicmedia.org
-    quality: 41
-    images:
-      - url: "https://indianapublicmedia.org/images/news-images/dsc03239.jpg"
-        width: 1200
-        height: 803
-        isCached: true
   - title: "Technology: While AI fascinates, it brings up questions"
     excerpt: "Like any technology, whether AI is a net gain or net loss for society depends on how we humans choose to use it. On the positive side, advancements in AI can do things like help doctors to diagnose illnesses or help scientists combat climate change."
     publishedDateTime: 2023-01-22T11:00:00Z
