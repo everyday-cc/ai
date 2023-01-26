@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-15-y-robot-campus-researchers-push-the-boundaries-of-robotics.md",
+      "title": "Y, Robot: Campus researchers push the boundaries of robotics",
+      "excerpt": "The Robotic Vision Lab focuses on using artificial intelligence and machine learning to achieve vision in robots. Their research spans self-driving cars, facial recognition and food inspection. Casey Sun, a Ph.D. student in the lab, explained how Robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/",
+      "originalUrl": "https://universe.byu.edu/2022/11/14/y-robot-campus-researchers-push-the-boundaries-of-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://universe.byu.edu/wp-content/uploads/2022/10/2203-65-4-1920x1280.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T12:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Digital Universe",
+        "domain": "byu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-can-the-armys-robotics-programs-build-ai-the-silicon-valley-way.md",
       "title": "Can the Army’s robotics programs build AI the Silicon Valley way?",
       "excerpt": "DIU has brokered a potentially groundbreaking contract between the Army’s Robotic Combat Vehicle program and a small California firm that trains AI algorithms to navigate off-road.",
@@ -1338,41 +1381,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-the-rise-of-robotics-companies-to-watch-amid-rising-shifts-to-automation.md",
-      "title": "The Rise of Robotics: Companies to Watch Amid Rising Shifts to Automation",
-      "excerpt": "I’m talking about the rise of robotics, and contrary to the doomsayers, it has the potential to raise the standard of living faster than any other technology mankind has ever experienced. We are at the beginning of what will likely be exponential growth in robotics technology thanks to ongoing advances in Artificial Intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation",
-      "originalUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-rise-of-robotics%3A-companies-to-watch-amid-rising-shifts-to-automation?amp",
-      "publishedDateTime": "2022-11-04T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

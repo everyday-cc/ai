@@ -2,6 +2,154 @@
   "page": 141,
   "value": [
     {
+      "path": "_news/2022-09-20-the-human-brain-is-far-more-complex-than-ai-researchers-imagine.md",
+      "title": "The human brain is far more complex than AI researchers imagine",
+      "excerpt": "leads some AI chip designers towards hybrid digital/analog architectures. The physical properties of a circuit, like current and resistance, perform the additions and multiplications on data in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369061/the-human-brain-is-far-more-complex-than-ai",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369061/the-human-brain-is-far-more-complex-than-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816534/itpro/2018/11/shutterstock_25991188.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-the-promise-of-sustainable-ai-may-not-outweigh-the-organizational-challenges.md",
+      "title": "The promise of sustainable AI may not outweigh the organizational challenges",
+      "excerpt": "Enterprises can use Artificial Intelligence (AI) and other smart technology to solve sustainability challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/",
+      "originalUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/4-How-data-reinforces-commitments-to-sustainability.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/amp/",
+      "publishedDateTime": "2022-09-19T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-editorial-even-robots-need-ethics-training.md",
+      "title": "Editorial: Even robots need ethics training",
+      "excerpt": "\"Bias must be eliminated from the data used in AI algorithms, beginning with a more representative group of artificial intelligence developers. Either artificial intelligence algorithms need to have corrective measures or the solutions to our growing world just got a lot more complicated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytarheel.com/article/2022/09/opinion-ethics-and-diversity-in-ai-technology",
+      "originalUrl": "https://www.dailytarheel.com/article/2022/09/opinion-ethics-and-diversity-in-ai-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://snworksceo.imgix.net/dth/bd7f831e-3cb4-41b7-8819-91e143cc2931.sized-1000x1000.jpg?w=800&h=600",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Tar Heel",
+        "domain": "dailytarheel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-ai-enabled-laughing-robots-are-no-joke.md",
       "title": "AI-Enabled Laughing Robots are No Joke",
       "excerpt": "We propose that our system can be used for situated robot interaction and also emphasize the need for integrating proper empathetic laughs into conversational robots and agents",
@@ -1024,127 +1172,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-name-your-price-on-this-aws-ebook-bundle.md",
-      "title": "Name Your Price On This AWS eBook Bundle",
-      "excerpt": "As of 2022, AWS Cloud is available in 87 zones and “27 geographic regions around the world, with announced plans for 21 more Availability Zones and 7 more AWS Regions in Australia, Canada ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/",
-      "originalUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/09/sale_20142_article_image.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/amp/",
-      "cdnAmpWebUrl": "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/name-your-price-on-this-aws-ebook-bundle/amp/",
-      "publishedDateTime": "2022-09-18T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Black Enterprise",
-        "domain": "blackenterprise.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-even-smartest-ai-models-dont-match-human-visual-processing-study.md",
-      "title": "Even smartest AI models don't match human visual processing: Study",
-      "excerpt": "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
-      "originalUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
-      "publishedDateTime": "2022-09-18T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-user-clip-chinese-cognitive-warfare.md",
-      "title": "User Clip: Chinese “Cognitive” Warfare",
-      "excerpt": "User-Created Clip by bigxav September 19, 2022 2022-09-19T13:10:32-04:00https://images.c-span.org/Files/61c/002/1663607466_002.jpgHow our adversaries are brainwashing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
-      "originalUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Member of Congress reads AI-generated speech on House floor"
-excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking. The brief"
-publishedDateTime: 2023-01-25T19:47:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
-webUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-strange-news/ap-member-of-congress-reads-ai-generated-speech-on-house-floor/amp/"
+excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
+publishedDateTime: 2023-01-25T21:31:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+webUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?strip=1"
-    width: 512
-    height: 512
+  - url: "https://s.abcnews.com/images/US/230125_vod_onlocation_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -215,6 +214,6 @@ related:
         height: 348
         isCached: true
 
-secured: "0Y+sSEgQDVzyOH58dVZCsyBwOw0QuaAXCfFMSD/68GbtPLjtCZikwKHeWjhjKIxIbmVDtNvVCe+HCxtPGVSuTOxj83RgrO1nCqK52aPsnemC70xNvRqXs4e0Oeos4LwYuDzEdHsAvfXiw/R4slflg8f96wPXAL5tzn7rmKj6SHTzsHt5s8/37TPo3VfeH6h451E0ie7RMUNQO5lee8cjNZKNoZ3tPpK192jGZiwrAfEP5Y4HiQx6L+FzYr8fDFJGHnnhR6FGKGU0BD37jJT7TUQc2fY1HcydwpnYqRCGWFpToyCgcg8Of0fs2t2z/Ap3bE1RGbq1vqKwkhz7NpdUtjXz2JC6j4VQvdjiHumRN+Y=;ar55XrZD4XeAZTduns8m0w=="
+secured: "bM+UAqT5y7u5/w/BAqFROPxldqAzbiDULio4zzQxwdtcTooPM+8V+iWHdczfIBtqD//aYE+bK/wdMKfr9/0iypAJJQkvy/PHcMg9yuP1tvRQA4yPwKDA2tISjSfLRyNqkIYNgFyjwNAxhSH0jxRYlfrjHQCNE8jLNDNhjG4CRIhsZ6w0JbbgZOJGUlEWgZwKakdz3TXGZ0faH5ohitrYSkDWuO3cebCyGb/+9Hl4fotC1YnTQSD9A4qlbDe6o+NAN7BCsfm2+9OFygTkOXFsDYQ30NLiqi34mnUojYuvl90a9ilkp4Vg03GHzgjAyCGJRBPtfxvH9uL+vsiX0lspdYvRw/jCE26x5ChG66X7YJs=;lxvWwHQyAydP8ZOfB07Hqw=="
 ---
 

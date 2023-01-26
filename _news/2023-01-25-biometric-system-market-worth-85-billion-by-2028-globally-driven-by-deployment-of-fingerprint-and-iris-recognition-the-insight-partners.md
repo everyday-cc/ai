@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30568097/biometric-s
 webUrl: "https://www.benzinga.com/pressreleases/23/01/g30568097/biometric-system-market-worth-85-billion-by-2028-globally-driven-by-deployment-of-fingerprint-and-"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Forecast 2028 for the Voice Recognition Biometrics Market in terms of size, returns, gross margin, and market share"
+    excerpt: "Voice Recognition Biometrics Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2023-01-23T07:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-voice-recognition-biometrics-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "x1kFn4cZ4lJr3mn3hqOoBeNJMOGlKrN12yjhuO8y7kacOUCpo3zK3Qfb2jjZM4/uDnv6dntPedU7k40wVR5jUbxOHdE4Em1cBIpPtqO61VAPcTjis2oH513WtOOVveBpKcV20cwmFJo5d0z9BardGN4Zoj2TDhKIr/flTlhIsLQyiyrkjqd1YKxbgVvQdkQ9WNJ3DxJug+GtharKOgtIbGwYKvk+i+HbD0SnwtpYbsQC0u8pWU8KCoi0KfuI/BB5Kta10NMEAsrrpoQI767pqx23AqVvshcB6u4K6rsDCWUn5HmdoVrf8Q1WVlFkjgODDOxoSuPFKSquwDthzeNo8zaTu3XX2j+fvyEF2TSwAuI=;fzSLl7OFsbT2ratJYwsCHQ=="
 ---

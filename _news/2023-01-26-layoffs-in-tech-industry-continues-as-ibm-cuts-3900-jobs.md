@@ -73,6 +73,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "IBM cuts 3,900 jobs as it misses annual cash target"
+    excerpt: "IBM last night announced 3,900 layoffs as part of some asset divestments and missed its annual cash target, dampening cheer around beating revenue expectations in the fourth quarter."
+    publishedDateTime: 2023-01-26T06:42:00Z
+    webUrl: "https://www.rte.ie/news/business/2023/0126/1351909-ibm-to-cut-almost-4-000-jobs/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 24
+    images:
+      - url: "https://img.rasset.ie/001501ca-1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "IBM cuts 3,900 jobs after muted consulting demand hits quarterly revenue"
     excerpt: "IBM Corp on Wednesday said it would lay off 3,900 people as part of some asset divestments and posted flat fourth-quarter revenue due to lackluster demand for its consulting services.Big Blue spun-off its large and laggard managed infrastructure business,"
     publishedDateTime: 2023-01-25T22:20:00Z
@@ -88,6 +102,6 @@ related:
         height: 676
         isCached: true
 
-secured: "zHq7hE6LMkDwTpDxzSTLroonCne4mUYDtOv5xSHyrk60B7ycIeVApjhAlhnA4xW3Vs+uB8JzwxfLik701xy00fohXvbwt5MejbKAH/LCd+p8AYlRKJ9WMPkl7r84J//JrZqCT4I2nYUKshZz3Y4B4dSUxRqTKtp3SWFhjAjpr56MPJeES3r8DAtrdqXyQRnUaN5bCyWoS+BE6PuTy+Kt/RdRlMxOEw8P+wxRmGEjOreVKI3V+08rDWsqFzMbPH/TEaiNtLuReg0wWOgyD9wr1Yga+Cx6FY8LT6WJwu1+4RYQrXQ/9vQP6cIk2YGQLgBc5XDfrXuMqIcCQI96Ow0eB4l5aHaZWenIDUYs6iliifE=;jBvakS4YpQaCu1e6ngg6pg=="
+secured: "2TlPFgPVqnPtvkPLlpzx9W8SCSaUetjV3REAAnrJB6yejXMcO229nQk50DrvZayvumb3bCLZWtsdSRwYXf/cxcblevdFBZ4lNMFD0WLpOzMWdmhdFPYgtgzdWlKQhqdgcSZ5pN+1MXuDGepP9blVqp7F2ursco2xnTHNtybnYwSPFZr1TJO8ZRvg/VEK5Yjo54cHMLR0p7ooKN7nGur0MGxNdL29a7OTDp9zDwHIDpOpehgDbDyPCOHiLrOrYqn2jhKEjuWk+CVgFWvx3jEzDCrdMsLmfx49RPtmif/1GYwrN8k/m4/4bLcnvVZirbZEurPNK8oLn3hPy9IdI5A1lXYIimSF8CZWBntUAQTOJHogH5M2zsz+VSLrlJlEjG5Of57TVEhUTer4JGup6Ch7R0VeCf26Afhz8YGBAl2GQfB9A/GaC03k3YBnRQcYACLI4HuY9cYRTqhuSGy+PpyGYYnc1vs/pGyIthfqB2f5yPLuCupovgoP5edI91llmBIQLOwpDpVUUjZZnd9wm7QYiA==;nC0C25R+8zPivKYIYmjMTQ=="
 ---
 

@@ -2,6 +2,147 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-11-30-how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry.md",
+      "title": "How ‘Zero-Shot’ AI Is Poised To Revolutionize The Chatbot Industry",
+      "excerpt": "\"AI will change the way that we work and run our businesses. Those who are best prepared, and who take advantage of new opportunities now, will reap the rewards.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63876f7248308995a1c8a8b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/",
+      "publishedDateTime": "2022-11-30T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable.md",
+      "title": "AI Is Powerless Without HI: Why Human Intelligence Is Irreplaceable",
+      "excerpt": "Companies are, by and large, in the early stages of becoming truly digital. Digitization includes fully adopting artificial intelligence (AI) and machine learning, investing in tech, and converting all existing information into digital formats. Over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/",
+      "publishedDateTime": "2022-11-30T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-data-center-accelerator-global-market-report-2022-growing-use-of-deep-learning-technology-in-big-data-analytics-boosts-sector.md",
+      "title": "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector",
+      "excerpt": "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/11/30/9721625.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/30/9721625.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-effective-altruism-is-pushing-a-dangerous-brand-of-ai-safety.md",
       "title": "Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’",
       "excerpt": "EA is defined by the Center for Effective Altruism as “an intellectual project, using evidence and reason to figure out how to benefit others as much as possible.” And “evid",
@@ -960,126 +1101,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-study-links-mait-cells-to-cognitive-function.md",
-      "title": "Study links MAIT cells to cognitive function",
-      "excerpt": "MAIT cells, which were discovered in the 1990s, were already known to be the most abundant innate-like T cells in humans and to be particularly numerous in the liver and skin. The Rutgers study ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
-      "publishedDateTime": "2022-11-29T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip.md",
-      "title": "ROHM Develops Ultra-Low-Power, On-Device Learning Edge AI Chip",
-      "excerpt": "Santa Clara, CA and Kyoto, Japan, Nov. 29, 2022 (GLOBE NEWSWIRE) -- ROHM Semiconductor today announced they have developed an on-device learning[1] AI chip (SoC with on-device learning AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.counton2.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/",
-      "originalUrl": "https://www.counton2.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T15:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCBD",
-        "domain": "counton2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-study-cognitive-flexibility-enhances-mathematical-reasoning.md",
-      "title": "Study: Cognitive flexibility enhances mathematical reasoning",
-      "excerpt": "The study was published in the Journal of Numerical Cognition. Proportional reasoning is a cognitive process that involves ratios and proportions to solve a mathematical problem. This reasoning is ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.html",
-      "originalUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-flexibility-1.jpg",
-          "width": 1264,
-          "height": 1264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-cognitive-flexibility-mathematical.amp",
-      "publishedDateTime": "2022-11-29T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

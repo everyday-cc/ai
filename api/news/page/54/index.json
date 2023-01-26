@@ -2,6 +2,136 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-12-02-this-ai-powered-fintech-is-making-strides-is-it-time-to-buy.md",
+      "title": "This AI-Powered Fintech Is Making Strides: Is It Time to Buy?",
+      "excerpt": "The AI-powered insurance fintech got off to a blistering start in its efforts to grab market share, and its stock price exploded after it went public in July 2020, gaining 551% a few months later.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-ai-powered-fintech-is-making-strides:-is-it-time-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/this-ai-powered-fintech-is-making-strides:-is-it-time-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-anavex-surges-40-as-drug-improves-cognitive-function-in-alzheimers-patients-meets-trials-goals.md",
+      "title": "Anavex surges 40% as drug improves cognitive function in Alzheimer's patients, meets trial's goals",
+      "excerpt": "Anavex Life Sciences (NASDAQ:AVXL) said its oral drug ANAVEX2-73 (blarcamesine) met the main goal of improvement in cognitive function in patients with early Alzheimer's disease (AD) in a phase 2B ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3913461-anavex-drug-improves-cognitive-function-in-alzheimers-patients-meets-main-goal-of-trial",
+      "originalUrl": "https://seekingalpha.com/news/3913461-anavex-drug-improves-cognitive-function-in-alzheimers-patients-meets-main-goal-of-trial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1328955938/image_1328955938.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-how-ai-could-help-boost-help-desk-productivity-in-2023.md",
+      "title": "How AI Could Help Boost Help Desk Productivity In 2023",
+      "excerpt": "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
+      "publishedDateTime": "2022-12-02T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds.md",
       "title": "Disney's FRAN is a neural network that can age or de-age actors in five seconds",
       "excerpt": "Disney's Face Re-Aging Network (FRAN) is a neural network that can make actors look older or younger in just five seconds. Artists can still manually adjust the images to make it more realistic ...",
@@ -1071,151 +1201,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-playing-the-piano-boosts-brain-processing-power-and-helps-lift-the-blues.md",
-      "title": "Playing the piano boosts brain processing power and helps lift the blues",
-      "excerpt": "A randomized control trial led by psychologists shows the positive effects learning to play music for just a few weeks has on cognitive abilities. A new study published by researchers at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221202124841.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221202124841.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral.md",
-      "title": "Lensa AI climbs the App Store charts as its ‘magic avatars’ go viral",
-      "excerpt": "The current No. 1 App Store photo app, Lensa AI uses the Stable Diffusion deep learning model to generate artsy \"magic avatars\" for consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/",
-      "originalUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/",
-      "publishedDateTime": "2022-12-01T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-disneys-new-ai-can-make-your-favorite-actor-look-older-or-younger.md",
-      "title": "Disney's New AI Can Make Your Favorite Actor Look Older or Younger",
-      "excerpt": "The process overcomes the \"facial identity loss, poor resolution and unstable results\" that plague other methods, researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
-      "originalUrl": "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/37cc5fef7f5a9a8de450dc85cfd56b9fcb4e29fb/hub/2022/12/01/ab5551c3-7c15-43a9-a8fe-97fda2b142b9/frank.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
-      "publishedDateTime": "2022-12-01T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

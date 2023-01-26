@@ -59,20 +59,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 46
-  - title: "Musk Personally Oversaw Tesla's Staged Self-Driving Video"
-    excerpt: "Tesla CEO Elon Musk personally oversaw the 2016 video that exaggerated Autopilot's self-driving capabilities which is now the subject of a wrongful death lawsuit. The update comes from Bloomberg which claims it's viewed internal Tesla emails attesting to Musk's direct involvement in the video's production."
-    publishedDateTime: 2023-01-21T15:35:00Z
-    webUrl: "https://carbuzz.com/news/musk-personally-oversaw-teslas-staged-self-driving-video"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 39
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1096000/100/1096116.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Tesla's Autopilot system tumbles in self-driving safety ratings"
     excerpt: "Autopilot had once been regarded by the Consumer Reports team as one of the best systems in class, ranking second in the same study last year. It wasn’t as fortunate this year, with the firm ranking it a mere seventh on the list."
     publishedDateTime: 2023-01-25T19:35:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
-excerpt: "NDP Leader Rachel Notley said at a news conference in Edmonton Wednesday that without investment-targeted incentives in the sector, the province is at risk of los"
-publishedDateTime: 2023-01-25T23:39:00Z
-originalUrl: "https://calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c"
-webUrl: "https://calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c"
-ampWebUrl: "https://calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c/amp/"
-cdnAmpWebUrl: "https://calgarysun-com.cdn.ampproject.org/c/s/calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c/amp/"
+excerpt: "Alberta’s Opposition NDP says policy changes from the governing UCP are to blame for the closure of Alphabet Inc.’s DeepMind office in Edmonton and recent layoffs at Benevity in Calgary. On Tuesday, Bloomberg reported the artificial intelligence lab ..."
+publishedDateTime: 2023-01-26T02:14:00Z
+originalUrl: "https://calgaryherald.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/61450778-6c44-4f9f-8103-bb401df25315"
+webUrl: "https://calgaryherald.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/61450778-6c44-4f9f-8103-bb401df25315"
+ampWebUrl: "https://calgaryherald.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/61450778-6c44-4f9f-8103-bb401df25315/amp/"
+cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/61450778-6c44-4f9f-8103-bb401df25315/amp/"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: calgarysun
-  domain: calgarysun.com
+  name: Calgary Herald
+  domain: calgaryherald.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://smartcdn.gprod.postmedia.digital/calgarysun/wp-content/uploads/2023/01/DeepMind-1.jpg?quality=100&strip=all"
+  - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2023/01/DeepMind-1.jpg"
     width: 1000
     height: 750
     isCached: true
@@ -127,6 +127,6 @@ related:
         height: 800
         isCached: true
 
-secured: "taOZqSYw4GpwmD01qIV8PaP1XN8bM7Bv3Iv3SM42SsSTv5cm0p/AMzn+rdFyX2YcILlXa4B85sOY5USTmjYungr9TREK5XqKK2QbQ1F/wj70fjmlVL/H+82zEO4FBSWRl1pnDsr7KuGIu1kL3HJJgala1uALWxe3X1IgFNZ8Gzs0516pp8sKG1rLFswjZKWNIhf5DhIcDNrUadOWToki9oWFrQMOaUMjCZviTiyWMg2mEjTKUIfJ80aUGhXg8VwA3kPZEiMfwFb79e4VQ80+hCIV+chWW5YcoSVOzR/rR2sZPKajdEgOucao+E6oe0f4EzZ3PqYEp6O6ZRSUsD1+LELhbustMS16jJyTyBhPCH0=;eN2QKssfRoim34UcpMMelA=="
+secured: "ZmXA8VU9NEQkOQiOqSVKUq35+AxUDsQTViseAvTzw+bbAMCSUaA1aQ9pof57gTYOLHNMOl+rr32CoG7PnOvt1HTWJyXCzLdH8L9v6JhSKLm/MVXlR7hgF/Ywp89MB9nkDVr+unk6aYSC+bZNfMBTMBemNpKBOgBi3bv9o4jjfphrHpn2E8RkSmQkABQBdygp+/A+BNJKNVqcMJYS01qFAg5b22RQaSKn07nwIr+3dDGE7bppis1XIkFBOA3DY3JRqT7zbc2TuSzzGLq3yZqWTXNDwd3tZCor9LscbcB+c2fS7oVhMVQLk0kQ6bbeabr5XGEJ5ljbV0uT5usU/LRER1kcpn9Zzy6yJKanWP2233I=;oUijH9ldDQeeXKBqSRW15Q=="
 ---
 

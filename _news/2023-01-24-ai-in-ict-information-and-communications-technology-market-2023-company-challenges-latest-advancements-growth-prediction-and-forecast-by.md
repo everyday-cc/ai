@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
-    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
-    publishedDateTime: 2023-01-24T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Technology Market Size 2023 with Strong Supplier, Key Factors, Driving the Market Growth, Information 2029"
     excerpt: "Face Recognition Technology market has witnessed growth from USD million to USD million from 2017 to 2022. With the"
     publishedDateTime: 2023-01-24T00:57:00Z
@@ -57,10 +43,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Forecast 2028 for the Voice Recognition Biometrics Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Voice Recognition Biometrics Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
-    publishedDateTime: 2023-01-23T07:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-voice-recognition-biometrics-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
+  - title: "Automatic Speech Recognition Applications Market Likely to Enjoy Remarkable Growth with LumenVox, Nuance Communications, Telisma S. A., AT&T Corp"
+    excerpt: "Major Key Players in the Automatic Speech Recognition Applications Market : LumenVox, Nuance Communications, Telisma S. A., AT&T Corp, Dolby Fusion Speech, Microsoft Tellme, Raytheon BBN Technologies,"
+    publishedDateTime: 2023-01-23T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-likely-to-enjoy-remarkable-growth-with-lumenvox-nuance-communications-telisma-s-a-att-corp-2023-01-23"
     type: article
     provider:
       name: MarketWatch

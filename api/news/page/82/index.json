@@ -2,6 +2,135 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-11-10-amazons-new-robot-should-strike-fear-into-its-hundreds-of-thousands-of-warehouse-workers.md",
+      "title": "Amazon's new robot should strike fear into its hundreds of thousands of warehouse workers",
+      "excerpt": "What do you call a robotic arm that relies on computer vision, artificial intelligence, and suction cups to pick up items? In Amazon's world, it's called a \"Sparrow.\" The tech giant unveiled a robot on Thursday that's capable of identifying individual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11",
+      "originalUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/636d9d4ef5877200181c683a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-released-warehouse-robot-sparrow-it-could-wipe-out-jobs-2022-11?amp",
+      "publishedDateTime": "2022-11-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-captis-facial-recognition-technology-integrated-with-immix-central-monitoring-software.md",
+      "title": "Captis facial recognition technology integrated with Immix central monitoring software",
+      "excerpt": "Enables professional monitoring agents the ability to scan surveillance face-images across the exclusive Captis database of over 85 million criminals",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/alarms-monitoring/central-station-alarm-monitoring/press-release/21286699/immix-immix-signs-global-technology-agreement-with-captis-intelligence",
+      "originalUrl": "https://www.securityinfowatch.com/alarms-monitoring/central-station-alarm-monitoring/press-release/21286699/immix-immix-signs-global-technology-agreement-with-captis-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-mimicking-life-breakthrough-in-non-living-materials.md",
+      "title": "Mimicking life: Breakthrough in non-living materials",
+      "excerpt": "\"Soft robots do already exist, for example microparticles controlled externally through magnetic or electric fields. But ultimately you'd want a robot to be able to control itself: to see for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221110114254.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221110114254.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-too-easymidjourney-tests-dramatic-new-version-of-its-ai-image-generator.md",
       "title": "“Too easy“—Midjourney tests dramatic new version of its AI image generator",
       "excerpt": "Midjourney opened to the public in March as part of an early wave of AI image synthesis models. It quickly gained a large following due to its distinct style and for being publicly available before DALL-E and Stable Diffusion.",
@@ -935,143 +1064,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-anything-world-raises-75m-to-assist-content-creators-using-ai-based-animation.md",
-      "title": "Anything World raises $7.5M to assist content creators using AI-based animation",
-      "excerpt": "Anything World has raised $7.5 million in funding to create an AI-based animation system that creators can use to be more expressive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
-      "originalUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/anything-Environments_Forest_3_colour_full.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/anything-world-raises-7-5m-to-assist-content-creators-with-ai/amp/",
-      "publishedDateTime": "2022-11-09T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-how-machine-learning-powered-campaigns-are-propelling-business-strategies.md",
-      "title": "How machine learning powered campaigns are propelling business strategies?",
-      "excerpt": "In the modern era, driven by technology, the adoption of machine learning is proliferating among businesses. While it enables firms to solve complex problems on the back of meaningful information derived from the careful",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png",
-          "width": 434,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-machine-learning-powered-campaigns-are-propelling-business-strategies/",
-      "publishedDateTime": "2022-11-09T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-axiomtek-launches-the-newest-medical-grade-artificial-intelligence-computing-system-mbox100.md",
-      "title": "Axiomtek launches the newest medical grade artificial intelligence computing system - mBOX100",
-      "excerpt": "Axiomtek – a world-renowned leader relentlessly devoted to the research, development, and manufacturing of innovative and reliable industrial computer products of high efficiency – is pleased to announce the release of the mBOX100,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/11/09/9709092.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/11/09/9709092.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1942607/image_5019367_31655331.jpg",
-          "width": 400,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

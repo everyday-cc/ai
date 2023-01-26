@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-vo
 webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-voice-recognition-biometrics-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -29,48 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
-    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
-    publishedDateTime: 2023-01-24T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
+  - title: "Biometric System Market Worth $85 Billion by 2028, Globally, Driven by Deployment of Fingerprint and Iris Recognition | The Insight Partners"
+    excerpt: "According to The Insight Partners, \"Biometric System Market Size, Share, Growth and Global Forecast to 2028 - COVID-19 Impact and Global Analysis by Offering (Hardware and"
+    publishedDateTime: 2023-01-25T13:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30568097/biometric-system-market-worth-85-billion-by-2028-globally-driven-by-deployment-of-fingerprint-and-"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market Size 2023 with Strong Supplier, Key Factors, Driving the Market Growth, Information 2029"
-    excerpt: "Face Recognition Technology market has witnessed growth from USD million to USD million from 2017 to 2022. With the"
-    publishedDateTime: 2023-01-24T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-2023-with-strong-supplier-key-factors-driving-the-market-growth-information-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in ICT (Information and Communications Technology) Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI in ICT (Information"
-    publishedDateTime: 2023-01-24T03:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "IwwtkeRRzrehPMbKla7fcbgDORnvO1LlcWRJd1VnChWVjEx47CzlmRS2BRj34+pqriifTAneXyxuxc/UpELj1Fa739DmQamTHSSQPvcxLi4WJDFTUKl4xDVO52HG+EPSfUpoZILWZq5JOW/f4ktGi45gAmYsVU6xRYLubUFvrsc+txq1WP40LPQ5/9sbOFyz/8ok2MvE0H2KByNb+8+kamYauzKHIN1+FoWpIdyJby52yi9PhE3f2PyMIbwB49bqfLX4CpyJboduc8oVs8lIDiEstNkP6uugAqW05oEmVm/7HB036OvK/BJkhIY3r4pnDcP1gptLQ+Mnwxafa2VHOHeC/cVDgmEaawPEG8b54yo=;9hPpcljsnXP7SqKz9SaB0Q=="
 ---

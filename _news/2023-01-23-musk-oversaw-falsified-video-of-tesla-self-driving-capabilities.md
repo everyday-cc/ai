@@ -9,7 +9,7 @@ ampWebUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-o
 cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 46
-  - title: "Musk Personally Oversaw Tesla's Staged Self-Driving Video"
-    excerpt: "Tesla CEO Elon Musk personally oversaw the 2016 video that exaggerated Autopilot's self-driving capabilities which is now the subject of a wrongful death lawsuit. The update comes from Bloomberg which claims it's viewed internal Tesla emails attesting to Musk's direct involvement in the video's production."
-    publishedDateTime: 2023-01-21T15:35:00Z
-    webUrl: "https://carbuzz.com/news/musk-personally-oversaw-teslas-staged-self-driving-video"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 39
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1096000/100/1096116.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "The future of testing self-driving cars"
     excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
     publishedDateTime: 2023-01-25T23:24:00Z

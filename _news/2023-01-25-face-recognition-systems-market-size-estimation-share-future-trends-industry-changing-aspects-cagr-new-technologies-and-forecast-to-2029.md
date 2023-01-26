@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI In Computer Vision Market Size Growth Rate Analysis 2023 by Production, Revenue, Price, Gross Margin, Countries and Forecast to 2028"
+    excerpt: "Jan 25, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Computer Vision"
+    publishedDateTime: 2023-01-25T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-size-growth-rate-analysis-2023-by-production-revenue-price-gross-margin-countries-and-forecast-to-2028-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Accelerator Market Size 2023 with End-user Industries, Segments Covered in the Report by 2028 | No. of 83 Pages"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 23, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) Accelerator Market” Research Report 2023: incorporates a thorough qualitative and quantitative ..."
     publishedDateTime: 2023-01-23T09:52:00Z

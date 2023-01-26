@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI In Computer Vision Market Size Growth Rate Analysis 2023 by Production, Revenue, Price, Gross Margin, Countries and Forecast to 2028"
+    excerpt: "Jan 25, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Computer Vision"
+    publishedDateTime: 2023-01-25T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-size-growth-rate-analysis-2023-by-production-revenue-price-gross-margin-countries-and-forecast-to-2028-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
     excerpt: "Global “Voice Recognition Market” research report provides major analysis on industry size, manufactures, market"
     publishedDateTime: 2023-01-23T08:36:00Z

@@ -28,6 +28,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Revolutionizing planetary exploration: AI-assisted mapping"
+    excerpt: "Can we leave the mapping of the planets and moons in our solar system to AI-powered systems? The answer seems to be ‘yes’, as scientists"
+    publishedDateTime: 2023-01-26T08:19:00Z
+    webUrl: "https://www.gim-international.com/content/news/revolutionizing-planetary-exploration-ai-assisted-mapping"
+    type: article
+    provider:
+      name: GIM International
+      domain: gim-international.com
+    quality: 39
+    images:
+      - url: "https://www.gim-international.com/cache/4/3/7/f/3/437f395001c84104788ac6f8ea8bffe39f4e5aeb.jpeg"
+        width: 680
+        height: 408
+        isCached: true
   - title: "Viva la revolution! AI use cases in B2C commerce – it’s time to move forward"
     excerpt: "He shared his perspectives on the use of AI and machine learning for commerce brands. Fulfilling the primary use case for AI The primary AI use case for e-commerce and marketing focuses on data, according to Walker."
     publishedDateTime: 2023-01-24T10:11:00Z
