@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 638
         isCached: true
-  - title: "How to Spot AI-Generated Art, According to Artists"
-    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
-    publishedDateTime: 2023-01-21T11:59:00Z
-    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
-    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "How Artificial Intelligence is Transforming Banking"
     excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
     publishedDateTime: 2023-01-23T22:57:00Z

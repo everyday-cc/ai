@@ -44,6 +44,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Shutterstock Introduces Generative AI to its All-In-One Creative Platform"
+    excerpt: "(NYSE: SSTK), the world's leading creative platform for transformative brands and media companies, today announced the launch of its AI image generation platform, available to use by all Shutterstock customers globally in every language the site offers."
+    publishedDateTime: 2023-01-26T02:42:00Z
+    webUrl: "https://www.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    type: article
+    provider:
+      name: Today
+      domain: today.it
+    quality: 38
   - title: "Canada has leading AI experts. But does Ottawa have the right plan to support an AI industry?"
     excerpt: "Many leaders in Canada’s innovation sector say the government’s strategy to build on the country’s early lead in AI is emblematic of how Ottawa routinely fails to leverage the country’s brains to prod"
     publishedDateTime: 2023-01-23T06:00:00Z

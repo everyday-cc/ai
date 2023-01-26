@@ -45,6 +45,36 @@ related:
         width: 980
         height: 547
         isCached: true
+  - title: "New York’s AG questions Madison Square Garden’s use of facial recognition technology"
+    excerpt: "Madison Square Garden’s use of facial recognition technology has been a perplexing topic among sports fans. “They’re able to catch maybe more bad people. The"
+    publishedDateTime: 2023-01-26T02:41:00Z
+    webUrl: "https://pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 52
+    images:
+      - url: "https://pix11.com/wp-content/uploads/sites/25/2023/01/AP23025727473750-1.jpg?w=1280"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "NY AG questions MSG’s use of facial recognition tech"
+    excerpt: "New York Attorney General Letitia James warned the owner of Madison Square Garden that they may be violating anti-bias laws over one of its uses of facial recognition technology."
+    publishedDateTime: 2023-01-26T02:36:00Z
+    webUrl: "https://pix11.com/video/ny-ag-questions-msgs-use-of-facial-recognition-tech/8335716/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2023/01/snapshot-1-2.jpg?w=2000&#038;ssl=1"
+        width: 888
+        height: 499
+        isCached: true
 
 secured: "9+3khmMQ2UhajXi/E52lzcV6D7y/mWaOwzAP9cz17nKQxfa4BKJ3/h5L5DkN389IujQe37ZRr99JCtT0BRAjnig/Q9QJOSgnRGy2ZpfF/HucCN97u+7bzW3wB0JsyTnrRaTJ17IJpY/cWkPoqdXhMjFdKDXpr5ZwqpZrUtR5/wo9qxjQPj0UfJ9fLbyYw0Gm5l383qWpcvgMvGcDc3fWQ9VLTD7qg7HJeGY4BZf88DzJ4rqwYYOhWaXwAO8IHL6icxxaZLsHwiEPu3Td+AadSTc5rpmZMNSe+eWCt6aL2y8OnlryYYRU59DMM1E8jB+h0zrPcOXYMzVBb0YWmnIIF1UNNDjlTSrS5513uwt7one6YUv42WY6HYfXLXdMxukU2/8Fmi6T96C5aVVwHn2wwyNy1HSW4evEaUqcCSLdg3noLcjL0RZnl1h3cWENJpuHH5mxz/tccR3Dp+zVnxt/emgO1n4dDZsxgPyIaeUEwuUUUT2Nog83rdv6Acd7OhqBVJQYPWgOIPD6wnMzL6ryZQ==;l3zfI7VIwOGbSaVZnMBfyw=="
 ---

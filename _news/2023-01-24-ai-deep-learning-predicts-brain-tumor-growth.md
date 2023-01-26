@@ -37,22 +37,6 @@ related:
         width: 1199
         height: 638
         isCached: true
-  - title: "How to Spot AI-Generated Art, According to Artists"
-    excerpt: "Creatives disagree about the ethical uses of these tools, but one thing is clear: AI art identification is about to become a whole lot harder."
-    publishedDateTime: 2023-01-21T11:59:00Z
-    webUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/"
-    ampWebUrl: "https://www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-art-according-to-artists/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/63cb1161c70009d9f70493f1/master/pass/How-To-Spot-AI-Art-Culture-1316701501.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "How Artificial Intelligence is Transforming Banking"
     excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
     publishedDateTime: 2023-01-23T22:57:00Z
@@ -148,6 +132,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "u6vHR8zmH21q617uW1cmmajq7qXWA76HVowMt4IQ5GovWD4Mng552LWGS8LtDqvOTtXSxIGJd/HwEwBNk1MT3+9itFGOJ6J2vzv4kVkPn5kzf/VzFCCQDPwecoeHCd2WeCyfBikazZY1z36L4vZYyNmjb3ZmsD5o+BYvi8pbKPDoysIUHr7vTBPcz009LXXfA27f7bZ92khc81rbIUnfIGPkazIwSHuQUfb+6OHcmmH2WgYU7KBX5L8qwOSFT8/0wX7pWTOZXpkJylH56UKfPAzpY6CYW8jTia+vyFjoUt2I1Y9p2u4sUqQQpC4Da3DIt9+HUOcNeIRoEhDqdOg0gpwUp75OYS0htjon+nshVzk=;RhQHvl4P2q8Zib0vDE/eQA=="
+secured: "Cpa6zjxA0uVDcZzAidETK76FHjs4of3o2euOjt7DXhfr7OXqOUdla6LgrNYiBZRFAQ+m7CfMmk5I0+p5nwKFcEbwOxwiUC3jikr8TzJcwddVpFSEffuuhq3lgdahRERwONN3ExfuPxcvtwDSPC6gAmX2xz7RV+TPv6SfzbCAxQEeNGUXhigt+VHM7E5myAjM93m1RmvGkjfw8566MG1oMtvvhv1XG2ZbBg32HQb8WN49r41yYkgtCP7rew+HLPBE9OJcsFxdXruiWMGCvTYlVRjy16jRJSiS2RLj/qKtl8JInImFRgA35vmFLwsU9eZy6Bo74JXV5J3FyalJKm+UK/w7RYQvckAzT7hEDsf1FBE=;lvld3gfAGLFqQ/EmLCUQFQ=="
 ---
 

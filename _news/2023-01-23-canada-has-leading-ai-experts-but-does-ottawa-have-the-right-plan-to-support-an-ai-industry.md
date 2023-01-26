@@ -55,6 +55,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Shutterstock Introduces Generative AI to its All-In-One Creative Platform"
+    excerpt: "(NYSE: SSTK), the world's leading creative platform for transformative brands and media companies, today announced the launch of its AI image generation platform, available to use by all Shutterstock customers globally in every language the site offers."
+    publishedDateTime: 2023-01-26T02:42:00Z
+    webUrl: "https://www.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    type: article
+    provider:
+      name: Today
+      domain: today.it
+    quality: 38
   - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
     excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
     publishedDateTime: 2023-01-24T14:00:00Z
