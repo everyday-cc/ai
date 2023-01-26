@@ -3,10 +3,8 @@ category: news
 title: "The Schools We Need for the New 'Cognitive Economy'"
 excerpt: "This rapidly changing environment might be called a “cognitive economy.” It requires workers who are not only literate but numerate. That means effective training in math and science and the ..."
 publishedDateTime: 2023-01-19T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html"
+webUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://assets.realclear.com/images/60/600019_5_.jpeg"
-    width: 750
-    height: 500
-    isCached: true
-
-secured: "d9xkETQNEpSO4szbyTD5Vl2bWmRu5ppbgkpYkDA+Dng+Duh2wvTMqkZlkQJD9n9xGKIH0ynnKPzrFWpawgOQvZtROcalT4OvVifPdV6J4Q121wp8JPnUbwPyJ13oqb7mGRCWw1Orgsx4Z1taoGg91n1dGr7L3TTSWWPe5YtVaCcxGYxecdLjwQ3MScWSwqn3FdLW9PK9oiPK/W0c+CUv+Mq3m4sWGF+DOa43xLZDYbRi6k7CBHh7efmDRw7qpU2J9ahxej+MVFecIhasTmv47HLbnXqQCdBPZdkSqDqQYyN+hJO0sbHVs1c7bLVvoO3b+4/Iy6xbffD3RrvVgR/mrNivtOO0fGQCqYT6QrFxBL0=;JUTW9UaQfGOfJXq222w/yQ=="
+secured: "qnZaPCapQ83qPNwu/UT23vLNNTVBPIPz8GSpzysa/iGMNsr0m7Hx0y6VdGD1jWyXEyIJnXn1By10Q1UNFcIpz5o6AsF8V0+cLZI+gk+zge6kyO6afnRaRaYlceVCeMiZLUhu//x3+DccdqUE13QLh7Sf2oP4U8HIz3R9/sw4Eh5lki2qtu2gK11Xo3kUHN4cUXIbEaEcy8T1q/VGQ+v4Yh2uu2Bok7BZPQ0LG5U3vhUl4vZb53V6glBZ8dXxwOy5BmLIWkWBoob6nrrejdw19eEH8x6EUXFvKxWNcZro+AxLiPathdJp4cQL4c+/59z1KGCEimg+DaMFtDvB/izL9equHx99enf5MkznFU6CH5Y=;sQn3LVBhICn7knQMZyHfoA=="
 ---
 

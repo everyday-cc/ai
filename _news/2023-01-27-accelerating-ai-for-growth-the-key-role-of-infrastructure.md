@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/01/9-Sponsored-How-infrastructure-helps-CIOs-unify-enterprise-AI-GREEN-e1674659119985.jpg?w=1200&strip=all"
@@ -59,6 +60,6 @@ related:
         height: 628
         isCached: true
 
-secured: "0OjW/Yma995eTnCIt4jOxJuV5Uhb9zN+XTxsefZ0IsLCWM4pRqsFrXlvdGdpjZ9szii0i14rYerZBnSWZbC9cg1em2UP74qYkpBu9f0BtMOtaQNWD7nB6rste9bvQ9qChGL9s5PKZ0PTXpcaShs38dg4BunqNA8vL+EN9F9rG/T6qGq4cQmAmPnp2BHVPUzdYEjA6dVQsGFX6C49HBqfvtxQ+E0ueR5d9l0cRUDM66OZANR5DAz5RZW8t2XDuWaRGcVueKwvRZE3KX7a4HgoTH191aH/C3qk0vGayaDgviBmxxE91mtyYGc42qJE6yda2EPBnwAKHF3B8Ch90yfod+qL+9m8U00LTffUP/miDzI=;OHuSYXjoYjI4OBl8tYVexg=="
+secured: "4VF/24rhWF9fww9CnItuA4jnLMT/zaCyfiEl8rY6Zcb82eyYyQOcw2KQq69OGo7EkLva9CG6SfHH1m8vnjlxwbg5f+VajrfjOBMK+IBC1vnwN5n3jjy93AUmACow3fGx0qlySIUq48IudzAv87E2Kmdm+6O0i8CqBOepnjRtuO/O/1LvwK4nzjc05AY2D/gxWcePqJ+1WzWqfCvWnvSB6/UOGoIdVOEVvmBRn3skXiOsR1OMcG6KhyOzo7NKzvT/iOwKb2Jg64v9vXmWBaQZHfIOXh3QCU0egOKG44NBU1pBs7ucqfIQ4oLzscWXQGdViSPwCihc5J5UTdumMZ4+blcSKEO8zzp3XLRgzZC6Zf9SUK0hafY40G+HuAKHVDBJPIxTGZ71kUoANaIwxMjBwH+4qym1xAR37sH22CsNAwVesBoeOsnev6vQbs1q3HL1sEAu7flaTSvlZGNZsX5mLc8IRnSy17wA5lnbFdXlf3L6BelTuBJYMyVXWsE93OQ/XmH6awN8blmgWiDBMPkeFg==;42pw3WJeNjYP6mthgD6XtA=="
 ---
 
