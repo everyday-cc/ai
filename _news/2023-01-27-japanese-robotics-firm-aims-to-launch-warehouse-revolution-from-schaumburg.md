@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Japanese robotics firm aims to launch warehouse revolution from Schaumburg"
-excerpt: "With 76 patents and expertise in hardware, software and artificial intelligence, what makes Rapyuta Robotics distinct is that its clients don't have to make a lot of changes to their existing locations, co-founder and Chief Financial Officer Arudchelvan ..."
-publishedDateTime: 2023-01-26T21:41:00Z
-originalUrl: "https://www.dailyherald.com/news/20230126/japanese-robotics-firm-aims-to-launch-warehouse-revolution-from-schaumburg"
-webUrl: "https://www.dailyherald.com/news/20230126/japanese-robotics-firm-aims-to-launch-warehouse-revolution-from-schaumburg"
+excerpt: "A Tokyo-based company seeking to revolutionize the efficiency of warehouses around the world through the assistance of skilled robots is taking its first steps in Schaumburg."
+publishedDateTime: 2023-01-27T00:43:00Z
+originalUrl: "https://www.dailyherald.com/news/20230124/japanese-robotics-firm-aims-to-launch-warehouse-revolution-from-schaumburg"
+webUrl: "https://www.dailyherald.com/news/20230124/japanese-robotics-firm-aims-to-launch-warehouse-revolution-from-schaumburg"
 type: article
 quality: 67
 heat: 67
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.dailyherald.com/storyimage/da/20230126/news/230129441/AR/0/AR-230129441.jpg&updated=202301261543&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder"
+  - url: "https://www.dailyherald.com/storyimage/DA/20230124/NEWS/230129436/AR/0/AR-230129436.jpg&updated=202301261543&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder"
     width: 1200
     height: 630
     isCached: true
 
-secured: "vS4Px6Yae2ZIzwoXKmdATTncNhse7bwqkiEPQAnQJ9RyTuHGn/QHtep1f7gZklKMfZMWpzQoypPU7cVPFzYk+/6FxuBX17poHKeTcwviaSqqeM2WQCPSenZiJjRePJdhmJUvzLeoehbyA8m4r30947vw83vPzm4yRoEH6qKNzfvWVxN1kIRLxcpS6YoQb/4jd7Riog2215kdQOZCEwniSulxUljaby++5udNBJH5fasCNpNHvUGJaE+Fl7rQ5A/blsiopo8zOXozHcFukUh2w2EZ+7rjcysMkK/MiGPrgFGUUHuFLp1aG4+0VxvjVtCyp8tKFAMmX7UZco2MoXMdfSGGJkuLdm57H3pcQlcBJ/o=;onU339VFw+UjC615R/iWeQ=="
+secured: "nsvonkwPMXxfZZFHGVJ8Mr5KPsxIFXncB6AloV/7XI2wNXcxY6jDqVs3phSOEtSMjyE/gijCO2AWdBi9JWXqhQL3+5jckL7JaOYtbdg3S6ivY45r7XFMkzkrAe4wHedjfJKNhVVo2bbig8I2KqPkfN2VObxb/nA3DNluyK5mx4RqldTWijbj0LWjxsbRHvWmA6WrjhNEH9dH8t0HCRSayXLFJe6MhOKboP4tZ+21QSF+NggKvSXCBgHauLkmZM1kTA/1c+ArTqmp+gZX99lj6nfaImeur8ALEJg06oIPaghAy2uRIzADWahQPeneK5qOzLPlkpLc4CSiQt5BXyMM1VwJa377x9wn3HeJNgp437w=;m2OgVZhPTS14EybILkWQYA=="
 ---
 

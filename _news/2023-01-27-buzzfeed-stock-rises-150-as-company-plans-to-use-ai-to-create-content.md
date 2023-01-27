@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Buzzfeed to use AI to ‘enhance’ its content and quizzes – report"
+    excerpt: "Platform will also use technology from ChatGPT’s artificial intelligence firm, Open AI, to ‘inform’ brainstorming"
+    publishedDateTime: 2023-01-26T23:00:00Z
+    webUrl: "https://www.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/9352f7730f1c3ab91cc27df2854ad20698a7dddf/0_110_3788_2274/master/3788.jpg?width=620&quality=85&auto=format&fit=max&s=11ee807c6e31642595ed78067ca874a7"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "/bOGd2woZSvU3HXNvcOEx12HI8J/3nrmxEffZOq9ylYQorN66GatcO8Em6oDxnK/hfYSDffFtPReFiW78x0wZIk5JBqOzK43qKWBfX8xih1VHHFTZN5ob/EpE3zXCkRjDLTw6eUd3UoROMSo0m312vFTW9npiteJTYbAHgNNL3ENVAlWcl0uwCn+iu86bDyhlrj24u0aA9+4mWH2yeK2Mm/fJOG8XCnurSSs5oZ33kRCLSfapYi4hYh/A6ocssS4vzZ6CBnpSpDA+cl09o0ctHbBv5p/wEYd+VcbySdWPh31t5oQgRgpobgQWQL7QG9vh2MMosrHlskTQZI+WjLgAdzQe3vUfBaAz6fwMvHpyrs=;aAJ1Yk1D3IxbMTJipgd3AA=="
 ---

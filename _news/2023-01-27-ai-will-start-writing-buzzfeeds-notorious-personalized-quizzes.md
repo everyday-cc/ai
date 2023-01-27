@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-buzzfeed-chatgpt-quiz-1850036965"
 webUrl: "https://gizmodo.com/ai-buzzfeed-chatgpt-quiz-1850036965"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ZQqwgb09wTHkjIoeFxuFyM2kF2w=/0x0:4000x2670/1200x628/filters:focal(2000x1335:2001x1336)/cdn.vox-cdn.com/uploads/chorus_asset/file/24387610/1237058094.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Buzzfeed to use AI to ‘enhance’ its content and quizzes – report"
+    excerpt: "Platform will also use technology from ChatGPT’s artificial intelligence firm, Open AI, to ‘inform’ brainstorming"
+    publishedDateTime: 2023-01-26T23:00:00Z
+    webUrl: "https://www.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/9352f7730f1c3ab91cc27df2854ad20698a7dddf/0_110_3788_2274/master/3788.jpg?width=620&quality=85&auto=format&fit=max&s=11ee807c6e31642595ed78067ca874a7"
+        width: 620
+        height: 372
         isCached: true
   - title: "BuzzFeed stock rises 150% as company plans to use AI to create content"
     excerpt: "Buzzfeed is planning to heavily lean on AI-generated content, CEO Jonah Peretti said in a memo to staff on Thursday."

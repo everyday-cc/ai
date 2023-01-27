@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp"
 type: article
 quality: 91
-heat: 92
+heat: 93
 published: true
 
 provider:

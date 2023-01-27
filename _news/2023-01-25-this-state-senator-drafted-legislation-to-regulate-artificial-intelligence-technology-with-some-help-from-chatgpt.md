@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-dr
 webUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-
-related:
-  - title: "Explained: Is ChatGPT Latest AI Innovation A Trend Or A Threat?"
-    excerpt: "While engineers, entrepreneurs, and many social media users look at ChatGPT as a bold innovation that opens horizons for services and solutions, the academic and creative industry stands both concerned and threatened by the latest AI chatbot."
-    publishedDateTime: 2023-01-23T12:33:00Z
-    webUrl: "https://www.outlookindia.com/international/explained-is-chatgpt-latest-ai-innovation-a-trend-or-a-threat--news-255981"
-    ampWebUrl: "https://www.outlookindia.com/international/explained-is-chatgpt-latest-ai-innovation-a-trend-or-a-threat--news-255981/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/explained-is-chatgpt-latest-ai-innovation-a-trend-or-a-threat--news-255981/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 61
-    images:
-      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2017/12/21/download_630_630.jpg"
-        width: 1000
-        height: 665
-        isCached: true
 
 secured: "o1ds6Hy7MNhtu2CfkVnJfwKS+zluMwfOPDpUVYUJifhwyEmbYQmN9Iij8N96hC9rkXRzU3YTUZGz2jvis3SJ8gKewy0l7gEqG4suelKGB+npJiEmi8LkgAQdDnF+k93IWMb/2eTHapq9CAQvdxC/z3Veb8PlwZ+VYJzvRLP6M+12MMww2/h+TsV66cHJvYUoRmFx+jTvqFLJxmqEbp5gylaDWjOXD+5w1TJg5Olk91ApPy+M+rZ5hJd6jOrl1RM9iBvY07BzyW8tc1e4f8dK0Dc4bF3to9qV72h14utyZ18j1W5ZBrZlvvyIE9p0SYS24LLwsnqz0V90/b/vINNseadtXfXpMJdZ6KiZS48ZPnhFjO2UjjWezk7rd97fHNEq4h/EgTpnIG+b38QhICpypRBcWaWh/mhNOBzru5Pu+Hm/++gCiSCIA4ZvpRy78/9jvKjCUEY5QWN+zUqhQDj/DoIfMj/q90q1tZbia5GqkhklF0c4oaeQbeNm2FuITUmG3504eb1PXtNIdnD/i/UZ6w==;58qhLO6mPc9i4ndtLxzJgA=="
 ---

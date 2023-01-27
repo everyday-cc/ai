@@ -2,11 +2,13 @@
 category: news
 title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
 excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
-publishedDateTime: 2023-01-26T17:08:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-webUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+publishedDateTime: 2023-01-26T16:08:00Z
+originalUrl: "https://www.cbsnews.com/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+webUrl: "https://www.cbsnews.com/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+ampWebUrl: "https://www.cbsnews.com/amp/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -15,13 +17,19 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
+
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "A robot was scheduled to argue in court, then came the jail threats"
     excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
-    publishedDateTime: 2023-01-26T20:29:00Z
+    publishedDateTime: 2023-01-27T00:30:00Z
     webUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
     ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
     cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
@@ -91,6 +99,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Qb2ySx+hKYoLhRPt4JQn346g/f1PozKDOhU9w0yix/v7qooAQRrgu9pZXYGsnn/h2ocS8/ip86eFVxRJYtIHdDelf071knjCouFqC6MZ/STLeFtO//2e1/szINnsZhohvmUqpltmKlQUPOsH77WtZ5SfZqsufbewh++4uLkZrXfqUEtjnxRmZLeTNd+o9pxYIaSYNOLfzyeJxD6HWbzibqzLUPC0gqjx4o1p/DsBY6V2yX1YLvFphk/ph/2Xg8aH6ac9+al0GxckPoTEo6TI8DHMZ8ACFzBcnD9NJF5E3veqogOuuU6x/Jh3RcfRNbRM8A4oxG4MIu8ZR1zH7gFDylDE+HQWrInXRC796IgyOmtAUMk4k0WxNl8ZzrFRhQLm9qgTJrqN0LaFyHLPyGduKJOGat22STEJXlEKxPbQAW6AtQDPaUOuoeIUHGOJt6Ia0xZF5Sj1PNCet6rRfCbElr70DluHR1GL1va+oCTSef3Y+pFrO+73yXbjSkSnSAFeyOxoVZHpPT962GkPKks08A==;1Wg/f8cJ5rTUIhW4P4oIEA=="
+secured: "dL2G/WSh38iIhPaxAUtJRLYRJktpqw20Y5nJb3ChQfGcnUwUeR5LE4pNlBf6aAJcWb471KqHCCaT8bxxkCWkg+u0K3Q2JLxAgO6p3TEbtU6JqOojGPy2CZjmp2c1sQHrlXVOL81CaxfhLohjjCCxkixELHGIg1JCCCOT/YvefdefkrJiqAmbeBbfzj5reEKYiAdmwdcNm9pIWHZM31ODGlWLW+Xa9C2yNijxpaBpjiEoBrAmeUo6qCPMbVdgAr4wTIbgTKgiXJ0Zmkp/C0tleIB79PlDhBbvQ+2UZg+pEf69LpO+q5hsY9mdpc/HeyTcEiN63QX4oeOrB0FfJANVy17EfKoT/jLdMpcqfnLRloE=;5ciRQOat73t5FvnZJiwIXw=="
 ---
 

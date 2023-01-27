@@ -1,23 +1,31 @@
 ---
 category: news
 title: "DeepMarkit AI Subsidiary Explores Natural Language Opportunities"
-excerpt: "CNW/ - DeepMarkit Corp., (\"DeepMarkit\" or the \"Company\") (TSXV: MKT) (OTC: MKTDF) (FRA: DEP), a technology focused company is pleased to announce its wholly owned subsidiary, DeepMarkit AI Corp. (\"DeepMarkit AI\"),"
-publishedDateTime: 2023-01-24T13:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-deepmarkit-ai-subsidiary-explores-natural-language-opportunities-/2023/01/24/9747873.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-deepmarkit-ai-subsidiary-explores-natural-language-opportunities-/2023/01/24/9747873.htm"
+excerpt: "LLMs are artificial intelligence tools that can read, summarize and translate ... a wide range of AI-related opportunities, including machine learning, natural language processing, computer ..."
+publishedDateTime: 2023-01-24T12:09:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30542058/deepmarkit-ai-subsidiary-explores-natural-language-opportunities"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30542058/deepmarkit-ai-subsidiary-explores-natural-language-opportunities"
+ampWebUrl: "https://www.benzinga.com/amp/content/30542058"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30542058"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "p7cdnfZhkLVwR/IUNk7K7MU8BbGN/hB//+JwRxi03ETt9cZiLLECV6DtLoIvR1gvXh+tgayRCgyNP+HWTGOrmyJMPzTC/lvAPBe7y0fqTdHky9VMVpdVy8UzlR8z5EgI7LgVy3OPYZ+D7zQq0lKgJikqlgMVk7pCDK6Z/UQ8thsR77Cuddva+BZuSEX+eOWblkZIyoVwMLwCP6dPU3j5kdaVZAjxEZrlMkApg5wSZpFF+dqll9MDbZ2OB6nMG7QV/1PCNW7K7MRXNiwDBTCSwlEklabWWyklYN+wGphJs6rmIxUdnWtKfT2f2G5JCOTvqh01o4NT0jd7ZrVVLK1zTjCLW9F9ASrxmE4R3/W3kBw=;IZpthFTBBa4g9O3YRQftWA=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "BkzAuNMbnvmrhN3UqDVNVJQ7DiNocTHziRrJsHWgiZ0AMuDjOO9Xt+pnkxpHF/K09PCYudSqEavhKsTfjlqw5eGEutCnxXZvNUIlZIb6Hoh+OsIAhpuVYoCBmxDGQDGr3D5PR+oJ7FespzkGqVPWaTvSODRpWhgJO/OemLh80/BhUVULwRsNrv+uCDIZV+NO5GH21cMytgVZsodW4OjGYJoSlCNejuPCc/sRNzm7nOJ4IKCbkM0TnM6rl8CMV2bDb+DoNkeR1N+hKmdcj1s9zCnxb8WwuLsUe9EAKbo3bVjSBAcCJmBRa5ORe+pZcBxDjXOIYUnGd/cCHiVDjbZBpvnhSeONfsRPH3ocW0vS+Rk=;7BhjQLMsAgxEWBDQQtdYBg=="
 ---
 

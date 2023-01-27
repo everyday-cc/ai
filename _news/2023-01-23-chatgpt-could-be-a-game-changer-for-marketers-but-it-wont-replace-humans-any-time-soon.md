@@ -25,45 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Google plans to demo a version of its search engine with AI chatbot features and launch 20 new products, following ChatGPT 'code red,' report says"
-    excerpt: "Google is increasingly focusing on AI projects, following the launch of OpenAI's ChatGPT, the New York Times reported."
-    publishedDateTime: 2023-01-23T11:41:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1?amp"
+  - title: "AI experts on whether you should be \"terrified\" of ChatGPT"
+    excerpt: "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code."
+    publishedDateTime: 2023-01-22T17:38:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 49
+      name: CBS News
+      domain: cbsnews.com
+    quality: 63
     images:
-      - url: "https://i.insider.com/63ce5869fcc41d0018a3a3b4?width=1200&format=jpeg"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "My 'Conversation' with ChatGPT about What Devs Need to Know"
-    excerpt: "ChatGPT is so hot right now, our columnist couldn't get an interview at OpenAI, so he went to the source, so to speak, and queried the tool itself about the opportunities and challenges it presents to developers."
-    publishedDateTime: 2023-01-25T00:31:00Z
-    webUrl: "https://adtmag.com/Blogs/WatersWorks/2023/01/My-Conversation-with-ChatGPT.aspx"
+  - title: "AI and The Future of Work: 5 experts on what ChatGPT, DALL-E and other AI tools mean for artists and knowledge workers"
+    excerpt: "By Lynne Parker, University of Tennessee; Casey Greene, University of Colorado Anschutz Medical Campus; Daniel Acuña, University of Colorado Boulder; Kentaro Toyama, University of Michigan, & Mark Finlayson,"
+    publishedDateTime: 2023-01-22T16:02:00Z
+    webUrl: "https://businessmirror.com.ph/2023/01/23/ai-and-the-future-of-work-5-experts-on-what-chatgpt-dall-e-and-other-ai-tools-mean-for-artists-and-knowledge-workers/"
     type: article
     provider:
-      name: adtmag.com
-      domain: adtmag.com
-    quality: 24
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 15
     images:
-      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteWaveSmall.jpg"
-        width: 647
-        height: 450
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/explainer01-012323.jpg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Is ChatGPT Becoming Synonymous With Plagiarism in Scientific Research?"
-    excerpt: "Holden Thorp, PhD, editor-in-chief of Science, highlighted the capabilities and potential benefits of using ChatGPT and other language-generating AI programs, but emphasized that this technology should not be considered true authorship for scientific papers."
-    publishedDateTime: 2023-01-26T19:37:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/102830"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 4
   - title: "ChatGPT could be a game-changer for marketers, but it won’t replace humans any time soon"
     excerpt: "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the"
     publishedDateTime: 2023-01-23T17:49:00Z

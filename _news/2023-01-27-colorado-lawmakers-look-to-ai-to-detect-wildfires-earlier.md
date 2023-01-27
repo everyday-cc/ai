@@ -58,6 +58,20 @@ related:
         width: 1280
         height: 749
         isCached: true
+  - title: "AI wildfire detection bill gets initial approval in Colorado"
+    excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they"
+    publishedDateTime: 2023-01-26T23:18:00Z
+    webUrl: "https://richmond.com/lifestyles/technology/ai-wildfire-detection-bill-gets-initial-approval-in-colorado/article_1d01d102-f606-57bd-8cf5-20a9d96e845d.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/25/9253b6cb-4d3a-5338-9c7f-195345cce05a/63d2843a66c54.image.jpg?crop=1881%2C988%2C0%2C56&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3yJpa5ilMDxyqy2jqAD+8gklFELdz8f+eiR0RKkyYW2qPMg0/lzIiOYG42Y+fkLuIEIUuYfLa8daKwGTIF9oWmGnJf0DvzC2/n3edOTzIQWTC5Ixko126loGeFFG5aYMxp9HTx06B7blmzqU5HyQ2Oros+xHS8DaBpgocbpwBBjjBwjIShXOpmY3wlqNdrjteivQG1TQ9GLQnGDPNU///1wSlNanlE2j9qWfxmYGmAB54njKdlgczow8LUF3nvB+YbMjRVcAWv8Z2sX7P6OIKtNuyXyJoVBgv6Dxo3RQZrf/Y411+yZN0agbPIWZYKsE1A9yqMzevE9qvBONXsSk2gtqD+eyBjrZD1n7AQnXItU=;Nm3Xqwwd3jYTarWPNwe/Pw=="
 ---

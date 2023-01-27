@@ -29,7 +29,7 @@ images:
 related:
   - title: "A robot was scheduled to argue in court, then came the jail threats"
     excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
-    publishedDateTime: 2023-01-26T20:29:00Z
+    publishedDateTime: 2023-01-27T00:30:00Z
     webUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
     ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
     cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
@@ -42,6 +42,22 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/f2f3f2a/2147483647/strip/true/crop/876x540+0+106/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2F22222_custom-32c6a66f8277ba536f6b7c8d91afd3debcf30a4a.jpg"
         width: 880
         height: 542
+        isCached: true
+  - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
+    excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
+    publishedDateTime: 2023-01-26T16:08:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+    ampWebUrl: "https://www.cbsnews.com/amp/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 74
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Robot Lawyer Just Got Disbarred By Its Creator Before Its First Court Case"
     excerpt: "Under the threat of jail time, Joshua Browder, founder and CEO of DoNotPay, has decided not to let the 'world's first robot lawyer' help a defendant argue a traffic infraction in court."
@@ -82,16 +98,7 @@ related:
         width: 948
         height: 712
         isCached: true
-  - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
-    excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
-    publishedDateTime: 2023-01-26T17:08:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 34
 
-secured: "EjJfCyRf7Uh+apdqCgR8JBx8CRHoDab2izcu4W1EPI3dsigDI9fYH1W7g9OI/oGADX1bMASjTUP3BgaO3uYKngIckfE98jCD+HSMVt7J9mN20FNF5B0HeFLYvdVw4qUTEQNfCCaCnnTVGVIv2egBNNhRM4MXvbvTlxKwinDcVS0X/7BybbxNsJZLOx5RA3xo2rSafFnRRREyuAuf+nIIWWARR+D9Ya94w5Ui5yMr6d73ET4Ub9rrp0sa0lkjZRHZ+WSP7hl5vchcrusls8XIRBfAD81BQ9RNnRZZ6tyZjl76jSHQ5bZYTC88/s13mfl1mgcs3aqVGoXAOdb8sKMTpapZ3ZqcYKBRntPagueiVYQ=;PNrXCO5SJFnLONaBzasDHg=="
+secured: "P2UNiWioVXeKiEKTMLYHmLUP3NCW4+MHBiD7+cgjJw5wpScjrDZpa08bvbjcVOes2Ei6R5VexA4rcKZzpkzatg9y9FN6Uju0nLe3h4nfVjPdI37zA22MK+xo8icC+xXQ2zh1DjbaA5cBCXHkBCYTFMQvUAs5rd+Ucu6pXBpk85zDJLbWz1gtu1l3Ad7AFv2iRTRzb/tZIPHY7rBduCYt5gh59dxCM3MV8YxXR6H9IHCV5UWmf7DtklK18vhJrNhbsHYGbjeZ1kCB9rzWZC80evkHliyJh8FBsvxMfx6RyBb/2839xxFX8JjnSWvHN4mHUWywTWsdZVjDQciiUSGRSJ3A2er7+ZZrhfzUjiq4EBz6Bo5fGghCANFUMx/r4XrxQ98KO5ctNq1TkW3ZRYMfXj39BMvjuuXUt3yTewxBuNe05zdfVrGIqbDDknTAW83uj1OZmWbQ1Dg9YWi9tVbqlbNby8REyhSzRlUdJF16SzmcJ6AwzFyJaOBMcydxLARxRWUsDhVMTQv94n/x4Dq0Jw==;jnbtIgRncsizKYLY7rUtVg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intell
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early.amp"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "AI wildfire detection bill gets initial approval in Colorado"
+    excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they"
+    publishedDateTime: 2023-01-26T23:18:00Z
+    webUrl: "https://richmond.com/lifestyles/technology/ai-wildfire-detection-bill-gets-initial-approval-in-colorado/article_1d01d102-f606-57bd-8cf5-20a9d96e845d.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/25/9253b6cb-4d3a-5338-9c7f-195345cce05a/63d2843a66c54.image.jpg?crop=1881%2C988%2C0%2C56&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "GmkUDeWlTRi3oG7vQePktP8gzVf1trzw9/wq3tX6OvLA8AcpTk/tI0gU1sKxjWJ2ZhdpWV8Dd6AO2/XnF5r3gO6h9T8uYr81nryL/gSpjiFKeOspod/WmKEBCYKhS8JuD4tc7OBNgYCLDqVaI07+Kl4B/WgIG34wpO/XNncxlz1OcTEL/kUyD7U623W8oXT3zrNb+jBMar4GUJ3tjtDgwuo5+MZVmHHFRNFLCnwDM4XzF7EnoROvgmnAOHdQIVWl6s/8Yn86JE6x4pe542UiP27XAVA64f41LFgPormnSNFMwTj0JfcKqoS/k40kre/jJEDF9aP5ciZ0fUIDHv7wjviKf1VyephKbVZprSvvlfuXWxx0a04pqH9nGzl3pIsaXPwwnNGOeQQmSrrHSvSFasDYIL/S1BHt4D7woonWopGXLKIAC9gkv2BqHw5cbN0Qykd2ngjlITOd2LFy5yptiQQaHcpdsy13jb89d1oP8aF4KYeHKMXKlkIA94DPFdAgHtgbq4VeVTh8rSgN6wTTcQ==;n89ErZrrcU5mC9RRP2tpJA=="

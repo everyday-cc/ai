@@ -42,65 +42,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Is C3.ai Stock a ChatGPT Artificial Intelligence Play?"
-    excerpt: "You've seen the headlines about the artificial intelligence (AI) platform ChatGPT being able to write term papers and articles in a matter of minutes."
-    publishedDateTime: 2023-01-23T08:00:00Z
-    webUrl: "https://www.entrepreneur.com/finance/is-c3ai-stock-a-chatgpt-artificial-intelligence-play/443534"
+  - title: "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+"
+    excerpt: "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing."
+    publishedDateTime: 2023-01-26T20:28:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-443534.jpeg"
-        width: 1000
-        height: 340
-        isCached: true
-  - title: "Experts warn about possible misuse of new AI tool ChatGPT"
-    excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
-    publishedDateTime: 2023-01-24T16:44:00Z
-    webUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
-    ampWebUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 59
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/rHS0lidZxCLKaUAjmNq43_mZzUE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIYVSTOR6RFGHOTXVJOUDCHNUQ.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "ChatGPT Is Doing for AI What Apple's iPhone Did for Smartphones"
-    excerpt: "ChatGPT isn’t the first company to do what it’s doing, but it is what is taking the world of AI mainstream. To stay updated with top startup investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter Venture capitalists ..."
-    publishedDateTime: 2023-01-24T14:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30548006/chatgpt-is-doing-for-ai-what-apples-iphone-did-for-smartphones"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30548006"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30548006"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d2ef1d548d5f099c9d57eb/0x0.jpg?format=jpg&crop=2176,1224,x0,y204,safe&width=1200"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Google Sparrow: an AI to compete with ChatGPT"
-    excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."
-    publishedDateTime: 2023-01-23T09:44:00Z
-    webUrl: "https://ccm.net/apps-sites/apps/10537-google-sparrow-an-ai-to-compete-with-chatgpt/"
-    type: article
-    provider:
-      name: CCM
-      domain: ccm.net
-    quality: 39
-    images:
-      - url: "https://img-19.ccm.net/qwqEGEzCpLozPL_ebL4CAn17Nr8=/1500x/smart/ef073b86da5c481a9f72a8a07969c7fd/ccmcms-enccm/39469876.jpg"
-        width: 1500
-        height: 1326
+        height: 675
         isCached: true
   - title: "AI chatbot passes a final business school exam, beating Wharton students"
     excerpt: "A Wharton professor tested an artificial intelligence chatbot on Wharton's MBA exam, and the AI beat some of the students receiving a solid B or B-."
@@ -116,29 +72,6 @@ related:
         width: 620
         height: 352
         isCached: true
-  - title: "Will ChatGPT, artificial intelligence replace financial professionals any time soon?"
-    excerpt: "Will artificial intelligence replace financial advisors or insurance agents anytime soon? The consensus is that it won’t in the near future, but AI can provide some assistance and a little bit of fun in the meantime."
-    publishedDateTime: 2023-01-23T19:12:00Z
-    webUrl: "https://insurancenewsnet.com/innarticle/will-chatgpt-artificial-intelligence-replace-financial-professionals-any-time-soon"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 34
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/01/MicrosoftTeams-image-106-900x472.jpg"
-        width: 900
-        height: 472
-        isCached: true
-  - title: "ChatGPT AI technology is a wake-up call for Google co-founders"
-    excerpt: "This AI-driven platform is proving to be a threat ... some people are abandoning Google search and relying on ChatGPT for their various research needs. If left unchecked, OpenAI might cripple ..."
-    publishedDateTime: 2023-01-23T12:43:00Z
-    webUrl: "https://www.androidheadlines.com/2023/01/chatgpt-ai-technology-wake-up-call-for-google-co-founders.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 19
 
 secured: "skUP2z8/hjWZVJgiMksdCthguL4aGo3of2FejElJC9W1RJciB52AH/tQan3nxnHl6A+QvHxsTqYws8HflCJnJr8RFbhPITnhDW/+VWHBdSIO6GtW6l1fU4Oc/2KD7dvNoqr8VDuIbpgXcF9T3MUulHruz1/qcdRLvoNf4ZZJAqgPWbBQfrOexaLzsvXhAhV5anYnTaIjIZFXhtiLAubrjCCS48MYdBVH34B25KlssvWfUMrQ8vipeAoUaG8cawk1j9b4P+TO0xC2TN31VdF3WoWngB3VI1ot6Nsb63DbbDjUn5DFnu/fZUdTBTezVxt2mp3sFAVA1rNeZ213WV2LkWhmnd07/9uEBweMhUj4vxw=;vpFBcDZNbNk2DWcFCJmcqA=="
 ---

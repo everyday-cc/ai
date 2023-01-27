@@ -1,23 +1,29 @@
 ---
 category: news
 title: "ThirdEye Announces AR Thermal Healthcare Holographic Solution for Hospitals"
-excerpt: "ThirdEye, a leader in Augmented Reality and Artificial Intelligence (AR/AI) solutions, today announces the launch of a fully integrated hardware and software package for"
-publishedDateTime: 2023-01-26T17:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30591862/thirdeye-announces-ar-thermal-healthcare-holographic-solution-for-hospitals"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30591862/thirdeye-announces-ar-thermal-healthcare-holographic-solution-for-hospitals"
+excerpt: "\"Now, the physician can give real-time feedback to the patient and the providers, and we've found that to be an invaluable asset.\" \"We are proud to continue to serve AR healthcare needs worldwide, especially in underserved areas,"
+publishedDateTime: 2023-01-26T19:04:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/01/26/9750201.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/01/26/9750201.htm"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "ZQYTgXxY+Batqvm0AlCopOzX8eD8B0tKuIUFuujkpl6ueuoYKYv/ltvvSW+K9chp+gKpK/nzhEuI8+JpV+BiPVdQZPfkZmF01coSYQnFw6XdbCOBfALDW/8eQ3C6uv8z6GJHYtoB9MZm1p9OaGnxI3CrQSDp7Rh8+YYf/metlANKFT99J6f841hfMLmEzO4G9ffS6JUjoMgi2BOlIdviElQou0TXWUB2nCrwXlCleOEW//12+sYzC4GMYd0eaejcYMSH0lidrhaC4VOBXWC3oSgqUDRcY0sq9FUvXOZ/+8qF2a1AK275r333gr+pGC5B4gaqTakn3Yhx80shbNv4UrwxckaFKeaXYYF2nCwLNn23F4bH1NL1EGUPq2ILreIKiL7lnZwB5xNlIlI0sCkRSGRRmy0KqLK9jo+NmE1CDLmRDkeZItKRUQBrWcazIXaonEEFaxYuN03kaFvDxe1gu1xS6aaLixr/OmsVa4+0IY/V96gImgaYdY2qFTu7x41BCAEIYPrrHB8EuVJzoan5ng==;iZmrUfzqirGTJxKuB/VkPg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1990643/HoustonPolice.jpg"
+    width: 300
+    height: 400
+    isCached: true
+
+secured: "nIruB0dI4dEjuTLSDZBQ9zUWlGKPK79H/+IxQA79NUvHEfffE8/rnPye5Bic4fTdM5KxO7H5Z2y0Pa2Ni0dLj3pux4QBRSFBYR0wHK+o/8IAzA6e/CMxJsF9pTW8Dm8C5N4hl4qhTi9+1kBa/NMs5E3/1zL+jsAVYl3Tlw6W3UGY2N17I5uNzflNCn71aswBUBg5RC8prNXoY52qLxGLiQzbqKsgwPcNv/q6YZLwTfpGMcLZtN654K29XMoU5rJT6jzltnsp8iwGDAjaF5hdLwJ6UbdM320yZ58KRzTfNBURT+uV1663xY+lk0HP0mlGreSBOVguW6GbCV+aztDG2OxyOnszMHHhs0viN7q7IG0=;EOHahSoOcShgJBkhFv0Qow=="
 ---
 

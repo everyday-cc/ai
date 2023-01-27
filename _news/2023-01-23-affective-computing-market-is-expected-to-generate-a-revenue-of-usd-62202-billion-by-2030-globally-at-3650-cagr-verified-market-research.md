@@ -2,9 +2,9 @@
 category: news
 title: "Affective Computing Market is expected to generate a revenue of USD 622.02 Billion by 2030, Globally, at 36.50% CAGR: Verified Market Research®"
 excerpt: "Verified Market Research® recently published a report, \" Affective Computing Market \" By Vertical (Media and Entertainment, Healthcare and Life Sciences), By Component (Hardware, Analytics Software, Cameras),"
-publishedDateTime: 2023-01-23T15:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-affective-computing-market-expected-generate-revenue-usd-62202-/2023/01/23/9747275.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-affective-computing-market-expected-generate-revenue-usd-62202-/2023/01/23/9747275.htm"
+publishedDateTime: 2023-01-23T15:38:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/01/23/9747275.htm"
+webUrl: "https://it.tmcnet.com/news/2023/01/23/9747275.htm"
 type: article
 quality: 0
 heat: -1
@@ -19,21 +19,23 @@ topics:
   - AI
 
 related:
-  - title: "Healthcare Assistive Robot Market to Reach $38,367.65 Million, Globally, by 2031 at 16.5% CAGR: Allied Market Research"
-    excerpt: "Increase in prevalence of spinal cord injury and musculoskeletal disorders and increasing geriatric population suffering from orthopedic disorder drives the growth of the global Healthcare Assistive Robot Market Increase in investment by players in R&D and presence of robust pipeline candidates rise in sports-related injuries and increase in adoption of healthcare assistive robots in rehabilitation therapies drives the growth of the global Healthcare Assistive Robot Market."
-    publishedDateTime: 2023-01-24T10:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/01/24/9747743.htm"
+  - title: "Artificial Intelligence in Healthcare Market Size Worth USD 12.22 Billion by 2030 at 51.9% CAGR – Report by Market Research Future (MRFR)"
+    excerpt: "According to a Comprehensive Research Report by Market Research Future (MRFR), \"Artificial Intelligence in Healthcare Market Information By Component, Application, Technology, End User ..."
+    publishedDateTime: 2023-01-24T14:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30548269/artificial-intelligence-in-healthcare-market-size-worth-usd-12-22-billion-by-2030-at-51-9-cagr-rep"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30548269"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30548269"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
-secured: "YeeqhRAJePIar6R1EXRobUqw3lsmq2+Yay45G0xIReSL32D705GoatD1MoPQaSTVIaA9zCUsk/Wj9BQY2gOEu8ODdBAV4QkEWCQoXQV0G73/rLzeZOR9gvR2Hf8CjxGPFys9jNwmTMxAvBuIhiSphac5Ij+dALHpFqfBmEpTQTKIFQxzbBTu5nr8851dcuYoJ90NoKAIpXb0AzaJ/NbhhLhzpN5lSsXKh8rWYlIQhOf6impJAqtlhI0hlZ+mJpmQJqCfa4cuZckywyfl5NhStWbGWLhkNrxgh2X3czZQgTXiP9aha8Gb2+FrtqwiN56do79mPHfgpGyKzKqNTemfUQ82xWC/UUsbCKqr58hUsd4=;I2Mw7b17/ehUf/+g4aA8PQ=="
+secured: "5RD2CjBA1BJmfu5GGGXaJlgb8rvkbkOPeTOXQFujgb4Qvh0yBf9a21mEdPJx3FaWg14hLjIGtKODR3PWFO5MkJysOMcaAETGoSDa+otraJArhGCa/JGJDOur1C0Hzzb7XwxZKmoOdRBNl7/SAkXuysrZ97mX72YWNVmB0x6IKSl/V6GcCeA7aTx8rXZCbp96JgdT1+e6sf3yQ4ceiK8lpDrAJdgpshFqBackZSZKDELSvuiFfQT6QnqMGpDRuRuD3U1j1Mf1llvwwSYfLyd1Qa+cB4aCimub9gpl1E0oMcWlR95O4CcBw0s2AQiaZHDS8IiLb+LX0BaY+VijBXTl1uLUHB0x4f/flTRJ9L5UXl4=;V1biFoxiW1VoJpQ1l2kA+g=="
 ---
 

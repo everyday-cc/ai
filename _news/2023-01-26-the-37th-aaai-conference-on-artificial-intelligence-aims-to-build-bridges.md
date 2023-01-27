@@ -3,21 +3,20 @@ category: news
 title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
 excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
 publishedDateTime: 2023-01-26T12:06:00Z
-originalUrl: "https://www.kansascity.com/press-releases/article271680117.html"
-webUrl: "https://www.kansascity.com/press-releases/article271680117.html"
-ampWebUrl: "https://amp.kansascity.com/press-releases/article271680117.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/press-releases/article271680117.html"
+originalUrl: "https://www.sacbee.com/press-releases/article271680117.html"
+webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
+ampWebUrl: "https://amp.sacbee.com/press-releases/article271680117.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271680117.html"
 type: article
-quality: 53
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -259,6 +258,6 @@ related:
       domain: boston.com
     quality: 17
 
-secured: "6mWqE+TZhrdDUorjkR96Kx1RbY3ZaJUTgacAbzlZDctj6cqN/jOkwwa7SX37QZceaypZ30Pipah8n8X46TXZx9rIn90nBrIqfDO4jYrIGVXCevzYSPNI2S3pCFU7jTIWol/uF1oH9KtjovQW6UAa3QlRjo1aEbDRors+P/WD+sN/R8O62VQD+gK3P0PqJtm6VhyZ9FFHSyYELNBmwkLmSsn16Dtd0tDLEmdXc+/WqIRb0UaOaCr3kEjj7nGSJbZLPpbT0jJ1nftANFjRJqZ7WyV6FvZGFBJJg3Oe7gO68tpA/a2VIj8GdN7b4NA4cNHCjsXXky4Ib8vL1RlbP+grkL/j4EkDyWHbcRQCZTcnjOzdlrY8KAasJhzybH7kCVRQEOF571wZkaGYyVqJJ5m8JFCEeYezgVVByYl11EgVwY0xTBPfF7FQfI0M8tid6KuB2RRH34YzDRCArQDOtKOPsmufRaJihrcQdmL0zZtfPMN/MeshZfpQsiAdX7AhkVr7l3B+dtEj9UiydBhRS7T6gQ==;iDQwkaT9siEFUdRr3f3u5g=="
+secured: "s84U87ywpl0KzI4IRBvj9dAWBV1DZLpxq9VioSuc4uz88Dr9jKDeCXGM9D/FccSei8hYPS7hbSZoXhfB4zEHXT2O2KD1nV93sbKIBTGBugRU7DMKvbEEH/3DJd9ja2XD0ZU/kOdJbyXkB/oQMPQSnE5iGWtYyoMAhTPdbsBjnOlKRFwTwQ9jNmdUj8H9VAynRMedgulXveM4pgO63HNgbvgctI+5sFmevN0MRZe75HjtSBBwX3VZwKiJkoFAgCrL7vkY8J9s9KU5zMgYnY/ZvhdsGe/kC1j48Y+773xEi8jSgDigWls8YeMOvtspP/9XGVurP/K0wG1S8uyhzwqD+L3eZTxYtWVo/lhKdDrWWHbwZv6/CotyrhBaVPc/5JcDLxKGlNGskdGpTHzEx+BfL8gvquhaZxywroIorFkgh7RYDBrxPO3LHQQzP6Skj8BfahA3M0CqDsHGwPuQCAyGcnlmXeE/TYNbWgcauNb//SY8W4kWgAdiuGfClghkFD/e7ecWmvZLyfiL4iFtje2GQQ==;gpZvBqDBq9MGYJuERxYJUQ=="
 ---
 
