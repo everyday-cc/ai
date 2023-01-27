@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-21-nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022.md",
+      "title": "NVIDIA RTX 40 Series graphics cards featuring Neural Rendering announced at GTC 2022",
+      "excerpt": "Ada Optical Flow Accelerator with 2x faster performance allows DLSS 3 to predict movement in a scene, enabling the neural network to boost frame rates while maintaining image quality ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/pc-components/nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022-65315.html",
+      "originalUrl": "https://www.digit.in/news/pc-components/nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022-65315.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/bd40753e91ed368544b99f2e7395022fbd8fb187.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/pc-components/65315/nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65315/nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022",
+      "publishedDateTime": "2022-09-20T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom.md",
       "title": "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com",
       "excerpt": "The \"Global Artificial Neural Network Market (2022-2027) by Component, Organization Size, Application, Deployment Mode, Industry Vertical, and Geography, with Competitive Analysis, Impact of COVID ...",
@@ -1299,50 +1342,6 @@
       "provider": {
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-ubs-leverages-machine-learning-to-optimise-venue-selection.md",
-      "title": "UBS leverages machine learning to optimise venue selection",
-      "excerpt": "UBS has developed a state-of-the-art machine learning (ML) technique to search for patterns in data that skew the outcome of passive order placement on equities venues towards higher fill rates, lower information leakage, lower market impact and lower ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
-      "originalUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetradenews.com/wp-content/uploads/2022/06/LiT-2022-260x260-1.jpg",
-          "width": 260,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The TRADE",
-        "domain": "thetradenews.com",
         "images": null,
         "publishers": null,
         "authors": null

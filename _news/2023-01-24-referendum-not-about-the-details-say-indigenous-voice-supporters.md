@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Sowing doubt and confusion about an Indigenous voice is Dutton’s game plan"
+    excerpt: "If the Coalition supported a voice to parliament enshrined in the constitution, it would have said so a long time ago"
+    publishedDateTime: 2023-01-23T13:03:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jan/24/sowing-doubt-and-confusion-about-an-indigenous-voice-is-duttons-game-plan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 2
+
 secured: "b80NSX5jFTnzEoz/i6fHxFRDe5XI55DyEtB87b7rf8AQDN197Zigt9iNcg4hziYmiaAfAQdCSI6G9e6uHWjmD6Q3naEtvVfbFzYf6irYlLAIVlZJB9jP18Ask5HT8PEfJxJokjsGrMIszi7tNqHCydI8ZZj5ck61oPSpNG4UYdA1BpEufpHR/HUy7r+/svC/HeYtDbsfMDYcFJ7KudDC+OFgi0JI93rDsn2te2DkKV6a727AHYWn74DjmVa6Z6rkjueepKHwHd9K2IofTeqJbQPB0k8xXfyOpm0bopgIiiCsWoVjNgOkLVfxX0j2KdJh4i6SUIN3dKWdpKH2ffg3UrjmtMQABSJfQm3miF4fHi5SPLWnZ8Qe0RRlSScbGnjGpsjkUc2AeuqmLJJ7u3kJbLvQZi4cXi+MnCzIm+LzIhpBrB5V47+wNRaTFUnENtZxmQg350hHe02UTR0mifZPQ1v2EuLyKeyDN83ezzjXlSVJ40mpgzBcPrLFXkAoArwakbDP0bFVrgJfOrh3uwawjQ==;nLiWKNt9JP6TYHLJVP2eGQ=="
 ---
 

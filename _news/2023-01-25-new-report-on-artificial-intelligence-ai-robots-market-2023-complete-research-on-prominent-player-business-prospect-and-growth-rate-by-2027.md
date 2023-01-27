@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial
 webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
 type: article
 quality: 62
-heat: 122
+heat: 102
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
-    publishedDateTime: 2023-01-25T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Technologies of Voice Recognition Market Research Report 2023-2027"
-    excerpt: "The “Technologies of Voice Recognition market” research study provides a detailed examination of the market based"
-    publishedDateTime: 2023-01-24T07:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-research-report-2023-2027-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
     excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
     publishedDateTime: 2023-01-24T05:53:00Z

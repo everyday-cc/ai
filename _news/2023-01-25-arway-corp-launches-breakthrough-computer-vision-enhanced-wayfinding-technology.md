@@ -7,7 +7,7 @@ originalUrl: "https://tulsaworld.com/ap/state/arway-corp-launches-breakthrough-c
 webUrl: "https://tulsaworld.com/ap/state/arway-corp-launches-breakthrough-computer-vision-enhanced-wayfinding-technology/article_415c2424-9671-5aab-bcaa-ef8d3c125524.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ARway announces launch of Computer Vision enhanced wayfinding technology"
+    excerpt: "ARway (CSE:ARWY) Corporation CEO Evan Gappelberg joined Steve Darling from Proactive to share news the company has announced an upgrade to the ARway platform with the launch of new Image Access Point technology. Gappelberg telling Proactive this technology ..."
+    publishedDateTime: 2023-01-25T17:08:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1004371/arway-announces-launch-of-computer-vision-enhanced-wayfinding-technology-1004371.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 38
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAxXC9TY3JlZW5zaG90LTIwMjMtMDEtMjUtYXQtNi0wNS0yMi1BTS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ARway Corporation: ARway Corp. Launches Breakthrough Computer Vision Enhanced Wayfinding Technology"
     excerpt: "Global Image Recognition Market Size Reached US$ 30 BillionTORONTO, ON / ACCESSWIRE / January 25, 2023 / ARway Corporation (\"ARway' or the \"Company\") (CSE:ARWY), (OTC PINK:ARWYF) (FSE:E65) is disrupti"
     publishedDateTime: 2023-01-25T12:43:00Z

@@ -29,29 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Recognition Market International Business Analysis, Development Outlook and Regional Strategies 2029"
-    excerpt: "In 2023, Current Speech Recognition Market Size | 2029 | Newest [117] Pages Report Speech Recognition Market Size"
-    publishedDateTime: 2023-01-24T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-01-23"
+  - title: "Image Recognition in Retail Market Is Booming Worldwide | Including 126 Pages Report"
+    excerpt: "In 2023] The Global Image Recognition in Retail Market Size (126 Report Pages) is estimated to be worth USD million"
+    publishedDateTime: 2023-01-24T01:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-is-booming-worldwide-including-126-pages-report-2023-01-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market Research Report 2022 by Product Type, Application, Region And Global Forecast to 2030"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2023-01-23T05:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-2022-by-product-type-application-region-and-global-forecast-to-2030-2023-01-23"
+  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
+    publishedDateTime: 2023-01-25T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Technologies of Voice Recognition Market Research Report 2023-2027"
+    excerpt: "The “Technologies of Voice Recognition market” research study provides a detailed examination of the market based"
+    publishedDateTime: 2023-01-24T07:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-research-report-2023-2027-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Study Latest Artificial Intelligence in Insurance Market Report 2023 Is Booming Globally by 2029 with Leading CAGR"
+    excerpt: "Global Artificial Intelligence in Insurance MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current"
+    publishedDateTime: 2023-01-27T05:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/study-latest-artificial-intelligence-in-insurance-market-report-2023-is-booming-globally-by-2029-with-leading-cagr-2023-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

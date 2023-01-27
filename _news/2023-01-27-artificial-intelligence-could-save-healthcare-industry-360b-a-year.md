@@ -7,8 +7,8 @@ originalUrl: "https://www.healthcaredive.com/news/artificial-intelligence-health
 webUrl: "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-savings-harvard-mckinsey-report/641163/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Healthcare Dive
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Who’s afraid of ChatGPT? AI in healthcare could save $360B"
-    excerpt: "A study claims AI could have an outsized financial and non-financial impact in healthcare. The next few years will determine whether the promise becomes reality."
-    publishedDateTime: 2023-01-24T21:03:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/whos-afraid-of-chatgpt-ai-in-healthcare-could-save-360b/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 54
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/01/GettyImages-1245391728.jpg"
-        width: 1024
-        height: 666
-        isCached: true
   - title: "Wider adoption of AI could save healthcare $360B, study says"
     excerpt: "The wider adoption of artificial intelligence tools in the healthcare industry could lead to savings of 5 to 10 percent of U.S. healthcare savings, or $200 to $360 billion annual savings. The paper, authored by researchers affiliated with Cambridge,"
     publishedDateTime: 2023-01-25T18:46:00Z

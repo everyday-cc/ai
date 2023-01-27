@@ -57,6 +57,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Artificial intelligence and machine learning are helping companies provide even better service for customers"
+    excerpt: "A new solution created by Hitachi in partnership with Penske utilizes AI and ML to predict problems before they arise, protecting the end customer."
+    publishedDateTime: 2023-01-27T18:52:00Z
+    webUrl: "https://www.businessinsider.com/sc/artificial-intelligence-machine-learning-solving-fleet-problems-2022"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/639c9113b7e0f20018095858?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI Deep Learning Predicts Brain Tumor Growth"
     excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
     publishedDateTime: 2023-01-24T15:21:00Z

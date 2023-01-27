@@ -29,34 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Recognition Market International Business Analysis, Development Outlook and Regional Strategies 2029"
-    excerpt: "In 2023, Current Speech Recognition Market Size | 2029 | Newest [117] Pages Report Speech Recognition Market Size"
-    publishedDateTime: 2023-01-24T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-01-23"
+  - title: "Global Driverless Car Software Sales Marketfrom 2014-2026"
+    excerpt: "(MENAFN- Nxtgen Reports) In this report, our team research the global Driverless Car Software market by type, application, region and manufacturer 2014-2020 and forcast 2021-2026. For the region ..."
+    publishedDateTime: 2023-01-23T06:45:00Z
+    webUrl: "https://menafn.com/1105463815/Global-Driverless-Car-Software-Sales-Marketfrom-2014-2026"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?120049"
+        width: 374
+        height: 250
         isCached: true
-  - title: "Facial Recognition Market is Estimated to Accelerate Industry Growth in Analytics Sector with Top Significant Players"
-    excerpt: "Facial Recognition Market Report 2023 is spread across 112 Pages and provides exclusive statistics data, and competitive landscape of Facial Recognition Market in niche sector. The global Facial Recognition market size was valued at USD 3975."
-    publishedDateTime: 2023-01-23T16:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-estimated-to-accelerate-industry-growth-in-analytics-sector-with-top-significant-players-2023-01-23"
+  - title: "Asia-Pacific Driverless Car Software Market Assessment 2020-2026"
+    excerpt: "(MENAFN- Nxtgen Reports) In this report, our team research theAsia-Pacific Driverless Car Software market by type, application, region and manufacturer 2014-2020 and forcast 2021-2026. For the ..."
+    publishedDateTime: 2023-01-23T06:45:00Z
+    webUrl: "https://menafn.com/1105463816/Asia-Pacific-Driverless-Car-Software-Market-Assessment-2020-2026"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "DjAWaS/4T/nEg2c3wPHELjYH3Q0GRPV8ZAf1P/k+N7ZCL4BJXp5AbiT7Okgd4lffWasqXW+OgYeDG8F4KT9DmizExUiPED5szC7t2PmEM/vBUvVg0IUHunlayfdD9rjD1TmvGJcRLHE3Hq3YSuJ2h9TtXgplG6DTo23ppqsKDhrZDH/esPDW82AvXHc2SaQhfp/JULLWUte4m3R4v4jeSyPmvrbK5QbcVSqzVokZbo9/FDUmLH1AsoLtjpBNIuYqjyrq1QboAtUD4BHkrNMN+o5/BsxdS9TESmOy0MFUbzB/tpxvn3+Y5FcKroE2GvpXvDngTWSitoLsyofo0nb9AVb7QkbBEBwmCUkTE/26LB4=;6+vU4bdYV648DnireBv9vA=="
 ---

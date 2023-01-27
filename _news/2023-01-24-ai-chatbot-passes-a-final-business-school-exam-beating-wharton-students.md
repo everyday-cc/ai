@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "An AI bot passed this Wharton professor's exam. Here's why he's not concerned"
+    excerpt: "Wharton professor Christian Terwiesch was sitting with his grown children around the dinner table when the subject of artificial intelligence came up. Both of his kids had been experimenting with the nascent technology in their respective fields: \"one of them is interested in"
+    publishedDateTime: 2023-01-27T18:27:00Z
+    webUrl: "https://phys.org/news/2023-01-ai-bot-wharton-professor-exam.html"
+    ampWebUrl: "https://phys.org/news/2023-01-ai-bot-wharton-professor-exam.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-ai-bot-wharton-professor-exam.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-1.jpg"
+        width: 1920
+        height: 1175
+        isCached: true
   - title: "Rep. Jake Auchincloss uses ChatGPT artificial intelligence to write House speech"
     excerpt: "ChatGPT, artificial intelligence could change the future of education 02:26 BOSTON - During his appearance on the floor of the US House of Representatives Wednesday, Congressman Jake Auchincloss made history not for the content of his speech, but for how ..."
     publishedDateTime: 2023-01-26T10:42:00Z

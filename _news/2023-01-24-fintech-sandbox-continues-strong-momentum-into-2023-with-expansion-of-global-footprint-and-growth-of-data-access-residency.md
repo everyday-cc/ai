@@ -265,6 +265,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 4
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "\"Excellarate has a long history serving a wide range of fast-growing clients in HealthTech, FinTech and InsurTech and we are thrilled to welcome them to the Encora family,\" said Venu Raghavan, Founder and CEO,"
+    publishedDateTime: 2023-01-27T18:31:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230127/4031668.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "q1FF5uIK6bMiuIW3E/Nu9VcEQpSqWMa3I113WJaqPJ0u0Q5k+uAbJI8JIKIL7UfUIluYFEnHgH1Fl17P5/uMl/Q5Fin2/VcqHIhYVs+v5kHf9TeLk6+hwwjbuuk1xNOKu4Ade2qEZxfJTX/ZhDgpuftFw0mckD+o5oj9b3AOoM9YEAB8yQeNYKwzpHhaEyx5SvRctCO79C1CD6IasNpVpr86+gH1s+Qq1CfX2spez7j8OYVD0BCJOL9Ktnkl2LByOzid2wy+As+A6VRzLDtCLMpCnN+zP5kiHn8ui8hVE5P622pHid6fJd2vwCs2UoR0umi7lCCOvcYvfSuqIGcRCipKNR0sEldxfAQ7fC7b2Sg=;zeZ3UATGs0OhPM5R2sEneQ=="
 ---

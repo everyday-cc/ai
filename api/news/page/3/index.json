@@ -62,7 +62,7 @@
       "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -608,15 +608,15 @@
       ]
     },
     {
-      "path": "_news/2023-01-24-speech-recognition-market-international-business-analysis-development-outlook-and-regional-strategies-2029.md",
-      "title": "Speech Recognition Market International Business Analysis, Development Outlook and Regional Strategies 2029",
-      "excerpt": "In 2023, Current Speech Recognition Market Size | 2029 | Newest [117] Pages Report Speech Recognition Market Size",
+      "path": "_news/2023-01-24-image-recognition-in-retail-market-is-booming-worldwide-including-126-pages-report.md",
+      "title": "Image Recognition in Retail Market Is Booming Worldwide | Including 126 Pages Report",
+      "excerpt": "In 2023] The Global Image Recognition in Retail Market Size (126 Report Pages) is estimated to be worth USD million",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-01-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-01-23",
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-is-booming-worldwide-including-126-pages-report-2023-01-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-is-booming-worldwide-including-126-pages-report-2023-01-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -632,7 +632,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-23T19:08:00-08:00",
+      "publishedDateTime": "2023-01-23T17:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -655,7 +655,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -815,7 +815,7 @@
       "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 278,
+      "heat": 288,
       "tags": null,
       "images": [
         {

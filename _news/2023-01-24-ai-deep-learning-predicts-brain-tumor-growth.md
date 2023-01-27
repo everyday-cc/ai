@@ -51,6 +51,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Artificial intelligence and machine learning are helping companies provide even better service for customers"
+    excerpt: "A new solution created by Hitachi in partnership with Penske utilizes AI and ML to predict problems before they arise, protecting the end customer."
+    publishedDateTime: 2023-01-27T18:52:00Z
+    webUrl: "https://www.businessinsider.com/sc/artificial-intelligence-machine-learning-solving-fleet-problems-2022"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/639c9113b7e0f20018095858?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Artificial Intelligence is Transforming Banking"
     excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
     publishedDateTime: 2023-01-23T22:57:00Z
@@ -116,6 +130,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "0L4WUoFgOO9IzIFbkLlYo1QnWeVdIXxr41dZVABQK02SyFHprv+verQckCPUmUA6D0NtC+x9dBYup3wHxn0tEHW+PuQrXs0pBlspUrvY6OTZiVLil2PZvKPhVkJ65nM4+eIQg5Iz/sVzPK3pUTOzDdNw2Xf+xm3ZQEDYeGfLBlc2CXSpMyIgkcoo8dU4tHOHIuv9OiTuUw+TzyE0KXoMZbYv/L7p14KK9yDdX7GZFFX0WR1VzeJoYQpmmOTAhe2PFKSU1SPVmmhWGBP19Xf3aea1Ujzorh6Sj1fsvmTq//TeV9dg7IF1NxRuoQ+YBXx6rcCULszfCU5rXXRQf5XxaoTP3cWdBPe2WcOx+c0zQOY=;BgMP5zhsuFho4gvI8PFHHA=="
+secured: "KDRElUZ1A+8Dtf+OxkosMMiFomnqpQ/9jtMywXwsJp38MlFrWJ3H4CuXo0zMkHFjngzcL5NC911O9r4UmZjmYHsgEzxPNKfNa64l8DfMGiC6tSIHWv67nGG6XqkZavrb/1RdqMu1d8Hf3vjD/InSIPKjndqwhRMQoGrAgiciX/p7SmcjVEnm1PEVnMC3XhQgh0wr93ij0xJVUkGLawD7HVMzofsI5eSROwM65E05CZAw0TjwymzMCX9pv6Gp1OmdwkYHwH51AaXv9lgveAJbQVwGuBa8NTldoDOrIqMWi1y2bz3vaSXAe32jVic44IRUCvnl904xdZ0l1KGLYY8ZeIMl+f5gxq8/ai+mDWxLpTw=;mGkUjykeN9gbpXqnkTUIIg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1674811132/itpro/2023/January/GettyImages-830982288.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "Artificial intelligence and machine learning are helping companies provide even better service for customers"
+    excerpt: "A new solution created by Hitachi in partnership with Penske utilizes AI and ML to predict problems before they arise, protecting the end customer."
+    publishedDateTime: 2023-01-27T18:52:00Z
+    webUrl: "https://www.businessinsider.com/sc/artificial-intelligence-machine-learning-solving-fleet-problems-2022"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/639c9113b7e0f20018095858?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How Artificial Intelligence is Transforming Banking"
     excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"

@@ -39,20 +39,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Who’s afraid of ChatGPT? AI in healthcare could save $360B"
-    excerpt: "A study claims AI could have an outsized financial and non-financial impact in healthcare. The next few years will determine whether the promise becomes reality."
-    publishedDateTime: 2023-01-24T21:03:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/whos-afraid-of-chatgpt-ai-in-healthcare-could-save-360b/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 54
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/01/GettyImages-1245391728.jpg"
-        width: 1024
-        height: 666
-        isCached: true
 
 secured: "LRjbEPgzAo8NId5JLgHH+nFeewxOoD8YhTwdPFjY+Kienz/2dXhsCKQ/7S/Bgg0FnYHPN/S71F2HTWgEpwkMHFu5xs+LKIBDi/lPKP7DDd9Flf+xLQ1veXNO787iQopDSe92azH4m7pAlDYVdCSnPlUbcvSNtARMFSN4/G0e+9Z77Dg+tHvpuExJkjTfQoWu/hbewRuoRhsAPtm4RkiDR0sqIfWqY+/7u2xK8HQEBz7adMETllfpHWcO3eEClDisN0aaCzKlG85YnOJ4SvjfCY5U7dFrKiJLwoy18zUk7d41vrJDIOmWFrlbSSQ3zFz4ornIdPTOD7umgjymRoUNl/rXCmH3VNMlsKCm0CrLobg=;AYuY38zP8jIVj0URI17OnQ=="
 ---

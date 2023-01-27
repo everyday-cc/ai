@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "ARway announces launch of Computer Vision enhanced wayfinding technology"
+    excerpt: "ARway (CSE:ARWY) Corporation CEO Evan Gappelberg joined Steve Darling from Proactive to share news the company has announced an upgrade to the ARway platform with the launch of new Image Access Point technology. Gappelberg telling Proactive this technology ..."
+    publishedDateTime: 2023-01-25T17:08:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1004371/arway-announces-launch-of-computer-vision-enhanced-wayfinding-technology-1004371.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 38
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAxXC9TY3JlZW5zaG90LTIwMjMtMDEtMjUtYXQtNi0wNS0yMi1BTS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ARway Corp. Launches Breakthrough Computer Vision Enhanced Wayfinding Technology"
     excerpt: "TORONTO, ON / ACCESSWIRE / January 25, 2023 / ARway Corporation (\"ARway'' or the \"Company\") (CSE:ARWY), (OTC PINK:ARWYF) (FSE:E65) is disrupting the Augmented Reality Wayfinding market with a no-code,"
     publishedDateTime: 2023-01-25T11:31:00Z

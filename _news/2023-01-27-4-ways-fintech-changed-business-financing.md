@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
 type: article
 quality: 74
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -269,6 +269,15 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
+    quality: 0
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "\"Excellarate has a long history serving a wide range of fast-growing clients in HealthTech, FinTech and InsurTech and we are thrilled to welcome them to the Encora family,\" said Venu Raghavan, Founder and CEO,"
+    publishedDateTime: 2023-01-27T18:31:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230127/4031668.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "m12TXKwVQZsEa58p476uNTI9piKUI30Mlrus70L+B1uMtr7+Pcwpf2ks2/9FJn6b5lwouYsxXppcKKU6gaqgy53EOL9bt4jnUsfXdvnKo+cQYULSjYOgJVr9A2Nky0CzNJ3dpXi+6trRZbE8B6HKQYaj/wNSaX14at6ak2sO55ML1LBLa3MSmPrGtX7WfqHevO5Ory5Jsz4LZ79jq4MTTYrSeLoiH91t/00uh9ueD7SNs30cOCPDEmPoB+VGe6xIZHw4s4OcGGr8pxtCdI8kcLT3Pd7D04y3MTTZCnJdFR4ivqKE/WGY3VHshYQdXED/ykui/+Xw2yo/xlJVHkN5X5B/+d9xk/Lx3fyMLTEY6A0=;m47n+togN7knW8vsjsV4uQ=="

@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View"
-    excerpt: "AI in Computer Vision market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR"
-    publishedDateTime: 2023-01-23T01:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enterprise Artificial Intelligence Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2028"
     excerpt: "Enterprise Artificial Intelligence Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
     publishedDateTime: 2023-01-24T10:47:00Z

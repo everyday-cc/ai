@@ -265,6 +265,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "\"Excellarate has a long history serving a wide range of fast-growing clients in HealthTech, FinTech and InsurTech and we are thrilled to welcome them to the Encora family,\" said Venu Raghavan, Founder and CEO,"
+    publishedDateTime: 2023-01-27T18:31:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230127/4031668.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "eitz/jDgjNA5tgvC0nqk3lPHHTekUXHKX7aiy15bjMDGg0BBbyn6KDoZepJb16eYZ/zU8iq1D4M5Evod3WP2YSd8StJ9gbqlozSemLvBFce1KiBJxzpZjXLFc63Yk1o7JFk68wskQlGoO5lEUEt0JIJrzlZF/G216Uzl8fZ9RUWC52CWgfU72rQw1SfM0p9W4FT1hIoeXWjfGicKsKlNSvVslq26+ojnLIqLiRqvWbBdRs9Ribx7Xr+2LsJnu48C4/XQjR3asBXBJMd0aMCOTzmx/K8A6nQKB4dLLI4cJj+zU/LmRaCc515iWIAyRqHwqDTowGrQ0vvn35avHDqITd6x2VZLV5kwc4KPJg7liZT802Ygf21Wuolzp8/zFJGhuEHCcph+poVMyByXd6fmT732ZizzBUOf/yOKkDc4FBX1SjutaGivHRI5RadrPXUlp0awGFztAvpR6IIfOj4TbehrzbBNumfxCgn6/1zf5qnrtg/3Y/1eXH1yYPa9AWAvAvltD9bpx2n+vAXGgQAp5Q==;751mMNbgIbl97dpse0nLDg=="
 ---

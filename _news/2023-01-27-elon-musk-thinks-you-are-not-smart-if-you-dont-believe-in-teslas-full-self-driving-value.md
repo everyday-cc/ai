@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
+    excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
+    publishedDateTime: 2023-01-27T18:16:00Z
+    webUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 71
+    images:
+      - url: "https://www.slashgear.com/img/gallery/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/l-intro-1674842787.jpg"
+        width: 1600
+        height: 897
+        isCached: true
   - title: "Elon Musk kills hope of Tesla retrofitting new Autopilot/Self-Driving hardware"
     excerpt: "Elon Musk has killed the little hope some had for Tesla in offering a retrofit to the new Autopilot/Self-Driving"
     publishedDateTime: 2023-01-26T16:29:00Z
@@ -43,6 +57,38 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Will We Blame Self-Driving Cars?"
+    excerpt: "A new study finds that people are likely to hold autonomous vehicles liable for accidents even when they’re not at fault."
+    publishedDateTime: 2023-01-26T14:07:00Z
+    webUrl: "https://www.wsj.com/articles/will-we-blame-self-driving-cars-11674745636"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-710024/social"
+        width: 1279
+        height: 640
+        isCached: true
+  - title: "Ford Beats GM And Tesla For Best Active Driving Assistance System"
+    excerpt: "These systems take advantage of the array of sensors that are present on many modern cars. Tesla's Autopilot and Full Self-Driving features recently came under fire after the system's capabilities were reportedly exaggerated in a demo video from 2016."
+    publishedDateTime: 2023-01-25T19:35:00Z
+    webUrl: "https://www.slashgear.com/1178519/ford-beats-gm-and-tesla-for-best-active-driving-assistance-system/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 49
+  - title: "Consumer Reports calls Ford’s automated driving tech much better than Tesla’s"
+    excerpt: "Tesla's Autopilot, which at its core combines lane keeping assist with traffic aware cruise control to help guide a car down a highway, was once groundbreaking technology."
+    publishedDateTime: 2023-01-25T19:54:00Z
+    webUrl: "https://www.cnn.com/2023/01/25/business/consumer-reports-ford-bluecruise-tesla"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 46
   - title: "The future of testing self-driving cars"
     excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
     publishedDateTime: 2023-01-25T23:24:00Z

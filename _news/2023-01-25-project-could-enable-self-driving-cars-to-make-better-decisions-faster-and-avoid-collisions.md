@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-01-enable-self-driving-cars-decisio
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-enable-self-driving-cars-decisions-faster.amp"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1680
     height: 1276
     isCached: true
+
+related:
+  - title: "Seattle startup aims to change surgery using AI, computer vision and augmented reality"
+    excerpt: "The system relies on advances in light field imaging, computer vision, machine learning, robotics and augmented reality. The surgeon can see the relevant anatomy in three dimensions on a screen ..."
+    publishedDateTime: 2023-01-26T01:41:00Z
+    webUrl: "https://www.geekwire.com/2023/seattle-startup-aims-to-change-surgery-using-ai-computer-vision-and-augmented-reality/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2022/11/Proprio-Chief-Medical-Officer-and-Co-found-Dr.-Sam-Browd.jpg"
+        width: 4096
+        height: 2160
+        isCached: true
 
 secured: "4aCR/m4W+XKmfNTht6tElV8xzCJ63yq+xWgpn/WKceB3MbG2VnMraUrUSdolV+F+YEmK1fYM3Iv1/9g85UbbQ+oD8BAE3IMk3M8p48w8QJspgSdlr2k37lFSdJN3EzDB7MomUgsxdtRCI8uKOtaxcETvPUowgTUW3cFEOFucEHjdDBO9uInFeWxZ9JAcL1LZkr9Z0IQsWB1hdDB54YUxoqZI8zSjZytOoCBu5N2OGNA5dyScDSKuFnsqonFi7UNZeF10mxATWooaT7ISsvWjWwjtvJTb3BGxdM5kBuhCFSrccMe4WG6O5ffDunv1J9C7785sQnBdtgTBXjS72atvQ0RV9SL3QVEoc25sxz9wBJKiq+GxOzH3aEkDGDnAJ5bMSCYLOhd1Dxj0NSpJbVittbZVpyfkN6X9nh331bs4CJrqBB8bR4V/kyV1BHzxPAhMHLNy450+oM8bBFuoGxT7XOZdnjW8NDrWnKj7eIUglXyusstU5A6i8AyO44r4IG1VGsVZePq2zoMsZOjCDN1cSQ==;6BV0OqcnX8ix58kHt3CMVw=="
 ---
