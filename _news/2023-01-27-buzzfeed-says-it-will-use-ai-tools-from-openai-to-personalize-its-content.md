@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "BuzzFeed and AI Are a Match Made in Fad City"
+    excerpt: "Shares of struggling digital-media company BuzzFeed Inc. soared as much as 200% on Thursday after saying “AI inspired content” will become “part of our core business” this year. It apparently mattered little to investors that the type of content BuzzFeed has in mind includes its signature quizzes (“Try to Identify 8/8 of these Famous Rodents If You Can” or “If You Paid Attention In Third Grade,"
+    publishedDateTime: 2023-01-27T12:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-01-27/buzzfeed-bzfd-and-ai-are-a-match-made-in-fad-city"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2p2.K7DK4Ao/v1/1200x801.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Buzzfeed to use AI to ‘enhance’ its content and quizzes – report"
     excerpt: "Platform will also use technology from ChatGPT’s artificial intelligence firm, Open AI, to ‘inform’ brainstorming"
     publishedDateTime: 2023-01-26T23:00:00Z

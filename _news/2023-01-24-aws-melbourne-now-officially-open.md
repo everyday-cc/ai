@@ -41,17 +41,17 @@ related:
         isCached: true
   - title: "AWS Launches Second Infrastructure Region in Australia"
     excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
-    publishedDateTime: 2023-01-23T23:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia"
+    publishedDateTime: 2023-01-24T04:28:00Z
+    webUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 39
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82691.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AWS opens Melbourne region"
     excerpt: "The Melbourne region follows a long way behind AWS’s original entry into the Australian market, the Sydney region which launched in 2012. The region consists of three availabili"

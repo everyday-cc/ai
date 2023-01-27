@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/5-ways-how-fint
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/5-ways-how-fintech-is-revolutionizing-msmes/443779"
 type: article
 quality: 54
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "4 Ways Fintech Changed Business Financing"
+    excerpt: "Fintech’s influence will continue to ripple in the finance world as technology advances, but here are four key impacts our industry has had so far."
+    publishedDateTime: 2023-01-27T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6170329671bdc8c063550907/0x0.jpg?format=jpg&width=1200"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Trends and Big Ideas Shaping Fintech in 2023"
     excerpt: "At Visa, we see our work with fintechs as one of our greatest opportunities. Fintechs are changing the game, reinventing the ways consumers manage their finances, and businesses manage their operations."
     publishedDateTime: 2023-01-26T18:38:00Z
@@ -75,6 +91,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "UAE’s B2B Fintech Alaan Secures $4.5M via Pre-Series A Round"
+    excerpt: "Since the last financing round, not only have we launched and expanded quickly but we have also been able to introduce remarkable product innovations, including AI-powered workflow ... and other forms of Fintech. Financement Participatif France (FPF ..."
+    publishedDateTime: 2023-01-26T00:32:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Andrew-Jackson-Money-20-Dollars-Green.jpeg"
+        width: 1200
+        height: 1192
+        isCached: true
   - title: "Lloyds Bank invests in car payment FinTech"
     excerpt: "Lloyds Banking group has invested £4 million in “all-in-one” motoring app Caura. According to the FinTech, many of the 30 million drivers in the UK use between eight and 10 apps and websites to manage their vehicles."
     publishedDateTime: 2023-01-26T12:02:00Z
@@ -89,6 +121,29 @@ related:
         width: 515
         height: 215
         isCached: true
+  - title: "Unleash the Power of AI With STARFETCH, a Fintech that Empowers Investors"
+    excerpt: "This does not mean that AI can replace human traders. Financial institutions can improve the effectiveness and efficiency of their trading operations by fusing the analytical prowess of AI with the imagination and intuition of human traders."
+    publishedDateTime: 2023-01-23T14:59:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/unleash-the-power-of-ai-with-starfetch-a-fintech-that-empowers-investors/111268"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 38
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2023-01/a0a70a17-4f56-492d-9a06-7237e4b7c7d5/unnamed__21_.png?w=700"
+        width: 512
+        height: 258
+        isCached: true
+  - title: "Fintech Stocks Face-Off: SOFI vs. UPST vs. AFRM"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips After a rough 2022, smart investors know when to make the most of an"
+    publishedDateTime: 2023-01-23T22:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-stocks-face-off-sofi-vs-upst-vs-afrm-1032035056"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Top 10 fintech disruptions to watch out for in 2023"
     excerpt: "From new technologies to tough regulations for crypto, 2023 is already looking like a year of change for fintech."
     publishedDateTime: 2023-01-24T12:10:00Z
@@ -102,6 +157,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1800/b9ea599af5e4cdf45bd09a2efce17d09:2d2218789124b00b58b28baca6ef5e04/gettyimages-1130023029.jpg.jpg"
         width: 1799
         height: 1010
+        isCached: true
+  - title: "FinTech Bolt ‘cuts 10%’ of workforce"
+    excerpt: "One-click checkout FinTech Bolt is reportedly cutting 50 roles, around 10 per cent of its workforce. <br /> <br /> US business publication The Information reports that the company has now culled more than half of its headcount since May 2022,"
+    publishedDateTime: 2023-01-26T11:35:00Z
+    webUrl: "https://www.fstech.co.uk/fst/FinTech_Bolt_cuts_10_of_workforce.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
         isCached: true
   - title: "Reasons Why You Should Consider a Career in Fintech"
     excerpt: "If you’ve always wanted to work in fintech, you’ve come to the right place. Fintech is an exciting field with plenty of potential. As a matter of fact, there’s always something new happening in this field."
@@ -147,6 +216,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Shufti Pro Sweeps Ultimate FinTech Awards 2023 with Three Major Wins"
+    excerpt: "Globally acclaimed for its state-of-the-art identity verification and KYC/AML solutions, Shufti Pro wins three major Ultimate Fintech"
+    publishedDateTime: 2023-01-23T15:06:00Z
+    webUrl: "https://www.01net.it/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 4
   - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
     excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
     publishedDateTime: 2023-01-23T19:30:00Z
@@ -155,6 +233,15 @@ related:
     provider:
       name: Financial IT
       domain: financialit.net
+    quality: 4
+  - title: "Shufti Pro Sweeps Ultimate FinTech Awards 2023 with Three Major Wins"
+    excerpt: "wins three Ultimate FinTech Awards 2023 under the categories of \"Best Fintech AI Solution,\" \"Best Regtech Reporting Solution,\" and \"Best Client Onboarding Solution.\" Honouring excellence across ..."
+    publishedDateTime: 2023-01-23T16:11:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58124943-shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 4
   - title: "The Emerging FinTech Trends That Will Shape 2023"
     excerpt: "Here are some of the financial technology trends that I believe might be key in shaping the sector in this new year: Open-banking: open banking has been at the forefront of fintech trends for the past few years,"
@@ -174,6 +261,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 4
+  - title: "Fintech Sandbox Continues Strong Momentum into 2023 with Expansion of Global Footprint and Growth of Data Access Residency"
+    excerpt: "Nonprofit Continues to Have High Demand from Early-Stage Startups as it Makes a Positive Impact with its Programming and Community-Led EventsBOSTOM, MA /  / January 24, 2023 / Fintech Sandbox"
+    publishedDateTime: 2023-01-24T14:06:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58133831-fintech-sandbox-continues-strong-momentum-into-2023-with-expansion-of-global-footprint-and-growth-of-data-access-residency-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "LrAAISlXrIMkCNPlt+xDjZA8ZsR7fU17YRs+J9hIZpDhO1szLlzvKPRLGI/iAIrbpVoZrCZQaBsc6FhME3+pffRSzn3DxISKco17eyPyMsGPPN+1Ncsqg1TP6tySF8rx4yR6XMSQmMzsfsex8fgPhSnToEeGoQ9ZRWgUpXcMFA60a8zbWMaRgBih6quI3IpyqEpr3wOM53m6vVv6tfWjgfHJQjP/Bp0KviTkkkTyWqTAWp1emuhUBePIZ7eLHuurh65b9Uj9ekW7Lp2vxcHq+3MIMkkEEpMiJM2n27xYFABSNfK+YLnd7+7TBAcpZo2wVG8igq0P2tWLuqWnnvhxN/Mb3wVpiHVDgUBh1dtb2jo=;z5fP8GnGr5t1Kk9OAX8o7Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatg
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
+    excerpt: "ChatGPT is a revolutionary new artificial intelligence which has passed a law exam and is replacing white collar workers - with one expert saying 'the wolf is at the door'"
+    publishedDateTime: 2023-01-27T12:56:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 55
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Inside the mind of ChatGPT: How artificial intelligence is changing the way we learn"
     excerpt: "The future is here, and it can do your homework. Artificial intelligence, like the popular ChatGPT app, is ripe for exploitation by students, experts say."

@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
+    excerpt: "ChatGPT is a revolutionary new artificial intelligence which has passed a law exam and is replacing white collar workers - with one expert saying 'the wolf is at the door'"
+    publishedDateTime: 2023-01-27T12:56:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 55
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google plans to demo a version of its search engine with AI chatbot features and launch 20 new products, following ChatGPT 'code red,' report says"
     excerpt: "Google is increasingly focusing on AI projects, following the launch of OpenAI's ChatGPT, the New York Times reported."
     publishedDateTime: 2023-01-23T11:41:00Z

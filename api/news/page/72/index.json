@@ -2,6 +2,49 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2022-11-19-mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility.md",
+      "title": "MI: Report: Michigan must boost investments, grow workforce to lead in mobility",
+      "excerpt": "Michigan must support new ways to expand its mobility workforce, invest in rapid transit and put in place a state-level consumer incentive for electric vehicles to bolster its position as a transportation leader.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masstransitmag.com/management/news/21287658/mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility",
+      "originalUrl": "https://www.masstransitmag.com/management/news/21287658/mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.masstransitmag.com/files/base/cygnus/mass/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mass Transit",
+        "domain": "masstransitmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-ai-in-computer-vision-market-new-report-by-global-industry-analysis-share-new-technological-trends-till-2027.md",
       "title": "AI in Computer Vision Market New Report by Global Industry Analysis - Share & New Technological Trends till 2027",
       "excerpt": "The global AI in Computer Vision market size was valued at USD 3571.46 million in 2022 and is expected to expand at a CAGR of 22.07% during the forecast period, reaching USD 11818.3 million by 2027. The report combines extensive quantitative analysis and ...",
@@ -1108,49 +1151,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-1-in-3-older-americans-have-cognitive-impairment-or-dementia.md",
-      "title": "1 in 3 Older Americans Have Cognitive Impairment or Dementia",
-      "excerpt": "Oct. 25, 2022 – A new study shows one-third of Americans age 65 or older have mild cognitive impairment or dementia. The study, published in the journal JAMA Neurologyon Monday, is the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.webmd.com/brain/news/20221025/1-in-3-older-americans-have-cognitive-impairment-dementia",
-      "originalUrl": "https://www.webmd.com/brain/news/20221025/1-in-3-older-americans-have-cognitive-impairment-dementia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/alzheimers_disease/1800x1200_woman_holding_hands_with_senior_woman.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WebMD",
-        "domain": "webmd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

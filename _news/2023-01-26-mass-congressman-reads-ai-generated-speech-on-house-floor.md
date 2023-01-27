@@ -128,14 +128,14 @@ related:
         isCached: true
   - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
     excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
-    publishedDateTime: 2023-01-26T12:06:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
-    ampWebUrl: "https://amp.sacbee.com/press-releases/article271680117.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271680117.html"
+    publishedDateTime: 2023-01-26T13:08:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article271680117.html"
+    ampWebUrl: "https://amp.miamiherald.com/press-releases/article271680117.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271680117.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 51
   - title: "2023 Will Be A Defining Year For AI And The Future Of Work"
     excerpt: "Real-Time Translation: AI could be used by global organizations for universal and real-time translation across languages. For any leader considering AI as a force multiplier for their organization, here are three rules to consider before embarking on your ..."
@@ -257,6 +257,15 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Google, not OpenAI, has the most to gain from generative AI"
+    excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
+    publishedDateTime: 2023-01-27T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90839649/google-not-openai-has-the-most-to-gain-from-generative-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "mF9v6utubvIjlEGAf/JetrRixhPwizgWp4cNA3ZITi1CwANZSHq5ewo9asearBmFrMrt7b/PnmIeEqgkoFT/bd2w6v30T4AM++mfQrXVt9/lE8lrDeeBrgc42ZRnlOapCPlMQDlfk6ngm+u4w+vEumtLwWmuj/0cMb4crx30N5tW7/sUlaB191bUd5n8WxNZrEKpEWdd5ypbZq8d26dbxgTXpe1sNgYPEKT2Yvu259vqCnU3Z3EWP6fX0m5YgEO1y3gZiYYWd9qcQD3dWS3J+hgDjKrf1H/zpRbv81yFndn1TSmu1FkgVOQ+laGr29IjeGbCxO8VFu6u5tZ99ugJ0aY2/5VH0TEPwbO3typPyWG/NZUHgsCHoo9TG7+CmVzhi8L0DWk8vNrLuViLTfwLDxdsyCGv7JhxdFO4aALCbFqldtLGIQC1EqVeE66GJQSS2vlDS9shEeBCilHSpA6Xb6yeCrNtcPqtR35wNLaLZQLYqloXRpUrmg69YZ8o/xxwbS/Vo/o7fIKgMoE56K5MUg==;oZi3jTxMmROB0afEV/8UMQ=="
 ---

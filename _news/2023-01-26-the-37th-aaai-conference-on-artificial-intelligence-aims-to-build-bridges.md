@@ -2,19 +2,19 @@
 category: news
 title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
 excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
-publishedDateTime: 2023-01-26T12:06:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article271680117.html"
-webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
-ampWebUrl: "https://amp.sacbee.com/press-releases/article271680117.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271680117.html"
+publishedDateTime: 2023-01-26T13:08:00Z
+originalUrl: "https://www.miamiherald.com/press-releases/article271680117.html"
+webUrl: "https://www.miamiherald.com/press-releases/article271680117.html"
+ampWebUrl: "https://amp.miamiherald.com/press-releases/article271680117.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271680117.html"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI
@@ -248,6 +248,15 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "Google, not OpenAI, has the most to gain from generative AI"
+    excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
+    publishedDateTime: 2023-01-27T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90839649/google-not-openai-has-the-most-to-gain-from-generative-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
   - title: "Mass. congressman reads AI-generated speech on House floor"
     excerpt: "Auchincloss said part of the decision to read a ChatGPT-generated text was to help spur debate on AI. Read more at Boston.com."
     publishedDateTime: 2023-01-26T14:29:00Z
@@ -258,6 +267,6 @@ related:
       domain: boston.com
     quality: 17
 
-secured: "Ihah0iu3lfOMfe4vuyAtahXhnPtbJGp51T9kAxcMETXaqZceYBtnDuvgrkRKOLfFtRwy4OUvv+HYWxIL8SctiV8MvSwLrZLPvObDdFLbiM4sXGpe9PjhGslTqhUeC54L/GtfJSlgyKcdVazhPFdmX/Sof0yh9oqw20G+DAV5Wmeqeaz32A5JNdvuasm92+QOOuv02gCQr85eIB1toLLuucl6akapAlTuAzvr7mZOjYh/Ly9IgTRY5MjKelI5HPeINqWBWh56TEfw9IXlemHBji2OGRcQixoqNNie8ttyMIvW38xmDiNmj7hr2mN8UPzGEx/MzamYMhbies4rzMD0LcVymqTtk5HD5JB+YLr3nBR8UtOUCOmTHrtizl4s7tED2JoQZY4NDBSt9znXQY1ds5ckXPT8cq9eRswlg5LjXt2ZYTad/uLyqZrw18wy0b3sHIe/Bk4dkT0M1htgyYlr1Iroqr/4wWWqFYmBgCckp8m9l3xM9vZnv7D+AlasLOgmOMn1b/7ceup4Li/eKvRmUA==;IXRSCQ7APDDYXr7K7TwR2A=="
+secured: "w4LnkZ5Zt70qNy9TxzyyUWf4Xdwtmd8CkhN2pMPQ0G0CK1LCGeuPgoi1qZAD+CXDQ9tDXCQjGb5ifLRsgCfIDOUP5jciN3UUoZPnsHhObIoP9TYSvuA3yhAxFJc7LYWhvgoquPLmfNF97nOh2Juw8ZFyNSaT7jt88aNyV5VRElp6TRNqcHEEBonuSZvg3btRUhX6lPvtw9A+2qAOfnbRZnWrwR2R63lST7UDBznzBObXtiFrJIlA7Ru6KmjMJ/26CpY1OF16RZpy1aZPehdYoetLL+RnV45NTKvJYH1oq3itT8faZjcb9o77E61Pt0bPXC7nLomFDYEYn+tzc2NYLXjCM7nAI0SNJS+hfKwKwAtv/9VfSPoNyQmd3G9Qergxxz2zxDutUpeMa4E6htFAvOBevvK8pBsrMnpgz7jGIi+DUaIhU9+OkAQ1Fjzz1OrMo9ctKioWYFP196ezjqbSgVDYiSQFYImqt/hKj6zeD7XTEi/PFGJIY74U5J7IxXE5pHtYALKU91DNCiArpNNRFQ==;gI9C95PE4EJ18FaCYCRBkg=="
 ---
 

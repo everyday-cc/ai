@@ -2,26 +2,26 @@
 category: news
 title: "AWS Launches Second Infrastructure Region in Australia"
 excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
-publishedDateTime: 2023-01-23T23:13:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia"
+publishedDateTime: 2023-01-24T04:28:00Z
+originalUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
+webUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82691.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -102,6 +102,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "NE0OI16srKOhSm2YLAseHee6DgMl2YuYVk9JKOxulAhp78ElheR9ZYsjwIW1WLgK9P3nsRynD6WrnhbSdZcJFGRXYuxBM7vcbBdIBGGLbmgdEwiG/gl2ncoB7hpfFoly3qqXCgNlqXsFmDb3m6ty27tPwos4+eTDUUVVrgHUvHEc0uLxNW9LLpzi4jqaO2/FJrTKK0yD2rYTUzKUVCEZJ67mV/6ir0qehB+O3zHHIp54nXUM7DZK2df0gG1csgIEh/BXP4LUi+Uhp1BGkyrV3j1qTSKCNF6RiP5i7W0xwUY3qJos3Hke8HOQeCrIwbnPZ61HC/Qi1Sbd0hsEc/jGbiT1HooqZaYDkjFOfafJOyQ=;xEa9cdgcVKwiiidA1iG3eA=="
+secured: "1g64BfYExwvHIDSNLH8CHAFMNeI6xKe8RzZjgl1cuQDkU68LR225VJSyllA7tUF09wpYrLU3J+rwDt95nW7PhyYzUuz765A7e5Ga64aD13tTGx7n6Gb9L3H9lcIwMov7X3pAFsJJZR5LH5k1wL2F2pW2AX18HbynVJK6wgTnOgCJ9xcUy4vDWZVCFrtbUKW5du4s1rKyA6O+lD1v01VgNOWZ2jafR9DjF1NhmFePJy2h+b/ib0k+Z1dA5EiL1KJHN/FqTEB5hXgHapoOUXWUpq3vRxXifwa8J8y11v6iazA/3hWwpC95j5eu8BhO28/bmNKQF2+HW1VD3a0OvQqjsQoCQrDGrVC1eNcDAI/r3pk=;mMSHom4eKllB0z9H7GwDGw=="
 ---
 
