@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft erases gains after saying Azure growth will slow down"
+    excerpt: "Downbeat forecast brings focus back to software giant’s challenges as corporate customers rein in spending. Read more at straitstimes.com."
+    publishedDateTime: 2023-01-25T07:22:00Z
+    webUrl: "https://www.straitstimes.com/business/microsoft-profit-beats-estimates-on-strong-cloud-performance"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 69
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/25/2023-01-24T165211Z621949402RC23XY9X083BRTRMADP3MICROSOFT-RESULTS_4.JPG?VersionId=nIpg3gnXYt.LO4UBD7_B6wHnErn3r8xI"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Despite revenue miss, Microsoft shares climb on hopes for improved cloud performance"
     excerpt: "The software and cloud giant reported slightly better than expected revenues in its Intelligent Cloud business on overall revenues that came in barely below analysts’ estimates. Fiscal second-quarter earnings fell 12% from a year ago,"
     publishedDateTime: 2023-01-24T23:30:00Z

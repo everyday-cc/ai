@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-24T18:53:00Z
 originalUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
 webUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1dMqR9uZP_2o0vW2V28uamoq-6g=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/Y7QS2BYEP2F6JPV743MMEXSJRA.jpg"

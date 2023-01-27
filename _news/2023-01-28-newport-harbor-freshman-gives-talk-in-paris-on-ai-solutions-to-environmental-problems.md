@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T20:33:00Z
 originalUrl: "https://www.latimes.com/socal/daily-pilot/news/story/2023-01-27/newport-harbor-freshman-heads-to-paris-to-give-talk-on-ai-solutions-to-environmental-problems"
 webUrl: "https://www.latimes.com/socal/daily-pilot/news/story/2023-01-27/newport-harbor-freshman-heads-to-paris-to-give-talk-on-ai-solutions-to-environmental-problems"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Los Angeles Times

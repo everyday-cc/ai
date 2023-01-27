@@ -37,22 +37,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
-    excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
-    publishedDateTime: 2023-01-26T17:08:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 74
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Robot Lawyer Just Got Disbarred By Its Creator Before Its First Court Case"
     excerpt: "Under the threat of jail time, Joshua Browder, founder and CEO of DoNotPay, has decided not to let the 'world's first robot lawyer' help a defendant argue a traffic infraction in court."
     publishedDateTime: 2023-01-26T15:21:00Z
@@ -108,6 +92,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
+    excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
+    publishedDateTime: 2023-01-26T17:08:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 34
 
 secured: "A/njuVmk1e3s/GZddaOBNKLCv+3aT11ykelGY3MtGCDircTF5n2IZkUHAsjN2ZNr2vsF6+IQ3ojsy7GWUa7Prv6lbwoe+0AkRiRx6bcMmX9jk6pI4xLAXnEstBmTyEy0i8hPp8yF2WhmegP3avwnHunk0pVGoOMKwtGdf51ycLA7ZikaljtR/kVv7vgT6kUrkVl2mhXWmXmsDBWByiPX+qsNSYNudCcHZ+A8T+vkIytWZEULp/w4AXASAI2WGwg9kwA/QhJYWuIUVrE5luNYvHHZXShLysGlSjte7IDyWLni2zFwyTIyb310zKs8yoHVrFbjwn25eJ9Aq50Vhzu363xSvsm7U4LiHjyiBfjJ6gY=;9O8tEUn6w89yssMyujghZQ=="
 ---

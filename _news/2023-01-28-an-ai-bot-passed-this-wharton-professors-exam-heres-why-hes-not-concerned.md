@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT passes Wharton Business School test: research paper"
-    excerpt: "The new artificial intelligence system ChatGPT has passed an exam at the Wharton Business School, according to a new research paper, signaling the potential of the controversial chatbot."
-    publishedDateTime: 2023-01-23T03:59:00Z
-    webUrl: "https://thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/"
-    ampWebUrl: "https://thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/01/phonemessage_010523_ap-peter-morgan_chatgpt.jpg?w=1280"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "AI chatbot passes a final business school exam, beating Wharton students"
     excerpt: "A Wharton professor tested an artificial intelligence chatbot on Wharton's MBA exam, and the AI beat some of the students receiving a solid B or B-."
     publishedDateTime: 2023-01-24T10:07:00Z

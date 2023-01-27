@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-new-austra
 webUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-new-australian-cloud-region-in-melbourne/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Melbourne now officially open"
-    excerpt: "Amazon Web Services has announced the general availability of its Melbourne region. This will feature three Availability Zones, and is the second AWS region in Australia. The regi"
-    publishedDateTime: 2023-01-23T23:18:00Z
-    webUrl: "https://www.crn.com.au/news/aws-melbourne-now-officially-open-590073"
+  - title: "Australia Day focuses on Black recognition in constitution"
+    excerpt: "The government joined several large corporations in allowing staff the choice of taking the holiday off or working Thursday and taking another day off instead, in recognition of growing public unease at celebrating the 1788 hoisting of the Union Jack at Sydney Cove."
+    publishedDateTime: 2023-01-26T00:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/australia-day-focuses-black-recognition-constitution-96681526"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/australia-day-focuses-black-recognition-constitution-96681526"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/australia-day-focuses-black-recognition-constitution-96681526"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
     images:
-      - url: "https://i.nextmedia.com.au/News/whichcloud_shutterstock_66520039.jpg"
-        width: 1000
-        height: 665
-        isCached: true
-  - title: "AWS opens Melbourne region"
-    excerpt: "The Melbourne region follows a long way behind AWS’s original entry into the Australian market, the Sydney region which launched in 2012. The region consists of three availabili"
-    publishedDateTime: 2023-01-24T00:32:00Z
-    webUrl: "https://www.itnews.com.au/news/aws-opens-melbourne-region-590074"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20140325062424_20130918094129_CRN-amazon-cloud-aws.jpg"
-        width: 460
-        height: 285
+      - url: "https://s.abcnews.com/images/International/wirestory_68e067c62824595f0b7fc08e777a22b1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Australia news live: Melbourne Invasion Day rally crowd undecided on voice to parliament referendum"
     excerpt: "Follow the day’s news, live"
@@ -69,15 +57,22 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AWS launches Melbourne region"
-    excerpt: "Cloud giant Amazon Web Services has launched the AWS Asia Pacific (Melbourne) Region, its second infrastructure region in Australia. The new region comprises three availability zones – data centres that are sufficiently separated to ensure continuity of operation,"
-    publishedDateTime: 2023-01-24T01:11:00Z
-    webUrl: "https://itwire.com/it-industry-news/enterprise-cloud/aws-launches-melbourne-region.html"
+  - title: "Australia news live: Invasion Day rally speakers stir opposition to voice to parliament, stressing push for treaty"
+    excerpt: "Follow the day’s news, live"
+    publishedDateTime: 2023-01-26T01:04:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police?page=with:block-63d1d9fa8f08f60f4de85740"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 19
+      name: The Guardian
+      domain: theguardian.com
+    quality: 22
+    images:
+      - url: "https://i.guim.co.uk/img/media/7fe44a12ebe7c230851aa047db2ea75fe7c8c368/0_546_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=284518ac1832f591d6e3d286fba1c664"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AWS Launches Second Infrastructure Region in Australia"
     excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
     publishedDateTime: 2023-01-23T23:13:00Z
@@ -96,6 +91,24 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
+  - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
+    excerpt: "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage."
+    publishedDateTime: 2023-01-26T10:15:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/explainer-what-is-an-australian-black-voice-to-17742818.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 19
+  - title: "PM says Voice to Parliament is about ‘recognition and consultation’"
+    excerpt: "The Indigenous Voice to Parliament is about “two things,” Prime Minister Anthony Albanese says. “It’s about recognition – that is giving people respect in our nation’s birth certificate,” he told Sky News Political Editor Andrew Clennell."
+    publishedDateTime: 2023-01-25T04:25:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/pm-says-voice-to-parliament-is-about-recognition-and-consultation/video/6eb194b5f8f7a1043e9f1b1b5c66c5fa"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "1lhiUDtU2VbchVK6srMOCUzmOP2iqjtS+EBIk9+KaaL4P+xjwCqAPr8P0XTzkbztpCaEwWfchLAWYt0ohBvhJmikhN6yXJqhn39Jb+owBmTqiZ7NXlhS2Hw6GuwOedLYXqw64r5EigfkvoZfifd6BssO3STxUv597E8LmHlhvpC/6JXrNgangWpzvpHB69nryGNO6LgLmAgU0hV8UG1ZtBF7HnR5oh53ZXGuX5/iUbNT0Rd2s+R3m/dipbhTObcG/qvGPvH6ulrgvpXjH5v6cmj2QfqCbV6gAPyUB2I8+EDCo7pXzIXwLsPKVHBEIeWiOj5vEUpMQCyEpSUjWiVTbjkPEO3ZMLiX2TLF5uPP+IE6hR4wKKDBDxo9dLHmGuBMdvYUgB2ECw8Ie9aU7Z/1VHuuVvaC0g5XSGwN7tnDcM4zMLtUVEj40tNiP0PjYtQwysxmmsLv9fp+UfLVHHF2ep06lCA1PIN7iQC7mTsHPR0dncFzqp6XhN6qlrykkcfqmoyBvsI9EhkDI94j4bkH7A==;6M3ojJLkdomIwnAxlBXQVA=="
 ---

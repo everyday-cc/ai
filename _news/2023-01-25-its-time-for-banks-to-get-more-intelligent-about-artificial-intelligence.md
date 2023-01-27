@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-25T15:26:00Z
 originalUrl: "https://www.americanbanker.com/opinion/its-time-for-banks-to-get-more-intelligent-about-artificial-intelligence"
 webUrl: "https://www.americanbanker.com/opinion/its-time-for-banks-to-get-more-intelligent-about-artificial-intelligence"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 

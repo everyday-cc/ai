@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "It's time for banks to get more intelligent about artificial intelligence"
+    excerpt: "Artificial intelligence now has the potential to fundamentally change customers' relationships with banks, impacting everything from onboarding to retention and upselling."
+    publishedDateTime: 2023-01-25T15:26:00Z
+    webUrl: "https://www.americanbanker.com/opinion/its-time-for-banks-to-get-more-intelligent-about-artificial-intelligence"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 38
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/8a3c892/2147483647/strip/true/crop/2200x1155+0+156/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fef%2Fa0%2Ffda76d4040a6825f74848eb07bf7%2F391799189-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why You Need the Ability to Explain AI"
     excerpt: "For artificial intelligence solutions to gain acceptance in the enterprise, users must trust that it will work as well as humans."
     publishedDateTime: 2023-01-27T16:17:00Z
@@ -43,20 +57,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/01/istock-1066422156-100936830-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 813
-        isCached: true
-  - title: "It's time for banks to get more intelligent about artificial intelligence"
-    excerpt: "Artificial intelligence now has the potential to fundamentally change customers' relationships with banks, impacting everything from onboarding to retention and upselling."
-    publishedDateTime: 2023-01-25T15:26:00Z
-    webUrl: "https://www.americanbanker.com/opinion/its-time-for-banks-to-get-more-intelligent-about-artificial-intelligence"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 36
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/8a3c892/2147483647/strip/true/crop/2200x1155+0+156/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fef%2Fa0%2Ffda76d4040a6825f74848eb07bf7%2F391799189-4.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "jf4ojvwVZu+fxBBm20/BxiYO4XDFUyc75Cxk4haWShiPIr9ZSUEtkIRDSFqii+WQLX0eNpPZPTolEm6nONaZndUa+cpU6/F3dDL3SlOqVWj1te4RHNLwHRn9ElfOx8Vf3MOZqTkhMl0/0HaiEQfiYeCseKTUe0uY2cP5J8WRdhUVavAA6TVuhZqTZu/AHbw5SymOduZnnsAVnCE4H14sfuP9tAr9gkcPFXCMOAECFcD27cE+i6vK5SBzhk6s62ilW6WKizhbHcBsQS5nTopIVRKIZYIEuOlavWSx+IwiDE9Wst9e8HEdU190kHvdlyoslK7Ca18TfkYeXohvEcX/lxM+dtRJp9T3KO3bU/v8SFjdrC/SL5L7M/VDuYiGD7i42YUGDJtXzk7oQ+g7/shPWEyLxZT+pUC68Tw0NiSoD5GiJDnPGX/z1po8naRZ9tlW0Agz1YorD+X4pa0LkbXYpkspYHtvbgr5UCzYHxjq3PK6hElvFjm2JNCQCZeeRzmX8nYr6qVjqYGJlzHvMoNDXg==;LO7fW+Oin68jaNqNOsEiuw=="

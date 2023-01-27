@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 696
     isCached: true
+
+related:
+  - title: "University of Texas to offer master's degree in AI, including health focus"
+    excerpt: "University of Texas at Austin plans to offer an online master's degree in artificial intelligence, the first large-scale program of its kind. The online degree also will be the only one offered by a top-ranked institution priced near $10,"
+    publishedDateTime: 2023-01-27T22:36:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/university-of-texas-to-offer-masters-degree-in-ai-including-health-focus.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
 
 secured: "JejUlU/mRoqVt2gIZ1rHid833HGjXPeQGFvFHxNqqaXDyUZzYDfWGhQOjVPN/PY381X8oV4oTIuWWUAUj1ezpEqwENpy10vYTUmsQ8iGJ989W9O/CxAOmccE/ujozYNLj/r4vqc9G1nCWZjP/yeNYMJtEMu70w2PT5PFUJjJJ8qR0hJWGOVmHoiJtnV2jcq84BFxd7/5ZGQCt3m8PJ6uipK8yy6899Suqi/MUFUalnD1vErtMDX5b4tHHsIq/EeRRQdxeZO7+aNeN+jrzk8nlF4kUfCpdDdfI+gOTHG05guDSW8u3Dh7BAHjYuk4tR8DrVzdGCbGFefueuwjEelQlCEPWJZIgZLABpG6XDg270w6y/5HXl9iOXOS41KmBohcc5866WtbvoqyhfY/pUxq5TLtjX/Ny6xIVoRn2oUYSt5/85xcHHJZKNYeffqTAUarRyLVsFu/FWyVFxPOLKaFXkiyzb9GpTXZUbYdUOXAnIjvzlUUwUl57pYnEyyYZUrK5rdwAv5XFcc2jmjOpxcfkg==;tvVrLKD7Ui5iarFdxcO3SQ=="
 ---

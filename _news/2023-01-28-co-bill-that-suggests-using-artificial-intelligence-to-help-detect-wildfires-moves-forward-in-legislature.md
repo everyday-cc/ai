@@ -8,7 +8,7 @@ webUrl: "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-inte
 ampWebUrl: "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -79,6 +79,17 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "AI wildfire detection bill gets initial approval in Colorado"
+    excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."
+    publishedDateTime: 2023-01-27T19:20:00Z
+    webUrl: "https://www.sacbee.com/news/business/article271678832.html"
+    ampWebUrl: "https://amp.sacbee.com/news/business/article271678832.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article271678832.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 37
   - title: "AI wildfire detection bill gets initial approval in Colorado"
     excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
     publishedDateTime: 2023-01-26T23:39:00Z

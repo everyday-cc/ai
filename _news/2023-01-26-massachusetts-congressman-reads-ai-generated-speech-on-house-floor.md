@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Oklahoma Schools React To Developments In Artificial Intelligence"
-    excerpt: "Schools across Green Country are working to deal with the latest developments in artificial intelligence. Across the nation, there are concerns about students using AI technology to do their assignments for them."
-    publishedDateTime: 2023-01-23T03:32:00Z
-    webUrl: "https://www.newson6.com/story/63cdffc05ae97f072749c1cd/oklahoma-schools-react-to-developments-in-artificial-intelligence-"
-    type: article
-    provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 37
-    images:
-      - url: "https://cdn.field59.com/KOTV/97e54f91212f625c9a464359f1f0eb298ce8d331.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "HhQCEueYsIn+OXaJe3u3QXT0kc2AqJv2+0gfiaKX0m1A5KMAsVWAFFVSoncJIV9WBGpHSVOdDwBX43BpwmXLmXawT/QSn7aT9Lnf+3WJZPO0akkTBOjXz2P297DcD52FCb1VQfvxHTd36qpoR5CfcSJ7GYNOp7cUiJ8WIbvuFUDzwHdIfD+EUQkLwhfG6fAI/XZJwRYtPo3jgwXDAFmtXb+2m5WMoRdlR0YbRc++7AEinQSzmFj94tYazjRKpywbam3eLEsCqIYypXs0OCsTzWLyM2BquGlfg98u5TYom7c7bTP9wsJtjnEs/38FqrRB4+kkaZy26mlqMnsWLASyA7qoK0j/NPkWBbpJhvfl1H+Cg5k7R6GwIaM2rokN628vd1y1L2tylLYVbCCPJLH+RYqBnpBsPcPYWa7L0H2B3tRmv22j6lTimKIME+F1rkXlNvBBhSVtrOsftgkqk+gczmLkF2sfR+OXXdgTHV3GDELserH0bB7qYfT4SNWDJL+PRT/LVW7l2SHlC0bQ5iID7Q==;wtV+3UDJWduNaXxtTXjf4w=="
 ---

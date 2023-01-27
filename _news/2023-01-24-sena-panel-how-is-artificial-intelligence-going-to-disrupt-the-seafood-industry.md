@@ -60,20 +60,6 @@ related:
       name: Today
       domain: today.it
     quality: 38
-  - title: "Canada has leading AI experts. But does Ottawa have the right plan to support an AI industry?"
-    excerpt: "Many leaders in Canada’s innovation sector say the government’s strategy to build on the country’s early lead in AI is emblematic of how Ottawa routinely fails to leverage the country’s brains to prod"
-    publishedDateTime: 2023-01-23T06:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-canada-support-ai-industry/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 28
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/SLm_mlp3KxUFGhaNXKuiNzNnz1M=/1200x880/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/2X6Q4TUP4NNBTMZ2N64WSDGLHA.JPG"
-        width: 1200
-        height: 880
-        isCached: true
 
 secured: "vQMJYYUA+HFzVjszhVFnxbF+uxAVdYO84lnJ6uveAvEwMoqd4yoYJSEdGQYzYJOpMyMpbDFwGShpjzhX1iBYTwIuJlxXp6z6xHAbUH0ppkUHUn/kguLuTQkN8l6SOP0YBjijjK8+k2R774bTewKj15NaFXczz1TdfvYaosbXwRqykL5IhR8SGXS9phBknXTkKZQlV4Aq9fnqvRMFii8svTc98dx49hgUAx8ideNeAmAoCKLw3RXyceK4kKX1N40h8KNMwopdH3rDVCb2Cf6VZz1Vtdr56iKHbNMzDayaslHWlSl3SV3nsPgLCgW67EG+7UM1QXwnwaWVmrvL0Giz+4aOsxNMGrleUaf/mgXADeQ=;OfLX8eUR96qD/0MEEJBCcA=="
 ---

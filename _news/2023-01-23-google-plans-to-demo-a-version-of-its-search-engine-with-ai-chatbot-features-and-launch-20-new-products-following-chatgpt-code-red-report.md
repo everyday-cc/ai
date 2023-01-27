@@ -211,6 +211,20 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
+    excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
+    publishedDateTime: 2023-01-27T18:57:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Google Sparrow: an AI to compete with ChatGPT"
     excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."
     publishedDateTime: 2023-01-23T09:44:00Z
@@ -311,6 +325,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 12
+  - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
+    excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
+    publishedDateTime: 2023-01-27T19:36:00Z
+    webUrl: "https://www.thenewstribune.com/news/local/education/article271689532.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 12
 
 secured: "mCjxYEqQFP+XpFkkjuD7gaW/IihnvnvYYo1TurA+y5lvP+QxrIlPS/ab5VJ3HiDCnJ5k2HXxbWWdKnXxBBz8zQepFdaOTguRduD5869FqOiQ8HjerpR700GtRuFIWDLvYqNdPUv9TwmUL1Z/G0EGh5+o2ZKVptuRPgyKSXaqwzu3voBZZjb5oEFZ0l0/n+eXnSpYAvig80x1OE82bGESM6pQCxq1yfCjGSRJO42S9IoOfheEkWb21hgL1LDo8DbMt1b/zBYkoafq0yBazINTG/OEPu3/vNmtZnVsW6/mVR/NpYUWNo5Lft8AEP3MHUBndn2CKFD93NUNl9YfkIKyAkak1pmwmmAfVU8O9O4L9lm8xRkrorFUg1zthh/H+KZNw/7GSLIBnUZVChzLFspvEO8msv1zWvTKqJ6o6Lx99EjhU5JV6xVhLW4WPqm5+pQmwLdrCwwzEvPlHwonLgpPj/xVeCVMdgFR4Rb63HFllrOh/T2GC85r+qE/5oWKIWvDTqwAY4MkSNmaTRRuMtjDjA==;WpKCuITOCiRi31Bk/Rc72g=="

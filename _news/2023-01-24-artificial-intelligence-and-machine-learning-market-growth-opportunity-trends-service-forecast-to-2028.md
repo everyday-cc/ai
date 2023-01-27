@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24"
 type: article
 quality: 70
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
-  - title: "Global Data Science and Machine-Learning Platforms Market (New Report-2023) Outlook and Forecast to 2029 with Top Competitors Data"
-    excerpt: "Global Data Science and Machine-Learning Platforms MarketNEW REPORT 2023 presents an exclusive overview of the"
-    publishedDateTime: 2023-01-23T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-new-report-2023-outlook-and-forecast-to-2029-with-top-competitors-data-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving Cars and Trucks Market Research report forecast 2023 To 2028, Latest Industry News, Top Company Analysis, Research Methodology"
     excerpt: "Self-driving Cars and Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
     publishedDateTime: 2023-01-24T00:47:00Z

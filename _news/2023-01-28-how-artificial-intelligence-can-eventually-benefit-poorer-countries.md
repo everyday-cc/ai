@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T18:59:00Z
 originalUrl: "https://www.devex.com/news/how-artificial-intelligence-can-eventually-benefit-poorer-countries-104813"
 webUrl: "https://www.devex.com/news/how-artificial-intelligence-can-eventually-benefit-poorer-countries-104813"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Devex

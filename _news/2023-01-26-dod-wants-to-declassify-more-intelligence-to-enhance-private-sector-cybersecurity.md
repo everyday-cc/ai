@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How ChatGPT And Natural Language Technology Might Affect Your Job If You Are A Computer Programmer"
-    excerpt: "Artificial intelligence tools can now create not only speech and text but also computer code. Here, we look at what that might mean for coders and computer programmers."
-    publishedDateTime: 2023-01-23T06:14:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/23/how-chatgpt-and-natural-language-technology-might-affect-your-job-if-you-are-a-computer-programmer/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/23/how-chatgpt-and-natural-language-technology-might-affect-your-job-if-you-are-a-computer-programmer/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/23/how-chatgpt-and-natural-language-technology-might-affect-your-job-if-you-are-a-computer-programmer/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ce33b38bbf0e2d977458cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "'Pandora’s Box is opened, what are we gonna do?' : Local cyber security expert talks ChatGPT ethics"
     excerpt: "This technology is fast and appears fairly smart, but tech experts wonder if it has morals, ethics and values."
     publishedDateTime: 2023-01-24T22:11:00Z

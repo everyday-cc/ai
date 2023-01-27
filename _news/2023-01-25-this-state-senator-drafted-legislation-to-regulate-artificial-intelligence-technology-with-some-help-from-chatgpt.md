@@ -35,7 +35,7 @@ related:
     provider:
       name: The Boston Globe
       domain: bostonglobe.com
-    quality: 15
+    quality: 17
     images:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1dMqR9uZP_2o0vW2V28uamoq-6g=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/Y7QS2BYEP2F6JPV743MMEXSJRA.jpg"
         width: 506

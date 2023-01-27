@@ -169,20 +169,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Artificial Intelligence is no match for the human heart"
-    excerpt: "Artificial intelligence is changing the way we live, but what it can't do is touch our emotions, or write a decent tune"
-    publishedDateTime: 2023-01-23T07:00:00Z
-    webUrl: "https://www.bigissue.com/opinion/artificial-intelligence-is-no-match-for-the-human-heart/"
-    type: article
-    provider:
-      name: The Big Issue
-      domain: bigissue.com
-    quality: 39
-    images:
-      - url: "https://wordpress.bigissue.com/wp-content/uploads/2023/01/possessed-photography-U3sOwViXhkY-unsplash.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "2023 will be the year of AI accountability"
     excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
     publishedDateTime: 2023-01-24T12:00:00Z

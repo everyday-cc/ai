@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T19:47:00Z
 originalUrl: "https://phys.org/news/2023-01-chatgpt-ai-academic-papers-good.html"
 webUrl: "https://phys.org/news/2023-01-chatgpt-ai-academic-papers-good.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

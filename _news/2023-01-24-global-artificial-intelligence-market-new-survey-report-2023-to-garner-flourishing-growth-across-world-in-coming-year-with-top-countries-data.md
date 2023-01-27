@@ -163,20 +163,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
-    publishedDateTime: 2023-01-23T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-artificial-intelligence-based-personalization-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A New Industrial Artificial Intelligence Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2026"
     excerpt: "Industrial Artificial Intelligence Market Size Outlook for 2026 with massive business analysis and bottom-up analysis of the Companies [, Intel Corporation, Siemens AG, IBM Corporation, Alphabet Inc,"
     publishedDateTime: 2023-01-27T02:19:00Z
@@ -200,6 +186,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
+  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
+    publishedDateTime: 2023-01-27T19:46:00Z
+    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "e4bcEJY9qRlkDnahymw16Cl3UGM6vGJoQ2xjBq7MiKd/yPb9Lt17coAm2IEhV2AlDUktX6iaBP1PJtk7RXsF7U/HcrciSPFJ40aqTtNXZdHoQhXlHgtRIxcmKPrDQOMUwjIwcBrFKpxY6OUJIFZEj5kjR8CkrXrgy3wIrop5YrTRmrEec6dOmLKdU6RNeVkOtRXXDEnVk5D4gFi1MYCn7PjGjwlc+5slZxnBF6+H/WKWGhPUhOD2bpMd2MJ+TZKTArjdZw1KsFjyhg9F1nKJ3n47JMPjFchbp7/QoigJf+i0BYcqNrmFug69bak34jbwSf6dafv6LCvRGykmDfEb7+M6xf0gQdcw/NAtktxoJrY=;p4U6Gzoig8Jq2MndjCyszA=="
 ---

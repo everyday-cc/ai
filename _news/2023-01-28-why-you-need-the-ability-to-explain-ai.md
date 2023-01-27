@@ -48,7 +48,7 @@ related:
     provider:
       name: American Banker
       domain: americanbanker.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://arizent.brightspotcdn.com/dims4/default/8a3c892/2147483647/strip/true/crop/2200x1155+0+156/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fef%2Fa0%2Ffda76d4040a6825f74848eb07bf7%2F391799189-4.jpg"
         width: 1200

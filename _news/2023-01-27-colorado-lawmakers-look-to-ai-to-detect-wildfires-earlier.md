@@ -52,7 +52,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bde9982c-2a76-46f7-b0b5-c18e3df1c055/29e73dbf-bb1f-476b-a5bc-48b588c0eb99/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
@@ -74,6 +74,17 @@ related:
         width: 1280
         height: 749
         isCached: true
+  - title: "AI wildfire detection bill gets initial approval in Colorado"
+    excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."
+    publishedDateTime: 2023-01-27T19:20:00Z
+    webUrl: "https://www.sacbee.com/news/business/article271678832.html"
+    ampWebUrl: "https://amp.sacbee.com/news/business/article271678832.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article271678832.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 37
   - title: "AI wildfire detection bill gets initial approval in Colorado"
     excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
     publishedDateTime: 2023-01-26T23:39:00Z

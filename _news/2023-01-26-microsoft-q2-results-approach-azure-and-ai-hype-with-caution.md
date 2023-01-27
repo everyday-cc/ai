@@ -162,6 +162,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Unpacking Microsoft’s Earnings and the Future of AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips “Write a newsletter about Microsoft’s second-quarter earnings for"
+    publishedDateTime: 2023-01-27T21:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-and-future-of-ai-1032047671"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Microsoft Invests Billions More Into AI, Which It Believes Could Be As Big As The Internet"
     excerpt: "Microsoft believes AI could be a \"transformative\" technology that could make an impact as big as the PC, the internet, and mobile devices."
     publishedDateTime: 2023-01-23T14:48:00Z

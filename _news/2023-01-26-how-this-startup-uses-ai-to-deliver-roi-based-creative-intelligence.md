@@ -48,6 +48,15 @@ related:
         width: 800
         height: 640
         isCached: true
+  - title: "Top AI startup news of the week: generative AI is blowing up"
+    excerpt: "AI startup news around generative AI was everywhere this week, for everything from search and note-taking to protein design."
+    publishedDateTime: 2023-01-27T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-generative-ai-is-blowing-up/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Educators worry about students using artificial intelligence to cheat"
     excerpt: "New York City public schools blocked access to the popular artificial intelligence tool ChatGPT. Educators are concerned that students could use this technology to write papers – the tool wasn’t even a month old when a college professor in South Carolina caught a student using it to write an essay in philosophy class."
     publishedDateTime: 2023-01-23T17:25:00Z

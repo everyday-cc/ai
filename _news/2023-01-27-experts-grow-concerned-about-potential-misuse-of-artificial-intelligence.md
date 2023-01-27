@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-26T19:09:00Z
 originalUrl: "https://www.local10.com/news/local/2023/01/26/experts-grow-concerned-about-potential-misuse-of-artificial-intelligence/"
 webUrl: "https://www.local10.com/news/local/2023/01/26/experts-grow-concerned-about-potential-misuse-of-artificial-intelligence/"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 

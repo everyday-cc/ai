@@ -117,20 +117,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
-  - title: "Global Data Science and Machine-Learning Platforms Market (New Report-2023) Outlook and Forecast to 2029 with Top Competitors Data"
-    excerpt: "Global Data Science and Machine-Learning Platforms MarketNEW REPORT 2023 presents an exclusive overview of the"
-    publishedDateTime: 2023-01-23T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-new-report-2023-outlook-and-forecast-to-2029-with-top-competitors-data-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5HsnR0jxwNOLoVj25LCoaLCbN6U2KgRgsdFqLHFbdpTutyKj1UgKVzszswBX/GWbLZ7pZIHdP/KbqxBJ7mmnRoN+SPVp9Zul7YTKcUdx3qLGUpz+qC5OhthjbE9R46RAx3dxonCE9frS9ty9ZS8B9XEAktFQmzwWIySIE9RyqR8oKGq9nlkwVuqXuS2i0JMfCvh35NYjsrHVX7ajfTT6r//PjAAI63aV9OkmZEAmtBYOy0OuwB0Icq50kbDhxlTnMIksXd9gUTQXS+YXd9Pkp9isI0my39rH59XRySWKSpU9axzih+kQoEDTd+nZR+612VyQuRzG5JayidiwofAafHOJiaOJ2dLg/Gj97OxbcW0=;Frwu99ZCzGkJlQMXVuRHhQ=="
 ---

@@ -150,20 +150,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Forecast 2028 for the Artificial Intelligence based Personalization Market in terms of size, returns, gross margin, and market share"
-    excerpt: "Artificial Intelligence based Personalization Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,"
-    publishedDateTime: 2023-01-23T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-artificial-intelligence-based-personalization-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Market (New Survey) Report 2023: To Garner Flourishing Growth Across World in Coming Year with Top Countries Data"
     excerpt: "The “Artificial Intelligence Market” Research Report 2023: incorporates a thorough qualitative and quantitative"
     publishedDateTime: 2023-01-24T06:05:00Z
@@ -201,6 +187,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
+  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
+    publishedDateTime: 2023-01-27T19:46:00Z
+    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "OLdsxPZv7TnNtUqrMndrfuIot/81Vz2S9hCCMDjMXEucIc6I0nqGXf9oM9a2dgZCxng3HEY/ddJRH0ymU35XTf9r7oLTdIR4KY/fsgI0BOxg7OqDHtX+SVtFUThFx3BGa/x/AtHOZ39vcO9tyk3nDUAZvOYc8ZGTUsPYM9dQ1DF5kYbTO87eRH2ND6CD/q/iYUocddNiNAgOyLobqTXNSC9plCc9fVZiHoT3pm/zgag1dq8DKrAmPfWNGNz/Ud9QdHmi1d+e04qQ3UfrZmn2wcY8jFWtEUioeYKoAnB9eVpPRbYYEkt919sXzvWt/dDlcMCQfE3Hr1o9NITXuqmexQ5crfMjT3AhaeVVr+5ekrs=;Qh5UuyuxOTQEyspeYfoeFQ=="
 ---

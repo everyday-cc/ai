@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-c
 webUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/"
 type: article
 quality: 71
-heat: 141
+heat: 181
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Faces SEC Probe for Role in Tesla Self-Driving Claims"
+    excerpt: "US regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person."
+    publishedDateTime: 2023-01-27T20:14:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-faces-sec-probe-for-role-in-tesla-self-driving-claims"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
     excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
     publishedDateTime: 2023-01-27T10:04:00Z
@@ -71,6 +80,48 @@ related:
       - url: "https://images.wsj.net/im-710024/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "Elon Musk Under SEC Probe Over Tesla Self-Driving Claims"
+    excerpt: "Elon Musk allegedly supervised a misleading promotional video in 2016 that claimed a Tesla was “driving itself” despite the car not truly having those capabilities."
+    publishedDateTime: 2023-01-27T21:24:00Z
+    webUrl: "https://www.thedailybeast.com/elon-musk-under-sec-probe-over-tesla-self-driving-claims"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 54
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1519,w_2700,x_0,y_30/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674853882/GettyImages-1459166551_w5ddls"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "Musk faces SEC probe for role in Tesla self-driving claims, report says"
+    excerpt: "U.S. stock market regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving vehicle claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing ..."
+    publishedDateTime: 2023-01-27T20:55:00Z
+    webUrl: "https://www.autonews.com/executives/elon-musk-faces-sec-probe-tesla-self-driving-claims"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MMUSK_0_0_0_0_1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Musk faces SEC probe for role in Tesla self-driving claims"
+    excerpt: "The review is part of an ongoing Securities and Exchange Commission probe of the company’s statements about its Autopilot driver-assistance system."
+    publishedDateTime: 2023-01-27T20:13:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/01/27/musk-faces-sec-probe-for-role-in-tesla-self-driving-claims/69849318007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 54
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/12/12/PDTN/cc8da9a6-2a24-4dc3-81e8-519ac02b9f89-TeslaModel3-FSD_ren-cen.jpg?auto=webp&crop=3986,2243,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Ford Beats GM And Tesla For Best Active Driving Assistance System"
     excerpt: "These systems take advantage of the array of sensors that are present on many modern cars. Tesla's Autopilot and Full Self-Driving features recently came under fire after the system's capabilities were reportedly exaggerated in a demo video from 2016."

@@ -9,7 +9,7 @@ ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authent
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/24/671f4227-bd0f-4bd4-bc75-1da2e97616f3/thumbnail/1200x630g2/0086d84eeb4a7cf532d9183a9f1bbcc3/raphael-tondo-sistine-madonna-xb5d3f5c5.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Identifies Long-Overlooked Raphael Masterpiece"
+    excerpt: "Using facial recognition technology and artificial intelligence (A.I.), they have concluded that the painting is “highly likely to be a Raphael masterpiece.” “Looking at the faces with the human eye shows an obvious similarity, but the computer can ..."
+    publishedDateTime: 2023-01-27T21:37:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-identifies-long-overlooked-raphael-masterpiece-180981528/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 37
+    images:
+      - url: "https://th-thumbnailer.cdn-si-edu.com/frCikkMc1g8KY8-8IpqTXTfYTW0=/fit-in/1600x0/filters:focal(1926x1926:1927x1927)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fbf%2F34%2Fbf341ac9-3e39-46b9-bd74-c5d2d95020c6%2Ftondo.jpeg"
+        width: 1600
+        height: 1600
         isCached: true
 
 secured: "63XxJZBP6VI9sgeDy9L+MQS6EqtYME+ZZZqPopVIDpMTsacleuM7tKQDoctjpmMbMPybPyxGZSjVsB0zKJ/VmLSUvnxvDqbnQJzCvQiCedm40bz+Dsx9XWkBoouSsnBi96kzQz0FaFuu1NYmXA/pWDBwyinzwtca3jPa6f4Bkz5HCsvhCWrb59eLIuN46t6huhRER/xmbd/JS4YsEGWMYFDItg4nqd9vlUatyoi0Z1bVx6TTgmfuJdKtt/YqmfS/2gcdU66ZEHt6G/51GZiZmEGbpt/OZiPMglb5PkcZjbbvDaJlWAQqx8IVlPnWuCoNIax6owwdduU15JHr1j+LXq5+oJB3KD/Ufh57Th+67+2qS5aJyodghkRHcPzvgoCA7oFOVQbfTm9TiB5coLGW06NrGl6zaSdSo/YWrLvGT28EBHFB812lKsmgvDugo+7pDjt05Kkz9So5UXHj6TDxw4dpPj4aPtoHlduILAWiOTWrW9DFEU4waOJY838+sAp+Keok8k2nA2DdMdAz7MUQIg==;YzputLLS3SEN2xLvVB00EA=="

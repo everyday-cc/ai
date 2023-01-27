@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T20:07:00Z
 originalUrl: "https://abcnews.go.com/theview/video/holocaust-descendants-piece-family-history-ai-technology-96724134"
 webUrl: "https://abcnews.go.com/theview/video/holocaust-descendants-piece-family-history-ai-technology-96724134"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: ABC

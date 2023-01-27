@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS launches new Australian cloud region in Melbourne"
-    excerpt: "First announced in December 2020, this is the second cloud region AWS has in the country, following the opening of Sydney in 2012. “We are excited about the launch of a second A"
-    publishedDateTime: 2023-01-24T10:47:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-new-australian-cloud-region-in-melbourne/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/gettyimages-600688368-170667a.2e16d0ba.fill-1200x630.jpg"
-        width: 509
-        height: 269
-        isCached: true
   - title: "AWS Melbourne now officially open"
     excerpt: "Amazon Web Services has announced the general availability of its Melbourne region. This will feature three Availability Zones, and is the second AWS region in Australia. The regi"
     publishedDateTime: 2023-01-23T23:18:00Z
@@ -61,40 +47,6 @@ related:
         width: 460
         height: 285
         isCached: true
-  - title: "Australia news live: Melbourne Invasion Day rally crowd undecided on voice to parliament referendum"
-    excerpt: "Follow the day’s news, live"
-    publishedDateTime: 2023-01-26T03:06:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police?page=with:block-63d1f6cd8f08f60f4de857ce"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jan/26/australia-news-live-invasion-day-protests-under-way-pro-russian-tennis-fans-quizzed-by-police"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 30
-    images:
-      - url: "https://i.guim.co.uk/img/media/7fe44a12ebe7c230851aa047db2ea75fe7c8c368/0_546_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=284518ac1832f591d6e3d286fba1c664"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "AWS Launches Second Infrastructure Region in Australia"
-    excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
-    publishedDateTime: 2023-01-23T23:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "AWS Launches Second Infrastructure Region In Australia"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastruc"
-    publishedDateTime: 2023-01-25T20:02:00Z
-    webUrl: "https://menafn.com/1105477072/AWS-Launches-Second-Infrastructure-Region-In-Australia"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "kL0+N5NHvO2yHjZgBY0LFjrk2CnCxiFPKLO/Zt8zOv6rC2rR8Bc3z1DTPWyEtbBhUljpR4aJFge+GvhLXhGM7Mfp7HR9XBwO1S0DVDo/MAZe2PqTvpTM6apQGOz7mziZ/2erzUMRmidUWDLHcT1hFYpSHwM5rwwE3F+DZAGwaxBVrQMRs6DEMh3GYSnvHjjCvUkZbLg0SdQ2d5WiPoVMeg0E2Lg4L57D8+jNX7gJTj37HahNG1AyXqL+RNcejdM1LY/DEw9iWOWazsRBpHVpKTpOrbwn6e1ecd0yn/z/vBffZiF+ea4TpcTymeV3eZcYW14R7HHHOJp8dXQLUWkpTkGgVJPkXLJ354xCTGJYgNE5rzNqVkA2Vh+KEvF+lUoT56NJFMDrDRaqy5xhPkyvwGY0nWVuvzqLGSjMuKcZzdeGer0yglZTB12mLRmm6Hy5L9dgzoyThZPB929uuJclUYXOPiH1Kb9H7YiBMYCUb47S6xjzCuFr0NQQoKChRAoSfPrYB6l8J0q2c90dDfel/w==;45X+rsMiaJPKQnWXAbYrdg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/business/microsoft-profit-beats-estim
 webUrl: "https://www.straitstimes.com/business/microsoft-profit-beats-estimates-on-strong-cloud-performance"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Straits Times
@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft exec: AI will reinvent Windows user experience, define ‘our time’"
-    excerpt: "At least one Microsoft executive has made it clear artificial intelligence will continue to play a big role in future Windows features."
-    publishedDateTime: 2023-01-23T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html"
-    ampWebUrl: "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html"
+  - title: "Despite revenue miss, Microsoft shares climb on hopes for improved cloud performance"
+    excerpt: "The software and cloud giant reported slightly better than expected revenues in its Intelligent Cloud business on overall revenues that came in barely below analysts’ estimates. Fiscal second-quarter earnings fell 12% from a year ago,"
+    publishedDateTime: 2023-01-24T23:30:00Z
+    webUrl: "https://siliconangle.com/2023/01/24/despite-revenue-miss-microsoft-shares-climb-hopes-improved-cloud-performance/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
+        width: 1152
+        height: 768
         isCached: true
+  - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
+    excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
+    publishedDateTime: 2023-01-26T14:00:00Z
+    webUrl: "https://www.theinformation.com/articles/microsoft-readies-service-to-let-cloud-customers-pool-data-safely"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
 secured: "J3j1bi+EQpGDIc3eNzC8Yi22SYtuf93Q9n/QE6H1tz5jTV3jQ0zjZUrppp4tR4+V8OIjWLNT4MNTnohQk9It1ZyxRv6y/CtgApgJSM+KWxUP1NE5cKP3bxZ+OPcehlWF0wJFuyIISkHiJbBXXJgvx8LL3owqvqd8sIPyrZhchpPJjhBNgntn7283AtKCFChZtgwKarfTzEwhmEZiyQ+hUxlFrptnl4XlOZfh2L7S0oo5hGNw5aikvGycQsICrkCaUleVTqrSwH59dz0/pp5lyR0K2sJS6nWixlmS3UyX/Yyye6Ns+dznzVo+t3yarAskwg9HexOVrDdEaovBaWSmfZqII92F+v51uhzqAfRhfHVtkuamRfuH/9nKlYjWVOxvh4iQ96vuCy8xoqDHZjFR4oGdQog1UIFUGc+thm1sA/udSow2jr+m8TsqT5J8UHVCibml0b7We7ns72VXojKoTTCywc4cLwBexCWkLrNPiki6Ntu9ZN1Xzj2tyx0cmF/MYKDJvCe7B0Q5tfhWPbmc2A==;eExitpjOFRCPqLt7vqgoyQ=="
 ---

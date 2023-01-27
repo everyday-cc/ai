@@ -49,6 +49,15 @@ related:
         width: 800
         height: 640
         isCached: true
+  - title: "Top AI startup news of the week: generative AI is blowing up"
+    excerpt: "AI startup news around generative AI was everywhere this week, for everything from search and note-taking to protein design."
+    publishedDateTime: 2023-01-27T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-generative-ai-is-blowing-up/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
     excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that automates ROI-based creative decisions as well as content strategy."
     publishedDateTime: 2023-01-26T12:22:00Z

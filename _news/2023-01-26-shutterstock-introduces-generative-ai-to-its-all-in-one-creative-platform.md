@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Canada has leading AI experts. But does Ottawa have the right plan to support an AI industry?"
-    excerpt: "Many leaders in Canada’s innovation sector say the government’s strategy to build on the country’s early lead in AI is emblematic of how Ottawa routinely fails to leverage the country’s brains to prod"
-    publishedDateTime: 2023-01-23T06:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-canada-support-ai-industry/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 28
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/SLm_mlp3KxUFGhaNXKuiNzNnz1M=/1200x880/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/2X6Q4TUP4NNBTMZ2N64WSDGLHA.JPG"
-        width: 1200
-        height: 880
-        isCached: true
   - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
     excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
     publishedDateTime: 2023-01-24T14:00:00Z

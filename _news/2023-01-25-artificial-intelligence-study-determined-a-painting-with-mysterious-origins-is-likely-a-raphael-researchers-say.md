@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Identifies Long-Overlooked Raphael Masterpiece"
+    excerpt: "Using facial recognition technology and artificial intelligence (A.I.), they have concluded that the painting is “highly likely to be a Raphael masterpiece.” “Looking at the faces with the human eye shows an obvious similarity, but the computer can ..."
+    publishedDateTime: 2023-01-27T21:37:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-identifies-long-overlooked-raphael-masterpiece-180981528/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 37
+    images:
+      - url: "https://th-thumbnailer.cdn-si-edu.com/frCikkMc1g8KY8-8IpqTXTfYTW0=/fit-in/1600x0/filters:focal(1926x1926:1927x1927)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fbf%2F34%2Fbf341ac9-3e39-46b9-bd74-c5d2d95020c6%2Ftondo.jpeg"
+        width: 1600
+        height: 1600
+        isCached: true
 
 secured: "KQBeUo0xXcfFmtDa+24rzemQ2hs5CKePGq4BQvHHgdsMrwRcN1e0yq79Dq+oAleKumL4uxShMyFSLhXeuybOZFNKix+gkJUk//oI1KdRdqK/4pF2kAnD8IDWP1uuw8MzVEzusSjoO5FJr1wVe5sr7HSkVLfMuiUZZfCWf1jYuzFvhkbUPiNy0/B2GaCNLiiA+acbLSSxQCwicutJi8bfVp5O3CJ2191oSZ6kHK3q5X/4JvQ6NVEAYQWvVlxF56kzGFdBcbIkwSOQs2aiD3xPbabmXEz6VH9TmLOganMxhKwgQBvNvCiGRqgmxKeYNJq+uZC48c25CKQe/Jsu/DNzPOOZLdMWPt3wtuSnZk2wjko=;1MRo0hyx0SpC89XfU0yuDw=="
 ---

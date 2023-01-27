@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-rec
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
 type: article
 quality: 61
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://pix11.com/wp-content/uploads/sites/25/2023/01/AP23025727473750-1.jpg?w=1280"
         width: 1024
         height: 681
+        isCached: true
+  - title: "Madison Square Garden facial recognition tech, to ban people, ignites political firestorm"
+    excerpt: "Madison Square Garden’s use of facial recognition technology to bar unwanted fans has prompted an outcry from people fearing that New York is turning into the Gotham of a 2008 Batman film in which the superhero had access to a mass visual surveillance ..."
+    publishedDateTime: 2023-01-27T20:03:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 50
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/01/25/MSG_Lawyers_Barred_73750_c0-107-5907-3552_s1200x700.jpg?f9718d3cc2555d97950141d920d5e1f5733dfad1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "New York’s Madison Square Garden’s facial recognition blacklisting sparks outcry"
     excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan’s celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."

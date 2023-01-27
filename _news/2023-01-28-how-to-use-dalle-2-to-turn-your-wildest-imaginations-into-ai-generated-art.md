@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T17:47:00Z
 originalUrl: "https://www.zdnet.com/article/how-to-use-dalloe-2-to-turn-your-wildest-imaginations-into-ai-generated-art/"
 webUrl: "https://www.zdnet.com/article/how-to-use-dalloe-2-to-turn-your-wildest-imaginations-into-ai-generated-art/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: ZDNet

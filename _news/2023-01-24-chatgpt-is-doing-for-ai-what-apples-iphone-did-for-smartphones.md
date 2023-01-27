@@ -207,6 +207,20 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
+    excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
+    publishedDateTime: 2023-01-27T18:57:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Google Sparrow: an AI to compete with ChatGPT"
     excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."
     publishedDateTime: 2023-01-23T09:44:00Z
@@ -307,6 +321,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 12
+  - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
+    excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
+    publishedDateTime: 2023-01-27T19:36:00Z
+    webUrl: "https://www.thenewstribune.com/news/local/education/article271689532.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 12
 
 secured: "hhV1HG8pAGYUeTMAufwXJB3o/CmHcJn1jRr4Yw3na+uw7sddtSOC77PhyVdgGMQSbcLhJK04RIektVBO8HOrPEP7XM0aUS0x/IRsPK48TPRVvPYA4u813hlf0Y0LzxV6hmT5H6MbhW+t3HUEj722mJkRsPapt6FTKWmY2+495HisKbbYWxNWKXlbkG63rnSPPjDrpADFg5mZ37EAp/GP1y6HYO5/krL3ckF8lwbiYgMAP0cr1bWElwA+J3igPKHbi2eDhXaz1Sw7cEZlV8OhoCma7zInu9RsuGmYszUJuPq0JLbEveey25yG43MLxcQVaHnO/EeJTSW2j6KFDjAuIspfqN9U/Q9xpIuvfNSciPQ=;g3MndIhEzt4CY0QMYYT6mA=="

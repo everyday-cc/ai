@@ -57,7 +57,7 @@ related:
     provider:
       name: WPLG
       domain: local10.com
-    quality: 18
+    quality: 20
 
 secured: "dKGOpy4URRX7S7ErdJK8Xl0ukb8r8UgwXL20oCOv0I0ao2mUQ4XG1l/fdTbmIbHKCbU33HEH5DYNSIb1C/CAvdC+nQTRITStHzq6etxcXJ6d79vbpXadYH+lrfhGPCptvw4QrjebmXI9NFtqq6oENXwLZFYtpkETUhOribOkwKRK9pCXh+0g26zJViNP4y0bW3SaRNe+mc7Mlo+Funy/1pSm3IlcjtJ80TLAQjey02nPi/E7F+gDQo1QI6jAUkuSSx0ebh/u2KjmmMMjVUQoJCuPdVdZqHJ0zxwOcIKMsreOXx2GWYoxXHWHMwRqmQHn3QD5VhX0dNbYrFggGDctewyDj44V5qz+esnX2Vc7/0w=;slmnLZWDkv53Q6SKKz3Ccw=="
 ---

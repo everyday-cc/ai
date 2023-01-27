@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T00:00:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/01/230126100154.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/01/230126100154.htm"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Science Daily
@@ -18,6 +21,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "RaiBo: A versatile robo-dog that runs through a sandy beach at 3 meters per second"
+    excerpt: "A research team led by Professor Hwangbo Jemin of the KAIST Department of Mechanical Engineering has developed a quadrupedal robot control technology that can walk robustly with agility even in deformable terrain such as a sandy beach."
+    publishedDateTime: 2023-01-26T14:17:00Z
+    webUrl: "https://techxplore.com/news/2023-01-raibo-versatile-robo-dog-sandy-beach.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 13
 
 secured: "fU4b2+uo7IWjdZ11q9fzFVD90HAdNu23SiwcpA3uSE4lHDNwoYW/DUg1kOXr5hj4zfMNFmQN4SMh/O8Vo88LglYBcAE9qnEbYdmRsyTUmy64gQ/wa1RHV2TWYDl7e2YfwMOGQOh8VkUUZr6a0DrLVvFL+2ZR6wqe0Gk3dPFEUM6DuIFKl2oz1l9np+a39OjWMDZfLBJ47oJHtsEWzekbTMmb4UCf6QuW5p7TInhLlmF8lZnVryf6c4VIFbrDsPCQ/Lw9neS6e/YSKayRjvF4S+aHzqLgm6bU3GsOHaTEBQ46CxspielITgQmOSI9zI0PSTp1dNIDSZOjXD1KNwjosdbrhKLBRSLHo76vQ6JBxuE=;bTMENZDIKBd8+r2T0N0hfA=="
 ---
