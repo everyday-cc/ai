@@ -2,19 +2,19 @@
 category: news
 title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
 excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
-publishedDateTime: 2023-01-26T13:08:00Z
-originalUrl: "https://www.miamiherald.com/press-releases/article271680117.html"
-webUrl: "https://www.miamiherald.com/press-releases/article271680117.html"
-ampWebUrl: "https://amp.miamiherald.com/press-releases/article271680117.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271680117.html"
+publishedDateTime: 2023-01-26T12:06:00Z
+originalUrl: "https://www.sacbee.com/press-releases/article271680117.html"
+webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
+ampWebUrl: "https://amp.sacbee.com/press-releases/article271680117.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271680117.html"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI
@@ -258,6 +258,6 @@ related:
       domain: boston.com
     quality: 17
 
-secured: "RvvEq2H1cAokhpREdLgwm8tH8Z9HFGwdouagQAMs0YagjN2ycUcrm6KObeUvmHZpyRhOTvy9FQJ1GwwuOq6uPOEDGkjJfjhJG9nVUvLL87+v2G+z2FyUnnjo/+UFrlQY7zbQNkYiV88+l4RywUYrGdJNW102yaFDqS+KHX8a+2ObqEKFhWkMQbTrTfgsAbLbW2v9SbZbyOEOAPDGwO5AOidiShH20d09C68K2wqKWjGuwLi9dxuTbnr7KV6PLCVKxb2fl2q/ttkVemiTzP4PJ5lV/GVV+VMlAZAE7icmujHkvW//N0NEnhV6j8JsIL4ybO7ANHnfwDSjoh0hQqrrSBbB/+2u22g8emjE2kS1avD39vk/Jhs6glANFsvkQRgVG3bWrE1Z4jwdpKwLCGq8OPM9YjT6F6hY616BtCcxhb77cZROlWXTCIs6nzBQUD0LR0TUQkJ/uKnpLLaCADAnIJyU/lWf6nHWNeDEhGCZWEqEEIDbcsuI1pCsEnvAXbHpPMplP9cv0XpJy1wtQyZbBQ==;CeW2XUnwXmllCNsN+ic3Hg=="
+secured: "Ihah0iu3lfOMfe4vuyAtahXhnPtbJGp51T9kAxcMETXaqZceYBtnDuvgrkRKOLfFtRwy4OUvv+HYWxIL8SctiV8MvSwLrZLPvObDdFLbiM4sXGpe9PjhGslTqhUeC54L/GtfJSlgyKcdVazhPFdmX/Sof0yh9oqw20G+DAV5Wmeqeaz32A5JNdvuasm92+QOOuv02gCQr85eIB1toLLuucl6akapAlTuAzvr7mZOjYh/Ly9IgTRY5MjKelI5HPeINqWBWh56TEfw9IXlemHBji2OGRcQixoqNNie8ttyMIvW38xmDiNmj7hr2mN8UPzGEx/MzamYMhbies4rzMD0LcVymqTtk5HD5JB+YLr3nBR8UtOUCOmTHrtizl4s7tED2JoQZY4NDBSt9znXQY1ds5ckXPT8cq9eRswlg5LjXt2ZYTad/uLyqZrw18wy0b3sHIe/Bk4dkT0M1htgyYlr1Iroqr/4wWWqFYmBgCckp8m9l3xM9vZnv7D+AlasLOgmOMn1b/7ceup4Li/eKvRmUA==;IXRSCQ7APDDYXr7K7TwR2A=="
 ---
 

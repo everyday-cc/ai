@@ -128,6 +128,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
+    excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
+    publishedDateTime: 2023-01-27T02:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
     excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
     publishedDateTime: 2023-01-26T13:29:00Z

@@ -151,6 +151,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora’s capabilities in AI,"
+    publishedDateTime: 2023-01-27T06:43:00Z
+    webUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 21
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/01/ANI-20230127060436.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
     excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
     publishedDateTime: 2023-01-23T19:30:00Z
@@ -195,15 +211,6 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
-    quality: 0
-  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
-    excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora's capabilities in AI,"
-    publishedDateTime: 2023-01-26T18:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302361&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 0
 
 secured: "OcDdhwGLiXpe9YGpyHTsaYNH2ELNqgdAVf+/9kFwnYwg5+3JXAL2rGc7YtqHRL/p9GVLnNoVRWl7hu06bXLfEZT9cWsxngtTn7MV01ebjizJmRJlC3lYLf2VMhQacFP+/W8wTrD8lI1Z3G3eb2Xb/Ag8lM6a8NuuaWN0SRBAgJ5wS2SgccYM4ppY8LtTgFFBLb2BPCD0YVCvYxFfuVAFgpIfrlX9NvJyvwSt7irx85+ILkv2wYZymmiSC8Y/eHNNCYAyP/CLJk39R+L7Pb93jbrF4E70LhQAMQwvQsMftWZAr+3BZLNY0JctofIYzaGe24EPajHLnnrckZBdRrZeNnSgjqXReaAKhieyK9T25Fk=;DGacvida6GwJMiJxcSS11w=="

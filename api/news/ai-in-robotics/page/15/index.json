@@ -2,6 +2,93 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-21-smart-microrobots-walk-autonomously-with-electronic-brains.md",
+      "title": "Smart microrobots walk autonomously with electronic 'brains'",
+      "excerpt": "Researchers have installed electronic 'brains' on solar-powered robots that are 100 to 250 micrometers in size -- smaller than an ant's head -- so that they can walk autonomously without being ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220921210054.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220921210054.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-lets-investigate-a-way-to-invest-in-artificial-intelligence-and-robotics.md",
+      "title": "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics",
+      "excerpt": "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) .",
+      "sourceUrl": null,
+      "webUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
+      "originalUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png",
+          "width": 1152,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-nvidia-expands-edge-ai-tech-for-healthcare-and-robotics.md",
       "title": "Nvidia expands edge AI tech for healthcare and robotics",
       "excerpt": "Nvidia announced its new IGX platform for industrial and medical edge AI use cases, as well as a new version of the Jetson Nano for robotics.",
@@ -1302,102 +1389,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-a-terrifying-ai-generated-woman-is-lurking-in-the-abyss-of-latent-space.md",
-      "title": "A terrifying AI-generated woman is lurking in the abyss of latent space",
-      "excerpt": "There’s a ghost in the machine. Machine learning, that is. We are all regularly amazed by AI’s capabilities in writing and creation, but who knew it had such a capacity for instilling horror? A chilling discovery by an AI researcher finds that the “latent space” comprising a deep learning model’s memory is haunted by least",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
-      "originalUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/loab-header.jpg?resize=1200,625",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/",
-      "publishedDateTime": "2022-09-13T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs.md",
-      "title": "Robot Lab Live Highlights - Remote Control Burger Crafting Using Two Robot Dogs",
-      "excerpt": "Remotely controlling a robotic system from a distance, whether it be in a different room or country, has always been a difficult task. In this demonstration, the team from Real Robotics Lab will show how a motion capture suit - such as the ones used in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/content/videos/robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs",
-      "originalUrl": "https://www.newelectronics.co.uk/content/videos/robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/media/g21dp5mu/burgers.png?width=1200&height=630&mode=crop",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

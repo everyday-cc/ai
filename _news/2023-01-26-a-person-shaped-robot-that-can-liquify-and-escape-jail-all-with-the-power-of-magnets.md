@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-01-person-shaped-robot-liquify-powe
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-person-shaped-robot-liquify-power-magnets.amp"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://www.courthousenews.com/wp-content/uploads/2023/01/liquid-robot-cage-scaled.jpg"
         width: 2988
         height: 3000
+        isCached: true
+  - title: "Scientists invented a melting liquid robot that can escape from a cage"
+    excerpt: "The robot was presented as part of a study into the metal microparticles, known as a type of magnetoactive phase transitional matter, that can morph shape, move quickly, be controlled easily and carry many times its own body weight. The scientists behind ..."
+    publishedDateTime: 2023-01-27T06:19:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2023-01-27/liquid-robot-test-prototype-8903949.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 39
+    images:
+      - url: "https://www.stripes.com/incoming/t667v0-screenshot-(4).png/alternates/LANDSCAPE_480/Screenshot%20%284%29.png"
+        width: 480
+        height: 299
         isCached: true
 
 secured: "TIDe9KzA/jZhoaTPWLyPXzJ+HBmotCmn0RV6aluGBuJD8puLNCyobtXU0qbmo8lPcx/tXB1LToOpV9jCU/dhuNBtRKtyKS3cd1/xpi9UAowh74DjKQP8pvU1QEtd0vovdnasTYUv0d5dl41FP8c3Jqs7aKZa179inAApnuBcPSfA42r+wpntG9vEY1uI9Ac3ewOpYYI0gfDP3W1qZyStlzEaIGJRsSyUQV+wObdwrYD/ZHGtWvlxONwglhRIPwqDBuBzzG9SXTEctSSn10hUPL9VXifRG0YRYRN5IA1/KxP2YhHiHGzR7pg7jFQ/3WexKlfNc0tslPMZr8RUfODaCgxv1om0Qm2QunrxjXA4LdY=;NaMvJ3JPwLjbLjorGAtEfA=="

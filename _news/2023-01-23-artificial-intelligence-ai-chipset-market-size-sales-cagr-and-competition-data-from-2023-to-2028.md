@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23"
 type: article
 quality: 103
-heat: 263
+heat: 273
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
     excerpt: "The “ Artificial Intelligence (AI) Market ” Research 2023 provides deep insights into prosperous growth opportunities, trends, and challenges. It highlights current and futuristic market scenarios, specific growth patterns,"
     publishedDateTime: 2023-01-23T06:44:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-growth-analysis-size-growth-business-share-and-business-opportunities-to-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
+    excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
+    publishedDateTime: 2023-01-27T02:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26"
     type: article
     provider:
       name: MarketWatch

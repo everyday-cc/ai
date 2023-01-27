@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-08-gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027.md",
+      "title": "Gene Therapy On Cardiovascular Disease Market Industry Trends, Share, Size, Growth and Opportunities and Forecast by 2022-2027",
+      "excerpt": "Dec 08, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Gene Therapy On",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027-2022-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027-2022-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics.md",
       "title": "PolyU and Hanson Robotics’ step towards Artificial Intelligence and Robotics",
       "excerpt": "The Hong Kong Polytechnic University (PolyU) and Hanson Robotics Limited (Hanson) signed a Memorandum of Understanding to establish the Centre for Humanistic Artificial Intelligence and Robotics (CHAi",
@@ -1363,62 +1415,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
-      "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
-      "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
-      "publishedDateTime": "2022-11-28T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

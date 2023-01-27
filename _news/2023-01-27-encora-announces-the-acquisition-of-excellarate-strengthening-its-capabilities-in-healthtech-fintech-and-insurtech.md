@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
-excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora's capabilities in AI,"
-publishedDateTime: 2023-01-26T18:43:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302361&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302361&cat=PR News Wire"
+excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora’s capabilities in AI,"
+publishedDateTime: 2023-01-27T06:43:00Z
+originalUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/"
+webUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/"
+ampWebUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/?amp"
 type: article
-quality: 0
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2023/01/ANI-20230127060436.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Trends and Big Ideas Shaping Fintech in 2023"
@@ -206,6 +214,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "OU8P6lvKalcYcqwGJE4KTAuXKghxhLsv8EFHsVim1qRpj5aWlxXhx7dIAadW0uR2ECTJUY/bpwuHlPxts8VCTKL5QXWztW/ieFefMipWEx91pIAB4BWxYOrwGeIRTGSKzDg6OBt8Sj4THq2v+vPqf0TySb7K9UljqcGaXVbYvhEc6QKFVvFq1bKUIsK+N613fE7gS0eny9dZtG/72G0iZbzB4ZRc+/MlEMZiZmEXiedkzCb7eM+vZR9Z0LR5TqG0BDkjS5r2ipJCFBZxBoEdCMrFjXdrKcNchkcEt6UZCRLW1ewPipjnoJzwred7cGSriBk6hg0U622c+G+gOLKn2Lsa+O6YvM3PSmgiaK/3RDU=;0JL4h35UFQsn6rajjgk6cw=="
+secured: "qf8/iq+81JMM5Q2PeZev8S3xN3h10GkFm4VZsLQ88Wj+IoudDG6jrpCqLqR9xJMa3edrqNLtUnjFB3qhmIiS4SbZxLBOE+GlpHUJpLG/bCuHhrX0qEQnGUrGjzvrnN+mR+hYohdpAwzhVQaIruT5MQILYPWt389kKqOl2MFuYKYbNgaJkawYv0MQnPcHBZwqV4aqZgOPnlx70rcNnYV1uu8lu5G/1KC8QHtnxHxkOdxGuzsciBpVKy5I+zH91necaRi6tVM2jzRAfX0GnbxsBjBYIgyHVH+Vx5wTZowv32kYVbpo/U6B56LRku+VbetLL/3UIHnN2UUwHKIpoFC7UHToy2EtBlLrn1NDesh1lkY=;M4SiXElgc3k/YzppJibuGQ=="
 ---
 

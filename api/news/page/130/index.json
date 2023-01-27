@@ -2,6 +2,195 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-09-29-want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success.md",
+      "title": "Want To Get Your Team To Adopt AI? Follow These 8 Critical Steps For Success",
+      "excerpt": "Despite millions of dollars invested in AI, most industry projects never get adopted. Here are the four stages and eight steps to dramatically improve the adoption of your data science solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fdfc345111d68467d2218f5/0x0.jpg?format=jpg&crop=5994,3997,x0,y85,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/amp/",
+      "publishedDateTime": "2022-09-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-how-ai-can-streamline-sales-and-operations-planning.md",
+      "title": "How AI Can Streamline Sales And Operations Planning",
+      "excerpt": "Business leaders need to remember that making money is not only about bringing in more of it; learning how to stop losing it due to operational inefficiencies is equally important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee96fdaa9eb3a4c56cc31/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/",
+      "publishedDateTime": "2022-09-29T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-virtual-ward-startup-doccla-gets-series-a-injection-as-it-eyes-ai-tools.md",
+      "title": "‘Virtual ward’ startup Doccla gets Series A injection as it eyes AI tools",
+      "excerpt": "Health tech Doccla, which sells a remote patient monitoring platform to UK hospitals, has closed a £15 million Series A funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/",
+      "originalUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/Copy-of-9.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/doccla-series-a/amp/",
+      "publishedDateTime": "2022-09-29T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-using-ai-as-a-neuroimaging-biomarker-for-brain-health.md",
+      "title": "Using AI as a Neuroimaging Biomarker for Brain Health",
+      "excerpt": "In neuroscience and medical research, artificial intelligence (AI) deep learning is increasingly being used as a potential biomarker for brain health. A new study by the Max Planck Institute for Human Cognitive and Brain Sciences demonstrate how an AI algorithm can estimate biological age with high accuracy based on brain scan images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-lgim-joins-fintech-saphyre-endeavors-ai-driven-platform.md",
       "title": "LGIM joins fintech Saphyre Endeavor’s AI driven platform",
       "excerpt": "Legal and General Investment Management (LGIM) has partnered with US fintech Saphyre’s AI-driven Endeavor platform",
@@ -976,205 +1165,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex.md",
-      "title": "Build an AI-powered virtual agent for Genesys Cloud using QnABot and Amazon Lex",
-      "excerpt": "The rise of artificial intelligence technologies enables organizations to adopt and improve self-service capabilities in contact center operations to create a more proactive, timely, and effective customer experience. Voice bots, or conversational interactive voice response systems (IVR), use natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/genesys-cloud-qna-bot.jpg",
-          "width": 1532,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T09:29:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-make-your-very-own-ai-generated-pokemon-like-creature.md",
-      "title": "Make your very own AI-generated Pokémon-like creature",
-      "excerpt": "After nine generations of Pokémon, it can sometimes feel like the game developers are just pulling random words from a hat and seeing what they come up with. I still can’t decide if Klefki, the sentient keyring Pokémon,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/",
-      "originalUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/text-to-pokemon-ai.jpg?resize=1200,628",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/amp/",
-      "publishedDateTime": "2022-09-28T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-voice-assistants-could-hinder-childrens-social-and-cognitive-development.md",
-      "title": "Voice assistants could ‘hinder children’s social and cognitive development’",
-      "excerpt": "But the rapid rise in voice assistants, including Google Home, Amazon Alexa and Apple’s Siri could, researchers suggest, have a long-term impact on children’s social and cognitive development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/sep/28/voice-assistants-could-hinder-childrens-social-and-cognitive-development",
-      "originalUrl": "https://www.theguardian.com/technology/2022/sep/28/voice-assistants-could-hinder-childrens-social-and-cognitive-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f0fada6a9840ef35a64e7f7cb308a44ff4bd93dd/0_168_5028_3017/master/5028.jpg?width=620&quality=85&auto=format&fit=max&s=f1d5b900f194082b9f5b138806a9bc37",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/sep/28/voice-assistants-could-hinder-childrens-social-and-cognitive-development",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/sep/28/voice-assistants-could-hinder-childrens-social-and-cognitive-development",
-      "publishedDateTime": "2022-09-28T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.md",
-      "title": "NetSuite ERP bolsters automation for HR, supply chain, sales and banking",
-      "excerpt": "Appealing to companies that are navigating a global labor shortage and supply-chain problems, NetSuite at its SuiteWorld conference has announced a wide variety of tools across its ERP suite to automate and optimize business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
-      "originalUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/09/supply_chain_management_logistics_erp_enterprise_resource_planning_thinkstock_global_world_connections_614318676-100749847-orig-2.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
-      "publishedDateTime": "2022-09-28T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -8,8 +8,8 @@ webUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-repor
 ampWebUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://talkingbiznews.com/wp-content/uploads/2022/08/Bloomberg-logo.png"

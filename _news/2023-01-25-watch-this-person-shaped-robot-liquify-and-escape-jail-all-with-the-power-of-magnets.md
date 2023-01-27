@@ -53,6 +53,20 @@ related:
         width: 2988
         height: 3000
         isCached: true
+  - title: "Scientists invented a melting liquid robot that can escape from a cage"
+    excerpt: "The robot was presented as part of a study into the metal microparticles, known as a type of magnetoactive phase transitional matter, that can morph shape, move quickly, be controlled easily and carry many times its own body weight. The scientists behind ..."
+    publishedDateTime: 2023-01-27T06:19:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2023-01-27/liquid-robot-test-prototype-8903949.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 39
+    images:
+      - url: "https://www.stripes.com/incoming/t667v0-screenshot-(4).png/alternates/LANDSCAPE_480/Screenshot%20%284%29.png"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "YH9ktr2FeCrKsCdo4RE1F0Rq7kVjcPOdF3Iur3q/KRwfm4ObxiQqB+WLIF+tMOjqmhJ34doR+x86y0Bn7UHbGqzoxMaQUVu84x7TA1mLXJDoZZJ2t+1oHn/jGEZj8lY9l0v13l+2XsjiJPwMDABrT6Pvmp/4FRaHpANvpVT1lndl4FOKtmDOA5XqDDB1Kfqjw42T80OCsR7D2sRjaregvlme/Npt/EPt9cXiEFqmwe/IpQTFC3XxrqVD2Zv+SCUxDt2TGmBFD29QkE12Mfi36X5BRaTIujslbVeiSqcZ5rZYLlGYNP0LndNvmUL8pJwLuEeiGikVtEOqkz5jm8+swwSxqRw6Ja3hOYdSDwVvVqA=;h+85uELWREgNmTv3e6aFNA=="
 ---

@@ -66,15 +66,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Famous venue is advised to stop using facial recognition technology"
-    excerpt: "State lawmakers have warned the Madison Square Garden stadium in New York City not to use face recognition technology as a weapon against visitors if"
-    publishedDateTime: 2023-01-22T13:36:00Z
-    webUrl: "https://menafn.com/1105462269/Famous-venue-is-advised-to-stop-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "joS0IuYWmQA1P1k1KnDFShn5yETfYLCQ4TaHX+mFNH7fqWiHENF3ekcLL2wMIG1DUYbMALZ6SQAuJ/YVSip6mjx0fFIYKC1+Cp14/w1DoFiUzt+/7MUpuT/gx1HJ4BFOO5rEmQ/XxWKD3X3IlcAM3XkGvN6iM0FyKfZbwmvBxoghfY4bzIkJNjskuogbYnQaks/QrMabEBN9F5l1x3QIT753Lo+CbZGRuIt7NOnI7s+/0aFT7Mo/s5oUy0QuFxx8PqSMWI6wfzgQWFB2z/qX5kX66G806BMpjludf3mCXVJs2MxnX7GZmIhfIW3v0ejz2BP1e2VqTSD74zf/nDIndM41Jko20yopGDkcSitPJr/jtKsq92xE+UO1OoQEOV0gXn6wquwjsQ/9T3Nfv/wX6vw1tuMW0cAqYMZHX60ufmolMsIVsJDt2scXTO+5ab49PpFP0QU+J2QjhO1vqH+3+saNXA8q2x/AVvYKrD99FaJSecRjnfnPM3ak3pGRmGRHfhU9iVu4JdwGKDW73WWcUA==;o6zFVUO/fOPwRfM1joltbw=="
 ---

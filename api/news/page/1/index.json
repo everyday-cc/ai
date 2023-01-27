@@ -235,6 +235,50 @@
       ]
     },
     {
+      "path": "_news/2023-01-27-artificial-intelligence-could-save-healthcare-industry-360b-a-year.md",
+      "title": "Artificial intelligence could save healthcare industry $360B a year",
+      "excerpt": "Broader adoption of AI in healthcare is likely in the near future, and could come with a slew of benefits beyond financial gains, according to McKinsey and Harvard researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-savings-harvard-mckinsey-report/641163/",
+      "originalUrl": "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-savings-harvard-mckinsey-report/641163/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/0nifuYNLN-SLqHIAf5t8DSf-6bJ0H6dZL3Ph70ad46A/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0Fkb2JlU3RvY2tfMTMxNzk0NDYxLmpwZWc.jpeg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning.md",
       "title": "Best Egg achieved three times faster ML model training with Amazon SageMaker Automatic Model Tuning",
       "excerpt": "This post is co-authored by Tristan Miller from Best Egg. Best Egg is a leading financial confidence platform that provides lending products and resources focused on helping people feel more confident as they manage their everyday finances. Since March 2014, Best Egg has delivered $22 billion in consumer",
@@ -452,7 +496,7 @@
       "originalUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -902,7 +946,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1194,58 +1238,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics.md",
-      "title": "Build a loyalty points anomaly detector using Amazon Lookout for Metrics",
-      "excerpt": "Today, gaining customer loyalty cannot be a one-off thing. A brand needs a focused and integrated plan to retain its best customers—put simply, it needs a customer loyalty program. Earn and burn programs are one of the main paradigms. A typical earn and burn program rewards customers after a certain",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/25/loyalty-points-anomaly-detector.jpg",
-          "width": 1569,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T08:19:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

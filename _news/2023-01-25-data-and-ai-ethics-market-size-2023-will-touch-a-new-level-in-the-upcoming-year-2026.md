@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24"
 type: article
 quality: 77
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -173,6 +173,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A New Industrial Artificial Intelligence Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2026"
+    excerpt: "Industrial Artificial Intelligence Market Size Outlook for 2026 with massive business analysis and bottom-up analysis of the Companies [, Intel Corporation, Siemens AG, IBM Corporation, Alphabet Inc,"
+    publishedDateTime: 2023-01-27T02:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-industrial-artificial-intelligence-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2026-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

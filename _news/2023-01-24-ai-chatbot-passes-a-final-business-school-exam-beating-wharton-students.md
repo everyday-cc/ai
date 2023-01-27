@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT passes Wharton Business School test: research paper"
+    excerpt: "The new artificial intelligence system ChatGPT has passed an exam at the Wharton Business School, according to a new research paper, signaling the potential of the controversial chatbot."
+    publishedDateTime: 2023-01-23T03:59:00Z
+    webUrl: "https://thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/"
+    ampWebUrl: "https://thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 44
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/01/phonemessage_010523_ap-peter-morgan_chatgpt.jpg?w=1280"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "kRPnhvl95RfFjZWZxQetkxTDqX2wmq9T0dT6N7v5+5hfjUfiiH96dMTi4liXHW8tzs7skyUKmhhrivl34wM/WUlSJSfNvodMHNre235MciZ9EWRKFbBcreRIkox/v+7+pRS0l4m43cVIV6i2n9lbINvDyHiJ/1XCoraGU1Bo5bZbsKIxpfARSCRJWFUWN4a2DW6AdNuSSb/TTB8yyYQHjUTLRPS8GhYIceCam3s8DZsOCU7ZKYStwLwdi5iiZ52lwEy3VP0TgHOTaboFjLx+F3TEjp5xRZL4uics9qNfWl4sRCwhGCKj4xfyDyjqrFdK4cwJLSv1DBm/mpzpGx5Vlbd2dFkhF9wSkg2Q9r3WtkRdVu2iBVH0KZzDJ0etFA/7XfU5dPN42YB7GjI5vPecH6O7+mU3uPYQ6Pl46sq6ixKoYIz8phvQrDRDRf4n8V5S290lpv1X27Dss3GtzpMZkhIgHHGt+k5yKMut2vb+uJ89kpvg3r58tnqz7ayHU+TZ4Z9fGTjpH/bxroNRAHmm8A==;9jAnWF2ZQWz+2ny63wksfA=="
 ---

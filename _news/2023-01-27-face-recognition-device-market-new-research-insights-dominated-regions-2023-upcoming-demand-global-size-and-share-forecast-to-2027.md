@@ -186,6 +186,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A New Industrial Artificial Intelligence Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2026"
+    excerpt: "Industrial Artificial Intelligence Market Size Outlook for 2026 with massive business analysis and bottom-up analysis of the Companies [, Intel Corporation, Siemens AG, IBM Corporation, Alphabet Inc,"
+    publishedDateTime: 2023-01-27T02:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-industrial-artificial-intelligence-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2026-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "K1YYQNfir08L+9XmjVCoknkZCLmXqQCvrFUhjiQ8nkY4vAQ8zsbGVaL48/mUpmWx3AtboNsz7A3WSut1pdaYdI4L1iVbN0pY714dYK1U3K4iTxtQdm6YZduIUIheMBOouu/s1Du/esa0177Ab6yMyxTHqoA/IMKDqUEyOlv3bn/n5KXYHdOoAlvI5tQcAaAO0b9sEeSCXPAU2zlFGJJGI7LglOOy+rU0Ez33NNhcxq3+lClSVtrJVGN9ol6euRjFXCtjKZmizti4H+LNF5Ncm9J8qRJmEkw9LwCxMZTDc2KRXhgHoKnNnidGzx816LEZ+MqoYUaHPYGTxgcYocNhNecxhwTEEuSV/Z3Q2hQA9DY=;LWfdnKs+8F3mW77z1545Ng=="
 ---

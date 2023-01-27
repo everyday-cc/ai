@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-29-vyommitra-is-the-humanoid-robot-india-is-sending-to-space.md",
+      "title": "Vyommitra Is The Humanoid Robot India Is Sending To Space",
+      "excerpt": "Yet, when you think of countries with a burgeoning space agency, India is not one that immediately springs to mind. However ... displayed on the vehicle's control panels, flip switches accordingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1077334/vyommitra-is-the-humanoid-robot-india-is-sending-to-space/",
+      "originalUrl": "https://www.slashgear.com/1077334/vyommitra-is-the-humanoid-robot-india-is-sending-to-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-29T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-how-to-manage-risk-as-ai-spreads-throughout-your-organization.md",
+      "title": "How to manage risk as AI spreads throughout your organization",
+      "excerpt": "AI has many possibilities. But organizations must strategically implement AI to gain benefits and avoid risk and harmful consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
+      "publishedDateTime": "2022-10-29T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-lego-is-moving-on-from-its-mindstorms-educational-robots.md",
       "title": "Lego is moving on from its Mindstorms educational robots",
       "excerpt": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. While the company isn’t completely done with the idea of educational robotics kits, it will stop selling its Mindstorms Robot Inventor kit by the end of ...",
@@ -1288,110 +1383,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-construction-robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2028-116-pages-report.md",
-      "title": "Construction Robotics Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2028 | 116 Pages Report",
-      "excerpt": "This report studies the construction robotics, including the remote controlled demolition robots, construction 3D printing robots, bricklaying robots, and remote control rescue robots etc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/construction-robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2028-116-pages-report-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/construction-robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2028-116-pages-report-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record.md",
-      "title": "Tired of laundry folding? AI breaks the robot folding speed record",
-      "excerpt": "While it's possible that someone out there enjoys folding clothes, it's probably not a beloved pastime. Accordingly, researchers at UC Berkeley's AUTOLAB have developed a new robotic method of folding garments at record speed (for a robot) called SpeedFolding.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/speedfold_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

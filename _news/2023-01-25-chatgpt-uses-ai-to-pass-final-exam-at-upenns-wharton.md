@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo161658437822"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo161658437822"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/25/32b0fdde-a641-48be-a3bb-1f5a15aaa771/thumbnail/1200x630/af2537f54f3a943476eed6072bc78b68/keyboard.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ChatGPT passes Wharton Business School test: research paper"
+    excerpt: "The new artificial intelligence system ChatGPT has passed an exam at the Wharton Business School, according to a new research paper, signaling the potential of the controversial chatbot."
+    publishedDateTime: 2023-01-23T03:59:00Z
+    webUrl: "https://thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/"
+    ampWebUrl: "https://thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3825754-chatgpt-passes-wharton-business-school-test-research-paper/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 44
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/01/phonemessage_010523_ap-peter-morgan_chatgpt.jpg?w=1280"
+        width: 1280
+        height: 719
         isCached: true
   - title: "AI chatbot passes a final business school exam, beating Wharton students"
     excerpt: "A Wharton professor tested an artificial intelligence chatbot on Wharton's MBA exam, and the AI beat some of the students receiving a solid B or B-."

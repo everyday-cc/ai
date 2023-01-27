@@ -39,6 +39,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Wider adoption of AI could save healthcare $360B, study says"
+    excerpt: "The wider adoption of artificial intelligence tools in the healthcare industry could lead to savings of 5 to 10 percent of U.S. healthcare savings, or $200 to $360 billion annual savings. The paper, authored by researchers affiliated with Cambridge,"
+    publishedDateTime: 2023-01-25T18:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/?view=article&id=217620:wider-adoption-of-ai-could-save-healthcare-360b-study-says&catid=31"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/Payer_Apply_to_be_a_live_Conference_Reviewer_2.png"
+        width: 2046
+        height: 1080
+        isCached: true
 
 secured: "km/5tNItXyqxbHRUc3HISNoNLhgWFrwVWzD/hNYt8cjVj4sCPFI+GShLoAun1iVieqf86GcCrdeEGqlafxPVLpkJafeXNqIm2ewhTo0/Z4XwWJP0SWK7wRisorzi/83q5AmkSA43cK4AvnKONf7rfiHt3vwsW4CeGcqI+mcAddkR4hF0PyQ0seOmmNVu/w/mXMxhHMAB/u0sTcc02eAJSv5FKDJVlRyas0O9CrAY9xo2cnEmhqifapyAsHds3yDXl19YqMv4hCSw/kPyORpYl5XoHNZzjMP3R0VTQ/26twkSyUU0z/UDd9WDyWb655d7+nRmNlPxt5BYoEAlkolnv+KZo6Zcru95q/Uu/GkVgwqA38CqFYDiANn7Z5+JYxyROXigUP0rNujkIvrnP0aT5YeOmDTKrVPITB5/Q+qzkC+ZHMbhSDSwne+QOvwTaaUMIQ5y6uR8gzh7ZIACBTZnRh7a+ohOMVunWflebW27shBkFbCur7/KQih6STu28T91d+Vylvl8JKhDXCaYFKMOWQ==;/53LXwNNdKMQyumxVAP4Yw=="
 ---

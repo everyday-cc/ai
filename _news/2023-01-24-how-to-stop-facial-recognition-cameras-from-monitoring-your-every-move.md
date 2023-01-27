@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-mon
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 2048
         height: 1257
         isCached: true
-  - title: "Famous venue is advised to stop using facial recognition technology"
-    excerpt: "State lawmakers have warned the Madison Square Garden stadium in New York City not to use face recognition technology as a weapon against visitors if"
-    publishedDateTime: 2023-01-22T13:36:00Z
-    webUrl: "https://menafn.com/1105462269/Famous-venue-is-advised-to-stop-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "TAlq+xxI26jVpVJEAG/j7oY6Lrw5kKeBIkyWpdPI6LITtBtPbi6nyM9905dC89JvyUTaQvw34D02mpJEp2nkwxE99f5pb9jfa48/rNI6xnd2O2iOHs2pKpbKlBc6wd9amFa0Sf1zaYbbg2J3rAYHyRAp47kvEZHsLzhUY/BhUkxlVyf5qyydYkIssO3NBXC5PUVlIhUGQLZLHfvFmPjN/RIS2p4SxUiIKSYQQ21T0Z0oEMTKx8+ECtCyDkC2KbOKV2DEEjaE89Yk2b5Qvq4T/KsI5VN0Ge8KBIeiXDs9Vrwry20zIcaXjLVyW5fqshCt3WuSQF7IpRiP4Pc/3bozEjMBjfX5ybIGYjM+bm6fX20=;ERrbKLDTGqKrFT2bEmmuLA=="
 ---

@@ -2,26 +2,26 @@
 category: news
 title: "AWS Launches Second Infrastructure Region in Australia"
 excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
-publishedDateTime: 2023-01-24T04:28:00Z
-originalUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
-webUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
+publishedDateTime: 2023-01-23T23:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82691.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -102,6 +102,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "zEXcHaSl08EQ/Lhp9wP2SnB55X7hoqwrt27NVeKLflvir3eX6WzEJd/hFPEnT0PMXPfr3EgvR/9rfD+uQIN30IUWW0K96fKgU0U4xddsaZ/uClQ6IYSXafOzjh8BBNapxl/gFEZ5V0SgBARI+xsBQIX7EfbTxkqQW11zrUUM7/ZXg5e7kHqI6Fi+GSs1NCcFbORmysOqUawTaS2GP6uJ5EptKeicA7OQIL36eNYJ3qi67+uF88Lnzc7mFtLBps6bKBGecAz9zBW6xTYVsD/Px2cD05GFV07UhksRN2E5gdVUqT67FqYv6DZj29zXSiI+aDU4XB9bCEEQyjr+ezClTdzFYg74Pw/xTfdixDWnyvI=;oISu/yIjRUVDkW2cBe+b7g=="
+secured: "NE0OI16srKOhSm2YLAseHee6DgMl2YuYVk9JKOxulAhp78ElheR9ZYsjwIW1WLgK9P3nsRynD6WrnhbSdZcJFGRXYuxBM7vcbBdIBGGLbmgdEwiG/gl2ncoB7hpfFoly3qqXCgNlqXsFmDb3m6ty27tPwos4+eTDUUVVrgHUvHEc0uLxNW9LLpzi4jqaO2/FJrTKK0yD2rYTUzKUVCEZJ67mV/6ir0qehB+O3zHHIp54nXUM7DZK2df0gG1csgIEh/BXP4LUi+Uhp1BGkyrV3j1qTSKCNF6RiP5i7W0xwUY3qJos3Hke8HOQeCrIwbnPZ61HC/Qi1Sbd0hsEc/jGbiT1HooqZaYDkjFOfafJOyQ=;xEa9cdgcVKwiiidA1iG3eA=="
 ---
 

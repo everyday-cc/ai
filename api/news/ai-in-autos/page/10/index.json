@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-20-waymo-can-now-provide-fully-driverless-rides-in-san-francisco.md",
+      "title": "Waymo can now provide fully driverless rides in San Francisco",
+      "excerpt": "Waymo can now provide driverless rides to passengers in San Francisco. On Friday, the California Public Utilities Commission (CPUC) said it granted the Alphabet-owned Waymo a permit to participate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california",
+      "originalUrl": "https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/nKYxlCmZtKON5e89PGJxO0QiW0w=/0x0:5154x3372/1200x628/filters:focal(2717x1815:2718x1816)/cdn.vox-cdn.com/uploads/chorus_asset/file/24211424/1390904981.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-19T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare.md",
+      "title": "Ripe For Disruption: Artificial Intelligence Advances Deeper Into Healthcare",
+      "excerpt": "Healthcare providers now have a better understanding of what patients really want, and are getting better equipped to address their needs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637808e71034975a4f1a9f1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/amp/",
+      "publishedDateTime": "2022-11-19T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-waymo-unveils-autonomous-all-electric-minivan-that-has-no-steering-wheel-or-pedals-but-sports-three-touchscreens-in-further-push-for-ride-hailing.md",
       "title": "Waymo unveils autonomous, all-electric MINIVAN that has no steering wheel or pedals - but sports three touchscreens - in further push for ride-hailing expansion",
       "excerpt": "Waymo currently offers some form of robotaxi ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards.",
@@ -1250,114 +1355,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-what-riding-in-a-self-driving-tesla-tells-us-about-the-future-of-autonomy.md",
-      "title": "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy",
-      "excerpt": "We took a ride with Tesla’s experimental self-driving system. It was by turns intriguing, impressive and scary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
-      "originalUrl": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/11/14/business/tesla-self-driving-flaws-promo/tesla-self-driving-flaws-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-13-artificial-intelligence-stocks-the-top-9-ai-investment-opportunities.md",
-      "title": "Artificial Intelligence Stocks: The Top 9 AI Investment Opportunities",
-      "excerpt": "How can you invest in artificial intelligence? How can investors use AI to become a better investor? We look at the best AI stocks on the market right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63707c7f5fc25388eaa8fb80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/11/13/artificial-intelligence-stocks-roundup-of-ai-investment-opportunities/amp/",
-      "publishedDateTime": "2022-11-13T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "IBM AI",
-        "Microsoft AI",
         "AI in Autos"
       ]
     }

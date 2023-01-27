@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-01-ability-physical-social-life-cognitive
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-ability-physical-social-life-cognitive.amp"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,42 @@ images:
     width: 1770
     height: 869
     isCached: true
+
+related:
+  - title: "Online interaction is impacting the mood and cognitive function of young people, says study"
+    excerpt: "\"Much research has been directed at understanding the impact of online interactions on adolescents' well-being and cognitive functioning. But the evidence is mixed, leaving us parents ..."
+    publishedDateTime: 2023-01-24T15:03:00Z
+    webUrl: "https://phys.org/news/2023-01-online-interaction-impacting-mood-cognitive.html"
+    ampWebUrl: "https://phys.org/news/2023-01-online-interaction-impacting-mood-cognitive.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-online-interaction-impacting-mood-cognitive.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 34
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/online-interaction-is.jpg"
+        width: 563
+        height: 397
+        isCached: true
+  - title: "The ‘MIND’ diet is intended to stop dementia and loss of cognitive function as you age"
+    excerpt: "According to a research titled “Dietary intakes of berries and flavonoids in connection to cognitive decline”, fruit consumption has not been linked to enhanced brain health. So, while the ..."
+    publishedDateTime: 2023-01-22T21:49:00Z
+    webUrl: "https://www.iol.co.za/lifestyle/health/mind/the-mind-diet-is-intended-to-stop-dementia-and-loss-of-cognitive-function-as-you-age-1b31cb18-8e92-4ebc-99d2-4086f949887a"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 0
+  - title: "Interactions Secures Patent for Intent and Entity Recognition, Real-Time Sentiment Understanding to Uplevel Customer Experience"
+    excerpt: "Extracting Natural Language Semantics From Speech Without the Use of Speech Recognition, Interactions’ 125th patent, introduces new technology for intent and entity recognition, including real-time sentiment understanding."
+    publishedDateTime: 2023-01-25T14:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/25/9749055.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "aQjUzraWO0hFuKlzvsFCpb+3O9Ouvc4YeuMXr46JMju+Vul4hd/wHxdL4BCbMl+pafD/uDd9VKU41csvJPLhqt7XNqxc/A9eqaBFNIoWMTm/Ztd6+YAmgSdWKykpv8KE3VKQL4XyC+mETZqESJdghWJXuTAXRgUtfjbcArhPBOtQ+oNljhX9JVqr3t4niEcYFKQryeVMZ3qP/xvratj2DiE2xgkXAvn/VPO4EGM8253thCz3aCLCD1zS2ibuDnnLVprmnTEspxEXw7u+COEJOWeA+KyFSAQxgX14QFDNDB6pRI6Bw9264raPgOzrGlJf3UItCjzrSCL2TPU4APvRdjJ0IYiyvQAJ5QnQrS1WenU=;2Rc4gu8JIeusP0faYi1a6A=="
 ---

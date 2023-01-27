@@ -193,7 +193,7 @@
       "originalUrl": "https://techxplore.com/news/2023-01-person-shaped-robot-liquify-power-magnets.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -535,6 +535,49 @@
       "provider": {
         "name": "Bridge Magazine",
         "domain": "bridgemi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-best-robot-vacuum-deals-under-100.md",
+      "title": "Best robot vacuum deals under $100",
+      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100/",
+      "publishedDateTime": "2023-01-20T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1017,6 +1060,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-18-microelectronics-give-researchers-a-remote-control-for-biological-robots.md",
+      "title": "Microelectronics give researchers a remote control for biological robots",
+      "excerpt": "First, they walked. Then, they saw the light. Now, miniature biological robots have gained a new trick: remote control. The hybrid 'eBiobots' are the first to combine soft materials, living muscle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230118195733.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230118195733.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-roomba-robot-vacuum-deals-start-at-179-for-the-roomba-694.md",
       "title": "Roomba robot vacuum deals start at $179 for the Roomba 694",
       "excerpt": "Prices start at just $399, and you’ll save $200 on the plus model. You can learn more about this AI-powered robot vacuum in my Roomba j7+ review. On top of that, the hot new Roomba Combo j7+ is ...",
@@ -1273,102 +1359,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-novel-neurofeedback-technique-enhances-awareness-of-mind-wandering.md",
-      "title": "Novel Neurofeedback Technique Enhances Awareness of Mind-Wandering",
-      "excerpt": "Researchers have developed a novel neurofeedback technique based on Pavlovian conditioning that detects when a person's mind is wandering.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/mind-wandering-neurofeedback-22265/",
-      "originalUrl": "https://neurosciencenews.com/mind-wandering-neurofeedback-22265/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2023/01/neurofeedback-mind-wandering-neurosinces-public.jpg",
-          "width": 769,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-how-soon-will-m3gan-become-reality-robot-ethicists-weigh-in.md",
-      "title": "How soon will M3gan become reality? Robot ethicists weigh in",
-      "excerpt": "The horror movie’s hi-tech star may be fiction, but concerns over the human relationship with AI are real",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
-      "originalUrl": "https://www.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8cbe1d6be565c48d135529109932104bb25ba2ae/0_0_7500_4500/master/7500.jpg?width=620&quality=85&auto=format&fit=max&s=d73b13b448bb94e1599a5791447aa36b",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/jan/16/megan-film-robot-ai-ethics-real-life",
-      "publishedDateTime": "2023-01-16T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

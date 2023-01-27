@@ -143,6 +143,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora’s capabilities in AI,"
+    publishedDateTime: 2023-01-27T06:43:00Z
+    webUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 21
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/01/ANI-20230127060436.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Shufti Pro Sweeps Ultimate FinTech Awards 2023 with Three Major Wins"
     excerpt: "Globally acclaimed for its state-of-the-art identity verification and KYC/AML solutions, Shufti Pro wins three major Ultimate Fintech"
     publishedDateTime: 2023-01-23T15:06:00Z
@@ -196,15 +212,6 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
-    quality: 0
-  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
-    excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora's capabilities in AI,"
-    publishedDateTime: 2023-01-26T18:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302361&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 0
 
 secured: "MLh5pQ34ZFYZTDosluAq/2RkrzN5RyU6xl9n55eoMRNpfrFCDhuytpV4irFxf2rKIUf7QIcs8p1k6Xb2Le6855OjVwEeiMg/WdzZy5eWOnqpL7htlxyZbtmOUvuaZr79VW5zX/BMDxi3v0owt0fFIQvlWaGBjnjPrbBNpq5lJUAZnV5pUvqwvVz/4gS3lFnHV008Yh6A8bQbpshOE5cvg6drdL9EMw+ycWB5QQhBfpHDtlL2nbB+kpLrCJ//sC3n8swmOdf6NcqA9YRGgk2xk35eMp4CUXTZozEJvx8qZ1joapyqcy0xGfZQ8vXtCRfXejfGjHJwvvVuDNW8069roX7lWcEBB85Um8rNLV+uNu8NDRA6ui+FpBL/ayiDgXPot7SA8M9tkKXghSGlbUN3ObVvz2QkfW8u1WOOYWGZMY2pHF9yukDWW30+JJ6t5Eo/1R3i5Uw+e1lWngSXdcxx9Ol4/ihAEynaaSH1p0ntocKHKOTZoGp7NA8dRwqwTl2akpjyaJikAA3LI1+tJKsjKw==;3letjiNqjsaoS7raLd/b2w=="

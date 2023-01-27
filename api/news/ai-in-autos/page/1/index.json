@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-27-artificial-intelligence-could-save-healthcare-industry-360b-a-year.md",
+      "title": "Artificial intelligence could save healthcare industry $360B a year",
+      "excerpt": "Broader adoption of AI in healthcare is likely in the near future, and could come with a slew of benefits beyond financial gains, according to McKinsey and Harvard researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-savings-harvard-mckinsey-report/641163/",
+      "originalUrl": "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-savings-harvard-mckinsey-report/641163/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/0nifuYNLN-SLqHIAf5t8DSf-6bJ0H6dZL3Ph70ad46A/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0Fkb2JlU3RvY2tfMTMxNzk0NDYxLmpwZWc.jpeg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-elon-musk-kills-hope-of-tesla-retrofitting-new-autopilotself-driving-hardware.md",
       "title": "Elon Musk kills hope of Tesla retrofitting new Autopilot/Self-Driving hardware",
       "excerpt": "Elon Musk has killed the little hope some had for Tesla in offering a retrofit to the new Autopilot/Self-Driving",
@@ -418,6 +462,49 @@
       "provider": {
         "name": "Metro",
         "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-heres-why-baidu-stock-is-moving.md",
+      "title": "Here's Why Baidu Stock Is Moving",
+      "excerpt": "Baidu Inc BIDU shares are trading higher by 5.51% to $135.24 Friday morning. Shares of Chinese companies are trading higher ahead of the Lunar New Year on hopes of an economic recovery following ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/01/30505960/heres-why-baidu-stock-is-moving",
+      "originalUrl": "https://www.benzinga.com/news/23/01/30505960/heres-why-baidu-stock-is-moving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/01/20/shanghai-1484452.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1288,94 +1375,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer.md",
-      "title": "Leveraging artificial intelligence and machine learning at Parsons with AWS DeepRacer",
-      "excerpt": "This post is co-written with&nbsp;Jennifer Bergstrom, Sr. Technical Director, ParsonsX. Parsons Corporation (NYSE:PSN) is a leading disruptive technology company in critical infrastructure, national defense, space, intelligence, and security markets providing solutions across the globe to help make the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/parsons-deepracer.jpg",
-          "width": 1561,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T15:46:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-l4-autonomous-driving-may-commercialize-before-l3-says-baidu-ceo-robin-li.md",
-      "title": "L4 autonomous driving may commercialize before L3, says Baidu CEO Robin Li",
-      "excerpt": "Baidu co-founder, chairman, and CEO Robin Li, at Baidu Create 2022 on January 10, said autonomous driving will become reality sooner than people have expected, while the commercialization of L4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230113VL209.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230113VL209.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
