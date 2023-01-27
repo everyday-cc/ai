@@ -59,6 +59,15 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "AI wildfire detection bill gets initial approval in Colorado"
+    excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
+    publishedDateTime: 2023-01-26T23:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/colorado-lawmakers-ai-detect-wildfires-early-96687632"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 17
 
 secured: "uWvuP7kAWEajxIqSiWqEKfbgR9+YZTMJKGjfkSagC4cPeq/0d5z1QqeJUPfV/YNshbni7GAfJ/QqfbNnaulDBb8bkEMenS+3ybs0C1snh5TyhKMNNJHdKbPlPy/YLGeR66zDq3czLVqKgirkP9b9q64v2PJ6T1P4/Gdvzvjdc3WFJwl9X/Q6hOudyKELe+uWmA/O94uRhev0ivU08HJKYt+/nOjDVgAEh2Fu0vEi/LO1LV7FQl8D9H5WzMUd5E3csZiw7RCrVL86GBEKWwYEDBNAtEMhXUj3Q8zowFDEH2FHQGy7qmo7p7IaX6GsUpBlxXeLHCJ6o226EFF1N9u3Bmcf3DkqBLd/NxyQBYdFOFg=;IlyjNgXZFyGrTpxceQhRqQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-27-consumer-robotics-how-artificial-intelligence-is-changing-the-game.md",
+      "title": "Consumer Robotics: How Artificial Intelligence Is Changing The Game",
+      "excerpt": "From vacuum cleaners and lawnmowers to personal assistants and healthcare workers, robots are increasingly becoming a common sight in homes and businesses worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d2872a3e9e3b86964c5506/0x0.jpg?format=jpg&width=1200",
+          "width": 1123,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/",
+      "publishedDateTime": "2023-01-27T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats.md",
       "title": "A robot was scheduled to argue in court, then came the jail threats",
       "excerpt": "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down.",
@@ -1306,50 +1358,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-simple-neural-networks-outperform-more-complex-systems-for-controlling-robotic-prosthetics.md",
-      "title": "Simple neural networks outperform more complex systems for controlling robotic prosthetics",
-      "excerpt": "Artificial neural networks that are inspired by natural nerve circuits in the human body give primates faster, more accurate control of brain-controlled prosthetic hands and fingers, researchers at the University of Michigan have shown.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-neural-netw.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp",
-      "publishedDateTime": "2023-01-17T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

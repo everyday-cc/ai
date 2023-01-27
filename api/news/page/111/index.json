@@ -2,6 +2,189 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-10-17-the-chip-war-with-china-is-just-getting-started.md",
+      "title": "The Chip War With China Is Just Getting Started",
+      "excerpt": "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
+      "originalUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634d644194ab28271ead84e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
+      "publishedDateTime": "2022-10-17T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers.md",
+      "title": "Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers",
+      "excerpt": "Hexagon's Safety, Infrastructure & Geospatial division today announced the addition of artificial intelligence (AI) capabilities to HxGN Connect, Hexagon's real-time incident center as a service solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-nutanix-launches-cloud-clusters-nc2-on-microsoft-azure.md",
+      "title": "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure",
+      "excerpt": "Nutanix has announced the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes. NC2 on Azure offers a seamless hyperconverged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure",
+      "originalUrl": "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/nutanix_12.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
+      "title": "Four thoughts on AI deep learning in 2022",
+      "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
+      "publishedDateTime": "2022-10-17T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-machine-learning-as-a-service-market-worth-usd-320-billion-by-2030.md",
       "title": "Machine Learning-as-a-Service Market worth USD 32.0 billion by 2030",
       "excerpt": "Hence, fraud detection is expected to become one of the core spaces for machine learning applications. Global Machine Learning-as-a-Service Market Segmentation The machine learning-as-a-service market has been segmented into the application,",
@@ -953,207 +1136,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-put-latino-heritage-and-history-where-it-belongs.md",
-      "title": "Put Latino Heritage and History Where It Belongs",
-      "excerpt": "Most of the classes I took focused on Europeans, but there was little to no mention of Latino or African American history in the United States. I learned about Latinx art, culture and history on my own,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html",
-      "originalUrl": "https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/10/15/opinion/15davila/15davila-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.amp.html",
-      "publishedDateTime": "2022-10-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
-      "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
-      "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-15T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed.md",
-      "title": "Software won’t solve the climate crisis: Deep tech investment is needed",
-      "excerpt": "Register now for your free virtual pass to the Low-Code/No-Code Summit this November 9. Hear from executives from Service Now, Credit Karma, Stitch Fix, Appian, and more. Learn more. In 2011, Marc ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/",
-      "originalUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1058793846-shark_749.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/amp/",
-      "publishedDateTime": "2022-10-15T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028.md",
-      "title": "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028",
-      "excerpt": "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
       ]
     }
   ],

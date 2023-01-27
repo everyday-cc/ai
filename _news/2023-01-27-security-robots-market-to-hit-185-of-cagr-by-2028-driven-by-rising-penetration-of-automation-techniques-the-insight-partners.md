@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T13:13:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30602547/security-robots-market-to-hit-18-5-of-cagr-by-2028-driven-by-rising-penetration-of-automation-tech"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/g30602547/security-robots-market-to-hit-18-5-of-cagr-by-2028-driven-by-rising-penetration-of-automation-tech"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Benzinga.com

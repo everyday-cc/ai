@@ -2,6 +2,191 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-10-02-saudi-data-ai-authority-and-ministry-of-energy-partner-with-ibm.md",
+      "title": "Saudi Data, AI Authority and Ministry of Energy partner with IBM",
+      "excerpt": "RIYADH, Saudi Arabia and ARMONK, N.Y. /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic agreement to drive adoption of artificial intelligence in the carbon capture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-ai-authority-and-ministry-of-energy-partner-with-ibm-e535vvxa",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-ai-authority-and-ministry-of-energy-partner-with-ibm-e535vvxa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:ZGMzMTIwNzItYmRhOC00:YTU0NGI2/sdaia-image.jpg?f=3%3A2",
+          "width": 703,
+          "height": 469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-02T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-02-ai-ethics-and-ai-laws-reveal-troubling-concerns-from-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk.md",
+      "title": "AI Ethics And AI Laws Reveal Troubling Concerns From Tesla’s AI Day Showcase And The Ever Expanding AI Ambitions Of Elon Musk",
+      "excerpt": "A close look at the Tesla AI Day and crucial insights pertaining to AI Ethics and AI & Law that looms ahead for Tesla and Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63393cf2f31b18ce542c2698/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/",
+      "publishedDateTime": "2022-10-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
+      "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
+      "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
+      "originalUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong.md",
+      "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
+      "excerpt": "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wxii12.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "originalUrl": "https://www.wxii12.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-01T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WXII 12 NEWS",
+        "domain": "wxii12.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-ai-experts-pan-teslas-humanoid-robot-reveal-next-level-cringeworthy.md",
       "title": "AI experts pan Tesla’s humanoid robot reveal: ‘next level cringeworthy’",
       "excerpt": "\"None of this is cutting edge,\" tweeted robotics expert Cynthia Yeung. \"Hire some PhDs and go to some robotics conferences Tesla.\"",
@@ -953,195 +1138,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-aws-panorama-now-supports-nvidia-jetpack-sdk-462.md",
-      "title": "AWS Panorama now supports NVIDIA JetPack SDK 4.6.2",
-      "excerpt": "AWS Panorama is a collection of machine learning (ML) devices and a software development kit (SDK) that brings computer vision to on-premises internet protocol (IP) cameras. AWS Panorama device options include the AWS Panorama Appliance and the Lenovo ThinkEdge SE70, powered by AWS Panorama. These device",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-panorama-now-supports-nvidia-jetpack-sdk-4-6-2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-panorama-now-supports-nvidia-jetpack-sdk-4-6-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/panorama-nvidia-jetpack-462.jpg",
-          "width": 1536,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T13:43:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-image-generating-ai-dall-e-is-now-free-for-anyone-to-play-with.md",
-      "title": "Image-generating AI Dall-E is now free for anyone to play with",
-      "excerpt": "Image-generating AI is becoming more accessible to the public, with one engine called DALL-E making its network free to use. While the text-to-art generator has some stipulations, you can create images by simply typing a description into the generator.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
-      "originalUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/openai-text-prompt-930.jpg?p=1",
-          "width": 1209,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp",
-      "publishedDateTime": "2022-09-30T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-computational-shortcut-for-neural-networks.md",
-      "title": "Computational shortcut for neural networks",
-      "excerpt": "Neural networks are learning algorithms that approximate the solution to a task by training with available data. However, it is usually unclear how exactly they accomplish this. Two young Basel ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/966554",
-      "originalUrl": "https://www.eurekalert.org/news-releases/966554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/71a31867-d90f-43b4-b497-5f9e4d84e648/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-you-can-now-take-a-driverless-lyft-in-austin-heres-what-you-need-to-know.md",
-      "title": "You can now take a driverless Lyft in Austin. Here's what you need to know",
-      "excerpt": "Planning on taking a Lyft soon? Your next ride in Austin could be driverless. Ride-hailing company Lyft is now offering riders the option of choosing an autonomous vehicle in some areas of Austin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/business/technology/2022/09/30/you-can-now-take-a-driverless-lyft-in-parts-of-austin/69527964007/",
-      "originalUrl": "https://www.statesman.com/story/business/technology/2022/09/30/you-can-now-take-a-driverless-lyft-in-parts-of-austin/69527964007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/aba8586b-d3dd-4843-b7ae-7a3f6191805b-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_01.jpg?auto=webp&crop=5598,3149,x0,y39&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
         "images": null,
         "publishers": null,
         "authors": null

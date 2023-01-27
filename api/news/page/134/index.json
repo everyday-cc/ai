@@ -2,6 +2,178 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2022-09-27-alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial.md",
+      "title": "Alzheimer’s treatment slowed cognitive decline in closely watched clinical trial",
+      "excerpt": "A n investigational Alzheimer’s disease treatment from Biogen and Eisai slowed the rate of cognitive decline by 27% in a clinical trial, the companies said Tuesday, meeting the goals of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
+      "originalUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2022/06/AdobeStock_205319783-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-new-alzheimers-drug-slows-cognitive-decline-clinical-trial-finds.md",
+      "title": "New Alzheimer's drug slows cognitive decline, clinical trial finds",
+      "excerpt": "The companies announced the trial's success in a press release Tuesday, saying that cognitive decline slowed 27% in patients using their drug — called lecanemab — over 18 months compared with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9",
+      "originalUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6333afdd9ac0610018e7fc4e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9?amp",
+      "publishedDateTime": "2022-09-26T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-robot-runs-100-meters-in-2473-seconds-breaks-world-record.md",
+      "title": "Robot runs 100 meters in 24.73 seconds, breaks world record",
+      "excerpt": "The development team said Cassie is the first bipedal robot to use machine learning to control a running gait ... ago Lottery player's sudden change of mind leads to $200,000 prize Oct. 4 (UPI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Odd_News/2022/09/27/Oregon-State-University-Guinness-World-Records-bipedal-robot-run/7051664311375/",
+      "originalUrl": "https://www.upi.com/Odd_News/2022/09/27/Oregon-State-University-Guinness-World-Records-bipedal-robot-run/7051664311375/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/7051664311375/2022/1/16643115732404/v1.5/Robot-runs-100-meters-in-2473-seconds-breaks-world-record.jpg",
+          "width": 1022,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Odd_News/2022/09/27/Oregon-State-University-Guinness-World-Records-bipedal-robot-run/7051664311375/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2022/09/27/Oregon-State-University-Guinness-World-Records-bipedal-robot-run/7051664311375/",
+      "publishedDateTime": "2022-09-26T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-the-role-of-motion-control-in-medical-robotics.md",
+      "title": "The Role of Motion Control in Medical Robotics",
+      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/webinars/role-motion-control-medical-robotics",
+      "originalUrl": "https://www.mddionline.com/webinars/role-motion-control-medical-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-new-report-offers-blueprint-for-regulation-of-facial-recognition-technology.md",
       "title": "New report offers blueprint for regulation of facial recognition technology",
       "excerpt": "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit.",
@@ -979,187 +1151,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-closing-the-gap-between-marketing-and-ai-systems.md",
-      "title": "Closing The Gap Between Marketing And AI Systems",
-      "excerpt": "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6287969035c5da55f8c60506/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
-      "publishedDateTime": "2022-09-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-how-ai-can-help-protect-us-from-future-wildfires.md",
-      "title": "How AI Can Help Protect Us From Future Wildfires",
-      "excerpt": "Researchers at Stanford University recently developed an AI model for predicting dangerous particle pollution to help track the American West’s rapidly worsening wildfire smoke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331819d020d0c1a157d2c27/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
-      "publishedDateTime": "2022-09-26T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-is-artificial-intelligence-the-pill-that-health-care-needs.md",
-      "title": "Is artificial intelligence the pill that health care needs?",
-      "excerpt": "At a Toronto hospital, AI is being used to predict staffing needs in emergency departments. And it can help determine likelihood of a patient dying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespec.com/ts/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "originalUrl": "https://www.thespec.com/ts/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hamilton Spectator",
-        "domain": "thespec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready.md",
-      "title": "Best Laptops To Ignite Your Child’s Creativity - Get Them AI Ready",
-      "excerpt": "Here’s our handpicked three laptops that are powered by the OG of all the processors out there - Intel. Three Intel powered devices that perform like a beast and are considerate of your wallet as well.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
-      "originalUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/best-laptops-copy_uynb.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
-      "publishedDateTime": "2022-09-26T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

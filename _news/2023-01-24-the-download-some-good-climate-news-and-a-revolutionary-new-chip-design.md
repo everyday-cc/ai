@@ -18,6 +18,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "The Download: watermarking AI text, and freezing eggs"
+    excerpt: "A watermark for chatbots can spot text written by an AI What’s happened: A new method could help us to spot AI-generated texts. Watermarking buries hidden patterns in the text that are invisible to the human eye,"
+    publishedDateTime: 2023-01-27T13:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/01/27/1067344/download-watermarking-ai-text-freezing-eggs/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
+
 secured: "dqqjY+lPQF0KfK5FqEZ92P5IobAWgkY7csGneGZEhU/NRPvjVHf4KKezobhJ1bX8etpxZH1ddPCJMq4O77x+19gMtGJJVpuY7HHoE4VH9pq1CZ7w8hOuBHLbCaeWQSzyI52qeNzETOBRYk69BY6+JqMXtVKsbFjy3f/XBWk1fKV7Hg2kq6hfLbLLjyCfZGDfH6PSgQJMLvckGZsb8IOCWUgTml9sQPw6jPjfHeDyOkDxtAkQwaNnxl/pX702+00v2NVBjy1zUmCK7ryvZk3CrI7660Rfd7LkzgH0CgRiL+RlC1GWTqQTF9lEvfB0eoV5aI2RS40h69BM9+wvsqQ8/RcmGFWp3j6ZWX6O2nkwhH3dTOy6sT5Djrlvpu1zNX00HMpBHdjh7e3Hhn/OBXJsPMYsC1HLUHrhXM6w8OwMnutakGmt5QOSWRVq8GijAf1rm1rf4lW1Fqa/qL6wuFtt7lq4hKtjWDhykE3dn7cHfD+NGsvK6bjN3s/0uzvjBthHAPHa61oo/ZGzGzAmSRG7CQ==;rJYMPWwoTvgtiwnLIbQxBw=="
 ---
 

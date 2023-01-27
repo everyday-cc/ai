@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-09-15-watch-a-robot-excavator-controlled-like-a-videogame.md",
+      "title": "Watch a robot excavator controlled like a videogame",
+      "excerpt": "I could watch this robot excavator dig all day. Remote control could also make excavation safer and more economical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/watch-robot-excavator-controlled-like-a-videogame/",
+      "originalUrl": "https://www.zdnet.com/article/watch-robot-excavator-controlled-like-a-videogame/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/808d01e132edafd391e87b12a42e3a8bd3f8815a/2022/09/14/b144d8e0-d4e7-420a-bbff-447305662975/sri-excavator.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/watch-robot-excavator-controlled-like-a-videogame/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/watch-robot-excavator-controlled-like-a-videogame/",
+      "publishedDateTime": "2022-09-14T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes.md",
       "title": "Nike Sneaker-Cleaning Robot Looks Like a Car Wash for Shoes",
       "excerpt": "At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task). Nike, however, insists BILL not only cleans shoes, but deep cleans and fixes them,",

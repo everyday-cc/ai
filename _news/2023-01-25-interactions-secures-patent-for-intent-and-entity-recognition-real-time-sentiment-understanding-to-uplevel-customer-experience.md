@@ -51,15 +51,6 @@ related:
         width: 1770
         height: 869
         isCached: true
-  - title: "The ‘MIND’ diet is intended to stop dementia and loss of cognitive function as you age"
-    excerpt: "According to a research titled “Dietary intakes of berries and flavonoids in connection to cognitive decline”, fruit consumption has not been linked to enhanced brain health. So, while the ..."
-    publishedDateTime: 2023-01-22T21:49:00Z
-    webUrl: "https://www.iol.co.za/lifestyle/health/mind/the-mind-diet-is-intended-to-stop-dementia-and-loss-of-cognitive-function-as-you-age-1b31cb18-8e92-4ebc-99d2-4086f949887a"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 0
 
 secured: "aaUlEPy/CKDPtTUXL4OfMUxQi7hRTFvCkIuujB35IwdZI3qMV9Wb5VahxTFc7hHIfmon+zCR/CLxqPF5+QY6MTptiyDxVB8AYbayXFyzXRFJlSB0Tbp5abWLie6rpMGE2teBV8fgJy+b2e95NONLWrKkr/Dk9JEHz3UjGOjt0W3dWknpEC1Tu9jqAgJdWQ2qqMk2F1sutJQvjpZRAFSIDSHEELA42j4epK63SOibYf8Nty1oSoCAWIpGzTTtE/C8xySV1X1M8NPrK4Anvcmy7ELvZOEkUcqaAYNPLZ+FVOvqtkeY30aXeV7zND7b4TVRK1zGapclHOkw6ldhb06awSkE4QaxlbK4/5nw64L5k4k=;tDY7uWSxbPpG/X/cga7AnA=="
 ---

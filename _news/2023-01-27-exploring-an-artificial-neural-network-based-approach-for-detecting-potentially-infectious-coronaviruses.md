@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T14:11:00Z
 originalUrl: "https://www.news-medical.net/news/20230127/Exploring-an-artificial-neural-network-based-approach-for-detecting-potentially-infectious-coronaviruses.aspx"
 webUrl: "https://www.news-medical.net/news/20230127/Exploring-an-artificial-neural-network-based-approach-for-detecting-potentially-infectious-coronaviruses.aspx"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: News Medical

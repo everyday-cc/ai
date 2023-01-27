@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T14:07:00Z
 originalUrl: "https://techbullion.com/jaideep-singh-joins-startup-savant-to-discuss-his-ai-startup-flyfin/"
 webUrl: "https://techbullion.com/jaideep-singh-joins-startup-savant-to-discuss-his-ai-startup-flyfin/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Impacts

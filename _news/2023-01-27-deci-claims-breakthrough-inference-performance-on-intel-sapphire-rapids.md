@@ -35,7 +35,12 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 0
+    quality: 18
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/deci-intel-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "JbB3lkL7Nc8X2zT35DCKzWw43CCFHi3fd4JvONRpjNrwYv766FV4z6Qy9n6uWiC0IMohlHD6a3FBwFoDz/nwYJRQGqP26PmCXApcdEbU/KlwSs5MNWpmSErX4Xct/2jXXK2ESwtrex+FkGup7G7bZVqjBYcUhLzzEcJHcsd60RBJ88mYmBIM0sEbad4S7AixNzAHysIv6jwKbwzswuCgRsgwJfoOHoNIuLtmjDJf1yEBeuXkyt/kGPTu/Tl0ha0Ye+IGilP4HuVgM+04vy0OEUZ6IwGwBOvLJGhB0UyYfxznMtwGt1vAP+blG4W0nZmRi0FF2XbGoorvX0DPog1aK7KHbpL2L3pBqbWYO8eds4Yuzv/M2oLxv2N2+j1UolXMsLXXvj9cGJgndIS3E8ip7a6GFw0HERSeIeXlfE19urmPRaOR6CfNs7OKOlJVK+6zJITc4JIErtnPou0iUngDM+T1uB6U1b3xhbN2u/WaU9N9h712SRJn8Z8iKal4no1KE5MkcKq8DFslqma0coE3zQ==;/tqNBdrgwQUaKxaPcRhk8w=="
 ---

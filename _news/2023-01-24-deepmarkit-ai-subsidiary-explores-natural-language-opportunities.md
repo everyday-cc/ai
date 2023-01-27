@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-24T13:33:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-deepmarkit-ai-subsidiary-explores-natural-language-opportunities-/2023/01/24/9747873.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-deepmarkit-ai-subsidiary-explores-natural-language-opportunities-/2023/01/24/9747873.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "PqwAGkN7Pr6cPTCLl/41t+5z4bU1tfPGDbvkTKfYR5Qu3c3OlVzNnVXfp6h+4nA5d93YnFNIaeBWgbxqGUJV0YgBlCtIoncIEltaDKoKudtzKDxFMCjoXZjrhwAre7avm3R/Ddcg8CUgXdg6MjpGUOj1LUUCXgt/W41xC6JGnpNP5ynkSe2TyWY4oKgfesdybL1W/aAkNBJj+OaQ4sfMJOwQ5yHLLyrCOvaB8uO6A4dtTI6c65ufOaOi1ul3Ffj8fIHdaiuPljyKs63UXhJa3oJdBIRScDnyT0BNKPZuZeiLVXs9rV3X7S2Wy7+jIwgR0hWvMvx1Vwse14X5AA9vM2yn5Xl1LFlZU5hJuFJICPk=;F1ndUZEGOYAtKoH1rHt2Fw=="
+secured: "vB/V52LZJ+PcChtLw+RGRr4s/aFb3lVepxTBPkId95si0z2/rNqwzMo1m6bTczi4MHrYEmWlLUmBS7dVAqf/6s0DE7hIIxeAh1Zix//8A/eWGOyFPvZRGei/qmSOB2bCuBlFBF63reZu9vOYekrH+RAoUnRATAiVkB+9gaXesV+FZPLICc8t0FxtgDtGEo26cwRbDfdSisdxhfbcMNtsSaCgyLv9X6/NWljeJsNIxYzEjgluhsHafxE4X/NlDXRU2f/31bkjuIY68kVZNeFDlzn1HS6TB7yI8sFK6bjPxNKH4HlvO800dThUWPf4plmCkczlJMrBua1HNQW4D42tUebQnns4e6b8gzWH5XU2fok=;m/oezll5N75NxLp70qxZPA=="
 ---
 

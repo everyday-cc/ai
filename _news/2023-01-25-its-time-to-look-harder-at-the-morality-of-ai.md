@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why You Need the Ability to Explain AI"
+    excerpt: "For artificial intelligence solutions to gain acceptance in the enterprise, users must trust that it will work as well as humans."
+    publishedDateTime: 2023-01-27T16:17:00Z
+    webUrl: "https://www.networkworld.com/article/3686473/why-you-need-the-ability-to-explain-ai.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/istock-1066422156-100936830-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 813
+        isCached: true
   - title: "It's time for banks to get more intelligent about artificial intelligence"
     excerpt: "Artificial intelligence now has the potential to fundamentally change customers' relationships with banks, impacting everything from onboarding to retention and upselling."
     publishedDateTime: 2023-01-25T15:26:00Z

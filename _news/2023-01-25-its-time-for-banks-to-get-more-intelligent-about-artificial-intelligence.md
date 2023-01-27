@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "Why You Need the Ability to Explain AI"
+    excerpt: "For artificial intelligence solutions to gain acceptance in the enterprise, users must trust that it will work as well as humans."
+    publishedDateTime: 2023-01-27T16:17:00Z
+    webUrl: "https://www.networkworld.com/article/3686473/why-you-need-the-ability-to-explain-ai.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/istock-1066422156-100936830-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 813
+        isCached: true
 
 secured: "w5ni9i5ZpyDRg0FP5AwHKSmK4sMFbP/n9fU5vpJzrvvOCOtAn16ZlsYmh6+JetGPCBXTQw/jZfGe5qPtjGSviMqawA1e/hxu0V3bKXH+7lHxHdCxretZt2+eS5yJfAAUdEcBli+esPTSDENO5Fy5fyMd+hy9DbnPqhKq2XGj9Ydz6Wkwwgsy12oPw0X9XGXRx6zEkbfPDwfYW5udq7z3kd6uM3+/EVIzxbgt+97nXrNi4jIx3+dlOAs2Cyq59kMkeohA8e03YfMztBojVBpBN01GEOP7BCK9UtNJ9Py8iLANrcW+gsp2MaFG2lP5r436sTtMdSpZnWtPfMWT1YgfJLq48XR6IHr51oBbh9WghH/FU1a4QLHbsqaX37iwUTySd4LzF9d6Vp8NakQGwIv+TpDNbWwi2suo5ClVwbDI0ANZR7eWZswvOt4F/CjQEseiHWkht1ClMYkdLAT2CYPdudD7ukRwGblLTWk7SOrDgv41cVxc3xujzDitUfh5XNJheDo84C59ijJ56y/g3O61vA==;mjUykrvDROF6DUcV1I2iGg=="
 ---

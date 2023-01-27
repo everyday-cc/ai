@@ -142,6 +142,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-27T00:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
   - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
     excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
     publishedDateTime: 2023-01-26T13:29:00Z

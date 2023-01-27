@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-17-simple-neural-networks-outperform-more-complex-systems-for-controlling-robotic-prosthetics.md",
+      "title": "Simple neural networks outperform more complex systems for controlling robotic prosthetics",
+      "excerpt": "Artificial neural networks that are inspired by natural nerve circuits in the human body give primates faster, more accurate control of brain-controlled prosthetic hands and fingers, researchers at the University of Michigan have shown.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-neural-netw.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp",
+      "publishedDateTime": "2023-01-17T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-cobalt-robotics-announces-collaboration-with-johnson-controls-for-integration-with-ccure-alarm-system.md",
       "title": "Cobalt Robotics Announces Collaboration With Johnson Controls For Integration With C.CURE Alarm System",
       "excerpt": "Johnson Controls C.CURE 9000 access control and event management system is now integrated with Cobalt's remote guard service which includes AI robotics, machine-learning software and human oversight.",
@@ -1312,51 +1356,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-ai-startup-eys3d-debuts-computer-vision-platform-for-autonomous-robots.md",
-      "title": "AI startup eYs3D debuts computer vision platform for autonomous robots",
-      "excerpt": "The startup explains that the modular XINK platform comes with everything a developer needs to add such capabilities to their robots, with high-performance compute power, an AI accelerator ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/05/ai-startup-eys3d-debuts-computer-vision-platform-autonomous-robots/",
-      "originalUrl": "https://siliconangle.com/2023/01/05/ai-startup-eys3d-debuts-computer-vision-platform-autonomous-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/eYesw3D.png",
-          "width": 801,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T21:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision",
-        "Google AI"
       ]
     }
   ],

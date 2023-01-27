@@ -43,15 +43,6 @@ related:
         width: 563
         height: 397
         isCached: true
-  - title: "The ‘MIND’ diet is intended to stop dementia and loss of cognitive function as you age"
-    excerpt: "According to a research titled “Dietary intakes of berries and flavonoids in connection to cognitive decline”, fruit consumption has not been linked to enhanced brain health. So, while the ..."
-    publishedDateTime: 2023-01-22T21:49:00Z
-    webUrl: "https://www.iol.co.za/lifestyle/health/mind/the-mind-diet-is-intended-to-stop-dementia-and-loss-of-cognitive-function-as-you-age-1b31cb18-8e92-4ebc-99d2-4086f949887a"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 0
   - title: "Interactions Secures Patent for Intent and Entity Recognition, Real-Time Sentiment Understanding to Uplevel Customer Experience"
     excerpt: "Extracting Natural Language Semantics From Speech Without the Use of Speech Recognition, Interactions’ 125th patent, introduces new technology for intent and entity recognition, including real-time sentiment understanding."
     publishedDateTime: 2023-01-25T14:11:00Z

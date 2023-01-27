@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
+      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
+      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
+      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-smart-plastic-material-is-step-forward-toward-soft-flexible-robotics-and-electronics.md",
       "title": "'Smart plastic' material is step forward toward soft, flexible robotics and electronics",
       "excerpt": "\"The ability to control crystallization ... potentially transformative for wearable electronics or actuators in soft robotics.\" Scientists have long sought to mimic the properties of living ...",
@@ -1347,58 +1392,6 @@
         "AI",
         "AI in Sales",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off.md",
-      "title": "Miko Robotics acquires majority stake in AI chess startup, Square Off",
-      "excerpt": "courtesy of underlying AI, grabbed the attention of a jaded crowd of showgoers. This morning, it takes the next step in the startup lifecycle, as Bay Area-based kids robotics firm Miko announces ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/",
-      "originalUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/KId-playing-against-AI.jpeg?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/",
-      "publishedDateTime": "2022-10-06T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

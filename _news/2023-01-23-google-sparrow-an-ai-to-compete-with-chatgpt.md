@@ -71,6 +71,22 @@ related:
         width: 1000
         height: 340
         isCached: true
+  - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
+    excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
+    publishedDateTime: 2023-01-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3683734efc0e887a89c47/0x0.jpg?format=jpg&crop=907,605,x143,y0,safe&width=1200"
+        width: 907
+        height: 605
+        isCached: true
   - title: "Explained: Is ChatGPT Latest AI Innovation A Trend Or A Threat?"
     excerpt: "While engineers, entrepreneurs, and many social media users look at ChatGPT as a bold innovation that opens horizons for services and solutions, the academic and creative industry stands both concerned and threatened by the latest AI chatbot."
     publishedDateTime: 2023-01-23T12:33:00Z
@@ -234,6 +250,15 @@ related:
         width: 900
         height: 472
         isCached: true
+  - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
+    excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
+    publishedDateTime: 2023-01-27T14:41:00Z
+    webUrl: "https://wraltechwire.com/2023/01/27/robot-lawyers-artificial-intelligence-program-chatgpt-passes-law-exams/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 34
   - title: "The CEO of the company behind AI chatbot ChatGPT says the worst-case scenario for artificial intelligence is 'lights out for all of us'"
     excerpt: "Experts warn OpenAI's ChatGPT could be abused to scam people or spread misinformation. CEO Sam Altman fears the worst case for AI is much bleaker."
     publishedDateTime: 2023-01-25T20:52:00Z

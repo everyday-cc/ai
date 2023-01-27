@@ -119,6 +119,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Alphabet’s DeepMind Lays Off Some Staff, Closes Canadian Office"
+    excerpt: "Alphabet Inc.’s research lab DeepMind will close its Edmonton, Alberta outpost and lay off some operational staff in the UK, part of the tech giant’s recent program of cost cuts. The ..."
+    publishedDateTime: 2023-01-24T13:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-01-24/alphabet-s-deepmind-lays-off-some-staff-closes-canadian-office"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
     excerpt: "NDP Leader Rachel Notley said at a news conference in Edmonton Wednesday that without investment-targeted incentives in the sector, the province is at risk of los"
     publishedDateTime: 2023-01-25T23:39:00Z
@@ -149,6 +158,15 @@ related:
         width: 1500
         height: 1001
         isCached: true
+  - title: "DeepMind confirms AI research office closing in Edmonton"
+    excerpt: "1:16 Google parent company to close Edmonton office of A.I. subsidiary DeepMind An artificial intelligence lab, whose opening in Edmonton spurred excitement about the future of the AI sector in ..."
+    publishedDateTime: 2023-01-25T06:29:00Z
+    webUrl: "https://globalnews.ca/news/9433340/deepmind-closure-ai-edmonton/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 34
 
 secured: "UhUry2gLgciCv10QyjJG96lZXkCLSb52Us/yZEeBAytpO4oDMfBI52d2bVoP8THI2aHM+M6ayjfi481TEtW9BQxL48ySkJUFR7yxBLvaOxZ8v5RhZiEX2t+Kd/GOi3mHlTfvA8u+lVMTx5xAkzg4FsI+EYnxGcQTJvNUSPuDWrsiMIi5zNWI1uP8cTZAjEVFpD1JP83+lyoHhCWrnmiEJN7DhFxBro8EULZwjNWxurRWT1y6lmO4W748EUnp7y0a8UamvFdEeAqHvOiNgUxjX3RbtHPmpGuoQlkpmmtHd6Q3Ur+t331LAOjNgqzxf3brkRTDVTjx1Xon24++xAd5wPnE/AxINDFDTKELjFg5619bBVcUDr8CXdjY7XPwBRUzMQcLrn5lU9F3sllcaTVykom/KTrMG3xAiTs39d8td7CnDYIKo5KY1m3Um4GoBKi0y24Ws6pbLBG25o26YxPUu/PRxm9bQ4MhrIIWwXcSpbjls0zkaljRhCHVDsTOhTiNLdqYPWCGd3p5YbzwqLLfhQ==;1A04bbA9svH4VPd6ld48vg=="
 ---

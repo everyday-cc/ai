@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-26-ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-3900-layoffs.md",
+      "title": "IBM posts biggest annual sales increase in more than a decade, announces 3,900 layoffs",
+      "excerpt": "Chief Executive Arvind Krishna said on IBM’s IBM, -4.48% earnings call that the company saw “revenue growth across segments and geographies,” and attributed that to the strength of the company’s hybrid cloud and artificial-intelligence strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-639870/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960",
+      "publishedDateTime": "2023-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-move-over-siri-apples-new-audiobook-ai-voice-sounds-like-a-human.md",
+      "title": "Move over, Siri: Apple’s new audiobook AI voice sounds like a human",
+      "excerpt": "AI technologies are being developed and used in various applications, including natural language processing, as Apple is doing, robotics, and expert systems for various industries and purposes. Apple decided to make this move to give those books from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human",
+      "originalUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b27374-8393-481b-9616-6a55b4a55a55/1047e1eb-df4e-4cd9-a305-0b15a2c04946/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp",
+      "publishedDateTime": "2023-01-25T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-can-artificial-intelligence-crack-college-admissions.md",
+      "title": "Can Artificial Intelligence Crack College Admissions?",
+      "excerpt": "While the program is well equipped to pass even complex tests, it cannot be a substitute for innovation, creativity, and critical thinking—attributes that students are expected to showcase on the college admissions essay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
+      "originalUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d1786b06f7c970a36e3ae4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
+      "publishedDateTime": "2023-01-25T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-is-dall-e-the-next-dior-how-ai-is-trying-to-make-it-work-in-fashion.md",
       "title": "Is Dall-E the Next Dior? How AI Is Trying to 'Make It Work' in Fashion",
       "excerpt": "AI companies Stable Diffusion, DALL-E 2, and Midjourney are trying to be the next big thing—but while imitation is the sincerest form of flattery, it's the lowest form of fashion design.",
@@ -408,7 +565,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -710,7 +867,7 @@
       "originalUrl": "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1054,162 +1211,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-self-driving-golf-cart-development-why-is-it-in-demand.md",
-      "title": "Self-Driving Golf Cart Development: Why Is It In Demand?",
-      "excerpt": "Golf Carts Push For Autonomy. Faced with the harsh reality that a future of fully autonomous cars is further away than promised, automakers and tech companies are pivoting to alte",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceff7ab891403906766ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
-      "publishedDateTime": "2023-01-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.md",
-      "title": "Artificial intelligence chatbot passes elite business school exam, outperforms some Ivy League students",
-      "excerpt": "Chat GPT3, an artificial intelligence bot, outperformed some Ivy League students at the University of Pennsylvania's Wharton School of Business on a final exam. In a paper titled \"Would Chat GPT3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
-      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
-      "publishedDateTime": "2023-01-24T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-can-ai-replace-cloud-architects.md",
-      "title": "Can AI replace cloud architects?",
-      "excerpt": "AI systems get more impressive every day. Today’s AI can automate the tasks of many information workers, so those in cloud jobs worry they're next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.html",
-      "originalUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/robot-arm-using-laptop-100714626-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.amp.html",
-      "publishedDateTime": "2023-01-24T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

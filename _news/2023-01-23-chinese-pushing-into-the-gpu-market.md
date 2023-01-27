@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-23T11:18:00Z
 originalUrl: "https://www.fudzilla.com/news/graphics/56195-chinese-pushing-into-the-gpu-market"
 webUrl: "https://www.fudzilla.com/news/graphics/56195-chinese-pushing-into-the-gpu-market"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Fudzilla

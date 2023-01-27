@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T14:50:00Z
 originalUrl: "https://medicalxpress.com/news/2023-01-machine-drugs-potentially-smokers.html"
 webUrl: "https://medicalxpress.com/news/2023-01-machine-drugs-potentially-smokers.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Medical Xpress

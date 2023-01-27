@@ -32,19 +32,16 @@ images:
 
 related:
   - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
-    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies"
-    publishedDateTime: 2023-01-26T16:12:00Z
-    webUrl: "https://wtop.com/australia/2023/01/explainer-what-is-an-australian-black-voice-to-parliament/"
+    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
+    publishedDateTime: 2023-01-27T03:46:00Z
+    webUrl: "https://www.kansascity.com/news/nation-world/world/article271671057.html"
+    ampWebUrl: "https://amp.kansascity.com/news/nation-world/world/article271671057.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/world/article271671057.html"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 39
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
     excerpt: "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage."
     publishedDateTime: 2023-01-26T10:15:00Z

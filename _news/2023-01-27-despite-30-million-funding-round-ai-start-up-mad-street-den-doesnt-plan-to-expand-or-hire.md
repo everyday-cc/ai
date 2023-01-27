@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-27T14:03:00Z
 originalUrl: "https://www.cnbctv18.com/startup/despite-30-million-funding-round-ai-start-up-mad-street-den-doesnt-plan-to-expand-or-hire-15786151.htm"
 webUrl: "https://www.cnbctv18.com/startup/despite-30-million-funding-round-ai-start-up-mad-street-den-doesnt-plan-to-expand-or-hire-15786151.htm"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: cnbctv18

@@ -2,6 +2,204 @@
   "page": 153,
   "value": [
     {
+      "path": "_news/2022-09-12-with-424-cagr-artificial-intelligence-in.md",
+      "title": "With 42.4 % CAGR, Artificial Intelligence in...",
+      "excerpt": "Use of artificial intelligence and robotics in diagnosing and treating pharmacological disorders is estimated to drive the Artificial Intelligence (AI) in healthcare market growth. Use of virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28826236",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28826236",
+      "publishedDateTime": "2022-09-12T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-leadership-in-times-of-ai-driven-automation.md",
+      "title": "Leadership In Times Of AI-Driven Automation",
+      "excerpt": "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
+      "publishedDateTime": "2022-09-12T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-pytorch-has-a-new-home-meta-announces-independent-foundation.md",
+      "title": "PyTorch has a new home: Meta announces independent foundation",
+      "excerpt": "Watch here. Meta announced today that its artificial intelligence (AI) research framework, PyTorch, has a new home. It is moving to an independent PyTorch Foundation, which will be part of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pytorch-has-a-new-home-meta-announces-independent-foundation/",
+      "originalUrl": "https://venturebeat.com/ai/pytorch-has-a-new-home-meta-announces-independent-foundation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/pytorch-has-a-new-home-meta-announces-independent-foundation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-has-a-new-home-meta-announces-independent-foundation/amp/",
+      "publishedDateTime": "2022-09-12T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-when-the-rise-of-ai-meets-the-ease-of-no-code.md",
+      "title": "When The Rise Of AI Meets The Ease Of No-Code",
+      "excerpt": "We’re in the third generation: predictive analytics. People can use AI to find patterns in their data and predict what’s coming next. This latest step in AI analytics has brought new challenges. We’ve seen a new category of tools to help data analysts use machine learning without writing code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61cb2397df4f158c91554661/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/amp/",
+      "publishedDateTime": "2022-09-12T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-artificial-intelligence-in-accounting-market-segments-and-forecast-from-2022-2028-xero-appzen-kpmg-botkeeper.md",
       "title": "Artificial Intelligence in Accounting Market Segments and Forecast from 2022-2028 | Xero, AppZen, KPMG, Botkeeper",
       "excerpt": "The Global Artificial Intelligence in Accounting Market is expected to grow at a booming CAGR of 2022-2028, rising from USD billion in 2022 to USD billion in 2028. Download Free Sample Artificial Intelligence in Accounting Market report  Global Artificial Intelligence in Accounting includes market research report have their own Top Companies: Xero,",
@@ -911,170 +1109,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-meta-developing-artificial-intelligence-that-can-hear-brainwaves.md",
-      "title": "Meta developing artificial intelligence that can 'hear' brainwaves",
-      "excerpt": "While Meta's research is in the early stages, the company is funding research into artificial intelligence to help people with brain injuries communicate by recording their brain activity without ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "originalUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/16b88ad/2147483647/strip/true/crop/2290x1202+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcf%2F2e%2Fe7108d0f4f608cc5529ae7adeab2%2Fai.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-10-hot-new-aws-services-for-microsoft-vmware-kubernetes.md",
-      "title": "10 Hot New AWS Services For Microsoft, VMware, Kubernetes",
-      "excerpt": "From new Microsoft Windows support and VMware Cloud on AWS for NetApp to AWS Outposts and Amazon Managed Blockchain, here’s 10 hot AWS launches in August and September that channel partners ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/10-hot-new-aws-services-for-microsoft-vmware-kubernetes",
-      "originalUrl": "https://www.crn.com/news/cloud/10-hot-new-aws-services-for-microsoft-vmware-kubernetes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-farewell-speech-school-board-to-consider-changes-in-graduate-recognition.md",
-      "title": "Farewell speech? School board to consider changes in graduate recognition",
-      "excerpt": "Four years from now, a valedictory speech delivered at one of the county’s public high school graduation ceremonies may serve as a farewell address in more ways than one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reflector.com/news/local/farewell-speech-school-board-to-consider-changes-in-graduate-recognition/article_130c4e98-bfda-5a7a-ac56-c83091cafdf3.html",
-      "originalUrl": "https://www.reflector.com/news/local/farewell-speech-school-board-to-consider-changes-in-graduate-recognition/article_130c4e98-bfda-5a7a-ac56-c83091cafdf3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/0/2c/02c8d870-c619-5f69-a85b-4fef87e5ea36/631bc5ec34047.image.jpg?crop=1720%2C903%2C0%2C151&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Reflector",
-        "domain": "reflector.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-brain-computer-interface-at-toronto-childrens-hospital-tests-the-potential-for-mind-melds-with-machines.md",
-      "title": "Brain-computer interface at Toronto children’s hospital tests the potential for mind melds with machines",
-      "excerpt": "Using a sensor headset, children are helping researchers fine-tune technology for turning signals in the brain into actions in the real world",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/",
-      "originalUrl": "https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/NXq2cN-yDjyhe7MmB6kFaV1Ai3k=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/2VAOGFNDIZFLJNVS2OSTC5HMY4.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

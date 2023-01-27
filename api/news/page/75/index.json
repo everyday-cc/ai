@@ -2,6 +2,196 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-11-17-4-times-when-mathematics-made-huge-breakthroughs-in-ai.md",
+      "title": "4 Times When Mathematics Made Huge Breakthroughs in AI",
+      "excerpt": "Although some discoveries offered compelling answers, others promised avenues of explorations for the future generations.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
+      "originalUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/math.png",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022.md",
+      "title": "The Information Names Shanghai Bangbang Robotics as One of the Top 50 Most Promising Startups 2022",
+      "excerpt": "BangBang Robotics has a current company valuation of approximately $83 million and is on track to triple its revenue in 2022. With its pioneering development of artificial intelligence (AI) enabled electric wheelchairs, the company has been included in ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1949937/The_Information_IT50_Shanghai_Bangbang_Robotics_A_Wheelchair_Maker.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029.md",
+      "title": "Artificial Intelligence Products Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029",
+      "excerpt": "The prime objective of this Global \"Artificial Intelligence Products Market\" (2022) is to provide the insights on the post COVID-19 impact, and top to bottom analysis on the present state focuses on the major players and restraints for the key players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector.md",
+      "title": "AIQ to work with AWS to accelerate digital transformation in energy sector",
+      "excerpt": "The companies will develop an Innovation Factory team who will work to develop new solutions that boost operational efficiency across the energy sector’s value chain",
+      "sourceUrl": null,
+      "webUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector",
+      "originalUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://meconstructionnews.com/wp-content/uploads/2022/11/AIQ-and-AWS-Partnership_1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector/amp",
+      "cdnAmpWebUrl": "https://meconstructionnews-com.cdn.ampproject.org/c/s/meconstructionnews.com/55428/aiq-to-work-with-aws-to-accelerate-digital-transformation-in-energy-sector/amp",
+      "publishedDateTime": "2022-11-16T22:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "meconstructionnews.com",
+        "domain": "meconstructionnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
       "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
       "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
@@ -961,188 +1151,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-notions-latest-feature-is-an-ai-that-can-write-blog-posts-to-do-lists-and-more.md",
-      "title": "Notion's latest feature is an AI that can write blog posts, to-do lists and more",
-      "excerpt": "For instance, when the outlet asked Notion AI to write a blog post about the state of the smartwatch industry, the resulting draft mentioned the Apple Watch 4, Samsung Galaxy Watch and Tizen. In other words,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
-      "originalUrl": "https://www.engadget.com/notion-ai-announced-202032305.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/8e3a1570-65e9-11ed-bfd9-cfa20aacd1d5",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/notion-ai-announced-202032305.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/notion-ai-announced-202032305.html",
-      "publishedDateTime": "2022-11-16T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
-      "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
-      "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/PD-Team.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "publishedDateTime": "2022-11-16T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-global-machine-learning-market-to-reach-16405-billion-by-2028-with-a-392-cagr.md",
-      "title": "Global Machine Learning Market to Reach $164.05 Billion by 2028 with a 39.2% CAGR",
-      "excerpt": "Global machine learning market was valued at USD 16.2 billion in 2021, and it is expected to reach a value of USD 164.05 billion by 2028, at a CAGR of more than 39.2% over the forecast period (2022-2028).",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/16/9715226.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T11:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-malware-detection-and-classification-with-amazon-rekognition.md",
-      "title": "Malware detection and classification with Amazon Rekognition",
-      "excerpt": "According to an article by Cybersecurity Ventures, the damage caused by Ransomware (a type of malware that can block users from accessing their data unless they pay a ransom) increased by 57 times in 2021 as compared to 2015. Furthermore, it’s predicted to cost its victims $265 billion (USD) annually",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T11:10:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

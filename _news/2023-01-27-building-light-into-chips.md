@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-27T12:25:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/analysis/building-light-into-chips/"
 webUrl: "https://www.datacenterdynamics.com/en/analysis/building-light-into-chips/"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:

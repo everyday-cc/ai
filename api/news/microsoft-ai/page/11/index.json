@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-25-novel-derivative-of-love-hormone-oxytocin-may-reduce-cognitive-impairment-in-alzheimers.md",
+      "title": "Novel derivative of 'love hormone' oxytocin may reduce cognitive impairment in Alzheimer's",
+      "excerpt": "The cognitive decline and memory loss observed in Alzheimer's disease (AD) is attributed to the accumulation of β-amyloid protein (Aβ), which impairs neural function in the brain ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-derivative-of-lo.jpg",
+          "width": 2800,
+          "height": 1575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.amp",
+      "publishedDateTime": "2022-10-24T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-1-in-10-americans-over-65-have-dementia-study-finds.md",
       "title": "1 in 10 Americans over 65 have dementia, study finds",
       "excerpt": "One in 10 Americans over 65 had dementia, while 22% experienced mild cognitive impairment, the earliest stage of the slow slide into senility, according to a new study conducted between 2016 and 2017.",
@@ -1281,58 +1324,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-2bcloud-expands-us-operations.md",
-      "title": "2bcloud Expands U.S. Operations",
-      "excerpt": "NEW YORK, (BUSINESS WIRE) -- 2bcloud, a leading multi-cloud cost optimization managed service provider for cloud natives from early stage to unicorns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

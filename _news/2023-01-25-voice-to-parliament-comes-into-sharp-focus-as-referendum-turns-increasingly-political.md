@@ -20,19 +20,16 @@ topics:
 
 related:
   - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
-    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies"
-    publishedDateTime: 2023-01-26T16:12:00Z
-    webUrl: "https://wtop.com/australia/2023/01/explainer-what-is-an-australian-black-voice-to-parliament/"
+    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
+    publishedDateTime: 2023-01-27T03:46:00Z
+    webUrl: "https://www.kansascity.com/news/nation-world/world/article271671057.html"
+    ampWebUrl: "https://amp.kansascity.com/news/nation-world/world/article271671057.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/world/article271671057.html"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 39
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Australia news live: Invasion Day rally speakers stir opposition to voice to parliament, stressing push for treaty"
     excerpt: "Follow the day’s news, live"
     publishedDateTime: 2023-01-26T01:04:00Z

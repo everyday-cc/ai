@@ -2,6 +2,197 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
+      "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
+      "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-how-ai-and-machine-learning-quietly-went-mainstream.md",
+      "title": "How AI And Machine Learning Quietly Went Mainstream",
+      "excerpt": "Now that the novelty, and frankly, some of the fear factor, around AI has begun to fade, we’re entering a generation in which technology will just be better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
+      "originalUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6361209b71c915fecc08fd14/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/",
+      "publishedDateTime": "2022-11-01T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai.md",
+      "title": "AI Ethics And AI Law Grappling With Overlapping And Conflicting Ethical Factors Within AI",
+      "excerpt": "They will ignore, in the process, many other features of the given charity such as its long-term record, recent changes in leadership, its ratio of expenses to payouts, and so on” (as mentioned in “AI Assisted Ethics” by Amitai Etzioni and Oren ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-aws-opens-lagos-office-increases-commitment-to-africa.md",
+      "title": "AWS opens Lagos office, increases commitment to Africa",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, today announced the opening of its first office in Lagos, Nigeria. The new Lagos office is part of AWS’s support for the growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "originalUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/uQQktkqTURBXy84NWEyODYxYWNhZTUxMDJiY2IyMWQwNmM0NDI0MzAyZS5qcGVnkpUDAMzAzQKrzQGAkwXNBLDNAnY",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/business/local/aws-opens-lagos-office-increases-commitment-to-africa/lxgyez0.amp",
+      "publishedDateTime": "2022-11-01T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-ethics-in-operation-the-business-case-for-responsible-ai.md",
       "title": "Ethics In Operation: The Business Case For Responsible AI",
       "excerpt": "What makes AI so powerful is that it can emulate human thought and behavior to achieve objectives faster and more efficiently than any human could. Of course, with this kind of power, we have to consider responsibility.",
@@ -965,189 +1156,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-andrej-karpathy-considers-coming-back-to-tesla-to-work-on-optimus-and-agi.md",
-      "title": "Andrej Karpathy considers coming back to Tesla to work on Optimus and AGI",
-      "excerpt": "As Tesla expanded its effort from self-driving to broader artificial intelligence, Karpathy was promoted to senior director of AI at Tesla. In March, Karpathy announced that he was going on sabbatical for four months. At the time, we reported that it was ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/",
-      "originalUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/31/andrej-karpathy-coming-back-tesla-work-optimus-agi/amp/",
-      "publishedDateTime": "2022-10-31T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-exfo-plans-5g-center-of-excellence-in-montreal.md",
-      "title": "EXFO plans 5G Center of Excellence in Montreal",
-      "excerpt": "Freshly backed with federal development money, test and measurement solutions provider EXFO plans a 5G Center of Excellence in Montreal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20221031/5g/exfo-plans-5g-center-of-excellence-in-montreal",
-      "originalUrl": "https://www.rcrwireless.com/20221031/5g/exfo-plans-5g-center-of-excellence-in-montreal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-ai-experts-question-tech-industrys-ethical-commitments.md",
-      "title": "AI experts question tech industry’s ethical commitments",
-      "excerpt": "From healthcare and education to finance and policing, artificial intelligence (AI) is becoming increasingly embedded in people’s daily lives. Despite being posited by advocates as a dispassionate and fairer means of making decisions, free from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments",
-      "originalUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1",
-      "publishedDateTime": "2022-10-31T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-shift-robotics-used-ai-to-create-the-worlds-fastest-shoes.md",
-      "title": "Shift Robotics Used AI to Create the 'World's Fastest Shoes'",
-      "excerpt": "Reminiscent of those plastic strap-on roller skates kids wear, Moonwalkers use a combination of AI and machine learning to help the wearer move much more swiftly than they can in a typical pair of shoes, and without having to actually run. A brushless DC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes",
-      "originalUrl": "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02ezmmIMIHYAOMO3vQBGmBZ-2.fit_lim.size_1200x630.v1667231348.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-31-crossword-puzzles-beat-computer-video-games-in-slowing-memory-loss.md",
+      "title": "Crossword puzzles beat computer video games in slowing memory loss",
+      "excerpt": "Crossword puzzles were superior to cognitive games on the primary cognitive outcome measure, ADAS-Cog, at both 12 weeks and 78 weeks. Crossword puzzles were superior on FAQ, a measure of daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221027093305.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221027093305.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-azure-cosmos-db-low-latency-and-high-availability-at-planet-scale.md",
       "title": "Azure Cosmos DB: Low Latency and High Availability at Planet Scale",
       "excerpt": "Mei-Chin Tsai and Vinod Sridharan spoke at QCon San Francisco on Azure Cosmos DB: Low Latency and High Availability at Planet Scale. The talk was part of the \"Architectures You've Always Wondered About\" track. After introductions, Tsai started the talk by ...",
@@ -1251,49 +1294,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-novel-derivative-of-love-hormone-oxytocin-may-reduce-cognitive-impairment-in-alzheimers.md",
-      "title": "Novel derivative of 'love hormone' oxytocin may reduce cognitive impairment in Alzheimer's",
-      "excerpt": "The cognitive decline and memory loss observed in Alzheimer's disease (AD) is attributed to the accumulation of β-amyloid protein (Aβ), which impairs neural function in the brain ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-derivative-of-lo.jpg",
-          "width": 2800,
-          "height": 1575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.amp",
-      "publishedDateTime": "2022-10-24T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

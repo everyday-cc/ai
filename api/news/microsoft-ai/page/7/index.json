@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-25-comparing-microsoft-azure-and-google-cloud.md",
+      "title": "Comparing Microsoft Azure and Google Cloud",
+      "excerpt": "Microsoft Azure and Google Cloud offer cloud solutions. This guide outlines the differences between the platforms and tips for evaluation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/azure-vs-google-cloud/",
+      "originalUrl": "https://www.techrepublic.com/article/azure-vs-google-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/11/tr-google-cloud-vs-microsoft-azure-770x503.jpeg",
+          "width": 770,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/azure-vs-google-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/azure-vs-google-cloud/amp/",
+      "publishedDateTime": "2022-11-24T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai.md",
       "title": "Harvey, which uses AI to answer legal questions, lands cash from OpenAI",
       "excerpt": "Harvey, a startup using AI to answer legal questions, has secured an investment from OpenAI as well as Google AI head Jeff Dean.",
@@ -1311,59 +1363,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer.md",
-      "title": "Nvidia and Microsoft team up to build massive AI cloud computer",
-      "excerpt": "Nvidia announced a collaboration with Microsoft to build a \"massive\" cloud computer focused on AI. It will reportedly use tens of thousands of high-end Nvidia GPUs for applications like deep learning and large language models.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 356,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/nvidia_logo_hero_1-800x448.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/",
-      "publishedDateTime": "2022-11-16T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

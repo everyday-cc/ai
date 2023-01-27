@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-16-artificial-intelligence-technology-solutions-aitx-ceo-testifies-at-criminal-hearing.md",
+      "title": "Artificial Intelligence Technology Solutions (AITX) CEO Testifies at Criminal Hearing",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (the Company) (OTCPK:AITX), has announced that on November 15, 2022 its CEO, Steve Reinharz provided testimony at a criminal assault hearing. The hearing was regarding an attack on a Trinity Railway Express (TRE) conductor at a Ft.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/16/9714708.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/16/9714708.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
       "title": "Israel deploys remote-controlled robotic guns in West Bank",
       "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
@@ -1329,49 +1363,6 @@
       "provider": {
         "name": "WPXI",
         "domain": "wpxi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-the-role-of-embedded-vision-in-powering-autonomous-robotics.md",
-      "title": "The role of embedded vision in powering autonomous robotics",
-      "excerpt": "Today’s robotics developers have made enormous strides thanks to developments in artificial intelligence (AI), edge-computing, and camera technology, creating totally autonomous mobile robots (AMRs) that can replicate human activities.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Maharajan-Veerabahu.jpg",
-          "width": 390,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "publishedDateTime": "2022-11-07T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

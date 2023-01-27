@@ -1,28 +1,24 @@
 ---
 category: news
 title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
-excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies"
-publishedDateTime: 2023-01-26T16:12:00Z
-originalUrl: "https://wtop.com/australia/2023/01/explainer-what-is-an-australian-black-voice-to-parliament/"
-webUrl: "https://wtop.com/australia/2023/01/explainer-what-is-an-australian-black-voice-to-parliament/"
+excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
+publishedDateTime: 2023-01-27T03:46:00Z
+originalUrl: "https://www.kansascity.com/news/nation-world/world/article271671057.html"
+webUrl: "https://www.kansascity.com/news/nation-world/world/article271671057.html"
+ampWebUrl: "https://amp.kansascity.com/news/nation-world/world/article271671057.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/world/article271671057.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WTOP News
-  domain: wtop.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
-    width: 512
-    height: 512
-    isCached: true
 
 related:
   - title: "Australia news live: Invasion Day rally speakers stir opposition to voice to parliament, stressing push for treaty"
@@ -60,6 +56,6 @@ related:
       domain: abc.net.au
     quality: 0
 
-secured: "OoF4P2Jk+UthnzTORAE738LYbiJT8r0V7CMxm0/Zuqi5MPs1QBo88P5fNRQ/IMvoHhtZ0oxx4WxdvTCr9Zs4ppO8JRN9NqhpPFrtzzHtd6+HjaCRzymll1meQUoJU5uQas9Iq48wbnJd95OZ3X7k0rXXIA+LzdAZLSiab8RyBU3EoqLgxETNKsKJbO+qwmqSiPk+uSiCN1LE6QC7EVeXdTj6EmPrMZvWIFdtUwoshvS3Yh5PxnG2PY/Du6T7mKqhD37UZ4BY2jECVhFzLBkvHltkqvfieJC7S+PnBvsFX4/mwL2M2ws01SzYRh4A0QOyuvMHsvyQv5g4BfSWNXukHQPT02lPxxzag8npivSco9s=;3KXtG1CA062n18dFbs7R6Q=="
+secured: "EEzMbfpZ9k4Hi8l+Ld4P4+yuzKtssDSOUEr70nVw1wk+kuyYgYlHgXf3OrSnStpDkt0yMQU2sj7mfgvLCxkBJLHDgFbf5p/ZRWlDfm7O2LtudrGZIt14R5cNL/d/2TkROyrIG4ok1FUFlB2aMv56W91YO6qEvLFHsO6dCWHRxo+O4UG3lrmi51BQCXM+/JYGGej7chdnBAavZ5xRKb3DssySq/BntmkQVQ3PjMS/dlUX3JWjRqLpTQekjB6Vz3FBwM0w0SFVon2BThVSLesLMYuc3mB2cz3EfAdLeH6ZmeR/8BF9fP9/O5rW9Rugg2II7cdZhyCvwf6DPqR77hCvlb31Q2u9QiuO+lqfNQLxGVxpTi62EbQpk+VTtXwZf6/SmBcMZbzcT77m4n5PpouS3dPxRV6q15FPs3GwbY4Pzmg15Rd4xgJS9Et27DEQ6E2fjpFVwHzZP41J6FSvL2v0yqMmqfMuWl0g+/gB1O/NC2+Ai0D1Rz3wIhboOESixE0g8GZZwj1+eXiZKWk5/6OS9A==;nkcz6pnycWDvEDfqQFz8Jg=="
 ---
 

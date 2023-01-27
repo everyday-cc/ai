@@ -134,6 +134,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-27T00:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
   - title: "Global AI In Computer Vision Market Size Growth Rate Analysis 2023 by Production, Revenue, Price, Gross Margin, Countries and Forecast to 2028"
     excerpt: "Jan 25, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Computer Vision"
     publishedDateTime: 2023-01-25T07:01:00Z

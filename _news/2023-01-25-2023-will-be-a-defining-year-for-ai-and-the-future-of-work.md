@@ -131,17 +131,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
-    excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
-    publishedDateTime: 2023-01-26T13:08:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article271680117.html"
-    ampWebUrl: "https://amp.miamiherald.com/press-releases/article271680117.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271680117.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 51
   - title: "How generative AI will help power your presentation in 2023"
     excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
     publishedDateTime: 2023-01-24T14:00:00Z
@@ -253,6 +242,15 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
+    excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
+    publishedDateTime: 2023-01-26T12:06:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 31
   - title: "Google, not OpenAI, has the most to gain from generative AI"
     excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
     publishedDateTime: 2023-01-27T04:00:00Z
@@ -261,7 +259,7 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 19
+    quality: 21
   - title: "Mass. congressman reads AI-generated speech on House floor"
     excerpt: "Auchincloss said part of the decision to read a ChatGPT-generated text was to help spur debate on AI. Read more at Boston.com."
     publishedDateTime: 2023-01-26T14:29:00Z

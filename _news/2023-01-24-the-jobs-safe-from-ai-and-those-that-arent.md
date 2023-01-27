@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and how it may change the world"
-    excerpt: "He (or she) will step forward and take over the procedure from the robot. The next step in the development of artificial intelligence, AI, is to have machines develop conscientiousness."
-    publishedDateTime: 2023-01-23T00:00:00Z
-    webUrl: "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world"
-    ampWebUrl: "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 61
-    images:
-      - url: "https://i.tribune.com.pk/media/images/1082218-ShahidJavedBurkiNew-1460302235/1082218-ShahidJavedBurkiNew-1460302235.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "How AI will impact the future of work and life"
     excerpt: "Artificial Intelligence (AI) is rapidly becoming one of the most important and rapidly-evolving technologies of our time. With advancements in machine learning, natural language processing, and computer vision,"
     publishedDateTime: 2023-01-24T11:42:00Z

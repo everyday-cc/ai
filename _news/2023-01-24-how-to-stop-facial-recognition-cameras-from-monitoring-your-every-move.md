@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-mon
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
 type: article
 quality: 91
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -71,6 +71,24 @@ related:
         width: 2048
         height: 1257
         isCached: true
+  - title: "MSG may stop booze sales over facial recognition: CEO"
+    excerpt: "James Dolan, the owner of th Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing his use of facial recognition technology at venues including MSG."
+    publishedDateTime: 2023-01-27T14:53:00Z
+    webUrl: "https://pix11.com/video/msg-may-stop-booze-sales-over-facial-recognition-ceo/8340098/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 38
+  - title: "MSG CEO threatens to stop alcohol sales over facial recognition"
+    excerpt: "James Dolan, the owner of the New York Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing"
+    publishedDateTime: 2023-01-27T13:12:00Z
+    webUrl: "https://pix11.com/news/local-news/manhattan/msg-ceo-threatens-to-stop-alcohol-sales-over-facial-recognition/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 36
 
 secured: "TAlq+xxI26jVpVJEAG/j7oY6Lrw5kKeBIkyWpdPI6LITtBtPbi6nyM9905dC89JvyUTaQvw34D02mpJEp2nkwxE99f5pb9jfa48/rNI6xnd2O2iOHs2pKpbKlBc6wd9amFa0Sf1zaYbbg2J3rAYHyRAp47kvEZHsLzhUY/BhUkxlVyf5qyydYkIssO3NBXC5PUVlIhUGQLZLHfvFmPjN/RIS2p4SxUiIKSYQQ21T0Z0oEMTKx8+ECtCyDkC2KbOKV2DEEjaE89Yk2b5Qvq4T/KsI5VN0Ge8KBIeiXDs9Vrwry20zIcaXjLVyW5fqshCt3WuSQF7IpRiP4Pc/3bozEjMBjfX5ybIGYjM+bm6fX20=;ERrbKLDTGqKrFT2bEmmuLA=="
 ---

@@ -66,6 +66,24 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "MSG may stop booze sales over facial recognition: CEO"
+    excerpt: "James Dolan, the owner of th Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing his use of facial recognition technology at venues including MSG."
+    publishedDateTime: 2023-01-27T14:53:00Z
+    webUrl: "https://pix11.com/video/msg-may-stop-booze-sales-over-facial-recognition-ceo/8340098/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 38
+  - title: "MSG CEO threatens to stop alcohol sales over facial recognition"
+    excerpt: "James Dolan, the owner of the New York Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing"
+    publishedDateTime: 2023-01-27T13:12:00Z
+    webUrl: "https://pix11.com/news/local-news/manhattan/msg-ceo-threatens-to-stop-alcohol-sales-over-facial-recognition/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 36
 
 secured: "joS0IuYWmQA1P1k1KnDFShn5yETfYLCQ4TaHX+mFNH7fqWiHENF3ekcLL2wMIG1DUYbMALZ6SQAuJ/YVSip6mjx0fFIYKC1+Cp14/w1DoFiUzt+/7MUpuT/gx1HJ4BFOO5rEmQ/XxWKD3X3IlcAM3XkGvN6iM0FyKfZbwmvBxoghfY4bzIkJNjskuogbYnQaks/QrMabEBN9F5l1x3QIT753Lo+CbZGRuIt7NOnI7s+/0aFT7Mo/s5oUy0QuFxx8PqSMWI6wfzgQWFB2z/qX5kX66G806BMpjludf3mCXVJs2MxnX7GZmIhfIW3v0ejz2BP1e2VqTSD74zf/nDIndM41Jko20yopGDkcSitPJr/jtKsq92xE+UO1OoQEOV0gXn6wquwjsQ/9T3Nfv/wX6vw1tuMW0cAqYMZHX60ufmolMsIVsJDt2scXTO+5ab49PpFP0QU+J2QjhO1vqH+3+saNXA8q2x/AVvYKrD99FaJSecRjnfnPM3ak3pGRmGRHfhU9iVu4JdwGKDW73WWcUA==;o6zFVUO/fOPwRfM1joltbw=="
 ---
