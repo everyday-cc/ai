@@ -2,7 +2,7 @@
 name: "Kreditech"
 overview: "Kreditech Group’s mission is building better access to credit through technology. Combining non-traditional data sources and machine learning,  the Company is aiming to provide access to better credit and a higher convenience for digital banking services. The product offerings include consumer loans, a digital wallet and a personal finance manager designed to help customers manage their credit score and plan their spending.  Kreditech also offers a “credit as a service” model, allowing partners to integrate its credit products as payment method or funding source.  Founded in 2012 and headquartered in Hamburg, Germany, Kreditech has processed four million loan applications through its subsidiaries. The company is led by David Chan (CEO) and is financially backed by world-class investors including J.C. Flowers, Peter Thiel, and the Worldbank’s IFC."
 type: "profile"
-heat: 57
+heat: 50
 
 website: http://www.kreditech.com/
 
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Z57UVGxt_6E"
 
-secured: "HeC8pHid8OmDo66hysCrWfw8Le2KNDqHNldCxS2uSJfcmnGdDhqMpCCxBKZgFEtnQu/DmpMDlU+GmJIYTqd82mi61LP6tANmkcB6Q8qn1d9B53JnORHaiOJisRzZJQ4+QY2Vb6rOLSzPw//ONlMBC4RBzMgOIyZAESaRs8azyqo7NCBY8D1xvWw5D9dn+sSgeUt6dQ6ln4VJFDBUW+4cV0UWFXOrc8ZigX79Zgd5/Ice65zf7iWxu19E7FyP3NjD3Nwav+d/AcVVe4/Fy5V40gyO2NZmU4lRzNtFLBHWDBpj4R/YoL5n/4tv46ntP8j1o4S6JuKiwAg3Cq9N/znbqteFz31A+VF0esHkoliInVjDUKIoeeBttO6XATIWPmhr3VqSM2mYegcQF/kPLkHOBg==;3cAbaeSTf+pAoniPOn/Vcg=="
+secured: "MQz6e0tOBM2gHuL7QPtlMFIwRpVjvcJ4tSHDqb68JvTe9q2UuYkGbCQb7jw0Esd78nkwrGELU60ze8+AlaIwNe8vecDGu3ADFpApQkUHl6tlYSznayV0vPsraUP3OhztXKNnmPz1l8dJl9hbZnIEDtysWGAUKk4Ytj1ei0U0IZBOUb03Q055b7vyiQyqDvREc00tPk5AWTJeFc1GM6/PhZN5de6keHy+3jg8+nxXccN/zCeKYldJ9Z2hjNme6C6k3a435NDR5lH0FHLUM3fvUHXBABZpcK4rJzg/D2p1ejwJyOlHexLKw1ZL2TitJVbEudsleIIaPE9h1ec1S7Q3Sr2PVpKLjC0HE/Au9UY3Cc+i8xY2/cgRnRbfoQqWqvKDFQA53smHoqrJnG2dO+7/Uw==;ra8YVtyB5xyM8hQYb4kTKQ=="
 ---
 
