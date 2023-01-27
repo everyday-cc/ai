@@ -102,6 +102,22 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
+    excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
+    publishedDateTime: 2023-01-27T04:22:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/63d330454589790018e56915?width=1200&format=jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Microsoft Officially Extends Partnership With OpenAI"
     excerpt: "Microsoft has just officially announced that its partnership with ChatGPT maker OpenAI is entering its third phase, with a new \"multiyear, multibillion dollar investment\" to democratize OpenAI's cutting-edge AI technology."
     publishedDateTime: 2023-01-23T14:44:00Z

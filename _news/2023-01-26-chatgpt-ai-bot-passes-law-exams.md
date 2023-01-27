@@ -65,22 +65,6 @@ related:
         width: 1000
         height: 340
         isCached: true
-  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law"
-    excerpt: "Generative AI ChatGPT is already in the news and will likely garner added attention once the API portal access is opened, leading to either a boon in new uses or a bust in terms of adverse consequences."
-    publishedDateTime: 2023-01-22T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/22/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/22/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/22/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63cc9ea2aeaaf7f509922d82/0x0.jpg?format=jpg&crop=2250,1265,x212,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Explained: Is ChatGPT Latest AI Innovation A Trend Or A Threat?"
     excerpt: "While engineers, entrepreneurs, and many social media users look at ChatGPT as a bold innovation that opens horizons for services and solutions, the academic and creative industry stands both concerned and threatened by the latest AI chatbot."
     publishedDateTime: 2023-01-23T12:33:00Z
@@ -186,15 +170,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
-  - title: "I spent an hour with a new, ChatGPT-inspired AI chatbot, and I may die laughing"
-    excerpt: "So I ruminated deeply upon how to create my own chatbot excitement. The Tweet that launched a thousand questions. Well, a few. Fortun"
-    publishedDateTime: 2023-01-22T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/i-spent-an-hour-with-a-new-chatgpt-inspired-ai-chatbot-and-i-may-die-laughing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
   - title: "Kagan: Questions, concerns on ChatGPT and Artificial Intelligence"
     excerpt: "Will ChatGPT lead in the AI space going forward or it is just one step that will be replaced by another more advanced technology?"
     publishedDateTime: 2023-01-23T15:30:00Z

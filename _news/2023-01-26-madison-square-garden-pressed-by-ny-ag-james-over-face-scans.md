@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/privacy-and-data-security/madison-sq
 webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/madison-square-garden-pressed-by-ny-ag-james-over-face-scans"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "New York’s Madison Square Garden’s facial recognition blacklisting sparks outcry"
+    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan’s celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
+    publishedDateTime: 2023-01-27T04:45:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/27/new-yorks-madison-square-gardens-facial-recognition-blacklisting-sparks-outcry"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 36
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/27/1917663.jpg"
+        width: 1240
+        height: 766
+        isCached: true
+  - title: "New York Attorney General Questions Madison Square Garden Entertainment Over Facial Recognition Technology Use"
+    excerpt: "The state’s top lawyer is requesting details after reports the software has been used to ban attorneys involved in lawsuits against the company from its venues."
+    publishedDateTime: 2023-01-25T21:23:00Z
+    webUrl: "https://www.billboard.com/pro/new-york-ag-questions-madison-square-garden-facial-recognition/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 34
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/01/madison-square-garden-exterior-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Madison Square Garden owner faces probe over facial recognition blacklisting"
     excerpt: "Gregory Varallo, a lawyer in that case, told the court that MSG “used facial recognition software to come in and scrape all the web pages of all the firms involved and then used that facial recognition software at the Garden and other venues”."
     publishedDateTime: 2023-01-25T19:24:00Z
@@ -34,15 +62,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 16
-  - title: "MSG's use of facial recognition tech on ticketholders may violate human rights laws, NY AG warns"
-    excerpt: "It's the latest hurdle for James Dolan’s quest to ban his perceived enemies from sporting events and concerts."
-    publishedDateTime: 2023-01-25T20:08:00Z
-    webUrl: "https://gothamist.com/news/msgs-use-of-facial-recognition-tech-on-ticketholders-may-violate-human-rights-laws-ny-ag-warns"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 6
 
 secured: "K5NWxFuqeI0qefk9fcuwbyR4/2T9yzPc7G9c3+QeTMMN8a86c8SJMLLGwiJCGA72/gavZgrtx3Ihpv+O65gAXnhFFYJlLBXrIIMZjF5ljR9WeqyhCATq9zFf1Q5Z3Lm4pimC9LUG5rBImlxIuT4Ze7wBmKa52SpOw3bXF0T7lq/NhsssMIM3f2ShlySOTnvCY9B+RtKIico5T4Ig7nDXev+NUxCKlWOFHw4TKZ+d0DjxSINjojT4FXii7YwJdeD3eP8mzw7VoDrxn81TVcL1LzJ5vNl3dTFzwyy9MViZWrcLJVKLMWw0G2a512h7nsclq+wZ2OVUt+223HHFAxqALT6apuxYYCtkS4oPNNPKlOM=;pcSjv8IS2TSSqwl3Pq2vEg=="
 ---

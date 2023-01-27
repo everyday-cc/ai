@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "New York’s Madison Square Garden’s facial recognition blacklisting sparks outcry"
+    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan’s celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
+    publishedDateTime: 2023-01-27T04:45:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/27/new-yorks-madison-square-gardens-facial-recognition-blacklisting-sparks-outcry"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 36
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/27/1917663.jpg"
+        width: 1240
+        height: 766
+        isCached: true
+  - title: "New York Attorney General Questions Madison Square Garden Entertainment Over Facial Recognition Technology Use"
+    excerpt: "The state’s top lawyer is requesting details after reports the software has been used to ban attorneys involved in lawsuits against the company from its venues."
+    publishedDateTime: 2023-01-25T21:23:00Z
+    webUrl: "https://www.billboard.com/pro/new-york-ag-questions-madison-square-garden-facial-recognition/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 34
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/01/madison-square-garden-exterior-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Madison Square Garden Pressed by NY AG James Over Face Scans"
     excerpt: "New York Attorney General Letitia James is raising concerns about Madison Square Garden Entertainment Corp.'s reported use of facial recognition technology to prevent lawyers from accessing its venues because of ongoing litigation against the company."
     publishedDateTime: 2023-01-25T16:28:00Z
@@ -33,15 +61,6 @@ related:
         width: 959
         height: 369
         isCached: true
-  - title: "MSG's use of facial recognition tech on ticketholders may violate human rights laws, NY AG warns"
-    excerpt: "It's the latest hurdle for James Dolan’s quest to ban his perceived enemies from sporting events and concerts."
-    publishedDateTime: 2023-01-25T20:08:00Z
-    webUrl: "https://gothamist.com/news/msgs-use-of-facial-recognition-tech-on-ticketholders-may-violate-human-rights-laws-ny-ag-warns"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 6
 
 secured: "YKFBHsfeu4XYcJ182ONsisy2K3RBdqBa4ghNjfyDxJGa4OMbp+xfinkx0DrtONnqWlFEVTJMX2wzxOtjPgnjw4ahF7C5/r9s9PVXjZFV+cPrNjqaRS3kXjx6z3wnh0zE/g6tGS4jB+MElCMgRT/Ycx/KCJjQLfloR29iieO2q6jo3jABsIcaEmwLh0qlCnG5u+Kk0Iaw7qo+U+fw87i24qLWAvlgPr9kLsLSZWTiM1LG/8A5BfWaROk1pIG71EReG30BNLpgVs+r1tqW7Jf1w15oMtr0qmyIfAT96YFMKYZbP9k3lMjwapAdlCYHgct6sZAYH1SyhPG+K7lQIq4Vj4Kx1825cpgF6uE3tKGQxGIZV66GgJ4Onw5BXRHMuiKxEx+B9t8uoMxpA905EhUTMNjnHPLCdh6+HUFi0WFH44Ziu5BN6ON3Q4uNZ6yYjhEmbKl4t5yhVF3g6AnKiLjedstw+9SCKm/BGBoEq9hwpqdp7GlrpUGRGufwh9vsUDBM3wisrW8JnditrGYp+LEPiw==;8t2cBJDuSW9xvpkOJIbTSQ=="
 ---

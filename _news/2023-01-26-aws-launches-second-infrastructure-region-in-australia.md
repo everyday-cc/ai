@@ -33,6 +33,20 @@ related:
         width: 509
         height: 269
         isCached: true
+  - title: "AWS Launches Second Infrastructure Region in Australia"
+    excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
+    publishedDateTime: 2023-01-24T04:28:00Z
+    webUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 39
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82691.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Melbourne now officially open"
     excerpt: "Amazon Web Services has announced the general availability of its Melbourne region. This will feature three Availability Zones, and is the second AWS region in Australia. The regi"
     publishedDateTime: 2023-01-23T23:18:00Z
@@ -85,15 +99,6 @@ related:
     provider:
       name: ITWire
       domain: itwire.com
-    quality: 19
-  - title: "AWS Launches Second Infrastructure Region in Australia"
-    excerpt: "Customers will also have access to advanced AWS technologies to drive innovation including compute, storage, networking, business applications, developer tools, data analytics, security, machine learning, and artificial intelligence. AWS also released an ..."
-    publishedDateTime: 2023-01-23T23:17:00Z
-    webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/aws-launches-second-infrastructure-region-in-australia"
-    type: article
-    provider:
-      name: Financial Post
-      domain: financialpost.com
     quality: 19
 
 secured: "F5Dqo8BxirmJeAHfPunwYIXpUYO9M/4Jjx5ZR/1X6Pa67EOFbt05sbwAhhluwysAyx4Lqh2GaT3d/GvVkGS2AqML4C6/xSEZGYZzblXk1JKxyC/HBUt669B7F/O3m5OBTLmcDg4iBbjRj6LGwPrHqWy4x73dNfaGwlApZtO/7FGCWVn/6sCIWfgogSKPHCmBLVWShOIx4w79S1dCFlINYMv+qd2H5Z8zFB6rDIZ/ApJsae7jcztTPZ3cNGmv8qzrWjIVW4/Z4m0e7uhmYTDg348KbTjepq6tfJtBlhJwhzCWFhcjahAOuX33qXMjkmyOTIKvplTKI5G7J9sw6U2XNkO6I0ZGaH2kENZ9WxqrINo=;lS0lqxP7NJVpgtNZajEU3Q=="

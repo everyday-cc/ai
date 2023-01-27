@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24"
 type: article
 quality: 77
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+  - title: "Emotion Artificial Intelligence Market | Top Factors Responsible for the Rapid Growth in the Coming Years 2028"
+    excerpt: "Emotion Artificial Intelligence Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-26T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-artificial-intelligence-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
     publishedDateTime: 2023-01-24T09:37:00Z

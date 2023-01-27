@@ -2,17 +2,17 @@
 category: news
 title: "Learning to lie: AI tools adept at creating disinformation"
 excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda. When researchers asked the online AI chatbot ChatGPT to compose a blog ..."
-publishedDateTime: 2023-01-24T15:07:00Z
-originalUrl: "https://www.news4jax.com/news/politics/2023/01/24/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
-webUrl: "https://www.news4jax.com/news/politics/2023/01/24/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+publishedDateTime: 2023-01-24T15:03:00Z
+originalUrl: "https://www.clickorlando.com/news/politics/2023/01/24/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
+webUrl: "https://www.clickorlando.com/news/politics/2023/01/24/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: News4Jax
-  domain: news4jax.com
+  name: News 6 WKMG
+  domain: clickorlando.com
 
 topics:
   - Facebook AI
@@ -103,6 +103,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "eanA/++SVX7VKxsdVT7ZUnQGEy/mlcMIYcMeLW57O40VbnsCyi+BUfuJf4c822YmrXYINJFYFWNuAhHWyBtqdkUZf+/h1neOf/YoF1QjyRFHyzrw9v6qA6UhdmgLBYdYgqZLiSfTOZ4DN31Jj7hkph29BXMDiRgaZODtYnl9ZKwT/PjAe4e5aoVGrj1Eb97KBn35BG0KD/XI0SRNsxX5Bkdljgpi7KcfWJsVni+KVTtRjqPHzZUFPW/bVDgHIi8OtIVcsyZuEN5dUNHwLa7bTpVBdJ6DA3Ocg3kO0TgYbSkUnu5GppIUTr2piDpIz/7BnQyujxGIN1iMIyg1rcsOfzUeaOUwLOqAB8UtkiXoV74=;UJtBba/857cizRbGLsP1Rg=="
+secured: "Xr0JTmIBggDpFIxNnvmtgc+FaiN/KhWJhZsjEGJE1m04+GskSN92p/9oLJpbXxvJbQy/WKIKN/jIMAgd2ufgGOQulWXNpyu6UHO1w+6sMcrDMZZLP0V5c1UbxfEE4UCPW2HqwkkYYAqeGAya7bjefzIG+NjADfofCXGduTZIeBKlDJZtiSHfWhqFyqfHFNdjETX/WeFZn0cK+/rH53qlysijI9h6VKj0+AN+vWHcrb6ccrzTxkr59gBepzF3eRvmz0fYPgLIO9VlJOTnvNlyfH8i9dLyY9me4yY7XgDhQD2shHI+/7khc7aMrU9jaMVfNO5IiIvOP3q/axF7GZaqdXNtHfeDT5QxMldnaRChAxc=;6Mks5IFLa5I9IrXDaeJ1nQ=="
 ---
 

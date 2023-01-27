@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/ibm-cuts-3900-jobs-after-
 webUrl: "https://www.channelnewsasia.com/business/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue-3232156"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "IBM cuts 3900 jobs blaming its exit from Russia and rising inflation"
+    excerpt: "Tech company IBM is slashing 3900 jobs – about 1.5 per cent of its global workforce – following in the footsteps of long list of other companies that have fired thousands of staff in recent months."
+    publishedDateTime: 2023-01-27T03:28:00Z
+    webUrl: "https://www.news.com.au/finance/business/technology/ibm-cuts-3900-jobs-blaming-its-exit-from-russia-and-rising-inflation/news-story/8a183b0db3db6ac1532bd55b32a3f216"
+    ampWebUrl: "https://www.news.com.au/finance/business/technology/ibm-cuts-3900-jobs-blaming-its-exit-from-russia-and-rising-inflation/news-story/8a183b0db3db6ac1532bd55b32a3f216?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/business/technology/ibm-cuts-3900-jobs-blaming-its-exit-from-russia-and-rising-inflation/news-story/8a183b0db3db6ac1532bd55b32a3f216?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
 
 secured: "eoXH6DqQBGkSkjTthX2yY1y6x0+Kc24e6vOORXiBpRFvNqsxmk3Nyzi+NCKollrQwCjnbu9sd+bf2O52zgYYIWp+J4I7FnoWaqAlW0sksqINBXC51ci0sKNMgm2BQY0ZH7hadZ65ynRbDEQT6Hvp2dBjh5eUvG+Zqr7Ry44iqpylu5kTamWZ7n6QjemG3ZZFSQPQpsaNO9ZfDei2YDx2VqKvPY7PgoymGiiRlYbCK7T83ZE5NT50/hgH2okddHCiXGNr5tvrgIrhzzMLurH5hrIe607n642JhcnZdcfg8zXyERqMWOex5Xu8FFnKClSZ1LFJroSaCKffO5zpey48Ekd3LOEOrOqDoxwKVxo4MFGjZ9vsqEyt2I4YxOxVcyBRdcc6k9kGCj+L33LmP/iNOvXnrlV7Tdt9pqfb63tNXHeY0gFmF+pajtKzmj9nlsPrL/BMEYtM3EYus0I79musFqFkz5yUvDZwQ+rMaREnyb1Z4UagdLGNnEhyVKj7hJ67IIEjQGs1cmv+7b3LvUYJ3w==;Ht2GXQ0tEm49YqQ6m+yFrA=="
 ---

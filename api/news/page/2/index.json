@@ -555,7 +555,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -778,7 +778,7 @@
       "originalUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -808,7 +808,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1020,7 +1021,7 @@
       "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1060,7 +1061,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

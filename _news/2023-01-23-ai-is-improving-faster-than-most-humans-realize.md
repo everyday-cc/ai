@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-tha
 webUrl: "https://www.washingtonpost.com/business/ai-is-improving-faster-than-most-humans-realize/2023/01/23/43972ea2-9b24-11ed-93e0-38551e88239c_story.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence could surpass that of humans later this decade"
-    excerpt: "Artificial intelligence (AI) has the potential to ... This ability can be particularly useful in fields such as finance, healthcare, and transportation, where AI is already being used to analyze ..."
-    publishedDateTime: 2023-01-22T11:37:00Z
-    webUrl: "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/"
-    ampWebUrl: "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/"
+  - title: "AI is improving faster than most humans realise"
+    excerpt: "ARTIFICIAL intelligence advances in a manner that’s hard for the human mind to grasp. For a long time nothing happens, and then all of a sudden something does. The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017."
+    publishedDateTime: 2023-01-24T04:50:00Z
+    webUrl: "https://www.businesstimes.com.sg/opinion-features/ai-improving-faster-most-humans-realise"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 61
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/01/hands-of-robot-and-human-touching-on-big-data-network-connection-background-science-and-artificial-intelligence-technology-innovation-and-futuristic-1200x639.jpeg"
-        width: 1200
-        height: 639
-        isCached: true
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
 
 secured: "cLuQfK/eRgLbJlECo+NG29dGnNrxBhwPPpNAhEA4St92XxTlOrUUwwX4fF6BFS66xuT/uBi/Df76UZ5ohY9humHrqedyzJJA1bvA4UaTWQc8J1AqwYXhClt/Gqk1XwtzUC1OnbNKlo8UiqAk2Mofu2xLiFTizbEfF0Zn11jSecd74x+KNOHw3D8pPukW80srD6f3cbuQ6eH7+VIECuv2Jz9vpKXOfAayIslrB6sCDQEjH7tsIaMBNAADLOO+21pBTsRX972DJ7zwXKHBy256XtzsQOuC6QPCLKlfB0dXdsTi2eUd/0ZKZZ/w+EP8PUpxAJAqyr40lMHTHaIyh3NEVLDH8NF22tGipZD9Ueo8zvXjegXcMfnAU1c+IpUPw1OtQlZ5T/ZgwEPWQTaeaW0OeD7ujTmB1wZj9FZSIjfwxstcqPDzUV/C4Sl/q8IcG4mMmJupwVwZ7mSgO3e/Q9FlQCvIBW58qoFMYXLjJC8k+dG/brVoiskyFNpFW5szL3av5sxywZONj6PkTkXNjBV8ew==;7vJpRbwXXvnMPkEKx+A32w=="
 ---

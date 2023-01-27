@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-companies-can-practice-ethical-ai/"
 webUrl: "https://venturebeat.com/ai/how-companies-can-practice-ethical-ai/"
 type: article
 quality: 64
-heat: 74
+heat: 75
 published: true
 
 provider:

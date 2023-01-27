@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/news/artificial-intelligence-study-finds-painti
 ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-study-finds-painting-likely-raphael/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-study-finds-painting-likely-raphael/"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/24/671f4227-bd0f-4bd4-bc75-1da2e97616f3/thumbnail/1200x630g2/0086d84eeb4a7cf532d9183a9f1bbcc3/raphael-tondo-sistine-madonna-xb5d3f5c5.jpg"

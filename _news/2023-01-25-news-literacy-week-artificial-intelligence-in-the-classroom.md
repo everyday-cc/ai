@@ -8,8 +8,8 @@ webUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificia
 ampWebUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true"
 cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://x-default-stgec.uplynk.com/ausw/slices/baa/1020d6d1597347248f5d62c059a4c7e3/baa6ccd9e22c48778bc48333d5981b9f/poster_35034dd81a2e409eb4d916c834e9f3b8.jpg"

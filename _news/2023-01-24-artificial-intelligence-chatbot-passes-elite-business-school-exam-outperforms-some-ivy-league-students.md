@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-el
 ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1"

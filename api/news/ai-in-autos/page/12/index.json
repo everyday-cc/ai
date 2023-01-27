@@ -2,6 +2,60 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-11-05-5-ways-forrester-predicts-ai-will-be-indispensable-in-2023.md",
+      "title": "5 ways Forrester predicts AI will be “indispensable” in 2023",
+      "excerpt": "Forrester’s recently-released AI predictions highlight how adoption has evolved from an emerging trend to a priority for the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1421615048.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/5-ways-forrester-predicts-ai-will-be-indispensable-in-2023/amp/",
+      "publishedDateTime": "2022-11-04T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-the-people-building-artificial-intelligence-are-the-ones-who-need-ai-the-most.md",
       "title": "The people building artificial intelligence are the ones who need AI the most",
       "excerpt": "There are many interesting use cases for artificial intelligence, from drug discovery to autonomous transportation. But the people seeing the most benefits from AI technologies to date are technologists themselves -- automating their operations and quality assurance,",
@@ -1334,49 +1388,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-tesla-and-argo-ai-setbacks-sap-momentum-for-driverless-tech.md",
-      "title": "Tesla and Argo AI setbacks sap momentum for driverless tech",
-      "excerpt": "The driverless tech industry hit a couple of snags this week. First came news in Ford’s (F) Q3 earnings report that the automaker was shutting down its Argo AI autonomous driving joint venture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/tesla-argo-ai-setbacks-sap-145810466.html",
-      "originalUrl": "https://www.aol.com/finance/tesla-argo-ai-setbacks-sap-145810466.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/PjszFwy462T9BOJ7cFK3bQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njk-/https://media.zenfs.com/en/aol_yahoo_finance_433/9113db93c990a4cb7e94c8aa550cb8be",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-29T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -1,24 +1,33 @@
 ---
 category: news
-title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
-excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
-publishedDateTime: 2023-01-25T13:05:00Z
-originalUrl: "https://analyticsindiamag.com/microsoft-gives-a-new-lease-of-life-to-healthcare-via-chatgpt/"
-webUrl: "https://analyticsindiamag.com/microsoft-gives-a-new-lease-of-life-to-healthcare-via-chatgpt/"
+title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
+excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
+publishedDateTime: 2023-01-27T04:22:00Z
+originalUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1"
+webUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1"
+ampWebUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
 type: article
-quality: 38
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
   - AI
-  - AI in Healthcare
-  - Microsoft AI
+
+images:
+  - url: "https://i.insider.com/63d330454589790018e56915?width=1200&format=jpeg"
+    width: 800
+    height: 400
+    isCached: true
 
 related:
   - title: "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT"
@@ -108,22 +117,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 66
-  - title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
-    excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
-    publishedDateTime: 2023-01-27T04:22:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/63d330454589790018e56915?width=1200&format=jpeg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Microsoft Officially Extends Partnership With OpenAI"
     excerpt: "Microsoft has just officially announced that its partnership with ChatGPT maker OpenAI is entering its third phase, with a new \"multiyear, multibillion dollar investment\" to democratize OpenAI's cutting-edge AI technology."
     publishedDateTime: 2023-01-23T14:44:00Z
@@ -193,6 +186,15 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 42
+  - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
+    excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
+    publishedDateTime: 2023-01-25T13:05:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-gives-a-new-lease-of-life-to-healthcare-via-chatgpt/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 38
   - title: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake"
     excerpt: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake - SiliconANGLE"
     publishedDateTime: 2023-01-23T19:00:00Z
@@ -240,6 +242,6 @@ related:
         height: 675
         isCached: true
 
-secured: "gep0c2JpIqWJQDJQIcN44m5Djy2r1Ae9/jSA5T33Q22Moh/Ipp9HJtvYfnuW29YdEafOHpVAKenyyVYkDqFn+qNl7gBO9yMP3pk09tQlLEJ3hp2sImCvtK5E1OZE3Di75znA1A39wQAEv4SNhJIAn2hglz9PMPxjBUor72MAPWvOCPPuBo82TWUtRykyHbyw74fAjUay4tuD84H484fA7CSDi+9Zc7to02VDyYZZ+3AklBA7AeIWM8YLrMeu9HeawtEaCiANS0LnV4MSNklu5GpVHlMx01c2iCQcSMnyIHUGGt3CduFqaVfYdbz+51ehJOPZ3dcmeVEAj7pd0iYro48JORnx5oidpFq0iOCT404=;S7FtC23MyeQFLNm3SCcXfA=="
+secured: "FrRT+Tgn5M8fULK+FYRWo8ciIhRGMWs0j7kCWjGBfsV66jrZw8Z/2WjEFbMxlfFputVKmgzPDEeHvjUILQx4J2Og+OcH8mXkVTTIPZQhe0WBgyAops+P111XA+R89MVPdrucm3j3S5n4nuJbhf4wz0ZbIAGNjzkAAiIGxzQ/7zlYSB1Ati6q6FapUj8zWlzCkHwru8JPr9+SfS997QSiLE2Z5YFQShzL8E3DdD1JkT9f7IMhpSaVAYy/FLVbSm/XxYpjHU2F1pJweRU3IQWzI2mcLlVI4cNCX3aYts4aL+kP1SmxurjyxKImttMP0NHTp7c+wXwHHOGAU1jNPrNSVfg4veqOd3pifNHDhPnaC4E=;yq+0Oze92fkybEa5mc026A=="
 ---
 

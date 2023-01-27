@@ -3,10 +3,10 @@ category: news
 title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
 excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
 publishedDateTime: 2023-01-26T17:08:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-webUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+originalUrl: "https://www.cbsnews.com/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+webUrl: "https://www.cbsnews.com/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
 type: article
 quality: 74
 heat: -1
@@ -17,8 +17,8 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png"
@@ -99,6 +99,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ry/1EzG300pDOm6/saCPBKP6D6qCY2Gh2OI62vy59FiDTlrYaGD9v16VJ/9PyMxhLvLauJUA6gqg9zBDWlnkqdO1OTpjFzBjWH0MP6eI2hdbF+XJnp8YWP08XvtcE5hvFjId/GUxdeRs1mljDrmaupGAIGnQluQehgVZ2AA4QeJvOleu/ZVgSQAdXOKRp5LOuvD9GOzypBjWeM9/HYrCni5CaaPCgKu5dDQNXpNUXI06U5CBDYWtQhKHs7lAFx087+7GQkX27kIfverAbyc1srwzU8FhAnxt7wHY/Tjb2Vr8jVGLr5a4it5Vkbr06jDhmo2EM0HFXhXJUSMaGAH1jVqo0C7FSBKR+CZ+jJZRBvg=;iziiAVOA88UDzmYiOkO5gA=="
+secured: "jiHZE2y/jr376rHDJc0HE+WDgsZjy/ls5zpzPb0l85pZ4CyuEkYS/iqInRd/6t/kI1G8Qruo4U+Qrf0/iciI5IGLfXopDBtArpCLjeYhBwIaFgkfs7JpzHnMsE1ep0XOCIASFBjYhRMZXN6ENw8xUsp4XzLXcbXkrM0VPxNRy38mAc48fnZXKHf3Gbde1aQXayS9SSqNB16gUiIQTdSrLX5WeA9J4IyScjIur2hp+ZG4bLOi+yMdiB54PLSweKNlt149HpNsffGBDh9bNAXYDn8L3oaIdyZY6aRT/eDjOLYbRYLdmI4mlfU9EGL7nPJt5xQyyOk5oJ5kDdtcLkiT8N7pOgo/TizW+EYJlDsCSOo=;0y/spCuC78wBa3/sJXyb/A=="
 ---
 

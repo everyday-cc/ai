@@ -8,8 +8,8 @@ webUrl: "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-
 ampWebUrl: "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html?outputType=amp"
 cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html?outputType=amp"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Healthcare
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XWUW53UBSZCWTILTHPC3NLOC64.png"

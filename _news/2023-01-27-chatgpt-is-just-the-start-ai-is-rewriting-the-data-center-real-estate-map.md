@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-27T01:50:00Z
 originalUrl: "https://www.bisnow.com/national/news/data-center/chatgpt-is-just-the-start-ai-is-rewriting-the-data-center-real-estate-map-117396"
 webUrl: "https://www.bisnow.com/national/news/data-center/chatgpt-is-just-the-start-ai-is-rewriting-the-data-center-real-estate-map-117396"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F01%2F63d31190ee587-pexels-tara-winstead-8386440.jpeg&width=1200&sign=ksa2s85Cfnmm2JF0eU-1VRTJ3mMhd2rji3AWMwYfTdc"
+    width: 1200
+    height: 816
+    isCached: true
 
 related:
   - title: "AI ChatGPT is helping CEOs think. Will it also take your job?"
@@ -36,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OXeQPvnkuskHeNimtCdHiOLnwK17zW6BCSw5y40lAy5Cmewky6JxvU3QAnoJU9/YXAmzwTopg5VvD6xsYiGXcZ50+XJqtcwYx8orx7X0s+dLT/NyEkWltQh7QKqzp+Mfe40CNl858CYaACi5MOghbMzCkXzKgLr3HUUZRUVZc9/hC8n2D7AUnexhg0TuSVZKmg3OzT0VkHUWdSf3VyTq8pZeHq/Qu3mc6sbkW9bHU3h7tHraJL1alg28PjOLRVmpYnCX6M/qKDNrw3KcCjSizgu8cUrn4v387U18e6sd4X3xFBThxmCSA6bDUIxvna0DDOVLueOdRMuBtrRS9PzevRXkn5ZIy9eMqtpT/BGGsgtqWIXOOj23Zbz4hHdIAjUH0KtrzsoZF+SqHnINxJC+oli7N8ngdbO9EppPFY1+VpSl4Y7j0KNPIKPPtqpWTAS+vYI7F93rFf2Wucg0KNgKW2gkTw+urVbWn48w6h+7gS3CtqOUShvhf+hRmJTIuqnxVL6NY9Nm9T2wz2QLUVGz0Q==;dCkRegUZCuLGwhVCRq0NeA=="
+secured: "ofMpb6dKdkH2muNuE5rLBJ92BlCqjNZSVAil2nhVzumftKXFoIwf47DuJezdKBSnyUGccnGPnhHb2zYJCz69k65IpWFE1BcfHsSug8LOqiOJhnKH1ZTs93D2aCsx2hQkho21z944owYxM1wJ9UT9Xfe4zCH4khwxkuAyXD/Sq/kZaoJ8w8pOZcc0ARBuT2paM/RGqvNyP+c14qaolHVHR5uhDsiG+5LJA+i/kxVT++PxSGjRK6cFsSnzt1Yh6r2YHdj5B+pJxgXcPiOO3K3K7MdpZ/msvm0LlNHfaIycUYwModtOpfiDd+/8rNzGjDb0EoKQyQiJu006+CtrddRLUHOCz7I5yyJsJgykYfSr2hs=;IqPUDwUEfKN8ohm0ykbGuw=="
 ---
 

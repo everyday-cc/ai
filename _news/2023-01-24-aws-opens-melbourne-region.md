@@ -39,6 +39,20 @@ related:
         width: 509
         height: 269
         isCached: true
+  - title: "AWS Launches Second Infrastructure Region in Australia"
+    excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
+    publishedDateTime: 2023-01-24T04:28:00Z
+    webUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 39
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82691.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Melbourne now officially open"
     excerpt: "Amazon Web Services has announced the general availability of its Melbourne region. This will feature three Availability Zones, and is the second AWS region in Australia. The regi"
     publishedDateTime: 2023-01-23T23:18:00Z
@@ -77,15 +91,6 @@ related:
     provider:
       name: ITWire
       domain: itwire.com
-    quality: 19
-  - title: "AWS Launches Second Infrastructure Region in Australia"
-    excerpt: "Customers will also have access to advanced AWS technologies to drive innovation including compute, storage, networking, business applications, developer tools, data analytics, security, machine learning, and artificial intelligence. AWS also released an ..."
-    publishedDateTime: 2023-01-23T23:17:00Z
-    webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/aws-launches-second-infrastructure-region-in-australia"
-    type: article
-    provider:
-      name: Financial Post
-      domain: financialpost.com
     quality: 19
   - title: "AWS Launches Second Infrastructure Region In Australia"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastruc"

@@ -236,6 +236,59 @@
       ]
     },
     {
+      "path": "_news/2023-01-24-artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.md",
+      "title": "Artificial intelligence chatbot passes elite business school exam, outperforms some Ivy League students",
+      "excerpt": "Chat GPT3, an artificial intelligence bot, outperformed some Ivy League students at the University of Pennsylvania's Wharton School of Business on a final exam. In a paper titled \"Would Chat GPT3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
+      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
+      "publishedDateTime": "2023-01-24T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028.md",
       "title": "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028",
       "excerpt": "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison",
@@ -298,7 +351,7 @@
       "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 258,
+      "heat": 268,
       "tags": null,
       "images": [
         {
@@ -1358,41 +1411,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-starfish-health-and-wellbeing-teeside-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
-      "title": "Starfish Health And Wellbeing Teeside - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
-      "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT ... Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/clinic/starfish-health-and-wellbeing-teeside/XAEY03/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
-      "originalUrl": "https://www.nhs.uk/services/clinic/starfish-health-and-wellbeing-teeside/XAEY03/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T19:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

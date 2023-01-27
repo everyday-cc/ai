@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Launches Second Infrastructure Region in Australia"
-excerpt: "Customers will also have access to advanced AWS technologies to drive innovation including compute, storage, networking, business applications, developer tools, data analytics, security, machine learning, and artificial intelligence. AWS also released an ..."
-publishedDateTime: 2023-01-23T23:17:00Z
-originalUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/aws-launches-second-infrastructure-region-in-australia"
-webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/aws-launches-second-infrastructure-region-in-australia"
+excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
+publishedDateTime: 2023-01-24T04:28:00Z
+originalUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
+webUrl: "https://www.businesswireindia.com/aws-launches-second-infrastructure-region-in-australia-82691.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82691.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AWS launches new Australian cloud region in Melbourne"
@@ -96,6 +102,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "TOab/Rcpr7W6l8YAbQfuTaqPTsNkH/3PSgwD5E9llA7c4GiinJi413lIQXs3w6qCX5jqgp3WB6o3Pi/PgldAVyoa/W7wRcYJcVzuIVewnj+KLugIqJLp50wv7HREjckhiD7x/zBV+XZMWMe+55oowzvx0Si0I2TZSpQaBta2KKlriYaTDrUgtqKJxP54S0vYX6MMX1rowLLnUlJJKdCn6bZK6yPRuM8a+7DzHYsON0zrev8XWoZvNbfBBcVRss5n8m6UGJ6zu4FOIwXAgaKSVBrLjbUKDJuHiJVZIbg8T69srLEjIOZJGlE0LpyxASF+REcNdV2xRNbZc5q03ez7uXpJFToDDiV5SS/bVQlCISk=;6DHFCNKYgo8YnS3kNrSeOA=="
+secured: "zEXcHaSl08EQ/Lhp9wP2SnB55X7hoqwrt27NVeKLflvir3eX6WzEJd/hFPEnT0PMXPfr3EgvR/9rfD+uQIN30IUWW0K96fKgU0U4xddsaZ/uClQ6IYSXafOzjh8BBNapxl/gFEZ5V0SgBARI+xsBQIX7EfbTxkqQW11zrUUM7/ZXg5e7kHqI6Fi+GSs1NCcFbORmysOqUawTaS2GP6uJ5EptKeicA7OQIL36eNYJ3qi67+uF88Lnzc7mFtLBps6bKBGecAz9zBW6xTYVsD/Px2cD05GFV07UhksRN2E5gdVUqT67FqYv6DZj29zXSiI+aDU4XB9bCEEQyjr+ezClTdzFYg74Pw/xTfdixDWnyvI=;oISu/yIjRUVDkW2cBe+b7g=="
 ---
 

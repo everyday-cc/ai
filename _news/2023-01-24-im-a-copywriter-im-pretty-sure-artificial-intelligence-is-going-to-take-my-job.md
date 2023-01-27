@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificia
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificial-intelligence-jobs-economy"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jan/24/chatgpt-artificial-intelligence-jobs-economy"
 type: article
-quality: 52
-heat: 52
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://i.guim.co.uk/img/media/ae0b5321d2fc84b18a5b63e9990c08535d998472/0_416_6240_3744/master/6240.jpg?width=620&quality=85&auto=format&fit=max&s=f444f318bafb12a9cd63c6110e7f9490"
