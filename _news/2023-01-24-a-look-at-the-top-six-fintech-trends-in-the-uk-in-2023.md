@@ -137,6 +137,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "How this fintech company is leading the charge for financial inclusion across Southeast Asia"
+    excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs), even before the pandemic."
+    publishedDateTime: 2023-01-27T04:27:00Z
+    webUrl: "https://www.malaysiakini.com/announcement/652981"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 13
+    images:
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/01/f834d51133cc36aa4d200d1e9d646200.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "The Emerging FinTech Trends That Will Shape 2023"
     excerpt: "Here are some of the financial technology trends that I believe might be key in shaping the sector in this new year: Open-banking: open banking has been at the forefront of fintech trends for the past few years,"
     publishedDateTime: 2023-01-25T18:33:00Z

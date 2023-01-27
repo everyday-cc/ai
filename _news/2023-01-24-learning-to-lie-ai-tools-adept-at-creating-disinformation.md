@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 638
         isCached: true
+  - title: "How cutting-edge AI tools are remaking history"
+    excerpt: "From seeking lost tombs to restoring pieces of art, AI doesn’t just generate new material – it’s helping us better understand the past"
+    publishedDateTime: 2023-01-27T09:37:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369950/how-cutting-edge-ai-tools-are-remaking-history"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1674811132/itpro/2023/January/GettyImages-830982288.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "How Artificial Intelligence is Transforming Banking"
     excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
     publishedDateTime: 2023-01-23T22:57:00Z

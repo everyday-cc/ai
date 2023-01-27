@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ChatGPT could be a game-changer for marketers, but it won’t replace humans any time soon"
+    excerpt: "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the"
+    publishedDateTime: 2023-01-23T17:49:00Z
+    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/01/23/chatgpt-could-be-a-game-changer-for-marketers-but-it-wont-replace-humans-any-time-soon"
+    type: article
+    provider:
+      name: Winnipeg Free Press
+      domain: winnipegfreepress.com
+    quality: 0
 
 secured: "eWw4BwHk36OBSV1SXEsWxNPNTq9uGcqT3AKr45eC10pXWD61cE/k08eRo0QTVwor7+TplO14qxQTuJFvhtPEm+Y3mssSf4vC1/++Q2HoxlkcyZBOw+3j3enIS8LiMVU59N6nZcNwzv5zryeRztrHf9R7irCQ8V5mXNugB3ngqqSRVEmMs9dkBvuSwuHU7aU3bJFUlbCDfrbNu3jMHPEDGnihI5pkt+eIzh298sZr757xoPr1+jye5iDg+pykhZ8S5ykrXwlNAMqd6dnewgyyAJxwYxIusDOsphWHKcL5v3U9UykscEbgKG/NgyhNvi0ToMePygslPrthTfi9B5S22NfvkmpQjHgUpOJUNNbmqYxiUGz5R0122LJ4yPcnIqqoxFar5hEciFsnwMWVER94gmmfJwXFzWdBr4vlVfO+YtM7APmj/wMlw+g9IGyrz4jvSFR3HXqOJnkgAK0r01bnNSVLIfaHxti0bHy21vGaf/9Q/OPYyJoj06WxpVv4JmJhgYV7gJv51FvYaTo3ve6cYg==;zgYghVQ6i60ENoktzumPHA=="
 ---

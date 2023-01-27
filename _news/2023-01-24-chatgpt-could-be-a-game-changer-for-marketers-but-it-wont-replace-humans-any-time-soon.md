@@ -19,35 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "AI experts on whether you should be \"terrified\" of ChatGPT"
-    excerpt: "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code."
-    publishedDateTime: 2023-01-22T17:38:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
+  - title: "Opinion: ChatGPT could be a game-changer for marketers, but it won't replace humans any time soon"
+    excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest. In essence, ChatGPT is an AI-powered chatbot allowing users to simulate human-like conversations with an AI."
+    publishedDateTime: 2023-01-23T17:08:00Z
+    webUrl: "https://techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-opinion-chatgpt-game-changer-wont-humans.amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 63
+      name: techxplore
+      domain: techxplore.com
+    quality: 31
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/chatgpt-could-be-a-gam.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Chatgpt Could Be A Game-Changer For Marketers, But It Won't Replace Humans Any Time Soon"
-    excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest . In essence, ChatGPT is an AI-powered chatb"
-    publishedDateTime: 2023-01-22T18:26:00Z
-    webUrl: "https://menafn.com/1105462407/Chatgpt-Could-Be-A-Game-Changer-For-Marketers-But-It-Wont-Replace-Humans-Any-Time-Soon"
+  - title: "Is ChatGPT a form of magic or the apocalypse?"
+    excerpt: "The new generation of artificial intelligence has ingested an internet’s worth of data and generates content that appears to be magical. It might also be a form of creative bankruptcy from which humans never recover."
+    publishedDateTime: 2023-01-23T18:00:00Z
+    webUrl: "https://www.afr.com/technology/is-chatgpt-a-form-of-magic-or-the-apocalypse-20230117-p5cd4p"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2023-01/22/TC_06612image_story.jpg"
-        width: 1250
-        height: 703
+      - url: "https://static.ffx.io/images/$zoom_1.0347%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_248/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/17c81cf72fe7d0573f6927940263850e594b7139"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "nACbvrmO3JTdKu2QVuC7CSUkwqLws/w11tLdqoTBCzd2hjQ7U3eSsCT4DFcdynjPOSvSh3uv6daBj7ePFkyYnIv8u/9XMz2qtHD51nV8uSCADsGu9rAHhL5mxMNYaNhs6MQrTPROIZlpdqwV7PcfM67az1K2n4pxcx3/seG/fiTKUesgrxB4WR8W3FJFsmMw5cC0ayDCqsowt6GXyp7ZpM6UJFbJIv2W6PD4HZWM4bqp6SWjt/vjIOUzwiJ93hizJrjDLe66Nuxy6nBlwFCumMuOBMIMWOCZJvS0vOTbWEC+2ahOKXpnwZg23grGAYZ5dx4JayjTEaxLj7BskcdxvR5oIvR1CwEV+PlBoEPC8wg=;jseoUwEbugXuH64aOrDNFw=="

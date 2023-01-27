@@ -33,26 +33,10 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Musk oversaw falsified video of Tesla 'self-driving' capabilities"
-    excerpt: "In an October 19 call with reporters and in a blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. “Just want to be absolutely clear that everyone’s top priority is ..."
-    publishedDateTime: 2023-01-22T18:48:00Z
-    webUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities"
-    ampWebUrl: "https://driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/musk-oversaw-falsified-video-of-tesla-self-driving-capabilities/wcm/1f7124fa-fc10-4006-8be7-0fef12fde9bf/amp/"
-    type: article
-    provider:
-      name: blogs.driving.ca
-      domain: driving.ca
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/09/Tesla-Autopilot-hands-free-autonomous-self-driving-2.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
     excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
-    publishedDateTime: 2023-01-26T22:03:00Z
-    webUrl: "https://electrek.co/2023/01/26/elon-musk-thinks-not-smar-dont-teslas-full-self-driving-claims/"
+    publishedDateTime: 2023-01-27T10:04:00Z
+    webUrl: "https://electrek.co/2023/01/26/elon-musk-thinks-not-smart-dont-teslas-full-self-driving-claims/"
     type: article
     provider:
       name: Electrek

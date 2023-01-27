@@ -37,6 +37,20 @@ related:
         width: 1199
         height: 638
         isCached: true
+  - title: "How cutting-edge AI tools are remaking history"
+    excerpt: "From seeking lost tombs to restoring pieces of art, AI doesn’t just generate new material – it’s helping us better understand the past"
+    publishedDateTime: 2023-01-27T09:37:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369950/how-cutting-edge-ai-tools-are-remaking-history"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1674811132/itpro/2023/January/GettyImages-830982288.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "How Artificial Intelligence is Transforming Banking"
     excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
     publishedDateTime: 2023-01-23T22:57:00Z
@@ -102,6 +116,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "etaR4XIjKp8ahwhCWUie5OGMOe3dphG2ysiUYVzzGzr5AMPD/ayGbeyoEqFjz6I17E36cpdVZyjIA+lDU2tJoUFPffceApUlmzJrPrTaL+sD78MCAcu7CW/yxd+jSiiTj/RZm8mF8Z8RkEckJ4fgH1tPqE/+9bEayprxq0d1kbGXHR/oBiFG5pm6EN8deuEz/PS7KV1cVnrGsdkTgUMtJPfnPusmmKYZYbOIZi4HMP/+dzs3PYKwvMSoJJNyd5W/RtKL+E6WpEnFkJQrQMVHtKXTde+bJZYGeWKPfBV8HxSs84fCpLqoKy5IKTaZO+ISyHAgvQPH2HRYR8/wt3PnNA9VUQEgy4DLU4kKev4O7gs=;xhSe5H58G+FXPCd9ne0vFw=="
+secured: "atjJGYQGJe9wdwQwt01tE4td0YtjF1ZHY2a2z+3NywZdPkFtRLX39qahS7Spx/Y128C5iIVIMK+bSJQVRCty5FGKme6MgZrSJQIJfi37YS09O4n98mIKpJu7JxvczXub78Ta0n/eOB/6fZEXnNAaSB+xWA2/iZw6VbgKrgK6R1jqlCgTyaAVbZzVsnD1Fi6tvtXoiJGsB75pOvcts0dQ2n7emvmMl43SSEqHKLJPA9Xp4ea8/5ilgZZ3UaBr/pg6crU2f5WWC46xLSlGqwAD6aVdjaDA+NBH/u3902WuBieZRZaMe8VpqOouWolgLBVv0JewZ54H+wIjECPl/w8MM3bBjbH7nkWN5GZ5N1WFxdI=;G7S4w9UwW1Pzk0Qr84N0Mw=="
 ---
 

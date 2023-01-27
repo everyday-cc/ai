@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-
 cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -98,6 +98,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "“Robot lawyer” pulled from first court case over jail time threats"
+    excerpt: "CEO of the New York-based startup DoNotPay, Joshua Browder ... being threatened with possible prosecution and jail time. The “robot lawyer” technology relies on a few prominent AI text generators — such as ChatGPT and DaVinci — to dictate responses ..."
+    publishedDateTime: 2023-01-27T10:40:00Z
+    webUrl: "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 54
 
 secured: "gJyW44om8g/Qpo1tZ3RZzk1CkgSJbiNxFRkScwndm4bIbX92tJ7l/e85PvCC8m1DU7SA8vvA2sKX03wjyWxS769jqxfYwe2iurhNUpF2BruY3J73ff7cB6wn325LmcnUrMpJF36yy/Bf+NMhLBM+A34F7zwb6q5W+EFSLoO4UiNALdRqhw8AEq3aQTwqWjmkrFxiuIjugu8YORyG5xJOIi1Ch8SPzmgQX/jLrUuYDl0tZ7JU4+V98iVxVqnIKNhIfDPWZMXTuPJzKTYXSN3xrPPxxReM22eXnuAlhVmg7atIhhpSz0mLlkNTwZ8QLHtr27GxM993CFDqhovTviAkuQyeuJYxddk1Y3AyNWSL90BB2ImSG+bGg6mHfV0lWXJ8oEA+0VzgGiXpIx7SACJ0TT5P5fId45VMT6pH3O6eQUhhQMdBcbquUzcyPs35nGFGRe1knoMza4VUAFBv0QmxRcDaFvqivfRsgls7o0Qvf+kRul+iKsDROArNlg8wYhvge09zefI3FTtFWPTkYJDJAw==;wfYWOgb9BMj7bn36ch1zPg=="
 ---

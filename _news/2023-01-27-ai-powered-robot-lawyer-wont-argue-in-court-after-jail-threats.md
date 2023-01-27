@@ -98,6 +98,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "“Robot lawyer” pulled from first court case over jail time threats"
+    excerpt: "CEO of the New York-based startup DoNotPay, Joshua Browder ... being threatened with possible prosecution and jail time. The “robot lawyer” technology relies on a few prominent AI text generators — such as ChatGPT and DaVinci — to dictate responses ..."
+    publishedDateTime: 2023-01-27T10:40:00Z
+    webUrl: "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 54
 
 secured: "YlveL+M3J+yu+VtvVt07/S3hLNt4nCRX9zQbR0e7REFNzuHgRWSywMhqhw16JLV+NugSA0FHTygDSYesTjn2btIwErHLy40Bl2mVhtkGcc9n6HxnK2uj8JpFQe7TUCybogC7dLwsECXxy7txqOGOM9t8PTAhvCJyWptL+ZY+xBeOQEM7Z+fxuowcQfPsagFFf+R9usbE9WPXsdqFNNfLly9Soe/l/p9FYggOZY4VMEr49r/sy66fyd4ccUgktoK2jsviNA4VGX/C7ajL58pdJAwPfGAF24/SlrIo7KwxmatncokzuUcDucovKDTwcMeXARmn9Cgf9fLcoIDlMECs6/iRZgh7qWX/5tEacEO51xWcBO21s6NN5+JuR+hAr/rRXW4y/FXPGiPT54c89at9/OaHly0WRmYcHXzYO73Cnt3pNpZt8/XYugo56wVPQuvnyvbDrCX1RifAtOPBkUGLw/nnpM+tS1tfWFrw2XcodAyp4T1JDcuztfNreNaPdB8m5kd88KKvy5/Q9P5eq37lrg==;TlrGe8T+eFIgtAVE3e1CkQ=="
 ---

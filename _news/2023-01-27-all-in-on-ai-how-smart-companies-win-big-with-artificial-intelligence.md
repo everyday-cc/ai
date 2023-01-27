@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-sm
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/"
 type: article
-quality: 104
-heat: 164
+quality: 106
+heat: 166
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200"
@@ -101,6 +102,6 @@ related:
       domain: edutopia.org
     quality: 19
 
-secured: "N7U+C+gXH27mr1jDE3XDz+fH87N2eZKsTz91+DgsVm9l4lvuUQJ6ehvqzihaGzmj/URKllmcz+uBzpuPU4zH38kG0WztANLqY2hcUoZSDYz997S4bAXiJWaFpX+Iehh7+N7hdlj31+p927S1jN881oVUrgPJw5rRVAVq9nSJFBBFPB5APKHQ3Ef3C2MzjIQ26xuqpb02hf0vyP06Bc19TvrMCllSPaQZtSC3s2gqkWKyRWLOiWqxLHMpMcRBDLsc6EVQctHaxL2eXgNKiYwPzkxpsb92yl114HUcQTNfO6R1R+ePVFsDT1KDzdXJydJ4Rza8H4v0TOQgBK8yfN/0foYrxGrSQWfyfuZaGBxHZ+g=;789SyiUEhRewk1L+lJrSWg=="
+secured: "/EJf51Et8y6S4wIS+Zlfr0C/evcxCLbk+F4t9wofi/4ZXGChREPbDIlqwa5vx+Uzs9h0j9fD1xKG1O1KCbdolcfYYwbT+3wVn66a9JMVBHfktgqW1hgzA+2G6uI6Z6giuS6VvVgH5nMEY+b+sNBH/siWuyBrzCoAuvawbQjt+cPEn/btXlSjZfu300Imi2N8TwCqKF0P70gyI+YtxEeqwl02ofBXJl5ilWyXIhYKcJ9PkxxWZZRQG2o+2TLjd7Hjc0ZiO3jb9JggEANMUzwNTSuY7333ZucMFIGLL64TgbNJ+9vtz+0mHfQdZ/UXiF6pWhcCAzPv3qgNoy91cFtE+rQ2t7MWxneqqD6iERHwGRcX8lBjq+S4OLff1wVLtdNs1oN5mcn4GevRYDulZCAh+H2QYlDaF/G2SJblHbe+3UEOspVlfsm7w9SFqlnIEnqNz8NbN/f4csSrpq/hFWcBv1IX4k4d/z2KF9U3hnAjiJWSfnm/J3TJEN2ECEODznSMiWEPg+6Vf8JrdIqqSYlJLQ==;Cth0a2WLYCdwZjw7DCfTeA=="
 ---
 
