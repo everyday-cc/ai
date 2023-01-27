@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/12/AP22354073907930.jpg"

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "DLR Launches Ground-breaking Robot Control Software"
-excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task."
-publishedDateTime: 2023-01-17T21:28:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/01/17/9744604.htm"
-webUrl: "https://it.tmcnet.com/news/2023/01/17/9744604.htm"
+excerpt: "BINYAMINA, Israel, Jan. 17, 2023 /PRNewswire/ -- Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control ..."
+publishedDateTime: 2023-01-17T19:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30449359/dlr-launches-ground-breaking-robot-control-software"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "2TvhZUTeKis5rMpgMNqeAw3Yqwd+kaP6KzE2WU5Rq71BXKlpKBG055aEhgMIH8XD5qJUo0wBIrBZsXsxIMunePpDgR4FpMXSgxnwkHS76OJIbV6g/nUeyvZsqKgKZM+2x/X5bPfCKmmQ0oKzJhnFiBs/bCN+A1vJXtDqYL1XlHuoY8Fk8Mhzj4MMno4KOfsWp8XIyTNUnfkd84fWG/mRnsgE3rY+t9eNKEbJ+J+WCPa83TPPGvItF1XzD0WzZ+/FHl+BaDihq+o7xz7i5OV1fRn2VHussjRP3/HjexdQ7wsqNdSr1HA/XW0SUbhFBGK6jKtmPJ+zrOVuRje0SU3Th/AgYigFz3x8v6G52FOyzJE=;F6v9KYhGS40kN+T+wOt0Iw=="
+secured: "6kNi+RuSuq2V6/FPSuoomChffuSU0bpF24wjLYqnjWVQcLXMPGj+tbukjDqv1Ycn1vaMLNES2mf+GFiKYibiNJccqfmfWYKjPx1YTQOcDmAvnus4DWE/p9QAzsT9iwtzakwduXJqFa1AfNumFNdgUMQYcfHaoQZuHqqGwdVWULRCwJFrFttiHCosrQuMk7XvVKKa+GgxEEspcd17v9/mlJV3GjZAX2rgCpdEjJvGqwPG87tzaPbOczAWnes3TP27rFBQWwVsJ0RoX4/yynkV4nBrQZg4BIS+CREphNq7gEugnM4J5CBD3N0NuGm1LDAnj7Q1FmJEDhpmW0V3xBs2LGLkO6tK+2pJp+v394e/2ZI=;v/aJneX177cGqO8yFGgE6Q=="
 ---
 

@@ -1,31 +1,20 @@
 ---
 category: news
 title: "DeepMarkit AI Subsidiary Explores Natural Language Opportunities"
-excerpt: "LLMs are artificial intelligence tools that can read, summarize and translate ... a wide range of AI-related opportunities, including machine learning, natural language processing, computer ..."
-publishedDateTime: 2023-01-24T12:09:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30542058/deepmarkit-ai-subsidiary-explores-natural-language-opportunities"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30542058/deepmarkit-ai-subsidiary-explores-natural-language-opportunities"
-ampWebUrl: "https://www.benzinga.com/amp/content/30542058"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30542058"
+excerpt: "CNW/ - DeepMarkit Corp., (\"DeepMarkit\" or the \"Company\") (TSXV: MKT) (OTC: MKTDF) (FRA: DEP), a technology focused company is pleased to announce its wholly owned subsidiary, DeepMarkit AI Corp. (\"DeepMarkit AI\"),"
+publishedDateTime: 2023-01-24T13:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-deepmarkit-ai-subsidiary-explores-natural-language-opportunities-/2023/01/24/9747873.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-deepmarkit-ai-subsidiary-explores-natural-language-opportunities-/2023/01/24/9747873.htm"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "OASI2GNCdURn0c6vkyM6d37kZXq7cqJRDKrWiIYpW4Ub49sffVF+kqJ7o0pdR/jIhpW0rTwVoqxJRRCfjF9gVokg6KJgj4TafEKZn0rUnJKdLsD20Ng5WTE0eM4DC+Cexe43Rkogv1MlOnMTZNu4ODTt/Vtu6cTA4R5d6nAEwEyfKLl5lGy5edNgxg7hj9YDy2R8isGL7ymkS+CZ9ewb+eGYuOoKrc0NardIWi04YEINlieVv+teM1y+cUXJfMyXmdijBi42qDGLYqj7eNfGSMA2Tx7UXtq9iB2HL0gl2ei+CrdGza6X0MkIRC6Y9ZZuEHaCY/XxOnIMbIgOlubTg3jCeGVMDhDmqjYCv4IZmmg=;lyp2cbY0H2MZ2k3gF+MY8g=="
+secured: "PqwAGkN7Pr6cPTCLl/41t+5z4bU1tfPGDbvkTKfYR5Qu3c3OlVzNnVXfp6h+4nA5d93YnFNIaeBWgbxqGUJV0YgBlCtIoncIEltaDKoKudtzKDxFMCjoXZjrhwAre7avm3R/Ddcg8CUgXdg6MjpGUOj1LUUCXgt/W41xC6JGnpNP5ynkSe2TyWY4oKgfesdybL1W/aAkNBJj+OaQ4sfMJOwQ5yHLLyrCOvaB8uO6A4dtTI6c65ufOaOi1ul3Ffj8fIHdaiuPljyKs63UXhJa3oJdBIRScDnyT0BNKPZuZeiLVXs9rV3X7S2Wy7+jIwgR0hWvMvx1Vwse14X5AA9vM2yn5Xl1LFlZU5hJuFJICPk=;F1ndUZEGOYAtKoH1rHt2Fw=="
 ---
 

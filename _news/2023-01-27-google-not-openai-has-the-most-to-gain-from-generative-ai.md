@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 related:
   - title: "The human side of generative AI’s gold rush | The AI Beat"

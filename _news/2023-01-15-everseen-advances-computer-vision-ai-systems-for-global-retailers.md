@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "JuOzfIbJIPXWXGdw/pOKadyhLmXB8Ft2Y5kr72ohdAOYsNh0xG6R4pDxCRWKZo/mVZU0m9f1EhY7Klic6+ekSKXJFOFYvj7iP9inOzgQThbD7rMIDJLW5PpUNMoFjuzAGDNLBZGKYTCcki/GazhLUl0E78fq9CrtNXrcDZtUDqEc5DyfaVMT5NCdnattUAYldTaUt40Rp+A6uDOGtNtXdS5dgFBag+xOGOnjmTmXJMjTFYJa4RM3JfmMg0EWYT5e5bWAZjLUmpGE6dZvIaogMIJHYzfo/PxPN507iBJWGD0FEfN/O8A+oc6YzFPux+vQdkCUlAvPTsApwmfN8+a1g9YoaOZ9avVCKLyZc2tKNN8=;EHjn5DMBFJ1DKF7sCcPU/A=="
+secured: "0nTS2AOLOM/tssKQWZP6wIe08C+tOtAh1ZNCmhvZVRI1hiLu9iYNodozfPPgw5Gjew0QLRfvYIzak0Ii339Le4e9fPh30pEx6py0jiyScI6DUxnrBtR7+F1w042yj9TcbItibccx6Nd0q2JQlK70vG2d6qjQwOfwE+i3i7iNbjf9yfq8tj8oa6XOn5V++tslPhm+WHR2MUMcR44i/H7hCfZOYpqzPc5HIa8vihayEayqtEQJpZsQx1oa75CkLw9202kIhSv9eJe8Oa7RRJASgi45/CLS8po94o3PH7vrdKrzQzxjGbao6ikJysvjOJfljJ0zHyTa/EQ0vGuwWEo2+06TOZ5U/ccBiTSUI9tP1yI=;/UjYkOG4fbpml8oCKB4MHw=="
 ---
 
