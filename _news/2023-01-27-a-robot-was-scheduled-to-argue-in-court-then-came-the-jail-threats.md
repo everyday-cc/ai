@@ -29,10 +29,10 @@ images:
 related:
   - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
     excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
-    publishedDateTime: 2023-01-26T16:08:00Z
-    webUrl: "https://www.cbsnews.com/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/minnesota/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+    publishedDateTime: 2023-01-26T17:08:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
     type: article
     provider:
       name: CBS News
@@ -99,6 +99,6 @@ related:
         height: 720
         isCached: true
 
-secured: "tOGe5CzUqIg2bF20nhOtlp1tt2o5aJ39mANyJTyzAkboVkLFuZChZTwilgTx8mZuSzNjAEgy2Oa2a8IMCGrk/rcYBMddyTUj735Ydq5zGuC5y9IKYTnI7xSfiO4jZP/TiRA62ASBKY17b125cZ+4xiFikzN5A5fHM30L3qf8Ap4ap9JKp9MhK/r59rqxqGdF9TZRgATS/qTRvVDDfG4O3xsBOEibydFWiBkzKAamly6dzpFinECvnHpr7ZIzijDT1b87xa7MueSAzncpZOTyZUX9ZihkiaK9JxB1ImX31WHpUtk+usf2SXfGA/pZvCLM+MqBiOAM4FigGj5IGcn5KSLadwO464hKGTmmbVjC/24=;XC5UA4G5cGC9a1LS72lvFw=="
+secured: "gJyW44om8g/Qpo1tZ3RZzk1CkgSJbiNxFRkScwndm4bIbX92tJ7l/e85PvCC8m1DU7SA8vvA2sKX03wjyWxS769jqxfYwe2iurhNUpF2BruY3J73ff7cB6wn325LmcnUrMpJF36yy/Bf+NMhLBM+A34F7zwb6q5W+EFSLoO4UiNALdRqhw8AEq3aQTwqWjmkrFxiuIjugu8YORyG5xJOIi1Ch8SPzmgQX/jLrUuYDl0tZ7JU4+V98iVxVqnIKNhIfDPWZMXTuPJzKTYXSN3xrPPxxReM22eXnuAlhVmg7atIhhpSz0mLlkNTwZ8QLHtr27GxM993CFDqhovTviAkuQyeuJYxddk1Y3AyNWSL90BB2ImSG+bGg6mHfV0lWXJ8oEA+0VzgGiXpIx7SACJ0TT5P5fId45VMT6pH3O6eQUhhQMdBcbquUzcyPs35nGFGRe1knoMza4VUAFBv0QmxRcDaFvqivfRsgls7o0Qvf+kRul+iKsDROArNlg8wYhvge09zefI3FTtFWPTkYJDJAw==;wfYWOgb9BMj7bn36ch1zPg=="
 ---
 

@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "UT launching master's program in artificial intelligence"
-    excerpt: "The degree will include formal AI ethics training that was created by the Institute for Foundations of Machine Learning and UT's Good Systems project faculty."
-    publishedDateTime: 2023-01-26T22:18:00Z
-    webUrl: "https://www.kvue.com/article/news/education/university-of-texas/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
-    ampWebUrl: "https://www.kvue.com/amp/article/news/education/university-of-texas/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/education/university-of-texas/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    excerpt: "\"The degree program is pending final approval by the Texas Higher Education Coordinating Board,\" the release explained."
+    publishedDateTime: 2023-01-27T00:59:00Z
+    webUrl: "https://www.wfaa.com/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
     type: article
     provider:
-      name: KVUE
-      domain: kvue.com
+      name: WFAA8
+      domain: wfaa.com
     quality: 59
     images:
-      - url: "https://media.kvue.com/assets/KVUE/images/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5_1140x641.jpg"
+      - url: "https://media.wfaa.com/assets/KVUE/images/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

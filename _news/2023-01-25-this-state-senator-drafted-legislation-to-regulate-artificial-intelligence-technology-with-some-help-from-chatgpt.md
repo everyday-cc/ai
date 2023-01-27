@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-24T18:45:00Z
 originalUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
 webUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
 type: article
-quality: 0
-heat: 0
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Autos
 
-secured: "o1ds6Hy7MNhtu2CfkVnJfwKS+zluMwfOPDpUVYUJifhwyEmbYQmN9Iij8N96hC9rkXRzU3YTUZGz2jvis3SJ8gKewy0l7gEqG4suelKGB+npJiEmi8LkgAQdDnF+k93IWMb/2eTHapq9CAQvdxC/z3Veb8PlwZ+VYJzvRLP6M+12MMww2/h+TsV66cHJvYUoRmFx+jTvqFLJxmqEbp5gylaDWjOXD+5w1TJg5Olk91ApPy+M+rZ5hJd6jOrl1RM9iBvY07BzyW8tc1e4f8dK0Dc4bF3to9qV72h14utyZ18j1W5ZBrZlvvyIE9p0SYS24LLwsnqz0V90/b/vINNseadtXfXpMJdZ6KiZS48ZPnhFjO2UjjWezk7rd97fHNEq4h/EgTpnIG+b38QhICpypRBcWaWh/mhNOBzru5Pu+Hm/++gCiSCIA4ZvpRy78/9jvKjCUEY5QWN+zUqhQDj/DoIfMj/q90q1tZbia5GqkhklF0c4oaeQbeNm2FuITUmG3504eb1PXtNIdnD/i/UZ6w==;58qhLO6mPc9i4ndtLxzJgA=="
+images:
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1dMqR9uZP_2o0vW2V28uamoq-6g=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/Y7QS2BYEP2F6JPV743MMEXSJRA.jpg"
+    width: 506
+    height: 337
+    isCached: true
+
+secured: "tqTUEjspJwhhzLD1ZepSbLiRjt+Jg3pIzEPWbC/kcGxL5MywZF+yuZmcBy6kbJaAkcIEMWK7AE/RPVdUBm1vZ/cFAap7mA9gyxdh00xv2xQSZ9ooS0bPKkYxlil0YADWjqA9E7ZzHtYchdnFtPDyVC+OFjItiBWT0wIunLZ1KmQAxjBJRaTx59ASg7paQwfHiMrDwtpvuHO3wqIy/re3cyoPF+u8f3MW4mL5OZwSReECoyC5TPLaxtuGcUTXX/AGb1D2l0c0mhBaARjFSvj8lKCchwU35PDi+W/3VGit94xPzfm8MjBo76icLlUGWXogoUweUehy2KQyuy2eCD0LuMBwPVbgRe78KyeGmt/rh04=;+RG3QdJkTfZS8MVvZSKcvw=="
 ---
 

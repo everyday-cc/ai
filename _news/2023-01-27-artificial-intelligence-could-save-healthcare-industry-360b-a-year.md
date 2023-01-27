@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-26T18:33:00Z
 originalUrl: "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-savings-harvard-mckinsey-report/641163/"
 webUrl: "https://www.healthcaredive.com/news/artificial-intelligence-healthcare-savings-harvard-mckinsey-report/641163/"
 type: article
-quality: 54
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.healthcaredive.com/imgproxy/0nifuYNLN-SLqHIAf5t8DSf-6bJ0H6dZL3Ph70ad46A/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0Fkb2JlU3RvY2tfMTMxNzk0NDYxLmpwZWc.jpeg"

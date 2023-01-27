@@ -34,7 +34,7 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 106
+    quality: 108
     images:
       - url: "https://static01.nyt.com/images/2023/01/23/multimedia/23microsoft-pkhc/23microsoft-pkhc-facebookJumbo.jpg"
         width: 1050

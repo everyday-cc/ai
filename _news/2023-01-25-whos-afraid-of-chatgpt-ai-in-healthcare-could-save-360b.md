@@ -7,7 +7,7 @@ originalUrl: "https://www.mmm-online.com/home/channel/whos-afraid-of-chatgpt-ai-
 webUrl: "https://www.mmm-online.com/home/channel/whos-afraid-of-chatgpt-ai-in-healthcare-could-save-360b/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Healthcare Dive
       domain: healthcaredive.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.healthcaredive.com/imgproxy/0nifuYNLN-SLqHIAf5t8DSf-6bJ0H6dZL3Ph70ad46A/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0Fkb2JlU3RvY2tfMTMxNzk0NDYxLmpwZWc.jpeg"
         width: 770

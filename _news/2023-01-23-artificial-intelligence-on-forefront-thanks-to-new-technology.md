@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wptv.com/news/political/to-the-point/artificial-intellig
 cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/political/to-the-point/artificial-intelligence-on-forefront-thanks-to-new-technology?_amp=true"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: WPTV-TV
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Technology: While AI fascinates, it brings up questions"
-    excerpt: "Like any technology, whether AI is a net gain or net loss for society depends on how we humans choose to use it. On the positive side, advancements in AI can do things like help doctors to diagnose illnesses or help scientists combat climate change."
-    publishedDateTime: 2023-01-22T11:00:00Z
-    webUrl: "https://www.tennessean.com/story/money/tech/2023/01/22/technology-while-ai-fascinates-it-brings-up-questions/69819021007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/12/19/PNAS/6d276d11-9f5d-4c9e-861c-4bc059ccc693-NASBrd_11-19-2016_Tennessean_1_B002__2016_11_18_IMG_laptop_1_1_QQGF5VQU_L922754430_IMG_laptop_1_1_QQGF5VQU.jpg?auto=webp&crop=506,285,x0,y25&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "mDeHJkWCAVP87+wPKz8X1BfkLeNenRS6Ydv1M9XGClrUiMxBY1D4NlTkWuV1XhOJ0ayOveyZFK+/lKs255S4kM8vt/5+C9HSYJWtQAoiYl79JxJ/A9hvUYLHGO7r2E8oBuAdokC8dKJRpr/2oJX6zjU+2q1IQbbsOIrp/KjlQQq2vgG/Rd1hRK1OFmu4MScXk0pHWwkIT6wJLqA+OQYmGwydroUqztjAP5ga4Q20sYy41LG0Z9gEa1DnoG13Ke5ux8k/TTfDiaOzhHJV14gC8J/JCLKPZjZllfZdeJ0NY1ls37iPldGXB9bXrCILuYoHVzBUj5bY4gUdLUqSGRFTfytNn56Ejj+7yVnXZkHFbpQ=;8Etk6LQN6e/1R4OWKqovVA=="
 ---

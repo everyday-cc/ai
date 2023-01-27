@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificia
 ampWebUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
 type: article
-quality: 106
-heat: 256
+quality: 108
+heat: 258
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Healthcare
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://static01.nyt.com/images/2023/01/23/multimedia/23microsoft-pkhc/23microsoft-pkhc-facebookJumbo.jpg"

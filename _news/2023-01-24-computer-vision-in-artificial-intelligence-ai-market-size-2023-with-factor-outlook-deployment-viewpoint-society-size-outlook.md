@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-24T01:16:00Z
 originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-23"
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-2023-with-factor-outlook-deployment-viewpoint-society-size-outlook-2023-01-23"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

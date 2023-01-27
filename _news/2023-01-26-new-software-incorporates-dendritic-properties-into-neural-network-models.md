@@ -1,31 +1,29 @@
 ---
 category: news
-title: "New software incorporates dendritic properties into neural network models"
-excerpt: "FORTH-IMBB researchers have developed innovative computational tools to unravel the role of dendrites; complex neuronal brain structures with a key role in information processing. The new software allows the incorporation of important dendritic properties into neural network models."
-publishedDateTime: 2023-01-25T16:07:00Z
-originalUrl: "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html"
-webUrl: "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp"
+title: "New Software Incorporates Dendritic Properties Into Neural Network Models"
+excerpt: "The new software allows the incorporation of important dendritic properties into neural network models. This work has important applications both in understanding brain function and in the field of artificial intelligence. Deciphering the secrets of the ..."
+publishedDateTime: 2023-01-26T01:15:00Z
+originalUrl: "https://neurosciencenews.com/dendrites-ai-neural-networks-22366/"
+webUrl: "https://neurosciencenews.com/dendrites-ai-neural-networks-22366/"
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Neuroscience News
+  domain: neurosciencenews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-a-step-clo.jpg"
-    width: 1500
-    height: 1584
+  - url: "https://neurosciencenews.com/files/2023/01/dendrite-neural-network-neurosinces-public.jpg"
+    width: 769
+    height: 513
     isCached: true
 
-secured: "ht4GnhnFx5SKrK6AILgo2RJ2BKElHhLv2lZ+IWcoTd1bUMjcb/bczf8MsYBBU9NO4Z0GQmUW69IB4QWSAzgEjgNd+2j+c1F6GVbigMNo8Fy/DB+eXABzoyMLr0OOxA319Xj2pphRT1DtTBlxcgtvpr/MfJghkENsyPef0nui9y5Y/l2PhgeGNxHsk5PXqMfCR1BfxCKLs8QylmLPzZuZVl/QOXdfZMfAVRBobS6wp97wKHRVsDfy7/s4IIZ7lJ64Tv6SHVVsgkA+Rl24AKt4wP7j316p7eKqCMKn5q8AIZxZdsyepXVkh9vqvMgSBRkarG6JAzPRO2icJXDw8k4/rBeIqsKMbHFuJQONsBtvizLqtADObQ0VJDK3e9ItPLzeT7O1sfLSv+UboEwhbWJsUMWOIqWFToF6494NfcTuU621IXCLzdICiHmlJDZccz1r4svNNJF7e7lyFux5Cb/1u3+gxNKNZzF2hJ3pPquEpSjBgzy3FZFDdFwePng5Vu55KMDlWVL6vYnzveFgK4zQvQ==;MoblhmrFiDl6+3mdO53KYQ=="
+secured: "O/wupa0c2CeZqfvHWiS8wD4FrR91QtKsxXYhvL5cNlrt9OmcnsRJQp5rD2dT1n63YwliFt1NUMf5US0QWybDXTXYHXka5Q+PmYeLkEAUz2bpIwBj7zuMAZRNF9HOY/+LdUch4jLR5WDwWXLCoNWNP0H/ufQCr3DfDmxo3iDPk7FTe7gQV4LhDVcXjoc3zuTQTCdy5FOTFxVt6xctGXxvd6dQ3Sm9tPyXBEPj9YEReH+VhKoStOpQpgPCqJLY3/4cinbt28mPDQk+KtUzlLfPO+tgTykP7AxZm1O8w+BblaE8ihwbwAjc9P1luf5vnUC7ZnIXShI/CRpaxDNAHehkdD/NJDweCHRTbHnZpS0RdFM=;IuIFt+LSX073HesnpzH5Ig=="
 ---
 

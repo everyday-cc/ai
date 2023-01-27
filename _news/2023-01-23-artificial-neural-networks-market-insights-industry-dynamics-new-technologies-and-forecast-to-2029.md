@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market : Global Market Growth, New Trends, COVID-19 Impact and Forecast 2023 To 2028"
+    excerpt: "Jan 26, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in the..."
+    publishedDateTime: 2023-01-26T23:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-global-market-growth-new-trends-covid-19-impact-and-forecast-2023-to-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data and AI Ethics Market Growth, Trends and Industry Forecast 2023-2028 with Top Countries Data"
     excerpt: "Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected"
     publishedDateTime: 2023-01-25T10:48:00Z
