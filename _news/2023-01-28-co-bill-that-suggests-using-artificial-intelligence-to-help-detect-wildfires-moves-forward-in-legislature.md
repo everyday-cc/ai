@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bde9982c-2a76-46f7-b0b5-c18e3df1c055/29e73dbf-bb1f-476b-a5bc-48b588c0eb99/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -88,6 +89,6 @@ related:
       domain: abcnews.go.com
     quality: 17
 
-secured: "/mmiJL3JJwzzbrRIeH4dzdyO96q4MwvR4EHW3FjVrNuj6ber6DJUfIQKSs7/T1eIQZ3uk5+yBr1Icftku+d6hSxVFj7LGkl6sT+2clp8X2SeGvbjxkwMy27N6red7sLZG/PkCs6hte1MYIOMIu4EbZ+5Wy4meFIh0RFqdLq9w06UtmHl+WgoFGLGCsCPfFp+zn+Oh5KALU58mYsSmolLcdhVBxkQTx4za5wPBRvRQZp2v4YmnczI8bPAF2RUg4vFlwCeRfPPAd2TGUyaA1u9AIrJg+3uHUv+EfK6HDFyRuC9aoW/y3TFxgSdNeFstnU4AhSP6XNwjX5DCLj9FIT3S4n+NMRkOYfXpq6qilH7kGw=;/wo1pA0DWSPmNMXqhFGDzA=="
+secured: "+WSZtPVyYJkzpZzwlhKiCAi9OChkAxSUcGsbtbMUKROeh5Ilxre+7JSNSG/YqxE8hN2clSgclPPMtUUpRM3YOy4uOGdBPuHKMU0Yh2agnDm5PJf0VOLxacXBAaYp4xhU/5vqRMNL/N54RtK+pmD9xsfwmiAToQcaM4Xsx9C/k5JVOn4/eo1ucmVEkzBLCXGPX3gVmqcZaosG8RZ7lYDZ1VFvnFgJBiYJVIsCUTxQljomqHcm0SQI5TXz+rFXqHjss8t+3f9YJBZBzGZvKjvbFKQAMPNLbsBoi8xd10ZyxdJAUwZGKXSQxWxjqcK10FT6NaVwh0UJht95smaAxcPqqQimdqgkowBd5nSf1zT944Bjy4K/aCXNZ8jB4/9HJZx/NTXiYABZUECg9/I5j1x5QU6L7KrvJq6218icpSZq+gG2T4kCLRkyVnHqwzRpTLxjqxUTeAp4AQ4SIr7d7oqlsA7SDn1qleJQP6uY6bdy1yC8Jhzd7RNzTHJv1iTcpveGWoLjlgaLH/YQaIaF7MmtXA==;yof4rtTjeIKNMf4X6MIxqA=="
 ---
 

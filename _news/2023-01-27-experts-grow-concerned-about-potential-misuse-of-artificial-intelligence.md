@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 related:
   - title: "Ted Lieu and a robot make great points about the dangers of AI"
@@ -59,6 +60,6 @@ related:
         height: 1968
         isCached: true
 
-secured: "FAdyVZJSz+CmG63DF9Qu953FYVIJUtcwKoQR/olxvv+YHeB00eIU/3VKNJr91/9C4r9+45z3c7p/8lXn9ZI0OPtsj2BUCXOC9QNAJStw6+Fs5ttyo9cNZmmB1eONIdc+zz1j8Z9yLJLOls8erDnjK8zeUalYpH/Wg7IvNmdm0E6KWaR1nMN/XmULJ6lzb8dCFUfRljjn2Q3c97nQKGKUGdnPcAZQpz+WJ2CmI8gcRT2q6C+M9O/riYkLXwbbQ8YAw0bumnDslwTcBNZY/dp0bmMapbAt3T4qumqumdfpoXE3salxoJue4kOUh5Tojj2hmCNSQdTx8y9n0FlYzAIY5IwO4DSssmArw+KHVkxYjVg=;Aedpsoyz80EkwSZLE9jflw=="
+secured: "vYfBCk1FRx+WmPimeR8merW07DgMqvVeZpSNLnnJQN/SWTYN3NbOuucg0byXKJzWiuaOmuicwwLB2AtozKWRPGI7HPRGl7c1NjrJUW4oPnXwvvX0r3EMPYTQsMtecESHF5m1BezPJQkx31z0ujuDtJ2eqmaxzBb29JFVCpUKFp+J7JCn50AUz2F8lEgcYNkI0D1tDCGmATW48am0rJIxK9CCJQDMhr5yQnDn8QiPyn9jLHVjbnSG0JzUeneqtrYBRSljFMRTrq+aknmiKmM1yHIz5OZc/UcZ0VpzFshCM5bIw323p8sOhz1d97cl4DkawY3ThjF5mF1GDNBiizZ09qH6ONzTRuXN/LeSSmBnQWJbdt0utsT40q3BsQse0tTgyrkym2YdE4/+92q9eYm3NwQE2xjlNnv/o7j6dJoMgtCajBPZd32uFNQOL0sYHVzYYROwziJk6nJC4CK/wHZM8vrqqip/VK8VWzo7ssFF0Gh7nxaBPYgb2WWjofNQQR2vv1HBeDhCJn5SklWLU9AbZg==;4KsQIyNBytXhDX9dBgpm9A=="
 ---
 
