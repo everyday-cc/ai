@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-12-kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district.md",
+      "title": "Kerala Infrastructure for Technology and Education to bring robotics to students in Ernakulam district",
+      "excerpt": "The Ernakulam unit of Kerala Infrastructure for Technology and Education (Kite) has begun the work on setting up robotics labs in the schools in the",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/kochi/kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district/articleshow/96160804.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/kochi/kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district/articleshow/96160804.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-96165082,width-1070,height-580,imgsize-16198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/kochi/kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district/amp_articleshow/96160804.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/kochi/kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district/amp_articleshow/96160804.cms",
+      "publishedDateTime": "2022-12-11T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-botz-global-x-robotics-artificial-intelligence-thematic-etf.md",
       "title": "BOTZ Global X Robotics & Artificial Intelligence Thematic ETF",
       "excerpt": "The chart has 1 X axis displaying Time. Data ranges from 2021-12-09 00:00:00 to 2022-12-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -50.35 to 3.4.",
@@ -1288,49 +1332,6 @@
       "provider": {
         "name": "Al Jazeera English",
         "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
-      "title": "Sudbury plays host to FIRST robotics competition",
-      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
-      "sourceUrl": null,
-      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
-      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
-          "width": 1020,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
-      "publishedDateTime": "2022-12-04T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null

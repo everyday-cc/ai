@@ -242,6 +242,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Hidden Cost of ChatGPT for Indian Languages"
+    excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
+    publishedDateTime: 2023-01-27T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/chat-gpt-in-hindi.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "PH4azfeXlsv+doCFm2dYUSbJHKovOHJL30UW28v+Ha8K6DxCuOpUuYzLgDbh0qEeLbHQdjQ84iBMCia6kVlaleHXn+0g3rKod53Xl5OzuZq+XqdkZPye0+UrtPFXpzi7AjzvrnEC5NIA1JC2JhAcP8tzvu46GtCc9sZLs6AjoVBMOgmm9keS3HPn/H9etCMQJcMS+T+JPd64TJWdYSbxG24Z2aE0ijlTMUNiYtFvCy5Pfafxoroo9LSCIMuQMczaqiu4AInMCrOdbHekKqtdEJFRtUB/ioyZTp+mBoH2/YNMPACVN+IDb0+mUSPqw48KNgzL+tJNBhqKgYM7kx0DLhxIgBsMAqVmz5xUX+5mLknmqsAPPcAXSg/luYLVIJTNFQmPN4I+dCQVAku4/tMLl8sxYW5Rf6e0Eh4frUwKIOOptVEyJNzYW1VJYHIh/AamIL3bf5BHxrZQz4R1HQhQ+i/Mwc1RehUVppMfjLGV9CmOxTsXgHbLXdnUy6QWS0oqA97a30t7MWUA+eANipAkrw==;Bx617I+95c51U/uJtfZgnA=="
 ---

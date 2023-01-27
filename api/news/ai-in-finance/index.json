@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-01-27-trends-and-big-ideas-shaping-fintech-in-2023.md",
-      "title": "Trends and Big Ideas Shaping Fintech in 2023",
-      "excerpt": "At Visa, we see our work with fintechs as one of our greatest opportunities. Fintechs are changing the game, reinventing the ways consumers manage their finances, and businesses manage their operations.",
+      "path": "_news/2023-01-27-5-ways-how-fintech-is-revolutionizing-msmes.md",
+      "title": "5 Ways How Fintech Is Revolutionizing MSMEs",
+      "excerpt": "Technology advancements in the digital services ecosystem, such as account aggregators and OCEN make MSME lending simple",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/visa/trends-and-big-ideas-shaping-fintech-in-2023/",
-      "originalUrl": "https://techcrunch.com/sponsor/visa/trends-and-big-ideas-shaping-fintech-in-2023/",
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/5-ways-how-fintech-is-revolutionizing-msmes/443779",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/5-ways-how-fintech-is-revolutionizing-msmes/443779",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Visa_Illustrations_Techcrunch4_HeroImage_01_1024x683.jpg",
-          "width": 1024,
-          "height": 683,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1674806346-Hithere.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T10:38:00-08:00",
+      "publishedDateTime": "2023-01-26T23:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

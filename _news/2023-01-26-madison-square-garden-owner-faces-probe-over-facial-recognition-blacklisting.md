@@ -19,6 +19,52 @@ topics:
   - AI
 
 related:
+  - title: "Madison Square Garden's facial recognition blacklisting sparks outcry"
+    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan's celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
+    publishedDateTime: 2023-01-27T07:52:00Z
+    webUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/madison-square-garden.jpg"
+        width: 1024
+        height: 633
+        isCached: true
+  - title: "New York Attorney General Probing Madison Square Garden’s Use of Facial Recognition Technology"
+    excerpt: "The state attorney general’s office said Wednesday that the company has reportedly used the technology to bar entry for lawyers who are currently suing it over unrelated matters."
+    publishedDateTime: 2023-01-25T16:43:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probing-madison-square-garden-use-of-facial-recognition-technology-11674668568"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
+    images:
+      - url: "https://images.wsj.net/im-709993/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "New York’s AG questions Madison Square Garden’s use of facial recognition technology"
+    excerpt: "Madison Square Garden’s use of facial recognition technology has been a perplexing topic among sports fans. “They’re able to catch maybe more bad people. The"
+    publishedDateTime: 2023-01-26T02:41:00Z
+    webUrl: "https://pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 52
+    images:
+      - url: "https://pix11.com/wp-content/uploads/sites/25/2023/01/AP23025727473750-1.jpg?w=1280"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "New York’s Madison Square Garden’s facial recognition blacklisting sparks outcry"
     excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan’s celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
     publishedDateTime: 2023-01-27T04:45:00Z

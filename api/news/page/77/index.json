@@ -2,6 +2,57 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-11-16-art-project-translates-music-from-teenage-engineerings-op-z-synth-into-ai-generated-imagery.md",
+      "title": "Art project translates music from Teenage Engineering's OP-Z synth into AI-generated imagery",
+      "excerpt": "AI-generated art is a new frontier rife with potential. But for every thorny question about copyright and the potential for widespread manipulation, generated art can also inspire wonder and awe. For example,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "originalUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/870fb8e0-6535-11ed-957e-bd695d44829f",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "publishedDateTime": "2022-11-15T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-alzheimers-disease-risk.md",
       "title": "Can a multicultural healthy diet reduce cognitive decline and Alzheimer's disease risk?",
       "excerpt": "Study: Multicultural healthy diet to reduce cognitive decline & Alzheimer's disease risk: Study protocol for a pilot randomized controlled trial. Image Credit: Olga Klochanko/Shutterstock They ...",
@@ -1146,49 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc.md",
-      "title": "Arterys Awarded Artificial Intelligence Solutions for Healthcare Agreement With Premier, Inc.",
-      "excerpt": "has been awarded a national group purchasing agreement for the Artificial Intelligence Solutions for Healthcare Category with Premier Inc. Effective Oct. 1, 2022, the new agreement allows Premier ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Cuba-CyberSecurity-Law-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-10-22-how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai.md",
+      "title": "How small and midsize businesses can take advantage of text-to-image AI",
+      "excerpt": "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/",
+      "originalUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/",
+      "publishedDateTime": "2022-10-22T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it.md",
       "title": "AI Digitally Restored a Lost Trio of Gustav Klimt Paintings. Not Everyone Is Happy About It.",
       "excerpt": "They say, ‘No, Klimt has never used such a green.’ This is true. He did not use it before the Faculty Paintings and not even after it, but I'm sure that during this particular period, because it was such an outstanding period for him,",
@@ -1119,58 +1170,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-giant-horrid-deep-sea-louse-like-creature-filmed-feasting-on-fish-head.md",
-      "title": "Giant, Horrid Deep-Sea Louse-Like Creature Filmed Feasting on Fish Head",
-      "excerpt": "A creepy video captured during a research dive off the coast of Florida shows a deep-sea creature feasting on the head of a fish. The video was featured in the NOAA (National Oceanic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848",
-      "originalUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2138119/giant-isopod-eating-fish.png",
-          "width": 2520,
-          "height": 1680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848?amp=1",
-      "publishedDateTime": "2022-10-21T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

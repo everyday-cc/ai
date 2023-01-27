@@ -8,7 +8,7 @@ webUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-ch
 ampWebUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
@@ -174,20 +175,6 @@ related:
       - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
         width: 1068
         height: 580
-        isCached: true
-  - title: "College student busted submitting paper written by Open AI's ChatGPT"
-    excerpt: "Popular Now: AI creates 1980s 'Matrix' starring Jeff Goldblum as Morpheus Chatbots such as OpenAI's ChatGPT are free and have very powerful capabilities that are resulted in them going viral."
-    publishedDateTime: 2023-01-22T16:22:00Z
-    webUrl: "https://www.tweaktown.com/news/90083/college-student-busted-submitting-paper-written-by-open-ais-chatgpt/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90083_02_college-student-caught-submitting-paper-using-chatgpt.jpg"
-        width: 620
-        height: 413
         isCached: true
   - title: "Google Sparrow: an AI to compete with ChatGPT"
     excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."

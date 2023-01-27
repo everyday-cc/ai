@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-26-as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief.md",
+      "title": "As AI booms, reducing risks of algorithmic systems is a must, says new ACM brief",
+      "excerpt": "AI is booming, but a new ACM brief says ubiquity of algorithmic systems “creates serious risks that are not being adequately addressed.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/",
+      "originalUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-25-at-10.39.59-AM-e1674661281828.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/amp/",
+      "publishedDateTime": "2023-01-25T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-nhs-to-use-robots-as-it-scrambles-to-slash-waiting-lists-during-winter-crisis.md",
+      "title": "NHS to use robots as it scrambles to slash waiting lists during winter crisis",
+      "excerpt": "More info The NHS is set to deploy robots to help it decide who should receive care ... to be paid £10 to stop using energy-guzzling appliances tonight [REVEAL] Artificial Intelligence tools were included as part of the initiative for the purposes listed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding",
+      "originalUrl": "https://www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/NHS-waiting-list-backlog-1726226.jpg?r=1674665473575",
+          "width": 590,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding/amp",
+      "publishedDateTime": "2023-01-25T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics.md",
       "title": "Build a loyalty points anomaly detector using Amazon Lookout for Metrics",
       "excerpt": "Today, gaining customer loyalty cannot be a one-off thing. A brand needs a focused and integrated plan to retain its best customers—put simply, it needs a customer loyalty program. Earn and burn programs are one of the main paradigms. A typical earn and burn program rewards customers after a certain",
@@ -504,49 +599,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-25-rights-watchdog-opposes-indiscriminate-use-of-face-recognition-technology.md",
-      "title": "Rights watchdog opposes indiscriminate use of face recognition technology",
-      "excerpt": "The state human rights watchdog said Wednesday that the recent move to introduce facial recognition technology into public institutions is feared to infringe upon freedom and privacy of personal life and freedom of expression.",
-      "sourceUrl": null,
-      "webUrl": "https://koreatimes.co.kr/www/tech/2023/01/133_344167.html",
-      "originalUrl": "https://koreatimes.co.kr/www/tech/2023/01/133_344167.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202301/cfdb4c4dd99c4b85897aca47bab3fc39.jpg",
-          "width": 980,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=344167",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=344167",
-      "publishedDateTime": "2023-01-24T23:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-25-how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity.md",
       "title": "How Dangerous Are ChatGPT And Natural Language Technology For Cybersecurity?",
       "excerpt": "Generative artificial intelligence and natural language technology is advancing very quickly. Here, we take a look at how these technologies cheese will affect cyber security.",
@@ -819,49 +871,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-news-literacy-week-artificial-intelligence-in-the-classroom.md",
-      "title": "News Literacy Week: Artificial intelligence in the classroom",
-      "excerpt": "As part of National News Literacy Week it's our chance to help you detect misinformation and stop it from spreading. But it's getting harder with the use of artificial intelligence software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom",
-      "originalUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/baa/1020d6d1597347248f5d62c059a4c7e3/baa6ccd9e22c48778bc48333d5981b9f/poster_35034dd81a2e409eb4d916c834e9f3b8.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true",
-      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true",
-      "publishedDateTime": "2023-01-24T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBW",
-        "domain": "wkbw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {

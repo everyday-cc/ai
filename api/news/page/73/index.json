@@ -2,6 +2,58 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-11-18-meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators.md",
+      "title": "Meet Unstable Diffusion, the group trying to monetize AI porn generators",
+      "excerpt": "“We need to … think about how safety controls might be subverted when you have an API-mediated version of the system that carries controls preventing misuse,” Abhishek Gupta, the founder and principal researcher at the Montreal AI Ethics ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/",
+      "originalUrl": "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/unstable-diffusion-triptych.jpg?resize=1200,636",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/amp/",
+      "publishedDateTime": "2022-11-17T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-las-vegas-driverless-car-rental-service-set-for-expansion.md",
       "title": "Las Vegas driverless car rental service set for expansion",
       "excerpt": "A driverless car rental service is expanding its Las Vegas operations. Following a four-month beta test of its on-demand electric vehicle service in the downtown Las Vegas area, Halo.Car is ...",
@@ -1069,40 +1121,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-dyslexia-screener-incubated-at-boston-childrens-hospital-leverages-speech-recognition-to-help-educators-identify-reading-challenges-sooner.md",
-      "title": "Dyslexia Screener Incubated at Boston Children's Hospital Leverages Speech Recognition to Help Educators Identify Reading Challenges, Sooner",
-      "excerpt": "In its first year, EarlyBird Education has helped thousands of educators assess over 20,000 students; new partnership with speech recognition technology pioneer SoapBox Labs makes it easier to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/dyslexia-screener-incubated-at-boston-childrens-hospital-leverages-speech-recognition-to-help-educators-identify-reading/article_bc9c0f66-bac7-5991-8d35-ffa23dfbb188.html",
-      "originalUrl": "https://www.victoriaadvocate.com/dyslexia-screener-incubated-at-boston-childrens-hospital-leverages-speech-recognition-to-help-educators-identify-reading/article_bc9c0f66-bac7-5991-8d35-ffa23dfbb188.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

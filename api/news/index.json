@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-27-5-ways-how-fintech-is-revolutionizing-msmes.md",
+      "title": "5 Ways How Fintech Is Revolutionizing MSMEs",
+      "excerpt": "Technology advancements in the digital services ecosystem, such as account aggregators and OCEN make MSME lending simple",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/5-ways-how-fintech-is-revolutionizing-msmes/443779",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/5-ways-how-fintech-is-revolutionizing-msmes/443779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1674806346-Hithere.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-madison-square-gardens-facial-recognition-blacklisting-sparks-outcry.md",
+      "title": "Madison Square Garden's facial recognition blacklisting sparks outcry",
+      "excerpt": "The heated debate over facial recognition technology has a new flashpoint: Manhattan's celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/madison-square-garden.jpg",
+          "width": 1024,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp",
+      "publishedDateTime": "2023-01-26T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence.md",
+      "title": "All In On AI: How Smart Companies Win Big With Artificial Intelligence",
+      "excerpt": "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-26T22:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-ai-wrote-a-bill-to-regulate-ai-now-rep-ted-lieu-wants-congress-to-pass-it.md",
+      "title": "AI wrote a bill to regulate AI. Now Rep. Ted Lieu wants Congress to pass it.",
+      "excerpt": "The California Democrat, one of a handful of members with computer science backgrounds, wants a nonpartisan commission to recommend new regulations for artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/ted-lieu-artificial-intelligence-bill-congress-chatgpt-rcna67752",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/ted-lieu-artificial-intelligence-bill-congress-chatgpt-rcna67752",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230126-ted-lieu-jm-1541-f942ef.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna67752",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna67752",
+      "publishedDateTime": "2023-01-26T19:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats.md",
       "title": "A robot was scheduled to argue in court, then came the jail threats",
       "excerpt": "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down.",
@@ -137,101 +327,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-how-companies-can-practice-ethical-ai.md",
-      "title": "How companies can practice ethical AI",
-      "excerpt": "The team can be customized depending on the business’s needs, but here is a general example of a robust team for companies that use AI-enabled technology: Chief ethics officer: Often called a chief compliance officer, this role is responsible for ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-companies-can-practice-ethical-ai/",
-      "originalUrl": "https://venturebeat.com/ai/how-companies-can-practice-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-trends-and-big-ideas-shaping-fintech-in-2023.md",
-      "title": "Trends and Big Ideas Shaping Fintech in 2023",
-      "excerpt": "At Visa, we see our work with fintechs as one of our greatest opportunities. Fintechs are changing the game, reinventing the ways consumers manage their finances, and businesses manage their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/visa/trends-and-big-ideas-shaping-fintech-in-2023/",
-      "originalUrl": "https://techcrunch.com/sponsor/visa/trends-and-big-ideas-shaping-fintech-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Visa_Illustrations_Techcrunch4_HeroImage_01_1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -841,7 +936,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1142,101 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief.md",
-      "title": "As AI booms, reducing risks of algorithmic systems is a must, says new ACM brief",
-      "excerpt": "AI is booming, but a new ACM brief says ubiquity of algorithmic systems “creates serious risks that are not being adequately addressed.”",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/",
-      "originalUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-25-at-10.39.59-AM-e1674661281828.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief/amp/",
-      "publishedDateTime": "2023-01-25T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-nhs-to-use-robots-as-it-scrambles-to-slash-waiting-lists-during-winter-crisis.md",
-      "title": "NHS to use robots as it scrambles to slash waiting lists during winter crisis",
-      "excerpt": "More info The NHS is set to deploy robots to help it decide who should receive care ... to be paid £10 to stop using energy-guzzling appliances tonight [REVEAL] Artificial Intelligence tools were included as part of the initiative for the purposes listed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding",
-      "originalUrl": "https://www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/NHS-waiting-list-backlog-1726226.jpg?r=1674665473575",
-          "width": 590,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding/amp",
-      "publishedDateTime": "2023-01-25T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

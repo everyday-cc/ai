@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatg
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
+    excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
+    publishedDateTime: 2023-01-24T10:05:00Z
+    webUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 59
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Experts warn about possible misuse of new AI tool ChatGPT"
     excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
     publishedDateTime: 2023-01-24T16:44:00Z
@@ -108,22 +124,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
-    excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
-    publishedDateTime: 2023-01-24T10:05:00Z
-    webUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 57
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
-        width: 760
-        height: 507
         isCached: true
   - title: "Inside the mind of ChatGPT: How artificial intelligence is changing the way we learn"
     excerpt: "The future is here, and it can do your homework. Artificial intelligence, like the popular ChatGPT app, is ripe for exploitation by students, experts say."
@@ -179,20 +179,6 @@ related:
       - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
         width: 1068
         height: 580
-        isCached: true
-  - title: "College student busted submitting paper written by Open AI's ChatGPT"
-    excerpt: "Popular Now: AI creates 1980s 'Matrix' starring Jeff Goldblum as Morpheus Chatbots such as OpenAI's ChatGPT are free and have very powerful capabilities that are resulted in them going viral."
-    publishedDateTime: 2023-01-22T16:22:00Z
-    webUrl: "https://www.tweaktown.com/news/90083/college-student-busted-submitting-paper-written-by-open-ais-chatgpt/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90083_02_college-student-caught-submitting-paper-using-chatgpt.jpg"
-        width: 620
-        height: 413
         isCached: true
   - title: "Google Sparrow: an AI to compete with ChatGPT"
     excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."

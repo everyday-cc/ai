@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=344167"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=344167"
 type: article
 quality: 58
-heat: 88
-published: true
+heat: 68
+published: false
 
 provider:
   name: The Korea Times
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York Attorney General Probing Madison Square Garden’s Use of Facial Recognition Technology"
-    excerpt: "The state attorney general’s office said Wednesday that the company has reportedly used the technology to bar entry for lawyers who are currently suing it over unrelated matters."
-    publishedDateTime: 2023-01-25T16:43:00Z
-    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probing-madison-square-garden-use-of-facial-recognition-technology-11674668568"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 57
-    images:
-      - url: "https://images.wsj.net/im-709993/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "New York’s AG questions Madison Square Garden’s use of facial recognition technology"
-    excerpt: "Madison Square Garden’s use of facial recognition technology has been a perplexing topic among sports fans. “They’re able to catch maybe more bad people. The"
-    publishedDateTime: 2023-01-26T02:41:00Z
-    webUrl: "https://pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/"
-    ampWebUrl: "https://pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 52
-    images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2023/01/AP23025727473750-1.jpg?w=1280"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "NY AG questions MSG’s use of facial recognition tech"
     excerpt: "New York Attorney General Letitia James warned the owner of Madison Square Garden that they may be violating anti-bias laws over one of its uses of facial recognition technology."
     publishedDateTime: 2023-01-26T02:36:00Z

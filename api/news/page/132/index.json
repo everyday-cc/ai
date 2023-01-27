@@ -2,6 +2,58 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-09-28-the-j7-is-irobots-first-two-in-one-vacuum-and-mop-combo.md",
+      "title": "The j7+ is iRobot’s first two-in-one vacuum and mop combo",
+      "excerpt": "Robot has revealed the Roomba Combo j7+, a premium robot vacuum featuring a retractable mop that allows it to both mop and vacuum without input from the user.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
+      "originalUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/Roomba-j7-Lifestyle.jpg?p=1",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
+      "publishedDateTime": "2022-09-27T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
       "title": "AWS Announces General Availability of AWS IoT FleetWise",
       "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
@@ -1134,57 +1186,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-i-tested-out-an-ai-art-generator-and-heres-what-i-learned.md",
-      "title": "I tested out an AI art generator and here's what I learned",
-      "excerpt": "How, then, do we fit art created by AI into that conception of art? If humanity defines art, is it enough to reduce the definition to keywords typed into a generator? It's a question that's not theoretical any more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
-      "originalUrl": "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3c7a0a4ce38e5640fc0e31506189e1f5b9fde34d/2022/09/12/feb28106-dc94-4fd6-8b9c-c7994f44490c/midjourney.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
-      "publishedDateTime": "2022-09-27T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-27-all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence.md",
+      "title": "All In On AI: How Smart Companies Win Big With Artificial Intelligence",
+      "excerpt": "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-26T22:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-artificial-intelligence-could-save-healthcare-industry-360b-a-year.md",
       "title": "Artificial intelligence could save healthcare industry $360B a year",
       "excerpt": "Broader adoption of AI in healthcare is likely in the near future, and could come with a slew of benefits beyond financial gains, according to McKinsey and Harvard researchers.",
@@ -95,49 +147,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-news-literacy-week-artificial-intelligence-in-the-classroom.md",
-      "title": "News Literacy Week: Artificial intelligence in the classroom",
-      "excerpt": "As part of National News Literacy Week it's our chance to help you detect misinformation and stop it from spreading. But it's getting harder with the use of artificial intelligence software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom",
-      "originalUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/baa/1020d6d1597347248f5d62c059a4c7e3/baa6ccd9e22c48778bc48333d5981b9f/poster_35034dd81a2e409eb4d916c834e9f3b8.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true",
-      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true",
-      "publishedDateTime": "2023-01-24T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBW",
-        "domain": "wkbw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -254,7 +263,7 @@
       "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 278,
       "tags": null,
       "images": [
         {
@@ -352,7 +361,7 @@
       "originalUrl": "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {

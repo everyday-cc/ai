@@ -2,6 +2,49 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-11-14-brain-area-thought-to-impart-consciousness-behaves-instead-like-an-internet-router.md",
+      "title": "Brain area thought to impart consciousness, behaves instead like an Internet router",
+      "excerpt": "This insight may help lead to better therapies to address cognitive dysfunction in these disorders. \"The brain is the most complex system in the known universe. It is these data-driven theoretical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221114190629.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221114190629.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-feinberg-superager-program-examines-exceptional-cognitive-aging.md",
       "title": "Feinberg SuperAger program examines exceptional cognitive aging",
       "excerpt": "But an initiative from the Mesulam Center for Cognitive Neurology and Alzheimer’s Disease at the Feinberg School of Medicine is taking the opposite approach. The program studies “SuperAgers ...",
@@ -1119,39 +1162,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-hucuai-joins-startup-health-perks-program-to-help-health-tech-companies-achieve-health-moonshots.md",
-      "title": "Hucu.ai Joins StartUp Health Perks Program to Help Health-Tech Companies Achieve Health Moonshots",
-      "excerpt": "Hucu.ai joins the StartUp Health Perks Program, alongside existing vendors including Google, Amazon, Microsoft, ADP, Twilio, Hubspot, to easily connect and partner with other StartUp Health portfolio companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

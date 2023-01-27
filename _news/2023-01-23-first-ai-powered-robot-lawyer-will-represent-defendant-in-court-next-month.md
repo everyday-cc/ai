@@ -1,14 +1,16 @@
 ---
 category: news
 title: "First AI-powered \"robot\" lawyer will represent defendant in court next month"
-excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
-publishedDateTime: 2023-01-23T14:52:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-webUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+excerpt: "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ..."
+publishedDateTime: 2023-01-23T10:53:00Z
+originalUrl: "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+webUrl: "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: CBS News
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AI-powered lawyer to defend in court next month"
@@ -36,6 +44,6 @@ related:
         height: 720
         isCached: true
 
-secured: "QxI3oDa1vPI1GjgNAtDM/FAu318vz25YU+75cn5zAT140suY0cQ/JWynqrkHP81QPyCwfL0Oj4PdH5ierDsIzvL4BR7q8x0WdPwmS+s+i6GHZ9tm+S1H/Yb/qfh6RCUmgHObAcyjJaoCZ27s+Iow38QXDp9QuV+XE2FkPHOOu3BHPrJcoNGWWKBG0KpCJvXNWW0Z6CaDP/usIy7d8l3Mx0S1Yx5HlC1lBhvP+ASjytSztYnpCxd8qV4FspsgxGjfv3PNbbzBMPrskhr15zLEYftJqj8lZeV8Z67A6RA+z+nKcxVOIIAXL8ZgGDDtUe/a9F/SrBwtHYOCHrKJB7CCZRV4olk335aav0j0mGlzV15lTVIz5HqdE4WO3JeIaUCJ6XwyxEGlZrdmzlVVCN/Ky8TY+V2oulCeYB15k+cBGXRB7daf8F+R1nNuTmI38E0GYIYX7LhwmX/S7Hkujyro18FT2X2YnoDSjvBDadofXyx4HWgVCSc7V5y7IwiEQazkQ4pL0sORGZgi+fIB2MSn6A==;UAVVnVNt1VbMYoxtuoeWuA=="
+secured: "HPOKJeICxLWnCvPNg+qiXdSNaau9IIjoEA3ydMMZdVEgQcZ5DY8uPAaW6Vw+IvwcWjo4QdF7mBl7hJTbzNUR3Qen4zjdjAlgODnFawzwsmDWBXnG2KxwAOE2oz1w2Obb5lwhS4H6nTZ2xwVW9CGPPLM9zteTyYHdL7Rrxljz4Ts0/DAW4tdlDN7dTAQ9+XEUzTFkaBWq4enrmuomDdO4D4aVq5nZSlV5DUwt5l208A/MeHGd/GPuEa3LfwXjxig5tJQsIThGYMmNhw3oWAGnmxQH3WPnitnVI1r/RTMXc4se511FNkPSXFJQqhVIDyOIJpc3ZdDE4DEk2Q+aFTghy/nBUdKHyF7jusVAKp9qOho=;pDn/r8Yc0e2Zs0GYWnhAzw=="
 ---
 

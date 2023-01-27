@@ -25,36 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Unlock The Potential Of Generative AI: A Guide For Tech Leaders"
-    excerpt: "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency."
-    publishedDateTime: 2023-01-26T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/"
+  - title: "All In On AI: How Smart Companies Win Big With Artificial Intelligence"
+    excerpt: "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months."
+    publishedDateTime: 2023-01-27T06:39:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 93
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 797
         isCached: true
-  - title: "Artificial Intelligence: technology of the future"
-    excerpt: "Join us this Friday as we talk with experts about concerns, the positives, and the future of artificial intelligence in the world as we know it."
-    publishedDateTime: 2023-01-24T00:01:00Z
-    webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
+  - title: "How companies can practice ethical AI"
+    excerpt: "The team can be customized depending on the business’s needs, but here is a general example of a robust team for companies that use AI-enabled technology: Chief ethics officer: Often called a chief compliance officer, this role is responsible for ..."
+    publishedDateTime: 2023-01-26T19:08:00Z
+    webUrl: "https://venturebeat.com/ai/how-companies-can-practice-ethical-ai/"
     type: article
     provider:
-      name: WFIU
-      domain: indianapublicmedia.org
-    quality: 41
-    images:
-      - url: "https://indianapublicmedia.org/images/news-images/dsc03239.jpg"
-        width: 1200
-        height: 803
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-01-24T18:46:00Z
@@ -92,15 +87,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
-  - title: "Generative AI: how will the new era of machine learning affect you?"
-    excerpt: "They will “understand your intent in a way that hasn’t been possible before and translate that to computer ... help to control misuse of the new AI systems. Manyika, for instance, says that Google has developed a language system that can detect with ..."
-    publishedDateTime: 2023-01-26T03:31:00Z
-    webUrl: "https://www.ft.com/content/1e34f334-4e73-4677-9713-99f85eed7ba0?sharetype=blocked"
+  - title: "Grappling With AI Writing Technologies in the Classroom"
+    excerpt: "I should have known better, but if my ordeal encourages teachers and students not to be fooled by AI and scholarly-sounding prose, I happily fall on my sword. Jasper did translate portions ... as good a job in another 24 languages. Furthermore, Jasper ..."
+    publishedDateTime: 2023-01-26T19:00:00Z
+    webUrl: "https://www.edutopia.org/article/chatgpt-ai-writing-platforms-classroom"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 36
+      name: Edutopia
+      domain: edutopia.org
+    quality: 19
 
 secured: "8YRYeqW9hPaPriyUb8eNdv87ffrmmpDLgEPoXvpA5HSBIzawe2HmOWuEzOFmaO4tCpYdzvRNP+SK6UiFF6Z92gUiNc7oC1x+ft+WG+9kFmUEhIdwr3brxjNiiLSHuBg3J+NOsD0uY4MU305Vz8kAD0tF019fEBA1tbYM2GsDhyDe/LTyKA1ecn5982SCeUIdse6bC+YPtHQKF7DNQyZLukYmoZc1mwTUa8Vz5AhEepdIfjw4AcRm1oj58U4/GUS2pY/ByeSJeezhYTSg3mes6aMqju4C9FV1z/XmYxitVWVIM4ZIS/va42D5AVrN36s4/qssPE0zvc3xzdT0f8lgo69k/FiAh5GiG4xmB7V2DxpUtGM1PrteEaMFYfxG4GUedVczEkJvvHpPVc9OUg6GxfTN1jkAIvabXds+IdsaA/V4C1m4a1NPp1SuUucbFF/tsHrTLdTiKrC99Vyb+KHPMuO+lmA+C/iTt57X5hGhdeY/6/zAOqWTldkEhAQGBzH1Lmkpt831U3Kt6JYveXcrAg==;ieTRY2SyI+p2ZDeyzxMd4w=="
 ---

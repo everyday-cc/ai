@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-17-nick-cave-criticises-ai-attempt-to-write-nick-cave-lyrics-this-song-sucks.md",
+      "title": "Nick Cave criticises AI attempt to write Nick Cave lyrics: 'This song sucks'",
+      "excerpt": "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-64302944.amp",
+      "publishedDateTime": "2023-01-17T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-microsoft-announces-general-availability-of-azure-openai-service.md",
       "title": "Microsoft announces general availability of Azure OpenAI Service",
       "excerpt": "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation",
@@ -1131,58 +1182,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits.md",
-      "title": "General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits",
-      "excerpt": "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world—including GPT-3.5, Codex, and DALL•E 2—backed by the trusted enterprise-grade capabilities and AI-optimized infrastructure of Microsoft Azure, to create cutting-edge applications.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
-      "originalUrl": "https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6218d54-3c27-4c17-bc25-33ce1d1a268e.png",
-          "width": 808,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T09:00:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

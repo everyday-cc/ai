@@ -2,6 +2,49 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-12-01-targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series.md",
+      "title": "Targeting AI and computer vision, Innodisk launches new camera module series",
+      "excerpt": "Industrial-grade storage and embedded peripherals developer Innodisk recently announced its shift toward the artificial intelligence (AI) industry. As 50% of Innodisk's AI development is related to image recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
+      "originalUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/977/18977/61340_Innodisk_Launches_New_Camera_Module.jpg",
+          "width": 700,
+          "height": 245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronics360.globalspec",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-first-minister-speech-disrupted-by-gender-recognition-protester.md",
       "title": "First Minister speech disrupted by gender recognition protester",
       "excerpt": "The woman who interrupted the First Minister's speech said the change in law would ... that the request not to discuss the Gender Recognition Reform Bill was made by the First Minister or officials.",
@@ -1091,58 +1134,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-disneys-new-neural-network-can-change-an-actors-age-with-ease.md",
-      "title": "Disney’s new neural network can change an actor’s age with ease",
-      "excerpt": "Disney researchers have created a new neural network that can alter the visual age of actors in TV or film, reports Gizmodo. The technology will allow TV or film producers to make actors appear ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/disney_fran_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/amp/",
-      "publishedDateTime": "2022-11-30T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

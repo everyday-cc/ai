@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artifi
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
 type: article
 quality: 108
-heat: 268
+heat: 278
 published: true
 
 provider:
@@ -243,6 +243,20 @@ related:
       - url: "https://www-images.christianitytoday.com/images/133062.jpg?h=675&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Hidden Cost of ChatGPT for Indian Languages"
+    excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
+    publishedDateTime: 2023-01-27T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/chat-gpt-in-hindi.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Uc4GW+hrtb/51KuJTT1bFSmk/Fl/4eTlYY/jqCI9Y9JxUwjt5bLPIMQTqm6EwSKqznS6obw7ExVd9NqOvc863GUChx12Xd4rYYqoSlVE/6oP48noAgdTozqp+L14dR9IIO2fjJrmlxTCZcKJBJiIs7F12D5KJNFsxUhkaCoJrteJuMNK+Por4d7z11vOrPJtLyPQrFlIhqLzhg0cS9t9TYSuAzsfxNjuFaTj7CAuDwfkPvJDbKMrnNO9HrH9C9MCybzu7vWRgwhzZF7AoCtAqIymEJ5c7Y+mHyM0aS6ah4WptXLGCta1+mdzT2IaGQKKWPM/Q/oZg+lHO5zo65UESEAjFu2CTkcVR6Ruhkv52KY=;j4zRwU4Uqi8Ho/G88eIZqg=="

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-companies-can-practice-ethical-ai/"
 webUrl: "https://venturebeat.com/ai/how-companies-can-practice-ethical-ai/"
 type: article
 quality: 64
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -23,15 +23,82 @@ topics:
   - AI
 
 related:
-  - title: "How can artificial intelligence protect whales? Offshore wind company has a plan"
-    excerpt: "Elaine Coleman, vice president of commercialization at Charles River Analytics, said working with Vineyard Wind is an ideal partnership since object detection and avoidance ... \"Through AI machine learning pattern recognition, the computer learns what ..."
-    publishedDateTime: 2023-01-25T20:09:00Z
-    webUrl: "https://www.cincinnati.com/story/news/nation/2023/01/13/artificial-intelligence-protect-whales-offshore-wind-tries-vineyard-wind/11042267002/"
+  - title: "All In On AI: How Smart Companies Win Big With Artificial Intelligence"
+    excerpt: "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months."
+    publishedDateTime: 2023-01-27T06:39:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/"
     type: article
     provider:
-      name: The Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 14
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 797
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-24T18:46:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/24/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-25T21:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-26T16:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/26/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Generative AI: how will the new era of machine learning affect you?"
+    excerpt: "It also illustrated the potential of machine learning and touched off a race in the tech world to bring AI into the mainstream. Since then, computing’s AI age has been taking shape largely behind the scenes."
+    publishedDateTime: 2023-01-25T05:00:00Z
+    webUrl: "https://www.ft.com/content/1e34f334-4e73-4677-9713-99f85eed7ba0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 36
+  - title: "Grappling With AI Writing Technologies in the Classroom"
+    excerpt: "I should have known better, but if my ordeal encourages teachers and students not to be fooled by AI and scholarly-sounding prose, I happily fall on my sword. Jasper did translate portions ... as good a job in another 24 languages. Furthermore, Jasper ..."
+    publishedDateTime: 2023-01-26T19:00:00Z
+    webUrl: "https://www.edutopia.org/article/chatgpt-ai-writing-platforms-classroom"
+    type: article
+    provider:
+      name: Edutopia
+      domain: edutopia.org
+    quality: 19
 
 secured: "TcVgGQ4Mhll1OzT3PSzwkvwpVOr5Iip9/H0FPdKFtb7cauBSyvLeuH2Bx+IJhUgaxPUQEF3NQ3G7U/PcE3m5kJIC3YVW+Y5YNgUgzbjuoQxHKdBN9YzC8+1qhKiVXXNFtaCqkk/IqAyjKl6DNyJZtrUbaKZwYCiphYhImGHDoZfOjqD+B3GxCLvND/zA7ArYNAe0J5cvdNTrYXGuaqi1oOnml61MjVQbq0Nxuy09Bvnqh37uGBd+5O7jPRyYKts4SHP/Kpnp6zx6++zQmKD/iYELm2EYkxi9Wi/SJhNs0i15BBs62n53ZIrIQzjPnKyVXI+hRK8d4TtmL/8YvyZyMJ+AetTnym2gWzNr0tbgjGVklAOnKMDdKWyVICQQIZiwgGv09vIoGWwTAoL4wGLSkq20jo81f4uaoUncieTJc8icdEhAhyn0fHswdUpSWZP+e4CoJ/TM54pqCtXADTL76T9CuCZfmsM1t2rsg+StOrE/YbXBj06UI7o/mL8FBuIn2PmZUk03jB47k+N/+qciNg==;NlmcwwnXjHuCfnzvzlgsAw=="
 ---

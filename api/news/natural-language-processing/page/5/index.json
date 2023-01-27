@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-17-how-you-can-get-the-most-out-of-sentiment-analysis.md",
+      "title": "How You Can Get The Most Out Of Sentiment Analysis",
+      "excerpt": "This article will explore the uses of sentiment analysis, how proper sentiment analysis is achieved and why companies should explore its use across various business areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62a255ae259caf06f4876076/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/how-you-can-get-the-most-out-of-sentiment-analysis/amp/",
+      "publishedDateTime": "2022-11-17T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-notion-ai-wants-to-be-your-new-writing-assistant.md",
       "title": "Notion AI Wants To Be Your New Writing Assistant",
       "excerpt": "Aside from that, Notion AI can speed up the research, understanding, and editing process for writers. The AI can, for example, analyze and summarize articles, pulling out critical",
@@ -1328,58 +1380,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-history-of-ai-in-33-breakthroughs-the-first-expert-system.md",
-      "title": "History Of AI In 33 Breakthroughs: The First Expert System",
-      "excerpt": "Expert systems represented a new stage in the evolution of AI, shifting from its initial emphasis on general problem-solving and reasoning to a new focus was on knowledge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635db2d65570dc9d8908fd10/0x0.jpg?format=jpg&width=1200",
-          "width": 568,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/amp/",
-      "publishedDateTime": "2022-10-29T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

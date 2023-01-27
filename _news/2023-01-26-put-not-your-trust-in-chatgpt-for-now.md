@@ -238,6 +238,20 @@ related:
       name: RepublicWorld
       domain: republicworld.com
     quality: 26
+  - title: "The Hidden Cost of ChatGPT for Indian Languages"
+    excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
+    publishedDateTime: 2023-01-27T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/chat-gpt-in-hindi.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "8n3xOAzIUfilAT1NkSg9MTptYs1rzB6IlUmslOGPPDhoZk96kWQVF4jNY8635Q6B88s1koZ3L5TmyUwDspAz0R5LvHZrPV7SuRXVgysOebdBksvG6OYjd8qXaEtAZ5dfcqWb428AnBySmV6Cq39HGhjIytmvy2yJoGLc4URB4M8jg76UKm8LZe2HOpp+gwNrma8BRtXqCS/8VeyTjYstaz0gdwlcpaA5URJl897eMlKAbj9d5884xbdBon0/m38UJKRBFZHl9/HcSHfr4K2319rIDyCN5UFdnPQOsrmAKGXZxY24hRVYtszeV8f4X24NiBrygHpZL4QLAdBn0/fGtPuJ0P5foWUBZWxaZTmAmlQ=;kroxAmbG8nomyZKB2LctyQ=="
 ---

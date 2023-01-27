@@ -2,6 +2,58 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-11-11-amazon-debuts-sparrow-a-new-bin-picking-robot-arm.md",
+      "title": "Amazon debuts Sparrow, a new bin-picking robot arm",
+      "excerpt": "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
+      "originalUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Sparrow_DSC02992.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/amazon-debuts-sparrow-a-new-bin-picking-robot-arm/amp/",
+      "publishedDateTime": "2022-11-10T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-alwaysai-partners-with-john-abbamondi-to-bring-the-power-of-computer-vision-to-the-sports-and-entertainment-industry.md",
       "title": "alwaysAI® Partners with John Abbamondi to Bring the Power of Computer Vision to the Sports and Entertainment Industry",
       "excerpt": "SAN DIEGO, Nov. 10, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision solutions leader, announces their partnership with John Abbamondi, former CEO of BSE Global, the parent company of the ...",
@@ -1130,59 +1182,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-meta-layoffs-hit-an-entire-ml-research-team-focused-on-infrastructure.md",
-      "title": "Meta layoffs hit an entire ML research team focused on infrastructure",
-      "excerpt": "After today's Meta layoffs, a researcher said entire team focused on applying ML across the infrastructure stack was cut.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
-      "originalUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/zuck.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/amp/",
-      "publishedDateTime": "2022-11-09T20:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2022-09-22-artificial-intelligence-said-good-for-smart-grid-optimisation.md",
+      "title": "Artificial intelligence said good for smart grid optimisation",
+      "excerpt": "Jamaica is being urged to consider artificial intelligence (AI) for smart grid optimisation as a more feasible way of producing green energy. Tatjana Legans, who is",
+      "sourceUrl": null,
+      "webUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/",
+      "originalUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=7ec08427-579f-5889-8cf0-f752172f9c2c&function=fit&type=preview",
+          "width": 500,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/",
+      "publishedDateTime": "2022-09-21T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-why-marketers-need-to-jump-on-the-ai-bandwagon.md",
       "title": "Why marketers need to jump on the AI bandwagon",
       "excerpt": "Automations created by AI and ML present many business opportunities that marketers must start taking advantage of.",
@@ -1158,49 +1201,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar.md",
-      "title": "India is building a database for companies to train AI models: Rajeev Chandrasekhar",
-      "excerpt": "Chandrasekhar said it will be ‘one of the largest datasets programs where anonymized non-personal data will be available for the entire AI ecosystem’",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar-11663770780027.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar-11663770780027.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/09/21/600x338/PTI07-18-2022-000319B-0_1663771171118_1663771171118_1663771204375_1663771204375.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar/amp-11663770780027.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar/amp-11663770780027.html",
-      "publishedDateTime": "2022-09-21T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

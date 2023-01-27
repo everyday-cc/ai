@@ -2,6 +2,57 @@
   "page": 133,
   "value": [
     {
+      "path": "_news/2022-09-27-i-tested-out-an-ai-art-generator-and-heres-what-i-learned.md",
+      "title": "I tested out an AI art generator and here's what I learned",
+      "excerpt": "How, then, do we fit art created by AI into that conception of art? If humanity defines art, is it enough to reduce the definition to keywords typed into a generator? It's a question that's not theoretical any more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
+      "originalUrl": "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3c7a0a4ce38e5640fc0e31506189e1f5b9fde34d/2022/09/12/feb28106-dc94-4fd6-8b9c-c7994f44490c/midjourney.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
+      "publishedDateTime": "2022-09-27T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail.md",
       "title": "Artificial Intelligence opens doors for media but ethics must prevail",
       "excerpt": "Ten years ago, if you bandied around the word Artificial Intelligence in a Kenyan newsroom, you would be branded an illusionist, today it is the buzzword. AI, machine learning and",
@@ -1115,49 +1166,6 @@
         "AI",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-how-artificial-intelligence-can-transform-finance-departments-seeking-agility.md",
-      "title": "How Artificial Intelligence Can Transform Finance Departments Seeking Agility",
-      "excerpt": "By Dan Drees, Chief Growth Officer of AvidXchange It’s no secret that agile companies, those that can quickly respond and pivot when necessary, fare better than those that falter when faced with uncertainty or change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/193.jpg",
-          "width": 360,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
-      "publishedDateTime": "2022-09-26T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

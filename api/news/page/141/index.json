@@ -2,6 +2,51 @@
   "page": 141,
   "value": [
     {
+      "path": "_news/2022-09-20-the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security.md",
+      "title": "The Algorithm: AI-generated art raises tricky questions about ethics, copyright, and security",
+      "excerpt": "Thanks to his distinctive style, Rutkowski is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion, which was launched late last month—far more popular than some of the world's most famous artists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
+      "originalUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/greg-rutkowski-dragon-cave-square.jpg?w=928",
+          "width": 928,
+          "height": 928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
+      "publishedDateTime": "2022-09-20T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-theories-of-ai-liability-its-still-about-the-human-element.md",
       "title": "Theories of AI liability: It's still about the human element",
       "excerpt": "William A. Tanenbaum, Kiyong Song and Linda A. Malek of Moses Singer explore theories of contractual and tort theories applicable to AI systems as well as their current limitations.",
@@ -1086,50 +1131,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-aiml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner.md",
-      "title": "AI/ML Bootcamp for Pakistan and ASEAN Startups Is Right Round the Corner",
-      "excerpt": "In the course of businesses' digital transformation, organizations are swamped with vast amounts of data that are both incredibly valuable and",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
-      "originalUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2022/09/AIML-Bootcamp-for-Pakistan-and-ASEAN-Startups-Is-Right-Round-the-Corner.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/",
-      "publishedDateTime": "2022-09-19T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

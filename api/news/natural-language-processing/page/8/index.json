@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-05-research-launched-to-make-voice-recognition-tech-more-accessible.md",
+      "title": "Research launched to make voice recognition tech more accessible",
+      "excerpt": "The Speech Accessibility Project aims to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities. Artificial intelligence-based voice recognition technology, used in voice assistants such as Amazon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/research_launched_to_make_voice_recognition_tech_more_accessible/id/5103852",
+      "originalUrl": "https://www.research-live.com/article/news/research_launched_to_make_voice_recognition_tech_more_accessible/id/5103852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible",
+      "publishedDateTime": "2022-10-05T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-netbase-quid-adds-visualizations-language-support.md",
       "title": "NetBase Quid Adds Visualizations, Language Support",
       "excerpt": "NetBase Quid's latest quarterly update includes now visualization and presentation modes, now user interface, support for more languages, and product integrations.",
@@ -1443,58 +1486,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-talking-to-whales-can-ai-bridge-the-chasm-between-our-consciousness-and-other-animals.md",
-      "title": "Talking to whales: can AI bridge the chasm between our consciousness and other animals?",
-      "excerpt": "Speaking to animals has long been a fantasy. But now a dizzyingly ambitious project is harnessing all the power of modern science in an attempt to understand what whales say – and then hold conversations with them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible?amp;amp;amp",
-      "originalUrl": "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible?amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6faca857c01debd20fc769617f3c9a15031f2877/0_128_6423_3854/master/6423.jpg?width=620&quality=85&auto=format&fit=max&s=f3d2228236838a3ac62e14c56fad7d0f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible",
-      "publishedDateTime": "2022-09-18T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

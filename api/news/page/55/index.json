@@ -2,6 +2,40 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-12-02-cisco-investments-and-third-culture-capital-among-notable-investors-in-voiceitts-latest-funding-round-to-scale-its-accessible-speech-recognition.md",
+      "title": "Cisco Investments and Third Culture Capital Among Notable Investors in Voiceitt's Latest Funding Round to Scale its Accessible Speech Recognition",
+      "excerpt": "Voiceitt, the Israel-based award-winning leader in speech recognition technology for non-standard speech, announced today the closing of its latest funding round led by AMIT Technion, with participation from Cisco Investments and Third Culture Capital (3CC).",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/12/02/9723611.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/12/02/9723611.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-the-rise-and-regulation-of-killer-police-robots.md",
       "title": "The rise and regulation of killer police robots",
       "excerpt": "Larger police departments in the United States have the capacity to arm remote-controlled robots with lethal weaponry and send those robots in to kill suspects. But should they be able to use that ...",
@@ -1147,57 +1181,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy.md",
-      "title": "Now AI can outmaneuver you at both Stratego and Diplomacy",
-      "excerpt": "Stratego and Diplomacy were human-dominated, but now AI has become table-flipping good at one and passably human at the other.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/",
-      "originalUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/deepmind-stratego-j.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/",
-      "publishedDateTime": "2022-12-01T16:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

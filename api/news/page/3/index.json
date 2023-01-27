@@ -461,7 +461,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -608,7 +608,7 @@
       "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 278,
       "tags": null,
       "images": [
         {
@@ -1010,6 +1010,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-23-first-ai-powered-robot-lawyer-will-represent-defendant-in-court-next-month.md",
+      "title": "First AI-powered \"robot\" lawyer will represent defendant in court next month",
+      "excerpt": "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "originalUrl": "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "publishedDateTime": "2023-01-23T02:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience.md",
       "title": "Massachusetts Institute of Technology-developed AI gains real-world industry experience",
       "excerpt": "Taking what they learned conceptually about artificial intelligence and machine learning (ML) this year, students from across the Greater Boston area had the opportunity to apply their new skills to r",
@@ -1188,58 +1231,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-machine-learning-operations-mlops-market-is-booming-worldwide-including-119-pages-report.md",
-      "title": "Machine Learning Operations (MLOps) Market Is Booming Worldwide | Including 119 Pages Report",
-      "excerpt": "In 2023] The Global Machine Learning Operations (MLOps) Market Size (119 Report Pages) is estimated to be worth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-is-booming-worldwide-including-119-pages-report-2023-01-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-is-booming-worldwide-including-119-pages-report-2023-01-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

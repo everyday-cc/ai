@@ -2,6 +2,49 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-10-20-waymo-plans-to-launch-driverless-taxi-service-in-los-angeles.md",
+      "title": "Waymo plans to launch driverless taxi service in Los Angeles",
+      "excerpt": "A Waymo autonomous vehicle is seen reflected in a mirror as it drives along California Street on April 11 in San Francisco. Waymo has been driving autonomous cars in the Phoenix area since 2017 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/waymo-plans-to-launch-driverless-taxi-service-in-los-angeles-11666222720",
+      "originalUrl": "https://www.marketwatch.com/story/waymo-plans-to-launch-driverless-taxi-service-in-los-angeles-11666222720",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
       "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
       "excerpt": "and are expected to achieve outstanding results in the increasingly prosperous field of AI computer vision applications.\" Innodisk hopes that its latest expansion into the camera market alongside ...",
@@ -1147,49 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-waymo-driverless-rides-are-coming-to-los-angeles.md",
-      "title": "Waymo driverless rides are coming to Los Angeles",
-      "excerpt": "So Angelenos will soon notice Waymo's eye-catching, gadget-heavy driverless cars on LA roads as the company eyes offering its services in as many parts of the Los Angeles area as are feasible.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
-      "originalUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/03CfCz72En1mxYmjI6USYVC/hero-image.fill.size_1200x675.v1666127617.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

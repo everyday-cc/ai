@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Rights watchdog opposes indiscriminate use of face recognition technology"
-    excerpt: "The state human rights watchdog said Wednesday that the recent move to introduce facial recognition technology into public institutions is feared to infringe upon freedom and privacy of personal life and freedom of expression."
-    publishedDateTime: 2023-01-25T07:05:00Z
-    webUrl: "https://koreatimes.co.kr/www/tech/2023/01/133_344167.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=344167"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=344167"
+  - title: "Madison Square Garden's facial recognition blacklisting sparks outcry"
+    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan's celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
+    publishedDateTime: 2023-01-27T07:52:00Z
+    webUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 58
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202301/cfdb4c4dd99c4b85897aca47bab3fc39.jpg"
-        width: 980
-        height: 547
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/madison-square-garden.jpg"
+        width: 1024
+        height: 633
         isCached: true
   - title: "New York’s AG questions Madison Square Garden’s use of facial recognition technology"
     excerpt: "Madison Square Garden’s use of facial recognition technology has been a perplexing topic among sports fans. “They’re able to catch maybe more bad people. The"
@@ -61,20 +61,57 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "NY AG questions MSG’s use of facial recognition tech"
-    excerpt: "New York Attorney General Letitia James warned the owner of Madison Square Garden that they may be violating anti-bias laws over one of its uses of facial recognition technology."
-    publishedDateTime: 2023-01-26T02:36:00Z
-    webUrl: "https://pix11.com/video/ny-ag-questions-msgs-use-of-facial-recognition-tech/8335716/"
+  - title: "New York’s Madison Square Garden’s facial recognition blacklisting sparks outcry"
+    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan’s celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
+    publishedDateTime: 2023-01-27T04:45:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/27/new-yorks-madison-square-gardens-facial-recognition-blacklisting-sparks-outcry"
     type: article
     provider:
-      name: pix11
-      domain: pix11.com
-    quality: 41
+      name: The Star
+      domain: thestar.com.my
+    quality: 36
     images:
-      - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2023/01/snapshot-1-2.jpg?w=2000&#038;ssl=1"
-        width: 888
-        height: 499
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/27/1917663.jpg"
+        width: 1240
+        height: 766
         isCached: true
+  - title: "New York Attorney General Questions Madison Square Garden Entertainment Over Facial Recognition Technology Use"
+    excerpt: "The state’s top lawyer is requesting details after reports the software has been used to ban attorneys involved in lawsuits against the company from its venues."
+    publishedDateTime: 2023-01-25T21:23:00Z
+    webUrl: "https://www.billboard.com/pro/new-york-ag-questions-madison-square-garden-facial-recognition/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 34
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/01/madison-square-garden-exterior-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Madison Square Garden Pressed by NY AG James Over Face Scans"
+    excerpt: "New York Attorney General Letitia James is raising concerns about Madison Square Garden Entertainment Corp.'s reported use of facial recognition technology to prevent lawyers from accessing its venues because of ongoing litigation against the company."
+    publishedDateTime: 2023-01-25T16:28:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/madison-square-garden-pressed-by-ny-ag-james-over-face-scans"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 24
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/3f52060/2147483647/crop/3499x1345%2B0%2B15/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F2b%2Feb%2F457143b74700b6d65c029b277f13%2Fmadison-square-garden-new-york.jpg"
+        width: 959
+        height: 369
+        isCached: true
+  - title: "Madison Square Garden owner faces probe over facial recognition blacklisting"
+    excerpt: "Gregory Varallo, a lawyer in that case, told the court that MSG “used facial recognition software to come in and scrape all the web pages of all the firms involved and then used that facial recognition software at the Garden and other venues”."
+    publishedDateTime: 2023-01-25T19:24:00Z
+    webUrl: "https://www.ft.com/content/57a16cc9-26ec-4024-8981-56eb05a0eec6"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 16
 
 secured: "9+3khmMQ2UhajXi/E52lzcV6D7y/mWaOwzAP9cz17nKQxfa4BKJ3/h5L5DkN389IujQe37ZRr99JCtT0BRAjnig/Q9QJOSgnRGy2ZpfF/HucCN97u+7bzW3wB0JsyTnrRaTJ17IJpY/cWkPoqdXhMjFdKDXpr5ZwqpZrUtR5/wo9qxjQPj0UfJ9fLbyYw0Gm5l383qWpcvgMvGcDc3fWQ9VLTD7qg7HJeGY4BZf88DzJ4rqwYYOhWaXwAO8IHL6icxxaZLsHwiEPu3Td+AadSTc5rpmZMNSe+eWCt6aL2y8OnlryYYRU59DMM1E8jB+h0zrPcOXYMzVBb0YWmnIIF1UNNDjlTSrS5513uwt7one6YUv42WY6HYfXLXdMxukU2/8Fmi6T96C5aVVwHn2wwyNy1HSW4evEaUqcCSLdg3noLcjL0RZnl1h3cWENJpuHH5mxz/tccR3Dp+zVnxt/emgO1n4dDZsxgPyIaeUEwuUUUT2Nog83rdv6Acd7OhqBVJQYPWgOIPD6wnMzL6ryZQ==;l3zfI7VIwOGbSaVZnMBfyw=="
 ---

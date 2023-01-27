@@ -2,6 +2,40 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-10-28-long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms.md",
+      "title": "Long COVID: how lost connections between nerve cells in the brain may explain cognitive symptoms",
+      "excerpt": "Some people with long COVID complain of “brain fog”, which includes a wide variety of cognitive symptoms affecting memory, concentration, sleep and speech. There’s also growing concern about ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "originalUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "publishedDateTime": "2022-10-27T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-artificial-intelligence-has-an-achilles-heel-data.md",
       "title": "Artificial Intelligence Has An Achilles Heel: Data",
       "excerpt": "Artificial intelligence just doesn’t pop up when you install tools and software. It takes planning and, most of all, it takes data. But getting the right data to make AI and machine learning algorithms — and understanding it — is where many organizations are slipping up,",
@@ -1124,49 +1158,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-your-guide-to-robotic-prostatectomy-procedure-recovery-and-alternatives.md",
-      "title": "Your Guide to Robotic Prostatectomy: Procedure, Recovery, and Alternatives",
-      "excerpt": "During this procedure, a surgeon removes your prostate by guiding a robotic arm from behind a control panel. The robotic arm allows for greater precision than if they perform the surgery by hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "originalUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/09/Doctor-Robotic-surgery-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

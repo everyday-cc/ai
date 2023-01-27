@@ -2,6 +2,49 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2022-10-20-waymo-driverless-rides-are-coming-to-los-angeles.md",
+      "title": "Waymo driverless rides are coming to Los Angeles",
+      "excerpt": "So Angelenos will soon notice Waymo's eye-catching, gadget-heavy driverless cars on LA roads as the company eyes offering its services in as many parts of the Los Angeles area as are feasible.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
+      "originalUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03CfCz72En1mxYmjI6USYVC/hero-image.fill.size_1200x675.v1666127617.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
       "title": "A deep artificial neural network powered by enzymes",
       "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
@@ -1166,49 +1209,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report.md",
-      "title": "Language Processing Market Strategies, Future Plans, Competitive Landscape, Emerging Trends & Growth Opportunities by Latest Research Report 2022-2028",
-      "excerpt": "Natural language processing is a subfield of computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human languages ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/cyberattacks-hackers-russia-AFP-1K-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

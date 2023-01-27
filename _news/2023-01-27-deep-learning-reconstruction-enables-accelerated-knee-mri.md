@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Deep learning reconstruction enables accelerated knee MRI"
+title: "Deep Learning Reconstruction Enables Accelerated Knee MRI"
 excerpt: "Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating internal derangement of the knee in a clinical setting,"
-publishedDateTime: 2023-01-26T19:10:00Z
-originalUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
-webUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
+publishedDateTime: 2023-01-27T07:00:00Z
+originalUrl: "https://www.physiciansweekly.com/deep-learning-reconstruction-enables-accelerated-knee-mri/"
+webUrl: "https://www.physiciansweekly.com/deep-learning-reconstruction-enables-accelerated-knee-mri/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Too Old to Operate
+  domain: physiciansweekly.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "a4sX+KddSRCO7nI9nNkRZ/woen5J1A/wqDwUKk3uwftAv2o8Ds7aikoNEkm99sLKLip+/tVTu6UTsO5dCjQZ+HwCaafwhfXkvtQOE5z40fSwcUQx5+auqyIdhJyUrPj/GSj1htUcgemKI80K9Q1VRjQtYUBTlLRelacVTFdiZ8uZWaPHwJaiUS9e/693NKoY90akmcornYmctEej1vfDKResrv31hdgcwbZ7K6jHBKcNUKU8K3+nXuZInjSNXsj3IIsJ9LHUF/g9NWvdzrsVFMyy8pPV5z9YgYIY0bFVOBUTZiL881RHWxV48k/mlXeLO4sdPvssXT9/gkQVTIWj2ZYhqno3/pmLiv0wSVZOkUbDnaH7OzJWzT+wr4uzlFM7ghOWkkeOHDZlTlP6snSSLBkwI1KsjpK4LND87PDBa6y9hbxlp5rETHnLWG23Xsa+ZpdtO+ciOCKsubEFRe4mZTajKqFthnwx/OcqTpPY7gw5uBwJWvUwkSxpeT/Dwqv7b4RFNQVaCbYlMobrfaA2BA==;oS5K0zdOyporjcleFAlbaw=="
+images:
+  - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/01/image1674802856.jpg"
+    width: 800
+    height: 600
+    isCached: true
+
+secured: "T4OifoR8brcjEiLdsLA/NsM65BhcOxwrauycIGNEVj+3RxiWsmVS/OkMPu92AaBd1iFkHDcaLXmnGy34et0iMPQ+YPAmqX8MnzykEBC5gUnlWiYyf71Enb5kDRVaiuWsYWkitGho+O3ob8WJBCY31++NLY44qF6/uq29ZUlC98vCU6en9TKTiF1lWZUWSGF+DeCjnWHnDLxBXPW3jifV1O2enh39PN/eO9wMLL7KniPl3giznLM3xxxLVQvvw9IRXxnsW0Ady85G9R6mg5MpWtMV7qRQTmtF2JAg4/cxoPGwjDvwHl2eRMaCeNEHFCsTGY7Nye3PX8XLchuSCpjc1Qwh47v7x4U3OmPLGd4JpV8=;hknMTe4V1EeYKWyNw+oyPw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-18-facebook-using-artificial-intelligence-to-help-suicidal-people.md",
+      "title": "Facebook Using Artificial Intelligence to Help Suicidal People",
+      "excerpt": "It’s the second leading cause of death for people between 15 and 29 years old. Could AI on Facebook help? Share on Pinterest When a person dies by suicide, those in their life often wonder what ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health-news/facebook-artificial-intelligence-help-suicidal-people",
+      "originalUrl": "https://www.healthline.com/health-news/facebook-artificial-intelligence-help-suicidal-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2020/09/4242-facebook_sign-1296x728-header-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-microelectronics-give-researchers-a-remote-control-for-biological-robots.md",
       "title": "Microelectronics give researchers a remote control for biological robots",
       "excerpt": "First, they walked. Then, they saw the light. Now, miniature biological robots have gained a new trick: remote control. The hybrid 'eBiobots' are the first to combine soft materials, living muscle ...",
@@ -336,40 +379,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
-      "title": "DLR Launches Ground-breaking Robot Control Software",
-      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/01/17/9744604.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/01/17/9744604.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-17-set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk.md",
       "title": "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK",
       "excerpt": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you",
@@ -452,6 +461,40 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
+      "title": "DLR Launches Ground-breaking Robot Control Software",
+      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1119,57 +1162,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-nick-cave-criticises-ai-attempt-to-write-nick-cave-lyrics-this-song-sucks.md",
-      "title": "Nick Cave criticises AI attempt to write Nick Cave lyrics: 'This song sucks'",
-      "excerpt": "Nick Cave has written a scathing review of an artificial intelligence system that tried to write a song \"in the style of Nick Cave\". The Bad Seeds frontman responded after a fan sent him lyrics written by ChatGPT,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17964/production/_128321669_gettyimages-463824907.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-64302944.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-64302944.amp",
-      "publishedDateTime": "2023-01-17T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-in
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and The Future of Work: 5 experts on what ChatGPT, DALL-E and other AI tools mean for artists and knowledge workers"
-    excerpt: "By Lynne Parker, University of Tennessee; Casey Greene, University of Colorado Anschutz Medical Campus; Daniel Acuña, University of Colorado Boulder; Kentaro Toyama, University of Michigan, & Mark Finlayson,"
-    publishedDateTime: 2023-01-22T16:02:00Z
-    webUrl: "https://businessmirror.com.ph/2023/01/23/ai-and-the-future-of-work-5-experts-on-what-chatgpt-dall-e-and-other-ai-tools-mean-for-artists-and-knowledge-workers/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 15
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/explainer01-012323.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Chatgpt Could Be A Game-Changer For Marketers, But It Won't Replace Humans Any Time Soon"
     excerpt: "The recent release of the ChatGPT chatbot in November 2022 has generated significant public interest . In essence, ChatGPT is an AI-powered chatb"
     publishedDateTime: 2023-01-22T18:26:00Z

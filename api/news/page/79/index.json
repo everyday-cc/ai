@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-11-15-saskatoon-police-say-man-punched-by-officer-on-video-not-charged-because-of-cognitive-issues.md",
+      "title": "Saskatoon police say man punched by officer on video not charged because of 'cognitive issues'",
+      "excerpt": "The arresting officer determined there were cognitive issues involved,\" police ... Thompson said it also highlights the lack of services in that part of the city. \"It has to do with the allocation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/saskatoon/police-say-man-punched-officer-not-charged-cognitive-issues-1.6650899",
+      "originalUrl": "https://www.cbc.ca/news/canada/saskatoon/police-say-man-punched-officer-not-charged-cognitive-issues-1.6650899",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6639275.1667490974!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tackle.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6650899",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6650899",
+      "publishedDateTime": "2022-11-14T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-ai-drew-this-gorgeous-comic-series-can-you-tell.md",
       "title": "AI Drew This Gorgeous Comic Series. Can You Tell?",
       "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving.",
@@ -1116,49 +1159,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-brain-area-thought-to-impart-consciousness-behaves-instead-like-an-internet-router.md",
-      "title": "Brain area thought to impart consciousness, behaves instead like an Internet router",
-      "excerpt": "This insight may help lead to better therapies to address cognitive dysfunction in these disorders. \"The brain is the most complex system in the known universe. It is these data-driven theoretical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221114190629.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221114190629.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
