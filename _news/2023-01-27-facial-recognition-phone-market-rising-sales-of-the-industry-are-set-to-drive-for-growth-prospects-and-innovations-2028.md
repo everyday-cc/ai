@@ -30,10 +30,10 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition in Retail Market Is Booming Worldwide | Including 126 Pages Report"
-    excerpt: "In 2023] The Global Image Recognition in Retail Market Size (126 Report Pages) is estimated to be worth USD million"
-    publishedDateTime: 2023-01-24T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-is-booming-worldwide-including-126-pages-report-2023-01-23"
+  - title: "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029"
+    excerpt: "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market"
+    publishedDateTime: 2023-01-25T01:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
     type: article
     provider:
       name: MarketWatch
@@ -44,48 +44,108 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
-    publishedDateTime: 2023-01-25T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
+  - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
+    excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
+    publishedDateTime: 2023-01-26T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Technologies of Voice Recognition Market Research Report 2023-2027"
-    excerpt: "The “Technologies of Voice Recognition market” research study provides a detailed examination of the market based"
-    publishedDateTime: 2023-01-24T07:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-research-report-2023-2027-2023-01-24"
+  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
+    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
+    publishedDateTime: 2023-01-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Study Latest Artificial Intelligence in Insurance Market Report 2023 Is Booming Globally by 2029 with Leading CAGR"
-    excerpt: "Global Artificial Intelligence in Insurance MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current"
-    publishedDateTime: 2023-01-27T05:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/study-latest-artificial-intelligence-in-insurance-market-report-2023-is-booming-globally-by-2029-with-leading-cagr-2023-01-27"
+  - title: "Natural Language Processing (NLP) Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
+    excerpt: "In 2023, Current Natural Language Processing (NLP) Software Market Size | 2029 | Newest [115] Pages Report Natural"
+    publishedDateTime: 2023-01-26T13:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Supply Chain Market 2023 Constitutes Trends, Segment Size, Restraints, and Drivers that Transform the Industry to 2028"
+    excerpt: "A comprehensive research on Artificial Intelligence Supply Chain Market Overview 2023-2028. It displays the market size"
+    publishedDateTime: 2023-01-25T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2023-constitutes-trends-segment-size-restraints-and-drivers-that-transform-the-industry-to-2028-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
+    excerpt: "In 2023, Current Voice Recognition Market Size | 2029 | Newest [111] Pages Report Voice Recognition Market Size Outlook"
+    publishedDateTime: 2023-01-24T03:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Driverless Car Software Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
+    excerpt: "Global Driverless Car Software Market New Research Report 2023|The Driverless Car Software Market Size is Segmented"
+    publishedDateTime: 2023-01-24T05:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+  - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
+    publishedDateTime: 2023-01-27T02:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-voice-recognition-system-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Size Projection, Growth Outlook, SWOT Analysis and Industry Insights by 2030"
+    excerpt: "With the unlimited possibilities given by this cutting-edge technology, artificial intelligence in healthcare is flourishing, and major corporate giants are expressing interest and investing ..."
+    publishedDateTime: 2023-01-25T00:40:00Z
+    webUrl: "https://www.medgadget.com/2023/01/artificial-intelligence-in-drug-discovery-market-size-projection-growth-outlook-swot-analysis-and-industry-insights-by-2030.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "M/bXtAQFViS9qLqRzB2ZKdUzB9quGkmf1VKSgXKeQ3bE9H0L9LwZk0CXeQajIpUi6pGjp1ANCA8aAAebUJYkWjhMelamx4tAUDdqNqJ4d6fR6YACcGVdY8pT0NLXdsamhrj1TILNIxttJ5CsQRSZ7Tga6c4Fyb4zW0D60Vnc2kWXG3LV0txWk+J+8uPTC0f2c8H1SbK/kG76HZTFjTRDKVRLIPcgjDW3I+GfLt9wqGbiQmT/uB/FLZX81l1sTYdC7jCYy+86mvbBgSx0+/DZ0l2CCVcdEb0tZp9letdX0OqCKTV52rY/OrW9+yGk3CdWt1i1uK/SFG8xd+hyP4tBxmZWGC36LBA8Iq8EPaNSS70=;Izn1c1Ptl8wPi8vqdYIGQw=="
 ---

@@ -233,24 +233,6 @@ related:
         width: 1152
         height: 768
         isCached: true
-  - title: "Why is Microsoft putting billions of dollars into an Artificial Intelligence chatbot?"
-    excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. Show more Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI."
-    publishedDateTime: 2023-01-24T01:45:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/w172ydq97sfhqn7"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 27
-  - title: "Microsoft Invests $10 Billion in ChatGPT Creator OpenAI To Develop 'powerful' AI System"
-    excerpt: "Microsoft has confirmed that it is making a \"multibillion-dollar\" investment in OpenAI, the company that created ChatGPT, an artificial intelligence chatbot."
-    publishedDateTime: 2023-01-24T01:48:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/microsoft-invests-10-dollars-billion-in-chatgpt-creator-openai-to-develop-powerful-ai-system-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 26
   - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
     excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
     publishedDateTime: 2023-01-26T14:00:00Z

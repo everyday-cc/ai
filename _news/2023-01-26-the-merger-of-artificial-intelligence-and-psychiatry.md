@@ -2,11 +2,11 @@
 category: news
 title: "The Merger of Artificial Intelligence and Psychiatry"
 excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
-publishedDateTime: 2023-01-26T00:05:00Z
-originalUrl: "https://www.psychologytoday.com/au/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
-webUrl: "https://www.psychologytoday.com/au/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
-ampWebUrl: "https://www.psychologytoday.com/au/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
+publishedDateTime: 2023-01-26T12:36:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
+webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
 type: article
 quality: 39
 heat: -1
@@ -96,6 +96,6 @@ related:
         height: 813
         isCached: true
 
-secured: "+K6WEyN5agQ8qUdzunrIlEzP0hRipkasPIP29rGDj+34dckDWoXDZL04RGuRIRvXswSPxl4LwEQ//6UPIuvgC/OWFstByGc/VJyUSWK0c5wDQYwQFRDlA35vlZWTW2LKqvJhp96M9439NhQPUPRUwJ7CylBU8nwnUdeW8ne6l7iU8IL4dab6ErSj4sJ7HFyJgVA0RXWprnbGsVRyWPBlHKJ63rUadCJ/RaxzkIaFy25/Tx2XOjLplj3V9c43BBMSUXDBbY03iwYESDangjsAOYosRXMXS50a+dLQlxlEZsNV0ZdqAijfBXBU+sWX+d1WlZ1rok215D5lDntp3LihNeB89j+wyRqGxo6f9utWBkA=;Ov9BZY1kw2/XPOLd6CoyhQ=="
+secured: "a0R2Ap6RGaBHBhqBkEyvxI7j4lsVSTsx4C+qPPC0ZX51ViE5jAMwp6VQQQLainaAUMwl62x1YrxF2F3WXolgIeGFo75xtdBDuRzTh66s9RuMGLm3ggVWCQ4g5zyuZbr2hjeBn16Mls+efTGk5dEmvoDowvr0bv/Eb0skqJ9++K4AAzB2gUfTpZ/jUB25D70YEXjfHZyrYVV1dAAbcFAC20mG2n61uVRXbRWcz44/l9+xWJo/M+Bd4baPKa6wrnRxcxWGfQXWv10d6lzWMGHfVAFD7jkOspkQk0evpZjWMZxqatQUpuIbs1YH1rTVEcLFYNVZEjP/fychgGMHIlDvo6/3s+yyCd0gTT5tuPYidU4=;/qEBSDSWGqt4JCEw+JZcEA=="
 ---
 

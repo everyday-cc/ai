@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrou
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/01/deci-intel-300x225.jpg"
         width: 300
         height: 225
+        isCached: true
+  - title: "Deci delivers breakthrough inference performance on Intel’s 4th Gen Sapphire Rapids CPU"
+    excerpt: "Deci, the deep learning company building the next generation of AI, announced a breakthrough performance on Intel’s newly released 4th Gen Intel® Xeon® Scalable processors, code-named Sapphire Rapids."
+    publishedDateTime: 2023-01-28T14:00:00Z
+    webUrl: "https://insidebigdata.com/2023/01/28/deci-delivers-breakthrough-inference-performance-on-intels-4th-gen-sapphire-rapids-cpu/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 16
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/01/Deci_fig1.png"
+        width: 700
+        height: 315
         isCached: true
 
 secured: "JbB3lkL7Nc8X2zT35DCKzWw43CCFHi3fd4JvONRpjNrwYv766FV4z6Qy9n6uWiC0IMohlHD6a3FBwFoDz/nwYJRQGqP26PmCXApcdEbU/KlwSs5MNWpmSErX4Xct/2jXXK2ESwtrex+FkGup7G7bZVqjBYcUhLzzEcJHcsd60RBJ88mYmBIM0sEbad4S7AixNzAHysIv6jwKbwzswuCgRsgwJfoOHoNIuLtmjDJf1yEBeuXkyt/kGPTu/Tl0ha0Ye+IGilP4HuVgM+04vy0OEUZ6IwGwBOvLJGhB0UyYfxznMtwGt1vAP+blG4W0nZmRi0FF2XbGoorvX0DPog1aK7KHbpL2L3pBqbWYO8eds4Yuzv/M2oLxv2N2+j1UolXMsLXXvj9cGJgndIS3E8ip7a6GFw0HERSeIeXlfE19urmPRaOR6CfNs7OKOlJVK+6zJITc4JIErtnPou0iUngDM+T1uB6U1b3xhbN2u/WaU9N9h712SRJn8Z8iKal4no1KE5MkcKq8DFslqma0coE3zQ==;/tqNBdrgwQUaKxaPcRhk8w=="

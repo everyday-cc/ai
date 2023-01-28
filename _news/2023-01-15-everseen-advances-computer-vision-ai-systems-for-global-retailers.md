@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Everseen Advances Computer Vision AI Systems for Global Retailers"
-excerpt: "\"Everseen's computer vision AI delivers insights that enable retailers to see and solve complex challenges in real-time to significantly reduce losses and improve margins by up to 20 percent.\""
-publishedDateTime: 2023-01-15T14:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30423676/everseen-advances-computer-vision-ai-systems-for-global-retailers"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/n30423676/everseen-advances-computer-vision-ai-systems-for-global-retailers"
+excerpt: "Expanded partner program and installations bring real-time loss prevention to more than half of the world's top 15 retailers Everseen, the leader in real-time computer vision AI for retailers ..."
+publishedDateTime: 2023-01-15T14:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "z/VCEhakrLQewNIrmDRDC0yohVINGk53y+Yjj+Z4JkBCL0bNSxrPuNUtlOL17C2PZLqOOcG7Hsmf5v+a/fUO6WZbG6g3ZDJZ+yNPABA+DN2Jv+kCkDKhnjAFBuDlaBQRUqin/2YRCuw71wFSqDFTuNz54ZLQqml+vM1/IN98dBkn5Cad3CdwM5m4liEBJJTos5dOpoEoIZzxExhNERB3RO/c2sclsZWRJjJEyP0lTil/Q8ygB4JZ+T+V2vjvSRJTVxlM0M5kqJJLbJGG7551vQ9XJuk4T05KKOqH/cV55c4/4BePwb2c8MI+pBK12qPUXo6Q9V9T+SE1VMRPwYZM7KnLkQnEwuHoA/bzXmKdS6s=;QdVRzPuUCw9K9IXeQGmAkQ=="
+secured: "WJ4R56WiB9aX7nZ7zAhwJ71rbMZJxi9uSLcsssOuIDKi/WnAgD1vNbzVfMZeqqrQP5c70q8FAMXu96DtNA3ISti6wuRKKekaO6gcceexVULbVLGQgd/YqTA5MjFFCAqvHOfUkULz6BG65hFqO9v8xKYbCmIt/aHkJdsAMxmc5UgBx73S08Z8uHdCVj8VwapLzJBWfSf0U/RZ2JWciTvmxGo3srDS6lhwy7tGi+sFyH3Krz2qUiI5qQeGCGNoeFcIK2FFvbOq2NMN8IoCV0zb5+W+tGWVy8YhGmcUJ3R2Fpi0IEmAwj9uyB2dnDCz6MXO4JuKRfTBHueDzJJ49DlNNYFOwtWFNtifpZRMGoXOpzs=;czVKSFoU9UPobC58MxTJxg=="
 ---
 

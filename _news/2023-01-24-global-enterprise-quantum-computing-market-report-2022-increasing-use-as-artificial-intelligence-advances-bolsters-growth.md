@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30549213"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30549213"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 313
     isCached: true
+
+related:
+  - title: "Study Latest Artificial Intelligence in Insurance Market Report 2023 Is Booming Globally by 2029 with Leading CAGR"
+    excerpt: "Global Artificial Intelligence in Insurance MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current"
+    publishedDateTime: 2023-01-27T05:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/study-latest-artificial-intelligence-in-insurance-market-report-2023-is-booming-globally-by-2029-with-leading-cagr-2023-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4sQMslPF4bqVQ/wtf51sJwRpKXmyu8ea+A76pxHhwutpROlOTX7mGuyFv4Q+HBq1KoDbUFFsttCpHJ+yFO3zTw6kob0NrU1aON4dgtghAN0yavtWG0Lb9a+TJudjXjn1vxRKdrbEO+Vp+VhiH1S4WxeJO7oWVyecJ+DUfB5aEeRb12KNaBZ6/ck3QM/gKKszeemFVLtwePlauVBKfcuctMngsV6SUEOqdv48NBKc6tAnop3rz/pCAq5r8//AC9PBziGUrVQNh2ByWPQmECZ7w+80iqXdy7mTA59+4v9c2FgLS5v+t9QpKvyFzay2oPQ+tAr9jyGkzZTHxSng052VCSaMChiTQdnEvutCZzr+i88=;fbiWSQiWFmpRC/zYdwk+vA=="
 ---
