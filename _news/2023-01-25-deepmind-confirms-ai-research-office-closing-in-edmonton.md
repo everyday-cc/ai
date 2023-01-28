@@ -136,6 +136,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "DeepMind Lays Off Staff And Shuts Down Their Canada Office"
+    excerpt: "DeepMind Lays Off Staff And Shuts Down Their Canada Office Alphabet Inc, the holding company of Google will soon close down its DeepMind research lab in Edmonton. They will also lay off some ..."
+    publishedDateTime: 2023-01-26T08:28:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/deepmind-lays-off-staff-and-shuts-down-their-canada-office/443616"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
     excerpt: "NDP Leader Rachel Notley said at a news conference in Edmonton Wednesday that without investment-targeted incentives in the sector, the province is at risk of los"
     publishedDateTime: 2023-01-25T23:39:00Z
@@ -180,6 +189,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google lay off more employees as DeepMind closes its office in Canada"
+    excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
+    publishedDateTime: 2023-01-26T09:49:00Z
+    webUrl: "https://www.gizchina.com/2023/01/26/google-layoff-more-employees-as-deepmind-closes-office-in-canada/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 19
 
 secured: "Nwl1itj7Kl6XMFtbV1GEW64Y/qI7zZpJ7AXO/ZLJRfFTgufSHldyeHQuqgq0Duxj/83cknFvvGzVmVNLorMqijS6l8A9N1IPiC76CgNS1j9Axoe+VYsLfqy3ebazLNk7CjHLVkCqQbVrpGh5fRL6I6ZIC/qabKKAuf7t+2QeJhK+sFMqi1yPIC3Q5VKgdXBL0xpml77FZPtD/WleoYarSqMzQYFnj4TTgM4bK84MVu+npsyaBu6hXqFefQEnZOaWJf1IS05cLGidaQ0A1MVBAr7+zcqbcinHeb/KoWe5Tw12klQrybbA0XhblUn+EF2C4yCp9y2egfMlec5TShKLE2aWa12/boVjDufdkElmEak=;mWLTWs8uiibRS7yc9afyEQ=="
 ---

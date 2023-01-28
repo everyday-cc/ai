@@ -163,6 +163,15 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 34
+  - title: "Big Tech was moving cautiously on AI. Then came ChatGPT"
+    excerpt: "Google, Facebook and Microsoft helped build the scaffolding of AI. Smaller companies are taking it to the masses, forcing Big Tech to react."
+    publishedDateTime: 2023-01-27T16:28:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/01/27/big-tech-was-moving-cautiously-on-ai-then-came-chatgpt-tdn/69848382007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
 
 secured: "kPQuiUqF0DNUSOxzj+C5WVJAmDMi6+UxElM151C/u9uh8VyqmG1dwtAyKjTlRH3SacbjPcOH+SC6ODHqFaF/w5on3FrQVm1R17YjaGbsU53l2BcJLD5hgpsun7NWjxdwuE3l4rSZbNtgFg6H5CIHM0L1LXBXOcwsrr8n/DqL8+elFO4vGs/h7Q61lXX0rqbjvSysAybWLHQD2jaJPhTJ7nbeHAVzmiLVb7KTqFfCSK8S8QlqjV4elw5q4Gzt5TAgMKFT3WP8wxNwXrLWdUaZcUcI3lASTslcYNvfz/KBayKHxp+z1WNIhUc34yQoQ1PNCjCVo7rQxlF/hTp8ScjWfWFv7ootfczGalZw3Z59wis=;jpNNHrUP7unEKYDKuSf/yg=="
 ---

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
-excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
-publishedDateTime: 2023-01-27T10:04:00Z
-originalUrl: "https://electrek.co/2023/01/26/elon-musk-thinks-not-smart-dont-teslas-full-self-driving-claims/"
-webUrl: "https://electrek.co/2023/01/26/elon-musk-thinks-not-smart-dont-teslas-full-self-driving-claims/"
+title: "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says"
+excerpt: "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities."
+publishedDateTime: 2023-01-27T23:43:00Z
+originalUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/"
+webUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/"
+ampWebUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 97
+heat: 247
+published: true
 
 provider:
-  name: Electrek
-  domain: electrek.co
+  name: YAHOO!Finance
+  domain: techcrunch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,28 +25,12 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
     width: 1200
-    height: 628
+    height: 675
     isCached: true
 
 related:
-  - title: "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says"
-    excerpt: "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities."
-    publishedDateTime: 2023-01-27T23:43:00Z
-    webUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/"
-    ampWebUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
     excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
     publishedDateTime: 2023-01-27T18:16:00Z
@@ -98,6 +84,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
+  - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
+    excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
+    publishedDateTime: 2023-01-27T10:04:00Z
+    webUrl: "https://electrek.co/2023/01/26/elon-musk-thinks-not-smart-dont-teslas-full-self-driving-claims/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
     excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
     publishedDateTime: 2023-01-28T00:03:00Z
@@ -226,6 +226,6 @@ related:
       domain: stuff.co.nz
     quality: 19
 
-secured: "iaQVj6iIVHm+fixLB21w6Jc3m2yTHsqUZVTNgkLBhr+vKibkXu3gcObgkTcM/mwj1HlKpgcjOH9CultdtbKL+K2rVgVbFVQu79FJuRctFll9A6qRqC0gy69r8nvnmA6bjH1xAH8i4/aWp2q76+GuFQOwSsiPGDla/1ZqAYHdFXIvz3nU2ZoOREe2eYopJaKr/BWotlml75QpXadlMd6E+DqwFtpvrobr724KBXZ3xPTsGFVPr8MNg0nom/wIzo3U44hm3BXZ9G0eGW81vkJLxBHhK7wcEpW8wrwWjNEeVgTBLkB2c/Njbr8U5Z9lI+by8zaRoAjs4702H4lKiKGFqQNu52iieLGfFxceyfopqsL4h4JIQRldqSwnf2860m46lF6E4l9NCYXKp5jptfh6N1tufaHv3MmTP24N26mZxyJ5/7ggaTu5VYH7GrD8QaJY7SD6Oopq27Hg3fP9PhOd5vRdMD/gI1KETFNIdZbVbSp//uLMNM83t3xpE635fgKnQaiU58w8ENUFaAQwri6rUA==;w/eRTS4313/hnH5xF1F0Fw=="
+secured: "dat/oSCbV9jtoMMFQ2SNtfbV9mW652E+TulorwebrPt9sBfTsufGj+ANqKLY7yYK9S4SwsD0EVOZryQgLL+u5fS9nnwQDIhW+zoNapH7zk+FFAFLLu22XbBMmOgvilU2XOcABUySRqLhcQP2sBtcpDfg8eNbP0YQIeSxO67wGW2X97doqqW8YwkN/Tl8sDRVHN0zCz8qG4uDS7inojb5i4j9LO4wgdsmmUTMqCE2clA7x677mG+u0IYHseaQGJ0lqbYqHJWxsK6C/vVsNkqFXgl5e6wgeGRheA2li/9PsRV+wPnmYpHRiVsOXO1rDUKrRZb4768wsSA31rfz+HrDWtPDQpLSLnkGHKO+3RtAZNY=;bCDD8EQ/7PPEhOzuUB6ABw=="
 ---
 

@@ -1,21 +1,20 @@
 ---
 category: news
-title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
-excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
-publishedDateTime: 2023-01-27T14:41:00Z
-originalUrl: "https://wraltechwire.com/2023/01/27/robot-lawyers-artificial-intelligence-program-chatgpt-passes-law-exams/"
-webUrl: "https://wraltechwire.com/2023/01/27/robot-lawyers-artificial-intelligence-program-chatgpt-passes-law-exams/"
+title: "Big Tech was moving cautiously on AI. Then came ChatGPT"
+excerpt: "Google, Facebook and Microsoft helped build the scaffolding of AI. Smaller companies are taking it to the masses, forcing Big Tech to react."
+publishedDateTime: 2023-01-27T16:28:00Z
+originalUrl: "https://www.detroitnews.com/story/business/2023/01/27/big-tech-was-moving-cautiously-on-ai-then-came-chatgpt-tdn/69848382007/"
+webUrl: "https://www.detroitnews.com/story/business/2023/01/27/big-tech-was-moving-cautiously-on-ai-then-came-chatgpt-tdn/69848382007/"
 type: article
-quality: 34
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: WRAL TechWire
-  domain: wraltechwire.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
-  - AI in Robotics
   - AI
 
 related:
@@ -154,6 +153,15 @@ related:
         width: 620
         height: 352
         isCached: true
+  - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
+    excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
+    publishedDateTime: 2023-01-27T14:41:00Z
+    webUrl: "https://wraltechwire.com/2023/01/27/robot-lawyers-artificial-intelligence-program-chatgpt-passes-law-exams/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 34
   - title: "ChatGPT AI bot passes law exams"
     excerpt: "An AI chatbot powered by data harvested from the internet has passed exams at a US law school after automatically generating essays to an acceptable academic standard on topics ranging from constitutional law to taxation."
     publishedDateTime: 2023-01-26T14:09:00Z
@@ -163,16 +171,7 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
-  - title: "Big Tech was moving cautiously on AI. Then came ChatGPT"
-    excerpt: "Google, Facebook and Microsoft helped build the scaffolding of AI. Smaller companies are taking it to the masses, forcing Big Tech to react."
-    publishedDateTime: 2023-01-27T16:28:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/01/27/big-tech-was-moving-cautiously-on-ai-then-came-chatgpt-tdn/69848382007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 17
 
-secured: "e+eR/uj8XX9uxO3ioI7m43XUWya/pjh7DE12mCa9GWPnrx25hxuTlwVt02vEzhIE2f0yJfmDuwPcj4DWOloOsl3lO7a8YX8Ct4b3PpcdZz0pTaITXnjd5Owe8sfS9c+IZPwvn9IfFx0MxHdh3Sdw7+UYvR4At3i36pJghITmoqBiCTWApHHtlM2WNmWM/8Npk75vfWTO0Mxn0oidtNn8nhH2asW9G0+sFdYLmfbc9VGaXC0eJzQIKaskVDk1jX8XXf5nYqTzvFjU6nbSE8CtXK0UIoUqq1Gci6uUGDIVk38DdbcUibGhRe1AFsaicOOO8XwpC7YeRI70ME1gZeS66wcpmQQoD+rYjCtCtuUzWsmYNgyr0cRzrz35Ar4cGy6vK0nEXdT68bAX55QraFOzbd/DsU3lDXgfI7C3HEWXJvX0j5A08irudt/nmVAaI2sx/+AIahkQgJ6Jqj6ZgU3sDmgEk5XJdCzjeIw+XOaLtdZHBzOgiw10xKevw9VkZuIPDpzw6zKTNSZG7p/5uGu/pQ==;bwR0Xr0ZEK9HeA2V1Rvl0w=="
+secured: "ETFM7w/gF+Hg8UJmkbLpfQ+NMhHHgVE3hJUvfGmQhMSqJbq48o5uqnrbiEMglZp3cJUNhnxnRkUin0EFVyxo64Zcb1XCIxiy32XWxTM/83T5O7i2wxqu46VGIV1tBF60ryNrk8Bvc2wQsSlobw6UM6VWxJNRvTtOBzMhXgb8eYK6Ry0oZnyWhy2OH04XXrUOgsd3mbRjx4ounITyntS5d1owwZ/uFoRNnKcgvuJBTQ+cRam4xTO7IGIJ9P0IIpN9+zdnBa+6Cn3oxgPOEZUnASwgBEfzwwF2ovTSUr+lTydxuCX5/Dt+zF0V+IWEtW324y76b2n9oQDHQyfYdvTdEx1OyDR07A+vYVOl9zA/s7TROz91Bz1225/CJxpLh+GOGzbmypOtrTJCsdmuTAlvcgXEPua+RwxiSVczQWJ7Q1PTc5WCDrsyOGSkCOKf77xH4TuVNuf67pXnNeIg3GyYafAjg+x+ru0Ue7LGTadUcUNzOimLzQPS5fZmTOVyljqRurIr+mmrV7O5Oy02JtIr0A==;OgGOSlKJKt91S92/59yJww=="
 ---
 

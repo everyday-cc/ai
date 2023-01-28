@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says"
+    excerpt: "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities."
+    publishedDateTime: 2023-01-27T23:43:00Z
+    webUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/"
+    ampWebUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
     excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
     publishedDateTime: 2023-01-27T18:16:00Z
@@ -34,20 +50,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 71
-    images:
-      - url: "https://www.slashgear.com/img/gallery/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/l-intro-1674842787.jpg"
-        width: 1600
-        height: 897
-        isCached: true
-  - title: "The Best Driver Assistance Systems You Can Buy That Aren't Tesla Autopilot"
-    excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
-    publishedDateTime: 2023-01-27T18:16:00Z
-    webUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
     images:
       - url: "https://www.slashgear.com/img/gallery/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/l-intro-1674842787.jpg"
         width: 1600
@@ -105,20 +107,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Will We Blame Self-Driving Cars?"
-    excerpt: "A new study finds that people are likely to hold autonomous vehicles liable for accidents even when they’re not at fault."
-    publishedDateTime: 2023-01-26T14:07:00Z
-    webUrl: "https://www.wsj.com/articles/will-we-blame-self-driving-cars-11674745636"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-710024/social"
-        width: 1279
-        height: 640
         isCached: true
   - title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
     excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
@@ -208,6 +196,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 46
+  - title: "California Might Allow Self-Driving Semi-Trucks on Roads"
+    excerpt: "Following years of pleadings from the autonomous vehicle industry, California officials are revisiting a statewide policy that prohibits self-driving semi-trucks and big rigs on its roads."
+    publishedDateTime: 2023-01-27T17:16:00Z
+    webUrl: "https://www.govtech.com/fs/california-might-allow-self-driving-semi-trucks-on-roads"
+    ampWebUrl: "https://www.govtech.com/fs/california-might-allow-self-driving-semi-trucks-on-roads?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-might-allow-self-driving-semi-trucks-on-roads?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/ac47d98/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F77%2F9a%2Fab4e14a38bbac86a1b90c10c07b4%2Fshutterstock-5291614481.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Tesla's Autopilot system tumbles in self-driving safety ratings"
     excerpt: "Autopilot had once been regarded by the Consumer Reports team as one of the best systems in class, ranking second in the same study last year. It wasn’t as fortunate this year, with the firm ranking it a mere seventh on the list."
     publishedDateTime: 2023-01-25T19:35:00Z

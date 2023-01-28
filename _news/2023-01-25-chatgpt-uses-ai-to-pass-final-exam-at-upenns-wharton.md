@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo161658437822"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo161658437822"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -163,6 +163,15 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
+  - title: "Big Tech was moving cautiously on AI. Then came ChatGPT"
+    excerpt: "Google, Facebook and Microsoft helped build the scaffolding of AI. Smaller companies are taking it to the masses, forcing Big Tech to react."
+    publishedDateTime: 2023-01-27T16:28:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/01/27/big-tech-was-moving-cautiously-on-ai-then-came-chatgpt-tdn/69848382007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
 
 secured: "9I/QFooDVSrilG4EWEwf5Eee0kMhV+CZAe0HBTTCoxDzSzlSO5iqUrLNFo9mA7VxFvwpT+6/rWGw3F4J7uY7E4S7L2zvHVU1Y2bJKTYjRFWy6VSHKy5dFDP6qpc5FZV0mGTfHHRvvHfBPWKBQPmbeiT6kUokqF3hc1MqCWIX/1yAtvT7ve20+lJroG7He/enr19eXhOa2+pKJrt/vDXn8kiIfuG0sOcqflRXZyhzmuqVuD41MC/E3sLhQhtuTvB7pa0vbTGG2TztiryTZgO5gqCEKXF0Kr22T7sq/q7ebgMWRB9suehGNiibDYnO65SgIJCQy03j79fnmpITLRFEfj1zak8Ara/Jhj03Yf6hoyYuWWHbJH5cldu8F0VwWh4TPQ3R7UHUKF4HA1zLqHDeazPRTQyW+nxCI/LNujJqkbLsSUIWbK61laa2ThHTp/FFEn8ij0MZWdHu69lCRYNIHxl81UT8pLN9D4QAZ2wvizr0mPXoaeF5UC7c2QmErBx/TJHnTuaecgn0Jn2gQLSDyQ==;UcJ9Dmwq1ADyeGViq6Rp2A=="
 ---

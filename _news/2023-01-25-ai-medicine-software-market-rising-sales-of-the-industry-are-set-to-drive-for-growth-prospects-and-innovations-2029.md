@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-mar
 webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
 type: article
 quality: 62
-heat: 152
+heat: 122
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
-    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
-    publishedDateTime: 2023-01-24T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
     excerpt: "In 2023, Current Natural Language Processing (NLP) Software Market Size | 2029 | Newest [115] Pages Report Natural"
     publishedDateTime: 2023-01-26T13:40:00Z
@@ -100,29 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
-    excerpt: "In 2023, Current Voice Recognition Market Size | 2029 | Newest [111] Pages Report Voice Recognition Market Size Outlook"
-    publishedDateTime: 2023-01-24T03:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless Car Software Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
-    excerpt: "Global Driverless Car Software Market New Research Report 2023|The Driverless Car Software Market Size is Segmented"
-    publishedDateTime: 2023-01-24T05:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
   - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
     publishedDateTime: 2023-01-27T02:17:00Z

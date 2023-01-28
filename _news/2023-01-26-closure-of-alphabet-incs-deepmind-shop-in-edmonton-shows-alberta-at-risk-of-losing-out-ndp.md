@@ -144,6 +144,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "DeepMind Lays Off Staff And Shuts Down Their Canada Office"
+    excerpt: "DeepMind Lays Off Staff And Shuts Down Their Canada Office Alphabet Inc, the holding company of Google will soon close down its DeepMind research lab in Edmonton. They will also lay off some ..."
+    publishedDateTime: 2023-01-26T08:28:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/deepmind-lays-off-staff-and-shuts-down-their-canada-office/443616"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Alphabet company DeepMind shutters Edmonton site as part of Google layoffs"
     excerpt: "UK-based DeepMind Technologies, which is owned by Google’s parent company Alphabet, is consolidating its offices in Canada and shutting down its Edmonton site."
     publishedDateTime: 2023-01-24T23:13:00Z
@@ -181,6 +190,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google lay off more employees as DeepMind closes its office in Canada"
+    excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
+    publishedDateTime: 2023-01-26T09:49:00Z
+    webUrl: "https://www.gizchina.com/2023/01/26/google-layoff-more-employees-as-deepmind-closes-office-in-canada/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 19
 
 secured: "5tEcLYI9KB2OU58C1kHCHqcoCWLKqrhJzDAVNhWzR+l8H2xH3O23WpaNOVANltB/7YDvxwdFDoVuE0F/8mnxrSBVhJNmyJnb+6dQhy6tHplBQpNPgkKNfYJNvsouZ8qBX1oyxyl6Rst1dfiphC1E5hIOioqoOYulzzuxzBvjYc9GNtNbDtU/vMrAeX9HEKOkAy/Ar+wqrssbCgaCLpfHQVC+7W5LZZ9UEextb4QoHSE9zE8vLG6OofVoH9MPAb+RaAln7iUI1E5mw+CbBtQ1qLIYPHpR3utOqOoAOQ4xcWu5e9CKUL63amc/bL5ccnOeltJUB1hwfT/4ZNOs/hkbeCDsiOyDbCRtkP9+wP9CXFAPZ17BJM8gZIrIdJAwex8n23sWn8SsnV8+jD70wPSohd2AOrU0YE2j39tM4WjyHD7+h3PYG3DYteVa0v6AF2Kqn6oZtsS8nYTYUrbRb3tTCm+vHmR6Lecpfufeq5Zlyb7uvptOpHVF+yn0oVfuuTCIRW5hzswqW5ILB7+7c3K7FQ==;ctP6Ri4ZQiL5tK2EC6VEqA=="
 ---

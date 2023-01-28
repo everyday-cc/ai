@@ -186,20 +186,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market (New Survey) Report 2023: To Garner Flourishing Growth Across World in Coming Year with Top Countries Data"
-    excerpt: "The “Artificial Intelligence Market” Research Report 2023: incorporates a thorough qualitative and quantitative"
-    publishedDateTime: 2023-01-24T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-new-survey-report-2023-to-garner-flourishing-growth-across-world-in-coming-year-with-top-countries-data-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Device Market (New Research Insights) Dominated Regions 2023: Upcoming Demand, Global Size and Share Forecast to 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 26, 2023 (The Expresswire) -- “Face Recognition Device Market” [122 Pages] report provides precise and strategic analysis of market historic, present and future ..."
     publishedDateTime: 2023-01-26T18:47:00Z

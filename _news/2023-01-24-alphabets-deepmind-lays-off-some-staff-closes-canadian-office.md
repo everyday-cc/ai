@@ -131,6 +131,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "DeepMind Lays Off Staff And Shuts Down Their Canada Office"
+    excerpt: "DeepMind Lays Off Staff And Shuts Down Their Canada Office Alphabet Inc, the holding company of Google will soon close down its DeepMind research lab in Edmonton. They will also lay off some ..."
+    publishedDateTime: 2023-01-26T08:28:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/deepmind-lays-off-staff-and-shuts-down-their-canada-office/443616"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
     excerpt: "NDP Leader Rachel Notley said at a news conference in Edmonton Wednesday that without investment-targeted incentives in the sector, the province is at risk of los"
     publishedDateTime: 2023-01-25T23:39:00Z
@@ -184,6 +193,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google lay off more employees as DeepMind closes its office in Canada"
+    excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
+    publishedDateTime: 2023-01-26T09:49:00Z
+    webUrl: "https://www.gizchina.com/2023/01/26/google-layoff-more-employees-as-deepmind-closes-office-in-canada/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 19
 
 secured: "lqDznoXb+W1IVmb3WVp+dM8UGv616scjLCVeWSz9wq0dPI+pARdTF2uNhY/Ej6lMe2+aRAtN3W6SnbOBo4nLmO7QxuXSkTfhgz+c+bwVyitavEwciXtGgNBlhW7v65nRWpNR28gaX18vCaPe9e2NCgnx04lTjSNT/WdMx/Nw1aY2zbSlM0IPE8cDhjVvEv6ctiyXipWz3qFm7WMbROCvaXwy0rI/qFFYZJdoldnhSdQ28H3mbY2hZexZM9Le+vFz+UOMAxGlwGKdDYMcVkEhYheojwm3omAPF/YOb5a+6mDToGhIQHMZUI96s9v4Ej8LbB5h8H7ugy+7q+5wX/6x07t7Lgmu8l0+cOzBhZz6C2w=;jOxmhTjVBNcxStgkJ/UplA=="
 ---

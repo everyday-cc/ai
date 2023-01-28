@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T00:00:00Z
 originalUrl: "https://cacm.acm.org/news/269184-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail"
 webUrl: "https://cacm.acm.org/news/269184-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: acm.org

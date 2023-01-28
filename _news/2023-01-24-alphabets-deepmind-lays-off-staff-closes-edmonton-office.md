@@ -128,6 +128,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "DeepMind Lays Off Staff And Shuts Down Their Canada Office"
+    excerpt: "DeepMind Lays Off Staff And Shuts Down Their Canada Office Alphabet Inc, the holding company of Google will soon close down its DeepMind research lab in Edmonton. They will also lay off some ..."
+    publishedDateTime: 2023-01-26T08:28:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/deepmind-lays-off-staff-and-shuts-down-their-canada-office/443616"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
     excerpt: "NDP Leader Rachel Notley said at a news conference in Edmonton Wednesday that without investment-targeted incentives in the sector, the province is at risk of los"
     publishedDateTime: 2023-01-25T23:39:00Z
@@ -181,6 +190,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google lay off more employees as DeepMind closes its office in Canada"
+    excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
+    publishedDateTime: 2023-01-26T09:49:00Z
+    webUrl: "https://www.gizchina.com/2023/01/26/google-layoff-more-employees-as-deepmind-closes-office-in-canada/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 19
 
 secured: "IDRztpHS3ALGh+hbW7RoEF1kywACfGye0thTZlQJPCXgjDatURdpEu10NkMYd1C/Gklwi5RYHZKmGSo5VjzOmX3IN2YBOdDCK5epntxFkUfB8d+aWf12VtF+2rs4UgtcUe76YkUlUYlY8W8ECuUu5cgDdgwld7e0D4XeyVLq9dre7lMbFODvucCtyUXD7OlinVAttfX8jzP18QK5hbT55oklergHdcYIEcPuOO59IHyuodtBx3iBMKoWiOaba9PnNwL+4GltY7MhuVMi61VJySZ2EdkEvz/986By4kejSjaMXGH8B/ZKsacE8cjhjqOsL2PcC45+0EwHkKghXn8DM66OFYQ/ZW5pn16OJd5UT5w=;vaT4pH2J4Pz7UGBHOVPXDw=="
 ---

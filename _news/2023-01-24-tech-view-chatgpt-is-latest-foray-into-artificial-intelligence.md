@@ -165,6 +165,15 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
+  - title: "Big Tech was moving cautiously on AI. Then came ChatGPT"
+    excerpt: "Google, Facebook and Microsoft helped build the scaffolding of AI. Smaller companies are taking it to the masses, forcing Big Tech to react."
+    publishedDateTime: 2023-01-27T16:28:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/01/27/big-tech-was-moving-cautiously-on-ai-then-came-chatgpt-tdn/69848382007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
 
 secured: "GPXqAr3mK9/oUGwWL740eNDF3+XDQyzpdpoDfROJoyY7DzpnY7fGeS6w9eWFxVumNzS58UfDVEus3DOB3xfTGUCF+BEKZpanVzTpOURAngPB1YxL3jU4k9wuTzXVXNTCiayW+N1UG5/M7zvSvJKpYSrgrdbKn1NQrAoGu32iM87V9QfZ3Cfs7YRnE+dHSyQK5wth/l6LdYesscYr3vQXKDwM26/EHG+z0ut4ZWu6VPRFM0Z0Io3jZj4/sEgPu7sOzZJZhe60C7DbqqE19vdkucv69uRFJrH1nY+PWLLWJmvA+wn5y6Ari5D+5lMPre0lt67ODyYyqqCDN98VJW/1RhBUj6Sd+srSMLVw8jmExN++GKpDeux2xgHD/75BS2gwna5uSMDIMlweDKkd6UkwDe6fHIQ/yXQwH+ioKnhB4L/iKj1W1LrnT5IpKKsGf8citcw29kCH9D3a6aE50Yqbi6Bx58x1yau5yBQuZl3lG/UiQ5EYSr89hAzx/xBMjlBvGYxze1ZN+0H5LUDXwfVDDw==;WqID/oiFotaX36gnVZGO4Q=="
 ---

@@ -30,14 +30,14 @@ related:
   - title: "AI tools can create new images, but who is the real artist?"
     excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app. But some living artists and photographers are fighting back."
     publishedDateTime: 2023-01-28T17:30:00Z
-    webUrl: "https://richmond.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_4906e5e9-9c6e-50bc-91a9-0b54cde7fb37.html"
+    webUrl: "https://tulsaworld.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_76792e7e-075f-59db-9a02-eb13545d7739.html"
     type: article
     provider:
-      name: Richmond
-      domain: richmond.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/90/4906e5e9-9c6e-50bc-91a9-0b54cde7fb37/63cedbdff2e0c.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/7/67/76792e7e-075f-59db-9a02-eb13545d7739/63cedbe3d7f89.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

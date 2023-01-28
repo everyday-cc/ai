@@ -120,20 +120,6 @@ related:
       name: Law
       domain: law.com
     quality: 29
-  - title: "Google’s answer to ChatGPT could make its debut in May"
-    excerpt: "In their paper, Alphabet-owned DeepMind Technologies define Sparrow as a dialogue agent \"that’s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user,"
-    publishedDateTime: 2023-01-24T04:53:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may/97268755"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97268755,imgsize-1262075,width-1200,height=765,overlay-etbrandequity/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "This state senator drafted legislation to regulate artificial intelligence technology — with some help from ChatGPT"
     excerpt: "Could ChatGPT one day run for political office? Probably not. But the artificial intelligence chatbot is already helping elected officials get some work done on Beacon Hill, although it might not be too happy about the goal."
     publishedDateTime: 2023-01-24T18:45:00Z
