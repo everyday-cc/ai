@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "mighty_ai"
   url: "https://twitter.com/mighty_ai"
-  followers: 1699
+  followers: 1698
 
 size: 51-200 employees
 yearFounded: 2014
