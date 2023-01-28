@@ -2,6 +2,49 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-10-06-alzheimers-disease-encouraging-data-suggest-new-drug-slows-cognitive-decline.md",
+      "title": "Alzheimer’s disease: 'Encouraging' data suggest new drug slows cognitive decline",
+      "excerpt": "Phase 3 clinical trial results shared in a press release suggest a new drug called lecanemab helps slow the cognitive decline rate in Alzheimer’s patients by 27% after 18 months of treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/alzheimers-disease-encouraging-data-suggest-new-drug-slows-cognitive-decline",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/alzheimers-disease-encouraging-data-suggest-new-drug-slows-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/alzheimers_drug_study_positive_results_732x549_thumb.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-an-ai-model-reveals-how-the-bodys-defense-system-recognizes-skin-cancer.md",
       "title": "An AI model reveals how the body’s defense system recognizes skin cancer",
       "excerpt": "The artificial intelligence model could be utilized to enable more effective care for skin cancer patients and could lead to similar breakthroughs in the diagnosis and treatment of other cancers.",
@@ -1133,49 +1176,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-robotics-startup-miko-acquires-ai-firm-square-off.md",
-      "title": "Robotics startup Miko acquires AI firm Square Off",
-      "excerpt": "With the acquisition, Miko is planning to expand its product line beyond the AI robot companions that it has developed",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/10/MIKO-SQUARE-OFF.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html/amp",
-      "publishedDateTime": "2022-10-05T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

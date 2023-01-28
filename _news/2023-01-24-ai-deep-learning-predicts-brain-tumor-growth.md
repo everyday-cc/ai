@@ -51,6 +51,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Calligrapher.ai is using AI for handwriting generation"
+    excerpt: "An RNN is a class of artificial neural networks where connections between nodes can create a cycle allowing output from some nodes to affect subsequent input to the same nodes. Recurrent neural networks can exhibit temporal dynamic behavior, which makes ..."
+    publishedDateTime: 2023-01-27T22:06:00Z
+    webUrl: "https://www.techspot.com/news/97411-calligrapherai-website-using-power-ai-handwriting-generation.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-27-image-13.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "Artificial intelligence and machine learning are helping companies provide even better service for customers"
     excerpt: "A new solution created by Hitachi in partnership with Penske utilizes AI and ML to predict problems before they arise, protecting the end customer."
     publishedDateTime: 2023-01-27T18:52:00Z
@@ -130,6 +144,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "fxON9fsUta4LXfBtoTzl/0bcVCN1WucDzafb56oNXavA4WswlErOhvYUS+4Y4X+pvLeMAAoJ+CsnUGaRCcD7GbJbEJqAus0S6pHQ6/+cffjL/fDqF3bX+apIH9YqxL6LqsTuNfFiBB2Od1jZZ3P741Iq6dT9wAvbKaZCtnh552LPzhOr64aQvunIvx7GSCp5wMPUoOJziucQElV410tIYUxISlJuHXzMAjHcgOY8c15/bF72sSmCJKnxx77md4zVT0EEwjGURG5+V5AnQszVKz13d/lfTftPan2rmWdV0BljcaAZhtb9wEHLdmws8F5Am5ttNHOG+k2v0xNDYULrWBVkc1RKYZlfZ7Gsxh42ARY=;063GL8Nt4fJqUG/LUisj/A=="
+secured: "0sPdfgLum63N2zCbPOIJtZ6f3V+2EgcuAY5CUY7yQgrh0nFLHHroxl7e8ZMCC3Lbbd0aZL39DSPTqdZMkw3NLsSUzhTLI6tT86lYf4+Zk1DyjK+PohRNEfq5b6ay9poTSgM2SN2Qx0NIE5eRZ0+aBTvw+v6ZbRSAuSniHW1/3BahoLQv7/r/UAHKMtzcZLdSNBCwGxVV/iiqCEr23SZym682Qc6i59gbK2FL5pxbaL4c8tTxWGZltHpLsmGmLfcWQ4vundaG5bt0H3YXBYKRfqSTT1rRtD1oodnIyU0JuBpl75GHA1CAMVxxNAhkHH/dyIdnnqZNOpJygPGB3GfKyitHqyRw10nVNAS+ip1gh4U=;PErUIKX9wYM6n4rMQXeMEA=="
 ---
 

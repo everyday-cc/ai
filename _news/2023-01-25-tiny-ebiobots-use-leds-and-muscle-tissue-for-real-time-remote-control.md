@@ -7,8 +7,8 @@ originalUrl: "https://newatlas.com/robotics/ebiobots-leds-muscle-tissue-remote-c
 webUrl: "https://newatlas.com/robotics/ebiobots-leds-muscle-tissue-remote-control"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: New Atlas
@@ -38,6 +38,20 @@ related:
       name: medtechdive
       domain: medtechdive.com
     quality: 29
+    images:
+      - url: "https://www.medtechdive.com/imgproxy/mBrvYZ7uYu5rVvtmYQUnwnn5zINGAPbncHeM9n0iw-E/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0Jpb0JvdC5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Researchers create remote-controlled biological robot that could eventually be used in surgery"
+    excerpt: "The design allows the integration of sensors and other components that could eventually equip the robots to detect biomarkers of disease, carry out biopsies or perform surgery."
+    publishedDateTime: 2023-01-27T23:22:00Z
+    webUrl: "https://www.medtechdive.com/news/remote-control-biological-robot-biobots/641267/"
+    type: article
+    provider:
+      name: medtechdive
+      domain: medtechdive.com
+    quality: 27
     images:
       - url: "https://www.medtechdive.com/imgproxy/mBrvYZ7uYu5rVvtmYQUnwnn5zINGAPbncHeM9n0iw-E/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0Jpb0JvdC5qcGc.jpg"
         width: 770

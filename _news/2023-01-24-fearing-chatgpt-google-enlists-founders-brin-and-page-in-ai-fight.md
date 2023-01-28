@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatg
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
 type: article
 quality: 89
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Is C3.ai Stock a ChatGPT Artificial Intelligence Play?"
-    excerpt: "You've seen the headlines about the artificial intelligence (AI) platform ChatGPT being able to write term papers and articles in a matter of minutes."
-    publishedDateTime: 2023-01-23T08:00:00Z
-    webUrl: "https://www.entrepreneur.com/finance/is-c3ai-stock-a-chatgpt-artificial-intelligence-play/443534"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
-    images:
-      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-443534.jpeg"
-        width: 1000
-        height: 340
         isCached: true
   - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
     excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
@@ -103,7 +89,7 @@ related:
     provider:
       name: Honolulu Star-Advertiser
       domain: staradvertiser.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
         width: 760
@@ -156,22 +142,6 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Inside the mind of ChatGPT: How artificial intelligence is changing the way we learn"
-    excerpt: "The future is here, and it can do your homework. Artificial intelligence, like the popular ChatGPT app, is ripe for exploitation by students, experts say."
-    publishedDateTime: 2023-01-23T08:00:00Z
-    webUrl: "https://globalnews.ca/news/9421360/artificial-intelligence-chatgpt-app-student-homework/"
-    ampWebUrl: "https://globalnews.ca/news/9421360/artificial-intelligence-chatgpt-app-student-homework/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9421360/artificial-intelligence-chatgpt-app-student-homework/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 52
-    images:
-      - url: "https://globalnews.ca/wp-content/uploads/2023/01/2023011218018-63c092ef3d9a87578edb1e3ajpeg-1.jpg?quality=85&#038;strip=all"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Google plans to demo a version of its search engine with AI chatbot features and launch 20 new products, following ChatGPT 'code red,' report says"
     excerpt: "Google is increasingly focusing on AI projects, following the launch of OpenAI's ChatGPT, the New York Times reported."
@@ -253,6 +223,20 @@ related:
       - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
         width: 400
         height: 400
+        isCached: true
+  - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
+    excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."
+    publishedDateTime: 2023-01-27T23:02:00Z
+    webUrl: "https://www.wxyz.com/news/national/two-americas/chatgpt-the-revolutionary-ai-that-can-understand-and-respond-to-questions"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 37
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/4440f30/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F73d%2Fbe88c4e651db4a7dbe102614d7272948%2F73dbbb4f96c9442fb8acea91b1291369%2Fposter_e2d6c1c76943401495237f98e60521cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Will ChatGPT, artificial intelligence replace financial professionals any time soon?"
     excerpt: "Will artificial intelligence replace financial advisors or insurance agents anytime soon? The consensus is that it won’t in the near future, but AI can provide some assistance and a little bit of fun in the meantime."

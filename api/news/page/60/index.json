@@ -2,6 +2,40 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-11-30-artificial-intelligence-and-natural-language-processing-for-chronic-diseases-prediction.md",
+      "title": "Artificial intelligence and natural language processing for chronic diseases prediction",
+      "excerpt": "Recently, with the advancement in artificial intelligence (AI), AI based natural language processing (NLP) methods have been widely used in advancing EHR-based clinical research (Juhn and Liu, 2020; Kaswan et al., 2021). AI driven methods combining natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/1455980",
+      "originalUrl": "https://www.ulster.ac.uk/doctoralcollege/find-a-phd/1455980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ulster University",
+        "domain": "ulster.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-aws-adds-ai-features-to-textract-transcribe-and-kendra.md",
       "title": "AWS adds AI features to Textract, Transcribe and Kendra",
       "excerpt": "Amazon Web Services (AWS) on Tuesday added new artificial intelligence (AI) features to some of its services including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake. The new updates, according to the company,",
@@ -1037,51 +1071,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-how-high-school-should-change-for-an-era-of-ai-and-robots.md",
-      "title": "How High School Should Change for an Era of AI and Robots",
-      "excerpt": "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change",
-      "sourceUrl": null,
-      "webUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
-      "originalUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/15085/robots_and_teachers-1669758372.png?auto=compress%2Cformat&w=640&h=259&fit=crop",
-          "width": 640,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
-      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
-      "publishedDateTime": "2022-11-29T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdSurge",
-        "domain": "edsurge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

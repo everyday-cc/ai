@@ -2,6 +2,50 @@
   "page": 150,
   "value": [
     {
+      "path": "_news/2022-09-14-ibm-steps-up-to-showcase-unusual-security-competency.md",
+      "title": "IBM Steps Up to Showcase Unusual Security Competency",
+      "excerpt": "IBM had an analyst briefing on its security efforts and, unsurprisingly, it was one of the most comprehensive I have ever seen. For much of the 80s and 90s, upcoming companies like Apple, Microsoft and Sun Microsystems seemed",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2022/09/ibm-steps-up-to-showcase-unusual-security-competency/",
+      "originalUrl": "https://securityboulevard.com/2022/09/ibm-steps-up-to-showcase-unusual-security-competency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityboulevard.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2022/09/ibm-steps-up-to-showcase-unusual-security-competency/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/09/ibm-steps-up-to-showcase-unusual-security-competency/amp/",
+      "publishedDateTime": "2022-09-13T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Boulevard",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes.md",
       "title": "Nike's Sneaker-Cleaning Robot Is Like a Car Wash for Shoes",
       "excerpt": "Nike's new robot-powered system for cleaning and repairing kicks. At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task).",
@@ -1126,58 +1170,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-gms-driverless-cruise-cars-head-to-arizona-texas.md",
-      "title": "GM's Driverless Cruise Cars Head to Arizona, Texas",
-      "excerpt": "Cruise is bringing driverless rides to Austin and Phoenix later this year. The GM-owned company plans to expand its robotaxi service, which launched recently in California, into new markets in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/gms-driverless-cruise-cars-head-to-arizona-texas",
-      "originalUrl": "https://www.pcmag.com/news/gms-driverless-cruise-cars-head-to-arizona-texas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/027RLUDPGGW518DL7JdLptl-1.fit_lim.size_1200x630.v1663062078.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

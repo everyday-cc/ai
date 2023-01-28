@@ -2,6 +2,39 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-09-30-amazons-ambient-intelligence-is-a-cozy-way-to-say-home-surveillance.md",
+      "title": "Amazon's 'ambient intelligence' is a cozy way to say home surveillance",
+      "excerpt": "Amazon laid out its vision for “ambient intelligence” (an obvious play on artificial intelligence), a term the company has used since at least 2021. Here’s what Amazon meant by that at the time.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/amazon-alexa-ambient-intelligence-surveillance",
+      "originalUrl": "https://mashable.com/article/amazon-alexa-ambient-intelligence-surveillance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding.md",
       "title": "As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding",
       "excerpt": "Analytics was founded by data scientists and geologists to help reduce the risks of flooding, harnessing the power of AI, ML, and big data.",
@@ -1113,58 +1146,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-edge-computing-ai-chips-market-growth-business-overview-2022-and-forecast-to-2028-nvidia-huawei-qualcomm.md",
-      "title": "Edge Computing AI Chips Market Growth, Business Overview 2022, and Forecast to 2028 | Nvidia, Huawei, Qualcomm",
-      "excerpt": "Edge Computing AI Chips Market 2022 Global Industry Share, Trends, Segmentation & Forecast To 2028 Sep 29, 2022 (Heraldkeepers) -- Global Edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-growth-business-overview-2022-and-forecast-to-2028-nvidia-huawei-qualcomm-2022-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-growth-business-overview-2022-and-forecast-to-2028-nvidia-huawei-qualcomm-2022-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

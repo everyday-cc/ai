@@ -2,6 +2,59 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2022-10-06-how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video.md",
+      "title": "How Synamedia uses Amazon Rekognition Video to build advanced video search capabilities for long-form video",
+      "excerpt": "Synamedia is a leading video technology provider addressing the needs for premium video service providers and direct-to-consumer (D2C) with a comprehensive solution portfolio. Synamedia solutions spread across several pillars such as video networks, TV platforms, advertisement and monetization, and content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/synamedia-rekognition.jpg",
+          "width": 1545,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T10:15:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-better-cognitive-predictor-in-people-at-high-risk-of-alzheimers-disease.md",
       "title": "Better Cognitive Predictor in People at High Risk of Alzheimer’s Disease",
       "excerpt": "while people with low levels of soluble amyloid-beta were more likely to experience cognitive impairment. In the current study, conducted on patients with the highest risk of developing AD ...",
@@ -1170,49 +1223,6 @@
         "Machine Learning",
         "AWS AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-alzheimers-disease-encouraging-data-suggest-new-drug-slows-cognitive-decline.md",
-      "title": "Alzheimer’s disease: 'Encouraging' data suggest new drug slows cognitive decline",
-      "excerpt": "Phase 3 clinical trial results shared in a press release suggest a new drug called lecanemab helps slow the cognitive decline rate in Alzheimer’s patients by 27% after 18 months of treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/alzheimers-disease-encouraging-data-suggest-new-drug-slows-cognitive-decline",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/alzheimers-disease-encouraging-data-suggest-new-drug-slows-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/alzheimers_drug_study_positive_results_732x549_thumb.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

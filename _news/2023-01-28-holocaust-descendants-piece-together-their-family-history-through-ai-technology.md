@@ -7,7 +7,7 @@ originalUrl: "https://abcnews.go.com/theview/video/holocaust-descendants-piece-f
 webUrl: "https://abcnews.go.com/theview/video/holocaust-descendants-piece-family-history-ai-technology-96724134"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Josh Gad on how AI search uncovered photos of his family from the Holocaust"
+    excerpt: "On International Holocaust Remembrance Day, Gad and his mother tell \"The View\" how facial recognition helped to find photos of his grandparents from the Holocaust."
+    publishedDateTime: 2023-01-28T00:08:00Z
+    webUrl: "https://abcnews.go.com/theview/video/josh-gad-ai-search-uncovered-photos-family-holocaust-96724069"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/theview/230127_view_segfour4_135_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
 
 secured: "it5jIxMKYJ2lNOfGSrULSBdL/a4PysXM3PRUXFT8pqMYvclVgGDF7/KlMuripcuoh83PmmxB+6OlVelhqFxwi8zzPYcqSlwNu2nPqAXH01vOwi7/04qPmcSzGZpLh+9VlLjHG9nNUBR3UTjMf+8b3ImybBdeSHSCLP79b2+6OH0D33Lf8vTMrR+unNOviH6zS/L8/fKYuVGIExhToQYq8zlYhUMBCvCtTh1iuoAyD9ZeUJCnPZXy8Vv6nVv7k865Eh/F9sizhRlkMCHosAMuW8yXQPt/DPJQV2GVrWMZ6Onu28ynXhgTX51Q9t1E2reBTZAvBc9wBrmjI+j1JLxki6x/gzp6Nttmis3w+E/y3lXjpJNFmrhfHNuiniVYmp7IzzeH+0R1LsXR2ylllCbsYvq+9c5QwwcnR28pLRGybEn02YhRjANmm1vrfwq/krXjUlNKuDeZV3gfWQ/h83RIO1B2N+Z4GC0uhbFEKrierqNFISZ+1HrYOLmHHyA/BKZb6wtELmyX10XPVdhYrw9CCw==;YntzAtk60+gz+I7CybNOFw=="
 ---

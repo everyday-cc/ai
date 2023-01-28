@@ -43,6 +43,22 @@ related:
         width: 1600
         height: 897
         isCached: true
+  - title: "US Market Regulator Probes Elon Musk's Role In Tesla Self-Driving Claims: Report"
+    excerpt: "The U.S. securities regulator is investigating Elon Musk's role in giving shape to EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter."
+    publishedDateTime: 2023-01-27T23:26:00Z
+    webUrl: "https://www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650"
+    ampWebUrl: "https://www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 69
+    images:
+      - url: "https://c.ndtvimg.com/2021-03/2l9lamok_elon-musk-tesla_625x300_24_March_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Elon Musk Faces SEC Probe for Role in Tesla Self-Driving Claims"
     excerpt: "US regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person."
     publishedDateTime: 2023-01-27T20:14:00Z

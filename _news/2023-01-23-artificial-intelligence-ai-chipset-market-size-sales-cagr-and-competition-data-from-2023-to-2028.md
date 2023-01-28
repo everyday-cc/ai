@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23"
 type: article
 quality: 103
-heat: 273
+heat: 263
 published: true
 
 provider:
@@ -161,20 +161,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
-    excerpt: "Global “Voice Recognition Market” research report provides major analysis on industry size, manufactures, market"
-    publishedDateTime: 2023-01-23T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

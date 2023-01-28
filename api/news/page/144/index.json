@@ -2,6 +2,58 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2022-09-18-talking-to-whales-can-ai-bridge-the-chasm-between-our-consciousness-and-other-animals.md",
+      "title": "Talking to whales: can AI bridge the chasm between our consciousness and other animals?",
+      "excerpt": "Speaking to animals has long been a fantasy. But now a dizzyingly ambitious project is harnessing all the power of modern science in an attempt to understand what whales say – and then hold conversations with them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible?amp;amp;amp",
+      "originalUrl": "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible?amp;amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6faca857c01debd20fc769617f3c9a15031f2877/0_128_6423_3854/master/6423.jpg?width=620&quality=85&auto=format&fit=max&s=f3d2228236838a3ac62e14c56fad7d0f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible",
+      "publishedDateTime": "2022-09-18T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-18-floating-shoe-display-and-its-optical-flow-with-computer-vision.md",
       "title": "Floating Shoe Display And Its Optical Flow With Computer Vision",
       "excerpt": "Digitalzakka brings a revolutionary and Jaw-Dropping Floating Shoe Display, innovatively designed by using the latest technology. Technology has done wonders in almost all businesses and has ...",
@@ -1066,49 +1118,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-ai-capable-of-early-detection-of-pancreatic-cancer.md",
-      "title": "AI Capable of Early Detection of Pancreatic Cancer",
-      "excerpt": "A new study published in the journal Radiology shows how AI deep learning can detect pancreatic cancer on CT scans with 91 percent accuracy. “The deep learning–based tool enabled accurate detection of pancreatic cancer on CT scans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-capable-early-detection-pancreatic-cancer",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-capable-early-detection-pancreatic-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic7642.gif.jpg?itok=ZErRoMYL",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-capable-early-detection-pancreatic-cancer?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-capable-early-detection-pancreatic-cancer?amp",
-      "publishedDateTime": "2022-09-16T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null

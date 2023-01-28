@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Applications Market Likely to Enjoy Remarkable Growth with LumenVox, Nuance Communications, Telisma S. A., AT&T Corp"
-    excerpt: "Major Key Players in the Automatic Speech Recognition Applications Market : LumenVox, Nuance Communications, Telisma S. A., AT&T Corp, Dolby Fusion Speech, Microsoft Tellme, Raytheon BBN Technologies,"
-    publishedDateTime: 2023-01-23T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-likely-to-enjoy-remarkable-growth-with-lumenvox-nuance-communications-telisma-s-a-att-corp-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
     publishedDateTime: 2023-01-27T02:17:00Z

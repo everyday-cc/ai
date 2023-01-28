@@ -39,6 +39,22 @@ related:
         width: 1600
         height: 897
         isCached: true
+  - title: "US Market Regulator Probes Elon Musk's Role In Tesla Self-Driving Claims: Report"
+    excerpt: "The U.S. securities regulator is investigating Elon Musk's role in giving shape to EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter."
+    publishedDateTime: 2023-01-27T23:26:00Z
+    webUrl: "https://www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650"
+    ampWebUrl: "https://www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 69
+    images:
+      - url: "https://c.ndtvimg.com/2021-03/2l9lamok_elon-musk-tesla_625x300_24_March_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Elon Musk kills hope of Tesla retrofitting new Autopilot/Self-Driving hardware"
     excerpt: "Elon Musk has killed the little hope some had for Tesla in offering a retrofit to the new Autopilot/Self-Driving"
     publishedDateTime: 2023-01-26T16:29:00Z
@@ -160,6 +176,6 @@ related:
       domain: stuff.co.nz
     quality: 19
 
-secured: "jKeESpjIznDzHZLKp6wkmA43KRJHeYLbtOo4olqfKAMXm0x8S7JZkpIhk6AKZcoJgu9ENJr97OH/N6DoglfaqZHXWcHlIhUs14Y34AdNwX8+EXSO0uBsVE4eKPcFIry+qHe7Knzkdet5jU+CLj6CaIFeTJSVxHbAARD93k5qPjr1Bta7oNLaWk93U9okT3AyhUr/a/W2Glrx0vgdMeAL5Cc9UAPg1Z3+xNHuirlsPRkNEzq9/pLp4xhUDHehw414lFL86SmbbNv7c79z5Nfh7wuNXtU+ZV5gHVbsGjKLZNgdUpv1dlXeOedpkqYauGdYZoRWKlfiaVtJ9cz62p/gVEIb3Di+c9FhP9nye12ZhQI=;AFGOLA5jklwR3334XrSHaA=="
+secured: "cd0T0MozZUFBnaAMfP4Dgxc0fjiok9NlPlv+FSZ1tsYHnk/70vHPy7v99rdyOacqVsYIwWxPqhxKFqlqvB6ykFDX9oKptm3FgLdZZXgL0QCx64EHwV15H4oZgc3d7mJ0SBVZMQ+eJQrr8P9+46NoTDAD0DdrgWEDGsslThK4JxPw4oL/1nXT6uOEVqPhFrf34DFeFqOW6v60/LyUh8L9o589V8gYgGQTT7p6PtHbTlbpFmZsadX/gk0pv6StZpF9dwAMBE24TxGt9uNguKg2OqOqlHi+1jzFTKxU51FoKJ8x1BPQeaX5v7SW67cYk3AC6jD1e2iZZcNAQAaIUfARlp5UYU6gtEQOs31klhdYIzrRn3g2skr12eYjWLx+pMsBE9IQZkI4O4vKBDoOtHCQ127zm+9WDZrhDHSlAtynRC+fWoloFNJML64Qk5i6ya6cjt9bjyD+yiBdDLVIKI35Hh27m9YAea/CMtR2XpNBKqRthYwKzaZCJIJAunYngd3PtZky1drQoW2GyyW96TVYgA==;ddLVYf5P78A08GKj1UJfpg=="
 ---
 

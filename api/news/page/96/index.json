@@ -2,6 +2,40 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-10-29-playing-video-games-tied-to-better-cognitive-performance-in-children.md",
+      "title": "Playing Video Games Tied to Better Cognitive Performance in Children",
+      "excerpt": "FRIDAY, Oct. 28, 2022 (HealthDay News) -- Children who play video games show better cognitive performance involving response inhibition and working memory than children who did not play video ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpvi.com/interests/playing-video-games-tied-to-better-cognitive-performance-in-children/article_2f3a8546-3ce0-5f4e-aa98-0e4a93a376f1.html",
+      "originalUrl": "https://www.kpvi.com/interests/playing-video-games-tied-to-better-cognitive-performance-in-children/article_2f3a8546-3ce0-5f4e-aa98-0e4a93a376f1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kpvi",
+        "domain": "kpvi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-who-owns-voice-and-image-artificial-intelligence-rights.md",
       "title": "Who Owns Voice And Image Artificial Intelligence Rights?",
       "excerpt": "With the advent of the ability of artificial intelligence (\"AI\") to alter an individual's voice and image (whether in deepfakes or expressly fictional works), it is critical to determine who – if anyone – owns the right to do so,",
@@ -1096,49 +1130,6 @@
         "AI",
         "AI in Finance",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers.md",
-      "title": "'Love hormone' oxytocin may improve cognitive impairment in Alzheimer's",
-      "excerpt": "Laurence Monneret/Getty Images Alzheimer’s disease is a common form of dementia characterized by cognitive impairments ... of neurology at the Uniformed Services University of the Health ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/love_hormone_alzheimers_732x549_thumb.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

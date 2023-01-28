@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/amp/"
 type: article
 quality: 86
-heat: 97
+heat: 98
 published: true
 
 provider:

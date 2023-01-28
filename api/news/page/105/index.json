@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-10-21-meta-develops-ai-for-speech-to-speech-translation-of-oral-languages.md",
+      "title": "Meta develops AI for speech-to-speech translation of oral languages",
+      "excerpt": "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
+      "originalUrl": "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/meta-sixteen_nine.jpg?VersionId=lTn9VA_ha3n.X02XPL7Agcsu7VxhhCeS",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
+      "publishedDateTime": "2022-10-21T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-daily-authority-our-pixel-7-review-is-here.md",
       "title": "Daily Authority: 📱 Our Pixel 7 review is here",
       "excerpt": "Today's edition of the Daily Authority covers our Pixel 7 review, Liz Truss and lettuce, and much more. Hit the link for all the details.",
@@ -1094,49 +1137,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-improving-the-mapping-of-human-skin-using-models-and-deep-learning.md",
-      "title": "Improving the mapping of human skin using models and deep learning",
-      "excerpt": "With just a scan of your face and a little basic data, such as height and weight, mathematician Alessio Gallucci can produce a complete body scan. To improve the 3D analysis of our skin he used deep learning techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/researcher-improves-th.jpg",
-          "width": 600,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-human-skin-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp",
-      "publishedDateTime": "2022-10-20T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

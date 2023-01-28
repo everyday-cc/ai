@@ -2,6 +2,58 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-11-17-locus-robotics-named-to-fast-companys-second-annual-list-of-the-next-big-things-in-tech.md",
+      "title": "Locus Robotics Named to Fast Company's Second Annual List of the Next Big Things in Tech",
+      "excerpt": "List Recognizes Leader in Warehouse Robotics for its Innovative AMR Robotics Technology Breakthroughs That Transform the WarehouseWILMINGTON,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/locus-robotics-named-to-fast-company-s-second-annual-list-of-the-next-big-things-in-tech-1031921742",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/locus-robotics-named-to-fast-company-s-second-annual-list-of-the-next-big-things-in-tech-1031921742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1440363/Locus_Robotics_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-ai-marketing-start-up-autoleadstar-is-helping-small-businesses-fight-corporate-monopolies.md",
       "title": "AI marketing start-up AutoLeadStar is helping small businesses fight corporate monopolies",
       "excerpt": "Aharon Horwitz is the co-founder and CEO of AutoLeadStar, a platform that provides AI-powered marketing automation technology ... And I felt like the startup space was very active in the business sense, but no one was thinking about how to help youth ...",
@@ -1149,50 +1201,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-machine-learning-based-digital-marketing-tools-to-streamline-ops.md",
-      "title": "Machine Learning-based digital marketing tools to streamline ops",
-      "excerpt": "As the online market is flooded with competitors and user engagement requiring real-time content, fast computing in digital marketing has become crucial. Here is a list of Machine Learning and Artificial Intelligence-backed tools that help automate time-consuming manual tasks of marketing.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/11/machine-learning-based-digital-marketing-tools",
-      "originalUrl": "https://yourstory.com/2022/11/machine-learning-based-digital-marketing-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/digitalmarketing-1606898886644.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

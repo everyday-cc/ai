@@ -59,6 +59,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Calligrapher.ai is using AI for handwriting generation"
+    excerpt: "An RNN is a class of artificial neural networks where connections between nodes can create a cycle allowing output from some nodes to affect subsequent input to the same nodes. Recurrent neural networks can exhibit temporal dynamic behavior, which makes ..."
+    publishedDateTime: 2023-01-27T22:06:00Z
+    webUrl: "https://www.techspot.com/news/97411-calligrapherai-website-using-power-ai-handwriting-generation.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-27-image-13.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "How Artificial Intelligence is Transforming Banking"
     excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
     publishedDateTime: 2023-01-23T22:57:00Z

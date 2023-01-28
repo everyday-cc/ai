@@ -2,6 +2,40 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2022-09-27-ponyai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi.md",
+      "title": "Pony.ai and SAIC AI Lab to Develop Fully Driverless EV Robotaxi",
+      "excerpt": "Together with SAIC AI Lab, Pony.ai launched a concept vehicle based on the SAIC Marvel R model and will build out a fleet of autonomous vehicles equipped with Pony.ai’s L4-level driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/pony-ai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi/article_287edbe7-cd51-5d04-9411-799343ed1abf.html",
+      "originalUrl": "https://www.eagletribune.com/region/pony-ai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi/article_287edbe7-cd51-5d04-9411-799343ed1abf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-ai-robots-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2030.md",
       "title": "AI robots Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2030",
       "excerpt": "Global AI robots market to reach USD 48.91 billion by 2027. Global AI robots market is valued approximately USD 6.9 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.",
@@ -1141,49 +1175,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-kaust-goes-for-nvidia-cpu-gpu-combo-in-shaheen-iii-supercomputer.md",
-      "title": "KAUST Goes For Nvidia CPU-GPU Combo In Shaheen-III Supercomputer",
-      "excerpt": "The King Abdullah University of Science and Technology (KAUST) in Saudi Arabia has introduced the latest in its long-standing lineup of successive",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
-      "originalUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/nvidia-gtc-2021-grace-cpu-hopper-gpu.jpg",
-          "width": 1089,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/",
-      "publishedDateTime": "2022-09-26T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

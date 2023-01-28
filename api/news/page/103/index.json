@@ -2,6 +2,49 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-10-24-these-15-people-are-shaping-the-office-of-the-future-designing-meeting-pods-hologram-calls-and-buildings-that-actually-make-workers-healthier.md",
+      "title": "These 15 people are shaping the office of the future, designing meeting pods, hologram calls, and buildings that actually make workers healthier",
+      "excerpt": "Power players from tech-startup CEOs to architects make workplaces safer and happier. See how offices can be more interactive, collaborative, and flexible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/people-shaping-future-of-office-workplace-commercial-real-estate-2022-10",
+      "originalUrl": "https://www.businessinsider.com/people-shaping-future-of-office-workplace-commercial-real-estate-2022-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network.md",
       "title": "Lunit partners with SEHA to test AI-based radiology via UAE's largest healthcare network",
       "excerpt": "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this year SEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ -- Lunit (KRX: 328130.",
@@ -1093,49 +1136,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-how-breaking-the-rules-of-math-will-give-us-an-edge-over-ai.md",
-      "title": "How Breaking the Rules of Math Will Give Us an Edge Over AI",
-      "excerpt": "A close look at how mathematics came to be shows the power of departing from convention, mathematician and author Junaid Mubeen writes in his new book.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
-      "originalUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
-      "publishedDateTime": "2022-10-21T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
       ]
     }
   ],

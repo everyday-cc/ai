@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. This review"
-    publishedDateTime: 2023-01-23T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud AI in Fintech Market Analysis Report 2023 Along with Statistics Figures, till 2028"
     excerpt: "AI helps Fintech companies in resolving human problems, by enhancing efficiency. According to our latest research, The global Cloud AI in Fintech market size will reach USD million in 2028, growing at a CAGR of over the analysis period 2022-2028."
     publishedDateTime: 2023-01-24T16:37:00Z
@@ -94,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market Insights : Industry dynamics, New Technologies and Forecast to 2029"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A latest"
-    publishedDateTime: 2023-01-23T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-industry-dynamics-new-technologies-and-forecast-to-2029-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

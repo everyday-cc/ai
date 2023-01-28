@@ -179,20 +179,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
-    excerpt: "Global “Voice Recognition Market” research report provides major analysis on industry size, manufactures, market"
-    publishedDateTime: 2023-01-23T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market Size Estimation, Share, Future Trends, Industry changing aspects CAGR, New Technologies and Forecast to 2029"
     excerpt: "Global Face Recognition Systems MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market"
     publishedDateTime: 2023-01-25T04:22:00Z

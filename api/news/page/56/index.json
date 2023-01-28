@@ -2,6 +2,40 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-12-02-jr-east-developing-system-for-future-driverless-trains.md",
+      "title": "JR East developing system for future driverless trains",
+      "excerpt": "Japan's largest railway operator is experimenting with a system that it hopes will lead to the introduction of driverless trains. The technology is designed to detect obstacles on train tracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221202_46/amp.html",
+      "publishedDateTime": "2022-12-02T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-i-interviewed-an-ai-about-the-ethics-of-ai-and-it-lied-to-me.md",
       "title": "I Interviewed An AI About The Ethics Of AI - And It Lied To Me",
       "excerpt": "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to",
@@ -1191,40 +1225,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets.md",
-      "title": "GM’s Cruise Seeking To Test Driverless Origin Robotaxi On San Francisco Streets",
-      "excerpt": "GM’s autonomous vehicle technology division, Cruise, is moving to test the Cruise Origin robotaxi on the streets of San Francisco without a steering wheel or manual controls. Per a recent report ...",
-      "sourceUrl": null,
-      "webUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
-      "originalUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GM Authority",
-        "domain": "gmauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

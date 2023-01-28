@@ -2,6 +2,50 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-10-03-artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-researchandmarketscom.md",
+      "title": "Artificial Intelligence In Marketing Global Market Report 2022: Featuring IBM, Salesforce, Amazon, Facebook & Oracle - ResearchAndMarkets.com",
+      "excerpt": "In October 2020, IBM planned to provide its IBM Watson, an AI for business toolset to industry leaders and make it available across the advertising ecosystem. Altering existing business practices ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-/article_9cdc3ee6-156d-5349-b0dc-97c04ab9bc18.html",
+      "originalUrl": "https://www.eagletribune.com/region/artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-/article_9cdc3ee6-156d-5349-b0dc-97c04ab9bc18.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
       "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
       "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
@@ -1106,49 +1150,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-how-smart-are-ai-chips-really.md",
-      "title": "How Smart Are AI Chips, Really?",
-      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

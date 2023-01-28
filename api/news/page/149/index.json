@@ -2,6 +2,49 @@
   "page": 149,
   "value": [
     {
+      "path": "_news/2022-09-14-ai-may-destroy-humanity-deepmind-scientists-claim-in-co-authored-paper.md",
+      "title": "AI may destroy humanity, DeepMind scientists claim in co-authored paper",
+      "excerpt": "A paper co-authored with the University of Oxford argues that advanced AI may want to implement a reward system that would harm humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "originalUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/2022/09/14/image/jpeg/nHhLLZVLZFuzjzQfMz3AQhayfDcqXyn0x6n1ZUX6.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts.md",
       "title": "Alphabet's (GOOGL) Waymo Makes Way to Bellevue, Boosts Efforts",
       "excerpt": "Alphabet GOOGL is leaving no stone unturned to expand its Waymo ride-hailing service across the United States. This is evident from the latest move of testing its self-driving vehicles on the streets of Bellevue,",
@@ -1050,50 +1093,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-ibm-steps-up-to-showcase-unusual-security-competency.md",
-      "title": "IBM Steps Up to Showcase Unusual Security Competency",
-      "excerpt": "IBM had an analyst briefing on its security efforts and, unsurprisingly, it was one of the most comprehensive I have ever seen. For much of the 80s and 90s, upcoming companies like Apple, Microsoft and Sun Microsystems seemed",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2022/09/ibm-steps-up-to-showcase-unusual-security-competency/",
-      "originalUrl": "https://securityboulevard.com/2022/09/ibm-steps-up-to-showcase-unusual-security-competency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securityboulevard.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://securityboulevard.com/2022/09/ibm-steps-up-to-showcase-unusual-security-competency/amp/",
-      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/09/ibm-steps-up-to-showcase-unusual-security-competency/amp/",
-      "publishedDateTime": "2022-09-13T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Boulevard",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-27T21:00:00Z
 originalUrl: "https://www.eagletribune.com/news/merrimack_valley/lawmakers-seek-rules-for-artificial-intelligence/article_193cb38a-9e4d-11ed-b71d-27288044a116.html"
 webUrl: "https://www.eagletribune.com/news/merrimack_valley/lawmakers-seek-rules-for-artificial-intelligence/article_193cb38a-9e4d-11ed-b71d-27288044a116.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"

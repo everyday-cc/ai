@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-poin
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics/"
 type: article
 quality: 73
-heat: 77
+heat: 73
 published: true
 
 provider:

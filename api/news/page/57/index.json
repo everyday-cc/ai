@@ -2,6 +2,40 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-12-02-gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets.md",
+      "title": "GM’s Cruise Seeking To Test Driverless Origin Robotaxi On San Francisco Streets",
+      "excerpt": "GM’s autonomous vehicle technology division, Cruise, is moving to test the Cruise Origin robotaxi on the streets of San Francisco without a steering wheel or manual controls. Per a recent report ...",
+      "sourceUrl": null,
+      "webUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
+      "originalUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GM Authority",
+        "domain": "gmauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-counting-the-cost-of-training-large-language-models.md",
       "title": "Counting The Cost Of Training Large Language Models",
       "excerpt": "There are two drivers of Jasper’s business, which is what is leading it away from the coupled model parallel and data parallel world of distributed GPU AI training, which has some painful processes when it comes to chopping up data and tasks for an AI ...",
@@ -1121,58 +1155,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027.md",
-      "title": "Natural Language Processing Market to Witness A Pronounce Growth During 2023-2027",
-      "excerpt": "“Natural Language Processing market size was valued at USD 10873.69 million in 2021 and is expected to expand at a CAGR of 18.29% during the forecast period, reaching USD 29786.67 million by 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027-2022-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027-2022-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

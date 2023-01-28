@@ -2,6 +2,49 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-10-22-how-breaking-the-rules-of-math-will-give-us-an-edge-over-ai.md",
+      "title": "How Breaking the Rules of Math Will Give Us an Edge Over AI",
+      "excerpt": "A close look at how mathematics came to be shows the power of departing from convention, mathematician and author Junaid Mubeen writes in his new book.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
+      "originalUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
+      "publishedDateTime": "2022-10-21T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-ai-tool-colorizes-black-and-white-photos-automatically.md",
       "title": "AI tool colorizes black-and-white photos automatically",
       "excerpt": "A Swedish machine learning researcher named Emil Wallner has released a free web tool called Palette.fm that automatically colorizes black-and-white photos using AI. After uploading a photo, users can choose a color filter or refine the colors using a written text description.",
@@ -1120,49 +1163,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-meta-develops-ai-for-speech-to-speech-translation-of-oral-languages.md",
-      "title": "Meta develops AI for speech-to-speech translation of oral languages",
-      "excerpt": "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "originalUrl": "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/meta-sixteen_nine.jpg?VersionId=lTn9VA_ha3n.X02XPL7Agcsu7VxhhCeS",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "publishedDateTime": "2022-10-21T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

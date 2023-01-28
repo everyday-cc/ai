@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence pioneers back $550mn fund for AI start-ups"
-excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Artificial intelligence news every morning. Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups,"
+excerpt: "Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups, in a move that bucks the wider downturn in tech dealmaking. Toronto-based Radical Ventures said it has received investment from several leaders in the AI field."
 publishedDateTime: 2023-01-27T09:22:00Z
-originalUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0"
-webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0"
+originalUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?sharetype=blocked"
+webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?sharetype=blocked"
 type: article
 quality: 32
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 800
         isCached: true
 
-secured: "tixSg/shZHRM3cEit92fwdbfTGdjNPXflQjoGCjdlXAc2PcdqIpoR28CJdDHGxj/6LavGCtATx9+8rHFRavHQ0tKQ3znbDwFx4BwgABQOAQz6eYY95BrrXz698INzUIJCCobFqRgVnCIQzxMEcKOIR/ogMszSwxCEFHsqMTvU59bYy+NfHtNqmmNz6Lin8L3tuYqs47fmZs5eh83jFAF6eXqEmd9RETkm6QcxrIa2GMiDvwyiKnniMqjmrsgDwpFmquli92kopXZhHEU4avKxcmr6i8uhpT9eJotfFig0NSLmEuSKyKq/Td1Q523I3tzoSCCczbF5ybfLxMLtQHHaDiViRKwpcUng7UOysFeHDw=;Z/zJ2d23StEmuBVxk49r9A=="
+secured: "IqLAupFXuXUhYXXgykRZuEszDMFY7AGGH/ntdmcXPDzoEnf/lnffbByIFo69t1NZidIymq3uzZjKf9QtozkPfw70y1V6R0QYsl2WOiXMArZDFTh82wv1uZzXpeORyldaKSyva+rZg2x2BBl9NozTVvcgmQSmdyTPAOWYWOLOxaTZC6cxzV3jdB3R6D1QPmYfLBict2jQb0QX6h7rv9q//EZpjadfuZd6PsGXNGIt+8bFAuZzrTn9/fJj9FARIwHrOYxaHnJv+ox6G6JusJJX/JyO1cUPDODxVifZdwO7b41jmeguiuiaJlSuZkJcRT1hlib379N6FucdXF+Qvh4wE0avCBdUS8QJkl1JJxpNwJ06nVw92aFkBq/vzsQKhhJhXAxepz3C++ft4UrwBiz6HS9yu9mqGhRcT+Hfw08em1NHH2NMpH5erdI1NF1zcvEAkootDux4OJ1YTKTiSpw6uqWd6pTOxkv68L5y3sMdeJvpRQ5jlMT+dGEzG9qLiCBzwyKi/+1XSQeAHyU4wn2l+Q==;Do41heCZvQ1CH5P+hx2GAA=="
 ---
 

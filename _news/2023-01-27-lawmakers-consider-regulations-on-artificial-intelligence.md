@@ -36,7 +36,7 @@ related:
     provider:
       name: Eagle-Tribune
       domain: eagletribune.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
         width: 600

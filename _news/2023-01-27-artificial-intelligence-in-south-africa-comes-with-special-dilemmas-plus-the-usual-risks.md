@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-com
 ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
 type: article
-quality: 29
-heat: 29
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,9 +17,8 @@ provider:
   domain: theconversation.com
 
 topics:
-  - AI Ethics
   - AI
 
-secured: "HHFppEH42fhWevVTamQkQk632ykDyeaPxo9Lvni6SM5Q1d3vuXv37v6qICRvShfLuyc4jBE3VIcREicJbV2Z3ff/yg4Dt+2FWiojhG/T8Bm/e2R9v2iPaaZMQvh9oAvKM9A5bH5ipEaRpuJ/azY41c5bCfw+2114u2J66/uF0ZIgLAGdoA7qk1KX8oHoO/jj0YaxdTQUllade9XTZmA/Bc+a0Lg868mHdbefzLHKHvxQl+ogU4pxZrP2EtTIwDcA6l3TUkAWRQNwnSefpQrOaJK4jwA6ULhPRsXnpJK0OvjTzWifPbnslDDNXsWnMuFXURb0dKHvz+zbXaAsMTxAl+RUzxSLXM0voYBeekjUxuxWyv4N3xtwv+u6wppcGelnfHOHTcs2/8u6sUSg2R3j3GvR3gt0udktHtcJqzuSppkmZMzIeyD21H8SXye6kGk5vVyvV3em08v5IoNiKhxuu4z0nO7JvIFBEjSZcdXv6A7MvKW55KjWMK+aUTnr16/2RefIpF6EJ98+DZyfORF+IA==;QYkUPkQHK9shnqLh+rM/gA=="
+secured: "mU2/zuUeZ+QmHKz/xI+G8/R6g+Q/h5faDK1N9PUnW35sH0Me9LgSxBTZnCYk/tWgn8/2+W5IK3+AMaEBalIlgiGgqpWf2CEXOgt4L1SA/tp8e2HjszvMAEozx1RiVzvLfu9vmmxxx4/QT0soFTEtVPnQ6RnPT2ynXkRT8zwhlEgYIH/slFkzoJV0qf7md81gTOE+jfxE16mgx1H9JV0qgCNWy32hZROe6fRWZ1vO8VrKpJb0WbMwRRcTJ4SiUT9WiEmm9IbqzkDx7h0nGd4zraVTgCjX+SLgUgP0QuSeA6e1EQdoGdX3fIi8d6iiUfttxcaTA9gwyKd48PbQao5nBThtDa1+nmNBQQwacnsqDtIrunHyq2eTQna4jpLrkAMksbRd91Snl52ZFZ6YTGKY0kw11BXj1Xhm0eNWgGyAr9Myj/lQgqn7Aw1oOyRkDx9FK6YsaNRN2aidPIomImN4A0QO2O9DWaMSuEQWwRjjLTAkHY+/2exuvn6mk2CsnccM9ExM0bT6Q9Rt3Msilrm+bg==;7D466l1OMefsrxHuMi5oxw=="
 ---
 

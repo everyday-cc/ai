@@ -2,6 +2,40 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-11-08-mobidev-explains-arkit-potential-for-providing-immersive-experience-on-ios.md",
+      "title": "MobiDev Explains ARKit Potential for Providing Immersive Experience on iOS",
+      "excerpt": "The most important aspect of ARKit is that it is the only framework that unlocks the full potential of iPhone and iPad hardware for augmented reality experiences. Some of the greatest features that ARKit has to offer are object and scene recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mobidev-explains-arkit-potential-providing-immersive-experience-ios-/2022/11/08/9708426.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mobidev-explains-arkit-potential-providing-immersive-experience-ios-/2022/11/08/9708426.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-insta360-dual-sensor-camera-uses-ai-to-make-video-editing-easy.md",
       "title": "Insta360 dual-sensor camera uses AI to make video editing easy",
       "excerpt": "In the continuing development of the One RS modular platform, Insta360 launched a variation with two big Leica lenses designed to provide enhanced 360 images.",
@@ -1078,58 +1112,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-eight-ways-to-reduce-ai-burnout.md",
-      "title": "Eight ways to reduce AI burnout",
-      "excerpt": "Responsible and ethical artificial intelligence has become the hot-button issue of our times, especially as AI seeps into every aspect of decision making and automation. 35% of companies now report using AI in their businesses and 42% are exploring the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/",
-      "originalUrl": "https://www.zdnet.com/article/eight-ways-to-reduce-ai-burnout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6c40aa780c005f0c8fd592a610e85f8e9f3081d1/2021/07/16/17b162b7-11cd-4a0a-9c87-13fb721e5e72/artificial-intelligence-shutterstock-1218220324.jpg?auto=webp&width=768",
-          "width": 768,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eight-ways-to-reduce-ai-burnout/",
-      "publishedDateTime": "2022-11-07T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

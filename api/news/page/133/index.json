@@ -2,6 +2,58 @@
   "page": 133,
   "value": [
     {
+      "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
+      "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
+      "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
+      "originalUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/intel-arc-alchemist-launch.jpg?p=1",
+          "width": 1723,
+          "height": 967,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
+      "publishedDateTime": "2022-09-27T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-speech-recognition-market-size-to-hit-usd-488-billion-at-a-2130-cagr-by-2030-report-by-market-research-future-mrfr.md",
       "title": "Speech Recognition Market Size To Hit USD 48.8 Billion at a 21.30% CAGR by 2030 - Report by Market Research Future (MRFR)",
       "excerpt": "The speech recognition market witness's rapid revenue growth due to the increasing use in the education sectors globally. Besides, the rising demand for accurate and easy-to-use speech recognition ...",
@@ -1132,40 +1184,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ponyai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi.md",
-      "title": "Pony.ai and SAIC AI Lab to Develop Fully Driverless EV Robotaxi",
-      "excerpt": "Together with SAIC AI Lab, Pony.ai launched a concept vehicle based on the SAIC Marvel R model and will build out a fleet of autonomous vehicles equipped with Pony.ai’s L4-level driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/pony-ai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi/article_287edbe7-cd51-5d04-9411-799343ed1abf.html",
-      "originalUrl": "https://www.eagletribune.com/region/pony-ai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi/article_287edbe7-cd51-5d04-9411-799343ed1abf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

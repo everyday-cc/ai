@@ -83,15 +83,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "From Teams to PowerPoint: 10 ways Azure AI enhances the Microsoft Apps we use everyday"
-    excerpt: "Azure AI is driving innovation and improving experiences for employees, users, and customers in a variety of ways, from increasing workday productivity to promoting inclusion and accessibility. The…"
-    publishedDateTime: 2023-01-23T08:00:35Z
-    webUrl: "https://azure.microsoft.com/blog/from-teams-to-powerpoint-10-ways-azure-ai-enhances-the-microsoft-apps-we-use-everyday/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 91
   - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
     excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate ..."
     publishedDateTime: 2023-01-23T18:41:00Z
