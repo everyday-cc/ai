@@ -160,20 +160,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Generative AI and the Ensuing Computer Human Whisperer"
-    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
-    publishedDateTime: 2023-01-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
-        width: 1000
-        height: 520
-        isCached: true
   - title: "2023 will be the year of AI accountability"
     excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
     publishedDateTime: 2023-01-24T12:00:00Z

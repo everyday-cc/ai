@@ -2,6 +2,59 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-10-28-artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings.md",
+      "title": "Artificial intelligence (AI) platform aims to give lenders improved efficiency, expanded financial product offerings",
+      "excerpt": "Lama AI says fintech partners can avoid building their own lending infrastructure, models and secure credit facilities while enjoying increased approval rates.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/",
+      "originalUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/blockchain.fintech.shutterstock_534103801.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/",
+      "publishedDateTime": "2022-10-27T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers.md",
       "title": "'Love hormone' oxytocin may improve cognitive impairment in Alzheimer's",
       "excerpt": "Laurence Monneret/Getty Images Alzheimer’s disease is a common form of dementia characterized by cognitive impairments ... of neurology at the Uniformed Services University of the Health ...",
@@ -1113,58 +1166,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-cat-caught-turning-off-owners-alarms-in-hilarious-clip-corporate-job.md",
-      "title": "Cat Caught Turning Off Owner's Alarms in Hilarious Clip: 'Corporate Job'",
-      "excerpt": "\"Imagine having to explain to your boss you were late to work because your cat turned off your alarm,\" one TikToker wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
-      "originalUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2140508/cat-using-phone.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
-      "publishedDateTime": "2022-10-27T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

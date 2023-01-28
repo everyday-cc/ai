@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-26-unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders.md",
+      "title": "Unlock The Potential Of Generative AI: A Guide For Tech Leaders",
+      "excerpt": "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
+      "publishedDateTime": "2023-01-26T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-startup-founders-dont-cross-the-line-between-optimism-and-fraud.md",
       "title": "Startup founders: Don’t cross the line between optimism and fraud",
       "excerpt": "Don’t be afraid to sprint forward with an optimistic vision for your startup. But be sure to toe the fine line between optimism and fraud.",
@@ -286,57 +340,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-is-dall-e-the-next-dior-how-ai-is-trying-to-make-it-work-in-fashion.md",
-      "title": "Is Dall-E the Next Dior? How AI Is Trying to 'Make It Work' in Fashion",
-      "excerpt": "AI companies Stable Diffusion, DALL-E 2, and Midjourney are trying to be the next big thing—but while imitation is the sincerest form of flattery, it's the lowest form of fashion design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/is-dall-e-the-next-dior-how-ai-is-trying-to-make-it-work-in-fashion",
-      "originalUrl": "https://www.pcmag.com/news/is-dall-e-the-next-dior-how-ai-is-trying-to-make-it-work-in-fashion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04QIc4PQzqzdWJSYI01WFmR-1.fit_lim.size_1200x630.v1674147429.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -703,6 +706,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-25-biomedical-research-platform-terra-now-available-on-microsoft-azure.md",
+      "title": "Biomedical Research Platform Terra Now Available on Microsoft Azure",
+      "excerpt": "We stand at the threshold of a new era of precision medicine, where health and life sciences data hold the potential to dramatically propel and expand our understanding and treatment of human disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/",
+      "originalUrl": "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2023/01/Terra_TW_LI_FB_with_logo_1200x627.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-nemalife-develops-second-generation-ai-driven-high-throughput-organism-on-chip-screening-platform.md",
       "title": "NemaLife develops second-generation, AI-driven high-throughput organism-on-chip screening platform",
       "excerpt": "The first generation of our organism-on-chip technology primarily addressed ... we have integrated multiple machine vision cameras, real-time AI-based object detection, and new software tools ...",
@@ -952,7 +1007,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -992,49 +1047,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-microsoft-erases-gains-after-saying-azure-growth-will-slow-down.md",
-      "title": "Microsoft erases gains after saying Azure growth will slow down",
-      "excerpt": "Downbeat forecast brings focus back to software giant’s challenges as corporate customers rein in spending. Read more at straitstimes.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/business/microsoft-profit-beats-estimates-on-strong-cloud-performance",
-      "originalUrl": "https://www.straitstimes.com/business/microsoft-profit-beats-estimates-on-strong-cloud-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/25/2023-01-24T165211Z621949402RC23XY9X083BRTRMADP3MICROSOFT-RESULTS_4.JPG?VersionId=nIpg3gnXYt.LO4UBD7_B6wHnErn3r8xI",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T23:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1091,21 +1103,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-25-alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton.md",
-      "title": "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton",
-      "excerpt": "London-based DeepMind's Edmonton office is the only international site directly managed by the artificial intelligence firm, making it far more resource-intensive to operate, the spokesperson said.",
+      "path": "_news/2023-01-25-ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
+      "title": "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
+      "excerpt": "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market",
       "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 162,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-97294835,imgsize-29614,width-1200,height-628,overlay-ettelecom/alphabet-owned-ai-firm-deepmind-shutters-office-in-canada-s-edmonton.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 628,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1113,14 +1125,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835",
-      "publishedDateTime": "2023-01-24T18:18:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T17:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1129,8 +1150,9 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "IBM AI",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1142,7 +1164,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 237,
       "tags": null,
       "images": [
         {

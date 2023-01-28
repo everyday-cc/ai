@@ -2,6 +2,50 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-10-21-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-google-photos.md",
+      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Google Photos",
+      "excerpt": "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,”",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
+      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
+      "publishedDateTime": "2022-10-20T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-improving-the-mapping-of-human-skin-using-models-and-deep-learning.md",
       "title": "Improving the mapping of human skin using models and deep learning",
       "excerpt": "With just a scan of your face and a little basic data, such as height and weight, mathematician Alessio Gallucci can produce a complete body scan. To improve the 3D analysis of our skin he used deep learning techniques.",
@@ -1100,49 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-nvidia-supercharges-oracles-cloud-infrastructure-to-help-industries-adopt-ai-into-their-business.md",
-      "title": "NVIDIA supercharges Oracle’s cloud infrastructure to help industries adopt AI into their business",
-      "excerpt": "NVIDIA and Oracle has jointly released a statement detailing a new multi-year partnership regarding the latter's cloud-computing division getting buffed with some serious hardware and software support from the former.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
-      "originalUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/10/NVIDIA-x-Oracle-Enterprise-AI-Partnership.jpg",
-          "width": 1271,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
-      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
-      "publishedDateTime": "2022-10-19T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech-critter.com",
-        "domain": "tech-critter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

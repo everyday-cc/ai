@@ -88,6 +88,40 @@
       ]
     },
     {
+      "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
+      "title": "DLR Launches Ground-breaking Robot Control Software",
+      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-whats-going-on-with-baidu-shares.md",
       "title": "What's Going On With Baidu Shares",
       "excerpt": "Baidu Inc BIDU shares are trading lower by 6.23% to $130.30 during Tuesday's trading session. Shares of Chinese companies at large are trading lower after China's GDP growth slowed in the ...",
@@ -1130,58 +1164,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-rob-reiner-grilled-for-praising-biden-as-a-decent-law-abiding-person-poster-boy-for-cognitive-dissonance.md",
-      "title": "Rob Reiner grilled for praising Biden as a 'decent law abiding person': 'Poster boy for cognitive dissonance'",
-      "excerpt": "\"As of now, you're quite literally the poster boy for cognitive dissonance…\" he added. In a separate tweet, Lombardi slammed Reiner's post as a \"propaganda tweet.\" \"Yea? That’s why the FBI tri ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
-      "originalUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Headshot-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
-      "publishedDateTime": "2023-01-16T23:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

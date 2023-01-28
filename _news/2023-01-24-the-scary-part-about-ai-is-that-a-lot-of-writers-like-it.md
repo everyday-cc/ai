@@ -40,15 +40,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "IRBO: Current Price Offers A Great Entry Point To Gain Exposure To AI And Robotics"
-    excerpt: "Current price of IRBO is favorable and macrotrends have very large potential upside. However, given the volatile environment, buying should be done gradually. Click here to know more."
-    publishedDateTime: 2023-01-23T11:40:00Z
-    webUrl: "https://seekingalpha.com/article/4571593-irbo-current-price-great-entry-point-gain-exposure-ai-robotics"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 43
   - title: "Experts grow concerned about potential misuse of artificial intelligence"
     excerpt: "Amid the expansion of artificial intelligence applications for military and civilian use, more experts are growing concerned about the possible misuse of the technology."
     publishedDateTime: 2023-01-26T19:09:00Z

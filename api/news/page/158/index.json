@@ -2,6 +2,49 @@
   "page": 158,
   "value": [
     {
+      "path": "_news/2022-09-08-umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona.md",
+      "title": "uMETHOD, Getlabs partner to make personalized cognitive decline care plans accessible in Arizona",
+      "excerpt": "One of the biggest reasons why cognitive decline patients can’t adhere to their care plans is unfulfilled lab orders, he said in an interview. By adding Getlabs’ at-home phlebotomy services to ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/09/umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona/",
+      "originalUrl": "https://medcitynews.com/2022/09/umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/06/GettyImages-1174687693.jpg",
+          "width": 626,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence.md",
       "title": "Mohali MC turns to face recognition attendance system to rein in absence",
       "excerpt": "Working to curb unauthorised absence at the municipal corporation office, the civic body’s finance and contract committee on Wednesday gave the nod for a face-recognition attendance system for ...",

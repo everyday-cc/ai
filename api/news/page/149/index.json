@@ -2,6 +2,49 @@
   "page": 149,
   "value": [
     {
+      "path": "_news/2022-09-14-anyclip-launches-teams-connector-in-microsoft-azure-marketplace.md",
+      "title": "ANYCLIP LAUNCHES 'TEAMS CONNECTOR' IN MICROSOFT AZURE MARKETPLACE",
+      "excerpt": "Available now through the Microsoft Azure Marketplace, this new app integrates with AnyClip's Genius Work™, the AI-powered internal communications product that allows companies to manage their video content—including call recordings—through the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28866506/anyclip-launches-teams-connector-in-microsoft-azure-marketplace",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28866506/anyclip-launches-teams-connector-in-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1517441/ANYCLIP.jpg",
+          "width": 400,
+          "height": 218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28866506",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28866506",
+      "publishedDateTime": "2022-09-14T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-ai-may-destroy-humanity-deepmind-scientists-claim-in-co-authored-paper.md",
       "title": "AI may destroy humanity, DeepMind scientists claim in co-authored paper",
       "excerpt": "A paper co-authored with the University of Oxford argues that advanced AI may want to implement a reward system that would harm humanity.",
@@ -1038,59 +1081,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-how-ai-and-machine-learning-will-impact-the-future-of-healthcare.md",
-      "title": "How AI And Machine Learning Will Impact The Future Of Healthcare",
-      "excerpt": "Global healthcare is facing enormous challenges, but artificial intelligence and machine learning hold the secret to transforming our ailing health system into a more equitable, efficient way to care for patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632164db23de9900defe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/",
-      "publishedDateTime": "2022-09-13T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI in Healthcare"
       ]

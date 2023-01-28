@@ -74,15 +74,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk Faces SEC Probe for Role in Tesla Self-Driving Claims"
-    excerpt: "US regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person."
-    publishedDateTime: 2023-01-27T20:14:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-faces-sec-probe-for-role-in-tesla-self-driving-claims"
+  - title: "U.S. SEC Probes Elon Musk's Role in Tesla Self-Driving Claims - Bloomberg News"
+    excerpt: "The U.S. securities regulator is investigating Elon Musk's role in shaping EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter. The review is part of an ongoing Securities and Exchange Commission (SEC) probe of the company's statements about its Autopilot driver-assistance system,"
+    publishedDateTime: 2023-01-27T20:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-01-27/u-s-sec-probes-elon-musks-role-in-tesla-self-driving-claims-bloomberg-news"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
     excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
     publishedDateTime: 2023-01-27T10:04:00Z
@@ -110,6 +110,20 @@ related:
       - url: "https://images.wsj.net/im-710024/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
+    excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
+    publishedDateTime: 2023-01-28T00:03:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-01-27/musk-sec-probe-tesla-self-driving-claims"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 54
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4617e46/2147483647/strip/true/crop/2405x1263+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F23%2F493f36c147d69cdb67ee5a461dc5%2Fwhite-house-musk-26132.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Elon Musk Under SEC Probe Over Tesla Self-Driving Claims"
     excerpt: "Elon Musk allegedly supervised a misleading promotional video in 2016 that claimed a Tesla was “driving itself” despite the car not truly having those capabilities."
@@ -195,6 +209,6 @@ related:
       domain: stuff.co.nz
     quality: 19
 
-secured: "Wfnnu6kaUpRPg1W1dHQdYOg0Cw9pTSMXqx0GURcN82NGsUKZTODL90EjcvmPnzw9VmQwJk3qthDt4WrB5ov/2tbDVdPgR+AHCP1reLWYfCJ9kUY+YAYnYlipX5BxRBCN96HnPbhSgs7ldWRs+9Gk/nxFUewvlMWV3QmC/+w/SKwN7qvFzgYgjBDmC5mBzQ7lmemI4Migv7kBxo5czuTTQ1ihWtbSVJIsS2uy7iN1vpHGiN118yiGXglXNeTuiS2jqqzXZ266Dk3aKmO2bu5OboK1zNL932wZn55n79HIPYrKxqzx03jkXRZIEEZih34IoNjsf9zgw3mOhNq9qvxEM7YxQr60upVvaUQpWLKpkbE=;X2fOdNXSMkV+k+OXWrL/YA=="
+secured: "kKOzMon+AZNu67UqAHomeehCJjDln7X+WJu1s4Ku4dmnkHpMamRbkYhOUtwdUALpQhEzGWWtjSREpq9u6mrPvlMIqaJUTOxQTxRH0X7Z64kDo6YZeLM6tSsuaz+ePaPyEfKgl0AR8c+J5j2xVSVGO9xE57cdlcB661Bircm0vuTn8N2pzZOBLBeKtM7D2/O7Aa/lgVU7ybb/+3Y3DhvfjA0jIA6zbqhs7Zlb+Bg9XOtY16cQmyEltwXDFsLO/ZUTN8wKVfOcTug4RHwWNvcCA1vzYWPLAmCKQgr44daZPBVbzDI72bPd+2FGHmoRmjvK6LFC/8IhiHc1//M+j4FCECKwApN/7wOph6q5Q1VEYN13twDRJpJWb+O+lx9BnaymvywNTNIqU5+tq2qbz9YClnO9ef62wnvMuk8D3W7RdbCa9AWwADSWtmipiV136bS8JKJS4FFRYcqXYNZcTXDpUZHGsYLCnPMgUDUhU0LXvJpzhgEkmYGWfwANkWL+nySFfsagd8kV2ur23JfxptK9Nw==;XZme04S66KWQ/801bdgAxw=="
 ---
 

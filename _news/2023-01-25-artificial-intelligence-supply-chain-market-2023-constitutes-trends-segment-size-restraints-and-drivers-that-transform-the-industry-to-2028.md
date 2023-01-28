@@ -28,42 +28,126 @@ images:
     isCached: true
 
 related:
-  - title: "How Transformative Will Generative AI And Other Tools Be For The Legal Industry?"
-    excerpt: "ChatGPT has taken the world by storm, thrusting generative AI and other powerful tech tools into the headlines and the public consciousness. How will the legal industry respond? Spoiler alert: don't expect most legal legacy stakeholders to embrace it until they are compelled."
-    publishedDateTime: 2023-01-23T11:37:00Z
-    webUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
+  - title: "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029"
+    excerpt: "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market"
+    publishedDateTime: 2023-01-25T01:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63cd9b430fdb7e39ba922d82/0x0.jpg?format=jpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Shutterstock Introduces Generative AI to its All-In-One Creative Platform"
-    excerpt: "(NYSE: SSTK), the world's leading creative platform for transformative brands and media companies, today announced the launch of its AI image generation platform, available to use by all Shutterstock customers globally in every language the site offers."
-    publishedDateTime: 2023-01-26T02:42:00Z
-    webUrl: "https://www.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+  - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
+    excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
+    publishedDateTime: 2023-01-26T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-26"
     type: article
     provider:
-      name: Today
-      domain: today.it
-    quality: 38
-  - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
-    excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
-    publishedDateTime: 2023-01-24T14:00:00Z
-    webUrl: "https://www.seafoodsource.com/news/supply-trade/sena-panel-how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
+    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
+    publishedDateTime: 2023-01-24T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
     type: article
     provider:
-      name: SeafoodSource
-      domain: seafoodsource.com
-    quality: 14
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
+    excerpt: "In 2023, Current Natural Language Processing (NLP) Software Market Size | 2029 | Newest [115] Pages Report Natural"
+    publishedDateTime: 2023-01-26T13:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
+    excerpt: "In 2023, Current Voice Recognition Market Size | 2029 | Newest [111] Pages Report Voice Recognition Market Size Outlook"
+    publishedDateTime: 2023-01-24T03:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Driverless Car Software Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
+    excerpt: "Global Driverless Car Software Market New Research Report 2023|The Driverless Car Software Market Size is Segmented"
+    publishedDateTime: 2023-01-24T05:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-software-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+  - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
+    publishedDateTime: 2023-01-27T02:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-voice-recognition-system-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
+    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
+    publishedDateTime: 2023-01-23T14:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
+  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
+    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-01-23T17:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-global-market-report-2022-rising-demand-/2023/01/23/9747446.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Artificial Intelligence in Drug Discovery Market Size Projection, Growth Outlook, SWOT Analysis and Industry Insights by 2030"
+    excerpt: "With the unlimited possibilities given by this cutting-edge technology, artificial intelligence in healthcare is flourishing, and major corporate giants are expressing interest and investing ..."
+    publishedDateTime: 2023-01-25T00:40:00Z
+    webUrl: "https://www.medgadget.com/2023/01/artificial-intelligence-in-drug-discovery-market-size-projection-growth-outlook-swot-analysis-and-industry-insights-by-2030.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "hpeoWxp5rdyqbH56rYsUfQOBrQrY1pHpfEsufKGg3Zb8/FyP3rUZPSAPHxXoy+4jG9CP148yFNmqNaObr/Ix7ih/eDreYhRqcFdym5BBBsQCB7HEB074O4hc7qwGXhWXolfP3biiJbBNNS6hSvM96pYanaH/kcbldKlO+V1DHquPf0lrIdVWnlPx4gitV+h7E3sTaSCgzgVctyRPEOrVLUCZplRxUX5lK2cy6fWj9u7QKnsliNc0t+xe8BoM2QPAKnxXS6UmgOwzR8ifGrs+r+vb8tWQZNo5bfXnSx1HlPUmdovkybCmqK+bkefg5HWu+d+Sa2V7wsJSFfHByHNM1u2mqympX/HezqV/l7tJLbc=;I5Y0I8WlodLCs+yw8jAVFA=="
 ---

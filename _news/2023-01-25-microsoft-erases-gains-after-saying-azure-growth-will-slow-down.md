@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/business/microsoft-profit-beats-estim
 webUrl: "https://www.straitstimes.com/business/microsoft-profit-beats-estimates-on-strong-cloud-performance"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Straits Times
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biomedical Research Platform Terra Now Available on Microsoft Azure"
+    excerpt: "We stand at the threshold of a new era of precision medicine, where health and life sciences data hold the potential to dramatically propel and expand our understanding and treatment of human disease."
+    publishedDateTime: 2023-01-25T14:30:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/01/Terra_TW_LI_FB_with_logo_1200x627.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Despite revenue miss, Microsoft shares climb on hopes for improved cloud performance"
     excerpt: "The software and cloud giant reported slightly better than expected revenues in its Intelligent Cloud business on overall revenues that came in barely below analysts’ estimates. Fiscal second-quarter earnings fell 12% from a year ago,"
     publishedDateTime: 2023-01-24T23:30:00Z

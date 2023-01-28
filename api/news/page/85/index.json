@@ -2,6 +2,50 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-11-09-ai-in-fintech-market-bigger-than-expected-amazon-web-services-inc-complyadvantage-google-llc.md",
+      "title": "AI In Fintech Market Bigger Than Expected | Amazon Web Services, Inc., ComplyAdvantage , Google LLC",
+      "excerpt": "The global AI in fintech market size was US$ 7.87 billion in 2021. The global AI in fintech market is forecast to grow to US$ 41.1 billion by 2030, registering a compound annual growth rate (CAGR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-bigger-than-expected-amazon-web-services-inc-complyadvantage-google-llc",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-bigger-than-expected-amazon-web-services-inc-complyadvantage-google-llc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/586f834d02ad7e0840893b3b0601cbf04c1f5cfd-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T02:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-microsoft-faces-new-eu-antitrust-complaint-from-competing-cloud-services.md",
       "title": "Microsoft faces new EU antitrust complaint from competing cloud services",
       "excerpt": "A long-standing criticism that Microsoft has set unfair terms for running software services, like Windows, on competitors’ cloud infrastructure might result in EU antitrust scrutiny following a ...",
@@ -1133,50 +1177,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-robotics-innovation-leading-companies-in-autopilot-mine-shuttles.md",
-      "title": "Robotics innovation: Leading companies in autopilot mine shuttles",
-      "excerpt": "The mining industry continues to be a hotbed of innovation, with activity driven by the need to enhance safety,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
-      "originalUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/11/Autopilot-mine-shuttles.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mining Technology",
-        "domain": "mining-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

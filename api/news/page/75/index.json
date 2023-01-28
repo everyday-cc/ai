@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-11-17-ai-in-fintech-market-size-development-possibilities-income-investigation-future-interest-advancement-patterns-deals-channel-and-estimate.md",
+      "title": "AI in FinTech Market Size, Development Possibilities, Income Investigation, Future Interest, Advancement Patterns, Deals Channel, and Estimate to 2027",
+      "excerpt": "AI in FinTech Report Customization and Knowledge of Russian Invasion of Ukraine & Post-Pre Covid-19 covered in this report. The “AI in FinTech Market” added with the data set of superb bits of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-development-possibilities-income-investigation-future-interest-advancement-patterns-deals-channel-and-estimate-to-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-development-possibilities-income-investigation-future-interest-advancement-patterns-deals-channel-and-estimate-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/537bbad174a1296d7f244920f70d57b9c23a60cc-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-locus-robotics-named-to-fast-companys-second-annual-list-of-the-next-big-things-in-tech.md",
       "title": "Locus Robotics Named to Fast Company's Second Annual List of the Next Big Things in Tech",
       "excerpt": "List Recognizes Leader in Warehouse Robotics for its Innovative AMR Robotics Technology Breakthroughs That Transform the WarehouseWILMINGTON,",
@@ -1157,50 +1200,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
-      "title": "Israel deploys remote-controlled robotic guns in West Bank",
-      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b3bbc03/2147483647/strip/true/crop/5455x3648+9+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2F62%2Ffff55e966143d9ee01ff02211184%2F0d99c1e0017d40e4bd07a61b15c66b8c",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank?_amp=true",
-      "publishedDateTime": "2022-11-16T17:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

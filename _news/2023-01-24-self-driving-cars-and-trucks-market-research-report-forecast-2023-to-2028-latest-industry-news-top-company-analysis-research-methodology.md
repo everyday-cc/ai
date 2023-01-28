@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in CT Scanners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
-    excerpt: "Deep Learning in CT Scanners Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-23T11:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-2023-2028-industry-share-growth-factor-revenue-and-trends-outlook-report-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
 
 secured: "5HsnR0jxwNOLoVj25LCoaLCbN6U2KgRgsdFqLHFbdpTutyKj1UgKVzszswBX/GWbLZ7pZIHdP/KbqxBJ7mmnRoN+SPVp9Zul7YTKcUdx3qLGUpz+qC5OhthjbE9R46RAx3dxonCE9frS9ty9ZS8B9XEAktFQmzwWIySIE9RyqR8oKGq9nlkwVuqXuS2i0JMfCvh35NYjsrHVX7ajfTT6r//PjAAI63aV9OkmZEAmtBYOy0OuwB0Icq50kbDhxlTnMIksXd9gUTQXS+YXd9Pkp9isI0my39rH59XRySWKSpU9axzih+kQoEDTd+nZR+612VyQuRzG5JayidiwofAafHOJiaOJ2dLg/Gj97OxbcW0=;Frwu99ZCzGkJlQMXVuRHhQ=="
 ---

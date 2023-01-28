@@ -2,6 +2,63 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-10-06-how-to-invest-in-artificial-intelligence.md",
+      "title": "How To Invest In Artificial Intelligence",
+      "excerpt": "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-10-05T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "Machine Learning",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-alzheimers-disease-encouraging-data-suggest-new-drug-slows-cognitive-decline.md",
       "title": "Alzheimer’s disease: 'Encouraging' data suggest new drug slows cognitive decline",
       "excerpt": "Phase 3 clinical trial results shared in a press release suggest a new drug called lecanemab helps slow the cognitive decline rate in Alzheimer’s patients by 27% after 18 months of treatment.",
@@ -1132,49 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-research-launched-to-make-voice-recognition-tech-more-accessible.md",
-      "title": "Research launched to make voice recognition tech more accessible",
-      "excerpt": "The Speech Accessibility Project aims to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities. Artificial intelligence-based voice recognition technology, used in voice assistants such as Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/research_launched_to_make_voice_recognition_tech_more_accessible/id/5103852",
-      "originalUrl": "https://www.research-live.com/article/news/research_launched_to_make_voice_recognition_tech_more_accessible/id/5103852",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible",
-      "publishedDateTime": "2022-10-05T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

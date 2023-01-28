@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-21-college-professors-are-considering-creative-ways-to-stop-students-from-using-ai-to-cheat.md",
+      "title": "College professors are considering creative ways to stop students from using AI to cheat",
+      "excerpt": "Some professors say students are using OpenAI's buzzy chatbot, ChatGPT, to pass off AI-generated content as their own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1",
+      "originalUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c6d1284fa0aa0018895a8b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1?amp",
+      "publishedDateTime": "2023-01-21T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-robotics-drug-control-on-senators-mind-this-week-letters.md",
       "title": "Robotics, drug control on senator’s mind this week (Letters)",
       "excerpt": "As usual, the beginning of formal session has been exceptionally busy ahead of our bill filing deadline. All bills filed prior are guaranteed a public hearing, an important step.",
@@ -1139,58 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence.md",
-      "title": "Ensuring Better Patient Experience And Outcomes Through Artificial Intelligence",
-      "excerpt": "This makes the patient experience especially hard in healthcare. Sixty-eight percent of patients said their healthcare providers need to improve how they interact with patients. W",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638755d97adcceda18c8a8ba/0x0.jpg?format=jpg&crop=3796,2136,x0,y266,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-20T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

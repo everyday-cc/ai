@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-11-28-panzura-partners-with-aws-on-ransomware-counter-measures.md",
+      "title": "Panzura partners with AWS on ransomware counter-measures",
+      "excerpt": "Panzura might have slipped beneath the waves, but it’s come back reinvigorated, and now boasts integration with AWS with ransomware protection and Outposts hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures",
+      "originalUrl": "https://www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/Reseau-Donnees-Cloud-Monde.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures?amp=1",
+      "publishedDateTime": "2022-11-28T01:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-whats-next-for-baidu-after-q3-earnings-beat.md",
       "title": "What’s Next For Baidu After Q3 Earnings Beat?",
       "excerpt": "Total revenue rose 2% year-over-year to 32.54 billion yuan ($4.55 billion), with adjusted net income rising by about 15% to 5.89 billion yuan ($828 million).",
@@ -1074,57 +1117,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028.md",
-      "title": "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-26T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

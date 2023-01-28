@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduce
 cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -21,45 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "How Transformative Will Generative AI And Other Tools Be For The Legal Industry?"
-    excerpt: "ChatGPT has taken the world by storm, thrusting generative AI and other powerful tech tools into the headlines and the public consciousness. How will the legal industry respond? Spoiler alert: don't expect most legal legacy stakeholders to embrace it until they are compelled."
-    publishedDateTime: 2023-01-23T11:37:00Z
-    webUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
+  - title: "Can generative AI’s stimulating powers extend to productivity?"
+    excerpt: "But 2022 marked a breakout year for generative AI as the San Francisco-based research company OpenAI, and others, opened up the technology for ordinary users. Anyone with an internet connection can now experience the apparent magic by prompting Dall-E to generate an image of an astronaut riding a horse on the moon or ChatGPT to write a story about the lunar escapades of a horseriding astronaut."
+    publishedDateTime: 2023-01-26T12:46:00Z
+    webUrl: "https://www.ft.com/content/1f08c2b7-9801-415d-93dd-72e724e5e2de"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63cd9b430fdb7e39ba922d82/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
-  - title: "Artificial Intelligence Supply Chain Market 2023 Constitutes Trends, Segment Size, Restraints, and Drivers that Transform the Industry to 2028"
-    excerpt: "A comprehensive research on Artificial Intelligence Supply Chain Market Overview 2023-2028. It displays the market size"
-    publishedDateTime: 2023-01-25T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2023-constitutes-trends-segment-size-restraints-and-drivers-that-transform-the-industry-to-2028-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SENA Panel: How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
-    excerpt: "The 28 individual presentations from SENA and the 21 sessions from SEG featured exclusive information and insight from seafood industry experts, including economic forecasts and analysis on the trends and topics impacting the global seafood industry as it navigates issues of trade,"
-    publishedDateTime: 2023-01-24T14:00:00Z
-    webUrl: "https://www.seafoodsource.com/news/supply-trade/sena-panel-how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
-    type: article
-    provider:
-      name: SeafoodSource
-      domain: seafoodsource.com
-    quality: 14
 
 secured: "Z2HvAuCI7Q15cAmczI42uUsEUOL+oeTZXsajKHLPRaY8YDlpRoy1ELUMsdp3jlANDGxlUWZne0Iur6D/HFFqvGp0H3C+PKBJkDf3UQmsrif1TKfIKa1BiMpcdZbUga5KDLUuQsa/yWwGIr1SWnnspwcOqI+euDI6+uKXrhLIdq2abTQnhso1TBwXS12eE17lGNug/J2WQUsgKasJLogSvjya51W1Uo85RKQb598SUbXVpS7YaePXz+cAJW7VddTvfF0JSz8edNcKvPXPmSFJQKo6eLXrNZRvdemSEyF+sbvmZvkUrSFLORQ7A/XSbW9OvG5lN8OtmVD700NtyLKNeOoMWZmCSkDPxka0vZytRPeOBNEXojZQ59iFkf7KNnuxOyTvxz7eKgHaD6U+kTFX3xigHZ+LK/QSfhmLoT74T0PGBRUNb3T/nf5+yaPrYh5E4/brpm8kTzaQhRRZGb/llvtRgqA1kCCFgN0SmjOnJIEtNaJUlF7irYXflhg6hUA8TSSgCz0ZhFJS614m3oflCQ==;ouUCxzK1oA1+mzuVzne0rA=="
 ---

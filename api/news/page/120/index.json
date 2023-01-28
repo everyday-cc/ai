@@ -2,6 +2,48 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-10-09-iit-mandi-start-up-to-launch-worlds-first-ai-backed-giant-swing-in-manali.md",
+      "title": "IIT Mandi start up to launch world's first AI-backed giant swing in Manali",
+      "excerpt": "Four engineer friends have claimed to have innovated a giant swing backed by AI which will provide an \"impeccable\" security to the jumpers with more than 100 jump styles",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
+      "originalUrl": "https://www.business-standard.com/article/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/09/full/1665323291-3562.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
+      "publishedDateTime": "2022-10-09T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-09-loblaw-goes-driverless-credit-card-surcharges-and-why-adulting-is-unaffordable-must-read-business-and-investing-stories.md",
       "title": "Loblaw goes driverless, credit card surcharges and why adulting is unaffordable: Must-read business and investing stories",
       "excerpt": "Canada’s largest grocer announced this week the launch of driverless delivery trucks on the roads across Toronto and surrounding suburbs, delivering products to its stores. In partnership with ...",
@@ -1117,49 +1159,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-robot-ai-da-will-speak-to-the-house-of-lords-in-westminster.md",
-      "title": "Robot Ai-Da will speak to the House of Lords in Westminster",
-      "excerpt": "A robot called Ai-Da will become the first robot to speak in the House of Lords in Westminster. The robot will speak to the Lords about Artificial Intelligence (AI) and the future of arts, design, fashion and music industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/newsround/63173407",
-      "originalUrl": "https://www.bbc.co.uk/newsround/63173407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/101C6/production/_127009956_gettyimages-1404663363.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/newsround/63173407.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/63173407.amp",
-      "publishedDateTime": "2022-10-07T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

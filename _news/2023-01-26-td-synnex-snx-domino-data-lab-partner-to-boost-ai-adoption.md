@@ -22,7 +22,7 @@ related:
   - title: "MLOps Provider Domino Data Lab Strikes Distribution Deal With TD Synnex"
     excerpt: "Domino Data Lab is partnering with tech distributor and solutions aggregator TD Synnex to bring the company’s MLOps machine learning platform to a wider audience of channel partners and potential customers,"
     publishedDateTime: 2023-01-24T14:02:00Z
-    webUrl: "https://www.crn.com/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex"
+    webUrl: "https://www.crn.com/news/managed-services/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex"
     type: article
     provider:
       name: CRN

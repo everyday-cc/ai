@@ -2,6 +2,49 @@
   "page": 142,
   "value": [
     {
+      "path": "_news/2022-09-20-dogs-and-humans-interpret-what-they-see-differently.md",
+      "title": "Dogs and Humans Interpret What They See Differently",
+      "excerpt": "Naturalistic video clips from a dog's point of view were shown to dogs undergoing fMRI brain scans. Artificial neural network programming was used to analyze how the brains of humans and dogs process visual inputs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/brain_scan.jpg?itok=XgF-NOdq",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp",
+      "publishedDateTime": "2022-09-20T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-how-ai-is-changing-the-way-students-learn.md",
       "title": "How AI Is Changing The Way Students Learn",
       "excerpt": "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies.",
@@ -1117,49 +1160,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-ai-enabled-laughing-robots-are-no-joke.md",
-      "title": "AI-Enabled Laughing Robots are No Joke",
-      "excerpt": "We propose that our system can be used for situated robot interaction and also emphasize the need for integrating proper empathetic laughs into conversational robots and agents",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic0921111.gif.jpg?itok=QnCgHwxS",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
-      "publishedDateTime": "2022-09-19T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

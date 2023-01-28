@@ -20,11 +20,11 @@ topics:
 
 related:
   - title: "AI Identifies Drugs to Be Repurposed for Smoking Cessation"
-    excerpt: "A study has revealed the discovery of several drugs that may be repurposed for treating nicotine addiction. The researchers used AI to analyze data for 1.3 million people in order to find genomic variants that are statistically associated with smoking."
-    publishedDateTime: 2023-01-27T23:09:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation?amp"
+    excerpt: "A study discovered of several drugs that may be repurposed for treating nicotine addiction. The researchers used AI to analyze data for 1.3 million people in order to find genomic variants that are statistically associated with smoking."
+    publishedDateTime: 2023-01-27T23:18:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation?amp"
     type: article
     provider:
       name: Psychology Today

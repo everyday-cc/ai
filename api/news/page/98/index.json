@@ -2,6 +2,58 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-10-27-cat-caught-turning-off-owners-alarms-in-hilarious-clip-corporate-job.md",
+      "title": "Cat Caught Turning Off Owner's Alarms in Hilarious Clip: 'Corporate Job'",
+      "excerpt": "\"Imagine having to explain to your boss you were late to work because your cat turned off your alarm,\" one TikToker wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
+      "originalUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2140508/cat-using-phone.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
+      "publishedDateTime": "2022-10-27T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
       "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
       "excerpt": "Stay on top of the auto industry’s transformation by signing up for Bloomberg’s Hyperdrive newsletter here. The autonomous-driving sector just endured a day that tech and automotive giants ...",
@@ -1183,58 +1235,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-a-new-genome-sequencing-tool-powered-with-our-technology.md",
-      "title": "A new genome sequencing tool powered with our technology",
-      "excerpt": "Genome sequencing provides a more complete description of cells and organisms, allowing scientists to uncover serious genetic conditions such as the elevated risk for breast cancer or pulmonary arterial hypertension. While researching genomics has the potential to save lives and preserve people’s quality",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
-      "originalUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_card.max-1300x1300.png",
-          "width": 1300,
-          "height": 728,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

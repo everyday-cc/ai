@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
-    publishedDateTime: 2023-01-27T02:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-new-voice-recognition-system-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2028-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "IDpW+Saf6LDjdYzTqtcHQwRXhRSc91dz0ajbMu8Jf06VU6Cy8CsHacHtYcV1MJmsGOeUdzcILEU6vGOJFOnwNoUiIB8okK16v+OPCXz4sPGNpD//vvHsrsnNcVYERn7CbFYdKe1QDvyWgrw32X5Orwv9XmtF8TSqKbdUcNoep9yTHjart8wyMKaL9fa13g8F4PaeU/NMMg+hNi3DiI2pNSxLO7UtM+YmXS79vutCK/vbBWvH63huboyL8BgyNzlFJmIHXMPYLK1VMsbNA7o6Lj8VjcpLeSBSkwgf0ToIMvpWtgKPh2AE0NrsZQMs2RwssNZR4PLdp2PPsHNDMPqT8MJvpmCk31WpPSMD2NdOYHA=;NUnb6mJwVDImABBezFqbhw=="
 ---

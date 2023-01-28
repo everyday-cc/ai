@@ -157,20 +157,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Generative AI and the Ensuing Computer Human Whisperer"
-    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
-    publishedDateTime: 2023-01-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
-        width: 1000
-        height: 520
-        isCached: true
   - title: "2023 will be the year of AI accountability"
     excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
     publishedDateTime: 2023-01-24T12:00:00Z
@@ -266,6 +252,6 @@ related:
       domain: boston.com
     quality: 17
 
-secured: "3PmUOpxcqGfHI0cIu9j7LOL3JhGtObx6xBsZBrSImfp3FfCydNeT2Jrk4JA4GyvHhzGSIL/ZJeeu9X33fTgC1KNLVH317gqh+i/usgl7nJ9pqrpjxYKBfY0ozGn+E7ZQluVHqDfuhmnHKFFoYU7S65PgJUsK8WVyng2Rv5IyJtq+bwFgVw9ePkI/PoG6elU6BatcHuVUWYxqhQJg5aP3HrIZvi3TCK+LXRSIQBTx1F6vf8NAx2xS3gorYdqcm7WV4WDUd1DiQG+QG+OxDw3tY2Bj7VRFp/LAX6yy64Jp6CFyfnQ2NkSjWdx5zfucouu5N6uedRg0lH0AyNpK9qfcw/q1zeTWfaeCjNkZmT6sTBc=;cEBnNobNZdf4brjsmfw5OQ=="
+secured: "lp/b696dl5HwK1ArVAa8/LtRBJcvmKKoUJffeaE+kSnP/HfSVQ5O7BYU2OkQ/uGz/lIZYWvvPnFJLxDXlHdz5ckT1+o5lYY2K7/MMrY6QPQxSkPaDKu0A2ZTCBS1sN16keqscrYkaqVAFSDSpc/mLEGEKPFax/191Pt1SRkclFl1QRDiULZTvC8UL64rzdjQqtoyKW8VhcaJohQYNbHj/2xxYVaUGW/fLcfscPHneilOVrdjq5+gaMpVw+hPwdeAAqLuaOuz8/5fAwwDSUGO1efb+VSF3UmWtLcm2gj3IldE6evFnKYofatZpm6Q8+OVJhKcvDU1lUgzY4RBcIpNJX+qy/CecByd31Zl8Q1jBp2zMkMZMSezVX48vUknf+tlRSEH5z6uDWCKVJ9tLaedfKjy4A3SZmvDXvdh2td5QloFH1Q7f4JTeuvMsZJi6PjqKXIcgt+h5mNXp4hglF3So5S6jbAElhw0C3bQG3atCGIQwqHH5UGkx3TxJTHYq4zjJlzo6wM3Z65js7wkmG9bdg==;Jtb0mKGHxYp1encvvjiHtg=="
 ---
 

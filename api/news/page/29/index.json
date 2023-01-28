@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-12-31-baidu-gets-license-for-driverless-robotaxi-tests-in-china.md",
+      "title": "Baidu gets license for driverless robotaxi tests in China",
+      "excerpt": "Baidu would begin testing 10 fully autonomous vehicles in a technology park developed by the government of Beijing as a step toward offering a commercial robotaxi service in China’s capital.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china-41672378062359.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china-41672378062359.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/12/30/1600x900/BAIDU-autonomous_vehicle_robotaxi_1672378130428_1672378130547_1672378130547.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china/amp-41672378062359.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/baidu-gets-license-for-driverless-robotaxi-tests-in-china/amp-41672378062359.html",
+      "publishedDateTime": "2022-12-30T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto News India",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-30-chatty-ai-and-protein-predicting-algorithm-defined-the-year-in-emerging-tech.md",
       "title": "Chatty AI and Protein-Predicting Algorithm Defined the Year in Emerging Tech",
       "excerpt": "Amid tough market conditions, technology developers continued to make important strides in 2022, offering a glimpse of digital capabilities that are poised to transform entire industries in the years ahead.",
@@ -968,58 +1011,6 @@
         "name": "Mid Day",
         "domain": "mid-day.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-ai-and-machine-learning-in-the-workplace-preparing-for-2023.md",
-      "title": "AI And Machine Learning In The Workplace: Preparing For 2023",
-      "excerpt": "The Equal Employment Opportunity Commission (EEOC) has been particularly active through its EEOC initiative on AI and algorithmic fairness and its joint HIRE initiative with the U",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a5cb98fd043c3b6bcc732b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/",
-      "publishedDateTime": "2022-12-26T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

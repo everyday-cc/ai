@@ -7,7 +7,7 @@ originalUrl: "https://www.seafoodsource.com/news/supply-trade/sena-panel-how-is-
 webUrl: "https://www.seafoodsource.com/news/supply-trade/sena-panel-how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -17,49 +17,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "How Transformative Will Generative AI And Other Tools Be For The Legal Industry?"
-    excerpt: "ChatGPT has taken the world by storm, thrusting generative AI and other powerful tech tools into the headlines and the public consciousness. How will the legal industry respond? Spoiler alert: don't expect most legal legacy stakeholders to embrace it until they are compelled."
-    publishedDateTime: 2023-01-23T11:37:00Z
-    webUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcohen1/2023/01/23/how-transformative-will-generative-ai-and-other-tools-be-for-the-legal-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63cd9b430fdb7e39ba922d82/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence Supply Chain Market 2023 Constitutes Trends, Segment Size, Restraints, and Drivers that Transform the Industry to 2028"
-    excerpt: "A comprehensive research on Artificial Intelligence Supply Chain Market Overview 2023-2028. It displays the market size"
-    publishedDateTime: 2023-01-25T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2023-constitutes-trends-segment-size-restraints-and-drivers-that-transform-the-industry-to-2028-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Shutterstock Introduces Generative AI to its All-In-One Creative Platform"
-    excerpt: "(NYSE: SSTK), the world's leading creative platform for transformative brands and media companies, today announced the launch of its AI image generation platform, available to use by all Shutterstock customers globally in every language the site offers."
-    publishedDateTime: 2023-01-26T02:42:00Z
-    webUrl: "https://www.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    type: article
-    provider:
-      name: Today
-      domain: today.it
-    quality: 38
 
 secured: "vQMJYYUA+HFzVjszhVFnxbF+uxAVdYO84lnJ6uveAvEwMoqd4yoYJSEdGQYzYJOpMyMpbDFwGShpjzhX1iBYTwIuJlxXp6z6xHAbUH0ppkUHUn/kguLuTQkN8l6SOP0YBjijjK8+k2R774bTewKj15NaFXczz1TdfvYaosbXwRqykL5IhR8SGXS9phBknXTkKZQlV4Aq9fnqvRMFii8svTc98dx49hgUAx8ideNeAmAoCKLw3RXyceK4kKX1N40h8KNMwopdH3rDVCb2Cf6VZz1Vtdr56iKHbNMzDayaslHWlSl3SV3nsPgLCgW67EG+7UM1QXwnwaWVmrvL0Giz+4aOsxNMGrleUaf/mgXADeQ=;OfLX8eUR96qD/0MEEJBCcA=="
 ---

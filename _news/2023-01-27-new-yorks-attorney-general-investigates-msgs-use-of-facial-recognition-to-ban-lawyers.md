@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "James Dolan won't sell Knicks, defends MSG facial recognition tech"
+    excerpt: "In a rare media interview Friday James Dolan said he has no plans to sell the New York Knicks or Rangers and discussed the facial recognition technology being"
+    publishedDateTime: 2023-01-28T03:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273444355/james-dolan-wont-sell-knicks-defends-msg-facial-recognition-tech"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/flm1674877201.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "‘The Garden Has to Defend Itself’: MSG Chief James Dolan Hits Back at Facial Recognition Criticism"
     excerpt: "Dolan says the company will not back down in using the tech to bar entry to lawyers engaged in legal matters against company."
     publishedDateTime: 2023-01-26T15:32:00Z

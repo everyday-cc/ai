@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "What’s in store for FinTech in 2023?"
-    excerpt: "Russia’s illegal invasion of Ukraine and its impact on inflation, to the continued ripple effects of Brexit and changing consumer habits."
-    publishedDateTime: 2023-01-23T12:23:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Whats_In_Store_For_FinTech_In_2023_Feature.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
-        width: 5580
-        height: 3138
-        isCached: true
 
 secured: "xyucE6ULb3gmabUtkkfBQjY3e7OVdz8HiP9HepQyL2QPgYrFpPnHFfqcybCF27Q+oKDeprxOlscDc72aBRWe+i4J0ns0AfL+gzVSEWMM+iS5sSoJsCuo23sPti3x8UxDW+604L0V6byNT3bZP0+hoF5FfTajU0vzk6hTCzvAQpV7XY+l4+1mkSsGO01EKdAV92tTGif+ZeLASYzJbitm9h00xcv8dffgjF8D5RqtfAJOvJmSoRXU07wqlRIg2yE/6hDb9Uap+I2eInR0NqPD8SrJYVJYzimIrgh03dtbQbQbxAOiMl3yML1Yr4d/El8Fb9/IUy5n0JNdEgLeUlEKEHh02S6ZisIdMsgiy7FcPlglEUh7uHKWJ2A9yx3HmhWgg3yfGYx/DcnA0B7kx9COfGo+GlcuSidnLGa2amzJI79V4QZFn5M0V+5Y8Tr1XvseOYFcUSkCb8Ldb6bufSVfne0ti5wm5NscVwJuzU2h+CLMHQS6wOnetCKCM/3JqNklvsmjT1ejexKU95ZPojk3nw==;D7dwNDXA2pqvGWZ1GTbyMg=="
 ---

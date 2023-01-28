@@ -67,22 +67,6 @@ related:
         width: 907
         height: 605
         isCached: true
-  - title: "Explained: Is ChatGPT Latest AI Innovation A Trend Or A Threat?"
-    excerpt: "While engineers, entrepreneurs, and many social media users look at ChatGPT as a bold innovation that opens horizons for services and solutions, the academic and creative industry stands both concerned and threatened by the latest AI chatbot."
-    publishedDateTime: 2023-01-23T12:33:00Z
-    webUrl: "https://www.outlookindia.com/international/explained-is-chatgpt-latest-ai-innovation-a-trend-or-a-threat--news-255981"
-    ampWebUrl: "https://www.outlookindia.com/international/explained-is-chatgpt-latest-ai-innovation-a-trend-or-a-threat--news-255981/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/explained-is-chatgpt-latest-ai-innovation-a-trend-or-a-threat--news-255981/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 61
-    images:
-      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2017/12/21/download_630_630.jpg"
-        width: 1000
-        height: 665
-        isCached: true
   - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
     excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
     publishedDateTime: 2023-01-24T10:05:00Z
@@ -146,22 +130,6 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google plans to demo a version of its search engine with AI chatbot features and launch 20 new products, following ChatGPT 'code red,' report says"
-    excerpt: "Google is increasingly focusing on AI projects, following the launch of OpenAI's ChatGPT, the New York Times reported."
-    publishedDateTime: 2023-01-23T11:41:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-search-chatgpt-code-red-new-products-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/63ce5869fcc41d0018a3a3b4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Can The Generative AI ChatGPT Brand Keep Going Strong Or Will It Fizzle Out, Asks AI Ethics And AI Law"
     excerpt: "Generative AI ChatGPT is an AI app that has caught the world by storm. Indeed, ChatGPT has now entered into the rarified air of being considered a brand. There are lots of upcoming potholes that can undercut this new brand."
@@ -251,6 +219,20 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 34
+  - title: "More than artificial intelligence: How ChatGPT learns conversation skills from humans"
+    excerpt: "The conversational robot capable of producing impressive texts upon request has had spectacular success. 'Le Monde' delves into what goes into making such a powerful chatbot."
+    publishedDateTime: 2023-01-28T03:40:00Z
+    webUrl: "https://www.lemonde.fr/en/economy/article/2023/01/28/more-than-artificial-intelligence-how-chatgpt-learns-conversation-skills-from-humans_6013427_19.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 32
+    images:
+      - url: "https://img.lemde.fr/2022/12/17/103/0/2244/1122/1440/720/60/0/a5617ca_1671320365088-chatgpt-humaine-dark.jpg"
+        width: 1440
+        height: 720
+        isCached: true
   - title: "The CEO of the company behind AI chatbot ChatGPT says the worst-case scenario for artificial intelligence is 'lights out for all of us'"
     excerpt: "Experts warn OpenAI's ChatGPT could be abused to scam people or spread misinformation. CEO Sam Altman fears the worst case for AI is much bleaker."
     publishedDateTime: 2023-01-25T20:52:00Z
@@ -274,15 +256,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "ChatGPT AI technology is a wake-up call for Google co-founders"
-    excerpt: "This AI-driven platform is proving to be a threat ... some people are abandoning Google search and relying on ChatGPT for their various research needs. If left unchecked, OpenAI might cripple ..."
-    publishedDateTime: 2023-01-23T12:43:00Z
-    webUrl: "https://www.androidheadlines.com/2023/01/chatgpt-ai-technology-wake-up-call-for-google-co-founders.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 19
   - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
     excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
     publishedDateTime: 2023-01-23T13:28:00Z

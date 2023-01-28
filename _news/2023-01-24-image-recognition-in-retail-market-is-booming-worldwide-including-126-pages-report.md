@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/image-recognition-in-ret
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-is-booming-worldwide-including-126-pages-report-2023-01-23"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
+    excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
+    publishedDateTime: 2023-01-27T02:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
     publishedDateTime: 2023-01-25T09:51:00Z

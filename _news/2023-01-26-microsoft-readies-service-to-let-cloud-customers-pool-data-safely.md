@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Biomedical Research Platform Terra Now Available on Microsoft Azure"
+    excerpt: "We stand at the threshold of a new era of precision medicine, where health and life sciences data hold the potential to dramatically propel and expand our understanding and treatment of human disease."
+    publishedDateTime: 2023-01-25T14:30:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/01/Terra_TW_LI_FB_with_logo_1200x627.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Microsoft erases gains after saying Azure growth will slow down"
     excerpt: "Downbeat forecast brings focus back to software giant’s challenges as corporate customers rein in spending. Read more at straitstimes.com."
     publishedDateTime: 2023-01-25T07:22:00Z

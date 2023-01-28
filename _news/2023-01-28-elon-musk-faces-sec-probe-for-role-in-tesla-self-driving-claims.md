@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Elon Musk Faces SEC Probe for Role in Tesla Self-Driving Claims"
-excerpt: "US regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person."
-publishedDateTime: 2023-01-27T20:14:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-faces-sec-probe-for-role-in-tesla-self-driving-claims"
-webUrl: "https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-faces-sec-probe-for-role-in-tesla-self-driving-claims"
+title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
+excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
+publishedDateTime: 2023-01-28T00:03:00Z
+originalUrl: "https://www.latimes.com/business/story/2023-01-27/musk-sec-probe-tesla-self-driving-claims"
+webUrl: "https://www.latimes.com/business/story/2023-01-27/musk-sec-probe-tesla-self-driving-claims"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/4617e46/2147483647/strip/true/crop/2405x1263+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F23%2F493f36c147d69cdb67ee5a461dc5%2Fwhite-house-musk-26132.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
@@ -81,6 +83,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "U.S. SEC Probes Elon Musk's Role in Tesla Self-Driving Claims - Bloomberg News"
+    excerpt: "The U.S. securities regulator is investigating Elon Musk's role in shaping EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter. The review is part of an ongoing Securities and Exchange Commission (SEC) probe of the company's statements about its Autopilot driver-assistance system,"
+    publishedDateTime: 2023-01-27T20:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-01-27/u-s-sec-probes-elon-musks-role-in-tesla-self-driving-claims-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
     excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
     publishedDateTime: 2023-01-27T10:04:00Z
@@ -193,6 +204,6 @@ related:
       domain: stuff.co.nz
     quality: 19
 
-secured: "Tpujdrr0HhmPuvVDrvO2w06t2Fkhn29RD1Kz5H+ewNd9CSZBwDcrgELVeVGGYyrGyHMcVVm68Z63gLMv7IDpgLrTVdgCj+93rK+rudMaeqDhVk4ralPAkm2RUpSBut3NCstAdq0QkZEvrCw56S/jOLTz80k42+iRS6GQTqgC7thbzzLkwnXT5TJCcmm15sjJVnkci7Nuh4/82bkmjLzlPcz8tUmU0thfO+XHyoo0Au2uwHMu7TrabhbF+Pn1tdveQMxXkLGG6pabDs8dwsIyJabyppGdT0lFBmvL/5AZ1W9ysSB6Fk9iblWPRwGba9kKNo4gDEghh5ncf4z/SUuUdOfs6YAxTEJ2AW4SPPNCYED2zKe3fa8wtyl4hdBvh4HJxM9lEjLRcN02/Xk5kd3/TDfj90JisPfs9A2BSquJFb2DVb6GuMZl2p01xDS8o81X15hokDpzpX/+VbQNf95rMArTjcsLeamTUY0pmsfPYrB4BlX5+WE+hG1kMdOyqWwhePuTVfWmWIQsRuSq3g0FDw==;wHwJW1scyCyZZW+tTQRgmQ=="
+secured: "ClnHrsi8B3qE2JaGLZTxKicMHFYNWoukVqvwd4/F4bI1Ir8UC4vwPIjYW8kL/jeZ9M9wKeqCDKtvdbrzHdBpOylcNFYCt3sshiANteXeCATJ2tuwOG8enz2v4gDcOeV8VlDl5/fUhjyS5LO/O+WG8G0gr/MVlYt4QoFFG63eDgB55c+Ug8OejkTTru9flU5wbRArVKN3uh9KMbQhQeuFNTftensh401iZXxKbQzztLbIB2846ytE+lOrcU0UElgu8lwmpYHJooTNc73jMCLLSuqEGjQDoEKaenbQOk597y86yUCUr21dfTEJ3OOXlwITWKW77tYZMuPNH7xdKvy0v/mOUVeBtfnMO2FLu8md5yo=;AsMc4pNJxIY+FLViv7kRKw=="
 ---
 

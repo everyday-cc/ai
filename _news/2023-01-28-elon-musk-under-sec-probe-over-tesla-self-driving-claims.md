@@ -83,15 +83,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk Faces SEC Probe for Role in Tesla Self-Driving Claims"
-    excerpt: "US regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person."
-    publishedDateTime: 2023-01-27T20:14:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-01-27/elon-musk-faces-sec-probe-for-role-in-tesla-self-driving-claims"
+  - title: "U.S. SEC Probes Elon Musk's Role in Tesla Self-Driving Claims - Bloomberg News"
+    excerpt: "The U.S. securities regulator is investigating Elon Musk's role in shaping EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter. The review is part of an ongoing Securities and Exchange Commission (SEC) probe of the company's statements about its Autopilot driver-assistance system,"
+    publishedDateTime: 2023-01-27T20:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-01-27/u-s-sec-probes-elon-musks-role-in-tesla-self-driving-claims-bloomberg-news"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
     excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
     publishedDateTime: 2023-01-27T10:04:00Z
@@ -119,6 +119,20 @@ related:
       - url: "https://images.wsj.net/im-710024/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
+    excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
+    publishedDateTime: 2023-01-28T00:03:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-01-27/musk-sec-probe-tesla-self-driving-claims"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 54
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4617e46/2147483647/strip/true/crop/2405x1263+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F23%2F493f36c147d69cdb67ee5a461dc5%2Fwhite-house-musk-26132.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Musk faces SEC probe for role in Tesla self-driving claims, report says"
     excerpt: "U.S. stock market regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving vehicle claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing ..."

@@ -2,6 +2,58 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2022-09-23-what-on-earth-is-that-super-bright-object-spotted-moving-toward-the-sun.md",
+      "title": "'What on Earth Is That?' Super Bright Object Spotted Moving Toward the Sun",
+      "excerpt": "\"What on Earth is that?,\" Strong tweeted, alongside the following coronagraph clip. \"There is a bright object on the right edge of the frame coming into view, i.e., moving the opposite way to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/solar-coronagraph-image-venus-object-sun-1745683",
+      "originalUrl": "https://www.newsweek.com/solar-coronagraph-image-venus-object-sun-1745683",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2121409/venus-seen-coronagraph.jpg",
+          "width": 1200,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/solar-coronagraph-image-venus-object-sun-1745683?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/solar-coronagraph-image-venus-object-sun-1745683?amp=1",
+      "publishedDateTime": "2022-09-23T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-volkswagen-concept-previews-tomorrows-driverless-rental-pods.md",
       "title": "Volkswagen concept previews tomorrow's driverless rental pods",
       "excerpt": "Artificial intelligence and platooning – fully autonomous driving in convoys – have been factored in to further increase the range for long-distance journeys, Volkswagen adds. Head of ...",
@@ -1145,57 +1197,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-why-you-need-a-digital-champion-to-score-ai-wins.md",
-      "title": "Why you need a digital champion to score AI wins",
-      "excerpt": "Panelists at Digital Procurement World said making AI work with humans requires an internal digital champion to create a safe environment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/",
-      "originalUrl": "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-649813346-e1663856782735.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/",
-      "publishedDateTime": "2022-09-22T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

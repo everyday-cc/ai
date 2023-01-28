@@ -2,6 +2,59 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-11-07-cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler.md",
+      "title": "Cost-effective data preparation for machine learning using SageMaker Data Wrangler",
+      "excerpt": "Amazon SageMaker Data Wrangler is a capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare high-quality features for machine learning (ML) applications via a visual interface. Data Wrangler reduces the time it takes to aggregate and prepare data for ML from weeks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-effective-data-preparation-for-machine-learning-using-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/07/cost-effective-data-preparation.jpg",
+          "width": 1553,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-07T10:16:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-eight-ways-to-reduce-ai-burnout.md",
       "title": "Eight ways to reduce AI burnout",
       "excerpt": "Responsible and ethical artificial intelligence has become the hot-button issue of our times, especially as AI seeps into every aspect of decision making and automation. 35% of companies now report using AI in their businesses and 42% are exploring the ...",
@@ -1102,49 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-06-recognition-of-the-rights-of-nature-a-must.md",
-      "title": "Recognition of the Rights of Nature a Must",
-      "excerpt": "The Tightens Bond to the Growing Number of Countries Pushing for the Recognition of the Rights of Nature “Typhoons Paeng and Karding are cries",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
-      "originalUrl": "https://www.pressenza.com/2022/11/recognition-of-the-rights-of-nature-a-must/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn77.pressenza.com/wp-content/uploads/2022/11/PSWS_of_Typhoon_Noru_Kardingre.jpg",
-          "width": 1920,
-          "height": 1574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-06T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PRESSENZA",
-        "domain": "pressenza.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

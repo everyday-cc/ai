@@ -2,6 +2,57 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-11-27-ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028.md",
+      "title": "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-26T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-deep-learning-in-machine-vision-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028.md",
       "title": "Deep Learning in Machine Vision Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028",
       "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Deep Learning",
@@ -1052,50 +1103,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021.md",
-      "title": "How can AI, robotics and blockchain technology transform digital education: OECD’s Digital Education Report 2021",
-      "excerpt": "Artificial intelligence(AI) and robotics and blockchain technology when used in a coordinated and combined manner, can potentially revolutionise the education system. The Organisation for Economic Cooperation and Development(OECD) report of 2021 brought to the fore the growing importance of robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-95754018,imgsize-60418,width-1200,height-628,overlay-etcio/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecd-s-digital-education-report-2021.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
-      "publishedDateTime": "2022-11-24T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

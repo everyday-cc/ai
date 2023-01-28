@@ -2,6 +2,49 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-10-26-words-face-recognition-supported-by-1-brain-hemisphere-study.md",
+      "title": "Words, face recognition supported by 1 brain hemisphere: study",
+      "excerpt": "Research shows how words, face recognition can be supported with a single brain hemisphere Research findings, published by University of Pittsburgh researchers in the Proceedings of the National ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "originalUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/12/02/191202-brain-networks_16ec6b5e666_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "publishedDateTime": "2022-10-25T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029.md",
       "title": "Cloud AI in Fintech Market : Competitive Strategy Analysis and Forecast Values 2022-2029",
       "excerpt": "Cloud AI in Fintech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected",
@@ -1089,58 +1132,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-generative-ai-will-impact-every-tool-out-there-says-jasper-ceo.md",
-      "title": "Generative AI will ‘impact every tool out there,’ says Jasper CEO",
-      "excerpt": "Dave Rogenmoser, CEO of Jasper AI, says that generative AI is no flash in the pan — and enterprise companies should consider their strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Jasper.ai-Free-Trial-3.png?w=1200&strip=all",
-          "width": 654,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
-      "publishedDateTime": "2022-10-25T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2022-09-17-decoding-canine-cognition-machine-learning-gives-glimpse-of-how-a-dogs-brain-represents-what-it-sees.md",
+      "title": "Decoding canine cognition: Machine learning gives glimpse of how a dog's brain represents what it sees",
+      "excerpt": "Scientists have decoded visual images from a dog's brain, offering a first look at how the canine mind reconstructs what it sees. The Journal of Visualized Experiments published the research done at Emory University.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-decoding-canine-cognition-machine-glimpse.html",
+      "originalUrl": "https://phys.org/news/2022-09-decoding-canine-cognition-machine-glimpse.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/decoding-canine-cognit.jpg",
+          "width": 2880,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-decoding-canine-cognition-machine-glimpse.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-decoding-canine-cognition-machine-glimpse.amp",
+      "publishedDateTime": "2022-09-16T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-ai-capable-of-early-detection-of-pancreatic-cancer.md",
       "title": "AI Capable of Early Detection of Pancreatic Cancer",
       "excerpt": "A new study published in the journal Radiology shows how AI deep learning can detect pancreatic cancer on CT scans with 91 percent accuracy. “The deep learning–based tool enabled accurate detection of pancreatic cancer on CT scans,",
@@ -1110,49 +1153,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists.md",
-      "title": "Ecobank partners with AMA Academy to launch fintech training for journalists",
-      "excerpt": "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
-      "originalUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hapakenya.com/wp-content/uploads/2014/04/Ecobank.jpg",
-          "width": 640,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hapakenya.com",
-        "domain": "hapakenya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

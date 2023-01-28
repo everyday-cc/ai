@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Demand for Swarm Intelligence Technologies Is Estimated To Boom At A Valuation of US$ 450 Million by the End of 2033 Fact.MR Report"
-    excerpt: "The global swarm intelligence market is estimated to achieve a valuation of US$ 450 million by 2033, skyrocketing at 45.2% CAGR from 2023 to 2033, as per a new industry"
-    publishedDateTime: 2023-01-23T11:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30520271/demand-for-swarm-intelligence-technologies-is-estimated-to-boom-at-a-valuation-of-us-450-million-b"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-
 secured: "GJFcrwDgFzYRbpij4L61YAiBWoc776bwdaQ3lmmA2PHVOXqU1utSq3FL55SK+fhy1sRLvug61ajK/xvCl6VcG4XoXKAWV4lllGPHaDeNH1CeD7HaOiRG9tPdjAq+TdfxXqxJvO1fioujnOrk/4MoXEbBs1A3tNFCaX/QhGH3D8jBN1ZK6hnhZOgmwbXyR5PV1YFunwA6yh7yCJSTT2j9u2uWTMyCUYvTb6SIZbNolnmSEQGgEvEyvuL60XXTMVD67rKNWyVIyIHYtlRbvfJJ67oqqTla4zUnIHpYdS0wV1iY3SZRAVD8qG5+/ngm+U+2NhS+C2zlIuvj+/aIcG/uJ3fvhT0w4svVZ8WyQzn8Kf8C8eBl6pPqpqUdwnL50UyVZGNYbHcPzBN3WU7Ow1VTezfRsvaFu4G/kMhMagCTwRWcjtQdZy2wezLYHRtAcgb5D9y9S5ZjBqGffhcVGnOAoNkBDzEeqPknjhsRW65qKNDHh29Q0KsrHA7H5UxGTdXQ+3LRHLPf800n9fxpQzepuQ==;Rp3fjqhTraxXwcEufcf/tg=="
 ---
 

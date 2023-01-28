@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-10-12-cognitive-media-market-size-2023-supply-demand-growing-trends-top-players-analysis-and-regional-forecast-2032.md",
+      "title": "Cognitive Media Market Size 2023 Supply, Demand, Growing Trends, Top Players Analysis and Regional Forecast 2032",
+      "excerpt": "Additionally, the increasing demand for wireless data services for exchanging information ... Major Key Players: Players leading the global Cognitive Media Microsoft, Google, AWS, Adobe, IBM ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cognitive-media-market-size-2023-supply-demand-growing-trends-top-players-analysis-and-regional-forecast-2032",
+      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-media-market-size-2023-supply-demand-growing-trends-top-players-analysis-and-regional-forecast-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/e704d4e0595061641b81c0a54a4d1e5a3d8c54ab-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-alzheimers-drug-shows-promise-in-slowing-cognitive-decline.md",
       "title": "Alzheimer’s drug shows promise in slowing cognitive decline",
       "excerpt": "An experimental Alzheimer’s drug, called lecanemab, has successfully met its primary endpoints in a Phase III trial, which found it slows cognitive decline and improves daily activities. Nearly 50 million people worldwide are living with Alzheimer’s ...",
@@ -1067,40 +1110,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer.md",
-      "title": "BigBear.ai Names Former IBM Executive Mandy Long as Chief Executive Officer",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

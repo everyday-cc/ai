@@ -167,20 +167,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Generative AI and the Ensuing Computer Human Whisperer"
-    excerpt: "Rather than people having to learn how to work with computers, generative AI-based computers will increasingly be learning how to work with humans."
-    publishedDateTime: 2023-01-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/generative-ai-and-the-ensuing-computer-human-whisperer-177689.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/01/generative-ai.jpg"
-        width: 1000
-        height: 520
-        isCached: true
   - title: "The AI ‘gold rush’ is here. What will it bring?"
     excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
     publishedDateTime: 2023-01-23T19:40:00Z

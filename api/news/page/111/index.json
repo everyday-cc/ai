@@ -2,6 +2,50 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-10-18-why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education.md",
+      "title": "Why Andhra’s face recognition system for teacher attendance won’t reform education",
+      "excerpt": "A teacher’s presence is, of course, necessary but it's more important for he/she to possess curiosity and pass on the spirit of inquiry to students. These issues require a humanist understanding of teachers as professionals,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/",
+      "originalUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/10/Teachers.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/lite/",
+      "publishedDateTime": "2022-10-17T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-google-cloud-next-2022-customers-benefit-from-enhanced-ai-capabilities.md",
       "title": "Google Cloud Next 2022 – Customers Benefit From Enhanced AI Capabilities",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead covers the announcements that stuck out to him at Google Cloud Next 2022.",
@@ -1044,49 +1088,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-this-salon-favorite-hack-will-make-your-deep-conditioner-even-more-hydratingjust-in-time-for-dry-hair-season.md",
-      "title": "This Salon-Favorite Hack Will Make Your Deep Conditioner Even More Hydrating—Just in Time for Dry Hair Season",
-      "excerpt": "With the Well+Good SHOP, our editors put their years of know-how to work in order to pick products (from skin care to self care and beyond) they’re betting you’ll love. While our editors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
-      "originalUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wellandgood.com/wp-content/uploads/2022/10/BONNINSTUDIO-1.jpg",
-          "width": 1170,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wellandgood.com/deep-conditioning-tools/amp/",
-      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/deep-conditioning-tools/amp/",
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Well+Good",
-        "domain": "wellandgood.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

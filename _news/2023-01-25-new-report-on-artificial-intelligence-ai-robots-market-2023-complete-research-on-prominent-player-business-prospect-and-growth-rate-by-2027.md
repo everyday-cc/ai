@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial
 webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Technology Market 2023 Booming Growth in Future Scope, Market Share, Sales and Revenue by Top Key Player and Forecast 2028 Research"
-    excerpt: "Global Face Recognition Technology Market New Research Report 2023| The Face Recognition Technology Market Size"
-    publishedDateTime: 2023-01-24T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-booming-growth-in-future-scope-market-share-sales-and-revenue-by-top-key-player-and-forecast-2028-research-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Worth $8.95 Billion by 2030 - Exclusive Report by Meticulous Research®"
     excerpt: "Redding, California, Jan. 26, 2023 (GLOBE NEWSWIRE) -- According to a new market research report titled, 'Artificial Intelligence in Drug Discovery Market by Offering (Software, Services), Application (Target"
     publishedDateTime: 2023-01-26T14:00:00Z
@@ -59,6 +45,29 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Self-driving Robot Market 2023-2028: Estimated to Growth by CAGR Status, Revenue, Top Industry Players with Size and Share Estimates"
+    excerpt: "Global “Self-driving Robot Market” Research Report (107 Pages) provides granular insights on on-going industry"
+    publishedDateTime: 2023-01-25T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2023-2028-estimated-to-growth-by-cagr-status-revenue-top-industry-players-with-size-and-share-estimates-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New Report on Artificial Intelligence Chipsets Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027"
+    excerpt: "Latest Research Report 2023: A new Artificial Intelligence Chipsets market report provides up-to-date information on"
+    publishedDateTime: 2023-01-25T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-chipsets-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
   - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
     excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
     publishedDateTime: 2023-01-24T11:36:00Z

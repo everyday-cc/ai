@@ -2,6 +2,49 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-10-13-a-sort-of-driverless-cars-journey-through-san-francisco.md",
+      "title": "A (sort of) driverless car’s journey through San Francisco",
+      "excerpt": "A Waymo Jaguar SUV outside Mission High School. Photo by Yujie Zhou. Subscribe to our daily newsletter and have the latest stories from Mission Local delivered directly to your inbox. The electric car that emerged from the fog on Monday morning might have ...",
+      "sourceUrl": null,
+      "webUrl": "https://missionlocal.org/2022/10/waymo-driverless-car-san-francisco-cruise/",
+      "originalUrl": "https://missionlocal.org/2022/10/waymo-driverless-car-san-francisco-cruise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://missionloca.s3.amazonaws.com/mission/wp-content/uploads/2022/10/selfDrivingCar_banner.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mission Local",
+        "domain": "missionlocal.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees.md",
       "title": "The Role Of Recognition In Supporting Offline, Remote And Hybrid Employees",
       "excerpt": "Knowing how to properly recognize employees outside of a traditional workplace setting is vital for ensuring their job satisfaction and productivity.",
@@ -1151,58 +1194,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-thanks-to-ai-you-can-now-create-automations-in-power-automate-by-simply-describing-them.md",
-      "title": "Thanks to AI, you can now create automations in Power Automate by simply describing them",
-      "excerpt": "Microsoft debuted a new feature that leverages OpenAI's Codex AI system to streamline workflow creation in Power Automate.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/12/2420274/",
-      "originalUrl": "https://techcrunch.com/2022/10/12/2420274/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/12/2420274/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/2420274/amp/",
-      "publishedDateTime": "2022-10-12T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

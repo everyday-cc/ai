@@ -55,6 +55,59 @@
       ]
     },
     {
+      "path": "_news/2023-01-25-ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
+      "title": "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
+      "excerpt": "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience.md",
       "title": "Massachusetts Institute of Technology-developed AI gains real-world industry experience",
       "excerpt": "Taking what they learned conceptually about artificial intelligence and machine learning (ML) this year, students from across the Greater Boston area had the opportunity to apply their new skills to r",
@@ -1395,49 +1448,6 @@
         "Facebook AI",
         "AI Ethics",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-6-ibm-cybersecurity-predictions-for-2023-ransomware-and-caas-will-spike.md",
-      "title": "6 IBM cybersecurity predictions for 2023: Ransomware and CaaS will spike",
-      "excerpt": "Recently, IBM Security and the X-Force threat research ... Intelligent Security Summit On-Demand Learn the critical role of AI & ML in cybersecurity and industry specific case studies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
-      "originalUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

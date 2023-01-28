@@ -2,6 +2,51 @@
   "page": 133,
   "value": [
     {
+      "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
+      "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
+      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
+      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
+          "width": 765,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
       "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
       "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
@@ -1132,58 +1177,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-xiaomi-smart-camera-2-ai-enhanced-edition-launched-in-china-for-369-yuan-52.md",
-      "title": "Xiaomi Smart Camera 2 AI Enhanced Edition Launched in China for 369 yuan ($52)",
-      "excerpt": "Xiaomi had just launched a new smart home product in the Chinese market. The device in question is the new Smart Camera 2 AI Enhanced Edition, so let’s have a look. The New Smart Camera 2 AI Enhanced Edition houses a 4 megapixel camera that is capable of capture videos",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/",
-      "originalUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/8d608363-0045-4d4e-8c1a-ec95222e9935.png",
-          "width": 728,
-          "height": 1144,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/?amp=1",
-      "publishedDateTime": "2022-09-27T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

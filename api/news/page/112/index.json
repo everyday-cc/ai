@@ -2,6 +2,49 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-10-17-this-salon-favorite-hack-will-make-your-deep-conditioner-even-more-hydratingjust-in-time-for-dry-hair-season.md",
+      "title": "This Salon-Favorite Hack Will Make Your Deep Conditioner Even More Hydrating—Just in Time for Dry Hair Season",
+      "excerpt": "With the Well+Good SHOP, our editors put their years of know-how to work in order to pick products (from skin care to self care and beyond) they’re betting you’ll love. While our editors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
+      "originalUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wellandgood.com/wp-content/uploads/2022/10/BONNINSTUDIO-1.jpg",
+          "width": 1170,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wellandgood.com/deep-conditioning-tools/amp/",
+      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/deep-conditioning-tools/amp/",
+      "publishedDateTime": "2022-10-16T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Well+Good",
+        "domain": "wellandgood.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022.md",
       "title": "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022",
       "excerpt": "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,",
@@ -1174,59 +1217,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-your-face-is-the-future-of-targeted-marketing-heres-why-businesses-should-use-facial-recognition.md",
-      "title": "Your Face is the Future of Targeted Marketing. Here's Why Businesses Should Use Facial Recognition",
-      "excerpt": "Facial recognition technology compliant with global data privacy laws can open new doors for targeted marketing campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1665606024-GettyImages-1390845799.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
