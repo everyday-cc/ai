@@ -24,17 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Shutterstock Introduces Generative AI to its All-In-One Creative Platform"
-    excerpt: "(NYSE: SSTK), the world's leading creative platform for transformative brands and media companies, today announced the launch of its AI image generation platform, available to use by all Shutterstock customers globally in every language the site offers."
-    publishedDateTime: 2023-01-26T02:42:00Z
-    webUrl: "https://www.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+  - title: "How generative AI will help power your presentation in 2023"
+    excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
+    publishedDateTime: 2023-01-24T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-will-help-power-your-presentation-in-2023/"
     type: article
     provider:
-      name: Today
-      domain: today.it
-    quality: 38
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "wyVqJX40IAVf1aZlQk9ar3FhGT+WnGlb7ToioPm+3l/nI8OZq+TFSxuX5Qog3srp5R9qmMKj+Vrdnz666fZ96nJMS5UNCGLNEdlc7r964Rlfcd8CjXHME8oZt2GgDMrrfEkIHMap48jM+BhHqguf6djKOrXS+EQODQWs0i85s0t0Z6nNhDMP1rvJBw08/BMDfS/ntJUhLqKq7Q26x199frhzO/Au10uEWZPFvtG+reiAdMOhPYmgH2YoHeU6AQmgSsIy2Lz4e2zZCOuf4Ho3LRdTPzbwKxaMXd2/pRi+CiPdu5HfR+QV5AwBVcmsEpjsyHnxOPWN2Wn1i2WFvBDSJ+ajfGGcjLBN0CKOqG79wJ4=;GIqPoxBh46o6zWoBgQ5obw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/image-recognition-in-ret
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-is-booming-worldwide-including-126-pages-report-2023-01-23"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market is Estimated to Accelerate Industry Growth in Analytics Sector with Top Significant Players"
-    excerpt: "Facial Recognition Market Report 2023 is spread across 112 Pages and provides exclusive statistics data, and competitive landscape of Facial Recognition Market in niche sector. The global Facial Recognition market size was valued at USD 3975."
-    publishedDateTime: 2023-01-23T16:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-estimated-to-accelerate-industry-growth-in-analytics-sector-with-top-significant-players-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

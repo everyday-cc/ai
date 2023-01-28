@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/01/27/report-openai-hired-1000-contr
 webUrl: "https://siliconangle.com/2023/01/27/report-openai-hired-1000-contractors-improve-ai-models-coding-capabilities/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,37 @@ images:
     width: 859
     height: 478
     isCached: true
+
+related:
+  - title: "Remote IT management gets a generative AI boost as Atera adds OpenAI Codex"
+    excerpt: "Atera announced that it is integrating OpenAI Codex with its RMM platform, to help users automatically generate scripts to help execute processes."
+    publishedDateTime: 2023-01-26T14:12:00Z
+    webUrl: "https://venturebeat.com/ai/remote-it-management-gets-a-generative-ai-boost-as-atera-adds-openai-codex/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
+  - title: "Shutterstock Introduces Generative AI to its All-In-One Creative Platform"
+    excerpt: "(NYSE: SSTK), the world's leading creative platform for transformative brands and media companies, today announced the launch of its AI image generation platform, available to use by all Shutterstock customers globally in every language the site offers."
+    publishedDateTime: 2023-01-26T02:42:00Z
+    webUrl: "https://www.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
+    type: article
+    provider:
+      name: Today
+      domain: today.it
+    quality: 38
+  - title: "Google, not OpenAI, has the most to gain from generative AI"
+    excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
+    publishedDateTime: 2023-01-27T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90839649/google-not-openai-has-the-most-to-gain-from-generative-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 21
 
 secured: "QYYjifqRqMmsbdV9SoKFiE+4p7NqnwlJzlhKFtM+zTojCCkRl7WQq4uiM1p/EOUZQl4jgXIZsWH1e/TCuojkGOevCZ39BrSlcWD34ADVOwXCAFvCP52jgXRTQY6wONI8MyaFAoyl46vcTZXL9mq+lRMcWcegxwD+mZUSrWp6nNRJY0E/Zy22mIkLPP5akbDTZKFn/jUgWMqigELjybsN38xxL3N69dMJs+XASF/UBO7tGhNnDnyrwKHYjXCZuuMz5+But3EoHAURlVkfnGZUXWNysDdAABUhgDOJubSlGUUDoUzlpFGcbGfNlNgaOtQqyBfrpDJTtZbb7SYilXt1yIMK0B66q86XSrHE10YjgPlQKs2nru4Zo/LhdvPJPDLt4csz3gBrbNDyp0PNLT40qPF1DQSXyEdkoO1s4OlejC7c0mXkQ8N+0W00J2jGU0nyb5oAw8U1q8h1ek/CKWOLAPn/u3hSe6kWdOQqTzKdGZ1U0xb9yNcWuoyOG/ObtWs/ylcgfskSXe7heAPDDwfziQ==;vq4KYjENqAzWmEm42XckTw=="
 ---

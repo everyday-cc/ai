@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Microsoft and OpenAI extend partnership to ‘democratize AI’"
-excerpt: "The latest phase in the collaboration between the two brands will aim in part to develop supercomputing systems and integrate OpenAI’s models – including ChatGPT and DALL·E 2 – into Microsoft consumer and enterprise products."
-publishedDateTime: 2023-01-23T22:03:00Z
-originalUrl: "https://www.thedrum.com/news/2023/01/23/microsoft-and-openai-extend-partnership-democratize-ai"
-webUrl: "https://www.thedrum.com/news/2023/01/23/microsoft-and-openai-extend-partnership-democratize-ai"
+title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
+excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
+publishedDateTime: 2023-01-27T21:06:00Z
+originalUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1"
+webUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1"
+ampWebUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
 type: article
-quality: 54
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Drum
-  domain: thedrum.com
+  name: YAHOO!News
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-01-23t160702.024.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-    width: 1280
-    height: 720
+  - url: "https://i.insider.com/63d414c4fc18470019551e68?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -40,22 +45,6 @@ related:
       - url: "https://static01.nyt.com/images/2023/01/23/multimedia/23microsoft-pkhc/23microsoft-pkhc-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
-    excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
-    publishedDateTime: 2023-01-27T21:06:00Z
-    webUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/63d414c4fc18470019551e68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "While Microsoft pours billions into OpenAI, Meta's AI chief says ChatGPT is \"not particularly innovative\""
     excerpt: "Over the following years, OpenAI received an estimated $2 billion and built its infrastructure around Microsoft Azure. Training and testing AI ... putting out systems that make stuff up.\" Many machine learning experts agree with LeCun."
@@ -111,6 +100,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d40f73f56a6976217458de/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft and OpenAI extend partnership to ‘democratize AI’"
+    excerpt: "The latest phase in the collaboration between the two brands will aim in part to develop supercomputing systems and integrate OpenAI’s models – including ChatGPT and DALL·E 2 – into Microsoft consumer and enterprise products."
+    publishedDateTime: 2023-01-23T22:03:00Z
+    webUrl: "https://www.thedrum.com/news/2023/01/23/microsoft-and-openai-extend-partnership-democratize-ai"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 54
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-01-23t160702.024.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
     excerpt: "The partnership will allow Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs."
@@ -223,6 +226,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "e6ZzKqs1ALIMjrnhwaBH5KVZQR7XdGnqadDB8eD7eV7YRDzf57/qGEeO9/aS1ygm7pW51FTLmOMQLeEE6+B8/qsmbulnn+VxMeqxXkeS8ONW/r3s+nwl5MRYiRivUO3x+GG1IYzIWCnxo+QIWAW8DMrFjJy1d3de0B2NNME+CVe5nXko4BQdkiOiq0+uHEV2PV5iCjyUCWnjQibJFmz9HgY4JJRigLFyqzqCKTOVVC6jtMawjwkH5ITgF3xGSf9YbkXdIfuVgWDMXNoEMn23cxITiz4aiu+RW2q7upw5S1wz8WMh7pJOb/V9gXsXoxGqkrevu0NcV7NEPUUG5KupZpbGDqgnX9QwgdG8vMz+1BE2WASMi/HeOVSSJauMh5/ONuPHptDf8McM/AUEWnGuvCSL18X8e2Dy4lJHN/klvz/BqzFuLXsgF6Rf1lUQcZs1/QhbG4jcanlCMqSQKlPTnaOdPtc/gSEu//S4qM0sMm7gm6kH+YZYheh0jr1ibvB4oWQGHwF92I9lF82I/TjayA==;zd2tQ/hnPMta9B+PNGb0xg=="
+secured: "tRmWiQ625asBJWzoouukxBzvhSz9xMrxNtlyviI4rm5Eho7MYaUSZFJCU1uo0H+PQtD+RwqfAktOdA6tcmWxwYz+o0wq/PXPNTw/fJIHXVnjxV7M7zSyMWvOi50AcAlLHN5HOEN7wZvvsWgNo7+A7Zi27cNcGykQstFZtdUhfVGZMSf3n0XaBqsKb3n90e+J/9KqIUQ3fRlu/STk3J+3DOBsUHFNV4bdk/WB/2vpOxdOqvhotZq8dVaHPkJHV5ADNmKZgaZxwKZQ0ba9cBsLvUopSEa1bidruwrsdlHDyOIvic0NIUyAn9ha405wV873XJkxVV1MhwpAOh9PRgGYE9atg8WIIrl9RCKfl4UAK/w=;9gtkMcYrQwRHRnVwJnZFIw=="
 ---
 

@@ -41,21 +41,21 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Microsoft invests billions in ChatGPT-maker OpenAI"
-    excerpt: "The partnership positions Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs that could transform numerous professions."
-    publishedDateTime: 2023-01-23T16:48:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-invests-billions-chatgpt-maker-openai-rcna67011"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna67011"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna67011"
+  - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
+    excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
+    publishedDateTime: 2023-01-27T21:06:00Z
+    webUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 104
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230123-microsoft-jm-1145-deaaad.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://i.insider.com/63d414c4fc18470019551e68?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "While Microsoft pours billions into OpenAI, Meta's AI chief says ChatGPT is \"not particularly innovative\""
     excerpt: "Over the following years, OpenAI received an estimated $2 billion and built its infrastructure around Microsoft Azure. Training and testing AI ... putting out systems that make stuff up.\" Many machine learning experts agree with LeCun."
@@ -70,22 +70,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-24-image-24.jpg"
         width: 1588
         height: 1074
-        isCached: true
-  - title: "Microsoft to invest billions in AI startup behind ChaptGPT for writing, image creation"
-    excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate new images."
-    publishedDateTime: 2023-01-23T15:22:00Z
-    webUrl: "https://wraltechwire.com/2023/01/23/microsoft-to-invest-billions-in-ai-startup-behind-chaptgpt-for-writing-image-creation/"
-    ampWebUrl: "https://wraltechwire.com/2023/01/23/microsoft-to-invest-billions-in-ai-startup-behind-chaptgpt-for-writing-image-creation/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/01/23/microsoft-to-invest-billions-in-ai-startup-behind-chaptgpt-for-writing-image-creation/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 66
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
         isCached: true
   - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
     excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."

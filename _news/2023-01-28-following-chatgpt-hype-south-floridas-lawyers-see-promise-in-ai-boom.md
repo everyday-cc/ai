@@ -147,20 +147,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
-  - title: "Kagan: Questions, concerns on ChatGPT and Artificial Intelligence"
-    excerpt: "Will ChatGPT lead in the AI space going forward or it is just one step that will be replaced by another more advanced technology?"
-    publishedDateTime: 2023-01-23T15:30:00Z
-    webUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 43
-    images:
-      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
-        width: 1068
-        height: 580
-        isCached: true
   - title: "Comment: Don’t blink; AI like ChatGPT is improving quickly"
     excerpt: "The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017. What will the next half-decade bring? Can we rely on our current impressions of these tools to judge their quality,"
     publishedDateTime: 2023-01-25T08:30:00Z

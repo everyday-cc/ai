@@ -1,31 +1,29 @@
 ---
 category: news
-title: "New York Attorney General Probing Madison Square Garden’s Use of Facial Recognition Technology"
-excerpt: "The state attorney general’s office said Wednesday that the company has reportedly used the technology to bar entry for lawyers who are currently suing it over unrelated matters."
-publishedDateTime: 2023-01-25T16:43:00Z
-originalUrl: "https://www.wsj.com/articles/new-york-attorney-general-probing-madison-square-garden-use-of-facial-recognition-technology-11674668568"
-webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probing-madison-square-garden-use-of-facial-recognition-technology-11674668568"
+title: "Madison Square Garden facial recognition tech, used to ban people, ignites political firestorm"
+excerpt: "Madison Square Garden’s use of facial recognition technology to bar unwanted fans has prompted an outcry from people fearing that New York is turning into the Gotham of a 2008 Batman film in which the superhero had access to a mass visual surveillance ..."
+publishedDateTime: 2023-01-27T20:03:00Z
+originalUrl: "https://www.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+webUrl: "https://www.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
 type: article
-quality: 57
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-709993/social"
-    width: 1280
-    height: 640
+  - url: "https://twt-thumbs.washtimes.com/media/image/2023/01/25/MSG_Lawyers_Barred_73750_c0-107-5907-3552_s1200x700.jpg?f9718d3cc2555d97950141d920d5e1f5733dfad1"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -44,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/madison-square-garden.jpg"
         width: 1024
         height: 633
+        isCached: true
+  - title: "New York Attorney General Probing Madison Square Garden’s Use of Facial Recognition Technology"
+    excerpt: "The state attorney general’s office said Wednesday that the company has reportedly used the technology to bar entry for lawyers who are currently suing it over unrelated matters."
+    publishedDateTime: 2023-01-25T16:43:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probing-madison-square-garden-use-of-facial-recognition-technology-11674668568"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
+    images:
+      - url: "https://images.wsj.net/im-709993/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "New York’s AG questions Madison Square Garden’s use of facial recognition technology"
     excerpt: "Madison Square Garden’s use of facial recognition technology has been a perplexing topic among sports fans. “They’re able to catch maybe more bad people. The"
@@ -72,22 +84,6 @@ related:
       name: Washington Times
       domain: washingtontimes.com
     quality: 50
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/01/25/MSG_Lawyers_Barred_73750_c0-107-5907-3552_s1200x700.jpg?f9718d3cc2555d97950141d920d5e1f5733dfad1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Madison Square Garden facial recognition tech, used to ban people, ignites political firestorm"
-    excerpt: "Madison Square Garden’s use of facial recognition technology to bar unwanted fans has prompted an outcry from people fearing that New York is turning into the Gotham of a 2008 Batman film in which the superhero had access to a mass visual surveillance ..."
-    publishedDateTime: 2023-01-27T20:03:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 47
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2023/01/25/MSG_Lawyers_Barred_73750_c0-107-5907-3552_s1200x700.jpg?f9718d3cc2555d97950141d920d5e1f5733dfad1"
         width: 1200
@@ -168,6 +164,6 @@ related:
       domain: ft.com
     quality: 16
 
-secured: "9+3khmMQ2UhajXi/E52lzcV6D7y/mWaOwzAP9cz17nKQxfa4BKJ3/h5L5DkN389IujQe37ZRr99JCtT0BRAjnig/Q9QJOSgnRGy2ZpfF/HucCN97u+7bzW3wB0JsyTnrRaTJ17IJpY/cWkPoqdXhMjFdKDXpr5ZwqpZrUtR5/wo9qxjQPj0UfJ9fLbyYw0Gm5l383qWpcvgMvGcDc3fWQ9VLTD7qg7HJeGY4BZf88DzJ4rqwYYOhWaXwAO8IHL6icxxaZLsHwiEPu3Td+AadSTc5rpmZMNSe+eWCt6aL2y8OnlryYYRU59DMM1E8jB+h0zrPcOXYMzVBb0YWmnIIF1UNNDjlTSrS5513uwt7one6YUv42WY6HYfXLXdMxukU2/8Fmi6T96C5aVVwHn2wwyNy1HSW4evEaUqcCSLdg3noLcjL0RZnl1h3cWENJpuHH5mxz/tccR3Dp+zVnxt/emgO1n4dDZsxgPyIaeUEwuUUUT2Nog83rdv6Acd7OhqBVJQYPWgOIPD6wnMzL6ryZQ==;l3zfI7VIwOGbSaVZnMBfyw=="
+secured: "RfQqXxC4p8xUc7Yke5mZU9F2ss6RlSr3WQr1W7v1xWW/IkUEOmnPK0L/fD6GUy4TqvtI5L0G33pwUHZX6Pm47Kxo6XkLZMspr7qkIaJsNDPLMpWM/EUL66rH8035I7P3xHLgiCCoDz57bGegL+ZezpSL3uPH7l8hFybMvXsDPoSiUhcGD7WCHj9lMMeLdxYHQLZ5dzNXV6WfUpd4vlMuScMSBZhGi5NtZ7EvSeKc+wWgDCkNoTf+DBoyfR1Sl8DGhZja0O5K8v7Mvzt/myzMAz83+fdstlZcsztPmmtiisk6y1X2MLu5PjZQpOc7hK2xIARpNZJmWNU1DPrshXS+fF0xOIt+kTiRwObzycf9bto=;H3aGwiz7SCxAhWvl6TXgJQ=="
 ---
 

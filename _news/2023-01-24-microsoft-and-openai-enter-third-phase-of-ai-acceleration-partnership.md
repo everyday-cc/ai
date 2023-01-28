@@ -73,22 +73,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Microsoft announces major investment in artificial intelligence startup OpenAI"
-    excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can generate readable text, images and computer code."
-    publishedDateTime: 2023-01-23T16:45:00Z
-    webUrl: "https://www.pbs.org/newshour/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 89
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/hackattack1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft to invest billions in maker of viral AI ChatGPT"
     excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate new images."
     publishedDateTime: 2023-01-23T17:14:00Z
@@ -176,20 +160,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 60
-  - title: "Microsoft investing $10bn in Open AI’s ChatGPT"
-    excerpt: "Landmark AI tool ChatGPT is to get $10bn in funding from Microsoft Microsoft investing $10bn in Open AI's ChatGPT Artificial intelligence, ChatGPT, Microsoft Technology"
-    publishedDateTime: 2023-01-23T15:46:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/microsoft-investing-10bn-in-open-ais-chatgpt"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 54
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/01/12/ChatGPT-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft & OpenAI Extend Deal To Make AI Accessible To Everyone"
     excerpt: "Microsoft to extend multi-billion dollar investment in OpenAI to speed up development, democratize AI and make it accessible to everyone."
     publishedDateTime: 2023-01-23T20:42:00Z

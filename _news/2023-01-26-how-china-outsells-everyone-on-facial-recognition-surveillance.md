@@ -25,47 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "How to stop facial recognition cameras from monitoring your every move"
-    excerpt: "As was the case for New Jersey native Kelly Conlan. Conlan was just passing through security at an event at Radio City Music Hall when security stopped her and refused to let her into a Rockettes ..."
-    publishedDateTime: 2023-01-23T16:48:00Z
-    webUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move"
-    ampWebUrl: "https://www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-facial-recognition-cameras-monitoring-your-every-move.amp"
+  - title: "Madison Square Garden's facial recognition blacklisting sparks outcry"
+    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan's celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
+    publishedDateTime: 2023-01-27T07:52:00Z
+    webUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 91
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4637f8a2-8a8b-4e88-ad30-23a60beee5a2/a469454b-e28d-428c-b4b0-b4c0d04de9b2/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/madison-square-garden.jpg"
+        width: 1024
+        height: 633
+        isCached: true
+  - title: "New York Attorney General Probing Madison Square Garden’s Use of Facial Recognition Technology"
+    excerpt: "The state attorney general’s office said Wednesday that the company has reportedly used the technology to bar entry for lawyers who are currently suing it over unrelated matters."
+    publishedDateTime: 2023-01-25T16:43:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probing-madison-square-garden-use-of-facial-recognition-technology-11674668568"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
+    images:
+      - url: "https://images.wsj.net/im-709993/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "New York’s AG questions Madison Square Garden’s use of facial recognition technology"
+    excerpt: "Madison Square Garden’s use of facial recognition technology has been a perplexing topic among sports fans. “They’re able to catch maybe more bad people. The"
+    publishedDateTime: 2023-01-26T02:41:00Z
+    webUrl: "https://pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/"
+    ampWebUrl: "https://pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/new-yorks-ag-questions-madison-square-gardens-use-of-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 52
+    images:
+      - url: "https://pix11.com/wp-content/uploads/sites/25/2023/01/AP23025727473750-1.jpg?w=1280"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Madison Square Garden facial recognition tech, to ban people, ignites political firestorm"
+    excerpt: "Madison Square Garden’s use of facial recognition technology to bar unwanted fans has prompted an outcry from people fearing that New York is turning into the Gotham of a 2008 Batman film in which the superhero had access to a mass visual surveillance ..."
+    publishedDateTime: 2023-01-27T20:03:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 50
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/01/25/MSG_Lawyers_Barred_73750_c0-107-5907-3552_s1200x700.jpg?f9718d3cc2555d97950141d920d5e1f5733dfad1"
         width: 1200
-        height: 675
+        height: 700
         isCached: true
-  - title: "How do these strange-looking clothes fool facial recognition?"
-    excerpt: "With the rise of facial recognition technology has come an increase in demand for ways to avoid it. That’s why one Italian fashion house designed a clothing line that will deter facial recognition systems from trying to identify the wearer."
-    publishedDateTime: 2023-01-23T22:06:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/how-do-these-strange-looking-clothes-fool-facial-recognition?_amp=true"
+  - title: "Madison Square Garden facial recognition tech, used to ban people, ignites political firestorm"
+    excerpt: "Madison Square Garden’s use of facial recognition technology to bar unwanted fans has prompted an outcry from people fearing that New York is turning into the Gotham of a 2008 Batman film in which the superhero had access to a mass visual surveillance ..."
+    publishedDateTime: 2023-01-27T20:03:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/jan/27/madison-square-garden-facial-recognition-tech-ban-/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "MSG probed over use of facial recognition to eject lawyers from show venues"
-    excerpt: "The operator of Madison Square Garden and Radio City Music Hall is being probed by New York's attorney general over the company's use of facial recognition technology to identify and exclude lawyers from events."
-    publishedDateTime: 2023-01-26T20:03:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/01/msg-probed-over-use-of-facial-recognition-to-eject-lawyers-from-show-venues/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: Washington Times
+      domain: washingtontimes.com
     quality: 47
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/01/25/MSG_Lawyers_Barred_73750_c0-107-5907-3552_s1200x700.jpg?f9718d3cc2555d97950141d920d5e1f5733dfad1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "MSG may stop booze sales over facial recognition: CEO"
     excerpt: "James Dolan, the owner of th Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing his use of facial recognition technology at venues including MSG."
     publishedDateTime: 2023-01-27T14:53:00Z
@@ -75,15 +112,57 @@ related:
       name: pix11
       domain: pix11.com
     quality: 38
-  - title: "MSG CEO threatens to stop alcohol sales over facial recognition"
-    excerpt: "James Dolan, the owner of the New York Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing"
-    publishedDateTime: 2023-01-27T13:12:00Z
-    webUrl: "https://pix11.com/news/local-news/manhattan/msg-ceo-threatens-to-stop-alcohol-sales-over-facial-recognition/"
+  - title: "New York’s Madison Square Garden’s facial recognition blacklisting sparks outcry"
+    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan’s celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
+    publishedDateTime: 2023-01-27T04:45:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/27/new-yorks-madison-square-gardens-facial-recognition-blacklisting-sparks-outcry"
     type: article
     provider:
-      name: pix11
-      domain: pix11.com
+      name: The Star
+      domain: thestar.com.my
     quality: 36
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/27/1917663.jpg"
+        width: 1240
+        height: 766
+        isCached: true
+  - title: "New York Attorney General Questions Madison Square Garden Entertainment Over Facial Recognition Technology Use"
+    excerpt: "The state’s top lawyer is requesting details after reports the software has been used to ban attorneys involved in lawsuits against the company from its venues."
+    publishedDateTime: 2023-01-25T21:23:00Z
+    webUrl: "https://www.billboard.com/pro/new-york-ag-questions-madison-square-garden-facial-recognition/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 34
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/01/madison-square-garden-exterior-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Madison Square Garden Pressed by NY AG James Over Face Scans"
+    excerpt: "New York Attorney General Letitia James is raising concerns about Madison Square Garden Entertainment Corp.'s reported use of facial recognition technology to prevent lawyers from accessing its venues because of ongoing litigation against the company."
+    publishedDateTime: 2023-01-25T16:28:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/madison-square-garden-pressed-by-ny-ag-james-over-face-scans"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 24
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/3f52060/2147483647/crop/3499x1345%2B0%2B15/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F2b%2Feb%2F457143b74700b6d65c029b277f13%2Fmadison-square-garden-new-york.jpg"
+        width: 959
+        height: 369
+        isCached: true
+  - title: "Madison Square Garden owner faces probe over facial recognition blacklisting"
+    excerpt: "Gregory Varallo, a lawyer in that case, told the court that MSG “used facial recognition software to come in and scrape all the web pages of all the firms involved and then used that facial recognition software at the Garden and other venues”."
+    publishedDateTime: 2023-01-25T19:24:00Z
+    webUrl: "https://www.ft.com/content/57a16cc9-26ec-4024-8981-56eb05a0eec6"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 16
 
 secured: "joS0IuYWmQA1P1k1KnDFShn5yETfYLCQ4TaHX+mFNH7fqWiHENF3ekcLL2wMIG1DUYbMALZ6SQAuJ/YVSip6mjx0fFIYKC1+Cp14/w1DoFiUzt+/7MUpuT/gx1HJ4BFOO5rEmQ/XxWKD3X3IlcAM3XkGvN6iM0FyKfZbwmvBxoghfY4bzIkJNjskuogbYnQaks/QrMabEBN9F5l1x3QIT753Lo+CbZGRuIt7NOnI7s+/0aFT7Mo/s5oUy0QuFxx8PqSMWI6wfzgQWFB2z/qX5kX66G806BMpjludf3mCXVJs2MxnX7GZmIhfIW3v0ejz2BP1e2VqTSD74zf/nDIndM41Jko20yopGDkcSitPJr/jtKsq92xE+UO1OoQEOV0gXn6wquwjsQ/9T3Nfv/wX6vw1tuMW0cAqYMZHX60ufmolMsIVsJDt2scXTO+5ab49PpFP0QU+J2QjhO1vqH+3+saNXA8q2x/AVvYKrD99FaJSecRjnfnPM3ak3pGRmGRHfhU9iVu4JdwGKDW73WWcUA==;o6zFVUO/fOPwRfM1joltbw=="
 ---

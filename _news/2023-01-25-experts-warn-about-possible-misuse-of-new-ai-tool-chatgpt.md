@@ -132,20 +132,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
-  - title: "Kagan: Questions, concerns on ChatGPT and Artificial Intelligence"
-    excerpt: "Will ChatGPT lead in the AI space going forward or it is just one step that will be replaced by another more advanced technology?"
-    publishedDateTime: 2023-01-23T15:30:00Z
-    webUrl: "https://www.rcrwireless.com/20230123/ai-ml/kagan-questions-concerns-on-chatgpt-and-artificial-intelligence"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 43
-    images:
-      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/01/155772243_m-1068x580.jpg?lossy=1&strip=1&webp=1"
-        width: 1068
-        height: 580
-        isCached: true
   - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
     excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
     publishedDateTime: 2023-01-27T18:57:00Z

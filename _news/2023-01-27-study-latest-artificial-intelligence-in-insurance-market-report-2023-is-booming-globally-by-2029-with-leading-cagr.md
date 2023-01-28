@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market is Estimated to Accelerate Industry Growth in Analytics Sector with Top Significant Players"
-    excerpt: "Facial Recognition Market Report 2023 is spread across 112 Pages and provides exclusive statistics data, and competitive landscape of Facial Recognition Market in niche sector. The global Facial Recognition market size was valued at USD 3975."
-    publishedDateTime: 2023-01-23T16:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-estimated-to-accelerate-industry-growth-in-analytics-sector-with-top-significant-players-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "887FxHVTVrIt+qMFhLTYyKngCvBi/wNCV/8NjmN0J52DgSOupB2fFaBlnX8Pkos+eflB37nESkI7f6ST7xKpY2E2mmA7s26vTnc+bSNA7ZYXWtK9k9hyL5Xhl5TZfkiUTjWoOl5R/8htppKPEs5evZfrcBQgzKO6rNmS8AGaJZP1rBiWL6Cl5PnruPJRtqUIdWBbjFZsMq7xzYKSpZYKIvivcTpWK+ivo63DhkaVfOZfaW5tHQMQX2PiwM7/WV35W1hyKd2agNC3x8bPVDZzxkWvLpNSV4N+bvHzqXezsKmNuffDUfAEhN+1sfiE1VJxi1ZuJ3S40AyNooM18DxUC9lTRn3N2j66knDY5XfDQLs=;JxL7DWY+JW6zq8iadlwC/A=="
 ---

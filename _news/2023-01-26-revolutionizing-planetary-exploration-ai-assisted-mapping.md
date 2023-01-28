@@ -34,6 +34,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Generative AI Won’t Revolutionize Game Development Just Yet"
+    excerpt: "Hypesters say artificial intelligence will one day automate all the hard work of video game creation. But it’s not that simple."
+    publishedDateTime: 2023-01-25T18:35:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-video-game-development/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Viva la revolution! AI use cases in B2C commerce – it’s time to move forward"
     excerpt: "He shared his perspectives on the use of AI and machine learning for commerce brands. Fulfilling the primary use case for AI The primary AI use case for e-commerce and marketing focuses on data, according to Walker."
     publishedDateTime: 2023-01-24T10:11:00Z

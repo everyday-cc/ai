@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/readersblog/shikshacoach/how-a
 webUrl: "https://timesofindia.indiatimes.com/readersblog/shikshacoach/how-ai-will-impact-the-future-of-work-and-life-49577/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "The Jobs Safe From AI, And Those That Aren’t"
-    excerpt: "The past few months have given the world a taste of what artificial intelligence can do. For example, ChatGPT can write your essays, while Stable Diffusion can generate images. That leaves many"
-    publishedDateTime: 2023-01-24T05:17:00Z
-    webUrl: "https://technology.inquirer.net/120982/the-jobs-safe-from-ai"
+  - title: "CFO Dinner: Generative AI and the Future of Finance"
+    excerpt: "Michael Schrage, Research fellow, MIT Sloan School of Management Interviewer: Michal Lev-Ram, Editor-at-Large, FORTUNE"
+    publishedDateTime: 2023-01-28T01:29:00Z
+    webUrl: "https://fortune.com/videos/watch/CFO-Dinner-Generative-AI-and-the-Future-of-Finance/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
+      name: Fortune
+      domain: fortune.com
+    quality: 84
     images:
-      - url: "https://technology.inquirer.net/files/2023/01/Jobs-safe-from-AI-featured-image-blog.spjain.org_-620x349.png"
-        width: 620
-        height: 349
+      - url: "https://d2byebo1j9i40c.cloudfront.net/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1/Images/posterImage-ver1-1280x720.png"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "The Future of Artificial Intelligence (AI)"
+    excerpt: "The Future of Artificial Intelligence (AI) is both exciting and uncertain. In recent years, AI has made tremendous leaps forward, from computer vision to natural language processing to autonomous"
+    publishedDateTime: 2023-01-24T08:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/the-wordsmith/the-future-of-artificial-intelligence-ai-49562/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "2023 Will Be A Defining Year For AI And The Future Of Work"
+    excerpt: "Real-Time Translation: AI could be used by global organizations for universal and real-time translation across languages. For any leader considering AI as a force multiplier for their organization, here are three rules to consider before embarking on your ..."
+    publishedDateTime: 2023-01-25T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/2023-will-be-a-defining-year-for-ai-and-the-future-of-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "fInHDn7Hk7wlijXexnKSQqwFd4/6TXS6YdHIKNCYYAGVHhbQgMqA4iywPvEulcsvjjkgDb7HM38ZrM30xR1QeuaqL5Q9molECEWDwDgxCcqfNRkhNgzPEt/I/5VWiogM5JAFXOHxXl5EyNXqQizI9xcgRGKqxPiIrGs9cFUBoimzkG9uOLfyQUx5WIJ1C+5EitddGvEOBXCJHksmwDFr6pYxrlxroqHdrAzZy4loZZSdaK9lsLN3pycE0JSLnJO8yfiGg7271YWIyy0+RBsIHQh+oO5+OgoJRUjuThSWHzA/P5HfIilhx4dNHDRWKRcR6t8MtBTNiaq8qQHV9w+X6WAPSalpMgWqsXY7rEzqftQ=;pE9wIBExYonB49QHiqNG7Q=="
 ---

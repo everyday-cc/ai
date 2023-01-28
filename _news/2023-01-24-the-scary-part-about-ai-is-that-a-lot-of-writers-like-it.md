@@ -40,6 +40,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "The future of artificial intelligence explained by a robot"
+    excerpt: "While Paul Budde is an expert in the field of technology this week hes letting artificial intelligence speak for itself to discuss the current state"
+    publishedDateTime: 2023-01-24T22:45:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273426293/the-future-of-artificial-intelligence-explained-by-a-robot"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 73
+    images:
+      - url: "https://cdn.bignewsnetwork.com/iau1674597130.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Experts grow concerned about potential misuse of artificial intelligence"
     excerpt: "Amid the expansion of artificial intelligence applications for military and civilian use, more experts are growing concerned about the possible misuse of the technology."
     publishedDateTime: 2023-01-26T19:09:00Z
