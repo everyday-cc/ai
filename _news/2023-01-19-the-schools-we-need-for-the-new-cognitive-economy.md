@@ -3,8 +3,8 @@ category: news
 title: "The Schools We Need for the New 'Cognitive Economy'"
 excerpt: "This rapidly changing environment might be called a “cognitive economy.” It requires workers who are not only literate but numerate. That means effective training in math and science and the ..."
 publishedDateTime: 2023-01-19T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html"
+webUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 500
     isCached: true
 
-secured: "o5uYfqG/mUazWQyjNTyZmeiGrCYGXqxXyAybzVFnFm1Yyz24VBI7l+WGK5/XBAbOg7NouEYQ0obWGoIxWP6jz+wwIBXH6btcNTx94XIVB2MP8otwPuSjw+BTVdG/vDDFERSl+Dx4YDhx/uyUgDoys+vqXKfEZozcn2SC7WaviIcHdFgtonEtairBfIBO3MTXudz52HECiCqC1F1C4WAIHJdeOo73RNSnRXhkZg62Me5VQQO6YXnGWfYytv6csXsaUsPYYMOX/wKYWwa6TND+YGBCm2NbBghfZME/SSG45KuNd8JbsnKt+vMu23AxkIQyuYBfJzcAEGZphQFmLGM7xQJ4mTXt4yelDsUA+C1iNio=;4p7bYahwFMJzZvcMKixZBw=="
+secured: "BQSn/0TbZJR+hs2QYNa+KAhBmIRwUW+MQ3kMbRmBv+MNrUQQKTOL2D/YSPbf5IIPViO1Mn7KSDaYlZ/2LICky0+QIwZ1rzPsNStq4XaTyPaEyi5UaTUU4P0HWdKMnLEtRKOml1D4ymQiYAN30pPk92HSXdxBy+U008ai2pEEFNO7pNXjUhALq3F9M1cq692aeg3/d3nDHg5YvsytlG2RPggwkTXeoXB8KH+Vd4kVJloJPae6ml/MPlcyrSJClrI+8xmf0sn/YuwJflELss40P2kLkXo8RJkode66HZbAX78XXBA14bJFYv6wc5iZqOkH0MHl3PxfYBo8zjnCK1fET1pW5DAl130G+EsxF2CD3Vs=;3XlmCc52WrL+n4UZuCSCaw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-24-futurism-cnets-ai-articles-show-evidence-of-plagiarism.md",
+      "title": "Futurism: CNET’s AI articles show evidence of plagiarism",
+      "excerpt": "A Futurism investigation found extensive evidence that the CNET’s artificial intelligence-produced stories show phrasing similarities to articles previously published elsewhere, without giving credit,",
+      "sourceUrl": null,
+      "webUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/",
+      "originalUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://talkingbiznews.com/wp-content/uploads/2022/08/CNET-Main-Logo-Red.png",
+          "width": 4001,
+          "height": 1485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/amp/",
+      "cdnAmpWebUrl": "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/amp/",
+      "publishedDateTime": "2023-01-23T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Talking Biz News",
+        "domain": "talkingbiznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-ai-can-save-education-from-itself.md",
       "title": "AI Can Save Education From Itself",
       "excerpt": "Technology such as ChatGPT threatens only the information-centric type of schooling, which has become obsolete.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 258,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -116,7 +159,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1139,40 +1182,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-nvidia-geforce-rtx-4080-review-deadly-gaming-gpu-but-not-cheap.md",
-      "title": "NVIDIA GeForce RTX 4080 review: Deadly gaming GPU but not cheap",
-      "excerpt": "Team green has already its Ada Lovelace architecture and its GPUs namely, RTX 4090 and RTX 4080 with massive price tags, looking as if both NVIDIA and Apple are competing with their pricing of iPhones and GPUs,",
-      "sourceUrl": null,
-      "webUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4080-review/",
-      "originalUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4080-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-21T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

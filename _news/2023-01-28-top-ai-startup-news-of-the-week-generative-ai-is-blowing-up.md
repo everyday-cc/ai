@@ -52,15 +52,6 @@ related:
         width: 800
         height: 640
         isCached: true
-  - title: "Educators worry about students using artificial intelligence to cheat"
-    excerpt: "New York City public schools blocked access to the popular artificial intelligence tool ChatGPT. Educators are concerned that students could use this technology to write papers – the tool wasn’t even a month old when a college professor in South Carolina caught a student using it to write an essay in philosophy class."
-    publishedDateTime: 2023-01-23T17:25:00Z
-    webUrl: "https://www.pbs.org/newshour/classroom/2023/01/educators-worry-about-students-using-artificial-intelligence-to-cheat/"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 19
   - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
     excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that automates ROI-based creative decisions as well as content strategy."
     publishedDateTime: 2023-01-26T12:22:00Z

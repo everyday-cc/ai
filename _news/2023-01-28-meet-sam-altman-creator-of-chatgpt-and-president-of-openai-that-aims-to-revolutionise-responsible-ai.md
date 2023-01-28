@@ -1,27 +1,29 @@
 ---
 category: news
-title: "The Hidden Cost of ChatGPT for Indian Languages"
-excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
-publishedDateTime: 2023-01-27T07:59:00Z
-originalUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
-webUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
+title: "Meet Sam Altman, creator of ChatGPT and president of OpenAI that aims to revolutionise responsible AI"
+excerpt: "Sam Altman is the president of OpenAI, a research company that aims to create and promote friendly AI in a responsible way. He has also been a part of Y Combinator, a startup accelerator that has helped launch companies such as Airbnb, Stripe and Dropbox."
+publishedDateTime: 2023-01-28T09:03:00Z
+originalUrl: "https://economictimes.indiatimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/articleshow/97396536.cms"
+webUrl: "https://economictimes.indiatimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/articleshow/97396536.cms"
+ampWebUrl: "https://m.economictimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/amp_articleshow/97396536.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/amp_articleshow/97396536.cms"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/chat-gpt-in-hindi.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-117130,msid-97396590/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -158,22 +160,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meet Sam Altman, creator of ChatGPT and president of OpenAI that aims to revolutionise responsible AI"
-    excerpt: "Sam Altman is the president of OpenAI, a research company that aims to create and promote friendly AI in a responsible way. He has also been a part of Y Combinator, a startup accelerator that has helped launch companies such as Airbnb, Stripe and Dropbox."
-    publishedDateTime: 2023-01-28T09:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/articleshow/97396536.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/amp_articleshow/97396536.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/amp_articleshow/97396536.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-117130,msid-97396590/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
     excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
     publishedDateTime: 2023-01-25T13:05:00Z
@@ -220,7 +206,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Hidden Cost of ChatGPT for Indian Languages"
+    excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
+    publishedDateTime: 2023-01-27T07:59:00Z
+    webUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/chat-gpt-in-hindi.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "5/d2Q8a0/P9R6bcj0nQICLEgX/hCDKLny//8Xhrxg0cBCp5ZVlyeazXWyuxc4MtW8mcUjSD+jILbDEPRuNNB+HVQ7LWFhfLOVdGGAerzAImSYLShAsX8FgIfGw237/BtZTECgQxBhKhmHVXNz+LHVb6/bV9aSCDJV2n+szq/ln/e4dm2AKKo5D4ouVM9YWrdoryr46CDdEefFJOxdZcc4g4JbqstJjRQIrbkSRP1GPglF4YZztC4WU68qq+lHmiXGRFE+puBkHYa8I2xHRw8zC0GqwyGEHODIja+PeCQJa7C95XI96oUJbarvf3QdgXC3v1sJsV06NFCe6f2LaWsNnpIZVSAP+qjUCdsoI29c+U=;omdJo71msoRICkldi6Ungg=="
+secured: "/HympDJYyykUNMRl+nVs2mTpUJuYspyGhT4KlHT3g5UwCoXZSrAFwZPn9KXR+TbpyGE1PSJlkjHn5gI5R9PVtIi3zrIY37P9PPkZHAHBi/xhBGG1XF/F/6tsJrN8jrmYxS0HgzrtGMI5DNRmJ3e7IQINFHa/dw3a+I/j7mSQqG1xaH49HA0Zf9D2qyF1qNhgPK4I8N+5JnK5kDUg6kZFkgurVV6NUb5MkUehA1rFJXesb2bijzp4hCK2d5AEN1sI2o3Mot6rUMaiCYoBvlJFF113lhrbgUYYSsbZAVSO6q0UJLD3HY4gAYVAAKsiY15CWqnqR/JztwuI1yNArmHMEZgW01o6tLDkdDJ6webzPA0=;bMxRHXqUhAMUNWxg+eHuyw=="
 ---
 

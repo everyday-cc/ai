@@ -147,15 +147,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft's huge bet on ChatGPT is a 'game changing AI investment' that could boost the stock by 20%, Wedbush says"
-    excerpt: "Microsoft just confirmed its $10 billion partnership expansion with OpenAI. That could make it a leader in the artificial intelligence space, Wedbush said."
-    publishedDateTime: 2023-01-23T17:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-chatgpt-open-ai-game-changer-tech-wedbush-2023-1"
+  - title: "Meet Sam Altman, creator of ChatGPT and president of OpenAI that aims to revolutionise responsible AI"
+    excerpt: "Sam Altman is the president of OpenAI, a research company that aims to create and promote friendly AI in a responsible way. He has also been a part of Y Combinator, a startup accelerator that has helped launch companies such as Airbnb, Stripe and Dropbox."
+    publishedDateTime: 2023-01-28T09:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/articleshow/97396536.cms"
+    ampWebUrl: "https://m.economictimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/amp_articleshow/97396536.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/amp_articleshow/97396536.cms"
     type: article
     provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 42
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-117130,msid-97396590/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
     excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
     publishedDateTime: 2023-01-25T13:05:00Z
@@ -165,15 +172,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 38
-  - title: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake"
-    excerpt: "Microsoft deepens commitment to OpenAI in Azure cloud and enterprise products with reported $10B stake - SiliconANGLE"
-    publishedDateTime: 2023-01-23T19:00:00Z
-    webUrl: "https://siliconangle.com/2023/01/23/microsoft-deepens-commitment-openai-azure-cloud-enterprise-products/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
   - title: "Microsoft drops gauntlet on Google, announces 'multibillion-dollar' investment in ChatGPT creator"
     excerpt: "Software giant Microsoft just revealed plans to invest billions in OpenAI, the company behind the ChatGPT artificial intelligence tool that's drawn a tidal wave of interest, and conjecture, since its November release."
     publishedDateTime: 2023-01-23T21:50:00Z
@@ -226,6 +224,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "tRmWiQ625asBJWzoouukxBzvhSz9xMrxNtlyviI4rm5Eho7MYaUSZFJCU1uo0H+PQtD+RwqfAktOdA6tcmWxwYz+o0wq/PXPNTw/fJIHXVnjxV7M7zSyMWvOi50AcAlLHN5HOEN7wZvvsWgNo7+A7Zi27cNcGykQstFZtdUhfVGZMSf3n0XaBqsKb3n90e+J/9KqIUQ3fRlu/STk3J+3DOBsUHFNV4bdk/WB/2vpOxdOqvhotZq8dVaHPkJHV5ADNmKZgaZxwKZQ0ba9cBsLvUopSEa1bidruwrsdlHDyOIvic0NIUyAn9ha405wV873XJkxVV1MhwpAOh9PRgGYE9atg8WIIrl9RCKfl4UAK/w=;9gtkMcYrQwRHRnVwJnZFIw=="
+secured: "sMROM/pUhKNCTnFp9lTxiU3lG1fcuDMHg6nEmLiVczY2jbzEGLRt7/fsPufPLBr3D5MeytBPoCa0pJ9mXheQqNsZhRUDQiCNfQuyB8iINnZgcZ0JpnyRDFJL4vAg3gWM4I9C7xT7oH4jAh8SnDaCe7hnjMjmQy6gaEa29W8eJcg94xfmRht7386h20ioMJFyXmtCCEJPBkI3nr+755ZrdUO0gSP77VQI07Ro+PSX1uZdAmHr/M7fvJ1aVdVmgobWV8XF1q3JzbQJM86yxEE6MlAuXUAjJ/Rwb/w4RauXsIxD2DAINd6UBFVUgvZFlIVSahuynoPaI3YXncv1alhRkjRaVstaEx3tp95pMNGkhWev1E4KFsRFQV+mFpB5uNrOm5Zt8nPuh09+IIYUc052tD3BcosKooIzdbZeY0+5gFL5TZB9cS2y/UVX3OWFdx3w0hQ4DXgMmyjc3KjdFHD+rUXkBH2giR1eMtfVKyAC0lCr7nfjMwbcUD2BHcSw0bYKZ2nz99DLnwgMQADz2ZRvLQ==;XpRc90SvSBPZ5qIPomZvQA=="
 ---
 

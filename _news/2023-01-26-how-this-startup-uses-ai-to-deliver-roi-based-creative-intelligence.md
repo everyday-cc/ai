@@ -57,15 +57,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Educators worry about students using artificial intelligence to cheat"
-    excerpt: "New York City public schools blocked access to the popular artificial intelligence tool ChatGPT. Educators are concerned that students could use this technology to write papers – the tool wasn’t even a month old when a college professor in South Carolina caught a student using it to write an essay in philosophy class."
-    publishedDateTime: 2023-01-23T17:25:00Z
-    webUrl: "https://www.pbs.org/newshour/classroom/2023/01/educators-worry-about-students-using-artificial-intelligence-to-cheat/"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 19
 
 secured: "PyO/yTMA0yy9Y9mwElh4SzdybadGQa7JnlEbxD8rsaxMwRfYx1NEF8bokb0qiwyG8hC9J6MCP+sLZCYSM3zTFNLBIXSxqkNqlY3riHvs+UmDsOaNCBJJbvTGVXZGogflTIgjRFRZ8uIqtoSBzUSLnGhl21hewipQkTfV1K3srJoLg0eRCmQdfR457VeTc8eTWuzzFw0g/3Wjjb1CG/bg/g0F+SlJe8pS4EqLNuk9ezwe7vWpLDZtkCMRSzPFLYOiivfCg9WW3nH0iSfLiUBs64bAzLpKBzUo+tu/I3K9incfkMEBIAVd2ApU6xgUsUsCBsKBNmkjAJk/dpMdEWS5Wm8WtFJj7m65SqvXzWbWGTQ=;wMJVXoouWUrHs04Qb/WQmw=="
 ---

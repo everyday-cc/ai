@@ -41,54 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "OpenAI and Microsoft reaffirm shared quest for powerful AI with new investment"
-    excerpt: "OpenAI has been behind several key technologies that made 2022 the year that generative AI went mainstream, including DALL-E image synthesis, the ChatGPT chat bot (powered by GPT-3 ), and GitHub Copilot for programming assistance."
-    publishedDateTime: 2023-01-23T17:49:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/openai-and-microsoft-reaffirm-shared-quest-for-powerful-ai-with-new-investment/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 100
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/microsoft_openai_hero_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
-    excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate ..."
-    publishedDateTime: 2023-01-23T18:41:00Z
-    webUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai"
-    ampWebUrl: "https://www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/microsoft-invests-billions-in-artificial-intelligence-startup-openai.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 91
-    images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/01/932/470/microsoft1.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Microsoft to invest billions in maker of viral AI ChatGPT"
-    excerpt: "Microsoft says it is making a “multiyear, multibillion dollar investment” in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate new images."
-    publishedDateTime: 2023-01-23T17:14:00Z
-    webUrl: "https://www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html"
-    ampWebUrl: "https://www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2023/01/microsoft-to-invest-billions-in-maker-of-viral-ai-chatgpt.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 74
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VNDWT2UXERGS5D6XYF6MMB2LG4.jpg"
-        width: 4121
-        height: 2747
-        isCached: true
   - title: "Microsoft says cloud demand waning, plans to infuse AI into products"
     excerpt: "Cloud revenue growth has been slowing quarter-on-quarter for the Windows maker, which expects the growth to continue to decline through the year."
     publishedDateTime: 2023-01-25T06:45:00Z
@@ -242,15 +194,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 34
-  - title: "Microsoft extends AI partnership with ChatGPT and Dall-E maker OpenAI"
-    excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. OpenAI is the creator of popular image generation tool Dall-E and the chatbot ChatGPT."
-    publishedDateTime: 2023-01-23T17:43:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-64374283.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
     quality: 34
   - title: "Microsoft Earnings Call: New-Business ‘Slowdown,’ Big AI Bets"
     excerpt: "Microsoft CEO Satya Nadella used the 2Q earnings call to talk about business growth deceleration, OpenAI, Teams and other topics."

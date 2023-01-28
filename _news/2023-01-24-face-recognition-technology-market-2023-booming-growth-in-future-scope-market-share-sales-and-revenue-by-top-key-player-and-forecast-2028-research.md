@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2023-01-23T17:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-global-market-report-2022-rising-demand-/2023/01/23/9747446.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Artificial Intelligence in Drug Discovery Market Size Projection, Growth Outlook, SWOT Analysis and Industry Insights by 2030"
     excerpt: "With the unlimited possibilities given by this cutting-edge technology, artificial intelligence in healthcare is flourishing, and major corporate giants are expressing interest and investing ..."
     publishedDateTime: 2023-01-25T00:40:00Z

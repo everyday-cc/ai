@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-28-us-secures-deal-with-netherlands-japan-on-china-chip-export-limit-bloomberg.md",
+      "title": "U.S. secures deal with Netherlands, Japan on China chip export limit - Bloomberg",
+      "excerpt": "WASHINGTON, Jan 27 (Reuters) - The United States has secured a deal with the Netherlands and Japan to restrict exports of some advanced chip-making machinery to China ... U.S. and EU to launch first-of-its-kind AI agreement, article with image January ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-secures-deal-with-netherlands-japan-china-chip-export-limit-bloomberg-2023-01-27/",
+      "originalUrl": "https://www.reuters.com/technology/us-secures-deal-with-netherlands-japan-china-chip-export-limit-bloomberg-2023-01-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/kuYlpRz_GdHM8MtGnuBMV8MPY2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PEL2SG6CW5L35LQZL6AYO6H4U4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-27T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-nemalife-develops-second-generation-ai-driven-high-throughput-organism-on-chip-screening-platform.md",
       "title": "NemaLife develops second-generation, AI-driven high-throughput organism-on-chip screening platform",
       "excerpt": "The first generation of our organism-on-chip technology primarily addressed ... we have integrated multiple machine vision cameras, real-time AI-based object detection, and new software tools ...",
@@ -1346,58 +1398,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-build-and-deploy-ai-everywhere-with-a-universal-ai-platform.md",
-      "title": "Build and deploy AI everywhere with a universal AI platform",
-      "excerpt": "A universal AI platform has the flexibility to run every AI code, scope to empower every developer, and scale to enable AI everywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1081869346.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/amp/",
-      "publishedDateTime": "2023-01-10T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
