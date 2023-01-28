@@ -2,60 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-01-26-unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders.md",
-      "title": "Unlock The Potential Of Generative AI: A Guide For Tech Leaders",
-      "excerpt": "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
-      "publishedDateTime": "2023-01-26T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-01-26-startup-founders-dont-cross-the-line-between-optimism-and-fraud.md",
       "title": "Startup founders: Don’t cross the line between optimism and fraud",
       "excerpt": "Don’t be afraid to sprint forward with an optimistic vision for your startup. But be sure to toe the fine line between optimism and fraud.",
@@ -252,6 +198,50 @@
         "IBM AI",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-news-literacy-week-algorithms-artificial-intelligence.md",
+      "title": "News Literacy Week: Algorithms & Artificial Intelligence",
+      "excerpt": "As News Literacy Week continues, it is our effort at 7 News along with our parent company Scripps, to highlight the important role the media play in our community.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
+      "originalUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/450/1020d6d1597347248f5d62c059a4c7e3/4504425ed4874366be1a7029d04b4565/poster_05b48026cd744c8f9658f4990ece8563.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
+      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
+      "publishedDateTime": "2023-01-25T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBW",
+        "domain": "wkbw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -1051,6 +1041,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-25-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies.md",
+      "title": "How ‘killer robots’ can help us learn from mistakes made in AI policies",
+      "excerpt": "Finally, it is critical to consider oversight mechanisms at the start ... “killer robots,” we should not lose sight of the danger that poor processes create when deploying AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/",
+      "originalUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/01/San-Francisco-police-05212019.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/amp/",
+      "publishedDateTime": "2023-01-24T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity.md",
       "title": "How Dangerous Are ChatGPT And Natural Language Technology For Cybersecurity?",
       "excerpt": "Generative artificial intelligence and natural language technology is advancing very quickly. Here, we take a look at how these technologies cheese will affect cyber security.",
@@ -1111,7 +1144,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -1164,7 +1197,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1204,48 +1237,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-chatgpt-uses-ai-to-pass-final-exam-at-upenns-wharton.md",
-      "title": "ChatGPT uses AI to pass final exam at UPenn’s Wharton",
-      "excerpt": "ChatGPT uses artificial intelligence to write an essay instantly on any topic. It even passed an MBA exam at UPenn’s Wharton. NBC News’ Stephanie Gosk shares more about the cutting-edge technology and the shockwaves it’s causing on college campuses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/chatgpt-uses-ai-to-pass-final-exam-at-upenn-s-wharton-161658437822",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/chatgpt-uses-ai-to-pass-final-exam-at-upenn-s-wharton-161658437822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674606230388_nn_sgo_chatgpt_on_college_campuses_230124_1920x1080-k1mc26.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo161658437822",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo161658437822",
-      "publishedDateTime": "2023-01-24T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

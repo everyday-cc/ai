@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-24-seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023.md",
+      "title": "Seamless Checkout, AI, Robotics News From Microsoft, Google, Brain Corp And More At NRF 2023",
+      "excerpt": "Vice President and Principal Analyst Melody Brue looks at some of the companies and products showcased at NRF 2023 that maximize the three pillars of an excellent shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceffd2b891403906766ec0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/",
+      "publishedDateTime": "2023-01-23T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-how-to-stop-facial-recognition-cameras-from-monitoring-your-every-move.md",
       "title": "How to stop facial recognition cameras from monitoring your every move",
       "excerpt": "As was the case for New Jersey native Kelly Conlan. Conlan was just passing through security at an event at Radio City Music Hall when security stopped her and refused to let her into a Rockettes ...",
@@ -626,6 +679,50 @@
       ]
     },
     {
+      "path": "_news/2023-01-23-artificial-insurance-how-machine-learning-is-transforming-underwriting.md",
+      "title": "Artificial Insurance? How Machine Learning Is Transforming Underwriting",
+      "excerpt": "“French AI startup firm Shift Technology incorporates this technology in their fraud prevention services, which have already processed over 77 million claims. The cognitive machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04073124/audit_andrei_r_getty.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-artificial-intelligence-and-how-it-may-change-the-world.md",
       "title": "Artificial Intelligence and how it may change the world",
       "excerpt": "He (or she) will step forward and take over the procedure from the robot. The next step in the development of artificial intelligence, AI, is to have machines develop conscientiousness.",
@@ -667,6 +764,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
+      "title": "Honda planning self-driving electric vehicle fitted with AI",
+      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
+          "width": 660,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "朝日新聞社",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1022,144 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-study-shows-machine-learning-can-predict-development-of-brain-tumours.md",
-      "title": "Study shows machine learning can predict development of brain tumours",
-      "excerpt": "Researchers at the University of Waterloo have created a computational model that can better predict the formation of deadly brain tumours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours",
-      "originalUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_01_2023_15_18_49_4370102.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours?amp",
-      "publishedDateTime": "2023-01-21T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple.md",
-      "title": "Selling Artificial Intelligence To The Business: Keep It Clear, Keep It Simple",
-      "excerpt": "Explainability trumps model performance, and the hottest solution doesn’t always win, especially if it’s too much of a black box.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63cb7fca0b95204e19922d86/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/amp/",
-      "publishedDateTime": "2023-01-21T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-teaching-in-the-age-of-artificial-intelligence-and-chatgpt.md",
-      "title": "Teaching In The Age Of Artificial Intelligence And ChatGPT",
-      "excerpt": "Artificial intelligence empowers increasingly complex interactions between humans and machines. This technology, currently popularized by ChatGPT, provides a potentially enormous opportunity for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-21T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

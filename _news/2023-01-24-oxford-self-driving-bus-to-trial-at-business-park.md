@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK’s first self-driving electric bus unveiled"
-    excerpt: "First Group said it will analyse how people respond to autonomous buses on public roads at a business and technology park in Oxfordshire."
-    publishedDateTime: 2023-01-23T13:46:00Z
-    webUrl: "https://www.aol.com/uk-first-self-driving-electric-134739430.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
   - title: "Passengers travel on full-size self-driving bus in UK first"
     excerpt: "It is part of the CAVForth project which is expected to have five self-driving buses run timetabled services between Ferrytoll park-and-ride in Fife and the Edinburgh Park train and tram interchange via the bridge from the spring. The buses will cover the ..."
     publishedDateTime: 2023-01-25T13:35:00Z

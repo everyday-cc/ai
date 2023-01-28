@@ -8,8 +8,8 @@ webUrl: "https://www.dailymail.co.uk/sciencetech/article-11677653/Artificial-int
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11677653/amp/Artificial-intelligence-kill-human-race-make-mankind-extinct-MPs-warned.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11677653/amp/Artificial-intelligence-kill-human-race-make-mankind-extinct-MPs-warned.html"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2023/01/26/00/66979181-0-image-a-5_1674693823878.jpg"

@@ -131,20 +131,6 @@ related:
         width: 515
         height: 215
         isCached: true
-  - title: "Unleash the Power of AI With STARFETCH, a Fintech that Empowers Investors"
-    excerpt: "This does not mean that AI can replace human traders. Financial institutions can improve the effectiveness and efficiency of their trading operations by fusing the analytical prowess of AI with the imagination and intuition of human traders."
-    publishedDateTime: 2023-01-23T14:59:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/unleash-the-power-of-ai-with-starfetch-a-fintech-that-empowers-investors/111268"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 38
-    images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2023-01/a0a70a17-4f56-492d-9a06-7237e4b7c7d5/unnamed__21_.png?w=700"
-        width: 512
-        height: 258
-        isCached: true
   - title: "Fintech Stocks Face-Off: SOFI vs. UPST vs. AFRM"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips After a rough 2022, smart investors know when to make the most of an"
     publishedDateTime: 2023-01-23T22:28:00Z

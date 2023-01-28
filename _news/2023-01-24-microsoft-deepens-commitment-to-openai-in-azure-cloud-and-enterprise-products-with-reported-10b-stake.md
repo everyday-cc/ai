@@ -51,22 +51,6 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Microsoft invests billions in ChatGPT-maker OpenAI"
-    excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT"
-    publishedDateTime: 2023-01-23T14:15:00Z
-    webUrl: "https://mynorthwest.com/3788813/microsoft-invests-billions-in-chatgpt-maker-openai/"
-    ampWebUrl: "https://mynorthwest.com/3788813/microsoft-invests-billions-in-chatgpt-maker-openai/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3788813/microsoft-invests-billions-in-chatgpt-maker-openai/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 76
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_c7a0f33914bc4ca8aad55e0c8fac20be.jpg"
-        width: 1280
-        height: 951
-        isCached: true
   - title: "While Microsoft pours billions into OpenAI, Meta's AI chief says ChatGPT is \"not particularly innovative\""
     excerpt: "Over the following years, OpenAI received an estimated $2 billion and built its infrastructure around Microsoft Azure. Training and testing AI ... putting out systems that make stuff up.\" Many machine learning experts agree with LeCun."
     publishedDateTime: 2023-01-25T12:11:00Z
@@ -137,20 +121,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d40f73f56a6976217458de/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft Officially Extends Partnership With OpenAI"
-    excerpt: "Microsoft has just officially announced that its partnership with ChatGPT maker OpenAI is entering its third phase, with a new \"multiyear, multibillion dollar investment\" to democratize OpenAI's cutting-edge AI technology."
-    publishedDateTime: 2023-01-23T14:44:00Z
-    webUrl: "https://www.thurrott.com/microsoft/278608/microsoft-officially-extends-partnership-with-openai"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 54
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/01/Microsoft-OpenAI-partnership.jpg"
-        width: 1066
-        height: 600
         isCached: true
   - title: "Microsoft and OpenAI extend partnership to ‘democratize AI’"
     excerpt: "The latest phase in the collaboration between the two brands will aim in part to develop supercomputing systems and integrate OpenAI’s models – including ChatGPT and DALL·E 2 – into Microsoft consumer and enterprise products."

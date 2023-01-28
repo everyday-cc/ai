@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-25T05:00:00Z
 originalUrl: "https://www.ft.com/content/1e34f334-4e73-4677-9713-99f85eed7ba0"
 webUrl: "https://www.ft.com/content/1e34f334-4e73-4677-9713-99f85eed7ba0"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - AI in Finance
 
 related:
   - title: "All In On AI: How Smart Companies Win Big With Artificial Intelligence"

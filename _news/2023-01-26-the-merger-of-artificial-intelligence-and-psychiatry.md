@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the
 ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "The human side of generative AI’s gold rush | The AI Beat"

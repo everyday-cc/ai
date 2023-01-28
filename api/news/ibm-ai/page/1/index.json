@@ -63,7 +63,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -289,6 +289,49 @@
         "IBM AI",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1401,52 +1444,6 @@
       "topics": [
         "AI",
         "AI in Robotics",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-2022-the-year-in-ai-and-robotics.md",
-      "title": "2022 - the year in AI and Robotics",
-      "excerpt": "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/2022-year-ai-and-robotics",
-      "originalUrl": "https://diginomica.com/2022-year-ai-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png",
-          "width": 1536,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI",
-        "AI Ethics",
         "IBM AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Phys.org
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Deepfakes: faces created by AI now look more real than genuine photos"
-    excerpt: "Even if you think you are good at analysing faces research shows many people cannot reliably distinguish between photos of real faces and images that"
-    publishedDateTime: 2023-01-23T13:16:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273418654/deepfakes-faces-created-by-ai-now-look-more-real-than-genuine-photos"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
 
 secured: "BlfsDBGKOA435cwOJew5Oz8UMT9cnE0Yg0Lh3V9JoxRJU6mJTdsaDZ+y8sE2PCP8L3sUxvNlmdKz3yHI351M8FwZ9yxv0uEkyfrcflyAp4HHzBIy/COZ54LngzYVSXCWoOVKAt1TYrQ8qferZEjZuyhOE5z33U8GtpXHqu3HeKSj40HBo7C9ojcwKqYIWINmvJsEl0B0shas7vdc0mwVjM/p9hr3OtQ+Ft1qDcmzRZ7KifNDSnSF6ZVnhGUvLA1YVreeRInCCWRYMWZof+QEFRSjOucpg9tEgvXCyecaFGazfPLBfsqLpyklkBa85pOcBT60TRbDaEWtRKFg9MXd1HLjaBsXrp3pBAR49cLGDVUZotCtyDTI1wX6CKAjlThkgsIwoaqF0/LNXGnQekNCVteVED8Qt9AyXM/Mzks+klwBL+dLmsRf/U3KaJ6hH5h2qZBxAAvG1pk9R+rE3DLpioCWZXJ/0I5lL7P/raXnSxFyKXVfRZ5S2rtFWK8+oE7CP2V/0gv7yz66G4UrU2irqw==;oOqLKu8nwqMVBthnbQG/Tg=="
 ---

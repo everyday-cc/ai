@@ -265,15 +265,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
-  - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
-    excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
-    publishedDateTime: 2023-01-23T13:28:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30524031/chatgpt-is-just-the-beginning-ai-is-quietly-reshaping-every-aspect-of-your-life"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "SGeOKW55N+KsmFGJoRy9fG3khNf+o770H+8I/b7jfkbcs7jJdX362OjGeH7hZMv0CZqVszBpbtbFXHWxooYIEoq9uvwav7uavcvwWsSJEZ+TqgmoM9jS99PkhoDnL+7BsEis4zMhQQcs/cb/Oy/h1V+LNFgcxYTjz8AyKp3Nv0AW0aDYiLwyztecTxvjPs0NoAlUHjdPAB4WZF52UskVjqhX5tbU15KhxHW7vyXf1iyq8fW/SglXgeYNGPjHc9jxZroVvmiFQM4jHIqdAWyUtfqbCJITM4EJKw+73LOLlFeyczptB4uinYzlmXQ14sGDjzX/LSXlfn+17ebGECAtdHDS1tQHqo6HZK/msWJxYfP99Gvqg67Vd3+eVIOXnc+UFwH+VjyDdngrE69enYIhZKmn2B99c1TPzKt24BD073yI/ofD8CfpQBzM+FdRwCsP4qNx++1Qe2VSYtKabmdqaTar6OAw9dNMHzMsqAXbtWGk58YuPT0fLfHjhccoXLiK22PWOimn/lXOZdThsllYBA==;v0EQaFk+76xvHqYN1HsTbQ=="
 ---

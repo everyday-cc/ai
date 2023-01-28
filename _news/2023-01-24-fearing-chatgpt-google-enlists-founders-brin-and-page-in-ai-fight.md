@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatg
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -261,15 +261,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
-  - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
-    excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
-    publishedDateTime: 2023-01-23T13:28:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30524031/chatgpt-is-just-the-beginning-ai-is-quietly-reshaping-every-aspect-of-your-life"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
   - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
     excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
     publishedDateTime: 2023-01-27T19:36:00Z

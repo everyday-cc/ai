@@ -35,15 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "UK’s first self-driving electric bus unveiled"
-    excerpt: "First Group said it will analyse how people respond to autonomous buses on public roads at a business and technology park in Oxfordshire."
-    publishedDateTime: 2023-01-23T13:46:00Z
-    webUrl: "https://www.aol.com/uk-first-self-driving-electric-134739430.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "B2UwxSKCQdcEc2PPH0vrw+ieLbAXzmti2Uro6m/VCA2YdzdzphPZl4ksLcnR5fZ6wy0t0Rr1Zl6usawT/AFZhKgUBxP8N4zqEhXphOnstLRv//Vl4m7gxHco2NTu+9XmPrgtEcskP/9R23Y1zIK6XkKUzadCjdNgi0NoMXfxaU8MIefPr0hUpKkglsHBAgMxm44mhGjmMUvOnozx2Ugbv8Pe3/MFNzBLVTpb0BsYMYMYFwIRTY+ODU03SMr7hTKrifcjkj2RYZPTsWVTNq92T1ncLE/tx1lYMfqGvKXEaSoGhyghmfVhkxBC6yWWrKGAODdQM/xLTkGDhoxt825ICGTSSI1VCXO+Kc/2WaUbhQI=;ikaX2Jj3/hLgLgK/CF74rA=="
 ---

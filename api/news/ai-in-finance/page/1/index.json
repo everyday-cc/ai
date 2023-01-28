@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -202,6 +202,50 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-artificial-insurance-how-machine-learning-is-transforming-underwriting.md",
+      "title": "Artificial Insurance? How Machine Learning Is Transforming Underwriting",
+      "excerpt": "“French AI startup firm Shift Technology incorporates this technology in their fraud prevention services, which have already processed over 77 million claims. The cognitive machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04073124/audit_andrei_r_getty.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1354,59 +1398,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029.md",
-      "title": "Data Science and Machine Learning Service Market Report 2023 In-Depth Market Analysis and Future Prospects Till 2029",
-      "excerpt": "Data Science and Machine Learning Service Market (US, Europe, Asia-Pacific) 2023 research includes historical and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029-2023-01-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029-2023-01-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T20:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -167,6 +167,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
+  - title: "The Merger of Artificial Intelligence and Psychiatry"
+    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
+    publishedDateTime: 2023-01-26T12:36:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 41
   - title: "The AI ‘gold rush’ is here. What will it bring?"
     excerpt: "In 2022, venture capitalists poured roughly $1.37 billion into generative AI start-ups, almost as much as was invested in all of the previous five years combined, according to PitchBook data."
     publishedDateTime: 2023-01-23T19:40:00Z
@@ -209,17 +220,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "The Merger of Artificial Intelligence and Psychiatry"
-    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
-    publishedDateTime: 2023-01-26T12:36:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
   - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
     excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
     publishedDateTime: 2023-01-26T12:06:00Z

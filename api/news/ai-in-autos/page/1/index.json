@@ -108,6 +108,50 @@
       ]
     },
     {
+      "path": "_news/2023-01-26-news-literacy-week-algorithms-artificial-intelligence.md",
+      "title": "News Literacy Week: Algorithms & Artificial Intelligence",
+      "excerpt": "As News Literacy Week continues, it is our effort at 7 News along with our parent company Scripps, to highlight the important role the media play in our community.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
+      "originalUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/450/1020d6d1597347248f5d62c059a4c7e3/4504425ed4874366be1a7029d04b4565/poster_05b48026cd744c8f9658f4990ece8563.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
+      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
+      "publishedDateTime": "2023-01-25T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBW",
+        "domain": "wkbw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-self-driving-golf-cart-development-why-is-it-in-demand.md",
       "title": "Self-Driving Golf Cart Development: Why Is It In Demand?",
       "excerpt": "Golf Carts Push For Autonomy. Faced with the harsh reality that a future of fully autonomous cars is further away than promised, automakers and tech companies are pivoting to alte",
@@ -221,7 +265,7 @@
       "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 288,
+      "heat": 268,
       "tags": null,
       "images": [
         {
@@ -352,6 +396,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
+      "title": "Honda planning self-driving electric vehicle fitted with AI",
+      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
+          "width": 660,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "朝日新聞社",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1207,40 +1294,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-15-baidu-backed-chinese-startup-to-push-self-driving-sweeping-vehicles.md",
-      "title": "Baidu-backed Chinese startup to push self-driving sweeping vehicles",
-      "excerpt": "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
-      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-15-self-driving-cars-could-nearly-double-road-congestion-says-government-report.md",
       "title": "Self-driving cars could nearly double road congestion, says Government report",
       "excerpt": "Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a Government report warns. Department for Transport (DfT) traffic projections ...",
@@ -1284,21 +1337,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-15-chinas-ai-implementation-is-edging-ahead-of-the-us.md",
-      "title": "China’s AI Implementation Is Edging Ahead Of The US",
-      "excerpt": "As Kaifu Lee, a keen observer of AI development in China has put it, “we're now in the age of AI implementation.”",
+      "path": "_news/2023-01-15-baidu-backed-chinese-startup-to-push-self-driving-sweeping-vehicles.md",
+      "title": "Baidu-backed Chinese startup to push self-driving sweeping vehicles",
+      "excerpt": "BEIJING -- Chinese self-driving sweeping vehicle startup Yunchuang Zhixing has raised funds in a pre-Series A+ round led solely by Baidu Ventures, a unit of Chinese tech group Baidu. The company ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/",
+      "webUrl": "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
+      "originalUrl": "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Baidu-backed-Chinese-startup-to-push-self-driving-sweeping-vehicles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c3019633134dd0cc964a43/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 772,
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F5%252F8%252F4%252F43794852-1-eng-GB%252Fphoto_SXM2022121900006555.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1306,65 +1359,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/01/14/chinas-ai-implementation-is-edging-ahead-of-the-us/amp/",
-      "publishedDateTime": "2023-01-14T11:35:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-14T21:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-where-will-artificial-intelligence-take-us-in-the-future.md",
-      "title": "Where will artificial intelligence take us in the future?",
-      "excerpt": "Israel has become a trailblazer in AI, as it did in hi-tech in previous decades, earning it the venerable title, “Start-up Nation.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/jerusalem-report/article-728305",
-      "originalUrl": "https://www.jpost.com/jerusalem-report/article-728305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/524652",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/jerusalem-report/article-728305/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jerusalem-report/article-728305/amp",
-      "publishedDateTime": "2023-01-14T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1375,8 +1376,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     }
   ],

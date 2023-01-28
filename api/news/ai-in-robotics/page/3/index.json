@@ -2,6 +2,75 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-09-cobalt-robotics-expands-deployment-with-ally-financial-to-secure-its-facilities-keep-employees-safe-save-money-and-tackle-labor-shortage.md",
+      "title": "Cobalt Robotics Expands Deployment with Ally Financial to Secure Its Facilities, Keep Employees Safe, Save Money, and Tackle Labor Shortage",
+      "excerpt": "Cobalt Robotics, the only machine learning company to automate repetitive manual security and facility tasks with autonomous robots around the world, today announced it has expanded its customer implementation with Ally Financial,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/01/09/9739892.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/01/09/9739892.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life.md",
+      "title": "GULIGULI Showed off Smart Pet Companion Robot at CES 2023, Helping Pets Live Their Best Life",
+      "excerpt": "GULIGULI unveils at CES a robot that lets you see, talk to, play with, and even provide treats to your cat or dog when you’re not home. GULIGULI, maker of innovative pet supplies, is putting an end to pet and pet owner loneliness with its new app-controlled pet companion robot.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-force-control-in-actuators-and-robot-end-effectors.md",
       "title": "Force Control in Actuators and Robot End Effectors",
       "excerpt": "Motors and end effectors come in many shapes and sizes but compared to actuators that transport an object from point A to B, end effectors also integrate force sensing to ensure that objects being ...",
@@ -1267,113 +1336,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic.md",
-      "title": "AI In Big Pharma: The First Antibody Designed Using AI In The Clinic",
-      "excerpt": "In recent years, a hand full of AI startup companies that managed to utilize AI/ML to discover novel targets and/or design therapeutics reached human clinical trials and received massive media attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32fd78cc45940bdc9d411/0x0.jpg?format=jpg&crop=1502,1002,x0,y41,safe&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/",
-      "publishedDateTime": "2022-12-21T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence.md",
-      "title": "Is There A ChatGPT Stock? Can You Invest In ChatGPT And Other Types Of Artificial Intelligence?",
-      "excerpt": "Can you invest in ChatGPT? We look at this new, revolutionary product that OpenAI released and other readily available AI investment strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32f86ff6366182c36e6f0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 728,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-21T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

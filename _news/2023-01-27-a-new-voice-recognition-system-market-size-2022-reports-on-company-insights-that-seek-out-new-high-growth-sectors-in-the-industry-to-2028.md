@@ -123,15 +123,6 @@ related:
       domain: marketwatch.com
     quality: 29
   - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
-    publishedDateTime: 2023-01-23T14:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
     excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2023-01-23T17:08:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-global-market-report-2022-rising-demand-/2023/01/23/9747446.htm"

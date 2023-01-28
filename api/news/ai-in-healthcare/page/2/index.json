@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-15-why-chip-maker-nvidia-was-at-a-healthcare-conference.md",
+      "title": "Why Chip Maker Nvidia Was at a Healthcare Conference",
+      "excerpt": "Healthcare could become a billion dollar a year market for Nvidia's number-crunching and artificial intelligence products, writes J.P. Morgan's semiconductor analyst Harlan Sur, in a note about the chip maker's Thursday presentation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-703942/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-chips-jp-morgan-healthcare-covid-51673722829",
+      "publishedDateTime": "2023-01-14T15:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-where-will-artificial-intelligence-take-us-in-the-future.md",
       "title": "Where will artificial intelligence take us in the future?",
       "excerpt": "Israel has become a trailblazer in AI, as it did in hi-tech in previous decades, earning it the venerable title, “Start-up Nation.”",
@@ -1208,49 +1252,6 @@
       "provider": {
         "name": "Your Story",
         "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients.md",
-      "title": "Artificial Intelligence may Predict Success of Botox Treatment in Dystonia Patients",
-      "excerpt": "Innovative artificial intelligence (AI) platform called DystoniaBoTXNet may help predict which patients with dystonia respond to Botox treatment with 96 percent accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/botulinum-toxin-could-produce-remote-effects.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
-      "publishedDateTime": "2022-12-23T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null

@@ -3,10 +3,10 @@ category: news
 title: "Artificial intelligence pioneers back $550mn fund for AI start-ups"
 excerpt: "Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups, in a move that bucks the wider downturn in tech dealmaking. Toronto-based Radical Ventures said it has received investment from several leaders in the AI field."
 publishedDateTime: 2023-01-27T09:22:00Z
-originalUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?sharetype=blocked"
-webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?sharetype=blocked"
+originalUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0"
+webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: ft.com
 
 topics:
+  - Machine Learning
   - AI
 
 related:
@@ -47,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Eu6DPhZwUmaO7nW6El8f/qUHaRD0N+w2BZGCfb5sYFWTwVR5ZtU6fqhwMpfLeHfZ53OlW8Fvk9w7YgV4oQbcAGJ3KYPb+P9EJWHg3yAM9QRYtQjRk1ENM0kClA2L0097vvifjpMjLwDTS1ojTArO2TwbpzGq7QFyJtjocwfoeio3rCJOPHYFbmdBIn1MFRNmpoN7OLzCljniB8ijK2uvbt1K+CwzJFfuLB+Xhq5q8ZA5zeh3lR5eAFXL5X4FgLpEBkBH5EG3zrhiJLglKGAIt8dHuw7URXFic8ZtAPlStrLxCPNjOiZzQBHeA/iZRs/ndP3fNgUSKcM0I5Twji2TbN8JG2ASfKaxvhFU/DpAvVrVtD45agsmNNDNHwGjnj39om2C7zkhbx3AyrAB3IH6U+u0u7IHQ7njpmZTTGH3k0xt0oqHdPH+pYaXaeSlFXP2p9j5HLTaxL1xYiXsVEQRQflYMFtYOm74dOXoZokNNBQyhnNhPJhJTNY2pMrASFcgXhtDUvRfaiWSeTnY2SrAuQ==;iMaTKkBXvqBnT+AAAXyr+w=="
+secured: "s6u2URG7Z01+t6HzJ0Gb0ZWy688KIyDclnFdNtrN/JxwZFG/zJGrybpWAQo1oL8tGXq01YPGO5Ipq7yYe9Vb+e1g5rszRlQJJj+djKUhp2q83GyQkztk9h7p4pg4bcpq9Wcllh2wBchZXMDkL+yIhdpwaahRCjPuFi00kUFvLCVs+jmDhvrbBfp32gRNIOfUMfLvkoUqXbMDG7jXDUdWOYjMi/1obCdH2ndPkIUoHiCcCES6afikoSZ4Bv4w7ThBg2Qvj+wGV81gXZtTbPKwYFlVLbDV6bVc6p9SkC8FQgKneOCtlX0T2kVbk8y0P5s4PHqklLMjDyYGbVBTw6PMl8m2GXZFfsa5k8v5vRbev0hzgHQByslOhMRu87N0PLs2YjgVDLoOd7TJpBIwTRwDqM1RErbQveTa92cL1CRuGLz9jvyjmzExF8xDxaa/XdK583VFlssAk4Y6xvQG7uQe2C836M3hP3RP6ygtJREALky/Wmax7mbSqKOpDfKxCr3/AGSbSHVh7YQfgrxIGEuZ9A==;MPwXpbZlIdAExBzm5Cj5tg=="
 ---
 

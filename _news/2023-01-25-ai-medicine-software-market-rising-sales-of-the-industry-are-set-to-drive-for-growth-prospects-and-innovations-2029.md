@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-mar
 webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
 type: article
 quality: 62
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has"
-    publishedDateTime: 2023-01-23T14:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30526238/artificial-intelligence-global-market-report-2022-rising-demand-for-smart-robotics-in-manufacturin"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "Artificial Intelligence Global Market Report 2022: Rising Demand for Smart Robotics in Manufacturing Industries Presents Opportunities"
     excerpt: "The \"Artificial Intelligence Market by Component, Deployment, Application, and End-User Industry: Global Opportunity Analysis and Industry Forecast, 2022-2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2023-01-23T17:08:00Z

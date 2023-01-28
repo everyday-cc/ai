@@ -91,7 +91,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 36
+    quality: 38
   - title: "Grappling With AI Writing Technologies in the Classroom"
     excerpt: "I should have known better, but if my ordeal encourages teachers and students not to be fooled by AI and scholarly-sounding prose, I happily fall on my sword. Jasper did translate portions ... as good a job in another 24 languages. Furthermore, Jasper ..."
     publishedDateTime: 2023-01-26T19:00:00Z

@@ -257,15 +257,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
-  - title: "ChatGPT Is Just the Beginning – AI Is Quietly Reshaping Every Aspect of Your Life"
-    excerpt: "ChatGPT became a viral sensation upon its release to the public on Nov. 30, 2022. It hit over 1 million users in under a week and has only continued to grow, with hundreds of companies using its application programming interface (API) integrations to create or improve their products."
-    publishedDateTime: 2023-01-23T13:28:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30524031/chatgpt-is-just-the-beginning-ai-is-quietly-reshaping-every-aspect-of-your-life"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
   - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
     excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
     publishedDateTime: 2023-01-27T19:36:00Z
@@ -276,6 +267,6 @@ related:
       domain: thenewstribune.com
     quality: 12
 
-secured: "wglUp0Tdqy7M08fYpbEZHVcBI1Oc4t08Q4DqiViUwEnOSKojE6Yq4Bct/hWJUkWVhv4ZaeBaQus5y4nRwffu8DeeoTmXjsoDRQdp50ANC9swrUbZ+4MWZGRGA3+7ZAVXD8pUYmcuVP8Ym9Bz2mcKKxaB0aCHCMy0w+AWcb1HKc0BAeakY9dGTChpDPZHb23zwCg5dYfKh0CGPKMEdK+7ao/7AsYAbKA4pvuZVzT9TmyrS4ctCP8sGpuzsqLgxB7OzeW9LjIZekw1lMApaSFV8lpKx1UawateNySkCvzxzzgFxgvAq86FYa3vPDksofzBe6oL3EdC+t8THoYlOgD0fUgc1BwEAzRJDv8saWePPkE=;23ThVh+T+bugxkRN+RcgcA=="
+secured: "PtQt49fAiUruZbvYaRNXv7k/wOglMcYbdbs7M2ks1iV0oHHEURwgnM5+njM5O3phUT8VTRHjkRbyAjsn1ZO4JVfMRa0b7aQPUuhTNw65NOwVytgtfpMlF8yXxziQGg5n5pFNCTADHl5MAOUPdhEQQqfQ+a4geucygE15z8aghm2l313gTrBmS3myUf0w+6ePgbdq/lWEBO831bTn/nDnuHizxOwRAIVRHBhxQ/5owoyaehfTK70zK7/3A30uP9gXD+ayKs6NNtAlirrzhIKaiYnZFQMSfdmBpeYw1FMgKEnq0WygDqCV12oRF57EDUsUjuElog9oOYBBCtueKuBmVOM9g+6I1x3gfy3KmFGgTcYAjFfoR64N/9p09CgQBDBhRMs+h17NCrN0u1P1zA5mXgXCgwnmCEInaeLzs3xLPG+josiePjnYdMwYB8+cxXBb2rz0GGSI6r6KjySgqWycmC74Kt/Jsco6Dyw699i24T5+J+LqUqpp7CxKHo3EvPcQJzT8+R+0RnfTMCrfOlxXBA==;4IVztLoP8JGc5k/HXfY/DA=="
 ---
 

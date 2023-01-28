@@ -365,7 +365,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1084,49 +1084,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-26-deepfakes-faces-created-by-ai-now-look-more-real-than-genuine-photos.md",
-      "title": "Deepfakes: Faces created by AI now look more real than genuine photos",
-      "excerpt": "Even if you think you are good at analyzing faces, research shows many people cannot reliably distinguish between photos of real faces and images that have been computer-generated. This is particularly problematic now that computer systems can create realistic-looking photos of people who don't exist.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.html",
-      "originalUrl": "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deepfakes-faces-create.jpg",
-          "width": 926,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deepfakes-ai-real-genuine-photos.amp",
-      "publishedDateTime": "2023-01-26T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-26-university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence.md",
       "title": "University Of Texas, EdX Team Up To Offer New Online MS In Artificial Intelligence",
       "excerpt": "The University of Texas at Austin is partnering with edX, a leading online learning platform founded by Harvard and MIT a decade ago, to offer a low-cost, online Master of Science degree in Artificial Intelligence (MSAI).",
@@ -1228,6 +1185,60 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders.md",
+      "title": "Unlock The Potential Of Generative AI: A Guide For Tech Leaders",
+      "excerpt": "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
+      "publishedDateTime": "2023-01-26T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checko
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/"
 type: article
 quality: 125
-heat: 365
+heat: 345
 published: true
 
 provider:
@@ -135,22 +135,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Microsoft Invests Billions More Into AI, Which It Believes Could Be As Big As The Internet"
-    excerpt: "Microsoft believes AI could be a \"transformative\" technology that could make an impact as big as the PC, the internet, and mobile devices."
-    publishedDateTime: 2023-01-23T14:48:00Z
-    webUrl: "https://www.gamespot.com/articles/microsoft-invests-billions-more-into-ai-which-it-believes-could-be-as-big-as-the-internet/1100-6510758/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/microsoft-invests-billions-more-into-ai-which-it-believes-could-be-as-big-as-the-internet/1100-6510758/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/microsoft-invests-billions-more-into-ai-which-it-believes-could-be-as-big-as-the-internet/1100-6510758/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 64
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/4089708-screenshot2023-01-23at9.42.58am.png"
-        width: 371
-        height: 219
-        isCached: true
   - title: "Microsoft attracting users to its code-writing, generative AI software"
     excerpt: "Microsoft Corp on Tuesday aimed to assure investors that its big bet on artificial intelligence (AI) is paying off, even as economic turbulence is making Microsoft customers scrutinize their cloud spend."
     publishedDateTime: 2023-01-24T23:52:00Z
@@ -285,15 +269,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
-  - title: "Microsoft Expands Access to AI Tools for Businesses"
-    excerpt: "Microsoft wants every single one of its products to have some AI capabilities and is investing billions to make that happen."
-    publishedDateTime: 2023-01-23T14:48:00Z
-    webUrl: "https://tech.co/news/microsoft-azure-openai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 34
   - title: "FirstFT: Microsoft’s big bet on AI"
     excerpt: "Also in today’s newsletter, China official says holiday travel is low risk and ex-FBI agent charged over Deripaska ties"
     publishedDateTime: 2023-01-23T21:54:00Z
