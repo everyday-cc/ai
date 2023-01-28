@@ -27,297 +27,116 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT"
-    excerpt: "The tech giant aims to remain at the forefront of generative artificial intelligence with its partnership with OpenAI. Send any friend a story As a subscriber, you have 10 gift articles to give ..."
-    publishedDateTime: 2023-01-23T21:40:00Z
-    webUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html"
-    ampWebUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
+  - title: "The best AI writers: ChatGPT and other interesting alternatives to try"
+    excerpt: "AI writing tools can help lighten your workload by writing emails and essays and even doing math. They use artificial intelligence to generate text or answer queries based on user input. ChatGPT is one popular example,"
+    publishedDateTime: 2023-01-24T22:03:00Z
+    webUrl: "https://www.zdnet.com/article/best-ai-writer/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/best-ai-writer/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-ai-writer/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 108
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://static01.nyt.com/images/2023/01/23/multimedia/23microsoft-pkhc/23microsoft-pkhc-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Microsoft says cloud demand waning, plans to infuse AI into products"
-    excerpt: "Cloud revenue growth has been slowing quarter-on-quarter for the Windows maker, which expects the growth to continue to decline through the year."
-    publishedDateTime: 2023-01-25T06:45:00Z
-    webUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.html"
-    ampWebUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/10/10/cso_microsoft_cloud_app_security_cloud_apps_by_thinkstock_625397192_3x2_1500x1000-100801369-large-100934412-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
-    excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
-    publishedDateTime: 2023-01-27T21:06:00Z
-    webUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
+  - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
+    excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
+    publishedDateTime: 2023-01-28T11:40:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1?amp"
     type: article
     provider:
-      name: YAHOO!News
+      name: Business Insider
       domain: businessinsider.com
-    quality: 69
+    quality: 57
     images:
-      - url: "https://i.insider.com/63d414c4fc18470019551e68?width=1200&format=jpeg"
+      - url: "https://i.insider.com/63d43770fc18470019552b4d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "While Microsoft pours billions into OpenAI, Meta's AI chief says ChatGPT is \"not particularly innovative\""
-    excerpt: "Over the following years, OpenAI received an estimated $2 billion and built its infrastructure around Microsoft Azure. Training and testing AI ... putting out systems that make stuff up.\" Many machine learning experts agree with LeCun."
-    publishedDateTime: 2023-01-25T12:11:00Z
-    webUrl: "https://www.techspot.com/news/97362-microsoft-pours-billions-openai-plan-integrate-ai-all.html"
+  - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
+    excerpt: "ChatGPT is a revolutionary new artificial intelligence which has passed a law exam and is replacing white collar workers - with one expert saying 'the wolf is at the door'"
+    publishedDateTime: 2023-01-27T12:56:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 55
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-24-image-24.jpg"
-        width: 1588
-        height: 1074
+      - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
-    excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."
-    publishedDateTime: 2023-01-26T14:13:00Z
-    webUrl: "https://www.wired.com/story/chatgpt-artificial-intelligence-education-networks/"
+  - title: "ChatGPT is on its way to becoming a virtual doctor, lawyer, and business analyst. Here's a list of advanced exams the AI bot has passed so far."
+    excerpt: "ChatGPT is becoming more professionally competitive by the day. We rounded up all the exams the bot has passed."
+    publishedDateTime: 2023-01-28T04:20:00Z
+    webUrl: "https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 66
-  - title: "Unpacking Microsoft’s Earnings and the Future of AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips “Write a newsletter about Microsoft’s second-quarter earnings for"
-    publishedDateTime: 2023-01-27T21:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-and-future-of-ai-1032047671"
-    type: article
-    provider:
-      name: Business Insider
+      name: YAHOO!Finance
       domain: businessinsider.com
-    quality: 66
-  - title: "Microsoft attracting users to its code-writing, generative AI software"
-    excerpt: "Microsoft Corp on Tuesday aimed to assure investors that its big bet on artificial intelligence (AI) is paying off, even as economic turbulence is making Microsoft customers scrutinize their cloud spend."
-    publishedDateTime: 2023-01-24T23:52:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-attracting-users-its-code-writing-generative-ai-software-2023-01-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-  - title: "Microsoft says AI will be as important as the invention of the PC and internet"
-    excerpt: "In the company's blog post, Microsoft described the investment as the \"third phase of our long-term partnership\" with OpenAI, promising to advance the technology and make it available to everyone globally."
-    publishedDateTime: 2023-01-24T14:11:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-says-ai-will-be-as-important-as-the-invention-of-the-pc-and-internet"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 60
-  - title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
-    excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
-    publishedDateTime: 2023-01-27T04:22:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+    quality: 51
     images:
-      - url: "https://i.insider.com/63d330454589790018e56915?width=1200&format=jpeg"
-        width: 800
-        height: 400
+      - url: "https://i.insider.com/63d45173fc184700195532f8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Microsoft Confirms Its $10 Billion Investment Into ChatGPT, Changing How Microsoft Competes With Google, Apple And Other Tech Giants"
-    excerpt: "Microsoft finally confirmed that they would be extending the partnership with OpenAI, the company behind the new AI-powered ChatGPT tool. We look at what this means for the tech industry and the field of AI."
-    publishedDateTime: 2023-01-27T16:56:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/amp/"
+  - title: "Can The Generative AI ChatGPT Brand Keep Going Strong Or Will It Fizzle Out, Asks AI Ethics And AI Law"
+    excerpt: "Generative AI ChatGPT is an AI app that has caught the world by storm. Indeed, ChatGPT has now entered into the rarified air of being considered a brand. There are lots of upcoming potholes that can undercut this new brand."
+    publishedDateTime: 2023-01-24T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/24/can-the-generative-ai-chatgpt-brand-keep-going-strong-or-will-it-fizzle-out-asks-ai-ethics-and-ai-law/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 58
+    quality: 48
+  - title: "ChatGPT Is Just The Start: AI Is Rewriting The Data Center Real Estate Map"
+    excerpt: "ChatGPT is the tip of the iceberg and growing demand for AI will dramatically change where and how data centers are built"
+    publishedDateTime: 2023-01-27T01:50:00Z
+    webUrl: "https://www.bisnow.com/national/news/data-center/chatgpt-is-just-the-start-ai-is-rewriting-the-data-center-real-estate-map-117396"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d40f73f56a6976217458de/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F01%2F63d31190ee587-pexels-tara-winstead-8386440.jpeg&width=1200&sign=ksa2s85Cfnmm2JF0eU-1VRTJ3mMhd2rji3AWMwYfTdc"
         width: 1200
-        height: 800
+        height: 816
         isCached: true
-  - title: "Microsoft and OpenAI enter third phase of AI acceleration partnership"
-    excerpt: "Microsoft has announced a new multi-billion dollar investment in OpenAI, extending their partnership to accelerate AI development"
-    publishedDateTime: 2023-01-24T10:15:00Z
-    webUrl: "https://www.information-age.com/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-123501236/"
+  - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
+    excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."
+    publishedDateTime: 2023-01-27T23:02:00Z
+    webUrl: "https://www.wxyz.com/news/national/two-americas/chatgpt-the-revolutionary-ai-that-can-understand-and-respond-to-questions"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
+      name: WXYZ
+      domain: wxyz.com
+    quality: 37
     images:
-      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-scaled.jpg"
-        width: 2560
-        height: 1703
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/4440f30/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F73d%2Fbe88c4e651db4a7dbe102614d7272948%2F73dbbb4f96c9442fb8acea91b1291369%2Fposter_e2d6c1c76943401495237f98e60521cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft and OpenAI extend partnership to ‘democratize AI’"
-    excerpt: "The latest phase in the collaboration between the two brands will aim in part to develop supercomputing systems and integrate OpenAI’s models – including ChatGPT and DALL·E 2 – into Microsoft consumer and enterprise products."
-    publishedDateTime: 2023-01-23T22:03:00Z
-    webUrl: "https://www.thedrum.com/news/2023/01/23/microsoft-and-openai-extend-partnership-democratize-ai"
+  - title: "The CEO of the company behind AI chatbot ChatGPT says the worst-case scenario for artificial intelligence is 'lights out for all of us'"
+    excerpt: "Experts warn OpenAI's ChatGPT could be abused to scam people or spread misinformation. CEO Sam Altman fears the worst case for AI is much bleaker."
+    publishedDateTime: 2023-01-25T20:52:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-openai-ceo-worst-case-ai-lights-out-for-all-2023-1"
     type: article
     provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 54
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-01-23t160702.024.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Amid layoffs, Microsoft extends billion-dollar AI partnership"
-    excerpt: "After announcing that the layoffs of thousands of employees were on the horizon, Microsoft announced it’s extending its partnership with an artificial intelligence service, OpenAI. OpenAI is a startup that’s behind art-and-text generating AI systems like ChatGPT,"
-    publishedDateTime: 2023-01-25T00:12:00Z
-    webUrl: "https://rollingout.com/2023/01/24/microsoft-artificial-intelligence-ai-partnership/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 54
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/01/MicrosoftOffice-scaled.jpg"
-        width: 1566
-        height: 1080
-        isCached: true
-  - title: "Microsoft expects slower Azure growth"
-    excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
-    publishedDateTime: 2023-01-25T16:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/01/26/2003793152"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 54
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/01/26/P05-230126-312.jpg"
-        width: 866
-        height: 577
-        isCached: true
-  - title: "Microsoft and OpenAI extend partnerships in AI supercomputing and research"
-    excerpt: "Microsoft has extended its partnership with OpenAI for the third time as the agreement follows previous investments in 2019 and 2021."
-    publishedDateTime: 2023-01-24T14:27:00Z
-    webUrl: "https://yourstory.com/2023/01/microsoft-and-openai-extend-partnerships-ai-azure-satya-nadella"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 52
-    images:
-      - url: "https://images.yourstory.com/cs/1/2745082002f511eaaae56760054455e0/Imageyqxh-1595863630136.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Microsoft makes 'multiyear, multibillion dollar investment' in startup behind ChatGPT"
-    excerpt: "The partnership will allow Microsoft to sharpen its competition with Google in commercializing new AI breakthroughs."
-    publishedDateTime: 2023-01-23T22:20:00Z
-    webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-invests-billions-chatgpt-maker-openai/507-da0b93f7-c3d0-4b74-9bd4-ffa3fa09e929"
-    type: article
-    provider:
-      name: WVEC
-      domain: 13newsnow.com
-    quality: 52
-    images:
-      - url: "https://media.13newsnow.com/assets/CCT/images/e0045acf-a14c-4bdf-a476-7f33b2c4a928/e0045acf-a14c-4bdf-a476-7f33b2c4a928_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Microsoft doubles down on healthcare AI investments"
-    excerpt: "Microsoft is doubling down on its healthcare artificial intelligence investments with two new partnerships. The first partnership the company inked this year was with AI-powered pathology company Paige."
-    publishedDateTime: 2023-01-24T15:29:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-doubles-down-on-healthcare-ai-investments.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
-  - title: "Meet Sam Altman, creator of ChatGPT and president of OpenAI that aims to revolutionise responsible AI"
-    excerpt: "Sam Altman is the president of OpenAI, a research company that aims to create and promote friendly AI in a responsible way. He has also been a part of Y Combinator, a startup accelerator that has helped launch companies such as Airbnb, Stripe and Dropbox."
-    publishedDateTime: 2023-01-28T09:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/articleshow/97396536.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/amp_articleshow/97396536.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai/amp_articleshow/97396536.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-117130,msid-97396590/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
-    excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
-    publishedDateTime: 2023-01-25T13:05:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-gives-a-new-lease-of-life-to-healthcare-via-chatgpt/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-  - title: "FirstFT: Microsoft’s big bet on AI"
-    excerpt: "Also in today’s newsletter, China official says holiday travel is low risk and ex-FBI agent charged over Deripaska ties"
-    publishedDateTime: 2023-01-23T21:54:00Z
-    webUrl: "https://www.ft.com/content/2de6a50d-2df0-4369-95a1-aeae34720ecc"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Why is Microsoft putting billions of dollars into an Artificial Intelligence chatbot?"
-    excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. Show more Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI."
-    publishedDateTime: 2023-01-24T01:45:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/w172ydq97sfhqn7"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 27
-  - title: "Microsoft drops gauntlet on Google, announces 'multibillion-dollar' investment in ChatGPT creator"
-    excerpt: "Software giant Microsoft just revealed plans to invest billions in OpenAI, the company behind the ChatGPT artificial intelligence tool that's drawn a tidal wave of interest, and conjecture, since its November release."
-    publishedDateTime: 2023-01-23T21:50:00Z
-    webUrl: "https://www.ksl.com/article/50563669/microsoft-drops-gauntlet-on-google-announces-multibillion-dollar-investment-in-chatgpt-creator"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 26
-    images:
-      - url: "https://img.ksl.com/slc/2912/291233/29123388.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "Microsoft Invests $10 Billion in ChatGPT Creator OpenAI To Develop 'powerful' AI System"
-    excerpt: "Microsoft has confirmed that it is making a \"multibillion-dollar\" investment in OpenAI, the company that created ChatGPT, an artificial intelligence chatbot."
-    publishedDateTime: 2023-01-24T01:48:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/microsoft-invests-10-dollars-billion-in-chatgpt-creator-openai-to-develop-powerful-ai-system-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 26
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Put Not Your Trust in ChatGPT, for Now"
     excerpt: "Q&A with a veteran AI engineer and entrepreneur, Tom Kehler, about the limits of the popular chatbot and the wonders of the human brain."
     publishedDateTime: 2023-01-25T18:55:00Z
@@ -332,20 +151,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Hidden Cost of ChatGPT for Indian Languages"
-    excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
-    publishedDateTime: 2023-01-27T07:59:00Z
-    webUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
+  - title: "S.F. startup Writer develops tool to help detect writing by ChatGPT"
+    excerpt: "While the prospect of AI writing has garnered worry, it can be actually quite easy to spot its telltale signs. Enter San Francisco startup Writer."
+    publishedDateTime: 2023-01-24T18:26:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/01/24/ai-startup-chatgpt-writer-may-habib.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/chat-gpt-in-hindi.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "BLUWvn1itgh+Wnw8M+7Kk9vELKXL2eDv+CCbGj0dBlh9TyomYlcNcDmzHyxXTFqX8BNcB3dTzhaXVMm5AdKD+qyzgwdRVIt2at9XFnFAf/NLmSVd95Jjc9izntCsK79iv2rKh0x5X7pQKNKfoxNfE6jlI1Nv3f3+96v9tNoHKA7EcxL/rtBMe5nbDmRJZu6jJ1/0x8rPYYZsQe9ACuRssj/M/EkSNVT/VjIXD4wd6LSK8toFwNtp/VgDfFyjvzgM4mg0DbR3jiyrsZvfANgprol+fVMK4N9aMywUEtMoYH9lyB/LY3JUQ7UbiFw83UhBFD9nJNQacRoyVjP3QW6cfQqB9wdyf/6qd6U5XdlIVRY=;0zWkGFgdM+yYGRr27jA5Aw=="
 ---

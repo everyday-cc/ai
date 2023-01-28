@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/legaltechnews/2023/01/26/chatgpt-and-ethics-ca
 webUrl: "https://www.law.com/legaltechnews/2023/01/26/chatgpt-and-ethics-can-generative-ai-break-privilege-and-waive-confidentiality/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,137 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
+    excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
+    publishedDateTime: 2023-01-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3683734efc0e887a89c47/0x0.jpg?format=jpg&crop=907,605,x143,y0,safe&width=1200"
+        width: 907
+        height: 605
+        isCached: true
+  - title: "Microsoft Confirms Its $10 Billion Investment Into ChatGPT, Changing How Microsoft Competes With Google, Apple And Other Tech Giants"
+    excerpt: "Microsoft finally confirmed that they would be extending the partnership with OpenAI, the company behind the new AI-powered ChatGPT tool. We look at what this means for the tech industry and the field of AI."
+    publishedDateTime: 2023-01-27T16:56:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 58
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d40f73f56a6976217458de/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI ChatGPT is helping CEOs think. Will it also take your job?"
+    excerpt: "Chatbots will devalue some workers' skills, but also could create higher quality jobs that require a human's judgment."
+    publishedDateTime: 2023-01-24T09:00:00Z
+    webUrl: "https://www.cbsnews.com/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/3e5ebe21-b2cc-4692-9e99-9c37fff7be78/thumbnail/1200x630/def6aa3c6cd71698b2fd33d66abd4116/gettyimages-1246453874.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Generative AI and ChatGPT – Is it the disruptor that the digital world needs?"
+    excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
+    publishedDateTime: 2023-01-28T11:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/01/Photo-Pradeep-Singh-Founder-and-CEO-of-Squirrel....jpg"
+        width: 857
+        height: 600
+        isCached: true
+  - title: "Comment: Don’t blink; AI like ChatGPT is improving quickly"
+    excerpt: "The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017. What will the next half-decade bring? Can we rely on our current impressions of these tools to judge their quality,"
+    publishedDateTime: 2023-01-25T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-dont-blink-ai-like-chatgpt-is-improving-quickly/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "More than artificial intelligence: How ChatGPT learns conversation skills from humans"
+    excerpt: "The conversational robot capable of producing impressive texts upon request has had spectacular success. 'Le Monde' delves into what goes into making such a powerful chatbot."
+    publishedDateTime: 2023-01-28T03:40:00Z
+    webUrl: "https://www.lemonde.fr/en/economy/article/2023/01/28/more-than-artificial-intelligence-how-chatgpt-learns-conversation-skills-from-humans_6013427_19.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 32
+    images:
+      - url: "https://img.lemde.fr/2022/12/17/103/0/2244/1122/1440/720/60/0/a5617ca_1671320365088-chatgpt-humaine-dark.jpg"
+        width: 1440
+        height: 720
+        isCached: true
+  - title: "Google’s answer to ChatGPT could make its debut in May"
+    excerpt: "In their paper, Alphabet-owned DeepMind Technologies define Sparrow as a dialogue agent \"that’s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user,"
+    publishedDateTime: 2023-01-24T04:53:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may/97268755"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97268755,imgsize-1262075,width-1200,height=765,overlay-etbrandequity/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "This state senator drafted legislation to regulate artificial intelligence technology — with some help from ChatGPT"
+    excerpt: "Could ChatGPT one day run for political office? Probably not. But the artificial intelligence chatbot is already helping elected officials get some work done on Beacon Hill, although it might not be too happy about the goal."
+    publishedDateTime: 2023-01-24T18:45:00Z
+    webUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 21
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1dMqR9uZP_2o0vW2V28uamoq-6g=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/Y7QS2BYEP2F6JPV743MMEXSJRA.jpg"
+        width: 506
+        height: 337
+        isCached: true
+  - title: "Generative AI and ChatGPT – Is it the disruptor in the digital world needs?"
+    excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
+    publishedDateTime: 2023-01-26T13:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-in-the-digital-world-needs/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "GYyJ+O4hjo1CFhtdW/5Vpm/MeSIl0HWm2Ra33TPLoLNCjYLbuE4b1oUnvFMqKFdW+kq2gkqUyw2j6LnSc+/Cw4llOSXjbzotNkQCajzFa0zBAbF0cvop+Ek4j95H6JvwPJfsyS0Gv80SHBJyDzNHZxoH+toOEEZE0iDHxkTfwKHFA3pojEXhrkHrr5osYbx94qZxICuoh9iQ/XVurLNgbY6tjMgDPz3qk16wTvGN+jfiX/YWHXOpZxcYmJnP0Iosi6cA/SlFwLCbxOH0r3D4C2qFdmVjATUkw02QIxETQnWCJCs4jzoxvcUWduj+WZtEAcqluh2K195/0xwttVQpkDHvspjNoHW+eKzfkTBgoKRWy4J387NDubieRoqdPuWvPdwdedObdisixBm7Bom2Xi0Bzow4k+Oh1EEI079b8jX/jjTLQMefxMf3QS+2eignNmIZLyPiQOr3+9GXyfAbTOMqqxLOKatmJkdlxcn3OIHQuvoCv++IEKf6TuL3741d3+eqf+WOswKZgLBPguVMVw==;WAJEtVvN8B4PCCJFQTO5Fw=="
 ---

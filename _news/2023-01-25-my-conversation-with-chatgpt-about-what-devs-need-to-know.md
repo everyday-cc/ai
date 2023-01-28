@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "S.F. startup Writer develops tool to help detect writing by ChatGPT"
-    excerpt: "While the prospect of AI writing has garnered worry, it can be actually quite easy to spot its telltale signs. Enter San Francisco startup Writer."
-    publishedDateTime: 2023-01-24T18:26:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/01/24/ai-startup-chatgpt-writer-may-habib.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 2
-
 secured: "1nv0l3DNIk2h6sYxmMHKf2Njo0Bd1Q/PJKBbV04CYAWqNP2aSvT3E5VJxH2vPSvWLORIxC91OUJm0thp0KRIRsN8WsvgrnLdlaOaW4ZaDQFAJ05GSdY8H9g6dtbu5AQOcNfvjDkz9bCpGHT4Av7HHk/jIvLZ4ir6uFs08ffFj92qMl1Eiab+lzwlutdD+48yz6S29ySBHK7Sn1jfnkPIJCLQhJo3aNy7jXhdO73T8h2vCnpzRxPbTaI5mCGX9YaozaSQ3ti+KirFwbD+yxFp0J1lsY+fFZ3Ip80CZEeiKXVbRg2kx/jzr6tE1617s+HY9zzZT2WMWqRFfLemJ3DT8QEgEy39+8IMCPqD6orRygDtVwxnpClHo7boZ267NOYag1/khLTkrSgJJ2vntDK2cZhrsNHU9BRsQoATU7urmCeWNQKoYHkF8U9N66ksxspphykXs4D88zd/B/2bLRiYo46xM/QzZ8vxptLkphWHudNLlGyxsfDVnUcbT1KoguV/an5EbcRKuRcNTJvWgB99dQ==;fi+eaX2nuGgYUPAUfr+a/A=="
 ---
 

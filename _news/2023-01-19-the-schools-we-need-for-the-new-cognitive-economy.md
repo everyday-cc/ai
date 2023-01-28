@@ -5,6 +5,8 @@ excerpt: "This rapidly changing environment might be called a “cognitive econo
 publishedDateTime: 2023-01-19T00:00:00Z
 originalUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html"
 webUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "9OYsKTpkBKJjerNxmpO08qzlauRgqgElq4v9C5A8SV6qDS8vt4mM3haIeGU+iJONmHFfLEIUp9/TkKHOxsluKS0kxeU4LIVCekyb34DdkqtMb1XmkAOtZvPftW3S3EMj2CRg+wRxSTHw2QQb6ufWNl3CtbNMwafQ+2PRXYfFxn/YQW05CNiL670Kya5abBmvtvEzCtG/XM71Ug96SfWzH3cbQTekrX1qRrMnPgQcQGtwycGeDf6syLrVPpAkMsOBNSY156oA4BSDoZpOtNAV27p33EzaPqgTZ0rl8kRz49JvcQI9VLzVu8cDkXVJpr1qTaAJZ94CGIq1uMc9P/eBvLpdEPrcamQhp6YBOBuRquo=;vBbvHhn/IohVcs8bTiXOIw=="
+images:
+  - url: "https://assets.realclear.com/images/60/600019_5_.jpeg"
+    width: 750
+    height: 500
+    isCached: true
+
+secured: "D/wrgVwyS9QULGBu2MCaJbt9N5+BFW0u1nWQrDFRjihtonXFzMC60x0UAOp/bGu4ovTQ7zE6AWkYVPOAIsi/wkOizgAh2/u3imObv/6EUqlp/fzaE2bYfQ9As9E8nOEFhFSckyRPBeF5ENS3rYEY+n6cE2wBuVL/iMVR6JViJiue0k/W7dU7kAG8uqbiE/hoZGQ4KVi6VE7dcWXK0xFmpdoES7I1/EWuqDvFHiTnvEADzfckzdtFLvSS8MD49KLutWpgecTGBoNqHwyiGT2A8Qib6fgAUaQLQg/KbXKU4imGK1wrCQxkEf/4cTCm4+muZYqRu4fxDEF4MoCvPDnW5iM9sQNWb7hqHNEzHS3z63s=;YeKDx/IjRMd9+VqcYa5y4w=="
 ---
 

@@ -6,9 +6,9 @@ publishedDateTime: 2023-01-27T13:27:00Z
 originalUrl: "https://www.wsj.com/articles/meta-ai-facebook-instagram-reels-ad-targeting-11674829286"
 webUrl: "https://www.wsj.com/articles/meta-ai-facebook-instagram-reels-ad-targeting-11674829286"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Wall Street Journal
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://images.wsj.net/im-711357/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "How Roomba tester’s private images ended up on Facebook"
@@ -32,6 +39,6 @@ related:
       domain: technologyreview.com
     quality: 4
 
-secured: "oSOt4kn3eTDvR/5gS9C/V4/ra/36e+0eFpTIzdwHU0LCrIC8Ua6y/WKI7IvQ4nnP3pSVVeBGUpoh5ioN74LmXygg7pcnZJFZnW6gIqGfTXMNFNQwZyvgd/M5fwxpp+kktej0RsplR+vN2d4m+FOhPoxmiVJLfK+j2Tl5ci1uNBQ/fMR9N4UpOsfet43g11OiRouFMTi6K9ZobvcPU/tw/M7Bx0DxzJjxYk8LdjGsnAL1ZkdgdihwBOuY+t2W8mz9rHSPbqK9ZJ9F3jjHF4DznniFhDHnqHs771DPmDZmS9eELN7ReFUoicnWejzSsz3TO2XJAIdqR4vrT/ZwEzl7XkCZJYOCHiP34/AAYOomyHfu8FsI7vhlSWjW+oA1KefNhHduEbmVlvvX54+9Uz2zTHq7jmjBG0FxCds8cM7U85C+CVu0oScuacH4McTNQH4HdoClHc67OIqG37oOgQ2jGzJLYVusd+sD40NSZuYsYrWnW6hDK4avfVpJxmNlkpisBlnEtOsSKEniAMCAJLJGxw==;WJoIWGNNRhMCABa/toW92g=="
+secured: "7jy8TKEQdH3mX4oqXRSzP9Utn/eIlEih0ShtTFybxG35SXjPn0lH3oTRgZo+xq+fPLk+C9z0l2DXF7LYRANg7h9iCJ64555DZRbbiH/XXDsTlEQDTztltC7cdqmFP2P0JrvuzFXoaLsZOfq8ss/u5YKJNyG0k3wY0g5q+NWYNqGvn3D2JNSLfEhNcw5njYN6tYKgBowBUvaO8Tr2yAC+Quz7y4Sdzzyc9EWy/O00wCW24vOoGD6w2LIRO4DaVSSYwzxl0Qzx94lMMLSLISyTkE25hHXcU0I8+1EHlbXrn6HXxzpPqEntJD8XQ6ZfEhZXudVDHgyvY78cd6CzhgRCEhDWD3wDDtJdmOJBfyzhmQg=;kmUFeVOqpXb+ARutHhMp2A=="
 ---
 

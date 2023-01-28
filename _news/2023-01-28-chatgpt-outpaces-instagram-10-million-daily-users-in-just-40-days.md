@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-28T12:35:00Z
 originalUrl: "https://interestingengineering.com/innovation/chatgpt-outpaces-instagram-10-million-users-40-days"
 webUrl: "https://interestingengineering.com/innovation/chatgpt-outpaces-instagram-10-million-users-40-days"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Interesting Engineering

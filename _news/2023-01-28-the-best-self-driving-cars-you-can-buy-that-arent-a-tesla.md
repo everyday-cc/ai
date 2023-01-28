@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-c
 webUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/"
 type: article
 quality: 71
-heat: 211
+heat: 222
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2022/12/12/PDTN/cc8da9a6-2a24-4dc3-81e8-519ac02b9f89-TeslaModel3-FSD_ren-cen.jpg?auto=webp&crop=3986,2243,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "SEC investigating Tesla's self-driving vehicle claims made by Elon Musk"
+    excerpt: "The U.S. Securities and Exchange Commission is investigating claims made by Tesla CEO Elon Musk regarding the company's autopilot vehicle feature."
+    publishedDateTime: 2023-01-28T16:29:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/sec-investigating-teslas-self-driving-vehicle-claims-made-elon-musk"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 54
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/08836fc/2147483647/strip/true/crop/5440x2856+0+385/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F52%2Fb7%2F20fa7bb6a98f90f95b719ca88679%2F2a742265ce323c6247f20c61bde2b2b7.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ford Beats GM And Tesla For Best Active Driving Assistance System"
     excerpt: "These systems take advantage of the array of sensors that are present on many modern cars. Tesla's Autopilot and Full Self-Driving features recently came under fire after the system's capabilities were reportedly exaggerated in a demo video from 2016."

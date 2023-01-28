@@ -23,22 +23,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Fearing ChatGPT, Google enlists founders Brin and Page in AI fight"
-    excerpt: "ChatGPT has Google spooked. On Friday, The New York Times reported that Google founders Larry Page and Sergey Brin held several emergency meetings with company executives about OpenAI's new chatbot, which Google feels could threaten its $149 billion search business."
-    publishedDateTime: 2023-01-23T23:47:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt_threat_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The best AI writers: ChatGPT and other interesting alternatives to try"
     excerpt: "AI writing tools can help lighten your workload by writing emails and essays and even doing math. They use artificial intelligence to generate text or answer queries based on user input. ChatGPT is one popular example,"
     publishedDateTime: 2023-01-24T22:03:00Z
@@ -54,70 +38,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
-    excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
-    publishedDateTime: 2023-01-27T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3683734efc0e887a89c47/0x0.jpg?format=jpg&crop=907,605,x143,y0,safe&width=1200"
-        width: 907
-        height: 605
-        isCached: true
-  - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
-    excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
-    publishedDateTime: 2023-01-24T10:05:00Z
-    webUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 61
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "Experts warn about possible misuse of new AI tool ChatGPT"
-    excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
-    publishedDateTime: 2023-01-24T16:44:00Z
-    webUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
-    ampWebUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 59
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/rHS0lidZxCLKaUAjmNq43_mZzUE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIYVSTOR6RFGHOTXVJOUDCHNUQ.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "ChatGPT Is Doing for AI What Apple's iPhone Did for Smartphones"
-    excerpt: "ChatGPT isn’t the first company to do what it’s doing, but it is what is taking the world of AI mainstream. To stay updated with top startup investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter Venture capitalists ..."
-    publishedDateTime: 2023-01-24T14:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30548006/chatgpt-is-doing-for-ai-what-apples-iphone-did-for-smartphones"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30548006"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30548006"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
@@ -151,33 +71,51 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
-    excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
-    publishedDateTime: 2023-01-27T18:57:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
+  - title: "Microsoft to invest billions in parent company of controversial AI chatbot ChatGPT that could mean the end of Google"
+    excerpt: "MICROSOFT has revealed plans to invest billions into ChartGPT’s parent company OpenAI. On Monday, Microsoft announced it was making a “multi-year multibillion-dollar investment”"
+    publishedDateTime: 2023-01-24T15:58:00Z
+    webUrl: "https://www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/amp/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 41
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 51
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/01/SC-Microsoft-AI-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Comment: Don’t blink; AI like ChatGPT is improving quickly"
-    excerpt: "The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017. What will the next half-decade bring? Can we rely on our current impressions of these tools to judge their quality,"
-    publishedDateTime: 2023-01-25T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-dont-blink-ai-like-chatgpt-is-improving-quickly/"
+  - title: "ChatGPT is on its way to becoming a virtual doctor, lawyer, and business analyst. Here's a list of advanced exams the AI bot has passed so far."
+    excerpt: "ChatGPT is becoming more professionally competitive by the day. We rounded up all the exams the bot has passed."
+    publishedDateTime: 2023-01-28T04:20:00Z
+    webUrl: "https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?amp"
     type: article
     provider:
-      name: HeraldNet
-      domain: heraldnet.com
+      name: YAHOO!Finance
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/63d45173fc184700195532f8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "ChatGPT Is Just The Start: AI Is Rewriting The Data Center Real Estate Map"
+    excerpt: "ChatGPT is the tip of the iceberg and growing demand for AI will dramatically change where and how data centers are built"
+    publishedDateTime: 2023-01-27T01:50:00Z
+    webUrl: "https://www.bisnow.com/national/news/data-center/chatgpt-is-just-the-start-ai-is-rewriting-the-data-center-real-estate-map-117396"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
     quality: 39
     images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F01%2F63d31190ee587-pexels-tara-winstead-8386440.jpeg&width=1200&sign=ksa2s85Cfnmm2JF0eU-1VRTJ3mMhd2rji3AWMwYfTdc"
+        width: 1200
+        height: 816
         isCached: true
   - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
     excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."
@@ -193,29 +131,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
-    excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
-    publishedDateTime: 2023-01-27T14:41:00Z
-    webUrl: "https://wraltechwire.com/2023/01/27/robot-lawyers-artificial-intelligence-program-chatgpt-passes-law-exams/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 34
-  - title: "More than artificial intelligence: How ChatGPT learns conversation skills from humans"
-    excerpt: "The conversational robot capable of producing impressive texts upon request has had spectacular success. 'Le Monde' delves into what goes into making such a powerful chatbot."
-    publishedDateTime: 2023-01-28T03:40:00Z
-    webUrl: "https://www.lemonde.fr/en/economy/article/2023/01/28/more-than-artificial-intelligence-how-chatgpt-learns-conversation-skills-from-humans_6013427_19.html"
-    type: article
-    provider:
-      name: Le Monde.fr
-      domain: lemonde.fr
-    quality: 32
-    images:
-      - url: "https://img.lemde.fr/2022/12/17/103/0/2244/1122/1440/720/60/0/a5617ca_1671320365088-chatgpt-humaine-dark.jpg"
-        width: 1440
-        height: 720
-        isCached: true
   - title: "The CEO of the company behind AI chatbot ChatGPT says the worst-case scenario for artificial intelligence is 'lights out for all of us'"
     excerpt: "Experts warn OpenAI's ChatGPT could be abused to scam people or spread misinformation. CEO Sam Altman fears the worst case for AI is much bleaker."
     publishedDateTime: 2023-01-25T20:52:00Z
@@ -225,38 +140,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
-  - title: "Google’s answer to ChatGPT could make its debut in May"
-    excerpt: "In their paper, Alphabet-owned DeepMind Technologies define Sparrow as a dialogue agent \"that’s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user,"
-    publishedDateTime: 2023-01-24T04:53:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may/97268755"
+  - title: "Put Not Your Trust in ChatGPT, for Now"
+    excerpt: "Q&A with a veteran AI engineer and entrepreneur, Tom Kehler, about the limits of the popular chatbot and the wonders of the human brain."
+    publishedDateTime: 2023-01-25T18:55:00Z
+    webUrl: "https://www.christianitytoday.com/news/2023/january/chatgpt-artificial-intelligence-ethics-tom-kehler.html"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
+      name: Christianity Today
+      domain: christianitytoday.com
     quality: 24
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97268755,imgsize-1262075,width-1200,height=765,overlay-etbrandequity/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may.jpg"
+      - url: "https://www-images.christianitytoday.com/images/133062.jpg?h=675&w=1200"
         width: 1200
-        height: 765
+        height: 675
         isCached: true
-  - title: "ChatGPT AI bot passes law exams"
-    excerpt: "An AI chatbot powered by data harvested from the internet has passed exams at a US law school after automatically generating essays to an acceptable academic standard on topics ranging from constitutional law to taxation."
-    publishedDateTime: 2023-01-26T14:09:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/01/chatgpt-ai-bot-passes-law-exams/"
+  - title: "S.F. startup Writer develops tool to help detect writing by ChatGPT"
+    excerpt: "While the prospect of AI writing has garnered worry, it can be actually quite easy to spot its telltale signs. Enter San Francisco startup Writer."
+    publishedDateTime: 2023-01-24T18:26:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/01/24/ai-startup-chatgpt-writer-may-habib.html"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
-  - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
-    excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
-    publishedDateTime: 2023-01-27T19:36:00Z
-    webUrl: "https://www.thenewstribune.com/news/local/education/article271689532.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 12
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "MEtWaL/pderDuESXAaRCvaQyIi043SUGgsNLsUtlkPS16myvVFQSbx2quy8f6rIDEgcOie7hMV/YnfWRBeDDV4X5ffspVZqRho1jFThrnb26S6Ns5Z4pZK07tN7fr/rhr88vijhWkGWFRd6b4qX2uW5nh1nYuhJGCFquE99jyjNyxNfPw5hliNweGwEgcEitKCc78W0IHOV745+Pk/RmycwcvrT2LtfnBBCXCGA85Iax+FSQEo1eNP9VHnn1VU4cEZ09CYVZ6hKxvpVz21Ibuarayl6lIEWHXAsG7XjfxNrghRFD3Mg4EHpE+pFhBUC3wxYuMspSYsmxaaPQKPVXt3VMc9zkVDuxcaHjr5BSsfJP4F+GGnv43jk7SRyH3T1HT5ZmajbgkF+mBHgdnqXQSzTkzx0g88fQgJaPX2xjy5vCb1u/Vms3hgSnsZkLCeBRBkykQKcqOt9eUa6o0g/NxuILrhXfqCv0qw1pqG04jiAN5llV5JUEouVZcCTZPfpD8ab57dHabiLYchAVE7XdKw==;YRsZ8YSkrDsbjqnLdp7UMg=="
 ---

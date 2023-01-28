@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Merger of Artificial Intelligence and Psychiatry"
-    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
-    publishedDateTime: 2023-01-26T12:36:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 41
   - title: "2023 will be the year of AI accountability"
     excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
     publishedDateTime: 2023-01-24T12:00:00Z
@@ -81,20 +70,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Top 5 Artificial Intelligence Stocks To Own"
-    excerpt: "The Top 5 Artificial Intelligence Stocks to Own The age of artificial intelligence (AI) is here. And it could very well transform just about ever"
-    publishedDateTime: 2023-01-23T21:18:00Z
-    webUrl: "https://menafn.com/1105468147/The-Top-5-Artificial-Intelligence-Stocks-To-Own"
+  - title: "The Merger of Artificial Intelligence and Psychiatry"
+    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
+    publishedDateTime: 2023-01-26T00:05:00Z
+    webUrl: "https://www.psychologytoday.com/au/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
+    ampWebUrl: "https://www.psychologytoday.com/au/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?326268"
-        width: 375
-        height: 250
-        isCached: true
   - title: "It's time for banks to get more intelligent about artificial intelligence"
     excerpt: "Artificial intelligence now has the potential to fundamentally change customers' relationships with banks, impacting everything from onboarding to retention and upselling."
     publishedDateTime: 2023-01-25T15:26:00Z

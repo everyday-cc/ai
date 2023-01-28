@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-28T14:08:00Z
 originalUrl: "https://www.dailymail.co.uk/sciencetech/article-11680129/Can-guess-AI-reimagines-popular-brand-logos-style-famous-artists.html"
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-11680129/Can-guess-AI-reimagines-popular-brand-logos-style-famous-artists.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Mail

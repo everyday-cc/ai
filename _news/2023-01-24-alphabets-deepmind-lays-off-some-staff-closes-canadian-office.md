@@ -24,18 +24,16 @@ topics:
 
 related:
   - title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
-    excerpt: "London-based DeepMind's Edmonton office is the only international site directly managed by the artificial intelligence firm, making it far more resource-intensive to operate, the spokesperson said."
-    publishedDateTime: 2023-01-25T02:18:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
+    excerpt: "DeepMind Technologies, owned by Alphabet Inc , is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google's parent announced it would lay off 12,"
+    publishedDateTime: 2023-01-24T19:37:00Z
+    webUrl: "https://www.reuters.com/technology/alphabet-owned-ai-firm-deepmind-shutters-office-canadas-edmonton-2023-01-24/"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97294835,imgsize-29614,width-1200,height-628,overlay-ettelecom/alphabet-owned-ai-firm-deepmind-shutters-office-in-canada-s-edmonton.jpg"
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=127"
         width: 1200
         height: 628
         isCached: true

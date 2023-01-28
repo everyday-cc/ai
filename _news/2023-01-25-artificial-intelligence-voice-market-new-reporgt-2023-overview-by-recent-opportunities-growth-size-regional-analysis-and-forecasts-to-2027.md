@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars and Trucks Market Research report forecast 2023 To 2028, Latest Industry News, Top Company Analysis, Research Methodology"
-    excerpt: "Self-driving Cars and Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-24T00:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-research-report-forecast-2023-to-2028-latest-industry-news-top-company-analysis-research-methodology-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "0y5/KOqi8R2BeY/OkH8t84PiB4RX4kCdc6Mgp334C7z/lydCePe69CWPDx3Kg2bwiwtn8Uc+gbFsx7uZlTo/Fh709+D/RzdPEgBUJhL+LgoqiwfeL5gHgQiO4FO7nS8WFNGtdgO3yRri6nUVR68L/Zvae0MR+EU3Nk8QZYgQ798SrYYirZBJDCQKHhw+MD2IKO0aWYQOThdmEja58rbNOKqlnjcQc/C+baoxA1iWH2jgOhHRCCa7NHg+NYPB4x7S5HgpSELR3umxalgNoNKmebO9P4x3Wdnj5IGhoRBMUTlPtuxsw3f58rkQx+7Wkb2uMRjVWOH6dEgWKErMGhBF4ql/GUX9Fveb8SS7O3iJ7Zg=;lp6D4LKo3DFdKgqiHN5lmw=="
 ---

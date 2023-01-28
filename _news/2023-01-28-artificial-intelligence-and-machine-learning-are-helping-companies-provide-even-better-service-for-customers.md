@@ -73,22 +73,6 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "How Artificial Intelligence is Transforming Banking"
-    excerpt: "By Ankur Rawat, Director, Products and Solutions, Banking and Financial Services, Newgen Software Banking has transformed over the years. It has come a long way from unorganized peer-to-peer banking to organized branch-based banking,"
-    publishedDateTime: 2023-01-23T22:57:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-is-transforming-banking/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/01/iStock-1168748420.jpg"
-        width: 750
-        height: 530
-        isCached: true
   - title: "AI Deep Learning Predicts Brain Tumor Growth"
     excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
     publishedDateTime: 2023-01-24T15:21:00Z

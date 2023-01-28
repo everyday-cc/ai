@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/amp/us-eu-launch-agreement-on-artificial-int
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/us-eu-launch-agreement-on-artificial-intelligence/6937782.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "US, EU sign new pact on artificial intelligence collaboration"
-    excerpt: "Results of our research will extend beyond our partnership to benefit additional international partners,' says US national security advisor - Anadolu Agency"
-    publishedDateTime: 2023-01-27T18:45:00Z
-    webUrl: "https://www.aa.com.tr/en/politics/us-eu-sign-new-pact-on-artificial-intelligence-collaboration/2799649"
+  - title: "USA And EU Advance AI Research In Critical Global Needs In New Administrative Agreement"
+    excerpt: "This article focuses on the AI leadership with the USA and the European Union in signing a new administrative agreement to do joint AI research in key global challenge areas like: climate change, healthcare,"
+    publishedDateTime: 2023-01-28T13:56:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/01/28/ai-leadership-with-us-and-eu-advancing-ai-research-in-critical-global-needs/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/28/ai-leadership-with-us-and-eu-advancing-ai-research-in-critical-global-needs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/28/ai-leadership-with-us-and-eu-advancing-ai-research-in-critical-global-needs/amp/"
     type: article
     provider:
-      name: Anadolu Ajansi
-      domain: aa.com.tr
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2023/01/27/thumbs_b_c_c37fb47f4b097de62aa15f58a25aa5ca.jpg?v=214101"
-        width: 864
-        height: 486
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d53421cdd5056ec34c550a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "24owYq8TeKR9ipFFh18k28j7mX6L09O7G1oI80wF/N/crHJVzRbF2ap/QRJQtG7pOAYEqO15AkA6l/7N90l2AInsbMTO9NX+dRbHN7ELwp34N8YpzG/22aLZDXMfIunStncQOSOKBgeNaX09q4oB7Ff0DDREj7r7TV5TQFCyiLnlc2eO+n7AwOhdCdAkp8Fo87gXxtm0VeVSUcrzqJclJKAbd8tXUP0av3NuToyLch9tbaXgMlB/S8SRZuOVhAosM0+suNrvYpAeqjfZJwnNNGjeeIGYsYJuz6EYMxUPKZ+fC7jG+VP5oM/dV1K+H/XOh2zLpSf9ACvOzuGhpyGifL9NwXtZCCIZsty2Z/dGS8YGGofwWoUBWK+kuozFJn5gSNSOa+6B34zNVJXPTkYRJZs+e6alH/Mg1XzXyWYS7ZRikPEQQjLUadYPPyme4MC3KW5JOOq0kp2JXDSuz97nONFxDJm50YfeIuUD34+5vouPeHwnrQ6bb6sysR9z2J4PJH2p1i/Ll3R73N7Pbs4/XA==;4wMnD9AzaETbk7cYURWu1Q=="

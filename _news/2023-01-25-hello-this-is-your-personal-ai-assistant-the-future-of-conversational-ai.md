@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/01/25/hello-this-is-your-personal-a
 webUrl: "https://insidebigdata.com/2023/01/25/hello-this-is-your-personal-ai-assistant-the-future-of-conversational-ai/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI Is a Revolution That's Just Getting Started. Here's How It Can Boost Your Business."
-    excerpt: "In this article, we discuss the impact that Conversational AI will have in the coming years and how you can use it to boost your business."
-    publishedDateTime: 2023-01-26T20:00:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/5-ways-conversational-ai-can-transform-your-business/443045"
+  - title: "Doctors, Get Ready for Your AI Assistants"
+    excerpt: "Hospitals have begun using machine learning to help analyze and collect images, and the medical applications are endless."
+    publishedDateTime: 2023-01-28T12:00:00Z
+    webUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 32
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "Q/HZi0Nivyy8Owj2LsF5zboKtgMoNqUM/meCzYoLx4UpyaEMNdgW6JPH/UhqBk6viFCce3c5g1Ae9mo1nTzhE9BvdJl9x7s6+8bZ+23Ha0oUh7aWn+CesszXEQmv+VrxAlVA+V4gvLsJk7o11E4FAOfoVtv5Wsv2ZnuYReCaKLF3aHyPKO1RzFtt1XX1JD1Bq8lme2IlTWf9epQ2TCmP5gLBbSrjr4QRQtIyOyfZieTKvvssKPSAgUnUzYk4n5NfjMxnokXQ8Z7sTPIpHNuJ96a8PfoVxa4LWs5wliLxHZqg5ZkVxCof8UOyikIuTgaLbUciYECAfz0cjpKdMPFBXfOoZ3v1OEYFZlicyo68feULurlWlFylJQ2Jjqi5+p4Kp08pqCd93cYwENBUOTb5MxBQxR0knYrGFRyso+zX/0b4fr9PmpNSch6C1QP7K/gB5fymikxeysU8X50B7PBygptLGJ4CU4IFGHDfPJJcBDVnWnRBktgAGZtlZZfIwQIgzhnAH28hfg5FzYywdVxZEg==;eNfS17O+2+6WTojfHnvImw=="
 ---

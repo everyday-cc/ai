@@ -58,6 +58,63 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
+    excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."
+    publishedDateTime: 2023-01-26T14:13:00Z
+    webUrl: "https://www.wired.com/story/chatgpt-artificial-intelligence-education-networks/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 66
+  - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
+    excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
+    publishedDateTime: 2023-01-24T10:05:00Z
+    webUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 61
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
+        width: 760
+        height: 507
+        isCached: true
+  - title: "Experts warn about possible misuse of new AI tool ChatGPT"
+    excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
+    publishedDateTime: 2023-01-24T16:44:00Z
+    webUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
+    ampWebUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 59
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/rHS0lidZxCLKaUAjmNq43_mZzUE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIYVSTOR6RFGHOTXVJOUDCHNUQ.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "ChatGPT Is Doing for AI What Apple's iPhone Did for Smartphones"
+    excerpt: "ChatGPT isn’t the first company to do what it’s doing, but it is what is taking the world of AI mainstream. To stay updated with top startup investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter Venture capitalists ..."
+    publishedDateTime: 2023-01-24T14:36:00Z
+    webUrl: "https://www.benzinga.com/news/23/01/30548006/chatgpt-is-doing-for-ai-what-apples-iphone-did-for-smartphones"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30548006"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30548006"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "An AI bot passed this Wharton professor's exam. Here's why he's not concerned"
     excerpt: "Wharton professor Christian Terwiesch was sitting with his grown children around the dinner table when the subject of artificial intelligence came up. Both of his kids had been experimenting with the nascent technology in their respective fields: \"one of them is interested in"
     publishedDateTime: 2023-01-27T18:27:00Z
@@ -88,6 +145,24 @@ related:
         width: 620
         height: 352
         isCached: true
+  - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
+    excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
+    publishedDateTime: 2023-01-27T14:41:00Z
+    webUrl: "https://wraltechwire.com/2023/01/27/robot-lawyers-artificial-intelligence-program-chatgpt-passes-law-exams/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 34
+  - title: "ChatGPT AI bot passes law exams"
+    excerpt: "An AI chatbot powered by data harvested from the internet has passed exams at a US law school after automatically generating essays to an acceptable academic standard on topics ranging from constitutional law to taxation."
+    publishedDateTime: 2023-01-26T14:09:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/01/chatgpt-ai-bot-passes-law-exams/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 19
 
 secured: "skUP2z8/hjWZVJgiMksdCthguL4aGo3of2FejElJC9W1RJciB52AH/tQan3nxnHl6A+QvHxsTqYws8HflCJnJr8RFbhPITnhDW/+VWHBdSIO6GtW6l1fU4Oc/2KD7dvNoqr8VDuIbpgXcF9T3MUulHruz1/qcdRLvoNf4ZZJAqgPWbBQfrOexaLzsvXhAhV5anYnTaIjIZFXhtiLAubrjCCS48MYdBVH34B25KlssvWfUMrQ8vipeAoUaG8cawk1j9b4P+TO0xC2TN31VdF3WoWngB3VI1ot6Nsb63DbbDjUn5DFnu/fZUdTBTezVxt2mp3sFAVA1rNeZ213WV2LkWhmnd07/9uEBweMhUj4vxw=;vpFBcDZNbNk2DWcFCJmcqA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T19:58:00Z
 originalUrl: "https://www.mpg.de/19785059/symbiosis-between-humans-and-artificial-intelligence"
 webUrl: "https://www.mpg.de/19785059/symbiosis-between-humans-and-artificial-intelligence"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Max Planck Society

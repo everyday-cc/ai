@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/"
 type: article
 quality: 93
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence: technology of the future"
-    excerpt: "Join us this Friday as we talk with experts about concerns, the positives, and the future of artificial intelligence in the world as we know it."
-    publishedDateTime: 2023-01-24T00:01:00Z
-    webUrl: "https://indianapublicmedia.org/noonedition/artificial-intelligence-technology-of-the-future.php"
-    type: article
-    provider:
-      name: WFIU
-      domain: indianapublicmedia.org
-    quality: 41
-    images:
-      - url: "https://indianapublicmedia.org/images/news-images/dsc03239.jpg"
-        width: 1200
-        height: 803
-        isCached: true
   - title: "Generative AI: how will the new era of machine learning affect you?"
     excerpt: "They will “understand your intent in a way that hasn’t been possible before and translate that to computer ... help to control misuse of the new AI systems. Manyika, for instance, says that Google has developed a language system that can detect with ..."
     publishedDateTime: 2023-01-26T03:31:00Z

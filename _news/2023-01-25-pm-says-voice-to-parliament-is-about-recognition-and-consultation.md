@@ -49,15 +49,6 @@ related:
         width: 509
         height: 269
         isCached: true
-  - title: "AWS Launches Second Infrastructure Region in Australia"
-    excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
-    publishedDateTime: 2023-01-23T23:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "AWS Launches Second Infrastructure Region In Australia"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastruc"
     publishedDateTime: 2023-01-25T20:02:00Z

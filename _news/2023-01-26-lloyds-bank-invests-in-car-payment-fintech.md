@@ -117,15 +117,6 @@ related:
         width: 1200
         height: 1192
         isCached: true
-  - title: "Fintech Stocks Face-Off: SOFI vs. UPST vs. AFRM"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips After a rough 2022, smart investors know when to make the most of an"
-    publishedDateTime: 2023-01-23T22:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-stocks-face-off-sofi-vs-upst-vs-afrm-1032035056"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Top 10 fintech disruptions to watch out for in 2023"
     excerpt: "From new technologies to tough regulations for crypto, 2023 is already looking like a year of change for fintech."
     publishedDateTime: 2023-01-24T12:10:00Z

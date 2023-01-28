@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chat
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
 type: article
 quality: 85
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -71,6 +71,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ZQqwgb09wTHkjIoeFxuFyM2kF2w=/0x0:4000x2670/1200x628/filters:focal(2000x1335:2001x1336)/cdn.vox-cdn.com/uploads/chorus_asset/file/24387610/1237058094.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
+    excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
+    publishedDateTime: 2023-01-27T04:22:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/63d330454589790018e56915?width=1200&format=jpeg"
+        width: 800
+        height: 400
         isCached: true
   - title: "A watermark for chatbots can spot text written by an AI"
     excerpt: "Hidden patterns buried in AI-generated texts could help identify them as such, allowing us to tell whether the words we’re reading are written by a human or not. These “watermarks” are invisible to the human eye but let computers detect that the text probably comes from an AI system."

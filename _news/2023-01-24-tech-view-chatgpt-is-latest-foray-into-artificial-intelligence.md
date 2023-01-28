@@ -28,54 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "Fearing ChatGPT, Google enlists founders Brin and Page in AI fight"
-    excerpt: "ChatGPT has Google spooked. On Friday, The New York Times reported that Google founders Larry Page and Sergey Brin held several emergency meetings with company executives about OpenAI's new chatbot, which Google feels could threaten its $149 billion search business."
-    publishedDateTime: 2023-01-23T23:47:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/"
+  - title: "ChatGPT uses AI to pass final exam at UPenn’s Wharton"
+    excerpt: "ChatGPT uses artificial intelligence to write an essay instantly on any topic. It even passed an MBA exam at UPenn’s Wharton. NBC News’ Stephanie Gosk shares more about the cutting-edge technology and the shockwaves it’s causing on college campuses."
+    publishedDateTime: 2023-01-25T00:25:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/chatgpt-uses-ai-to-pass-final-exam-at-upenn-s-wharton-161658437822"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo161658437822"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo161658437822"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt_threat_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The best AI writers: ChatGPT and other interesting alternatives to try"
-    excerpt: "AI writing tools can help lighten your workload by writing emails and essays and even doing math. They use artificial intelligence to generate text or answer queries based on user input. ChatGPT is one popular example,"
-    publishedDateTime: 2023-01-24T22:03:00Z
-    webUrl: "https://www.zdnet.com/article/best-ai-writer/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/best-ai-writer/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-ai-writer/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674606230388_nn_sgo_chatgpt_on_college_campuses_230124_1920x1080-k1mc26.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
-    excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
-    publishedDateTime: 2023-01-27T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
+  - title: "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+"
+    excerpt: "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing."
+    publishedDateTime: 2023-01-26T20:28:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3683734efc0e887a89c47/0x0.jpg?format=jpg&crop=907,605,x143,y0,safe&width=1200"
-        width: 907
-        height: 605
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d2ef1d548d5f099c9d57eb/0x0.jpg?format=jpg&crop=2176,1224,x0,y204,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
+    excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."
+    publishedDateTime: 2023-01-26T14:13:00Z
+    webUrl: "https://www.wired.com/story/chatgpt-artificial-intelligence-education-networks/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 66
   - title: "Experts warn about possible misuse of new AI tool ChatGPT"
     excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
     publishedDateTime: 2023-01-24T16:44:00Z
@@ -108,88 +101,51 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
-    excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
-    publishedDateTime: 2023-01-28T11:40:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1?amp"
+  - title: "An AI bot passed this Wharton professor's exam. Here's why he's not concerned"
+    excerpt: "Wharton professor Christian Terwiesch was sitting with his grown children around the dinner table when the subject of artificial intelligence came up. Both of his kids had been experimenting with the nascent technology in their respective fields: \"one of them is interested in"
+    publishedDateTime: 2023-01-27T18:27:00Z
+    webUrl: "https://phys.org/news/2023-01-ai-bot-wharton-professor-exam.html"
+    ampWebUrl: "https://phys.org/news/2023-01-ai-bot-wharton-professor-exam.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-ai-bot-wharton-professor-exam.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: Phys.org
+      domain: phys.org
+    quality: 54
     images:
-      - url: "https://i.insider.com/63d43770fc18470019552b4d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-1.jpg"
+        width: 1920
+        height: 1175
         isCached: true
-  - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
-    excerpt: "ChatGPT is a revolutionary new artificial intelligence which has passed a law exam and is replacing white collar workers - with one expert saying 'the wolf is at the door'"
-    publishedDateTime: 2023-01-27T12:56:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
+  - title: "Rep. Jake Auchincloss uses ChatGPT artificial intelligence to write House speech"
+    excerpt: "ChatGPT, artificial intelligence could change the future of education 02:26 BOSTON - During his appearance on the floor of the US House of Representatives Wednesday, Congressman Jake Auchincloss made history not for the content of his speech, but for how ..."
+    publishedDateTime: 2023-01-26T10:42:00Z
+    webUrl: "https://www.cbsnews.com/boston/news/chatgpt-artificial-intelligence-change-future-of-education-congressman-jake-auchincloss-house-speech/"
+    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/chatgpt-artificial-intelligence-change-future-of-education-congressman-jake-auchincloss-house-speech/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/chatgpt-artificial-intelligence-change-future-of-education-congressman-jake-auchincloss-house-speech/"
     type: article
     provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 55
+      name: CBS News
+      domain: cbsnews.com
+    quality: 52
     images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Can The Generative AI ChatGPT Brand Keep Going Strong Or Will It Fizzle Out, Asks AI Ethics And AI Law"
-    excerpt: "Generative AI ChatGPT is an AI app that has caught the world by storm. Indeed, ChatGPT has now entered into the rarified air of being considered a brand. There are lots of upcoming potholes that can undercut this new brand."
-    publishedDateTime: 2023-01-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/24/can-the-generative-ai-chatgpt-brand-keep-going-strong-or-will-it-fizzle-out-asks-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
-  - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
-    excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
-    publishedDateTime: 2023-01-27T18:57:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Comment: Don’t blink; AI like ChatGPT is improving quickly"
-    excerpt: "The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017. What will the next half-decade bring? Can we rely on our current impressions of these tools to judge their quality,"
-    publishedDateTime: 2023-01-25T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-dont-blink-ai-like-chatgpt-is-improving-quickly/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
-    excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."
-    publishedDateTime: 2023-01-27T23:02:00Z
-    webUrl: "https://www.wxyz.com/news/national/two-americas/chatgpt-the-revolutionary-ai-that-can-understand-and-respond-to-questions"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 37
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/4440f30/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F73d%2Fbe88c4e651db4a7dbe102614d7272948%2F73dbbb4f96c9442fb8acea91b1291369%2Fposter_e2d6c1c76943401495237f98e60521cf.jpg"
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/25/32b0fdde-a641-48be-a3bb-1f5a15aaa771/thumbnail/1200x630/af2537f54f3a943476eed6072bc78b68/keyboard.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI chatbot passes a final business school exam, beating Wharton students"
+    excerpt: "A Wharton professor tested an artificial intelligence chatbot on Wharton's MBA exam, and the AI beat some of the students receiving a solid B or B-."
+    publishedDateTime: 2023-01-24T10:07:00Z
+    webUrl: "https://www.tweaktown.com/news/90126/ai-chatbot-passes-final-business-school-exam-beating-wharton-students/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 38
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90126_01_ai-passes-wharton-business-school-exam.png"
+        width: 620
+        height: 352
         isCached: true
   - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
     excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
@@ -200,43 +156,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 34
-  - title: "More than artificial intelligence: How ChatGPT learns conversation skills from humans"
-    excerpt: "The conversational robot capable of producing impressive texts upon request has had spectacular success. 'Le Monde' delves into what goes into making such a powerful chatbot."
-    publishedDateTime: 2023-01-28T03:40:00Z
-    webUrl: "https://www.lemonde.fr/en/economy/article/2023/01/28/more-than-artificial-intelligence-how-chatgpt-learns-conversation-skills-from-humans_6013427_19.html"
-    type: article
-    provider:
-      name: Le Monde.fr
-      domain: lemonde.fr
-    quality: 32
-    images:
-      - url: "https://img.lemde.fr/2022/12/17/103/0/2244/1122/1440/720/60/0/a5617ca_1671320365088-chatgpt-humaine-dark.jpg"
-        width: 1440
-        height: 720
-        isCached: true
-  - title: "The CEO of the company behind AI chatbot ChatGPT says the worst-case scenario for artificial intelligence is 'lights out for all of us'"
-    excerpt: "Experts warn OpenAI's ChatGPT could be abused to scam people or spread misinformation. CEO Sam Altman fears the worst case for AI is much bleaker."
-    publishedDateTime: 2023-01-25T20:52:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-openai-ceo-worst-case-ai-lights-out-for-all-2023-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-  - title: "Google’s answer to ChatGPT could make its debut in May"
-    excerpt: "In their paper, Alphabet-owned DeepMind Technologies define Sparrow as a dialogue agent \"that’s useful and reduces the risk of unsafe and inappropriate answers. Our agent is designed to talk with a user,"
-    publishedDateTime: 2023-01-24T04:53:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may/97268755"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97268755,imgsize-1262075,width-1200,height=765,overlay-etbrandequity/digital/googles-answer-to-chatgpt-could-make-its-debut-in-may.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "ChatGPT AI bot passes law exams"
     excerpt: "An AI chatbot powered by data harvested from the internet has passed exams at a US law school after automatically generating essays to an acceptable academic standard on topics ranging from constitutional law to taxation."
     publishedDateTime: 2023-01-26T14:09:00Z
@@ -246,15 +165,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
-  - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
-    excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
-    publishedDateTime: 2023-01-27T19:36:00Z
-    webUrl: "https://www.thenewstribune.com/news/local/education/article271689532.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 12
 
 secured: "GPXqAr3mK9/oUGwWL740eNDF3+XDQyzpdpoDfROJoyY7DzpnY7fGeS6w9eWFxVumNzS58UfDVEus3DOB3xfTGUCF+BEKZpanVzTpOURAngPB1YxL3jU4k9wuTzXVXNTCiayW+N1UG5/M7zvSvJKpYSrgrdbKn1NQrAoGu32iM87V9QfZ3Cfs7YRnE+dHSyQK5wth/l6LdYesscYr3vQXKDwM26/EHG+z0ut4ZWu6VPRFM0Z0Io3jZj4/sEgPu7sOzZJZhe60C7DbqqE19vdkucv69uRFJrH1nY+PWLLWJmvA+wn5y6Ari5D+5lMPre0lt67ODyYyqqCDN98VJW/1RhBUj6Sd+srSMLVw8jmExN++GKpDeux2xgHD/75BS2gwna5uSMDIMlweDKkd6UkwDe6fHIQ/yXQwH+ioKnhB4L/iKj1W1LrnT5IpKKsGf8citcw29kCH9D3a6aE50Yqbi6Bx58x1yau5yBQuZl3lG/UiQ5EYSr89hAzx/xBMjlBvGYxze1ZN+0H5LUDXwfVDDw==;WqID/oiFotaX36gnVZGO4Q=="
 ---

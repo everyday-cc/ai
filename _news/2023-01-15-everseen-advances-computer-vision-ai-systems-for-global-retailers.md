@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Everseen Advances Computer Vision AI Systems for Global Retailers"
-excerpt: "Expanded partner program and installations bring real-time loss prevention to more than half of the world's top 15 retailers Everseen, the leader in real-time computer vision AI for retailers ..."
-publishedDateTime: 2023-01-15T14:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/p30423687/everseen-advances-computer-vision-ai-systems-for-global-retailers"
+excerpt: "\"Everseen's computer vision AI delivers insights that enable retailers to see and solve complex challenges in real-time to significantly reduce losses and improve margins by up to 20 percent.\""
+publishedDateTime: 2023-01-15T14:21:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30423676/everseen-advances-computer-vision-ai-systems-for-global-retailers"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30423676/everseen-advances-computer-vision-ai-systems-for-global-retailers"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "fpnmacgCW2akhLSHV9aFPl2WI5oOQ/NWst+ueKELZ5bHYCO+1urMKydrdLjVYWpOPToLnJcP8oNx7NSmyEefPIJffMtDWiE3E7Vqm3aRW0iQh5+6hJW/HSSKztknpGpyduoiKsnrrbpw88sP4lGqvkwcx0h83fiENxomsRNZFiPjOVJibZGSEAj4RJiSJvUKPrATisNLVKsV/3H4J5KE4Z9OgMJqk2+eB3d7ueJvrDEVIRexa2T42unITLm7EX6jHa+bRNFwiWCNon+Ry1I1KUEJUisRPs3LjefCFdiXJHxi3F8L6o9YeOoG3+UbKiIkK9h030ZxdxWVjOuCMz8axDmzJTCMFjjZC9A8hc692ck=;nNokILV7C+1P6PaSMkleXQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "z/VCEhakrLQewNIrmDRDC0yohVINGk53y+Yjj+Z4JkBCL0bNSxrPuNUtlOL17C2PZLqOOcG7Hsmf5v+a/fUO6WZbG6g3ZDJZ+yNPABA+DN2Jv+kCkDKhnjAFBuDlaBQRUqin/2YRCuw71wFSqDFTuNz54ZLQqml+vM1/IN98dBkn5Cad3CdwM5m4liEBJJTos5dOpoEoIZzxExhNERB3RO/c2sclsZWRJjJEyP0lTil/Q8ygB4JZ+T+V2vjvSRJTVxlM0M5kqJJLbJGG7551vQ9XJuk4T05KKOqH/cV55c4/4BePwb2c8MI+pBK12qPUXo6Q9V9T+SE1VMRPwYZM7KnLkQnEwuHoA/bzXmKdS6s=;QdVRzPuUCw9K9IXeQGmAkQ=="
 ---
 

@@ -131,15 +131,6 @@ related:
         width: 515
         height: 215
         isCached: true
-  - title: "Fintech Stocks Face-Off: SOFI vs. UPST vs. AFRM"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips After a rough 2022, smart investors know when to make the most of an"
-    publishedDateTime: 2023-01-23T22:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-stocks-face-off-sofi-vs-upst-vs-afrm-1032035056"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "FinTech Bolt ‘cuts 10%’ of workforce"
     excerpt: "One-click checkout FinTech Bolt is reportedly cutting 50 roles, around 10 per cent of its workforce. <br /> <br /> US business publication The Information reports that the company has now culled more than half of its headcount since May 2022,"
     publishedDateTime: 2023-01-26T11:35:00Z

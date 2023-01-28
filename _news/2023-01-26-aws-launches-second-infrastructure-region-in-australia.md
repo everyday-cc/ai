@@ -49,15 +49,6 @@ related:
         width: 509
         height: 269
         isCached: true
-  - title: "AWS Launches Second Infrastructure Region in Australia"
-    excerpt: "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ..."
-    publishedDateTime: 2023-01-23T23:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "PM says Voice to Parliament is about ‘recognition and consultation’"
     excerpt: "The Indigenous Voice to Parliament is about “two things,” Prime Minister Anthony Albanese says. “It’s about recognition – that is giving people respect in our nation’s birth certificate,” he told Sky News Political Editor Andrew Clennell."
     publishedDateTime: 2023-01-25T04:25:00Z
