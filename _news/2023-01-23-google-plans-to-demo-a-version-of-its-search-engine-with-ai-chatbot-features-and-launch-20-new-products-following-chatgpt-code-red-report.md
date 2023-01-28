@@ -195,20 +195,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Google Sparrow: an AI to compete with ChatGPT"
-    excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."
-    publishedDateTime: 2023-01-23T09:44:00Z
-    webUrl: "https://ccm.net/apps-sites/apps/10537-google-sparrow-an-ai-to-compete-with-chatgpt/"
-    type: article
-    provider:
-      name: CCM
-      domain: ccm.net
-    quality: 39
-    images:
-      - url: "https://img-19.ccm.net/qwqEGEzCpLozPL_ebL4CAn17Nr8=/1500x/smart/ef073b86da5c481a9f72a8a07969c7fd/ccmcms-enccm/39469876.jpg"
-        width: 1500
-        height: 1326
-        isCached: true
   - title: "Comment: Don’t blink; AI like ChatGPT is improving quickly"
     excerpt: "The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017. What will the next half-decade bring? Can we rely on our current impressions of these tools to judge their quality,"
     publishedDateTime: 2023-01-25T08:30:00Z

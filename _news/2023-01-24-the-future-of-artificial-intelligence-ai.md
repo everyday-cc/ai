@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 629
         isCached: true
+  - title: "CFO Dinner: Generative AI and the Future of Finance"
+    excerpt: "Michael Schrage, Research fellow, MIT Sloan School of Management Interviewer: Michal Lev-Ram, Editor-at-Large, FORTUNE"
+    publishedDateTime: 2023-01-28T01:29:00Z
+    webUrl: "https://fortune.com/videos/watch/CFO-Dinner-Generative-AI-and-the-Future-of-Finance/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 84
+    images:
+      - url: "https://d2byebo1j9i40c.cloudfront.net/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1/Images/posterImage-ver1-1280x720.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lawsuits over Stability AI's Stable Diffusion could threaten the future of AI-generated art"
     excerpt: "Lawsuits from artists and photo-licensing giant Getty Images ask the court to decide AI-generated art's relationship with content creators."
     publishedDateTime: 2023-01-25T16:49:00Z
@@ -85,22 +99,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/iau1674597130.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Teaching In The Age Of AI Means Getting Creative"
-    excerpt: "Alarm bells seemed to sound in teachers’ lounges across America late last year with the debut of ChatGPT — an AI chatbot that was both easy to use and capable"
-    publishedDateTime: 2023-01-23T11:00:00Z
-    webUrl: "https://fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/"
-    ampWebUrl: "https://fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/amp/"
-    cdnAmpWebUrl: "https://fivethirtyeight-com.cdn.ampproject.org/c/s/fivethirtyeight.com/features/teaching-in-the-age-of-ai-means-getting-creative/amp/"
-    type: article
-    provider:
-      name: FiveThirtyEight
-      domain: fivethirtyeight.com
-    quality: 59
-    images:
-      - url: "https://fivethirtyeight.com/wp-content/uploads/2023/01/EDUCATION-AI-16x9-1.png?w=712"
-        width: 712
-        height: 400
         isCached: true
   - title: "Member of Congress reads AI-generated speech on House floor"
     excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
@@ -224,6 +222,17 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "The Merger of Artificial Intelligence and Psychiatry"
+    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
+    publishedDateTime: 2023-01-26T12:36:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
   - title: "The 37th AAAI Conference on Artificial Intelligence Aims to Build Bridges"
     excerpt: "AAAI announced today the winners of its 2023 awards that will be presented at the 37th Annual Conference on Artificial Intelligence (AAAI-23). This event will be held in person at the Walter E. Washington Convention Center in Washington,"
     publishedDateTime: 2023-01-26T12:06:00Z

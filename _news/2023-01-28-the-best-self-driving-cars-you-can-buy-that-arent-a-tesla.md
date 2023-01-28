@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-c
 webUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/"
 type: article
 quality: 71
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Best Driver Assistance Systems You Can Buy That Aren't Tesla Autopilot"
+    excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
+    publishedDateTime: 2023-01-27T18:16:00Z
+    webUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/l-intro-1674842787.jpg"
+        width: 1600
+        height: 897
+        isCached: true
   - title: "US Market Regulator Probes Elon Musk's Role In Tesla Self-Driving Claims: Report"
     excerpt: "The U.S. securities regulator is investigating Elon Musk's role in giving shape to EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter."
     publishedDateTime: 2023-01-27T23:26:00Z

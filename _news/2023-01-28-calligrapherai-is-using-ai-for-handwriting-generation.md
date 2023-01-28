@@ -100,20 +100,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 54
-  - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
-    excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
-    publishedDateTime: 2023-01-23T10:21:00Z
-    webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 53
-    images:
-      - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Learning to lie: AI tools adept at creating disinformation"
     excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda. When researchers asked the online AI chatbot ChatGPT to compose a blog ..."
     publishedDateTime: 2023-01-24T15:03:00Z
@@ -149,6 +135,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "EUCiotj5bj4/YfnnZHO1rEzwRb5yL/B1NctDnphNLl9Bqd9grRVsQNIz8gOrHf53NOiXuzSPdx+rvVhdgxzhi0Mj3lkGMT4s9QwHt+HnkA6/UToJ1xPQkXrPqbZv5di8WBMV6yRr2IsZ6fOpGOj6YietyOeWH+jGfHEnZqD2vdh+8xtVMgaxsZ6JwMDIboFM4jOHdWCMqwHk/+i4JRMDm8/hKFf1bLsTXAztocMQc1mYLnbSVppxUdoV6APTV2lmRUX2XSxtDd2OGoSY0mv6VD1Iy2BxXSUn6+WvwEYZeOhZDPQcaOetNNgcxCf0bqJ3MxhcsP4Rl4G3eyVbtMg13bAS5b64TeKEnP1fdaV/6oo=;v4XbMZkME1K9s9m75q6Jlg=="
+secured: "QhzaJZdqvfoExeveYCju4L9rDtKFSmO997Gq1zDfktbvX16+wyWZ3AxvoEKdJJe3WFJEs+9ec4mG4/7EDDNRa9tdWQVVr9L+Yd9M6k2FAdTNPMUKqouP1FAvYvmQJq4bXjncIH/uk4Uoe82cUoTDNrG0FuxLd84CP8Of31eNDdRddIGBr5qpjy7X1HAENuWdSi2WLg02hkpYDfBbkYqBGXEqW2kF32XSB9N8fZM5mCawgcAPnUHFy2+yMiGt2ohZyRq/QIqrtiDnl/vYLER49zTyvOWrhTMWWLHmwHn2Vd+l7lsUyJ19A3Qe4SxBdIoVZLAs208Ed9VpWYE69VY9KU67gjh8VDP/V17a8AuhN0srWRwkef0gRaiZpLmvpFfhGDhhBGK1oGWRW755V4c64MMfLG7duux6AI19kJpIhlL4L7wx/mX2pKK6WYox59Ml0WpBm2IKaKuIFq0SCT2/m33ITILAj+3O5C7uSUQlEQnocQYOkqkK2KekaiN6Iu0a9CJnZ+GBvegQULh8WlyHsA==;I9Y0xMIeG+fN2GR8uZ1cYw=="
 ---
 

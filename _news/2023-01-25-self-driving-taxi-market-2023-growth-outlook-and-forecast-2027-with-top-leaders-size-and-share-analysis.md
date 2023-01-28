@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing (NLP) Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
-    excerpt: "Healthcare Natural Language Processing (NLP) Market Size is projected to Reach Multimillion USD by 2029, In comparison"
-    publishedDateTime: 2023-01-23T10:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
   - title: "Artificial Intelligence Voice Market (New Reporgt) 2023 Overview By Recent Opportunities, Growth Size, Regional Analysis and Forecasts To 2027"
     excerpt: "Global Artificial Intelligence Voice Market 2023 | New Report (125 Pages) | Research Report Provides Size, Share,"
     publishedDateTime: 2023-01-25T05:00:00Z

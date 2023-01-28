@@ -95,20 +95,6 @@ related:
         width: 750
         height: 530
         isCached: true
-  - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
-    excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
-    publishedDateTime: 2023-01-23T10:21:00Z
-    webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 53
-    images:
-      - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Learning to lie: AI tools adept at creating disinformation"
     excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda. When researchers asked the online AI chatbot ChatGPT to compose a blog ..."
     publishedDateTime: 2023-01-24T15:03:00Z
@@ -144,6 +130,6 @@ related:
       domain: inquirer.net
     quality: 17
 
-secured: "0sPdfgLum63N2zCbPOIJtZ6f3V+2EgcuAY5CUY7yQgrh0nFLHHroxl7e8ZMCC3Lbbd0aZL39DSPTqdZMkw3NLsSUzhTLI6tT86lYf4+Zk1DyjK+PohRNEfq5b6ay9poTSgM2SN2Qx0NIE5eRZ0+aBTvw+v6ZbRSAuSniHW1/3BahoLQv7/r/UAHKMtzcZLdSNBCwGxVV/iiqCEr23SZym682Qc6i59gbK2FL5pxbaL4c8tTxWGZltHpLsmGmLfcWQ4vundaG5bt0H3YXBYKRfqSTT1rRtD1oodnIyU0JuBpl75GHA1CAMVxxNAhkHH/dyIdnnqZNOpJygPGB3GfKyitHqyRw10nVNAS+ip1gh4U=;PErUIKX9wYM6n4rMQXeMEA=="
+secured: "Asw8j68z3jriE1KXB8zH5MCkpXxBxZbu6G3sN7p8/4TX/947Bm6irmVgbsb5Krw2rrgCQGN8AzSs5UwV7RxjL9DMu/3ijYR+AbDo5XcFt+CBgzjQBSzH3XqHxtrch7VV6GROzkuoAZo22gxPKpIfJE+09kPl+yJx2H0y9My8XCSuZj7siKx1RMDnFaxDBGlxU0A1rIBN0MqDNpui2SZ1qByI703GGFypiJXVMEsA3bliG01VfPs30A/P2uiYb5pfx200F+M27SxH1Sw1t1VZBX1Pxhwd6/qW4GlOpBwsrFXV0fk7JplTIGRDZVMLzistbSaLJs/4v0OsXd0IFMj9FaUVn0J3zAGl0jIVBCfONDk=;T4BBLcv7ktJPZvnKlhjOsg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 54
-  - title: "Software Testing, Artificial Intelligence and Machine Learning Trends in 2023"
-    excerpt: "Technology has taken significant leaps within the last few years, introducing advancements that have taken us further into the digital age — impacting the software testing industry and we're seeing advances in machine learning,"
-    publishedDateTime: 2023-01-23T10:21:00Z
-    webUrl: "https://www.infoq.com/articles/software-testing-ai-ml-2023/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 53
-    images:
-      - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Learning to lie: AI tools adept at creating disinformation"
     excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda. When researchers asked the online AI chatbot ChatGPT to compose a blog ..."
     publishedDateTime: 2023-01-24T15:03:00Z

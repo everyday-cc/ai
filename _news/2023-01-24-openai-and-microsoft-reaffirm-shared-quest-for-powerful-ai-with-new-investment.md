@@ -47,38 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Is Aggressively Investing In Healthcare AI"
-    excerpt: "On the clinical front, Paige’s AI tools enable advanced diagnostics in the lab with computational pathology, which can be leveraged to identify complex tissue patterns. On the pharmaceutical front, the company’s tools offer new ways to identify and analyze tissue biomarkers,"
-    publishedDateTime: 2023-01-23T09:59:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/01/23/microsoft-is-aggressively-investing-in-healthcare-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ce1dbef798d5bde6766ebe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 829
-        isCached: true
-  - title: "Microsoft Integrates OpenAI AI tools in Workplace Emails and Spreadsheets"
-    excerpt: "With Azure OpenAI Service now generally available, more businesses can apply for access to the most advanced AI models in the world,” the announcement states. This allows companies to integrate AI capabilities into their products and services to improve efficiency and automate their processes."
-    publishedDateTime: 2023-01-23T09:52:00Z
-    webUrl: "https://www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/"
-    ampWebUrl: "https://www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/23/microsoft-integrates-openai-ai-tools-to-its-products/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 103
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/01/microsoft-integrates-openai-ai-tools-to-its-products.jpeg"
-        width: 1067
-        height: 600
-        isCached: true
   - title: "Microsoft invests billions in artificial intelligence startup OpenAI"
     excerpt: "Microsoft says it is making a \"multiyear, multibillion dollar investment\" in the artificial intelligence startup OpenAI, maker of ChatGPT and other tools that can write readable text and generate ..."
     publishedDateTime: 2023-01-23T18:41:00Z

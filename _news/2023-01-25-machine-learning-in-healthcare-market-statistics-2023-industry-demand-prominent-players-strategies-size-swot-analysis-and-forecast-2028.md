@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing (NLP) Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
-    excerpt: "Healthcare Natural Language Processing (NLP) Market Size is projected to Reach Multimillion USD by 2029, In comparison"
-    publishedDateTime: 2023-01-23T10:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2023-01-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
   - title: "Self-Driving Taxi Market 2023: Growth Outlook and Forecast 2027 with Top Leaders, Size and Share Analysis"
     excerpt: "A self-driving taxi or a driverless taxi is an autonomous car (SAE Level 4 or 5) operated for an e-hailing (on-demand mobility) service. The fact of eliminating the need for a human chauffeur, which represents a significant part of the operating costs of that type of services,"
     publishedDateTime: 2023-01-25T05:31:00Z

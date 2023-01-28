@@ -206,20 +206,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Google Sparrow: an AI to compete with ChatGPT"
-    excerpt: "In response to the danger posed by ChatGPT, Google is preparing its response with its own artificial intelligence. Created by DeepMind and called Sparrow, it must provide reliable and sourced answers while respecting certain limits."
-    publishedDateTime: 2023-01-23T09:44:00Z
-    webUrl: "https://ccm.net/apps-sites/apps/10537-google-sparrow-an-ai-to-compete-with-chatgpt/"
-    type: article
-    provider:
-      name: CCM
-      domain: ccm.net
-    quality: 39
-    images:
-      - url: "https://img-19.ccm.net/qwqEGEzCpLozPL_ebL4CAn17Nr8=/1500x/smart/ef073b86da5c481a9f72a8a07969c7fd/ccmcms-enccm/39469876.jpg"
-        width: 1500
-        height: 1326
-        isCached: true
   - title: "Comment: Don’t blink; AI like ChatGPT is improving quickly"
     excerpt: "The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017. What will the next half-decade bring? Can we rely on our current impressions of these tools to judge their quality,"
     publishedDateTime: 2023-01-25T08:30:00Z
@@ -317,6 +303,6 @@ related:
       domain: thenewstribune.com
     quality: 12
 
-secured: "qP5V2bfKMaUIQzSvTHz/j8cjnlrCkA8fRPVVx0RMVs7BM42C37Y/tofrU5+eyAV6HMJPEM4QcbUnCD9Dx/J/NQewbh1wJFh4Z1C/Hx7GXh/1eRzzMrI/ZNK1mkavn91obAu+WC054Cj0PVV2ajLC/eSaXNElzcYwneGsW7NrdBWLZGv76p0g04dMUM5jRcy5xNr3KJEl/MeqmYkk52Eq6UzIofG+Ypdg53dP2wl8Dn5bm7DwFPtgHwtxkrZgSdo039Pmj1E4XY2mxfBZRBZzJCE64MyljPryfUjnvYtWQ1RmCSLlKcb3yGArgpu3ZXTvsLlv9apwLqfKKCyUHA+AP+kDyI0ksv0zOrV5W6MO3uM=;Ned6+HXaLr9CCozXlofpfw=="
+secured: "2jAAYLBgt2rwTF3DUntsrSmYM1sI7bSf7pnpzrv4MKlCBGlkiuBxdc4NOkCKhIlELxwqVw9EL6EYqPHVyzDjletxPJyg9/IfqoDy+pe6FXp+ee9WRVM384+mrO26OdHGdwaPfIHQyPRjUajgGI0kPUee5HpWqvtKEPR3eOy3bonldBgerHpISCwv87fBsJB4QOFDjCM5I00vpu/UBFRTrD6LYDeOwN0MA2fAJB5Gr0MMAqCCOPofHnXyRPbHnS5einkhtg8eywFaSlG6XPiCVAOkm81ofjbYb+bJ2xnVa9c3agaLYR81WNViebxkucCvLu56v11716Hm5ZQV1I/JTzXiZozDlafxwzUbhVnigeUYjnPnLIskg7BM9M+p2rhtH+Xan81EVWJXUUuN9h6NR/bVPB5nTU9MUFd//K/Mj7c0Zbl4W95914o7DCbg6HwlxhIxwpGtGY1hSriBJZz7P84tAv2Y/YqSfjw49JH9GD9z9Plz/gr/eQ21VzgOD/J05hALXNlDuuedg8ddNA4vJw==;J60MUwgYzXXwzP7BPCqc7g=="
 ---
 
