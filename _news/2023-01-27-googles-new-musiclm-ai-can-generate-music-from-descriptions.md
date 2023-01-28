@@ -7,7 +7,7 @@ originalUrl: "https://www.thelineofbestfit.com/news/googles-new-musiclm-ai-can-g
 webUrl: "https://www.thelineofbestfit.com/news/googles-new-musiclm-ai-can-generate-music-from-descriptions"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1200
     height: 798
     isCached: true
+
+related:
+  - title: "Google created an AI that can generate music from text descriptions, but won’t release it"
+    excerpt: "Google has created an AI system that can generate songs given detailed text descriptions. But it won't release it for fear of the risks."
+    publishedDateTime: 2023-01-27T19:54:00Z
+    webUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/"
+    ampWebUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/01/CMC_4141.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google develops new AI system for generating high-fidelity music"
+    excerpt: "Google LLC researchers have developed an artificial intelligence system that can generate high-fidelity music based on a text description provided by the user. Google detailed the system in a Jan. 26 research paper spotted today by TechCrunch."
+    publishedDateTime: 2023-01-27T22:12:00Z
+    webUrl: "https://siliconangle.com/2023/01/27/google-develops-new-ai-system-generating-high-fidelity-music/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/IMG_3819-800x533-1-3.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Mqt6OfTbv5PQCiXPoH+08IJmdFgadbnG809Xp7XB+j247jCKP/xf8v7BI0ppCtrPb+naLrVd8n5jLwDtkoyZ1DxJmbDNgOnjvGxPeujFg+aK91TGTEn4dxuYKmOk6sfc3PkWz66jcXGzkMs/al8Ix1n28aHfhgklikl+Hfy/FoflhxEs7/36TkYy9+imxIBcLplVkSttkWoOAiLcwlrHX1FDLgLYSsgmVv8Zt5FvKqHlfZG3j3e9gEXSkI55UvzSoO76RhXuuBwL8JJ/wadolnPoTlXfPQXwFdYEGO2kLt4mPsK+FS9ZyS8UktnBuxyD7Iz6gtKX7R/NlffzAzbWIm4ShV05KWa9ahz2bVQsANw=;OTsy6hTmb6rakTpH2BZWjg=="
 ---

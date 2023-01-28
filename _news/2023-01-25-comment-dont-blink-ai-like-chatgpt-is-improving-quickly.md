@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
+    excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
+    publishedDateTime: 2023-01-28T11:40:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/63d43770fc18470019552b4d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
     excerpt: "ChatGPT is a revolutionary new artificial intelligence which has passed a law exam and is replacing white collar workers - with one expert saying 'the wolf is at the door'"
     publishedDateTime: 2023-01-27T12:56:00Z
@@ -173,20 +189,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/4440f30/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F73d%2Fbe88c4e651db4a7dbe102614d7272948%2F73dbbb4f96c9442fb8acea91b1291369%2Fposter_e2d6c1c76943401495237f98e60521cf.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Will ChatGPT, artificial intelligence replace financial professionals any time soon?"
-    excerpt: "Will artificial intelligence replace financial advisors or insurance agents anytime soon? The consensus is that it won’t in the near future, but AI can provide some assistance and a little bit of fun in the meantime."
-    publishedDateTime: 2023-01-23T19:12:00Z
-    webUrl: "https://insurancenewsnet.com/innarticle/will-chatgpt-artificial-intelligence-replace-financial-professionals-any-time-soon"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 34
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2023/01/MicrosoftTeams-image-106-900x472.jpg"
-        width: 900
-        height: 472
         isCached: true
   - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
     excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."

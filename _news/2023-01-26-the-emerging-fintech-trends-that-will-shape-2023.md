@@ -206,15 +206,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
-    excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
-    publishedDateTime: 2023-01-23T19:30:00Z
-    webUrl: "https://financialit.net/blog/fintech/look-top-six-fintech-trends-uk-2023"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 4
   - title: "African fintech revolution leads the way for healthtech"
     excerpt: "When combined with AI, it enables the delivery of predictive diagnostics in various pathological fields anywhere, even in the most remote locations. Healthtech can be as successful as fintech, especially when innovation is applied in ways that solve pain ..."
     publishedDateTime: 2023-01-27T08:27:00Z

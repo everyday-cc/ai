@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/alphabet-owned
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/edmontonsun/wp-content/uploads/2023/01/google-vw0124.jpg?quality=100&strip=all"
         width: 1000
         height: 750
+        isCached: true
+  - title: "Alphabet’s DeepMind lays off some staff, closes Canadian office"
+    excerpt: "Alphabet’s research lab DeepMind will close its Edmonton, Alberta outpost and lay off some operational staff in the UK, part of the tech giant’s recent program of cost cuts"
+    publishedDateTime: 2023-01-25T01:51:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/alphabets-deepmind-lays-off-some-staff-closes-canadian-office-11674569795310.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/alphabets-deepmind-lays-off-some-staff-closes-canadian-office/amp-11674569795310.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/alphabets-deepmind-lays-off-some-staff-closes-canadian-office/amp-11674569795310.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2023/01/24/600x338/Google_4C--621x414_1674569949220_1674569949220.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Alphabet's DeepMind lays off staff, closes Edmonton office"
     excerpt: "Alphabet Inc.’s research lab DeepMind will close its Edmonton, Alta., outpost and lay off some operational staff in the U.K., part of the tech giant’s recent program of cost cuts. The artificial intelligence unit has decided to close down the Canadian ..."
@@ -168,6 +184,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Ebnsocg/VFdsPRgAq0hv7CTCLssZ5Yz7nFRc7qyW8SLQRI9JcifmA1nOOjnoPixyhUiS+00SIQf0VxpNOYkZW8OlAnmWj+G9H3ETXv1iS3kq5qJNNBu69IZTvZ5jUNibd/uaZeDHWXBoWdR7KcgEkzuUvGPCeAKLpsQhOJLtzTWQ4R1EQNm1Ur3cH98HmMjTkHBrDadgNO+5a4FMmoqfz2/vC7b3sYfgVawQPZNpMN3ueRNg/HtHywAFe5KkAYUlQBcYXydWYUt8UAeWpdMzVSPR8XBZIOm/EXjUdoauALhpT/BL4TiPY7u5yCnGYhRB0DyBSx/b1v6ELgOX1lpk3FMTfxFnYk1bVZLBs5LW5/w=;lO5ELJ6BBUk9m2oXUy/uTw=="
+secured: "soULOXq4E15dMbDs2dlHzOT05BjVwgxh4HDFPYQC9kNC2OSoBtsVZ+buTLu9gqsh7GESiQCW7nVcFmIuZ3MxeT5VrNK5DkRINyVDkxw2PS22M8xnsKHMmta00Uq3Iy4W0q94ySrwGzz3W+GRaiUn1i4HW3MU5SazFmSDIWGXmpgDm3jxB0qsTfvk4arnLug/uii/3I1c1ZDXmspajNrCUCg1R53jlvCu9YjMzPlSHXEXwDhDmUBeazJJjorYUSSXuRXjaNjwuZrAUw/xLGhY3gwjYj+ZSYSLKeED9+4mgsbQM6uuGbQiIsi7Iw/vsLsSbkHkCLAE5OL5QiDs2Rd10j6Gisgdt7oATSkB9Fww+EE=;zI7VP3lACG7DV+cE7it2/Q=="
 ---
 

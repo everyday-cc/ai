@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "NemaLife develops second-generation, AI-driven high-throughput organism-on-chip screening platform"
-    excerpt: "The first generation of our organism-on-chip technology primarily addressed ... we have integrated multiple machine vision cameras, real-time AI-based object detection, and new software tools ..."
-    publishedDateTime: 2023-01-25T12:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30565617/nemalife-develops-second-generation-ai-driven-high-throughput-organism-on-chip-screening-platform"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30565617"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30565617"
+  - title: "Google created an AI that can generate music from text descriptions, but won’t release it"
+    excerpt: "Google has created an AI system that can generate songs given detailed text descriptions. But it won't release it for fear of the risks."
+    publishedDateTime: 2023-01-27T19:54:00Z
+    webUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/"
+    ampWebUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 78
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://techcrunch.com/wp-content/uploads/2023/01/CMC_4141.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google's new MusicLM AI can generate music from descriptions"
+    excerpt: "Google is testing a new AI model called MusicLM, which can generate \"high-fidelity ... The description adds, \"To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text descriptions provided ..."
+    publishedDateTime: 2023-01-27T10:55:00Z
+    webUrl: "https://www.thelineofbestfit.com/news/googles-new-musiclm-ai-can-generate-music-from-descriptions"
+    type: article
+    provider:
+      name: thelineofbestfit.com
+      domain: thelineofbestfit.com
+    quality: 39
+    images:
+      - url: "https://optimise2.assets-servd.host/best-fit/production/images/vinyl-spines-headphones-blocks-unsplash.jpg?w=1200&h=798&q=100&auto=format&fit=crop&dm=1673007337&s=5b30c5011672efc9f41cff26da1c7140"
+        width: 1200
+        height: 798
         isCached: true
 
 secured: "n8Sd01+kFQBzt5VgFo4hGceZqpmrcSSFptW4LC+jL42e/wntsOrRaf8+oGPWhuFzVdsTR4QzI8lCTTVZV8E4xhgKtxH1AGMJC0EYyM1cx4TC3CbGfsY9bkhsN6GdcmH1ZLkYKrMgwQFT29tQ05w28eM9ClGDgLtM4OSkQreDe3zuqQEVtDyQhCLJ32f1VQvf08NtCzgM+x9JYbqP6gWG5JguZiL3nC486AmOvTF6IT5nEOnNMGJ1a+QUQMqKT/Tsf17oUIB75LKX/LfQKlRrs8sMR293IRzxqQVF/4We4q/qDwjA2I4btSmTyKQJdd1H9j/0fgPcFlfnt9vqpqn+8SrEUVWJN5CBj8YvbkdPp4qGkMW/l2tIalTXX7//JXRvNcwDBBKTHJTCbDbFm1XzhuDABI+9S5uiqNIXu+EJP8Q7cox/oNf0YOh45ru5Vma8UvLkMfKT3/S0JgA/EKRrQiLOSuCrgSj7vvEgiVo06K1CcznxlEYKVhj4Gmy9ldv5LivHVMx6k/11BCeELeU1kw==;T414rFNQM9YXbOtA+1vJUA=="

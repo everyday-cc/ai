@@ -47,6 +47,29 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Microsoft Q2 Results: Approach Azure And AI Hype With Caution"
+    excerpt: "Microsoft posted solid Q2 results by topping guidance in nearly each segment, and restoring faith in Wall Street's visibility of Azure. Satya Nadella's vision and execution have been second-to-none, and while AI is in its infancy, early practical use cases ..."
+    publishedDateTime: 2023-01-26T12:30:00Z
+    webUrl: "https://seekingalpha.com/article/4572522-microsoft-q2-earnings-approach-azure-ai-hype-caution"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 69
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341937940/image_1341937940.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Microsoft's AI push has some analysts raving about the stock even after lackluster earnings"
+    excerpt: "Microsoft 's earnings report earlier this week was largely considered dissatisfying to analysts. But the tech giant's focus on artificial intelligence, or AI, is keeping many on Wall Street optimistic."
+    publishedDateTime: 2023-01-26T17:17:00Z
+    webUrl: "https://www.cnbc.com/2023/01/26/microsofts-ai-push-has-some-analysts-raving-about-the-stock-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 54
   - title: "Despite revenue miss, Microsoft shares climb on hopes for improved cloud performance"
     excerpt: "The software and cloud giant reported slightly better than expected revenues in its Intelligent Cloud business on overall revenues that came in barely below analysts’ estimates. Fiscal second-quarter earnings fell 12% from a year ago,"
     publishedDateTime: 2023-01-24T23:30:00Z

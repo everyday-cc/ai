@@ -55,7 +55,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 36
+    quality: 38
 
 secured: "1x+7uiSry1BZ7DX/6oh1DMdV9mQlwtt9VNG0wXSYiSGCKumlrBwRhEGcRUdRrJXLgqwZGdGiZz3Fr9iVN34on46CCYTDB3vrf2L0Yx7fxGZ9Fx66oXbVRPtfsm7EqCpy1iQDGRBdL7CiNOdAZS8AtE+HNLhlXOl1LhX/O9BfE+pmfc3MABlVWt927ZU5kGxoRN9lROziE3QYyMu64zh4tPHSI1mqg50EgwpBoECC9crXiElZ/bfVfLDYizlzpUC+wNTW7L/AjA7/zGIQflMyFkmekSECqZl6jtUVdzX/fxg2LUGxHzV/NUCRKEFvcq0GcG+Qpmpv4YBtv+PZTTcGpeDvLSKhG6oNjTNkBXAId4+2uOcHXY6cURnkc/H9PopwyAMrKDjvNJznN3fzMCR4DtvEzx0cLWVT2Qp+YB14elgvuuOnKH5CTvt33SPCoJ2bEAxBEbMCmdIk9930yajxQekG2T9q/x6ecJE4iH1kgfR5m2Xb9qDA1dHCohUjo+Dl/d56dKw4kZv54aIaEDnv0Q==;sZXY6TxelEOuwHG4mlOwnA=="
 ---

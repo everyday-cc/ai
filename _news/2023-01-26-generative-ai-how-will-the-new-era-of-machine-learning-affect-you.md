@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-26T03:31:00Z
 originalUrl: "https://www.ft.com/content/1e34f334-4e73-4677-9713-99f85eed7ba0?sharetype=blocked"
 webUrl: "https://www.ft.com/content/1e34f334-4e73-4677-9713-99f85eed7ba0?sharetype=blocked"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI in Finance
 
 related:
   - title: "Unlock The Potential Of Generative AI: A Guide For Tech Leaders"

@@ -9,7 +9,7 @@ ampWebUrl: "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-sho
 cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 707
         isCached: true
-  - title: "Futurism: CNET’s AI articles show evidence of plaigiarism"
-    excerpt: "A Futurism investigation found extensive evidence that the CNET’s artificial intelligence-produced stories show phrasing similarities to articles previously published elsewhere, without giving credit,"
-    publishedDateTime: 2023-01-23T20:35:00Z
-    webUrl: "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plaigiarism/"
-    type: article
-    provider:
-      name: Talking Biz News
-      domain: talkingbiznews.com
-    quality: 19
   - title: "CNET’s AI-Generated Articles Riddled With Plagiarism"
     excerpt: "CNET has dug itself into an AI-generated pit. Earlier this month, the tech-focused website was caught quietly publishing AI-generated articles without disclosing the development to readers. Then, the site was embroiled in potential legal trouble when it came to light that a multitude of errors and plagiarism were discovered in the bot’s work by another tech outlet,"
     publishedDateTime: 2023-01-24T01:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/science/1726226/nhs-waiting-lists-bac
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1726226/nhs-waiting-lists-backlog-ai-robot-machines-coding/amp"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

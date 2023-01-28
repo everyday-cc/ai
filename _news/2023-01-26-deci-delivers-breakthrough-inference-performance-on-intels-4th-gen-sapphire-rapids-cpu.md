@@ -36,7 +36,7 @@ related:
     provider:
       name: Computer Weekly
       domain: computerweekly.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg"
         width: 1200

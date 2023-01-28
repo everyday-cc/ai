@@ -83,6 +83,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Alphabet’s DeepMind lays off some staff, closes Canadian office"
+    excerpt: "Alphabet’s research lab DeepMind will close its Edmonton, Alberta outpost and lay off some operational staff in the UK, part of the tech giant’s recent program of cost cuts"
+    publishedDateTime: 2023-01-25T01:51:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/alphabets-deepmind-lays-off-some-staff-closes-canadian-office-11674569795310.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/alphabets-deepmind-lays-off-some-staff-closes-canadian-office/amp-11674569795310.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/alphabets-deepmind-lays-off-some-staff-closes-canadian-office/amp-11674569795310.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2023/01/24/600x338/Google_4C--621x414_1674569949220_1674569949220.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Alphabet's DeepMind lays off staff, closes Edmonton office"
     excerpt: "Alphabet Inc.’s research lab DeepMind will close its Edmonton, Alta., outpost and lay off some operational staff in the U.K., part of the tech giant’s recent program of cost cuts. The artificial intelligence unit has decided to close down the Canadian ..."
     publishedDateTime: 2023-01-24T17:30:00Z

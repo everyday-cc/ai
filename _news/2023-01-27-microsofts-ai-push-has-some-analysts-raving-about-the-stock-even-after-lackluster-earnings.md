@@ -23,37 +23,33 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Seamless Checkout, AI, Robotics News From Microsoft, Google, Brain Corp And More At NRF 2023"
-    excerpt: "Vice President and Principal Analyst Melody Brue looks at some of the companies and products showcased at NRF 2023 that maximize the three pillars of an excellent shopping experience."
-    publishedDateTime: 2023-01-23T20:50:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/"
+  - title: "Biomedical Research Platform Terra Now Available on Microsoft Azure"
+    excerpt: "We stand at the threshold of a new era of precision medicine, where health and life sciences data hold the potential to dramatically propel and expand our understanding and treatment of human disease."
+    publishedDateTime: 2023-01-25T14:30:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ceffd2b891403906766ec0/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/01/Terra_TW_LI_FB_with_logo_1200x627.jpg"
         width: 1200
-        height: 800
+        height: 627
         isCached: true
-  - title: "Microsoft says cloud demand waning, plans to infuse AI into products"
-    excerpt: "Cloud revenue growth has been slowing quarter-on-quarter for the Windows maker, which expects the growth to continue to decline through the year."
-    publishedDateTime: 2023-01-25T06:45:00Z
-    webUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.html"
-    ampWebUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
+  - title: "Microsoft erases gains after saying Azure growth will slow down"
+    excerpt: "Downbeat forecast brings focus back to software giant’s challenges as corporate customers rein in spending. Read more at straitstimes.com."
+    publishedDateTime: 2023-01-25T07:22:00Z
+    webUrl: "https://www.straitstimes.com/business/microsoft-profit-beats-estimates-on-strong-cloud-performance"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 69
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/10/10/cso_microsoft_cloud_app_security_cloud_apps_by_thinkstock_625397192_3x2_1500x1000-100801369-large-100934412-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/25/2023-01-24T165211Z621949402RC23XY9X083BRTRMADP3MICROSOFT-RESULTS_4.JPG?VersionId=nIpg3gnXYt.LO4UBD7_B6wHnErn3r8xI"
+        width: 860
+        height: 573
         isCached: true
   - title: "Microsoft Q2 Results: Approach Azure And AI Hype With Caution"
     excerpt: "Microsoft posted solid Q2 results by topping guidance in nearly each segment, and restoring faith in Wall Street's visibility of Azure. Satya Nadella's vision and execution have been second-to-none, and while AI is in its infancy, early practical use cases ..."
@@ -69,153 +65,29 @@ related:
         width: 1536
         height: 1024
         isCached: true
-  - title: "Unpacking Microsoft’s Earnings and the Future of AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips “Write a newsletter about Microsoft’s second-quarter earnings for"
-    publishedDateTime: 2023-01-27T21:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-and-future-of-ai-1032047671"
+  - title: "Despite revenue miss, Microsoft shares climb on hopes for improved cloud performance"
+    excerpt: "The software and cloud giant reported slightly better than expected revenues in its Intelligent Cloud business on overall revenues that came in barely below analysts’ estimates. Fiscal second-quarter earnings fell 12% from a year ago,"
+    publishedDateTime: 2023-01-24T23:30:00Z
+    webUrl: "https://siliconangle.com/2023/01/24/despite-revenue-miss-microsoft-shares-climb-hopes-improved-cloud-performance/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "Microsoft attracting users to its code-writing, generative AI software"
-    excerpt: "Microsoft Corp on Tuesday aimed to assure investors that its big bet on artificial intelligence (AI) is paying off, even as economic turbulence is making Microsoft customers scrutinize their cloud spend."
-    publishedDateTime: 2023-01-24T23:52:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-attracting-users-its-code-writing-generative-ai-software-2023-01-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-  - title: "Microsoft adding to its AI ambitions; Musk is back on the stand in trial over Tesla tweets"
-    excerpt: "Microsoft’s supercomputers are helping to power the startup’s energy-hungry AI systems, while the Redmond, Washington-based tech giant will be able to further integrate OpenAI technology into Microsoft products."
-    publishedDateTime: 2023-01-23T21:00:00Z
-    webUrl: "https://www.postandcourier.com/microsoft-adding-to-its-ai-ambitions-musk-is-back-on-the-stand-in-trial-over/article_8e22063a-9b34-11ed-805b-cf740dd5cedf.html"
-    type: article
-    provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 61
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/b2/8b2190be-0797-58e0-b464-0d886370f09e/63cf009fdc3bb.image.jpg?crop=1670%2C877%2C0%2C182&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
+        width: 1152
+        height: 768
         isCached: true
-  - title: "Microsoft says AI will be as important as the invention of the PC and internet"
-    excerpt: "In the company's blog post, Microsoft described the investment as the \"third phase of our long-term partnership\" with OpenAI, promising to advance the technology and make it available to everyone globally."
-    publishedDateTime: 2023-01-24T14:11:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-says-ai-will-be-as-important-as-the-invention-of-the-pc-and-internet"
+  - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
+    excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
+    publishedDateTime: 2023-01-26T14:00:00Z
+    webUrl: "https://www.theinformation.com/articles/microsoft-readies-service-to-let-cloud-customers-pool-data-safely"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 60
-  - title: "Microsoft and OpenAI enter third phase of AI acceleration partnership"
-    excerpt: "Microsoft has announced a new multi-billion dollar investment in OpenAI, extending their partnership to accelerate AI development"
-    publishedDateTime: 2023-01-24T10:15:00Z
-    webUrl: "https://www.information-age.com/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-123501236/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-scaled.jpg"
-        width: 2560
-        height: 1703
-        isCached: true
-  - title: "Microsoft & OpenAI Extend Deal To Make AI Accessible To Everyone"
-    excerpt: "Microsoft to extend multi-billion dollar investment in OpenAI to speed up development, democratize AI and make it accessible to everyone."
-    publishedDateTime: 2023-01-23T20:42:00Z
-    webUrl: "https://www.searchenginejournal.com/microsoft-openai-extend-deal-to-make-ai-accessible-to-everyone/477113/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 54
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-openai-partnership-63cef0f3cd13b-sej.png"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Amid layoffs, Microsoft extends billion-dollar AI partnership"
-    excerpt: "After announcing that the layoffs of thousands of employees were on the horizon, Microsoft announced it’s extending its partnership with an artificial intelligence service, OpenAI. OpenAI is a startup that’s behind art-and-text generating AI systems like ChatGPT,"
-    publishedDateTime: 2023-01-25T00:12:00Z
-    webUrl: "https://rollingout.com/2023/01/24/microsoft-artificial-intelligence-ai-partnership/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 54
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/01/MicrosoftOffice-scaled.jpg"
-        width: 1566
-        height: 1080
-        isCached: true
-  - title: "Microsoft expects slower Azure growth"
-    excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
-    publishedDateTime: 2023-01-25T16:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/01/26/2003793152"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 54
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/01/26/P05-230126-312.jpg"
-        width: 866
-        height: 577
-        isCached: true
-  - title: "Microsoft and OpenAI extend partnerships in AI supercomputing and research"
-    excerpt: "Microsoft has extended its partnership with OpenAI for the third time as the agreement follows previous investments in 2019 and 2021."
-    publishedDateTime: 2023-01-24T14:27:00Z
-    webUrl: "https://yourstory.com/2023/01/microsoft-and-openai-extend-partnerships-ai-azure-satya-nadella"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 52
-    images:
-      - url: "https://images.yourstory.com/cs/1/2745082002f511eaaae56760054455e0/Imageyqxh-1595863630136.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Microsoft doubles down on healthcare AI investments"
-    excerpt: "Microsoft is doubling down on its healthcare artificial intelligence investments with two new partnerships. The first partnership the company inked this year was with AI-powered pathology company Paige."
-    publishedDateTime: 2023-01-24T15:29:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-doubles-down-on-healthcare-ai-investments.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
-  - title: "FirstFT: Microsoft’s big bet on AI"
-    excerpt: "Also in today’s newsletter, China official says holiday travel is low risk and ex-FBI agent charged over Deripaska ties"
-    publishedDateTime: 2023-01-23T21:54:00Z
-    webUrl: "https://www.ft.com/content/2de6a50d-2df0-4369-95a1-aeae34720ecc"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Microsoft Earnings Call: New-Business ‘Slowdown,’ Big AI Bets"
-    excerpt: "Microsoft CEO Satya Nadella used the 2Q earnings call to talk about business growth deceleration, OpenAI, Teams and other topics."
-    publishedDateTime: 2023-01-25T14:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-call-new-business-slowdown-big-ai-bets"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
-  - title: "Why is Microsoft putting billions of dollars into an Artificial Intelligence chatbot?"
-    excerpt: "Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI. Show more Microsoft has announced a multi-year, multibillion dollar investment in artificial intelligence (AI) as it extends its partnership with OpenAI."
-    publishedDateTime: 2023-01-24T01:45:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/w172ydq97sfhqn7"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 27
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
 secured: "asm5He4sU3DyEd7gXB+L2kmIOiZh0LTIPE2EqqJRuJ5XVqNk1dBKfAD3cRomX9fxiQmddONOmdzkpQR40mVEiI3l2V1EIfav7F+FWLfGSv7ZWpjQjZ+GiMHNkGUDedLsk/LkAdIry8/kinciyCUETEydx7Vz9KQgRM+oIO4vvxk9PJAZmSiJz1sQiNOEVp7gZjs4uOejQ3ei7Dc8M4lNj1rjTyKeZRB3/XzcJCwYuopfjcSaHaKSoMvIuJdXnKy3ftd0B0Xg1QwDchxZH40NoXOxDx8TlKoNAWSsOXLCEDiKtyB3SWbsh7HWwFbyjnb3+vVmq1EtycSCedBG9ILSuFZSk42Tx/Z6S2vKWG0FcvxON0HPQ9VFvgzTiROBfr0SWi2i03JkvvrOHP44wl7Wcb8kEss/XjMhP8EqRXxU58UstHZcVfEfB4XdyS2c/AzmIExBLqPEzWWeMkVIPSjw5xAd3HVJ0/+cGg/1eqI/3Y9/6tHgy4y8kh9vlqhh/e9j0EgMwJY6nbKSHl2h5Ouw6g==;3OPsFiA96vY2UrC8ElVzVA=="
 ---

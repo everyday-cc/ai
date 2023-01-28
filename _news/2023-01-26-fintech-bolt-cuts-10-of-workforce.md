@@ -198,15 +198,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "A Look at the Top Six Fintech Trends in the UK in 2023"
-    excerpt: "However, despite all these challenges, the UK fintech market has grown steadily and has provided businesses with ways to remain ahead of the curve and offer simpler, more accessible financial services."
-    publishedDateTime: 2023-01-23T19:30:00Z
-    webUrl: "https://financialit.net/blog/fintech/look-top-six-fintech-trends-uk-2023"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 4
   - title: "The Emerging FinTech Trends That Will Shape 2023"
     excerpt: "Here are some of the financial technology trends that I believe might be key in shaping the sector in this new year: Open-banking: open banking has been at the forefront of fintech trends for the past few years,"
     publishedDateTime: 2023-01-25T18:33:00Z
