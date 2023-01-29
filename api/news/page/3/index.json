@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-26-can-artificial-intelligence-crack-college-admissions.md",
+      "title": "Can Artificial Intelligence Crack College Admissions?",
+      "excerpt": "While the program is well equipped to pass even complex tests, it cannot be a substitute for innovation, creativity, and critical thinking—attributes that students are expected to showcase on the college admissions essay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
+      "originalUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d1786b06f7c970a36e3ae4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
+      "publishedDateTime": "2023-01-25T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-as-ai-booms-reducing-risks-of-algorithmic-systems-is-a-must-says-new-acm-brief.md",
       "title": "As AI booms, reducing risks of algorithmic systems is a must, says new ACM brief",
       "excerpt": "AI is booming, but a new ACM brief says ubiquity of algorithmic systems “creates serious risks that are not being adequately addressed.”",
@@ -200,7 +251,7 @@
       "originalUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -346,6 +397,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk.md",
+      "title": "Alphabet-owned DeepMind AI to shut office in Canada, lay off employees in UK",
+      "excerpt": "​“DeepMind has made the difficult decision to consolidate its Canadian offices and close the Edmonton office, while maintaining its other Canadian loc",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/articleshow/97320876.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/articleshow/97320876.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97321176,width-1070,height-580,imgsize-484019,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/amp_articleshow/97320876.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/amp_articleshow/97320876.cms",
+      "publishedDateTime": "2023-01-25T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -547,58 +641,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-25-new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027.md",
-      "title": "New Report on Artificial Intelligence (AI) Robots Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027",
-      "excerpt": "Latest Research Report 2023: A new Artificial Intelligence (AI) Robots market report provides up-to-date information",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-25-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies.md",
       "title": "How ‘killer robots’ can help us learn from mistakes made in AI policies",
       "excerpt": "Finally, it is critical to consider oversight mechanisms at the start ... “killer robots,” we should not lose sight of the danger that poor processes create when deploying AI systems.",
@@ -746,7 +788,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -972,6 +1014,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-25-alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton.md",
+      "title": "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton",
+      "excerpt": "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton (Reuters) - DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-tiny-ebiobots-use-leds-and-muscle-tissue-for-real-time-remote-control.md",
       "title": "Tiny eBiobots use LEDs and muscle tissue for real-time remote control",
       "excerpt": "Back in 2012, we heard about tiny biped \"biobot\" robots that used actual muscle tissue to walk. Well, the descendants of those bots are now equipped with LEDs, which allow them to be remotely steered in a practical fashion. Developed by scientists at the ...",
@@ -1118,92 +1203,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029.md",
-      "title": "AI In Medical Imaging Market is Set to Grow in forecast period 2029",
-      "excerpt": "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-ai-deep-learning-predicts-brain-tumor-growth.md",
-      "title": "AI Deep Learning Predicts Brain Tumor Growth",
-      "excerpt": "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
-      "publishedDateTime": "2023-01-24T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

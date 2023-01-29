@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Software Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "The Global Face Recognition Software market Report provides Detailed analysis on the market position of the Face Recognition Software Top players with stastical data, SWOT analysis, PESTAL analysis, latest developments across the globe."
+    publishedDateTime: 2023-01-28T09:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Report on Artificial Intelligence (AI) Robots Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027"
     excerpt: "Latest Research Report 2023: A new Artificial Intelligence (AI) Robots market report provides up-to-date information"
     publishedDateTime: 2023-01-25T08:06:00Z
@@ -44,35 +58,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
-    publishedDateTime: 2023-01-25T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
+  - title: "Face Recognition Systems Market Size Estimation, Share, Future Trends, Industry changing aspects CAGR, New Technologies and Forecast to 2029"
+    excerpt: "Global Face Recognition Systems MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market"
+    publishedDateTime: 2023-01-25T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-estimation-share-future-trends-industry-changing-aspects-cagr-new-technologies-and-forecast-to-2029-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Worth $8.95 Billion by 2030 - Exclusive Report by Meticulous Research®"
-    excerpt: "Redding, California, Jan. 26, 2023 (GLOBE NEWSWIRE) -- According to a new market research report titled, 'Artificial Intelligence in Drug Discovery Market by Offering (Software, Services), Application (Target"
-    publishedDateTime: 2023-01-26T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30586798/artificial-intelligence-ai-in-drug-discovery-market-worth-8-95-billion-by-2030-exclusive-report-by"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30586798"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30586798"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Artificial Intelligence Voice Market (New Reporgt) 2023 Overview By Recent Opportunities, Growth Size, Regional Analysis and Forecasts To 2027"
     excerpt: "Global Artificial Intelligence Voice Market 2023 | New Report (125 Pages) | Research Report Provides Size, Share,"
@@ -83,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
+    publishedDateTime: 2023-01-27T02:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-voice-recognition-system-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

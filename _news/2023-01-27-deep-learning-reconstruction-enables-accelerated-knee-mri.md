@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Deep learning reconstruction enables accelerated knee MRI"
-excerpt: "Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating internal derangement of the knee in a clinical setting,"
-publishedDateTime: 2023-01-26T19:10:00Z
-originalUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
-webUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.amp"
+title: "Deep Learning Reconstruction Enables Accelerated Knee MRI"
+excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ..."
+publishedDateTime: 2023-01-26T17:10:00Z
+originalUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
+webUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-reconstr.jpg"
-    width: 800
-    height: 600
+  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/89/a89d37bd-9579-50c1-b5d9-7aedd499602e/63d2ae37698fb.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "2MLL3m0cEfEelfzMeqP6FzTn5g2UTSgoJ2y5xcVQs4xHjqI0cHv4wlr5e3pQy6t0oFUsq2SQT/0xxuJV9dVPVfDvZQLPu+zzJcdusTV2BxC3rt6+aNcGOw/9vj/Loj82tO1ubd+GDrZVjatOlGhIp57GPebadul9IKQqaKQxB+EJLakjuK2XeEjPA6Gu8I7NyRYcnZfLdf94uIl29t+sTUloPQTpzYuiNA5MOHhnRFJbH5aq6IiVuyMGWJSf1AmyMtOSdtuDon5FJkU3TgC8UJ4lg6HsEQfJXmosx1S/LvT72+7bfCK0zxq5eKz8Ftz60cZ/1XNIBQ6yAHhOipjdh+ItZaxPMlCnbGuc6npBqJMJDNed1PdcBCciWWNYNxkfHNjZb7TTveX5CJYBm3NYlifl+bmAC+5kEuRa1fyPKCTHaqP+wDA72jm3s/JEU/O9Mlxwjxtw5ecqBou6GH7b8nkTJ1/q5DCfnOtFNL0xdgFRs/YSwp8gMBbuTII44ecI/owh3TB5SscDSWMex7n1jw==;IvwXJKJLBGDWyTKpLqnyyA=="
+secured: "iIsqIPSSOTxNEjrImja6yVmSxmAR14tKttAQs4LM66Zalc3ZFRB/u9O72O+k+L9mJqTTxHqAFy1DfKzkv9t+u2Gdghk+pvg8ALAYWDTf4iVBUMjC99JtdFnbdJyeX7Xm3C1oNMCHgJvK0N/pMuVOXWI5BruKbdQEHaw7dvkHDLT0yweHpsdaMKqT8XjOE95Bz6UbgRZxh+Iz/LdAf8ovoyK9tak7hA7oQTsAUThr58EwBHjAMsGF9vXtaxvsmFfikzdtsmXUk7FW83BPvVXkNaG9Q2H9yn0oiGvB6sWgiwykjWCxeVf1s4XVDtujsWiB5LmiaCQQhVbbozlN1y7MGJPwB7r28X8G8gWDTm/vVd0=;3ISuMOYlqHEWu1Ol3d8CzA=="
 ---
 

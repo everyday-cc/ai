@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "On critical thinking and artificial intelligence"
-    excerpt: "The public, specifically the academe, has recently been confronted by both shock and awe at its latest challenge: artificial intelligence (AI). The issue started when a faculty from the University of"
-    publishedDateTime: 2023-01-24T20:48:00Z
-    webUrl: "https://opinion.inquirer.net/160560/on-critical-thinking-and-artificial-intelligence"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 17
 
 secured: "uEerhXjmwHYNKI2Lau5dYBm8tjwSUkhaUwSj1rvxzcCm30X5TiuR9VaG0tUVqAAhj0VA6/R83RJlX4gcO342ypA82ZBrIpfTLZWjx6E6lafI+oOvfAPDeMkQsYnvHo2Bj5/XWzDsUFsxy1uUkpNQKgXow9aUy5vnuVB27Un1ABrYeZjr35+UqAguPfThpVcLMiefLEAPL8lvbCY4gyOVzTsjqVXvW4CekQyQKL0j6dTdLpo7V+VuefcsFd6zsAQZX44mw5Vm60r6vDUTPpfqlYPXShhBA929tYFGxERxDbBexCykiCwVXXVa1/9XDM+aB4ZxtD2Y3OYCz50C4yrNB4A7cCJLMCG6SysUwAlihL4+u1qANzXXvlLnC6ETj4gUuAt6f72oVEIF0H1mOj8kJrfRRyavSRLf/6GbZsBTRpMNJH/Jxd2FqAubgTxy0MGbCjKHo1XF9MzBXwT1O9oJAHHAJ8mH1Spp2aH8o9YYKWE8tJhhENiPM1SFXD27x4fO9G4SyllSNlwqmsZ9K98H1w==;L2EULheLcxRkvo8ZMh2BPg=="
 ---

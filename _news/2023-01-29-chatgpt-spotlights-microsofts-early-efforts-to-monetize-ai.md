@@ -1,31 +1,29 @@
 ---
 category: news
-title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
-excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
-publishedDateTime: 2023-01-29T09:30:00Z
-originalUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
-webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
+title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
+excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
+publishedDateTime: 2023-01-29T12:25:00Z
+originalUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
+webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
 type: article
-quality: 84
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mint
+  domain: livemint.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://images.wsj.net/im-712435/social"
-    width: 1280
-    height: 640
+  - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -506,6 +504,6 @@ related:
       domain: bizjournals.com
     quality: 2
 
-secured: "pTmyWSk2GklLJEvfh4S264ie31fTcpfQo+kZ85mtle7FCDpuCxB1aBUTN4xYpEBRCFWtbeKEw33IBINiADueV99gWFP8Mq1JMJkR8ry06DaLwcDXiVDeH3io4s86Ls4HY+MD95gybsnSozhENjrjV0uqRcQrtnuTqXAS2S34VRaFqkQejiWYyAsBE5Moyg14PqZmLNZuwXP9eTsPYQC/SAgCDyCE3kWeiRfeLupmG+b9v12w3zGWwpbdyu2Ailfmpc0UfrgoFokCWxBPrLzNtahYl8Z9wD2HnjEhiB1RdEY8/b2Fioe+H1ZJUHnK974DHl2VzDtmQcXrcirM+3h6P4aLxw+NvxK0TSnF9tuU2xg=;wf8Bij781ZrVXrF6oUAqVA=="
+secured: "omWqWCUhIceHYoMd2mbFTtHXHHSAESts+EKLylS8SmTnD3+5bkq8zmwzUmvVBvAbar+nItOGvWXqF5+yU80a/8Hai97OWkLHdx4Bi4GO1Xdpj1W/ura/oyeXnX/5wpsvSwC035dnuVzFMKOM4OuqLahX74I8CTrM5JHn6RUZ/Ewb2jtlZd6DsTzwnXrE+SBYgIensb1NGVV0ydFoTNe+U3yYeoZ+0B7b5Vz9jbbEjJ8Lhnq/gBoClyAJMXFEzihV4sWJpTJig8eyWqop9563f3LclSFkRxsaFyKrnsQbZ0vKpn9zo/a9Gjj7rg+CoLLHRmJenQ4RujFFcvmx7ZsKXKI0COTAyPBWNY5s0BadxTs=;CizCIbA4LwTrXmboOcfD6Q=="
 ---
 

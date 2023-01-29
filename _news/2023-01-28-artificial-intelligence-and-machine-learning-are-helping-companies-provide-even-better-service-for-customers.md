@@ -84,15 +84,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "On critical thinking and artificial intelligence"
-    excerpt: "The public, specifically the academe, has recently been confronted by both shock and awe at its latest challenge: artificial intelligence (AI). The issue started when a faculty from the University of"
-    publishedDateTime: 2023-01-24T20:48:00Z
-    webUrl: "https://opinion.inquirer.net/160560/on-critical-thinking-and-artificial-intelligence"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 17
 
 secured: "8awK2RGAxeGLUJgDyaPQ8exNdNDiVE2ByzeAqjgzF0O1YObuj6HqJ1AlfMPoJ7qMh2govU+TLVovHAHqtiiUN3DsgImcVaX8nPP/PT1c6c3YP/JNy1JpHg04f9VXAujFdmk4LJwmJDBx5rrGlItcO2cmrKXdKZe8+gpizpwS/Qkulsvzrc9X6i+CJzujYfZeldibk++pYCIDdzSaQevK50CPI7xyKoEJzgH2BMcRKfVSElAiRX23rnSWSzh6c6AnQIkK6I+8Y4nsHk5OTeT1JrqxvpG6mixxiL+iz2AR5EksWS9chgFWCabeaM/GLf61+ZVnbxlarzsd8Jx2xZxWtwpf5cElgvdkd0u/d4BYfVHpHiR3H1gmOlqzUTx9Tysuz19dGtv++6E1phjXDHGVY/TlfQEcXrHas9i69hVjBTyWMXrhOCj2irweMivIVmw5wOHaECog2mllWOloYnC/SJu+6Fq9UPfgwjlvATR1WC3X2MBueuLqdBeLp2jl6x2eYGtZByhEGay9PY2ap0ERRw==;CPygIfti/1G2pwzuHQ0Ujg=="
 ---

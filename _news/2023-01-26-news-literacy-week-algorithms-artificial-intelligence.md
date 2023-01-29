@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algori
 cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "News Literacy Week: Artificial intelligence in the classroom"
-    excerpt: "As part of National News Literacy Week it's our chance to help you detect misinformation and stop it from spreading. But it's getting harder with the use of artificial intelligence software."
-    publishedDateTime: 2023-01-24T19:17:00Z
-    webUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom"
-    ampWebUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true"
-    cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true"
-    type: article
-    provider:
-      name: WKBW
-      domain: wkbw.com
-    quality: 59
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/baa/1020d6d1597347248f5d62c059a4c7e3/baa6ccd9e22c48778bc48333d5981b9f/poster_35034dd81a2e409eb4d916c834e9f3b8.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Top AI startup news of the week: generative AI is blowing up"
     excerpt: "AI startup news around generative AI was everywhere this week, for everything from search and note-taking to protein design."
     publishedDateTime: 2023-01-27T18:09:00Z

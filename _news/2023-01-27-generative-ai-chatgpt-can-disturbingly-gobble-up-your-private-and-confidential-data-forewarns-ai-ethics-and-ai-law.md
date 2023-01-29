@@ -111,19 +111,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
-    excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
-    publishedDateTime: 2023-01-29T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
+  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
+    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
+    publishedDateTime: 2023-01-29T12:25:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: Mint
+      domain: livemint.com
+    quality: 74
     images:
-      - url: "https://images.wsj.net/im-712435/social"
-        width: 1280
-        height: 640
+      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
     excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
