@@ -59,6 +59,22 @@ related:
         width: 480
         height: 359
         isCached: true
+  - title: "Musk faces SEC probe over Tesla self-driving claims"
+    excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest"
+    publishedDateTime: 2023-01-29T21:01:00Z
+    webUrl: "https://www.bostonherald.com/2023/01/29/musk-faces-sec-probe-over-tesla-self-driving-claims/"
+    ampWebUrl: "https://www.bostonherald.com/2023/01/29/musk-faces-sec-probe-over-tesla-self-driving-claims/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/01/29/musk-faces-sec-probe-over-tesla-self-driving-claims/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 74
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/01/GettyImages-1459166551.jpg?w=1024&h=746"
+        width: 1024
+        height: 746
+        isCached: true
   - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
     excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
     publishedDateTime: 2023-01-27T18:16:00Z

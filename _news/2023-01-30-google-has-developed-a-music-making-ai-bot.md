@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T19:08:00Z
 originalUrl: "https://www.aol.com/news/google-developed-music-making-ai-200824598.html"
 webUrl: "https://www.aol.com/news/google-developed-music-making-ai-200824598.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AOL

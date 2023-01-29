@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-rec
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
 type: article
 quality: 61
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Madison Square Garden CEO Defends Use of Facial Recognition Tech"
+    excerpt: "In an interview on Fox 5’s 'Good Day New York' this week CEO James Dolan said: 'If you’re suing us, we’re just asking of you—please don’t come until you’re done with your argument with us.'"
+    publishedDateTime: 2023-01-29T20:28:00Z
+    webUrl: "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07pDunJzjhUyZX14QfwYQLQ-1.fit_lim.size_1200x630.v1675023958.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "New York Attorney General Probing Madison Square Garden’s Use of Facial Recognition Technology"
     excerpt: "The state attorney general’s office said Wednesday that the company has reportedly used the technology to bar entry for lawyers who are currently suing it over unrelated matters."
     publishedDateTime: 2023-01-25T16:43:00Z
@@ -90,19 +104,19 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "How China outsells everyone on facial recognition surveillance"
-    excerpt: "Global manufacturers, consultants and researchers in the facial recognition industry looking to profit from AI surveillance algorithms have a new resource."
-    publishedDateTime: 2023-01-25T22:20:00Z
-    webUrl: "https://www.biometricupdate.com/202301/how-china-outsells-everyone-on-facial-recognition-surveillance"
+  - title: "NY AG questions MSG’s use of facial recognition tech"
+    excerpt: "New York Attorney General Letitia James warned the owner of Madison Square Garden that they may be violating anti-bias laws over one of its uses of facial recognition technology."
+    publishedDateTime: 2023-01-26T02:36:00Z
+    webUrl: "https://pix11.com/video/ny-ag-questions-msgs-use-of-facial-recognition-tech/8335716/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: pix11
+      domain: pix11.com
+    quality: 41
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
-        width: 2048
-        height: 1257
+      - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2023/01/snapshot-1-2.jpg?w=2000&#038;ssl=1"
+        width: 888
+        height: 499
         isCached: true
   - title: "MSG may stop booze sales over facial recognition: CEO"
     excerpt: "James Dolan, the owner of th Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing his use of facial recognition technology at venues including MSG."
@@ -113,6 +127,15 @@ related:
       name: pix11
       domain: pix11.com
     quality: 38
+  - title: "MSG CEO threatens to stop alcohol sales over facial recognition"
+    excerpt: "James Dolan, the owner of the New York Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing"
+    publishedDateTime: 2023-01-27T13:12:00Z
+    webUrl: "https://pix11.com/news/local-news/manhattan/msg-ceo-threatens-to-stop-alcohol-sales-over-facial-recognition/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 36
   - title: "New York’s Madison Square Garden’s facial recognition blacklisting sparks outcry"
     excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan’s celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
     publishedDateTime: 2023-01-27T04:45:00Z
@@ -164,6 +187,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 16
+  - title: "Madison Square Garden uses face recognition to keep out enemy lawyers. That may be illegal."
+    excerpt: "based on facial-recognition technology with known flaws, would have a chilling effect on speech and Americans' access to public spaces. \"Who will actually go to court against the country's largest ..."
+    publishedDateTime: 2023-01-26T22:58:00Z
+    webUrl: "https://www.cbsnews.com/news/madison-square-garden-face-recognition-illegal-new-york-attorney-general-letitia-james/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 11
 
 secured: "F91PBIsVrWol/ZjzOk56huEyf33HCzMXbuEOt0I5d0aTcgwBa3AgH52IT7N5I7LH6XYhOGdLqOH/2XUDM/5K8gf1h/UfiQllBJm8Bxu7/20XWhnZC6yS67A/LAxgVYm0imkZW83MPaFiZ0kXbc846qdd3thuuakhyLaPWIFn9A7b12+P+kWjXomGFmcEWHUczgFnnaKjmvck4WlhgfYBvJIz7xs8Ys0V7fThvKiicLCpQLUOMANJl073SEFQhsFfJ4yyUU8wK86YwfI8M/W3XmK3ZOPWKX7ZvhBbMLrxsfKk0OvFDsQ1H7G9IG3NgF23vmj183EMWjkdq01PfFZysO9u2/Xv6bL/AJqwOE0K/la2xJQ3LPVJaZWQNQM8Du8fbkLAJMvrVfwSQzRj7OmYOxAsXUxkty5Pe3pVGVU0Z4PnjSLsEGa+EYaTPlmKCCs3WZ+CA44Re2QM2dBnehEN9inyBcngS7GSvROh7NAHAVlqf0Cg89dGdVmg8DDGLIxdt6qkvrCBAp/SNPeIKn9YiA==;2rFqjF4qjNq0IMK7RQ5hfg=="
 ---

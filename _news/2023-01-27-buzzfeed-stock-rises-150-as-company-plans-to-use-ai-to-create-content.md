@@ -113,6 +113,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "BuzzFeed CEO says AI may revolutionize media, fears possible 'dystopian' path"
+    excerpt: "Over the holidays while most media executives were perhaps looking to get away from work, BuzzFeed's CEO was online, immersed in experimenting with artificial intelligence."
+    publishedDateTime: 2023-01-27T02:10:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2020/11/19/8df9dbcc-6bd3-4949-98bb-acec75321acc/thumbnail/1200x630g8/72e7059bdd593ff3bdc845eb0f73ba0d/gettyimages-169671245.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/bOGd2woZSvU3HXNvcOEx12HI8J/3nrmxEffZOq9ylYQorN66GatcO8Em6oDxnK/hfYSDffFtPReFiW78x0wZIk5JBqOzK43qKWBfX8xih1VHHFTZN5ob/EpE3zXCkRjDLTw6eUd3UoROMSo0m312vFTW9npiteJTYbAHgNNL3ENVAlWcl0uwCn+iu86bDyhlrj24u0aA9+4mWH2yeK2Mm/fJOG8XCnurSSs5oZ33kRCLSfapYi4hYh/A6ocssS4vzZ6CBnpSpDA+cl09o0ctHbBv5p/wEYd+VcbySdWPh31t5oQgRgpobgQWQL7QG9vh2MMosrHlskTQZI+WjLgAdzQe3vUfBaAz6fwMvHpyrs=;aAJ1Yk1D3IxbMTJipgd3AA=="
 ---

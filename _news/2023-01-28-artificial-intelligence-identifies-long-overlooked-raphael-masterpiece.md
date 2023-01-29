@@ -7,7 +7,7 @@ originalUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-
 webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-identifies-long-overlooked-raphael-masterpiece-180981528/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1600
     height: 1600
     isCached: true
+
+related:
+  - title: "Researchers Use Facial Recognition to Identify Raphael Work"
+    excerpt: "The controversial technology determined that the so-called de Brécy Tondo is an original by the Italian Renaissance master."
+    publishedDateTime: 2023-01-27T20:26:00Z
+    webUrl: "https://hyperallergic.com/796520/researchers-use-facial-recognition-to-identify-raphael-work/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2023/01/RAFAEL_-_Madonna_Sixtina_Gemaldegalerie_Alter_Meister_Dresden_1513-14._Oleo_sobre_lienzo_265_x_196_cm-1200x1645.jpg?resize=780%2C1069&quality=100&ssl=1"
+        width: 780
+        height: 1069
+        isCached: true
 
 secured: "MedASDQJqv/xCdlf2Q8NXSH/vGiHRmQusHJUA7R2Fnw7uHOYXjD1L9guDC1R34zsSp/bICf+KkhVQQPsQDsdfPg5tnpStRr9r6wzMLx16HoRPOV8i3LDrJB+9JOxXUDncOVoJ/i4v0B/+LEqNQMQceCg/bOeHp1KMUlWr0KXVabFa07xT96bfvlLBQP/9hPIrDIk0T2CBEAQCkElgAm9j3HtugPqwfFMwDLit2azquldZwkJQwX4h7wUXA0QYUoTaVgroyJhudIqmEulMBwc4Pm3MK6oZP2m37avDRcnGRdv4ptEWgI5+MOlhOK6HqB9nYsTzyjm5dqmCtwJH0G2EG8LX2SpPgEfU3P+gvISbnjjQ5t1iPvwtDxp9rZpk5Mzp3b1bdBLmP1jOHVpHckULJKIALhcLbx8pnZLtMsV4qaK0Eu2RW47fq67FQ4vd2QpeyLEFq8zzgBomVMIhMLVUOr9TZB9lX+3Ta/sjyCo5ykIFosYYXPao/enJzWBPmFimq8mOqOg51h/wxThnkNOMA==;zilJHLDgpcJWxN8Okj+pWA=="
 ---

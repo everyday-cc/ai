@@ -102,6 +102,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "BuzzFeed CEO says AI may revolutionize media, fears possible 'dystopian' path"
+    excerpt: "Over the holidays while most media executives were perhaps looking to get away from work, BuzzFeed's CEO was online, immersed in experimenting with artificial intelligence."
+    publishedDateTime: 2023-01-27T02:10:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2020/11/19/8df9dbcc-6bd3-4949-98bb-acec75321acc/thumbnail/1200x630g8/72e7059bdd593ff3bdc845eb0f73ba0d/gettyimages-169671245.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BuzzFeed stock rises 150% as company plans to use AI to create content"
     excerpt: "Buzzfeed is planning to heavily lean on AI-generated content, CEO Jonah Peretti said in a memo to staff on Thursday."
     publishedDateTime: 2023-01-26T17:29:00Z

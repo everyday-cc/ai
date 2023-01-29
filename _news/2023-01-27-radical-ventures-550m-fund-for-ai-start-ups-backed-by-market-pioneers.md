@@ -27,7 +27,7 @@ related:
   - title: "Artificial intelligence pioneers back $550mn fund for AI start-ups"
     excerpt: "Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups, in a move that bucks the wider downturn in tech dealmaking. Toronto-based Radical Ventures said it has received investment from several leaders in the AI field."
     publishedDateTime: 2023-01-27T09:22:00Z
-    webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0"
+    webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

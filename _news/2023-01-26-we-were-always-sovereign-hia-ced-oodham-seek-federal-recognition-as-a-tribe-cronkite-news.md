@@ -26,6 +26,22 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "Hia-Ced O’odham seek federal recognition as a tribe"
+    excerpt: "Hia-Ced aboriginal territory spans the west side of what now is the Tohono O’odham Nation, west to Yuma, north to the Gila River and south to Puerto Peñasco, Mexico."
+    publishedDateTime: 2023-01-29T22:00:00Z
+    webUrl: "https://tucson.com/news/state-and-regional/hia-ced-o-odham-seek-federal-recognition-as-a-tribe/article_0cd551d3-d0a8-5cdf-b49f-b669e0fecbb7.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/a0/ba0123ba-9d84-11ed-9a58-af87e738c7e0/63d28cae239f1.image.jpg?crop=1763%2C992%2C0%2C92&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+
 secured: "sHrDNDNBt3r7RNqNwvSi5t1FKLNpmHZGNZMPDzsOi43DRxOj/hcAHnPawavj0jTvcYFWhsLRofMUXlwjpPJ6rb1RMcd6BJNiotS+gEff9xDfQkEXtmpou3q4LEgDG3lekE5LH1KaQr83mg8/SRKaXhpRMPMMHDGscvuhtz6wXkPMI8Pq4BxGgBLJLDJsMX24EdEwR0zxvtyBUDNklJDTBsfMidnfJE9Zt/8oY+ybeUt/hrZ78je6Yv+4FbhgbklUt6IPGpDR2PuE5hjD/f8oykKJQs/5M/9UlTA9Mr5p4vvnK86+UN1G0jJoWKjWXCXbUUpddcXgGiB/xfE8wV/vk+vPUyNpEsgNjvaN2FayL5c=;CfCYPn+Zk3Gh3lqMdx4d2A=="
 ---
 

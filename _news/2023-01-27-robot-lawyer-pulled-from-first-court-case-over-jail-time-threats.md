@@ -69,6 +69,15 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Jail threats stop AI 'robot lawyer' from making its debut in court"
+    excerpt: "Joshua Browder, the CEO of New York startup DoNotPay ... Browder originally created DoNotPay as a free AI-powered chatbot that can help draft letters and fill out forms for various legal matters ..."
+    publishedDateTime: 2023-01-26T06:49:00Z
+    webUrl: "https://www.engadget.com/jail-threats-ai-robot-lawyer-court-case-063006308.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 64
   - title: "First AI-powered robot lawyer won't be used in court due to jail threats"
     excerpt: "News that an AI would represent a defendant fighting a speeding ticket in court on February 22 arrived earlier this month. It would have involved an"
     publishedDateTime: 2023-01-26T15:16:00Z

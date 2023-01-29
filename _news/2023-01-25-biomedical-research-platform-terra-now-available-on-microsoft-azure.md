@@ -43,22 +43,6 @@ related:
         width: 8660
         height: 5773
         isCached: true
-  - title: "Microsoft says cloud demand waning, plans to infuse AI into products"
-    excerpt: "Cloud revenue growth has been slowing quarter-on-quarter for the Windows maker, which expects the growth to continue to decline through the year."
-    publishedDateTime: 2023-01-25T06:45:00Z
-    webUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.html"
-    ampWebUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/10/10/cso_microsoft_cloud_app_security_cloud_apps_by_thinkstock_625397192_3x2_1500x1000-100801369-large-100934412-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft erases gains after saying Azure growth will slow down"
     excerpt: "Downbeat forecast brings focus back to software giant’s challenges as corporate customers rein in spending. Read more at straitstimes.com."
     publishedDateTime: 2023-01-25T07:22:00Z
@@ -136,6 +120,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 34
+  - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
+    excerpt: "Cirrus Link’s software widget connects MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer with no coding required."
+    publishedDateTime: 2023-01-29T19:53:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/22684077/cirrus-link-solutions-cirrus-link-iot-bridge-for-azure"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
     quality: 34
   - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
     excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."

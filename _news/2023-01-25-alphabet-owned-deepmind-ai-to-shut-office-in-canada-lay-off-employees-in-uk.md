@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/alphabet-owned-deepmind-ai-t
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/amp_articleshow/97320876.cms"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
-  - title: "DeepMind confirms AI research office closing in Edmonton"
-    excerpt: "1:16 Google parent company to close Edmonton office of A.I. subsidiary DeepMind An artificial intelligence lab, whose opening in Edmonton spurred excitement about the future of the AI sector in ..."
-    publishedDateTime: 2023-01-25T06:29:00Z
-    webUrl: "https://globalnews.ca/news/9433340/deepmind-closure-ai-edmonton/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 34
   - title: "Google lay off more employees as DeepMind closes its office in Canada"
     excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
     publishedDateTime: 2023-01-26T09:49:00Z

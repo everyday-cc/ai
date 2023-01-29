@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T19:28:00Z
 originalUrl: "https://www.ocregister.com/2023/01/29/as-ai-advances-when-will-the-terminators-arrive"
 webUrl: "https://www.ocregister.com/2023/01/29/as-ai-advances-when-will-the-terminators-arrive"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Orange County Register

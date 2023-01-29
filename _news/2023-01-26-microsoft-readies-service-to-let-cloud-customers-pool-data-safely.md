@@ -33,22 +33,6 @@ related:
         width: 8660
         height: 5773
         isCached: true
-  - title: "Microsoft says cloud demand waning, plans to infuse AI into products"
-    excerpt: "Cloud revenue growth has been slowing quarter-on-quarter for the Windows maker, which expects the growth to continue to decline through the year."
-    publishedDateTime: 2023-01-25T06:45:00Z
-    webUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.html"
-    ampWebUrl: "https://www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686273/microsoft-says-cloud-demand-waning-plans-to-infuse-ai-into-products.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/10/10/cso_microsoft_cloud_app_security_cloud_apps_by_thinkstock_625397192_3x2_1500x1000-100801369-large-100934412-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biomedical Research Platform Terra Now Available on Microsoft Azure"
     excerpt: "We stand at the threshold of a new era of precision medicine, where health and life sciences data hold the potential to dramatically propel and expand our understanding and treatment of human disease."
     publishedDateTime: 2023-01-25T14:30:00Z
@@ -140,6 +124,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 34
+  - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
+    excerpt: "Cirrus Link’s software widget connects MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer with no coding required."
+    publishedDateTime: 2023-01-29T19:53:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/22684077/cirrus-link-solutions-cirrus-link-iot-bridge-for-azure"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
     quality: 34
 
 secured: "M/ENWFlDBE0n4O3YXzuvHCCi6MzL6JV/F7W+/y1xZIPXsFrvAd16+Q4vYgx7NhA9bCqMf73AhR5MSVqHxPiXE57/5IBG0yLyyCsvAJ1oJ5BwCEYa9b+x/flIxu5RAbLolgibqhZ7X/Q/FNyw7+FQFwyHQ5fE/40BUh8reKbuCVuW5EAME0ObALvO2d9tUGReJCYnu3HCAyUwoDSGc7Uaq7H61rhmIsN7vFuemy0o+icDKf5hNK9oy/VP1R9GjxBhKlB7E+daUm615rJne2A53PjL8GP8CNZQapt6Tixi/OipWehkOe4dI8AeTZzZvzpKNFR5Vd1LZWib0AA1/24oJymnEFTrM5J7k5sEUomFZVE79MTl8XWW1OdLK2UZdju5/pZYNlxyhTd2Jnjusou3WdWi4vSYHxrRUL96eBBL9FVCfzyKsOApyEN3brUJ6s5sX2JQ7nuzkXsDHo0PHJG5tZDaFQQt6umtSD9TTLfkB9dlxZfDyKR4RjbGJAy71+6Ir0q8/COvUvABogLZs7RJKQ==;PDGK3QA1IA2zJRVsztd1Pg=="

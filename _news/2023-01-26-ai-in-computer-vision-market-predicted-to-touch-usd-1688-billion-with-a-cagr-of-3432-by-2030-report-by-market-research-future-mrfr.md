@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T09:08:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30580724/ai-in-computer-vision-market-predicted-to-touch-usd-168-8-billion-with-a-cagr-of-34-32-by-2030-rep"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/g30580724/ai-in-computer-vision-market-predicted-to-touch-usd-168-8-billion-with-a-cagr-of-34-32-by-2030-rep"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Benzinga.com

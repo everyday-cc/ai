@@ -64,15 +64,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Generative AI: how will the new era of machine learning affect you?"
-    excerpt: "It also illustrated the potential of machine learning and touched off a race in the tech world to bring AI into the mainstream. Since then, computing’s AI age has been taking shape largely behind the scenes."
-    publishedDateTime: 2023-01-25T05:00:00Z
-    webUrl: "https://www.ft.com/content/1e34f334-4e73-4677-9713-99f85eed7ba0"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 38
   - title: "Grappling With AI Writing Technologies in the Classroom"
     excerpt: "I should have known better, but if my ordeal encourages teachers and students not to be fooled by AI and scholarly-sounding prose, I happily fall on my sword. Jasper did translate portions ... as good a job in another 24 languages. Furthermore, Jasper ..."
     publishedDateTime: 2023-01-26T19:00:00Z

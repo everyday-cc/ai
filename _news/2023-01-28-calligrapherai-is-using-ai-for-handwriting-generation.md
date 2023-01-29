@@ -73,17 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Learning to lie: AI tools adept at creating disinformation"
-    excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda."
-    publishedDateTime: 2023-01-25T04:19:00Z
-    webUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
-    ampWebUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "QhzaJZdqvfoExeveYCju4L9rDtKFSmO997Gq1zDfktbvX16+wyWZ3AxvoEKdJJe3WFJEs+9ec4mG4/7EDDNRa9tdWQVVr9L+Yd9M6k2FAdTNPMUKqouP1FAvYvmQJq4bXjncIH/uk4Uoe82cUoTDNrG0FuxLd84CP8Of31eNDdRddIGBr5qpjy7X1HAENuWdSi2WLg02hkpYDfBbkYqBGXEqW2kF32XSB9N8fZM5mCawgcAPnUHFy2+yMiGt2ohZyRq/QIqrtiDnl/vYLER49zTyvOWrhTMWWLHmwHn2Vd+l7lsUyJ19A3Qe4SxBdIoVZLAs208Ed9VpWYE69VY9KU67gjh8VDP/V17a8AuhN0srWRwkef0gRaiZpLmvpFfhGDhhBGK1oGWRW755V4c64MMfLG7duux6AI19kJpIhlL4L7wx/mX2pKK6WYox59Ml0WpBm2IKaKuIFq0SCT2/m33ITILAj+3O5C7uSUQlEQnocQYOkqkK2KekaiN6Iu0a9CJnZ+GBvegQULh8WlyHsA==;I9Y0xMIeG+fN2GR8uZ1cYw=="
 ---

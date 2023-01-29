@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T10:45:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58152637-encord-launches-open-source-active-learning-toolkit-to-speed-up-real-world-applications-of-computer-vision-004.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58152637-encord-launches-open-source-active-learning-toolkit-to-speed-up-real-world-applications-of-computer-vision-004.htm"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Finanznachrichten

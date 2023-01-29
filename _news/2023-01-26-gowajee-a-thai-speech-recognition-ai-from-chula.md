@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-25T23:05:00Z
 originalUrl: "https://www.timeshighereducation.com/hub/p/gowajee-thai-speech-recognition-ai-chula"
 webUrl: "https://www.timeshighereducation.com/hub/p/gowajee-thai-speech-recognition-ai-chula"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Times Higher Education

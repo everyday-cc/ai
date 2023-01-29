@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -74,17 +74,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Learning to lie: AI tools adept at creating disinformation"
-    excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda."
-    publishedDateTime: 2023-01-25T04:19:00Z
-    webUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
-    ampWebUrl: "https://www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/learning-to-lie-ai-tools-adept-at-creating-disinformation/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "uEerhXjmwHYNKI2Lau5dYBm8tjwSUkhaUwSj1rvxzcCm30X5TiuR9VaG0tUVqAAhj0VA6/R83RJlX4gcO342ypA82ZBrIpfTLZWjx6E6lafI+oOvfAPDeMkQsYnvHo2Bj5/XWzDsUFsxy1uUkpNQKgXow9aUy5vnuVB27Un1ABrYeZjr35+UqAguPfThpVcLMiefLEAPL8lvbCY4gyOVzTsjqVXvW4CekQyQKL0j6dTdLpo7V+VuefcsFd6zsAQZX44mw5Vm60r6vDUTPpfqlYPXShhBA929tYFGxERxDbBexCykiCwVXXVa1/9XDM+aB4ZxtD2Y3OYCz50C4yrNB4A7cCJLMCG6SysUwAlihL4+u1qANzXXvlLnC6ETj4gUuAt6f72oVEIF0H1mOj8kJrfRRyavSRLf/6GbZsBTRpMNJH/Jxd2FqAubgTxy0MGbCjKHo1XF9MzBXwT1O9oJAHHAJ8mH1Spp2aH8o9YYKWE8tJhhENiPM1SFXD27x4fO9G4SyllSNlwqmsZ9K98H1w==;L2EULheLcxRkvo8ZMh2BPg=="
 ---

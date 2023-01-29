@@ -44,15 +44,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
-  - title: "DeepMind confirms AI research office closing in Edmonton"
-    excerpt: "1:16 Google parent company to close Edmonton office of A.I. subsidiary DeepMind An artificial intelligence lab, whose opening in Edmonton spurred excitement about the future of the AI sector in ..."
-    publishedDateTime: 2023-01-25T06:29:00Z
-    webUrl: "https://globalnews.ca/news/9433340/deepmind-closure-ai-edmonton/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 34
 
 secured: "OIwXIraC4GvPuAgYcov/CvPqhp5x1lZBjZNrcMurbJm/VnE4O6SwUMxeW5M5HodmkjGM3jVS+/7nEWzVjiN/cAaffl8S7S0XIhB5H9I7ad1w6NF9NpWtY8oDjHwaL9CR8HkeJNPJLGGqpxlS/YewbepiQys3eFPAltdAPd8y01DvC/VtC63JoiQn4pDja8G5Dp0vVSMg5OzsM/hPLq/s+iKQqriaoKbtCdpWSG8TeK05Zl2zDcy8Y6eZPCoGeusQrHixzs5aa/HxJ7AgqHEHxnvqGVPw70hdAGW5inMAr9QT6jTBdfGU49Y7VgFI6JnrC8VctGP5vQ0FNHxBXPsgrQ13+bLaYMuDbSK6HwXe9kw=;DdzVHxhJfa8uOuT1gpifAw=="
 ---

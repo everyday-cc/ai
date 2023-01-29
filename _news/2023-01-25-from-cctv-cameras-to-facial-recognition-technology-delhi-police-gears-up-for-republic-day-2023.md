@@ -26,17 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Republic Day 2023: Delhi police announces ban on flying objects, other restrictions on Kartavya Path"
-    excerpt: "The Delhi Traffic Police has urged the public to connect with the nearest police personnel in case any suspicious person or object is seen. Anti-terror measures have also been intensified in coordination with other security agencies."
-    publishedDateTime: 2023-01-25T05:51:00Z
-    webUrl: "https://www.livemint.com/news/india/republic-day-2023-delhi-police-announces-ban-on-flying-objects-other-restrictions-on-kartavya-path-11674620318641.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 0
-
 secured: "oRXcOJn5zhywYSUS0zoQIc+f29aBf/UXdu3l2KA+NRt53VCqs1b5L389+S3kgc2OPhIzoYNFHvJlUIcv6sserUChmoTVfSyd4q/5dAWpiLXXQT8JJpqXxKpUY1r7nzQPu4nqvn6AHP/WEM2LWy/P22OpZ/KFF0kVOsCIKCLdwp+c/MZuicO/BHxxjc+UQMb4xCVbVzHxDm5eTBoUnXkVfE3Yjz6Udf9C2l9HTmAeDNvl8O6Dk/qvjMU0yGhn9Dkhe02B3E1C+2lWKMoH04wBx/pIy+wo/Svd6TabUj2y6DQ7difkDhFEqZ/rtFsWaUy/EqvtVS6IRhiI1km/HFyXudnrTVPdMNQc0dyHYSCIEQM=;v6dMGP8z/q2oqODzkjVM9Q=="
 ---
 

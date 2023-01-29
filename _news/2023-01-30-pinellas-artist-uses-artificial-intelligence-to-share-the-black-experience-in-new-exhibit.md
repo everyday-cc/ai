@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T16:29:00Z
 originalUrl: "https://www.fox13news.com/news/pinellas-artist-uses-artificial-intelligence-to-share-the-black-experience-in-new-exhibit"
 webUrl: "https://www.fox13news.com/news/pinellas-artist-uses-artificial-intelligence-to-share-the-black-experience-in-new-exhibit"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Fox 13
