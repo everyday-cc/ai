@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence chatbot passes elite business school exam, outperforms some Ivy League students"
-    excerpt: "Chat GPT3, an artificial intelligence bot, outperformed some Ivy League students at the University of Pennsylvania's Wharton School of Business on a final exam. In a paper titled \"Would Chat GPT3 ..."
-    publishedDateTime: 2023-01-24T13:30:00Z
-    webUrl: "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students"
-    ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp"
+  - title: "‘Historical’ AI chatbots aren’t just inaccurate—they are dangerous"
+    excerpt: "The Historical Figures app's factual errors are egregious, but some experts are more worried about its implications on knowledge authority."
+    publishedDateTime: 2023-01-26T16:59:00Z
+    webUrl: "https://www.popsci.com/technology/historical-figures-app-chatgpt-ethics/"
+    ampWebUrl: "https://www.popsci.com/technology/historical-figures-app-chatgpt-ethics/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/historical-figures-app-chatgpt-ethics/?amp"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 75
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://www.popsci.com/uploads/2023/01/26/GettyImages-517323568.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "60TxSikJ8aMFsd+JKrmDqmWwfArU96diNy22VzKLgPwsMXe5ij0oIqYaz2MrtmYYEu9DKerYwUt61vJ9tK2G3ujaWrK29U6sHFGRci/Oqse5x49bMna1GrHoU+YqYvVrHtiOXCQdzBK8/iG7CLbjWurhVApZnRP5lzKoPiq4QiXRHpSJA4GufjsJ+SoKI9OD7qNSehKInUsA6HQV0PyE3mQIbv0h1pKK2SGyPKNL69eANAbUtWE4EPK+2pFNaMwFjlHkdiJvwen0bdySDBuEyvg8vh8Z/4Rt74sG9IjQx/Bdv7KhdaDRvQiP0G19fzS6055HrCNbMvqm1vCumujjtiJqJZcIy7yQBL102v0zVEeV96LqDvxAggBbrQ1zpQlaflVM23kZcTAiS8RoXqy79QaW1QBDmSL9GGmvA9GP2cLZM0S0nZ4Vu/W7Y5XX1z/kJmCcLT9WASyiHoiwApHJmw1ZjLhiU1m35S5uzOOr4n0KrFrFryC6d40NfblT5fT+AchaGXV7iOxu8NsycyV23A==;7NTSZIadU0reZdZTcPxG1g=="

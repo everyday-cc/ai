@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-01-person-shaped-robot-liquify-powe
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-person-shaped-robot-liquify-power-magnets.amp"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://www.stripes.com/incoming/t667v0-screenshot-(4).png/alternates/LANDSCAPE_480/Screenshot%20%284%29.png"
         width: 480
         height: 299
+        isCached: true
+  - title: "Researchers invented a liquid metal robot that can shapeshift like a Terminator"
+    excerpt: "A group of scientists have created a robot made of shape-shifting liquid that they can control to jump, escape cages, and more."
+    publishedDateTime: 2023-01-29T02:14:00Z
+    webUrl: "https://bgr.com/science/researchers-invented-a-liquid-metal-robot-that-can-shapeshift-like-a-terminator/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 35
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/01/AdobeStock_304484146.jpeg?quality=82&strip=all"
+        width: 2400
+        height: 1513
         isCached: true
 
 secured: "TIDe9KzA/jZhoaTPWLyPXzJ+HBmotCmn0RV6aluGBuJD8puLNCyobtXU0qbmo8lPcx/tXB1LToOpV9jCU/dhuNBtRKtyKS3cd1/xpi9UAowh74DjKQP8pvU1QEtd0vovdnasTYUv0d5dl41FP8c3Jqs7aKZa179inAApnuBcPSfA42r+wpntG9vEY1uI9Ac3ewOpYYI0gfDP3W1qZyStlzEaIGJRsSyUQV+wObdwrYD/ZHGtWvlxONwglhRIPwqDBuBzzG9SXTEctSSn10hUPL9VXifRG0YRYRN5IA1/KxP2YhHiHGzR7pg7jFQ/3WexKlfNc0tslPMZr8RUfODaCgxv1om0Qm2QunrxjXA4LdY=;NaMvJ3JPwLjbLjorGAtEfA=="

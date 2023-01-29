@@ -50,15 +50,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "PM says Voice to Parliament is about ‘recognition and consultation’"
-    excerpt: "The Indigenous Voice to Parliament is about “two things,” Prime Minister Anthony Albanese says. “It’s about recognition – that is giving people respect in our nation’s birth certificate,” he told Sky News Political Editor Andrew Clennell."
-    publishedDateTime: 2023-01-25T04:25:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/pm-says-voice-to-parliament-is-about-recognition-and-consultation/video/6eb194b5f8f7a1043e9f1b1b5c66c5fa"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "lToqgmXy8iB9QNxk3jVl669PvpsD+zJVYx9zFAOaQ40x8oXhBAvPna2kVKEVn9rAJoybQWG1t675CQcApSVLabJuSIm5lvWnYkdo/qEk1BOWfsGtyCfS1CnNthxnLpRl66h2kuJtpbotTmfbF16SmU705e0Lcb0g2MUj0rcUJ9laoyNk+7mhgb9CQaLih0n5+izqRvs3nNZV7P+C82eNWEzQXN0AvyEACiWA051VinErWdNJdT1cPjXGvHpKEcCuenUx+NoWWzXGfTvakzfbF/8gOQCunKTzfD7EuVVIiOQscDK1uwhKpjif9/KhZDt/vvpMUEhdbR7HDDA6ls7+UMKNPFfCfG7KYXoLWDFTmfw=;iTfXuZZjNsApw8DFLmAGQw=="
 ---

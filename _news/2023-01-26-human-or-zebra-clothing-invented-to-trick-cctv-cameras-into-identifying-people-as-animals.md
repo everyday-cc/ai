@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Is AI Eroding Our Ability To Think?"
-    excerpt: "With AI increasingly able to not only create art itself but curate that which it deems most important, are we losing our ability to think and create for ourselves?"
-    publishedDateTime: 2023-01-24T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/adigaskell/2023/01/24/is-ai-eroding-our-ability-to-think/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Clothing line created to trick AI facial recognition into thinking you're an animal"
     excerpt: "An Italian clothing line has unveiled a new style of fashion aimed at evading increasingly invasive facial recognition technology. According to the company, wearing clothes made by Milan-based Cap_able tricks AI-powered face."
     publishedDateTime: 2023-01-27T20:08:00Z

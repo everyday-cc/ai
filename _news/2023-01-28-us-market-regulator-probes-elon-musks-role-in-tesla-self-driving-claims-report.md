@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US investigates self-driving claims made by Elon Musk for Tesla: Report"
+    excerpt: "The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk. The SEC probe is to determine if the electric car-maker flouted its rules in promoting its full-self driving (FSD) and Autopilot software,"
+    publishedDateTime: 2023-01-29T06:17:00Z
+    webUrl: "https://www.business-standard.com/article/international/us-investigates-self-driving-claims-made-by-elon-musk-for-tesla-report-123012900196_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/us-investigates-self-driving-claims-made-by-elon-musk-for-tesla-report-123012900196_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/us-investigates-self-driving-claims-made-by-elon-musk-for-tesla-report-123012900196_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/21/full/1671589608-4754.jpg?im=Resize,width=480"
+        width: 480
+        height: 359
+        isCached: true
   - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
     excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
     publishedDateTime: 2023-01-27T18:16:00Z
@@ -214,6 +230,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "US Probes Elon Musk For Tesla Self-Driving Claims"
+    excerpt: "San Francisco, Jan 29 (IANS) The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk."
+    publishedDateTime: 2023-01-29T05:36:00Z
+    webUrl: "https://menafn.com/1105490459/US-Probes-Elon-Musk-For-Tesla-Self-Driving-Claims"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
   - title: "The future of testing self-driving cars"
     excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
     publishedDateTime: 2023-01-25T23:24:00Z

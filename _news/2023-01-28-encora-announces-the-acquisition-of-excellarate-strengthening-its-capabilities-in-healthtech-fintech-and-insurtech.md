@@ -201,15 +201,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 4
-  - title: "Fintech Sandbox Continues Strong Momentum into 2023 with Expansion of Global Footprint and Growth of Data Access Residency"
-    excerpt: "Nonprofit Continues to Have High Demand from Early-Stage Startups as it Makes a Positive Impact with its Programming and Community-Led EventsBOSTOM, MA /  / January 24, 2023 / Fintech Sandbox"
-    publishedDateTime: 2023-01-24T14:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58133831-fintech-sandbox-continues-strong-momentum-into-2023-with-expansion-of-global-footprint-and-growth-of-data-access-residency-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "edBr0AGWGpLAvT6eY6pbdPWHDkWW4pqUkAL14QNtwAEplDE1lu+vMeF2EONPbTHKMLxy6YQuaxlIZVZBvuqH6yG6HoonLaLBuPboXv9HhfXpKvOa3tm83wA1yPn9g/Hm3fZNDvGY3sCZhTsVW5LcCx3ozxcQ+Sq6DMUKYFhJdkOy4gUFhDnbVlX3XE+IGoTzbuw6zzk2VJPaNpKUJ6CJocRF/0JrHVCX0XKJTgcMsh7y463SrflClwLzoVcRjgF7ipjFwJl8yEaHUIbTg5wfC9rRtWCw8KpiY3mM9uzCzG115vxT7kf3fHCNv8JfMgQggYqFajoHsGCZBfxiQ0ZznE0c02+3EDiwpfR27LajDCI=;8Ecqqj6DSgJe7/lFdr6cRg=="
 ---

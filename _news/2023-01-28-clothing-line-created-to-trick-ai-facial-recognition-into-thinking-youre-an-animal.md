@@ -35,15 +35,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Is AI Eroding Our Ability To Think?"
-    excerpt: "With AI increasingly able to not only create art itself but curate that which it deems most important, are we losing our ability to think and create for ourselves?"
-    publishedDateTime: 2023-01-24T13:01:00Z
-    webUrl: "https://www.forbes.com/sites/adigaskell/2023/01/24/is-ai-eroding-our-ability-to-think/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Human, or zebra? Clothing invented to trick CCTV cameras into identifying people as animals"
     excerpt: "Cap-able patented a process to weave the algorithm into fabric. It says the clothes were tested on YOLO – the best-selling real-time object detection system. ‘People wearing Cap-able’s garments are not recognised as such by the software ..."
     publishedDateTime: 2023-01-26T08:45:00Z

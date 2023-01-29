@@ -127,15 +127,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Alphabet’s DeepMind Lays Off Some Staff, Closes Canadian Office"
-    excerpt: "Alphabet Inc.’s research lab DeepMind will close its Edmonton, Alberta outpost and lay off some operational staff in the UK, part of the tech giant’s recent program of cost cuts. The ..."
-    publishedDateTime: 2023-01-24T13:58:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-01-24/alphabet-s-deepmind-lays-off-some-staff-closes-canadian-office"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "DeepMind Lays Off Staff And Shuts Down Their Canada Office"
     excerpt: "DeepMind Lays Off Staff And Shuts Down Their Canada Office Alphabet Inc, the holding company of Google will soon close down its DeepMind research lab in Edmonton. They will also lay off some ..."
     publishedDateTime: 2023-01-26T08:28:00Z

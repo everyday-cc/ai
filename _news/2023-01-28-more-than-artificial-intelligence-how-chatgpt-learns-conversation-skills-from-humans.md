@@ -176,22 +176,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ChatGPT Is Doing for AI What Apple's iPhone Did for Smartphones"
-    excerpt: "ChatGPT isn’t the first company to do what it’s doing, but it is what is taking the world of AI mainstream. To stay updated with top startup investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter Venture capitalists ..."
-    publishedDateTime: 2023-01-24T14:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/01/30548006/chatgpt-is-doing-for-ai-what-apples-iphone-did-for-smartphones"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30548006"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30548006"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
     publishedDateTime: 2023-01-28T11:40:00Z
@@ -372,6 +356,20 @@ related:
         width: 1200
         height: 816
         isCached: true
+  - title: "Generative AI like viral ChatGPT lands on DISA technology watch list"
+    excerpt: "An Air Force official said the military must \"automate more\" in order to remain dominant in a world of advanced computing and quick decisions."
+    publishedDateTime: 2023-01-27T20:13:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2023/01/27/generative-ai-like-viral-chatgpt-lands-on-disa-technology-watch-list/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 39
+    images:
+      - url: "https://www.defensenews.com/resizer/28N31Ch5RJoUggCCQq_G1YvCgSw=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/VMUM2BXK3ZA6LL2Z4CXBIV6GEA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Make-A-Video AI: ChatGPT, But For Videos"
     excerpt: "AI chatbots can do your homework, write essays, and explain concepts from a simple user prompt. Soon, it could create videos for you! Facebook company Meta is developing an AI tool called"
     publishedDateTime: 2023-01-29T02:06:00Z
@@ -385,6 +383,20 @@ related:
       - url: "https://technology.inquirer.net/files/2023/01/Make-A-Video-featured-image-crast.net_-620x349.png"
         width: 620
         height: 349
+        isCached: true
+  - title: "The Voice Of ChatGPT Is Now On The Air"
+    excerpt: "AIs can now apparently carry on a passable conversation, depending on what you classify as passable conversation. The quality of your local pub’s banter aside, an AI stuck in a text box"
+    publishedDateTime: 2023-01-29T06:00:00Z
+    webUrl: "https://hackaday.com/2023/01/28/the-voice-of-chatgpt-is-now-on-the-air/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/01/Talking-to-ChatGPT-over-DSTAR-digital-amateur-radio-0-7-screenshot.png"
+        width: 3840
+        height: 2160
         isCached: true
   - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
     excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."

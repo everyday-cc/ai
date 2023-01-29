@@ -49,15 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "PM says Voice to Parliament is about ‘recognition and consultation’"
-    excerpt: "The Indigenous Voice to Parliament is about “two things,” Prime Minister Anthony Albanese says. “It’s about recognition – that is giving people respect in our nation’s birth certificate,” he told Sky News Political Editor Andrew Clennell."
-    publishedDateTime: 2023-01-25T04:25:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/pm-says-voice-to-parliament-is-about-recognition-and-consultation/video/6eb194b5f8f7a1043e9f1b1b5c66c5fa"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "F5Dqo8BxirmJeAHfPunwYIXpUYO9M/4Jjx5ZR/1X6Pa67EOFbt05sbwAhhluwysAyx4Lqh2GaT3d/GvVkGS2AqML4C6/xSEZGYZzblXk1JKxyC/HBUt669B7F/O3m5OBTLmcDg4iBbjRj6LGwPrHqWy4x73dNfaGwlApZtO/7FGCWVn/6sCIWfgogSKPHCmBLVWShOIx4w79S1dCFlINYMv+qd2H5Z8zFB6rDIZ/ApJsae7jcztTPZ3cNGmv8qzrWjIVW4/Z4m0e7uhmYTDg348KbTjepq6tfJtBlhJwhzCWFhcjahAOuX33qXMjkmyOTIKvplTKI5G7J9sw6U2XNkO6I0ZGaH2kENZ9WxqrINo=;lS0lqxP7NJVpgtNZajEU3Q=="
 ---

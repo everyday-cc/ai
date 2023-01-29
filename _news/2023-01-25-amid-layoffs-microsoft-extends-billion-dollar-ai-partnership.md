@@ -115,15 +115,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Microsoft says AI will be as important as the invention of the PC and internet"
-    excerpt: "In the company's blog post, Microsoft described the investment as the \"third phase of our long-term partnership\" with OpenAI, promising to advance the technology and make it available to everyone globally."
-    publishedDateTime: 2023-01-24T14:11:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-says-ai-will-be-as-important-as-the-invention-of-the-pc-and-internet"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 60
   - title: "Microsoft expects slower Azure growth"
     excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
     publishedDateTime: 2023-01-25T16:07:00Z
@@ -147,20 +138,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 54
-  - title: "Microsoft and OpenAI extend partnerships in AI supercomputing and research"
-    excerpt: "Microsoft has extended its partnership with OpenAI for the third time as the agreement follows previous investments in 2019 and 2021."
-    publishedDateTime: 2023-01-24T14:27:00Z
-    webUrl: "https://yourstory.com/2023/01/microsoft-and-openai-extend-partnerships-ai-azure-satya-nadella"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 52
-    images:
-      - url: "https://images.yourstory.com/cs/1/2745082002f511eaaae56760054455e0/Imageyqxh-1595863630136.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Microsoft doubles down on healthcare AI investments"
     excerpt: "Microsoft is doubling down on its healthcare artificial intelligence investments with two new partnerships. The first partnership the company inked this year was with AI-powered pathology company Paige."
     publishedDateTime: 2023-01-24T15:29:00Z

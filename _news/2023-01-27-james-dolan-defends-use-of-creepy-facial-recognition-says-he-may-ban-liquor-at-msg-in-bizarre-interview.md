@@ -71,6 +71,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "MSG owner James Dolan threatens alcohol ban at MSG over facial recognition controversy"
+    excerpt: "James Dolan is threatening to not serve fans alcohol at Madison Square Garden in response to a flap over facial recognition being used at his venues."
+    publishedDateTime: 2023-01-26T20:45:00Z
+    webUrl: "https://www.fox5ny.com/news/msg-owner-james-dolan-threatens-alcohol-ban-at-msg-over-facial-recognition-controversy"
+    ampWebUrl: "https://www.fox5ny.com/news/msg-owner-james-dolan-threatens-alcohol-ban-at-msg-over-facial-recognition-controversy.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/msg-owner-james-dolan-threatens-alcohol-ban-at-msg-over-facial-recognition-controversy.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 31
   - title: "New York’s Attorney General Investigates MSG’s Use of Facial Recognition to Ban Lawyers"
     excerpt: "NY AG Letitia James wants answers from Madison Square Garden over its use of facial recognition technology to bar entry for lawyers involved in litigation against the company."
     publishedDateTime: 2023-01-26T17:17:00Z

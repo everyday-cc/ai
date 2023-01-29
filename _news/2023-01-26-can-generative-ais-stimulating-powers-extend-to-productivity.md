@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/1f08c2b7-9801-415d-93dd-72e724e5e2de"
 webUrl: "https://www.ft.com/content/1f08c2b7-9801-415d-93dd-72e724e5e2de"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 619
     height: 377
     isCached: true
-
-related:
-  - title: "How generative AI will help power your presentation in 2023"
-    excerpt: "New generative AI options integrating tools like GPT-3 and DALL-E can deck out your slide deck and make storytelling less of a slog."
-    publishedDateTime: 2023-01-24T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-will-help-power-your-presentation-in-2023/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "wyVqJX40IAVf1aZlQk9ar3FhGT+WnGlb7ToioPm+3l/nI8OZq+TFSxuX5Qog3srp5R9qmMKj+Vrdnz666fZ96nJMS5UNCGLNEdlc7r964Rlfcd8CjXHME8oZt2GgDMrrfEkIHMap48jM+BhHqguf6djKOrXS+EQODQWs0i85s0t0Z6nNhDMP1rvJBw08/BMDfS/ntJUhLqKq7Q26x199frhzO/Au10uEWZPFvtG+reiAdMOhPYmgH2YoHeU6AQmgSsIy2Lz4e2zZCOuf4Ho3LRdTPzbwKxaMXd2/pRi+CiPdu5HfR+QV5AwBVcmsEpjsyHnxOPWN2Wn1i2WFvBDSJ+ajfGGcjLBN0CKOqG79wJ4=;GIqPoxBh46o6zWoBgQ5obw=="
 ---

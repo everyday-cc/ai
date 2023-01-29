@@ -193,15 +193,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 4
-  - title: "Fintech Sandbox Continues Strong Momentum into 2023 with Expansion of Global Footprint and Growth of Data Access Residency"
-    excerpt: "Nonprofit Continues to Have High Demand from Early-Stage Startups as it Makes a Positive Impact with its Programming and Community-Led EventsBOSTOM, MA /  / January 24, 2023 / Fintech Sandbox"
-    publishedDateTime: 2023-01-24T14:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58133831-fintech-sandbox-continues-strong-momentum-into-2023-with-expansion-of-global-footprint-and-growth-of-data-access-residency-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
   - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
     excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
     publishedDateTime: 2023-01-27T19:40:00Z

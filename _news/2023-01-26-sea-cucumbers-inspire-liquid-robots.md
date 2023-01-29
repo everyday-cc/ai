@@ -64,6 +64,20 @@ related:
         width: 480
         height: 299
         isCached: true
+  - title: "Researchers invented a liquid metal robot that can shapeshift like a Terminator"
+    excerpt: "A group of scientists have created a robot made of shape-shifting liquid that they can control to jump, escape cages, and more."
+    publishedDateTime: 2023-01-29T02:14:00Z
+    webUrl: "https://bgr.com/science/researchers-invented-a-liquid-metal-robot-that-can-shapeshift-like-a-terminator/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 35
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/01/AdobeStock_304484146.jpeg?quality=82&strip=all"
+        width: 2400
+        height: 1513
+        isCached: true
 
 secured: "Y5Ic48GGbFh1cInWsroXSvm3Jsw6I3fYdiJU2a3xrWmNF6KZVyodkzES8ZKi9AZC3G1djmFnhwyFfi0xtch4Sm1rdInnPQ9HKQgIbfsx5Ui4e/gphMtFD/tG2IfYI/s7c0gd9KY4Hxtx/RbNrdV2Z/Z3bO+Y4Unki6iuGWhux3Lf4OtAOLWx+GY30+NKURWfGtkoPadQiEQEJk8ZVc56vkaJ/w3qjV9tW2LVXjWXUEQ38vsA2o8i7S/OUOb/utKfhYYCPZuqLTNbHGSBT4b1WJHobcqvEy+4ewctOYsLOEq+gew19LFY8xoRSo+xerM3MXHkn/Z+kQFcjOxV9QVKjhPTIlEweF4f+dZhnCDfSYx2c3K+zHHBs0M8EpzJ8xFa3nHBSSd8QXCDuthbSG9hp+B29g1spH7OnHr6zuvUixo3qotfS6T16TZqJA3QMUhypSfIR4JKcs0H5PPNfM0ioPPasLWgBBM5/ZwRJ7dWmeRa3KSE9PKEDdIobgtbLTncjcvYU9/aGSyDq1hvEVx7WA==;Tk+Zc63Z4aqq+1tJ+uz2JQ=="
 ---

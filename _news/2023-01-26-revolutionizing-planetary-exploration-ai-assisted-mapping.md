@@ -34,15 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Generative AI Won’t Revolutionize Game Development Just Yet"
-    excerpt: "Hypesters say artificial intelligence will one day automate all the hard work of video game creation. But it’s not that simple."
-    publishedDateTime: 2023-01-25T18:35:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-video-game-development/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
 
 secured: "5387F48+s5D7jNa1f0yAolz3LkFh2kv4D+eSpGBuM7CXQ0yAXDofjY0GJKJVon2E3/+NJ/cPjVgX68SYS6Mt0TdfLttEZaKFpQBP2c+slB64U5Qz0v3cLyFhz/efLTKrkvE+ueBdQU9syOrZoeQSQXr6kbCEFVcBzkzL12HUEyiepd83doWXfmCklaeGBTVCmKUfScaThmaFpJJHzIK/CciIGgVGQMf3Wrd/+wKwwGu4gRS/ZjKgNED/tKZK4BSacIuxT3CCwN847or7HvIjJNAFQ5yLvZVvZ7nK0Apukvl05/II/ggNl0T8uh2QbbiVsYpG+aLcBISxFZos8hdnXI+xHafarpngUuCqVLhnZL0=;aJrCUWBCm35HJZujUgebpw=="
 ---
