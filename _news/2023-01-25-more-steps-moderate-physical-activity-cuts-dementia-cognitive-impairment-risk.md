@@ -39,22 +39,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Moderate and vigorous physical activity every day linked to mid-life cognitive performance"
-    excerpt: "They therefore adopted a compositional approach to find out if MVPA relative to all other daily movement behaviors might be best for mid-life cognitive performance. They drew on participants in ..."
-    publishedDateTime: 2023-01-24T17:03:00Z
-    webUrl: "https://www.news-medical.net/news/20230124/Moderate-and-vigorous-physical-activity-every-day-linked-to-mid-life-cognitive-performance.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20230124/Moderate-and-vigorous-physical-activity-every-day-linked-to-mid-life-cognitive-performance.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230124/Moderate-and-vigorous-physical-activity-every-day-linked-to-mid-life-cognitive-performance.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 34
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Physical_Activity-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "6eb5X5m5hiQt9ApN+Q7zWaYgxCch/nlIkZ3gMKT6MrFh5rSynC697kJk92eQ7fOi1AgFd+/CVLCgiTkbh4gxx86kUtUW9pkbQ8Ex4OY3fBZoQ2Xa02FaZZN1PMS1Btg0gHTrvWHAVssniwZ3JcrepuK7b76jJJ0yICqOq0J5223L+4qeyt0Zw3wKnLQ17ggjXH9saahBPSUBQnxplbD5URjfJfqkutkfF+v+OIXl7kql8Gfz+RYTQL746aYcgu9UgOsIpQBQ0sg3S05P2HYc8vgyJHymjoo7o2Ft9WR+e4s1icjT1KGbn2jMg8RoYBGEynBn+95UJXaE1xqzClIu48QbLH0Z1+zNJKvBD1NVy6Y=;s6P6UnE/cFCt1uqKnyblVQ=="
 ---

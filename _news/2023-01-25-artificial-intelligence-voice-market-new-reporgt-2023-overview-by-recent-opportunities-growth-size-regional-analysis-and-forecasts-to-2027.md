@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-25T05:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-new-reporgt-2023-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2027-2023-01-25"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-new-reporgt-2023-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2027-2023-01-25"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

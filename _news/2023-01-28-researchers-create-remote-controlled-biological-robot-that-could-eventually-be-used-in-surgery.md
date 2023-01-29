@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tiny eBiobots use LEDs and muscle tissue for real-time remote control"
-    excerpt: "Back in 2012, we heard about tiny biped \"biobot\" robots that used actual muscle tissue to walk. Well, the descendants of those bots are now equipped with LEDs, which allow them to be remotely steered in a practical fashion. Developed by scientists at the ..."
-    publishedDateTime: 2023-01-24T18:11:00Z
-    webUrl: "https://newatlas.com/robotics/ebiobots-leds-muscle-tissue-remote-control"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 54
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/4309e93/2147483647/strip/true/crop/3543x2362+0+148/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb2%2F36%2Fa09164bb4f1889968f011e284d63%2Falpine-crosscabin-exterior-side-2.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Researchers create remote control biological robot that could eventually be used in surgery"
     excerpt: "The design allows the integration of sensors and other components that could eventually equip the robots to detect biomarkers of disease, carry out biopsies or perform surgery."
     publishedDateTime: 2023-01-26T15:45:00Z

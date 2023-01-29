@@ -20,6 +20,19 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Doubters find their voice on recognition: ‘fix is destined to fail’"
+    excerpt: "A formal committee advancing the No case for a constitutionally enshrined Indigenous voice to parliament will be launched on Monday and warns the body would forever change the way Australia was governed while failing to improve results for Aboriginal and Torres Strait Islanders."
+    publishedDateTime: 2023-01-29T10:50:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
+
 secured: "lKDR1vi38dMPbiRC2GOFj5muXMrB3YRqYeUm9HsQv0EsK3AC1AHGBJBY9RqSdM3bOlbBjSGrPtZiWxGMOmCs3rgb37HLjvBwipTPTjBLaE83W9GXYTnpvarWy34e0qUtzN2a0nJQL2QTYs1ZpsKDRwLqbWka8R4Is89DRYlvSRkkkdjLySJAMOfuy4noEhrHnxCdgnZJe3BcihH+QUSkod6GRlR+SzdiOQYcyhhrw/0BVH6r4zPiAFEuVwrZ15EcbDGsM1kXK/kuDIvTAkQphVfBdLnjoC107ZYQtm28ozwpI+ZVR1VBT9lzFWkcDqyPjQELWpJWI0z/w6E65HVhrOuTgpVzmRq4a2YDkg9pHRMGJoR8Lz3QS0X3C0CzYWM/Z2IpuMdoeDKX/+rR2gj/I4qBCz7nqNpcETekGVGST5wMwY+NX/HtGmHaUkq1rh/doPdvSqwVRXUFpKx1XFWjsof1woF0pcYU+OAELLOgDDF35TNBcteGDUVA/I2td03wa3cpYGOggZIJI/xqBIJrnQ==;iE5VKK0KUT/EAGehQisuKA=="
 ---
 

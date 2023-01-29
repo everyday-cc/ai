@@ -1,21 +1,20 @@
 ---
 category: news
 title: "UT Austin will offer artificial intelligence graduate program online"
-excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
-publishedDateTime: 2023-01-29T02:36:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
-webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+excerpt: "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,"
+publishedDateTime: 2023-01-29T05:24:00Z
+originalUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: houstonchronicle.com
+  domain: chron.com
 
 topics:
-  - Computer Vision
   - AI
 
 images:
@@ -41,6 +40,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "UT will launch online master’s program in artificial intelligence"
+    excerpt: "AUSTIN (KXAN) — For the first time ever, people may be able to pursue a master’s degree in artificial intelligence online at the University of Texas at Austin. The university shared in a news ..."
+    publishedDateTime: 2023-01-27T04:00:00Z
+    webUrl: "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/"
+    ampWebUrl: "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 59
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2016/07/ut-austin_37219191_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 697
+        isCached: true
   - title: "AI Master’s Program Launches at UT Austin With Ability to Serve Thousands"
     excerpt: "Just as artificial intelligence (AI) and machine learning emerge as the fastest-growing in-demand skill sets in the global workforce, The University of Texas at Austin is establishing a new online master's program in AI with the potential to bring thousands of new students into the field."
     publishedDateTime: 2023-01-26T16:44:00Z
@@ -56,6 +71,6 @@ related:
         height: 416
         isCached: true
 
-secured: "KDvh31SDca/9Yftf8het6XffHvl8gPbyQxdAcI3k49Ysi/NDASTuC6fusp5gZFmguroj1cC0vSho0Cj/SAJzx2XiTwLUMlDlezrjz9U62PZ36hnPTVqRncWwrq0uCuMZIj80xr+jLGhzrNJDV7TWzl1mDoR+3pTEJFF5RXw9aYZfJgxA2rXLMFX1bNeuyPb07raHMTyPlgQCPdZ6zGv0PaRakMlla7OHNZ3CUAN+wmxb0Cq8UHSdk8ZExCNgzJ45Qehcj6dKiIfHncmcsKvev22rTyR1XoawQMxA9lTYYr7RESbffKoTUnqKdRbt8dg/y5glAxSsgKC0Gwbb3bf1JMgkEX5y4U4P0Shue2q3Eck=;924tx/Lsupse4Of2U8SckA=="
+secured: "d3SLVAUvJ0aTliFeuFG2QpQRGOkIRE+pCbmesnr/AUalIZUxdyo1pjJMBqsMXV/WrkkA6JxWItm6b6nDYKBdBfGS6rxUDNvWZEdpsQLvON/H45rhSekSHnzxR3MQec38MJady82DESYOmDKxEywQIBrFcwlt5ayU0RylLd6h+eH6gr0iPKAMmaTPuIr1cB62d0h9gMrTycjhFymC1Q4tXPGiSKQSVmbJEapZNOjoTluKuGgtBs9zRCUUgX/g3OaLbKHG351xAwjr12lv1G04Ub1gIi1WlTei9/0efF0RxcG0Wk0ntdM39ly8nkOLAbaB6azjsxUMymbpGtPPk57eJ79PZw/FgOFPGs1UppgLZkE=;mUFfxKfjC0GykjMXD6tgiQ=="
 ---
 

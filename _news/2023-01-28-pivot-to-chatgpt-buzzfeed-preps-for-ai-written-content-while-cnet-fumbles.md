@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
+    excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
+    publishedDateTime: 2023-01-29T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-712435/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
     excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
     publishedDateTime: 2023-01-27T12:00:00Z
@@ -256,6 +270,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-117130,msid-97396590/meet-sam-altman-creator-of-chatgpt-and-president-of-openai-that-aims-to-revolutionise-responsible-ai.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "ChatGPT and I wrote this article"
+    excerpt: "It was trained on a dataset of billions of words and can be fine-tuned for a variety of natural language processing tasks, such as language translation, conversation generation, and question answering.” A screenshot from the ChatGPT website showing the ..."
+    publishedDateTime: 2023-01-29T10:19:00Z
+    webUrl: "https://www.dailysabah.com/opinion/op-ed/chatgpt-and-i-wrote-this-article"
+    ampWebUrl: "https://www.dailysabah.com/opinion/op-ed/chatgpt-and-i-wrote-this-article/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/opinion/op-ed/chatgpt-and-i-wrote-this-article/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 44
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/01/29/thumbs/800x531/254190.jpg"
+        width: 1600
+        height: 1062
         isCached: true
   - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
     excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
@@ -429,20 +459,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "This state senator drafted legislation to regulate artificial intelligence technology — with some help from ChatGPT"
-    excerpt: "Could ChatGPT one day run for political office? Probably not. But the artificial intelligence chatbot is already helping elected officials get some work done on Beacon Hill, although it might not be too happy about the goal."
-    publishedDateTime: 2023-01-24T18:45:00Z
-    webUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 21
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1dMqR9uZP_2o0vW2V28uamoq-6g=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/Y7QS2BYEP2F6JPV743MMEXSJRA.jpg"
-        width: 506
-        height: 337
-        isCached: true
   - title: "ChatGPT AI bot passes law exams"
     excerpt: "An AI chatbot powered by data harvested from the internet has passed exams at a US law school after automatically generating essays to an acceptable academic standard on topics ranging from constitutional law to taxation."
     publishedDateTime: 2023-01-26T14:09:00Z
@@ -452,20 +468,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
-  - title: "Two elected officials drafted legislation to regulate artificial intelligence technology — with some help from ChatGPT"
-    excerpt: "Could ChatGPT one day run for political office? Probably not. But the artificial intelligence chatbot is already helping some elected officials get work done on Beacon Hill, although it might not ..."
-    publishedDateTime: 2023-01-24T18:53:00Z
-    webUrl: "https://www.bostonglobe.com/2023/01/24/metro/this-state-senator-drafted-legislation-regulate-artificial-intelligence-technology-with-some-help-chatgpt/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 17
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1dMqR9uZP_2o0vW2V28uamoq-6g=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/Y7QS2BYEP2F6JPV743MMEXSJRA.jpg"
-        width: 506
-        height: 337
-        isCached: true
   - title: "Generative AI and ChatGPT – Is it the disruptor in the digital world needs?"
     excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
     publishedDateTime: 2023-01-26T13:14:00Z

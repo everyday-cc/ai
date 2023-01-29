@@ -1,24 +1,24 @@
 ---
 category: news
 title: "AI tools can create new images, but who is the real artist?"
-excerpt: "Getty said it has begun legal proceedings in the High Court of Justice in London against Stability AI — the maker of Stable Diffusion — for infringing intellectual property rights to benefit the London-based startup’s commercial interests."
-publishedDateTime: 2023-01-28T18:34:00Z
-originalUrl: "https://journalnow.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_96098a0f-8f6f-5253-af2b-c9534e71ad70.html"
-webUrl: "https://journalnow.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_96098a0f-8f6f-5253-af2b-c9534e71ad70.html"
+excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app. But some living artists and photographers are fighting back."
+publishedDateTime: 2023-01-28T17:30:00Z
+originalUrl: "https://poststar.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_d633cbaa-962c-59ff-abf5-87db04d3e035.html"
+webUrl: "https://poststar.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_d633cbaa-962c-59ff-abf5-87db04d3e035.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Winston-Salem Journal
-  domain: journalnow.com
+  name: The Post-Star
+  domain: poststar.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/60/96098a0f-8f6f-5253-af2b-c9534e71ad70/63cedbd74e7b0.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/d/63/d633cbaa-962c-59ff-abf5-87db04d3e035/63cedbdd53340.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 507
         isCached: true
 
-secured: "DVT1+iH0AHeMYcYq0UBfzJG5Kb9TBJPoI0ZuannaHOR8obeHBXusAKZwLEWXRpr/1DnPUyILeVtLalmKHDVczKctVRTX0Zdzh3ELYZWV2dnuHITeLpNEVwTtW46ehoG/j6SSSGiPcMIvimeeeDRJOjhQYv4V9YYv8xVuLZAI8J/BUkl2ocY0HVDy1+lIbmFL9j3LMiHYiTkSjg6coS2Y+P6JgQq/pfIERUikGRBaW7joLt4UYlPXOIlyyTFtlA8e3eZPjhKqwB1Fu53JuKgQ+HELwqKdxep1g7FDgnq5EaDPAe0lMkS/jYXy8JQn+D30f6+b046RbAwc/iSu30PgQPj6lvz1NYFh7v2ApbORgMk=;N01F+1EVT4PwW2zvNnIB+w=="
+secured: "6uRTbP9upYj4Px9CzIjQaesfijid0Jcz8yxhbsFvdXHM47sihetNhXGgaB/MLqpm8qS/Nol6fgOjnIODdfmXY4uVJV5/E9zY9DEWwEYIZqELqgc1uhh22vyaR2cckwm1m9lX1KMWFdMLP9Aou0JCR3r29qjXy5GQaau+cxyyPZgfYRHq9MjFKG5iw5PNrjWZKOdsBjmrLNietBpCI56Wpw697q6xDqmKX/QD/EUOxtBZMKhVNZiqx8CV9e0p/bXEUgnnRw56uyAV9Uqqg+24jitx3dJiAOofEJRNoJm5pKtgCMCLRgQaC7v+fQpTt0XTA4nA8rq1Dzu2Lxe+6Xx4qE04MRkgq208f9AScG46e8w=;VBbhBcQS/ii/Kx1ECaeybQ=="
 ---
 

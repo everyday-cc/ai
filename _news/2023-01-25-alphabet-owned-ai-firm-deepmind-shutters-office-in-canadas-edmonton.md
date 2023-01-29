@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
-excerpt: "DeepMind Technologies, owned by Alphabet Inc , is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google's parent announced it would lay off 12,"
-publishedDateTime: 2023-01-24T19:37:00Z
-originalUrl: "https://www.reuters.com/technology/alphabet-owned-ai-firm-deepmind-shutters-office-canadas-edmonton-2023-01-24/"
-webUrl: "https://www.reuters.com/technology/alphabet-owned-ai-firm-deepmind-shutters-office-canadas-edmonton-2023-01-24/"
+title: "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton"
+excerpt: "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton (Reuters) - DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a ..."
+publishedDateTime: 2023-01-24T19:54:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton"
 type: article
-quality: 84
-heat: 184
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=127"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Alphabet to close Edmonton office of AI subsidiary DeepMind"
@@ -76,22 +70,6 @@ related:
       - url: "https://images.livemint.com/img/2023/01/24/600x338/Google_4C--621x414_1674569949220_1674569949220.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Alphabet's DeepMind lays off staff, closes Edmonton office"
-    excerpt: "Alphabet Inc.’s research lab DeepMind will close its Edmonton, Alta., outpost and lay off some operational staff in the U.K., part of the tech giant’s recent program of cost cuts. The artificial intelligence unit has decided to close down the Canadian ..."
-    publishedDateTime: 2023-01-24T17:30:00Z
-    webUrl: "https://financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs"
-    ampWebUrl: "https://financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/f382ecb6-8edb-47a2-84cc-c21c78c10f8f/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/f382ecb6-8edb-47a2-84cc-c21c78c10f8f/amp/"
-    type: article
-    provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/01/google-vw0124.jpg"
-        width: 1000
-        height: 750
         isCached: true
   - title: "Edmonton office of Alphabet AI subsidiary DeepMind to close"
     excerpt: "DeepMind's Edmonton office was the only international site directly managed by the subsidiary, making it more resource-intensive than the other DeepMind spaces."
@@ -165,6 +143,6 @@ related:
       domain: gizchina.com
     quality: 19
 
-secured: "73oOoqP8DeRq2GxxoGPMOXtyPnxcuCUNTVd8yyr0CyWpVkVyYQFgSMX2VUj2R7Q1qYMkLMzPP243+tMiLTnFoTZFYoB84Jx5T+M8FltZX7q2jX8+4638MWkulzOHOEO13CdZGyPnKKnXpPW6CLSX2c+/N9k4Yr8loF1OkClhnPPatSyL4b4kRRSiEBpiQXtHnQO8jHL2rpA0EH0DcGxapc5S+fac92mculv/XsA3eUwHfXMeQEW4qxczcidm7yCzqil50QGqlE0OnITWwVOSBHT2sNQAj5F/xpB8SoRVxjHHT0ZBxy9Gv8lHlnDZOJEJNbOANkjuO14zx6VjGoccMZxLIHc0ecFNaPc7B1Akz7g=;A31mf/6FYqSXghnAClxmzg=="
+secured: "sX3S1V68qxkDybgjOx1FjLtK5PRHhpGng3Rt1xA/XgFUOvo0RYpc5gRz+At03P4T4C1f+91wb1lFakgHrRCTD1Ti1p3PSIK59cC0c2n6wIUBOfgVBJfQOkGqcWr4uj1YplWzpMK+DI/voMwDv3C/Q6wRivuloLmyrKHUXqDJk2xuBmFcnhGGl8OBfs7Yxgs7KNqlnNl+pm5e0YuPS1H/XhPsvZ8k6HiCv2KaQXQrIqWcO4ojDf5uE+xXZPUaX/VZe9jCnuczew8eTkdSsD/BGCbNleLmI89X8pu9aor4iDbiHnLDMWccXbF8XZlpR8pkwpw1nCdQSbXpujvVHdWEtsWoR2aKVtpCpXtYhhapd0E=;fghy65mOJZyRHij5YxtqqQ=="
 ---
 

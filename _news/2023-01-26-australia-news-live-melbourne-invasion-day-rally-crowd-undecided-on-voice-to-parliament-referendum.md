@@ -81,15 +81,6 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 19
-  - title: "Voice to Parliament comes into sharp focus as referendum turns increasingly political"
-    excerpt: "Anthony Albanese is returning to the playbook that delivered Labor government, but it remains unclear if that will deliver constitutional recognition for First Australians."
-    publishedDateTime: 2023-01-24T18:58:00Z
-    webUrl: "https://www.abc.net.au/news/2023-01-25/voice-to-parliament-albanese-dutton-strategies-referendum/101886144"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 0
 
 secured: "ofwzyIg3VhF4xNCFhv6qkJCvU0279Asy3wWiJtSoRlNtDktEcDaTUKFcKZ/42fnCBwR//2RDNHLxhFetZDmictYUdca8NhLrDwQq/ywVDy8nfbhuVoKSFYh7CNROblry7N7V0F+NUb61Bnr6kA7JvWgBMLuT384rFcif4sniXGgbUdR/Pdj7eORVkI5B93nF1OMO+ULQv3sUPWol6hxGsUAQpi+bffdkGpBxPEkhyqf2Ck+aIpDsoZxjEV6Nv47qHE6ainuWZ6oiIZJHl7bNmNmDUdQdqJta3vZy+VBaKbmuYsR5KO9xQcnMNtGrOcXC6vtDLNN+w/vHZ2gm/BgnbdbZayVYsu9ZtLl9FsK5leE=;v2Ux4KE547EXj+8xn+puXQ=="
 ---
