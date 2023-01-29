@@ -84,11 +84,13 @@ related:
     excerpt: "Massachusetts Congressman Jake Auchincloss took a creative approach to his most recent speech on the House floor to make a point about artificial intelligence."
     publishedDateTime: 2023-01-26T14:43:00Z
     webUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
+    ampWebUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
     type: article
     provider:
       name: WHDH
       domain: whdh.com
-    quality: 5
+    quality: 27
 
 secured: "mF9v6utubvIjlEGAf/JetrRixhPwizgWp4cNA3ZITi1CwANZSHq5ewo9asearBmFrMrt7b/PnmIeEqgkoFT/bd2w6v30T4AM++mfQrXVt9/lE8lrDeeBrgc42ZRnlOapCPlMQDlfk6ngm+u4w+vEumtLwWmuj/0cMb4crx30N5tW7/sUlaB191bUd5n8WxNZrEKpEWdd5ypbZq8d26dbxgTXpe1sNgYPEKT2Yvu259vqCnU3Z3EWP6fX0m5YgEO1y3gZiYYWd9qcQD3dWS3J+hgDjKrf1H/zpRbv81yFndn1TSmu1FkgVOQ+laGr29IjeGbCxO8VFu6u5tZ99ugJ0aY2/5VH0TEPwbO3typPyWG/NZUHgsCHoo9TG7+CmVzhi8L0DWk8vNrLuViLTfwLDxdsyCGv7JhxdFO4aALCbFqldtLGIQC1EqVeE66GJQSS2vlDS9shEeBCilHSpA6Xb6yeCrNtcPqtR35wNLaLZQLYqloXRpUrmg69YZ8o/xxwbS/Vo/o7fIKgMoE56K5MUg==;oZi3jTxMmROB0afEV/8UMQ=="
 ---

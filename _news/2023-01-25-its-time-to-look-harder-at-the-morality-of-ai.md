@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "2023 will be the year of AI accountability"
-    excerpt: "With AI seeing growing adoption in the world of business – and across marketing and advertising functions in particular – emerging technologies will come under greater scrutiny this year when it comes to assessing algorithmic biases,"
-    publishedDateTime: 2023-01-24T12:00:00Z
-    webUrl: "https://www.thedrum.com/opinion/2023/01/24/2023-will-be-the-year-ai-accountability"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 39
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/637022/aiethics.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The Merger of Artificial Intelligence and Psychiatry"
     excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
     publishedDateTime: 2023-01-26T12:36:00Z
@@ -70,7 +56,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 39
+    quality: 41
   - title: "It's time for banks to get more intelligent about artificial intelligence"
     excerpt: "Artificial intelligence now has the potential to fundamentally change customers' relationships with banks, impacting everything from onboarding to retention and upselling."
     publishedDateTime: 2023-01-25T15:26:00Z

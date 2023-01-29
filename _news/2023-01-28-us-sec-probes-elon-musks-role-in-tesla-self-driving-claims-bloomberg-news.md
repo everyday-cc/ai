@@ -97,6 +97,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk's role under scanner in Tesla self-driving controversy"
+    excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."
+    publishedDateTime: 2023-01-29T04:06:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy-41674964305530.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2023/01/29/1600x900/Elon_Musk_31_1668134290957_1674964963750_1674964963750.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
     excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
     publishedDateTime: 2023-01-28T00:03:00Z

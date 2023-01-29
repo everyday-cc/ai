@@ -108,6 +108,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk's role under scanner in Tesla self-driving controversy"
+    excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."
+    publishedDateTime: 2023-01-29T04:06:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy-41674964305530.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2023/01/29/1600x900/Elon_Musk_31_1668134290957_1674964963750_1674964963750.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Elon Musk Under SEC Probe Over Tesla Self-Driving Claims"
     excerpt: "Elon Musk allegedly supervised a misleading promotional video in 2016 that claimed a Tesla was “driving itself” despite the car not truly having those capabilities."
     publishedDateTime: 2023-01-27T21:24:00Z

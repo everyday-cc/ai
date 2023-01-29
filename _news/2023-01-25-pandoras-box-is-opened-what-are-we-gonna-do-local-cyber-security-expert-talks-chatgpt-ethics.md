@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Hidden Cost of ChatGPT for Indian Languages"
-    excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
-    publishedDateTime: 2023-01-27T07:59:00Z
-    webUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/chat-gpt-in-hindi.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DoD wants to declassify more intelligence to enhance private-sector cybersecurity"
     excerpt: "The Defense Department wants to declassify more intelligence to enhance private-sector cybersecurity. GSA is taking new steps to make sure the software it uses is secure."
     publishedDateTime: 2023-01-25T16:24:00Z

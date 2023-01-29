@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says"
-excerpt: "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities."
-publishedDateTime: 2023-01-27T23:43:00Z
-originalUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/"
-webUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/"
-ampWebUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
+title: "Elon Musk's role under scanner in Tesla self-driving controversy"
+excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."
+publishedDateTime: 2023-01-29T04:06:00Z
+originalUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy-41674964305530.html"
+webUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy-41674964305530.html"
+ampWebUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
+cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
 type: article
-quality: 97
-heat: 257
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: YAHOO!Finance
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Auto News India
+  domain: hindustantimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
-    width: 1200
-    height: 675
+  - url: "https://images.hindustantimes.com/auto/img/2023/01/29/1600x900/Elon_Musk_31_1668134290957_1674964963750_1674964963750.JPG"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
+  - title: "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says"
+    excerpt: "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities."
+    publishedDateTime: 2023-01-27T23:43:00Z
+    webUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/"
+    ampWebUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
     excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
     publishedDateTime: 2023-01-27T18:16:00Z
@@ -97,22 +109,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elon Musk's role under scanner in Tesla self-driving controversy"
-    excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."
-    publishedDateTime: 2023-01-29T04:06:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy-41674964305530.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/01/29/1600x900/Elon_Musk_31_1668134290957_1674964963750_1674964963750.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
     excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
@@ -242,6 +238,6 @@ related:
       domain: stuff.co.nz
     quality: 19
 
-secured: "QclFkJ/0mDC/Ybveuux6kmaOU/i4eW4lxlLB7Pyp8hwyZA8AM+beJY2o5U5DVqulfV3nkloXXSlUJMYHOY6TZ0x/t6UXtkwGh7qF1a5bbDBqUR+FO2ZlivRMC/m2MllHFjC9wcoul4XH2Ie3MA/7eevXPT4FrgUwcxZRCrJZqFtzhxtMIKhZP9bnJByacvfkR+OZxCz+lk3zaFSVDfml1WJXVnnmu3F5SiUzhRLEMxrJInMIERZpsiF+MelsEDvb6V1frDv26UGegFy37vWkrrrH5UHryxnLtjf/jHZxodShinbU5BIP3KSg/CbcKjm1KVcrfJh09ypUQfvwbaaWHg4gzXaoCH4BAm1ovmifwR6N11hLcpYKioohvybTr3lMwYJPiTthvaix/QwdyiaBVKxPTyhYnfZ8nbfZX0XCbqQk9xqgQAnaz+iGR/h5JOSrebr498w34Moh7pu9Og3h5Vggl5CB1kF/5IypCAUb5XcLAAFihWFiFCkUzfKFUtRlSsxCcyYmWYCCNNCmTz8TlQ==;ngyEezvAG/Vdn6LScfp6vQ=="
+secured: "QdkJkZ9eMcIgbq1aiJQVRR4/QwGnW1yVnRCCpNLTz4EKz8QtOFGSe3D/fHv9ljw143SprtYVVSaG8O2dyGRWiaw4Rn+mx6v62EdTDw3YDVDOTib489du1g63G13I33kMJWWGS5CVV9kXrCBfBAQbLxrGZ0qW950XhzhB7nCGcQLl4f1RDIsXu6VEKTLCpq6N561kulX6BTrsjpiZPiDg58m4WKai8xQZcNi/HRj6dEHnzFwAMS0LzX1sw4zrM4STWNa/u/K0RZJo3dri+DKdhW3OiU2Aq6Ntp1AxCiubiKHkJzZ1b3cFbrnvtoiczBSxpd5hXKFboklCWG5FIKurGpyF77EV9nUb0XjkuC7FHa4=;tJe3FfDIfddCWEcsRNxt1g=="
 ---
 

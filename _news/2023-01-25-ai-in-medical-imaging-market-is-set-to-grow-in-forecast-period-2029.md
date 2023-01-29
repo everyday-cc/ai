@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
-    excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
-    publishedDateTime: 2023-01-24T11:36:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/24/9747825.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "SubwqaKXHM/6ye7OHqkx1DRiK0LAM1gOb7znesHgXMgkMk7gzmvHu5s9N/oOozhKc8EjhsoZBLk8rUlBOHz148Cb+a02U5VeR8WEIYjwNSCjcQGsx+jPGXFy8Z7Hq5D85H9HhtO/xy25CktlrRbCM2YO2Nlh7ndo29Y2gjlQdrlDhaF+8kRLSQ0N5G9un+5KGxe2Y0ANqjLLbqVFbXyBZVqEaVXJ7NmKozl1v1NmSNIOcrxc7qtxNuX500l6ZVvYyiBYH1NB4rlxzq5K+C0iuNBOd4koxLzxf6khcnDwtupCjj38OvSrYKpzx6mEMRbFtdiONAUgpfhLL4pzmSE8jY1+FCqNey8w2dQOoWhtft8=;/ZJ3Ef/bUkLbrLcVi1N68A=="
 ---

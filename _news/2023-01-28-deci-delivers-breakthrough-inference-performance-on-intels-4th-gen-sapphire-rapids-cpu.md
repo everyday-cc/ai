@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-28T14:00:00Z
 originalUrl: "https://insidebigdata.com/2023/01/28/deci-delivers-breakthrough-inference-performance-on-intels-4th-gen-sapphire-rapids-cpu/"
 webUrl: "https://insidebigdata.com/2023/01/28/deci-delivers-breakthrough-inference-performance-on-intels-4th-gen-sapphire-rapids-cpu/"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2023/01/Deci_fig1.png"
@@ -56,6 +57,6 @@ related:
         height: 225
         isCached: true
 
-secured: "2PYEp/BxZrGQg9vpcoA2kd0aDpjJLMYaA/O0eWnFGPJZmH3x8WSR4ltyR8VyIHEBvR6kJy6KlcrNTbI4RbjX01kizKu0tdavwiSSI+SJffqStLstqbVANscA+L8rjT0UT6PvGB4l/xoiGL4k6EbatDqkGZmmm5gNCPeRSEL7eoMrY7eL6yB0VJjAZ9U8tuOFXL3B54wcpCEObsI9WllbSesJ7ogEopEIQfAsJrRU1ekR1+lGXOtgaXxhJtPUKuifRTLFcAkIcPTPl5Ii/dzTAUEn9edArgct1B3tjbHQzRvmsqKVR08CnWsxKviaqfdQEjd5f/Cztk7Q6BDDpCe67UGzeWfvyuHIXKhZdj56lDo=;N2pRxWZi1TrN092RtGmZxg=="
+secured: "uX9E/IBrjjfhDq2pKEfSYa0zJtazhcbfkmEvK//eS7Xvx7lDYvJmfUefWdifPNVYycicyXYvqIRjWPx1FPfkdZCt2tyPPikBbY354p4IBLB/R25NLQewn/wUyjbu6Tshy+3B4o/rGSFACdL8k53TWDzzdPZ/zMHV7pZGHi+VVxyCfbmJvym1MchTmYQwm9iY3M3goGeO7hpWglTtDB1CCC3ZHeSZUC0Uly3wLnQqGrDHctq2V75xKkUlc3NL2Pc92Fp0hPnvwTvaBp3bNS/GIbmqRQ3U8dpC6YPgTfCeQ5/sHyZMRa0yI3suecTx1roaAEdUfkLV9i2NCTGIVaZHYcqXlmWZPf1lluFmdtCghTJ9XD8F+Gqh9qiKNaS8YxTkj5EKoLloXKoCZwHGs8LNn4TFGyOP5mGwS4vRCwYntxuAIZlc/az7VuwYCvrayHRJnR4ucDukd7+1dJNURpjqjQ7zRFuUEre6xB+aVBN9ATwbnUJNbxHBzeW4m8k8/EkvFfhrF0FCypjckwpF4AbNZg==;TddlIVT0Rokt6dUXFVc+0w=="
 ---
 

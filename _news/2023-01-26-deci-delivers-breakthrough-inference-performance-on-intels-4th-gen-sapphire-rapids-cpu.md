@@ -50,7 +50,7 @@ related:
     provider:
       name: insidebigdata.com
       domain: insidebigdata.com
-    quality: 16
+    quality: 18
     images:
       - url: "https://insidebigdata.com/wp-content/uploads/2023/01/Deci_fig1.png"
         width: 700

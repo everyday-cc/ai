@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-26T12:37:00Z
 originalUrl: "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164"
 webUrl: "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.wsj.net/im-704289/social"

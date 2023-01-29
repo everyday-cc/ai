@@ -131,20 +131,6 @@ related:
         width: 515
         height: 215
         isCached: true
-  - title: "Top 10 fintech disruptions to watch out for in 2023"
-    excerpt: "From new technologies to tough regulations for crypto, 2023 is already looking like a year of change for fintech."
-    publishedDateTime: 2023-01-24T12:10:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/top-10-fintech-disruptions-to-watch-out-for-in-2023"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/b9ea599af5e4cdf45bd09a2efce17d09:2d2218789124b00b58b28baca6ef5e04/gettyimages-1130023029.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
   - title: "Reasons Why You Should Consider a Career in Fintech"
     excerpt: "If you’ve always wanted to work in fintech, you’ve come to the right place. Fintech is an exciting field with plenty of potential. As a matter of fact, there’s always something new happening in this field."
     publishedDateTime: 2023-01-26T17:37:00Z

@@ -176,20 +176,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 34
-  - title: "Google parent Alphabet shutting down Edmonton location for DeepMind, consolidating across Canada"
-    excerpt: "The company, which was acquired by Google in 2014, has artificial intelligence research centres in Canada, France and the United States"
-    publishedDateTime: 2023-01-24T12:10:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-google-alphabet-deepmind-edmonton/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 26
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/jDSF4RISBYLSIy6FRxhyJY-t_KI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/7CMC2BXSDBJLJCRWFC7V43DSVU.JPG"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google lay off more employees as DeepMind closes its office in Canada"
     excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
     publishedDateTime: 2023-01-26T09:49:00Z

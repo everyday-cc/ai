@@ -1,47 +1,36 @@
 ---
 category: news
-title: "ChatGPT Is Doing for AI What Apple's iPhone Did for Smartphones"
-excerpt: "ChatGPT isn’t the first company to do what it’s doing, but it is what is taking the world of AI mainstream. To stay updated with top startup investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter Venture capitalists ..."
-publishedDateTime: 2023-01-24T14:36:00Z
-originalUrl: "https://www.benzinga.com/news/23/01/30548006/chatgpt-is-doing-for-ai-what-apples-iphone-did-for-smartphones"
-webUrl: "https://www.benzinga.com/news/23/01/30548006/chatgpt-is-doing-for-ai-what-apples-iphone-did-for-smartphones"
-ampWebUrl: "https://www.benzinga.com/amp/content/30548006"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30548006"
+title: "ChatGPT leads lawmakers to call for regulating artificial intelligence"
+excerpt: "The rise of the chatbot ChatGPT, with its ability to generate informed, sophisticated text, is leading lawmakers to push for government intervention in the realm of artificial intelligence."
+publishedDateTime: 2023-01-26T14:11:00Z
+originalUrl: "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence"
+webUrl: "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence"
+ampWebUrl: "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 89
+heat: 449
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
-  - title: "ChatGPT leads lawmakers to call for regulating artificial intelligence"
-    excerpt: "The rise of the chatbot ChatGPT, with its ability to generate informed, sophisticated text, is leading lawmakers to push for government intervention in the realm of artificial intelligence."
-    publishedDateTime: 2023-01-26T14:11:00Z
-    webUrl: "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "ChatGPT uses AI to pass final exam at UPenn’s Wharton"
     excerpt: "ChatGPT uses artificial intelligence to write an essay instantly on any topic. It even passed an MBA exam at UPenn’s Wharton. NBC News’ Stephanie Gosk shares more about the cutting-edge technology and the shockwaves it’s causing on college campuses."
     publishedDateTime: 2023-01-25T00:25:00Z
@@ -176,6 +165,22 @@ related:
       - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/rHS0lidZxCLKaUAjmNq43_mZzUE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIYVSTOR6RFGHOTXVJOUDCHNUQ.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "ChatGPT Is Doing for AI What Apple's iPhone Did for Smartphones"
+    excerpt: "ChatGPT isn’t the first company to do what it’s doing, but it is what is taking the world of AI mainstream. To stay updated with top startup investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter Venture capitalists ..."
+    publishedDateTime: 2023-01-24T14:36:00Z
+    webUrl: "https://www.benzinga.com/news/23/01/30548006/chatgpt-is-doing-for-ai-what-apples-iphone-did-for-smartphones"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30548006"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30548006"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/01/24/neil-soni-6wdruk7bvte-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
@@ -519,6 +524,6 @@ related:
       domain: bizjournals.com
     quality: 2
 
-secured: "hhV1HG8pAGYUeTMAufwXJB3o/CmHcJn1jRr4Yw3na+uw7sddtSOC77PhyVdgGMQSbcLhJK04RIektVBO8HOrPEP7XM0aUS0x/IRsPK48TPRVvPYA4u813hlf0Y0LzxV6hmT5H6MbhW+t3HUEj722mJkRsPapt6FTKWmY2+495HisKbbYWxNWKXlbkG63rnSPPjDrpADFg5mZ37EAp/GP1y6HYO5/krL3ckF8lwbiYgMAP0cr1bWElwA+J3igPKHbi2eDhXaz1Sw7cEZlV8OhoCma7zInu9RsuGmYszUJuPq0JLbEveey25yG43MLxcQVaHnO/EeJTSW2j6KFDjAuIspfqN9U/Q9xpIuvfNSciPQ=;g3MndIhEzt4CY0QMYYT6mA=="
+secured: "ukuYtkEp/qb9uMTBjxZGtsPMI+HXi88piRKyijgyR2V2mT6hzNe0HBQGntEIyL5tSn+LWE3tnIFX/AldXuFcnyvoTkOUH5XHDzoE8NFWVHy/6jivReOm00B65f64uUglT2GuCFCNy28XjDv2ujoCxpzHpP7l6RLmZNoJTFYr81o0GrpEnxyEAFdQiiez89sVevp7FwuTa/keAN3PmhV8NQbAzhitDkiFKANnouNumb0Sjb1Wh4PV2PnsbRPBBG+tHJKJVXQMLH1xF4X6xeQLFWe4rAw5/VianCYEp1zPu0/l6bU/EaMCFxnpYGJhoEJvNwK4u0zGg2radBGH5lwErVsyy/wd8Yb90UjTsAjU3ik=;NdtCGMMe7qejhVdRN42wJg=="
 ---
 

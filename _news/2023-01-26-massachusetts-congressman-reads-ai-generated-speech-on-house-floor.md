@@ -73,6 +73,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mass. Congressman Jake Auchincloss gives speech written by artificial intelligence tool ChatGPT"
+    excerpt: "Massachusetts Congressman Jake Auchincloss took a creative approach to his most recent speech on the House floor to make a point about artificial intelligence."
+    publishedDateTime: 2023-01-26T14:43:00Z
+    webUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
+    ampWebUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 27
   - title: "Mass. congressman reads AI-generated speech on House floor"
     excerpt: "Auchincloss said part of the decision to read a ChatGPT-generated text was to help spur debate on AI. Read more at Boston.com."
     publishedDateTime: 2023-01-26T14:29:00Z
@@ -82,15 +93,6 @@ related:
       name: Boston.com
       domain: boston.com
     quality: 17
-  - title: "Mass. Congressman Jake Auchincloss gives speech written by artificial intelligence tool ChatGPT"
-    excerpt: "Massachusetts Congressman Jake Auchincloss took a creative approach to his most recent speech on the House floor to make a point about artificial intelligence."
-    publishedDateTime: 2023-01-26T14:43:00Z
-    webUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 5
 
 secured: "HhQCEueYsIn+OXaJe3u3QXT0kc2AqJv2+0gfiaKX0m1A5KMAsVWAFFVSoncJIV9WBGpHSVOdDwBX43BpwmXLmXawT/QSn7aT9Lnf+3WJZPO0akkTBOjXz2P297DcD52FCb1VQfvxHTd36qpoR5CfcSJ7GYNOp7cUiJ8WIbvuFUDzwHdIfD+EUQkLwhfG6fAI/XZJwRYtPo3jgwXDAFmtXb+2m5WMoRdlR0YbRc++7AEinQSzmFj94tYazjRKpywbam3eLEsCqIYypXs0OCsTzWLyM2BquGlfg98u5TYom7c7bTP9wsJtjnEs/38FqrRB4+kkaZy26mlqMnsWLASyA7qoK0j/NPkWBbpJhvfl1H+Cg5k7R6GwIaM2rokN628vd1y1L2tylLYVbCCPJLH+RYqBnpBsPcPYWa7L0H2B3tRmv22j6lTimKIME+F1rkXlNvBBhSVtrOsftgkqk+gczmLkF2sfR+OXXdgTHV3GDELserH0bB7qYfT4SNWDJL+PRT/LVW7l2SHlC0bQ5iID7Q==;wtV+3UDJWduNaXxtTXjf4w=="
 ---

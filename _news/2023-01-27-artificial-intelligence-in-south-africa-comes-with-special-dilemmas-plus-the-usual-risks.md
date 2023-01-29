@@ -2,30 +2,24 @@
 category: news
 title: "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks"
 excerpt: "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa."
-publishedDateTime: 2023-01-27T11:38:00Z
-originalUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
-webUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
-ampWebUrl: "https://www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
-cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
+publishedDateTime: 2023-01-27T10:26:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
+webUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
+ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: modernghana.com
-  domain: modernghana.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI in Autos
+  - AI Ethics
   - AI
 
-images:
-  - url: "https://cdn.modernghana.com/images/content/1272023123738-0g730m4yxs-file-20230106-13-750vf8.jpg"
-    width: 800
-    height: 338
-    isCached: true
-
-secured: "Eg5Cuak6uKOpIdLHu3kAFuGSSygp7dwPKVRQf9pXWiUJmFG90JV29wtWqDbyP4cCtbLkZ8DlJauji0SkRkdOWNHPa3XVO2eRpXa+smLbkMcRSDczMAochGa6ldYB88Q+PUY8O7WgA2jftmcTnCKj1eS7/bjm5oFTJeqmLBLzOIrUAG5ADBH8YnMeuu2oCoYpB1fSN2xo2Fwhf9OMMJRhTxyce6iV+ebEdhlK+UWWEwK6Dn1RdrFGztyY5bl8FOagKKDX+cU5MGo1KXisemsnbypOqTeoFIzKwBqE33aRNX6rJoBn19HZ1UxSx5Zbj1LPLq4+sKRidSgbBJqHsZQkJVxbRa4bO+U9w41pu0keI6I=;e87+iRCn6jnW7JXHVgpdJw=="
+secured: "bNI7q7anm8GTQSC78s4AW8UBgMm0t2fRpvTID9iYXco9AlyQ5TFd9T1lXU63GFG+pPR4HeW+yvXBUQWVd4IdLsqnQibvbOmKUoMxCao8hY6cS7ityneacLnevX2x29UlQ3D+xs4FWB07t83vqVAxfsUMsURM67XSMxgbiylCYCaMoVKJrJCyeOiPITY7D1mgeWw4NxjnFHZm807zmjI7P5AOOOadFkXCb3uCdAzW/g30tCwrYYMstWkthBVRWuegebbZdZDR+te0/yTVOhXP3+E9VLG5exB4yTMJbif8XBDp5UWkCkDFnQfelbTsM5xIiFMgg7N7nJORXQ5hT2drDI3S8Du464zcD+97frhocozRrs8SR8CxICevYqYlf9O5axVfvNnzc17kj8zrJie1uy7h9EgP8LOsl9io317rVcH1/PnVJftbkgsHVAfJ/ekAh6DsU1svPVuGooC78uUvsCtHvhvBC8OjUiKO6ffpRR4bW2azrxzRNhTHPDvjpM1IYPg+OejsgZc8xTM53AQzrA==;OEsNaiiRYee7o6xYk9yZ5g=="
 ---
 

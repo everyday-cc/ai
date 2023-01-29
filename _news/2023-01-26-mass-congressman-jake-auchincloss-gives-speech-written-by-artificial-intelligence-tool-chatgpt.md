@@ -5,8 +5,10 @@ excerpt: "Massachusetts Congressman Jake Auchincloss took a creative approach to
 publishedDateTime: 2023-01-26T14:43:00Z
 originalUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
 webUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
+ampWebUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
+cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
 type: article
-quality: 5
+quality: 27
 heat: -1
 published: false
 
@@ -16,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Mass. Congressman Reads AI-Generated Speech On House Floor"
