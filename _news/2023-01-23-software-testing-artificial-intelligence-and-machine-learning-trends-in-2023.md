@@ -18,6 +18,7 @@ topics:
   - AI
   - Machine Learning
   - AI Ethics
+  - AI in Finance
 
 images:
   - url: "https://res.infoq.com/articles/software-testing-ai-ml-2023/en/headerimage/generatedHeaderImage-1674221439156.jpg"

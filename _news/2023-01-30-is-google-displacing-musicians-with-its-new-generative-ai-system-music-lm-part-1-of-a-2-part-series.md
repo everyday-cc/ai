@@ -1,0 +1,23 @@
+---
+category: news
+title: "Is Google Displacing Musicians With Its New Generative AI System: Music LM? (Part 1 Of A 2 Part Series)"
+excerpt: "This article discusses the risks of Generative AI in the Music Industry and puts a spotlight on Google, MusicLM developments and encourages leaders in the music industry to think harder about the future of their industry."
+publishedDateTime: 2023-01-29T19:02:00Z
+originalUrl: "https://www.forbes.com/sites/cindygordon/2023/01/29/is-google-displacing-musicians-with-its-new-generative-ai-system-music-lm-part-1-of-a-2-part-article-series/"
+webUrl: "https://www.forbes.com/sites/cindygordon/2023/01/29/is-google-displacing-musicians-with-its-new-generative-ai-system-music-lm-part-1-of-a-2-part-article-series/"
+type: article
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+secured: "GC4vgvypEj7QLxofeOZLKAWAvlHf0n1BtEbjTt9BNQe0QjgaWHCNX+EV0bZ1NizeG7B/UtD1vHRNBzyTT5n+zJmT2lTam1+pjZL7I3pZzNBvIJKH0qFhYUQVzh2n2qbMaFFvTWldo1JIBiH8RfT6UXkGYc/zLMcZ9HwLe1O6yp9AsJw3BsoG8Z+IHGxMGnWMLgG2u+eiK9Hl2exYsATl+t4kIG5b5tRF/ddvr8LaRhYt4LxVgRxDzkYSt6uzdbt/oGEccgQHiIgUZGPuhLvN1eDeHUUoAgQRo8bsjmPkooe2sb7eYPQErZtOM7VBAcEZpaHoWUKK8TmQ3n3XVdbxXI0UvNcZVXRv0S4iWQ4PPhzc/R36IwQj0C/TUMn5Y9TcYOGZJQrQfS92luTsx/i4uV7h9CkdzsbuJkzIjABB2hkdmBjxDbjEVXCB7LPnVnrblq8opm4zifJxeauyOVBakY7Si70QIbwElvIg6coJyW4zrofIopKkWohL2k+EOizVyMmkceTaiyN5Q3LEhzE87A==;UV5zcR0v6qmuKr3u84KolA=="
+---
+

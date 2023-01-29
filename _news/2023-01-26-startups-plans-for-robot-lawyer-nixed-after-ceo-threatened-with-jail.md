@@ -6,9 +6,6 @@ publishedDateTime: 2023-01-26T00:00:00Z
 originalUrl: "https://cacm.acm.org/news/269184-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail"
 webUrl: "https://cacm.acm.org/news/269184-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: acm.org
@@ -18,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "IBbLb6teMAieu0ABgLU3jcHPga71VzqT6UW8DtedmhyVZ/flWxxkgJ/XcwDxZQGmtdCBZCRhc4GWoZnwNnkCqEygcbVhKAeUMY1Ob/nnvSsr6kxLDJpXM1WZ8TfesqyQTeBdplYUMph+UyTP5kd0w+oNC93GUEyI4gEHWfVdOtpUc6in98zOC1zk3GHXZNR5/d+Lg8Ad7oao79/DEyQdmYNEbrB6gNdWmv1QDbSpnlEGPkT0B7tqICxuvvcQFejnkoWTEVQ7fJuk57Bm89OeYYppBRcqNG7FXr0SOyUZumNvmmkC0FGhfaihQ9ZfNRdJCHcHUwq1OlEIAbm6UvDpocmMzayP7RmgkhH1xBr8YRhYslT3E7V2fPaGmFhur9j9K5bXGLmnb/av+p3Z8VqK8GkQTpZImmvCd3zatK7l+LvY85zfh/gLBI+x7p/7QCl9WuYdD8l3FqHGzaoeINCiPQqpqYP5tUqTfLTvAWIyvpL5V2fOR8RuwNArWMfgR3M81X1yqW7O8/03JdhyVERoQw==;Q5avTGypVjl+sLE4rq4O1g=="
+secured: "zOu3tBZeoHLplip3hpYnNkmLDgL/Z8mHfnaerxczyzZWflmr9eVx2o01tzcOW3HhNo7dVnCHWxuu9OMuBk+5eK8D8ZAJgqd140ZJHyjfJ2zcnWEoJ4YcYH0VDbAvNSjlUgAQFHakei4feHFZzgSB+idzda8AfR+hjXmZHCMctwjbrR4caVGyErqQOz21doOIn7UmKLIQhq6nIXeiLz8qSoKf1s54I50go5sBIZA09Y6u7AtzirpsR0LivMpu7r6EH9pT+6UrXpKa/GoHFuN13xJvr1IXOXnPzAJ/bYxuKygAWJUKvDBKhEwYMUL99/GcsXNWX+r1gLkktD6Y4gxBBEkZ3W+NSM7IieyToz9vMUWke8qrObSjOnMHafeSoLYHshvGrCnEWUqxvpIc3i42R1pz07gkaAgRPtVz3m05MinXvd/OEbITi//AKlEgKebENUUN8JzmdSDzxxagiKAFGaIunzKDFJf0OeDQ0eu+geTwkblOEa1IqNIGgCZCWKFuiYwEYKLN+jPHb4QMzknP5w==;GN0OSzEZIgmkhIIhQGITAQ=="
 ---
 
