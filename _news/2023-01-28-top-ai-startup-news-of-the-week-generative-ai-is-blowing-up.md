@@ -22,45 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "This Startup Is Using AI to Unearth New Smells"
-    excerpt: "Google Research spinout Osmo wants to find substitutes for hard-to-source aromas. The tech could inspire new perfumes—and help combat mosquito-borne diseases."
-    publishedDateTime: 2023-01-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/"
-    ampWebUrl: "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp"
+  - title: "News Literacy Week: Algorithms & Artificial Intelligence"
+    excerpt: "As News Literacy Week continues, it is our effort at 7 News along with our parent company Scripps, to highlight the important role the media play in our community."
+    publishedDateTime: 2023-01-25T19:56:00Z
+    webUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence"
+    ampWebUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: WKBW
+      domain: wkbw.com
+    quality: 61
     images:
-      - url: "https://media.wired.com/photos/63cf16193e88ab88db98da03/master/pass/osmo_science_GettyImages-815059888.jpg"
-        width: 1840
-        height: 2400
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/450/1020d6d1597347248f5d62c059a4c7e3/4504425ed4874366be1a7029d04b4565/poster_05b48026cd744c8f9658f4990ece8563.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "BuzzFeed Will Start Using AI to Create Content"
-    excerpt: "Learn More Buzzfeed just stumbled into its latest listicle idea: Top 5 Ways AI Can Scale Your Business. On Thursday, the millennial-focused digital publishing... For more crisp and insightful business and economic news, subscribe to The Daily Upside ..."
-    publishedDateTime: 2023-01-27T01:24:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/26/buzzfeed-will-start-using-ai-to-create-content/"
+  - title: "News Literacy Week: Artificial intelligence in the classroom"
+    excerpt: "As part of National News Literacy Week it's our chance to help you detect misinformation and stop it from spreading. But it's getting harder with the use of artificial intelligence software."
+    publishedDateTime: 2023-01-24T19:17:00Z
+    webUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom"
+    ampWebUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true"
+    cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-artificial-intelligence-in-the-classroom?_amp=true"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: WKBW
+      domain: wkbw.com
+    quality: 59
     images:
-      - url: "https://g.foolcdn.com/editorial/images/718208/featured-daily-upside-image.jpg"
-        width: 800
-        height: 640
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/baa/1020d6d1597347248f5d62c059a4c7e3/baa6ccd9e22c48778bc48333d5981b9f/poster_35034dd81a2e409eb4d916c834e9f3b8.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
-    excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that automates ROI-based creative decisions as well as content strategy."
-    publishedDateTime: 2023-01-26T12:22:00Z
-    webUrl: "https://www.benzinga.com/general/movers-shakers/23/01/30583996/how-this-startup-uses-ai-to-deliver-roi-based-creative-intelligence"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "v53FXuEs7d8XssUlU27zWxjfC33L/p6T2NPSgRMhhGiX97yStsEgOw+vbXspgzm62pTzEdL/QsrK93GSnkUTwEtnX0lodaZIXNrh0r1AVegS+lYIP/7P3VBv+tWBVb+OXpLQBEfhrQ4kHU0gK1oZykYPTZC6xVfq4ND2Sctihnc3f8CQ0xjCmk2Q3p5AXHHztWtOdWwkOFD1z4Vy4ESK6/31qgEWuQG5mfGfy/J1oXzA9X+5nZti0oByVQs3sb0EXxW4P8MQ4iGTn0zWj1TlMGVKexcOx1hpEfnwuZYqNMODlrOHe2GqLS//Hof1fcRCubnHKhgSnnBFPk/FqoZ5WQOAdsEyKyw3ZGifgs0159+xu/PGXPtVY1C9GANJBWNlFh1pKV2bAPOplNOd5H7er1Heiky8qanUZ6myLn0HsS47KNZsWrG9HxMaxlT+K2Gr7Ur3jVBvDoMSct4c3pHlQtZCdNnvcZwS+3Bwq4hZbt+GfpSnT6P0S3oX8jBwXepkFi2BGgmJtSESsUcJdVxs5w==;QyOOcFZP5OFtbtJsb3QHyA=="
 ---

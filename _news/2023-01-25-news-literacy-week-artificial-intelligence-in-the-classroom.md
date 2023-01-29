@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top AI startup news of the week: generative AI is blowing up"
+    excerpt: "AI startup news around generative AI was everywhere this week, for everything from search and note-taking to protein design."
+    publishedDateTime: 2023-01-27T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-generative-ai-is-blowing-up/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "olNCJXrwwexBY23cpirFl5T7OI9SkJZDHdmLZDCyBJz61O8NmXHPNKtGvI2+lc5ebWAb7KntFEgkZE2Oc59rZSijNzntoE9rR/aeFICj4kg3cR/WpTquXf8hSGYuTQcFQgJQV29Cf6jt8QCewSYfSXKPGWR32IUCBkg3K1l9H26IBLhzZDbe3LxXvBUZ1Hr6Fw+SU5c+QMj7ivEzwqjZtxJ+GTJ4rHZpLvCPnJlKvJ3Y5tgAMYtelucJFJcpkkLuUc+9M0mQWTgi9ezzb7kasHJveg6qdVka3+LEKYgSs5DJsHW3uVpJYV+oD8KfQxl2J3dV2HYiR0qUg1yM6+X401nTI7YXidS4EkgrM4CxSP8=;nz6SB2qwzJPNweembDWIdg=="
 ---

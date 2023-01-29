@@ -159,20 +159,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
-    publishedDateTime: 2023-01-24T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-mobile-artificial-intelligence-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A New Industrial Artificial Intelligence Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2026"
     excerpt: "Industrial Artificial Intelligence Market Size Outlook for 2026 with massive business analysis and bottom-up analysis of the Companies [, Intel Corporation, Siemens AG, IBM Corporation, Alphabet Inc,"
     publishedDateTime: 2023-01-27T02:19:00Z

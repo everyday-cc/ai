@@ -52,20 +52,18 @@ related:
         height: 349
         isCached: true
   - title: "IBM cuts 3,900 jobs, misses annual cash target"
-    excerpt: "IBM Corp on Wednesday announced 3,900 layoffs as part of some asset divestments and missed its annual cash target, dampening cheer around beating revenue expectations in the fourth quarter."
-    publishedDateTime: 2023-01-26T02:44:00Z
-    webUrl: "https://www.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
-    ampWebUrl: "https://amp.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
+    excerpt: "The layoffs - related to the spinoff of its Kyndryl (KD.N) business and a part of AI unit Watson Health - will cause a $300 million charge in the January-March period, IBM said. Shares of the ..."
+    publishedDateTime: 2023-01-26T00:07:00Z
+    webUrl: "https://www.reuters.com/technology/ibm-reports-highest-annual-revenue-growth-decade-2023-01-25/"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 44
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1710587/man-stands-near-ibm-logo-mobile-world-congress-barcelona.jpg"
+      - url: "https://www.reuters.com/resizer/FjOhONjPelMPMz2G2iwePY3qi3I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUAIZHXW2FJZNPWCWUMZXNFFKY.jpg"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
   - title: "IBM cuts 3,900 jobs as it misses annual cash target"
     excerpt: "IBM last night announced 3,900 layoffs as part of some asset divestments and missed its annual cash target, dampening cheer around beating revenue expectations in the fourth quarter."

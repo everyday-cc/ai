@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
+    excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that automates ROI-based creative decisions as well as content strategy."
+    publishedDateTime: 2023-01-26T12:22:00Z
+    webUrl: "https://www.benzinga.com/general/movers-shakers/23/01/30583996/how-this-startup-uses-ai-to-deliver-roi-based-creative-intelligence"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "5xkPv11rWsfPQSl87hB8xHcQlVpXhku0TGIO3R0PvuQJnqTTw48jXFDo5+pXyQ1ov0paDzry++yiEHna7RFzHhy3HmJs6C7sOXgaj5zw7Q0fz9mietvZAc8qXbgGdJAvalNDQ3r4bctr4aRGIDG/nDAGsuJ07gZyDvVD3Qem87eyqoBilqehkAInpgdARKKYPe0wrdTr3xnNJjAT2WDbtKV7PMfPxfV4NQGxr+jRy8TaMrjPudab7nBB6spIE3B8hGbcdDZeYHlw5TGjE0v5qBXpNGasOTA5H5EQXXHy/LQtAasMW3gq2VDBA936srGz96Z9K5ZCDPGgnac5HRxtbzJ5XbkoJETXj28pB4DDJTM=;S5+uhoYOBqMVQd3vk7S+4w=="
 ---

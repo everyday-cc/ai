@@ -144,20 +144,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Forecast 2028 for the Mobile Artificial Intelligence Market in terms of size, returns, gross margin, and market share"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 24, 2023 (The Expresswire) -- Mobile Artificial Intelligence Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 116 Pages ..."
-    publishedDateTime: 2023-01-24T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/forecast-2028-for-the-mobile-artificial-intelligence-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud AI in Fintech Market 2023 Analysis by Market Size, New Technology, Growth Rate, Geographical Regions, Drivers and Outlook to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Global “Cloud AI in Fintech Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
     publishedDateTime: 2023-01-27T00:01:00Z

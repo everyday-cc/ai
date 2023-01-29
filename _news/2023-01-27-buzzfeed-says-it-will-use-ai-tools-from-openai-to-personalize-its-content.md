@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "BuzzFeed Will Start Using AI to Create Content"
+    excerpt: "Learn More Buzzfeed just stumbled into its latest listicle idea: Top 5 Ways AI Can Scale Your Business. On Thursday, the millennial-focused digital publishing... For more crisp and insightful business and economic news, subscribe to The Daily Upside ..."
+    publishedDateTime: 2023-01-27T01:24:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/26/buzzfeed-will-start-using-ai-to-create-content/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/718208/featured-daily-upside-image.jpg"
+        width: 800
+        height: 640
+        isCached: true
   - title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
     excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
     publishedDateTime: 2023-01-27T04:22:00Z

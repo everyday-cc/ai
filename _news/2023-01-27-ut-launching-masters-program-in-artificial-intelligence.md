@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wfaa.com/amp/article/news/education/ut-lmasters-program-
 cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WFAA8
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "UT Austin will offer artificial intelligence graduate program online"
+    excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
+    publishedDateTime: 2023-01-29T02:36:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 41
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "AI Master’s Program Launches at UT Austin With Ability to Serve Thousands"
     excerpt: "Just as artificial intelligence (AI) and machine learning emerge as the fastest-growing in-demand skill sets in the global workforce, The University of Texas at Austin is establishing a new online master's program in AI with the potential to bring thousands of new students into the field."
     publishedDateTime: 2023-01-26T16:44:00Z

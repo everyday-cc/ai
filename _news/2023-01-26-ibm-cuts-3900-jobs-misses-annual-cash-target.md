@@ -1,29 +1,31 @@
 ---
 category: news
 title: "IBM cuts 3,900 jobs, misses annual cash target"
-excerpt: "IBM Corp on Wednesday announced 3,900 layoffs as part of some asset divestments and missed its annual cash target, dampening cheer around beating revenue expectations in the fourth quarter."
-publishedDateTime: 2023-01-26T02:44:00Z
-originalUrl: "https://www.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
-webUrl: "https://www.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
-ampWebUrl: "https://amp.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
-cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/ibm-cuts-3900-jobs-misses-annual-cash-target-1711847"
+excerpt: "The layoffs - related to the spinoff of its Kyndryl (KD.N) business and a part of AI unit Watson Health - will cause a $300 million charge in the January-March period, IBM said. Shares of the ..."
+publishedDateTime: 2023-01-26T00:07:00Z
+originalUrl: "https://www.reuters.com/technology/ibm-reports-highest-annual-revenue-growth-decade-2023-01-25/"
+webUrl: "https://www.reuters.com/technology/ibm-reports-highest-annual-revenue-growth-decade-2023-01-25/"
 type: article
-quality: 44
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: IBTimes UK
-  domain: ibtimes.co.uk
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://d.ibtimes.co.uk/en/full/1710587/man-stands-near-ibm-logo-mobile-world-congress-barcelona.jpg"
+  - url: "https://www.reuters.com/resizer/FjOhONjPelMPMz2G2iwePY3qi3I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUAIZHXW2FJZNPWCWUMZXNFFKY.jpg"
     width: 1200
-    height: 800
+    height: 628
     isCached: true
 
 related:
@@ -125,6 +127,6 @@ related:
       domain: proactiveinvestors.co.uk
     quality: 4
 
-secured: "uI6If33wSn+7jHKUsJQOvXxI1GNQ3ZPeKavGpnlS7wYNGtWVSkQ5sGT0AIoSLAFC13/bYt/u0FiWbsJjjeyxkZCeDNSVG0ZSnV1VoxhbtB7yW7dXgeXX3NX3RE+r97exeiJprrDiKRFQoAnawP1Isz3C6FI6kolKXrenCGR1W5fiDEoFYoD4oNyc2/1Zmvp7sVu2zITBUM3KI1MSTG3hgnLDI5zhR979rgUNiWXNqRYrqwsOQoI8jDn6jj7JA5elG70XSJJc5cNjETZf86e/BZZPwnuSFkrv1FLml3MMmaq+RD/fxORq+UfMtICGazCN0+VlNiB6/F91mfnpQDZQhIfWaHobJIhSEbcxa1Jizbk=;zalY2sop3OkarRR7Iy6nDg=="
+secured: "kX8SiqhHAbwXXnn9hH/bo6DxPMDGMpYYhHh+w3sjwCwTbhexYDi1afzBVzFlBZIqz8rJnrA9rQ9JkvuJDAlq+QVUitkNw3MfyAwcClnmee9WYCG71nt6n0EhJXlXnhxJPhkVdiwbQhxfvoYsh0NYj/J9cMc+Th5Iky4KMe2qJez7z77vuxrS/o3wa6Xu7Lt/F8JIJTOaPw2wND7b6PTHOGZPRZhmfv62F5yTMhDU2kjv02H+QNeamiEArgWoQuPbArt9+JnqwncLIWdyNbVKZcBTY2uc6LoppD+k7VcrUO1nJTvNolHM/3VGPOLewzNiY1M7mNxUX8Jb80kmaMl8dwpiWjfWPdbeayUvX3hHX9I=;1gL8427ADoBcT/Klfkgorw=="
 ---
 

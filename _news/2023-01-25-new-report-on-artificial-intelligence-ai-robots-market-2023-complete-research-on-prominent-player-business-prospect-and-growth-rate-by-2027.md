@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial
 webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
 type: article
 quality: 62
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -59,15 +59,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Self-driving Robot Market 2023-2028: Estimated to Growth by CAGR Status, Revenue, Top Industry Players with Size and Share Estimates"
-    excerpt: "Global “Self-driving Robot Market” Research Report (107 Pages) provides granular insights on on-going industry"
-    publishedDateTime: 2023-01-25T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2023-2028-estimated-to-growth-by-cagr-status-revenue-top-industry-players-with-size-and-share-estimates-2023-01-25"
+  - title: "Artificial Intelligence Voice Market (New Reporgt) 2023 Overview By Recent Opportunities, Growth Size, Regional Analysis and Forecasts To 2027"
+    excerpt: "Global Artificial Intelligence Voice Market 2023 | New Report (125 Pages) | Research Report Provides Size, Share,"
+    publishedDateTime: 2023-01-25T05:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-new-reporgt-2023-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2027-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -82,15 +82,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
-  - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
-    excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
-    publishedDateTime: 2023-01-24T11:36:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/24/9747825.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "4BIWagrYA7TagNRKEsJSfqUOXhNngILxKM5v52xYn3nIuukXFD6e7p2Vv2PK87b8z0blENm7JxPZqaPwyCYv5cXEI0yNW1xaI0QQvmY3JHrwF+lhgUgsOdZ67LFSJjRYUtz3NLCyTcLYUtecrWMeV8BNx8XAOmzN1iNKrXmHQYn3qS9E/5iXBhEzFj9TRg3dQljOrQP8GDk4oDDB6n8ujIhpaIaF4RfbehF75Gd2EX29n2w26Ym5K0cbuwbL/0yLYVz3biM07dt0fzoU4KIrgKQj7gCz1jmADCZWN+kjsCBw3PyH0rXDcScjV5GnBJAyOdJQjo88jmVR4Hm2fXJlTcr+2yUYCKunPb99u/nHVMg=;mGiEemYGtnNuv4iCAiJr2w=="
 ---

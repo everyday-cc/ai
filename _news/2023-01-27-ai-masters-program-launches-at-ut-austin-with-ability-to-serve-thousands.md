@@ -41,6 +41,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "UT Austin will offer artificial intelligence graduate program online"
+    excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
+    publishedDateTime: 2023-01-29T02:36:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 41
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "zmkKzYzTXprTeROk2h6py/UFG+bai2WBiQoPJR5gha7IqCDVJn3jtZT+PyR+EhivfGALEsqysKaoA8yu6MJiH7iKONT7c2UkG97OX04rk/8x6Zy+ZEMbdZqewFCpDqA/93hfFPrjmmbFs7C1bWJXQg5l2rr6xLiwcoWpPruPaOH3KLYupTdYDiXIHuJjEPViKx9DfThlmDWGlPRd+Qxj9kREzvCteOWAPt6a0xbdEejM2r9+oS0cearDSbqprf/zzDnAHoPdZqyBJ5YTGtduJaF7vEThHfdVp5qMCeg8KKLE/sj/9xeNZYUPN2Lzzx+clVaA6RzbOe7/gWeBq1QujigTx5pw25YaJMfZgMrlO+qTdlFVdLMasukASYRkHE8ldNTtwctjRXuIG5pI55vx+QJp6NvICkBjnmMYXrCixaxS4LmSEa//sW2MDCy6MSkGPl1opdyA3re0b7YIimsLdelGYEozPoFgh4jfoIN8U1am8dB+7EB7wwD+ZJPZjq9A9/q2gsn6sYaoW2gKdybqKg==;7FEjsOqy5AfjFGitmeZLEg=="
 ---

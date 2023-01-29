@@ -42,15 +42,6 @@ related:
         width: 680
         height: 408
         isCached: true
-  - title: "Viva la revolution! AI use cases in B2C commerce – it’s time to move forward"
-    excerpt: "He shared his perspectives on the use of AI and machine learning for commerce brands. Fulfilling the primary use case for AI The primary AI use case for e-commerce and marketing focuses on data, according to Walker."
-    publishedDateTime: 2023-01-24T10:11:00Z
-    webUrl: "https://diginomica.com/viva-la-revolution-ai-use-cases-b2c-commerce-its-time-move-forward"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 16
 
 secured: "BCn/TgzitftfwJE0hL6bxR7D0QGx9z3uDjsD3qNBTTjfnsbySbL2c7UjJUqRTnstmL5bS6tIaX7wuqne3O6fzhDivgZ/WEqWzB+cB2kHdZP44vBy2VOC9W1bdjj0BNDVfVC6sVo5TCthn8rq6ylLFgo9XlD8ZZmLGI/h28EX7j9xnu1xT4gzLVI2HwOHkzHv/YI28Vfr5+gr6IuhLuBrthQCYQkKyVWPTLJyPT8MiO4h37RCqYo82iQnpI0zmNPXwQyXgdQc856PEv6AWxITfWxBV57kI0TyFnxsnsqdl82sC18yj8V6JfSv2upPz6a/aTEAhI4SYgzTxpldKKRP/oY0W9oZBwMABsA67fju+hg=;FIXNCJgtYBvY9zf+gBSN3w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/01/28/is-microsoft-now-the-ai-
 webUrl: "https://www.fool.com/investing/2023/01/28/is-microsoft-now-the-ai-stock-to-beat/"
 type: article
 quality: 86
-heat: 266
+heat: 256
 published: true
 
 provider:
@@ -129,20 +129,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 60
-  - title: "Microsoft and OpenAI enter third phase of AI acceleration partnership"
-    excerpt: "Microsoft has announced a new multi-billion dollar investment in OpenAI, extending their partnership to accelerate AI development"
-    publishedDateTime: 2023-01-24T10:15:00Z
-    webUrl: "https://www.information-age.com/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-123501236/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-scaled.jpg"
-        width: 2560
-        height: 1703
-        isCached: true
   - title: "Amid layoffs, Microsoft extends billion-dollar AI partnership"
     excerpt: "After announcing that the layoffs of thousands of employees were on the horizon, Microsoft announced it’s extending its partnership with an artificial intelligence service, OpenAI. OpenAI is a startup that’s behind art-and-text generating AI systems like ChatGPT,"
     publishedDateTime: 2023-01-25T00:12:00Z

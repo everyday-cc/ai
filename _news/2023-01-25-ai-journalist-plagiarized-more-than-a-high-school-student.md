@@ -7,7 +7,7 @@ originalUrl: "https://nymag.com/intelligencer/2023/01/cnets-journalism-robot-was
 webUrl: "https://nymag.com/intelligencer/2023/01/cnets-journalism-robot-was-the-melania-trump-of-ai.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "CNET's AI Journalist Appears to Have Committed Extensive Plagiarism"
-    excerpt: "CNET's AI-generated articles appear to show deep structural similarities, amounting to plagiarism, with previously published work elsewhere."
-    publishedDateTime: 2023-01-24T09:34:00Z
-    webUrl: "https://futurism.com/cnet-ai-plagiarism"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/01/cnet-ai-plagiarism-1.jpg"
-        width: 1200
-        height: 707
-        isCached: true
 
 secured: "eY9WvOnx8va8NzBWp9AwGARqIthohurVT3E+qz+xOuT47I7+L8heIqa8Lw+ndWK2mtSFBsU9bR7ughLw3zVQInckwqRbPx4b/QHCyMMi/VMuT5UWQVVsCQHscYNEcccyUkJMQ6eM2XKqEje5y+1PQdbmk/v0DEFUVeHr8wYdUT+LyIBAX6MEoDzCFxzn7DUT2j90/YWGJicS8Gr5BIkUqTKVy3nvcmRjFEe+mW1H8+iyQn3tTy7RBvQicCOTcfWtlRi4/tm4lrc6RiFkIfuDfWzHgU9X9yAUmIDEXwXStTtvN1JxpmI6M60xj8mpREsugXfvZcKKXc7dmovcRTnwIYaySlnexFtO+9b3gmJqZ2c=;0uPCFD9qiytZPa1B0qOHWQ=="
 ---

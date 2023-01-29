@@ -36,6 +36,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Your Personal AI Design Assistant is Coming"
+    excerpt: "Start warming up your vocal cords—natural language processing may soon change how engineers interact with design software."
+    publishedDateTime: 2023-01-24T16:30:00Z
+    webUrl: "https://www.fabbaloo.com/news/your-personal-ai-design-assistant-is-coming"
+    type: article
+    provider:
+      name: Fabbaloo
+      domain: fabbaloo.com
+    quality: 39
+    images:
+      - url: "https://www.fabbaloo.com/wp-content/uploads/2023/01/personal-ai-assistant-cover.jpg"
+        width: 1143
+        height: 700
+        isCached: true
 
 secured: "Q/HZi0Nivyy8Owj2LsF5zboKtgMoNqUM/meCzYoLx4UpyaEMNdgW6JPH/UhqBk6viFCce3c5g1Ae9mo1nTzhE9BvdJl9x7s6+8bZ+23Ha0oUh7aWn+CesszXEQmv+VrxAlVA+V4gvLsJk7o11E4FAOfoVtv5Wsv2ZnuYReCaKLF3aHyPKO1RzFtt1XX1JD1Bq8lme2IlTWf9epQ2TCmP5gLBbSrjr4QRQtIyOyfZieTKvvssKPSAgUnUzYk4n5NfjMxnokXQ8Z7sTPIpHNuJ96a8PfoVxa4LWs5wliLxHZqg5ZkVxCof8UOyikIuTgaLbUciYECAfz0cjpKdMPFBXfOoZ3v1OEYFZlicyo68feULurlWlFylJQ2Jjqi5+p4Kp08pqCd93cYwENBUOTb5MxBQxR0knYrGFRyso+zX/0b4fr9PmpNSch6C1QP7K/gB5fymikxeysU8X50B7PBygptLGJ4CU4IFGHDfPJJcBDVnWnRBktgAGZtlZZfIwQIgzhnAH28hfg5FzYywdVxZEg==;eNfS17O+2+6WTojfHnvImw=="
 ---

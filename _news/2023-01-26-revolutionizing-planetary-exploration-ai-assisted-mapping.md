@@ -43,15 +43,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Viva la revolution! AI use cases in B2C commerce – it’s time to move forward"
-    excerpt: "He shared his perspectives on the use of AI and machine learning for commerce brands. Fulfilling the primary use case for AI The primary AI use case for e-commerce and marketing focuses on data, according to Walker."
-    publishedDateTime: 2023-01-24T10:11:00Z
-    webUrl: "https://diginomica.com/viva-la-revolution-ai-use-cases-b2c-commerce-its-time-move-forward"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 16
 
 secured: "5387F48+s5D7jNa1f0yAolz3LkFh2kv4D+eSpGBuM7CXQ0yAXDofjY0GJKJVon2E3/+NJ/cPjVgX68SYS6Mt0TdfLttEZaKFpQBP2c+slB64U5Qz0v3cLyFhz/efLTKrkvE+ueBdQU9syOrZoeQSQXr6kbCEFVcBzkzL12HUEyiepd83doWXfmCklaeGBTVCmKUfScaThmaFpJJHzIK/CciIGgVGQMf3Wrd/+wKwwGu4gRS/ZjKgNED/tKZK4BSacIuxT3CCwN847or7HvIjJNAFQ5yLvZVvZ7nK0Apukvl05/II/ggNl0T8uh2QbbiVsYpG+aLcBISxFZos8hdnXI+xHafarpngUuCqVLhnZL0=;aJrCUWBCm35HJZujUgebpw=="
 ---

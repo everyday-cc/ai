@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algori
 cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top AI startup news of the week: generative AI is blowing up"
+    excerpt: "AI startup news around generative AI was everywhere this week, for everything from search and note-taking to protein design."
+    publishedDateTime: 2023-01-27T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-generative-ai-is-blowing-up/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "JcdpF58gj7xUI6fP4n38w7iNUIGxoSiaF3nchEgUvf6GSsb8+DKzEeG10cC555wQPt4ESWiqjdYpXzeX1cIabhhWXhjPqT3NXFxpEpQii+9JXecw0FjOTmmIEN/OJQPRJ5UCrmxddq+toK86XA1iCGGlcpq+Pkkdp9cillUL396TVI5EY6R32riJQx1FSp9EZ0VREA1LeZbSILX+Mp8hF8PC9C3YSk2LB6NBTkZTI47X2+TmsTfYKqnSMge0fg/2BKniTQPYiTWd+APAYSpCvAjlvv8gqb9r3/HISN69xv9fgKoPX9ESjzVhvK1DA6HebeMZzoUUzPHpSi6RFC6tsR3fNbv/o1fJrdRjRTt1qmU=;4S16BWnTi9p50kzXpKFOZA=="
 ---

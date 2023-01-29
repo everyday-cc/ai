@@ -18,45 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "This Startup Is Using AI to Unearth New Smells"
-    excerpt: "Google Research spinout Osmo wants to find substitutes for hard-to-source aromas. The tech could inspire new perfumes—and help combat mosquito-borne diseases."
-    publishedDateTime: 2023-01-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/"
-    ampWebUrl: "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/63cf16193e88ab88db98da03/master/pass/osmo_science_GettyImages-815059888.jpg"
-        width: 1840
-        height: 2400
-        isCached: true
-  - title: "BuzzFeed Will Start Using AI to Create Content"
-    excerpt: "Learn More Buzzfeed just stumbled into its latest listicle idea: Top 5 Ways AI Can Scale Your Business. On Thursday, the millennial-focused digital publishing... For more crisp and insightful business and economic news, subscribe to The Daily Upside ..."
-    publishedDateTime: 2023-01-27T01:24:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/26/buzzfeed-will-start-using-ai-to-create-content/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/718208/featured-daily-upside-image.jpg"
-        width: 800
-        height: 640
-        isCached: true
-  - title: "Top AI startup news of the week: generative AI is blowing up"
-    excerpt: "AI startup news around generative AI was everywhere this week, for everything from search and note-taking to protein design."
-    publishedDateTime: 2023-01-27T18:09:00Z
-    webUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-generative-ai-is-blowing-up/"
+  - title: "Jurny Selects RAD AI for Creative Intelligence and Influencer Marketing"
+    excerpt: "Press Release Rad Technologies, Inc., doing business as Rad Intelligence, an artificial intelligence company that automates ROI-based creative intelligence, announced today that they have signed Jurny,"
+    publishedDateTime: 2023-01-26T21:26:00Z
+    webUrl: "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/"
+    ampWebUrl: "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 86
+  - title: "BuzzFeed announces plans to use AI for content creation"
+    excerpt: "BuzzFeed announced Thursday that it would begin using artificial intelligence to help generate its content. The company will partner with OpenAI to start producing \"AI inspired content,\" according to CNN Business,"
+    publishedDateTime: 2023-01-26T23:22:00Z
+    webUrl: "https://justthenews.com/nation/technology/buzzfeed-announces-plans-use-ai-content-creation"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 39
+    images:
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-02/GettyImages-1071861718.jpg?h=199d8c1f&itok=CCgW1Cd3"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "PyO/yTMA0yy9Y9mwElh4SzdybadGQa7JnlEbxD8rsaxMwRfYx1NEF8bokb0qiwyG8hC9J6MCP+sLZCYSM3zTFNLBIXSxqkNqlY3riHvs+UmDsOaNCBJJbvTGVXZGogflTIgjRFRZ8uIqtoSBzUSLnGhl21hewipQkTfV1K3srJoLg0eRCmQdfR457VeTc8eTWuzzFw0g/3Wjjb1CG/bg/g0F+SlJe8pS4EqLNuk9ezwe7vWpLDZtkCMRSzPFLYOiivfCg9WW3nH0iSfLiUBs64bAzLpKBzUo+tu/I3K9incfkMEBIAVd2ApU6xgUsUsCBsKBNmkjAJk/dpMdEWS5Wm8WtFJj7m65SqvXzWbWGTQ=;wMJVXoouWUrHs04Qb/WQmw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chat
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
 type: article
 quality: 85
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2p2.K7DK4Ao/v1/1200x801.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "BuzzFeed Will Start Using AI to Create Content"
+    excerpt: "Learn More Buzzfeed just stumbled into its latest listicle idea: Top 5 Ways AI Can Scale Your Business. On Thursday, the millennial-focused digital publishing... For more crisp and insightful business and economic news, subscribe to The Daily Upside ..."
+    publishedDateTime: 2023-01-27T01:24:00Z
+    webUrl: "https://www.fool.com/investing/2023/01/26/buzzfeed-will-start-using-ai-to-create-content/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/718208/featured-daily-upside-image.jpg"
+        width: 800
+        height: 640
         isCached: true
   - title: "BuzzFeed says it will use AI tools from OpenAI to personalize its content"
     excerpt: "BuzzFeed says it’s going to use more AI tools to “enhance” and “personalize” its content, according to a memo sent this morning to staff by CEO Jonah Peretti. News of the memo was first reported by The Wall Street Journal,"

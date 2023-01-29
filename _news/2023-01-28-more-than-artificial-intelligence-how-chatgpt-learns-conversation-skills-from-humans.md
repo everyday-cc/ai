@@ -87,6 +87,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Make-A-Video AI: ChatGPT, But For Videos"
+    excerpt: "AI chatbots can do your homework, write essays, and explain concepts from a simple user prompt. Soon, it could create videos for you! Facebook company Meta is developing an AI tool called"
+    publishedDateTime: 2023-01-29T02:06:00Z
+    webUrl: "https://technology.inquirer.net/121120/make-a-video-ai-chatgpt-but-for-videos"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/01/Make-A-Video-featured-image-crast.net_-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "ChatGPT and Ethics: Can Generative AI Break Privilege and Waive Confidentiality?"
     excerpt: "While ChatGPT is the coolest new technology around, it may be setting attorneys up for ethical violations under the Model Rules and putting both attorney-client privilege and client confidentiality at risk."
     publishedDateTime: 2023-01-26T14:06:00Z

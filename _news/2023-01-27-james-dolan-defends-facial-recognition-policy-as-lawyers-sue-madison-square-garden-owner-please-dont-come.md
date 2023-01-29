@@ -47,22 +47,6 @@ related:
         width: 1320
         height: 742
         isCached: true
-  - title: "MSG Doubles Down on Ban for Lawyers Suing Them, As Lawmakers May Target Face Recognition"
-    excerpt: "New York legislators are looking to get better protections for ticketholders and soon could take aim at the company’s use of facial recognition technology in enforcing their policy — even as the company refuses to back down."
-    publishedDateTime: 2023-01-24T11:01:00Z
-    webUrl: "https://www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-for-lawyers-suing-them-as-lawmakers-may-target-face-recognition/4064038/"
-    ampWebUrl: "https://www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-for-lawyers-suing-them-as-lawmakers-may-target-face-recognition/4064038/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/msg-doubles-down-on-ban-for-lawyers-suing-them-as-lawmakers-may-target-face-recognition/4064038/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 50
-    images:
-      - url: "https://media.nbcnewyork.com/2023/01/Radio-City-w-dolan-inset.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "James Dolan won't sell Knicks, defends MSG facial recognition tech"
     excerpt: "In a rare media interview Friday James Dolan said he has no plans to sell the New York Knicks or Rangers and discussed the facial recognition technology being"
     publishedDateTime: 2023-01-28T03:59:00Z

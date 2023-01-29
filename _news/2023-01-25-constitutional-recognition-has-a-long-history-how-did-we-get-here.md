@@ -25,22 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "The economy is down, but AI is hot. Where do we go from here?"
-    excerpt: "There have been bruising rounds of layoffs at Amazon, Meta, Microsoft, and Twitter, too, affecting not only individual AI researchers but entire AI teams. It was heartbreaking to read over the weekend about how some Googlers in the US found out about the company’s abrupt cull."
-    publishedDateTime: 2023-01-24T10:58:00Z
-    webUrl: "https://www.technologyreview.com/2023/01/24/1067232/the-economy-is-down-but-ai-is-hot-where-do-we-go-from-here/"
-    ampWebUrl: "https://www.technologyreview.com/2023/01/24/1067232/the-economy-is-down-but-ai-is-hot-where-do-we-go-from-here/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/24/1067232/the-economy-is-down-but-ai-is-hot-where-do-we-go-from-here/amp/"
+  - title: "Australia Day focuses on Black recognition in constitution"
+    excerpt: "The government joined several large corporations in allowing staff the choice of taking the holiday off or working Thursday and taking another day off instead, in recognition of growing public unease at celebrating the 1788 hoisting of the Union Jack at Sydney Cove."
+    publishedDateTime: 2023-01-26T00:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/australia-day-focuses-black-recognition-constitution-96681526"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/australia-day-focuses-black-recognition-constitution-96681526"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/australia-day-focuses-black-recognition-constitution-96681526"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/01/hotAI2.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://s.abcnews.com/images/International/wirestory_68e067c62824595f0b7fc08e777a22b1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
+  - title: "AWS Launches Second Infrastructure Region In Australia"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastruc"
+    publishedDateTime: 2023-01-25T20:02:00Z
+    webUrl: "https://menafn.com/1105477072/AWS-Launches-Second-Infrastructure-Region-In-Australia"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "PM says Voice to Parliament is about ‘recognition and consultation’"
+    excerpt: "The Indigenous Voice to Parliament is about “two things,” Prime Minister Anthony Albanese says. “It’s about recognition – that is giving people respect in our nation’s birth certificate,” he told Sky News Political Editor Andrew Clennell."
+    publishedDateTime: 2023-01-25T04:25:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/pm-says-voice-to-parliament-is-about-recognition-and-consultation/video/6eb194b5f8f7a1043e9f1b1b5c66c5fa"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "lToqgmXy8iB9QNxk3jVl669PvpsD+zJVYx9zFAOaQ40x8oXhBAvPna2kVKEVn9rAJoybQWG1t675CQcApSVLabJuSIm5lvWnYkdo/qEk1BOWfsGtyCfS1CnNthxnLpRl66h2kuJtpbotTmfbF16SmU705e0Lcb0g2MUj0rcUJ9laoyNk+7mhgb9CQaLih0n5+izqRvs3nNZV7P+C82eNWEzQXN0AvyEACiWA051VinErWdNJdT1cPjXGvHpKEcCuenUx+NoWWzXGfTvakzfbF/8gOQCunKTzfD7EuVVIiOQscDK1uwhKpjif9/KhZDt/vvpMUEhdbR7HDDA6ls7+UMKNPFfCfG7KYXoLWDFTmfw=;iTfXuZZjNsApw8DFLmAGQw=="
 ---

@@ -3,24 +3,24 @@ category: news
 title: "Teachers are adapting to concerns about a powerful new AI tool"
 excerpt: "When Kristen Asplin heard about a powerful new AI chatbot tool called ChatGPT going viral online recently with its ability to write frighteningly good essays in seconds, she worried about"
 publishedDateTime: 2023-01-19T12:29:00Z
-originalUrl: "https://www.stltoday.com/business/technology/teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool/article_e81232c6-62c5-55c6-9366-5db4a46e38c6.html"
-webUrl: "https://www.stltoday.com/business/technology/teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool/article_e81232c6-62c5-55c6-9366-5db4a46e38c6.html"
+originalUrl: "https://omaha.com/business/technology/teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool/article_35f716ea-ee7d-5e9b-abd6-e4ff849fbf40.html"
+webUrl: "https://omaha.com/business/technology/teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool/article_35f716ea-ee7d-5e9b-abd6-e4ff849fbf40.html"
 type: article
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/47/347f1faa-7782-5a76-9979-1eaa065d1243/63d2948927a13.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/54/a54f0a8b-59d1-519a-8837-ecd67d1dad25/63d29488682b5.image.jpg?crop=1762%2C927%2C0%2C124&resize=1200%2C631&order=crop%2Cresize"
     width: 1200
-    height: 630
+    height: 631
     isCached: true
 
-secured: "lh+a/bVzjFdoP8adfad0RcJMdBGEWm19A7OCoTcr1LOZke9K6b3zltKbX/ngQXBxDwMkwKF2nmlyWQDXapM16+nU6nSAkorVZxbA6GOK9O1aVPclKtLPLRzQXbgLtA+WfvAG4HDrQCaRlFmZpQrGSEIrxZPDfSGHg/YSIyBD78/iNMIx0fotUYJzHGgHlhWjSgd2ZOLQLHlg6l9LaBiSolC5Hzub9W06B6YzOXgsbXgsIKjydQtzynyjIC9VtZqncTH2GNEQ4kWY9bCX8RhrMMgIcBprVqys4uAlNMAn/gofwtTjxB9clfEj1QKc6Sk0khJGVfwvXUBQ8isvGz63cln0Anm8F7a6I0eY7N0IxhU=;gmNsHmw2+a0hpGy+tNb+5w=="
+secured: "wUsYSt/UtMgKHFJkBc57+IP4+aHhh0DJoBnoFGAZdusXMEQsZLiGSt2DNLvF762/C2fEIM6rfFwIOih217DoOyN7EShOzVqGBJeURIpBtrGR61FCr1r6hB01geW47kX1gWmm6xn/boeH4TYWoahtofEeYdDoScS3j+pCUzx1jP/RvC2AawVD8v3JtiCSoyN4nEnGISTpMHFfvifiAWN6OH3pPQLUagXHYpvgeVwQT3WoL6Yt4Fn+fe+2lpjVvq6/dF/owKSsDpXsfn5u4vvUKwFjuExtTbE4cYP3OdCloruHfTOgmWMz3fwLMJser0Govr7pCpEVfTg2Jd9WVGiuC2uTEEmIfrToZezHwH5stX0=;/ufAhzvnucp46+GvL3oFuw=="
 ---
 

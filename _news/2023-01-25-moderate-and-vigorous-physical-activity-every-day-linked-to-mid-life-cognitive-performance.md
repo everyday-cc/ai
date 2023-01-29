@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20230124/Moderate-and-vigorous
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230124/Moderate-and-vigorous-physical-activity-every-day-linked-to-mid-life-cognitive-performance.aspx"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "More steps, moderate physical activity cuts dementia, cognitive impairment risk"
+    excerpt: "Mild cognitive impairment is an early stage of memory loss or thinking problems that is not as severe as dementias. According to the United States Department of Health and Human Services ..."
+    publishedDateTime: 2023-01-25T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230125085831.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "lXpQ8uIfYQ6wX0/0QCZEca69LFQg6eHGvjaIMJRXtzugZldP5Zn1siMSBjpnnOvjwltUx1Zl0DHogt9NumPlYP0H4sKOSSwvMDuaJnHOeme0WwHwmhjRVp7E1aZgeqSvYhd5Ud0NimnrO0iiyyj0puNut63CGCf2bJk6oN88YsvXqTe4RGWRrjfx2F43fGcKnI2z4+dJV93VfYNmO250iST9TkVCBU2Bs5Um++cYKmeU/91v+FSs1TWTVmfnUlbuFQfcdXAxpDu2dSxTdK+AIw7fYsAFE0kRZvm4p6RqyWRHhZOgRQaAnnShiiT3DHWUHAMQv5sc7rMsPHRyRfYDUWjVMbGHMTf2nc9t8TiD6pA=;aVqZ9DGhuN3LIHC4pfzO0g=="
 ---

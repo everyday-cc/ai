@@ -138,20 +138,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 60
-  - title: "Microsoft and OpenAI enter third phase of AI acceleration partnership"
-    excerpt: "Microsoft has announced a new multi-billion dollar investment in OpenAI, extending their partnership to accelerate AI development"
-    publishedDateTime: 2023-01-24T10:15:00Z
-    webUrl: "https://www.information-age.com/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-123501236/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-openai-enter-third-phase-of-ai-acceleration-partnership-scaled.jpg"
-        width: 2560
-        height: 1703
-        isCached: true
   - title: "Microsoft expects slower Azure growth"
     excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
     publishedDateTime: 2023-01-25T16:07:00Z

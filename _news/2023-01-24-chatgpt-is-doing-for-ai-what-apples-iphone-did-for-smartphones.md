@@ -67,22 +67,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 66
-  - title: "Tech View: ChatGPT is latest foray into artificial intelligence"
-    excerpt: "Although it doesn’t have as cool a name as Alexa, Siri or even Hal, ChatGPT is the latest and most advanced foray into the technology known as artificial intelligence, or AI. What exactly is ChatGPT,"
-    publishedDateTime: 2023-01-24T10:05:00Z
-    webUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/01/24/hawaii-news/tech-view/tech-chatgpt-is-latest-foray-into-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 61
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/01/web1_13345119-97d7ef2b4a2b421ca8e633f719ef92ce.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Experts warn about possible misuse of new AI tool ChatGPT"
     excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
     publishedDateTime: 2023-01-24T16:44:00Z
@@ -130,20 +114,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/25/32b0fdde-a641-48be-a3bb-1f5a15aaa771/thumbnail/1200x630/af2537f54f3a943476eed6072bc78b68/keyboard.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI chatbot passes a final business school exam, beating Wharton students"
-    excerpt: "A Wharton professor tested an artificial intelligence chatbot on Wharton's MBA exam, and the AI beat some of the students receiving a solid B or B-."
-    publishedDateTime: 2023-01-24T10:07:00Z
-    webUrl: "https://www.tweaktown.com/news/90126/ai-chatbot-passes-final-business-school-exam-beating-wharton-students/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 38
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90126_01_ai-passes-wharton-business-school-exam.png"
-        width: 620
-        height: 352
         isCached: true
   - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
     excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."

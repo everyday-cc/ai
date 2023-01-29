@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-cha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 82
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
         width: 400
         height: 400
+        isCached: true
+  - title: "Make-A-Video AI: ChatGPT, But For Videos"
+    excerpt: "AI chatbots can do your homework, write essays, and explain concepts from a simple user prompt. Soon, it could create videos for you! Facebook company Meta is developing an AI tool called"
+    publishedDateTime: 2023-01-29T02:06:00Z
+    webUrl: "https://technology.inquirer.net/121120/make-a-video-ai-chatgpt-but-for-videos"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/01/Make-A-Video-featured-image-crast.net_-620x349.png"
+        width: 620
+        height: 349
         isCached: true
   - title: "More than artificial intelligence: How ChatGPT learns conversation skills from humans"
     excerpt: "The conversational robot capable of producing impressive texts upon request has had spectacular success. 'Le Monde' delves into what goes into making such a powerful chatbot."

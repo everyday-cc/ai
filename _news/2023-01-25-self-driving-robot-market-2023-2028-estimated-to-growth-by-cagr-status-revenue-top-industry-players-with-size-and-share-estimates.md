@@ -30,10 +30,24 @@ images:
     isCached: true
 
 related:
-  - title: "New Report on Artificial Intelligence (AI) Robots Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027"
-    excerpt: "Latest Research Report 2023: A new Artificial Intelligence (AI) Robots market report provides up-to-date information"
-    publishedDateTime: 2023-01-25T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
+  - title: "AI In Medical Imaging Market is Set to Grow in forecast period 2029"
+    excerpt: "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029."
+    publishedDateTime: 2023-01-24T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029"
+    excerpt: "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market"
+    publishedDateTime: 2023-01-25T01:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
     type: article
     provider:
       name: MarketWatch
@@ -44,45 +58,48 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
-    publishedDateTime: 2023-01-25T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
+  - title: "Machine Learning in Healthcare Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
+    excerpt: "Jan 24, 2023 (The Expresswire) -- Machine Learning in Healthcare Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at..."
+    publishedDateTime: 2023-01-25T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-statistics-2023-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2023-01-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Worth $8.95 Billion by 2030 - Exclusive Report by Meticulous Research®"
-    excerpt: "Redding, California, Jan. 26, 2023 (GLOBE NEWSWIRE) -- According to a new market research report titled, 'Artificial Intelligence in Drug Discovery Market by Offering (Software, Services), Application (Target"
-    publishedDateTime: 2023-01-26T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30586798/artificial-intelligence-ai-in-drug-discovery-market-worth-8-95-billion-by-2030-exclusive-report-by"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30586798"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30586798"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "New Report on Artificial Intelligence Chipsets Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027"
-    excerpt: "Latest Research Report 2023: A new Artificial Intelligence Chipsets market report provides up-to-date information on"
-    publishedDateTime: 2023-01-25T05:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-chipsets-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
+  - title: "Machine Learning in Communication Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
+    publishedDateTime: 2023-01-27T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2028-2023-01-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 14
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Study Latest Artificial Intelligence in Insurance Market Report 2023 Is Booming Globally by 2029 with Leading CAGR"
+    excerpt: "Global Artificial Intelligence in Insurance MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current"
+    publishedDateTime: 2023-01-27T05:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/study-latest-artificial-intelligence-in-insurance-market-report-2023-is-booming-globally-by-2029-with-leading-cagr-2023-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "RegTech Global Market Report 2023: Introduction Of Artificial Intelligence to Reshape Sector - ResearchAndMarkets.com"
     excerpt: "The global RegTech market reached a value of nearly $9,692.2 million in 2021, having increased at a compound annual growth rate (CAGR) of 21.0% since 2016. The market is expected to grow from $9,692.2 million in 2021 to $22,"
     publishedDateTime: 2023-01-24T11:36:00Z

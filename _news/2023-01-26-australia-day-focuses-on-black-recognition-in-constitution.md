@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches new Australian cloud region in Melbourne"
-    excerpt: "First announced in December 2020, this is the second cloud region AWS has in the country, following the opening of Sydney in 2012. “We are excited about the launch of a second A"
-    publishedDateTime: 2023-01-24T10:47:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/aws-launches-new-australian-cloud-region-in-melbourne/"
+  - title: "Constitutional recognition has a long history. How did we get here?"
+    excerpt: "The country's founding document makes no mention of Indigenous people or prohibiting racism. The fight to change that and enshrine Blak sovereignty goes back to invasion."
+    publishedDateTime: 2023-01-25T03:21:00Z
+    webUrl: "https://www.sbs.com.au/nitv/article/constitutional-recognition-has-a-long-history-how-did-we-get-here/qntb5bt5c"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/gettyimages-600688368-170667a.2e16d0ba.fill-1200x630.jpg"
-        width: 509
-        height: 269
+      - url: "https://images.sbs.com.au/dims4/default/6ab3c6e/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fcf%2Ff8%2F788e5e184dd885974611b5268ed3%2Fconstitutional-recognition-web-hero.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AWS Launches Second Infrastructure Region In Australia"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastruc"
