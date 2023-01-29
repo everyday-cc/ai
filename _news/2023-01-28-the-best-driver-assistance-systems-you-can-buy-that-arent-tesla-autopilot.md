@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-c
 webUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/"
 type: article
 quality: 69
-heat: 70
+heat: 71
 published: true
 
 provider:

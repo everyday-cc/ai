@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app. But some living artists and photographers are fighting back."
-    publishedDateTime: 2023-01-28T17:30:00Z
-    webUrl: "https://tulsaworld.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_76792e7e-075f-59db-9a02-eb13545d7739.html"
+    excerpt: "Getty said it has begun legal proceedings in the High Court of Justice in London against Stability AI — the maker of Stable Diffusion — for infringing intellectual property rights to benefit the London-based startup's commercial interests. Another ..."
+    publishedDateTime: 2023-01-28T21:43:00Z
+    webUrl: "https://roanoke.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_4800cd6f-840b-59d8-8ff1-1d4517d794a4.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: The Roanoke Times
+      domain: roanoke.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/7/67/76792e7e-075f-59db-9a02-eb13545d7739/63cedbe3d7f89.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/4/80/4800cd6f-840b-59d8-8ff1-1d4517d794a4/63cedbe00e855.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-cha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 82
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d40f73f56a6976217458de/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI ChatGPT is helping CEOs think. Will it also take your job?"
-    excerpt: "Chatbots will devalue some workers' skills, but also could create higher quality jobs that require a human's judgment."
-    publishedDateTime: 2023-01-24T09:00:00Z
-    webUrl: "https://www.cbsnews.com/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chatgpt-chatbot-artificial-intelligence-job-replacement/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/3e5ebe21-b2cc-4692-9e99-9c37fff7be78/thumbnail/1200x630/def6aa3c6cd71698b2fd33d66abd4116/gettyimages-1246453874.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Generative AI and ChatGPT – Is it the disruptor that the digital world needs?"
     excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
