@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029"
+    excerpt: "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market"
+    publishedDateTime: 2023-01-25T01:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
     excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
     publishedDateTime: 2023-01-27T02:16:00Z
@@ -39,6 +53,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Healthcare Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
+    excerpt: "Jan 24, 2023 (The Expresswire) -- Machine Learning in Healthcare Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at..."
+    publishedDateTime: 2023-01-25T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-statistics-2023-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2023-01-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Communication Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
+    publishedDateTime: 2023-01-27T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2028-2023-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -72,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market Size Estimation, Share, Future Trends, Industry changing aspects CAGR, New Technologies and Forecast to 2029"
+    excerpt: "Global Face Recognition Systems MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market"
+    publishedDateTime: 2023-01-25T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-estimation-share-future-trends-industry-changing-aspects-cagr-new-technologies-and-forecast-to-2029-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
     publishedDateTime: 2023-01-27T02:17:00Z
@@ -86,15 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Security Robots Market to Hit 18.5% of CAGR by 2028 – Driven by Rising Penetration of Automation Techniques | The Insight Partners"
-    excerpt: "New York, Jan. 27, 2023 (GLOBE NEWSWIRE) -- According to The Insight Partners; \"Security Robots Market Size, Growth Strategy, Industry Trends, Size, Share and Global Forecast 2028 – COVID-19 Impact and Global Analysis"
-    publishedDateTime: 2023-01-27T13:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30602547/security-robots-market-to-hit-18-5-of-cagr-by-2028-driven-by-rising-penetration-of-automation-tech"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
   - title: "Artificial Intelligence in Drug Discovery Market Size Projection, Growth Outlook, SWOT Analysis and Industry Insights by 2030"
     excerpt: "With the unlimited possibilities given by this cutting-edge technology, artificial intelligence in healthcare is flourishing, and major corporate giants are expressing interest and investing ..."
     publishedDateTime: 2023-01-25T00:40:00Z

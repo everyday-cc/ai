@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ford’s BlueCruise automated driving system tops Consumer Reports study"
+    excerpt: "“Systems like BlueCruise are an important advancement that can help make driving easier and less stressful,” Fisher said. “But they don’t make a car self-driving at all. Instead, they create a new way of collaboratively driving with the computers ..."
+    publishedDateTime: 2023-01-29T08:13:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jan/29/fords-bluecruise-automated-driving-system-tops-con/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 24
+    images:
+      - url: "https://thumb.spokesman.com/jmKkVQCGa7erm5zwfBTXtT69AHE=/1200x630/smart/media.spokesman.com/photos/2023/01/26/63d312d989747.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ford’s BlueCruise Ousts GM’s Super Cruise as CR’s Top-Rated Active Driving Assistance System"
     excerpt: "The amazement soon follows: With your hands off the wheel and relaxing on the armrests as the automated systems take charge, you might start to believe that the age of the self-driving car is finally upon us. But while BlueCruise’s capabilities are ..."
     publishedDateTime: 2023-01-25T14:37:00Z

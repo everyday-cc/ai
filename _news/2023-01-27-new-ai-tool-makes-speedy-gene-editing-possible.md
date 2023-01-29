@@ -37,7 +37,7 @@ related:
     provider:
       name: UPI
       domain: upi.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/3961674750373/2023/1/9e2e53d727c8ce5cb398145eebcff87c/v1.5/New-artificial-intelligence-program-may-speed-development-of-gene-therapy.jpg"
         width: 1200

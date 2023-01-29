@@ -141,15 +141,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 54
-  - title: "Microsoft doubles down on healthcare AI investments"
-    excerpt: "Microsoft is doubling down on its healthcare artificial intelligence investments with two new partnerships. The first partnership the company inked this year was with AI-powered pathology company Paige."
-    publishedDateTime: 2023-01-24T15:29:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-doubles-down-on-healthcare-ai-investments.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
   - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
     excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
     publishedDateTime: 2023-01-25T13:05:00Z

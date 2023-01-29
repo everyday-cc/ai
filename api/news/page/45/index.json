@@ -2,6 +2,294 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-12-10-amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers.md",
+      "title": "AMD RDNA 3 GPU leaked benchmarks disappoint some gamers",
+      "excerpt": "Switching to 3DMark FireStrike, the 7900 XTX overtakes the RTX 4080, scoring 18,853 compared to the Nvidia GPU on 17,294, with the 7900 XT behind on 16,915. And in 1440p for FireStrike ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers",
+      "originalUrl": "https://www.techradar.com/news/amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/S9k9shDNxpyX28a5ooxiGV-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-10T04:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "Palantir's AI-powered data processing software has accomplished incredible feats. Cybersecurity threats are thwarted with CrowdStrike's AI. Both companies are unprofitable due to high stock-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/12/10/2-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "originalUrl": "https://www.fool.com/investing/2022/12/10/2-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/711361/man-networking-at-data-center.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T22:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-artificial-intelligence-went-viral-with-chatgpt-and-lensa-ai-whats-next.md",
+      "title": "Artificial Intelligence went viral with ChatGPT and Lensa AI. What’s next",
+      "excerpt": "ChatGPT by OpenAI and Lensa AI are two generative artificial intelligence tools that have been going viral. There are fun uses of artificial intelligence (AI) that show the possibilities of how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/podcasts/thismatters/2022/12/09/artificial-intelligence-went-viral-with-chatgpt-and-lensa-ai-whats-next.html",
+      "originalUrl": "https://www.thestar.com/podcasts/thismatters/2022/12/09/artificial-intelligence-went-viral-with-chatgpt-and-lensa-ai-whats-next.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
+      "title": "Legal Tech Artificial Intelligence Market : Key Player, Competition Weakness and Strengths from 2022 to 2028",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Legal Tech Artificial Intelligence Market \" Insights 2022 - By Applications (Lawyers, Clients),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-ethics-and-artificial-intelligence-talking-to-chatgpt.md",
+      "title": "Ethics and artificial intelligence — talking to ChatGPT",
+      "excerpt": "Artificial intelligence or AI, whether you notice it or not, is becoming a bigger part of our lives. Its increasing presence in the technology we all interact with has prompted lawmakers – like ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/podcast/dmv-download-podcast/ethics-and-artificial-intelligence-talking-to-chatgpt/",
+      "originalUrl": "https://wtop.com/podcast/dmv-download-podcast/ethics-and-artificial-intelligence-talking-to-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T18:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-3-questions-you-should-ask-to-get-the-most-out-of-edge-data.md",
+      "title": "3 questions you should ask to get the most out of edge data",
+      "excerpt": "Does the value of edge data stop at the edge? Here's how to think strategically about managing your edge data in a world of big data and IoT.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1332612761.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/amp/",
+      "publishedDateTime": "2022-12-09T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-your-selfies-are-helping-ai-learn-you-did-not-consent-to-this.md",
       "title": "Your selfies are helping AI learn. You did not consent to this.",
       "excerpt": "Sure, that drunk selfie you posted on Instagram might be personally embarrassing. Now imagine that selfie is also training fuel for an artificial intelligence system that helps put an innocent ...",
@@ -845,267 +1133,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-popballoons-the-first-serious-mixed-reality-game-for-autistic-children.md",
-      "title": "Pop'Balloons: The first serious mixed-reality game for autistic children",
-      "excerpt": "Demand for mental health assessment and intervention is soaring; available services are stretched to the limit, centralized and difficult for many to access. This is particularly true for children with autism spectrum disorder (ASD).",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/popballoons-the-first.jpg",
-          "width": 795,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.amp",
-      "publishedDateTime": "2022-12-09T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-aws-think-big-space-opens-at-jl-simpson-middle-school.md",
-      "title": "AWS Think Big Space Opens at J.L. Simpson Middle School",
-      "excerpt": "Amazon Web Services newest Think Big Space in Virginia opened Thursday at J.L. Simpson Middle School in Leesburg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.loudounnow.com/news/aws-think-big-space-opens-at-j-l-simpson-middle-school/article_f45303a6-77ed-11ed-80a3-ef7d0518accf.html",
-      "originalUrl": "https://www.loudounnow.com/news/aws-think-big-space-opens-at-j-l-simpson-middle-school/article_f45303a6-77ed-11ed-80a3-ef7d0518accf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/loudounnow.com/content/tncms/assets/v3/editorial/3/45/34546c42-77ee-11ed-9a04-7bf4ebdb1708/63937d0695d91.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Loudoun Now",
-        "domain": "loudounnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.md",
-      "title": "John Tory at his wussiest, plus Justin Trudeau’s cognitive dissonance on foreign policy",
-      "excerpt": "Does the PM have foreign policy cognitive dissonance? It’s true Canada has a new policy in Asia, the Indo-Pacific strategy, based on China being an “increasingly disruptive” force not just ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
-      "originalUrl": "https://www.thestar.com/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/12/22/nothing-could-break-us-in-kherson-ukraine-life-itself-has-become-an-act-of-protest/ukraine_1.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
-      "publishedDateTime": "2022-12-09T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-ai-generated-avatars-are-quirky-and-easy-to-make-but-are-they-ethical.md",
-      "title": "AI Generated Avatars Are Quirky and Easy to Make, but Are They Ethical?",
-      "excerpt": "While AI is a fascinating tool, it comes with its own sets of problems. The neural network used by the app relies on the data from images on the intern",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "originalUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2022-12%2F2fb99c95-25d1-4f6d-8a4d-4f77edf9d86f%2FNeon_Hero_Image__5_.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "publishedDateTime": "2022-12-09T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-short-cognitive-behavioral-therapy-program-is-also-effective-at-reducing-anxiety-among-school-children.md",
-      "title": "Short cognitive behavioral therapy program is also effective at reducing anxiety among school children",
-      "excerpt": "To remedy this, a preventive intervention based on Cognitive Behavioral Therapy (CBT) for children, Journey of the Brave, was developed and introduced in Japanese schools in 2014. While the ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-short-cognitive-behavioral-therapy-effective.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-short-cognitive-behavioral-therapy-effective.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-use-your-spreadsheet-data-to-train-ml-models.md",
-      "title": "Use your spreadsheet data to train ML models",
-      "excerpt": "You can train, evaluate and deploy machine learning models from tabular data using TensorFlow Decision Forests (TF-DF). This process is fast as TF-DF only requires a small amount of code and trains in seconds. But if your data is in a spreadsheet, what is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/simple_ml_for_sheets",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/simple_ml_for_sheets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -57,22 +57,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "IBM to lay off employees amid tech jobs bloodbath"
-    excerpt: "The retrenchments impact workers remaining after the Kyndryl and Watson Health spinoffs, and will cost $300 million."
-    publishedDateTime: 2023-01-26T09:27:00Z
-    webUrl: "https://www.itweb.co.za/content/lwrKxv3Y3x2Mmg1o"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/01/Arvind-Krishna-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tech Major IBM Lays Off 3,900 Employees, Bets Big On Hybrid Cloud, AI"
     excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyn"
     publishedDateTime: 2023-01-26T14:15:00Z

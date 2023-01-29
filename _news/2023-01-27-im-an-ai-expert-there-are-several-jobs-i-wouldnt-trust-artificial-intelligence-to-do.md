@@ -8,8 +8,8 @@ webUrl: "https://www.thesun.co.uk/tech/21176743/ai-expert-chatgpt-taking-jobs-ar
 ampWebUrl: "https://www.thesun.co.uk/tech/21176743/ai-expert-chatgpt-taking-jobs-artificial-intelligence-doctors/amp/"
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21176743/ai-expert-chatgpt-taking-jobs-artificial-intelligence-doctors/amp/"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.thesun.co.uk/wp-content/uploads/2023/01/lb-chatgpt-OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"

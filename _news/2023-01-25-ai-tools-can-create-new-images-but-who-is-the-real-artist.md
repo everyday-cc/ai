@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "AI tools can create new images, but who is the real artist?"
-    excerpt: "Artificial intelligence systems are training themselves on a vast collection of digitized artworks to produce new images that can be conjured in seconds from a smartphone app. But some living artists and photographers are fighting back."
-    publishedDateTime: 2023-01-28T17:30:00Z
-    webUrl: "https://poststar.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_d633cbaa-962c-59ff-abf5-87db04d3e035.html"
+    excerpt: "Getty said it has begun legal proceedings in the High Court of Justice in London against Stability AI — the maker of Stable Diffusion — for infringing intellectual property rights to benefit the London-based startup’s commercial interests."
+    publishedDateTime: 2023-01-28T18:34:00Z
+    webUrl: "https://journalnow.com/news/national/ai-tools-can-create-new-images-but-who-is-the-real-artist/article_96098a0f-8f6f-5253-af2b-c9534e71ad70.html"
     type: article
     provider:
-      name: The Post-Star
-      domain: poststar.com
+      name: Winston-Salem Journal
+      domain: journalnow.com
     quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/d/63/d633cbaa-962c-59ff-abf5-87db04d3e035/63cedbdd53340.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/60/96098a0f-8f6f-5253-af2b-c9534e71ad70/63cedbd74e7b0.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

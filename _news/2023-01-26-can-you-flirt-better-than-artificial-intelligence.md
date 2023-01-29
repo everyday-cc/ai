@@ -6,9 +6,9 @@ publishedDateTime: 2023-01-26T12:37:00Z
 originalUrl: "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164"
 webUrl: "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Wall Street Journal
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://images.wsj.net/im-704289/social"

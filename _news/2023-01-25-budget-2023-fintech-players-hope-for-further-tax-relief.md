@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "5 Tech Trends That Will Change the Fintech Industry In 2023"
+    excerpt: "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ..."
+    publishedDateTime: 2023-01-28T14:07:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "The future of Fintech in 2023"
     excerpt: "With a rate of 87%, India is far ahead of the global average of 64% in the FinTech adoption race. By 2030, it is anticipated that the promising Indian FinTech market will generate $200"
     publishedDateTime: 2023-01-26T09:57:00Z

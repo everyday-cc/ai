@@ -148,15 +148,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 54
-  - title: "Microsoft doubles down on healthcare AI investments"
-    excerpt: "Microsoft is doubling down on its healthcare artificial intelligence investments with two new partnerships. The first partnership the company inked this year was with AI-powered pathology company Paige."
-    publishedDateTime: 2023-01-24T15:29:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-doubles-down-on-healthcare-ai-investments.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
   - title: "Microsoft Earnings Call: New-Business ‘Slowdown,’ Big AI Bets"
     excerpt: "Microsoft CEO Satya Nadella used the 2Q earnings call to talk about business growth deceleration, OpenAI, Teams and other topics."
     publishedDateTime: 2023-01-25T14:48:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetizati
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Diginomica
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Talking AI - CEO Arvind Krishna on IBM's monetization strategy"
+    excerpt: "So said IBM CEO Arvind Krishna as he outlined his company’s hybrid cloud and AI strategy this week. In his view, there have been three moments that matter in the past decade in terms of AI emerging to have business potential and impact: One,"
+    publishedDateTime: 2023-01-28T12:13:00Z
+    webUrl: "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy"
+    ampWebUrl: "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-01/Screenshot%202022-01-25%20at%2011.06.30.png"
+        width: 1192
+        height: 876
+        isCached: true
   - title: "IBM CEO Arvind Krishna: AI, Hybrid Cloud ‘Work Together To Drive Business Outcomes’"
     excerpt: "IBM CEO Arvind Krishna touts artificial intelligence and hybrid cloud as ‘transformative technologies’ and says the company is well positioned to take advantage of continued investment in these areas by customers."
     publishedDateTime: 2023-01-26T17:24:00Z

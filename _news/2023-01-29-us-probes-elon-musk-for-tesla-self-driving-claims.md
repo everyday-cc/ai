@@ -1,22 +1,30 @@
 ---
 category: news
-title: "US Probes Elon Musk For Tesla Self-Driving Claims"
-excerpt: "San Francisco, Jan 29 (IANS) The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk."
-publishedDateTime: 2023-01-29T05:36:00Z
-originalUrl: "https://menafn.com/1105490459/US-Probes-Elon-Musk-For-Tesla-Self-Driving-Claims"
-webUrl: "https://menafn.com/1105490459/US-Probes-Elon-Musk-For-Tesla-Self-Driving-Claims"
+title: "US probes Elon Musk for Tesla self-driving claims"
+excerpt: "The rollout of FSD came at a time when Tesla faces a criminal investigation from the US Department of Justice over potentially false claims related to Autopilot, the company's advanced driver assistance system."
+publishedDateTime: 2023-01-29T07:17:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
+webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: ET Auto
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-97414132,imgsize-40334,width-1200,height-628,overlay-etauto/us-probes-elon-musk-for-tesla-self-driving-claims.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says"
@@ -262,6 +270,6 @@ related:
       domain: stuff.co.nz
     quality: 19
 
-secured: "x2vAz6dhaY3L5wMgHoi2a0iLiok3eYkHUf/Ni4MfX0n/C0teSWgkHhSUWhxIXNkK7HTfjjiUsQ2JXARcc1bDd4x1aSquT2+hHxvWqQA2WDzJ3/IplJBeUFVbTzhr3Lae8bnkRlLyV13TZNofv/aDK1uq6WlGyZZZXXiAbA+0veFcdfM+aa4Nl5YylRV6r4dMUkzt1wYlR9Af0OKgnlehVxvl1YIMA3d/hgoxqpQGLkfXrQW2ruKzQ7sMpLEpaAmHr0Jhx1ROKRjuDscmfjT5K+x2b5lYYFq9eXHiEdddDAQB/Z0XyYF3XkZqsxywHlbPkdKAfRLnFMbqWVcZXP3Usy58miQYG+5m2c37rEdHKiIgMY5iCIooVbMHasCky6HxefaSkMYJObiWT+WZnc5RHmetKn9QGd8S5UnW31DpMnfWdpp6Bq5v/acJ56cc11YddM4BEFeDgVEEO+wpyrDWx5ipwy544oqy8i2HzSDKRHMhgPJO3nZeO6o9wmUY5LMLp9RoAqMMyxtfp4E28VS7xQ==;l5uCS3HmYmodUCnibB5xrg=="
+secured: "AIE923QwXab3Y21ZSdNf1SopfFxadxPl9YCuJGDKd9ZZL1pNLWnv2MBLUbguuZsq2uq+zp3uLbpHVqLQ0ZQCy7vEnFFAOeFRHtLk2H6WRbfMrJfr9c0new78pSfiXz8dim5hml3zg5KWQlV2g2/pEgkXqmcHyuoJyV6JLakPMOEUYBX4tWQvA2NbuK+JNhCtCjQYRA72fJ+JMyi/WgxP9LTAVw1N+2+A0PlJgkY2H1DvzqYzFeFdYX+/YgGOSGZDSGQ2mjDke4oaBye/4LS13M3KZ9uDEsjpbLk7oCdy8ogYxARoHbDSQmgriUepA+LTth0B1Y/gW6u1PP+FTRzKoqH2tch1iZg9R3vB/NuAoKw=;rQT3IMUG4qL0pWdBzh+KVA=="
 ---
 

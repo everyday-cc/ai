@@ -72,6 +72,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Self-driving Robot Market 2023-2028: Estimated to Growth by CAGR Status, Revenue, Top Industry Players with Size and Share Estimates"
+    excerpt: "Global “Self-driving Robot Market” Research Report (107 Pages) provides granular insights on on-going industry"
+    publishedDateTime: 2023-01-25T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2023-2028-estimated-to-growth-by-cagr-status-revenue-top-industry-players-with-size-and-share-estimates-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Report on Artificial Intelligence Chipsets Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027"
     excerpt: "Latest Research Report 2023: A new Artificial Intelligence Chipsets market report provides up-to-date information on"
     publishedDateTime: 2023-01-25T05:49:00Z

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Startup's Plans for Robot Lawyer Nixed After CEO Threatened With Jail"
-excerpt: "It looks like AI startup DoNotPay's \"robot lawyer\" — specifically, an AI-powered earpiece designed to coach defendants through court hearings about things like parking tickets and bill ..."
-publishedDateTime: 2023-01-25T21:03:00Z
-originalUrl: "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo"
-webUrl: "https://futurism.com/the-byte/startup-robot-lawyer-jixed-jail-ceo"
+excerpt: "\"...it seems likely they will put me in jail for 6 months if I follow through with bringing a robot lawyer into a physical courtroom.\""
+publishedDateTime: 2023-01-26T00:00:00Z
+originalUrl: "https://cacm.acm.org/news/269184-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail"
+webUrl: "https://cacm.acm.org/news/269184-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Futurism
-  domain: futurism.com
+  name: acm.org
+  domain: acm.org
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://wp-assets.futurism.com/2023/01/robot-lawyer-postponed-judge-jail-ceo.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "oGI9U5JG8kjQaXI8ZbPha4KWE8JnJGFhuz/0UpZtR8j1ReieYRnBqynLz2n3IB4tTHYdjdCVBXvW2kvh2HEJe6zCVa6Vgw6qx1ujed4r3MCGMfsDV9jCs6VF0sTW6nYL2T4oodFovudrZN1petIZ7RtYkzaZCULSutpiuheayDErZZOnkK4yTrnTcE4c/AibVHFZVnf5MC5qW3yNeKDW53MXYrZ2BmIKXgsUGyAR87uBzzVXC3POKcirBOzSALvGD6oLsnGzkpMObbaoQbfyFctPLmf9Ov0cVHBZlHxshikLOS/uCBSI/URc9EcMiDssv0oVR77X5sFWCTI8euzCv3a5gqFkNsGG8K/0wkkDOWU=;UINBsZzbjiIE1Im0k7nGMw=="
+secured: "FMa8tgZfXhR1TK4DG8ZGCU8SQMNSnfiFEyDshEUVZsLM9ocLCqLNWQFzuXuhG7KDkCzDEZMS+6+PyyKLVjl5YhQPimeh6UE+mDRtDd2jeuXzztfdp887wrn7kQeuK9101TqX8S2517ibFus0bh7j5X0B+/4vnOIPSccCqY6vySI34cEprzpZQcPeFEoga/AKk1hKEdgHb9ZCRHc38nxLNtb8V4CPMTcPi7LoTEkwa/rsv6CTpQcRlO5RVh2tq1EBl4O+EVU/+eyNvxiImEFcrN3OUSbxNbxvszXpbQswEBVdMq4SpOw50e2qpblwFRsmHwKzP1mtUlxo/rfFF8tffjdFYuQxzKrX2Q1NR5kaquk/toS+N14stm08aTWXNjNA0gEdlZU04BJvIDY5R07+3zW0bwYB9vhdBIp/qMbjgiGAkLwbMpg4l8zTp8+wl1nraZSUPv5aK5WHxhTyRFlsCnHmqSkBB/dyP4Gt+DWL2i0FYheHG9PON00mQpf5UFnRYzJcV/76X4aJg+lS47FKmw==;UJiDcUrWQUV3bja03/tAqQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://news.artnet.com/art-world/facial-recognition-raphael-authent
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page"
 type: article
 quality: 66
-heat: 96
+heat: 98
 published: true
 
 provider:

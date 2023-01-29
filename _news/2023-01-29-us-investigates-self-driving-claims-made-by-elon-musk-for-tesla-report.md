@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US probes Elon Musk for Tesla self-driving claims"
+    excerpt: "The rollout of FSD came at a time when Tesla faces a criminal investigation from the US Department of Justice over potentially false claims related to Autopilot, the company's advanced driver assistance system."
+    publishedDateTime: 2023-01-29T07:17:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97414132,imgsize-40334,width-1200,height-628,overlay-etauto/us-probes-elon-musk-for-tesla-self-driving-claims.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
     excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
     publishedDateTime: 2023-01-27T18:16:00Z
@@ -230,15 +246,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "US Probes Elon Musk For Tesla Self-Driving Claims"
-    excerpt: "San Francisco, Jan 29 (IANS) The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk."
-    publishedDateTime: 2023-01-29T05:36:00Z
-    webUrl: "https://menafn.com/1105490459/US-Probes-Elon-Musk-For-Tesla-Self-Driving-Claims"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
   - title: "The future of testing self-driving cars"
     excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
     publishedDateTime: 2023-01-25T23:24:00Z

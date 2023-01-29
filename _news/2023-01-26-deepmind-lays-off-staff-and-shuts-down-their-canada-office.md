@@ -69,22 +69,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Alphabet's DeepMind lays off staff, closes Edmonton office"
-    excerpt: "The Edmonton office was the only DeepMind site not housed within a Google-managed office. Impacted engineers and researchers will be offered the option to relocate to other offices but those in various organizational infrastructure roles will be laid off."
-    publishedDateTime: 2023-01-24T15:22:00Z
-    webUrl: "https://edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9"
-    ampWebUrl: "https://edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9/amp/"
-    cdnAmpWebUrl: "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/3cdfc910-9b2b-4fe3-9350-1166a03137e9/amp/"
-    type: article
-    provider:
-      name: edmontonsun
-      domain: edmontonsun.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/edmontonsun/wp-content/uploads/2023/01/google-vw0124.jpg?quality=100&strip=all"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Alphabet’s DeepMind lays off some staff, closes Canadian office"
     excerpt: "Alphabet’s research lab DeepMind will close its Edmonton, Alberta outpost and lay off some operational staff in the UK, part of the tech giant’s recent program of cost cuts"
     publishedDateTime: 2023-01-25T01:51:00Z

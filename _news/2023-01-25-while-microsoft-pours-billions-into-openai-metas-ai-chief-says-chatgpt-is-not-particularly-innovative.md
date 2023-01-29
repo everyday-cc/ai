@@ -39,7 +39,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
@@ -150,22 +150,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 66
-  - title: "Experts warn about possible misuse of new AI tool ChatGPT"
-    excerpt: "The functions of the powerful new technology, known as ChatGPT, are causing experts to warn about the risk of misuse."
-    publishedDateTime: 2023-01-24T16:44:00Z
-    webUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/"
-    ampWebUrl: "https://www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/01/24/experts-warn-about-possible-misuse-new-ai-tool-chatgpt/?outputType=amp"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 59
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/rHS0lidZxCLKaUAjmNq43_mZzUE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZIYVSTOR6RFGHOTXVJOUDCHNUQ.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
     publishedDateTime: 2023-01-28T11:40:00Z
@@ -241,22 +225,6 @@ related:
       - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/01/GettyImages-1245391728.jpg"
         width: 1024
         height: 666
-        isCached: true
-  - title: "Microsoft to invest billions in parent company of controversial AI chatbot ChatGPT that could mean the end of Google"
-    excerpt: "MICROSOFT has revealed plans to invest billions into ChartGPT’s parent company OpenAI. On Monday, Microsoft announced it was making a “multi-year multibillion-dollar investment”"
-    publishedDateTime: 2023-01-24T15:58:00Z
-    webUrl: "https://www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21152114/microsoft-invest-billions-ai-chatbot-chatgpt-google/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 51
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/01/SC-Microsoft-AI-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "ChatGPT is on its way to becoming a virtual doctor, lawyer, and business analyst. Here's a list of advanced exams the AI bot has passed so far."
     excerpt: "ChatGPT is becoming more professionally competitive by the day. We rounded up all the exams the bot has passed."

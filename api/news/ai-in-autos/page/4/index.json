@@ -2,6 +2,267 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-04-transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces.md",
+      "title": "Transparent TVs, driverless tractors lead top innovations unveiled at CES",
+      "excerpt": "Tech industry members are all about innovation, but some booths at CES this week can tout their creativity more than others thanks to their accolades earned during one of the trade show’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.reviewjournal.com/business/conventions/ces/transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
+      "originalUrl": "https://www.reviewjournal.com/business/conventions/ces/transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/01/17325179_web1_web1-IMG-1035.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
+      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
+      "publishedDateTime": "2023-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Review-Journal",
+        "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-pretax-profits-at-tuam-driverless-car-firm-surge.md",
+      "title": "Pretax profits at Tuam driverless car firm surge",
+      "excerpt": "Pretax profits at the Tuam firm at the cutting edge of driverless car technology ... generating software intellectual property with artificial intelligence. A note with the accounts said that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
+      "originalUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/resizer/DlvuTnioTDNFgvvlbQ4uAbjcVzM=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/EOZV4SVHRBLHHEVPK6IKNZKPZI.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars.md",
+      "title": "Nvidia Partners With Foxconn to Build Drive Orin Chips for Future Self-Driving Cars",
+      "excerpt": "with plans to use Drive's artificial intelligence tech in their next-generation driver aid systems and automated cars. Foxconn's recent entry into the electric vehicle race is beginning to pick up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/15ba4cac8f27af1fe0e5ea9ab0fa76b1909e1f9b/hub/2023/01/03/32bfcefc-a8b7-4fef-9859-327db2e0c5aa/foxconn-rs-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-partners-with-foxconn-to-build-drive-orin-chips-for-future-self-driving-cars/",
+      "publishedDateTime": "2023-01-03T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-profits-surge-at-tuam-based-driverless-car-technology-firm-valeo.md",
+      "title": "Profits surge at Tuam-based driverless car technology firm Valeo",
+      "excerpt": "Pre-tax profits at a Co Galway firm at the cutting edge of driverless car technology ... software intellectual property with artificial intelligence. The directors state that its products and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "originalUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.ie/business/irish/790a0/42259791.ece/AUTOCROP/w1240h700/FRANCE%20PMS22",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "publishedDateTime": "2023-01-03T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent.ie",
+        "domain": "independent.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-learning-to-see-and-learning-to-read-artificial-intelligence-enters-a-new-era.md",
+      "title": "'Learning to see and learning to read': Artificial intelligence enters a new era",
+      "excerpt": "The team’s approach relies on a type of AI known as an artificial neural network, modeled after the neurons and connections of the brain, combined with a model of the physics of light transport. The neurons in the model are actually computer algorithms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.princeton.edu/news/2023/01/03/learning-see-and-learning-read-artificial-intelligence-enters-new-era",
+      "originalUrl": "https://www.princeton.edu/news/2023/01/03/learning-see-and-learning-read-artificial-intelligence-enters-new-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2023/01/Discovery-2022-23_feature_ai_AI--BIGGER--cover--3000x1688px.jpg?itok=7QASTP2x",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Princeton University",
+        "domain": "princeton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.md",
+      "title": "Not all AI is actually “artificial intelligence” — what you need to know",
+      "excerpt": "Neural networks aren’t the only approach to AI. Another prominent camp in artificial intelligence research is symbolic AI — instead of digesting huge data sets, it relies on rules and ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
+      "publishedDateTime": "2023-01-03T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-03-driverless-tractors-market-size-status-global-outlook-2023-to-2028.md",
       "title": "Driverless Tractors Market Size, Status, Global outlook 2023 To 2028",
       "excerpt": "Jan 03, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Driverless Tractors industry. A latest extensive market study titled ...",
@@ -1124,273 +1385,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-need-a-ride-to-or-from-sky-harbor-waymo-driverless-cars-now-open-to-everyone-for-trip.md",
-      "title": "Need a ride to or from Sky Harbor? Waymo driverless cars now open to everyone for trip",
-      "excerpt": "Friday's announcement not only opens that service to anyone who wants a driverless car ride but also includes nearly doubling the size of the Phoenix service territory. All service to the airport ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/money/business/tech/2022/12/16/waymo-offers-driverless-rides-to-phoenix-sky-harbor-airport-for-all/69730936007/",
-      "originalUrl": "https://www.azcentral.com/story/money/business/tech/2022/12/16/waymo-offers-driverless-rides-to-phoenix-sky-harbor-airport-for-all/69730936007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/12/15/PPHX/349f0cbd-58b4-4a61-9d9a-0a03d52f8a7d-Waymo_airport.jpg?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZ Central",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
-      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
-      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
-      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-how-artificial-intelligence-could-be-used-to-fight-wildfires.md",
-      "title": "How artificial intelligence could be used to fight wildfires",
-      "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "q13fox",
-        "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-gm-units-self-driving-taxis-are-subject-of-us-safety-investigation.md",
-      "title": "G.M. Unit’s Self-Driving Taxis Are Subject of U.S. Safety Investigation",
-      "excerpt": "The National Highway Traffic Safety Administration is looking into unexpected braking by cars operated by Cruise, a part of General Motors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/16/multimedia/16CRUISE-1-b179/16CRUISE-1-b179-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html",
-      "publishedDateTime": "2022-12-16T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area.md",
-      "title": "Waymo opens Phoenix airport rides to the public, doubles downtown service area",
-      "excerpt": "Waymo will also be doubling its service area in downtown Phoenix following an initial launch of driverless rides in the area to the public last month, the company said. The developments come a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/",
-      "originalUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Waymo_Sky-Harbor_Public.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/amp/",
-      "publishedDateTime": "2022-12-16T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-waymos-driverless-robotaxis-are-now-doing-airport-trips-in-phoenix.md",
-      "title": "Waymo’s driverless robotaxis are now doing airport trips in Phoenix",
-      "excerpt": "Waymo is sending its fully driverless cars to handle some of the trickiest types of passenger pickups you can muster: airport trips. The company announced that customers flying in and out of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/12/16/23511719/waymo-airport-phoenix-sf-av-robotaxi-driverless",
-      "originalUrl": "https://www.theverge.com/2022/12/16/23511719/waymo-airport-phoenix-sf-av-robotaxi-driverless",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/pBsiiPuZSg3mlwU4X6ihrSIAwuc=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156883/MoGJOreBI3A3aTUjzk_zoLSFDXMBAuc8_7QgcQUwv1BHTu6t0pvcoqmvdtHC3h5d675UDtu36uG9ToJlT0MJnE4mwCPhSnTClKiT7p_26tFyINvBauqhow4_rvNM8XHbNYnbb35EB4CxL2eGYsEUeb_kJdwzqTex986VFr1aZDrP7Aq_TwMPUo5mIJd_WKQ.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

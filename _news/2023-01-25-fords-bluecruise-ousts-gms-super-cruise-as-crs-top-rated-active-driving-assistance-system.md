@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ford’s BlueCruise automated driving system tops Consumer Reports study"
+    excerpt: "“Systems like BlueCruise are an important advancement that can help make driving easier and less stressful,” Fisher said. “But they don’t make a car self-driving at all. Instead, they create a new way of collaboratively driving with the computers ..."
+    publishedDateTime: 2023-01-29T08:13:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jan/29/fords-bluecruise-automated-driving-system-tops-con/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 24
+    images:
+      - url: "https://thumb.spokesman.com/jmKkVQCGa7erm5zwfBTXtT69AHE=/1200x630/smart/media.spokesman.com/photos/2023/01/26/63d312d989747.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HLCPT1AqFuLLmyTe7eq1IMdK2wUo4HeyqM5Mn0g+QS/hU2uZXvn+Rqff1YN7PJtNZpchO1OuH1/65aIMOCWeJPGUP9/2O3BmKyLUPVFCav2CKIeSoGXn0QCqTTf9extaL9IL54c5PeLrQzLSBGuFMjJgdmFik7ntXVQF85csFK+dIFOukuluIl9FYViuXFg027+4ulNjp1Pb7C/jPXN3nidnBwr9qFwhDwxtpnJjha72l5pU5bZ/04knMLq5hmO8oYlFQGzJ29vlAGoHLxV+bblRNjYXRwQ+1cRsDdaZT3jiTCACTznlzm92mQ32c+a5KgKul5u40PDbmZmRuFsg8tkKCftCLlwMwRtX069T808k2M1az00M7apwutNWPxfuYEac+FsgESu/+iJUEjUi7ols4FDyPQoi+Gph6p8Gbpek+OM6yt3zgkxrQgrfczsZ4jvugHVqaH/2PsGsRwUgPHuXCL8LEP3xIWOtRQLSS4w6UpwJApgA7b7/snK7hKUzo9u9t5vYhDNYoAg8MAGnhA==;ULWng9Btwyb2IHohcTP6ZA=="
 ---

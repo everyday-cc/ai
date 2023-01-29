@@ -8,8 +8,8 @@ webUrl: "https://www.upi.com/Science_News/2023/01/26/artificial-intelligence-imp
 ampWebUrl: "https://www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/"
 type: article
-quality: 73
-heat: 113
+quality: 75
+heat: 115
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdnph.upi.com/sv/ph/og/upi_com/3961674750373/2023/1/9e2e53d727c8ce5cb398145eebcff87c/v1.5/New-artificial-intelligence-program-may-speed-development-of-gene-therapy.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
 type: article
 quality: 74
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/08/Visa_Illustrations_Techcrunch4_HeroImage_01_1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "5 Tech Trends That Will Change the Fintech Industry In 2023"
+    excerpt: "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ..."
+    publishedDateTime: 2023-01-28T14:07:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Budget 2023: Fintech players hope for further tax relief"
     excerpt: "India now boasts of more than 7,000-plus fintech players, and majority of them expect further tax relief and the Union government's continued focus on digital innovation. Fintech startups and other stakeholders in the fintech ecosystem expect a positive budget 2023 and there is a broad feeling among the majority of players that the government will push for more digital-led innovation."

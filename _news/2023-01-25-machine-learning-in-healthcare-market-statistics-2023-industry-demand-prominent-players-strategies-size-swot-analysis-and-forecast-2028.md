@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Medical Imaging Market is Set to Grow in forecast period 2029"
-    excerpt: "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029."
-    publishedDateTime: 2023-01-24T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029"
     excerpt: "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market"
     publishedDateTime: 2023-01-25T01:15:00Z
@@ -53,6 +39,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
+    excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
+    publishedDateTime: 2023-01-27T02:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
+    excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
+    publishedDateTime: 2023-01-26T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -72,34 +86,71 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Study Latest Artificial Intelligence in Insurance Market Report 2023 Is Booming Globally by 2029 with Leading CAGR"
-    excerpt: "Global Artificial Intelligence in Insurance MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current"
-    publishedDateTime: 2023-01-27T05:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/study-latest-artificial-intelligence-in-insurance-market-report-2023-is-booming-globally-by-2029-with-leading-cagr-2023-01-27"
+  - title: "Natural Language Processing (NLP) Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
+    excerpt: "In 2023, Current Natural Language Processing (NLP) Software Market Size | 2029 | Newest [115] Pages Report Natural"
+    publishedDateTime: 2023-01-26T13:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Robot Market 2023-2028: Estimated to Growth by CAGR Status, Revenue, Top Industry Players with Size and Share Estimates"
-    excerpt: "Global “Self-driving Robot Market” Research Report (107 Pages) provides granular insights on on-going industry"
-    publishedDateTime: 2023-01-25T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2023-2028-estimated-to-growth-by-cagr-status-revenue-top-industry-players-with-size-and-share-estimates-2023-01-25"
+  - title: "Artificial Intelligence Supply Chain Market 2023 Constitutes Trends, Segment Size, Restraints, and Drivers that Transform the Industry to 2028"
+    excerpt: "A comprehensive research on Artificial Intelligence Supply Chain Market Overview 2023-2028. It displays the market size"
+    publishedDateTime: 2023-01-25T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2023-constitutes-trends-segment-size-restraints-and-drivers-that-transform-the-industry-to-2028-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market Size Estimation, Share, Future Trends, Industry changing aspects CAGR, New Technologies and Forecast to 2029"
+    excerpt: "Global Face Recognition Systems MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market"
+    publishedDateTime: 2023-01-25T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-estimation-share-future-trends-industry-changing-aspects-cagr-new-technologies-and-forecast-to-2029-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
+    publishedDateTime: 2023-01-27T02:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-voice-recognition-system-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Size Projection, Growth Outlook, SWOT Analysis and Industry Insights by 2030"
+    excerpt: "With the unlimited possibilities given by this cutting-edge technology, artificial intelligence in healthcare is flourishing, and major corporate giants are expressing interest and investing ..."
+    publishedDateTime: 2023-01-25T00:40:00Z
+    webUrl: "https://www.medgadget.com/2023/01/artificial-intelligence-in-drug-discovery-market-size-projection-growth-outlook-swot-analysis-and-industry-insights-by-2030.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "+c/6S3g2WiJBaRhFTj8eckMclYdGIGPYBvOjEvC4TJctfSb/cZZgGy4w0EnV06LCTIFYx0H67ChydDBfHJ/F6emfkTGwCgT0NDlVJuzERoepzo4hNtGU9PS3tmdExpBPU5bmXGrPPafGv1KyfA95yTLKrk0WEz5QdgtwQDi5GpN2Z+zOPHWtZ89fObkuSX6fvuEJFX189gT9KgLUgTQcVCv4fdr84YaTM2q1DaHcjmb9YPzwygGgFwABbW7B7knndGy48UaqcrIk/bW8/hbmxIpPP3aIHviDP37cfDObOY36kuE9VXQeu0DKBSS3Ngx6T8yRXOWeQuIZCG2L1Wju1OZ2CfLht0GD4xPC+ZJjzxg=;aDwTYD0kGtyx/5fgOSA0qQ=="
 ---

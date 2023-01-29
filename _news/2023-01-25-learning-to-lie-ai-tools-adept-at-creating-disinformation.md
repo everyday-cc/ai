@@ -78,31 +78,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI Deep Learning Predicts Brain Tumor Growth"
-    excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
-    publishedDateTime: 2023-01-24T15:21:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 54
-  - title: "Learning to lie: AI tools adept at creating disinformation"
-    excerpt: "A popular online chatbot powered by artificial intelligence is proving to be adept at creating disinformation and propaganda. When researchers asked the online AI chatbot ChatGPT to compose a blog ..."
-    publishedDateTime: 2023-01-24T15:03:00Z
-    webUrl: "https://www.clickorlando.com/news/politics/2023/01/24/learning-to-lie-ai-tools-adept-at-creating-disinformation/"
-    type: article
-    provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LVJM5ZPSZ5AKRBDFATZROJM3IU.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "On critical thinking and artificial intelligence"
     excerpt: "The public, specifically the academe, has recently been confronted by both shock and awe at its latest challenge: artificial intelligence (AI). The issue started when a faculty from the University of"
     publishedDateTime: 2023-01-24T20:48:00Z

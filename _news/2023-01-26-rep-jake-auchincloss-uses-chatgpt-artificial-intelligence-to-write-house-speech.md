@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/boston/news/chatgpt-artificial-intelligence-cha
 ampWebUrl: "https://www.cbsnews.com/amp/boston/news/chatgpt-artificial-intelligence-change-future-of-education-congressman-jake-auchincloss-house-speech/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/chatgpt-artificial-intelligence-change-future-of-education-congressman-jake-auchincloss-house-speech/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/25/32b0fdde-a641-48be-a3bb-1f5a15aaa771/thumbnail/1200x630/af2537f54f3a943476eed6072bc78b68/keyboard.jpg"

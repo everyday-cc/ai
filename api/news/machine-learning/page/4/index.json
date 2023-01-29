@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-03-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.md",
+      "title": "Not all AI is actually “artificial intelligence” — what you need to know",
+      "excerpt": "Neural networks aren’t the only approach to AI. Another prominent camp in artificial intelligence research is symbolic AI — instead of digesting huge data sets, it relies on rules and ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
+      "publishedDateTime": "2023-01-03T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality.md",
+      "title": "LG infuses AI deep learning in its latest OLED TVs for better picture quality",
+      "excerpt": "LG Electronics unveiled its 2023 TV lineup with a range of organic light-emitting diode (OLED) TVs that use AI processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/",
+      "originalUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/lg-oled-evo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/amp/",
+      "publishedDateTime": "2023-01-03T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-03-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second.md",
       "title": "Deep Learning Can Predict Tsunami Impacts in Less Than a Second",
       "excerpt": "Researchers at Japan's RIKEN Prediction Science Laboratory applied deep learning to predict the impact of tsunamis in less than a second.",
@@ -1299,111 +1386,6 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-next-generation-amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings-at-scale.md",
-      "title": "Next generation Amazon SageMaker Experiments – Organize, track, and compare your machine learning trainings at scale",
-      "excerpt": "Today, we’re happy to announce updates to our Amazon SageMaker Experiments capability of&nbsp;Amazon SageMaker that lets you organize, track, compare and evaluate machine learning (ML) experiments and model versions from any integrated development environment (IDE) using the SageMaker Python SDK or boto3,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/next-generation-amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings-at-scale/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/next-generation-amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/14/ml-12725-image003-1179x630.png",
-          "width": 1179,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T13:32:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out.md",
-      "title": "How Safe Do Cities Feel? Machine Learning Techniques Could Help Find Out!",
-      "excerpt": "The career path of Colombian physicist Luisa Fernanda Chaparro Sierra took her from studying the Higgs Boson at CERN, to using similar machine learning techniques to gauge perceptions of crime in the Colombian capital of Bogota.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63996acfe932dea8cf654b17/0x0.jpg?format=jpg&crop=1944,1944,x0,y648,safe&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/amp/",
-      "publishedDateTime": "2022-12-16T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

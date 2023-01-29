@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech job bloodbath comes to IBM, CFO links layoffs to Kyndryl, Watson Health"
+    excerpt: "IBM is the latest tech company to jump on the layoff bandwagon, with news it would reduce its workforce by around 3,900. IBM chief financial officer James Kavanaugh first confirmed the layoffs to Bloomberg,"
+    publishedDateTime: 2023-01-26T12:44:00Z
+    webUrl: "https://www.theregister.com/2023/01/26/ibm_job_cuts/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/01/26/ibm_job_cuts/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/26/ibm_job_cuts/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 56
+    images:
+      - url: "https://regmedia.co.uk/2017/07/06/layoffs_shuterstock.jpg"
+        width: 648
+        height: 432
+        isCached: true
   - title: "IBM to cut 3,900 jobs; layoffs tied to spin-off Kyndryl"
     excerpt: "Amid the wave of layoffs in the IT sector, another tech giant has announced plans to cut jobs. The International Business Machines (IBM) has said it would cut about 3,900 jobs, the Wall Street Journal reported."
     publishedDateTime: 2023-01-26T05:52:00Z
@@ -41,35 +57,21 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "IBM reports rise in Q4 profit, but plans to cut 3,900 jobs"
-    excerpt: "Despite posting revenue growth across all its business segments, IBM is set to lay off around 1.5% of its workforce."
-    publishedDateTime: 2023-01-26T17:56:00Z
-    webUrl: "https://www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html"
-    ampWebUrl: "https://www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html/amp/"
+  - title: "IBM to lay off employees amid tech jobs bloodbath"
+    excerpt: "The retrenchments impact workers remaining after the Kyndryl and Watson Health spinoffs, and will cost $300 million."
+    publishedDateTime: 2023-01-26T09:27:00Z
+    webUrl: "https://www.itweb.co.za/content/lwrKxv3Y3x2Mmg1o"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
+      name: ITWeb
+      domain: itweb.co.za
     quality: 44
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-6.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "IBM to cut 3,900 jobs after muted consulting demand hits quarterly revenue"
-    excerpt: "IBM still expects to hire in the “higher-growth areas”, Mr Kavanaugh said. “Unlike many others over the last two to 2½ years that were hiring in tens and thousands of people... we are leveraging digitisation,"
-    publishedDateTime: 2023-01-26T02:05:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 22
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/26/2023-01-25T221936Z570121139RC2XXY925S8BRTRMADP3IBM-RESULTS_6.JPG?VersionId=_M1cUymbKFhuEiaev8E1t7BJ43e6zrlt"
-        width: 860
-        height: 573
+      - url: "https://www.itweb.co.za/static/pictures/2023/01/Arvind-Krishna-2023.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "FlKWwbzRTXl+099o2R5JKp3SaZPUNK+d4Bonc3HqdeRCM/EcNSGxHFseShlk6CvYEwR8AwVPpcEK/KCdeENQhg3zCYz39ZAme8PVvarfEVLEbTOdRT+cRGyIGgjrzvDNnHLYPx1BfE7XfEYwv4kSS0W49I4ol8NJb5SA/UHz3SaWSqgsMLVvvyDjPGWfwwxs1djUwYQ8eIpbUy/E5c1h+bUVkENOxpsZjDkXz8GSOU1DvucyyjkScSNal3MJjPzDd3qx/rXkDmATZO12C72H04mlpa31LmG150Gi2iJOLDkR2aF25VIUZn4YqCcWEAHqEM1s4Udr1AFoWofmlA/QZbAut+5sDD6KpYrRlA4eEkfjt6VP9XdEEtf0/VOJijb++OyEwB35ieTRl3zq+trq7eNvXDBCWYrDj1cz7oGdJa+DHGfuzZxr4jNOVkxnqt/jD29+3DI7UkvAdc2twlevVw25UXn6PAtIwIXG3NT6VwLMbEb1nfKSnpCx1KY0VfIfz3KOSTLJjSPTw2ELsAWy0w==;sFzKz/rdkb/5x/wVwZ8dfA=="
