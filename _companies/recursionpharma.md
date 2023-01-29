@@ -2,7 +2,7 @@
 name: "Recursion Pharmaceuticals"
 overview: "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City."
 type: "profile"
-heat: 147
+heat: 92
 
 website: https://www.recursionpharma.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 5926
+  followers: 5927
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "STBcG5bwRiuHef5H621KBU9lgeI239Yuog4JRw1oDRlSPZk5L4BnFV1z9kxjGA2yBWzEMAx01iO3cF59qdyoHQ894adcAMxJ3GaHHVfioaCBLXRMghNflgGLFutESg+IyxYn2LAJ529sdpERQfAjEmRvKY1DAU34y+n8l+48viSG8zj2M6YKptYWZmtji+GSF77+5rpj4bf2iODc3GIFMrVZoafH4388Mc/eDi2N9GC0ba9M/v0P1r/c18UF53KwLBtPFF3UcU1yYKFU1QolISm8xdbcyT8f1LlrsJZLKbU6d4f6ZxQyRwXRgNuIqAv12hTdQM2NjWtKx2nEsv/adC49LHToszm6UJdnMwHuzEUrG8Y1FX3RZWVzGnBCHSbcGDgvx+qfGSrnBLOSG7uOogqTn2/dKk0YzFcuJxws4zU=;0JoTFvXfBwj5zZT9A4k2LQ=="
+secured: "AP5faEL6jAycbTbAUgA0zpWcymisYaL2yNkih8K1WlCo/ydJeAM+y0xbxc5w1baO0UOCa9wiQeczvN1bbgqKU+0jfXgVf1F/wESHq+gAD4L9MOjqbZDlgMjYXbPY2d7O0iOkSD5Gqj7+nsWgo2jIRt65/uQzajonEfnmu6D1dFR6iWRVuyK3VhgVbgpKagTXfGx0jok/CXmeE1vQsxH6/4na/IXUqiCs7sJLL3IsPKR8OJI1oY2qZClR22SVeVstUqkwbPsSny0wJKfTlPXrgbkOh2ckQe8seUyj5c0/qIo22TR7PC6SN/88sipSzmkXjsrO0C6l5PfMQzcqWcaovQKjO5sPeF32HjRhLKx74seEmh1ec2FIQ4MHx9UVzOVGQTn6hm+f5TxRBNXOBKMs9+Ijp0yJns2Lr23wpQ+0AhY=;BxTaEux0320DL+yPMOZOyQ=="
 ---
 
