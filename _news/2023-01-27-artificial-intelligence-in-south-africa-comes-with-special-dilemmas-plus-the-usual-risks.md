@@ -2,24 +2,19 @@
 category: news
 title: "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks"
 excerpt: "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa."
-publishedDateTime: 2023-01-27T10:26:00Z
-originalUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
-webUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
-ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
+publishedDateTime: 2023-01-27T11:38:00Z
+originalUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
+webUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: modernghana.com
+  domain: modernghana.com
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
 
-secured: "SoosdqSusMNsbgXg/oNkmHbYjy0ofNIHcYBbPdHYzQjBjw7w49Z6Hk2WpFw02WHWdm2hTGu8B5irsNfyt6kER8EECka3SnHMbYbd+r/5G+beELce9Sk+d4gtjrveI4VH/EC4Jdgzd/TWWOHiq9mF3eJEUQO2ZqgaoYm/HhGSr8PZcAgZ2rrxA1uRyJWuBvrvqg2nAEcj73p9oAZ/j0v8m+M87yfIQKO9IvE4tF72Azvn6jxHdI94tnL9pERt/AR6L93hC7TOmKSCspwZzTz8DWSiqwk5buTf2v4IbDlfL2lN2LLWX8iiDnKz0EqdBXGgOiQ2RqrtIcEj4OxkMehe2fldQPF7uLXVWOhBPZZJ5AGk29nQiIKrzu5Puyh29JtJQU679MwvR8N9+lGc8Yr4DTieQsAaB5fk9w0noHESlhkTHbTAj+5+UYGkIPCDL2W/TReRsSYBjZ9pq7qTcO8EVwUpZcNKTvTPpI198GzB4Ztqg3bYNyWQIhqRy++cxgepVKMyMq1B2bjjYLZ94iFEsg==;NNGdOTeOxzelfI6V6aI4EQ=="
+secured: "Mvq0nDEEE8csj8WhDM05E7T1JfmQN2rgQGW4u+m+A6vYVEFxHZYVPps3uLbgHAovrmU8F6ighaX55RsU3Tl5ujcXi3/fHYvXMFzagYyL63iVwu9REGLCESS9tJDxiHavV8kz6Cl1lqUnSzMqBpuS4RwWzLsDM7n9d+nZJPK1gsJCMbdncocYlaoOctRS9wb998ay2Fksm/oCPj1L4hinfIXiGf+i2xmC4n1ALFOExrOnLYuBBpNEWf2yvNKxg+WkWZXaOgDwfl+XqOn77/LOnwtbNiM1fgu/gSDlGwyifufdZcgPfnq5+mzu5Sb24tig272CLpiH5VdWYfZgjFRP0mnAGETlWHul2QOXFGAKv0C9VW9ZuU49vF+3/BoXvubxzn2iuY8vbUX7tRI6h8pKGRb8995erVMs8a2hlc1lNjk+HxDXTuK0BFiqDuRE4kLQl6AR4KWYiAZ15ofUWYfRzlBRjE2UNgEOnBC09hgTonQhuWELGGGhRyHne35NaEfwLu2iDvrlDiYrxwI1oCOdDA==;ZpUdl39T3xXq1YZFdD8DTQ=="
 ---
 
