@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Data and AI Ethics Market Size 2023 Will Touch A New Level In The Upcoming Year 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-25T00:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- Artificial Intelligence and Robotics in Aerospace and Defense Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
     publishedDateTime: 2023-01-25T19:12:00Z
@@ -51,29 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-25T00:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-24"
+  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
+    publishedDateTime: 2023-01-25T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market : Global Market Growth, New Trends, COVID-19 Impact and Forecast 2023 To 2028"
-    excerpt: "Jan 26, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in the..."
-    publishedDateTime: 2023-01-26T23:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-global-market-growth-new-trends-covid-19-impact-and-forecast-2023-to-2028-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -102,15 +74,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Artificial Intelligence Market | Top Factors Responsible for the Rapid Growth in the Coming Years 2028"
-    excerpt: "Emotion Artificial Intelligence Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-26T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-artificial-intelligence-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-26"
+  - title: "Machine Learning in Communication Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
+    publishedDateTime: 2023-01-27T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2028-2023-01-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Edge Devices Market 2023 : Size (value & volume) by Company, Key Regions, Type, and Application 2028"
+    excerpt: "Jan 25, 2023 (The Expresswire) -- Artificial Intelligence for Edge Devices Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,..."
+    publishedDateTime: 2023-01-25T10:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-2023-size-value-volume-by-company-key-regions-type-and-application-2028-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Taxi Market 2023: Growth Outlook and Forecast 2027 with Top Leaders, Size and Share Analysis"
+    excerpt: "A self-driving taxi or a driverless taxi is an autonomous car (SAE Level 4 or 5) operated for an e-hailing (on-demand mobility) service. The fact of eliminating the need for a human chauffeur, which represents a significant part of the operating costs of that type of services,"
+    publishedDateTime: 2023-01-25T05:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-2023-growth-outlook-and-forecast-2027-with-top-leaders-size-and-share-analysis-2023-01-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -130,15 +130,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A New Industrial Artificial Intelligence Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2026"
-    excerpt: "Industrial Artificial Intelligence Market Size Outlook for 2026 with massive business analysis and bottom-up analysis of the Companies [, Intel Corporation, Siemens AG, IBM Corporation, Alphabet Inc,"
-    publishedDateTime: 2023-01-27T02:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-new-industrial-artificial-intelligence-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2026-2023-01-26"
+  - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
+    publishedDateTime: 2023-01-27T02:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-voice-recognition-system-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2028-2023-01-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

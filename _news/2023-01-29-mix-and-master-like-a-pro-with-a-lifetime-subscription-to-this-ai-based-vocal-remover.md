@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T14:00:00Z
 originalUrl: "https://www.popsci.com/sponsored-content/ai-vocal-remover-sale/"
 webUrl: "https://www.popsci.com/sponsored-content/ai-vocal-remover-sale/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Popular Science

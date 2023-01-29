@@ -52,20 +52,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
-  - title: "Alphabet company DeepMind shutters Edmonton site as part of Google layoffs"
-    excerpt: "UK-based DeepMind Technologies, which is owned by Google’s parent company Alphabet, is consolidating its offices in Canada and shutting down its Edmonton site."
-    publishedDateTime: 2023-01-24T23:13:00Z
-    webUrl: "https://betakit.com/alphabet-company-deepmind-shutters-edmonton-site-as-part-of-google-layoffs/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 37
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2017/07/deepmind.jpg"
-        width: 1500
-        height: 1001
-        isCached: true
   - title: "DeepMind confirms AI research office closing in Edmonton"
     excerpt: "1:16 Google parent company to close Edmonton office of A.I. subsidiary DeepMind An artificial intelligence lab, whose opening in Edmonton spurred excitement about the future of the AI sector in ..."
     publishedDateTime: 2023-01-25T06:29:00Z

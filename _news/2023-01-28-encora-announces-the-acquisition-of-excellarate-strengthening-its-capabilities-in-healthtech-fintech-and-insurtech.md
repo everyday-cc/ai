@@ -215,6 +215,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 4
+  - title: "What to expect for India’s Fintech Agenda in the Budget year 2023?"
+    excerpt: "Fintech in India has seen significant growth in recent years, driven by a combination of factors including a large and young population, a growing economy, and increasing access to technology."
+    publishedDateTime: 2023-01-29T13:34:00Z
+    webUrl: "https://www.livemint.com/budget/expectations/what-to-expect-for-india-s-fintech-agenda-in-the-budget-year-2023-11674998872663.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 4
 
 secured: "edBr0AGWGpLAvT6eY6pbdPWHDkWW4pqUkAL14QNtwAEplDE1lu+vMeF2EONPbTHKMLxy6YQuaxlIZVZBvuqH6yG6HoonLaLBuPboXv9HhfXpKvOa3tm83wA1yPn9g/Hm3fZNDvGY3sCZhTsVW5LcCx3ozxcQ+Sq6DMUKYFhJdkOy4gUFhDnbVlX3XE+IGoTzbuw6zzk2VJPaNpKUJ6CJocRF/0JrHVCX0XKJTgcMsh7y463SrflClwLzoVcRjgF7ipjFwJl8yEaHUIbTg5wfC9rRtWCw8KpiY3mM9uzCzG115vxT7kf3fHCNv8JfMgQggYqFajoHsGCZBfxiQ0ZznE0c02+3EDiwpfR27LajDCI=;8Ecqqj6DSgJe7/lFdr6cRg=="
 ---

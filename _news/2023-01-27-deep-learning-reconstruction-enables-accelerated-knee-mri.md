@@ -1,20 +1,29 @@
 ---
 category: news
-title: "Deep learning reconstruction enables accelerated knee MRI"
-excerpt: "Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating internal derangement of the knee in a clinical setting,"
-publishedDateTime: 2023-01-26T19:10:00Z
-originalUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
-webUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
+title: "Deep Learning Reconstruction Enables Accelerated Knee MRI"
+excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ..."
+publishedDateTime: 2023-01-26T17:10:00Z
+originalUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
+webUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "waCj6/G7VDN0/ykPeX/ckYqXjr3mpZ5nrMvX1+u6BPBVqli5gb3IwbXGxkeatBndD7FnFq8jONzE06/XKe/bhl8H3/hsdfB1rzZlmCm9DXt2tc33Q8t0683RA1/CnQrka9QrRlipo7AXyGCXuScKzXvLFaLvXVquBqrstzQxcv3kGtbnI7cmBFqT5PKUlj5/TheHgti9kHiCfsx9X8PW3Lp//IzlqS2fiqNaj4YCIitpGXF6tv3bQWLa8I28aujLQopISoT2YpA2Y3B0gnjGQKY2nmNhX92bSJNC4dY61EtkG4eNiLB7yjZRCQtOdubc24Oz6MimLJLt8jnTBL7VlSAVM3x5H2q0TC5VDlYF8yZ587C03ur4cbE9LjsWB43QuVyasJl7XwTeQaCgeJHOR3I5i6sqtkQKaPIpgtOY8XKLd2ZJ+8PMr44TAogAVYd4eOgUtiSmni+vwu5dY0lUM+VPaC7qVYdUPnYs8zES4Yk8nWCdKd6ftVat9R3Zwo5pO2LRRzLn6FdorUZHVjB4RA==;Iutki82DM5D2FsPmYDCGug=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/89/a89d37bd-9579-50c1-b5d9-7aedd499602e/63d2ae37698fb.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "xXlSMB0CfGJUWdIPJFVLV2d2EzN9ISPPAHSvND8upVNffpnz7SRxPYTc397IgRJte9Y+3GzgkEO6NFVL8kZaK17hTvDhOu7eOvzwPXJQ1H9HlEQKNbrzxMCkTMophuCNXw6xTggn5fJsLd9MZJxe6/XHyF9OhX4tOkY9w3PiflcyXCbSRvI5Z8ExWaS+IZiZIkeFTFWQgxnWKhj+8VZnYSCuf4rxtv5fCvdwmcJRxUk2h/K+laIsIUAMVLwWQnVIw91dWpCOuAOvZRXXaGz06C1oVlK0bhHji9OXqJCXA2pTaboqMdZjAW3LMZFaF5uyuRTc1Pbt36G7a+dLL3SlmQiXYrEuFeyVI6yEu5U5vpQ=;MlYQkFjBazyt+XLDkalEsA=="
 ---
 

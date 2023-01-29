@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'Pandora’s Box is opened, what are we gonna do?' : Local cyber security expert talks ChatGPT ethics"
-    excerpt: "This technology is fast and appears fairly smart, but tech experts wonder if it has morals, ethics and values."
-    publishedDateTime: 2023-01-24T22:11:00Z
-    webUrl: "https://www.wfmz.com/news/area/berks/pandora-s-box-is-opened-what-are-we-gonna-do-local-cyber-security-expert-talks/article_6bef0f32-9c3c-11ed-a601-2b82caa3bc35.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/d6/8d6dc229-525d-5489-b6e0-ca3df0cd6c94/63d068e2c40ef.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YDmHrwDDREWTUj+ErUc7svFFyu+TFbMY62/y1LGr47ECU2807k1aE9ptZ+BYrwVt6EnlWJBJtSHlBd+H6wfIn6ow0vaSfk3LjWRBxoMUL7oDk8DiM0Y1WSvTfsC0gDgUanIpA0fdf4NsUuc7qSIrq0t+v1T4v5YaDi1Jh+suPILQuAsOB7+c7n8idDJjEjtW2oDHGP8PgTlUYy+AK0705LYC8d1oO/iRGZVmsCxyf8U1XWDZO3RxOieOBAxx9X5MtMngIMuT1J/BQTIzvA+ESmAj75Lxol8y2HQ/cfwsYccMXYs3nGVTRtx4zUIaGNW11joHCyTgzmfDfiLLsib3lvpI239Cp+y06lCPECjBc59mfOyRVTAcwBUVm55RXrDO99FwkTYOk+nRIL5ay2u/AldfH1P+yOeUUoFEn6HBVkIFh/1jElQtIr76WubAsddK8RIX+PHmsfZTq5odrnD3liJM1rfscszdISSavr/JwyMsBW2y8Q+XO4c/xfID+sQULzdbuHIK6rODo5f0taKtEw==;C3SAOpJXXj9XBPBJRAHVPg=="
 ---

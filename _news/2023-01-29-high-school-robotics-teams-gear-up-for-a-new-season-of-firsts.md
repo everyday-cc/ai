@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T13:01:00Z
 originalUrl: "https://triblive.com/local/regional/high-school-robotics-teams-gear-up-for-a-new-season-of-firsts/"
 webUrl: "https://triblive.com/local/regional/high-school-robotics-teams-gear-up-for-a-new-season-of-firsts/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TribLIVE.com

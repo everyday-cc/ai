@@ -43,38 +43,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "ChatGPT uses AI to pass final exam at UPenn’s Wharton"
-    excerpt: "ChatGPT uses artificial intelligence to write an essay instantly on any topic. It even passed an MBA exam at UPenn’s Wharton. NBC News’ Stephanie Gosk shares more about the cutting-edge technology and the shockwaves it’s causing on college campuses."
-    publishedDateTime: 2023-01-25T00:25:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/chatgpt-uses-ai-to-pass-final-exam-at-upenn-s-wharton-161658437822"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo161658437822"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo161658437822"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674606230388_nn_sgo_chatgpt_on_college_campuses_230124_1920x1080-k1mc26.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The best AI writers: ChatGPT and other interesting alternatives to try"
-    excerpt: "AI writing tools can help lighten your workload by writing emails and essays and even doing math. They use artificial intelligence to generate text or answer queries based on user input. ChatGPT is one popular example,"
-    publishedDateTime: 2023-01-24T22:03:00Z
-    webUrl: "https://www.zdnet.com/article/best-ai-writer/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/best-ai-writer/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-ai-writer/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+"
     excerpt: "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing."
     publishedDateTime: 2023-01-26T20:28:00Z
@@ -123,22 +91,6 @@ related:
         width: 907
         height: 605
         isCached: true
-  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
-    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
-    publishedDateTime: 2023-01-29T12:25:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
     excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
     publishedDateTime: 2023-01-27T21:06:00Z
@@ -178,6 +130,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 66
+  - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
+    excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
+    publishedDateTime: 2023-01-29T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
     publishedDateTime: 2023-01-28T11:40:00Z
@@ -240,20 +201,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Who’s afraid of ChatGPT? AI in healthcare could save $360B"
-    excerpt: "A study claims AI could have an outsized financial and non-financial impact in healthcare. The next few years will determine whether the promise becomes reality."
-    publishedDateTime: 2023-01-24T21:03:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/whos-afraid-of-chatgpt-ai-in-healthcare-could-save-360b/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 54
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/01/GettyImages-1245391728.jpg"
-        width: 1024
-        height: 666
-        isCached: true
   - title: "ChatGPT is on its way to becoming a virtual doctor, lawyer, and business analyst. Here's a list of advanced exams the AI bot has passed so far."
     excerpt: "ChatGPT is becoming more professionally competitive by the day. We rounded up all the exams the bot has passed."
     publishedDateTime: 2023-01-28T04:20:00Z
@@ -270,6 +217,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
+    excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
+    publishedDateTime: 2023-01-29T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Meet Sam Altman, creator of ChatGPT and president of OpenAI that aims to revolutionise responsible AI"
     excerpt: "Sam Altman is the president of OpenAI, a research company that aims to create and promote friendly AI in a responsible way. He has also been a part of Y Combinator, a startup accelerator that has helped launch companies such as Airbnb, Stripe and Dropbox."
     publishedDateTime: 2023-01-28T09:03:00Z

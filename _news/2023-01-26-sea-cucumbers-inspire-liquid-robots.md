@@ -41,15 +41,6 @@ related:
         width: 711
         height: 407
         isCached: true
-  - title: "Watch this person-shaped robot liquify and escape jail, all with the power of magnets"
-    excerpt: "Where traditional robots are hard-bodied and stiff, \"soft\" robots have the opposite problem; they are flexible but weak, and their movements are difficult to control. \"Giving robots the ability to switch between liquid and solid states endows them with ..."
-    publishedDateTime: 2023-01-25T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/01/230125121555.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 57
   - title: "Scientists invented a melting liquid robot that can escape from a cage"
     excerpt: "The robot was presented as part of a study into the metal microparticles, known as a type of magnetoactive phase transitional matter, that can morph shape, move quickly, be controlled easily and carry many times its own body weight. The scientists behind ..."
     publishedDateTime: 2023-01-27T06:19:00Z

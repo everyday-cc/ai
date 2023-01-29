@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google AI Can Turn Text Prompts Into Music"
+    excerpt: "Google has made an AI that can transform text prompts into music that lasts several minutes, The Verge reports(Opens in a new window). The AI was able to generate ..."
+    publishedDateTime: 2023-01-29T16:53:00Z
+    webUrl: "https://www.pcmag.com/news/google-ai-can-turn-text-prompts-into-music"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06QkrILdpt6gGNKvITfudDB-1.fit_lim.size_1200x630.v1675011155.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Google's new MusicLM AI can generate music from descriptions"
     excerpt: "Google is testing a new AI model called MusicLM, which can generate \"high-fidelity ... The description adds, \"To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text descriptions provided ..."
     publishedDateTime: 2023-01-27T10:55:00Z

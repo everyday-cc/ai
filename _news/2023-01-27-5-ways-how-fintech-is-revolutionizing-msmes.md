@@ -211,6 +211,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 4
+  - title: "What to expect for India’s Fintech Agenda in the Budget year 2023?"
+    excerpt: "Fintech in India has seen significant growth in recent years, driven by a combination of factors including a large and young population, a growing economy, and increasing access to technology."
+    publishedDateTime: 2023-01-29T13:34:00Z
+    webUrl: "https://www.livemint.com/budget/expectations/what-to-expect-for-india-s-fintech-agenda-in-the-budget-year-2023-11674998872663.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 4
   - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
     excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
     publishedDateTime: 2023-01-27T19:40:00Z

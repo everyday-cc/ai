@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-gene
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI Can Turn Text Prompts Into Music"
+    excerpt: "Google has made an AI that can transform text prompts into music that lasts several minutes, The Verge reports(Opens in a new window). The AI was able to generate ..."
+    publishedDateTime: 2023-01-29T16:53:00Z
+    webUrl: "https://www.pcmag.com/news/google-ai-can-turn-text-prompts-into-music"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06QkrILdpt6gGNKvITfudDB-1.fit_lim.size_1200x630.v1675011155.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Google develops new AI system for generating high-fidelity music"
     excerpt: "Google LLC researchers have developed an artificial intelligence system that can generate high-fidelity music based on a text description provided by the user. Google detailed the system in a Jan. 26 research paper spotted today by TechCrunch."
     publishedDateTime: 2023-01-27T22:12:00Z

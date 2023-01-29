@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/study-latest-artificial-
 webUrl: "https://www.marketwatch.com/press-release/study-latest-artificial-intelligence-in-insurance-market-report-2023-is-booming-globally-by-2029-with-leading-cagr-2023-01-27"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
-    publishedDateTime: 2023-01-25T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "887FxHVTVrIt+qMFhLTYyKngCvBi/wNCV/8NjmN0J52DgSOupB2fFaBlnX8Pkos+eflB37nESkI7f6ST7xKpY2E2mmA7s26vTnc+bSNA7ZYXWtK9k9hyL5Xhl5TZfkiUTjWoOl5R/8htppKPEs5evZfrcBQgzKO6rNmS8AGaJZP1rBiWL6Cl5PnruPJRtqUIdWBbjFZsMq7xzYKSpZYKIvivcTpWK+ivo63DhkaVfOZfaW5tHQMQX2PiwM7/WV35W1hyKd2agNC3x8bPVDZzxkWvLpNSV4N+bvHzqXezsKmNuffDUfAEhN+1sfiE1VJxi1ZuJ3S40AyNooM18DxUC9lTRn3N2j66knDY5XfDQLs=;JxL7DWY+JW6zq8iadlwC/A=="
 ---

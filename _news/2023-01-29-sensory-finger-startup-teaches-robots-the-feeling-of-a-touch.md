@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T14:45:00Z
 originalUrl: "https://interestingengineering.com/innovation/startup-teaches-robots-touch"
 webUrl: "https://interestingengineering.com/innovation/startup-teaches-robots-touch"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Interesting Engineering
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "ycYq+27VJHUgSWy4F6e67gFOlODEWHTz0Uepoe18KOMYpF+gzUyDzdYTqk58WR3dxQqE/aTkytCTV50GBeTSpnedx76GIifw5B44G2JtUFB8+srr2Bmfo2xoHv5FnZJezFXkZTO6JzDzkUITUvI9TnRlsbmRyxJfjgGhiJyGJP2TsU/BJg492J5yV4AF6f1xqZoE08YdHsnHoqFr9g3lxrw8AyfevCEdynsJSKrn7pQCIiJxnozjCeVKEEtWs4BSkRRh6vnLJ4Lv87EH1KdRoAcR59C0lIekdktrFjQolBF77EKfkLn2E/+A89UfG0mQeIviCP/EOQ+9YMnWq0A1dQxIiu4CPIOQuiLkIw5YAsXefMi7EepyV499sukOLbUTSexoff6WvALc8tsqgPPJndXjy5mY0LjAPq+s2m8M7fryJ2WDrsdTDv0mEgFbFVge1+aPpIIsNlkcow+vh3B/w4LtRkFcPbWd0Uj6O4PeId9fexH3+1U9udxiP0wYXhDuVfEtRzt5On2xD8wiMqySDg==;qKLGzIH/L5kBlW92aRUT0g=="
+images:
+  - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/01/29/image/jpeg/hpiFbFujNNZA20S21eMY1arVTo7q2CBnQpPB9FZI.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "h/hckxIx4AdTn/MhMHYv5DKBrmI5xl4gUnHUDt//AqCe7cA8YfEdchpNvRIuint86HhVXglfDCB3237WVqr/L07+p3PHNRjHIqqcoDgKLKh+KvqgGjNG5zelHhj0lmIGITIr/utouOONJJq73eRZ8qUe1hwd6WDT77ZhIcrEmLeqM00PQWcEj293uHa4+zubCDjBwt8nKtkB9JDYwCAw9tJ2bT56HGhR1fizM1m8DvN0vwzaiK7+H8uGza7+BM62Ru0aS6Q5C/bkW1/Qc+OR6zUVKFg2La/OiiavQXNUD5oIGe2ncmQOSJ61Hruc+yx8Q4iHJmydYJaMqEjJ7qNxf6uu7oLCSWW6Z1WMQ5JKHDg=;yeD4vWSqafk5iszu4TOHaA=="
 ---
 

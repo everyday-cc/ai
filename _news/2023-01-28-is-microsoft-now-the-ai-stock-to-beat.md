@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/01/28/is-microsoft-now-the-ai-
 webUrl: "https://www.fool.com/investing/2023/01/28/is-microsoft-now-the-ai-stock-to-beat/"
 type: article
 quality: 86
-heat: 216
+heat: 186
 published: true
 
 provider:
@@ -97,29 +97,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Microsoft attracting users to its code-writing, generative AI software"
-    excerpt: "Microsoft Corp on Tuesday aimed to assure investors that its big bet on artificial intelligence (AI) is paying off, even as economic turbulence is making Microsoft customers scrutinize their cloud spend."
-    publishedDateTime: 2023-01-24T23:52:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-attracting-users-its-code-writing-generative-ai-software-2023-01-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-  - title: "Amid layoffs, Microsoft extends billion-dollar AI partnership"
-    excerpt: "After announcing that the layoffs of thousands of employees were on the horizon, Microsoft announced it’s extending its partnership with an artificial intelligence service, OpenAI. OpenAI is a startup that’s behind art-and-text generating AI systems like ChatGPT,"
-    publishedDateTime: 2023-01-25T00:12:00Z
-    webUrl: "https://rollingout.com/2023/01/24/microsoft-artificial-intelligence-ai-partnership/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 54
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/01/MicrosoftOffice-scaled.jpg"
-        width: 1566
-        height: 1080
-        isCached: true
   - title: "Microsoft expects slower Azure growth"
     excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
     publishedDateTime: 2023-01-25T16:07:00Z
@@ -161,20 +138,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "Despite revenue miss, Microsoft shares climb on hopes for improved cloud performance"
-    excerpt: "The software and cloud giant reported slightly better than expected revenues in its Intelligent Cloud business on overall revenues that came in barely below analysts’ estimates. Fiscal second-quarter earnings fell 12% from a year ago,"
-    publishedDateTime: 2023-01-24T23:30:00Z
-    webUrl: "https://siliconangle.com/2023/01/24/despite-revenue-miss-microsoft-shares-climb-hopes-improved-cloud-performance/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
-        width: 1152
-        height: 768
-        isCached: true
   - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
     excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
     publishedDateTime: 2023-01-26T14:00:00Z

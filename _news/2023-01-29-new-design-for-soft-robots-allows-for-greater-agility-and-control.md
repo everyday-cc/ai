@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T14:00:00Z
 originalUrl: "https://www.labroots.com/trending/technology/24545/design-soft-robots-allows-agility-control-2"
 webUrl: "https://www.labroots.com/trending/technology/24545/design-soft-robots-allows-agility-control-2"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Labroots

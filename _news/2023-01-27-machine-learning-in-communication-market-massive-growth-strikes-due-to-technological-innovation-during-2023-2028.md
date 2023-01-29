@@ -29,52 +29,56 @@ images:
     isCached: true
 
 related:
-  - title: "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029"
-    excerpt: "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market"
-    publishedDateTime: 2023-01-25T01:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
+  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- Artificial Intelligence and Robotics in Aerospace and Defense Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
+    publishedDateTime: 2023-01-25T19:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
-    excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
-    publishedDateTime: 2023-01-27T02:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26"
+  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
+    publishedDateTime: 2023-01-25T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Healthcare Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
-    excerpt: "Jan 24, 2023 (The Expresswire) -- Machine Learning in Healthcare Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at..."
-    publishedDateTime: 2023-01-25T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-statistics-2023-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2023-01-24"
+  - title: "Data and AI Ethics Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-27T00:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+  - title: "Data and AI Ethics Market Growth, Trends and Industry Forecast 2023-2028 with Top Countries Data"
+    excerpt: "Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected"
+    publishedDateTime: 2023-01-25T10:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-growth-trends-and-industry-forecast-2023-2028-with-top-countries-data-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
-    excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
-    publishedDateTime: 2023-01-26T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-26"
+  - title: "Global AI In Computer Vision Market Size Growth Rate Analysis 2023 by Production, Revenue, Price, Gross Margin, Countries and Forecast to 2028"
+    excerpt: "Jan 25, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Computer Vision"
+    publishedDateTime: 2023-01-25T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-size-growth-rate-analysis-2023-by-production-revenue-price-gross-margin-countries-and-forecast-to-2028-2023-01-25"
     type: article
     provider:
       name: MarketWatch
@@ -85,42 +89,79 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Software Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2029"
-    excerpt: "In 2023, Current Natural Language Processing (NLP) Software Market Size | 2029 | Newest [115] Pages Report Natural"
-    publishedDateTime: 2023-01-26T13:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2029-2023-01-26"
+  - title: "Artificial Intelligence for Edge Devices Market 2023 : Size (value & volume) by Company, Key Regions, Type, and Application 2028"
+    excerpt: "Jan 25, 2023 (The Expresswire) -- Artificial Intelligence for Edge Devices Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,..."
+    publishedDateTime: 2023-01-25T10:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-2023-size-value-volume-by-company-key-regions-type-and-application-2028-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Supply Chain Market 2023 Constitutes Trends, Segment Size, Restraints, and Drivers that Transform the Industry to 2028"
-    excerpt: "A comprehensive research on Artificial Intelligence Supply Chain Market Overview 2023-2028. It displays the market size"
-    publishedDateTime: 2023-01-25T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2023-constitutes-trends-segment-size-restraints-and-drivers-that-transform-the-industry-to-2028-2023-01-25"
+  - title: "Self-Driving Taxi Market 2023: Growth Outlook and Forecast 2027 with Top Leaders, Size and Share Analysis"
+    excerpt: "A self-driving taxi or a driverless taxi is an autonomous car (SAE Level 4 or 5) operated for an e-hailing (on-demand mobility) service. The fact of eliminating the need for a human chauffeur, which represents a significant part of the operating costs of that type of services,"
+    publishedDateTime: 2023-01-25T05:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-taxi-market-2023-growth-outlook-and-forecast-2027-with-top-leaders-size-and-share-analysis-2023-01-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Size Projection, Growth Outlook, SWOT Analysis and Industry Insights by 2030"
-    excerpt: "With the unlimited possibilities given by this cutting-edge technology, artificial intelligence in healthcare is flourishing, and major corporate giants are expressing interest and investing ..."
-    publishedDateTime: 2023-01-25T00:40:00Z
-    webUrl: "https://www.medgadget.com/2023/01/artificial-intelligence-in-drug-discovery-market-size-projection-growth-outlook-swot-analysis-and-industry-insights-by-2030.html"
+  - title: "Cloud AI in Fintech Market 2023 Analysis by Market Size, New Technology, Growth Rate, Geographical Regions, Drivers and Outlook to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Global “Cloud AI in Fintech Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
+    publishedDateTime: 2023-01-27T00:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-2023-analysis-by-market-size-new-technology-growth-rate-geographical-regions-drivers-and-outlook-to-2028-2023-01-27"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
+    publishedDateTime: 2023-01-27T02:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-voice-recognition-system-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2028-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market (New Research Insights) Dominated Regions 2023: Upcoming Demand, Global Size and Share Forecast to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 26, 2023 (The Expresswire) -- “Face Recognition Device Market” [122 Pages] report provides precise and strategic analysis of market historic, present and future ..."
+    publishedDateTime: 2023-01-26T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-new-research-insights-dominated-regions-2023-upcoming-demand-global-size-and-share-forecast-to-2027-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
+    publishedDateTime: 2023-01-27T19:46:00Z
+    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 0
 
 secured: "0ofc2IaO1kWFTBndGaUSze85XzIWWlJebb7MIg0LOida5EJciUPPgGMYeKgaicKB0p2MbEYAL6P/QCs3Hlv/Ok4boxsaH8dfCPNCC55QkTiHuWiyxpi4xAQzneTz7XodQqBqmFCLkzaDoBfaHNBwfMBr02d/35x4v8Obx6jymECudVTGB3G0BwIjn29J8nxAUEH7Gs+sPZgBrTo2vuytkvcvgFDmN0yXEkD7+7fVmxTOb7PB0OnCoWz6jhXp8HgrOpoSRApdWeatJrLifZuN9gYRyzlwcJxliUIiOEvErtexmh7KCgj1Rh5zfAgYSSdMqkG1m3L9qv7r0jtGz2OIaipJV1qif5uX0gUmq8THDM0=;B1Zc2K9dE1MVbxMAejZZ0w=="
