@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Deep Learning Reconstruction Enables Accelerated Knee MRI"
-excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ..."
-publishedDateTime: 2023-01-26T17:10:00Z
-originalUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
-webUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
+title: "Deep learning reconstruction enables accelerated knee MRI"
+excerpt: "Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating internal derangement of the knee in a clinical setting,"
+publishedDateTime: 2023-01-26T19:10:00Z
+originalUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
+webUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/89/a89d37bd-9579-50c1-b5d9-7aedd499602e/63d2ae37698fb.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
-    width: 600
-    height: 315
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-reconstr.jpg"
+    width: 800
+    height: 600
     isCached: true
 
-secured: "xXlSMB0CfGJUWdIPJFVLV2d2EzN9ISPPAHSvND8upVNffpnz7SRxPYTc397IgRJte9Y+3GzgkEO6NFVL8kZaK17hTvDhOu7eOvzwPXJQ1H9HlEQKNbrzxMCkTMophuCNXw6xTggn5fJsLd9MZJxe6/XHyF9OhX4tOkY9w3PiflcyXCbSRvI5Z8ExWaS+IZiZIkeFTFWQgxnWKhj+8VZnYSCuf4rxtv5fCvdwmcJRxUk2h/K+laIsIUAMVLwWQnVIw91dWpCOuAOvZRXXaGz06C1oVlK0bhHji9OXqJCXA2pTaboqMdZjAW3LMZFaF5uyuRTc1Pbt36G7a+dLL3SlmQiXYrEuFeyVI6yEu5U5vpQ=;MlYQkFjBazyt+XLDkalEsA=="
+secured: "POiKZLBDDnw0QqOnuFuufv/GjdCk3A3vWaH8QemfJ0BUpNvtegcb6b7QYLBiKm3cskBft1XAnxBpMCKhQNfniTulq0cvt3MytgkT1Sq/SAnyW0WwU9+W/376Vme2woTtnU9JKIitnNZuUZoKon4NeHFXZJoeAJoKCvLygzgODDE5KonukBr8DdTtmw22EEmeS5CmXwsbAdae5XaBmUlJRgRq4T+8G+v2Qh1oCcBT9FRttwDm6ayAu1bIiA/hHnSXGzS+GdT1EHNviIq6GcQjuIkuV0Walajho8gfIs2U1lWIoXNthb5x7mQQEfPcluiHPnwFBjkj3B9Awm8zl0plbIHWLu6jGQlhKy9DwSMrJDI=;7xaesDsYCjPq5diLuGn5lw=="
 ---
 

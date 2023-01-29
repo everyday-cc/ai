@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -26,6 +26,22 @@ topics:
   - AI in Marketing
 
 related:
+  - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
+    excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that ..."
+    publishedDateTime: 2023-01-27T14:22:00Z
+    webUrl: "https://www.benzinga.com/content/30602400/how-this-startup-uses-ai-to-deliver-roi-based-creative-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30602400"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30602400"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "BuzzFeed announces plans to use AI for content creation"
     excerpt: "BuzzFeed announced Thursday that it would begin using artificial intelligence to help generate its content. The company will partner with OpenAI to start producing \"AI inspired content,\" according to CNN Business,"
     publishedDateTime: 2023-01-26T23:22:00Z

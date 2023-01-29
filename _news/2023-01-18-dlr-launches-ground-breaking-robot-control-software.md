@@ -1,20 +1,26 @@
 ---
 category: news
 title: "DLR Launches Ground-breaking Robot Control Software"
-excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task."
-publishedDateTime: 2023-01-17T21:28:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/01/17/9744604.htm"
-webUrl: "https://it.tmcnet.com/news/2023/01/17/9744604.htm"
+excerpt: "Jan. 17, 2023 / PRZen / BINYAMINA, Israel — Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software."
+publishedDateTime: 2023-01-17T18:22:00Z
+originalUrl: "https://www.digitaljournal.com/pr/dlr-launches-ground-breaking-robot-control-software"
+webUrl: "https://www.digitaljournal.com/pr/dlr-launches-ground-breaking-robot-control-software"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "F+a6H4xhOFnSj7LwhW8+gZwvcDmCAwkEXF1Hfa/zMToA4hhypgwit60K4lfiy77V7bbQoELk19hb52aFML6A4OwS2rf2mgJ5yg2B/0kWxRlrUCctzJGZ48mWIBRpJL718+SkCDn1EUMCF9HxRtP7N4lcKsgvj3GvI0GrGkcdhMiGn85ljZrEFJY0mp0iP52kV88uYgeNznw1qx++Zta9UnPSht8XA39umTd++mgzUtE6IovrX0566KsLpCunfvDbM/+12V49mKNAdtDGLPEm0nTV6+qIZKBrN1Ua14sWd9MrYKAzGqZSeHbgeBZLc8bF7f3rxwm9XvyUZWN7a98fPUw/WKV6qVkx04zlKHTBlLs=;ycwijXc7FQk/tXALh/XgCg=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2023/01/London-United-Kingdom-©Tim-Sandle-1K-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "Lfk+JQ50Cq2kwT2suvTahhW+l2gpIOnsfZdiRkRbZmCGmkfCcZnSYLqvl0YnKmnwnceorFvxZs3jMWoqH+x47wwQcOpp6x1o0ASJSMWXbSaA48AFcb5KBgXji/PodnEcFvJH519BYDXEzISLKhKH3D/M1mpB286+gdVKWWtTj5tN+GjlGu1PnPnsoqyiFbZYbl5gTcSPcH1GQrndIdhsSkbGAydxf6cwjcIxQfTk29Xnps0NKtizLzDuNBk6Zgc9N/fL1iL9BVLBheTcYuDizCWCWXZyYb+dgTtpZ6IiPRS4NrdcBcyAlpf8b9ZxqjgYnIFAyPTeBHSh3wTBEYOJze1QLnbKcdsfmLfeX4iV/kI=;Q3XZdZJLtPlD1NqkbsLI2g=="
 ---
 

@@ -30,7 +30,7 @@ related:
   - title: "Who Owns AI-Generated Art? A Comic Book Draws the Battle Lines"
     excerpt: "Artificial intelligence programs like Midjourney allow artists to create mashup images from written prompts, stirring up questions over copyright; an ‘epic scene’ and Zendaya."
     publishedDateTime: 2023-01-29T15:11:00Z
-    webUrl: "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=newsviewer_click"
+    webUrl: "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5"
     type: article
     provider:
       name: Wall Street Journal

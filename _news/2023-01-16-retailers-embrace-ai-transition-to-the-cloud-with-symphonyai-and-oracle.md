@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Retailers Embrace AI Transition To The Cloud With Symphonyai And Oracle'"
-excerpt: "AI-enabled merchandising and supply chain solutions improve<br />cost savings and<br />time-to-market<br />for retail and CPG customers PA"
-publishedDateTime: 2023-01-15T18:27:00Z
-originalUrl: "https://menafn.com/1105430423/Retailers-Embrace-AI-Transition-To-The-Cloud-With-Symphonyai-And-Oracle"
-webUrl: "https://menafn.com/1105430423/Retailers-Embrace-AI-Transition-To-The-Cloud-With-Symphonyai-And-Oracle"
+title: "Retailers Embrace AI Transition to the Cloud with SymphonyAI and Oracle"
+excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, today announced a collaboration with Oracle (NYSE: ORCL) to offer SymphonyAI solutions … Continue Reading →"
+publishedDateTime: 2023-01-16T12:07:00Z
+originalUrl: "https://multichannelmerchant.com/press-releases/retailers-embrace-ai-transition-to-the-cloud-with-symphonyai-and-oracle/"
+webUrl: "https://multichannelmerchant.com/press-releases/retailers-embrace-ai-transition-to-the-cloud-with-symphonyai-and-oracle/"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Multichannel Merchant
+  domain: multichannelmerchant.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "ycCr+urS+5j3vpsr6QbhP1jxTxidcT4S+Qv4TW+h6X92a+jtM7ZyFgzSjBe2+juOL5P5tjd7DVZy3BGE4+lXKtmpO00R2pmB4bvJti4kPDBjaaSRKixnss937QwFwsuo7NKDUFLl4ayNIGyFQWxXDnYHhKNw5UizSZ66qfIz4q3SdshSIY2yAsKfX4sMyyiGRsL9bDwmABiUHY9E+quuFJwPUcrYIVFcSis3XcUxo2X6nGnjXRfMMkl4IyBaPNd6hZgWkVOJj60ervxu1k9T/xfjiA2ZVZghlel0tiz5gsFZk5f1o+sDicH3P7zAAN0bX9E3wMyvDIi1T2cFefNn4nSDmPv1aqTQi6rEskTw+fg=;h4OVs/zQQNf1nJ7uDIirnA=="
+secured: "IXMKEv/Ei9yk0Mt0SIS/IOwE3xLdN40qea/M9iZEwe618uGS1msGCcYhaXkBi5hqqoD5F0ZsEx+BUAB1+XE2QHpHgCB5S7f/gBeLqUlrrZY2RtlLrwOsS/rWG+u1LCMjY8YfybeZSQmPpA+bD5j0upH/AArCqn7nDs5Yju4yfBrOwtK3wivnFaCX4UaQV3l7/t14uNkEB7wV5gxHJgcEN2kZGIsqU0nZK0F6RrvFIeWqlv87hr8XwFS9nHwrcOkFlILDwIKIWAdamYOsnNj91qF2+J2OxI8W8rEZLxBdKBBfRPV8SnHAQYOHXtomm9lgkC+ech/HTdJ4Sovv217PBCv5EBM1k4A2Ujd9hyv1rew=;UXaw/KsZLZVEOqkqYsvppg=="
 ---
 

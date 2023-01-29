@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: MarketWatch
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029"
-    excerpt: "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market"
-    publishedDateTime: 2023-01-25T01:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
     excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
     publishedDateTime: 2023-01-26T13:29:00Z
@@ -114,6 +100,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Security Robots Market to Hit 18.5% of CAGR by 2028 – Driven by Rising Penetration of Automation Techniques | The Insight Partners"
+    excerpt: "New York, Jan. 27, 2023 (GLOBE NEWSWIRE) -- According to The Insight Partners; \"Security Robots Market Size, Growth Strategy, Industry Trends, Size, Share and Global Forecast 2028 – COVID-19 Impact and Global Analysis"
+    publishedDateTime: 2023-01-27T13:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30602547/security-robots-market-to-hit-18-5-of-cagr-by-2028-driven-by-rising-penetration-of-automation-tech"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
 
 secured: "M/bXtAQFViS9qLqRzB2ZKdUzB9quGkmf1VKSgXKeQ3bE9H0L9LwZk0CXeQajIpUi6pGjp1ANCA8aAAebUJYkWjhMelamx4tAUDdqNqJ4d6fR6YACcGVdY8pT0NLXdsamhrj1TILNIxttJ5CsQRSZ7Tga6c4Fyb4zW0D60Vnc2kWXG3LV0txWk+J+8uPTC0f2c8H1SbK/kG76HZTFjTRDKVRLIPcgjDW3I+GfLt9wqGbiQmT/uB/FLZX81l1sTYdC7jCYy+86mvbBgSx0+/DZ0l2CCVcdEb0tZp9letdX0OqCKTV52rY/OrW9+yGk3CdWt1i1uK/SFG8xd+hyP4tBxmZWGC36LBA8Iq8EPaNSS70=;Izn1c1Ptl8wPi8vqdYIGQw=="
 ---

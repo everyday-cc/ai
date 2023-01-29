@@ -7,7 +7,7 @@ originalUrl: "https://techaeris.com/2023/01/28/flawless-ai-can-use-artificial-in
 webUrl: "https://techaeris.com/2023/01/28/flawless-ai-can-use-artificial-intelligence-to-alter-movie-dialogue-and-even-languages/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 680
     height: 383
     isCached: true
+
+related:
+  - title: "Flawless Demos Its Wild AI Film Dialogue Manipulation And Language Translation"
+    excerpt: "From tweaking Tom Cruise to advancing deepfake detection with Intel, AI manipulation of photo, video, and audio sources is becoming more mainstream daily. Now, one company is taking this tech to Hollywood with the debut of TrueSync,"
+    publishedDateTime: 2023-01-29T16:57:00Z
+    webUrl: "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
+    ampWebUrl: "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 55
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/60779/content/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "SeBJ/7srrbz2GAHEyxOcNRYmcswmX6mfmjSD4eQLXPcE7u7LwIVJC0t9+9vR4VTX5839eyU8C6TdruIhu3uEbtdk8CLgXDpmN6Q66jzMvVf/8Lj+fAQDutyLCyRnpuYkmbyisS36Sc7Sn49oaW96kk/l9UrTtD8ZFnNm30d/mEl4OD4srfi0Q25Qf0jKcoRZ/+kVgX1MyJQqn9J2K8SuOur4aNnce7/NVJtP0RGpqCTyCI33Nh2wF0FjUyvd2EcuFr/gdjR10CLpUxZhEjh+xUihsU8V8mL1xoW6qKFSo03ALcV7++aICyfOgWkJSI13jIghFKAY4Tw5DOIR+4MM439fo62FJ9dN0KPRrTifIF0=;uOBUvdWkMGhrPFltBZRCpQ=="
 ---

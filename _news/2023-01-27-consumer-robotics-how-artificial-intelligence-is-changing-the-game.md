@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1123
     height: 748
     isCached: true
+
+related:
+  - title: "Why The Expanse Doesn’t Focus On AI Or Robotics, Explained"
+    excerpt: "The Expanse is timeless storytelling as well as solid science fiction. It leans into hard sci-fi, a term its creator’s shy away from, though the series does depict very plausible tech and stays true to the laws of physics."
+    publishedDateTime: 2023-01-29T17:01:00Z
+    webUrl: "https://gamerant.com/why-the-expanse-doesnt-focus-ai-robotics-explained/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 69
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/naomi-the-expanse-feature.jpeg"
+        width: 1800
+        height: 900
+        isCached: true
 
 secured: "dm8bISnzoyPXgoburFCtEga60Xa9hFDyQmVkoVNQCk8Ly2U7Bcy6R9VWc0SlgHQI7he0aYX+Q0uBnz0e9rD/A9xBzjBiJob7f0XIgUGuOKEjXErOkj/4HNqkjFSe6LS6+kn6KnQbqzp+MQG4D3elOMbUpr03l6lDu34oOzQXlwdcwUDA59ONsZn42ugUvkYzE2TvOFSUEkV6vYPASMwTrgVJNW5rhduFqbdWOU0uJ/pHf8X7e75RO9OMSx1pg4REC0fnheLGVI7Iei/XGNRzXmW/gKo3SlqDM3cOCWr03XEkurFyeugRwJvo7EbOMOvbdHzlv2ezc6zq/0a48Ot5MJkzaspwxv4jSEVQabg6EopPry1VrE91yc7QuxmaIuVRF2slIipAa10xTDYBfp3LZ6XL5mb+5NK1WRNUdMiUftMiR/EOnq8lKOIxUn58H2I+xJxeaa8MOgz41qHx9EHQgd0ZRn1c6l/mti8p2P2ZOrcwIUz8WS3vD+vIIy2JGyNjkmHbkXdlVRL+WjCUqcBAvg==;mY6RbE92gfPpea3CGIMbUQ=="
 ---

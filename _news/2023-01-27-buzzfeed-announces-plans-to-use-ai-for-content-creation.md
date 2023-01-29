@@ -37,6 +37,22 @@ related:
       domain: venturebeat.com
     quality: 86
   - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
+    excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that ..."
+    publishedDateTime: 2023-01-27T14:22:00Z
+    webUrl: "https://www.benzinga.com/content/30602400/how-this-startup-uses-ai-to-deliver-roi-based-creative-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30602400"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30602400"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
     excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that automates ROI-based creative decisions as well as content strategy."
     publishedDateTime: 2023-01-26T12:22:00Z
     webUrl: "https://www.benzinga.com/general/movers-shakers/23/01/30583996/how-this-startup-uses-ai-to-deliver-roi-based-creative-intelligence"

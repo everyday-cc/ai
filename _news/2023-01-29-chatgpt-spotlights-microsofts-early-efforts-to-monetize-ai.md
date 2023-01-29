@@ -39,6 +39,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
+    excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
+    publishedDateTime: 2023-01-29T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d1b102cf214ea638922d82/0x0.jpg?format=jpg&crop=1391,783,x0,y29,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+"
     excerpt: "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing."
     publishedDateTime: 2023-01-26T20:28:00Z
@@ -204,15 +220,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
-    excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
-    publishedDateTime: 2023-01-29T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Meet Sam Altman, creator of ChatGPT and president of OpenAI that aims to revolutionise responsible AI"
     excerpt: "Sam Altman is the president of OpenAI, a research company that aims to create and promote friendly AI in a responsible way. He has also been a part of Y Combinator, a startup accelerator that has helped launch companies such as Airbnb, Stripe and Dropbox."
     publishedDateTime: 2023-01-28T09:03:00Z

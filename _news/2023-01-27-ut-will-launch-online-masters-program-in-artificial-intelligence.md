@@ -43,20 +43,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "UT Austin will offer artificial intelligence graduate program online"
-    excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
-    publishedDateTime: 2023-01-29T02:36:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "AI Master’s Program Launches at UT Austin With Ability to Serve Thousands"
     excerpt: "Just as artificial intelligence (AI) and machine learning emerge as the fastest-growing in-demand skill sets in the global workforce, The University of Texas at Austin is establishing a new online master's program in AI with the potential to bring thousands of new students into the field."
     publishedDateTime: 2023-01-26T16:44:00Z
@@ -70,6 +56,20 @@ related:
       - url: "https://cns.utexas.edu/images/easyblog_shared/2023/b2ap3_large_ut-online-masters-degree-ai_700x420.jpg"
         width: 701
         height: 416
+        isCached: true
+  - title: "UT Austin will offer artificial intelligence graduate program online"
+    excerpt: "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,"
+    publishedDateTime: 2023-01-29T05:24:00Z
+    webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "iYXA4+VNkp/oumyS9vIO9v1Ncrk7mP4kjDmNrSzP7HG2WDYAM9foAk+eVlp5zHbgIzEnWm0QkJq6vDUHWdbZYCyeMydauL2naUgJnNzvu6394NAItYSgovly1T5dmZ+T0/DnTHC+txxOPKwqF+kXYFsQmOPEsLYVKNEzn3ZU0EG789iDVqCQVCXiQpRHD+BvdFFnNAxWyi99YN6/KKNLtf2VSO4+E5YAdsqVL/a2IfCUqGcOLxF2xWJlkaUFdfUrYA7pktumIJ0vmFfomDVQlfhTQfA75DvteygsxIy+xhQ2Smnab0hQm5/TRNBBwMTo5hRJY6zyQReqYLnhHBmjJc+QPgyL9EJfGjSQjsVxdCk=;7ZfhnHjFkR48ttBqLQOBAA=="

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google just developed an AI model that creates music from text prompts — but the company won't be releasing it anytime soon"
+    excerpt: "As the AI race heats up, the tech giant is looking to compete after issuing a \"code red\" in response to the meteoric rise of OpenAI's ChatGPT."
+    publishedDateTime: 2023-01-29T17:04:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-bot-makes-music-text-wont-release-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/google-ai-bot-makes-music-text-wont-release-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-bot-makes-music-text-wont-release-2023-1?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/63ce4df2b9a04b0019eda191?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google develops new AI system for generating high-fidelity music"
     excerpt: "Google LLC researchers have developed an artificial intelligence system that can generate high-fidelity music based on a text description provided by the user. Google detailed the system in a Jan. 26 research paper spotted today by TechCrunch."
     publishedDateTime: 2023-01-27T22:12:00Z
@@ -73,6 +89,6 @@ related:
         height: 798
         isCached: true
 
-secured: "3JaOq9Z0Y81QjRT/B1rkbJVIM892Gr64M3xICjT7HByB+y3PozLZSqlOhHKJ6OubqRuT+VZ4sEG4ieadylzCsk/jVpXGAoLUEHQlGvFcFTClL2+AMcMBc8s+T9fB7G48M4lhvYH41oQY/tjMqY3Qa/xKLYnwRsSZw8TAXE6mvwTQNIqIgEwWk6Dw/TGXxna1MUxQNgCDr5S0erdprO5vOeH5zlc436oTYv5LAhKfwHae420qidpPvn3wIxXM2YgyuOtMr8LpHAorTdM2EQJll0yNMHzvuiGJP3k3wcH7nJBB/5pUGsKIgC3DrO+kzpOqILkP40CNelv5Yc1PE4i9pzeoDzUnYknOAgkws77H1+0=;kJMWb8EyRBgKLI8GfiZHhg=="
+secured: "lPaX/xItdJ3Ro/hweIbamYPmL7AN+Q3vrWhEVM8JQsUjQmbjIL6pR8wAxZoe2m6U7PHogU1MDly4fFVVEVEx6xmzRgLJH7VIn4LkBkb0/gtXnUF08dFTekIU81Ux9Ns0FSVxnJQrejFEnfwKyJGXkH7rIVk9qamOuIiif77BaPO6POTvHcZQk0caIMjHSkSaasKWRKDXhBu0dd0w9Qq57hCNF49AENAnU6dgMSxKnwarpwkNrZYdMz1/XhZ7Ud4Ndxk/duriNYrkL859VCplpCCPtu+Enh/YWnG6pfQAOtTAJrgJBAuxbfOrUhdgg6oK6QSkLFuj3QDl2jrHphC1W/BepLmQ/wxCIaonm5ip5HYDlL3rImOMujLigcqVMB259EgT8FaOiTfVZaOknapvYgdnalbq/ogA2SS9dhwrrey2hOYle6r+h4a32SXX0Iwq0q1rPDxUZm8EFDnPfzIorpYVcYm7pbW6QLqQqBuiPiz0TFAkrcTkF6hfL+9f2CxRErVXi9TRTfNufzbao1FoKA==;3BofUyndnjAbiY+RAHGvRw=="
 ---
 

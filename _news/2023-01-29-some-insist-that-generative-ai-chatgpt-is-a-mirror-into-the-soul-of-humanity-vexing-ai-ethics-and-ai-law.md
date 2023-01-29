@@ -5,8 +5,10 @@ excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanit
 publishedDateTime: 2023-01-29T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/"
 type: article
-quality: 47
+quality: 89
 heat: -1
 published: false
 
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63d1b102cf214ea638922d82/0x0.jpg?format=jpg&crop=1391,783,x0,y29,safe&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "ChatGPT leads lawmakers to call for regulating artificial intelligence"
@@ -463,6 +472,6 @@ related:
       domain: bizjournals.com
     quality: 2
 
-secured: "UQ1lUCC6xNivrrxQUNgBF4zLR8nbpQ0DcVAmCOD9EGkaKiJN1ApAMf1wu9BR6Zp4A0JUxUyysKmnG02+wMH8wM481u27Z76KcgDTzy+bf0OSqDHYDkcNGwWNSbT/axIjk0HtAPu6JoAFKFCjdGityQeWcEq20gsoI5ZavqGvrkufrS9NQ4Zp6EKs1YhncpJY3TtM8jbtkw9YhJJIX1ZqLUwyM6MwY5p24Izd88DX3kSg5Ege4cigdOYkQ+vA+rNWQq8N+iGceomr47Z0KUq5uy0AF8dY3Edx9SlFg2JPg2hMrWeH6hRRm94QxYEgvwZq9H5jJ16M5067LpBc8+6VypZ/pq0r9dqNKrl6ciPM0K/XFvwL0WXzoMQfjukJDyT9EM0/Bp4ZlUq1m0tPkqLr1yhqnWwP/YTaAA/Sy/zpHm1jLp7NQV5wAimS/K5PyfaxAIgJcYBBvs0J1D5taax1WiB2hRGxpN9Gg/hnxGh1/X7g4i8BFOoGKs3QhU4hlTksqeHPYFEVgUNjMki24CkGhA==;y88tRTgYWOQTLMao7Jibng=="
+secured: "qO2kFD70X+4b2wjgFQHhip3ZyEwDEra+EvH3RQkT5D3XnmqRLl2+n5nUfcyNYegvSQHFXDYMvceZT9ax6iBeM1UKtURIv//l6VMgv89CfXb6flUi4eljLxYsCcBwazlkC/+w6GuQN++W3uvRlqpv4WRyq6VhHbyHr8QSoVN/pcBVJfWJ35miykFubZBdgbTJKMXSdjhWSvBtInysJlNqoiwZcK1CvH2ZJtODVJ8ookUbTnFM2IjFTa+LADANDcQaLljSlsuHx+cix3x5iMdt2YGzU023L8rzG5g32aGaGL042mk4bgG8wfTcEgrq1stmaHsMOtzvBDIOSk5pbFipoMRfSE8O/x+MWamTJIW4sCs=;4E3oTC6TWWqau5MhggY/NA=="
 ---
 

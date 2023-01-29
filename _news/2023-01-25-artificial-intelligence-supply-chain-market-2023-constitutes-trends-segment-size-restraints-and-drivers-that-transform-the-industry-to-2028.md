@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029"
-    excerpt: "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market"
-    publishedDateTime: 2023-01-25T01:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
     excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
     publishedDateTime: 2023-01-27T02:16:00Z
@@ -112,6 +98,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Security Robots Market to Hit 18.5% of CAGR by 2028 – Driven by Rising Penetration of Automation Techniques | The Insight Partners"
+    excerpt: "New York, Jan. 27, 2023 (GLOBE NEWSWIRE) -- According to The Insight Partners; \"Security Robots Market Size, Growth Strategy, Industry Trends, Size, Share and Global Forecast 2028 – COVID-19 Impact and Global Analysis"
+    publishedDateTime: 2023-01-27T13:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30602547/security-robots-market-to-hit-18-5-of-cagr-by-2028-driven-by-rising-penetration-of-automation-tech"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
 
 secured: "hpeoWxp5rdyqbH56rYsUfQOBrQrY1pHpfEsufKGg3Zb8/FyP3rUZPSAPHxXoy+4jG9CP148yFNmqNaObr/Ix7ih/eDreYhRqcFdym5BBBsQCB7HEB074O4hc7qwGXhWXolfP3biiJbBNNS6hSvM96pYanaH/kcbldKlO+V1DHquPf0lrIdVWnlPx4gitV+h7E3sTaSCgzgVctyRPEOrVLUCZplRxUX5lK2cy6fWj9u7QKnsliNc0t+xe8BoM2QPAKnxXS6UmgOwzR8ifGrs+r+vb8tWQZNo5bfXnSx1HlPUmdovkybCmqK+bkefg5HWu+d+Sa2V7wsJSFfHByHNM1u2mqympX/HezqV/l7tJLbc=;I5Y0I8WlodLCs+yw8jAVFA=="
 ---
