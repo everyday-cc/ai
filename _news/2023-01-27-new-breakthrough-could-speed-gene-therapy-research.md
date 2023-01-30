@@ -55,15 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Generative AI Won’t Revolutionize Game Development Just Yet"
-    excerpt: "Hypesters say artificial intelligence will one day automate all the hard work of video game creation. But it’s not that simple."
-    publishedDateTime: 2023-01-25T18:35:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-video-game-development/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "New Breakthrough Could Speed Gene Therapy Research"
     excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- “Zinc fingers” might sound like the world’s worst candy bar, but these human proteins might prove key to treating complex genetically driven diseases."
     publishedDateTime: 2023-01-26T15:00:00Z

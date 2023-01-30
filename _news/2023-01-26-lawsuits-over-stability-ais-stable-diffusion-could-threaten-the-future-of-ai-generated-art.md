@@ -30,61 +30,88 @@ images:
     isCached: true
 
 related:
-  - title: "It's Time To Look Harder At The Morality Of AI"
-    excerpt: "Are we giving adequate thought to—and building sufficient guardrails around—AI's impact on the world's workers?"
-    publishedDateTime: 2023-01-25T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
+  - title: "Mass. Congressman Reads AI-Generated Speech On House Floor"
+    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking."
+    publishedDateTime: 2023-01-26T16:48:00Z
+    webUrl: "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809"
+    ampWebUrl: "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: HuffPost
+      domain: huffpost.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200"
+      - url: "https://img.huffingtonpost.com/asset/63d2ac101e00006d003fc771.jpeg?cache=CaZG5GUiSl&ops=1200_630"
         width: 1200
-        height: 652
+        height: 629
         isCached: true
-  - title: "The Merger of Artificial Intelligence and Psychiatry"
-    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
-    publishedDateTime: 2023-01-26T12:36:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
+  - title: "Member of Congress reads AI-generated speech on House floor"
+    excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
+    publishedDateTime: 2023-01-25T21:31:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/member-congress-reads-ai-generated-speech-house-floor-96670638"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 41
-  - title: "It's time for banks to get more intelligent about artificial intelligence"
-    excerpt: "Artificial intelligence now has the potential to fundamentally change customers' relationships with banks, impacting everything from onboarding to retention and upselling."
-    publishedDateTime: 2023-01-25T15:26:00Z
-    webUrl: "https://www.americanbanker.com/opinion/its-time-for-banks-to-get-more-intelligent-about-artificial-intelligence"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 38
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/8a3c892/2147483647/strip/true/crop/2200x1155+0+156/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fef%2Fa0%2Ffda76d4040a6825f74848eb07bf7%2F391799189-4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/US/230125_vod_onlocation_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Why You Need the Ability to Explain AI"
-    excerpt: "For artificial intelligence solutions to gain acceptance in the enterprise, users must trust that it will work as well as humans."
-    publishedDateTime: 2023-01-27T16:17:00Z
-    webUrl: "https://www.networkworld.com/article/3686473/why-you-need-the-ability-to-explain-ai.html"
+  - title: "Massachusetts Rep. Jake Auchincloss reads speech written by ChatGPT artificial intelligence to Congress"
+    excerpt: "The brief two-paragraph speech he read on the floor of the U.S. House was generated by the online AI chatbot ChatGPT."
+    publishedDateTime: 2023-01-26T16:28:00Z
+    webUrl: "https://www.wcvb.com/article/massachusetts-rep-jake-auchincloss-reads-speech-written-by-chatgpt-artificial-intelligence-to-congress/42670994"
+    ampWebUrl: "https://www.wcvb.com/amp/article/massachusetts-rep-jake-auchincloss-reads-speech-written-by-chatgpt-artificial-intelligence-to-congress/42670994"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/massachusetts-rep-jake-auchincloss-reads-speech-written-by-chatgpt-artificial-intelligence-to-congress/42670994"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 37
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 43
     images:
-      - url: "https://images.idgesg.net/images/article/2023/01/istock-1066422156-100936830-large.jpg?auto=webp&quality=85,70"
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/auchincloss-ai-speech-1674739234.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
-        height: 813
+        height: 675
         isCached: true
+  - title: "Massachusetts congressman reads AI-generated speech on House floor"
+    excerpt: "The brief two-paragraph speech read by the Massachusetts Democrat on the floor of the U.S. House on Wednesday was generated by the online AI chatbot ChatGPT. His staff said they believe it's the first time an AI-written speech was read in Congress."
+    publishedDateTime: 2023-01-26T11:32:00Z
+    webUrl: "https://www.wbur.org/news/2023/01/26/auchincloss-chatjpt-ai-artificial-intelligence"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 39
+    images:
+      - url: "http://media.wbur.org/wp/2023/01/auchincloss-1000x667.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Mass. Congressman Jake Auchincloss gives speech written by artificial intelligence tool ChatGPT"
+    excerpt: "Massachusetts Congressman Jake Auchincloss took a creative approach to his most recent speech on the House floor to make a point about artificial intelligence."
+    publishedDateTime: 2023-01-26T14:43:00Z
+    webUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
+    ampWebUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 27
+  - title: "Mass. congressman reads AI-generated speech on House floor"
+    excerpt: "Auchincloss said part of the decision to read a ChatGPT-generated text was to help spur debate on AI. Read more at Boston.com."
+    publishedDateTime: 2023-01-26T14:29:00Z
+    webUrl: "https://www.boston.com/news/politics/2023/01/26/mass-congressman-reads-ai-generated-speech-on-house-floor/"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 17
 
 secured: "00GabK/v+LgwOtXeOsh62ADuq1r/VT4KGuOoTEQC7nj0PYscv86DOToDqYi0E6W0JyUeNkrlRQgDsT6uQUjQlgTwcUz4FZ9U8Gd4s8FCxDr0B23/FGB4kxeskyutXsfmoBFdaiC250iyWMhU3Oa/VrSeqyCAjTWj1aZzIl+J2FiA8nslkINruw2Gzxytj/M76htjSbMpz3l16Cg80/CHgsVqcdnYBtKY9peG0cPwD8ZMFbUhhvBtBRg6tLklLOjVyd0SD5RYsITu6k1TcvUJfvzeu2PvmlcqcSvGOVZ2ddGhYHUCx5zR4qim7ymOwe9ynPj1xwqmy8kME44hK6MQoCaTz+lnHfcBHUZnAobCY2ShK/4aGSILLLmhWe4XdXu7zgTXY3rsKNWkc0B2AilGjXK9TzjznxULFwslJ2ZCqkOEFSPh67copJXysxZNlB/YCkr/u0k2yrf5sDv9a+6gjNLzhXbSkiQZBiE0I9fUcn26NRjoh0rb4dUFhhzasGzwBUJog1eRXcQHoZU707bNoQ==;gAhuLTa5eLy6d9JayaAtEA=="
 ---

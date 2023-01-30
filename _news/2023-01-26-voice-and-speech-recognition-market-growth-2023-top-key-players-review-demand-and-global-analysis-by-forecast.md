@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Software Market To Eyewitness Steady Growth Throughout 2023-2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-27T00:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-to-eyewitness-steady-growth-throughout-2023-2026-2023-01-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cmilG8XYXXoxnLvSLwWgwDm4NjO8v707FEKMj4VCkeUnEAimDV/hIIIEoqNyaK6tMdt3VRgxsQk43huh+KSk1RSM6RMVVWn3TqT0QgKjdDO1SfJXi4nsgq6ZwbmoPAB+BfpZbqfwWJckZuybP8O3rGXqtN8sh1qKX0Cjke2nPqAG7gMJTVBVvHMCWB6ntPy+iiWSQ4Ia0LibWm5DLhxdm+SyObf6dupKgmUCafokSvrIwNNXhHFAwof+Yls8ZZTD+ZcaN/YXP5QE7lt9gX+fPY946oCBftxYZXnIqXhganqdd9zoVD/DpntXibFakHpJpOJqq6BWrg17ycybzYOUmNb90z4G668rnJW1CqB63g4=;QV3XgLJhh5wjBP3JtUK7Zg=="
 ---

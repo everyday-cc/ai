@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2023/01/26/artificial-intellige
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Generative AI Won’t Revolutionize Game Development Just Yet"
-    excerpt: "Hypesters say artificial intelligence will one day automate all the hard work of video game creation. But it’s not that simple."
-    publishedDateTime: 2023-01-25T18:35:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-video-game-development/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "New Breakthrough Could Speed Gene Therapy Research"
     excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- “Zinc fingers” might sound like the world’s worst candy bar, but these human proteins might prove key to treating complex genetically driven diseases."
     publishedDateTime: 2023-01-26T15:00:00Z

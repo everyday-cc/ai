@@ -32,13 +32,13 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://images.wsj.net/im-710473/social"
         width: 1280
         height: 640
         isCached: true
 
-secured: "tq6AqIby/NrqNbVHNepXdJmUyOwlWBnhzd0kGMFTbasGiVmLtPnly3YDf7LrN/OPWgNnF3OnM5fPcFCDtkwTJmJ2j3gwYFOpSNAh+6wxyrOv3hukSGKjvjuYVjWI72Sf2+R+TiXNn2rAX2GfcQJAPlutSYzjE3B6PJuXf8IozhOmLg/heULQtlGahAVGoTHxbMngXfdvJ9xupEIBna07w6JUqPus4cOS3tT2nSVCAkfMV6r7D0Y+IR+oXvEI/9uSGCyxBDws2q79+dPIMA0ZRVCCHYAyjy/U8PiITGTT4tJu/0kZ3XZDjCI+c9p/UePFI04nrQXh1pi5EGrg4whLwa02t7J+MJRutrYLqKHDzKY=;AEGX90iHKxteWEK9cGCxZQ=="
+secured: "GQbvWLSri/+QGBUV3LnL4dFlWj1/Yc5LZTgoNsVhUWlimdkIAAorVWBg6spJrutFa5ZY/Yz5+LvbxQmkds7+xUUMVzgCswbBLNgw6dnlR4um/ESDOsBp/1ItdrO5y4EoVlPz+ovGhL4ZUh2sumf/Hd1yV+JCDiMDmB7okAnr1toorvmtk6uI2vBIb89t/1/+JAGbtTFVcQv23cs3y/wmvSqHqHE8kHs+POHnQB+dZmdyrle/QABcK7SMAQw+S9x7jWFwG0neqUjOiXfkcZ47M+43KYhraUGEuYpqx/gcagOmAR76X/F4ON2DYS+1TqOQy8Kz2AWeg6L51odje85l51OIo1v38bDWviWh8fvtnZni4CsPSdZINZvBcvy19ACcTE2dmCkCuiyP6itHsmGixcCksB0T9Y5s3OOZnqRSdvwVi7IDuSszwDaP+Gx47uV8utUJ2JaHs2HA615jA8Ha3Mn2aMlG+lP1PGg16EVQzp6yk8oJgDdFxuG6OYQmLvmnewYulnzDq+vo83mABUI6Aw==;WlBO5eQMoLXnx7R1QWIfSQ=="
 ---
 

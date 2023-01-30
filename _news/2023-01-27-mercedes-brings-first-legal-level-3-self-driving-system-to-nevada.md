@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "These Mercedes Cars Are One Big Step Closer To Self-Driving: Here's What They Can (And Can't) Do"
+    excerpt: "Level 3 as a step to self-driving has been criticized in some quarters for the potential confusion as to just how attentive human drivers need to be. Lingering misconceptions about current Level 2 ..."
+    publishedDateTime: 2023-01-26T23:13:00Z
+    webUrl: "https://www.slashgear.com/1179520/these-mercedes-cars-are-one-big-step-closer-to-self-driving-heres-what-they-can-and-cant-do/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 41
+    images:
+      - url: "https://www.slashgear.com/img/gallery/these-mercedes-are-one-big-step-closer-to-self-driving-heres-what-they-can-and-cant-do/l-intro-1674753970.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Mercedes Announces First Level 3 Self-Driving For S-Class And EQS Sedan"
     excerpt: "At this year's Consumer Electronics Show, Mercedes announced it would be the first automaker in the US with Level 3 semi-autonomous driving technology. Today the German automaker has been confirmed in state of Nevada for SAE Level 3 conditionally automated driving with a new system called Drive Pilot."
     publishedDateTime: 2023-01-26T18:00:00Z

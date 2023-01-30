@@ -120,20 +120,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "While Microsoft pours billions into OpenAI, Meta's AI chief says ChatGPT is \"not particularly innovative\""
-    excerpt: "Over the following years, OpenAI received an estimated $2 billion and built its infrastructure around Microsoft Azure. Training and testing AI ... putting out systems that make stuff up.\" Many machine learning experts agree with LeCun."
-    publishedDateTime: 2023-01-25T12:11:00Z
-    webUrl: "https://www.techspot.com/news/97362-microsoft-pours-billions-openai-plan-integrate-ai-all.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-24-image-24.jpg"
-        width: 1588
-        height: 1074
-        isCached: true
   - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
     excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."
     publishedDateTime: 2023-01-26T14:13:00Z
@@ -471,6 +457,6 @@ related:
       domain: bizjournals.com
     quality: 2
 
-secured: "90sBtwoBRsFfkh8ba6pS/NJN7NMUYfLceQd3mxiPhvBJB+9GIoGCniRMtrsZe/YMfUOLnxzof9596FiE38PErupNd2sA9xk1/c1Q1e6d1ogFYs6hdxYdnVDNPc7RLE6UnA0jC4s6OIXT5PSwg8rl/m9aLjHI4Se1+DT9CQsWR8Z60KD8x/0KBCFtK0dcHa4m7E5czF36JG/hbmnxz9TJj7eAABwb38fksrKsHvEV4RPF867/9Ibc65+zuhqklELX5S2GuGLomxLXZlDu2Wg6WZtKRaTZIcKiJ+z8gWDWhK/l4YihN6W9lMexc6mmUnFZExk7duNOyT2IBJIKmHjL1Xk+DWKNxW5hXpeWBUaZgtk=;caiLrZtTt6OqWhDmRKNV7w=="
+secured: "wkLAxSFGmdNu6/NldGr0f1TyihW4i3gkk2y5svT2j+5otM1tXiJIbu3/tvnT0Hk2N1p43O+MPy7Xb1n9UaB2nC9CzWhx7qmqEC+CXJssabPF3qOHDivwcCrthqochiQ9rYY3nzN4hT4LIjL2Rbi3gQCA1cMY+WfUHkdpSQy+HVS/vECcxRR6NqnNkQPF0dvXrg1x6fPUD5Eg/o8j6+e1IKnlo8TF3q/m2D6Syrm9yGXxKNJOJ//5azywwkSXPdvMJybaKYUvxICqAqZBVW3mbWn66cjP+ZOML1OBKQSMBwhXGbYRj3Edfofp/+lrpgzdS8gDXXU0zfipEWbtx3/6VbfHlONIkvOh5oilk1Jio2BTuQVk6MsaXmlwTpXpp6GhUwhz+g6z0ZcQRsQmubFLedtTzlrLG8qXC2+BYyuNlil7QvJwxEjikHgL2za7ejx5N9qOEtSiSkVI/sPALohwNpNYao0BK0ypHiv/x7QeAWnOfQ3ZERFBk0NWVA4bCeYP9XkkZZ2KFS7A+qN6LbL4RQ==;O5Jg1j6hV8WDRGUCrJHt+Q=="
 ---
 

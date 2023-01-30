@@ -7,7 +7,7 @@ originalUrl: "https://www.sacbee.com/press-releases/article271680117.html"
 webUrl: "https://www.sacbee.com/press-releases/article271680117.html"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Why You Need the Ability to Explain AI"
+    excerpt: "For artificial intelligence solutions to gain acceptance in the enterprise, users must trust that it will work as well as humans."
+    publishedDateTime: 2023-01-27T16:17:00Z
+    webUrl: "https://www.networkworld.com/article/3686473/why-you-need-the-ability-to-explain-ai.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/istock-1066422156-100936830-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 813
+        isCached: true
 
 secured: "WRj3iQnVUc9qI7tv9ZDLDNmFGhbW3fn+h/kFG5jVGE6cNDrDO10G/K5IDjlXMdLCQfHpyvOX+QJ22AAiWFkom+KTRJUcBVF7ZmCQ7RdK0MXCxQpJxzGZ816p4e4zsdW/xVGYWHRHlE30x34K+z4D6fWKmPd7hz+UUdPb3JLQnLwmMYjh9KoxGH5yDXWBiw+I1Gp3cInIJ1fWu/+fGpsrf+4ZtFN02Yuu9zakEdMuWdKGj/pLRIOfmFSRIrZwqfsekwXqkBGrIRUTnU+e0L8tU6lh6Z9WLMynzlPx9e4UoGbbrjGQ+bcyRBPVkl/vjXdhzu17z385HUVFhQpKJSaQTdTHoHqlqnRvrkc00PrL9IskX3S5HyNw6Ej+/wM+eunG2DcqS84OFmDYpQ7e/V/Nc/j1HiUUKMkiYfBcR/FefMOzuLNyKrSIk7RP/M8adHBZDE0kyQ/TzfM+6VeUaWfaWCIL6ugubeDDkdsGCXMcAFpfLi3ag0o0aqnnx4RE0UYedaQYunqT1bhYqK00lT8MLQ==;RUVdB0BXFEbcHRz7SProvw=="
 ---

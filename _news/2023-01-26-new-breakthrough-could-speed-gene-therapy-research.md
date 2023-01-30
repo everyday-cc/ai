@@ -66,15 +66,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Generative AI Won’t Revolutionize Game Development Just Yet"
-    excerpt: "Hypesters say artificial intelligence will one day automate all the hard work of video game creation. But it’s not that simple."
-    publishedDateTime: 2023-01-25T18:35:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-video-game-development/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
 
 secured: "3+LmNfxiEzLNkcFRhR2nr+v3oJSvXTc5vHGrsFIRY7q50/kMhnd4kdjQyFOvP5nZBZXFBX8dHoAkBOee4lTLnsz+lgLsarwq5KYZ3b+7zd7t0ABemQbREieZFRr/OEBbyMhxJ58wzHpSqXTFzxt6OMcfciPrEqzjrZciuH5XZY3HXs4zfyLOw/zsolH3HzpUYHwmifWlJe4OWidMM4sxFXb0dRHwM4OGInlKT/JPigRkcqvjm+T68lrHH3VplnDyJuPIQACo5UopVS/FXxrQXiOqkg8gkWpSXP5MRB/6BraL6JcjbHHgSkUtiIBhgjxr9h57IuaFsa4x840woUYv8ITNr+pw6ptuTDhKxO8sjCseN79VhGS8O9ErNip2wFHUDCb5vSoIWZ5AZwTSmpwJlyyJJv5xGcU/j6FJ7F5zVbPxbwqb6/404U8HM/MrXP5CqGbsAYcC9hgsmj58VmMIWEbxXj/w7bVHxnzJnUqvc3iN8Itng8SvtUj0Ty/cB1ZYQcCwVJDNRW2b4Mp+Da8Skw==;kyANqTiA4GqNd3TaLlMf+A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://carbuzz.com/news/mercedes-announces-first-level-3-self-dri
 webUrl: "https://carbuzz.com/news/mercedes-announces-first-level-3-self-driving-for-s-class-and-eqs-sedan"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "These Mercedes Cars Are One Big Step Closer To Self-Driving: Here's What They Can (And Can't) Do"
+    excerpt: "Level 3 as a step to self-driving has been criticized in some quarters for the potential confusion as to just how attentive human drivers need to be. Lingering misconceptions about current Level 2 ..."
+    publishedDateTime: 2023-01-26T23:13:00Z
+    webUrl: "https://www.slashgear.com/1179520/these-mercedes-cars-are-one-big-step-closer-to-self-driving-heres-what-they-can-and-cant-do/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 41
+    images:
+      - url: "https://www.slashgear.com/img/gallery/these-mercedes-are-one-big-step-closer-to-self-driving-heres-what-they-can-and-cant-do/l-intro-1674753970.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Mercedes brings first legal Level 3 self-driving system to Nevada"
     excerpt: "Despite the names and capabilities of the advanced driver-assist systems offered by many automakers, no system offered in a production vehicle has qualified for Level 3 self-driving capability, according to the SAE's rules."
     publishedDateTime: 2023-01-26T18:00:00Z

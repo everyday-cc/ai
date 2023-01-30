@@ -7,7 +7,7 @@ originalUrl: "https://www.gim-international.com/content/news/revolutionizing-pla
 webUrl: "https://www.gim-international.com/content/news/revolutionizing-planetary-exploration-ai-assisted-mapping"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 680
     height: 408
     isCached: true
-
-related:
-  - title: "The Coming AI Revolution: 5 Companies at the Forefront"
-    excerpt: "Last night during MSFT's EPS call CEO Satya Nadella confirmed the company's commitment to AI by saying, \"We are committed to help customers use our platforms and tools to do more with less today and innovate for the future in the new era of AI."
-    publishedDateTime: 2023-01-25T13:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-coming-ai-revolution%3A-5-companies-at-the-forefront"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "5387F48+s5D7jNa1f0yAolz3LkFh2kv4D+eSpGBuM7CXQ0yAXDofjY0GJKJVon2E3/+NJ/cPjVgX68SYS6Mt0TdfLttEZaKFpQBP2c+slB64U5Qz0v3cLyFhz/efLTKrkvE+ueBdQU9syOrZoeQSQXr6kbCEFVcBzkzL12HUEyiepd83doWXfmCklaeGBTVCmKUfScaThmaFpJJHzIK/CciIGgVGQMf3Wrd/+wKwwGu4gRS/ZjKgNED/tKZK4BSacIuxT3CCwN847or7HvIjJNAFQ5yLvZVvZ7nK0Apukvl05/II/ggNl0T8uh2QbbiVsYpG+aLcBISxFZos8hdnXI+xHafarpngUuCqVLhnZL0=;aJrCUWBCm35HJZujUgebpw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/opinion/its-time-for-banks-to-get-m
 webUrl: "https://www.americanbanker.com/opinion/its-time-for-banks-to-get-more-intelligent-about-artificial-intelligence"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,63 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "It's Time To Look Harder At The Morality Of AI"
-    excerpt: "Are we giving adequate thought to—and building sufficient guardrails around—AI's impact on the world's workers?"
-    publishedDateTime: 2023-01-25T11:29:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/"
+  - title: "Interactions Secures Patent for Intent and Entity Recognition, Real-Time Sentiment Understanding to Uplevel Customer Experience"
+    excerpt: "Extracting Natural Language Semantics From Speech Without the Use of Speech Recognition, Interactions’ 125th patent, introduces new technology for intent and entity recognition, including real-time sentiment understanding."
+    publishedDateTime: 2023-01-25T14:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/25/9749055.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
-        isCached: true
-  - title: "Lawsuits over Stability AI's Stable Diffusion could threaten the future of AI-generated art"
-    excerpt: "Lawsuits from artists and photo-licensing giant Getty Images ask the court to decide AI-generated art's relationship with content creators."
-    publishedDateTime: 2023-01-25T16:49:00Z
-    webUrl: "https://www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/63d0071ddde3fc0018a8f4d4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Merger of Artificial Intelligence and Psychiatry"
-    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
-    publishedDateTime: 2023-01-26T12:36:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 41
-  - title: "Why You Need the Ability to Explain AI"
-    excerpt: "For artificial intelligence solutions to gain acceptance in the enterprise, users must trust that it will work as well as humans."
-    publishedDateTime: 2023-01-27T16:17:00Z
-    webUrl: "https://www.networkworld.com/article/3686473/why-you-need-the-ability-to-explain-ai.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/istock-1066422156-100936830-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 813
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "w5ni9i5ZpyDRg0FP5AwHKSmK4sMFbP/n9fU5vpJzrvvOCOtAn16ZlsYmh6+JetGPCBXTQw/jZfGe5qPtjGSviMqawA1e/hxu0V3bKXH+7lHxHdCxretZt2+eS5yJfAAUdEcBli+esPTSDENO5Fy5fyMd+hy9DbnPqhKq2XGj9Ydz6Wkwwgsy12oPw0X9XGXRx6zEkbfPDwfYW5udq7z3kd6uM3+/EVIzxbgt+97nXrNi4jIx3+dlOAs2Cyq59kMkeohA8e03YfMztBojVBpBN01GEOP7BCK9UtNJ9Py8iLANrcW+gsp2MaFG2lP5r436sTtMdSpZnWtPfMWT1YgfJLq48XR6IHr51oBbh9WghH/FU1a4QLHbsqaX37iwUTySd4LzF9d6Vp8NakQGwIv+TpDNbWwi2suo5ClVwbDI0ANZR7eWZswvOt4F/CjQEseiHWkht1ClMYkdLAT2CYPdudD7ukRwGblLTWk7SOrDgv41cVxc3xujzDitUfh5XNJheDo84C59ijJ56y/g3O61vA==;mjUykrvDROF6DUcV1I2iGg=="
 ---
