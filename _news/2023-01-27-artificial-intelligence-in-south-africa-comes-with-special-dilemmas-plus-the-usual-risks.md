@@ -2,19 +2,19 @@
 category: news
 title: "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks"
 excerpt: "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa."
-publishedDateTime: 2023-01-27T11:38:00Z
-originalUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
-webUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
+publishedDateTime: 2023-01-27T10:26:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
+webUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
 type: article
 
 provider:
-  name: modernghana.com
-  domain: modernghana.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI in Autos
+  - AI Ethics
   - AI
 
-secured: "qdho57dR+ouwpIHb8vl4zEWfgyPXz4R4Mllkx1EjtKSOFn/DM81uYcZhjEiPFjBJj2/ZrE2icb0LN+svlCJ1iP5aYkapIUxyLLfeBs1tEA3muCUWSTgzxQG22eQJXMkScbGqjRUHZP3EditNk7xRa0GBpL17PG0G4/SFpyE4i49c5RQu9yQzfkGwje2+8+scHKIsX4gajpfMVseh1it/EOe9ypMfS8j6tFAGoorcpXbn8Tk/LbZ1qSWWfb/1DccLhyeFyI5wHqRmuAYFEgCE9JLgYymM/pQAwfGQiIzbrwUxuzWju4mq/W+J0YsGFmWwDL+7VCFFfkWgI8AcVqIiwAkbgiHiJLCD08mDyEH7/acj7ujWpIqHm6WJs4oqcxAMWwxkV8Ru6mDVRaBOk5+Qfq+6zbvSndYlE2SiziRzgqYzm1dNjOlpm7A5Yv0CXGfILCAEsiEN6zucYj0msOMvskh7sq8sI3g2jJZxdcySXvuT4ad4J4C5sP/qq9D1y6I4laHutxCCBTDRlgEgP3PqKw==;seWPcQJ/WtUAx6GhOjs9dQ=="
+secured: "knH5qgvzUka9gDEpWE6AI+Du52xmiTO0eheZfKwZBsTivsUDFRqhO/L2iWwF7gkPwaB9eZzgfPGKBQjnXoU/T7Fl4qUx1aITrViYY4yUZYXCf7g+VOE13t4yKRvfG34NpwkamZZGB6dT5qzvKlXiGve2yNbVtX7EtBDWLTRrIa6ulAWElE+ptdx0e9caXzOgZ7EEkGmlJXuLFFhyV+q5cR1ZAGaXNKxMhUn4kZdv1N5qTY2FOOOVkoV8/L7cXRj53PqfXQmf+lDuFhIKPuYPbRo0geh6Wr3KMUKLyG+evTwCrngmfj3sVA6lfPDy0Rp7fAnVTwrTirXnmortXVX2W4N/BaI35iEYYyHmyRyeZ1jKGNaqmL6m2G4NS19Cy6SjUtGSZgDeGFUExsV0gHwSYuVPt4bpAeFN1pePVpkP8rmw12UzljpBSDS9X4beFN65ZbWkCdaktqy0X0OiNywSTDgWzGR52UbcamXwy16oINNjvoiRe4wjsfNLL6HCiTnqqdGwHo1xbCgXcawPVTOv7A==;3y5Px2lE7rjeqYZGki3Qjg=="
 ---
 
