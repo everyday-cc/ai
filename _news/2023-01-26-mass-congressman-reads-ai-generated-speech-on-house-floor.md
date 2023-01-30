@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Lawsuits over Stability AI's Stable Diffusion could threaten the future of AI-generated art"
-    excerpt: "Lawsuits from artists and photo-licensing giant Getty Images ask the court to decide AI-generated art's relationship with content creators."
-    publishedDateTime: 2023-01-25T16:49:00Z
-    webUrl: "https://www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stable-diffusion-lawsuit-getty-images-stablility-ai-art-future-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/63d0071ddde3fc0018a8f4d4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Member of Congress reads AI-generated speech on House floor"
     excerpt: "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking"
     publishedDateTime: 2023-01-25T21:31:00Z

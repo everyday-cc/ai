@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Machines Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "Artificial Intelligence Machines Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-29T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Communication Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
     publishedDateTime: 2023-01-27T10:11:00Z

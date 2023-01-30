@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-30T03:25:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-industry-by-360-market-updates-with-new-companies-major-strategies-massive-strategies-and-forecast-2026-2023-01-29"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-industry-by-360-market-updates-with-new-companies-major-strategies-massive-strategies-and-forecast-2026-2023-01-29"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

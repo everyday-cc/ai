@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intell
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early.amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
         height: 308
         isCached: true
   - title: "AI wildfire detection bill gets initial approval in Colorado"
+    excerpt: "A Colorado Senate committee on Thursday unanimously voted to move forward a bill to create a $2 million pilot program that would station cameras on mountaintops, and use artificial intelligence to ..."
+    publishedDateTime: 2023-01-26T16:53:00Z
+    webUrl: "https://www.local10.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/R2F5NBORTZDIJBMRSAUUHEUFGI.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 398
+        isCached: true
+  - title: "AI wildfire detection bill gets initial approval in Colorado"
     excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."
     publishedDateTime: 2023-01-27T19:20:00Z
     webUrl: "https://www.sacbee.com/news/business/article271678832.html"
@@ -92,14 +106,16 @@ related:
       domain: sacbee.com
     quality: 37
   - title: "AI wildfire detection bill gets initial approval in Colorado"
-    excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
-    publishedDateTime: 2023-01-26T23:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/colorado-lawmakers-ai-detect-wildfires-early-96687632"
+    excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."
+    publishedDateTime: 2023-01-30T06:00:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article271678832.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article271678832.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article271678832.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 17
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 37
 
 secured: "GmkUDeWlTRi3oG7vQePktP8gzVf1trzw9/wq3tX6OvLA8AcpTk/tI0gU1sKxjWJ2ZhdpWV8Dd6AO2/XnF5r3gO6h9T8uYr81nryL/gSpjiFKeOspod/WmKEBCYKhS8JuD4tc7OBNgYCLDqVaI07+Kl4B/WgIG34wpO/XNncxlz1OcTEL/kUyD7U623W8oXT3zrNb+jBMar4GUJ3tjtDgwuo5+MZVmHHFRNFLCnwDM4XzF7EnoROvgmnAOHdQIVWl6s/8Yn86JE6x4pe542UiP27XAVA64f41LFgPormnSNFMwTj0JfcKqoS/k40kre/jJEDF9aP5ciZ0fUIDHv7wjviKf1VyephKbVZprSvvlfuXWxx0a04pqH9nGzl3pIsaXPwwnNGOeQQmSrrHSvSFasDYIL/S1BHt4D7woonWopGXLKIAC9gkv2BqHw5cbN0Qykd2ngjlITOd2LFy5yptiQQaHcpdsy13jb89d1oP8aF4KYeHKMXKlkIA94DPFdAgHtgbq4VeVTh8rSgN6wTTcQ==;n89ErZrrcU5mC9RRP2tpJA=="
 ---

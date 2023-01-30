@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3699
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369950/how-cutting-edge-ai-tools-are-remaking-history"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: IT Pro
@@ -29,49 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Federated learning key to securing AI"
-    excerpt: "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it."
-    publishedDateTime: 2023-01-25T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/"
+  - title: "Intermountain Health Helps Bring Cutting-Edge Artificial Intelligence Technology Detecting Early Colon Cancer to Rural Utah Communities"
+    excerpt: "Intermountain Healthcare is the first health system in Utah to use a new tool that utilizes artificial intelligence to aid doctors in detecting colorectal"
+    publishedDateTime: 2023-01-26T22:30:00Z
+    webUrl: "https://www.abc4.com/community/intermountainhealthcare/intermountain-health-helps-bring-cutting-edge-artificial-intelligence-technology-detecting-early-colon-cancer-to-rural-utah-communities/"
+    ampWebUrl: "https://www.abc4.com/community/intermountainhealthcare/intermountain-health-helps-bring-cutting-edge-artificial-intelligence-technology-detecting-early-colon-cancer-to-rural-utah-communities/amp/"
+    cdnAmpWebUrl: "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/community/intermountainhealthcare/intermountain-health-helps-bring-cutting-edge-artificial-intelligence-technology-detecting-early-colon-cancer-to-rural-utah-communities/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: abc4.com
+      domain: abc4.com
+    quality: 42
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all"
-        width: 1199
-        height: 638
-        isCached: true
-  - title: "Calligrapher.ai is using AI for handwriting generation"
-    excerpt: "An RNN is a class of artificial neural networks where connections between nodes can create a cycle allowing output from some nodes to affect subsequent input to the same nodes. Recurrent neural networks can exhibit temporal dynamic behavior, which makes ..."
-    publishedDateTime: 2023-01-27T22:06:00Z
-    webUrl: "https://www.techspot.com/news/97411-calligrapherai-website-using-power-ai-handwriting-generation.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-27-image-13.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
-  - title: "Artificial intelligence and machine learning are helping companies provide even better service for customers"
-    excerpt: "A new solution created by Hitachi in partnership with Penske utilizes AI and ML to predict problems before they arise, protecting the end customer."
-    publishedDateTime: 2023-01-27T18:52:00Z
-    webUrl: "https://www.businessinsider.com/sc/artificial-intelligence-machine-learning-solving-fleet-problems-2022"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/639c9113b7e0f20018095858?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.abc4.com/wp-content/uploads/sites/4/2023/01/Intermountain-Health-Helps-Bring-Cutting-Edge-Artificial-Intelligence-Technology-Detecting-Early-Colon-Cancer-to-Rural-Utah-Communities.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "pNojclnooo1ohmN9DcwTNo8TUFxnEf/Utu39UseIndiycq2stZ776yVV7ku1vHAdBbkhQEslehcz0Mmuzmb4Xl/d/4thOLHYPtdejlAXY5jhDjrvGHdQZEbKUzVkk+4ThDLrzzKqMnQ4jVTEhUl9m3PkMavcEsjyFoPwylwkg4cxEfUSTSAt66BuAPU73hS83Jq8BMvKKJue1pNQ8taCFJyiUxMLkLKQFuPADVuDymlKp2iWIDf5iOiR5n7r/n0pYSTGqfHmBLJH2lMXPuSg0NnsGepLUa2s3nDOm1q4YL9pO2Cl6DTV9IN40zlLSOP4wAkKbGhcjgzuKtlCphk3ZcJjQl2v+AKpIDGor8YyPkE=;9Jj57AXVxto1a5mmos1PMA=="

@@ -30,13 +30,13 @@ related:
   - title: "Australia Day focuses on Black recognition in constitution"
     excerpt: "The government joined several large corporations in allowing staff the choice of taking the holiday off or working Thursday and taking another day off instead, in recognition of growing public unease at celebrating the 1788 hoisting of the Union Jack at Sydney Cove."
     publishedDateTime: 2023-01-27T02:39:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/world/article271670272.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/world/article271670272.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/world/article271670272.html"
+    webUrl: "https://www.kansascity.com/news/nation-world/world/article271670272.html"
+    ampWebUrl: "https://amp.kansascity.com/news/nation-world/world/article271670272.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/world/article271670272.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 24
   - title: "AWS Launches Second Infrastructure Region In Australia"
     excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastruc"

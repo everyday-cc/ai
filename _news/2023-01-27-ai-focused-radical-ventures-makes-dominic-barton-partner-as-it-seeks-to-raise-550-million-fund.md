@@ -40,14 +40,14 @@ related:
         height: 576
         isCached: true
   - title: "Artificial intelligence pioneers back $550mn fund for AI start-ups"
-    excerpt: "Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups, in a move that bucks the wider downturn in tech dealmaking. Toronto-based Radical Ventures ..."
-    publishedDateTime: 2023-01-27T09:23:00Z
-    webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0"
+    excerpt: "Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups, in a move that bucks the wider downturn in tech dealmaking. Toronto-based Radical Ventures said it has received investment from several leaders in the AI field."
+    publishedDateTime: 2023-01-27T09:22:00Z
+    webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?shareType=nongift"
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 34
+    quality: 32
 
 secured: "/T0nDPduDK4J1QvwfVZzSq0H1yo+GNslA/X8xBXwzNNG3VjkL8sB7Cg2vuDFipIOqTfZi2MAQ+DpLNRQAd5obTVJQ0O2gfZpcB5QdJoRXC/avyBOr0bfI9U+claBbnhheiPXitwGZbyEmP3CxO2iu29oJY7DBA2imj4MFJfpdQZvdlB3yFarOtA0HEK0xCiY4KebBAv1WzZ6jOWE0HdyJuLuBdWsZ3ianNwFOpX+X0XoUXVvkKwHxTwg0ay6EuijPps4I5HMvlHJEmv4H/nMTJDruGZCFFtirAgA+krsPEcBr6fKIbwU9CDdU1wh4vL8HfSwXgRfWl2zqVq8q/5eVlwoSy69ZdAZf6CKV4Xgti4=;4EZSX4nLmMWMUVFpGWextg=="
 ---

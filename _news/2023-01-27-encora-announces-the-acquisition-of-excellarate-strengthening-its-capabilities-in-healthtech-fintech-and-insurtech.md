@@ -159,6 +159,17 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "5 tech trends that will change the fintech industry in 2023"
+    excerpt: "A recent report by Bain and Co. recognized India as one of the first leaders to uplift the exposure of the country’s fintech industry globally. Further, the report states the boom in smartphone adoption"
+    publishedDateTime: 2023-01-30T08:47:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 24
   - title: "How this fintech company is leading the charge for financial inclusion across Southeast Asia"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs), even before the pandemic."
     publishedDateTime: 2023-01-27T04:27:00Z

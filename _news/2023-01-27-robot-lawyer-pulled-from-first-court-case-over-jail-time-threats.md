@@ -87,22 +87,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 63
-  - title: "AI-powered lawyer to defend in court next month"
-    excerpt: "Artificial intelligence is being used to create art, answer your questions, and write essays. What about an AI-powered lawyer?"
-    publishedDateTime: 2023-01-25T15:07:00Z
-    webUrl: "https://www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-    ampWebUrl: "https://www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6025408/2147483647/strip/true/crop/4121x2318+0+214/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "A robot was scheduled to argue in court, then came the jail threats"
     excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
     publishedDateTime: 2023-01-26T06:11:00Z

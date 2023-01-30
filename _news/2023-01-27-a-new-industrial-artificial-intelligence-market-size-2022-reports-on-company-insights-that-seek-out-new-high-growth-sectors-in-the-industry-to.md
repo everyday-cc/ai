@@ -42,24 +42,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
-    excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
-    publishedDateTime: 2023-01-26T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-26"
+  - title: "Artificial Intelligence (AI) Industry by 360 Market Updates with, New Companies, Major Strategies, Massive Strategies And Forecast 2026"
+    excerpt: "In 2023, Current Artificial Intelligence (AI) Market Size | 2029 | Newest [111] Pages Report Artificial Intelligence"
+    publishedDateTime: 2023-01-30T03:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-industry-by-360-market-updates-with-new-companies-major-strategies-massive-strategies-and-forecast-2026-2023-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Industry by 360 Market Updates with, New Companies, Major Strategies, Massive Strategies And Forecast 2026"
-    excerpt: "In 2023, Current Artificial Intelligence (AI) Market Size | 2029 | Newest [111] Pages Report Artificial Intelligence"
-    publishedDateTime: 2023-01-30T03:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-industry-by-360-market-updates-with-new-companies-major-strategies-massive-strategies-and-forecast-2026-2023-01-29"
+  - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
+    excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
+    publishedDateTime: 2023-01-26T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-26"
     type: article
     provider:
       name: MarketWatch

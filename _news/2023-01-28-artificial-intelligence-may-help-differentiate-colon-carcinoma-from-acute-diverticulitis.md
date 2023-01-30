@@ -40,6 +40,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Deep Learning Model Aids Differentiation of Colon Cancer, Acute Diverticulitis"
+    excerpt: "A three-dimensional (3-D) convolutional neural network (CNN) can be used as an artificial intelligence (AI) support system for differentiating colon carcinoma (CC) and acute diverticulitis (AD) on computed tomography (CT) images,"
+    publishedDateTime: 2023-01-30T07:01:00Z
+    webUrl: "https://www.physiciansweekly.com/deep-learning-model-aids-differentiation-of-colon-cancer-acute-diverticulitis/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 50
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/01/image1675062037.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "rH1n3+f1RWnqt1Rb5ksqJFZ5+dbdBZK73TzbmM90zpLvahbOKCKgy2cLgPA4/yAC8J1iloyQcRfwn5ThofXB2ZZws30iQ9VKqsWNFfMQwKAm+urEPwo8bLrg6WqLbceVPAT1rcEjg1VXwwTbYjUxouNcRk5/2/bbB+38JwtgwWsf3ShxgYuCx3Dpq549BCT4gVUEWTxN0Rd/JJpMFEBqybwMcNrow4T/+rO3LQdeoyb4gQQy0ohTObpLxRyhAl+1sPe6E8cHhtE9oV8A0BodRSQ+msufW/bJ+cPTfcFRzw8cGVIGkuBDw8XwBdRI59Zrmg60tKqTW5BJDHYdXacu1YnKDMjn28s9OEEYhQU2HHs=;N3B37mipQy3GlBl1KEjzCQ=="
 ---

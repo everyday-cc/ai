@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regula
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp"
 type: article
 quality: 91
-heat: 401
+heat: 411
 published: true
 
 provider:
@@ -328,6 +328,20 @@ related:
       - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUo3QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df02ab74e11904046dd4f09e5e30ff72304d2e69/Tech-AI-machine-learning-head-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Google AI model to generate music from text could be bigger than ChatGPT"
+    excerpt: "It’s called MusicLM, and according to AI scientist Keunwoo Choi ... To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text ..."
+    publishedDateTime: 2023-01-27T23:22:00Z
+    webUrl: "https://bgr.com/tech/google-ai-model-to-generate-music-from-text-could-be-bigger-than-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 38
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1173782216.jpg?quality=82&strip=all"
+        width: 3120
+        height: 2080
         isCached: true
   - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
     excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."

@@ -338,6 +338,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Google AI model to generate music from text could be bigger than ChatGPT"
+    excerpt: "It’s called MusicLM, and according to AI scientist Keunwoo Choi ... To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text ..."
+    publishedDateTime: 2023-01-27T23:22:00Z
+    webUrl: "https://bgr.com/tech/google-ai-model-to-generate-music-from-text-could-be-bigger-than-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 38
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1173782216.jpg?quality=82&strip=all"
+        width: 3120
+        height: 2080
+        isCached: true
   - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
     excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
     publishedDateTime: 2023-01-27T14:41:00Z

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 1057
         isCached: true
+  - title: "Calligrapher.ai is using AI for handwriting generation"
+    excerpt: "An RNN is a class of artificial neural networks where connections between nodes can create a cycle allowing output from some nodes to affect subsequent input to the same nodes. Recurrent neural networks can exhibit temporal dynamic behavior, which makes ..."
+    publishedDateTime: 2023-01-27T22:06:00Z
+    webUrl: "https://www.techspot.com/news/97411-calligrapherai-website-using-power-ai-handwriting-generation.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-27-image-13.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "Clothing designer tricks AI-powered face recognition into thinking you’re an animal"
     excerpt: "The clothing specifically seeks to evade “YOLO” facial recognition technology, which is considered the fastest real-time object detection system in existence, according to Cap_able."
     publishedDateTime: 2023-01-26T01:06:00Z

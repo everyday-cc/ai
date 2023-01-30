@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Calligrapher.ai is using AI for handwriting generation"
+    excerpt: "An RNN is a class of artificial neural networks where connections between nodes can create a cycle allowing output from some nodes to affect subsequent input to the same nodes. Recurrent neural networks can exhibit temporal dynamic behavior, which makes ..."
+    publishedDateTime: 2023-01-27T22:06:00Z
+    webUrl: "https://www.techspot.com/news/97411-calligrapherai-website-using-power-ai-handwriting-generation.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-27-image-13.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "Clothing designer tricks AI-powered face recognition into thinking you’re an animal"
     excerpt: "The clothing specifically seeks to evade “YOLO” facial recognition technology, which is considered the fastest real-time object detection system in existence, according to Cap_able."
     publishedDateTime: 2023-01-26T01:06:00Z
@@ -70,6 +84,6 @@ related:
       domain: fox5ny.com
     quality: 28
 
-secured: "ap8S1y7bVmCzqiIIeeKmadVQPRkrlVSRKTo/t3/Exjda4pkuNs/UCjn+69VkoVHrjQD7WqvBZv732IEFACWcvRiHwA6/8jkfvnMulMDvYsPN3zcECvXdsMQvjtQvRNE+2J/mJOWceBS9atPvegaeJL4Prx4Lgjp8tqquiMXF9Qs0MgdF9VMrYx33s7cKI98iEGNQqOxth8wsbFsDAbPsX4wOpaLT5NZWeIKBdyhZJt1sF5Kyy3v3MOe6pmVLptg46e20OkGQWefSMqbdewcAdCJJQoITFv58ndMPuS00vqM8RUjypk/l5C5UvZpBHjxSKZDQGn7cYoeeYKcBHsmfygiuS/TUJ+xwHxdxdBy74Uw=;mUaKKm9MZfU6VuSklVjCdg=="
+secured: "r+PVob2T5lEMiIWqYEkHavTmz5G1L1Cd2j0UJxENETN6BmR8Ctj9p4d/PguNRLPRE6r9/pe/hxJXrlYE+N1sKiBgPE+94DDhAndiKshVJqdmzQw6PpojtbiPl4ryEJT6x9apnZQj8r0Bl/UQJvkbtYjHXKMRbl8T8XCWkY8VwGeyOTzNZav5B9t8l3+eq0bpIywCKlrcXI7j1yNGIbuItUupm6uHAtI6J52RrlzDEEpFokr9ckwEOAMxJWRCW20pR0XnVPd7umxoyKdpACpR5vqQH2bsiVbJUeKBVtdYtZ7BR/7ryyW0w9iD8vno6wxFRKPQaE3phG+OQfkweL+Yaipz15pxJ2vYU8APwrmDbU4ECp+u6HDSJNMxGYOjCBDJspNTqiSSxB/Z4NKU/2BkAKl7NGqDyT9QMvsH4ZwuQEZbrslF+nBDkSiTTONNWXEjq3Du3gbiKcR4w6Z7k1t7XrnFWLUaBRN6X/NRGZkjqEnDaf6qQpywNpxZwNVPr3Gt53jajznZCikk5O1icieiZw==;2U5oYG+daapxugdA/JR83g=="
 ---
 

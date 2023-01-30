@@ -8,9 +8,6 @@ webUrl: "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-
 ampWebUrl: "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp"
 type: article
-quality: 58
-heat: 58
-published: false
 
 provider:
   name: Medical Xpress
@@ -26,6 +23,6 @@ images:
     height: 1584
     isCached: true
 
-secured: "3d1Cmlid8HA4Z6Eoh/K4Jh1Lh1+wfla8YY1+X3hpkoiCacwKF66rCH85XX207KqLSy7/alZg4+6KX+tATTS+tChttGWcevFDgmNYvmLcWKwLmZKYigukmHCqDpIh5wZiCkcrETJtQ2l0X40gfNb8zxtLHxLaHqq7lgOU88Z/4QL0RzCj8cRawEAmBWXO4PAsUVvAZ+NdEqI5SW73yWtYX+jx9QkWyaWeT0hkR1+bkZqP/Xvjs7EUU/+PrJpF+T9Y6dTEKPv1aO0oYmNbkuBt397hUW+RWsEeOjbolwYCZfgtrZ0QaVEMNOTZROFbxwFCIoXVAUBAXqP38uIjOf+bb0RWuFT/rvuY5hNiSOgrnbw=;aQ0XvTQcZn1hstTB1GxhJQ=="
+secured: "/Uc0w3E8OU5nQ7ZPswDPdASjgfJfl8PakrI0VIS8nAFIps/S+xI+qIZeoVzanSQDVeXKjBsUb/nHbRc6d1l+lma9oeVwQsdBlddvxOr+Tffta6pR8AOGkud/R1KHtM3js4V2blKU88aZSSVxtljbEDqIa7ixQLQjU4M9dbwjYOWwHywtVYXguvlMp1iqWCFAUN1orgi+qdJuFNpZ0qIW2SO1HBAKfPh6tOu1Syyexhc4soiIe/l/vS90CE+TyHskTPiujMqsM+5cL9uGFfGM8LDG7TCty4xS9pOdvhgcePVG9UD+WJlv1ogmax6RA+K4naQae6RkCZAiZm4wFu4t+LCgSqaxdh33mpsDvIi7RvA=;QFEvuWgvjyLOWz1tZ9md6Q=="
 ---
 

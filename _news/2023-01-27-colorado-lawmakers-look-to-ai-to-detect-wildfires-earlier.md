@@ -75,6 +75,20 @@ related:
         height: 749
         isCached: true
   - title: "AI wildfire detection bill gets initial approval in Colorado"
+    excerpt: "A Colorado Senate committee on Thursday unanimously voted to move forward a bill to create a $2 million pilot program that would station cameras on mountaintops, and use artificial intelligence to ..."
+    publishedDateTime: 2023-01-26T16:53:00Z
+    webUrl: "https://www.local10.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/R2F5NBORTZDIJBMRSAUUHEUFGI.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 398
+        isCached: true
+  - title: "AI wildfire detection bill gets initial approval in Colorado"
     excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."
     publishedDateTime: 2023-01-27T19:20:00Z
     webUrl: "https://www.sacbee.com/news/business/article271678832.html"
@@ -86,14 +100,16 @@ related:
       domain: sacbee.com
     quality: 37
   - title: "AI wildfire detection bill gets initial approval in Colorado"
-    excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
-    publishedDateTime: 2023-01-26T23:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/colorado-lawmakers-ai-detect-wildfires-early-96687632"
+    excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."
+    publishedDateTime: 2023-01-30T06:00:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article271678832.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article271678832.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article271678832.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 17
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 37
 
 secured: "3yJpa5ilMDxyqy2jqAD+8gklFELdz8f+eiR0RKkyYW2qPMg0/lzIiOYG42Y+fkLuIEIUuYfLa8daKwGTIF9oWmGnJf0DvzC2/n3edOTzIQWTC5Ixko126loGeFFG5aYMxp9HTx06B7blmzqU5HyQ2Oros+xHS8DaBpgocbpwBBjjBwjIShXOpmY3wlqNdrjteivQG1TQ9GLQnGDPNU///1wSlNanlE2j9qWfxmYGmAB54njKdlgczow8LUF3nvB+YbMjRVcAWv8Z2sX7P6OIKtNuyXyJoVBgv6Dxo3RQZrf/Y411+yZN0agbPIWZYKsE1A9yqMzevE9qvBONXsSk2gtqD+eyBjrZD1n7AQnXItU=;Nm3Xqwwd3jYTarWPNwe/Pw=="
 ---

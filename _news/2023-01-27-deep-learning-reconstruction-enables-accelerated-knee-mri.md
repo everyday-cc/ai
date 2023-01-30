@@ -7,7 +7,7 @@ originalUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-re
 webUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 315
     isCached: true
 
-secured: "IK6Erm6Vq/cC1dCbO2NgrM+SP40JuZtMcTf6nk7RJC/01Mb3f6f39Rop6TKhtkZdD8PoCw4m3GcZdLBvjx/LPpClELImqTz9ZmID3ngfZSt/FDoLlZzaZ2Q7/FTMXSNTMSMA12N175Qxo7Hq9X4+tLcECMsbIcgkvhWg7Di1ub4CdGfgcRBu9T98icSKd5c+nWhq6Y+UapRIv4si+RIoRPmXoXvaVRq3n8AID25Jab535T29a0kov/3kseDANzk3/xJEa+e+tTZLn+bIHLPdxBNOcJ+RfFcuPSfaRfc3vSWPVll/Xh0NAOyMfoPZJXQgt3rXSl0yBGo6HPWeEyH1sbpsh/pLlnK9VE4wdSmgKYQ=;A3oCFqqKkWUpOb9Twr4SYw=="
+related:
+  - title: "Deep learning reconstruction enables accelerated knee MRI"
+    excerpt: "More information: Patricia M. Johnson et al, Deep Learning Reconstruction Enables Prospectively Accelerated Clinical Knee MRI, Radiology (2023). DOI: 10.1148/radiol.220425"
+    publishedDateTime: 2023-01-26T00:00:00Z
+    webUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-deep-reconstruction-enables-knee-mri.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-reconstr.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "yey/4YgWeW6cZfTQcuTYkWzazWKBsy46MTFuY3L633Z/6FZz5uGvYw1JhcDsXr6X9fcFPL6UzkaUln45asPAeFYL7UYaWyqylKMCeybWECl2WloMJ4gCe76B/Yh9PZsrzWSPIk29z0AyfTlh1Iv0B5AjJwA0WujharDIdN8j+4CrW3Gfl4JPpGTHYoKuMINBVC9t9jXDwI6r4e2tdFi0vdcVSPCzI0DIFVpIlITkyBHvIRkZWoOjoGkqQr18s2IRf9MBFI7/2AH5f7jfjEzkRsrOArJhjwuya9UR5fcUdHjUnSVKAb+q6ym6rbqJ4spALkh9mjO81jwUN5d4hWFkLGH76xTo/PyivgvY4LFUpBg=;j5NkiBRl67pbdLxM31fhlA=="
 ---
 

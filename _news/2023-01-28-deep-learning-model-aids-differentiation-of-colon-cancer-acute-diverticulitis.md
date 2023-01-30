@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-01-deep-aids-differentiation-col
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-deep-aids-differentiation-colon-cancer.amp"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Model Aids Differentiation of Colon Cancer, Acute Diverticulitis"
+    excerpt: "A three-dimensional (3-D) convolutional neural network (CNN) can be used as an artificial intelligence (AI) support system for differentiating colon carcinoma (CC) and acute diverticulitis (AD) on computed tomography (CT) images,"
+    publishedDateTime: 2023-01-30T07:01:00Z
+    webUrl: "https://www.physiciansweekly.com/deep-learning-model-aids-differentiation-of-colon-cancer-acute-diverticulitis/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 50
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/01/image1675062037.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence May Help Differentiate Colon Carcinoma From Acute Diverticulitis"
     excerpt: "Colon carcinoma and acute diverticulitis have similar computed tomography imaging features that can make differential diagnosis difficult for radiologists, but a novel artificial intelligence assistance model was shown to help diagnostic accuracy."
     publishedDateTime: 2023-01-27T16:00:00Z

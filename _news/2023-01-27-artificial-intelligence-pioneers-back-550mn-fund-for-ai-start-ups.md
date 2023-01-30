@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial intelligence pioneers back $550mn fund for AI start-ups"
-excerpt: "Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups, in a move that bucks the wider downturn in tech dealmaking. Toronto-based Radical Ventures ..."
-publishedDateTime: 2023-01-27T09:23:00Z
-originalUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0"
-webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0"
+excerpt: "Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups, in a move that bucks the wider downturn in tech dealmaking. Toronto-based Radical Ventures said it has received investment from several leaders in the AI field."
+publishedDateTime: 2023-01-27T09:22:00Z
+originalUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?shareType=nongift"
+webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?shareType=nongift"
 type: article
-quality: 34
+quality: 32
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: ft.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -48,6 +47,6 @@ related:
         height: 800
         isCached: true
 
-secured: "EQqySQMmU1lt8+ig3le55ftGq7W1B7V1k1DBO3aS6NsTThDn/urJp14Xtd3gzZPvQsFbYFh+rctgO3zGYHZjwiCEnOl6cdaT1pS69YVItpwYBNAMBypZ14Xubb7pkA2Efg6nhkPXgLwmLKcSlzvYyx4aZCxgGA+UIllVGhAPXQhP8lv+lcLDeYAJXIcvHuxEYpWfUabux7IENxX8jq1yvoW53JErQirn3lSHF4S60KdMRmu8tVyFIlimfavuO4aV3MgPUjPYvJI/ROluq/o9S3h3HVoZWWAGQixSxYExBZdIdMNk5J0ctmyZXYWLcIE5QfikYdph5u7PtNrJFsAHl7p2OyxxTd3CzPukgCwnBHA=;AP+0gru4XA12ZnmV0uS8Pg=="
+secured: "TfhwOz/8+SwUgkrtgRak0+z2kgTxdoMg9v5H2YA5GK5o8AVshsvGUlaLHrJ4LLkFGCAP4+T+DAjxKESQpYdi3ZaC/1O06/94U+dPqScMaSM+yj8NK/Tfg1IFZ8xL9VwgXysfg6YNkDiDmG2Lag7gkXXRuQZn6Fe1s4D95XY1HOb+TSLDBeUl54SVE6F56bGzdD4zHll9872KvQchlrACKyBaSeEc8a0Ds5v6UY/ybHt3V0VpbQx5LF6XWwjrZFNVNedDgTupfAGsvTKGs4yXCE6FA2F+26mkkiNXI4vHctT/6HHMmXyz1S78AI+1B+7ESGPDixJmmuvola+KtJTvgS1hADV6BDgInAP9uF9UIWzbNnMrD0pm03/Pfss19KpUUo23gjvjIkYofXJfes4Zr3YbWiepuRCfUuJskBPOSYWZAGsBKEeRrmyXc3PWCI5OuDKkUNUgkwjHM+QisDqB0ruP1CDk/RiVLnH+mVgFYnz4Ke+82XUy5Eu3l58H7JD1g0keCh3NNKpSfBd4jXR3dQ==;QNUHQjsDDSzgG9mVrW52PA=="
 ---
 

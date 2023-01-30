@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
 type: article
 quality: 100
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
-  - title: "Microsoft expects slower Azure growth"
-    excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
-    publishedDateTime: 2023-01-25T16:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/01/26/2003793152"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 54
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/01/26/P05-230126-312.jpg"
-        width: 866
-        height: 577
-        isCached: true
   - title: "Microsoft's AI push has some analysts raving about the stock even after lackluster earnings"
     excerpt: "Microsoft 's earnings report earlier this week was largely considered dissatisfying to analysts. But the tech giant's focus on artificial intelligence, or AI, is keeping many on Wall Street optimistic."
     publishedDateTime: 2023-01-26T17:17:00Z

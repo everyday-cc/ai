@@ -7,7 +7,7 @@ originalUrl: "https://www.design-reuse.com/news/53387/fluent-ai-embedded-voice-r
 webUrl: "https://www.design-reuse.com/news/53387/fluent-ai-embedded-voice-recognition-cadence-tensilica-hifi-5-dsp.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Fluent.ai offers embedded voice recognition for TWS products"
+    excerpt: "Fluent.ai has announced an embedded voice recognition solution for True Wireless Stereo (TWS) and other hearable products running on the Cadence Tensilica HiFi 5 DSP in partnership with Airoha, a MediaTek subsidiary. The solution is part of an integration ..."
+    publishedDateTime: 2023-01-30T08:27:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/fluent-ai-offers-embedded-voice-recognition-for-tws-products"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/cwjdnn5w/fluent.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SVk93yGsEHSu9js/yNV9BI+aJf7IYILqAMBnd2mIRdhescVMLZEFbaVU0qCGTLUE6sp2cmNv0jbO6KG2UlFgj8VYH/0tPrpVZ4LU0JHilgcfVolYgCI4hSBhUBmN5FtxhPmW63qzS3LKFhwBNlqXfpdxbxdO0iBvzbNlyfxfTizxyw/2GxLvwY88JhO/3odVTWP3PTfd7uxpe36LwLBwoxBP9wkxiYiqK4yNoR5CQztVkGHzRcehtlx5f7RI/7Ff2Wy7qfm5OsYkoUvOsNAazT9b4pEBRgJqaAbBKdT7IAXeStEM+/naAnVbaSrz1R8QjNyZi6uwTdcisDbXorC+J0NXJOoXcWc1ALzmnoilDU0=;IMsFW0gB0gk5ys2IL8XSGw=="
 ---

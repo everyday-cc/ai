@@ -85,14 +85,30 @@ related:
         height: 308
         isCached: true
   - title: "AI wildfire detection bill gets initial approval in Colorado"
-    excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
-    publishedDateTime: 2023-01-26T23:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/colorado-lawmakers-ai-detect-wildfires-early-96687632"
+    excerpt: "A Colorado Senate committee on Thursday unanimously voted to move forward a bill to create a $2 million pilot program that would station cameras on mountaintops, and use artificial intelligence to ..."
+    publishedDateTime: 2023-01-26T16:53:00Z
+    webUrl: "https://www.local10.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 17
+      name: WPLG
+      domain: local10.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/R2F5NBORTZDIJBMRSAUUHEUFGI.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 398
+        isCached: true
+  - title: "AI wildfire detection bill gets initial approval in Colorado"
+    excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."
+    publishedDateTime: 2023-01-30T06:00:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article271678832.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article271678832.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article271678832.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 37
 
 secured: "7hy6ExEhw8VCoOqMYSnmEbwA/yS4xM4tZYz1O/GBJ1P5y04Xkn7sewmUXnM4wLAvQYNweof6G0MsifK2lVFPmwVEG1W0hoEMeMEbLwT6VQMF5AT3d7vgPF+/UdGia7i4huuwyGxdOPQsefu/OdBsCGWntugvWNy184NKhXGLqmTXie4Im8upIFDOLB5jXKkmiE/HVGpLVxrH8FZlG+Aa3A+o2XodIsxFA3bSFV2zAxA5Jy3jZ3FZNxU23WhNvGpvIrYjUIh0fPKmT7uNQQMiKpcFywo9HZzmkxDHu4AsvXe7KAT8WRwmpVyoVaVQK25bjH///OZOUHBatgenJ7uWOk19tbbPsPxrSZXxgUQ3tWHIp3WlG0Z2BgZrvJCSyT59fRKoe8YioPUpx5T5SW29QDtDCzC72rATvr8gY1d3FFrASTsmuHD440so/zHy9zfChnE1LBvNQaRdCJaVLR7KzaPUafyRLlsjZ07ql2MTvR5M5fz3DlHMsSmyffGeLZrfE10PyRXGH6m89HxBYyqrjA==;mzd5Od+lVM60kqMQ8jg9tg=="
 ---
