@@ -66,6 +66,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Google develops new AI system for generating high-fidelity music"
+    excerpt: "Google LLC researchers have developed an artificial intelligence system that can generate high-fidelity music based on a text description provided by the user. Google detailed the system in a Jan. 26 research paper spotted today by TechCrunch."
+    publishedDateTime: 2023-01-27T22:12:00Z
+    webUrl: "https://siliconangle.com/2023/01/27/google-develops-new-ai-system-generating-high-fidelity-music/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/IMG_3819-800x533-1-3.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "3+LmNfxiEzLNkcFRhR2nr+v3oJSvXTc5vHGrsFIRY7q50/kMhnd4kdjQyFOvP5nZBZXFBX8dHoAkBOee4lTLnsz+lgLsarwq5KYZ3b+7zd7t0ABemQbREieZFRr/OEBbyMhxJ58wzHpSqXTFzxt6OMcfciPrEqzjrZciuH5XZY3HXs4zfyLOw/zsolH3HzpUYHwmifWlJe4OWidMM4sxFXb0dRHwM4OGInlKT/JPigRkcqvjm+T68lrHH3VplnDyJuPIQACo5UopVS/FXxrQXiOqkg8gkWpSXP5MRB/6BraL6JcjbHHgSkUtiIBhgjxr9h57IuaFsa4x840woUYv8ITNr+pw6ptuTDhKxO8sjCseN79VhGS8O9ErNip2wFHUDCb5vSoIWZ5AZwTSmpwJlyyJJv5xGcU/j6FJ7F5zVbPxbwqb6/404U8HM/MrXP5CqGbsAYcC9hgsmj58VmMIWEbxXj/w7bVHxnzJnUqvc3iN8Itng8SvtUj0Ty/cB1ZYQcCwVJDNRW2b4Mp+Da8Skw==;kyANqTiA4GqNd3TaLlMf+A=="
 ---

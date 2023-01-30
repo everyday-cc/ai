@@ -75,15 +75,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Jail threats stop AI 'robot lawyer' from making its debut in court"
-    excerpt: "Joshua Browder, the CEO of New York startup DoNotPay ... Browder originally created DoNotPay as a free AI-powered chatbot that can help draft letters and fill out forms for various legal matters ..."
-    publishedDateTime: 2023-01-26T06:49:00Z
-    webUrl: "https://www.engadget.com/jail-threats-ai-robot-lawyer-court-case-063006308.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 64
   - title: "First AI-powered robot lawyer won't be used in court due to jail threats"
     excerpt: "News that an AI would represent a defendant fighting a speeding ticket in court on February 22 arrived earlier this month. It would have involved an"
     publishedDateTime: 2023-01-26T15:16:00Z
@@ -93,20 +84,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 63
-  - title: "A robot was scheduled to argue in court, then came the jail threats"
-    excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
-    publishedDateTime: 2023-01-26T06:11:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/1151435033/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
-    type: article
-    provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
-    quality: 54
-    images:
-      - url: "https://media.npr.org/assets/img/2023/01/25/22222-43fdec9bf493d0af69c55146baf0717b62e92b05.jpg?s=6"
-        width: 948
-        height: 712
-        isCached: true
   - title: "“Robot lawyer” pulled from first court case over jail time threats"
     excerpt: "CEO of the New York-based startup DoNotPay, Joshua Browder ... being threatened with possible prosecution and jail time. The “robot lawyer” technology relies on a few prominent AI text generators — such as ChatGPT and DaVinci — to dictate responses ..."
     publishedDateTime: 2023-01-27T10:40:00Z

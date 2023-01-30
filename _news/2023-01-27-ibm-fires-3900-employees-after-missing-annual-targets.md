@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tech major IBM to lay off 3,900 employees, bets big on hybrid cloud, AI"
-    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyndryl business and part of the AI unit called 'Watson Health'. The layoffs will cause a charge of $300 million in the January-March ..."
-    publishedDateTime: 2023-01-26T06:12:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/tech-major-ibm-to-lay-off-3-900-employees-bets-big-on-hybrid-cloud-ai-473946"
+  - title: "IBM slashes 3,900 roles, SAP chops 3,000"
+    excerpt: "The company announced the move on Wednesday, stating that it would cut 3,900 jobs, or 1.5% of its worldwide workforce, as part of asset divestment. IBM chief financial officer James Kavanaugh said the layoffs are related to the previously announced spinoff and sale of Kyndryl,"
+    publishedDateTime: 2023-01-26T10:26:00Z
+    webUrl: "https://www.computing.co.uk/news/4066156/ibm-slashes-900-roles-sap-chops"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
+      name: Computing
+      domain: computing.co.uk
+    quality: 24
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/1/2023_1$largeimg_661123783.jpg"
-        width: 708
-        height: 470
+      - url: "https://image.chitra.live/api/v1/wps/761d442/e1928f0b-a251-4880-a97c-6139061eb2ab/14/IBM-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
-  - title: "Tech Major IBM Lays Off 3,900 Employees, Bets Big On Hybrid Cloud, AI"
-    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyn"
-    publishedDateTime: 2023-01-26T14:15:00Z
-    webUrl: "https://menafn.com/1105480938/Tech-Major-IBM-Lays-Off-3900-Employees-Bets-Big-On-Hybrid-Cloud-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
   - title: "IBM gives pink slips to 3,900 employees"
     excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyndryl business and part of the AI unit called 'Watson Health'. The layoffs will cause a charge of $300 million in the January-March period to the company,"
     publishedDateTime: 2023-01-26T19:02:00Z

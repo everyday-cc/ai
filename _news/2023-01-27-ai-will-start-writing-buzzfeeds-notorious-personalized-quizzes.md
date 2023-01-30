@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-buzzfeed-chatgpt-quiz-1850036965"
 webUrl: "https://gizmodo.com/ai-buzzfeed-chatgpt-quiz-1850036965"
 type: article
 quality: 67
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -118,6 +118,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T19:48:00Z
+    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: WTKR
+      domain: wtkr.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BuzzFeed CEO says AI may revolutionize media, fears possible 'dystopian' path"
     excerpt: "Over the holidays while most media executives were perhaps looking to get away from work, BuzzFeed's CEO was online, immersed in experimenting with artificial intelligence."
     publishedDateTime: 2023-01-27T02:10:00Z
@@ -148,6 +164,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
+    excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
+    publishedDateTime: 2023-01-30T19:36:00Z
+    webUrl: "https://www.businessinsider.com/buzzfeed-writers-react-ai-generated-articles-content-chatgpt-maker-openai-2023-1"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 20
 
 secured: "E+7whkvN71iNig6Ew1mwhneRVJUZmwdwqWdflerGIGU8rxUTG4Dn7AG0asEa0E2mexwKKQf/MzSgLTycKDJoSQpH/yM2aiCSsJfD8uvBlFaFsDWfq2ni6ZM22el607QWEL+mLghpQJ9GyaCcr1O7THzkWYGP16T0YDKfq6we9NC4PnuIELZzUXzowpHsPKVYZLtid3fZZ8WKKf4sky4ezs21PZT3pq/LkQSNS/4X4TR5Z4XqpLERbWcZQTu2++3Dg1Sp1XkJU0oc/EtgEwB6vIruYIl2w06Uah8TxbgPksadQTf0MGscjC/qp278WsX8ZC7jFlXRTe1rFkl3fnqgxuyhSP8SE0SLG5GjD7seEp5GmrAwe6SdxAdiBh2GN2nkZryotHTOAud9qXtcTGksRJBtQ7qaSqAqNwRug030fXdkCY1PhZrpfTkQwrwfLacG0Yc/7lte6qm8s6rJRl6XJlx1MtFCO30LwtUf6p9avTnF8NdzK87MaOqKMzz8uSxQJVKqkluv1VnTovm+7blDAg==;K7o7EzS1PLJpS81QCoRJtw=="
 ---

@@ -130,6 +130,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T19:48:00Z
+    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: WTKR
+      domain: wtkr.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BuzzFeed stock rises 150% as company plans to use AI to create content"
     excerpt: "Buzzfeed is planning to heavily lean on AI-generated content, CEO Jonah Peretti said in a memo to staff on Thursday."
     publishedDateTime: 2023-01-26T17:29:00Z
@@ -144,6 +160,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
+    excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
+    publishedDateTime: 2023-01-30T19:36:00Z
+    webUrl: "https://www.businessinsider.com/buzzfeed-writers-react-ai-generated-articles-content-chatgpt-maker-openai-2023-1"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 20
 
 secured: "WaxxsCYpr0kBNY2LIVn74fiFYueCfft+ObNIQkEQ5n0BizcwTJoUGE3CI8XWF5R8u8rHRo4dFGw5PM2BLnZnOCl3wtQBqy6Raf/aiI4T4LsIwEGn+Siwm3y0wScq7drm2t6xBAn00RZ5zHhMDgCNceCyH7gPl9h7AdQYeNUyTwsvdWR2Z7WJZXd7LJgqeYlUKNxTwa3IGwqtjWh7CCFC63MGb+/l0F6NBZ1a5mlLia3uIcIDuDcNDBntr3U91ajbWyVNgYXqItg+1vCJ+4oUTLV6pM9zokKdw7/Utbc0Q9b96uZp89Dah89KqcroLFtfhUOPwolw7LbjvoLg0CTjyXaI9FEzNZNJqsKqAbr1WbiLlAq+8yhrckhuySwxr06SCp1ePHAsbH7KUHHMQUUVDPul7NfMgYXfuSzSSs9CtwA7kDTl6w3W0q3mMke103CQodtlfgPIUwrumH7FUaXNO9IX+Emjb+BnCBN4YjF4C3zjZGpvfIfkt/FdKg2pWaVrk/eEVeK9sRrbRynIOmFWpg==;6cQhEA1P62Gp3KmaIIshcA=="
 ---

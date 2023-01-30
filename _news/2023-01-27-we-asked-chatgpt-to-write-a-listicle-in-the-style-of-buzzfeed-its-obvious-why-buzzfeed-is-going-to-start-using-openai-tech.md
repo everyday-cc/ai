@@ -118,6 +118,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T19:48:00Z
+    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: WTKR
+      domain: wtkr.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BuzzFeed CEO says AI may revolutionize media, fears possible 'dystopian' path"
     excerpt: "Over the holidays while most media executives were perhaps looking to get away from work, BuzzFeed's CEO was online, immersed in experimenting with artificial intelligence."
     publishedDateTime: 2023-01-27T02:10:00Z
@@ -148,6 +164,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
+    excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
+    publishedDateTime: 2023-01-30T19:36:00Z
+    webUrl: "https://www.businessinsider.com/buzzfeed-writers-react-ai-generated-articles-content-chatgpt-maker-openai-2023-1"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 20
 
 secured: "KgTDGmjzkX2oeDMKQSaz/cxcXe19/yuRojJP3J0sHBHdnSziG6w3qD/ZdycbEnPGN/uUJFV/xpqlzL0r0bKRjX6r6BbTeTYgIhXQvFaLZyIFAXlllOqs50GpVsLJNDPvKXXeDis7apXzb+aO0SrXSdOhFbgMmFZk6+Dov8V3+irolbhFDb/UynTa5R/yORjGWOwDOXw/rYAAjRmHSJWbNhsE8/2gTEEVDEoE6cQ8bFdBxXYvdXXe3aCyLyyxINebhgsXrhtmUPxI+d6J2OU1RaQsMXBOuKvOlnXIKCUILNt7IutvkznbMAU/1MUrv5FUUJBw6AXo5Q+9ZoWXe5xljE/MUcLkLn0Le1cm/84Ptb7xmYlmST4/0MOld2hn1A9W5dw9G5nZGEmWlBuQ/jTg9tI9sWq9Ee9y4SQtC9WlxEiqRw//fXR+dAL3HOzTocUVIdb2zKajhmIXFs+gqUJE9rix5UzOs654vlVRgqy8T+C0EWdWixQBo+AmMbk2bxHfo9G2IeMzYD/nGfpkTfjiyw==;ZXAwIk8CYLAtPQzYdqgfXA=="
 ---

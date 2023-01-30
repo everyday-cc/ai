@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T20:08:00Z
 originalUrl: "https://www.crn.com/news/cloud/cascadeo-it-guru-on-aws-charge-tech-layoffs-chatgpt-and-why-old-it-world-hasn-t-died-off-yet"
 webUrl: "https://www.crn.com/news/cloud/cascadeo-it-guru-on-aws-charge-tech-layoffs-chatgpt-and-why-old-it-world-hasn-t-died-off-yet"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: CRN

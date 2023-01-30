@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/remote-it-management-gets-a-generative-
 webUrl: "https://venturebeat.com/ai/remote-it-management-gets-a-generative-ai-boost-as-atera-adds-openai-codex/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Report: OpenAI hired 1,000 contractors to improve its AI models’ coding capabilities"
-    excerpt: "OpenAI LLC has reportedly hired about 1,000 contractors over the past six months to help hone its artificial intelligence models’ coding capabilities. Semafor reported the development today, citing people familiar with the matter."
-    publishedDateTime: 2023-01-27T21:02:00Z
-    webUrl: "https://siliconangle.com/2023/01/27/report-openai-hired-1000-contractors-improve-ai-models-coding-capabilities/"
+  - title: "CEO of OpenAI says misuse of artificial intelligence could be 'lights out for all'"
+    excerpt: "OpenAI CEO and co-founder Sam Altman spoke about the future of AI, good and bad, in the vaguest way possible—which scares me a bit. Altman answered questions about OpenAI, the makers of the wildly popular AI chatbot ChatGPT,"
+    publishedDateTime: 2023-01-30T21:59:00Z
+    webUrl: "https://www.pcgamer.com/ceo-of-openai-says-misuse-of-artificial-intelligence-could-be-lights-out-for-all/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 46
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/openai-1.png"
-        width: 859
-        height: 478
+      - url: "https://cdn.mos.cms.futurecdn.net/p2nwRUMdJmYewXiBbibeLK-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google, not OpenAI, has the most to gain from generative AI"
     excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"

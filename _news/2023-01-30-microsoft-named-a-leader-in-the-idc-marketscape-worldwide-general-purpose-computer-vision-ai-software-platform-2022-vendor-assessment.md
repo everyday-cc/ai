@@ -131,6 +131,15 @@ related:
         width: 1024
         height: 400
         isCached: true
+  - title: "Microsoft Research project helps languages survive — and thrive"
+    excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
+    publishedDateTime: 2023-01-30T16:40:00Z
+    webUrl: "https://news.microsoft.com/en-in/features/microsoft-research-project-helps-languages-survive-and-thrive/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 21
   - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
     excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
     publishedDateTime: 2023-01-26T14:00:00Z

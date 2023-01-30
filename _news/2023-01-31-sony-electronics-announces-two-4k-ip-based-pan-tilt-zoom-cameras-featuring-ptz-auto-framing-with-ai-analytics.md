@@ -48,6 +48,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 19
+  - title: "Sony Electronics Launches Two 4K IP-Based PTZ Cameras with Built-in AI Analytics"
+    excerpt: "Sony's SRG-A40 and SRG-A12 PTZ cameras provide excellent image quality and enable remote control for seamless capture."
+    publishedDateTime: 2023-01-30T20:51:00Z
+    webUrl: "https://www.commercialintegrator.com/communications/pan_tilt_zoom_cameras/sony-electronics-launches-two-4k-ip-based-ptz-cameras-with-built-in-ai-analytics/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 14
   - title: "Sony releases two 4K PTZ cameras"
     excerpt: "Sony has launched two 4K PTZ cameras, which both include built-in AI Analytics. The SRG-A40 and SRG-A12 automatically track and frame presenters without the use of a computer, as well as automatic operation for quick object tracking and rediscovery and multiple auto framing options."
     publishedDateTime: 2023-01-30T10:48:00Z

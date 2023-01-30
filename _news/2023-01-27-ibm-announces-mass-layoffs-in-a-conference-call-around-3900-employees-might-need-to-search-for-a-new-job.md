@@ -43,22 +43,6 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "IBM to cut 3,900 jobs; layoffs tied to spin-off Kyndryl"
-    excerpt: "Amid the wave of layoffs in the IT sector, another tech giant has announced plans to cut jobs. The International Business Machines (IBM) has said it would cut about 3,900 jobs, the Wall Street Journal reported."
-    publishedDateTime: 2023-01-26T05:52:00Z
-    webUrl: "https://www.theweek.in/news/biz-tech/2023/01/26/ibm-to-cut-3900-jobs-layoffs-tied-to-spin-off-kyndryl.html"
-    ampWebUrl: "https://www.theweek.in/news/biz-tech/2023/01/26/ibm-to-cut-3900-jobs-layoffs-tied-to-spin-off-kyndryl.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/01/26/ibm-to-cut-3900-jobs-layoffs-tied-to-spin-off-kyndryl.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 44
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2022/7/2/IBM-logo-logo-IBM-shut.jpg"
-        width: 760
-        height: 443
-        isCached: true
   - title: "IBM to lay off employees amid tech jobs bloodbath"
     excerpt: "The retrenchments impact workers remaining after the Kyndryl and Watson Health spinoffs, and will cost $300 million."
     publishedDateTime: 2023-01-26T09:27:00Z

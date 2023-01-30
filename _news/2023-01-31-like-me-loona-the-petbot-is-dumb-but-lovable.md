@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T19:26:00Z
 originalUrl: "https://techcrunch.com/2023/01/30/loona-petbot-review/"
 webUrl: "https://techcrunch.com/2023/01/30/loona-petbot-review/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechCrunch

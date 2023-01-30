@@ -92,6 +92,15 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
+  - title: "3 ways health systems are using AI to improve patient care"
+    excerpt: "From backing artificial intelligence-based startups that can detect emotions to developing an artificial intelligence-based tool that can predict \"ICU delirium,\" here are three ways hospitals and health systems are using artificial intelligence to improve patient care: Northwell Holdings,"
+    publishedDateTime: 2023-01-30T19:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/3-ways-health-systems-are-using-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
   - title: "Generative AI and ChatGPT – Is it the disruptor in the digital world needs?"
     excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
     publishedDateTime: 2023-01-26T13:14:00Z

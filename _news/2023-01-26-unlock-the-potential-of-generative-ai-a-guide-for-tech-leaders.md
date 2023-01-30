@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -33,15 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: how will the new era of machine learning affect you?"
-    excerpt: "They will “understand your intent in a way that hasn’t been possible before and translate that to computer ... help to control misuse of the new AI systems. Manyika, for instance, says that Google has developed a language system that can detect with ..."
-    publishedDateTime: 2023-01-26T03:31:00Z
-    webUrl: "https://www.ft.com/content/1e34f334-4e73-4677-9713-99f85eed7ba0?sharetype=blocked"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 38
   - title: "Generative AI: No Humbug"
     excerpt: "In 1845, dentist Horace Wells stood before Harvard medical students and faculty, eager to demonstrate the utility of nitrous oxide – laughing gas – as a general anesthetic. Wells tried it out on a patient who needed a tooth extraction."
     publishedDateTime: 2023-01-30T14:44:00Z

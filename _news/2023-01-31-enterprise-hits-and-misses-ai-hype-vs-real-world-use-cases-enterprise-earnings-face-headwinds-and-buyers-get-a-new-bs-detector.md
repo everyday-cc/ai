@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-hype-vs-real-world
 ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-hype-vs-real-world-use-cases-enterprise-earnings-face-headwinds-and?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-ai-hype-vs-real-world-use-cases-enterprise-earnings-face-headwinds-and?amp"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:

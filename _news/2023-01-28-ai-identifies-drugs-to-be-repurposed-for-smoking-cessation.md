@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation?amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ topics:
   - AI
 
 related:
+  - title: "Machine learning identifies drugs that could potentially help smokers quit"
+    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a new study. Researchers developed a novel machine learning method,"
+    publishedDateTime: 2023-01-30T19:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130517.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "Machine learning identifies drugs to help smokers quit"
+    excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan which is used to treat"
+    publishedDateTime: 2023-01-30T20:14:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273458000/machine-learning-identifies-drugs-to-help-smokers-quit"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
   - title: "Machine learning identifies drugs that could potentially help smokers quit"
     excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."
     publishedDateTime: 2023-01-27T14:50:00Z

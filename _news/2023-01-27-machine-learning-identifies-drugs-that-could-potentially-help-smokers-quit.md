@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Machine learning identifies drugs that could potentially help smokers quit"
+    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a new study. Researchers developed a novel machine learning method,"
+    publishedDateTime: 2023-01-30T19:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130517.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "AI Identifies Drugs to Be Repurposed for Smoking Cessation"
     excerpt: "A study discovered of several drugs that may be repurposed for treating nicotine addiction. The researchers used AI to analyze data for 1.3 million people in order to find genomic variants that are statistically associated with smoking."
     publishedDateTime: 2023-01-27T23:18:00Z
@@ -30,6 +39,15 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
+  - title: "Machine learning identifies drugs to help smokers quit"
+    excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan which is used to treat"
+    publishedDateTime: 2023-01-30T20:14:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273458000/machine-learning-identifies-drugs-to-help-smokers-quit"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
 
 secured: "xOwvQnOjvncwn9PczLm+62WcE2P/RMGOb1JSx7QduHmDqXeFPmDO8A6FLxByXW1lWmNrXjkwxa1odh4p7PmsUqDGCXRv4c036oTMQrvM8DaDsEwq04poIg+5+JJWruXxPWFrB8qsXqw0Oy5GKIU6n0zrhfOhmgtwl8dRWrYmYee7ehO9QuEXcy2R4x/CO827GXqyFeV6v9VefWxSui8KBTJuJn18oWirRtio4SaPfJQ5aB8kuL0BGqHssWYYYUYFkMGmInWZduYRQMCSUwp4Qs9eesXt0z+QcK0qJMc9liB9u2U4FEAOHJXXB7aTVpU60zbseGd/wIwyitKLZhBxr/D8FQ8bc1YjJG2voYYAP39BE7hQIWePM9z5qsjS31Sc41ZjW+FtsKdt4sLyQEnbKvM2Z7U9ZaN0v7K9bc6jk1yJScCaadJ2syOa4L0UERV7vWZjNkoAVo3l85nSecoYeKT6dkPvvXormmQnjFL6A9PTAZcsej1DFj2vNuuXBa+tSMi3AjPSGtCOaUpqRQ+8lA==;L2MVk3OaPsYbhBpY14nuig=="
 ---

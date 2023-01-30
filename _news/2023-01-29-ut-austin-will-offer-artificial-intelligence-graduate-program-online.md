@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T05:24:00Z
 originalUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 type: article
+quality: 37
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -14,6 +17,60 @@ provider:
 topics:
   - AI
 
-secured: "+5P49MaOYOh8hwowOF7LBjV196pgg4QPsSdJls53/izuOOUklM64z8IGU8D97VekdQ2xEyo/S38F2NrxoYpE//pTCnqq7aPcH89QJo2y1V/M4Bnx6KmPoRwef/+jByzHX+S/kmr+at2H0+FZrGmL6DWeO74y00JLuA8f1bLN7D/42MNwD/1gVYhBD8f9d+33UzHz6NBNArun1qn7WD/7rCaDBBfDYGPbASiOXcLJREj9FmtqIKITNCw16eXu7i/qXj6D5d3rPZLF6sBvlkIdd2eu72vwRJOD/disZuFuPkQADhoheb5iFbwoueOSmEkxDc2WvuaEUqZ+FVdlj4mrnum0kUxK5VmOKFUF8L8dsBxc+fQ/itUUWo8NlNz3i1cmGtkCJYHNkTf5y3yjm9XgXGs420h0WXnvTjFMPvkAUplLlybZrXgKj+6u/+pNgU3ruywtNDaksBNIczWjyAdH1i3l8aiPUwk6cjYD7TTyYY6TOOwOsrNz5fcmr50UhFBo1kFkPKeG8d/Mtm0Lmg/Peg==;MVw8x1MfqCGJ6d5JUQ7BBg=="
+images:
+  - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
+    width: 2048
+    height: 1152
+    isCached: true
+
+related:
+  - title: "UT will launch online master’s program in artificial intelligence"
+    excerpt: "AUSTIN (KXAN) — For the first time ever, people may be able to pursue a master’s degree in artificial intelligence online at the University of Texas at Austin. The university shared in a news ..."
+    publishedDateTime: 2023-01-27T04:00:00Z
+    webUrl: "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/"
+    ampWebUrl: "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 61
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2016/07/ut-austin_37219191_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 697
+        isCached: true
+  - title: "UT launching master's program in artificial intelligence"
+    excerpt: "\"The degree program is pending final approval by the Texas Higher Education Coordinating Board,\" the release explained."
+    publishedDateTime: 2023-01-27T00:59:00Z
+    webUrl: "https://www.wfaa.com/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 59
+    images:
+      - url: "https://media.wfaa.com/assets/KVUE/images/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "AI Master’s Program Launches at UT Austin With Ability to Serve Thousands"
+    excerpt: "Just as artificial intelligence (AI) and machine learning emerge as the fastest-growing in-demand skill sets in the global workforce, The University of Texas at Austin is establishing a new online master's program in AI with the potential to bring thousands of new students into the field."
+    publishedDateTime: 2023-01-26T16:44:00Z
+    webUrl: "https://cns.utexas.edu/news/ai-master-s-program-launches-at-ut-austin-with-ability-to-serve-thousands"
+    type: article
+    provider:
+      name: Journalism in the Americas
+      domain: utexas.edu
+    quality: 38
+    images:
+      - url: "https://cns.utexas.edu/images/easyblog_shared/2023/b2ap3_large_ut-online-masters-degree-ai_700x420.jpg"
+        width: 701
+        height: 416
+        isCached: true
+
+secured: "1QS3tVLBrMMJ1HcKk/7YO857xr49JpHDa5bqnJt8V5i2Uyg+yr5wQQNj/j7PJ4jm3iI60A3FGPVsvUDfoaupfGkSSZUU9syzPOkMHKB8P2wjEMu0KItRCvxk169R423g1CegSobMHNlGGQbPI9owcy1VP7PWPtBk7O+fkLe94EigjRuzISMxIx8fZzlYIT/uDwZnrEHBgIMYgc+M/DO7RxI9y3/Q1DmfPdvFVOjvM7DHGPopl6LpBKpvcnl2q7FJk9P7UOIQGuR8K1xF9UqZdwRS2gXvQIbCD7KesCqv69xsRxit+D1iZnzILFVGw9YsFa2a5FAf3RTCHbcxbfBmGMI4bevJvOD4JgDhlEfZjss=;Wge72VMdOCTt/k8HXeBsgg=="
 ---
 

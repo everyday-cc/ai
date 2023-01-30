@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T20:03:00Z
 originalUrl: "https://searchengineland.com/yandex-leak-learnings-392393"
 webUrl: "https://searchengineland.com/yandex-leak-learnings-392393"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Search Engine Land

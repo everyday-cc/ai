@@ -56,6 +56,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 19
+  - title: "Sony Electronics Launches Two 4K IP-Based PTZ Cameras with Built-in AI Analytics"
+    excerpt: "Sony's SRG-A40 and SRG-A12 PTZ cameras provide excellent image quality and enable remote control for seamless capture."
+    publishedDateTime: 2023-01-30T20:51:00Z
+    webUrl: "https://www.commercialintegrator.com/communications/pan_tilt_zoom_cameras/sony-electronics-launches-two-4k-ip-based-ptz-cameras-with-built-in-ai-analytics/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 14
   - title: "Remark Holdings, Inc. partners with AAEON to simplify the delivery of AI-driven video analytics for a complex world"
     excerpt: "Remark Holdings, Inc. (NASDAQ:MARK), a diversified global technology company with leading artificial intelligence (\"AI\") -powered computer vision solutions, today announced"
     publishedDateTime: 2023-01-27T13:01:00Z

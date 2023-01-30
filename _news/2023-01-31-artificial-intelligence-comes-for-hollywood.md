@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-30T16:14:00Z
 originalUrl: "https://www.axios.com/pro/media-deals/2023/01/30/artificial-intelligence-ai-hollywood-venture-capital"
 webUrl: "https://www.axios.com/pro/media-deals/2023/01/30/artificial-intelligence-ai-hollywood-venture-capital"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://images.axios.com/57YXH7W-aTp295ChWihrFKtYVE0=/0x0:1920x1080/1366x768/2023/01/30/1675037949386.jpg"

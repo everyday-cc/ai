@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2023/01/26/artificial-intellige
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Google develops new AI system for generating high-fidelity music"
+    excerpt: "Google LLC researchers have developed an artificial intelligence system that can generate high-fidelity music based on a text description provided by the user. Google detailed the system in a Jan. 26 research paper spotted today by TechCrunch."
+    publishedDateTime: 2023-01-27T22:12:00Z
+    webUrl: "https://siliconangle.com/2023/01/27/google-develops-new-ai-system-generating-high-fidelity-music/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/IMG_3819-800x533-1-3.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "New Breakthrough Could Speed Gene Therapy Research"
     excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- “Zinc fingers” might sound like the world’s worst candy bar, but these human proteins might prove key to treating complex genetically driven diseases."
     publishedDateTime: 2023-01-26T15:00:00Z

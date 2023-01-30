@@ -27,12 +27,7 @@ related:
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
-    quality: 17
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/JMag-Feb-2023-cover.jpg"
-        width: 350
-        height: 446
-        isCached: true
+    quality: 0
 
 secured: "skmISamwCX40XzYmXOPaeOk1Mk3fvD2Mmz0L1oLL6+f3wGkhRnQf674renWP5aUWmV3hnHOMvIxLD5+5v7JgGjUvafad5Dd0DWCSTIyMsYlC9BTQLrJrDxGtIVy817eIwkNXv6mM0a6q1+HKvj2WcSpJVVQnpjbvehJfSRddGPrcS0n9U/RIAAqt8cf5W+JmSbivEgc1O6nBcOmnRp14Z6PBZczMkkvr3xYiHhAFueTOTJynG7p2T/qTV2f4j8mu/kXGBzW8zb9LM+ndp/lonEf++/bKc6DVW+05X1moZN9r0FePXnCqddllCg9TVt3PA/7jZprH64pP1qoDNQraOZvG4M4d2Z3Nd9+KJRzSpyw=;CBgJSs91waZQ9D1EjQaGYQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T20:03:00Z
 originalUrl: "https://www.cnn.com/2023/01/30/world/global-warming-critical-threshold-climate-intl/index.html"
 webUrl: "https://www.cnn.com/2023/01/30/world/global-warming-critical-threshold-climate-intl/index.html"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: CNN

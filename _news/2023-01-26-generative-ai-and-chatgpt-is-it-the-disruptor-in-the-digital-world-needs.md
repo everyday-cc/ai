@@ -96,6 +96,15 @@ related:
       name: American Enterprise Institute
       domain: aei.org
     quality: 19
+  - title: "3 ways health systems are using AI to improve patient care"
+    excerpt: "From backing artificial intelligence-based startups that can detect emotions to developing an artificial intelligence-based tool that can predict \"ICU delirium,\" here are three ways hospitals and health systems are using artificial intelligence to improve patient care: Northwell Holdings,"
+    publishedDateTime: 2023-01-30T19:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/3-ways-health-systems-are-using-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "lzZ3vtRwMxft94445PUHddWOabU/DTxZ6Q7e5vfuu/6HO+fg7yDfFKUoo5CqQyqw1G2+GQFWtSO4v4y6g7RRR2jOEhUSxVuSY6yD0R1lUSWLK+uTSsff3PXgeuLRESGNNPKTHfreP4dldKyElMTLBymBvAagMW9rFs3Ky7ksUBWaLhMGw75mREmZwLbPs6dhhP6xERx6kzK8ErlcOclRGVDbBi9qgWNf9Dn9FRqRAwMc1BgtGXtuE50pfiK3jVt2ANVpYAWeIQSxdIg8nMtaIAE2EkbWy2x3ynDKpA1SffoUzEYr2FL+Q3z04kW7zRKXQZEiKGG5sBhlvEpbEveOJvnPL3Wib6m1YuPBKLO0k9OQBF7VTQN+2IzZRwmkCyguiRuz0zfqsssgRpWYowgdt+gDECVMPXo42nK5Zy9ZK+K8gyMc8Qlsmeb4N/Tq7sGZZIsBPTfwteXh0CMxnvMQtU3blhBXrxSkXk7P7Z5RggtTn3Xj/hDh78C+M/sugMZ95qeYHySxBR21390+fUoxNQ==;PigOrPQIqyQO260eM8HOVg=="
 ---

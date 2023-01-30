@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T19:00:00Z
 originalUrl: "https://www.theguardian.com/environment/2023/jan/30/climate-crisis-global-heating-artificial-intelligence"
 webUrl: "https://www.theguardian.com/environment/2023/jan/30/climate-crisis-global-heating-artificial-intelligence"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The Guardian

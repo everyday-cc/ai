@@ -25,24 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Remote IT management gets a generative AI boost as Atera adds OpenAI Codex"
-    excerpt: "Atera announced that it is integrating OpenAI Codex with its RMM platform, to help users automatically generate scripts to help execute processes."
-    publishedDateTime: 2023-01-26T14:12:00Z
-    webUrl: "https://venturebeat.com/ai/remote-it-management-gets-a-generative-ai-boost-as-atera-adds-openai-codex/"
+  - title: "OpenAI Reportingly Hiring \"Army\" of Devs to Train AI to Replace Entry-Level Coders"
+    excerpt: "Silicon Valley darling and ChatGPT creator OpenAI has reportedly hired roughly 1,000 contractors with the goal of improving its text-to-code AI, Codex."
+    publishedDateTime: 2023-01-30T22:33:00Z
+    webUrl: "https://futurism.com/the-byte/openai-replace-entry-level-coders-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
-  - title: "Google, not OpenAI, has the most to gain from generative AI"
-    excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
-    publishedDateTime: 2023-01-27T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90839649/google-not-openai-has-the-most-to-gain-from-generative-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
+      name: Futurism
+      domain: futurism.com
+    quality: 33
+    images:
+      - url: "https://wp-assets.futurism.com/2023/01/Coding.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QYYjifqRqMmsbdV9SoKFiE+4p7NqnwlJzlhKFtM+zTojCCkRl7WQq4uiM1p/EOUZQl4jgXIZsWH1e/TCuojkGOevCZ39BrSlcWD34ADVOwXCAFvCP52jgXRTQY6wONI8MyaFAoyl46vcTZXL9mq+lRMcWcegxwD+mZUSrWp6nNRJY0E/Zy22mIkLPP5akbDTZKFn/jUgWMqigELjybsN38xxL3N69dMJs+XASF/UBO7tGhNnDnyrwKHYjXCZuuMz5+But3EoHAURlVkfnGZUXWNysDdAABUhgDOJubSlGUUDoUzlpFGcbGfNlNgaOtQqyBfrpDJTtZbb7SYilXt1yIMK0B66q86XSrHE10YjgPlQKs2nru4Zo/LhdvPJPDLt4csz3gBrbNDyp0PNLT40qPF1DQSXyEdkoO1s4OlejC7c0mXkQ8N+0W00J2jGU0nyb5oAw8U1q8h1ek/CKWOLAPn/u3hSe6kWdOQqTzKdGZ1U0xb9yNcWuoyOG/ObtWs/ylcgfskSXe7heAPDDwfziQ==;vq4KYjENqAzWmEm42XckTw=="
 ---

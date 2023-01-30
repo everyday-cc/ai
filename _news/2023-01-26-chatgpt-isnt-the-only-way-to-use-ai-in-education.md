@@ -198,20 +198,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
-    excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
-    publishedDateTime: 2023-01-30T16:14:00Z
-    webUrl: "https://www.wsj.com/articles/baidu-is-developing-its-own-chatgpt-aiming-to-integrate-it-into-search-11675065601?mod=business_lead_pos11"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-712805/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "ChatGPT — the ultimate AI innovation"
     excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
     publishedDateTime: 2023-01-30T15:27:00Z
@@ -308,6 +294,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
+    excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
+    publishedDateTime: 2023-01-30T16:14:00Z
+    webUrl: "https://www.wsj.com/articles/baidu-is-developing-its-own-chatgpt-aiming-to-integrate-it-into-search-11675065601"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Meet Sam Altman, creator of ChatGPT and president of OpenAI that aims to revolutionise responsible AI"
     excerpt: "Sam Altman is the president of OpenAI, a research company that aims to create and promote friendly AI in a responsible way. He has also been a part of Y Combinator, a startup accelerator that has helped launch companies such as Airbnb, Stripe and Dropbox."
     publishedDateTime: 2023-01-28T09:03:00Z

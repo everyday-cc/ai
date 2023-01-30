@@ -26,6 +26,17 @@ images:
     height: 811
     isCached: true
 
+related:
+  - title: "Sanitary workers in Ongole demand scrapping of facial recognition-based attendance system"
+    excerpt: "Sanitary workers staged a demonstration in front of the Prakasam Bhavan in Ongole on January 30 (Monday) demanding withdrawal of the facial recognition-based attendance system. Leading the protest, Andhra Pradesh Municipal Workers Union (APMWU) State General Secretary P."
+    publishedDateTime: 2023-01-30T20:27:00Z
+    webUrl: "https://www.thehindu.com/news/national/andhra-pradesh/sanitary-workers-in-ongole-demand-scrapping-of-facial-recognition-based-attendance-system/article66450558.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 10
+
 secured: "YAnirIrkV/uY2PypaxqTmy9NZJBsY/qd1Zlr9Bj0G1iswOP4t+M8yZdnyqOcVZvXy9j74y4oiuY9oNn08XcfMPoP1FgI4rQFx3hWbIQT6DsEz6b7Z7BQunl+iPwN0S4f9y7zgX/PwLhz7q6tN0mLLKJIuNh+Jrn1Zy+i1xucsNjoS7Q9lDaA28ErVvMi2EIOalYb6YI17yLMGK59YPTHCoD3NHT07MBtmCnO1XXzlOLeqkN9DZ65QOp7QYoOpjl/OV1wRl/o0ccx5yjEXexDl6Wdn4dyKObbl6p3EeAQpcdAvSBDkhZ6CMLKA3dbosGs2ivrdHH8FudUfyjsSPro/IQ3PQN9blhh/mpImY1C2qw=;RKAe8gr8tHKtFGgHUfNWsQ=="
 ---
 
