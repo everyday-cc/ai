@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
@@ -26,6 +27,6 @@ images:
     height: 283
     isCached: true
 
-secured: "Yw6QLhCICFdeQyJtjYKlPpxCYl8z3RZcYEex9a84vMyOXElc850gnp8n45gTB4DM7l2ATXxGDgGleHEuU/QWPgDvAzLWMNWUQGytl40OqT5/CeUzIbDj3UT0KJ0+whIVqLH1CMiN3/tgMABzNXWF52By4DWBQoIwTH7vzxW1mNEmykKdSJ4xRc/z0MDkQEyU2j0gTiFkeO3Aze4bwi1DYSgvbkX1gj9hrP9UefDcDXvizSI2YuOigVqxt6GqUOYs4gnff+QiCqYz3RPHoPVBNN04RGdcWJoC94BGle08WQVHEoN2IHPqpk+gfVcw0gdHNE34zVEZIz88CVH5Jefti07KhDZtxaeyd7jWa4CpCaw=;W6SrrhufRjCHd980qMNKNQ=="
+secured: "iDeNyvxERaTSppUyvqkNlAcDMJcdWSOHu0bSycUBiQHkBq4zmxWuE51/MSCPLIjolr6Eb5qvvjxgqFrZsG9wo+PjCv63cc5XejoQAp1sr0rpude7AIvFZcQGWhhTude9/j+GYi+h7aKC6w7iS9z4kDiybL+BDHc2zv2pm0A88mij7dV8Q2H/m0rIDu5cayL3WlExMoDNf/WxWfLyjqmiKW/OarWIH+zqXkmzFUlhfOK9D3Y96AatCzWIRlQanCMVzZBz+gaRT1dumRDq0qc6Cvj3K+PxWTE+GHDax515ozP0vbQ1I0SZeFlGfN3jUhKdQ/7KVdhC4koIC38gpvvGakwRni3WEO4RHak4tqKRPRvRRU9D3qeJUZCJixyefcNd1nc9Ygl4Pp+c+If/mFHNJMeiH+AjAlZOJDyHu6wJo+ubeQWjFpuDKgikvBReeKCsgCqWQT0v6Fj6p/z4DDbLgUmq1WkBMSgv/kfsR+gbOc5DtykcgX8lrAmxkiPdcH/pK4tnlaKAuyF0ojmAT9liuQ==;/Lw4o5LdSYsGXCQkM0PnZA=="
 ---
 

@@ -19,6 +19,7 @@ topics:
   - AI
   - AI Ethics
   - AI Hardware
+  - AI in Healthcare
 
 secured: "+u6faBjA1Od1ivg8Ax5Kx4A1cnXIB+7pMablSoD8RkmRvITgR/tueuF9PRmaVBav8NKoZL6ty+dnc8XoxNsXwpLOopVIvteLcHGPUl/nO802hWTcWEG//mxBMM+gkobMrDa1XDdGq+wUqQqUQtFpWPrZ47cB5FLTqH4djEdy3B6rwdvUd3ADe7WGbEJyU2x3cOBKGTilV8uUsYR1B6BvuWaJszSoGab6GqgPR2jpequkHG2oB7qeNfbq/NwCKdIOBfKNHVWcp+8suZX7MAAsA83uh3MgiL1NIOkxhC+Zz5Okg2iMHJwXGJVQSPUpYm7rSoDH/spy2rUm8J+n2dWJVxsVvB/aUr7ulQSlZoy1XfBwWe6ZERby4dHhmjCo4Rqi+JpvJPCAA1ulZfvNOdZxwDXorI4RpEnoGS9y5yfkldt7xhG0Qct8gE3hkZ6FZICRDs2StG3klutgkEBNuM2Ey9IgF4LhGLT4vem//iVJfMO0ExC1ZyZZjqfgdZYcjCJUXxGsZdYGtRmOo1pXdZo3Iw==;o/BuSpifHab/KRVsVkEozQ=="
 ---
