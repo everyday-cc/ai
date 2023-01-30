@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T14:25:00Z
 originalUrl: "https://www.thenation.com/article/world/the-pentagons-quest-for-academic-intelligence-ai/"
 webUrl: "https://www.thenation.com/article/world/the-pentagons-quest-for-academic-intelligence-ai/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: The Nation

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Deci Delivers Breakthrough Inference Performance on Intel’s 4th Gen Sapphire Rapids CPU"
-    excerpt: "Deci, today announced a breakthrough performance on Intel’s newly released 4th Gen Intel Xeon Scalable processors,"
-    publishedDateTime: 2023-01-25T19:05:00Z
-    webUrl: "https://www.datanami.com/this-just-in/deci-delivers-breakthrough-inference-performance-on-intels-4th-gen-sapphire-rapids-cpu/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 18
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/01/deci-intel-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "uX9E/IBrjjfhDq2pKEfSYa0zJtazhcbfkmEvK//eS7Xvx7lDYvJmfUefWdifPNVYycicyXYvqIRjWPx1FPfkdZCt2tyPPikBbY354p4IBLB/R25NLQewn/wUyjbu6Tshy+3B4o/rGSFACdL8k53TWDzzdPZ/zMHV7pZGHi+VVxyCfbmJvym1MchTmYQwm9iY3M3goGeO7hpWglTtDB1CCC3ZHeSZUC0Uly3wLnQqGrDHctq2V75xKkUlc3NL2Pc92Fp0hPnvwTvaBp3bNS/GIbmqRQ3U8dpC6YPgTfCeQ5/sHyZMRa0yI3suecTx1roaAEdUfkLV9i2NCTGIVaZHYcqXlmWZPf1lluFmdtCghTJ9XD8F+Gqh9qiKNaS8YxTkj5EKoLloXKoCZwHGs8LNn4TFGyOP5mGwS4vRCwYntxuAIZlc/az7VuwYCvrayHRJnR4ucDukd7+1dJNURpjqjQ7zRFuUEre6xB+aVBN9ATwbnUJNbxHBzeW4m8k8/EkvFfhrF0FCypjckwpF4AbNZg==;TddlIVT0Rokt6dUXFVc+0w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T11:40:00Z
 originalUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/01/30/cone-health-gradient-health-medical-imaging-ai.html"
 webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/01/30/cone-health-gradient-health-medical-imaging-ai.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Business Journals

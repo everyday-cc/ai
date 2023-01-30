@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T14:30:00Z
 originalUrl: "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html"
 webUrl: "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: MLive

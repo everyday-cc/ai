@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T14:29:00Z
 originalUrl: "https://carbuzz.com/news/bmw-uses-artificial-intelligence-to-design-rugged-off-roader-renderings"
 webUrl: "https://carbuzz.com/news/bmw-uses-artificial-intelligence-to-design-rugged-off-roader-renderings"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: https//carbuzz

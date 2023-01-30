@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T14:49:00Z
 originalUrl: "https://www.chemistryworld.com/news/ai-model-accurately-classifies-reaction-mechanisms/4016870.article"
 webUrl: "https://www.chemistryworld.com/news/ai-model-accurately-classifies-reaction-mechanisms/4016870.article"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Chemistry World

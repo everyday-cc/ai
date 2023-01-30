@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T10:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/30/how-to-address-customer-churn-with-ai-driven-data-analysis/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/30/how-to-address-customer-churn-with-ai-driven-data-analysis/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-26T16:44:00Z
 originalUrl: "https://www.businessinsider.com/big-tech-a-writer-used-ai-to-plagarize-2023-1"
 webUrl: "https://www.businessinsider.com/big-tech-a-writer-used-ai-to-plagarize-2023-1"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:

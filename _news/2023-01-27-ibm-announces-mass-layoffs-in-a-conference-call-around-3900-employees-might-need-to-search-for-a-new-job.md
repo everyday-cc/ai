@@ -27,101 +27,68 @@ images:
     isCached: true
 
 related:
-  - title: "IBM posts biggest annual sales increase in more than a decade, announces 3,900 layoffs"
-    excerpt: "Chief Executive Arvind Krishna said on IBM’s IBM, -4.48% earnings call that the company saw “revenue growth across segments and geographies,” and attributed that to the strength of the company’s hybrid cloud and artificial-intelligence strategy."
-    publishedDateTime: 2023-01-26T00:00:00Z
-    webUrl: "https://www.marketwatch.com/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-posts-biggest-annual-sales-increase-in-more-than-a-decade-announces-layoffs-11674682960"
+  - title: "Tech job bloodbath comes to IBM, CFO links layoffs to Kyndryl, Watson Health"
+    excerpt: "IBM is the latest tech company to jump on the layoff bandwagon, with news it would reduce its workforce by around 3,900. IBM chief financial officer James Kavanaugh first confirmed the layoffs to Bloomberg,"
+    publishedDateTime: 2023-01-26T12:44:00Z
+    webUrl: "https://www.theregister.com/2023/01/26/ibm_job_cuts/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/01/26/ibm_job_cuts/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/26/ibm_job_cuts/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: theregister
+      domain: theregister.com
+    quality: 56
     images:
-      - url: "https://images.mktw.net/im-639870/social"
-        width: 1280
-        height: 640
+      - url: "https://regmedia.co.uk/2017/07/06/layoffs_shuterstock.jpg"
+        width: 648
+        height: 432
         isCached: true
-  - title: "IBM cuts 3,900 jobs, misses annual cash target"
-    excerpt: "The layoffs - related to the spinoff of its Kyndryl (KD.N) business and a part of AI unit Watson Health - will cause a $300 million charge in the January-March period, IBM said. Shares of the ..."
-    publishedDateTime: 2023-01-26T00:07:00Z
-    webUrl: "https://www.reuters.com/technology/ibm-reports-highest-annual-revenue-growth-decade-2023-01-25/"
+  - title: "IBM to cut 3,900 jobs; layoffs tied to spin-off Kyndryl"
+    excerpt: "Amid the wave of layoffs in the IT sector, another tech giant has announced plans to cut jobs. The International Business Machines (IBM) has said it would cut about 3,900 jobs, the Wall Street Journal reported."
+    publishedDateTime: 2023-01-26T05:52:00Z
+    webUrl: "https://www.theweek.in/news/biz-tech/2023/01/26/ibm-to-cut-3900-jobs-layoffs-tied-to-spin-off-kyndryl.html"
+    ampWebUrl: "https://www.theweek.in/news/biz-tech/2023/01/26/ibm-to-cut-3900-jobs-layoffs-tied-to-spin-off-kyndryl.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/01/26/ibm-to-cut-3900-jobs-layoffs-tied-to-spin-off-kyndryl.amp.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: The Week
+      domain: theweek.in
+    quality: 44
     images:
-      - url: "https://www.reuters.com/resizer/FjOhONjPelMPMz2G2iwePY3qi3I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUAIZHXW2FJZNPWCWUMZXNFFKY.jpg"
+      - url: "https://www.theweek.in/content/dam/week/news/2020/images/2022/7/2/IBM-logo-logo-IBM-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
+  - title: "IBM to lay off employees amid tech jobs bloodbath"
+    excerpt: "The retrenchments impact workers remaining after the Kyndryl and Watson Health spinoffs, and will cost $300 million."
+    publishedDateTime: 2023-01-26T09:27:00Z
+    webUrl: "https://www.itweb.co.za/content/lwrKxv3Y3x2Mmg1o"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/01/Arvind-Krishna-2023.jpg"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "IBM cuts 3,900 jobs as it misses annual cash target"
-    excerpt: "IBM last night announced 3,900 layoffs as part of some asset divestments and missed its annual cash target, dampening cheer around beating revenue expectations in the fourth quarter."
-    publishedDateTime: 2023-01-26T06:42:00Z
-    webUrl: "https://www.rte.ie/news/business/2023/0126/1351909-ibm-to-cut-almost-4-000-jobs/"
+  - title: "IBM and SAP to cut thousands of jobs in latest tech sector layoffs"
+    excerpt: "IBM on Wednesday announced 3,900 layoffs as part of some asset divestments. Chief financial officer James Kavanaugh told Reuters that the company was still \"committed to hiring for client-facing research and development\"."
+    publishedDateTime: 2023-01-26T09:44:00Z
+    webUrl: "https://www.breakingnews.ie/business/ibm-and-sap-to-cut-thousands-of-jobs-in-latest-tech-sector-layoffs-1424153.html"
     type: article
     provider:
-      name: RTE Online
-      domain: www.rte.ie
+      name: BreakingNews.ie
+      domain: breakingnews.ie
     quality: 24
     images:
-      - url: "https://img.rasset.ie/001501ca-1600.jpg"
-        width: 1600
-        height: 899
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDFcXFwvMjYwOTQyNTJcXFwvR2V0dHlJbWFnZXMtMTEzMjI3NzcwNy1lMTY3NDcyNjI0NDExNC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY5YWExOGMyMGM0ZjU2MjU3NzkzYmRhMDc5NGMxY2M2NTdlZGM2ZjQifQ==/ibm-and-sap-to-cut-thousands-of-jobs-in-latest-tech-sector-layoffs.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "IBM slashes 3,900 roles, SAP chops 3,000"
-    excerpt: "The company announced the move on Wednesday, stating that it would cut 3,900 jobs, or 1.5% of its worldwide workforce, as part of asset divestment. IBM chief financial officer James Kavanaugh said the layoffs are related to the previously announced spinoff and sale of Kyndryl,"
-    publishedDateTime: 2023-01-26T10:26:00Z
-    webUrl: "https://www.computing.co.uk/news/4066156/ibm-slashes-900-roles-sap-chops"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 24
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/761d442/e1928f0b-a251-4880-a97c-6139061eb2ab/14/IBM-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "Layoffs in tech industry continues as IBM cuts 3,900 jobs"
-    excerpt: "Despite the planned layoffs, which would impact 1.5% of its workforce, IBM still plans on hiring more within \"higher growth areas\"."
-    publishedDateTime: 2023-01-26T05:16:00Z
-    webUrl: "https://techwireasia.com/2023/01/layoffs-in-tech-industry-continues-as-ibm-cuts-3900-jobs/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 24
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/10/shutterstock_1164885235-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
-  - title: "IBM fires 3,900 employees after missing annual targets"
-    excerpt: "IBM's 2022 cash flow was $9.3 billion, below its target, due to higher-than-expected working capital needs. IBM fires 3,900 employees after missing annual targets. . Business."
-    publishedDateTime: 2023-01-27T04:30:00Z
-    webUrl: "https://www.itp.net/business/ibm-fires-3900-employees-after-missing-annual-targets"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 24
-    images:
-      - url: "https://www.itp.net/cloud/2023/01/27/IBM-scaled.jpeg"
-        width: 1920
-        height: 1275
-        isCached: true
-  - title: "IBM announces 3,900 job cuts as cash generation disappoints"
-    excerpt: "International Business Machines Corp (IBM) has announced plans to cut around 1.5% of its workforce after missing cash flow targets by close to US$1bln."
-    publishedDateTime: 2023-01-26T12:13:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/1004433/ibm-announces-3-900-job-cuts-as-cash-generation-disappoints-1004433.html"
-    type: article
-    provider:
-      name: Proactive Investors
-      domain: proactiveinvestors.co.uk
-    quality: 4
 
 secured: "xTmjWlSuyUyGocBL3IOE+7X5bm/lB/ydDAfJEbhJmbwYdU7igFMNXt+6Tg2EQN06ze/lGBvfajgqzpxb+f6WAQ7ieqDHTQPVdpNa5+rc3o+KVxuXOVZVD2xWxOWrQJ5We7amUMKYIap3NRVhB7//lx+GhxIrPXt9KaR9+HAG89opjdQPm/4ByO5FMnIJ/ZGur/8ECmec5omCYo+CLYN/mZpbwCV6cf5XGabIIpzxck9cohIP2d7TPvSXJvaoNoRWR9I474H2pUvc1aSyvj7gEjPA+tIE/4gjEmiNJFJBErCA7JeBJ2u0UeukEPRJRADHNJyG71iqz15i4w812Emi51JJA8IEEdEAvz2pfUh0nv0=;c0W2++LcM79Ij+pNZHqzKA=="
 ---

@@ -29,80 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- Artificial Intelligence and Robotics in Aerospace and Defense Market Size is projected to Reach Multimillion USD by 2029, In comparison to ..."
-    publishedDateTime: 2023-01-25T19:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25"
+  - title: "Face Recognition Software Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "The Global Face Recognition Software market Report provides Detailed analysis on the market position of the Face Recognition Software Top players with stastical data, SWOT analysis, PESTAL analysis, latest developments across the globe."
+    publishedDateTime: 2023-01-28T09:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Machines Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-    excerpt: "Artificial Intelligence Machines Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-29T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-29"
+  - title: "Face Recognition Device Market Outlook 2023 to 2029 Top Players - Cloudwalk, Dahua Technology, Aurora, Insigma Group"
+    excerpt: "MarketsandResearch.biz has reported that a thorough study on Global Face Recognition Device Market 2023 to 2029"
+    publishedDateTime: 2023-01-30T01:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-outlook-2023-to-2029-top-players---cloudwalk-dahua-technology-aurora-insigma-group-2023-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data and AI Ethics Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-27T00:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-  - title: "Medical Artificial Intelligence Market 2023 Analysis by Market Dynamics, Industry Trends, Drivers, Challenges, Restraints and Outlook to 2027"
-    excerpt: "Jan 27, 2023 (The Expresswire) -- Global “Medical Artificial Intelligence Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
-    publishedDateTime: 2023-01-27T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-2023-analysis-by-market-dynamics-industry-trends-drivers-challenges-restraints-and-outlook-to-2027-2023-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Communication Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
-    publishedDateTime: 2023-01-27T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2028-2023-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Automotive"
-    publishedDateTime: 2023-01-30T03:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -136,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
+    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
+    publishedDateTime: 2023-01-30T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
   - title: "Face Recognition Device Market (New Research Insights) Dominated Regions 2023: Upcoming Demand, Global Size and Share Forecast to 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 26, 2023 (The Expresswire) -- “Face Recognition Device Market” [122 Pages] report provides precise and strategic analysis of market historic, present and future ..."
     publishedDateTime: 2023-01-26T18:47:00Z
@@ -145,15 +103,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
-  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
-    publishedDateTime: 2023-01-27T19:46:00Z
-    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "5ZDfBHanc75MR8VdqxaGtDtxtUheBBExPIGmjMcNR5VrERXee6d48ihqYioETu73MTjyEaW1gVWbnhKeWGzXvz3FXx3KybXXdc40M/47Q1HrIWjPBiYoBKP6gdWUbPU6IYfYVrfG1bA30a3FykI2qznMSO/WzYTVcog9ctqSm+rNIUb4HXGl9xLWKrxcjXnOAAN/Ujn9kPL8x1tqPGEJU1G0E+Z3Ri5a2xo/qlMrhawSPyc5krJAyEQOebnpR5GeFsYB34pyQswxhDc/qpWhKOXn2C+bsHCjJZkhJY+Qggwq6QLKNqBw3dCEbxDiLeV3fx139T6BKHNykdk/dcVmF/+QLG2AqMD/zRW5PorR2i0=;BGfyekG80sJZ3tmxeUvJxw=="
 ---

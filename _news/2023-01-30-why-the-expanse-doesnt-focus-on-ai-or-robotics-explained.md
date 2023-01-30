@@ -41,6 +41,15 @@ related:
         width: 1123
         height: 748
         isCached: true
+  - title: "Subsea Robotics: Aquanauts, Hydronauts, Roll Out"
+    excerpt: "It now has three of its second-generation Aquanauts in build in Vancouver, which will be used on trials in the Gulf of Mexico and offshore Norway, and two Hydronaut uncrewed surface vessels (USVs), which will act as launch and recovery systems and surface gateways to Aquanauts,"
+    publishedDateTime: 2023-01-30T14:18:00Z
+    webUrl: "https://www.oedigital.com/news/502542-subsea-robotics-aquanauts-hydronauts-roll-out"
+    type: article
+    provider:
+      name: oedigital.com
+      domain: oedigital.com
+    quality: 34
 
 secured: "aaTcDQpgjXo2Fd45QguiC5Pn0WfX2HXk74TG5Smx0lbw6VfBvUN9lwz3csg9noLLb0geP8fO6s20Usm0qGf1P7LVvBVgGqAIscQr2zF4lR/Ace37yg9mrusHK86wSx/IkCsfJNQO8WE4SlV6catRSTYytWXVqf4+2gLlGLSpW9iDhkqQtBwRILug1wI1/h4WgG/u3RsmKblaXk1MEqqXEjtFSQrUkBdMIIfPnIgZQPkSzdUgmq0X0E+8EhzjK2QR8S8KG7yxXBR0mVsYFILVJfgIW7+Qh3nxGUkp2EDnTFg/XLTyo5BhslP1bJBufL6sOJzvq3SD7+CUvkNqPIxk+JH1mWM5C/jEKJpvDDSgqLg3NAB6PVN9/F8ZsR+NNRTluk4T9U/BQodgx6LkPdsySeGEpxZHvmPXLAsuBpMZKmlttgkKUh9mblBPHYYeC2X9XkBbFDiCter9c14ARkcOub1nuy3Q0yxxFT4ifBNLaeWrAAUPDGn4jASO40onzmf8GSrMdFdMVXYuzDNNmigC0A==;xaCTboeMwRafdcbSotxr+w=="
 ---

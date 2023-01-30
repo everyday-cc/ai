@@ -228,24 +228,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ford Beats GM And Tesla For Best Active Driving Assistance System"
-    excerpt: "These systems take advantage of the array of sensors that are present on many modern cars. Tesla's Autopilot and Full Self-Driving features recently came under fire after the system's capabilities were reportedly exaggerated in a demo video from 2016."
-    publishedDateTime: 2023-01-25T19:35:00Z
-    webUrl: "https://www.slashgear.com/1178519/ford-beats-gm-and-tesla-for-best-active-driving-assistance-system/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
-  - title: "Consumer Reports calls Ford’s automated driving tech much better than Tesla’s"
-    excerpt: "Tesla's Autopilot, which at its core combines lane keeping assist with traffic aware cruise control to help guide a car down a highway, was once groundbreaking technology."
-    publishedDateTime: 2023-01-25T19:54:00Z
-    webUrl: "https://www.cnn.com/2023/01/25/business/consumer-reports-ford-bluecruise-tesla"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 46
   - title: "California Might Allow Self-Driving Semi-Trucks on Roads"
     excerpt: "Following years of pleadings from the autonomous vehicle industry, California officials are revisiting a statewide policy that prohibits self-driving semi-trucks and big rigs on its roads."
     publishedDateTime: 2023-01-27T17:16:00Z
@@ -262,19 +244,19 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "The future of testing self-driving cars"
-    excerpt: "UD Prof. Andreas Malikopoulos' 'Scaled Smart City' bridges the gap between driving simulations and real-world tests"
-    publishedDateTime: 2023-01-25T23:24:00Z
-    webUrl: "https://www.udel.edu/udaily/2023/january/self-driving-cars-automated-vehicles-andreas-malikopoulos-algorithms-transportation-equity/"
+  - title: "Tesla Cybertruck Gets New Self-Driving Computer That Might Not Be Retrofit to Other EVs"
+    excerpt: "Tesla is getting ready to roll out the next version of its Full Self-Driving (FSD) computer to its line of passenger vehicles. The first of which, according to Musk's commentary during the company ..."
+    publishedDateTime: 2023-01-27T03:46:00Z
+    webUrl: "https://www.thedrive.com/news/tesla-cybertruck-gets-new-self-driving-computer-that-might-not-be-retrofit-to-other-evs"
     type: article
     provider:
-      name: University of Delaware
-      domain: udel.edu
-    quality: 24
+      name: The Drive
+      domain: thedrive.com
+    quality: 31
     images:
-      - url: "https://www.udel.edu/content/dam/udelImages/udaily/2023/January/fb-AMalikopoulos-scaled-smart-city_800x420.jpg"
-        width: 800
-        height: 420
+      - url: "https://www.thedrive.com/uploads/2023/01/26/20230126-Elon-Musk-HW4.0.jpg?auto=webp"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Beyond the hype and crash investigations: What it’s like to drive with Tesla’s ‘Full Self-Driving’ feature"
     excerpt: "In most cases, the car drove well, avoided construction cones, and made right- and left-hand turns confidently"
@@ -290,15 +272,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Tesla's Autopilot system tumbles in self-driving safety ratings"
-    excerpt: "Autopilot had once been regarded by the Consumer Reports team as one of the best systems in class, ranking second in the same study last year. It wasn’t as fortunate this year, with the firm ranking it a mere seventh on the list."
-    publishedDateTime: 2023-01-25T19:35:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/131067368/teslas-autopilot-system-tumbles-in-selfdriving-safety-ratings"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 19
 
 secured: "QdkJkZ9eMcIgbq1aiJQVRR4/QwGnW1yVnRCCpNLTz4EKz8QtOFGSe3D/fHv9ljw143SprtYVVSaG8O2dyGRWiaw4Rn+mx6v62EdTDw3YDVDOTib489du1g63G13I33kMJWWGS5CVV9kXrCBfBAQbLxrGZ0qW950XhzhB7nCGcQLl4f1RDIsXu6VEKTLCpq6N561kulX6BTrsjpiZPiDg58m4WKai8xQZcNi/HRj6dEHnzFwAMS0LzX1sw4zrM4STWNa/u/K0RZJo3dri+DKdhW3OiU2Aq6Ntp1AxCiubiKHkJzZ1b3cFbrnvtoiczBSxpd5hXKFboklCWG5FIKurGpyF77EV9nUb0XjkuC7FHa4=;tJe3FfDIfddCWEcsRNxt1g=="
 ---

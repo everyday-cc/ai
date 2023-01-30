@@ -3,8 +3,8 @@ category: news
 title: "A robot was scheduled to argue in court, then came the jail threats"
 excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
 publishedDateTime: 2023-01-27T00:30:00Z
-originalUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
-webUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+originalUrl: "https://www.wlrn.org/technology/2023-01-26/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+webUrl: "https://www.wlrn.org/technology/2023-01-26/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
 ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
 cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
 type: article
@@ -136,7 +136,16 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
+  - title: "Tech CEO nixes AI lawyer stunt after being threatened with jail time"
+    excerpt: "Browder runs a consumer rights startup that was originally built to help people appeal parking tickets more easily, and has since grown with the aim of building \"the world's first robot lawyer.\" He wanted to show AI could replace expensive human lawyers,"
+    publishedDateTime: 2023-01-30T11:39:00Z
+    webUrl: "https://www.theregister.com/2023/01/30/ai_in_brief/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 19
 
-secured: "gJyW44om8g/Qpo1tZ3RZzk1CkgSJbiNxFRkScwndm4bIbX92tJ7l/e85PvCC8m1DU7SA8vvA2sKX03wjyWxS769jqxfYwe2iurhNUpF2BruY3J73ff7cB6wn325LmcnUrMpJF36yy/Bf+NMhLBM+A34F7zwb6q5W+EFSLoO4UiNALdRqhw8AEq3aQTwqWjmkrFxiuIjugu8YORyG5xJOIi1Ch8SPzmgQX/jLrUuYDl0tZ7JU4+V98iVxVqnIKNhIfDPWZMXTuPJzKTYXSN3xrPPxxReM22eXnuAlhVmg7atIhhpSz0mLlkNTwZ8QLHtr27GxM993CFDqhovTviAkuQyeuJYxddk1Y3AyNWSL90BB2ImSG+bGg6mHfV0lWXJ8oEA+0VzgGiXpIx7SACJ0TT5P5fId45VMT6pH3O6eQUhhQMdBcbquUzcyPs35nGFGRe1knoMza4VUAFBv0QmxRcDaFvqivfRsgls7o0Qvf+kRul+iKsDROArNlg8wYhvge09zefI3FTtFWPTkYJDJAw==;wfYWOgb9BMj7bn36ch1zPg=="
+secured: "o3ARuxYFgYWqxuWnrKdm7z1kW0N4fvqCW3YsWhXXP8ruPX5ZYpWpXQyg1ZXCcDNBre2aLWbBkqmJ7oT9dZq0nu9eaMR9KZKNPplc1JgGU4ER+YkFoG19yJPSo+2KPjT8b4xNxQUv21G1JuabGq6dq/y5azoecTsKDbshm9GXWvIDyBb0fi5+AM6MyZftQtBk6gG8qACLxQt+yixYF62V8r3jK3MxOQy6fP+/h/M9P0FGoPtAuEruc/Z+mQbDd9luNaP+6NR55eHhHrvrNyF4Wb3XRLjPFJ2S+OCRM4HqGgbEFyB65PhwI96aeR6Sj0xgS2FPMKJ6HaPf8o3J3sDRXPiwFu+he0FWHWMyNtOq+r8=;7fWBFlqmoyOhzjIt+fiItw=="
 ---
 

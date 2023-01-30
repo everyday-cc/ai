@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T11:35:00Z
 originalUrl: "https://www.cio.com/article/420300/aws-launches-data-lab-program-in-india.html"
 webUrl: "https://www.cio.com/article/420300/aws-launches-data-lab-program-in-india.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CIO

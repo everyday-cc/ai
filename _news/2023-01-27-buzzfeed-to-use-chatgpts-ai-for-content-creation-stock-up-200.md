@@ -78,6 +78,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Who will compete with ChatGPT? Meet the contenders | The AI Beat"
+    excerpt: "ChatGPT turns two years old today. But competitors are hot on its heels. Meet the contenders for the chatbot crown."
+    publishedDateTime: 2023-01-30T16:23:00Z
+    webUrl: "https://venturebeat.com/ai/who-will-compete-with-chatgpt-meet-the-contenders-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/who-will-compete-with-chatgpt-meet-the-contenders-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/who-will-compete-with-chatgpt-meet-the-contenders-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/pexels-mikhail-nilov-6739946.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pivot to ChatGPT? BuzzFeed preps for AI-written content while CNET fumbles"
     excerpt: "On Thursday, an internal memo obtained by The Wall Street Journal revealed that BuzzFeed is planning to use ChatGPT-style text synthesis technology from OpenAI to create individualized quizzes and potentially other content in the future."
     publishedDateTime: 2023-01-27T18:09:00Z
@@ -110,6 +126,22 @@ related:
         width: 907
         height: 605
         isCached: true
+  - title: "ChatGPT's soaring popularity has added $5 billion to the wealth of Nvidia's founder as Wall Street bets on AI boom for the chipmaker"
+    excerpt: "Nvidia's role as a dominant player in the chip-making space has made it an attractive bet as Wall Street looks to ride the AI trend. After starting initially with graphics chips used in video games, the company is now involved in making chips for AI ..."
+    publishedDateTime: 2023-01-30T16:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/5fb6da9232f2170011f7027f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
     excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
     publishedDateTime: 2023-01-27T21:06:00Z
@@ -126,6 +158,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
+    excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
+    publishedDateTime: 2023-01-30T15:05:00Z
+    webUrl: "https://www.wsj.com/articles/baidu-is-developing-its-own-chatgpt-aiming-to-integrate-it-into-search-11675065601?mod=Searchresults_pos1&page=1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-712805/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
     excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."
     publishedDateTime: 2023-01-26T14:13:00Z
@@ -135,6 +181,22 @@ related:
       name: Wired
       domain: wired.com
     quality: 66
+  - title: "ChatGPT — the ultimate AI innovation"
+    excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
+    publishedDateTime: 2023-01-30T15:27:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/chatgpt-the-ultimate-ai-innovation/article66451425.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/chatgpt-the-ultimate-ai-innovation/article66451425.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/chatgpt-the-ultimate-ai-innovation/article66451425.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/4xza53/article66451386.ece/alternates/FREE_1200/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
+        width: 1200
+        height: 580
+        isCached: true
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
     publishedDateTime: 2023-01-28T11:40:00Z
@@ -149,22 +211,6 @@ related:
     images:
       - url: "https://i.insider.com/63d43770fc18470019552b4d?width=1200&format=jpeg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Generative AI and ChatGPT – Is it the disruptor that the digital world needs?"
-    excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
-    publishedDateTime: 2023-01-28T11:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/01/Photo-Pradeep-Singh-Founder-and-CEO-of-Squirrel....jpg"
-        width: 857
         height: 600
         isCached: true
   - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
@@ -329,6 +375,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Mass. lawmakers seek rules for artificial intelligence"
+    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
+    publishedDateTime: 2023-01-30T08:00:00Z
+    webUrl: "https://www.dailyitem.com/news/mass-lawmakers-seek-rules-for-artificial-intelligence/article_ba75c1e8-4c1b-542a-8dc9-ede9a5c60463.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Google AI model to generate music from text could be bigger than ChatGPT"
     excerpt: "It’s called MusicLM, and according to AI scientist Keunwoo Choi ... To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text ..."
     publishedDateTime: 2023-01-27T23:22:00Z
@@ -380,15 +440,6 @@ related:
         width: 1440
         height: 720
         isCached: true
-  - title: "The CEO of the company behind AI chatbot ChatGPT says the worst-case scenario for artificial intelligence is 'lights out for all of us'"
-    excerpt: "Experts warn OpenAI's ChatGPT could be abused to scam people or spread misinformation. CEO Sam Altman fears the worst case for AI is much bleaker."
-    publishedDateTime: 2023-01-25T20:52:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-openai-ceo-worst-case-ai-lights-out-for-all-2023-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
   - title: "ChatGPT rivals Anthropic AI and Character AI reportedly chasing megabuck funding rounds"
     excerpt: "Artificial intelligence startups Anthropic AI and Character Technologies Inc. are reportedly closing on blockbuster funding rounds backed by a number of high-profile venture capital firms, according to reports this weekend."
     publishedDateTime: 2023-01-30T00:29:00Z
@@ -426,15 +477,15 @@ related:
       name: IET
       domain: theiet.org
     quality: 19
-  - title: "Generative AI and ChatGPT – Is it the disruptor in the digital world needs?"
-    excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
-    publishedDateTime: 2023-01-26T13:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-in-the-digital-world-needs/"
+  - title: "How Google’s Sparrow AI Tool Is Looking To Kill ChatGPT"
+    excerpt: "The new generation of language models used in Google's AI tool Sparrow is designed to provide improvements to all the"
+    publishedDateTime: 2023-01-30T12:00:00Z
+    webUrl: "https://www.techbooky.com/how-googles-sparrow-ai-tool-is-looking-to-kill-chatgpt/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 19
   - title: "Big Tech was moving cautiously on AI. Then came ChatGPT"
     excerpt: "Google, Facebook and Microsoft helped build the scaffolding of AI. Smaller companies are taking it to the masses, forcing Big Tech to react."
     publishedDateTime: 2023-01-27T16:28:00Z
@@ -453,6 +504,42 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 12
+  - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
+    excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
+    publishedDateTime: 2023-01-30T14:07:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 10
+  - title: "US Politician Has ChatGPT Write His Speech"
+    excerpt: "It can also be used for language translation by fine-tuning the model ... RELATED: Pokimane Shares Her Thoughts on AI Streamers On January 25th, Congressman Jake Auchincloss delivered a short ..."
+    publishedDateTime: 2023-01-26T14:51:00Z
+    webUrl: "https://gamerant.com/us-politician-chatgpt-write-speech/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 4
+  - title: "ChatGPT Privacy Threat is Real and We are Late"
+    excerpt: "Working with neural networks is such that it is almost impossible to set standards on how AI systems should be made and tested"
+    publishedDateTime: 2023-01-30T12:20:00Z
+    webUrl: "https://analyticsindiamag.com/chatgpt-privacy-threat-is-real-and-we-are-late/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
+  - title: "What’s the Antidote to ChatGPT?"
+    excerpt: "While ChatGPT’s superhuman capabilities have amazed the world, they have also stoked fear in the educational community about the chatbot’s misuse"
+    publishedDateTime: 2023-01-30T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/top-7-tools-for-detecting-ai-generated-content/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
 
 secured: "r5atM5+wbX+RJfpS+cQ4Twgu9LspOjn/yPsHsWLhNBVQTO1IDFk7JFsy8gPqmMMxTlR2NsZJzk6hGBsTjEkVdFehaR38wvPFlcpPUhvjYSam04Ig62EzadyePrJ0MekaC7IoRoS3wi1WYqn9rwIM/AxuKo71wQvYYmU9k6WTSLkxNF6AWF/dY440Oh3I7DORA5DNrWpmclIHjtmlXWncjyJ8fbJtb5Elfn6FFbzKpbXLjTC0iXxWNpP24r7zbguSoyMynSNbZcINJ6vnMJmJSrqQ7ZMYV+nplZ1K6JdqpIAEKofjJ2HspoiiV7dWzgeuOlnqEHdXTWn/d72D+nO+y55I0ZdJj0wWZ7hXEUcuaAwQPf5CqwFtitJTrO9DXDqxkxoFt65JgQdsxRBPuQ2eR50THMvUtMO4BLXt0y1CO+ONrrnasU6ru4gIgSHBCjB4xieK5Y3pTYlqmDbKYwPWUbH6VIie3DqnTCSEHbsW8yePwfGAfUiMq9n+xfraI2ezOQIrRQPdIgn091ATr1Kw/g==;vIFzebe/NdLsw1soB/kNNQ=="
 ---

@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI: No Humbug"
+    excerpt: "In 1845, dentist Horace Wells stood before Harvard medical students and faculty, eager to demonstrate the utility of nitrous oxide – laughing gas – as a general anesthetic. Wells tried it out on a patient who needed a tooth extraction."
+    publishedDateTime: 2023-01-30T14:44:00Z
+    webUrl: "https://www.aei.org/op-eds/generative-ai-no-humbug/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "6Q7iwragY0zhVEQcC6swLYFF/0l1QwL0apOLpHecfx15oqJjL8nHuMzKYTrN2EXP0FMXKm7891PhrALIB2GS0uPMKjUECwMx//aFtsmP7DCC/b8uMf/PVwUKQGtTOoK1n25TwerzsGP2g25l5Sj2Qx6wRN1070eQkzOtxE7fZfwRG3F4n9/ASyU+0JFjqYS9Ycw8kRJey+Tp3oAv/HEPdCa9vnDSgQKl0+BT/PbaBgs3To/t2HoexvlgpRGQUqegtYaCCKQIrFH8EV0Ip4ZgEbs7TE7XE7zCZYfkGKEL17IzPd5WmHMK544jcj8Rs878p0GDzRzqJaSFnAsvUCI2JWdRJ5JPEoKHMcWGOBTeFYPaf9QmClO4FfA1FQH8jND+yvEirFHElAhwMSks5RpOZEonc0MUd/QbgkKJR3+wm484o+Ny0ZhAIatX8fPMwTEgdZdryM9CJqKXKt3SpGj3jlWCrWm88zYUeYd4JfE1TcSJ11PoPhbtvfFjV/k7GTS9nBvsybmRYDXZ9cDbsFZlQg==;2SV2sCUNcB/E7YTdPEQFOQ=="
 ---

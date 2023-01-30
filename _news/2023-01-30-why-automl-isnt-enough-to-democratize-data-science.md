@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T14:00:00Z
 originalUrl: "https://insidebigdata.com/2023/01/30/why-automl-isnt-enough-to-democratize-data-science/"
 webUrl: "https://insidebigdata.com/2023/01/30/why-automl-isnt-enough-to-democratize-data-science/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: insidebigdata.com

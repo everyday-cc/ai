@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T14:22:00Z
 originalUrl: "https://www.moneycontrol.com/news/technology/top-ai-trends-you-should-watch-for-in-2023-9965521.html"
 webUrl: "https://www.moneycontrol.com/news/technology/top-ai-trends-you-should-watch-for-in-2023-9965521.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: moneycontrol.com

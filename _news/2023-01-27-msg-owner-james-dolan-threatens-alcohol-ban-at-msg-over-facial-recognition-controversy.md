@@ -83,6 +83,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Letitia James wants to know about MSG’s facial recognition tech after lawyers banned"
+    excerpt: "Madison Square Garden has reportedly begun using facial recognition technology to identify and deny entry to its events and the State’s Attorney General Letitia James has questions. The issue began when MSG allegedly used facial recognition technology to identify and deny entry to a group of lawyers who are affiliated with law firms that represent"
+    publishedDateTime: 2023-01-30T16:00:00Z
+    webUrl: "https://brooklyneagle.com/articles/2023/01/30/letitia-james-wants-to-know-about-msgs-facial-recognition-tech-after-lawyers-banned/"
+    type: article
+    provider:
+      name: Brooklyn Daily Eagle
+      domain: brooklyneagle.com
+    quality: 32
+    images:
+      - url: "https://brooklyneagle.com/wp-content/uploads/2023/01/MSG-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "New York’s Attorney General Investigates MSG’s Use of Facial Recognition to Ban Lawyers"
     excerpt: "NY AG Letitia James wants answers from Madison Square Garden over its use of facial recognition technology to bar entry for lawyers involved in litigation against the company."
     publishedDateTime: 2023-01-26T17:17:00Z

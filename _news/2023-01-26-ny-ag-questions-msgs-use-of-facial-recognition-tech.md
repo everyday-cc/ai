@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Madison Square Garden CEO doubles down on use of facial recognition tech"
+    excerpt: "The chief executive of the Madison Square Garden Entertainment Corporation has doubled down on using facial recognition at its venues to bar lawyers suing the group from attending events. Speaking ..."
+    publishedDateTime: 2023-01-26T19:56:00Z
+    webUrl: "https://www.cnn.com/2023/01/26/tech/msg-ceo-facial-recognition/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/01/26/tech/msg-ceo-facial-recognition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/26/tech/msg-ceo-facial-recognition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 88
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230126113242-madison-square-garden-1205-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Madison Square Garden CEO Defends Use of Facial Recognition Tech"
     excerpt: "In an interview on Fox 5’s 'Good Day New York' this week CEO James Dolan said: 'If you’re suing us, we’re just asking of you—please don’t come until you’re done with your argument with us.'"
     publishedDateTime: 2023-01-29T20:28:00Z
@@ -88,6 +104,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "MSG probed over use of facial recognition to eject lawyers from show venues"
+    excerpt: "The operator of Madison Square Garden and Radio City Music Hall is being probed by New York's attorney general over the company's use of facial recognition technology to identify and exclude lawyers from events."
+    publishedDateTime: 2023-01-26T20:03:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/01/msg-probed-over-use-of-facial-recognition-to-eject-lawyers-from-show-venues/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Madison Square Garden facial recognition tech, used to ban people, ignites political firestorm"
     excerpt: "Madison Square Garden’s use of facial recognition technology to bar unwanted fans has prompted an outcry from people fearing that New York is turning into the Gotham of a 2008 Batman film in which the superhero had access to a mass visual surveillance ..."
     publishedDateTime: 2023-01-27T20:03:00Z
@@ -104,6 +129,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Everything We Know About the Facial Recognition Scandal at Madison Square Garden"
+    excerpt: "MSG Entertainment is using facial recognition to identify, accost, and remove attorneys involved in lawsuits against it. It's doubling down on doing it."
+    publishedDateTime: 2023-01-30T11:00:00Z
+    webUrl: "https://gizmodo.com/madison-square-garden-facial-recognition-what-we-know-1850041475"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 44
   - title: "MSG may stop booze sales over facial recognition: CEO"
     excerpt: "James Dolan, the owner of th Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing his use of facial recognition technology at venues including MSG."
     publishedDateTime: 2023-01-27T14:53:00Z
@@ -136,29 +170,20 @@ related:
         width: 1240
         height: 766
         isCached: true
-  - title: "New York Attorney General Questions Madison Square Garden Entertainment Over Facial Recognition Technology Use"
-    excerpt: "The state’s top lawyer is requesting details after reports the software has been used to ban attorneys involved in lawsuits against the company from its venues."
-    publishedDateTime: 2023-01-25T21:23:00Z
-    webUrl: "https://www.billboard.com/pro/new-york-ag-questions-madison-square-garden-facial-recognition/"
+  - title: "Welcome to high-class Manhattan, facial recognition. This will be interesting"
+    excerpt: "New York Attorney General Letitia James is asking for answers from James Dolan, CEO of Madison Square Garden Entertainment, the man at the heart of controversy."
+    publishedDateTime: 2023-01-26T23:36:00Z
+    webUrl: "https://www.biometricupdate.com/202301/welcome-to-high-class-manhattan-facial-recognition-this-will-be-interesting"
     type: article
     provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 34
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://www.billboard.com/wp-content/uploads/2023/01/madison-square-garden-exterior-billboard-pro-1260.jpg?w=1024"
-        width: 1024
-        height: 575
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/26183203/facial-recognition-close-crowd-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Madison Square Garden owner faces probe over facial recognition blacklisting"
-    excerpt: "Gregory Varallo, a lawyer in that case, told the court that MSG “used facial recognition software to come in and scrape all the web pages of all the firms involved and then used that facial recognition software at the Garden and other venues”."
-    publishedDateTime: 2023-01-25T19:24:00Z
-    webUrl: "https://www.ft.com/content/57a16cc9-26ec-4024-8981-56eb05a0eec6"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 16
   - title: "Madison Square Garden uses face recognition to keep out enemy lawyers. That may be illegal."
     excerpt: "based on facial-recognition technology with known flaws, would have a chilling effect on speech and Americans' access to public spaces. \"Who will actually go to court against the country's largest ..."
     publishedDateTime: 2023-01-26T22:58:00Z

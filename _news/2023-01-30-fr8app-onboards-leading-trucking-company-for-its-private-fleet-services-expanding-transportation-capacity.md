@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:59:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/01/g30621897/fr8app-onboards-leading-trucking-company-for-its-private-fleet-services-expanding-transportation-c"
 webUrl: "https://www.benzinga.com/pressreleases/23/01/g30621897/fr8app-onboards-leading-trucking-company-for-its-private-fleet-services-expanding-transportation-c"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:06:00Z
 originalUrl: "https://www.cioapplications.com/news/new-forecasts-on-saas-software-trends-for-2023-nid-10464.html"
 webUrl: "https://www.cioapplications.com/news/new-forecasts-on-saas-software-trends-for-2023-nid-10464.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CIO Applications

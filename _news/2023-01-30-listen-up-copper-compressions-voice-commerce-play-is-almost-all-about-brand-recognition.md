@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:59:00Z
 originalUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/voice-commerce/listen-up-copper-compressions-voice-commerce-play-is-almost-all-about-brand-recognition"
 webUrl: "https://www.retailtouchpoints.com/topics/digital-commerce/voice-commerce/listen-up-copper-compressions-voice-commerce-play-is-almost-all-about-brand-recognition"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Retail TouchPoints

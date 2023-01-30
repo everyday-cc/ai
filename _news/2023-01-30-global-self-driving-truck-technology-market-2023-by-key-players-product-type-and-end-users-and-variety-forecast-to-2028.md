@@ -85,6 +85,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
+    excerpt: "Market Analysis and Insights: Global Healthcare Artificial Intelligence Market The major players covered in the Healthcare Artificial Intelligence market report are: The research report has incorporated the analysis of different factors that augment the market’s growth."
+    publishedDateTime: 2023-01-30T08:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+  - title: "Artificial Intelligence Platform Market Regional Analysis by Size 2023 | Sales Volume, Competitive Landscape and Forecast To 2026"
+    excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Artificial Intelligence"
+    publishedDateTime: 2023-01-30T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-regional-analysis-by-size-2023-sales-volume-competitive-landscape-and-forecast-to-2026-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
   - title: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast"
     excerpt: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast is the recently added market research report by Polaris Market Research to its ..."
     publishedDateTime: 2023-01-26T11:25:00Z

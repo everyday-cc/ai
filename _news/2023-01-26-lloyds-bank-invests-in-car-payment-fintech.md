@@ -99,22 +99,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "UAE’s B2B Fintech Alaan Secures $4.5M via Pre-Series A Round"
-    excerpt: "Since the last financing round, not only have we launched and expanded quickly but we have also been able to introduce remarkable product innovations, including AI-powered workflow ... and other forms of Fintech. Financement Participatif France (FPF ..."
-    publishedDateTime: 2023-01-26T00:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Andrew-Jackson-Money-20-Dollars-Green.jpeg"
-        width: 1200
-        height: 1192
-        isCached: true
   - title: "FinTech Bolt ‘cuts 10%’ of workforce"
     excerpt: "One-click checkout FinTech Bolt is reportedly cutting 50 roles, around 10 per cent of its workforce. <br /> <br /> US business publication The Information reports that the company has now culled more than half of its headcount since May 2022,"
     publishedDateTime: 2023-01-26T11:35:00Z
@@ -170,6 +154,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Fintech focus on ESG, digitization, AI in 2023"
+    excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
+    publishedDateTime: 2023-01-30T13:03:00Z
+    webUrl: "https://www.theasset.com/article/48527/fintech-focus-on-esg-digitization-ai-in-2023"
+    type: article
+    provider:
+      name: The Asset
+      domain: theasset.com
+    quality: 19
   - title: "How this fintech company is leading the charge for financial inclusion across Southeast Asia"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs), even before the pandemic."
     publishedDateTime: 2023-01-27T04:27:00Z

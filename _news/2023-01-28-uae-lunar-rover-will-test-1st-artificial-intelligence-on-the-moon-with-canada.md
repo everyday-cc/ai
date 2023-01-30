@@ -25,6 +25,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "UAE Rashid Rover Will Test First Artificial Intelligence on the Moon"
+    excerpt: "The moon will become host to one giant leap in Artificial Intelligence (AI). UAE Rashid Rover with Canada will inform the rover's decision-making in a big first for"
+    publishedDateTime: 2023-01-30T11:22:00Z
+    webUrl: "https://www.viva.co.id/english/1570053-uae-rashid-rover-will-test-first-artificial-intelligence-on-the-moon"
+    type: article
+    provider:
+      name: viva
+      domain: viva.co.id
+    quality: 17
+
 secured: "VZpHmJUStd7JwbYbmTJNsPJskxz8dtvw9v9tdLikrRaqGdcpqluLqkImgxkDDu6dwzzh7RuhCf6RrKX3Zm5Ofx3b3vLKsrhU2m8vvICYd9VhsqvjaFrw/QEfZx/it+G29GgdYHqTwloz9mRGfUXWPsCk/fRPEgEnUXnChde1yPPgKJW3sf+N3CKjUhS/4VSD1sBBXixn5Y7ZxBnbJiAYZNcgDUG9Q23d1YUZO5m7Zy9v4cbxPrflYGFKd1CnMo2kpH+rXawHtXUuYx2yCh2ottUPAVzcODOO/xhSO3L73pOq64a33kQ5S1rwEIANAhUYg2m7sqIjT/pGVkeCcVnEXEADafyyiy1NW/qIu0tacCY=;apexjVKEOlFXEHCUjrLbkA=="
 ---
 

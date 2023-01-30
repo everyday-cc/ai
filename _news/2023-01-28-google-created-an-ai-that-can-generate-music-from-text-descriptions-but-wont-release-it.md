@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-gene
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Google's new AI bot creates 'original' music from text and sound prompts"
+    excerpt: "Google's new artificial intelligence bot called MusicLM can create 'original' music from both text and sound prompts put in by the user."
+    publishedDateTime: 2023-01-30T10:32:00Z
+    webUrl: "https://www.tweaktown.com/news/90176/googles-new-ai-bot-creates-original-music-from-text-and-sound-prompts/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 18
 
 secured: "fEuh/6+QzQE/ZWIBDDJkPBvEgvGqwqhfntRwi6SXX3kIeCHGPnvq3Uzwv3KcRLO4WRbV71agWFQkzRN2OvyGrir41VHazwrajQSrBj8zaAdB98wXneqxvl5nL4hdAvZY1AS6PIAVpwZRCv+KYrnUzWU962nDCNgaZXgmQ8dFuNoMEToCOGC87ewfu+k5BxeHucK42puyOt1fOvOiLhMu9h3PZqoXfO7LouS8W/BcqTQBgqm1vQUO8uLdIOD0Ob7Q60P8pWW/UUiZsiozm6jaNdCqFmE5yxtj4ahxG7htKctP7tC5BsryT3o1Gy9CupwhsK3Kut2E6IKDtQ5MAd5NFAW2+z+gk4HZ6dgAvsKq+69no5aWpCIBMUZP9Oj/6Nf5yYWNT40Jg/My5TYUOsTv7+y5X7epseNqoMXelnyBnsHe2yi7eHgURCmT7lu3IM6y3xo9ceSJeq2PlPiRtZzV/ss0nWmzfetqlxtIOnBjw+VJ2/d7Bzny1L+GE5C/mgjY00U3y1yDDf7/SCk8K9WLIw==;6kPKsTn3Y1U7K2onSVi45w=="
 ---

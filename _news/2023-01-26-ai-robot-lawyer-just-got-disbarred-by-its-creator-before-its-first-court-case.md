@@ -46,7 +46,7 @@ related:
   - title: "A robot was scheduled to argue in court, then came the jail threats"
     excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
     publishedDateTime: 2023-01-27T00:30:00Z
-    webUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+    webUrl: "https://www.wlrn.org/technology/2023-01-26/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
     ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
     cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
     type: article
@@ -135,6 +135,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 19
+  - title: "Tech CEO nixes AI lawyer stunt after being threatened with jail time"
+    excerpt: "Browder runs a consumer rights startup that was originally built to help people appeal parking tickets more easily, and has since grown with the aim of building \"the world's first robot lawyer.\" He wanted to show AI could replace expensive human lawyers,"
+    publishedDateTime: 2023-01-30T11:39:00Z
+    webUrl: "https://www.theregister.com/2023/01/30/ai_in_brief/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
     quality: 19
 
 secured: "/Tkal1QwI3jNCLOB+dPFVh3Fu7uFGBrDv0je0Afnl4HrljxusSEjSnxDgqibF3B0pSSns6N35C4c584oJX6qvzmUdxBa3CJCDJ5I9NaqEgINSfQ/rVPH8CzjGMMNadCSZhcIlPcOw1cALHnNEPOJaMJPa1aSFaABbjVSuuEJTW+SuunyiSGXq3LJI/oKvfoAf3Y2Qa/SgxQHtIXYF4fZ7CpkvplPQuaokMn2GWHomBMO+WzsRBcRS28+qX2rKUokrkJUnDZYUHYQH6NZ+w7ld5rpCSHitbiqollbG81BEUmSuztN/eLJ/xQylxs4j29Gl/x/6xVTrecRLI6psJdZB+5vakliBcJHqhZp1weelukvs6Lnum1SvVTTl66qp9J1qLdCOSDaih6NrtOtdiTj4CN1eClgD+cu2YpKkS4blfYGDE3We2Fk2B0qmuHDJY+dOJjYV1c+T7hYM4xZpi8SYYiDSvDr4a6+5w/NqLmbzs1qsKDgzdHHYwsuPvha5N3moOeUnO2572+tCnl7DzZxHQ==;+T8tIfjlpMa3U+ep1uYtlw=="

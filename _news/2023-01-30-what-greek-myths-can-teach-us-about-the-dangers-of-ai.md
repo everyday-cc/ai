@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:25:00Z
 originalUrl: "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai"
 webUrl: "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai"
 type: article
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: The Next Web
@@ -18,7 +21,14 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
-secured: "E7eMrHKe/UjLWPFJC9Lmdr1FPqm9QFMunut1YXxkGRh0jn/t3W6hkiVWQ815v+lpyauFflS2pmauKaFm2uTmlnx2zKIhSngPoHcdR+laxhAzmpnpuUA5q9+cFtJI1Xf5raxD74X+HTsIHbsGvCsj6fuhKN9NQ4ivsa4XUG7C4BSUF8A1I8rUNRqxl64jYBUKIbMoUK7YbAhgvEtIg7sovPZKsijFB1vzBbFKHtBH22L1rsnd0N5GQFlBe8BAO2UdmdaNJb4N7aEgljUjlEHfNBQGMHfrTDirFi/VROcWPv68EBrCttChAs/D0c+zi7ParxMFxwvBPPovhwpRcRJPQAs82C8uilODpiIvuGKMmN3OyvcNjNvJ/Cdq7zpaFg5xWGZCaTdbEZ9nrjf8+TL/a33ya6SXjdSHM7J59irNkm5E413iqHAQPxKRI0rrk2YK5cVfySh4Df8JbqamBg2EwpY4GlSnyeTyX4zXWRYl0+cuTqGC49reeRNTgztx3Zn62VRs1S+x/JIgWQEIblCM9w==;Je1RvtFYBATqQ/X758ganA=="
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-97-15.jpg&signature=56160b29db2ed4aba13fef25ff153c47"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "MLxF9QK6ZxQaB2dH6i1pfaPLzlCDKlVAwuShsShvbyJjkf/THv+hSOyYg33OddKYLtTdVQlmEmiiYJOq9LusTlHTsRzlxNSpwowsSCfeqx75YD9hlcwS/HZa9IbGpCfzbHZImDJevKzipGhmS83kChwBQ8ecAOp08JoP4mp20utLzwVt41L5xTH01BQOGUvgD5Gpsb/6j4ErLSzE3x8nz8dX2DZan1hIPx1VQ9a9OjamACVcAjCUVfNhBrc+yyBUNbRVj1SpNuFyWqRouHH4CncwaXMCtGvjMoLi4Ht8ZXBlaY0wEGHcoOW1Blii1YmJQnw7duPxnHm9lP/teTmpLrcutFo2ejdplJTTZlEnf7o=;0duByaqV/CryQwfqLdR2FA=="
 ---
 

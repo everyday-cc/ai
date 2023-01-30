@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-26T17:10:00Z
 originalUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
 webUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Buffalo News

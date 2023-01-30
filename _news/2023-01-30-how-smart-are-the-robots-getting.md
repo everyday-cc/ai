@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:59:00Z
 originalUrl: "https://www.seattletimes.com/business/how-smart-are-the-robots-getting/"
 webUrl: "https://www.seattletimes.com/business/how-smart-are-the-robots-getting/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Seattle Times

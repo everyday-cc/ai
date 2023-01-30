@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:30:00Z
 originalUrl: "https://www.windowscentral.com/software-apps/skype-translation-gains-two-major-features-in-latest-update"
 webUrl: "https://www.windowscentral.com/software-apps/skype-translation-gains-two-major-features-in-latest-update"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Windows Central

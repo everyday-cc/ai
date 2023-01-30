@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Is AI bad for diversity?"
+    excerpt: "In the last year alone we have witnessed heated reactions and fervent criticism of AI applications for self-driving cars, face and voice recognition, credit scoring, and recruitment . However, one thing is clear: AI is here to stay."
+    publishedDateTime: 2023-01-30T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90839154/is-ai-bad-for-diversity"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+
 secured: "c7tWzatG8huo6ttl8W0QkqW+K3or26zxZc9DhCOWoaZ/ZGt2MlxhBRKGRNqeSJVZwfQ4FRY4nNq4RWscFfeN8WrCgYUtPwPj2z0UjJcUOEF7ssG9jt7VFG6kDeKILtdxZq4Ws/CBBS7b2N8IlX3bZCR/jGTRtJod4jYnpdomTzdIxK8AH9WHGmpyN2EeBc8qP9qv3nLuAOpCnz/3D/3HT1Qo1tRK4jhf9CZKMybifff/nW5UoyVNHaGkkOhnIkIOiyv5mrX7M1mNK8WkxpbkhLo0RbjoHaQ5C8AuJDStvqZ4DXg4w2Bz4KsSXL67ucYmOL1+1bgbCGWsbgOYyxXFc/xuJT66mAV1wyPHFWJzb8U=;gGxDNIVHR0nH1itGX6L7hw=="
 ---
 

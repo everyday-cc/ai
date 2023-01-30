@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrou
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deci Delivers Breakthrough Inference Performance on Intel’s 4th Gen Sapphire Rapids CPU"
-    excerpt: "Deci, today announced a breakthrough performance on Intel’s newly released 4th Gen Intel Xeon Scalable processors,"
-    publishedDateTime: 2023-01-25T19:05:00Z
-    webUrl: "https://www.datanami.com/this-just-in/deci-delivers-breakthrough-inference-performance-on-intels-4th-gen-sapphire-rapids-cpu/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 18
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/01/deci-intel-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Deci delivers breakthrough inference performance on Intel’s 4th Gen Sapphire Rapids CPU"
     excerpt: "Deci, the deep learning company building the next generation of AI, announced a breakthrough performance on Intel’s newly released 4th Gen Intel® Xeon® Scalable processors, code-named Sapphire Rapids."
     publishedDateTime: 2023-01-28T14:00:00Z

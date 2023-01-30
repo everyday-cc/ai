@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T14:00:00Z
 originalUrl: "https://www.iol.co.za/business-report/opinion/assisted-driving-robot-pillows-smart-prams-and-toilets-27e1a08f-39e6-40f6-92aa-f709ab2b9c87"
 webUrl: "https://www.iol.co.za/business-report/opinion/assisted-driving-robot-pillows-smart-prams-and-toilets-27e1a08f-39e6-40f6-92aa-f709ab2b9c87"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Independent Online

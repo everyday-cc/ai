@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:00:00Z
 originalUrl: "https://www.cnbc.com/2023/01/30/the-supreme-court-could-change-free-speech-on-the-internet.html"
 webUrl: "https://www.cnbc.com/2023/01/30/the-supreme-court-could-change-free-speech-on-the-internet.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: CNBC

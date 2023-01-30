@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Colorado lawmakers look to AI to detect wildfires early"
-    excerpt: "A year after the most destructive wildfire in the state's history scorched nearly 1,100 homes, Colorado lawmakers are considering joining"
-    publishedDateTime: 2023-01-25T22:27:00Z
-    webUrl: "https://mynorthwest.com/3792553/colorado-lawmakers-look-to-ai-to-detect-wildfires-early/"
-    ampWebUrl: "https://mynorthwest.com/3792553/colorado-lawmakers-look-to-ai-to-detect-wildfires-early/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3792553/colorado-lawmakers-look-to-ai-to-detect-wildfires-early/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2023/01/ap_acb7a30113bc4b16a4b406f7acec6502.jpg"
-        width: 1280
-        height: 749
-        isCached: true
   - title: "Colorado lawmakers look to AI to detect wildfires earlier"
     excerpt: "A bill introduced in the Colorado legislature would create a $2 million pilot program to use cameras, likely with artificial intelligence technology, in high-risk locations to help identify fires befo"
     publishedDateTime: 2023-01-26T16:55:00Z

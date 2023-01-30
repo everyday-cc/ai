@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/retire-early-retirement-old-age-cons
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1?amp"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6461674754614/2023/1/af446686371cb7ec28ca0cb4fdc1a528/v1.5/Early-heart-disease-could-raise-risk-for-cognitive-decline-in-middle-age.jpg"
         width: 1200
         height: 798
-        isCached: true
-  - title: "Early CVD Linked to Accelerated Cognitive Decline"
-    excerpt: "On a composite cognitive score, those with CVD events before age 60 were more than three times as likely to drop by at least 1.5 standard deviation more than the race-specific average over 5 years ..."
-    publishedDateTime: 2023-01-25T21:04:00Z
-    webUrl: "https://www.medpagetoday.com/cardiology/prevention/102803"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 24
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/102xxx/102803.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "5h7mQ3tBgTpwfmb5WdlNtQFIwm2phsj446TR8IqENZNq80UHF4m/3agn1aYclaEybwpl4k/ioplamEALIN77ABhtBz0eyMEdcm4bAS+BetQ8J9F8yb2WSBSnZtDRks/bfl3k1drJ+r20aky/K5ZvmjAblr+u4mmNaMCgZFgPslKsOnFsWCB7KwDl3+x69YFKhpbbBdiaYdkExTFakDDchv0NUzrhn+xptJyAseWM2S3aevMc3+EuD0+5T5GlNteBkkBAomjNTg4FjNEmZpcDndCA4xP/Xfi1hHzcvjGe+NCNS0h4D/jMVfFTF0x1ZkF2m6U2JcFxxrKvm2QT9Bqk8HIXI+cGEtHc0ruNUfsfpk4=;XwWs89XP+fuuVFzTaxz3gA=="

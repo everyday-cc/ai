@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:34:00Z
 originalUrl: "https://www.pcgamer.com/this-lego-intel-arc-a750-gpu-has-a-working-fan-made-out-of-meat-cleavers/"
 webUrl: "https://www.pcgamer.com/this-lego-intel-arc-a750-gpu-has-a-working-fan-made-out-of-meat-cleavers/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: PC Gamer

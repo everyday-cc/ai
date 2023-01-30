@@ -41,6 +41,22 @@ related:
         width: 648
         height: 432
         isCached: true
+  - title: "IBM Announces Mass Layoffs In A Conference Call; Around 3,900 Employees Might Need To Search For A New Job"
+    excerpt: "IBM Corp. also participated in the \"layoff drive,\" laying off 3,900 employees on Wednesday. The tech hub said that the asset divestments included a layoff campaign. James Kavanaugh, the company's chief financial officer,"
+    publishedDateTime: 2023-01-27T06:02:00Z
+    webUrl: "https://in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new"
+    ampWebUrl: "https://in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new?amp=1"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 56
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/8be9d969-3f08-4e53-85d7-7e73baf3f0c4_ysq6.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "IBM to cut 3,900 jobs; layoffs tied to spin-off Kyndryl"
     excerpt: "Amid the wave of layoffs in the IT sector, another tech giant has announced plans to cut jobs. The International Business Machines (IBM) has said it would cut about 3,900 jobs, the Wall Street Journal reported."
     publishedDateTime: 2023-01-26T05:52:00Z

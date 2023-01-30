@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:14:00Z
 originalUrl: "https://www.bighospitality.co.uk/Article/2023/01/30/robots-and-ai-and-other-restaurant-technology-trends"
 webUrl: "https://www.bighospitality.co.uk/Article/2023/01/30/robots-and-ai-and-other-restaurant-technology-trends"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Big Hospitality

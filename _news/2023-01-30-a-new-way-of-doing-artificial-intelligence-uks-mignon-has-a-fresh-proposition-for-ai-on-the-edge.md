@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T14:14:00Z
 originalUrl: "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon"
 webUrl: "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon"
 type: article
+quality: 73
+heat: 73
+published: true
 
 provider:
   name: The Next Web
@@ -18,7 +21,15 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
+  - Machine Learning
 
-secured: "ihqTDahcHA0AbMWJcK+GWrZBhUpqcv8np/VJDxNLIypotV56XFk9Yci1gXtBklfwLBtxd+atRyQI3YUd9gicxmn/Ab6qIR/Uxc9d4BfSCvUCD/eQlrBKN5YbySf0kIHyFf8DLR5ptmIzHLnAK9vWFmFgBv44rCchFumAqv4BTTe6/Ss4eglCqW4N+KU4fzm8X8VM792Ia8IHlk2J5V3TY22fY6HOLmXkO8EhvNYUtVlhJ5l9g0V+QOzVOPbykNyg+Dk8ROGZxhlf69BPfPYO0r5QnLAGUdsr/E/LL0n4XQ7r/K5OVekTxX1pW06zPbEXnbHJSXkcLS0n/uH7pEp0pt8YbUjgQvmDNwIAM3NIGw2CWEXlUcPCLyUY8X6xkPTiU1a0nYqzyy0tq3XV6adAIXk2gllU6TNLQQLX6zknPHe82eu7hYM66CXePC+/3yygH1ANamjuQxhXVTm8vvnl+YVlr/mbgkBpq/OND6355gt81Umu7VWfL6m8PgPqNdh5S1ANaq/yr5HY3BzoYVGfLA==;E6Ss3OoSFv6kVikYdcsQhw=="
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2Fmignon01.jpg&signature=4fad0650e664016385da848878a9e6ae"
+    width: 699
+    height: 350
+    isCached: true
+
+secured: "g20/E09q7vutzk5dSTcKdVRCg/OaVcMcKGSWmYyuW1MV2iyS4+9CIgUT8tqLVbEeDACGNfl5yFPOYibWZEdxEpBD8mRbWu0MlhXXmyyRHD6KAxCtHKPMhSmQfGh5LxaLn0cxNRathT3+VUze70t3dW5q0DHBx3Erp+H4L2qW8nl+G2ECLcQvsYvK407RRS7EJXottHeWl6FKdQjZmDSvFuZ8tg8PKPv3ht/EbtoziJ23jH5ySv1Hz1ZcMtkJ+jAkOHYQH9WHNHutu8b8yUWTDzKE2XmMe7lGip2gUG3sOH4rR/UkxvBT0BU9WqsXCxiF6HIwglAIA7oPAA+mM3IP4OQFcEEDBzkZPyy/3JCPiUg=;QAUnvVlftK4M5MVxP1lC5g=="
 ---
 

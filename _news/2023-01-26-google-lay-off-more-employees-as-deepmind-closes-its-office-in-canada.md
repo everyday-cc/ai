@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
+    excerpt: "(Reuters) - DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google’s parent announced it would lay off 12,000 employees. London-based DeepMind’s ..."
+    publishedDateTime: 2023-01-30T16:01:00Z
+    webUrl: "https://jp.reuters.com/article/alphabet-deepmind-idCAKBN2U31OP"
+    type: article
+    provider:
+      name: ロイター
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "DeepMind Lays Off Staff And Shuts Down Their Canada Office"
     excerpt: "DeepMind Lays Off Staff And Shuts Down Their Canada Office Alphabet Inc, the holding company of Google will soon close down its DeepMind research lab in Edmonton. They will also lay off some ..."
     publishedDateTime: 2023-01-26T08:28:00Z
@@ -28,6 +42,22 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
+    excerpt: "Alberta’s Opposition NDP says policy changes from the governing UCP are to blame for the closure of Alphabet Inc.’s DeepMind office in Edmonton and recent layoffs at Benevity in Calgary."
+    publishedDateTime: 2023-01-26T02:19:00Z
+    webUrl: "https://calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c"
+    ampWebUrl: "https://calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c/amp/"
+    cdnAmpWebUrl: "https://calgarysun-com.cdn.ampproject.org/c/s/calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c/amp/"
+    type: article
+    provider:
+      name: calgarysun
+      domain: calgarysun.com
+    quality: 48
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/calgarysun/wp-content/uploads/2023/01/DeepMind-1.jpg?quality=100&strip=all"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "OIwXIraC4GvPuAgYcov/CvPqhp5x1lZBjZNrcMurbJm/VnE4O6SwUMxeW5M5HodmkjGM3jVS+/7nEWzVjiN/cAaffl8S7S0XIhB5H9I7ad1w6NF9NpWtY8oDjHwaL9CR8HkeJNPJLGGqpxlS/YewbepiQys3eFPAltdAPd8y01DvC/VtC63JoiQn4pDja8G5Dp0vVSMg5OzsM/hPLq/s+iKQqriaoKbtCdpWSG8TeK05Zl2zDcy8Y6eZPCoGeusQrHixzs5aa/HxJ7AgqHEHxnvqGVPw70hdAGW5inMAr9QT6jTBdfGU49Y7VgFI6JnrC8VctGP5vQ0FNHxBXPsgrQ13+bLaYMuDbSK6HwXe9kw=;DdzVHxhJfa8uOuT1gpifAw=="
 ---

@@ -99,22 +99,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "UAE’s B2B Fintech Alaan Secures $4.5M via Pre-Series A Round"
-    excerpt: "Since the last financing round, not only have we launched and expanded quickly but we have also been able to introduce remarkable product innovations, including AI-powered workflow ... and other forms of Fintech. Financement Participatif France (FPF ..."
-    publishedDateTime: 2023-01-26T00:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201453-uaes-b2b-fintech-alaan-secures-4-5m-via-pre-series-a-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Andrew-Jackson-Money-20-Dollars-Green.jpeg"
-        width: 1200
-        height: 1192
-        isCached: true
   - title: "Lloyds Bank invests in car payment FinTech"
     excerpt: "Lloyds Banking group has invested £4 million in “all-in-one” motoring app Caura. According to the FinTech, many of the 30 million drivers in the UK use between eight and 10 apps and websites to manage their vehicles."
     publishedDateTime: 2023-01-26T12:02:00Z
@@ -184,6 +168,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Fintech focus on ESG, digitization, AI in 2023"
+    excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
+    publishedDateTime: 2023-01-30T13:03:00Z
+    webUrl: "https://www.theasset.com/article/48527/fintech-focus-on-esg-digitization-ai-in-2023"
+    type: article
+    provider:
+      name: The Asset
+      domain: theasset.com
+    quality: 19
   - title: "African fintech revolution leads the way for healthtech"
     excerpt: "When combined with AI, it enables the delivery of predictive diagnostics in various pathological fields anywhere, even in the most remote locations. Healthtech can be as successful as fintech, especially when innovation is applied in ways that solve pain ..."
     publishedDateTime: 2023-01-27T08:27:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-27T21:37:00Z
 originalUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-identifies-long-overlooked-raphael-masterpiece-180981528/"
 webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-identifies-long-overlooked-raphael-masterpiece-180981528/"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://th-thumbnailer.cdn-si-edu.com/frCikkMc1g8KY8-8IpqTXTfYTW0=/fit-in/1600x0/filters:focal(1926x1926:1927x1927)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fbf%2F34%2Fbf341ac9-3e39-46b9-bd74-c5d2d95020c6%2Ftondo.jpeg"

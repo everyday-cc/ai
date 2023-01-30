@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/robot-lawyer-wont-argue-court-jail-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -30,7 +30,7 @@ related:
   - title: "A robot was scheduled to argue in court, then came the jail threats"
     excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
     publishedDateTime: 2023-01-27T00:30:00Z
-    webUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+    webUrl: "https://www.wlrn.org/technology/2023-01-26/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
     ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
     cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
     type: article
@@ -135,6 +135,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 19
+  - title: "Tech CEO nixes AI lawyer stunt after being threatened with jail time"
+    excerpt: "Browder runs a consumer rights startup that was originally built to help people appeal parking tickets more easily, and has since grown with the aim of building \"the world's first robot lawyer.\" He wanted to show AI could replace expensive human lawyers,"
+    publishedDateTime: 2023-01-30T11:39:00Z
+    webUrl: "https://www.theregister.com/2023/01/30/ai_in_brief/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
     quality: 19
 
 secured: "J3ZKLwCh+HvulhKo3JSQSVd1RVeW9J8WWehaM1WP/2tK5R8fC5t5s+oJfhONcPnk4UijFYIm4SplCNYzaOFKqmD7bzdU+hm1qaZTRq+Z0VVW0ED+jJdFGShaWB2b6tqyPeqE9GPn2eybbMjhy6wBstFoDVBcrmVMZ04BiBV8oBvvqKneEN3PL4YJDpSxf4pW/9Hz/h8JlBEDckwv6jnI/ul8BVzcGoKzjTvftrGWxkPcEG5Te6Pqu9IE1peP2hwl8ZspNIEMBm3pos4+LezYxa87ezOLAGlftAfHDYc07BatbSVB0wICnyCi/pdOUK8Ha43qJl6mgUkr1ARmeKmBwoBhfnAXSsz5Xb5Rv1HCEtY=;B+1/lgt2YYbWtoEvMbLYfw=="

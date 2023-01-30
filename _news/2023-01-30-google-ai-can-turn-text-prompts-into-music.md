@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Google's new AI bot creates 'original' music from text and sound prompts"
+    excerpt: "Google's new artificial intelligence bot called MusicLM can create 'original' music from both text and sound prompts put in by the user."
+    publishedDateTime: 2023-01-30T10:32:00Z
+    webUrl: "https://www.tweaktown.com/news/90176/googles-new-ai-bot-creates-original-music-from-text-and-sound-prompts/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 18
 
 secured: "lPaX/xItdJ3Ro/hweIbamYPmL7AN+Q3vrWhEVM8JQsUjQmbjIL6pR8wAxZoe2m6U7PHogU1MDly4fFVVEVEx6xmzRgLJH7VIn4LkBkb0/gtXnUF08dFTekIU81Ux9Ns0FSVxnJQrejFEnfwKyJGXkH7rIVk9qamOuIiif77BaPO6POTvHcZQk0caIMjHSkSaasKWRKDXhBu0dd0w9Qq57hCNF49AENAnU6dgMSxKnwarpwkNrZYdMz1/XhZ7Ud4Ndxk/duriNYrkL859VCplpCCPtu+Enh/YWnG6pfQAOtTAJrgJBAuxbfOrUhdgg6oK6QSkLFuj3QDl2jrHphC1W/BepLmQ/wxCIaonm5ip5HYDlL3rImOMujLigcqVMB259EgT8FaOiTfVZaOknapvYgdnalbq/ogA2SS9dhwrrey2hOYle6r+h4a32SXX0Iwq0q1rPDxUZm8EFDnPfzIorpYVcYm7pbW6QLqQqBuiPiz0TFAkrcTkF6hfL+9f2CxRErVXi9TRTfNufzbao1FoKA==;3BofUyndnjAbiY+RAHGvRw=="
 ---

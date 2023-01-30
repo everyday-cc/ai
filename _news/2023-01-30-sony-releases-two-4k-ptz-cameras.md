@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T10:48:00Z
 originalUrl: "https://www.broadcastnow.co.uk/tech/sony-releases-two-4k-ptz-cameras/5178605.article"
 webUrl: "https://www.broadcastnow.co.uk/tech/sony-releases-two-4k-ptz-cameras/5178605.article"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Broadcast

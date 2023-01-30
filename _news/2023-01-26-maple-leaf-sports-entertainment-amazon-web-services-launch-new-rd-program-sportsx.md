@@ -18,17 +18,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "SportsX: MLSE, AWS team up to launch unique R&D initiative"
-    excerpt: "How fans watch sports, and how coaches gauge the performance of individual players - and the team as a whole - is about to head in an entirely new direction following the launch yesterday of a research and development program called SportsX by MLSE Digital Labs and Amazon Web Services (AWS)."
-    publishedDateTime: 2023-01-25T19:47:00Z
-    webUrl: "https://www.itworldcanada.com/article/sportsx-mlse-aws-team-up-to-launch-unique-rd-initiative/523824"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 19
-
 secured: "6Yy1CaMw2h8l7XtIHq+aiRVgEQWjBAl3TCdV786W4X6HMurt+gIPHUnZFuThhvsndo2BazvSPAdobvTgWZp3PKxRYW6wnR+1Dkm0pkSC7RF/7XXzUyT6YQX2RBzxh1h/EwmbTJx3yWiDwHx8f7ljjUloHk04WJlw4O4cB5U2M92iGPFQQnX7KwLyCuah66zSztzQM46R6tnAuQ2VceSnFS8iEsPCRoStQ6xRuyIKa+g8DIKzPOh9S+HTU08sy7M8qeDWbxf6xGLA0ZsSGVA1p0jhBUs5pP+9PVNK7Bmdz3pmp8pcAQZXJ19Eo53vW9JHWqeb2/BmbWwgS5m1btQ8FTpUPP/ZOIxuwSYzbl+xV4w=;lmBCxi8jrpS0AX/k5N4seA=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Early CVD Linked to Accelerated Cognitive Decline"
-    excerpt: "On a composite cognitive score, those with CVD events before age 60 were more than three times as likely to drop by at least 1.5 standard deviation more than the race-specific average over 5 years ..."
-    publishedDateTime: 2023-01-25T21:04:00Z
-    webUrl: "https://www.medpagetoday.com/cardiology/prevention/102803"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 24
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/102xxx/102803.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Pri7fUcuDQxVEnhgwbDVb2j4iH9flCQONtExtjzR4HyyYn8E6S/mTezmIGfNc2k4asc1/chfT4iKTARQYuy11BuFBgwNghJh9TdpyfdsI6dPy+26ubyptyRHNex3CDT2gOKzCE+wJs/lH2N2BKSq8e0/vOHrRCdUym1GuyL3EhbRShA73ip09041rpYz1yIiN9kUMnAJw3RgItR42QKOlZVhaNEWPJgflZonbsY83Ykz/IKFTejSaW377z+QBFySXAzLnEZxklyIhFC/osNWhqUSCPiNM1gI8+pRh9pDmXxOUplONG2S1gCoylt9BcySeGtXThmkV6RvpKX+fuoYc6lsFdHoVcB5SsoL5eFQIJY=;h3OvFhV53ti6D5dB/DBUvg=="
 ---

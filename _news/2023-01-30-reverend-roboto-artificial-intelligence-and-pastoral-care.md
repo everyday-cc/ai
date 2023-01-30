@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T11:32:00Z
 originalUrl: "https://baptistnews.com/article/reverend-roboto-artificial-intelligence-and-pastoral-care/"
 webUrl: "https://baptistnews.com/article/reverend-roboto-artificial-intelligence-and-pastoral-care/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Baptist News Global

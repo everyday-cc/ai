@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T12:02:00Z
 originalUrl: "https://theconversation.com/former-deputy-prime-minister-john-anderson-joins-group-spearheading-no-campaign-on-the-voice-195571"
 webUrl: "https://theconversation.com/former-deputy-prime-minister-john-anderson-joins-group-spearheading-no-campaign-on-the-voice-195571"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: The Conversation

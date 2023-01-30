@@ -40,7 +40,7 @@ related:
   - title: "A robot was scheduled to argue in court, then came the jail threats"
     excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
     publishedDateTime: 2023-01-27T00:30:00Z
-    webUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
+    webUrl: "https://www.wlrn.org/technology/2023-01-26/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats"
     ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
     cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
     type: article
@@ -134,6 +134,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 19
+  - title: "Tech CEO nixes AI lawyer stunt after being threatened with jail time"
+    excerpt: "Browder runs a consumer rights startup that was originally built to help people appeal parking tickets more easily, and has since grown with the aim of building \"the world's first robot lawyer.\" He wanted to show AI could replace expensive human lawyers,"
+    publishedDateTime: 2023-01-30T11:39:00Z
+    webUrl: "https://www.theregister.com/2023/01/30/ai_in_brief/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
     quality: 19
 
 secured: "A/njuVmk1e3s/GZddaOBNKLCv+3aT11ykelGY3MtGCDircTF5n2IZkUHAsjN2ZNr2vsF6+IQ3ojsy7GWUa7Prv6lbwoe+0AkRiRx6bcMmX9jk6pI4xLAXnEstBmTyEy0i8hPp8yF2WhmegP3avwnHunk0pVGoOMKwtGdf51ycLA7ZikaljtR/kVv7vgT6kUrkVl2mhXWmXmsDBWByiPX+qsNSYNudCcHZ+A8T+vkIytWZEULp/w4AXASAI2WGwg9kwA/QhJYWuIUVrE5luNYvHHZXShLysGlSjte7IDyWLni2zFwyTIyb310zKs8yoHVrFbjwn25eJ9Aq50Vhzu363xSvsm7U4LiHjyiBfjJ6gY=;9O8tEUn6w89yssMyujghZQ=="

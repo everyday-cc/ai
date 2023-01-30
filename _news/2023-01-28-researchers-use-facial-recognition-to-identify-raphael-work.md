@@ -7,7 +7,7 @@ originalUrl: "https://hyperallergic.com/796520/researchers-use-facial-recognitio
 webUrl: "https://hyperallergic.com/796520/researchers-use-facial-recognition-to-identify-raphael-work/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Smithsonian Magazine
       domain: smithsonianmag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://th-thumbnailer.cdn-si-edu.com/frCikkMc1g8KY8-8IpqTXTfYTW0=/fit-in/1600x0/filters:focal(1926x1926:1927x1927)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fbf%2F34%2Fbf341ac9-3e39-46b9-bd74-c5d2d95020c6%2Ftondo.jpeg"
         width: 1600

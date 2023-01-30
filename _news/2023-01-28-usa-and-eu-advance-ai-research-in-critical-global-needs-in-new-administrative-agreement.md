@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/28/ai-leadership-wi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/28/ai-leadership-with-us-and-eu-advancing-ai-research-in-critical-global-needs/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 39
+  - title: "US, EU Sign Unprecedented AI Agreement"
+    excerpt: "The agreement will prioritize international research collaboration while directing AI resources toward specific industries."
+    publishedDateTime: 2023-01-30T13:01:00Z
+    webUrl: "https://www.extremetech.com/extreme/342703-us-eu-sign-unprecedented-ai-agreement"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "egy9l5gEvp7nmRD9g9VYkXnG0tUd3HXM13XoQcuteIGs3x7iHrtXj1jP/H1Y+zYIBOScqQw/NJ5nruTaxE4WSeCGYqOaaiRFEOTzz7QjfeuIk6xytm+pldexa/lr2ApvDg6MnfOw0i/qOYBVsRy8D3jIV4hacQkk5AKzxUTpg2XCkhbq/Bi6xOX0dw21HKRjB9U4pbAAfL+2Q0/Kgf0Bz68utfFIfyWWq/hcV31Fc1F81lSHbY6tuq3dSHPMXUYNpW6V7vLoZrPC6r78KO+dvLWuO03rHbtoyD4Kb/wICWrM6DFV8wOc0UqpioT3g1Py1z0QCMwc4ZdEWeo0jN/siF3HbzKdRIDAQSRsUYsKhR/hkqzuBMlnFcDt2tsij4fQ240TF0r018DOkF4IakaVn1Jzg9TDGMLVhVuNDKIqZx5kRzH0gLaVM7LE3wb1fh+2sOmZSAwuKf/HQpgSfrX2lF/RCCGfkNCGa7h4vOaOY4CUE6ffRYvAf7TBZPCv7zT9q2AY/eVoABFDme4DmV8Hww==;bmQl973Y/DBHdb73jea0ug=="
 ---
