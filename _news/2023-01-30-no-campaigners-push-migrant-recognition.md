@@ -1,29 +1,29 @@
 ---
 category: news
-title: "'No' campaigners push migrant recognition"
-excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."
-publishedDateTime: 2023-01-29T22:58:00Z
-originalUrl: "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279"
-webUrl: "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279"
-ampWebUrl: "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279.amp"
-cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279.amp"
+title: "‘No’ campaigners push migrant recognition"
+excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised."
+publishedDateTime: 2023-01-30T02:36:00Z
+originalUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/"
+webUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/"
+ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
+cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: Perth Now
-  domain: perthnow.com.au
+  name: thenewdaily
+  domain: thenewdaily.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.perthnow.com.au/publication/C-9596279/f41f517704b798c15899f02b27d8656e6477479e-16x9-x0y0w1280h720.jpg?imwidth=1200"
-    width: 1200
-    height: 675
+  - url: "https://thenewdaily.com.au/wp-content/uploads/2023/01/1675046142-Warren-Mundine.jpg?resize=960,600"
+    width: 960
+    height: 600
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 720
         isCached: true
 
-secured: "stLpCbhChZxw4mBcs6JCHKKTeeq19YSL4w5rkPaUHKA3OTT2aXRSUnw8m0pKNVYw0sO5BgUqJOm3Mf7yYly1ZR9tyGcZkBl9nnT5iDKOvDkHwd6CuhGclyi42U3/1ls23V1DhO3BunSqMfhQgMap8qWdR0brhN4V9N8uqyF2Vl3smzV2Ieg21S+hkNSjuJYclCYR9BsS93JiaarOodTPAFOvOSgkeitNPGM4fSPA84mUxB2E1QmFyp9mLlCsYwfXJYcd/i3lUOtAB9tFgQNSeLZ+m9uCtLalEzI/+LfGYBNAJNrAx0MM6H3f+YKdzB7LW4DgZN88KZqgyIsi49xvrsZZW7TIYSQCqp/yve7nBQo=;woE10oluMha0hTNGaIcETw=="
+secured: "5kqP2S+befSGAoWREB/Hpu8vr0K9esONK1TaAT+L0um6PHwqj5EkV6+AiOAJSQw11OEgOsLejrIeNPiyeDZmyT5p6FvgXZqzjkPHOxjAU22LDaNYmnYTNSDSrmIfy1AX9hwztllOROjRDxGkSo4kBXCnrxLxN9uKL4buxmbSCAxEo2TCMo2QNZhniMY9fnW3nihflXB8eRU3rcEMX3ju2y2H4daY4tjthdpCZXtqsi7WnvWEi0z5EyLGUX7GEHuxz7XSjwx8qrKXOaRdVX1cvO4FVz5MuxZp6Q4uuiFUXrmFg4cJZaKsKO0MHTSiRYqQb/09HsDVbJTjvJfnxc5gzIMH/Q8Vl/ZkaBgCMERAVv4=;EQ3CyneFqoVe5KzyXN4gYw=="
 ---
 

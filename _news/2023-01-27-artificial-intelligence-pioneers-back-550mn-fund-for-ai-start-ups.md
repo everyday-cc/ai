@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence pioneers back $550mn fund for AI start-ups"
 excerpt: "Artificial intelligence pioneers are backing a new $550mn fund dedicated to investing in AI start ups, in a move that bucks the wider downturn in tech dealmaking. Toronto-based Radical Ventures said it has received investment from several leaders in the AI field."
 publishedDateTime: 2023-01-27T09:22:00Z
-originalUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?shareType=nongift"
-webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?shareType=nongift"
+originalUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?sharetype=blocked"
+webUrl: "https://www.ft.com/content/118e353d-94b8-4025-a76c-bdf206fcfcb0?sharetype=blocked"
 type: article
 quality: 34
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "OZjQooheKoM06i/F5sMT9whVFK+dB5EYn9iF0cMyAojMclUjbbl1kProhxGz/zLuSQshLSUbKOIrlQbQMENHxnZdwArN8aXN4EWmCpJ47rbsvQCSNhPsTEoLNSCLCENjjsSHaPm/iSW3y+vZ3X7r9yK2U6Y+nxB9Qcuygx/JnWjuCQMJduEftiryQ3JO7KumkEMjBsFzwWkHPvTe8WaODzpCVfDV0qjNzXkY6D+scLt4cV8ltKebGClh8DxeqLSRtrziS7KejGRqBXdE5BBVFDL+ALXSmEaSOuBP0AxAlmJVtpqFppSlgJtokuajcAnmikwDeFLL5iVvOC94JfW6jpsC7h+YAUvEr5RUApXBRE3IcdNZXZjp33iY/jM/pqDmBNrCS+5pNa/CGKzLBkk2Sb4nzqDt7g+bV4ZKMCZszWUdTdwvZQUgPsGU6TIu2BghR6mSfw3j5ec8qPztas7ddJGH+J1E9ncHE1YBd+gQ0VUJoZYoqRf/wUCb7Ks4P2Bl28QOsDX0m1MkA0Dj/MuR+g==;X15QFgd48gZTY+LhEug6rQ=="
+secured: "PXX+81yNVhiTumjS4LDckm7pxEiKkNhOx3CqqIdMfw7HcjMLupyJcpZToZNVAXs0DlAgyikOmIX7jL6ezDr/T8kuoOCmuNEtn1M4NK3Uai0xOW7O28gFifs8BkbWkvGNEeoXEXLCDL140deTZ7UGeOenOVayfw+URqSA7eW4rfmCp4UOsBxJiv9WLAyaBQFQU2nMygtylakYXFGroeaXuP41UMF5rChOHeFC6UHDE+sV3JjbqaWIL8mXvYYssuDL/S/ezwC5L73U/rwMNU8tgFYEwPWweMllrB17dXowe/gy5SCcrhYsFwRQQ4PNWRbFJ5CXkzmK+4p5OzumfxS0qt52UY4PqNaeZw6SffJLkPlsY/mTisi64ytCrw/FAVrNI2wKBv6n6fOmuJNtmVtGXgA/s14EX/L+bbuz/bKjZLyc9lsrW9nCZUrkR+UhBmnwlpteiMUoayCBMbqEJ+5pXnTva0IXL0ZynXrXOwpGaxqtiwOxg24wCtYNz3jjccaqBQNxQLk8lWVzqyM+VvJV3Q==;yzDnHZdQRBkQoq0yskCErw=="
 ---
 

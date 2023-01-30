@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26"
 type: article
 quality: 60
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars Market 2023 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2028"
+    excerpt: "Pages Report] Rising demand for Automobile & Transportation Industry will drive the Self-driving Cars segment growth over the next five years. Global Market Analysis for Self-"
+    publishedDateTime: 2023-01-30T00:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2028-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

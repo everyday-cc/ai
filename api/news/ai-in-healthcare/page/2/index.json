@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-18-artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data.md",
+      "title": "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-artificial-intelligence-robotics-market-production-growth-demand-and-supply-analysis-2023-to-2029-including-103-pages-report.md",
       "title": "Artificial Intelligence Robotics Market Production Growth, Demand And Supply Analysis 2023 To 2029 | Including 103 Pages Report",
       "excerpt": "In 2023] The Global Artificial Intelligence Robotics Market Size (103 Report Pages) is estimated to be worth USD",
@@ -1227,50 +1280,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-using-artificial-intelligence-to-gain-insights-into-personality.md",
-      "title": "Using artificial intelligence to gain insights into personality",
-      "excerpt": "While those questions are typically devised by subject matter experts, Hernandez has suggested an alternative source—artificial intelligence. Working with research consultant Weiwen Nie of Hogan ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.html",
-      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-artificial-intel.jpg",
-          "width": 800,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.amp",
-      "publishedDateTime": "2023-01-05T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Healthcare"
       ]

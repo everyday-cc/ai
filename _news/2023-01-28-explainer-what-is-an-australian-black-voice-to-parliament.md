@@ -67,6 +67,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Anthony Albanese urges arts community to back the Voice to Parliament in unveiling Australia's new cultural policy"
+    excerpt: "Prime Minister Anthony Albanese has urged the arts community to support the Indigenous Voice to Parliament referendum as he unveiled the nation's new cultural policy."
+    publishedDateTime: 2023-01-30T02:28:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/politics/anthony-albanese-urges-arts-community-to-back-the-voice-to-parliament-in-unveiling-australias-new-cultural-policy/news-story/0b42874e446ca72136ee9db43d84b963"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/anthony-albanese-urges-arts-community-to-back-the-voice-to-parliament-in-unveiling-australias-new-cultural-policy/news-story/0b42874e446ca72136ee9db43d84b963?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/anthony-albanese-urges-arts-community-to-back-the-voice-to-parliament-in-unveiling-australias-new-cultural-policy/news-story/0b42874e446ca72136ee9db43d84b963?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 22
+    images:
+      - url: "https://content.api.news/v3/images/bin/77d75ececfe508e143f2a27253128668"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
     excerpt: "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage."
     publishedDateTime: 2023-01-26T10:15:00Z

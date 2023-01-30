@@ -7,8 +7,8 @@ originalUrl: "https://www.microsoft.com/en-us/research/blog/biomedical-research-
 webUrl: "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Microsoft
@@ -29,84 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Microsoft Now the AI Stock to Beat?"
-    excerpt: "Alphabet acquired AI tech company Deepmind in 2014 and has developed its own large language model, LaMDA ... as having the best technology doesn't necessarily translate into the best or most successful product. Alphabet, for example, seems hamstrung ..."
-    publishedDateTime: 2023-01-28T15:26:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/28/is-microsoft-now-the-ai-stock-to-beat/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/718135/artificial-intelligence-investing-algorithms.jpg"
-        width: 8660
-        height: 5773
-        isCached: true
-  - title: "Microsoft Q2 Results: Approach Azure And AI Hype With Caution"
-    excerpt: "Microsoft posted solid Q2 results by topping guidance in nearly each segment, and restoring faith in Wall Street's visibility of Azure. Satya Nadella's vision and execution have been second-to-none, and while AI is in its infancy, early practical use cases ..."
-    publishedDateTime: 2023-01-26T12:30:00Z
-    webUrl: "https://seekingalpha.com/article/4572522-microsoft-q2-earnings-approach-azure-ai-hype-caution"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 69
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341937940/image_1341937940.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
-  - title: "Unpacking Microsoft’s Earnings and the Future of AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips “Write a newsletter about Microsoft’s second-quarter earnings for"
-    publishedDateTime: 2023-01-27T21:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-and-future-of-ai-1032047671"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "Microsoft expects slower Azure growth"
-    excerpt: "Microsoft is turning to artificial intelligence applications to fuel more Azure demand. Revenue from the Azure machine learning service has more than doubled for five quarters in a row, Nadella said. Comments will be moderated. Keep comments relevant to ..."
-    publishedDateTime: 2023-01-25T16:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/01/26/2003793152"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 54
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/01/26/P05-230126-312.jpg"
-        width: 866
-        height: 577
-        isCached: true
-  - title: "Microsoft's AI push has some analysts raving about the stock even after lackluster earnings"
-    excerpt: "Microsoft 's earnings report earlier this week was largely considered dissatisfying to analysts. But the tech giant's focus on artificial intelligence, or AI, is keeping many on Wall Street optimistic."
-    publishedDateTime: 2023-01-26T17:17:00Z
-    webUrl: "https://www.cnbc.com/2023/01/26/microsofts-ai-push-has-some-analysts-raving-about-the-stock-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 54
-  - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
-    excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
-    publishedDateTime: 2023-01-25T13:05:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-gives-a-new-lease-of-life-to-healthcare-via-chatgpt/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-  - title: "Microsoft Earnings Call: New-Business ‘Slowdown,’ Big AI Bets"
-    excerpt: "Microsoft CEO Satya Nadella used the 2Q earnings call to talk about business growth deceleration, OpenAI, Teams and other topics."
-    publishedDateTime: 2023-01-25T14:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-call-new-business-slowdown-big-ai-bets"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
   - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
     excerpt: "Cirrus Link’s software widget connects MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer with no coding required."
     publishedDateTime: 2023-01-29T19:53:00Z
@@ -116,15 +38,6 @@ related:
       name: Automation World
       domain: automationworld.com
     quality: 34
-  - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
-    excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
-    publishedDateTime: 2023-01-26T14:00:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-readies-service-to-let-cloud-customers-pool-data-safely"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
 
 secured: "G90z7mx1dosZltt4bZuUJA4WmOkhEW1/DdpFAvbOzNCbE7xBLEFeF1oocIGX/kvjKTJlkjzWG4+gFO7Vrmyr1L3OhJnIss4XlZ8lvBUVRD8U4CwpeIQe0qS63mRZpTzZd802ziJNaOVgEgfsjfkBg5+xQL6gyXO2CLskNEdM1EKdMjcNwoXfYiryOzrI8i3DYH2hc4V6793U/Dq/73QAJh0YZcZh1z0WBlVNoVV1UbG8Zh25EYd11C1sNVm9WtorGL46Vdd3hoTAiaa7SuMeUSWKbRP3CUk36604OnqLrVBlm/KAw1F4K8+mdXmjGmkKwybJsY5r0d1WzbZljLeX74UqFFr8WQX4u1F5x+49i7g=;yDt+RtQg3nbpiGeqRgKQjA=="
 ---

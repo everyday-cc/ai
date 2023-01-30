@@ -55,6 +55,59 @@
       ]
     },
     {
+      "path": "_news/2023-01-27-robot-cars-are-causing-911-false-alarms-in-san-francisco.md",
+      "title": "Robot Cars Are Causing 911 False Alarms in San Francisco",
+      "excerpt": "Ride-hailing services from GM subsidiary Cruise and Alphabet company Waymo allow them to summon a driverless ride with an app. But some riders have become perhaps too comfortable with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "originalUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63d1e157e86be50408c465bb/master/pass/Self-driving-Car-Chaos-in-San-Francisco-Business-GettyImages-1238159533.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "publishedDateTime": "2023-01-26T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023.md",
       "title": "AI, Machine Learning, Robotics Will Improve Supply Chains Amid Ongoing Disruptions in 2023",
       "excerpt": "War, raw materials shortages, rising energy costs and extreme weather conditions are just some of the factors that will disrupt global supply chains in 2023, warns the non-profit organisation that aims to elevate,",
@@ -150,7 +203,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -657,10 +710,10 @@
     {
       "path": "_news/2023-01-23-new-soft-robots-poised-to-be-more-agile-controlled.md",
       "title": "New soft robots poised to be more agile, controlled",
-      "excerpt": "One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled.",
+      "excerpt": "ITHACA, N.Y. – One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
+      "webUrl": "https://www.eurekalert.org/news-releases/977427",
+      "originalUrl": "https://www.eurekalert.org/news-releases/977427",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -673,18 +726,9 @@
       "publishedDateTime": "2023-01-22T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1335,49 +1379,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-microelectronics-give-researchers-a-remote-control-for-biological-robots.md",
-      "title": "Microelectronics give researchers a remote control for biological robots",
-      "excerpt": "First, they walked. Then, they saw the light. Now, miniature biological robots have gained a new trick: remote control. The hybrid 'eBiobots' are the first to combine soft materials, living muscle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230118195733.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230118195733.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

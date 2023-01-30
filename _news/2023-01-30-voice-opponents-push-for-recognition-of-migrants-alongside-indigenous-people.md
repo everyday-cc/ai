@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "'No' campaigners push migrant recognition"
-    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."
-    publishedDateTime: 2023-01-29T22:58:00Z
-    webUrl: "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279"
-    ampWebUrl: "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279.amp"
+  - title: "‘No’ campaigners push migrant recognition"
+    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised."
+    publishedDateTime: 2023-01-30T02:36:00Z
+    webUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/"
+    ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
+    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
     type: article
     provider:
-      name: Perth Now
-      domain: perthnow.com.au
+      name: thenewdaily
+      domain: thenewdaily.com.au
     quality: 59
     images:
-      - url: "https://images.perthnow.com.au/publication/C-9596279/f41f517704b798c15899f02b27d8656e6477479e-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
+      - url: "https://thenewdaily.com.au/wp-content/uploads/2023/01/1675046142-Warren-Mundine.jpg?resize=960,600"
+        width: 960
+        height: 600
         isCached: true
   - title: "Voice to parliament no campaign to push for recognition of migrants as well as Indigenous people"
     excerpt: "Warren Mundine says no campaign will propose a new referendum on an acknowledgment in the preamble of the constitution"
@@ -58,6 +58,6 @@ related:
         height: 372
         isCached: true
 
-secured: "eaZofl1hzNnOF47PU5Z0tPK1OTxT10Sv1AEG8hD3DlXf4AcU2nJfD0NufwaSnmX1t7hFjk5+337oj4mPxc5hWHbeU8XSa/W9lS3e1cXQsjSwKN83JWik+IlWNAn0wWdvIyaRZwTcyg9lLIN5ihvK7ZozE+tpUv+jJ0imKmJ7x9tAEOo1/4HqKnjxM0HySow1IRPeJIe6iA3Tjd4uMK7ecQK5hiVRiWhoXocd91GSvSzvCml+s83lbUYQwHrm2hNe1eSKXN6mT4cSnuGIqiV51oabXthLMDGs8nmgkT6cZ1zVWFfjkMxOb9weA3/d+MIBUs7NZH6m9YeXXHA2dfbiL2baUw1XVMZlcaMfrpUvxlk=;j2Ad2ZvoUgRL/01wge04hA=="
+secured: "c98mdvQO3pnxxr681hCP3IU+dwsX4FAlp0kQhdJh4NJ6tyScuRB0ilI/hO5TagJY0NIaGOLsnL9OaDqhHOvS9BTtjS5LEgG7FbbkUxqkIJlE7NlRhtEPny/27RcpdRSgdfdRwHZBZOVGmJ8qz5RQTAhyoP0dq0K+2hGsk8ImFE6t3h+ouHKLvTCuwm6UQbelfVwIVTnF/3KqMgDwEE0QRT7wj/jgsooG4MWroHvn2ejuELu7TwlDfvSKph4z7kMRAe2w/6Gyc2No2mO0ERh5BGqe5yVzJ1LJ/A/5yIMMFV/hAU0wUtsjwQUwheppKw4hsbXj1b3vI7gSKmlidKhCsy9rh8pFfvOy1nK8et0DkluKXRlbbnrA7L4BjQDB1R9aUnjOGrhO3vo2elzGNF9hUEoQfq3E14QE8qWMBqSUW9UL/SQsNpv1jiqGVbU3MT0BE+aIvu0g50tuo+OaGA4cfgBR5+vgNJ+Rg0+zs5873jx0yP7oBXiE7Nx1BML8sHK+sba27yrfHYvWpltPvYj63Q==;gg5c2xaRlIW35+qBIey/IA=="
 ---
 

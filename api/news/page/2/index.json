@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2023-01-27-ut-will-launch-online-masters-program-in-artificial-intelligence.md",
+      "title": "UT will launch online master’s program in artificial intelligence",
+      "excerpt": "AUSTIN (KXAN) — For the first time ever, people may be able to pursue a master’s degree in artificial intelligence online at the University of Texas at Austin. The university shared in a news ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
+      "originalUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2016/07/ut-austin_37219191_ver1.0.jpg?w=1280",
+          "width": 1280,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-26T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-ai-wrote-a-bill-to-regulate-ai-now-rep-ted-lieu-wants-congress-to-pass-it.md",
       "title": "AI wrote a bill to regulate AI. Now Rep. Ted Lieu wants Congress to pass it.",
       "excerpt": "The California Democrat, one of a handful of members with computer science backgrounds, wants a nonpartisan commission to recommend new regulations for artificial intelligence.",
@@ -104,7 +148,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -149,49 +193,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-27-ut-launching-masters-program-in-artificial-intelligence.md",
-      "title": "UT launching master's program in artificial intelligence",
-      "excerpt": "\"The degree program is pending final approval by the Texas Higher Education Coordinating Board,\" the release explained.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfaa.com/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967",
-      "originalUrl": "https://www.wfaa.com/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wfaa.com/assets/KVUE/images/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967",
-      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967",
-      "publishedDateTime": "2023-01-26T16:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFAA8",
-        "domain": "wfaa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-27-explainer-what-is-an-australian-black-voice-to-parliament.md",
       "title": "EXPLAINER: What is an Australian Black Voice to Parliament?",
       "excerpt": "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known a",
@@ -200,7 +201,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -277,6 +278,59 @@
         "AI in Security",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-robot-cars-are-causing-911-false-alarms-in-san-francisco.md",
+      "title": "Robot Cars Are Causing 911 False Alarms in San Francisco",
+      "excerpt": "Ride-hailing services from GM subsidiary Cruise and Alphabet company Waymo allow them to summon a driverless ride with an app. But some riders have become perhaps too comfortable with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "originalUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63d1e157e86be50408c465bb/master/pass/Self-driving-Car-Chaos-in-San-Francisco-Business-GettyImages-1238159533.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "publishedDateTime": "2023-01-26T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -531,7 +585,7 @@
       "originalUrl": "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -584,7 +638,7 @@
       "originalUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -887,7 +941,7 @@
       "originalUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 431,
+      "heat": 421,
       "tags": null,
       "images": [
         {
@@ -1173,60 +1227,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders.md",
-      "title": "Unlock The Potential Of Generative AI: A Guide For Tech Leaders",
-      "excerpt": "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
-      "publishedDateTime": "2023-01-26T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

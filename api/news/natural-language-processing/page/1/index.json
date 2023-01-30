@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2023-01-30-no-campaigners-push-migrant-recognition.md",
-      "title": "'No' campaigners push migrant recognition",
-      "excerpt": "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised.",
+      "title": "‘No’ campaigners push migrant recognition",
+      "excerpt": "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised.",
       "sourceUrl": null,
-      "webUrl": "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279",
-      "originalUrl": "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279",
+      "webUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/",
+      "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.perthnow.com.au/publication/C-9596279/f41f517704b798c15899f02b27d8656e6477479e-16x9-x0y0w1280h720.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://thenewdaily.com.au/wp-content/uploads/2023/01/1675046142-Warren-Mundine.jpg?resize=960,600",
+          "width": 960,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279.amp",
-      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279.amp",
-      "publishedDateTime": "2023-01-29T14:58:00-08:00",
+      "ampWebUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/",
+      "publishedDateTime": "2023-01-29T18:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Perth Now",
-        "domain": "perthnow.com.au",
+        "name": "thenewdaily",
+        "domain": "thenewdaily.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -42,59 +42,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-is-microsoft-now-the-ai-stock-to-beat.md",
-      "title": "Is Microsoft Now the AI Stock to Beat?",
-      "excerpt": "Alphabet acquired AI tech company Deepmind in 2014 and has developed its own large language model, LaMDA ... as having the best technology doesn't necessarily translate into the best or most successful product. Alphabet, for example, seems hamstrung ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/01/28/is-microsoft-now-the-ai-stock-to-beat/",
-      "originalUrl": "https://www.fool.com/investing/2023/01/28/is-microsoft-now-the-ai-stock-to-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/718135/artificial-intelligence-investing-algorithms.jpg",
-          "width": 8660,
-          "height": 5773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-28T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -203,7 +150,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1462,6 +1409,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-how-human-language-accelerated-robotic-learning.md",
+      "title": "How human language accelerated robotic learning",
+      "excerpt": "Researchers developed a suite of policies using machine learning training approaches with and without language information, and then compared the policies’ performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/how-human-language-accelerated-robotic-learning/",
+      "originalUrl": "https://www.therobotreport.com/how-human-language-accelerated-robotic-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-11-at-3.05.13-PM.png",
+          "width": 949,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

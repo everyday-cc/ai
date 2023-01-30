@@ -1,24 +1,20 @@
 ---
 category: news
 title: "New soft robots poised to be more agile, controlled"
-excerpt: "One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled."
+excerpt: "ITHACA, N.Y. – One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled."
 publishedDateTime: 2023-01-23T00:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/01/230123123319.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/01/230123123319.htm"
+originalUrl: "https://www.eurekalert.org/news-releases/977427"
+webUrl: "https://www.eurekalert.org/news-releases/977427"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "sIqscv16CelVELeT1LB+KueVmVCx8eXZX2wHx/a55GSgG4LGZhEWFrhLXv4PJYNV+Ul6kLih0Z3sKon2suoX6YEVmHPEonHEUvQm+fQyJ0oFfH8EjdgIcg22fYfl8+Uhi2AnK14rxlhTMktuUNJsVgiAXNR4h2ZmuWPWqNz6XqvoCkdw4meki1IDUpRceXKniyPUFP2Yair2ymfwV5kaYNaZ+7V2YO50fzjXNAgYwyyNiy9TQ3U0wz4lsC6uErDGdXbQkauLdlquXn03xio7o3AztnmZ3HgvMHIakn1EcBuvYgJA6o7AWHOfTe6C7D58gi6Na6aqieHl9KjvBm/vd62KhRREMvctSXj13lcjktA=;+CKi1SCklFGfHbT5YtdIgQ=="
+secured: "/KKPDHDjVFdFYAGznPHfnYWQeUVCmqZDcVqiOXo1sGiMFYQtMKgwuyatPu2eneIuMce6zS7Nd73muBLl0mvMeUNlO6+IlCPBQ5y4UW9dQ04ZavO0mZ5R9wqjK0DP+7mA6W2dRVukozRHXj5KW+2wd97FxHJX92Y6/8xkY6LnSSd5vQXNV3WaNmG/uxPRk6KSKv//UztgvTRngxGgLDS6BhCOAZimP3B19NZmwN9Wq88kkH0mvpaEuK7KBPUcndnZqtN50o3JFnZDWG4xTzz/QSU0zZ+WcLaflDs/j9TD4yEM66708R2lqxG6woXWr9d1PWzr7XVjo7i8q57IcytGiaN7HnwfvIfTL6yGfScuzQ0=;jHI2ZHWuQzE+upw7uHEoMw=="
 ---
 

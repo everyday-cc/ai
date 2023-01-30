@@ -195,6 +195,58 @@
       ]
     },
     {
+      "path": "_news/2023-01-26-how-to-build-a-neural-network-in-java.md",
+      "title": "How to build a neural network in Java",
+      "excerpt": "Artificial neural networks are a form of deep learning and one of the pillars of modern-day AI. The best way to really get a grip on how these things work is to build one. This article will be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html",
+      "originalUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/23/15/istock-1268123564-100931530-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.amp.html",
+      "publishedDateTime": "2023-01-26T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders.md",
       "title": "Unlock The Potential Of Generative AI: A Guide For Tech Leaders",
       "excerpt": "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency.",
@@ -1392,60 +1444,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-adopting-automl-lets-do-a-reality-check.md",
-      "title": "Adopting AutoML: Let’s do a reality check",
-      "excerpt": "AutoML can't define and automatically solve statements. But, it can solve pre-defined statements with relevant data and features.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/",
-      "originalUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_business-e1648498198314.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/amp/",
-      "publishedDateTime": "2023-01-13T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

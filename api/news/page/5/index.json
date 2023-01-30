@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-24-fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight.md",
+      "title": "Fearing ChatGPT, Google enlists founders Brin and Page in AI fight",
+      "excerpt": "ChatGPT has Google spooked. On Friday, The New York Times reported that Google founders Larry Page and Sergey Brin held several emergency meetings with company executives about OpenAI's new chatbot, which Google feels could threaten its $149 billion search business.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt_threat_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/fearing-chatgpt-google-enlists-founders-brin-and-page-in-ai-fight/amp/",
+      "publishedDateTime": "2023-01-23T15:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-futurism-cnets-ai-articles-show-evidence-of-plagiarism.md",
+      "title": "Futurism: CNET’s AI articles show evidence of plagiarism",
+      "excerpt": "A Futurism investigation found extensive evidence that the CNET’s artificial intelligence-produced stories show phrasing similarities to articles previously published elsewhere, without giving credit,",
+      "sourceUrl": null,
+      "webUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/",
+      "originalUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://talkingbiznews.com/wp-content/uploads/2022/08/CNET-Main-Logo-Red.png",
+          "width": 4001,
+          "height": 1485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/amp/",
+      "cdnAmpWebUrl": "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/futurism-cnets-ai-articles-show-evidence-of-plagiarism/amp/",
+      "publishedDateTime": "2023-01-23T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Talking Biz News",
+        "domain": "talkingbiznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-aws-launches-second-infrastructure-region-in-australia.md",
+      "title": "AWS Launches Second Infrastructure Region in Australia",
+      "excerpt": "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-23T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-after-being-used-as-a-test-bed-ngee-ann-polytechnic-gets-free-driverless-bus-service.md",
       "title": "After being used as a test bed, Ngee Ann Polytechnic gets free driverless bus service",
       "excerpt": "(Photo: Liew Zhi Xin/CNA) SINGAPORE: It is one of the latest driverless vehicles allowed on public roads. Called the MooBus, it has recently been deployed by homegrown company MooVita in its first ...",
@@ -148,6 +286,49 @@
         "AI",
         "Microsoft AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-chinese-driverless-trains-connect-istanbul-with-airport.md",
+      "title": "Chinese driverless trains connect Istanbul with airport",
+      "excerpt": "New metro line operated with Chinese-made automated driverless trains capable of speed of up to 74.5 miles (120 kilometers) per hour with daily capacity of 800,000 passengers now connects central ...",
+      "sourceUrl": null,
+      "webUrl": "https://eturbonews.com/chinese-driverless-trains-connect-istanbul-with-airport/",
+      "originalUrl": "https://eturbonews.com/chinese-driverless-trains-connect-istanbul-with-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/01/0a-4.jpg",
+          "width": 640,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-23T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eturbonews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -989,169 +1170,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-how-to-differentiate-chatbots-from-practical-ai.md",
-      "title": "How to Differentiate Chatbots From Practical AI",
-      "excerpt": "“The machines are taking over!” For years, humans have been fascinated and repulsed in equal measure by artificial intelligence, or AI. Hollywood has capitalized on this intrigue by making movies showing the general devastation that might occur if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business.com/articles/chabots-practical-ai/",
-      "originalUrl": "https://www.business.com/articles/chabots-practical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.business.com/app/uploads/2022/03/23030209/shutterstock_674027740-3.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business.com",
-        "domain": "business.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-machine-learning-or-automation-whats-the-difference.md",
-      "title": "Machine Learning or Automation: What’s the Difference?",
-      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-new-soft-robots-poised-to-be-more-agile-controlled.md",
-      "title": "New soft robots poised to be more agile, controlled",
-      "excerpt": "One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-self-driving-cars-reliability-challenges-solutions-and-social-adoption.md",
-      "title": "Self-Driving Cars: Reliability Challenges, Solutions, and Social Adoption",
-      "excerpt": "Manish Gupta is working on making self-driving cars, machine learning, and artificial intelligence safer and more reliable. (Image source: Manish Gupta) The strict reliability standards are critical for human safety and to help drive social acceptance of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "originalUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

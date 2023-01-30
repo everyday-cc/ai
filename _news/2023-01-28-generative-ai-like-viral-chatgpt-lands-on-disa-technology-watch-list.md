@@ -105,22 +105,6 @@ related:
         width: 907
         height: 605
         isCached: true
-  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
-    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
-    publishedDateTime: 2023-01-29T23:55:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
     excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
     publishedDateTime: 2023-01-27T21:06:00Z
@@ -160,15 +144,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 66
-  - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
-    excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
-    publishedDateTime: 2023-01-29T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
     publishedDateTime: 2023-01-28T11:40:00Z
@@ -409,6 +384,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "ChatGPT rivals Anthropic AI and Character AI reportedly chasing megabuck funding rounds"
+    excerpt: "Artificial intelligence startups Anthropic AI and Character Technologies Inc. are reportedly closing on blockbuster funding rounds backed by a number of high-profile venture capital firms, according to reports this weekend."
+    publishedDateTime: 2023-01-30T00:29:00Z
+    webUrl: "https://siliconangle.com/2023/01/29/chatgpt-rivals-anthropic-ai-character-ai-chasing-megabuck-funding-rounds/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Put Not Your Trust in ChatGPT, for Now"
     excerpt: "Q&A with a veteran AI engineer and entrepreneur, Tom Kehler, about the limits of the popular chatbot and the wonders of the human brain."
     publishedDateTime: 2023-01-25T18:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -72,22 +72,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Budget 2023: Fintech players hope for further tax relief"
-    excerpt: "India now boasts of more than 7,000-plus fintech players, and majority of them expect further tax relief and the Union government's continued focus on digital innovation. Fintech startups and other stakeholders in the fintech ecosystem expect a positive budget 2023 and there is a broad feeling among the majority of players that the government will push for more digital-led innovation."
-    publishedDateTime: 2023-01-25T09:55:00Z
-    webUrl: "https://www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.html"
-    ampWebUrl: "https://www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 44
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/biz-tech/images/2022/1/27/Fintech-companies-.jpg"
-        width: 760
-        height: 443
         isCached: true
   - title: "The future of Fintech in 2023"
     excerpt: "With a rate of 87%, India is far ahead of the global average of 64% in the FinTech adoption race. By 2030, it is anticipated that the promising Indian FinTech market will generate $200"

@@ -47,6 +47,22 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "James Dolan defends facial recognition use to ban legal foes from venues"
+    excerpt: "James Dolan, executive chairman and CEO of Madison Square Garden, defended his use of facial recognition technology to keep attorneys involved in lawsuits against MSG Entertainment out of its venues."
+    publishedDateTime: 2023-01-27T11:25:00Z
+    webUrl: "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues"
+    ampWebUrl: "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 58
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/GettyImages-1368431178-copy.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "James Dolan won't sell Knicks, defends MSG facial recognition tech"
     excerpt: "In a rare media interview Friday James Dolan said he has no plans to sell the New York Knicks or Rangers and discussed the facial recognition technology being"
     publishedDateTime: 2023-01-28T03:59:00Z

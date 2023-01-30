@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "'No' campaigners push migrant recognition"
-    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."
-    publishedDateTime: 2023-01-29T22:58:00Z
-    webUrl: "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279"
-    ampWebUrl: "https://www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/no-campaigners-push-migrant-recognition-c-9596279.amp"
+  - title: "‘No’ campaigners push migrant recognition"
+    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised."
+    publishedDateTime: 2023-01-30T02:36:00Z
+    webUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/"
+    ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
+    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
     type: article
     provider:
-      name: Perth Now
-      domain: perthnow.com.au
+      name: thenewdaily
+      domain: thenewdaily.com.au
     quality: 59
     images:
-      - url: "https://images.perthnow.com.au/publication/C-9596279/f41f517704b798c15899f02b27d8656e6477479e-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
+      - url: "https://thenewdaily.com.au/wp-content/uploads/2023/01/1675046142-Warren-Mundine.jpg?resize=960,600"
+        width: 960
+        height: 600
         isCached: true
   - title: "Voice opponents push for recognition of migrants alongside Indigenous people"
     excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."

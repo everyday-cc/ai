@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self Driving Wheelchair Market 2023 [Latest Report] Size and Growth Difference Prediction till 2028 | 89 Pages Report"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- The Self Driving Wheelchair Market (2023-2028) Research Report | Updated Latest Report | Market is divided into Various Types, including ..."
-    publishedDateTime: 2023-01-25T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2023-latest-report-size-and-growth-difference-prediction-till-2028-89-pages-report-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data and AI Ethics Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-01-27T00:02:00Z
@@ -60,15 +46,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-  - title: "Data and AI Ethics Market Growth, Trends and Industry Forecast 2023-2028 with Top Countries Data"
-    excerpt: "Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected"
-    publishedDateTime: 2023-01-25T10:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-growth-trends-and-industry-forecast-2023-2028-with-top-countries-data-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
   - title: "Machine Learning in Communication Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
     publishedDateTime: 2023-01-27T10:11:00Z
@@ -78,20 +55,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market 2023 : Size (value & volume) by Company, Key Regions, Type, and Application 2028"
-    excerpt: "Jan 25, 2023 (The Expresswire) -- Artificial Intelligence for Edge Devices Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,..."
-    publishedDateTime: 2023-01-25T10:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-2023-size-value-volume-by-company-key-regions-type-and-application-2028-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

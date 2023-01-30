@@ -2,6 +2,127 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-19-tesla-engineer-testifies-2016-self-driving-video-was-staged.md",
+      "title": "Tesla engineer testifies 2016 self-driving video was staged",
+      "excerpt": "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html",
+      "originalUrl": "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7c/37c9fd77-0ec1-553b-bc13-e3827518db0f/63c8200c3b33e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about.md",
+      "title": "Driverless cars: The dark side of autonomous vehicles that no one’s talking about",
+      "excerpt": "There are currently more than 30 million driverless cars in the world. This number is projected to grow exponentially as companies like Tesla pour money into the development of such vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/green/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "originalUrl": "https://www.euronews.com/green/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/31/02/02/1000x563_cmsv2_ccec74ce-888e-5f64-b08a-c35082abbc35-7310202.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "publishedDateTime": "2023-01-18T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-natural-language-processing-in-artificial-intelligence-what-it-is-and-why-it-matters.md",
+      "title": "Natural Language Processing in Artificial Intelligence: What It Is and Why It Matters",
+      "excerpt": "F or the past few decades, the idea of Artificial Intelligence (AI) has moved from being the stuff of pure science fiction to something that seems to be inching closer to reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
+      "originalUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
+      "publishedDateTime": "2023-01-18T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-infinite-ai-interns-for-everybody.md",
       "title": "Infinite AI Interns for Everybody",
       "excerpt": "I predict 2023 is the year that finally changes, thanks to artificial intelligence. By the end of 2023, AI will be fast becoming one of the most important factors of production in the global economy. It’s true that the history of AI is largely a history ...",
@@ -1225,153 +1346,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation.md",
-      "title": "Baidu Create 2022 Outlines New Strategy for AI Development Based on Feedback-Driven Innovation",
-      "excerpt": "Major technology innovations powered by deep learning algorithms such as autonomous driving and intelligent ... further enrich Baidu AI Base, China's first full-stack self-researched AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1980663/image_5009157_44357444.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-baidu-said-to-be-slashing-jobs-trimming-bonuses-at-intelligent-driving-unit.md",
-      "title": "Baidu said to be slashing jobs, trimming bonuses at intelligent driving unit",
-      "excerpt": "Baidu is cutting jobs and cancelling bonuses for some employees in its autonomous driving unit as prospects for profits remain remote after years of investment, according to a report by a Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-baidu-said-to-be-slashing-jobs-trimming-bonuses-at-autonomous-driving-unit.md",
-      "title": "Baidu said to be slashing jobs, trimming bonuses at autonomous driving unit",
-      "excerpt": "Baidu is cutting jobs and cancelling bonuses for some employees in its autonomous driving unit as prospects for profits remain remote after years of investment, according to a report by a Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit?module=more_top_stories_us&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit?module=more_top_stories_us&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/01/10/0d24bba4-7537-49bb-aa05-0aac1deb5e9c_5c1c89ed.jpg?itok=c5FvCB6f&v=1673351667",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

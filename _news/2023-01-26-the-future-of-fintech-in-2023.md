@@ -85,22 +85,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Budget 2023: Fintech players hope for further tax relief"
-    excerpt: "India now boasts of more than 7,000-plus fintech players, and majority of them expect further tax relief and the Union government's continued focus on digital innovation. Fintech startups and other stakeholders in the fintech ecosystem expect a positive budget 2023 and there is a broad feeling among the majority of players that the government will push for more digital-led innovation."
-    publishedDateTime: 2023-01-25T09:55:00Z
-    webUrl: "https://www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.html"
-    ampWebUrl: "https://www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/01/25/budget-2023-fintech-players-hope-for-further-tax-relief.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 44
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/biz-tech/images/2022/1/27/Fintech-companies-.jpg"
-        width: 760
-        height: 443
-        isCached: true
   - title: "UAE’s B2B Fintech Alaan Secures $4.5M via Pre-Series A Round"
     excerpt: "Since the last financing round, not only have we launched and expanded quickly but we have also been able to introduce remarkable product innovations, including AI-powered workflow ... and other forms of Fintech. Financement Participatif France (FPF ..."
     publishedDateTime: 2023-01-26T00:32:00Z

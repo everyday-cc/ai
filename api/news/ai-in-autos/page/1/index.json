@@ -161,6 +161,50 @@
       ]
     },
     {
+      "path": "_news/2023-01-27-ut-will-launch-online-masters-program-in-artificial-intelligence.md",
+      "title": "UT will launch online master’s program in artificial intelligence",
+      "excerpt": "AUSTIN (KXAN) — For the first time ever, people may be able to pursue a master’s degree in artificial intelligence online at the University of Texas at Austin. The university shared in a news ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
+      "originalUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2016/07/ut-austin_37219191_ver1.0.jpg?w=1280",
+          "width": 1280,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-26T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.md",
       "title": "An Oregon school district turns to artificial intelligence to beef up campus security",
       "excerpt": "A Klamath Falls school district is using artificial intelligence to try to prevent future school shootings. Klamath Falls City Schools is partnering with Pennsylvania-based ZeroEyes, whose AI technology will be linked with the district’s existing network ...",
@@ -203,6 +247,59 @@
         "AI in Security",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-robot-cars-are-causing-911-false-alarms-in-san-francisco.md",
+      "title": "Robot Cars Are Causing 911 False Alarms in San Francisco",
+      "excerpt": "Ride-hailing services from GM subsidiary Cruise and Alphabet company Waymo allow them to summon a driverless ride with an app. But some riders have become perhaps too comfortable with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "originalUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63d1e157e86be50408c465bb/master/pass/Self-driving-Car-Chaos-in-San-Francisco-Business-GettyImages-1238159533.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "publishedDateTime": "2023-01-26T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -311,7 +408,7 @@
       "originalUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 431,
+      "heat": 421,
       "tags": null,
       "images": [
         {
@@ -514,7 +611,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -758,6 +855,49 @@
         "AI",
         "Microsoft AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-chinese-driverless-trains-connect-istanbul-with-airport.md",
+      "title": "Chinese driverless trains connect Istanbul with airport",
+      "excerpt": "New metro line operated with Chinese-made automated driverless trains capable of speed of up to 74.5 miles (120 kilometers) per hour with daily capacity of 800,000 passengers now connects central ...",
+      "sourceUrl": null,
+      "webUrl": "https://eturbonews.com/chinese-driverless-trains-connect-istanbul-with-airport/",
+      "originalUrl": "https://eturbonews.com/chinese-driverless-trains-connect-istanbul-with-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/01/0a-4.jpg",
+          "width": 640,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-23T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eturbonews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1299,127 +1439,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-tesla-engineer-testifies-2016-self-driving-video-was-staged.md",
-      "title": "Tesla engineer testifies 2016 self-driving video was staged",
-      "excerpt": "A 2016 video that purported to show the self-driving capabilities of a Tesla car was staged, a senior engineer testified.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html",
-      "originalUrl": "https://www.stltoday.com/news/national/tesla-engineer-testifies-2016-self-driving-video-was-staged/article_37c9fd77-0ec1-553b-bc13-e3827518db0f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7c/37c9fd77-0ec1-553b-bc13-e3827518db0f/63c8200c3b33e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about.md",
-      "title": "Driverless cars: The dark side of autonomous vehicles that no one’s talking about",
-      "excerpt": "There are currently more than 30 million driverless cars in the world. This number is projected to grow exponentially as companies like Tesla pour money into the development of such vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/green/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
-      "originalUrl": "https://www.euronews.com/green/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/31/02/02/1000x563_cmsv2_ccec74ce-888e-5f64-b08a-c35082abbc35-7310202.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
-      "publishedDateTime": "2023-01-18T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-natural-language-processing-in-artificial-intelligence-what-it-is-and-why-it-matters.md",
-      "title": "Natural Language Processing in Artificial Intelligence: What It Is and Why It Matters",
-      "excerpt": "F or the past few decades, the idea of Artificial Intelligence (AI) has moved from being the stuff of pure science fiction to something that seems to be inching closer to reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
-      "originalUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence:-what-it-is-and-why-it-matters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/natural-language-processing-in-artificial-intelligence%3A-what-it-is-and-why-it-matters?amp",
-      "publishedDateTime": "2023-01-18T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

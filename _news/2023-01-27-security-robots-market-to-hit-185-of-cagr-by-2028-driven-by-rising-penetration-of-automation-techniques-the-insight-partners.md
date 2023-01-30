@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Cars Market 2023 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2028"
+    excerpt: "Pages Report] Rising demand for Automobile & Transportation Industry will drive the Self-driving Cars segment growth over the next five years. Global Market Analysis for Self-"
+    publishedDateTime: 2023-01-30T00:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2028-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kDIVA8ia67sHoNlJkvUy255Ruw1icE7bcakZc/RhPSwDDiDbRiDCjtWjQCwznjRzDg8UrXw8xcqaompXdx5IBcbJJ+jupz4IRRx+pOVws3IPrOmivPVAgSIOXGr0zsB1TUr0QS8T20BlFO5y3k2DM+BFs8MX8Q99COHyy2sSjbcvRxSRgKnxCZMziBYEolQseF41X/2g9nTLwdks9x2gPEujo5Hyucd7JoA8lrXFWC4fQBIIlc6je+BogeSQpnnrtABZqHz7cqprXZRbQFhBAafHvGITFZFfH6hpsyIiQfmwL6okizV6g4p1TejSMjzDXYK+ySgvECZGiQCGjzShnIQCWAnpfaFZhP3t5hgXdvmbZ0PvqiXkeh9SgmXVL8wRBWrn0g5o90jp3+MFu2/1yRzHiiG+6DK3IUAWfav277QgSozr4yyO1+g8xRDxM4iwB5Hv4dW4xNcJ0uvNOhVxIMnVVnjEQ1hSN9578kLZJ2DdZlDKmUdZSafcu+rPIkIJ+Cj2x3LT1cqxfFNjgeg3IA==;QUgGAdEJypTuLPx+ltYa7Q=="
 ---
