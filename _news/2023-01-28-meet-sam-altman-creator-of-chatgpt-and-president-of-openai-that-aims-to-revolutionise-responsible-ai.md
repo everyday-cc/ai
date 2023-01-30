@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Baidu to launch AI Chatbot, Rivaling OpenAI’s ChatGPT"
+    excerpt: "Baidu to launch AI chatbot similar to OpenAI's ChatGPT in March. Standalone app and search engine integration."
+    publishedDateTime: 2023-01-30T09:45:00Z
+    webUrl: "https://www.gizmochina.com/2023/01/30/baidu-ai-chatbot-rivaling-openai-chatgpt/"
+    ampWebUrl: "https://www.gizmochina.com/2023/01/30/baidu-ai-chatbot-rivaling-openai-chatgpt/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/30/baidu-ai-chatbot-rivaling-openai-chatgpt/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 89
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/01/baidu-ai-chatbot-rivaling-openai-chatgpt.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+"
     excerpt: "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing."
     publishedDateTime: 2023-01-26T20:28:00Z
@@ -163,20 +179,6 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/01/Photo-Pradeep-Singh-Founder-and-CEO-of-Squirrel....jpg"
         width: 857
         height: 600
-        isCached: true
-  - title: "ChatGPT goes to college: Here’s how the UW says professors should deal with AI in the classroom"
-    excerpt: "The sudden rise of ChatGPT — the AI-powered chatbot released by OpenAI last fall — has educators across the country rethinking how they teach and assess student work. The University of… Read More"
-    publishedDateTime: 2023-01-25T18:20:00Z
-    webUrl: "https://www.geekwire.com/2023/univ-of-washington-issues-guidance-to-faculty-on-dealing-with-chatgpt-and-ais-impact-on-education/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 55
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/20220411_April-Campus_-031-1260x840.jpg"
-        width: 1260
-        height: 840
         isCached: true
   - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
     excerpt: "ChatGPT is a revolutionary new artificial intelligence which has passed a law exam and is replacing white collar workers - with one expert saying 'the wolf is at the door'"
@@ -397,20 +399,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/maxresdefault.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Put Not Your Trust in ChatGPT, for Now"
-    excerpt: "Q&A with a veteran AI engineer and entrepreneur, Tom Kehler, about the limits of the popular chatbot and the wonders of the human brain."
-    publishedDateTime: 2023-01-25T18:55:00Z
-    webUrl: "https://www.christianitytoday.com/news/2023/january/chatgpt-artificial-intelligence-ethics-tom-kehler.html"
-    type: article
-    provider:
-      name: Christianity Today
-      domain: christianitytoday.com
-    quality: 24
-    images:
-      - url: "https://www-images.christianitytoday.com/images/133062.jpg?h=675&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The Hidden Cost of ChatGPT for Indian Languages"
     excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"

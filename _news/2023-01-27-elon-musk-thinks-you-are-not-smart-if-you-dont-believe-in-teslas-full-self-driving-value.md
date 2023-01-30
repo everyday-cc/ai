@@ -280,6 +280,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Beyond the hype and crash investigations: What it’s like to drive with Tesla’s ‘Full Self-Driving’ feature"
+    excerpt: "In most cases, the car drove well, avoided construction cones, and made right- and left-hand turns confidently"
+    publishedDateTime: 2023-01-30T10:24:00Z
+    webUrl: "https://www.theglobeandmail.com/drive/reviews/article-beyond-the-hype-and-crash-investigations-what-its-like-to-drive-with/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 21
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/UmMBmKvXt9tyKvuQoQ6gAgPggVw=/1200x900/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OF4OHW53SRA2LEU2KODK4W4XYI.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Tesla's Autopilot system tumbles in self-driving safety ratings"
     excerpt: "Autopilot had once been regarded by the Consumer Reports team as one of the best systems in class, ranking second in the same study last year. It wasn’t as fortunate this year, with the firm ranking it a mere seventh on the list."
     publishedDateTime: 2023-01-25T19:35:00Z

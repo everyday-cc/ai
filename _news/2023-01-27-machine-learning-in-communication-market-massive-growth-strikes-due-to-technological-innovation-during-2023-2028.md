@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+  - title: "Medical Artificial Intelligence Market 2023 Analysis by Market Dynamics, Industry Trends, Drivers, Challenges, Restraints and Outlook to 2027"
+    excerpt: "Jan 27, 2023 (The Expresswire) -- Global “Medical Artificial Intelligence Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
+    publishedDateTime: 2023-01-27T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-2023-analysis-by-market-dynamics-industry-trends-drivers-challenges-restraints-and-outlook-to-2027-2023-01-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Automotive"
     publishedDateTime: 2023-01-30T03:09:00Z

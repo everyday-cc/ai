@@ -24,17 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Can Anthony Albanese deliver on the Voice?"
-    excerpt: "Political reporter Tom McIlroy explains what’s at stake in the federal government’s push to enshrine an Indigenous Voice to parliament in the Constitution."
-    publishedDateTime: 2023-01-25T19:00:00Z
-    webUrl: "https://www.afr.com/politics/federal/can-anthony-albanese-deliver-on-the-voice-20230124-p5cf7e"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 4
-
 secured: "3Qk2kCIOPBKadSRvk8SaiIUUJbboaL69MR85nwQxmwcIPkodX52q7w+dM2PNO7qz5/GkP//cDZ+rkxNh517xjjD7QyXsmAK1/6BN796gV+xwhWbPt387hPW+gMw6/FTfIhj7R009/8UL0REV+RxThPb/uwHKnv1fpEb8MXU8ytOKIOU1oxMytQtBVip5Ynb3rmGHRACFxwK6NdGhPmoS9yBjfifOMtbmxSfIR/RNz9ntveMiLIDmwq7mYWxdcKiED22tgOTn0jvtSEClhzq6EqaFJNbM+DBjVpyBGJJ1qGDPZeM9PCOhMJFjgavuZAVEPkFit3PUeEF230DEvJEcA54scD9O/t09SGVsbmAWmyg=;2Nb0dyc7lTpkIMfxAYEUDw=="
 ---
 

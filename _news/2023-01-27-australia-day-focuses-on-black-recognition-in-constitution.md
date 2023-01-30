@@ -3,18 +3,18 @@ category: news
 title: "Australia Day focuses on Black recognition in constitution"
 excerpt: "The government joined several large corporations in allowing staff the choice of taking the holiday off or working Thursday and taking another day off instead, in recognition of growing public unease at celebrating the 1788 hoisting of the Union Jack at Sydney Cove."
 publishedDateTime: 2023-01-27T02:39:00Z
-originalUrl: "https://www.kansascity.com/news/nation-world/world/article271670272.html"
-webUrl: "https://www.kansascity.com/news/nation-world/world/article271670272.html"
-ampWebUrl: "https://amp.kansascity.com/news/nation-world/world/article271670272.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/world/article271670272.html"
+originalUrl: "https://www.sacbee.com/news/nation-world/world/article271670272.html"
+webUrl: "https://www.sacbee.com/news/nation-world/world/article271670272.html"
+ampWebUrl: "https://amp.sacbee.com/news/nation-world/world/article271670272.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/world/article271670272.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Natural Language Processing
@@ -47,6 +47,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "bRL8P6Rylkj2luoxODt6fC50w3au4oJn3R7HWXN7PMcmUcXnlZvGKAx8RW52Zl9UAn2JuR2H4Avgfotg7ll2lc1oPCrACu14a+/rMEIGdH9wAFRnMaEcLhGz9a0gQGcDBQSjrtJpfKBDT5dw7MF0uvg0frB3SgaC+ZahrYo4HimFfZ3n6rZYJKsfnjocTT4WgtVNICkwbEM+xZB3M7ziksPzd9A0YapKclv+ZqX20ZPI8kZYZe/ntZ1WvQjYYwWzSOC126y2sManIjFYCSpBJGepGUsqi8dElhY2HwD0ovbezuKO/P3OCyuwJLf7t/AGWqB8FMfPIRQEWefAGXQiFpiNYMwLnDpTOlKKKxlm3k6bbTwtX2z+2Fwjeph51h8+DCo6LCSUxGptKvnMPQep6T9MoVzOp51z1dvl0xz1U7gT9Qf8axuAGDroTxUgq968bCDmaKNiAjquePUdh4gId0j/IiSfKcE0g3NkCT/4bX6es/VlydFdasR0LQ09h1EVh8r14EvQW9JET6gH/4dDtw==;Ax/LvF3BiH5+M51OajhOqw=="
+secured: "TEroL20m8XIigH0IIwJsrv9NkylSOohQ/ogRN68rc3CIP7yR1dn+loQlBIzuNoB1wBs2b2bIGeo/PSRDhyuqb+PyzpLzCyrC/Tnor+8LXy50Lv6G6qgVxwvb2LcxWA1mP08GluMvGyPC2WLYI19lgqEyKb887jf1+NE7yAmt9I41dk0JiKj2vX67+4t7OzBtxVsAXd8pC38jFSFVuxGfNUtAKJdLngJjm0W1N+vsukTQysgYwJxo3VZrAJu07kDSVwL6KGz77crvLF8dpJeqH83YUHmRCkmZRBUOvUyrKixIaaDitaQdOL/IZe2ilOtdD9NewTwDUdWD/q/ikwIqC9QGQ3oUs4ho/04ZHlnO4nDnfObnPe9u12LJuQhgO4z9/p+VuuY+pzrdHYCGkkfD/wTGqs7SNnlplm40Tn+eo/ybwQY+uI2s9bn3JVegc/5i0p+IwZOfozAd9dc12LfPlKfH3QmznIYHAle8mZmHO5tYdLy/uQfLrMfjzWS/LGGZKEfLrnmvT9OPSdLhDlFERg==;MnCPpxiPL0Ex5prM0sNZSQ=="
 ---
 

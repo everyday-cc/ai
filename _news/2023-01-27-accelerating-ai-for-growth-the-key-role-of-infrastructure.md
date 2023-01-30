@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 598
     isCached: true
-
-related:
-  - title: "5 Microsoft Analysts On Q2 Earnings Beat, Slowing Azure Cloud Growth: 'Growth Is Likely Bottoming In Q3'"
-    excerpt: "Microsoft Corp (NASDAQ: MSFT) shares tumbled on Wednesday morning after the company disappointed Wall Street with its quarterly guidance."
-    publishedDateTime: 2023-01-25T17:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-microsoft-analysts-on-q2-earnings-beat-slowing-azure-cloud-growth-growth-is-likely-bottoming-in-q3-1032041199"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/01/25/shutterstock_1404431909.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "4VF/24rhWF9fww9CnItuA4jnLMT/zaCyfiEl8rY6Zcb82eyYyQOcw2KQq69OGo7EkLva9CG6SfHH1m8vnjlxwbg5f+VajrfjOBMK+IBC1vnwN5n3jjy93AUmACow3fGx0qlySIUq48IudzAv87E2Kmdm+6O0i8CqBOepnjRtuO/O/1LvwK4nzjc05AY2D/gxWcePqJ+1WzWqfCvWnvSB6/UOGoIdVOEVvmBRn3skXiOsR1OMcG6KhyOzo7NKzvT/iOwKb2Jg64v9vXmWBaQZHfIOXh3QCU0egOKG44NBU1pBs7ucqfIQ4oLzscWXQGdViSPwCihc5J5UTdumMZ4+blcSKEO8zzp3XLRgzZC6Zf9SUK0hafY40G+HuAKHVDBJPIxTGZ71kUoANaIwxMjBwH+4qym1xAR37sH22CsNAwVesBoeOsnev6vQbs1q3HL1sEAu7flaTSvlZGNZsX5mLc8IRnSy17wA5lnbFdXlf3L6BelTuBJYMyVXWsE93OQ/XmH6awN8blmgWiDBMPkeFg==;42pw3WJeNjYP6mthgD6XtA=="
 ---

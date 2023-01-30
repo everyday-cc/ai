@@ -284,6 +284,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Beyond the hype and crash investigations: What it’s like to drive with Tesla’s ‘Full Self-Driving’ feature"
+    excerpt: "In most cases, the car drove well, avoided construction cones, and made right- and left-hand turns confidently"
+    publishedDateTime: 2023-01-30T10:24:00Z
+    webUrl: "https://www.theglobeandmail.com/drive/reviews/article-beyond-the-hype-and-crash-investigations-what-its-like-to-drive-with/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 21
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/UmMBmKvXt9tyKvuQoQ6gAgPggVw=/1200x900/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OF4OHW53SRA2LEU2KODK4W4XYI.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "kac8+KPde+kUWZm3jAtY8Wx8sLuyrV/gU9b+cqV0rVHOKQLsCKW9a3PmiM8/l15Blt+CkvslXPvMG0rpdfNthIy3pLEvw9Q1UmOkwon8/3ZRvcZBAR+0o+LZtihYbl21d96MT+qAm2Kgjxta+9zjpH3aRwqz9iu3kwSiabWGgGOD02DglxQ72P3DIPMCxLmhVjPXE6E5Iy8J7biKJI4BO23G4jv/Anecw9jlqHs0N+yLRlyMP7NlCAyNiqnTWJphp871DnUuoqUQhXKIb0uB3geRz1Kreq2X1SQEX6MUA0egFQNMlzYcQuOukZGd4+E/84U9dxrha2s6XBMHpRCBilxRndoALcX/7iJfLSid93iVOqLR9btpHsdGdKS7gdVVx2YQpTylXcvH91wpQQVbi2db2aBT95ra998qIB3lnEIUDwxGmxq5xk7h3P849Ms6Fm1IheIpJ4/7q/vxHDbpy60kYpYBf+Q4cRkfcjtLAmiPi9fU0UwepTS0jNqNMeinpw6pSmB2Kxmcs2BiWVzt/w==;j2HBjY9SkhqAz795m2YC8w=="
 ---

@@ -38,13 +38,13 @@ related:
   - title: "Australia Day focuses on Black recognition in constitution"
     excerpt: "The government joined several large corporations in allowing staff the choice of taking the holiday off or working Thursday and taking another day off instead, in recognition of growing public unease at celebrating the 1788 hoisting of the Union Jack at Sydney Cove."
     publishedDateTime: 2023-01-27T02:39:00Z
-    webUrl: "https://www.kansascity.com/news/nation-world/world/article271670272.html"
-    ampWebUrl: "https://amp.kansascity.com/news/nation-world/world/article271670272.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/world/article271670272.html"
+    webUrl: "https://www.sacbee.com/news/nation-world/world/article271670272.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/world/article271670272.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/world/article271670272.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 24
 
 secured: "F5Dqo8BxirmJeAHfPunwYIXpUYO9M/4Jjx5ZR/1X6Pa67EOFbt05sbwAhhluwysAyx4Lqh2GaT3d/GvVkGS2AqML4C6/xSEZGYZzblXk1JKxyC/HBUt669B7F/O3m5OBTLmcDg4iBbjRj6LGwPrHqWy4x73dNfaGwlApZtO/7FGCWVn/6sCIWfgogSKPHCmBLVWShOIx4w79S1dCFlINYMv+qd2H5Z8zFB6rDIZ/ApJsae7jcztTPZ3cNGmv8qzrWjIVW4/Z4m0e7uhmYTDg348KbTjepq6tfJtBlhJwhzCWFhcjahAOuX33qXMjkmyOTIKvplTKI5G7J9sw6U2XNkO6I0ZGaH2kENZ9WxqrINo=;lS0lqxP7NJVpgtNZajEU3Q=="

@@ -47,6 +47,20 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "Chinese Internet giant Baidu to launch AI chatbot service in March"
+    excerpt: "Chinese internet giant Baidu is planning to launch an artificial intelligence (AI) chatbot similar to OpenAI's ChatGPT."
+    publishedDateTime: 2023-01-30T06:00:00Z
+    webUrl: "https://www.lifestyleasia.com/ind/gear/tech/chinese-internet-giant-baidu-to-launch-ai-chatbot-service-in-march/"
+    type: article
+    provider:
+      name: LifestyleAsia
+      domain: lifestyleasia.com
+    quality: 39
+    images:
+      - url: "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/01/30134523/untitled-design-70.jpeg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "6ewkTR6bGC7Xt/YkNBSedmEgjnT+2XTZQyswAPd3uDbsTvG1EL6EGHx2Tvb7m+CFYgwqhl9LSUBgiMTMaSBO3mLjGEqEBC/kf1l96Whw0E5LSXCz3TIIxIaAsSOaDTUDn/Xm/YdjbnoPKanVydLdDtl7S/Fn3b+4GXgAQt52LhkEf3gJ1z16qBIY4OQk/q2vfJgm9qnIgEfzt8slmvU9vcaD9TYBtKt00xHNaNX2dsqUVnYGm/dde+PzyR50smFqpzySdDkbv4R4hDcqsXKq1Mf/Iz4FaW7bM0clZIhgDbNZRdlE21q7WpJGw7yyb+3XdC6uyx93XqspHzFj/qfT5T4zYattkEkTeldQ1i18YWcN0C2YrwsddO3AEcXaHOUolOx7kwGRJtFwa5bsStts/s/H70xdJSHuRDkMWnj9we0HGYhQFCAYETfIZYmCouh91QS/l+YMJ59MCZwhkln2EFkFqOxX25dS3Hbz3ABvVMfC/F4jGtB8OEiaTT8ibuNx6VaQnZRjmO1eZQOg4gNRWw==;76jtfSwpk4gRc7jEA2xyZw=="
 ---

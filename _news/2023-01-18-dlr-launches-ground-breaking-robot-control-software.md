@@ -2,9 +2,9 @@
 category: news
 title: "DLR Launches Ground-breaking Robot Control Software"
 excerpt: "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task."
-publishedDateTime: 2023-01-17T19:43:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/17/9744604.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/17/9744604.htm"
+publishedDateTime: 2023-01-17T21:28:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/01/17/9744604.htm"
+webUrl: "https://it.tmcnet.com/news/2023/01/17/9744604.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "EfMLZovSNXmiYLNzUnqUkevE3+z1LLOUyEIvYk2KBR1b0/RgCc3xMmoQk64gkUa+fn8POjg+JOER/thJGjrVStAQGOTGy2JOL+c75Dg6n3fN2Eha++4h887ivqmCyIhvnmU77Nbrs41RwH1fGXqxAeTlA8P4w7vEw5b8zQgOnChLmY0B2EIv6/Zz1Q3dEM5TnfHkptvLxesenB3vF+fY8DgZhH+M1gZxJkRJXobePMSn7yEPDQb/j7/vH0MnuN6bbdQoA8hPJ5BlbxLgHAQnQt1AG6Gke0+WqmUHxhWdzXP+LbgvY9+ceW9H3Enm4bT33TEZ5hTXUoW5RoheW/hG7rWyeVfngtxuYz1Za7ZmJJo=;6q1GVztg4SNAC0Z6dBD7eQ=="
+secured: "dQgGjdhpU8w4Bc+bEnA1CP8HrvXzfscWv3jij76RnTODUv6v7ifCN22OV/CSyHoh7Fuq9fenqVsRHHEtSN8V8Qs4WUVspPlFIh102zbyRm2UW6UQHQzmMZkcvkpXhvzLZUk1JBkkUbNb42PtfkYlEWAn4mrhem3+hIbgzsKwzLG9smXLgyVJmcdmoXaf1rSjmYuUAwfyaW5H4sb+dAlJ8GwcI40vbtFL4fz41rndM80Lf5hntG9T/0x6aR/PYJG6PdPni2NptjIv9pfmt++VwYy+0NqXyEdHOm51phE+ti4V7UA8Hpzj+JC9FW2x7gZSzZTHiuhCHhq8UV3boB8PKq9gnhEJk7vQ930lx4sk/zE=;nDH3byg4FoEoHluQzTEGZg=="
 ---
 

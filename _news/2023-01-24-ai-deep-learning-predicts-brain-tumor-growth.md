@@ -2,11 +2,11 @@
 category: news
 title: "AI Deep Learning Predicts Brain Tumor Growth"
 excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
-publishedDateTime: 2023-01-23T23:28:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+publishedDateTime: 2023-01-24T15:21:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "HmoRBgf73fKcc6k5gRaopx1rq27FAOdGOT3QIauxwH3sSI+8YSdAlPujSTFyAYGcYGQRIcldhmRCmX2oI0knbvxcfvC/EsmPY7c8/vZXNhyW9746X35mbbviaIZZXu73g6yZnAjK3GEVeiHhDx2iz1CaRt2qczHmV+8cVR5pte8pfInuEjSbwQT6dO5/d2Rrx96Jp2nmwNkIoYUZhJUU1LiPROxID0ZR2l0CCxjFWM9j+WqgKT5/Fuf3LLiYpIQ/NpkvQ3Ab9kHrbEHoFniWtnh12JAr7rUyx3UHO/iYr795KSrCQ52q/UI52BJ6F8oB8xpA9YX89o4PlKRro+6QyAQo0XtGZFWy4qIB70iBL+A=;FEINWbjNEziYINso2zDbXw=="
+secured: "s1+OytYBRijStN02P7XSWGCm2BQtUfMMjBYW8ji9hcfucVNcABht+eyW0PU5igY76TgCP7ytmJPNnvnRI9aocgjNCKgxfPkCUEPrlTTkwI3Bzb4g3/c91/PchQ5bvjarscRrfIPn+BLBuRnx+FssNqjbvJkrjltnLtBJsVmnah9mjtf85zuFMj8Lsh71xxMTkaKqH26tWCJZrIuVaCPIjh320drcHWK/f/JM6T9/zaBlz5DivS0NV01g5hbn3/Gki7m7rHrPByiW7NPXG95Imfz23z7Nl2x84C2ViGIPCfRUZaO4a45sBlFbd7lL1GNeA2nLweqiJwkgZ4KyiFtLXU/be/6c9fduXwLhhHGn6YM=;Xy9suSJ19xo671GLiySZSw=="
 ---
 

@@ -76,12 +76,12 @@ related:
         isCached: true
   - title: "AI wildfire detection bill gets initial approval in Colorado"
     excerpt: "A Colorado Senate committee on Thursday unanimously voted to move forward a bill to create a $2 million pilot program that would station cameras on mountaintops, and use artificial intelligence to ..."
-    publishedDateTime: 2023-01-26T16:53:00Z
-    webUrl: "https://www.local10.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
+    publishedDateTime: 2023-01-26T16:55:00Z
+    webUrl: "https://www.wsls.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
     type: article
     provider:
-      name: WPLG
-      domain: local10.com
+      name: WSLS 10
+      domain: wsls.com
     quality: 39
     images:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/R2F5NBORTZDIJBMRSAUUHEUFGI.jpg?_a=ATO2Bfe0"

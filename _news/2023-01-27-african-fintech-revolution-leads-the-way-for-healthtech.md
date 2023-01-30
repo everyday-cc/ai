@@ -192,15 +192,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "The Emerging FinTech Trends That Will Shape 2023"
-    excerpt: "Here are some of the financial technology trends that I believe might be key in shaping the sector in this new year: Open-banking: open banking has been at the forefront of fintech trends for the past few years,"
-    publishedDateTime: 2023-01-25T18:33:00Z
-    webUrl: "https://www.finextra.com/blogposting/23631/the-emerging-fintech-trends-that-will-shape-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "What to expect for India’s Fintech Agenda in the Budget year 2023?"
     excerpt: "Fintech in India has seen significant growth in recent years, driven by a combination of factors including a large and young population, a growing economy, and increasing access to technology."
     publishedDateTime: 2023-01-29T13:34:00Z
