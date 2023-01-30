@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "arterysinc"
   url: "https://twitter.com/arterysinc"
-  followers: 2210
+  followers: 2212
 
 size: 51-200 employees
 yearFounded: 2016
