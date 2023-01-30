@@ -90,6 +90,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+  - title: "Global Dynamic Face Recognition Systems Market 2023 Research Report including Drivers, Emerging Trends, CAGR Values, Regions and Forecast to 2028"
+    excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Dynamic Face Recognition"
+    publishedDateTime: 2023-01-30T08:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-dynamic-face-recognition-systems-market-2023-research-report-including-drivers-emerging-trends-cagr-values-regions-and-forecast-to-2028-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Self-Driving Truck Technology Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028"
     excerpt: "Jan 29, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Self-Driving Truck Technology industry. In 2023, Self-Driving Truck Technology Market Size [2023 to 2028] Research ..."
     publishedDateTime: 2023-01-30T03:11:00Z

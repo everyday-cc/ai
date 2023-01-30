@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-30T14:14:00Z
 originalUrl: "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon"
 webUrl: "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - Computer Vision
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2Fmignon01.jpg&signature=4fad0650e664016385da848878a9e6ae"
@@ -30,6 +31,6 @@ images:
     height: 350
     isCached: true
 
-secured: "g20/E09q7vutzk5dSTcKdVRCg/OaVcMcKGSWmYyuW1MV2iyS4+9CIgUT8tqLVbEeDACGNfl5yFPOYibWZEdxEpBD8mRbWu0MlhXXmyyRHD6KAxCtHKPMhSmQfGh5LxaLn0cxNRathT3+VUze70t3dW5q0DHBx3Erp+H4L2qW8nl+G2ECLcQvsYvK407RRS7EJXottHeWl6FKdQjZmDSvFuZ8tg8PKPv3ht/EbtoziJ23jH5ySv1Hz1ZcMtkJ+jAkOHYQH9WHNHutu8b8yUWTDzKE2XmMe7lGip2gUG3sOH4rR/UkxvBT0BU9WqsXCxiF6HIwglAIA7oPAA+mM3IP4OQFcEEDBzkZPyy/3JCPiUg=;QAUnvVlftK4M5MVxP1lC5g=="
+secured: "HcPVobZcWPYLwMeCWU9DoqAtto69QyTWo50tIy9c8DTgakIO2V96rAkSUabmvsmRKrW+zD/ZSjzf6NysKUbn2o1SizKVYW48X3YYo/ctrLigKLcyVAHqFma7tlYqZR5SKMlY3133yRxrS2/sqqNWe2H2xIu4M6s6mboINrzDg8024Tyae8FF+wNpmGF1rkNUut1rLgG2qojPaNSKHvyWvPnPUcE46qa+g9j9x+NKyLnn2IA0CI1I9KnzTqyP+oW5aWpc0YcHT4yZNGzSWZAa9dfTiCi/aBTrhQ3EjPwG6Yj3HiJOXZRJpEONF4yXJJdoIyj0Va6ve21E/h2xqLXfZqbcrCaTku5E34Pf5VhapaNK+py9/moSpopyrBOvRh4W+FVL6dqYtBPPuGnFmwAIS7qfzlumLnwZZpMVC5Vh46flPR/1Kr/lS5zCsMVrA93UMA8mhLAU63YXCNrL51qvIFuvmH0DPNUggF7lK2lIXG7jEj/q8o+aYnUBdFZr0G0d78mFFNOpmA+5rZaq8BfTHA==;SJShtb/hTHA0tUZ5Op3weg=="
 ---
 

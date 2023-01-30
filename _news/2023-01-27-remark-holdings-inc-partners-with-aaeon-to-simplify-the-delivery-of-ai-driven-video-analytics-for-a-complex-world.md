@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "Sony Unveils Two 4K PTZ Cameras With AI Analytics"
+    excerpt: "The auto-framing technology driving the PTZ cameras enables automatic operation for quick object tracking and rediscovery. Various auto-framing options are available. The cameras offer quality images with automation,"
+    publishedDateTime: 2023-01-30T18:20:00Z
+    webUrl: "https://www.tvtechnology.com/news/sony-unveils-two-4k-ptz-cameras-with-ai-analytics"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ub7pQ3axe8b5FMkpkpfQYY-1200-80.png"
+        width: 937
+        height: 594
+        isCached: true
+  - title: "Sony Electronics Announces Two 4K IP-Based Pan-Tilt-Zoom Cameras Featuring PTZ Auto Framing with AI Analytics"
+    excerpt: "Sony Electronics is expanding its lineup of pan-tilt-zoom (PTZ) cameras with the addition of two 4K models with built-in AI analytics. The SRG-A40 and SRG-A12 cameras automatically and consistently track,"
+    publishedDateTime: 2023-01-30T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/01/30/9751297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1992006/SRG_A_Series.jpg"
+        width: 400
+        height: 254
+        isCached: true
   - title: "Has Progress on Data, Analytics, and AI Stalled at Your Company?"
     excerpt: "Companies need to rethink how they’re investing in data, analytics, and AI — and whether these investments are creating real business value. Based on a recent survey of senior data and analytics leaders of Fortune 1000 companies,"
     publishedDateTime: 2023-01-30T13:15:00Z
@@ -28,6 +56,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 19
+  - title: "Sony releases two 4K PTZ cameras"
+    excerpt: "Sony has launched two 4K PTZ cameras, which both include built-in AI Analytics. The SRG-A40 and SRG-A12 automatically track and frame presenters without the use of a computer, as well as automatic operation for quick object tracking and rediscovery and multiple auto framing options."
+    publishedDateTime: 2023-01-30T10:48:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/sony-releases-two-4k-ptz-cameras/5178605.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 4
 
 secured: "lRNjGYRXJIBjZeQtw8DIVH9k/G77FXT8vEfeB9WzIai7WIYa39m43Sd23cH5PdPZ7RFMQjhOnNyRb/DJfvuYHzbWu3QJ5AAk87seDiKwfW+kjwTcTJ0hYFKseErmNvDva68ALqwsefQn0EudbQXKYhvUQdNSooiS0VEPDx2mPp4PSIpiBEHh7mEREDxD8ywcA/dZA8d/Umfjq7iLOB/pE2NzQDu5vwIN3YuoWtPTrYB6gCmzJ9QXvHSJqDOieiiImS5f7/9/UDhOfiPwKh+GwiuCTzKJ9UAHseISQ7WS3q7/bNCCDfWqRVzGvHqm0SqRt9C+7KzRSn9P9x57HrjfXuad8vmuEabTSE/JUCQSQOPfyUF7W85Qqcx5OxGE31xheuwEhhGPeiubGjIumG1hxjx4jeLBo5RITeIhEGx3D44mJOgfpYhx5RSNJ2/Iiz/7L499zRx36c3Z86W24ay7+SbKVTOOSY5F3i/tS5VjgIjUfVY+G4/WS+zLq2e3OsE4jMwKwzGJ53Q94m3TS0+P4g==;cfXbcYBtCCvsANs3lFzU0Q=="
 ---

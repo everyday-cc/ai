@@ -103,6 +103,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+  - title: "Global Dynamic Face Recognition Systems Market 2023 Research Report including Drivers, Emerging Trends, CAGR Values, Regions and Forecast to 2028"
+    excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Dynamic Face Recognition"
+    publishedDateTime: 2023-01-30T08:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-dynamic-face-recognition-systems-market-2023-research-report-including-drivers-emerging-trends-cagr-values-regions-and-forecast-to-2028-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast"
     excerpt: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast is the recently added market research report by Polaris Market Research to its ..."
     publishedDateTime: 2023-01-26T11:25:00Z

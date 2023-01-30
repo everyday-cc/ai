@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Closure of Alphabet Inc.'s DeepMind shop in Edmonton shows Alberta at risk of losing out: NDP"
-    excerpt: "Alberta’s Opposition NDP says policy changes from the governing UCP are to blame for the closure of Alphabet Inc.’s DeepMind office in Edmonton and recent layoffs at Benevity in Calgary."
-    publishedDateTime: 2023-01-26T02:19:00Z
-    webUrl: "https://calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c"
-    ampWebUrl: "https://calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c/amp/"
-    cdnAmpWebUrl: "https://calgarysun-com.cdn.ampproject.org/c/s/calgarysun.com/news/politics/closure-of-alphabet-inc-s-deepmind-shop-in-edmonton-shows-alberta-at-risk-of-losing-out-ndp/wcm/499fdaa9-2054-47d0-88a9-8adb5757365c/amp/"
-    type: article
-    provider:
-      name: calgarysun
-      domain: calgarysun.com
-    quality: 48
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/calgarysun/wp-content/uploads/2023/01/DeepMind-1.jpg?quality=100&strip=all"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Google lay off more employees as DeepMind closes its office in Canada"
     excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
     publishedDateTime: 2023-01-26T09:49:00Z

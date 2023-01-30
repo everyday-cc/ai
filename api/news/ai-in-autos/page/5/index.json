@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-21-a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there.md",
+      "title": "A Vision For Self-Driving Ops, And How Observability Can Help Us Get There",
+      "excerpt": "Though self-driving ops are presently in the realm of science fiction (and some might say fantasy for overworked ITOps, DevOps and cloud teams), we’re beginning to see glimpses of what a future driven by autonomous operations might look like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/12/21/a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/12/21/a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a1ff3d837ba9ad3ec9d419/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/12/21/a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/12/21/a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there/amp/",
+      "publishedDateTime": "2022-12-21T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers.md",
       "title": "How Artificial Intelligence Is Transforming Biopharma (And What It Means For Marketers)",
       "excerpt": "Artificial intelligence has the potential to change the way the world currently approaches medicine. These developments will also change the way biopharma marketers need to approach their work.",
@@ -1320,40 +1372,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-investing-in-ai-top-canadian-artificial-intelligence-stocks-in-2022.md",
-      "title": "Investing in AI: Top Canadian Artificial Intelligence Stocks in 2022",
-      "excerpt": "Machine learning is a branch of artificial intelligence. It refers to a software’s ability to self-improve by using old data to interpret new information. A self-driving car, for example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/investing/top-canadian-artificial-intelligence-stocks/",
-      "originalUrl": "https://www.fool.ca/investing/top-canadian-artificial-intelligence-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

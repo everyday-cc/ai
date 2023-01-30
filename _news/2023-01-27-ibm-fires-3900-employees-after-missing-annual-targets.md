@@ -25,42 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "IBM cuts 3,900 jobs as it misses annual cash target"
-    excerpt: "IBM last night announced 3,900 layoffs as part of some asset divestments and missed its annual cash target, dampening cheer around beating revenue expectations in the fourth quarter."
-    publishedDateTime: 2023-01-26T06:42:00Z
-    webUrl: "https://www.rte.ie/news/business/2023/0126/1351909-ibm-to-cut-almost-4-000-jobs/"
+  - title: "Tech major IBM to lay off 3,900 employees, bets big on hybrid cloud, AI"
+    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyndryl business and part of the AI unit called 'Watson Health'. The layoffs will cause a charge of $300 million in the January-March ..."
+    publishedDateTime: 2023-01-26T06:12:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/tech-major-ibm-to-lay-off-3-900-employees-bets-big-on-hybrid-cloud-ai-473946"
     type: article
     provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 24
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
     images:
-      - url: "https://img.rasset.ie/001501ca-1600.jpg"
-        width: 1600
-        height: 899
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/1/2023_1$largeimg_661123783.jpg"
+        width: 708
+        height: 470
         isCached: true
-  - title: "IBM slashes 3,900 roles, SAP chops 3,000"
-    excerpt: "The company announced the move on Wednesday, stating that it would cut 3,900 jobs, or 1.5% of its worldwide workforce, as part of asset divestment. IBM chief financial officer James Kavanaugh said the layoffs are related to the previously announced spinoff and sale of Kyndryl,"
-    publishedDateTime: 2023-01-26T10:26:00Z
-    webUrl: "https://www.computing.co.uk/news/4066156/ibm-slashes-900-roles-sap-chops"
+  - title: "Tech Major IBM Lays Off 3,900 Employees, Bets Big On Hybrid Cloud, AI"
+    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyn"
+    publishedDateTime: 2023-01-26T14:15:00Z
+    webUrl: "https://menafn.com/1105480938/Tech-Major-IBM-Lays-Off-3900-Employees-Bets-Big-On-Hybrid-Cloud-AI"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 24
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/761d442/e1928f0b-a251-4880-a97c-6139061eb2ab/14/IBM-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "IBM announces 3,900 job cuts as cash generation disappoints"
-    excerpt: "International Business Machines Corp (IBM) has announced plans to cut around 1.5% of its workforce after missing cash flow targets by close to US$1bln."
-    publishedDateTime: 2023-01-26T12:13:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/1004433/ibm-announces-3-900-job-cuts-as-cash-generation-disappoints-1004433.html"
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "IBM gives pink slips to 3,900 employees"
+    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyndryl business and part of the AI unit called 'Watson Health'. The layoffs will cause a charge of $300 million in the January-March period to the company,"
+    publishedDateTime: 2023-01-26T19:02:00Z
+    webUrl: "https://www.thehansindia.com/business/ibm-gives-pink-slips-to-3900-employees-779390"
     type: article
     provider:
-      name: Proactive Investors
-      domain: proactiveinvestors.co.uk
+      name: The Hans India
+      domain: thehansindia.com
     quality: 4
 
 secured: "+fb3qHx1rlk1suv67LYDBW6soePcaG6pqd3jFSrvXIncKUpQY/mg3zKujZTQ/pqx0cah4qtj6B0v8sXR6yIK6jjIi66YpasZtqyurrSMCEHDCjARXGtFaFK7MSejfORf0e4YxdIeOLRh2t5NTz9E/um2s9PxC9zbDnyTRBgF/gV9qMQLntSzW0aHDI8V4IWE+hWNPBQwrTSmag285ZIof/PH9MrCaT3oASXLkzsgphAQEdlvUQXpzX2tgK2+z4QD9lYQoYV55HnE/KJ8owOWuUVk5vpQngn8KAstIXD+HZqYcea5UmNeOkXsCx3jR2WydsqVAWsblbOB97x5bMnCT3CLT/EG80bd//aInqVztbeqpgtp07xo10AkOZUc6xUabRPnoXJC8EZptghlRuk8hM3+m+op2OCmTeH3JioxHFFPTd8mwalafQxdO/yTpIpfeLGCX9aX/iPQ8rFC8UNeqXs1a4SEdz6SWotHxW7hB2YYYpsekPaxixuomreegy1GUDbY9VUso/9Xbeyw5z03VQ==;b8Pn1QOed7DO87bW6t71Hg=="

@@ -59,6 +59,15 @@ related:
       name: Edutopia
       domain: edutopia.org
     quality: 19
+  - title: "Run:ai Achieves Unprecedented Growth, Empowering Companies of All Sizes to Compete in AI Market"
+    excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced today that it had attained unprecedented growth"
+    publishedDateTime: 2023-01-30T17:12:00Z
+    webUrl: "https://www.datanami.com/this-just-in/runai-achieves-unprecedented-growth-empowering-companies-of-all-sizes-to-compete-in-ai-market/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 7
 
 secured: "8YRYeqW9hPaPriyUb8eNdv87ffrmmpDLgEPoXvpA5HSBIzawe2HmOWuEzOFmaO4tCpYdzvRNP+SK6UiFF6Z92gUiNc7oC1x+ft+WG+9kFmUEhIdwr3brxjNiiLSHuBg3J+NOsD0uY4MU305Vz8kAD0tF019fEBA1tbYM2GsDhyDe/LTyKA1ecn5982SCeUIdse6bC+YPtHQKF7DNQyZLukYmoZc1mwTUa8Vz5AhEepdIfjw4AcRm1oj58U4/GUS2pY/ByeSJeezhYTSg3mes6aMqju4C9FV1z/XmYxitVWVIM4ZIS/va42D5AVrN36s4/qssPE0zvc3xzdT0f8lgo69k/FiAh5GiG4xmB7V2DxpUtGM1PrteEaMFYfxG4GUedVczEkJvvHpPVc9OUg6GxfTN1jkAIvabXds+IdsaA/V4C1m4a1NPp1SuUucbFF/tsHrTLdTiKrC99Vyb+KHPMuO+lmA+C/iTt57X5hGhdeY/6/zAOqWTldkEhAQGBzH1Lmkpt831U3Kt6JYveXcrAg==;ieTRY2SyI+p2ZDeyzxMd4w=="
 ---

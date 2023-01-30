@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-30-a-new-way-of-doing-artificial-intelligence-uks-mignon-has-a-fresh-proposition-for-ai-on-the-edge.md",
+      "title": "‘A new way of doing artificial intelligence’: UK’s Mignon has a fresh proposition for AI on the edge",
+      "excerpt": "The UK-based startup, Mignon, believes it has developed a new way of doing artificial intelligence. We explore those claims.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon",
+      "originalUrl": "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2Fmignon01.jpg&signature=4fad0650e664016385da848878a9e6ae",
+          "width": 699,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-29-who-owns-ai-generated-art-a-comic-book-draws-the-battle-lines.md",
       "title": "Who Owns AI-Generated Art? A Comic Book Draws the Battle Lines",
       "excerpt": "Artificial intelligence programs like Midjourney allow artists to create mashup images from written prompts, stirring up questions over copyright; an ‘epic scene’ and Zendaya.",
@@ -168,7 +223,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -460,7 +515,7 @@
       "originalUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 471,
+      "heat": 521,
       "tags": null,
       "images": [
         {
@@ -1367,58 +1422,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-musk-oversaw-staged-tesla-self-driving-video-emails-show.md",
-      "title": "Musk oversaw staged Tesla self-driving video, emails show",
-      "excerpt": "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
-      "originalUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1233956223-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/amp/",
-      "publishedDateTime": "2023-01-20T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

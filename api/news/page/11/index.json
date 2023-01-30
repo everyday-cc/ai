@@ -2,6 +2,208 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-01-18-artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics.md",
+      "title": "Artificial Intelligence Market In GCC 2023: Industry Overview, Size, Share And Forecast Till 2028 | Syndicated Analytics",
+      "excerpt": "Jan (SUPER MARKET RESEARCH via COMTEX) -- \"GCC Artificial Intelligence Market: Industry Analysis, Market Size, Share, Trends, Application",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029.md",
+      "title": "Computer Vision Market 2023 Size, Sales, Drivers, Restraints, Growth Strategies, Major Players, Regional Overview Forecast till 2029",
+      "excerpt": "Global Computer Vision MarketNEW UPDATED REPORT 2023 presents a trusted overview of the current market situation",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-sales-drivers-restraints-growth-strategies-major-players-regional-overview-forecast-till-2029-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-kfintech-drives-digital-transformation-in-financial-services-industry-with-aws.md",
+      "title": "KFintech drives digital transformation in financial services industry with AWS",
+      "excerpt": "KFin Technologies Limited (KFintech), a technology-driven financial services ... an exchange filing. The services include interactive dashboards that use AWS machine learning to automatically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
+      "originalUrl": "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2023-01/fda45f49-3fb5-4804-9d79-6cdef98dd1e5/271811522_467231791450465_3483139141691130993_n.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
+      "publishedDateTime": "2023-01-17T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data.md",
+      "title": "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-microsoft-wants-to-put-chat-gpt-style-ai-tools-in-every-product.md",
       "title": "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product",
       "excerpt": "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,",
@@ -676,40 +878,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
-      "title": "DLR Launches Ground-breaking Robot Control Software",
-      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/01/17/9744604.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/01/17/9744604.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-17-set-up-amazon-sagemaker-studio-with-jupyter-lab-3-using-the-aws-cdk.md",
       "title": "Set up Amazon SageMaker Studio with Jupyter Lab 3 using the AWS CDK",
       "excerpt": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) partly based on&nbsp;JupyterLab 3. Studio provides a web-based interface to interactively perform ML development tasks required to prepare data and build, train, and deploy ML models. In Studio, you",
@@ -792,6 +960,40 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-dlr-launches-ground-breaking-robot-control-software.md",
+      "title": "DLR Launches Ground-breaking Robot Control Software",
+      "excerpt": "Deep Learning Robotics (DLR) is proud to unveil a game-changing breakthrough in the field of robotics with the launch of its new robot control software. This innovative software -introduced for the first time at DLR's CES booth in Las Vegas last week- allows users to teach robots tasks in the most natural and intuitive way possible - by simply demonstrating the task.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/01/17/9744604.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -981,180 +1183,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-unifi-collaborates-with-microsoft-and-artis-consulting-to-apply-artificial-intelligence-and-advanced-data-modeling-to-its-ground-safety-operations.md",
-      "title": "Unifi collaborates with Microsoft and Artis Consulting to apply artificial intelligence and advanced data modeling to its ground safety operations",
-      "excerpt": "North America's largest aviation services company, Unifi, is leveraging an advanced safety risk analytics model created with help from Microsoft Azure and Artis Consulting for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30447527/unifi-collaborates-with-microsoft-and-artis-consulting-to-apply-artificial-intelligence-and-advanc",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30447527/unifi-collaborates-with-microsoft-and-artis-consulting-to-apply-artificial-intelligence-and-advanc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-tech-moves-ex-lululemon-chief-joins-seattle-startup-microsoft-ai-ethics-leader-now-at-google.md",
-      "title": "Tech Moves: Ex-Lululemon chief joins Seattle startup; Microsoft AI ethics leader now at Google",
-      "excerpt": "Correll, the former chief technology officer at Lululemon Studio, joined Seattle startup Littlebird as CTO. D’Ambrosio-Correll joined home fitness startup Mirror in 2018 and led engineering. The company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/kristiedc.jpeg",
-          "width": 1010,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-simple-neural-networks-outperform-more-complex-systems-for-controlling-robotic-prosthetics.md",
-      "title": "Simple neural networks outperform more complex systems for controlling robotic prosthetics",
-      "excerpt": "Artificial neural networks that are inspired by natural nerve circuits in the human body give primates faster, more accurate control of brain-controlled prosthetic hands and fingers, researchers at the University of Michigan have shown.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-neural-netw.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-simple-neural-networks-outperform-complex.amp",
-      "publishedDateTime": "2023-01-17T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-cobalt-robotics-announces-collaboration-with-johnson-controls-for-integration-with-ccure-alarm-system.md",
-      "title": "Cobalt Robotics Announces Collaboration With Johnson Controls For Integration With C.CURE Alarm System",
-      "excerpt": "Johnson Controls C.CURE 9000 access control and event management system is now integrated with Cobalt's remote guard service which includes AI robotics, machine-learning software and human oversight.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105440076/Cobalt-Robotics-Announces-Collaboration-With-Johnson-Controls-For-Integration-With-CCURE-Alarm-System",
-      "originalUrl": "https://menafn.com/1105440076/Cobalt-Robotics-Announces-Collaboration-With-Johnson-Controls-For-Integration-With-CCURE-Alarm-System",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?246204",
-          "width": 444,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

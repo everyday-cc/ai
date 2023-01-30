@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-27-image-13.jpg"
         width: 2400
         height: 1800
-        isCached: true
-  - title: "Clothing designer tricks AI-powered face recognition into thinking you’re an animal"
-    excerpt: "The clothing specifically seeks to evade “YOLO” facial recognition technology, which is considered the fastest real-time object detection system in existence, according to Cap_able."
-    publishedDateTime: 2023-01-26T01:06:00Z
-    webUrl: "https://nypost.com/2023/01/25/clothing-designer-tricks-ai-powered-face-recognition/"
-    ampWebUrl: "https://nypost.com/2023/01/25/clothing-designer-tricks-ai-powered-face-recognition/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/25/clothing-designer-tricks-ai-powered-face-recognition/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 68
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/ai-fashion-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Calligrapher.ai is a website using the power of AI for handwriting generation"
     excerpt: "An RNN is a class of artificial neural networks where connections between nodes can create a cycle allowing output from some nodes to affect subsequent input to the same nodes. Recurrent neural networks can exhibit temporal dynamic behavior, which makes ..."

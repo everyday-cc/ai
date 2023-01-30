@@ -22,17 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Shutterstock Introduces Generative AI to its All-In-One Creative Platform"
-    excerpt: "(NYSE: SSTK), the world's leading creative platform for transformative brands and media companies, today announced the launch of its AI image generation platform, available to use by all Shutterstock customers globally in every language the site offers."
-    publishedDateTime: 2023-01-26T02:42:00Z
-    webUrl: "https://www.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    type: article
-    provider:
-      name: Today
-      domain: today.it
-    quality: 38
   - title: "Report: OpenAI hired 1,000 contractors to improve its AI models’ coding capabilities"
     excerpt: "OpenAI LLC has reportedly hired about 1,000 contractors over the past six months to help hone its artificial intelligence models’ coding capabilities. Semafor reported the development today, citing people familiar with the matter."
     publishedDateTime: 2023-01-27T21:02:00Z

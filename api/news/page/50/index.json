@@ -2,6 +2,206 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-12-08-exafunction-supports-aws-inferentia-to-unlock-best-price-performance-for-machine-learning-inference.md",
+      "title": "Exafunction supports AWS Inferentia to unlock best price performance for machine learning inference",
+      "excerpt": "Across all industries, machine learning (ML) models are getting deeper, workflows are getting more complex, and workloads are operating at larger scales. Significant effort and resources are put into making these models more accurate since this investment directly results in better products and experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exafunction-supports-aws-inferentia-to-unlock-best-price-performance-for-machine-learning-inference/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exafunction-supports-aws-inferentia-to-unlock-best-price-performance-for-machine-learning-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/exafunction-aws-inferentia.jpg",
+          "width": 1563,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T09:57:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-people-have-raised-serious-concerns-about-the-ai-art-app-thats-all-over-your-instagram-feed.md",
+      "title": "People Have Raised Serious Concerns About The AI Art App That’s All Over Your Instagram Feed",
+      "excerpt": "There’s a debate about data, intellectual property, and identity brewing in regard to an app that charges you $8 to turn your selfies into art.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems",
+      "originalUrl": "https://www.buzzfeednews.com/article/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-12/8/23/campaign_images/2273f0dd86c3/machine-gun-kelly-went-all-out-to-make-megan-fox--3-681-1670540453-45_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems",
+      "publishedDateTime": "2022-12-08T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-potentially-adverse-impact-of-twitter-20-on-scientific-and-research-communication.md",
+      "title": "The potentially adverse impact of Twitter 2.0 on scientific and research communication",
+      "excerpt": "In just over a month after the change in Twitter leadership, there have been significant changes to the social media platform, in its new \"Twitter 2.0.\" version.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/twitter-and-research.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.amp",
+      "publishedDateTime": "2022-12-08T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints.md",
+      "title": "Deploy Amazon SageMaker Autopilot models to serverless inference endpoints",
+      "excerpt": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. Autopilot can also deploy trained models to real-time inference endpoints automatically. If you have workloads with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/deploy-sagemaker-autopilot-models-serverless-endpoints.jpg",
+          "width": 1561,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T09:26:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-google-brings-no-code-machine-learning-to-sheets-with-simpleml.md",
       "title": "Google brings no-code machine learning to Sheets with SimpleML",
       "excerpt": "Businesses looking to automate their Google workspaces could benefit from the tool which requires no programming experience and is now in beta",
@@ -968,168 +1168,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want.md",
-      "title": "How Pixyle AI Is Helping Shoppers Find Exactly What They Want",
-      "excerpt": "Svetlana Kordumova, the founder of Pixyle AI, which is today announcing a €1 million seed funding round, was struck by a frustrating irony. Studying for a PhD in artificial intelligence and computer vision at the University of Amsterdam,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6390fee7b203b78ec58465da/0x0.jpg?format=jpg&crop=1800,844,x0,y354,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
-      "publishedDateTime": "2022-12-07T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-aws-launches-new-interactive-tool-to-train-digital-talent-in-fsi-companies.md",
-      "title": "AWS launches new interactive tool to train digital talent in FSI companies",
-      "excerpt": "Financial Services is a game-based learning experience designed to teach individuals and organizations how to build solutions for fraud prevention, data",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/money/mediaoutreach/2022/12/08/aws-launches-new-interactive-tool-to-train-digital-talent-in-fsi-companies/185012",
-      "originalUrl": "https://www.malaymail.com/news/money/mediaoutreach/2022/12/08/aws-launches-new-interactive-tool-to-train-digital-talent-in-fsi-companies/185012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-chinas-iqiyi-bets-big-on-artificial-intelligence-to-help-pandemic-hit-production-sector.md",
-      "title": "China’s iQiyi Bets Big on Artificial Intelligence to Help Pandemic-Hit Production Sector",
-      "excerpt": "China-owned streamer iQiyi has been ramping up its use of artificial intelligence across productions as a result of the lasting impact of the pandemic. Kelvin Yau, head of southeast Asia for iQiyi ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
-      "originalUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers.md",
-      "title": "Uber Robotaxis Come to Las Vegas, but the Driverless Vehicles Still Have Drivers",
-      "excerpt": "“Motional and Uber are launching with vehicle operators now to lay the groundwork for a fully driverless commercial service, with the goal of launching the driverless service to the public in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/08/b0ef8db20ef428b9da8cabf6b58d1d4d.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/amp/",
-      "publishedDateTime": "2022-12-07T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

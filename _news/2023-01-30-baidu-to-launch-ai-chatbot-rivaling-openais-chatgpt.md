@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT can't make music, but Google's new AI model can"
+    excerpt: "Google is sharing information about a new, experimental AI model, MusicLM, which can create a song from a simple text input."
+    publishedDateTime: 2023-01-30T18:53:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-cant-make-music-but-googles-ai-model-can/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-cant-make-music-but-googles-ai-model-can/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-cant-make-music-but-googles-ai-model-can/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/339aedd46d1b22dd19cf31e5ea1e22db1b1fa3a9/2023/01/30/2aa2b77b-5ae0-4106-b6cc-8cf9655acce8/screen-shot-2023-01-30-at-11-59-15-am.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Who will compete with ChatGPT? Meet the contenders | The AI Beat"
     excerpt: "ChatGPT turns two years old today. But competitors are hot on its heels. Meet the contenders for the chatbot crown."
     publishedDateTime: 2023-01-30T16:23:00Z
@@ -173,6 +189,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
+    excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
+    publishedDateTime: 2023-01-30T16:14:00Z
+    webUrl: "https://www.wsj.com/articles/baidu-is-developing-its-own-chatgpt-aiming-to-integrate-it-into-search-11675065601?mod=business_lead_pos11"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-712805/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
     excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."
     publishedDateTime: 2023-01-26T14:13:00Z
@@ -197,6 +227,22 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/4xza53/article66451386.ece/alternates/FREE_1200/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
         width: 1200
         height: 580
+        isCached: true
+  - title: "A top UK private school is changing its approach to homework amid the rise of ChatGPT, as educators around the world adapt to AI"
+    excerpt: "Jane Lunnon, the head teacher of the $28,000-a-year Alleyn's School, told Insider: \"Everyone is talking about it in education.\""
+    publishedDateTime: 2023-01-30T16:16:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-helps-move-top-uk-private-school-to-ditch-homework-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-helps-move-top-uk-private-school-to-ditch-homework-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-helps-move-top-uk-private-school-to-ditch-homework-2023-1?amp"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/63d7d5914589790018e5b1ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
@@ -229,6 +275,22 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Did ChatGPT write this article? Faculty look at AI challenges and opportunities"
+    excerpt: "The academic landscape shifted dramatically in November 2022 with the launch of ChatGPT, a chatbot developed by OpenAI. ChatGPT is artificial intelligence software that can write essays, poems, code and perform other tasks traditionally done by humans."
+    publishedDateTime: 2023-01-30T17:41:00Z
+    webUrl: "https://phys.org/news/2023-01-chatgpt-article-faculty-ai-opportunities.html"
+    ampWebUrl: "https://phys.org/news/2023-01-chatgpt-article-faculty-ai-opportunities.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-chatgpt-article-faculty-ai-opportunities.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/did-chatgpt-write-this.jpg"
+        width: 2412
+        height: 1544
         isCached: true
   - title: "ChatGPT is on its way to becoming a virtual doctor, lawyer, and business analyst. Here's a list of advanced exams the AI bot has passed so far."
     excerpt: "ChatGPT is becoming more professionally competitive by the day. We rounded up all the exams the bot has passed."
@@ -540,6 +602,15 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
+    quality: 4
+  - title: "How Will ChatGPT Impact the Tech Sector?"
+    excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
+    publishedDateTime: 2023-01-30T18:38:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/01/30/454787-how-will-chatgpt-impact-tech-sector.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 4
 
 secured: "oiDFAvW7yhbzAqHOXtdADbBsF8x6iRIue9nm4OgZYiG+s2c3xKN0+Mnejsx4XFDLZKogjk4zw44PguUAVjWFhJbBuDmuIBxDmhdGAeOIA8t0hPCKFXfd9Thkj6wcOARqAi8JT3OvrnsVyn6uN4WqZSptDHQFPz9h+nUFLsgG+LdnvTR/MrTEtox8M/1SuV9mtLx+Oyq+Ur10dhA9KzV0PUEjYU8PO3F7d2pQKyFCzDPZVJ10QuLTRRCQCao+3hGb9fnnU3BJiBZ2ASEkJImwqsuXRlvAalSrJnv6wLZB4t9e4Y3mC9+PxAiPASK+YRje8Jyb/CdDSu/n9lAPwsDablAVVSCSHi2IogvxACbYteihTIz1AveAjx0BQj6q2t6Cy0iRiCW0laAR08D67RZZwDcO9b6hL0SyJpdar0ITgYB3vAeOo/S2hj1IS0z1kadNJ+U09oopHLPqgkLjgQW8Pgt7Kikf6P7IULL/jf4yKc6wEhnVTqexco+0POb0Q0mMqx0jQyfMaXRHHWWv0//NHg==;GfXpuFYA047QN6oGvgAA6w=="

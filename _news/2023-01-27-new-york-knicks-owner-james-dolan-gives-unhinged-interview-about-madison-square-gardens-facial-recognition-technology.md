@@ -163,6 +163,15 @@ related:
       name: pix11
       domain: pix11.com
     quality: 19
+  - title: "James Dolan defends MSG’s use of facial recognition"
+    excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
+    publishedDateTime: 2023-01-30T16:43:00Z
+    webUrl: "https://www.sportspromedia.com/news/msg-new-york-madison-square-garden-dolan-facial-recognition-liquor/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 19
   - title: "James Dolan defends MSG’s use of facial recognition: ‘Just a technology’"
     excerpt: "James Dolan responded publicly Thursday to criticisms of Madison Square Garden's use of facial recognition technology."
     publishedDateTime: 2023-01-26T19:30:00Z

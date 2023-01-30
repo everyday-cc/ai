@@ -34,17 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Shutterstock Introduces Generative AI to its All-In-One Creative Platform"
-    excerpt: "(NYSE: SSTK), the world's leading creative platform for transformative brands and media companies, today announced the launch of its AI image generation platform, available to use by all Shutterstock customers globally in every language the site offers."
-    publishedDateTime: 2023-01-26T02:42:00Z
-    webUrl: "https://www.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    ampWebUrl: "https://amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    cdnAmpWebUrl: "https://amp-today-it.cdn.ampproject.org/c/s/amp.today.it/partner/adnkronos/salute/shutterstock-introduces-generative-ai-to-its-all-in-one-creative-platform.html"
-    type: article
-    provider:
-      name: Today
-      domain: today.it
-    quality: 38
   - title: "Google, not OpenAI, has the most to gain from generative AI"
     excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
     publishedDateTime: 2023-01-27T04:00:00Z

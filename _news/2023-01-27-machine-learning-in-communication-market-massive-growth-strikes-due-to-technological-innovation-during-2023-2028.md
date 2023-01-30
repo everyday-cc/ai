@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Data Catalog Software Market Trends, Business Overview, Industry Growth, and Forecast 2023 To 2028"
+    excerpt: "Machine Learning Data Catalog Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2023-01-30T17:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-trends-business-overview-industry-growth-and-forecast-2023-to-2028-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A New Industrial Artificial Intelligence Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2026"
     excerpt: "Industrial Artificial Intelligence Market Size Outlook for 2026 with massive business analysis and bottom-up analysis of the Companies [, Intel Corporation, Siemens AG, IBM Corporation, Alphabet Inc,"
     publishedDateTime: 2023-01-27T02:19:00Z

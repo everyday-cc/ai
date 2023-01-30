@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Data Catalog Software Market Trends, Business Overview, Industry Growth, and Forecast 2023 To 2028"
+    excerpt: "Machine Learning Data Catalog Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2023-01-30T17:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-trends-business-overview-industry-growth-and-forecast-2023-to-2028-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Communication Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
     publishedDateTime: 2023-01-27T10:11:00Z

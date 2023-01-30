@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "IBM reports rise in Q4 profit, but plans to cut 3,900 jobs"
+    excerpt: "Despite posting revenue growth across all its business segments, IBM is set to lay off around 1.5% of its workforce."
+    publishedDateTime: 2023-01-26T17:56:00Z
+    webUrl: "https://www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html"
+    ampWebUrl: "https://www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/420136/ibm-reports-rise-in-q4-profit-but-plans-to-cut-3900-jobs.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 44
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-6.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "IBM cuts 3,900 jobs as it misses annual cash target"
     excerpt: "IBM last night announced 3,900 layoffs as part of some asset divestments and missed its annual cash target, dampening cheer around beating revenue expectations in the fourth quarter."
     publishedDateTime: 2023-01-26T06:42:00Z
@@ -33,33 +49,19 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "IBM slashes 3,900 roles, SAP chops 3,000"
-    excerpt: "The company announced the move on Wednesday, stating that it would cut 3,900 jobs, or 1.5% of its worldwide workforce, as part of asset divestment. IBM chief financial officer James Kavanaugh said the layoffs are related to the previously announced spinoff and sale of Kyndryl,"
-    publishedDateTime: 2023-01-26T10:26:00Z
-    webUrl: "https://www.computing.co.uk/news/4066156/ibm-slashes-900-roles-sap-chops"
+  - title: "Layoffs in tech industry continues as IBM cuts 3,900 jobs"
+    excerpt: "Despite the planned layoffs, which would impact 1.5% of its workforce, IBM still plans on hiring more within \"higher growth areas\"."
+    publishedDateTime: 2023-01-26T05:16:00Z
+    webUrl: "https://techwireasia.com/2023/01/layoffs-in-tech-industry-continues-as-ibm-cuts-3900-jobs/"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
+      name: techwireasia.com
+      domain: techwireasia.com
     quality: 24
     images:
-      - url: "https://image.chitra.live/api/v1/wps/761d442/e1928f0b-a251-4880-a97c-6139061eb2ab/14/IBM-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "IBM fires 3,900 employees after missing annual targets"
-    excerpt: "IBM's 2022 cash flow was $9.3 billion, below its target, due to higher-than-expected working capital needs. IBM fires 3,900 employees after missing annual targets. . Business."
-    publishedDateTime: 2023-01-27T04:30:00Z
-    webUrl: "https://www.itp.net/business/ibm-fires-3900-employees-after-missing-annual-targets"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 24
-    images:
-      - url: "https://www.itp.net/cloud/2023/01/27/IBM-scaled.jpeg"
-        width: 1920
-        height: 1275
+      - url: "https://techwireasia.com/wp-content/uploads/2022/10/shutterstock_1164885235-scaled.jpg"
+        width: 2560
+        height: 1709
         isCached: true
 
 secured: "s3LF9/gpioEcD0//Ycy7F4zlvjgKCMkz/wI14Agz0HT59cd3m954tWSFWrYTFHGNXyYRk/yXZppzZWkfHFF/UJqnP7wJUfZMR2cX9KiYDhx0evEASXvrrZA5KldfwS6ORddtKHcAgq7cAi6wAMgMXAwZEB7i+3OC7xRgxVWQtTJeVDhvxWKArfBCzSfgf7vuWFQiLQ3ZFbK8O6PY4wjBG7ZFZGQHnsfYwCzOWhLNVS7O0/KPqQFi2LuxbJrl7NEyODrzCzu9bstFUILCRXQbRYU6MFxia0ygS7N+kkWYQiSwr+a1wS4kAzjZhNGcildnSLD0pApLiFfU+x3HFt84is5amFOOIdmPPuQQtWbCVO4xmfgfT8yMPD5LnceXo80WJe19boAxNXZG0bokOzeWHf6h2bL4Jjk4IQbb3YTOI/DER6fup4w4XwBLbEMAzQO8cfP0hWU40utVGALsSiI5oYLkFxcWKn5nbjZGICva4eOWOOU8Iv1dzunujutgd6SAdr/pCJhVIJitkd0b8kOBLg==;54apV7Sv/YXkDjTZnblj/A=="

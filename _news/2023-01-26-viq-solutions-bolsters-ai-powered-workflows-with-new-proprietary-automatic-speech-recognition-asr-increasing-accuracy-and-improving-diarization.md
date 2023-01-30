@@ -2,21 +2,27 @@
 category: news
 title: "VIQ Solutions Bolsters AI-Powered Workflows WIth New Proprietary Automatic Speech Recognition (ASR) Increasing Accuracy and Improving Diarization"
 excerpt: "VIQ Solutions Inc. (\"VIQ\", \"VIQ Solutions\" or the \"Company\") (TSX and Nasdaq: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, today announced the addition of a new ASR technology to its engine agnostic portfolio driving improvements in efficiency and diarization in multi-speaker environments."
-publishedDateTime: 2023-01-26T12:35:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/26/9749666.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/26/9749666.htm"
+publishedDateTime: 2023-01-26T11:29:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_2cb8d63b-4538-53e1-806c-8d5ae4a0e1cf.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_2cb8d63b-4538-53e1-806c-8d5ae4a0e1cf.html"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JMag-Feb-2023-cover.jpg"
+    width: 350
+    height: 446
+    isCached: true
 
 related:
   - title: "VIQ Solutions Bolsters AI-Powered Workflows WIth New Proprietary Automatic Speech Recognition (ASR)"
@@ -29,6 +35,6 @@ related:
       domain: cmswire.com
     quality: 20
 
-secured: "6BvSWV658l8sL2jDrkAKAvmLRT6lrTTASE0HCZ67H/StbidT0Q9DBNbhSr7PuEXt+0RLP7HU4DMdBady2MzUy6aFyAHnksLENAvuEUZZC6BAIIl8w+XUjQAPdgmc+7NrkPwSdbibLCXoH9A5mBC8+MVd3Mx1EhpEa6UWadqw5TuJ6jQ8uwJyb27t3ajbhQrJxaE5nb0vtueKrp4K/saDjuKDzBLhE8c8hVWQe6Yps3uRlsJWXQIXzYfjfTgxbJZJ0GW9ZNjGEquFvn5H3hifVeFUZfJUZEk6wlu9doQKbFcrBZSI0/Cqu+snJ03jCSa154OqwpDrt/56LS/Dq3YXLVJYpkwzAWL15L1gpF+iXKw=;kUrYgNQSJ09mHGCJDSKQ5g=="
+secured: "uNLzH5IgFN5s+vOJU/geMpv2xLpjtDsQlAK20+PoEttbVKxbYFOanGgz6UiWwE3tFGFD1oaFg87mQ4kC7rdoid9SgzbWqFaQavKlxx+QbnVofjsrBHulDIdjoYA6GCDdjDUoMLolSAvD1rmDSqK2HB5shg9Usa4fXNzX5nwSy8s0pxGK5tpXRODwUU8sZL+K4N4aH/VGTQoKiDwU3jemRdq+NwSbhHx+hemZEAmdByviSztoZj7GFE5NcyoTy4VMg09FZTvxJiahGvR/N7JUKQng+WATOV6+WrdzCmvnGq2f9lyZxVgLsTcdqjeTo9idQ3qpKwtZIdhzlBe/Ek4xFib4W9T0+kCqLXdu9CtE86Q=;8XPRVDVlST5b0lNH0ruWhg=="
 ---
 

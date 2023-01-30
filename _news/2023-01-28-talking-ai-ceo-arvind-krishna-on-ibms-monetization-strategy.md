@@ -8,7 +8,7 @@ webUrl: "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-
 ampWebUrl: "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-01/Screenshot%202022-01-25%20at%2011.06.30.png"

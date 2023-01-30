@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/420300/aws-launches-data-lab-program-i
 webUrl: "https://www.cio.com/article/420300/aws-launches-data-lab-program-in-india.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "How AI is improving agriculture sustainability in India"
+    excerpt: "A look at how AI can help agriculture and sustainable farming in India."
+    publishedDateTime: 2023-01-30T17:00:00Z
+    webUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 89
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ak_2_qhJiQ80.max-1300x1300.png"
+        width: 1300
+        height: 902
+        isCached: true
 
 secured: "HzcAI/MvNrKpwMmub8dqy2tY2E0xwKwQlg1namFHlREqG2LUKyJBAPrq012z8NJRgRzs7ywxydmsXi4ccg55dWfRDmeJudCi1Px8UUDJl21ezEOwBK3B1X33XxY9bl6CWs/qdN2KZ7/mZYaUZNLs9OuTxU0LO5LTH6o23DJvcssx33H08dL2VwEPhWVDmpf0kP1WqUagn/VEvbYuD3sITSyujnIWpOa4m4ss9YbmEhT4h2HppJaESsvQHiWq1l9nIuDHOPx1yr7ACObz8hG7XFmObG385MB6mXIERi/UlUMXohG8G1GKhk06ppfcjIUHjmBUbMSDTa9JSlALpfu4HjzODHqwqSTrEPcmk0uGIGpCnuX0k1HoaOS1lRm7b8tA6H3OoVY0uZBEpysh6G/yx68DqeQrFrhzrivPSafblg3aSKyml18PotKpPeRlnWZSf7ztcvesTbIas3ltd1MSArsFgnBpIt1/4hQIvFh0R2ceVwETObu+uw8wWUzS1b8kZRgH8M7QGqrRj9nU2L6ejA==;yb+ZTXt4YJdTdVFz8rrC4A=="
 ---

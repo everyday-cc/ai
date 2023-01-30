@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: Edutopia
       domain: edutopia.org
     quality: 19
+  - title: "Run:ai Achieves Unprecedented Growth, Empowering Companies of All Sizes to Compete in AI Market"
+    excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced today that it had attained unprecedented growth"
+    publishedDateTime: 2023-01-30T17:12:00Z
+    webUrl: "https://www.datanami.com/this-just-in/runai-achieves-unprecedented-growth-empowering-companies-of-all-sizes-to-compete-in-ai-market/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 7
 
 secured: "/EJf51Et8y6S4wIS+Zlfr0C/evcxCLbk+F4t9wofi/4ZXGChREPbDIlqwa5vx+Uzs9h0j9fD1xKG1O1KCbdolcfYYwbT+3wVn66a9JMVBHfktgqW1hgzA+2G6uI6Z6giuS6VvVgH5nMEY+b+sNBH/siWuyBrzCoAuvawbQjt+cPEn/btXlSjZfu300Imi2N8TwCqKF0P70gyI+YtxEeqwl02ofBXJl5ilWyXIhYKcJ9PkxxWZZRQG2o+2TLjd7Hjc0ZiO3jb9JggEANMUzwNTSuY7333ZucMFIGLL64TgbNJ+9vtz+0mHfQdZ/UXiF6pWhcCAzPv3qgNoy91cFtE+rQ2t7MWxneqqD6iERHwGRcX8lBjq+S4OLff1wVLtdNs1oN5mcn4GevRYDulZCAh+H2QYlDaF/G2SJblHbe+3UEOspVlfsm7w9SFqlnIEnqNz8NbN/f4csSrpq/hFWcBv1IX4k4d/z2KF9U3hnAjiJWSfnm/J3TJEN2ECEODznSMiWEPg+6Vf8JrdIqqSYlJLQ==;Cth0a2WLYCdwZjw7DCfTeA=="
 ---

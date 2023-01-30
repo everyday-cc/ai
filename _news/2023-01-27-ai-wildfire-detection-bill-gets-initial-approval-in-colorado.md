@@ -2,17 +2,17 @@
 category: news
 title: "AI wildfire detection bill gets initial approval in Colorado"
 excerpt: "A Colorado Senate committee on Thursday unanimously voted to move forward a bill to create a $2 million pilot program that would station cameras on mountaintops, and use artificial intelligence to ..."
-publishedDateTime: 2023-01-26T16:55:00Z
-originalUrl: "https://www.wsls.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
-webUrl: "https://www.wsls.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
+publishedDateTime: 2023-01-26T16:53:00Z
+originalUrl: "https://www.local10.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
+webUrl: "https://www.local10.com/news/politics/2023/01/26/colorado-lawmakers-look-to-ai-to-detect-wildfires-earlier/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WSLS 10
-  domain: wsls.com
+  name: WPLG
+  domain: local10.com
 
 topics:
   - Facebook AI
@@ -96,6 +96,6 @@ related:
       domain: miamiherald.com
     quality: 37
 
-secured: "EfWC12rPbdrVfmr2cxqkKT3TMAzDWoXJdzBfZZ8r+q8k8ojlxpPH//5bVmjpb/aq8mTHZqIG6KXx9BBDWkzRxR0Mt3AEOUTOHmDFZg73HB6FYjdNfx5dp01r6ExL3nCZC1bB4LtkfgpLrkIQ6NZSDGU34EBc5Rqwvsvs2sI6uJ7JtrZW7+rO5hPaIsW6E2J7eZc0vZTBrDMZcj8NTq+jR9T2C+MIZv39klro31j+a5ebSuucDvgdzcA4S06jGGEQ05giXmSHMWxaWUlemXqb/7FPfZdK0sh0XOpF+HydTieHcm+t+BvCQ04/szeyLwEyrq4FC/dOkHFDUERLt7215LmI+y5Ckev553gg7fZK+Gk=;vLAe+oCw20rLVboPzEEO5g=="
+secured: "Tkfn8mZXDnskljkHKRWj851/BV3vF+YzPXHPxjOhMWiKSleegFHRDVmjt2BTd1siAd21QQvTwnt7rmGQigGaSqq7pxLVjk6JIu7LFoMsDLg9geMEjzzd2PxwdTw8rySPWyXKl8AZsFPBAcF0SpanbOOPvaeB13G1HnHlBpvSJI9afak6nbupyvAZ+8j2jbIrOmCUHTro8qEheUyqPBpbKe1VqeE/7qCnjEYcRvD+jjUnD8hXIz2e74IUkyvatbjaMZOQQLAa1JyJgJh0LZY33XNoBcGMNFiXCAg7DE1RU6Kx2rL9XK7MLK9E9ce8ukzRRjepbiVDe38by4qZcQ1+bdSX1Nre2f58Xgx1R2q6CCk=;OMuXvMhbG6CpCxuSFlhi1A=="
 ---
 

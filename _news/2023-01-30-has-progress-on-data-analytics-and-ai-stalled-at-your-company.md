@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2023/01/has-progress-on-data-analytics-and-ai-stal
 webUrl: "https://hbr.org/2023/01/has-progress-on-data-analytics-and-ai-stalled-at-your-company"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,43 @@ topics:
   - AI
 
 related:
+  - title: "Sony Unveils Two 4K PTZ Cameras With AI Analytics"
+    excerpt: "The auto-framing technology driving the PTZ cameras enables automatic operation for quick object tracking and rediscovery. Various auto-framing options are available. The cameras offer quality images with automation,"
+    publishedDateTime: 2023-01-30T18:20:00Z
+    webUrl: "https://www.tvtechnology.com/news/sony-unveils-two-4k-ptz-cameras-with-ai-analytics"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ub7pQ3axe8b5FMkpkpfQYY-1200-80.png"
+        width: 937
+        height: 594
+        isCached: true
+  - title: "Sony Electronics Announces Two 4K IP-Based Pan-Tilt-Zoom Cameras Featuring PTZ Auto Framing with AI Analytics"
+    excerpt: "Sony Electronics is expanding its lineup of pan-tilt-zoom (PTZ) cameras with the addition of two 4K models with built-in AI analytics. The SRG-A40 and SRG-A12 cameras automatically and consistently track,"
+    publishedDateTime: 2023-01-30T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/01/30/9751297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1992006/SRG_A_Series.jpg"
+        width: 400
+        height: 254
+        isCached: true
+  - title: "Sony releases two 4K PTZ cameras"
+    excerpt: "Sony has launched two 4K PTZ cameras, which both include built-in AI Analytics. The SRG-A40 and SRG-A12 automatically track and frame presenters without the use of a computer, as well as automatic operation for quick object tracking and rediscovery and multiple auto framing options."
+    publishedDateTime: 2023-01-30T10:48:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/sony-releases-two-4k-ptz-cameras/5178605.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 4
   - title: "Remark Holdings, Inc. partners with AAEON to simplify the delivery of AI-driven video analytics for a complex world"
     excerpt: "Remark Holdings, Inc. (NASDAQ:MARK), a diversified global technology company with leading artificial intelligence (\"AI\") -powered computer vision solutions, today announced"
     publishedDateTime: 2023-01-27T13:01:00Z

@@ -59,22 +59,6 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "Clothing designer tricks AI-powered face recognition into thinking you’re an animal"
-    excerpt: "The clothing specifically seeks to evade “YOLO” facial recognition technology, which is considered the fastest real-time object detection system in existence, according to Cap_able."
-    publishedDateTime: 2023-01-26T01:06:00Z
-    webUrl: "https://nypost.com/2023/01/25/clothing-designer-tricks-ai-powered-face-recognition/"
-    ampWebUrl: "https://nypost.com/2023/01/25/clothing-designer-tricks-ai-powered-face-recognition/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/25/clothing-designer-tricks-ai-powered-face-recognition/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 68
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/ai-fashion-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Clothing line created to trick AI facial recognition into thinking you're an animal"
     excerpt: "An Italian clothing line has unveiled a new style of fashion aimed at evading increasingly invasive facial recognition technology. According to the company, wearing clothes made by Milan-based Cap_able tricks AI-powered face."
     publishedDateTime: 2023-01-27T20:08:00Z

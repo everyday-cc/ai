@@ -157,6 +157,15 @@ related:
       name: pix11
       domain: pix11.com
     quality: 19
+  - title: "James Dolan defends MSG’s use of facial recognition"
+    excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
+    publishedDateTime: 2023-01-30T16:43:00Z
+    webUrl: "https://www.sportspromedia.com/news/msg-new-york-madison-square-garden-dolan-facial-recognition-liquor/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 19
   - title: "New York Knicks Owner James Dolan Gives Unhinged Interview About Madison Square Garden’s Facial Recognition Technology"
     excerpt: "James Dolan and the New York Knicks yet again came under fire recently. No, not because they're bad at basketball. That's yet again true. But this time"
     publishedDateTime: 2023-01-26T19:52:00Z
