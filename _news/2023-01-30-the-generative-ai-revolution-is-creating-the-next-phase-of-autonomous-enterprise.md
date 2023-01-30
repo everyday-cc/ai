@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/01/29/the-generative-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/01/29/the-generative-ai-revolution-is-creating-the-next-phase-of-autonomous-enterprise/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Coming AI Revolution: 5 Companies at the Forefront"
-    excerpt: "Last night during MSFT's EPS call CEO Satya Nadella confirmed the company's commitment to AI by saying, \"We are committed to help customers use our platforms and tools to do more with less today and innovate for the future in the new era of AI."
-    publishedDateTime: 2023-01-25T13:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-coming-ai-revolution%3A-5-companies-at-the-forefront"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Generative AI Won’t Revolutionize Game Development Just Yet"
     excerpt: "Hypesters say artificial intelligence will one day automate all the hard work of video game creation. But it’s not that simple."
     publishedDateTime: 2023-01-25T18:35:00Z
@@ -49,6 +40,6 @@ related:
       domain: wired.com
     quality: 47
 
-secured: "hauom/Wqy6FbDXtH7KeN6Bbd/5c9L06Q0CWszkTNaogV+9VT0vy3BKf6mDfhTjSxSt+3HxImhU3ictcdUI2nErwSkJVLU+tL6mEhkT7GGH0vINDnzCLZhg/J4vBC7MpiUDTp50hrSBGNRGgMz2dH1oaOzdhHys9jZqFJ7Fi3CAZ7Of9eoL68jHDPxPhkYAS3qQn0REE9wNrNe9UhcXZtKAPy46p0mVvkm/yavTE1LIozuZwIsQRyN8IoaIGDX72ICHTEU6Frjzk6BbAVLBkZlQ3KjspQs7jAv9FGl17YqjDupn5cb/E1Dh6HrSwZYpr8v2wPDsVcqWVhu12F77c6IX4+lt0YtVntkESZ6nQzpkE=;DJWpAG8NpMHNprvB/tLHOw=="
+secured: "fXQalhtJl92E3aC6AubBV3+5FQMqbc+ygRy2INYpZT6qxBHs5d9SgQYus6+k3TzxrNSUTUj/VFss3Za1DTTlQ2wWpcdhrokpeVpZ+pP7VNwmzthvPaOVT/SUGBpaX8jMWBnoNp6kUZ0K++6NBG3TI2LpT/d4yz0cKPZQRqtaJJmWzuRS8hBdOtg0CxlDDH4/sirdqaaHEBwSPYRaCYBEV0T5c/BYxZzrcnXAdlCLjchQnibRnsX+Izz5gxsCQPtbL02nqqs1rTN5k42oUS/XYxyZkhTWFdjGry/s+xSYj4rKbDCvClzTxsLnct1CKWqMpg3rRFELRe1e+8laoWQjU6dYKIcAa1TRT/VjmDYTFZ8CtX8LC6I4oZhfWFShqX1/iSDCW9d/0KgFLTPV9ZJBoaMRVM9HrMiPlQdcBXUgGlxBDWcFt7FbGvFi51C7Dzzm+Y5DX82SbPq9KbWy/buAS2T/6RDaJZ7WNPIKMq9SFtlDDkrY4uMBmOu2XvWyzb1LE/YKknmsBbLM5Q3cbTHOhQ==;e95FXOhIIpg15mvFji07EA=="
 ---
 

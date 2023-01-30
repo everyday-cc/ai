@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-18-arrayus-technologies-awarded-funding-to-advance-focused-ultrasound-therapy-through-ai.md",
+      "title": "Arrayus Technologies Awarded Funding to Advance Focused Ultrasound Therapy through AI",
+      "excerpt": "CNW/ - Arrayus Technologies Inc., an innovator in focused ultrasound therapy for oncology, announced today it has been awarded funding of up to $1.9 million from INOVAIT and the Government of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30464658/arrayus-technologies-awarded-funding-to-advance-focused-ultrasound-therapy-through-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30464658/arrayus-technologies-awarded-funding-to-advance-focused-ultrasound-therapy-through-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30464658",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30464658",
+      "publishedDateTime": "2023-01-18T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data.md",
       "title": "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data",
       "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent",
@@ -1236,50 +1279,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-natural-language-processing-nlp-in-healthcare-and-life-sciences-market.md",
-      "title": "Natural Language Processing (NLP) In Healthcare And Life Sciences Market",
-      "excerpt": "Natural Language Processing (NLP) In Healthcare and Life Sciences Market to Surpass US$ 16,778.1 Million by 2028” - Coherent Market Insights BURLINGAME, CA, UNITED STATES, January 5, 2023 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105388980/Natural-Language-Processing-NLP-In-Healthcare-And-Life-Sciences-Market-Is-Booming-Worldwide-2023-2028-3M",
-      "originalUrl": "https://menafn.com/1105388980/Natural-Language-Processing-NLP-In-Healthcare-And-Life-Sciences-Market-Is-Booming-Worldwide-2023-2028-3M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-01/05/EP_18a70image_story.jpeg",
-          "width": 645,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "AI in Healthcare"
       ]

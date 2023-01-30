@@ -1,27 +1,29 @@
 ---
 category: news
 title: "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process"
-excerpt: "LAGUNA HILLS, CA /  / January 29, 2023 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP,"
-publishedDateTime: 2023-01-29T22:54:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273453345/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process"
-webUrl: "https://www.bignewsnetwork.com/news/273453345/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to"
+publishedDateTime: 2023-01-29T21:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process"
+ampWebUrl: "https://www.benzinga.com/amp/content/30616265"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1674793183838.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: finanznachrichten.de
     quality: 18
 
-secured: "cTCzH5Efxa6JS+887LHUO/iKfW46lNhO7BGWS8ut0ptuTKGk+27ml9Li/4A1Pm0hyx+wfVKMAy91495QxMePDcriDIsj+aRAjR8rSM2vNhqFgJ3DDpk715IXM5zZWzeKVy8IwfehDAPUv4FjZGYnJhjWnrwb6oo48NUHxb3PS758wSof1v3dk3CGDo4UU2MZd5FMknZRh3AGWi3fqix3ufQzPwXJSWNXnO8y4BdnlMpY/p5uzBjoSGtM/LxbCpjx8QS4YcSFHSnW/ctPTwv/Xko9zh4OYJ7PF6H/dBVrbws+WBeSQD1gA6jSKHkxJdXOLRiIsHbUvCEOGFcPEmwqJrd6kJ4ArxsbeSJ1lxjtAxE=;/STy1tAsrWruiloMY3bMvA=="
+secured: "PHj+AqoojP/Pn1aiuj/zhvSV5GfZjw7FexwytoTYCEhi62LSJuW0nJtDRWiY+cEW6e7pCGN/of57cTpvkU4okVd3NGnWNblJ7cS2ZpadbkQBDKXqNLo0NPrmqY+gyxhHh7NBjYHyC3ubJ4Su3eJixZjYBqBezRyf/VpgNimKj3Ifflg4fUNR22H9Y4YAGsvltWndrQA6/m5mccKh4NxDEKpWeJOF76hEt+G5G5Wu5FaSrDohM+NEhlIdKSK7h99Mki6iVrT6xTwQSf5C0wPPUfrzN+TuREwKBjq20S0mT3JoinZ3cSVl81c0S3kx5ddzOUKe+CvIYqwBYeact1SmDkByepfELLFHpTF25ilWRmE=;T7QVH0J6eDS3NhQN9AIQ2g=="
 ---
 

@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Interactions Secures Patent for Intent and Entity Recognition, Real-Time Sentiment Understanding to Uplevel Customer Experience"
-    excerpt: "Extracting Natural Language Semantics From Speech Without the Use of Speech Recognition, Interactions’ 125th patent, introduces new technology for intent and entity recognition, including real-time sentiment understanding."
-    publishedDateTime: 2023-01-25T14:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/25/9749055.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "w5ni9i5ZpyDRg0FP5AwHKSmK4sMFbP/n9fU5vpJzrvvOCOtAn16ZlsYmh6+JetGPCBXTQw/jZfGe5qPtjGSviMqawA1e/hxu0V3bKXH+7lHxHdCxretZt2+eS5yJfAAUdEcBli+esPTSDENO5Fy5fyMd+hy9DbnPqhKq2XGj9Ydz6Wkwwgsy12oPw0X9XGXRx6zEkbfPDwfYW5udq7z3kd6uM3+/EVIzxbgt+97nXrNi4jIx3+dlOAs2Cyq59kMkeohA8e03YfMztBojVBpBN01GEOP7BCK9UtNJ9Py8iLANrcW+gsp2MaFG2lP5r436sTtMdSpZnWtPfMWT1YgfJLq48XR6IHr51oBbh9WghH/FU1a4QLHbsqaX37iwUTySd4LzF9d6Vp8NakQGwIv+TpDNbWwi2suo5ClVwbDI0ANZR7eWZswvOt4F/CjQEseiHWkht1ClMYkdLAT2CYPdudD7ukRwGblLTWk7SOrDgv41cVxc3xujzDitUfh5XNJheDo84C59ijJ56y/g3O61vA==;mjUykrvDROF6DUcV1I2iGg=="
 ---
 

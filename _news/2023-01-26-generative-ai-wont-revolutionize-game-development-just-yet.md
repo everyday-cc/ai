@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 751
         isCached: true
-  - title: "The Coming AI Revolution: 5 Companies at the Forefront"
-    excerpt: "Last night during MSFT's EPS call CEO Satya Nadella confirmed the company's commitment to AI by saying, \"We are committed to help customers use our platforms and tools to do more with less today and innovate for the future in the new era of AI."
-    publishedDateTime: 2023-01-25T13:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-coming-ai-revolution%3A-5-companies-at-the-forefront"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "kV09/BnUccwe3kkR3Udl/msIKbq6fYjzfWgOGWUZQj2zGGVo+X9adg6V4c+VL0zAg+VP45eHpjUk6EB418ebS+G9t95728z0dYy698kY9cMyzzBRksO8RuEf9MdD0l0m2YXn2Hf28tyH69GCILbNeRz7JIWPt9KPDFoMNSnuWclkT96iK3w/p4gMOeueNvRqP3AV3O6p5AleB/hvYNUikxNLcAma5VCNhGMWO2g2zQWi6B33afuo5BwAGstFzdjqow8Ke/D+l0+nFJrGa6xcvaGhIIboiuS/s/6f/ho1a73HAnJ6uVm2KfdHonBfR8N7n7an9cm8/BViY3icXQdLXinDAuMd0m9mhRr8YZ0EwJ5D69ViNxl/wM8V60jyOG1xw70fuVgqIFQTxkYFZospH0AEwwvKuhPr14rEWbxKltmR1/26iCexKlLx+Q4rAXfkE6JV3EXyfKXMANtzMTLeCN/pbywGRy2613M8WgDyVL9Y3FXtbUS2gbdzrWl1NRXR/X1ciKG+/BNADfsdMBvD9Q==;ezxBtjJEURMb836/hTWsOg=="
 ---

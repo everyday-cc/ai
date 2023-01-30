@@ -47,6 +47,22 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "Voice to parliament: migrant and refugee groups reject ‘divisive’ no campaign proposal for constitutional recognition"
+    excerpt: "Chair of body representing culturally diverse communities says Warren Mundine’s push for ‘symbolic’ recognition is a ‘red herring’"
+    publishedDateTime: 2023-01-30T05:12:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jan/30/voice-to-parliament-migrant-and-refugee-groups-reject-divisive-no-campaign-proposal-for-constitutional-recognition"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/30/voice-to-parliament-migrant-and-refugee-groups-reject-divisive-no-campaign-proposal-for-constitutional-recognition"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/30/voice-to-parliament-migrant-and-refugee-groups-reject-divisive-no-campaign-proposal-for-constitutional-recognition"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 36
+    images:
+      - url: "https://i.guim.co.uk/img/media/b3d2acc4061bd914e8d9d6a4bfe75c430745a24b/0_535_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=f17fb2590f287d66d9d84c5b84ebbc22"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Voice opponents push for recognition of migrants alongside Indigenous people"
     excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."
     publishedDateTime: 2023-01-30T00:15:00Z
@@ -60,6 +76,20 @@ related:
       - url: "https://images.sbs.com.au/dims4/default/7c9777f/2147483647/strip/true/crop/1457x820+0+4/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fmundine_1.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Warren Mundine's push for constitutional recognition for migrants a 'distraction'"
+    excerpt: "Picture by Adam McLean A push from a leading Voice to Parliament opponent to recognise migrants alongside First Nations people in the constitution is a \"distraction\", according to the peak body for multicultural Australians. Dan covers federal politics ..."
+    publishedDateTime: 2023-01-30T05:47:00Z
+    webUrl: "https://www.canberratimes.com.au/story/8065434/push-for-migrant-recognition-a-distraction-in-voice-debate/"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 19
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/znhWFHRUTrpRC32tGqnZkk/4d8d73e4-a2f3-4de7-98ee-20debd11204d.jpg/r0_209_4554_2600_w1200_h630_fmax.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MMZfLDjsgBhaqz0XXgGhYjWP5inPu1/t5JOxyVrxFH7MDunwRNwNqKkb7hAhBcCRgHafhR5MLT1eUqXjFBorv4HHopCKL0M86WbPQeJoWBCIx5a8Oh1db3FAUtDyW9Jbxk40Fp+T0nOi8zEXcEBe3qfrzhiLOnThHwJi5ka3Nmrw1oAV2MHR3cbarNV5HDWWNgoo2U/kD3VuINOjyBmXjzDp2ezLJYQw5ZVXbu3DUtmp5Ig4XpuohuU7vU9aU3732NCWoKP+Dzt1U1/sxBt+CG0kJYMIYomddewS7NVinm+ueAHBFmNi0aZLj4TxSgS8W+iUTJ7PGfXfdzMQ/1JGzeXtwsaUHFnWa9c9MThlhIpT3RBIEB0UFDC2ou3C5EpLv1Gx2FNw9Plyt1HoHDRpSFSgFQ/QpZYUsii1zlLi4txhIvsgzh6I8ZTpAvWDV4mhZj5H7ODG2dV+znCNPK27i5xstiA5QEtnRwI6B0y78N8jRg/zQdmRI57QEAaBcbSZgKVM/Z4ZpYMYBdMdpXqArA==;9MU6JyXg77WrxtD38NRkGg=="

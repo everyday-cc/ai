@@ -2,6 +2,101 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-12-13-artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by-boeing-bae-systems-caci-international.md",
+      "title": "Artificial Intelligence (AI) in Military Market Outlook 2022 and Forecast to 2030 | By -Boeing, BAE Systems, CACi International",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 13, 2022 (Heraldkeepers) -- New Jersey, United States- The Artificial Intelligence (AI) in Military market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by--boeing-bae-systems-caci-international-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by--boeing-bae-systems-caci-international-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-artificial-intelligence-for-new-drug-discovery.md",
+      "title": "Artificial Intelligence for new drug discovery",
+      "excerpt": "The world is making rapid progress in the areas of Big Data, Artificial Intelligence and Machine Learning. These are the core drivers of what many analysts have come to refer to as the Fourth ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenationonlineng.net/artificial-intelligence-for-new-drug-discovery/",
+      "originalUrl": "https://thenationonlineng.net/artificial-intelligence-for-new-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nation-media-assets.storage.googleapis.com/wp-content/uploads/2022/12/12223850/intellegence.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation Newspaper",
+        "domain": "thenationonlineng.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
       "title": "Could artificial intelligence help us build a technological world that is more ethical?",
       "excerpt": "Technology, and artificial intelligence in particular, could be used to empower users and help us move towards a world that is more ethically desirable",
@@ -1012,101 +1107,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-innovations-in-robotics-3d-printing-anomaly-detection-system-iot-based-fusion-welding-ai-based-robotic-exoskeleton-researchandmarketscom.md",
-      "title": "Innovations in Robotics, 3D Printing, Anomaly Detection System, IoT Based Fusion Welding, AI Based Robotic Exoskeleton - ResearchAndMarkets.com",
-      "excerpt": "The “Innovations in Robotics, 3D Printing, Anomaly Detection System, IoT Based Fusion Welding, AI Based Robotic Exoskeleton” report has been added to ResearchAndMarkets.com’s offering. The Advanced Manufacturing Technology Opportunity Engine for the month of September 2022 captures innovations related to robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-science-27a8b41dba004b038947f02624ddefe8",
-      "originalUrl": "https://apnews.com/article/technology-science-27a8b41dba004b038947f02624ddefe8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-vcs-say-superpowered-software-a-dearth-of-new-funds-and-rampant-ma-among-the-tech-trends-to-watch-in-2023.md",
-      "title": "VCs say superpowered software, a dearth of new funds, and rampant M&A among the tech trends to watch in 2023",
-      "excerpt": "The party round is over, unicorn valuations are coming back as a meaningful metric, and other predictions from venture capitalists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tech-trends-venture-capital-startup-predictions-2023",
-      "originalUrl": "https://www.businessinsider.com/tech-trends-venture-capital-startup-predictions-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/638fbba28580f70019f7c350?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

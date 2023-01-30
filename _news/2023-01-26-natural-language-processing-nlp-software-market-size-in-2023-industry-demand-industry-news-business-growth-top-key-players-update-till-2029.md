@@ -29,52 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
-    excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
-    publishedDateTime: 2023-01-27T02:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26"
+  - title: "Global Healthcare Natural Language Processing (NLP) Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Healthcare"
+    publishedDateTime: 2023-01-30T03:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
-    excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
-    publishedDateTime: 2023-01-26T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-26"
+  - title: "Artificial Intelligence in the Education Sector Market : Global Market Growth, New Trends, COVID-19 Impact and Forecast 2023 To 2028"
+    excerpt: "Jan 26, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in the..."
+    publishedDateTime: 2023-01-26T23:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-global-market-growth-new-trends-covid-19-impact-and-forecast-2023-to-2028-2023-01-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Artificial Intelligence Market | Top Factors Responsible for the Rapid Growth in the Coming Years 2028"
-    excerpt: "Emotion Artificial Intelligence Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-26T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-artificial-intelligence-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-26"
+  - title: "Voice Recognition Software Market To Eyewitness Steady Growth Throughout 2023-2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-01-27T00:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-to-eyewitness-steady-growth-throughout-2023-2026-2023-01-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "A New Industrial Artificial Intelligence Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2026"
-    excerpt: "Industrial Artificial Intelligence Market Size Outlook for 2026 with massive business analysis and bottom-up analysis of the Companies [, Intel Corporation, Siemens AG, IBM Corporation, Alphabet Inc,"
-    publishedDateTime: 2023-01-27T02:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-new-industrial-artificial-intelligence-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2026-2023-01-26"
+  - title: "Global Self-Driving Truck Technology Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028"
+    excerpt: "Jan 29, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Self-Driving Truck Technology industry. In 2023, Self-Driving Truck Technology Market Size [2023 to 2028] Research ..."
+    publishedDateTime: 2023-01-30T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29"
     type: article
     provider:
       name: MarketWatch
@@ -85,29 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market 2023 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2028"
-    excerpt: "Pages Report] Rising demand for Automobile & Transportation Industry will drive the Self-driving Cars segment growth over the next five years. Global Market Analysis for Self-"
-    publishedDateTime: 2023-01-30T00:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2028-2023-01-29"
+  - title: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast"
+    excerpt: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast is the recently added market research report by Polaris Market Research to its ..."
+    publishedDateTime: 2023-01-26T11:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-growth-2023-top-key-players-review-demand-and-global-analysis-by-forecast"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Security Robots Market to Hit 18.5% of CAGR by 2028 – Driven by Rising Penetration of Automation Techniques | The Insight Partners"
-    excerpt: "New York, Jan. 27, 2023 (GLOBE NEWSWIRE) -- According to The Insight Partners; \"Security Robots Market Size, Growth Strategy, Industry Trends, Size, Share and Global Forecast 2028 – COVID-19 Impact and Global Analysis"
-    publishedDateTime: 2023-01-27T13:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30602547/security-robots-market-to-hit-18-5-of-cagr-by-2028-driven-by-rising-penetration-of-automation-tech"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "SQSTy7dks0coFOf8AutB585ssGgisZhntaDB5ra6v0P5srmVob5Xs3PVuF0ojF1fKS3xTzjQGCOyeKeDnHn41xbfBhFtuufbEOLSUs0+xQBuT6uO5OclhuJXODVsXq40XR9NPXuWJ7aCm3KJRinzf71vDa/i/KEZ1R7E0Q+tkpymTzrDEjgOx6UP6NDhBnC7yxHZku+XknLPj59BsQZ+3TiF+WvrazoKT76lQA68JN1FZxIP8qeOrDiifOnshgg66AGRESL5+LQjMcgXor4sfDmv3YVjOJfXuGT8s5qv9BprxjtQ3S1+2JkQu68iJn6xX07PFhglh59zoGdfVU/5SlkZiATjtBzuWFbArnldKHw=;8Xs8lOTJ7gihrbb4463F7Q=="
 ---

@@ -57,15 +57,6 @@ related:
         width: 1564
         height: 782
         isCached: true
-  - title: "Cohere brings language AI to Amazon SageMaker"
-    excerpt: "It’s an exciting day for the development community. Cohere’s state-of-the-art language AI is now available through Amazon SageMaker. This makes it easier for developers to deploy Cohere’s pre-trained generation language model to Amazon SageMaker, an end-to-end machine learning (ML) service. Developers,"
-    publishedDateTime: 2023-01-25T13:32:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/cohere-brings-language-ai-to-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
 
 secured: "JpVoXCRLgUs1WUq5rndrhjKdrA9KSa22ybru5FY5W+vLYcJ1h4Jf4juYGiv/NKI1pb4J++9gn8hu3RgASk6Ddx91GlQmdNTVGRHISQei0aOmiYtCZYd4ofHdKdF3Atg9G53tzZzUQYHn399oQlIWrnPaYxxZ7NGKWSqapXmqBIy2xtJ6m3r98YIyD+hHaJ1QI1mYOvYa3knP9gErNIavK7sZCzr4/WGpdyVROGQUuHXYYNrj4DUm769diFE7CrGxSgACvc4DQphpNuxpxN3PofULCSt5SzNiy40As/7riPuAF42r7pFjHa6UrhcsMS+NBhDF5TM0wgr3QdB7HWhS0Il80DO/O08lZjpZtPxizU8=;oRgAXlWuhrIv0xfXiha9KA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/technology/deepmind-lays-off-st
 webUrl: "https://www.entrepreneur.com/en-in/technology/deepmind-lays-off-staff-and-shuts-down-their-canada-office/443616"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Alphabet-owned DeepMind AI to shut office in Canada, lay off employees in UK"
-    excerpt: "​“DeepMind has made the difficult decision to consolidate its Canadian offices and close the Edmonton office, while maintaining its other Canadian loc"
-    publishedDateTime: 2023-01-25T14:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/articleshow/97320876.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/amp_articleshow/97320876.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/amp_articleshow/97320876.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 71
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-97321176,width-1070,height-580,imgsize-484019,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Google lay off more employees as DeepMind closes its office in Canada"
     excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
     publishedDateTime: 2023-01-26T09:49:00Z

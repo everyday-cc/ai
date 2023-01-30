@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ford’s BlueCruise Ousts GM’s Super Cruise as CR’s Top-Rated Active Driving Assistance System"
-    excerpt: "The amazement soon follows: With your hands off the wheel and relaxing on the armrests as the automated systems take charge, you might start to believe that the age of the self-driving car is finally upon us. But while BlueCruise’s capabilities are ..."
-    publishedDateTime: 2023-01-25T14:37:00Z
-    webUrl: "https://www.consumerreports.org/cars/car-safety/active-driving-assistance-systems-review-a2103632203/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 0
 
 secured: "5QwF1qXq0HmewWURNLavaZPmCnayajiZfw88URai9uqzRdndW6PA28uu6JG1ciOq6zuU7tRpR79xUQZxFrU8+Aw3+r/e39cYLhReVuDB8x6UnNm8J9MhGQH2qPGfDbrXenGITsYnefuCHR2KtV82F4ggd2JWICvgZ/392lqXtcRyoePKJhnWN/pVzeNrRQ+vTH2pWxbR3shOYr4gpGX6WqYw2SqAgGyu3eQj5SVaxYKDl2FHL03fBzYG/NiWIzuutC8AH/pjDs142ZPoBcDIBTUHNiIBnWWClY67m7DC0cc7I5ugDI5kE/1+1XL/yEt8FQ47yRoNGcNPfZS1P8YorVUMO77YvsdRFBuH+0uZeO0=;0vDA6i37rSzogNzCLXDOIw=="
 ---

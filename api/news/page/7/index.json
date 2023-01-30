@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-21-robots-and-the-future.md",
+      "title": "Robots and the future",
+      "excerpt": "Remotely controlled robots OriHime-D, developed by Ory Lab Inc. to promote employment of disabled people, serve customers at a cafe in Tokyo, Japan November 26, 2018. REUTERS/Issei Kato ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pakistantoday.com.pk/2023/01/20/robots-and-the-future/",
+      "originalUrl": "https://www.pakistantoday.com.pk/2023/01/20/robots-and-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pakistantoday.com.pk/wp-content/uploads/2023/01/Beta-18.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pakistan Today",
+        "domain": "pakistantoday.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker.md",
+      "title": "­­How CCC Intelligent Solutions created a custom approach for hosting complex AI models using Amazon SageMaker",
+      "excerpt": "This post is co-written by Christopher Diaz, Sam Kinard, Jaime Hidalgo and Daniel Suarez&nbsp; from CCC Intelligent Solutions. In this post, we discuss how CCC Intelligent Solutions (CCC) combined Amazon SageMaker with other AWS services to create a custom solution capable of hosting the types of complex",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/20/Featured-images-for-ML-11307.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T10:28:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-best-robot-vacuum-deals-under-100.md",
       "title": "Best robot vacuum deals under $100",
       "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
@@ -1091,100 +1186,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-seattle-fintech-meetup-measure-what-matters-dei-in-fintech.md",
-      "title": "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”",
-      "excerpt": "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/",
-      "originalUrl": "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/Fintech-Meetup-2.png",
-          "width": 1828,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world.md",
-      "title": "AI can create stunning portraits. What does that mean for the art world?",
-      "excerpt": "Amazing artwork is being made using artificial intelligence and image rendering software, but it's raising questions about creativity, copyrights and commerce. NBC News’ Jacob Ward shares his own story of unintentionally buying AI-generated art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-can-create-stunning-portraits-what-does-that-mean-for-the-art-world-160238149972",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_01/1674173785367_nn_jwa_ai_art_2301119_1920x1080-lyu5r7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo160238149972",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo160238149972",
-      "publishedDateTime": "2023-01-19T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,101 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-12-16-artificial-intelligence-could-steal-your-restaurant-job-heres-how.md",
+      "title": "Artificial Intelligence could steal your restaurant job. Here's how",
+      "excerpt": "The food and beverage industry is experiencing a digital transformation, as robots and AI-powered tools fill in the gaps caused by a labor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bdcf8a7fc5583b41444768b0857c758bafb595a4/2020/03/23/bc89ffa7-bdfe-41e3-8ff1-adb3a9e28676/istock-1141493516.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
+      "publishedDateTime": "2022-12-15T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-artificial-intelligence-for-new-drug-discovery.md",
+      "title": "ARTIFICIAL INTELLIGENCE FOR NEW DRUG DISCOVERY",
+      "excerpt": "The world is making rapid progress in the areas of Big Data, Artificial Intelligence and Machine Learning. These are the core drivers of what many analysts have come to refer to as the Fourth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.thisdaylive.com/wp-content/uploads/Julius-Adelusi-Adeluyi.jpg?w=800&ssl=1&mrf-size=m",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/",
+      "publishedDateTime": "2022-12-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-with-3123-cagr-artificial-intelligence-in-healthcare-market-worth-will-be-us-187-billion-by-2027.md",
       "title": "With 31.23% CAGR, Artificial Intelligence in Healthcare Market Worth will be US$ 18.7 Billion by 2027",
       "excerpt": "The global artificial intelligence in healthcare market size reached a value of US$ 3.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 18.7 Billion by 2027 ...",
@@ -1063,101 +1158,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience.md",
-      "title": "Presto Voice Brings Custom Voices to Enhance Automated Drive-Thru Guest Experience",
-      "excerpt": "Presto Automation Inc. (Nasdaq: PRST), a leader in restaurant technology, announced today the introduction of a custom voice feature in its Presto Voice TM drive-thru automation solution. This highly innovative feature,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience/article_5b7f2a6d-580c-57c6-bde7-5856c5f9e234.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience/article_5b7f2a6d-580c-57c6-bde7-5856c5f9e234.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech.md",
-      "title": "Werner CIO Looks to Outfit Company Trucks With AI-Enabled Tech",
-      "excerpt": "The Omaha, Neb.-based company plans to install dashboard cameras with artificial-intelligence capabilities from Samsara in its fleet of 8,500 trucks",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "originalUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-685993/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "publishedDateTime": "2022-12-15T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

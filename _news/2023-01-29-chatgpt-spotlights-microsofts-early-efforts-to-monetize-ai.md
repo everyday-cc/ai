@@ -115,24 +115,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 54
-  - title: "Microsoft Gives a New Lease of Life to Healthcare via ChatGPT"
-    excerpt: "The report posits that the employment of different branches of AI like ML and NLP could save the healthcare system between USD 200 billion and USD 360 billion. This is aside from improving the quality of patient experience and expanding the access to healthcare facilities."
-    publishedDateTime: 2023-01-25T13:05:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-gives-a-new-lease-of-life-to-healthcare-via-chatgpt/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-  - title: "Microsoft Earnings Call: New-Business ‘Slowdown,’ Big AI Bets"
-    excerpt: "Microsoft CEO Satya Nadella used the 2Q earnings call to talk about business growth deceleration, OpenAI, Teams and other topics."
-    publishedDateTime: 2023-01-25T14:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-earnings-call-new-business-slowdown-big-ai-bets"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
   - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
     excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
     publishedDateTime: 2023-01-26T14:00:00Z

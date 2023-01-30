@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-30-us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance.md",
+      "title": "US Defence Department Issues New Directive: Autonomy In Weapons Systems With AI Policy Guidance",
+      "excerpt": "The U.S. Defense Department released on January 25, 2023 its update on autonomous weapons to take into account AI's \"increasing role\" in warfare. This article references also the pros and cons of AI in the military.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d6e7073fdb7283cba89c4b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/amp/",
+      "publishedDateTime": "2023-01-29T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing.md",
       "title": "Otter.ai Is A Gem For Transcribing Your Recorded Thoughts Into Writing",
       "excerpt": "Taking notes by keyboard, or even worse for some, by hand with a pen or pencil, is akin to the dark ages. Try this terrific app and service, Otter.ai, to transcribe your verbal thoughts to writing.",
@@ -53,6 +104,59 @@
       ]
     },
     {
+      "path": "_news/2023-01-30-global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028.md",
+      "title": "Global Healthcare Natural Language Processing (NLP) Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-no-campaigners-push-migrant-recognition.md",
       "title": "‘No’ campaigners push migrant recognition",
       "excerpt": "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised.",
@@ -61,7 +165,7 @@
       "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -104,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2023/01/29/the-generative-ai-revolution-is-creating-the-next-phase-of-autonomous-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -143,6 +247,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process.md",
+      "title": "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30616265",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265",
+      "publishedDateTime": "2023-01-29T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -467,7 +614,7 @@
       "originalUrl": "https://www.wired.com/story/doctors-artificial-intelligence-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -555,58 +702,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-28-face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029.md",
-      "title": "Face Recognition Software Market 2023 Expected to Reach Significant Rate by 2029",
-      "excerpt": "The Global Face Recognition Software market Report provides Detailed analysis on the market position of the Face Recognition Software Top players with stastical data, SWOT analysis, PESTAL analysis, latest developments across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-28T01:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-28-cfo-dinner-generative-ai-and-the-future-of-finance.md",
       "title": "CFO Dinner: Generative AI and the Future of Finance",
       "excerpt": "Michael Schrage, Research fellow, MIT Sloan School of Management Interviewer: Michal Lev-Ram, Editor-at-Large, FORTUNE",
@@ -615,7 +710,7 @@
       "originalUrl": "https://fortune.com/videos/watch/CFO-Dinner-Generative-AI-and-the-Future-of-Finance/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1072,7 +1167,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -1155,111 +1250,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-5-ways-ml-and-sme-collaboration-can-accelerate-innovation.md",
-      "title": "5 Ways ML And SME Collaboration Can Accelerate Innovation",
-      "excerpt": "In this article, I will lay out five ways in which partnerships between data scientists and subject matter experts (SMEs) can accelerate innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ffe0a25c386c343ec2b0a9b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
-      "publishedDateTime": "2023-01-27T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-4-ways-fintech-changed-business-financing.md",
-      "title": "4 Ways Fintech Changed Business Financing",
-      "excerpt": "Fintech’s influence will continue to ripple in the finance world as technology advances, but here are four key impacts our industry has had so far.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6170329671bdc8c063550907/0x0.jpg?format=jpg&width=1200",
-          "width": 1050,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/",
-      "publishedDateTime": "2023-01-27T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

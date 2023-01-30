@@ -20,18 +20,20 @@ topics:
 
 related:
   - title: "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process"
-    excerpt: "LAGUNA HILLS, CA /  / January 29, 2023 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP,"
-    publishedDateTime: 2023-01-29T22:54:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273453345/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to"
+    publishedDateTime: 2023-01-29T21:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30616265"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1674793183838.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "s3tQxz4xSvv4U68OmVs/iCHYx41c+TqIs2t3DFrqC0uvSucKdud3O6Liep5K+PkPQRW41Uh6JyyzVzaDFCc3hUMChuIvUDSzRduRmOktxSBLO3Th9cMhdISLrx8/uaQ7ndOaGRpaZnZ7/c0udKzrcJHuFyeusXMb/MiS5Zq6wcnUOA269msjEXCXMMioLAv+Y0yvZ7YqYYB+NYog4REpu9b4HbNvL4bkZJFNdMY0FTa0nBgeBaH+pQ/fpIVgPVx8OdovOnv4EVhyBVILX4q2j782iqqDAC7LOvg37szVnBQFoeV/NMolldDjfzKsgQ5xiKTIx8ygfcsBKAU//OZzIsQwcHkbVktw8UHBIvwBNUo=;IwqEvbbyoEkaptRoKJxSrw=="

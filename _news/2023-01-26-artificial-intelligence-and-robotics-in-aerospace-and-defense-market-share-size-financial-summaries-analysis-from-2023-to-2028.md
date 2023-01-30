@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25"
 type: article
 quality: 72
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -48,6 +48,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Automotive"
+    publishedDateTime: 2023-01-30T03:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mobile Speech Recognition Software Market 2023 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-30T03:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
