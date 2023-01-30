@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
-excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
-publishedDateTime: 2023-01-27T18:57:00Z
-originalUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
-webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
+title: "AI ChatGPT – the next great hype cycle?"
+excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."
+publishedDateTime: 2023-01-30T00:51:00Z
+originalUrl: "https://www.livewiremarkets.com/wires/ai-chatgpt-the-next-great-hype-cycle"
+webUrl: "https://www.livewiremarkets.com/wires/ai-chatgpt-the-next-great-hype-cycle"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Law
-  domain: law.com
+  name: Livewire Markets
+  domain: livewiremarkets.com
 
 topics:
-  - AI Ethics
+  - Microsoft AI
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
-    width: 767
-    height: 633
+  - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUo3QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df02ab74e11904046dd4f09e5e30ff72304d2e69/Tech-AI-machine-learning-head-scaled.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
 related:
@@ -280,6 +279,20 @@ related:
         width: 1600
         height: 1062
         isCached: true
+  - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
+    excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
+    publishedDateTime: 2023-01-27T18:57:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-01-27T21:00:00Z
@@ -349,20 +362,6 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2023/01/Talking-to-ChatGPT-over-DSTAR-digital-amateur-radio-0-7-screenshot.png"
         width: 3840
         height: 2160
-        isCached: true
-  - title: "AI ChatGPT – the next great hype cycle?"
-    excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."
-    publishedDateTime: 2023-01-30T00:51:00Z
-    webUrl: "https://www.livewiremarkets.com/wires/ai-chatgpt-the-next-great-hype-cycle"
-    type: article
-    provider:
-      name: Livewire Markets
-      domain: livewiremarkets.com
-    quality: 39
-    images:
-      - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUo3QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df02ab74e11904046dd4f09e5e30ff72304d2e69/Tech-AI-machine-learning-head-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
     excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."
@@ -484,6 +483,6 @@ related:
       domain: bizjournals.com
     quality: 2
 
-secured: "OAV9ZHAfrv08Ak0vL2BJEFyFHJca2fsqS+trtpw15AcGcV3PD1TbhZ+NfWQI/qB+jpzrmQHwKGLUxoyVUHXqDrqrU0AWMPwpfEGBqoG/QcMxAEMqlp6hUuu80vaN5G9H0I1ARtoE5/ksxdRhYhA9RrwzwyyOLay+nzQrHO0NI80/QnJVwmjrFok6EwDEkXvv8cisGyNO0vfGgs6rIsrykC4jRrhNZQ9XhftgVgOkGpzN7tcNqDU3BI/ukF/Xo/elDfVlB9JzmTV7iGQmLIRPniRATAtV+8FgY6XMuPmkLbjEwvjEF4UcJNM29EZE8ga1CZfgPPrKQeuPDwpCWfrMAYaLCP70PZ+YF+Gw/twtbTt5JkeX+DWaAGnC29jDUbNV1bwx2y3B/hM6q68+yRnD8q0XOTgHvH+G2MuxoD3Kux0p6bgAeavIbGJg4zB9cziZ7NoqtTlMuqN78RkN0hu90V/YzutgwwVuojHaXN0doH9ugFUdTGywGprC3u+P4MzGR2OhX679OaxQmq9VsMEOdA==;OL79hJ/+6/Juy5duLB0oiA=="
+secured: "oQaJVuGEPS8DAAwXs3uenlIO+/L3DE0HXy+i/4Ikz1ARUQ+AAjkNAKG/8rRgEH3ZMueNo6O257MMed9DPeGbv8AdZ6P6uhgOjzPfOOGT7AaUvX32hTjB23IpRzeEhfiuyXy51b8zMI45WMkFHtnAXFbgimBJFI+GUFZl/FU5SX7FMp6fXdHY/N9kREU05w856na95GDtEOwhqoZurjXmY24yLJsw37mYfM5sUwwmEBBwI28plyWfQ2QMK8RW+Uco05N0O/WU4i67+h41/qGWO+CXUHhCIlDP7I0ZAoE8/yP07P5nKseQRAF2j+GwAaGdvgSRT/bhr52caJReB2s0Eut1uBtgEBT6SURMLPlov+o=;jiCq+oJ0udh8U+UYxqHgGA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-ceo-nadella-expec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2023/01/microsoft-ai-apps-63d16e7a0d8b7-sej.png"
         width: 1600
         height: 840
-        isCached: true
-  - title: "The age of AI is upon us and Microsoft is powering it: Satya Nadella"
-    excerpt: "As the world goes gaga over the real-life use cases of ChatGPT, Microsoft Chairman and CEO Satya Nadella has said that the next major"
-    publishedDateTime: 2023-01-25T08:47:00Z
-    webUrl: "https://glamsham.com/world/technology/the-age-of-ai-is-upon-us-and-microsoft-is-powering-it-satya-nadella"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 54
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/01/b8d4e0f0822ae1cfda0455ef7948b486.jpg"
-        width: 267
-        height: 400
         isCached: true
 
 secured: "gfFllcMfqsD3yL+B1XT0PHHgw3dmTv3O3xhN2aI1tgyV4g/NZRC9dzr4jkxpxVSXIvHDZTcO9c+dl+IGhv2P9Nby19cqveEmDpSfNjoJ1/Bq4pSomq9tnG5Jbrm6aoUPE2bytqEjgZJQsanOFeYjeQDwPJ6tcuKwaFZhb/unBehzC4DNeBPq0VZ1jP5HS2yDeLqb3ry0dPdqJdR0xyy6uULrzyp69TUkAOYqrFb4j9VDA6Eb9mzfpDXXpxcr1Kdr1D0fwj9kyCr3im4NpO9zXIF2zI8mdVKAZUA5BxeiOULSn8T/d6Rs/kHrLDUf3RKvfyF57U/eYmXMrmiv08sb36TkfK5imbYD7BZXKpVPuUd+xXXhEfTx7qKAt+pZizmygBVkUo1DdqwAjjOSEqO/YNkjRKairnvLgMc8z7nnUh54mrAIbBQRsHWLRC3jp3JKqta3GxE3QuOB93UkRkB26Wxp39SEhJyWZUIieoaFaZYJdqKOk/OitBZfJtnzY4WgfYQxrrlJF2wf6Qt3b2cxgw==;NaRbtqMfVTKFlH+vB0E6ZQ=="

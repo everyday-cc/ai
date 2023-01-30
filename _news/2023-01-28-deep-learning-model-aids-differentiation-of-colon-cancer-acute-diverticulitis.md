@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-01-deep-aids-differentiation-col
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-deep-aids-differentiation-colon-cancer.amp"
 type: article
 quality: 70
-heat: 84
+heat: 80
 published: true
 
 provider:

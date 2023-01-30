@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Supply Chain Market 2023 Constitutes Trends, Segment Size, Restraints, and Drivers that Transform the Industry to 2028"
-    excerpt: "A comprehensive research on Artificial Intelligence Supply Chain Market Overview 2023-2028. It displays the market size"
-    publishedDateTime: 2023-01-25T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2023-constitutes-trends-segment-size-restraints-and-drivers-that-transform-the-industry-to-2028-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Security Robots Market to Hit 18.5% of CAGR by 2028 – Driven by Rising Penetration of Automation Techniques | The Insight Partners"
     excerpt: "New York, Jan. 27, 2023 (GLOBE NEWSWIRE) -- According to The Insight Partners; \"Security Robots Market Size, Growth Strategy, Industry Trends, Size, Share and Global Forecast 2028 – COVID-19 Impact and Global Analysis"
     publishedDateTime: 2023-01-27T13:13:00Z

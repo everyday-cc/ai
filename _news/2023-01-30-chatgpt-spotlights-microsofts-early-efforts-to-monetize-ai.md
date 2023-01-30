@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
-excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
-publishedDateTime: 2023-01-27T18:57:00Z
-originalUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
-webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
+title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
+excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
+publishedDateTime: 2023-01-29T23:55:00Z
+originalUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
+webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
 type: article
-quality: 41
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Law
-  domain: law.com
+  name: Mint
+  domain: livemint.com
 
 topics:
-  - AI Ethics
+  - Microsoft AI
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
-    width: 767
-    height: 633
+  - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -105,22 +106,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d3683734efc0e887a89c47/0x0.jpg?format=jpg&crop=907,605,x143,y0,safe&width=1200"
         width: 907
         height: 605
-        isCached: true
-  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
-    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
-    publishedDateTime: 2023-01-29T23:55:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
-        width: 600
-        height: 338
         isCached: true
   - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
     excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
@@ -279,6 +264,20 @@ related:
       - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/01/29/thumbs/800x531/254190.jpg"
         width: 1600
         height: 1062
+        isCached: true
+  - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
+    excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
+    publishedDateTime: 2023-01-27T18:57:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
@@ -484,6 +483,6 @@ related:
       domain: bizjournals.com
     quality: 2
 
-secured: "OAV9ZHAfrv08Ak0vL2BJEFyFHJca2fsqS+trtpw15AcGcV3PD1TbhZ+NfWQI/qB+jpzrmQHwKGLUxoyVUHXqDrqrU0AWMPwpfEGBqoG/QcMxAEMqlp6hUuu80vaN5G9H0I1ARtoE5/ksxdRhYhA9RrwzwyyOLay+nzQrHO0NI80/QnJVwmjrFok6EwDEkXvv8cisGyNO0vfGgs6rIsrykC4jRrhNZQ9XhftgVgOkGpzN7tcNqDU3BI/ukF/Xo/elDfVlB9JzmTV7iGQmLIRPniRATAtV+8FgY6XMuPmkLbjEwvjEF4UcJNM29EZE8ga1CZfgPPrKQeuPDwpCWfrMAYaLCP70PZ+YF+Gw/twtbTt5JkeX+DWaAGnC29jDUbNV1bwx2y3B/hM6q68+yRnD8q0XOTgHvH+G2MuxoD3Kux0p6bgAeavIbGJg4zB9cziZ7NoqtTlMuqN78RkN0hu90V/YzutgwwVuojHaXN0doH9ugFUdTGywGprC3u+P4MzGR2OhX679OaxQmq9VsMEOdA==;OL79hJ/+6/Juy5duLB0oiA=="
+secured: "IvZLQJYSgfZC3dag0eOuWJm1u+V1syHSAUFQwC1JcqiI6UIauvQC8flLcEuwaayuc1lyDU1VHY3GVA4tPHvVk8s/QUOgBLcu6pq4G17E/UxXO+RrXvrGfeDVwVkZWQpXGms9wTdddQFbS/GW70UFzRpzQTs0h0BWZEtPoOc4DPW69mMtRDWUOvFanE37ckw0ijlqtQcXayGQKaKDAjyRPpwmDXNPVEAjjbRgJ9Qe8VK3/WGyN6JJYJnYCCvK2N2g0JKoiQ5X++Sj+/lP/vXV2lWuXCrhZvMKw536agwzMPQ7TbpDh/ExdQ1370gxuLIqfHZtVlc9Yux2eJU5oAzA8MrcHXTtL3yejGhwH1Q6VKc=;LqLdAizi7PJ2z46w1ZmSTA=="
 ---
 

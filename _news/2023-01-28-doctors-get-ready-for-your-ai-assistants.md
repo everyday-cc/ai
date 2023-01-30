@@ -5,10 +5,12 @@ excerpt: "Hospitals have begun using machine learning to help analyze and collec
 publishedDateTime: 2023-01-28T12:00:00Z
 originalUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine/"
 webUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine/"
+ampWebUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-artificial-intelligence-medicine/amp"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: Wired
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://media.wired.com/photos/63ceb6f404fdce858b27a139/master/pass/05_As-AI-health-assistant-at-every-level.jpg"
+    width: 2400
+    height: 1600
+    isCached: true
 
 related:
   - title: "Hello, this is Your Personal AI Assistant: The Future of Conversational AI"
@@ -37,6 +46,6 @@ related:
         height: 2068
         isCached: true
 
-secured: "tiOl88a/o/Lrc9MI2Z1tMDRfvPVJerfaJrC/Gohr6VF0nCsKtnMY+4FN05P7hJDZnjGWs6ge00v4CB43XL/sx4fDq/9GRfJjHrhzTTmg4wDXClj46Kj0+o1kfoB/whGkR/HYFx7IPTtEry98eOFzJrFDBwQp7ewjXPIso/XLAgst/onrZYhTad/5RwrfLcisy+ST1pJhZCshoHIp13pMZrvL30d+P1XcEtNpYVUmw8Kxn910aHeB4BI5cUi5fUbEt3y+mWQrc5sRaAVERh0YbDVoArLts3u8iqrE+SiCR+2SVgDvm/ifVU822UBete/zzJHSbv4g7cngJkQ9RhrJhlZgX5o9KC7TT37uYGnZWrdotyXsvMKm+FgIVPqc5RUzJa2g/Ayeoyyf5ZK5enOgFNdpqhMJWLNtvp/bkU0/rypD/yjwh1K+vJ0hUm6dzDW3zezt0Yl6AHi9QMyOXdbI9BbMKzJc3E6tU42krFCkBxzzuP5kVBP3IiPIjO+O4tJTi+7n1rUpx/7dwv/9MT+Mxg==;yrdM0whLJR0oc8nLT8tepA=="
+secured: "EwsZkwHX5mhsZc6Wa2R6mAqCXNNcaxNoF8r6rbPwEuBRX2zWplvfciDJCkW8cQZ916b6C/Fvvh6BdLX5aaKsE8SCvBkkPUw9RhlIyFh3QR7vOvIIaMKzZwZ0WyYY3k2aDoijzc0nAm2kzk1W/pR9WapFTzwLi1yMiIAVR0QYR6e4jzzns6kWCN1ZLUOQTZB8LbI8YKFvUxjQDKrlXIM88nbsRzVXsRbyr7sm6QNtl8Y5Mtp5Tw2CVHOtaMxP+0GmjUOhdZVe5cet2xbCzfmGRgvuSNHvv39LzekSKNiiWSKoVY/8RYnDAGFSQKI5aZMB6nEMH0ukud6wNxlYgN6p5TCipbmxStB1uetfnKgoyTw=;YLSrqV126eW6NMwDUye22w=="
 ---
 

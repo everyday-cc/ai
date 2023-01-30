@@ -102,6 +102,22 @@ related:
         width: 907
         height: 605
         isCached: true
+  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
+    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
+    publishedDateTime: 2023-01-29T23:55:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
     excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
     publishedDateTime: 2023-01-27T21:06:00Z
@@ -288,20 +304,6 @@ related:
         width: 600
         height: 333
         isCached: true
-  - title: "Comment: Don’t blink; AI like ChatGPT is improving quickly"
-    excerpt: "The current revolution of Large Language Models (LLMs) such as ChatGPT resulted from the advent of “transformer neural networks” in about 2017. What will the next half-decade bring? Can we rely on our current impressions of these tools to judge their quality,"
-    publishedDateTime: 2023-01-25T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-dont-blink-ai-like-chatgpt-is-improving-quickly/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "ChatGPT Is Just The Start: AI Is Rewriting The Data Center Real Estate Map"
     excerpt: "ChatGPT is the tip of the iceberg and growing demand for AI will dramatically change where and how data centers are built"
     publishedDateTime: 2023-01-27T01:50:00Z
@@ -357,6 +359,20 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2023/01/Talking-to-ChatGPT-over-DSTAR-digital-amateur-radio-0-7-screenshot.png"
         width: 3840
         height: 2160
+        isCached: true
+  - title: "AI ChatGPT – the next great hype cycle?"
+    excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."
+    publishedDateTime: 2023-01-30T00:51:00Z
+    webUrl: "https://www.livewiremarkets.com/wires/ai-chatgpt-the-next-great-hype-cycle"
+    type: article
+    provider:
+      name: Livewire Markets
+      domain: livewiremarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUo3QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df02ab74e11904046dd4f09e5e30ff72304d2e69/Tech-AI-machine-learning-head-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
     excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."

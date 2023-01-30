@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-softwar
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Report on Artificial Intelligence (AI) Robots Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2027"
-    excerpt: "Latest Research Report 2023: A new Artificial Intelligence (AI) Robots market report provides up-to-date information"
-    publishedDateTime: 2023-01-25T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-report-on-artificial-intelligence-ai-robots-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2027-2023-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast"
     excerpt: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast is the recently added market research report by Polaris Market Research to its ..."
     publishedDateTime: 2023-01-26T11:25:00Z

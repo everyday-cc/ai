@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft erases gains after saying Azure growth will slow down"
-    excerpt: "Downbeat forecast brings focus back to software giant’s challenges as corporate customers rein in spending. Read more at straitstimes.com."
-    publishedDateTime: 2023-01-25T07:22:00Z
-    webUrl: "https://www.straitstimes.com/business/microsoft-profit-beats-estimates-on-strong-cloud-performance"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 69
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/25/2023-01-24T165211Z621949402RC23XY9X083BRTRMADP3MICROSOFT-RESULTS_4.JPG?VersionId=nIpg3gnXYt.LO4UBD7_B6wHnErn3r8xI"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Microsoft Q2 Results: Approach Azure And AI Hype With Caution"
     excerpt: "Microsoft posted solid Q2 results by topping guidance in nearly each segment, and restoring faith in Wall Street's visibility of Azure. Satya Nadella's vision and execution have been second-to-none, and while AI is in its infancy, early practical use cases ..."
     publishedDateTime: 2023-01-26T12:30:00Z

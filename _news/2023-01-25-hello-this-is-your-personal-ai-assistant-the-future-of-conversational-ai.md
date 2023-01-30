@@ -31,11 +31,18 @@ related:
     excerpt: "Hospitals have begun using machine learning to help analyze and collect images, and the medical applications are endless."
     publishedDateTime: 2023-01-28T12:00:00Z
     webUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine/"
+    ampWebUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-artificial-intelligence-medicine/amp"
     type: article
     provider:
       name: Wired
       domain: wired.com
-    quality: 47
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/63ceb6f404fdce858b27a139/master/pass/05_As-AI-health-assistant-at-every-level.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "Q/HZi0Nivyy8Owj2LsF5zboKtgMoNqUM/meCzYoLx4UpyaEMNdgW6JPH/UhqBk6viFCce3c5g1Ae9mo1nTzhE9BvdJl9x7s6+8bZ+23Ha0oUh7aWn+CesszXEQmv+VrxAlVA+V4gvLsJk7o11E4FAOfoVtv5Wsv2ZnuYReCaKLF3aHyPKO1RzFtt1XX1JD1Bq8lme2IlTWf9epQ2TCmP5gLBbSrjr4QRQtIyOyfZieTKvvssKPSAgUnUzYk4n5NfjMxnokXQ8Z7sTPIpHNuJ96a8PfoVxa4LWs5wliLxHZqg5ZkVxCof8UOyikIuTgaLbUciYECAfz0cjpKdMPFBXfOoZ3v1OEYFZlicyo68feULurlWlFylJQ2Jjqi5+p4Kp08pqCd93cYwENBUOTb5MxBQxR0knYrGFRyso+zX/0b4fr9PmpNSch6C1QP7K/gB5fymikxeysU8X50B7PBygptLGJ4CU4IFGHDfPJJcBDVnWnRBktgAGZtlZZfIwQIgzhnAH28hfg5FzYywdVxZEg==;eNfS17O+2+6WTojfHnvImw=="
 ---

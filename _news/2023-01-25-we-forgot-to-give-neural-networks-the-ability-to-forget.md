@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ashoka/2023/01/25/we-forgot-to-give-neu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashoka/2023/01/25/we-forgot-to-give-neural-networks-the-ability-to-forget/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 93
 published: true
 
 provider:
