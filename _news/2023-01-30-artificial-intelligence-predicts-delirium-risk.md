@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-d
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 1000
     isCached: true
+
+related:
+  - title: "AI Predicts Warming Will Surpass 1.5 C in a Decade"
+    excerpt: "New research from artificial intelligence projects that global warming will hit the threshold of 1.5 degrees Celsius somewhere between 2033 and 2035"
+    publishedDateTime: 2023-01-31T19:41:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-predicts-warming-will-surpass-1-5-c-in-a-decade/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/737B2FF6-BCAE-41F4-AC7041A2B35FABAB.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "t7PSv5j/T7EurcDtA8bOXmPnO7BJweLy5aCGlRgN1zvtUX8vxdkmAdlS4WMNZ1sRSMsUzeT03bbIfqp2ExAori9KAE63iRV7yh9Z82GRoI88AXJ2jYXT2i04UJN7eN00pYQAt6BsiMa7c6zSzMkEjtH7W8CmTjc/HpE+1Vltd6OVX3TgR3kwYKKHGaSi4vGVv9C8M0FCVcTUSvDA0TO8wQdb1cANgTf9u7/x7OAVonc2kJLV4eXPaHOCvt5Yf0fUcYZKRVe/uEADiLuEHALrPpdMXu7HxAv76WTPjDX0NoZeoZ/qB8iviW8TKXvBWWTgx9YV6oaeKIPsSl6EmE6jOIEr18Gk0fufcPNa1vAABAM=;vIMkJBMW2At2H0eXmoy4xA=="
 ---

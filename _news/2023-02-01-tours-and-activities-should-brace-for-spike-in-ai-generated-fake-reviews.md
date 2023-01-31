@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T19:50:00Z
 originalUrl: "https://skift.com/2023/01/31/tours-and-activities-should-brace-for-spike-in-ai-generated-fake-reviews/"
 webUrl: "https://skift.com/2023/01/31/tours-and-activities-should-brace-for-spike-in-ai-generated-fake-reviews/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Skift

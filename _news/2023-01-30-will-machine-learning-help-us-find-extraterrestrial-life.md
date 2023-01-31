@@ -57,20 +57,6 @@ related:
         width: 685
         height: 594
         isCached: true
-  - title: "Will an AI be the first to discover alien life?"
-    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss."
-    publishedDateTime: 2023-01-30T16:57:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-00258-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00258-z/d41586-023-00258-z_23960252.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "CdXSVJizplfyWrJqIr6uiRhbv7YXqwxgVoaXXt9syXSlYDoK8ZxOUanjQqEb5e+PvlaMv1q2yQpgTj8syB1yPHOgmN7dyIITHMvaSO2HjNh2hBNoV/w8dvyPVqxMvmiTn3Opp0tCMFxxVKkqXgxibt7eRR0wcuK4XR3UaPnT5JSTZJWtGVJM5jzYsjS2lnggQSBw9zM4mt+t5l/OA4ZE0tPU3M4edbgejrL34BAJKUTsNHiShJlblCjCHW1D3fnfDiCunvtGs3+Wkp9+CbPUn+JobLSRji4g5NXDFvl0yx650ToY23RsmYutH0jcWL1I2QzmA+E405cWPbAwutjos4e2nQmbdMGkMoE49mM8jAhqgPWeo1nMaQeO0aFq/7dObddU3hRu7hlDBvIxRYEzXUDsfrRCpYnVbTq/gbq/rfj5KnsBmV7HuX2SneiGFYdsBPd6NL45wfyuqfcw4zQU5dzEFieXZbOk7LBvEJ6GMjEdJTSWun0gcUNZW/38wSn0v0CHx5qE+VSmsIWkE6fyLw==;8DzYZzLRNpA4B6PDb1+K+g=="
 ---

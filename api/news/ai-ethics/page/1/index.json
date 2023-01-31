@@ -47,6 +47,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-31-ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse.md",
+      "title": "AI voice generator used to deepfake celebrities spewing racist abuse",
+      "excerpt": "UK-based ElevenLabs announced its Prime Voice AI which lets users generate the ‘most realistic’ spoken audio in any voice and style. However, in just a few weeks, troublemakers have taken to using the tool to upload deep faked voices of celebrities like Joe Rogan to Robin Williams,",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/",
+      "originalUrl": "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/01/cowomen-8M6KCnMvLus-unsplash-c17c.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/",
+      "publishedDateTime": "2023-01-31T03:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-what-greek-myths-can-teach-us-about-the-dangers-of-ai.md",
       "title": "What Greek myths can teach us about the dangers of AI",
       "excerpt": "How far should we go with AI? And what are the looming implications of this technology? Three Ancient Greek myths help us give an answer.",
@@ -109,7 +152,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 469,
+      "heat": 509,
       "tags": null,
       "images": [
         {
@@ -1383,59 +1426,6 @@
         "Facebook AI",
         "AI Ethics",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029.md",
-      "title": "Data and AI Ethics Market Research Highlighting Global Opportunities 2023 | Growth Trends and Share Forecast to 2029",
-      "excerpt": "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Data and AI Ethics Market”",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-19T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

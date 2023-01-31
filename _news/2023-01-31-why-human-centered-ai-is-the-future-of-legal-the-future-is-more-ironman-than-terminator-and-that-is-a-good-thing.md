@@ -35,15 +35,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "Google, not OpenAI, has the most to gain from generative AI"
-    excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
-    publishedDateTime: 2023-01-27T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90839649/google-not-openai-has-the-most-to-gain-from-generative-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
 
 secured: "uaLrLTKpVgEKWZctRCv26KALSH6D1JN8wU6K7PTgV8yT3RoSit6RkEy/oGvpxL/9VvnMdxtOPMLScnw4P7XnRBq1EkxQ9fhCNa6VOJbAkGtiOn4jOJ/lr4vksyK1J5ohy/yguHu9SK7N4Ky2o9g3rLpSERSKbBStsC1zt3N9sRZU8dEW3SAZScqq8UIluLZ6ytJVf8gGFPft4VKjDoVR7rOHxBFdy+MSb3weo8EbL4D2Ex2AmAR/igon38wHxOhXOU1SxFxjPIoUO3U2GcIcULBJIl6jVAqTAvZMylwDnnAXGASEgX83OzbSldFXc7mCox7qR4e2y0QsT3TUzZVH6iwnIuPOC1GMK7ryuN8XfJ+VExSnebWIPr5dcbP22xHzyQJzZ4K4wubzQPqEbHMwB8SR9If+Q9vCbEXwjmMwhre4P8HxOKDumT4Q/8w0KMX5WLaxAOFmYnAmd45MZj5U7pNYw5uf6kkNKl7v9G+OKOOFQMY8hMMd2P9PZrzlz5YuxLISc0y5B8sgmdfRSdaOcA==;uf7I+fsYmCGEzglFIVIAsQ=="
 ---

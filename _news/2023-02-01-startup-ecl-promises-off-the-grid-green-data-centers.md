@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T20:17:00Z
 originalUrl: "https://www.networkworld.com/article/3686532/startup-ecl-promises-off-the-grid-green-data-centers.html"
 webUrl: "https://www.networkworld.com/article/3686532/startup-ecl-promises-off-the-grid-green-data-centers.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Network World

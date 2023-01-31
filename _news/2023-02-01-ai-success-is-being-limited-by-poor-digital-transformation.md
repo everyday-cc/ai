@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T19:07:00Z
 originalUrl: "https://venturebeat.com/ai/ai-success-is-being-limited-by-poor-digital-transformation/"
 webUrl: "https://venturebeat.com/ai/ai-success-is-being-limited-by-poor-digital-transformation/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

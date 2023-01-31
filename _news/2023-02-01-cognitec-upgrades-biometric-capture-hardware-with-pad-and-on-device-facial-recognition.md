@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T19:11:00Z
 originalUrl: "https://www.biometricupdate.com/202301/cognitec-upgrades-biometric-capture-hardware-with-pad-and-on-device-facial-recognition"
 webUrl: "https://www.biometricupdate.com/202301/cognitec-upgrades-biometric-capture-hardware-with-pad-and-on-device-facial-recognition"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Biometric Companies

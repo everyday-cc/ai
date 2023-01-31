@@ -165,6 +165,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Justice Department seeks Tesla automated driving documents"
+    excerpt: "The Austin, Texas, electric vehicle maker cautioned that if the government decides to pursue an enforcement action, it could possibly have a material adverse impact on its business."
+    publishedDateTime: 2023-01-31T18:38:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/justice-department-seeks-tesla-automated-driving-documents/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/justice-department-seeks-tesla-automated-driving-documents/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/justice-department-seeks-tesla-automated-driving-documents/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/31/0c759950-de12-4b5d-b4f9-fe78782cfb77/thumbnail/1200x630/3e31fbfb61a41c91610e577b01d16f4c/ap23031464533386.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
     excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
     publishedDateTime: 2023-01-28T00:03:00Z
@@ -235,6 +251,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla’s Self-Driving Technology Comes Under Justice Dept. Scrutiny"
+    excerpt: "A regulatory filing says officials have asked about software that Elon Musk, the chief executive, has said would allow cars to operate autonomously."
+    publishedDateTime: 2023-01-31T20:14:00Z
+    webUrl: "https://www.nytimes.com/2023/01/31/technology/tesla-autopilot-investigation.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 49
   - title: "California Might Allow Self-Driving Semi-Trucks on Roads"
     excerpt: "Following years of pleadings from the autonomous vehicle industry, California officials are revisiting a statewide policy that prohibits self-driving semi-trucks and big rigs on its roads."
     publishedDateTime: 2023-01-27T17:16:00Z
@@ -265,19 +290,30 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Tesla Cybertruck Gets New Self-Driving Computer That Might Not Be Retrofit to Other EVs"
-    excerpt: "Tesla is getting ready to roll out the next version of its Full Self-Driving (FSD) computer to its line of passenger vehicles. The first of which, according to Musk's commentary during the company ..."
-    publishedDateTime: 2023-01-27T03:46:00Z
-    webUrl: "https://www.thedrive.com/news/tesla-cybertruck-gets-new-self-driving-computer-that-might-not-be-retrofit-to-other-evs"
+  - title: "US Justice Dept Investigating Tesla Self-driving Features"
+    excerpt: "The US Department of Justice has opened an investigation into Tesla's driver-assistance features, the company said Tuesday in a financial document."
+    publishedDateTime: 2023-01-31T21:33:00Z
+    webUrl: "https://www.barrons.com/news/us-justice-dept-investigating-tesla-self-driving-features-01675186508"
+    ampWebUrl: "https://www.barrons.com/amp/news/us-justice-dept-investigating-tesla-self-driving-features-01675186508"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-justice-dept-investigating-tesla-self-driving-features-01675186508"
     type: article
     provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 31
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+  - title: "Tesla says Biden administration has requested documentation on company's self-driving technology"
+    excerpt: "Auto company Tesla said in government filings this week that the White House is actively seeking information from it regarding its self-driving and artificial intelligence technologies. The corporation said in SEC filings on Monday that it regularly ..."
+    publishedDateTime: 2023-01-31T20:25:00Z
+    webUrl: "https://justthenews.com/government/federal-agencies/tesla-says-biden-administration-has-requested-documentation-companys"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 26
     images:
-      - url: "https://www.thedrive.com/uploads/2023/01/26/20230126-Elon-Musk-HW4.0.jpg?auto=webp"
-        width: 1920
-        height: 1080
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-07/GettyImages-1257348003.jpg?h=199d8c1f&itok=luvb0JA3"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Beyond the hype and crash investigations: What it’s like to drive with Tesla’s ‘Full Self-Driving’ feature"
     excerpt: "In most cases, the car drove well, avoided construction cones, and made right- and left-hand turns confidently"

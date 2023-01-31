@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-01-tech-tuesday-samsung-smartphones-google-ai-liquid-robots.md",
+      "title": "Tech Tuesday: Samsung smartphones, Google AI, ‘liquid’ robots",
+      "excerpt": "From a sneak peek of the latest smartphones and artificial intelligence to “liquid” robots, technology expert Greg Nibler joined KOIN 6 News’ AM Extra to share the latest tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
+      "originalUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/01/Liquid-robot-Carnegie-Mellon-University-1312023.png?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
+      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
+      "publishedDateTime": "2023-01-31T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOIN 6",
+        "domain": "koin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-wesh-2-exclusive-meeting-sophia-the-ai-robot.md",
       "title": "WESH 2 Exclusive: Meeting Sophia the AI Robot",
       "excerpt": "SANIKA: ROBOLAND FEATURE SEVERAL ROBOTS, LIKE ROBO THESPIAN, ROBO I-PAL, EVEN A ROBO FISH, BUT ONE SPECIAL ROBOT IS THE MAIN ATTRACTION, SOPHIA. WESH 2’S JASON GUY HAS THE STORY. >> MY NAME IS SOPHIA.",
@@ -224,6 +268,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-ted-lieu-uses-a-robot-to-draft-the-first-ai-written-bill-for-congress.md",
+      "title": "Ted Lieu uses a robot to draft the first AI-written bill for Congress",
+      "excerpt": "Rep. Ted Lieu, a California Democrat, is pulling out all the stops to warn us about the need to regulate artificial intelligence technology such as ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/ted-lieu-chatgpt-ai-bill-congress-rcna67944",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/ted-lieu-chatgpt-ai-bill-congress-rcna67944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230127-ROB-Ted-Lieu-jg-copy-c5e42f.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67944",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67944",
+      "publishedDateTime": "2023-01-27T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1264,102 +1351,6 @@
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-the-chatbots-cant-outsmart-you-yet.md",
-      "title": "The Chatbots Can’t Outsmart You. Yet.",
-      "excerpt": "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it. We need to stay calm — and develop a new test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/22/business/22Turing-test-illo/22Turing-test-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html",
-      "publishedDateTime": "2023-01-20T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai.md",
-      "title": "M3GAN: The very real inspirations behind Hollywood's new favourite killer robot - and why we're so fascinated with AI",
-      "excerpt": "But M3GAN debuts in a world where AI and its associated ethical dilemmas are all around us, from voice assistants that we've happily invited into our homes, to an artistic robot giving evidence in ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
-      "originalUrl": "https://news.sky.com/story/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/23/01/768x432/skynews-m3gan-film_6029033.png?20230119120450",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
-      "publishedDateTime": "2023-01-19T22:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
         "images": null,
         "publishers": null,
         "authors": null

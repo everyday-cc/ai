@@ -2,6 +2,363 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-30-brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process.md",
+      "title": "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30616265",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265",
+      "publishedDateTime": "2023-01-29T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-artificial-intelligence-machines-market-outlook-2023-and-forecast-to-2028-with-top-countries-data.md",
+      "title": "Artificial Intelligence Machines Market Outlook 2023 and Forecast to 2028 with Top Countries Data",
+      "excerpt": "Artificial Intelligence Machines Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-madison-square-garden-ceo-defends-use-of-facial-recognition-tech.md",
+      "title": "Madison Square Garden CEO Defends Use of Facial Recognition Tech",
+      "excerpt": "In an interview on Fox 5’s 'Good Day New York' this week CEO James Dolan said: 'If you’re suing us, we’re just asking of you—please don’t come until you’re done with your argument with us.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech",
+      "originalUrl": "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07pDunJzjhUyZX14QfwYQLQ-1.fit_lim.size_1200x630.v1675023958.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series.md",
+      "title": "Impact Of AI On The Music Industry (Part 2 Of A Two Part Series)",
+      "excerpt": "This article continues to explore the impact of AI on the music industry and looks at some of the pros and the cons, reinforcing the need for increased legal frameworks and copyright protections for musicians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d6d3d0a83fa6dc1c5c8564/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/amp/",
+      "publishedDateTime": "2023-01-29T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-29-who-owns-ai-generated-art-a-comic-book-draws-the-battle-lines.md",
+      "title": "Who Owns AI-Generated Art? A Comic Book Draws the Battle Lines",
+      "excerpt": "Artificial intelligence programs like Midjourney allow artists to create mashup images from written prompts, stirring up questions over copyright; an ‘epic scene’ and Zendaya.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
+      "originalUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-710473/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-29-some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law.md",
+      "title": "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law",
+      "excerpt": "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 509,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d1b102cf214ea638922d82/0x0.jpg?format=jpg&crop=1391,783,x0,y29,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-01-29T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-artificial-intelligence-may-actually-help-humanize-financial-services.md",
+      "title": "Artificial Intelligence May Actually Help Humanize Financial Services",
+      "excerpt": "Industrywide, we lacked some engagement, we lacked some warmth, we lacked some relevance, particularly through digital channel. We need to re-instate humanization into digital, and AI is a tool that’s going to help us get there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d44b0b30d078897e922e26/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
+      "publishedDateTime": "2023-01-28T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures.md",
       "title": "Plainsight and MarineSitu Using ‘Computer Vision’ To Protect Sea Creatures",
       "excerpt": "Plainsight calls the technology “vision AI” or “computer vision,” says Elizabeth Spears, company cofounder and chief product officer in Seattle, Washington. “The idea is that anything that people could see,",
@@ -261,7 +618,7 @@
       "originalUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 287,
+      "heat": 317,
       "tags": null,
       "images": [
         {
@@ -301,6 +658,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-ted-lieu-uses-a-robot-to-draft-the-first-ai-written-bill-for-congress.md",
+      "title": "Ted Lieu uses a robot to draft the first AI-written bill for Congress",
+      "excerpt": "Rep. Ted Lieu, a California Democrat, is pulling out all the stops to warn us about the need to regulate artificial intelligence technology such as ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/ted-lieu-chatgpt-ai-bill-congress-rcna67944",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/ted-lieu-chatgpt-ai-bill-congress-rcna67944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230127-ROB-Ted-Lieu-jg-copy-c5e42f.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67944",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67944",
+      "publishedDateTime": "2023-01-27T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -399,58 +799,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-28-us-secures-deal-with-netherlands-japan-on-china-chip-export-limit-bloomberg.md",
-      "title": "U.S. secures deal with Netherlands, Japan on China chip export limit - Bloomberg",
-      "excerpt": "WASHINGTON, Jan 27 (Reuters) - The United States has secured a deal with the Netherlands and Japan to restrict exports of some advanced chip-making machinery to China ... U.S. and EU to launch first-of-its-kind AI agreement, article with image January ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-secures-deal-with-netherlands-japan-china-chip-export-limit-bloomberg-2023-01-27/",
-      "originalUrl": "https://www.reuters.com/technology/us-secures-deal-with-netherlands-japan-china-chip-export-limit-bloomberg-2023-01-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/kuYlpRz_GdHM8MtGnuBMV8MPY2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PEL2SG6CW5L35LQZL6AYO6H4U4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-28-pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles.md",
       "title": "Pivot to ChatGPT? BuzzFeed preps for AI-written content while CNET fumbles",
       "excerpt": "On Thursday, an internal memo obtained by The Wall Street Journal revealed that BuzzFeed is planning to use ChatGPT-style text synthesis technology from OpenAI to create individualized quizzes and potentially other content in the future.",
@@ -459,7 +807,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -858,7 +1206,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -898,317 +1246,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.md",
-      "title": "“Robot lawyer” pulled from first court case over jail time threats",
-      "excerpt": "CEO of the New York-based startup DoNotPay, Joshua Browder ... being threatened with possible prosecution and jail time. The “robot lawyer” technology relies on a few prominent AI text generators — such as ChatGPT and DaVinci — to dictate responses ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html",
-      "originalUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp",
-      "publishedDateTime": "2023-01-27T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence.md",
-      "title": "All In On AI: How Smart Companies Win Big With Artificial Intelligence",
-      "excerpt": "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-26T22:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-deci-claims-breakthrough-inference-performance-on-intel-sapphire-rapids.md",
-      "title": "Deci claims breakthrough inference performance on Intel Sapphire Rapids",
-      "excerpt": "Israeli startup Deci claims to have achieved breakthrough performance in running computer vision and natural language processing (NLP) models on Intel’s latest Xeon processor. Delivering GPU-like AI inference performance, the breakthrough was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids",
-      "originalUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1",
-      "publishedDateTime": "2023-01-26T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-sean-hannity-biden-is-mired-in-scandal-and-plagued-by-his-cognitive-decline.md",
-      "title": "SEAN HANNITY: Biden is mired in scandal and plagued by his cognitive decline",
-      "excerpt": "Fox News host Sean Hannity questioned whether President Biden fully comprehends and understands what exactly is going on ahead of debt ceiling negotiations in Thursday's opening monologue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/sean-hannity-biden-scandal-plagued-cognitive-decline",
-      "originalUrl": "https://www.foxnews.com/media/sean-hannity-biden-scandal-plagued-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/afde1ac8-9e3b-404f-a5d4-35a9c8462b23/aeaad84c-8eda-4683-b05d-e3fe0dd7ce9c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/sean-hannity-biden-scandal-plagued-cognitive-decline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sean-hannity-biden-scandal-plagued-cognitive-decline.amp",
-      "publishedDateTime": "2023-01-26T22:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-ut-will-launch-online-masters-program-in-artificial-intelligence.md",
-      "title": "UT will launch online master’s program in artificial intelligence",
-      "excerpt": "AUSTIN (KXAN) — For the first time ever, people may be able to pursue a master’s degree in artificial intelligence online at the University of Texas at Austin. The university shared in a news ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
-      "originalUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2016/07/ut-austin_37219191_ver1.0.jpg?w=1280",
-          "width": 1280,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-26T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-ai-wrote-a-bill-to-regulate-ai-now-rep-ted-lieu-wants-congress-to-pass-it.md",
-      "title": "AI wrote a bill to regulate AI. Now Rep. Ted Lieu wants Congress to pass it.",
-      "excerpt": "The California Democrat, one of a handful of members with computer science backgrounds, wants a nonpartisan commission to recommend new regulations for artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/ted-lieu-artificial-intelligence-bill-congress-chatgpt-rcna67752",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/ted-lieu-artificial-intelligence-bill-congress-chatgpt-rcna67752",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230126-ted-lieu-jm-1541-f942ef.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna67752",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna67752",
-      "publishedDateTime": "2023-01-26T19:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-buzzfeed-ceo-says-ai-may-revolutionize-media-fears-possible-dystopian-path.md",
-      "title": "BuzzFeed CEO says AI may revolutionize media, fears possible 'dystopian' path",
-      "excerpt": "Over the holidays while most media executives were perhaps looking to get away from work, BuzzFeed's CEO was online, immersed in experimenting with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2020/11/19/8df9dbcc-6bd3-4949-98bb-acec75321acc/thumbnail/1200x630g8/72e7059bdd593ff3bdc845eb0f73ba0d/gettyimages-169671245.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/",
-      "publishedDateTime": "2023-01-26T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

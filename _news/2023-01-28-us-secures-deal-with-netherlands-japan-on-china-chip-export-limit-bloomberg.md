@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/us-secures-deal-with-netherland
 webUrl: "https://www.reuters.com/technology/us-secures-deal-with-netherlands-japan-china-chip-export-limit-bloomberg-2023-01-27/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Reuters
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Japan and Netherlands are joining the US in chip restrictions on China"
-    excerpt: "The Dutch company ASML Holding HV will be prevented from transferring deep ultraviolet lithography machines used for chip manufacturing, and similar restrictions will be imposed on the Japanese Nikon Corp."
-    publishedDateTime: 2023-01-27T06:50:00Z
-    webUrl: "https://www.gsmarena.com/japan_and_netherlands_are_joining_the_us_in_chip_restrictions_on_china-news-57353.php"
-    ampWebUrl: "https://m.gsmarena.com/japan_and_netherlands_are_joining_the_us_in_chip_restrictions_on_china-amp-57353.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/japan_and_netherlands_are_joining_the_us_in_chip_restrictions_on_china-amp-57353.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 59
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/22/05/tsmc-2nm-node/-1220x526/gsmarena_000.jpg"
-        width: 1220
-        height: 526
-        isCached: true
 
 secured: "vSO5WPFF0uHp9fVGtdeHZTbNbTGnTnGLMEPn9O7o/mmFfwUVmWBNwd9lLxI4GzthMU4xi4mwT0TsyiUyN30uhYoP0QDsaRHE8+PoOdFHlNcA7eFToh+Gicb3KM+tlbGpMrSMO1JW5YjL0OIlDzEQy1k3x1t4MrUk+Y1qNC71V1caVXo5nFqK3sDFbNYvl93aLJE5kUyl23V025VPLlQoF/6aKaRjyWBP/1zZu7u9fkfMtRsH1XsGMU8mvdoc7vFbfwz7PXsW6uFXCZEwimo0wE09/dCRUyS5z1/oJfhkuTrI0pXSED6cPwB66B04xKkanNQR/4n84RuwRrvRIrlJmvwVsm0HTO7s6HzwZ+WslfM=;mTvnO3An7IuTXXHisvQ37A=="
 ---

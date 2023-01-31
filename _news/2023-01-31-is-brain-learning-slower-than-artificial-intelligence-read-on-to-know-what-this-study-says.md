@@ -8,8 +8,8 @@ webUrl: "https://www.devdiscourse.com/article/science-environment/2336659-is-bra
 ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2336659-is-brain-learning-slower-than-artificial-intelligence-read-on-to-know-what-this-study-says?amp"
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2336659-is-brain-learning-slower-than-artificial-intelligence-read-on-to-know-what-this-study-says?amp"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:

@@ -38,6 +38,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "People Are Still Terrible: AI Voice-Cloning Tool Misused for Deepfake Celeb Clips"
+    excerpt: "ElevenLabs says it may need to impose new rules on its voice-cloning tool after bad actors reportedly used it to create fake clips of celebs and media personalities saying offensive things."
+    publishedDateTime: 2023-01-31T19:02:00Z
+    webUrl: "https://www.pcmag.com/news/people-are-still-terrible-ai-voice-cloning-tool-misused-for-deepfake-celeb"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 42
 
 secured: "suAwApllx05CTwdms//P3OmVs6zMeUU/6kkQ4Xd5pvk07z/g4Zb4Vd/hiP64oGmHqbsPzh/GFCUZZsJWjDXGIak/+T4ndY1j/rSuw1tJJnKPJcWV6ZnfmZ7ONmzHS+KtTfOXyKJdOQVqC4DRBQzePRTKkjSlvirkCrlWhttsF3RJY1ISVe9NNmR37t8MVdzW+I7bgjcM1TLMTDgl2bnitiM4Eb6TzMDih7bM0/SjPLPmEcpnYABKsdjSTJMpTyyBxLxHSzA2umzGSEdNhyYxsBBGOX3m6eaX71YTGci6aq0TwZ+gYJBSwb5zc2ikCCfpj+5FxloSb+jUBosdXXrBRQgDZYjvCVUk0EW3U8tvnfr7HdubMltWLh9F3aiWOM5CvLo8rHCInBWuvOUWUHidZhVgseqovKqTGntorE4vK6sYWBlzljpWlOULu3ImK+7jGi0rZzLgO/QgaUfeJRVG+fZ5dLeZkZu+0Wt9w/VXayWA9HccG/BbF72RyObFHoTC7aTHvmyjdAioz1PfedcgRw==;C4N5ioBmEgRgekqVLZ/Syg=="
 ---

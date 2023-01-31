@@ -5,6 +5,8 @@ excerpt: "The new software allows the incorporation of important dendritic prope
 publishedDateTime: 2023-01-25T16:07:00Z
 originalUrl: "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html"
 webUrl: "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "zEzIUUQzA0QpVDV/HexkL89xaj9w20yvr3aaTnAF25WUcQ6a1uPC2J206oSz1Hx48niW3uHHIphDNk0jOOte3AGJ0r/W6hkiiIhsQHTCmjv4vWhpYuHbAYdNdkbJ5bOPSUjbfXK6GP7p7rAlstZudKpROry6rF6WmZO2b/B263Co4gLJNvJuPnbxD0Aw6Lhae3mUoVKVYaio3S/hAxkoD3b7JEStOrxATCUi5Xqu9Nmd6UAr5Si7JoEXaC4PGKiWwFbv8sW2Un7aAIDd83oE21lhxpZ+jWlvpD88uYxkvx4sdJeWU8dXRmHXYeDIvXh/f4a+illoXBiIiJVn2KtwnN2rfI2uuQic6YVARnZojmY=;g4Zg3Vtz/myX5BX59ZzFdA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-a-step-clo.jpg"
+    width: 1500
+    height: 1584
+    isCached: true
+
+secured: "Iplr+rUVQCg5ZWN2RxeFdgO3tXUUeoI7Pm7zuatwjWC3tPm5Rm/owglLSuyQHyVIxn4q1z/Ji5uBDnVDbrT39SNN6yXNNdcTSf4UoPsFj3sJbQwBZDc8x3vMa7RWJC1FAcaLOFmcqREonqB08iEj3VTdiyTr9pwqLy4V/ytd5tW+cZF51eBN8Q9qWPPCBRzTGg67kwl9Ti7HsGlx/j73U5FkiIivvSg0HzCB4UodexrvIsWr4SJUpW82mg1JnzQWeuDYk+utnPputNLXMaDZ7mXvJcMqL+dTBaea4NuP7O5KWugkF3XdEA2DgN6smaQKvVmlz/dAJPTL7bsQ3ea4RRvgq8P9CaoLbkzz8ZDGdi4=;oOYZIoLcG4ZbCBPKKVaxRA=="
 ---
 

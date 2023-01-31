@@ -75,6 +75,15 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "New Healthcare AI eBook Offers Timely Insight and Education about Fraud, Waste and Abuse Threats"
+    excerpt: "Payment integrity and FWA experts from Codoxo share the latest healthcare cost containment risks and best practices to inform leadership strategy for 2023 and beyond ATLANTA (PRWEB) January 31, 2023 Codoxo, a trusted"
+    publishedDateTime: 2023-01-31T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/p30650136/new-healthcare-ai-ebook-offers-timely-insight-and-education-about-fraud-waste-and-abuse-threats"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
   - title: "ChatGPT and the dark side of AI"
     excerpt: "AI like ChatGPT can show you the what, but it is not very good at finding the why, writes Mary Faulkner of IA."
     publishedDateTime: 2023-01-31T16:01:00Z

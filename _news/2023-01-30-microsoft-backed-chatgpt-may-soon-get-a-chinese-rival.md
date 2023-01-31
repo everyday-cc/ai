@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "ChatGPT might change advertising — but it won’t revolutionize it"
+    excerpt: "Even though its unlikely to upend the ad world any time soon, the buzzy conversational AI model could prove useful for savvy marketers."
+    publishedDateTime: 2023-01-31T20:25:00Z
+    webUrl: "https://www.marketingdive.com/news/chatgpt-AI-marketing-advertising-revolutionize/641649/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 4
 
 secured: "7psTQBafNhKZeMSKFbU7RnfHHtE/Cox7iQS0PjYXrteuYnis8PSnbPtzxpmzx4Jf1UWoKQHczrbHFsmlsWfxn7j312Xpb5yDm4gf8pwCVsMCr8SKH0CPAwUoXNiIQylYyDXA8j+rJ5pHLXkiP1eyNJs/EL2ed2XJ5qiAj2+xHpiRxDMTVPIyMesXgID/yklfvQPLc4z9x+CChoxVy8Wn2FUUOW3lSSbwL/gOBJe9rpFW8q7UEYd/048gJ6E8jEqyP0xOEiBEJy+6MXWa0MUFekxV9LAHBeQXb/vBU5gP1aeW4hxp5Ww1wuXoF3p5QYP+OXsVxSuDM4s0y/sFeE90UKcEQ9VH4+ntC5ttWG303Xkl+kIfITCgZwxQftZKhXKAQujc4mP7rMrWrz9ZCnKg5h0fR3p7FDQef9wiTejgM+M3Z3B/6lZZeTJH7W1r8JJu4da+rVWXo1qwm7r9DeibfFFzHMGrarUwLWFfI1CBKZhsGhyPX+wRR/oBAIbEbe8vwIgqXuEzDiriK8AKiOUKNg==;L8YMUMGp0yp6lk2/Ik0e9g=="
 ---

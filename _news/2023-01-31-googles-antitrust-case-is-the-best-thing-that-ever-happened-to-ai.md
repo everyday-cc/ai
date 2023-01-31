@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Google, not OpenAI, has the most to gain from generative AI"
-    excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
-    publishedDateTime: 2023-01-27T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90839649/google-not-openai-has-the-most-to-gain-from-generative-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
   - title: "Why Human-Centered AI Is the Future of Legal: The Future is More Ironman than Terminator, and That Is a Good Thing!"
     excerpt: "Many AI detractors miss the point that the AI revolution makes the lawyer or human in the driver’s seat more important, not less."
     publishedDateTime: 2023-01-31T00:13:00Z

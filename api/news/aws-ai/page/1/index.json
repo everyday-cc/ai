@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-01-aws-cto-vogels-slams-chatgpt-on-cloud-security.md",
+      "title": "AWS CTO Vogels slams ChatGPT on cloud security",
+      "excerpt": "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
+      "originalUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/chatgpt.jpg",
+          "width": 1108,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask.md",
       "title": "Amazon SageMaker built-in LightGBM now offers distributed training using Dask",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -320,22 +364,31 @@
       "title": "AWS Launches Second Infrastructure Region in Australia",
       "excerpt": "We are excited about the launch of a second AWS Region in Australia, as it gives us access to advanced technologies, like machine learning and artificial intelligence, at a lower latency to help ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230123005697/en/AWS-Launches-Second-Infrastructure-Region-in-Australia/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==",
-      "originalUrl": "https://www.businesswire.com/news/home/20230123005697/en/AWS-Launches-Second-Infrastructure-Region-in-Australia/?feedref=JjAwJuNHiystnCoBq_hl-QKgmG6JQBT0uUT2P8A7FnP-A1Xt1W6a2nSinTmJVjPl7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LPgxNjXHjsNmKaXEz4koEK2AJhcZjZrEZPnZ-1m8zDO3A==",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/b30536811/aws-launches-second-infrastructure-region-in-australia",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-23T15:08:00-08:00",
+      "publishedDateTime": "2023-01-23T15:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -447,33 +500,24 @@
     {
       "path": "_news/2023-01-18-seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year.md",
       "title": "Seeq Recognizes its 2022 Reseller and Service Partners of the Year",
-      "excerpt": "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas LAS VEGAS, Jan. 18, 2023 /PR",
+      "excerpt": "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year",
+      "webUrl": "https://technews.tmcnet.com/news/2023/01/18/9745322.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/01/18/9745322.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30462442",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30462442",
-      "publishedDateTime": "2023-01-18T05:17:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T06:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -534,10 +578,10 @@
     {
       "path": "_news/2023-01-18-kfintech-drives-digital-transformation-and-innovation-in-the-financial-services-industry-with-aws.md",
       "title": "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS",
-      "excerpt": "Leveraging the depth and breadth of AWS capabilities, KFintech helps their clients digitally transform, providing the best business, program, and portfolio strategies to build the next generation of solutions in the capital market.",
+      "excerpt": "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1300905&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1300905&cat=PR News Wire",
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1300689&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1300689&cat=PR News Wire",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1360,58 +1404,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-a-closer-look-at-the-major-players-in-the-space-ground-station-services-market.md",
-      "title": "A Closer Look at the Major Players in the Space Ground Station Services Market",
-      "excerpt": "The Space Ground Station Services Marketresearch report by Markntel Advisors covers and provides an articulate",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/a-closer-look-at-the-major-players-in-the-space-ground-station-services-market-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/a-closer-look-at-the-major-players-in-the-space-ground-station-services-market-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

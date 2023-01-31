@@ -9,7 +9,7 @@ ampWebUrl: "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-
 cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b325cf59-d370-48ea-ad01-ab850fcb26fd/Rendition/low-res/Content/Public"
         width: 700
         height: 328
-        isCached: true
-  - title: "Will an AI be the first to discover alien life?"
-    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss."
-    publishedDateTime: 2023-01-30T16:57:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-00258-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00258-z/d41586-023-00258-z_23960252.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "EqEmEAv2F+A0d4DGlnYlDGKgOFUs0iO3VdOEDOvbk5guAJc/qY/TD2qT0cNem3tlBaoQfFmIAdrLwP7wVymHVJvq5SCtB0cxncsQXGcREi2ZQ11onHB9SM8iTUAvDN0FmUJNNMYX9JGukY7IU+tk60/GmInxW5/JXp4utfChpOFJ0pBVvwDRsxbOP/fl+03lc+QNTrGv7RDctxxOEXBV3/FFLYb1zdTEAMnLPXrHhVMmu5Bto0f4YkbQWJvzTsb5UqIFqo7VpTX0zKQmwdg71Kn3ABgqu/WIPg6GK8UqyEBvuG9lECE2uhemfd18yPBKCNLq6CddtXqbUTS9h24uSop0eWlmmMFFcBXJi1dRESfEofHSCTDu8BqwCajtzXIhfdeK1icLq430omHttFtjFaihktpcOcYX/EfPz9PPHolKVUUL0J5+x5TKSJqnogtbvGpL0qXaEI2yYHAcQSnJmoAVLtDLpcA/zx8Xi2qI3GA5B94zJbolzFKMgcMv7/fgOY2CVX9CWhcr38ukxnp/xw==;lVtPUyFWZQW9wnCLaCi8kA=="

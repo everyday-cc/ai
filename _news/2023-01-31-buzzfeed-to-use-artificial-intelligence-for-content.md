@@ -58,38 +58,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
-    excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
-    publishedDateTime: 2023-01-27T04:22:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-listicle-buzzfeed-stylel-ai-openai-meta-deal-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/63d330454589790018e56915?width=1200&format=jpeg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "BuzzFeed to use AI to produce select content"
-    excerpt: "News, quiz and games website BuzzFeed plans to use artificial intelligence (AI) in the coming months to create content, the company’s top executive said this week. In a memo sent to staff ..."
-    publishedDateTime: 2023-01-27T06:13:00Z
-    webUrl: "https://thehill.com/homenews/3832000-buzzfeed-to-use-ai-to-produce-select-content/"
-    ampWebUrl: "https://thehill.com/homenews/3832000-buzzfeed-to-use-ai-to-produce-select-content/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/3832000-buzzfeed-to-use-ai-to-produce-select-content/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/12/585666071ddc4e30ae409f21c3351571-e1674763916682.jpg?w=1280"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "A watermark for chatbots can spot text written by an AI"
     excerpt: "Hidden patterns buried in AI-generated texts could help identify them as such, allowing us to tell whether the words we’re reading are written by a human or not. These “watermarks” are invisible to the human eye but let computers detect that the text probably comes from an AI system."
     publishedDateTime: 2023-01-27T12:26:00Z

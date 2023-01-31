@@ -9,8 +9,8 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67944"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67944"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: MSNBC
@@ -27,22 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI wrote a bill to regulate AI. Now Rep. Ted Lieu wants Congress to pass it."
-    excerpt: "The California Democrat, one of a handful of members with computer science backgrounds, wants a nonpartisan commission to recommend new regulations for artificial intelligence."
-    publishedDateTime: 2023-01-27T03:02:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/ted-lieu-artificial-intelligence-bill-congress-chatgpt-rcna67752"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna67752"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna67752"
+  - title: "Will an AI be the first to discover alien life?"
+    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss."
+    publishedDateTime: 2023-01-30T16:57:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-00258-z"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 84
+      name: Nature
+      domain: nature.com
+    quality: 37
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230126-ted-lieu-jm-1541-f942ef.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00258-z/d41586-023-00258-z_23960252.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Will an AI Be the First to Discover Alien Life?"
+    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss"
+    publishedDateTime: 2023-01-31T20:02:00Z
+    webUrl: "https://www.scientificamerican.com/article/will-an-ai-be-the-first-to-discover-alien-life/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
 secured: "wk2qdbhr85q2JlskyhgiYvd+x72bJqb9V6MLNz6ovjfJfXKBMoTbdq3dyfdknGTbBMkhL4Mh+g0dySefW8kNZK01oBYA1PAr+NNjFToRnF43WgfQV/MZUks5BgU5cNx909TC0+yXJYfyk8KOiheYYEWS2P+jfU619TTWiVpIZjKBDhNPQ3YeZHqEFBJOMcH915f7/C1wpA7gYnKiptxvjKE68s8PgGYgSa4OucV9Oki4n46PocokFf2Ut4HeAN1ltxGHjbZimTopPkmbxRJmEpix3nUOTqdBF47MOO9mUKRLRh0Vy53BugRZevNvI38NVPARRbpAEMxu8utT9ZL+0pYEig522OfOfPr6DM8IGJsnjhafmEfVCoA0ey04sJnCGS2HGMlI3L3UNyR/xRWTSYXlx3eqB3v7yz4TGgyNlxdq2u65v3CEwgdS8YK1KlVZkW6MhHxc0PoGttCrE7vZ9joctJTtXCPeu/ZWhLf8Ce6bvLY9sMMtAgkJK2+BmDzXPwuMzlDzl0c8L/7MU7WIhw==;6ikgN+0eZ8WOoWJs17iyxg=="
 ---

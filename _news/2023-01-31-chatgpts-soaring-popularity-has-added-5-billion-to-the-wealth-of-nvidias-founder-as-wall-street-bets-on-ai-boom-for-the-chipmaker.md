@@ -47,20 +47,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cheaters beware: ChatGPT maker releases AI detection tool"
-    excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers"
-    publishedDateTime: 2023-01-31T18:05:00Z
-    webUrl: "https://infotel.ca/newsitem/us-chatgpt-detecting-cheats/cp1680037857"
+  - title: "Cheaters, beware: ChatGPT maker releases AI detection tool"
+    excerpt: "Launch of the AI Text Classifier follows discussion at schools and colleges, including in Seattle, over fears of academic dishonesty and hindered learning."
+    publishedDateTime: 2023-01-31T18:12:00Z
+    webUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
+    ampWebUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/?amp=1"
     type: article
     provider:
-      name: InfoTel
-      domain: infotel.ca
-    quality: 39
-    images:
-      - url: "https://infotel.ca/images/news/cp/photos/2023013113014-63d9585b68d4116e03f658efjpeg.jpg?q=90"
-        width: 650
-        height: 433
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "SwQ/Du5A4qkMU+apmMFS1/2//b4bEq+ESvcJvccl3Bicsydz1b588bWQ/fP/4dcu8dpsDj2jttJ55sDIiUkLJ929mZf4T6D6uXfo4DEvQmfp6Xde+suTx87QaZf2Nbn8oJodjIL/MIiDgbkaHXwTcclsVQVBJtmAILJ+Uj4tP0WWE+V0fRPwO7/J57w9YlEbvtTperjoh5LYszGp0ZYt0m/Gg71O4ko0+l38+q+tUm5iHP7a8km4CLzui88HLmySceWbNiGySv9ZjCOI05KCrfQg9Rm3eLUwKrZe/IQ/Tk01Grsd6yt1SQKHYFUPMCHeKuzrhsF6pL+H71h0H4bqWv4AO9E2ShFfKlLnMEZNtQEakVAReNw1wbr0s/kDp0Fj0hym953mRuzGgDQjvfegAZWQntUr0+sjhrs3P+UchCiVTOIXWN+dR62lYG6BFEHca+JaDO+7XFthfguAlpAwOCE/43meDZWJFcedGs1ZYALlgmuPNY3AiK0VE5RZzeOX/Ufip/mUYFIGapNiYr9Fig==;vPLAKIh5sJ0SzVCyOe6bmA=="
 ---

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-11-machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Massive Growth Strikes Due To Technological Innovation During 2023-2029",
+      "excerpt": "Market Research Report is spread across 122 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Machine Learning as a Service (MLaaS) Market Size is projected to Reach Multimillion USD by 2029,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029-2023-01-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029-2023-01-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-customers.md",
       "title": "How a utility giant is using data analytics, machine learning to benefit customers",
       "excerpt": "By moving away from legacy systems and towards the cloud, utility firm EDF UK is delivering an array of innovative machine learning products.",
@@ -1384,49 +1437,6 @@
         "Facebook AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-vicai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings.md",
-      "title": "Vic.ai Secures $52M in Series C Funding to Expand Suite of AI Enterprise Fintech Offerings",
-      "excerpt": "NEW YORK, Dec. 13, 2022 (GLOBE NEWSWIRE) -- Vic.ai today announced $52 million in Series C funding to expand its artificial intelligence (AI) platform for real-time, autonomous accounting and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30056073/vic-ai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30056073/vic-ai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30056073",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30056073",
-      "publishedDateTime": "2022-12-13T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

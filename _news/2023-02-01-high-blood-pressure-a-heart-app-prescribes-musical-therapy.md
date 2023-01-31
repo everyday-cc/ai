@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T19:10:00Z
 originalUrl: "https://medicalxpress.com/news/2023-01-high-blood-pressure-heart-app.html"
 webUrl: "https://medicalxpress.com/news/2023-01-high-blood-pressure-heart-app.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

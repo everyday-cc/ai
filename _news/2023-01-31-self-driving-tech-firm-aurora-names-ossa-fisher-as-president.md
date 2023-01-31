@@ -22,6 +22,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Self-driving truck firm Aurora appoints Ossa Fisher as president"
+    excerpt: "She had been president and chief operating officer of Istation, a Dallas firm that creates game-like educational technology, for nearly eight years."
+    publishedDateTime: 2023-01-31T20:38:00Z
+    webUrl: "https://www.dallasnews.com/business/local-companies/2023/01/31/self-driving-truck-firm-aurora-appoints-ossa-fisher-as-president/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 4
+
 secured: "Cl1T1cdOpQ0/QTr7wvZqhyedk/5iV7ccYvIhdZj6JjfgfqfUaunlszD4qsC7HrE6ys+K1iIgNspoVTaanr6GaD5hpQ5fvHnGBKaBp8h/q75AZ0fSPrvqLigc/OY6Gp3EABdpZE3Pip6PmNF0OHTskAMYbIvPBedC0tqHWe4Z2RTuSwA3ykU+LZyj0RNzRhI7ZOmkQZGVOPMkkWCC5+Sxq6+HccR5owc1aOBIbbk+5qJdAlmV/k9PgDjl1iUPelgbJD7L9vVi0PPTPzIc6BXw/3HoekRjUECSAxKPK21OdYQDgFxNe4Wh19s1VCoxlPprQ5QAyaGlnkpLT8mPYlCY1zFD+TEC1rszdBs2uZpZLsk=;/cCE4j7RobFnqSlScYmnAA=="
 ---
 

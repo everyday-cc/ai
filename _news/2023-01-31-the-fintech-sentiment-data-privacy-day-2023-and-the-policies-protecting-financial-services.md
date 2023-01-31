@@ -91,22 +91,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 24
-  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
-    excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora’s capabilities in AI,"
-    publishedDateTime: 2023-01-27T06:43:00Z
-    webUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/encora-announces-the-acquisition-of-excellarate-strengthening-its-capabilities-in-healthtech-fintech-and-insurtech/1337859/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 21
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/01/ANI-20230127060436.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Fintech focus on ESG, digitization, AI in 2023"
     excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
     publishedDateTime: 2023-01-30T13:03:00Z
@@ -125,20 +109,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "How this fintech company is leading the charge for financial inclusion across Southeast Asia"
-    excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs), even before the pandemic."
-    publishedDateTime: 2023-01-27T04:27:00Z
-    webUrl: "https://www.malaysiakini.com/announcement/652981"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 13
-    images:
-      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/01/f834d51133cc36aa4d200d1e9d646200.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "African fintech revolution leads the way for healthtech"
     excerpt: "When combined with AI, it enables the delivery of predictive diagnostics in various pathological fields anywhere, even in the most remote locations. Healthtech can be as successful as fintech, especially when innovation is applied in ways that solve pain ..."
     publishedDateTime: 2023-01-27T08:27:00Z

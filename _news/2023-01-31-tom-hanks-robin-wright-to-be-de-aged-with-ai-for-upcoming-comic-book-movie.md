@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T14:58:00Z
 originalUrl: "https://comicbook.com/movies/news/tom-hanks-robin-wright-de-aged-ai-comic-book-movie/"
 webUrl: "https://comicbook.com/movies/news/tom-hanks-robin-wright-de-aged-ai-comic-book-movie/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Comicbook.com

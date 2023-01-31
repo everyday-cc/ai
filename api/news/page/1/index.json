@@ -2,6 +2,248 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-01-chatgpt-creator-releases-tool-to-detect-ai-generated-text-calls-it-unreliable.md",
+      "title": "ChatGPT Creator Releases Tool to Detect AI-Generated Text, Calls It ‘Unreliable’",
+      "excerpt": "OpenAI says the AI-detection tool complements methods educators, employers and others use to determine the source of a piece of text.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chatgpt-creator-releases-tool-to-detect-ai-generated-text-calls-it-unreliable-11675204820",
+      "originalUrl": "https://www.wsj.com/articles/chatgpt-creator-releases-tool-to-detect-ai-generated-text-calls-it-unreliable-11675204820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-714331/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-aws-cto-vogels-slams-chatgpt-on-cloud-security.md",
+      "title": "AWS CTO Vogels slams ChatGPT on cloud security",
+      "excerpt": "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
+      "originalUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/chatgpt.jpg",
+          "width": 1108,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-why-temple-grandin-believes-visual-thinkers-can-pursue-an-impactful-career.md",
+      "title": "Why Temple Grandin Believes Visual Thinkers Can Pursue An Impactful Career",
+      "excerpt": "Temple Grandin hopes to change that perception and help others understand the benefit of those who think in pictures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferpalumbo/2023/01/31/why-temple-grandin-believes-visual-thinkers-can-pursue-an-impactful-career/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferpalumbo/2023/01/31/why-temple-grandin-believes-visual-thinkers-can-pursue-an-impactful-career/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d9768adcadd9f2b59afec2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferpalumbo/2023/01/31/why-temple-grandin-believes-visual-thinkers-can-pursue-an-impactful-career/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferpalumbo/2023/01/31/why-temple-grandin-believes-visual-thinkers-can-pursue-an-impactful-career/amp/",
+      "publishedDateTime": "2023-01-31T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-ai-tool-used-to-spot-child-abuse-allegedly-targets-parents-with-disabilities.md",
+      "title": "AI tool used to spot child abuse allegedly targets parents with disabilities",
+      "excerpt": "Since 2016, social workers in a Pennsylvania county have relied on an algorithm to help them determine which child welfare calls warrant further investigation. Now, the Justice Department is reportedly scrutinizing the controversial family-screening tool over concerns that using the algorithm may be violating the Americans with Disabilities Act by allegedly discriminating against families with disabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1339965935-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/amp/",
+      "publishedDateTime": "2023-01-31T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-tech-tuesday-samsung-smartphones-google-ai-liquid-robots.md",
+      "title": "Tech Tuesday: Samsung smartphones, Google AI, ‘liquid’ robots",
+      "excerpt": "From a sneak peek of the latest smartphones and artificial intelligence to “liquid” robots, technology expert Greg Nibler joined KOIN 6 News’ AM Extra to share the latest tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
+      "originalUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/01/Liquid-robot-Carnegie-Mellon-University-1312023.png?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
+      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
+      "publishedDateTime": "2023-01-31T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOIN 6",
+        "domain": "koin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-laptops-get-ai-chips-smart-software-engines-to-boost-efficacy.md",
       "title": "Laptops get AI chips, smart software engines to boost efficacy",
       "excerpt": "NEW DELHI: Earlier this year, Chinese laptop maker Lenovo unveiled four gaming laptops with an embedded artificial intelligence (AI) -powered chip called Lenovo LA AI. Combined with Lenovo AI Engine+, the chip will allow the laptop to automatically tune ...",
@@ -279,6 +521,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-31-ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse.md",
+      "title": "AI voice generator used to deepfake celebrities spewing racist abuse",
+      "excerpt": "UK-based ElevenLabs announced its Prime Voice AI which lets users generate the ‘most realistic’ spoken audio in any voice and style. However, in just a few weeks, troublemakers have taken to using the tool to upload deep faked voices of celebrities like Joe Rogan to Robin Williams,",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/",
+      "originalUrl": "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/01/cowomen-8M6KCnMvLus-unsplash-c17c.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/",
+      "publishedDateTime": "2023-01-31T03:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-dare-you-use-artificial-intelligence-to-write-better-job-postings.md",
       "title": "Dare You Use Artificial Intelligence To Write Better Job Postings?",
       "excerpt": "We are hearing more and more about a number of artificial intelligence (AI) tools that could help you with time-consuming tasks or even write the perfect essay or perhaps the perfect research paper—and in the case of HR specialists, write the perfect job ...",
@@ -338,7 +623,7 @@
       "originalUrl": "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -536,21 +821,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-31-machine-learning-identifies-drugs-to-help-smokers-quit.md",
-      "title": "Machine learning identifies drugs to help smokers quit",
-      "excerpt": "Smoking causes close to 500,000 deaths annually in the United States and is a risk factor for respiratory illnesses, cancer, and cardiovascular disease. While smoking habits can be acquired and unlearned,",
+      "path": "_news/2023-01-31-artificial-intelligence-helps-to-identify-high-affinity-antibody-drugs.md",
+      "title": "Artificial intelligence helps to identify high-affinity antibody drugs",
+      "excerpt": "A method for finding high-affinity antibody therapeutics that is based on artificial intelligence (AI) has been created by researchers at the University of California San Diego School of Medicine.",
       "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376",
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2337250-artificial-intelligence-helps-to-identify-high-affinity-antibody-drugs",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2337250-artificial-intelligence-helps-to-identify-high-affinity-antibody-drugs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-97486376,imgsize-26854,width-1200,height-628,overlay-ethealthworld/machine-learning-identifies-drugs-to-help-smokers-quit.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/31_01_2023_09_34_14_4499525.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -558,13 +843,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376",
-      "publishedDateTime": "2023-01-31T01:02:00-08:00",
+      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2337250-artificial-intelligence-helps-to-identify-high-affinity-antibody-drugs?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2337250-artificial-intelligence-helps-to-identify-high-affinity-antibody-drugs?amp",
+      "publishedDateTime": "2023-01-31T01:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -574,7 +859,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -630,7 +914,7 @@
       "originalUrl": "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -662,6 +946,59 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-machine-learning-operations-mlops-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
+      "title": "Machine Learning Operations (MLOps) Market Size 2023 With Presentation Outlook, Horizontal Viewpoint, Global View",
+      "excerpt": "Machine Learning Operations (MLOps) Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T16:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -862,360 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-musiclm-google-ai-generates-music-in-various-genres-at-24-khz.md",
-      "title": "MusicLM: Google AI generates music in various genres at 24 kHz",
-      "excerpt": "On Thursday, researchers from Google announced a new generative AI model called MusicLM that can create 24 KHz musical audio from text descriptions, such as \"a calming violin melody backed by a distorted guitar riff.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/music_explosion_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/amp/",
-      "publishedDateTime": "2023-01-30T14:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-how-to-choose-the-right-chief-ai-officer.md",
-      "title": "How to choose the right Chief AI Officer",
-      "excerpt": "Corporate structures should expand by establishing a Chief AI Officer and a VP of AI to better realize AI's evolving potential.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-choose-the-right-chief-ai-officer/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-choose-the-right-chief-ai-officer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1128201585-1-1-e1623141314309.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-choose-the-right-chief-ai-officer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-choose-the-right-chief-ai-officer/amp/",
-      "publishedDateTime": "2023-01-30T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-citizen-data-science-and-automation-at-att.md",
-      "title": "Citizen Data Science And Automation At AT&T",
-      "excerpt": "AT&T has dramatically improved its productivity and effectiveness at data science and automation by engaging citizen development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d82b3dad580c6ca9787f4b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/amp/",
-      "publishedDateTime": "2023-01-30T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask.md",
-      "title": "Amazon SageMaker built-in LightGBM now offers distributed training using Dask",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/30/sagemaker-lightgbm.jpg",
-          "width": 1564,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T10:10:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-post-secondary-sector-must-embrace-emerging-ai-technology-in-education.md",
-      "title": "Post-secondary sector must embrace emerging AI technology in education",
-      "excerpt": "Since its release in November 2022, OpenAI's ChatGPT has caused a stir, with a stream of op-eds and news stories focused on the ways the program opens possibilities for academic misconduct by students.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-post-secondary-sector-embrace-emerging-ai.html",
-      "originalUrl": "https://phys.org/news/2023-01-post-secondary-sector-embrace-emerging-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/post-secondary-sector.jpg",
-          "width": 500,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-post-secondary-sector-embrace-emerging-ai.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-post-secondary-sector-embrace-emerging-ai.amp",
-      "publishedDateTime": "2023-01-30T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-build-a-water-consumption-forecasting-solution-for-a-water-utility-agency-using-amazon-forecast.md",
-      "title": "Build a water consumption forecasting solution for a water utility agency using Amazon Forecast",
-      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating supply and demand for inventory management, travel demand forecasting,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-water-consumption-forecasting-solution-for-a-water-utility-agency-using-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-water-consumption-forecasting-solution-for-a-water-utility-agency-using-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/30/water-consumption-forecast.jpg",
-          "width": 1565,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T09:59:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-how-ai-is-improving-agriculture-sustainability-in-india.md",
-      "title": "How AI is improving agriculture sustainability in India",
-      "excerpt": "A look at how AI can help agriculture and sustainable farming in India.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
-      "originalUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ak_2_qhJiQ80.max-1300x1300.png",
-          "width": 1300,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

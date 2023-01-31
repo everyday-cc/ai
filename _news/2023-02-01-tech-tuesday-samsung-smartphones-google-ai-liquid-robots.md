@@ -8,9 +8,9 @@ webUrl: "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-g
 ampWebUrl: "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/"
 cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: KOIN 6

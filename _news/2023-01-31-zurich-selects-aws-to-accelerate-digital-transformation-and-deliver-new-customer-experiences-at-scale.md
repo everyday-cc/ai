@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "Zurich Selects AWS to Accelerate Digital Transformation and Deliver New Customer Experiences at Scale"
+    excerpt: "Amazon Web Services (AWS) today announced that Zurich Insurance Group (Zurich), a leading multi-line insurer providing property,"
+    publishedDateTime: 2023-01-31T19:44:00Z
+    webUrl: "https://www.datanami.com/this-just-in/zurich-selects-aws-to-accelerate-digital-transformation-and-deliver-new-customer-experiences-at-scale/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 4
+
 secured: "4sP+iAl7v/KbMBkvtEfIVLGVmx2GsBlQz5UlpT9KXxp8X4mN22EgNgnSqKlTD4aVkHmEEQ+8cm8pltLXrfZHv5Q7wSUyUHUlI+MFaIO8XRMWG1wcITBnf+seOGdXqtkHPFUKmz0QNBNldeNGrJH3qn9mcgUayjc0yvPvZNTe/qYgyY+QP/tp+WGI6WbQV3D0eGtLGexhFGfYpteDHoZ/FJPP0e/avmuBtV/FxIqn3tSzsOfguFvjCgg4cgsLfn2lvVkSmFLcJRefANN/vDX0V9Zec99Uv56kmVAn6EUcAiAsYaD+L1PVYqf947EW3RDnXJ2uQ9H/7MFZyEz8ckOjcCzwkU4RTn8Fr/evab8bJfQ=;PfZ/DtnJNTMHPSF2QugOcQ=="
 ---
 

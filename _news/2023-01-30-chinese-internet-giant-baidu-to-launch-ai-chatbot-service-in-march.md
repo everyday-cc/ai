@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT might change advertising — but it won’t revolutionize it"
+    excerpt: "Even though its unlikely to upend the ad world any time soon, the buzzy conversational AI model could prove useful for savvy marketers."
+    publishedDateTime: 2023-01-31T20:25:00Z
+    webUrl: "https://www.marketingdive.com/news/chatgpt-AI-marketing-advertising-revolutionize/641649/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 4
 
 secured: "8CP2Hlf1eLQWcfneSH0LkTML+QFbMfdZqkuJ3dux7xAHSEmhL9eSTsl+xRXcG+VVlL4NJ7BWT9mmj+5GmmZk37CZoy3PVMTwE1aHlNdKzma5Fr/v1hI5CB9EoIiVoP3CNSQvFrKHlIFZEjSNHjfZ49uSIYTUmT3+gLF3fRgXg8H/RFXDU3CFEIIq4JkTN8ilb3rv/y1lsEFFz/hrOUZfmE4gDr9k2gcGtsfPhl150m5ufxmQU+2GemFSef9TfRhOMS0Y0jKdXCu+TfkIxrTSRK3jgWTfoblSkNkGSm3AMVKc1A3iYxC5ql6AxkiKBXsEQHDtU8EjHoFnp+s/D4C9z/CdHF4p77NYq+lm5Z+yhNU=;RvoUM7weD+5muAf2XTXOEA=="
 ---

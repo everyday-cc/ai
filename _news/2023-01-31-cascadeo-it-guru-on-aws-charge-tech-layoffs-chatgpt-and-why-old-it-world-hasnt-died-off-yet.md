@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AWS CTO Vogels slams ChatGPT on cloud security"
+    excerpt: "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,"
+    publishedDateTime: 2023-01-31T21:28:00Z
+    webUrl: "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/chatgpt.jpg"
+        width: 1108
+        height: 570
+        isCached: true
   - title: "AWS CTO Slams ChatGPT: ‘Not Concerned About The Truth’"
     excerpt: "AWS says ChatGPT isn’t correct on cloud computing and cybersecurity regarding the Microsoft backed AI chatbot response on cybercrime and cloud growth, says CTO Werner Vogels."
     publishedDateTime: 2023-01-31T17:03:00Z
@@ -33,6 +47,15 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "How Will ChatGPT Impact the Tech Sector?"
+    excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
+    publishedDateTime: 2023-01-30T18:38:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/01/30/454787-how-will-chatgpt-impact-tech-sector.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "pfx4pQ/e7yG5EBfwMbgVFlDtV/oz07WrepgCOk0T1l5xzB9fDISvklj5q+w9iMkyOrQtF+yoh78ITgVPpU4GILUOLku76VSF+WlvmU7afGDlUfLyuqU/zICdZ5z3a6q/fAAapyvJ7bwykJDxQ8i5H54ukbcoD/LCFrr/9KWUwl1VvbDZoGeCp+0AXhIh1Ll4soSid+MuAccrVlkpHz1LWZHtnlZfyh38cUiX+nTA/QU8UfIkRdaZgwCj2Wb+gKnTd8F9xoHjYrDmbxaNJbQektn8ytFgBOZxyBZjrSB2y67y1u2YtDICjAXl4DFe+a3u5zDfvbpiX5m0JcUlyZdTZUY+QFXCrLBbQfjBnZQEfpRWMdldgZ26wq1TSle7GUTqQCHUAqHQMznP4M/R0ymC+pkIyRqme7BqdIqYC8wBs75YpL94MBgvLPte3+uab4MH3wE5LPg3v7yF/JEMGtJdRvd8oX9XIl0dAVZBxPdaDKcDHSy2JVNcOoOF+yODveJEUk3mxYumB6T+oNUqpyt9lQ==;NXLhCsykbPDPz3l830V4Xw=="
 ---

@@ -84,6 +84,15 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "New Healthcare AI eBook Offers Timely Insight and Education about Fraud, Waste and Abuse Threats"
+    excerpt: "Payment integrity and FWA experts from Codoxo share the latest healthcare cost containment risks and best practices to inform leadership strategy for 2023 and beyond ATLANTA (PRWEB) January 31, 2023 Codoxo, a trusted"
+    publishedDateTime: 2023-01-31T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/01/p30650136/new-healthcare-ai-ebook-offers-timely-insight-and-education-about-fraud-waste-and-abuse-threats"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
   - title: "3 ways health systems are using AI to improve patient care"
     excerpt: "From backing artificial intelligence-based startups that can detect emotions to developing an artificial intelligence-based tool that can predict \"ICU delirium,\" here are three ways hospitals and health systems are using artificial intelligence to improve patient care: Northwell Holdings,"
     publishedDateTime: 2023-01-30T19:34:00Z

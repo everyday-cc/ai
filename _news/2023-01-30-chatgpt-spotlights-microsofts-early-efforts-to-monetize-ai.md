@@ -139,7 +139,7 @@ related:
     provider:
       name: Tech.co
       domain: tech.co
-    quality: 34
+    quality: 36
   - title: "Microsoft Research project helps languages survive — and thrive"
     excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
     publishedDateTime: 2023-01-30T16:40:00Z

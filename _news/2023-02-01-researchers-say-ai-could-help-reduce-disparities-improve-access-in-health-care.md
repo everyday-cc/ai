@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2023-01-ai-disparities-access-health.htm
 ampWebUrl: "https://medicalxpress.com/news/2023-01-ai-disparities-access-health.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-ai-disparities-access-health.amp"
 type: article
-quality: 55
-heat: 55
+quality: 59
+heat: 59
 published: false
 
 provider:

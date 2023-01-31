@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-31T12:50:00Z
 originalUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
 webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 

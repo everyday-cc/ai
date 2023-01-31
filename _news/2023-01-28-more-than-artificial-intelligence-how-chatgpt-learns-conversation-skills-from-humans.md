@@ -121,6 +121,22 @@ related:
         width: 907
         height: 605
         isCached: true
+  - title: "Teachers rejoice! ChatGPT creators have released a tool to help detect AI-generated writing"
+    excerpt: "Amid concerns that ChatGPT makes it easier for students to cheat, the company behind the buzzy AI bot released a way to detect its writing."
+    publishedDateTime: 2023-01-31T19:43:00Z
+    webUrl: "https://www.businessinsider.com/openai-launched-program-to-detect-ai-writing-chatgpt-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/openai-launched-program-to-detect-ai-writing-chatgpt-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-launched-program-to-detect-ai-writing-chatgpt-2023-1?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/63d95d720a08ae0018a63451?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
     excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
     publishedDateTime: 2023-01-27T21:06:00Z
@@ -150,6 +166,20 @@ related:
       - url: "https://images.wsj.net/im-712805/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Are You Smarter Than ChatGPT? OpenAI Tool Aims to Detect AI-Generated Text"
+    excerpt: "The tool could help teachers catch students who are exploiting ChatGPT to cheat on homework assignments, though it's far from perfect."
+    publishedDateTime: 2023-01-31T20:35:00Z
+    webUrl: "https://www.pcmag.com/news/are-you-smarter-than-chatgpt-openai-tool-aims-to-detect-ai-generated-text"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03WPSGVBZZvbzggI35gK5vG-2.fit_lim.size_1200x630.v1675192537.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "ChatGPT — the ultimate AI innovation"
     excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
@@ -423,6 +453,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "ChatGPT's massive hype has made these 5 artificial intelligence stocks some of the hottest on the market"
+    excerpt: "is embedded in the artificial intelligence craze, and the firm's technology is used for various AI integrations from self-driving cars to robots. The Nvidia stock rally has also made founder and CEO Jensen Huang considerably richer as his wealth has grown ..."
+    publishedDateTime: 2023-01-31T20:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-stocks-nvidia-mobileye-c3ai-ambarella-alteryx-2023-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
   - title: "ChatGPT rivals Anthropic AI and Character AI reportedly chasing megabuck funding rounds"
     excerpt: "Artificial intelligence startups Anthropic AI and Character Technologies Inc. are reportedly closing on blockbuster funding rounds backed by a number of high-profile venture capital firms, according to reports this weekend."
     publishedDateTime: 2023-01-30T00:29:00Z
@@ -473,6 +512,15 @@ related:
     provider:
       name: techbooky.com
       domain: techbooky.com
+    quality: 19
+  - title: "ChatGPT new feature can distinguish text written by AI"
+    excerpt: "OpenAI, which released the viral ChatGPT chatbot last year, unveiled a tool that’s intended to help show if text has been authored by an artificial intelligence program and passed off as human. The tool will flag content written by OpenAI’s products as well as other AI authoring software."
+    publishedDateTime: 2023-01-31T19:45:00Z
+    webUrl: "https://www.livemint.com/technology/apps/chatgpt-new-feature-can-distinguish-text-written-by-ai-11675194076900.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
     quality: 19
   - title: "Big Tech was moving cautiously on AI. Then came ChatGPT"
     excerpt: "Google, Facebook and Microsoft helped build the scaffolding of AI. Smaller companies are taking it to the masses, forcing Big Tech to react."

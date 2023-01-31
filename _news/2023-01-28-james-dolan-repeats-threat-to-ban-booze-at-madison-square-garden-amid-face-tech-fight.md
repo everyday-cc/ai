@@ -116,20 +116,6 @@ related:
       name: pix11
       domain: pix11.com
     quality: 36
-  - title: "New York’s Madison Square Garden’s facial recognition blacklisting sparks outcry"
-    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan’s celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
-    publishedDateTime: 2023-01-27T04:45:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/27/new-yorks-madison-square-gardens-facial-recognition-blacklisting-sparks-outcry"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 36
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/27/1917663.jpg"
-        width: 1240
-        height: 766
-        isCached: true
   - title: "James Dolan defends MSG’s use of facial recognition"
     excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
     publishedDateTime: 2023-01-30T16:43:00Z
