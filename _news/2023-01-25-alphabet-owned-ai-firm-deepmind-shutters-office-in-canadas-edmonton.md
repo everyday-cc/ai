@@ -5,8 +5,6 @@ excerpt: "London-based DeepMind's Edmonton office is the only international site
 publishedDateTime: 2023-01-25T02:18:00Z
 originalUrl: "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
 webUrl: "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-97294835,imgsize-29614,width-1200,height-628,overlay-ettelecom/alphabet-owned-ai-firm-deepmind-shutters-office-in-canada-s-edmonton.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "9nxgQBL48bNzP+vPDGdOwcraNAU+4TeY4rI/9w80gqqCzzsvWxvozm+6esfExe0sdABKXMGApU2RXcynGUbBVjWefvhuu+2wh8uLpJRqRuLc9enxCuNa5gOK9i5xRHUuJVSYg/VZdAY5iNX7wxrsaFz3+cXZP3hh1qdYPWO/lAKUq+EPB8HaZS7mHCSBNZuoDBq8tLI+uWx5wttfpQtdDVBumwZIDhuP2ijHBqmw2jM1LnMPcHEjPop1LnHD7db6y1WWAw0kcoUZO1iGXQWPZCD9LIuSglgP72Kl+cnBTNLaVu+SpZQFpdbCf8kdt/RGMVRDmjhmEPxX/jAuaUztabvMk0DEEybBI6PYO4KjdFk=;I9k28nA7hmBc8Q9z7ehYsQ=="
+secured: "tRWoeoV5/0Zb/qpt7E/jwBEx5cSAuR4e9fuyNnLOBXmgSudN/qthWxITwvyCBQYT8x36tTv+WHPFzGM7yj1yJT+hxEhF5qBK/+sTrlRlVbfl4Kxnx90CBWuW5VZasQYgdb3yCd6jdcQZMPuj8oaPJjRfbg7l/f4XPzfct1zbtCodfyOYuu2HdIgQ8HC6uEF1e8s0DFHIYN1isGTI/S+0XRQbUM9jm5jtg25k42kv/k4LWDMdN2+kh5X65LeMzZtLhqQ1TvezDXBwAHoYPLi0KpEtcfT3zkTWdw6Xnf8NdRCDynOLpb8ecbQEdUl2TYzB8W05kM76T9ugXmS1Rkk2GbS6WNFU+QAp6FkdXIjrEIs=;P+pKHypTzJfszzDfbWpJrw=="
 ---
 

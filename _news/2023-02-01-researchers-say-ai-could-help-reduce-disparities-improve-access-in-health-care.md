@@ -19,6 +19,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-6.jpg"
@@ -26,6 +28,6 @@ images:
     height: 1920
     isCached: true
 
-secured: "RYl91o63l7kwqGrYnzxIges6iPaYm1m9G/52Lk+QUNHPUdCLe7N3r7P1EyxHHE9Mis4NhDx2aIhV9wz2gwexPJs7u/HA70woIfUX+6DoNX8A0vAO2Gv9KMEdgnlFlDN1sIyjnQ4OpFFnEx01NLX3PboPnJaz1EmfBH8rc6yH2DqLfGzdOU+PXBMUpwf5ONHNidFuWI91Igk3XpQQ1eB6XV0syAZrQO0Gqj1s6ucml8mQuxsGN6VjSqZbet4aIqwvxxbVRgbdc8nEsHMVJrmSu0j/UhjXAX0E4ll5QjQDEywvZblYe2ieeogPFccl6tlWo4MWyZ7Evdfqspw6EX+lScIVwMdB7JNS9C9dxoqGpdI=;WeYFmk/EsThh4zFcFzeQjA=="
+secured: "Ar85+y7f+e77pAwDJU1amicuclizgsoJ8Gv/NbnTTB9n2hBC5C4OQ0AHMsM5ljW/lB8dFR+LdYl67e2L/vHqjhZYjSdQzmhFGolv8s62aAL+9W2ozClN5A0W/r23taw7Xo/iA69PgdhnDp1Ru8Ym34URj8KooDvllC+u0t1I9A7XTZKAfN/YbsfnJahs8P23RtZX9rYKbHY4DDceXVt2AGGxhs9hEut/NN8/g0tD0LUlYKPHIv7EPTbALtbU6bhD94IExF1pEh93VjbfJpmvyOesR5ljVUFVHHvjr3t6pIl7P+8awnGSTQSGEds90zC52nUAgT7k4fV5VEC1KJFCGUCDVAgJLle3DZ4IDIXGXYN3yuULCP9WrkYlkcLPc77IocP+GrZIQ/3cQdVSOfG26/to+0sIegZmolUiqWrXM9zqXl97bFiLiFoTNl44a8+CbubYNt8b89onoGchzBS13c96VKqqiW2zWVmy/TDs90oe01hhQqXAMDNMkU6Qp1eJeO1fyPK2JdZnLZGB9JIXOg==;GyUS0t/swc8qo1ErTVz5aA=="
 ---
 

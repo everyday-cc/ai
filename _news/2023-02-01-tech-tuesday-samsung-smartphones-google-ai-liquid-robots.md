@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/01/Liquid-robot-Carnegie-Mellon-University-1312023.png?w=1280"
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kJPFg/naqiJdCLyiiHz76PWYRVFl3IoqU+o20NlqjIDVZznLUZx0UCG+0b0hGrj5GW95yRAuHX90fl+3wsTCHXbAlT1qkSpg3MZWAnBUO9BMMACaYzD3K9T+XZOZZF5x1hnFVzO4792Q7KVcneNeYPptpYSsthEtu5L6LoglpR2o5G4EBrOLa+DDQeu+gUvbASxZ1PQd7QIyVNyYkHV3MtOk59Gt1gFY6kCVxpblgLbmpogr7jDmAIOjnDyD1AxKoMLGk4jqfoisbgj0XADx1ThjFOSvsQshl6kII0KbFGyeharTOX2lrWBtgII84ZksM3dOFXaMl0LuD4nu7JkrmOlLE7KxpmUFN7eqspyhqXU=;GWC91e/ckFdi6UnIFwJhuQ=="
+secured: "cgPDjQWjZ+mfcSv0TW7cZgSKoy3GJW/0WyLhCMqgH9SGyXMl3R9sTS6CtmSxp5ijpzI2l0y+0lsO+Q07UPGZd6AhVpLWxByOFHkB/EDbdpAhuG1s7VcsjuTVRxkCXYRweweabs+98FLKPMU+TMO8gCs66BX1z6UOtwlp02/EM8B+IcBT+Mat3/Ys3Uw7vn26faRNXXmO2UhjWi3uqQO5sAqTGbKqoLb4QMW62E8/rDU0jD1WZzCiZvLBwrENZlV930su3HjHB3UM3b4TpBceVgxihtBFjAk53/gOaZ1gJOt8k5Xrm9LuWi+rkHg/ns2l+pgxgbDuQE8KxHSU3PAXORG/AZ6DajgaunDjVVjek431nQNgiptcQ6kM8Qg3kV3X3u5D9P1jmkd+bpa5rRS4f/ROmPJC8bblJVmu6shC56F7Ogu00FCyZuj4BnZ4uWhBLHdP8oAzBLdiBEo8KSpFRiN4CKGkKO09TinP/j3Da8Gei1k0BpNqW4fES9P+ihns58/mFUwOK08WTcep1qCB7w==;3BJB4GUef4+4Ea/pjIIrWg=="
 ---
 

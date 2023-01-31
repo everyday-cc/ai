@@ -1,90 +1,20 @@
 ---
 category: news
 title: "Machine learning identifies drugs to help smokers quit"
-excerpt: "Smoking causes close to 500,000 deaths annually in the United States and is a risk factor for respiratory illnesses, cancer, and cardiovascular disease. While smoking habits can be acquired and unlearned,"
-publishedDateTime: 2023-01-31T09:02:00Z
-originalUrl: "https://health.economictimes.indiatimes.com/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
-webUrl: "https://health.economictimes.indiatimes.com/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
-ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
-cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
+excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan, which is used to treat cold and flu-related coughs, may be repurposed to help individuals give up smoking."
+publishedDateTime: 2023-01-31T08:33:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Health/20230131/4033046.html"
+webUrl: "https://news.webindia123.com/news/Articles/Health/20230131/4033046.html"
 type: article
-quality: 59
-heat: 109
-published: true
 
 provider:
-  name: health.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-97486376,imgsize-26854,width-1200,height-628,overlay-ethealthworld/machine-learning-identifies-drugs-to-help-smokers-quit.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-related:
-  - title: "Machine learning identifies drugs that could potentially help smokers quit"
-    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a new study. Researchers developed a novel machine learning method,"
-    publishedDateTime: 2023-01-30T19:26:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130517.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "AI Identifies Drugs to Be Repurposed for Smoking Cessation"
-    excerpt: "A study discovered of several drugs that may be repurposed for treating nicotine addiction. The researchers used AI to analyze data for 1.3 million people in order to find genomic variants that are statistically associated with smoking."
-    publishedDateTime: 2023-01-27T23:18:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-identifies-drugs-to-be-repurposed-for-smoking-cessation?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 37
-  - title: "Machine learning identifies drugs that could potentially help smokers quit"
-    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers. They developed a novel machine learning method, where computer programs analyze data sets for patterns and trends, to identify the drugs and said that some of them are already being tested in clinical trials."
-    publishedDateTime: 2023-01-29T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/978137"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/81d037f8-4556-4ed2-a04c-621a5d40b98c/Rendition/low-res/Content/Public"
-        width: 525
-        height: 700
-        isCached: true
-  - title: "Machine learning identifies drugs that could be repurposed to help people quit smoking cigarettes"
-    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."
-    publishedDateTime: 2023-01-30T22:58:00Z
-    webUrl: "https://www.news-medical.net/news/20230130/Machine-learning-identifies-drugs-that-could-be-repurposed-to-help-people-quit-smoking-cigarettes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 26
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/9/heart_disease_1_12c3ff20f43b43d898bf18f5689e0c7c-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Machine learning identifies drugs that could potentially help smokers quit"
-    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."
-    publishedDateTime: 2023-01-27T14:50:00Z
-    webUrl: "https://medicalxpress.com/news/2023-01-machine-drugs-potentially-smokers.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
-
-secured: "vrqj2ZALaq5n5ua7tY9r47A4bIkNnSeI9wMLmpFBxPWL6SXIdosdBU4aKYw1PBT4NRUzLpl+C5ljUp+5Rn2WiW0e2Mu8gaohePLGOlWlIf5mwCEiMvgKNhzDVLhoBs3P08YXm/004hRcIVZi5QefRYSCNgIXSrIedC+L5T7RSOTGSOpuWt/ENa98uEeWEH8zBJNr7QpraRKGKNmbONeiGGb+9/+WiHQNjSJADnUpIEXDbVH3A9PCcSGE8UI9k8b6LW+V099UrXj16seOE6CJ7gKMy47+MOqyJAd+8bEIFOraibEA0/yFb+BjRTIyfEgtEGPv9gxrN9yAPl53FV/7Z4B44SnBjKWtZJGX756XaMylv6cvyBBV7bUHyrawSftKIjEJ+scsaxK/FiU4tMlm1KI9bW0rVfJ5jySZznzKG/1oSvmQEtwmCDgobSqsfMB2VLwxQfFm5o2OvCA78RxlOOjg3WO35NBdSMNc2pU6j1HjRgXYNREuEQLdfiXTTbJzd+PbZMODUly+KKFhko6Z4Q==;9cQLBofkO1R7e4zH8lw8Vw=="
+secured: "8l4LV5kM6DUfgcccxR+wdZ/qGc6ECXqrkcrboC9kTks4Lcl03ykXD/sTfS7z0lEKUjWpbGnx0RUTAUtWK/ZdCltV57XFytgjsjhNj1kR37jB7I7Fa1tYxk1pXz06pNhY4Y9kUAtjmWd+fIYkQDytIrfHaoKPdtCAXcsWxPb+VW7xTQJmFlbm4PWYF0Xi3+avzBLtvjzDrQKZT7cJ+bkuOtzHic+7dQLqwBDFOEe87MvP1L4LFN0ygW+ipYqZEWbwNk87/ZUX1elMYlt9ws/A/vjyxUNX2uRabmaJGHH7M6/ixjEdS94xPzqBGmWYhhQSSMvc1uYgsLNxgRXWNsBxP0fykM8sNBZQyEABKv63aRc=;VFNmfNRju5E8JElcgPUlfw=="
 ---
 

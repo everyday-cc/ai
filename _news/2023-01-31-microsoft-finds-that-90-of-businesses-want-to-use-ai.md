@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 related:
   - title: "Workers want more AI to get rid of their office busywork, says Microsoft survey"

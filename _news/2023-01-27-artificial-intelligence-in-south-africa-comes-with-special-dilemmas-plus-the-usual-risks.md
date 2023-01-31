@@ -2,48 +2,19 @@
 category: news
 title: "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks"
 excerpt: "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa."
-publishedDateTime: 2023-01-27T11:38:00Z
-originalUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
-webUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
-ampWebUrl: "https://www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
-cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
+publishedDateTime: 2023-01-27T10:26:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
+webUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
 type: article
-quality: 49
-heat: -1
-published: false
 
 provider:
-  name: modernghana.com
-  domain: modernghana.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI in Autos
+  - AI Ethics
   - AI
 
-images:
-  - url: "https://cdn.modernghana.com/images/content/1272023123738-0g730m4yxs-file-20230106-13-750vf8.jpg"
-    width: 800
-    height: 338
-    isCached: true
-
-related:
-  - title: "AI in South Africa carries the usual risk, plus unique dilemmas"
-    excerpt: "AI in South Africa may seem far removed from the country’s prevailing socio-economic challenges but it will become pervasive in the coming years, writes Emile Ormond, PhD candidate, University of South Africa."
-    publishedDateTime: 2023-01-31T03:19:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/ai-in-south-africa-risks-dilemmas/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/ai-in-south-africa-risks-dilemmas/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/ai-in-south-africa-risks-dilemmas/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2023/01/artificial-intelligence-ai-south-africa.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-
-secured: "ss7SoBDsW88R08JyCpHnBkONomadEQDucwZFZJ1ykfQybPygPycVj90ocIRrSCBUr8hhQfeHgjlqXQN++71xaqSXnrmZe11GIkym4tl4qy6trwwuOiOJGvX6ZkJ6Uazmtl11md7xg0YdyclvnDyeD5Qu6Yo0Qwx2hWgN91C0jy+q6IVc9WobV2sIYTjN5FZ8xaxPiZhCoHMxpFPIvX6vHYsxr4Dp+AzrS0dsbLoVUY0wk26Kal1JOx5Krzf0tmRBOmrlFC0NYp53+2KwbXNt/Hbsc/qsp6LulEDVtfGBh77QmapztiRBkHGOQXn9HBpBgfOi9I71bGrz4K8ivqCyI3KQGQmD7s57gybR2b+AKFQ=;y9kMUKQmUYtJUT/xcNUIRw=="
+secured: "v2M0UYsDrCeQeVch45X02At82aFA022IMVuXgxI68eUBsMxzHY7WSOJQZEf0b42G4pho4YOVRBaXgsqKTmDqkCEUNtg88OOAWNdMZdWD1VlupCzV0gb+Hmi+CUS8T346lkmS4AiTSjpG6UpzzIF9l6/s2J05KtUph3F/ou4FKfvfQsU7PoRtcvkt4dOmGprL1bSvuFQYPFMYLxpKhJ6gtMvnBaPOy6wPR8261YFtA4qJ8U1kQk7iGURUtapJOjCj3HpsC5kDIXdBFT+gNRbLLXodijL6asUwZ7O41Kfti1tx8MiP1H1iY4UmY74vR3SqpjrtJDGKXXOPuNx9xgrnw/hCgqP66MF43LsQ0M7+oBmx97szBXzFoJe1W00qBcGTie09vJymeKSffW1sLY40+SCy9+tPKBpQyJvzzRwF64t7LAMNnBvH8nAURCPBA3jQxZGUkK89q7xjHaEJbBGkLbMojeZ4UAK9b+JHmwgTMYT8M9FJ7P4ZdHPGJn8vPYCZ+yZEjwh/7J31Tsu2TFuP7A==;nE+uZ+06vTpW9Uqi4IToeg=="
 ---
 
