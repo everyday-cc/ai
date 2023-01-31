@@ -71,22 +71,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Man planned on using AI-powered lawyer in court; then he started getting threats"
-    excerpt: "Artificial intelligence is being used to create art, answer your questions, and write essays. What about an AI-powered lawyer?"
-    publishedDateTime: 2023-01-26T12:15:00Z
-    webUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-    ampWebUrl: "https://www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
-    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 54
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6025408/2147483647/strip/true/crop/4121x2318+0+214/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "“Robot lawyer” pulled from first court case over jail time threats"
     excerpt: "CEO of the New York-based startup DoNotPay, Joshua Browder ... being threatened with possible prosecution and jail time. The “robot lawyer” technology relies on a few prominent AI text generators — such as ChatGPT and DaVinci — to dictate responses ..."
     publishedDateTime: 2023-01-27T10:40:00Z

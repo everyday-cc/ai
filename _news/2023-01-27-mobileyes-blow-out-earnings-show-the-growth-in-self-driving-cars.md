@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mobileye expects strong 2023 as customers lap up autonomous driving tech"
-    excerpt: "The listing of Mobileye Global Inc., the self-driving unit of chip maker Intel Corp, is seen on a jumbotron outside the Nasdaq MarketSite at Times Square in New York City, U.S., October 26, 2022. REUTERS/Shannon Stapleton Jan 26 (Reuters) - Mobileye Global ..."
-    publishedDateTime: 2023-01-26T12:59:00Z
-    webUrl: "https://www.reuters.com/article/mobileye-results/mobileye-expects-strong-2023-as-customers-lap-up-autonomous-driving-tech-idUSKBN2U50V8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 33
   - title: "Mobileye’s Blow-Out Earnings Show the Growth in Self-Driving Cars"
     excerpt: "Mobileye, a provider of technology for advanced driver assistance systems, reported strong fourth-quarter numbers, and upbeat guidance."
     publishedDateTime: 2023-01-26T14:34:00Z

@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry"
-    publishedDateTime: 2023-01-30T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Medical Artificial Intelligence Market 2023 Analysis by Market Dynamics, Industry Trends, Drivers, Challenges, Restraints and Outlook to 2027"
     excerpt: "Jan 27, 2023 (The Expresswire) -- Global “Medical Artificial Intelligence Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
     publishedDateTime: 2023-01-27T20:04:00Z
@@ -65,15 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
-    publishedDateTime: 2023-01-27T19:46:00Z
-    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
   - title: "Global Artificial Intelligence Services Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
     excerpt: "Artificial Intelligence Services Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Com"
     publishedDateTime: 2023-01-30T13:47:00Z

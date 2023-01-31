@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-healthcare-natura
 webUrl: "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast"
-    excerpt: "Voice And Speech Recognition Market Growth, 2023 Top Key Players Review, Demand and Global Analysis by Forecast is the recently added market research report by Polaris Market Research to its ..."
-    publishedDateTime: 2023-01-26T11:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-growth-2023-top-key-players-review-demand-and-global-analysis-by-forecast"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "y/ONqrc2FLa2MA8OUbYlkii6bqJZfzf6HfigECkG5QfRqdRHZ0hW9UCeZUM/CwBgr5r9ZL4Xn71HY+30Tw/c/GfpZ4y8A/9xRrNnbo3B+BjEuEjV5tKOKqePJeNLvb5y+VMBqxjAAuAOpdLRpNTZ4gGHlyvx2WgYELyidkzkcmHmHAwHZfQSR2HfCl1HXV1PO/d9lEf/7l99kQbyyzxnSmhg0m9V3U683aoS/NhhOBvLjRL+Z75jU7fcgIF2AdKeVC3UczdZlAEa58yqiti0183nOu9b36d+tAtfDrEgIWzTNz/kCjeClJm1N1QcdhoK3NUbeFgslIwvEaUD3nG7vCIkiC6R3H/Ra8W9Ku1UFk0=;MiHAVk09dHaHzwaMQO7NOA=="
 ---

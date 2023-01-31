@@ -65,17 +65,6 @@ related:
         width: 857
         height: 600
         isCached: true
-  - title: "The Merger of Artificial Intelligence and Psychiatry"
-    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
-    publishedDateTime: 2023-01-26T12:36:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 41
   - title: "The race of the AI labs heats up"
     excerpt: "The labs may not remain neck-and-neck for ever. One variable that may help determine the ultimate outcome of the contest is how they are organised. OpenAI, a small startup with few revenue streams to protect,"
     publishedDateTime: 2023-01-30T22:33:00Z
@@ -90,15 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Assessing the Threat of AI Misuse in Disinformation Campaigns"
-    excerpt: "The proliferation of AI could allow hostile and unfriendly actors to create and spread disinformation more easily and effectively, but there are a series of measures we can take to mitigate these harms."
-    publishedDateTime: 2023-01-26T11:01:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/assessing-the-threat-of-ai-misuse-in-disinformation-campaigns/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
   - title: "Generative AI and ChatGPT – Is it the disruptor in the digital world needs?"
     excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
     publishedDateTime: 2023-01-26T13:14:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Crunching time to market with agile AI solutions"
+    excerpt: "The advent of pre-built AI solutions makes it possible for businesses to work with agile models and reduce the time to show business impact by 60% compared to the traditional way of approaching AI/ML solutions."
+    publishedDateTime: 2023-01-31T04:00:00Z
+    webUrl: "https://analyticsindiamag.com/crunching-time-to-market-with-agile-ai-solutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Crunching-time-to-market-with-agile-AI-solutions-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "NFx65eUqgyh5i4RF5Ee3Foh8aZecxrpD4cddxJrK3GxyUWG07Dd4K17uG5wl+havwosIjBZ8ObrJxx5Lv5MNUCaOsc+Qn1uZ29CtJ5FOADOkpAW1mQ803m5/M+1TIYkSdIYAZGR78HlUEyfrDEZwvNMtz3/K8MmkFanMT5oDyjtrdW1Zs5Qj7MhNdTgNm8iC+HF2eeTI0Bb2Ex7LddA3/yRA3tpkQYbpfQurKi+gxgMQjm13TWyNdcFK9cgNqtAaT/KWK+kR1U0o1L/D+HZ6raommcdEot8/f/+4FliF3CkiquDLY/+NFwRRLdmXDK49Pj7mhUuOK0EVuGSBHAJ4u20E4RO8GPfvKG0ByA/P2EA=;y5tdyWAiSCr08DQP0siK3A=="

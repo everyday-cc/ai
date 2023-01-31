@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hawk AI scoops $17 million in Series B financing"
-    excerpt: "Regulation and compliance appear to be one of the few areas of fintech not sufffering from the current downturn. News of Hawk AI's funding comes on the same day that Salv, a RegTech startup founded by a gaggle of former Wise and Skype staffers, raised €4 ..."
-    publishedDateTime: 2023-01-26T12:04:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41676/hawk-ai-scoops-17-million-in-series-b-financing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/hawk-ai.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Despite $30 million funding round, AI start-up Mad Street Den doesn't plan to expand or hire"
     excerpt: "The company's co-founder and CEO Ashwini Asokan told CNBC-TV18 in an exclusive interview that the company is focusing on \"double-down\" on existing geographies and clients as it looks to help bring about greater artificial intelligence adoption across large companies."
     publishedDateTime: 2023-01-27T14:03:00Z

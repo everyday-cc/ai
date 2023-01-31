@@ -76,20 +76,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Microsoft Q2 Results: Approach Azure And AI Hype With Caution"
-    excerpt: "Microsoft posted solid Q2 results by topping guidance in nearly each segment, and restoring faith in Wall Street's visibility of Azure. Satya Nadella's vision and execution have been second-to-none, and while AI is in its infancy, early practical use cases ..."
-    publishedDateTime: 2023-01-26T12:30:00Z
-    webUrl: "https://seekingalpha.com/article/4572522-microsoft-q2-earnings-approach-azure-ai-hype-caution"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 69
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341937940/image_1341937940.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
   - title: "Unpacking Microsoft’s Earnings and the Future of AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips “Write a newsletter about Microsoft’s second-quarter earnings for"
     publishedDateTime: 2023-01-27T21:30:00Z

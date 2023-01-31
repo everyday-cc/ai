@@ -2,19 +2,19 @@
 category: news
 title: "BuzzFeed to use artificial intelligence for content"
 excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-publishedDateTime: 2023-01-30T19:48:00Z
-originalUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+publishedDateTime: 2023-01-30T17:33:00Z
+originalUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+webUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+ampWebUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: fox13now
+  domain: fox13now.com
 
 topics:
   - AI
@@ -170,6 +170,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "LujVXg3CaqPOc/7NcVTgqv6UmGj0WCd3KBhGjDfmQpHe3yhgPLz170Yr3kvzXWvxBBP+jRFS6u4GiauMLCrlPnHsOCeUzM/ihwLQdtKjxTqCjChQ6V8vz1nt5HZPQrylIM3J1Rhh+TNs3te75JUom/SrtbExwzBrLvTJvcwqSSIWn87dp39P/tmW5++yzxVw0IaGggO15XvoZaLG831KMTv0eBYVpn6Eayu/EhL50RE+Q3Vjb92SZ2yny2AedYYqP9Uy1syjmopJ4i49unbv3JfLgn+Y9aMg2bWxeih39j135WUWDf+AK4NIY+L21lRSVi6E9LUYZApCBaZJ5l3S5j6cerqc/v1yJGsp13cZMUmg9fh0IG9Hbl5JZUvvSgpxvcu7QuYKcrnaVnnVvbiNxGxinksUBZvI8tNpZYoQWyOaNzbDl33D1CT3MQeVlESesl+wWIhgdk8NHdXPpVuq/f5FGUakrkS2Wv0/iJnGLmzB/dXIEgNviEq4YqCRbjbnw9D98VBRbUU1DZ3fXmQ+Ig==;3709jToPMWEy8yKYqevuhw=="
+secured: "T8uW6JShOW/QxbSkc9wk/XGVjI/M1pNvHAXeFlnpM2VG7rkErFJ81Aiw8Fd5erHij08peahP9R1qN3oEeAHsGgqbRjQTenumY5IN3TgHLmkzxOT+lcUK1huEnx9Ud48BhZLPfefDtK+hWOXll4kL9ipHCkdzqHcY0X1E7QTAE4GAmcmH9kwbMERgGaas6gPixM/yn2mTmNarytdtg9QXprTlX1nPMhDuSCsikX/kv84K2u/hgOLqqmrMxyXAK47qcxPnSFB5RvBi5L9+JF9eIXU0jk439zyd87HWwu1HIECjc2q7afu8FJ1v1cFEHE67LeWfWU0L/e+S9P/hKaSqqzZ8fGJ3nWC5pm+4pCumygQ=;kx2Mrw6PWMnO0EBJjlZG3w=="
 ---
 

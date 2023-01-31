@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI: World likely to hit key warming threshold in 10-12 years"
-excerpt: "The artificial intelligence-based study found it unlikely that temperature increase could be held below 2 degrees Celsius, even with tough emissions cuts. And that’s where the AI really differs with scientists who had been forecasting using computer ..."
-publishedDateTime: 2023-01-30T23:09:00Z
-originalUrl: "https://www.courthousenews.com/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
-webUrl: "https://www.courthousenews.com/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
+excerpt: "A new study using artificial intelligence finds that the world will likely warm a few more tenths of a degrees within the next 10 to 12 years and breach a"
+publishedDateTime: 2023-01-30T21:13:00Z
+originalUrl: "https://journalnow.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_947ac2c6-86b5-52bb-89c2-e41aa781947b.html"
+webUrl: "https://journalnow.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_947ac2c6-86b5-52bb-89c2-e41aa781947b.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Courthouse News Service
-  domain: courthousenews.com
+  name: Winston-Salem Journal
+  domain: journalnow.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.courthousenews.com/wp-content/uploads/2023/01/demonstrators-un-climate-summit-egypt-scaled.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/4e/64e38129-3000-5cd6-af36-44d3368779d4/63d8372badd74.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 610
         isCached: true
 
-secured: "1Fp5yQj22ePyORoC79C3EE9avhuJz34HiO8fxo21WMeaIZdDieWLxHxr8o4dI3ng0FgJ5UngE4jtM9Xr3RsAM0IP1Rb8Efxq9zacarXep0+u44tCvlbXbXwHH+E6JP9eNbSNCzK2MxfFsMCWVVxqXHMn3cpl0RUb27vwzM5/E4u1ODYYhq9fA94gjvYzWa0XeWHZuoWeeW6o40oOtnSVWlq1PdrHZxrw/3qmxagokFhiZp9RWIHs9Gph0ufv4GgM9rfFBspvsQvq1o5yh6udcb/I728h6PC0da9D6UKxeMd8D/a9xntK3M0yMQhVBCmEUikz8AtEmLutiWo+7jIlDohUWZbKG55RY2xvT8sioSs=;tYJnKj0HFuxMCx3gYFnVLQ=="
+secured: "K6UupaSKRFgeYGHgwMtXASBZtyyqRJekjEREhunqVLFbtN9tNxAcF+8A4+yleR0JpYE5tapcPfiCQJkjKkqDMidy2ifsHLb64Q/BKJMBg6Wq/E97BWxvEYWt1dlW3DBvkEMslIxIVfiGYDQrrmZ2MNaKM0Odk4vqGq4gMRug3/upq9xkaL7WdPt8bF7YV6yMdeEyd3C5N3ECsohQzn/DXmenMjf6pDv70Z/X2pmvtdruozJotZJHjyffODn7zPMwfKNTPyQgUBc/mfEgKf7qB7Fc3mSubCDQSsQW6S6nAVefK3CCtDs+ZPH3F4EkvjPOcF5XvppEkerkv4UaUwjVnNsiX6NAuBt//RgaWDtadkU=;tpEONwb4qOQ5Y97hQIlSHw=="
 ---
 

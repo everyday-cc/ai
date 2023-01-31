@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "AI: World likely to hit key warming threshold in 10-12 years"
-    excerpt: "The artificial intelligence-based study found it unlikely that temperature increase could be held below 2 degrees Celsius, even with tough emissions cuts. And that’s where the AI really differs with scientists who had been forecasting using computer ..."
-    publishedDateTime: 2023-01-30T23:09:00Z
-    webUrl: "https://www.courthousenews.com/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
+    excerpt: "A new study using artificial intelligence finds that the world will likely warm a few more tenths of a degrees within the next 10 to 12 years and breach a"
+    publishedDateTime: 2023-01-30T21:13:00Z
+    webUrl: "https://journalnow.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_947ac2c6-86b5-52bb-89c2-e41aa781947b.html"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
+      name: Winston-Salem Journal
+      domain: journalnow.com
     quality: 39
     images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/01/demonstrators-un-climate-summit-egypt-scaled.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/4e/64e38129-3000-5cd6-af36-44d3368779d4/63d8372badd74.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "B+sr0krOFrtqCH70V5yF8EEi/oBXy4N/7yvWyRlPpbCQtLJBN4VYm95V7eu/NCDiOUWmzjS/iznSfvbGY+eNBD/xdSUc3cl3c9YcH4opZxf6PZABFOpQrD7gUY+yGYmtaLfPngjdsr4h5WkrMAtvQa6NM6TxDKHO9DiCKpnLvoESc803dhQ946Wsq50vgRhmKB5e/tJ17vB+Lj2KJgcwZ5GqB7tFdGbMGGRxJH/vPOS22jYOEF1FkYSidIZlcBKJWR1nijCZM9xoIivrjEM/sFz4cl9PSGsb3Q1V66orM47jCnADqahkaZHS7zXZk1sjqzuhOGbo66JLLnI1zOJLy3MK5WsYegE0U2rTu1p+1TMXbalAwQ4ByI9xb5FoNp5V72cKHYfR+zchvxXDxjkC50YMmu6xPwrCfTudGQ4/u+URzbqlBL+IaryUybWBZEA4Hg58+UC/Q0He/+f9HLtrwwlCD1V76Aa2mmTEtFrVTakvz8q5ks08cOBJIY/hBYHC5O9YyRfHE9xiW5i7IA3EMg==;b2eL7W1Zv86Qii8xCy6gyg=="

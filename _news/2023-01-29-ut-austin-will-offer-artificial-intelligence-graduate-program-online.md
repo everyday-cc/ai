@@ -15,8 +15,8 @@ provider:
   domain: chron.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
   - AI in Autos
 
 images:
@@ -73,6 +73,6 @@ related:
         height: 416
         isCached: true
 
-secured: "0WGGIcATYVVU5KB/FcGp2GLJDY9phtd6LonyzA8Xa8D8GdFLeytASg8fdQpM2CbzfJ+6DymTHwWOcWrWxokmGs7aNoH5R8NpU/OHF/pLr6ztD9JJ5gRlFBT0U+y12PGNALr6DazbO+ByYE+ah5BQ2aiddVDQ81fwq/gF94c9tgCdSWzLTJh5qMtardDjKlue17hsUBszd4ozyuRlsMIrKNzB3sOIAjRw/78e4HfRu4hrmv2X97oMz7JRBhf77QPD1VFwqfdUDDwlQIa3rIJ6k0pHIXWpqFsc6YuX4eLX/v8mYGi3mOn0n6Gpkj7Y7D5cCZsTFfOTwfRLzKArHslsqfSTrS6tpU6edjCJDXO49fU=;t2sgaJr7/nhiqnDN0cSd+w=="
+secured: "NSpmgyoNPMqToZPjIcuqNn7l/Uv6WCDgM0/N6Sbg5Z1E0NGDSt9vK7ePWgZBTOrKg+Qmw9PFSwFnArWFdmT2F8iMoTVZi5nsNxUAz7UV7zs4WSYJ+BNJkxTd9/ZgMQZ027dR9FDKOqZk68Vl1JM1X3VV3vmmQNDBe3r6Utcg7DmNN0wl1D3YWW9zxubV5ONt1B8kCIESyaWOpwPhChDC5wZGrWuBUH7bRsdUmqUtjsHfbEfqAGRksOIZBlulGSB+NLgpmhlBvagIV4pvh27+nojh1y6HtcqdveyLP8hDnIMWM87VYHeZgbNPqzJlRnwRA/xha5LU83Y8jAKeCXlTkCi+VTH7fiGOQ8WSm3wHE3A=;+X6GyY0UTcHF/R8aNsRiiQ=="
 ---
 

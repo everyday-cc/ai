@@ -148,15 +148,6 @@ related:
         width: 1000
         height: 751
         isCached: true
-  - title: "MSG faces scrutiny over facial recognition technology"
-    excerpt: "New York State Attorney General Letitia James and MSG Entertainment do not see eye to eye when it comes to the company’s controversial use of the technology to ban certain customers from its venues."
-    publishedDateTime: 2023-01-26T11:55:00Z
-    webUrl: "https://pix11.com/video/msg-faces-scrutiny-over-facial-recognition-technology/8336434/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 19
   - title: "James Dolan defends MSG’s use of facial recognition: ‘Just a technology’"
     excerpt: "James Dolan responded publicly Thursday to criticisms of Madison Square Garden's use of facial recognition technology."
     publishedDateTime: 2023-01-26T19:30:00Z

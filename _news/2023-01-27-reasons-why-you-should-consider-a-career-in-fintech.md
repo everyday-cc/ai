@@ -83,34 +83,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Lloyds Bank invests in car payment FinTech"
-    excerpt: "Lloyds Banking group has invested £4 million in “all-in-one” motoring app Caura. According to the FinTech, many of the 30 million drivers in the UK use between eight and 10 apps and websites to manage their vehicles."
-    publishedDateTime: 2023-01-26T12:02:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Lloyds_Bank_Invests_In_Car_Payment_FinTech.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 39
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/LloydsBank.jpg"
-        width: 515
-        height: 215
-        isCached: true
-  - title: "FinTech Bolt ‘cuts 10%’ of workforce"
-    excerpt: "One-click checkout FinTech Bolt is reportedly cutting 50 roles, around 10 per cent of its workforce. <br /> <br /> US business publication The Information reports that the company has now culled more than half of its headcount since May 2022,"
-    publishedDateTime: 2023-01-26T11:35:00Z
-    webUrl: "https://www.fstech.co.uk/fst/FinTech_Bolt_cuts_10_of_workforce.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
-        width: 5580
-        height: 3138
-        isCached: true
   - title: "5 tech trends that will change the fintech industry in 2023"
     excerpt: "A recent report by Bain and Co. recognized India as one of the first leaders to uplift the exposure of the country’s fintech industry globally. Further, the report states the boom in smartphone adoption"
     publishedDateTime: 2023-01-30T08:47:00Z

@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry"
-    publishedDateTime: 2023-01-30T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data and AI Ethics Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-01-27T00:02:00Z
@@ -69,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
-    publishedDateTime: 2023-01-27T19:46:00Z
-    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "18Vne6OFGpykOJtdDpHRzEemqRxLObKfEDtyRA+Iw/nLQd0igGamw8EV765KRfZHZkA4TW8pidvoFQcuj9lXZCFCB5FEPCRw8Q0cEKuLMOI+UvygPSNQK+DchfubbsyfFX9vZylziG747CNXW7TitghrlkPgo5Ne2buikE2haLqC3jF0CdVIcBUDwpts8BCLyIlSem0+dWWoVTDFjjvvhKtWbJrhDkMTJ4zsaEYIsu55I6wj/p8pWjmzLs1T+M2sAJSwxq9FODJMX8+MNKHahCllMgnFx5p1q1PkqVcw7NT4m8thVqKtzKKYFrAG332tXUaWerpO9l6y22QNuCmd4yly4W9mSB03ExveoFR7SxSU8w0dz5YyrpRiFGiu/JmBlv6PbmktcTZAeKjMxZ598YagefhZGfGroTHOs+ZueVoAANCxcqVNVMJkAHQWfyNAjYTGZ9nHIndZmZXC2dTZ+erpsxV1qUxDV/obF+7EOcnx3lCsHI+0j1lg0Wej4wTN/e/DQiBFoSa4ClRAGUMrOw==;a5AdcHNUyIdV8Lw0pyryzA=="
 ---

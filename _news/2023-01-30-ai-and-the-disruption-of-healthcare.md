@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -61,17 +61,6 @@ related:
         width: 857
         height: 600
         isCached: true
-  - title: "The Merger of Artificial Intelligence and Psychiatry"
-    excerpt: "Psychiatry is an art and a science, and artificial intelligence may provide tools to allow it to better understand what makes us tick. True to this duality, I have always loved working with people ..."
-    publishedDateTime: 2023-01-26T12:36:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychiatry-and-sleep/202301/the-merger-of-artificial-intelligence-and-psychiatry?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 41
   - title: "The race of the AI labs heats up"
     excerpt: "The labs may not remain neck-and-neck for ever. One variable that may help determine the ultimate outcome of the contest is how they are organised. OpenAI, a small startup with few revenue streams to protect,"
     publishedDateTime: 2023-01-30T22:33:00Z
@@ -86,15 +75,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Assessing the Threat of AI Misuse in Disinformation Campaigns"
-    excerpt: "The proliferation of AI could allow hostile and unfriendly actors to create and spread disinformation more easily and effectively, but there are a series of measures we can take to mitigate these harms."
-    publishedDateTime: 2023-01-26T11:01:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/assessing-the-threat-of-ai-misuse-in-disinformation-campaigns/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 19
   - title: "3 ways health systems are using AI to improve patient care"
     excerpt: "From backing artificial intelligence-based startups that can detect emotions to developing an artificial intelligence-based tool that can predict \"ICU delirium,\" here are three ways hospitals and health systems are using artificial intelligence to improve patient care: Northwell Holdings,"
     publishedDateTime: 2023-01-30T19:34:00Z

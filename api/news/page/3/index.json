@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-27-how-cutting-edge-ai-tools-are-remaking-history.md",
+      "title": "How cutting-edge AI tools are remaking history",
+      "excerpt": "From seeking lost tombs to restoring pieces of art, AI doesn’t just generate new material – it’s helping us better understand the past",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369950/how-cutting-edge-ai-tools-are-remaking-history",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369950/how-cutting-edge-ai-tools-are-remaking-history",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1674811132/itpro/2023/January/GettyImages-830982288.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-27T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence.md",
       "title": "All In On AI: How Smart Companies Win Big With Artificial Intelligence",
       "excerpt": "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months.",
@@ -96,6 +148,49 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new-job.md",
+      "title": "IBM Announces Mass Layoffs In A Conference Call; Around 3,900 Employees Might Need To Search For A New Job",
+      "excerpt": "IBM Corp. also participated in the \"layoff drive,\" laying off 3,900 employees on Wednesday. The tech hub said that the asset divestments included a layoff campaign. James Kavanaugh, the company's chief financial officer,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new",
+      "originalUrl": "https://in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/8be9d969-3f08-4e53-85d7-7e73baf3f0c4_ysq6.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new?amp=1",
+      "publishedDateTime": "2023-01-26T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -234,59 +329,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028.md",
-      "title": "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028",
-      "excerpt": "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-phone-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2028-2023-01-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T18:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -490,7 +532,7 @@
       "originalUrl": "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -787,7 +829,7 @@
       "originalUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -839,7 +881,7 @@
       "originalUrl": "https://www.huffpost.com/entry/rep-jake-auchincloss-ai-speech-congress_n_63d2aacae4b01e9288694809",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1185,58 +1227,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-if-you-retire-early-you-could-face-faster-cognitive-decline-as-you-age-according-to-a-new-study.md",
-      "title": "If you retire early, you could face 'faster cognitive decline' as you age, according to a new study",
-      "excerpt": "The researchers found that early retirement can lead to \"faster cognitive decline among the elderly.\" In 2009, China introduced the New Rural Pension Scheme (NRP), an initiative that provided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1",
-      "originalUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63d18a0740fbb600192b745d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1?amp",
-      "publishedDateTime": "2023-01-26T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

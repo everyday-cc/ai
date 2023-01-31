@@ -32,20 +32,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Hawk AI scoops $17 million in Series B financing"
-    excerpt: "Regulation and compliance appear to be one of the few areas of fintech not sufffering from the current downturn. News of Hawk AI's funding comes on the same day that Salv, a RegTech startup founded by a gaggle of former Wise and Skype staffers, raised €4 ..."
-    publishedDateTime: 2023-01-26T12:04:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41676/hawk-ai-scoops-17-million-in-series-b-financing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/hawk-ai.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "ZGjpbrk92Fd9gY58d+3flbSt3I9Osejl1WZsnPvw3e+6i9/eesskMoghH6nX+JxVjQF1g+Qd5f4qYWZbxSzD2cjWyBG+cGU2Y4m3UHIbzes57NJn67jVyqV1sKWIJbl2FSjPe0W+DGm9HuHT5rUF8qONRnb1s25yys/WV2RNm09SSVzb1IrvCoVkWq9Lqbig3WWK44X8u8JuVqqgqOBPS+aJRJO47kFCeTX6HqgfYXAxUc9qyhHyloq+FPh/onype/MxLbI6fOGYVhZo652OOjF3ok70B2of04wz9zRFDiHFLbwwKnyPkFu57ZMvsnWWLQBYow7G48ek6E4xsTIL7U3wgLOuU2Pc7aKrEwhAu1/FYPhnn1fTN7LfPgstQolyUO8lbEgJ/8R7d3gboR0MmVl/uGMqyCpvSAFs48XQtUXFHLw35vrY0FShD9fAQ3rsYIJSc6R8vtTU8Gx2ImbAdn1pYDcsD7Yp1J16mrzpJIGhjoO9Tm7EGe10vIHGoTb9IJGkbq4fCQKKbQHg66sdcg==;4NO5DlCj+vKZcQc9PEAXUw=="
 ---

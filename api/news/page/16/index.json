@@ -2,6 +2,144 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-01-14-researchers-look-to-expand-automatic-speech-recognition-to-2000-languages.md",
+      "title": "Researchers Look to Expand Automatic Speech Recognition to 2,000 Languages",
+      "excerpt": "A team of researchers at Carnegie Mellon University is looking to expand automatic speech recognition to 2,000 languages. As of right now, only a portion of the estimated 7,000 to 8,000 spoken languages around the world would benefit from modern language technologies like voice-to-text transcription or automatic captioning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/researchers-look-to-expand-automatic-speech-recognition-to-2000-languages/",
+      "originalUrl": "https://www.unite.ai/researchers-look-to-expand-automatic-speech-recognition-to-2000-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2023/01/kyle-glenn-nXt5HtLmlgE-unsplash-942x600.jpg",
+          "width": 942,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-14T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-given-a-platform-14-years-ago-by-hudson-miracle-this-hero-pilot-has-used-it-to-promote-airline-safety.md",
+      "title": "Given A Platform 14 Years Ago By Hudson Miracle, This Hero Pilot Has Used It To Promote Airline Safety",
+      "excerpt": "In Charlotte, where a museum was renamed to honor him, hero pilot Sully Sullenberger said the failure of an FAA safety system provides an opportunity to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/",
+      "originalUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c085fb88737cf94d964a48/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedreed/2023/01/14/fourteen-years-after-hudson-miracle-hero-pilot-sullenberger-says-dont-waste-a--crisisfix-notam/amp/",
+      "publishedDateTime": "2023-01-14T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing.md",
+      "title": "Intel launches the 4th Gen Xeon Scalable Processors for data centres, cloud and AI computing",
+      "excerpt": "Intel’s 4th Gen Xeon Max Series CPU is the first and only x86-based processor with high bandwidth memory, accelerating many HPC workloads without the need for code changes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html",
+      "originalUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/01/Intel-launches-the-4th-Gen-Xeon-Scalable-Processors-for-data-centres-cloud-and-AI-computing.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/intel-launches-the-4th-gen-xeon-scalable-processors-for-data-centres-cloud-and-ai-computing-11987872.html/amp",
+      "publishedDateTime": "2023-01-14T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-singapore-based-fintech-actyvai-raises-funding-to-support-expansion-product-enhancement.md",
       "title": "Singapore based Fintech actyv.ai Raises Funding to Support Expansion, Product Enhancement",
       "excerpt": "Singapore-headquartered, category creator in the enterprise SaaS with embedded B2B BNPL and insurance space, has raised $12M.",
@@ -1052,153 +1190,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-6-types-of-ai-and-what-they-can-do-for-your-business.md",
-      "title": "6 Types Of AI And What They Can Do For Your Business",
-      "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. AI is slowly taking over the world. Drones are delivering food, vacuums are cleaning homes on auto-pilot, virtual assistants are initiating calls and art is being assembled by bots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c00726196515fc48c92cf4/0x0.jpg?format=jpg&width=1200",
-          "width": 1105,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/",
-      "publishedDateTime": "2023-01-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-nvidia-broadcasts-ai-powered-update-makes-it-look-like-youre-paying-attention-when-youre-not.md",
-      "title": "Nvidia Broadcast’s AI-powered update makes it look like you’re paying attention when you’re not",
-      "excerpt": "Nvidia Broadcast, the GPU-maker's software for live streaming and conferencing, has something that'll make it easier to be distracted while",
-      "sourceUrl": null,
-      "webUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/",
-      "originalUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stuff.co.za/wp-content/uploads/2023/01/Nvidia-Broadcast.png",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/?amp=1",
-      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/?amp=1",
-      "publishedDateTime": "2023-01-13T02:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stuff.co.za",
-        "domain": "stuff.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-computer-vision-software-market-detailed-analysis-of-current-industry-figures-with-forecasts-regional-outlook-2028.md",
-      "title": "Computer Vision Software Market Detailed Analysis of Current Industry Figures with Forecasts Regional Outlook 2028",
-      "excerpt": "Computer Vision Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-detailed-analysis-of-current-industry-figures-with-forecasts-regional-outlook-2028-2023-01-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-detailed-analysis-of-current-industry-figures-with-forecasts-regional-outlook-2028-2023-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

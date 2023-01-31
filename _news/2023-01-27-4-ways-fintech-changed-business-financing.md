@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -72,34 +72,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Lloyds Bank invests in car payment FinTech"
-    excerpt: "Lloyds Banking group has invested £4 million in “all-in-one” motoring app Caura. According to the FinTech, many of the 30 million drivers in the UK use between eight and 10 apps and websites to manage their vehicles."
-    publishedDateTime: 2023-01-26T12:02:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Lloyds_Bank_Invests_In_Car_Payment_FinTech.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 39
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/LloydsBank.jpg"
-        width: 515
-        height: 215
-        isCached: true
-  - title: "FinTech Bolt ‘cuts 10%’ of workforce"
-    excerpt: "One-click checkout FinTech Bolt is reportedly cutting 50 roles, around 10 per cent of its workforce. <br /> <br /> US business publication The Information reports that the company has now culled more than half of its headcount since May 2022,"
-    publishedDateTime: 2023-01-26T11:35:00Z
-    webUrl: "https://www.fstech.co.uk/fst/FinTech_Bolt_cuts_10_of_workforce.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
-        width: 5580
-        height: 3138
         isCached: true
   - title: "Reasons Why You Should Consider a Career in Fintech"
     excerpt: "If you’ve always wanted to work in fintech, you’ve come to the right place. Fintech is an exciting field with plenty of potential. As a matter of fact, there’s always something new happening in this field."

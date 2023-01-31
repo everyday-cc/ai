@@ -52,15 +52,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "How This Startup Uses AI to Deliver ROI-based Creative Intelligence"
-    excerpt: "MarTech company RAD AI (which stands for Remove All Doubt) looks to be at the heart of the action on AI-based marketing. The California based company is solving industry problems with AI that automates ROI-based creative decisions as well as content strategy."
-    publishedDateTime: 2023-01-26T12:22:00Z
-    webUrl: "https://www.benzinga.com/general/movers-shakers/23/01/30583996/how-this-startup-uses-ai-to-deliver-roi-based-creative-intelligence"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "Oy5SglG3YKtHDYOD4wstBVVKmGtN13XnMeUmKMqefwFadcE/JEBOZpQHs40EqLbIjtIXOKlJwU7QVVJmHGwavw5llHqyDrXYvATrL1iEyyBWfRWPpeGSSI32PI5iKuM2NnWVIAUpfRVfHrtrb6QOxZqDIIv1L7VkSHELMkmapziv7kuTntX2HWrTTG6qjSTQScSXfDEZ+NnpkLKkXb3XyGxk7qoklTgZK7LHrR2eoh4Xp9fpkjrH4Vj+iE71X/Tg8mJcXCuTt6MwaB/ByxXil7IMO3eRpgsFgNYs2bqxPu8wxhe9fCq5m/etWNkn0PUAn3zcEeC92cxAMIKKGI+YGy4gjg2s/8qsyVaizv4xzA3FxpmrWVeAedXRs0j4kFZ1e9wXrEBVonA3OVVaI9LIpKP/N7CYhcVKG7B6WbLshCuxsZKQBaovzpTYvVvRzKnkAcpMvOayFYDgKWOvEFUVWiPjqj8uNbJZDwcwVyUTBPLps6j+KGjtcMJvScjgM5hJxGTm+9Mw7uiaNlqx68jfdA==;euZ8hiDgw8WE8rcELdFqdw=="
 ---

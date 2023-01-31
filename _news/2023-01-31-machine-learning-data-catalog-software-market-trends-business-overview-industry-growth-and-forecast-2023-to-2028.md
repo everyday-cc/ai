@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
+    excerpt: "In 2023, Current Artificial Intelligence (AI) in Drug Discovery Market Size | 2029 | Newest [107] Pages Report"
+    publishedDateTime: 2023-01-30T16:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Phone Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2028"
     excerpt: "In 2023, Current Facial Recognition Phone Market Size | 2028 | Newest [94] Pages Report Facial Recognition Phone"
     publishedDateTime: 2023-01-27T02:16:00Z
@@ -39,6 +53,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry"
+    publishedDateTime: 2023-01-30T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029"
+    excerpt: "In 2023] The Global Artificial Intelligence (AI) in Automotive Market Size (115 Report Pages) is estimated to be worth"
+    publishedDateTime: 2023-01-30T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -100,29 +142,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market 2023 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2028"
-    excerpt: "Pages Report] Rising demand for Automobile & Transportation Industry will drive the Self-driving Cars segment growth over the next five years. Global Market Analysis for Self-"
-    publishedDateTime: 2023-01-30T00:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2028-2023-01-29"
+  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
+    publishedDateTime: 2023-01-27T19:46:00Z
+    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Security Robots Market to Hit 18.5% of CAGR by 2028 – Driven by Rising Penetration of Automation Techniques | The Insight Partners"
-    excerpt: "New York, Jan. 27, 2023 (GLOBE NEWSWIRE) -- According to The Insight Partners; \"Security Robots Market Size, Growth Strategy, Industry Trends, Size, Share and Global Forecast 2028 – COVID-19 Impact and Global Analysis"
-    publishedDateTime: 2023-01-27T13:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30602547/security-robots-market-to-hit-18-5-of-cagr-by-2028-driven-by-rising-penetration-of-automation-tech"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "X+2AKkjfvXh6FRVBnaeok1vDMPIRXk0FG9Tmv/nPNIaha/IjvxC63rvyopE4uIvzPg7mxtP4LJXu8ZCLwyLMJx44ID8UbAaTBQu4Mcf5sBBBERfPT1v42j/LD6hZIHqSMJGiQQi1OZQdBpYilnIONE5glnpHqgvFLDutbjM15mpMD00E4CIgpe/dBkdiY62ZdqQws0IJ4xH+HH7lrZd7NBjszUiHHlELrq1U0W97K/5PwXf5eTPLBcYmuYNxSbiPa+E6BctqUTDlBi2Kyae08dKkBJ5togy6UD3QailjPktU+6F78lgia5i+aOQ8M0yp5CaHKJj4Sln3Mn4o6GfQmmktkc/VAHkheWhTeVkCPQE=;AVbeYfVFr0vcNqQuKimo5A=="
 ---

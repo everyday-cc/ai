@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Crunching time to market with agile AI solutions"
+    excerpt: "The advent of pre-built AI solutions makes it possible for businesses to work with agile models and reduce the time to show business impact by 60% compared to the traditional way of approaching AI/ML solutions."
+    publishedDateTime: 2023-01-31T04:00:00Z
+    webUrl: "https://analyticsindiamag.com/crunching-time-to-market-with-agile-ai-solutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Crunching-time-to-market-with-agile-AI-solutions-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "221zq0bGA6dP7nK1HrPfPfLG9nCxBmKxJAP/JTjCiA/7dHkzWMlezCmOFlTeRQKyisEUYUtAlgl9rFL71pzrzEHQw+RS64sU1Jt1i79UbCvg5QS/KQUtxQKICZoed9Oj0SPK0/PzZVJEF5tYMAvKISXp+njKRtFp4Siq2KXJI9kR7vNdReMBxXE/t9r2wBDtVpZz3l86Lp0+jYXjVDci1KInJ+2S+vOsH+AbYg9ucMnTCMIKBPq9OWxPKf3CBZOVWm8pzqM7QzuetSBbYhOUCdBnhc9GQgRCKxm+InlqhRNN6AhYQ1bI+coZegIYvVFZaZCYpH2/ObOGM8whyO8NLkqZIgf5bTPadzlt7pPMXAUBQv489ViVx3IZlv+RofNMYx2QLyN+BZmB6cjQARN3LP01i7S//NvRi8rHN8A0CWWoL+KcFGTQwoDcseV3IfRonWvgPD/mr6qNRkoE+qySJjm372TIbSzd2pD5bvrhSiuCByCKIvC9eCcTIjpYmXYY/SwzsUDBTEtur7fL1LJIhw==;H/LnakL6pWyfV5ld7dbP7Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.itp.net/business/ibm-fires-3900-employees-after-missin
 webUrl: "https://www.itp.net/business/ibm-fires-3900-employees-after-missing-annual-targets"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Major IBM Lays Off 3,900 Employees, Bets Big On Hybrid Cloud, AI"
-    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyn"
-    publishedDateTime: 2023-01-26T14:15:00Z
-    webUrl: "https://menafn.com/1105480938/Tech-Major-IBM-Lays-Off-3900-Employees-Bets-Big-On-Hybrid-Cloud-AI"
+  - title: "IBM Announces Mass Layoffs In A Conference Call; Around 3,900 Employees Might Need To Search For A New Job"
+    excerpt: "IBM Corp. also participated in the \"layoff drive,\" laying off 3,900 employees on Wednesday. The tech hub said that the asset divestments included a layoff campaign. James Kavanaugh, the company's chief financial officer,"
+    publishedDateTime: 2023-01-27T06:02:00Z
+    webUrl: "https://in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new"
+    ampWebUrl: "https://in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/46127/ibm-announces-mass-layoffs-in-a-conference-call-around-3900-employees-might-need-to-search-for-a-new?amp=1"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: in.mashable
+      domain: mashable.com
+    quality: 56
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/8be9d969-3f08-4e53-85d7-7e73baf3f0c4_ysq6.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "IBM gives pink slips to 3,900 employees"
     excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyndryl business and part of the AI unit called 'Watson Health'. The layoffs will cause a charge of $300 million in the January-March period to the company,"
     publishedDateTime: 2023-01-26T19:02:00Z

@@ -152,6 +152,40 @@
       ]
     },
     {
+      "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
+      "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
+      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
+      "originalUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/press-releases/article271678367.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271678367.html",
+      "publishedDateTime": "2023-01-26T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-daniel-calugar-shares-how-ai-protects-your-finance-account-from-fraud.md",
       "title": "Daniel Calugar Shares How AI Protects Your Finance Account from Fraud",
       "excerpt": "Financial fraud costs consumers, merchants, and big banks billions of dollars every year. It's not just the money that's stolen, either, investor Daniel Calugar says; it's the associated costs of trying to recover or to cover the money lost.",
@@ -1348,49 +1382,6 @@
       "provider": {
         "name": "PC Gamer",
         "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal.md",
-      "title": "AMD proved that Apple skipping 4nm chips isn't a big deal",
-      "excerpt": "AMD said at CES that its use of a 4nm process helps its new chips beat two-year old Apple Silicon, but in doing so, it revealed that a jump to 4nm was not a big deal for Apple's future chip releases.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal",
-      "originalUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/52360-104443-449911-Ryzen-3-Key-Art_01_0003_5K-xl.jpg",
-          "width": 1312,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal/amp/",
-      "publishedDateTime": "2023-01-12T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
         "images": null,
         "publishers": null,
         "authors": null

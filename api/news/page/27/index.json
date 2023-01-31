@@ -2,6 +2,137 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-01-06-amds-newest-mobile-processors-have-an-ai-engine.md",
+      "title": "AMD’s Newest Mobile Processors Have an AI Engine",
+      "excerpt": "On Wednesday night, AMD fired back during its CES keynote with competing products in both categories: new mobile gpus, new mobile Ryzen 7040 series chips with a built in AI engine, and new 3D V ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/01/05/bf92f220b490c9783cc135ef688984c2.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
+      "publishedDateTime": "2023-01-05T17:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances.md",
+      "title": "CEVA, LG to Bring Intelligent Vision Processing to Smart Home Appliances",
+      "excerpt": "CEVA, the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced that LG Electronics (LG) has licensed and deployed the CEVA-XM4 intelligent vision DSP in its Edge AI system-on-chip (SoC) 'LG8111' to advance the user experience of a new generation of smart home appliances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/27716503839b65af140e38aa28d5c6df.jpg?t=20230106_011855",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T17:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-ibms-watson-crashes-the-cloud-ai-party.md",
+      "title": "IBM's Watson Crashes the Cloud AI Party",
+      "excerpt": "After wowing the world way back in 2011 by defeating humans at the TV game show \"Jeopardy!\" with early-stage AI tech, IBM's Watson is making a bit of a comeback. Cloud platform rankings typically start with the \"Big 3\" of AWS, Azure and Google Cloud and ...",
+      "sourceUrl": null,
+      "webUrl": "https://virtualizationreview.com/articles/2023/01/05/cloud-ai.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2023/01/05/cloud-ai.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteWaveSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-applications-of-artificial-intelligence-across-various-industries.md",
       "title": "Applications of Artificial Intelligence Across Various Industries",
       "excerpt": "Potential applications of artificial intelligence continue to expand as more people adopt the technology AI usage is particularly prominent in finance, digital spaces (like social media ...",
@@ -957,145 +1088,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report.md",
-      "title": "Standigm cited as 'Top 10 Generative AI-based startup based on VC Investment, 2019-2021' in Gartner® report",
-      "excerpt": "Standigm ranked seventh of 10 Generative AI-based startups based on its level of VC funding. Generative AI uses generative adversarial networks (GANs) to generate data. Once trained on labeled data, such as cars and buses,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report-1032002151",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report-1032002151",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1878881/Standigm_B_W_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-deep-learning-tools-computational-microscope-predicts-protein-interactions-potential-paths-to-new-antibiotics.md",
-      "title": "Deep learning tool's 'computational microscope' predicts protein interactions, potential paths to new antibiotics",
-      "excerpt": "Though it is a cornerstone of virtually every process that occurs in living organisms, the proper folding and transport of biological proteins is a notoriously difficult and time-consuming process to experimentally study.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.html",
-      "originalUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/af2complex-computation.jpg",
-          "width": 740,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-tool-microscope-protein-interactions.amp",
-      "publishedDateTime": "2023-01-05T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-citizens-latest-smartwatch-packs-nasa-and-ibm-ai-tech-into-a-stylish-wearable.md",
-      "title": "Citizen's Latest Smartwatch Packs NASA And IBM AI Tech Into A Stylish Wearable",
-      "excerpt": "At CES 2023, famed timepiece maker Citizen launched its newest CZ Smart, which is a smartwatch that has a built-in self-care advisor, developed together with NASA and IBM's Watson. Not a company ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
-      "originalUrl": "https://hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/60579/content/Citizen-ai-watch.jpg",
-          "width": 708,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
-      "publishedDateTime": "2023-01-05T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
