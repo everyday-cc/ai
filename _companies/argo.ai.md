@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/argo-ai"
 
-twitter:
-  username: "argoai"
-  url: "https://twitter.com/argoai"
-  followers: 9645
-
 size: 501-1,000 employees
 yearFounded: 2016
 locations:
