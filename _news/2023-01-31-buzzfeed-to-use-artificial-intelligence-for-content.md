@@ -100,20 +100,6 @@ related:
         width: 800
         height: 640
         isCached: true
-  - title: "BuzzFeed says it will use AI tools from OpenAI to personalize its content"
-    excerpt: "BuzzFeed says it’s going to use more AI tools to “enhance” and “personalize” its content, according to a memo sent this morning to staff by CEO Jonah Peretti. News of the memo was first reported by The Wall Street Journal,"
-    publishedDateTime: 2023-01-26T18:02:00Z
-    webUrl: "https://www.theverge.com/2023/1/26/23572834/buzzfeed-using-ai-tools-personalize-generate-content-openai"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 66
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ZQqwgb09wTHkjIoeFxuFyM2kF2w=/0x0:4000x2670/1200x628/filters:focal(2000x1335:2001x1336)/cdn.vox-cdn.com/uploads/chorus_asset/file/24387610/1237058094.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
     excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
     publishedDateTime: 2023-01-27T04:22:00Z
@@ -176,20 +162,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "BuzzFeed stock rises 150% as company plans to use AI to create content"
-    excerpt: "Buzzfeed is planning to heavily lean on AI-generated content, CEO Jonah Peretti said in a memo to staff on Thursday."
-    publishedDateTime: 2023-01-26T17:29:00Z
-    webUrl: "https://www.aol.com/finance/buzzfeed-stock-rises-150-company-182958461.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/t1rK.U0bCFBsz2_Of1mJHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/83c7e411c001374d48d0c219fb6643d2"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
     excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
     publishedDateTime: 2023-01-30T19:36:00Z
@@ -200,6 +172,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "PgQUyTP4aX+doQtpsSv4ruN1hh2AT3f5H27BnelMCxT+AO6Fhw+XMD78u5Tb/pr0BfAI6Dksr5diqDPRJtzbemjRr+69ZMivKcXWC0IQEnWSlSyrjtiw03C/DdzK0r7H5tUtS3VW3sbS4ht92M6te7kmbZYWClr9n75pyVEZ5PIzhhWXa0kaQASlv9FMDjsko1m2atRtWUekByAx/QEnggQCwINQTTjmhgotW/pSNLcoc7ZYkXaD5KiS1yl4U+N44yBdbZ9mMDJMhKIjlMVNnug/XeOa9oQThwX62+mRQAW+VJoLKoi6TgseqmENiIes72X+kZnxrvVkM0GlPqn9k6z9PwQwxvukuc86wUxYRGw=;ZIogm9p4mqgncvEDS2hJBQ=="
+secured: "ixVOGsRotYRMcgufTXpfFMd6wPVi7IPBMFdu+5qjpISKUTrrftsZMlIl6Ep939Hbvv4HnMgOukecBaMloYinv+hBCxDkAz6v7kcmKgr9okgLcQf2N7xQJtcMUM/qhyp6dKOZdziHYaG9NLZqBD4nGTxKX/Kk4/0T82E0vahH+8TQLKdLcIbdDBbWpvmeAWe7MdqnI16g6/+DHLHiQ1scPX/UQ4mUE2TNkEpn/1fjQs3dED+h0rJLW6KxOHHT0DpryLeSvReferQz1kMo1xRhjcuGwsYL3cPz9M/yVBbWta7HK9w/ZZODxszwEZkiLsGl8QOdBfZLoitcgUdV4tfaxjvTP0pAjujNqVRL/vyupmwPdokDdJXv58uiHdyb+AE+mS9M45xm1XnP9IvDRHjbXI+7SRY4FwVqzXjn40dh/cN1XdZeOU8pWgoLUycx25lXwSQGKLNPHZb6XNM6W7v15b+Hj+cohrMmHpLajT/JNwizCOpNEKwNbR2kqI4GvajgxpmU04GC89RhMpV41NhTAw==;/PnN2t05xH2o3zanV6wXMA=="
 ---
 

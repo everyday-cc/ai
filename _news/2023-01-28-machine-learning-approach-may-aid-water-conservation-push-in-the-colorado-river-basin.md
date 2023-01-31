@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.html"
 ampWebUrl: "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-approach-aid-colorado-river.amp"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/colorado-river-basin-m.jpg"

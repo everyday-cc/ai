@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Automotive Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2028"
+    excerpt: "Artificial Intelligence in Automotive Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-30T18:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "18Vne6OFGpykOJtdDpHRzEemqRxLObKfEDtyRA+Iw/nLQd0igGamw8EV765KRfZHZkA4TW8pidvoFQcuj9lXZCFCB5FEPCRw8Q0cEKuLMOI+UvygPSNQK+DchfubbsyfFX9vZylziG747CNXW7TitghrlkPgo5Ne2buikE2haLqC3jF0CdVIcBUDwpts8BCLyIlSem0+dWWoVTDFjjvvhKtWbJrhDkMTJ4zsaEYIsu55I6wj/p8pWjmzLs1T+M2sAJSwxq9FODJMX8+MNKHahCllMgnFx5p1q1PkqVcw7NT4m8thVqKtzKKYFrAG332tXUaWerpO9l6y22QNuCmd4yly4W9mSB03ExveoFR7SxSU8w0dz5YyrpRiFGiu/JmBlv6PbmktcTZAeKjMxZ598YagefhZGfGroTHOs+ZueVoAANCxcqVNVMJkAHQWfyNAjYTGZ9nHIndZmZXC2dTZ+erpsxV1qUxDV/obF+7EOcnx3lCsHI+0j1lg0Wej4wTN/e/DQiBFoSa4ClRAGUMrOw==;a5AdcHNUyIdV8Lw0pyryzA=="
 ---

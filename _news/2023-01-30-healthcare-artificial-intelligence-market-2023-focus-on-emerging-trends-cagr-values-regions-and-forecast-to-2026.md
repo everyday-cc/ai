@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Accelerator Chip Market 2023 : Research Report, Industry Growth, Competitors Analysis and Forecast 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI Accelerator Chip"
+    publishedDateTime: 2023-01-30T18:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-research-report-industry-growth-competitors-analysis-and-forecast-2028-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market : Global Market Growth, New Trends, COVID-19 Impact and Forecast 2023 To 2028"
     excerpt: "Jan 26, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in the..."
     publishedDateTime: 2023-01-26T23:39:00Z

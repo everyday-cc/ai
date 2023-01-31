@@ -41,15 +41,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "IBM gives pink slips to 3,900 employees"
-    excerpt: "Tech giant IBM is laying off 3,900 employees, which is a result of the spinoff of IT infrastructure services provider Kyndryl business and part of the AI unit called 'Watson Health'. The layoffs will cause a charge of $300 million in the January-March period to the company,"
-    publishedDateTime: 2023-01-26T19:02:00Z
-    webUrl: "https://www.thehansindia.com/business/ibm-gives-pink-slips-to-3900-employees-779390"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 4
 
 secured: "+fb3qHx1rlk1suv67LYDBW6soePcaG6pqd3jFSrvXIncKUpQY/mg3zKujZTQ/pqx0cah4qtj6B0v8sXR6yIK6jjIi66YpasZtqyurrSMCEHDCjARXGtFaFK7MSejfORf0e4YxdIeOLRh2t5NTz9E/um2s9PxC9zbDnyTRBgF/gV9qMQLntSzW0aHDI8V4IWE+hWNPBQwrTSmag285ZIof/PH9MrCaT3oASXLkzsgphAQEdlvUQXpzX2tgK2+z4QD9lYQoYV55HnE/KJ8owOWuUVk5vpQngn8KAstIXD+HZqYcea5UmNeOkXsCx3jR2WydsqVAWsblbOB97x5bMnCT3CLT/EG80bd//aInqVztbeqpgtp07xo10AkOZUc6xUabRPnoXJC8EZptghlRuk8hM3+m+op2OCmTeH3JioxHFFPTd8mwalafQxdO/yTpIpfeLGCX9aX/iPQ8rFC8UNeqXs1a4SEdz6SWotHxW7hB2YYYpsekPaxixuomreegy1GUDbY9VUso/9Xbeyw5z03VQ==;b8Pn1QOed7DO87bW6t71Hg=="
 ---

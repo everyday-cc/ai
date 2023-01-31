@@ -36,6 +36,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NY AG Letitia James presses MSG over use of facial recognition technology"
+    excerpt: "New York Attorney General Letitia James pressed Madison Square Garden Entertainment about its reported use of facial recognition technology to identify opposing lawyers. Madison Square Garden is ..."
+    publishedDateTime: 2023-01-26T20:54:00Z
+    webUrl: "https://www.cnbc.com/2023/01/25/letitia-james-presses-msg-facial-recognition-tech.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/01/25/letitia-james-presses-msg-facial-recognition-tech.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/01/25/letitia-james-presses-msg-facial-recognition-tech.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 88
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107183860-1674666076797-gettyimages-1246342370-Lev_Radin.jpeg?v=1674669489"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Madison Square Garden CEO Defends Use of Facial Recognition Tech"
     excerpt: "In an interview on Fox 5’s 'Good Day New York' this week CEO James Dolan said: 'If you’re suing us, we’re just asking of you—please don’t come until you’re done with your argument with us.'"
     publishedDateTime: 2023-01-29T20:28:00Z
@@ -82,21 +98,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "James Dolan defends facial-recognition policy as lawyers sue Madison Square Garden owner: ‘Please don’t come’"
-    excerpt: "Several attorneys say they have been denied entry into MSG-owned venues because their firm is in active litigation against the company."
-    publishedDateTime: 2023-01-26T18:59:00Z
-    webUrl: "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769"
+  - title: "James Dolan gives fiery interview defending facial recognition tech at MSG"
+    excerpt: "The billionaire Madison Square Garden CEO gave a fiery interview Thursday defending his use of facial recognition technology and invoking “The Godfather” — while threatening to retaliate ..."
+    publishedDateTime: 2023-01-26T20:29:00Z
+    webUrl: "https://nypost.com/2023/01/26/james-dolan-gives-fiery-interview-defending-facial-recognition-at-msg/"
+    ampWebUrl: "https://nypost.com/2023/01/26/james-dolan-gives-fiery-interview-defending-facial-recognition-at-msg/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/26/james-dolan-gives-fiery-interview-defending-facial-recognition-at-msg/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: New York Post
+      domain: nypost.com
+    quality: 57
     images:
-      - url: "https://images.mktw.net/im-710774/horizontal"
-        width: 1320
-        height: 742
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/james-dolan-msg-facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Madison Square Garden facial recognition tech, to ban people, ignites political firestorm"
     excerpt: "Madison Square Garden’s use of facial recognition technology to bar unwanted fans has prompted an outcry from people fearing that New York is turning into the Gotham of a 2008 Batman film in which the superhero had access to a mass visual surveillance ..."
@@ -226,20 +242,6 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 31
-  - title: "New York’s Attorney General Investigates MSG’s Use of Facial Recognition to Ban Lawyers"
-    excerpt: "NY AG Letitia James wants answers from Madison Square Garden over its use of facial recognition technology to bar entry for lawyers involved in litigation against the company."
-    publishedDateTime: 2023-01-26T17:17:00Z
-    webUrl: "https://observer.com/2023/01/new-yorks-attorney-general-investigates-msgs-use-of-facial-recognition-to-ban-lawyers/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 31
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/01/GettyImages-1231347402.jpg?quality=80&#038;strip"
-        width: 5573
-        height: 3446
-        isCached: true
   - title: "James Dolan defends MSG’s use of facial recognition"
     excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
     publishedDateTime: 2023-01-30T16:43:00Z

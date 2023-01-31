@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-
 cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 54
-  - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
-    excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
-    publishedDateTime: 2023-01-26T17:08:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 34
 
 secured: "o3ARuxYFgYWqxuWnrKdm7z1kW0N4fvqCW3YsWhXXP8ruPX5ZYpWpXQyg1ZXCcDNBre2aLWbBkqmJ7oT9dZq0nu9eaMR9KZKNPplc1JgGU4ER+YkFoG19yJPSo+2KPjT8b4xNxQUv21G1JuabGq6dq/y5azoecTsKDbshm9GXWvIDyBb0fi5+AM6MyZftQtBk6gG8qACLxQt+yixYF62V8r3jK3MxOQy6fP+/h/M9P0FGoPtAuEruc/Z+mQbDd9luNaP+6NR55eHhHrvrNyF4Wb3XRLjPFJ2S+OCRM4HqGgbEFyB65PhwI96aeR6Sj0xgS2FPMKJ6HaPf8o3J3sDRXPiwFu+he0FWHWMyNtOq+r8=;7fWBFlqmoyOhzjIt+fiItw=="
 ---

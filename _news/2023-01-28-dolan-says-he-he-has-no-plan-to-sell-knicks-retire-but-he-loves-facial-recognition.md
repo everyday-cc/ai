@@ -9,7 +9,7 @@ ampWebUrl: "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to
 cdnAmpWebUrl: "https://nba-nbcsports-com.cdn.ampproject.org/c/s/nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/flm1674877201.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "James Dolan defends use of creepy facial recognition, says he may ban liquor at MSG in bizarre interview"
-    excerpt: "Dolan sat down for a 17-minute segment on FOX’s Good Day New York. He covered an expansive range of topics ranging from his controversial use of facial recognition technology, ticket resellers and TicketMaster, the Bill of Rights, crime in New York City ..."
-    publishedDateTime: 2023-01-26T18:48:00Z
-    webUrl: "https://ftw.usatoday.com/2023/01/knicks-james-dolan-madison-square-garden-james-dolan-facial-recognition"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 22
-    images:
-      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/03/1029472488-e1648583175712.png?w=1000"
-        width: 1000
-        height: 751
         isCached: true
   - title: "James Dolan defends MSG’s use of facial recognition: ‘Just a technology’"
     excerpt: "James Dolan responded publicly Thursday to criticisms of Madison Square Garden's use of facial recognition technology."

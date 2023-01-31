@@ -39,6 +39,20 @@ related:
         width: 937
         height: 594
         isCached: true
+  - title: "Sony Electronics launches two 4K IP-based pan-tilt-zoom cameras"
+    excerpt: "Sony Electronics is expanding its lineup of pan-tilt-zoom (PTZ) cameras with the addition of two 4K models with built-in AI analytics."
+    publishedDateTime: 2023-01-31T10:05:00Z
+    webUrl: "https://gulfbusiness.com/sony-announces-4k-ip-based-pan-tilt-zoom-cameras/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 24
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/01/Sony-SRG-A40.png"
+        width: 930
+        height: 620
+        isCached: true
   - title: "Has Progress on Data, Analytics, and AI Stalled at Your Company?"
     excerpt: "Companies need to rethink how they’re investing in data, analytics, and AI — and whether these investments are creating real business value. Based on a recent survey of senior data and analytics leaders of Fortune 1000 companies,"
     publishedDateTime: 2023-01-30T13:15:00Z

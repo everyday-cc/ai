@@ -7,7 +7,7 @@ originalUrl: "https://jp.reuters.com/article/alphabet-deepmind-idCAKBN2U31OP"
 webUrl: "https://jp.reuters.com/article/alphabet-deepmind-idCAKBN2U31OP"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "DeepMind AI is as fast as humans at solving previously unseen tasks"
+    excerpt: "Artificial intelligences need specific training to excel at a task, but now a more generally intelligent one from DeepMind has performed as well as humans in a virtual world test"
+    publishedDateTime: 2023-01-31T10:19:00Z
+    webUrl: "https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/30164818/SEI_142270253.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "hoayPMv3UTaxPU0i1ip6OT9gZQd8mpF3/u7Xl6g9mMMLtqkav0D1iRYIikwQ87z7AfMGJ+jN4JjmREiZpyE8kdL2bIKsDD7sQE//vm7pH2IUk4FXZpBh8lWuSejNXjnuS/0oPGTszQDryfejWxso0d5YOkqq/prKP3kbSbWt4+CNN8Mk1h1Hme/+Mjg8H/pEoIef1LIRgfndGK4/TaOuVSE4Xxrv5xFO5o+wammmTtqNTBI+WvNTE9zzzGEje6UKWjJfyiBqw0xK+SRHArTLO6uEhxkDCLv5o6KDFcRFrOonhKopkvRdiedANJ8hCjhl9CK8PNSkn/VnGWFc6a8SIbeYDado0QD+JAX6B9nKF+4=;hCyTNZtGdMDv12OZUM0xCA=="
 ---

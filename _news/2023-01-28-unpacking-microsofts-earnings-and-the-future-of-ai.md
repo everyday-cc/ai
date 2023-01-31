@@ -84,6 +84,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "TurboHire now available in the Microsoft Azure Marketplace"
+    excerpt: "TurboHire now available in the Microsoft Azure Marketplace - Recruitment automation platform TurboHire announced its availabilityin the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2023-01-31T09:37:00Z
+    webUrl: "https://www.siliconindia.com/news/general/turbohire-now-available-in-the-microsoft-azure-marketplace-nid-221162-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 69
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/lu6SWt4r.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
     excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
     publishedDateTime: 2023-01-29T09:30:00Z
@@ -93,15 +107,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
-  - title: "Microsoft's AI push has some analysts raving about the stock even after lackluster earnings"
-    excerpt: "Microsoft 's earnings report earlier this week was largely considered dissatisfying to analysts. But the tech giant's focus on artificial intelligence, or AI, is keeping many on Wall Street optimistic."
-    publishedDateTime: 2023-01-26T17:17:00Z
-    webUrl: "https://www.cnbc.com/2023/01/26/microsofts-ai-push-has-some-analysts-raving-about-the-stock-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 54
   - title: "Buy Seagate, Microsoft, Sell IBM"
     excerpt: "The tech sector is a mixed bag. It will only reward selective investors who anticipate the demand recovery. In the storage market, Seagate (STX) could potentially stage a recovery. Seagate posted revenue of $1."
     publishedDateTime: 2023-01-30T14:40:00Z

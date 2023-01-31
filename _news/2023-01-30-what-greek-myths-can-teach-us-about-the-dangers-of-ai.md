@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-30T12:25:00Z
 originalUrl: "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai"
 webUrl: "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-97-15.jpg&signature=56160b29db2ed4aba13fef25ff153c47"

@@ -41,6 +41,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "BrainChip achieves tape out of AKD1500 chip"
+    excerpt: "BrainChip, the first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, has achieved tape out of its AKD1500 reference design."
+    publishedDateTime: 2023-01-31T10:32:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/brainchip-achieves-tape-out-of-akd1500-chip"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/55ujuvux/brainchip-general.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Brainchip Holdings Limited/ADR: BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process"
     excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 29, 2023 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuro"
     publishedDateTime: 2023-01-29T22:50:00Z

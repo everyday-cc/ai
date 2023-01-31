@@ -37,15 +37,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
-    excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
-    publishedDateTime: 2023-01-26T17:08:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 34
 
 secured: "A/njuVmk1e3s/GZddaOBNKLCv+3aT11ykelGY3MtGCDircTF5n2IZkUHAsjN2ZNr2vsF6+IQ3ojsy7GWUa7Prv6lbwoe+0AkRiRx6bcMmX9jk6pI4xLAXnEstBmTyEy0i8hPp8yF2WhmegP3avwnHunk0pVGoOMKwtGdf51ycLA7ZikaljtR/kVv7vgT6kUrkVl2mhXWmXmsDBWByiPX+qsNSYNudCcHZ+A8T+vkIytWZEULp/w4AXASAI2WGwg9kwA/QhJYWuIUVrE5luNYvHHZXShLysGlSjte7IDyWLni2zFwyTIyb310zKs8yoHVrFbjwn25eJ9Aq50Vhzu363xSvsm7U4LiHjyiBfjJ6gY=;9O8tEUn6w89yssMyujghZQ=="
 ---

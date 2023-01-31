@@ -44,20 +44,6 @@ related:
         width: 1192
         height: 876
         isCached: true
-  - title: "IBM CEO Arvind Krishna: AI, Hybrid Cloud ‘Work Together To Drive Business Outcomes’"
-    excerpt: "IBM CEO Arvind Krishna touts artificial intelligence and hybrid cloud as ‘transformative technologies’ and says the company is well positioned to take advantage of continued investment in these areas by customers."
-    publishedDateTime: 2023-01-26T17:24:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-ceo-arvind-krishna-ai-hybrid-cloud-work-together-to-drive-business-outcomes-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 33
-    images:
-      - url: "https://www.crn.com/resources/027d-1729cf9aee70-77fd41b93d5d-1000/arvind-krishna-ibm-cover.jpeg"
-        width: 610
-        height: 457
-        isCached: true
 
 secured: "pivDpsmtpgXLWWgs3wRdvlnwE4pYtd/YJ6XdkTI9+Y56P1jNso3S6MrR49y47ZljZolFeqkcCTmw7JX/iam46BwFdp0rmF38XG48/GNIPZbdGiz++cwYoN/np7gUcxB+rnSHaTQIaiHMsLhhUoPUMuV+czdHPb+GAHmu6o1Ktk1fCN42o5fdHhciqG6GjnZOAVbSfRQoXBxQV/QKRsKkGul9j4BOdlrlq+S7HnQyhort+TFknA/EfH3f55Yu7/rPVVp1d9bIWG3hVbm7nCn3jpwUcHRG3OfhZC0SCc6hF4vtjkgMYmUB+Zm1HwyCXmiKaf2qw6Loz69THx5ZudV7RKQeeXl/6g2cPqh8PBsbUMw=;hw8zr6WU0eCijpFPjYb6Ew=="
 ---

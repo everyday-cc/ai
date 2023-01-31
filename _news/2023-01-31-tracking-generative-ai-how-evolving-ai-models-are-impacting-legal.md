@@ -50,15 +50,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
-  - title: "Grappling With AI Writing Technologies in the Classroom"
-    excerpt: "I should have known better, but if my ordeal encourages teachers and students not to be fooled by AI and scholarly-sounding prose, I happily fall on my sword. Jasper did translate portions ... as good a job in another 24 languages. Furthermore, Jasper ..."
-    publishedDateTime: 2023-01-26T19:00:00Z
-    webUrl: "https://www.edutopia.org/article/chatgpt-ai-writing-platforms-classroom"
-    type: article
-    provider:
-      name: Edutopia
-      domain: edutopia.org
-    quality: 19
   - title: "Run:ai Achieves Unprecedented Growth, Empowering Companies of All Sizes to Compete in AI Market"
     excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced today that it had attained unprecedented growth"
     publishedDateTime: 2023-01-30T17:12:00Z

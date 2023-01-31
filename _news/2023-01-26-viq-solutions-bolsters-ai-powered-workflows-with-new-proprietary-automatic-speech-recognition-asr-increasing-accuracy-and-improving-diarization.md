@@ -2,27 +2,25 @@
 category: news
 title: "VIQ Solutions Bolsters AI-Powered Workflows WIth New Proprietary Automatic Speech Recognition (ASR) Increasing Accuracy and Improving Diarization"
 excerpt: "VIQ offerings are agnostic to speech recognition programs, cloud infrastructure and hardware. The engine agnostic approach ensures they utilize the best suited and most efficient speech engine and ..."
-publishedDateTime: 2023-01-26T12:37:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/01/b30582772/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-"
-webUrl: "https://www.benzinga.com/pressreleases/23/01/b30582772/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-"
-ampWebUrl: "https://www.benzinga.com/amp/content/30582772"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30582772"
+publishedDateTime: 2023-01-26T12:47:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_2cb8d63b-4538-53e1-806c-8d5ae4a0e1cf.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_2cb8d63b-4538-53e1-806c-8d5ae4a0e1cf.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JMag-Feb-2023-cover.jpg"
+    width: 350
+    height: 446
     isCached: true
 
-secured: "p7tR3yQbyL4WHWDQRmJ65AFKQiHXPQHMoGxTgOGVZFv0H+kvWhoF9y3SGtCFxDZdrS98xZs/ycsrJS18egK4rrq/Ez2Kt7kEYpg3bpsfDEM+Ll/4UkcCRfTr2A2Jg9LN9ZQ2prHbIXYbR5WPDUTtztLSv4oTloLiY58hZX+jqBZz52Rf8/oq10GuAK1ITGicSGebaoB6kJwbxDudsRubdH5yOiKud5fVopsQQSOuyHNgjD7abVcdofCmGgUnCoYEyMr7wbtLmdmxyi9Qg+GlxMjenPQVzx9jKPdXaRmF5vnV1d9jo95S9uAaylgNwA80VsRVOFI8c56jmLN/eGEggKyB88fkHQ1utRLW8U50LRc=;dfxMIJeLTj173Rj6oWhbrg=="
+secured: "tWpVco2asC05f4kaHFw4k4qBEEq08uTp96wua/HE4ctvyQjOkfVubeAsRDkcg7RQn6LoSIvWIHphSniLCOmPusHTyWegTjhd7YHixaRoTRy/lTqkq2f2UvR8LmzjabGr4V/fT9PG2nACBpnj1Ihv/tE7nvgy6zWOyq3Gd9uu1Ny64ZSuBbrp/f/D8ugyTpwuBm+bPuPFCqMwMG5DrphUF+9V93Zj5Ea36iKvnAVrKsGbeX+vTcQ6CAxbajK33aWZyMjrkU8u1cGg/I42L/x0/bB5+TDObF9hcRtJ4NPn9RYVDTilb+DWbd7C4e8y/Ijvt56Gu/+GmzN0/ldA3uIDe7q5f4D7fx2PKZfi7Vadc90=;O1pz3tjMQCFYMfax9cixbw=="
 ---
 

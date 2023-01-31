@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Door Lock Market 2023 : Size (value & volume) by Company, Key Regions, Type, and Application 2028"
+    excerpt: "Facial Recognition Door Lock Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-29T21:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-size-value-volume-by-company-key-regions-type-and-application-2028-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Speech Recognition Software Market 2023 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
     excerpt: "Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
     publishedDateTime: 2023-01-30T03:35:00Z
@@ -92,15 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market (New Research Insights) Dominated Regions 2023: Upcoming Demand, Global Size and Share Forecast to 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 26, 2023 (The Expresswire) -- “Face Recognition Device Market” [122 Pages] report provides precise and strategic analysis of market historic, present and future ..."
-    publishedDateTime: 2023-01-26T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-new-research-insights-dominated-regions-2023-upcoming-demand-global-size-and-share-forecast-to-2027-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
 
 secured: "Zg5kb/gSwp9x3DVzVI+zYcWt8dWqQLwnesvxouHBjtd+y4170u6KNIHvhVkM6wROmmGROYdISx0vV+BW9hAwMtH/nyBEYVpnsEC3u4XVtaEgT0whgvNPFSVHafFQh8QMNDLylwoHWWFeBvGzkGAKxZ6ozqwL18EpEdYoRD04be0WKrgc/lDMmzTmck19oz9PIXdBCcdZFqwRN/CegH4nOwz4zJTBkah5xY0bQb/mZ0C5JKLWk3bQlJZITcjGc4Wf+oNGHSi3YuxPx+fUbEcQAFgJHOeN+4Ed6abRNIKVITQX23KU2Kspc9rtOOrzkxynJgsTKp3jnnl6UEsLKCSBW4ec1HBY0om80MS9FuLhP5I=;veozWSu9fmf1hvsWwsF0oQ=="
 ---

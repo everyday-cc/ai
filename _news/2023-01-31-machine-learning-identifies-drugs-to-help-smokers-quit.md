@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Machine learning identifies drugs to help smokers quit"
-excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan, which is used to treat cold and flu-related coughs, may be repurposed to help individuals give up smoking."
-publishedDateTime: 2023-01-31T08:33:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Health/20230131/4033046.html"
-webUrl: "https://news.webindia123.com/news/Articles/Health/20230131/4033046.html"
+excerpt: "Smoking causes close to 500,000 deaths annually in the United States and is a risk factor for respiratory illnesses, cancer, and cardiovascular disease. While smoking habits can be acquired and unlearned,"
+publishedDateTime: 2023-01-31T09:02:00Z
+originalUrl: "https://health.economictimes.indiatimes.com/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
+webUrl: "https://health.economictimes.indiatimes.com/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
+ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
+cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 59
+heat: 109
+published: true
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: health.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-97486376,imgsize-26854,width-1200,height-628,overlay-ethealthworld/machine-learning-identifies-drugs-to-help-smokers-quit.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Machine learning identifies drugs that could potentially help smokers quit"
@@ -77,6 +85,6 @@ related:
       domain: medicalxpress.com
     quality: 17
 
-secured: "+fnoEx7E1IKII6E9mLxr9eppxJU/o3yW6x6KUmIrp5eSXwRlbGKC0bQyRR6BSHgn23JlWThShUCJwqbIX36Pmwtfy4cevr+Ek8uyVKPKh9mPcT8gnt8FOptNsO4hpkMK2sSh8V5rZgqLMXEKuCjtclhCV/X9Nai3PtaX5kKV3IB/E8wAFhJVuiErNi7zZ1QCCz1PxXkG8HkQJNy9dVkYcE4qsu55ZYuywqxFf6Cmg9yULUmN01eGVxalZrE2S8hmmXR4BYy5WEYZ4QgOlwVo1PocpNB7kyD42+t6KqpQ7buMlofrzc7OaiFbMWImxjVNL/PYjIhQrg/Zm74p3qH8O3jEnw95xDE+qv4wxBApLN0=;j+R6321wgf+YcuuUtxYMdQ=="
+secured: "WB8tJ1BgrsslEK7blfMjiefEoaQDMIP36ibaNlkNXEs/abu33ZIVi0dPGhnj4Ok1o85i0iMLLR9XdAW85eygUpJrM1aCFywxChSFN9NXyjZMKd2xPEBwjp2af9ljRVLa7jyr3jMt6sRylqn1MRkTevbA4Q/88Qov6XHt74JgUDkUnR1bJ0gQJI8r+NAPymvGKcg+eVm96Zt5Ivl92b8RcsGGmx3iQyBlDJ3cT8kVQxTGI495+BEiyUQjvkiRnSpnuoRaF/FDPPpJaD1AV8hTB7EKemn1Z4hE3fayheC9MazlM6q+5JisD8BLGjGV/cjS6uOBW0IL4Ntjju9nwLmDNErYvKZ30FmY7icgHAPPBSw=;mMUle+u8HSfq4pbXoCS10A=="
 ---
 

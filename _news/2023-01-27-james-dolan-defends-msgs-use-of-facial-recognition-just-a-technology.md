@@ -49,20 +49,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "James Dolan defends use of creepy facial recognition, says he may ban liquor at MSG in bizarre interview"
-    excerpt: "Dolan sat down for a 17-minute segment on FOX’s Good Day New York. He covered an expansive range of topics ranging from his controversial use of facial recognition technology, ticket resellers and TicketMaster, the Bill of Rights, crime in New York City ..."
-    publishedDateTime: 2023-01-26T18:48:00Z
-    webUrl: "https://ftw.usatoday.com/2023/01/knicks-james-dolan-madison-square-garden-james-dolan-facial-recognition"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 22
-    images:
-      - url: "https://ftw.usatoday.com/wp-content/uploads/sites/90/2022/03/1029472488-e1648583175712.png?w=1000"
-        width: 1000
-        height: 751
-        isCached: true
 
 secured: "xk8kDS7PNglp8I6gxgqVaNojG2s/H9gEyUJZ26tm44Ft9kQa2cp9/7iEU3LjKtS4ipq6gFpb+xE5OqPPMsPczP9msm0NqdeiQOHEtj3yIOS5DB/zCGddsGwnfaJRlV0l/MkLeygywK2NaMdFCVdc4s6JtjQMFhqmaL54CFhGsy2o0eSZ4+GpQ0FA8I84+JbrH717d/I/aHk97h/m9CGr6yeat1oIJnfQSKEQyQKutOmEH7TyYtGWtxmmAuMGHyEQckl/ZaMAfXcCQg5ShTV5pWY3KOuevFJhse/74HiAmnH8scfPMXtq7+P9kCGNO1nyoHzNeERrWszzV1jDU92fHRh8/JbWUgw0aDfWL/viFyw73izQKwkmgbj65h+0Odi12L1K1j/37/Zq3bsJ9DB/QqYAkobEJ3LkslbWZdlTgZeQFXzvlpEIr5aqt4bzCadNrht0nipEFrwO+3sienN5+zR6EOvCryQSpIHbP55GyAa11INwfRKUrHvrLoqniCFf5dOY0e3uocDCN8CCYDmM6w==;4XyeC3CUOmMn32gGFaYFrA=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "UT Austin will offer artificial intelligence graduate program online"
-excerpt: "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,"
-publishedDateTime: 2023-01-29T05:24:00Z
-originalUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
-webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
+publishedDateTime: 2023-01-29T02:36:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 type: article
 quality: 39
 heat: -1
@@ -12,10 +12,10 @@ published: false
 
 provider:
   name: Houston Chronicle
-  domain: chron.com
+  domain: houstonchronicle.com
 
 topics:
-  - AI in Healthcare
+  - Computer Vision
   - AI
 
 images:
@@ -67,6 +67,6 @@ related:
       domain: beckershospitalreview.com
     quality: 17
 
-secured: "Te06jw6m06yJJ2evlzQL0a1SEz49YMhVlMlJCf7nJO8jk7tSO9+iZIJ7B6AnN78Ju1vBU+3kL1xpgpS3f+QZ+WuRqca2rqtuAZoWD9vJaIfBDvek5qyyMk/i9wB48UYMj6khUzjxHT7AMeorJnml2Z0muNeEJL8wDpxNNDLysXZ49V/OL0seOQ7xfrkV8q6xn7JrHj/Xl8YpX6L/PEJtmM5FMKAPqQlmuEyPoktPoE3GgxxLlRar4y6IhUUUCk/ojDVg9/FO10DhA9HEdUf1NcA0MZd/y9CYkhj8PZzM1RSJ7WqDllEK2ArYF9Ld62dZEFxKec7BVRDR4vhYM3MQUi5Z5V3lAg7RbtZxD88QNsM=;u6Crjn7KmEARY0trCzhfOg=="
+secured: "U40cmWG5y/9Y1l9kqCium1D604jbXN0rIRYK5pousZ5NSCTBL8sHmi8CGJA+Ul5puthpLd0CyuAjp8GS0PjYOFJV53qnovVeU8sQ4YEOMqctfCfTv77aq7l4qf4EBuybOJmk0BuYkG1l93mDj+MhgGsEji/XKbXwV1X0oH6AoGtosvrUko7X2vUJ0n2p/qc/pVT5kGQ39opE7EAgcudkq0Vgmgk7jxkphYam8OTLTR0ikO8n+osYrt3dHZwU6m8a2YezTGxsaisnqD+4lReivLLukdLX1IY6Do8X/0hQt3fuxzgZHmrgEicfDAwq1RiUO0Mu1G4yts1mm0CFC60MbUXQ9CB+pkR+ULvzEukxS9g=;GQrvwBuOqxsLsjLvuoyQ/A=="
 ---
 

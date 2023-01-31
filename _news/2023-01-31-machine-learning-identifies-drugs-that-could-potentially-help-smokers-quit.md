@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/01/230130130517.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130517.htm"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Machine learning identifies drugs to help smokers quit"
+    excerpt: "Smoking causes close to 500,000 deaths annually in the United States and is a risk factor for respiratory illnesses, cancer, and cardiovascular disease. While smoking habits can be acquired and unlearned,"
+    publishedDateTime: 2023-01-31T09:02:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/machine-learning-identifies-drugs-to-help-smokers-quit/97486376"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97486376,imgsize-26854,width-1200,height-628,overlay-ethealthworld/machine-learning-identifies-drugs-to-help-smokers-quit.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI Identifies Drugs to Be Repurposed for Smoking Cessation"
     excerpt: "A study discovered of several drugs that may be repurposed for treating nicotine addiction. The researchers used AI to analyze data for 1.3 million people in order to find genomic variants that are statistically associated with smoking."
     publishedDateTime: 2023-01-27T23:18:00Z
@@ -62,15 +78,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine learning identifies drugs to help smokers quit"
-    excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan, which is used to treat cold and flu-related coughs, may be repurposed to help individuals give up smoking."
-    publishedDateTime: 2023-01-31T08:33:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Health/20230131/4033046.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Machine learning identifies drugs that could potentially help smokers quit"
     excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."
     publishedDateTime: 2023-01-27T14:50:00Z

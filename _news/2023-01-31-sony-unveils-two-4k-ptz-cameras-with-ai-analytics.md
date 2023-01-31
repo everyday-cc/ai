@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sony Electronics launches two 4K IP-based pan-tilt-zoom cameras"
+    excerpt: "Sony Electronics is expanding its lineup of pan-tilt-zoom (PTZ) cameras with the addition of two 4K models with built-in AI analytics."
+    publishedDateTime: 2023-01-31T10:05:00Z
+    webUrl: "https://gulfbusiness.com/sony-announces-4k-ip-based-pan-tilt-zoom-cameras/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 24
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/01/Sony-SRG-A40.png"
+        width: 930
+        height: 620
+        isCached: true
   - title: "Sony Electronics Announces Two 4K IP-Based Pan-Tilt-Zoom Cameras Featuring PTZ Auto Framing with AI Analytics"
     excerpt: "Sony Electronics is expanding its lineup of pan-tilt-zoom (PTZ) cameras with the addition of two 4K models with built-in AI analytics. The SRG-A40 and SRG-A12 cameras automatically and consistently track,"
     publishedDateTime: 2023-01-30T18:22:00Z

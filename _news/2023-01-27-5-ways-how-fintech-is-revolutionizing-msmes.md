@@ -45,20 +45,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Trends and Big Ideas Shaping Fintech in 2023"
-    excerpt: "At Visa, we see our work with fintechs as one of our greatest opportunities. Fintechs are changing the game, reinventing the ways consumers manage their finances, and businesses manage their operations."
-    publishedDateTime: 2023-01-26T18:38:00Z
-    webUrl: "https://techcrunch.com/sponsor/visa/trends-and-big-ideas-shaping-fintech-in-2023/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/Visa_Illustrations_Techcrunch4_HeroImage_01_1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "5 Tech Trends That Will Change the Fintech Industry In 2023"
     excerpt: "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ..."
     publishedDateTime: 2023-01-28T14:07:00Z
@@ -72,20 +58,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Reasons Why You Should Consider a Career in Fintech"
-    excerpt: "If you’ve always wanted to work in fintech, you’ve come to the right place. Fintech is an exciting field with plenty of potential. As a matter of fact, there’s always something new happening in this field."
-    publishedDateTime: 2023-01-26T17:37:00Z
-    webUrl: "https://techbullion.com/reasons-why-you-should-consider-a-career-in-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/01/pexels-rodnae-productions-7413891.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "5 tech trends that will change the fintech industry in 2023"
     excerpt: "A recent report by Bain and Co. recognized India as one of the first leaders to uplift the exposure of the country’s fintech industry globally. Further, the report states the boom in smartphone adoption"
@@ -134,6 +106,20 @@ related:
       name: The Asset
       domain: theasset.com
     quality: 19
+  - title: "The fintech sentiment: Data Privacy Day 2023 and the policies protecting financial services"
+    excerpt: "Data Privacy Day – also referred to as Data Protection Day in Europe, is an international event that occurs every year on 28th January and promotes privacy best ..."
+    publishedDateTime: 2023-01-31T09:03:00Z
+    webUrl: "https://www.finextra.com/the-long-read/597/the-fintech-sentiment-data-privacy-day-2023-and-the-policies-protecting-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 14
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/597.jpg"
+        width: 799
+        height: 449
+        isCached: true
   - title: "How this fintech company is leading the charge for financial inclusion across Southeast Asia"
     excerpt: "Access to financing has long been a point of contention for micro, small, and medium-sized enterprises (MSMEs), even before the pandemic."
     publishedDateTime: 2023-01-27T04:27:00Z

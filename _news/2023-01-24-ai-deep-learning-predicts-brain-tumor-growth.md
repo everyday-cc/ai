@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AI Deep Learning Predicts Brain Tumor Growth"
-excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience. A new study published in the Journal of Theoretical Biology demonstrates how AI deep learning can predict brain tumor progression for glioblastoma from medical images to accelerate precision medicine."
-publishedDateTime: 2023-01-23T22:55:00Z
+excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
+publishedDateTime: 2023-01-24T15:21:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
 webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
 ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "PFem0fnZGmw4386vKJWIlJgJo0i2PjikrG3BQ4+3839YmC1McyfZ0DMV+qJBiuDK9BVKcCyWm+wPgRhd+XAECMlDD4nMB21vNdxsmAoj01Kb0an58enZMWxx34p8r+1nAAg/eK98JUf0fNrzyL0FR7XTyvOZWJovrq157Vx2kxDodfGLqlti937au0lHB+ttT81ePk+lAo50KMubc3BDgyxVCxvhycYEyxUfSRU655PqxnnJHuQtVYiyjcdhFEKUaEMbMKwfCHU6oRF+IeKjhYdJ2b8HzJgsPgCQgWLY4pkDBnWhhyzbegZjCCtJIC1FnfTAppxOCAzkPayqEv2NgkL7nN8gSC2Jufigd+NjBiA=;AZILXfzNB53XranvCWqlbA=="
+secured: "Abkja1PiGRBWyfnFHNwTBtnh4NP+PgYNJfKyK5Sz5kP+RzO8zmDG/nEPs0PUKSbBbEC1jqB4yhuDBkuZ1uXhc9nszK7LwIC2G38rbJG/XvwFEpGAnmu2JgkVAw/WJkbeL94uMtXMFTQ2HUSwywkMIjlyfgJhYUj9y3e2EqMKR0krvhu9hhDv/TUba9xU5Hrqfl0exbfXrEnEZwSOn3B1XVaGIeZdlJeCIAo7Dqk+16d72cJUyi5k7Qo/6Ev5lO9vfc1t1/+8VJ6+9jH/KfZrAPXEnT5j/Z0MNixHDQS09amOP8Hk3jlxefclCOfJ1xinGvWwIK81pevTmPJ/L0zn05J5F2MZMgRIaiu34pg56GI=;+114TN1jr4ndfhq6KEvfUA=="
 ---
 

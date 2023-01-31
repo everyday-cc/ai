@@ -52,13 +52,13 @@ related:
         height: 641
         isCached: true
   - title: "UT Austin will offer artificial intelligence graduate program online"
-    excerpt: "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,"
-    publishedDateTime: 2023-01-29T05:24:00Z
-    webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+    excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
+    publishedDateTime: 2023-01-29T02:36:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
     type: article
     provider:
       name: Houston Chronicle
-      domain: chron.com
+      domain: houstonchronicle.com
     quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
