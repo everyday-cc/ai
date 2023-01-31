@@ -58,6 +58,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-31T00:25:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/30/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Run:ai Achieves Unprecedented Growth, Empowering Companies of All Sizes to Compete in AI Market"
     excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced today that it had attained unprecedented growth"
     publishedDateTime: 2023-01-30T17:12:00Z

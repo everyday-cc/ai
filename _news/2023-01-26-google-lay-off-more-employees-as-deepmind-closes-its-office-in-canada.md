@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "DeepMind Lays Off Staff And Shuts Down Their Canada Office"
-    excerpt: "DeepMind Lays Off Staff And Shuts Down Their Canada Office Alphabet Inc, the holding company of Google will soon close down its DeepMind research lab in Edmonton. They will also lay off some ..."
-    publishedDateTime: 2023-01-26T08:28:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/technology/deepmind-lays-off-staff-and-shuts-down-their-canada-office/443616"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
 
 secured: "OIwXIraC4GvPuAgYcov/CvPqhp5x1lZBjZNrcMurbJm/VnE4O6SwUMxeW5M5HodmkjGM3jVS+/7nEWzVjiN/cAaffl8S7S0XIhB5H9I7ad1w6NF9NpWtY8oDjHwaL9CR8HkeJNPJLGGqpxlS/YewbepiQys3eFPAltdAPd8y01DvC/VtC63JoiQn4pDja8G5Dp0vVSMg5OzsM/hPLq/s+iKQqriaoKbtCdpWSG8TeK05Zl2zDcy8Y6eZPCoGeusQrHixzs5aa/HxJ7AgqHEHxnvqGVPw70hdAGW5inMAr9QT6jTBdfGU49Y7VgFI6JnrC8VctGP5vQ0FNHxBXPsgrQ13+bLaYMuDbSK6HwXe9kw=;DdzVHxhJfa8uOuT1gpifAw=="
 ---

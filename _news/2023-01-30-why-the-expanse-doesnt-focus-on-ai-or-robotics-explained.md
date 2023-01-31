@@ -41,6 +41,20 @@ related:
         width: 1123
         height: 748
         isCached: true
+  - title: "Changing the conversation around AI"
+    excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
+    publishedDateTime: 2023-01-31T00:15:00Z
+    webUrl: "https://www.digitalhealth.net/2023/01/changing-the-conversation-around-ai/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 39
+    images:
+      - url: "https://www.digitalhealth.net/wp-content/uploads/2022/08/Somerset-AI-lung-cancer.jpg"
+        width: 555
+        height: 330
+        isCached: true
   - title: "Subsea Robotics: Aquanauts, Hydronauts, Roll Out"
     excerpt: "It now has three of its second-generation Aquanauts in build in Vancouver, which will be used on trials in the Gulf of Mexico and offshore Norway, and two Hydronaut uncrewed surface vessels (USVs), which will act as launch and recovery systems and surface gateways to Aquanauts,"
     publishedDateTime: 2023-01-30T14:18:00Z

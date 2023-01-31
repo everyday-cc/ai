@@ -26,61 +26,93 @@ images:
     isCached: true
 
 related:
-  - title: "New artificial intelligence program may speed development of gene therapy"
-    excerpt: "RELATED Gene therapy may help children born with 'bubble boy' disease To address this, researchers came up with ZFDesign, an artificial intelligence that uses a database of nearly 50 billion ..."
-    publishedDateTime: 2023-01-26T17:03:00Z
-    webUrl: "https://www.upi.com/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/"
+  - title: "MusicLM: Google AI generates music in various genres at 24 kHz"
+    excerpt: "On Thursday, researchers from Google announced a new generative AI model called MusicLM that can create 24 KHz musical audio from text descriptions, such as \"a calming violin melody backed by a distorted guitar riff."
+    publishedDateTime: 2023-01-30T22:43:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/amp/"
     type: article
     provider:
-      name: UPI
-      domain: upi.com
-    quality: 75
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/3961674750373/2023/1/9e2e53d727c8ce5cb398145eebcff87c/v1.5/New-artificial-intelligence-program-may-speed-development-of-gene-therapy.jpg"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/music_explosion_hero_1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Google created an AI that can generate music from text descriptions, but won’t release it"
+    excerpt: "Google has created an AI system that can generate songs given detailed text descriptions. But it won't release it for fear of the risks."
+    publishedDateTime: 2023-01-27T19:54:00Z
+    webUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/"
+    ampWebUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/01/CMC_4141.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google AI Can Turn Text Prompts Into Music"
+    excerpt: "Google has made an AI that can transform text prompts into music that lasts several minutes, The Verge reports(Opens in a new window). The AI was able to generate ..."
+    publishedDateTime: 2023-01-29T16:53:00Z
+    webUrl: "https://www.pcmag.com/news/google-ai-can-turn-text-prompts-into-music"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06QkrILdpt6gGNKvITfudDB-1.fit_lim.size_1200x630.v1675011155.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Google's new MusicLM AI can generate music from descriptions"
+    excerpt: "Google is testing a new AI model called MusicLM, which can generate \"high-fidelity ... The description adds, \"To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text descriptions provided ..."
+    publishedDateTime: 2023-01-27T10:55:00Z
+    webUrl: "https://www.thelineofbestfit.com/news/googles-new-musiclm-ai-can-generate-music-from-descriptions"
+    type: article
+    provider:
+      name: thelineofbestfit.com
+      domain: thelineofbestfit.com
+    quality: 39
+    images:
+      - url: "https://optimise2.assets-servd.host/best-fit/production/images/vinyl-spines-headphones-blocks-unsplash.jpg?w=1200&h=798&q=100&auto=format&fit=crop&dm=1673007337&s=5b30c5011672efc9f41cff26da1c7140"
         width: 1200
         height: 798
         isCached: true
-  - title: "New AI tool makes speedy gene-editing possible"
-    excerpt: "An artificial intelligence program may enable the first simple production of customizable proteins called zinc fingers to treat diseases by turning genes on and off."
-    publishedDateTime: 2023-01-26T16:00:00Z
-    webUrl: "https://phys.org/news/2023-01-ai-tool-speedy-gene-editing.html"
-    ampWebUrl: "https://phys.org/news/2023-01-ai-tool-speedy-gene-editing.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-ai-tool-speedy-gene-editing.amp"
+  - title: "Google's new AI bot creates 'original' music from text and sound prompts"
+    excerpt: "Google's new artificial intelligence bot called MusicLM can create 'original' music from both text and sound prompts put in by the user."
+    publishedDateTime: 2023-01-30T10:32:00Z
+    webUrl: "https://www.tweaktown.com/news/90176/googles-new-ai-bot-creates-original-music-from-text-and-sound-prompts/index.html"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-gene.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "New Breakthrough Could Speed Gene Therapy Research"
-    excerpt: "This technology could accelerate development of gene therapies for illnesses like cystic fibrosis, Tay-Sachs disease and sickle cell anemia, which are all caused by errors in the"
-    publishedDateTime: 2023-01-26T16:00:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2023-01-26/new-breakthrough-could-speed-gene-therapy-research"
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 18
+  - title: "AI Can Now Make Music From Text Descriptions"
+    excerpt: "Now you can listen to the music generated by descriptions of great artworks."
+    publishedDateTime: 2023-01-30T19:08:00Z
+    webUrl: "https://www.discovermagazine.com/technology/ai-can-now-make-music-from-text-descriptions"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "New Breakthrough Could Speed Gene Therapy Research"
-    excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- “Zinc fingers” might sound like the world’s worst candy bar, but these human proteins might prove key to treating complex genetically driven diseases."
-    publishedDateTime: 2023-01-26T15:00:00Z
-    webUrl: "https://omaha.com/lifestyles/health-med-fit/article_e699a9b8-505e-58d8-ad2c-6649c3e4ce64.html"
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 17
+  - title: "Listen To The Google AI That Can Create Any Genre Of Music From Simple Text"
+    excerpt: "Google's MusicLM builds on earlier work and is, according to its creators, 'a model generating high-fidelity music from text descriptions.'"
+    publishedDateTime: 2023-01-30T18:53:00Z
+    webUrl: "https://hothardware.com/news/musiclm-google-ai-create-music-from-text"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/bd/cbdd7ce6-83b4-54d0-8f00-6039be376518/63d2c0d686208.image.jpg?crop=600%2C315%2C0%2C59&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
-        isCached: true
+      name: HotHardware
+      domain: hothardware.com
+    quality: 17
 
 secured: "n8Sd01+kFQBzt5VgFo4hGceZqpmrcSSFptW4LC+jL42e/wntsOrRaf8+oGPWhuFzVdsTR4QzI8lCTTVZV8E4xhgKtxH1AGMJC0EYyM1cx4TC3CbGfsY9bkhsN6GdcmH1ZLkYKrMgwQFT29tQ05w28eM9ClGDgLtM4OSkQreDe3zuqQEVtDyQhCLJ32f1VQvf08NtCzgM+x9JYbqP6gWG5JguZiL3nC486AmOvTF6IT5nEOnNMGJ1a+QUQMqKT/Tsf17oUIB75LKX/LfQKlRrs8sMR293IRzxqQVF/4We4q/qDwjA2I4btSmTyKQJdd1H9j/0fgPcFlfnt9vqpqn+8SrEUVWJN5CBj8YvbkdPp4qGkMW/l2tIalTXX7//JXRvNcwDBBKTHJTCbDbFm1XzhuDABI+9S5uiqNIXu+EJP8Q7cox/oNf0YOh45ru5Vma8UvLkMfKT3/S0JgA/EKRrQiLOSuCrgSj7vvEgiVo06K1CcznxlEYKVhj4Gmy9ldv5LivHVMx6k/11BCeELeU1kw==;T414rFNQM9YXbOtA+1vJUA=="
 ---

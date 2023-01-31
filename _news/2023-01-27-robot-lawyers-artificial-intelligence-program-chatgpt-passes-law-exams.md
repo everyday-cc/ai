@@ -437,6 +437,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Lawmakers seek rules for artificial intelligence"
+    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
+    publishedDateTime: 2023-01-30T07:01:00Z
+    webUrl: "https://www.andovertownsman.com/news/lawmakers-seek-rules-for-artificial-intelligence/article_d595f67c-87bc-5578-a109-012beb521155.html"
+    type: article
+    provider:
+      name: The Andover Townsman
+      domain: andovertownsman.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/andovertownsman.com/content/tncms/custom/image/6238155c-d1b3-11e5-af53-d325c4b1ac3c.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Mass. lawmakers seek rules for artificial intelligence"
     excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-01-30T08:00:00Z
@@ -492,6 +506,20 @@ related:
       - url: "https://img.lemde.fr/2022/12/17/103/0/2244/1122/1440/720/60/0/a5617ca_1671320365088-chatgpt-humaine-dark.jpg"
         width: 1440
         height: 720
+        isCached: true
+  - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
+    excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
+    publishedDateTime: 2023-01-30T14:07:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/404/2022/10/Matthew-Wetherington-01-767x633-2.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "ChatGPT rivals Anthropic AI and Character AI reportedly chasing megabuck funding rounds"
     excerpt: "Artificial intelligence startups Anthropic AI and Character Technologies Inc. are reportedly closing on blockbuster funding rounds backed by a number of high-profile venture capital firms, according to reports this weekend."
@@ -557,15 +585,6 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 12
-  - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
-    excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
-    publishedDateTime: 2023-01-30T14:07:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 10
   - title: "US Politician Has ChatGPT Write His Speech"
     excerpt: "It can also be used for language translation by fine-tuning the model ... RELATED: Pokimane Shares Her Thoughts on AI Streamers On January 25th, Congressman Jake Auchincloss delivered a short ..."
     publishedDateTime: 2023-01-26T14:51:00Z

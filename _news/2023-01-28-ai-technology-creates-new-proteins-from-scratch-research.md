@@ -9,8 +9,8 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/ai-te
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/ai-technology-creates-new-proteins-from-scratch-research/97392230"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: health.economictimes.indiatimes
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI technology generates original proteins from scratch"
+    excerpt: "The experiment demonstrates that natural language processing, although it was developed to read and write language text, can learn at least some of the underlying principles of biology."
+    publishedDateTime: 2023-01-28T05:37:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230126124330.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "AI has designed bacteria-killing proteins from scratch – and they work"
     excerpt: "An AI was tasked with creating proteins with anti-microbial properties. Researchers then created a subset of the proteins and found some did the job"
     publishedDateTime: 2023-01-26T19:26:00Z

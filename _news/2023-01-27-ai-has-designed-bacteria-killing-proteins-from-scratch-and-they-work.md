@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI technology generates original proteins from scratch"
+    excerpt: "The experiment demonstrates that natural language processing, although it was developed to read and write language text, can learn at least some of the underlying principles of biology."
+    publishedDateTime: 2023-01-28T05:37:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230126124330.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "BmmY6x/WhyOXMQnWoyA2MGVbv2HBCz3hSWnDLEaWJ0JDX8Rhb+aUVTDzJnW1kqGJEkFS1cv00oZCqlEXxgO2VVQEe8fqvkG4SGSqteMARAjXnCcdvo99Vp0x7830LQlOQdnUIGbuBjZjH8wTaPMA4K9oMMAttGxwwasnhZEBnQro49rugIb/hMtOmPmc0C4B/BIKJa/vUgd5ay6NREuaI1FiB72b+TcbhkLH9nifYZBiH7LVjIL7z2Y8uRxmVcFA9/4d8xuV88b6NRVOghQo21k425AHQrWs+UtmNCuFdHO0SkpauSM5qqLYSr6K+jRL6Ng/POiJTbwQslGcda7KEE1em7d6QUoSXkVdQzBw00gbd8m+4Y5NudSC0lnLszHgnSvUufiSeKZObBc6joum5rnfTMfT6P/GVzgCZYx0sRe5tYn2Qj40V0Xt57o287j83ZvJZ31GWv3sbNoasvOEoSShNI2wYzx6Q9WcoztxAXuU3ypicDed1grJgZozUPXliJscjj4L2fa/KxVbp+Xt6A==;EXqrFDWn9V5xXJA/ahj7Sw=="
 ---

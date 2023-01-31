@@ -25,14 +25,21 @@ images:
 
 related:
   - title: "Will machine learning help us find extraterrestrial life?"
-    excerpt: "Researchers have applied a deep learning technique to a previously studied dataset of nearby stars and uncovered eight previously unidentified signals of interest."
-    publishedDateTime: 2023-01-30T18:55:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130512.htm"
+    excerpt: "When pondering the probability of discovering technologically advanced extraterrestrial life, the question that often arises is, \"if they're out there, why haven't we found them yet?\" And often, the response is that we have only searched a tiny portion of the galaxy."
+    publishedDateTime: 2023-01-30T17:57:00Z
+    webUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.html"
+    ampWebUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-extraterrestrial-life.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/will-machine-learning.jpg"
+        width: 685
+        height: 594
+        isCached: true
 
 secured: "6egeK6LMk67Az0GOlbJE0XGc0OOPYKY/x1dMvumYjKh2ddr5Qx8vpM/nvVMBvsgbByKYEP1CQjcieWUVsLVxJFFk4MvYFSorde29aIZ0SyyZ/+6Y/kPuZyDkjPXi2WED6YNpl7xoaQUFg3kAyzXshmHEKgHWoeUDWxp7m1vu/PlwefkNj63wF3WeGTZu78D+WyyUqSkBX4nzrICRBdqGAm3UeEib3TsIjy+r6mX3cbrtBhXrkvIDnvZSc8f7MiXOLz/2dkOol3Z76tUa5+2WiY/bvCsh0+vk/VUoJZZJzkN6QCfhLG1u/T4+qi3nDSS7cjx+lhps2WJ0Jn8QbEGRzwcqVh9YWIyDd75mINxFnmaXslTbOSPfV8OHxecztngyaCRiTLbd7oslzdIB058Weram112suUKddUzvpCsoCwfjS+s32+WjQclhMqoRSv/SSYUpTjBhAeYTrV4GqWwSr5jlSwtecwPfcovOefQXt4QUq+p/5XDGchRqpLAWlhRSyIN1syjg4FzGfNM8XdWJFA==;Nod0CaAsuFTCuL5x6f66eQ=="
 ---

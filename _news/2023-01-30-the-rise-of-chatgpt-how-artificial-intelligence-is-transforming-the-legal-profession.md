@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-30T14:07:00Z
 originalUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
 webUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
 type: article
-quality: 10
+quality: 32
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://images.law.com/contrib/content/uploads/sites/404/2022/10/Matthew-Wetherington-01-767x633-2.jpg"
+    width: 767
+    height: 633
+    isCached: true
 
 related:
   - title: "ChatGPT leads lawmakers to call for regulating artificial intelligence"
@@ -436,6 +443,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Lawmakers seek rules for artificial intelligence"
+    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
+    publishedDateTime: 2023-01-30T07:01:00Z
+    webUrl: "https://www.andovertownsman.com/news/lawmakers-seek-rules-for-artificial-intelligence/article_d595f67c-87bc-5578-a109-012beb521155.html"
+    type: article
+    provider:
+      name: The Andover Townsman
+      domain: andovertownsman.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/andovertownsman.com/content/tncms/custom/image/6238155c-d1b3-11e5-af53-d325c4b1ac3c.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Mass. lawmakers seek rules for artificial intelligence"
     excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-01-30T08:00:00Z
@@ -602,6 +623,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "Eo2j0WWHgaPS0einFk5hCdDv3A7j0xzMBcIzzyiDjR9uPnOWyYYWyIdlZQdVsQuYWe/Hrum6XaV6kobJLYAp+FQ90LgEcwx2qpSCef2MBgzXvIPi3JgPWewOnXwgbvj6PAzUoh+gCRnLilVNCsKmUnDNs2oY2+U4yEnGswYJthb1JQFs+dVffskOHE8zr1jocG0I3xQRBuG0rmMhZWyOkLXQVaH+7dh+kUWq1B3obU/d1Btg5C8EQBl/KGqowGS28cg+n5OevK3EmSGB1XRzJlPyuXJ5zYFB+gElia7pq5g5KhFOIQ550+he//bHshj+sDiPnKBFSkqTe1pnln6WpRWyz4aeghxfZjh3GNHIijKRCQ1mXGRhfySvsfAdcVW7X0YLgHb3ahRt6a57HlRIX+pCtkKbwx4f+2OQQ5hRtRb+Lr9k3SMwuO5I5NPiAwjtbEEVcj/VnFSa7cNvv3fK/KBwsasw5WzMGm9vIiQuOolwBSazUulTXatLxVI2N7UD1gYr+eGRB3RbaHq1RI+eqA==;YbR6b2fTjh0wl5toO5Y1XQ=="
+secured: "tWXJmZI181/0VvUi2vJmLodXFUTDK9LPZCof3bslNygxF+E9vqiTKF7syAH5w/7UJ+RgWLwpozCLNaYOUb8v5SqiAdrQ4Wm9kDeLAFHkst+EM8YGba08Srelp9EvZXz/VCQx+LulsJt0X0JJIUveSLuvOw/CeHd0QAOfaMQGzNklOdXFU8pw9DGBPBYSwYYozvSGu8xcnGRIyLwSWoi+21b6025h7M+UF/ZffCrb7KSsmxzmoo1G/+rUtnfHASjbMHBEicq/8GXRH68MhpBzghRbvkjNrR7pNmT/tw2+UI346eIEFt7pPIvfGGRPm2NEJnLBEkqo56kj+m6Yta2a9yDZqFQ0sYu20KJzMcIslQw=;ruwhhVs6+euh+MEfEltY9g=="
 ---
 

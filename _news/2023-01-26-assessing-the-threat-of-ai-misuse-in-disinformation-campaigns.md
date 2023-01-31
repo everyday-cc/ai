@@ -76,17 +76,20 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 41
-  - title: "GE HealthCaree highlights digital health innovations helping drive precision care at Arab Health 2023"
-    excerpt: "GE HealthCare’s cutting-edge innovations in precision care, aimed at helping solve some of the most significant clinical challenges of the modern era, will be in the spotlight as the company marks its first participation as a standalone entity at the annual Arab Health 2023."
-    publishedDateTime: 2023-01-26T07:18:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/ge-healthcaree-highlights-digital-health-innovations-helping-drive-precision-care-at-arab-health-2023-s804lbpk"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ge-healthcaree-highlights-digital-health-innovations-helping-drive-precision-care-at-arab-health-2023-s804lbpk?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ge-healthcaree-highlights-digital-health-innovations-helping-drive-precision-care-at-arab-health-2023-s804lbpk?amp=1"
+  - title: "The race of the AI labs heats up"
+    excerpt: "The labs may not remain neck-and-neck for ever. One variable that may help determine the ultimate outcome of the contest is how they are organised. OpenAI, a small startup with few revenue streams to protect,"
+    publishedDateTime: 2023-01-30T22:33:00Z
+    webUrl: "https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230204_WBD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "3 ways health systems are using AI to improve patient care"
     excerpt: "From backing artificial intelligence-based startups that can detect emotions to developing an artificial intelligence-based tool that can predict \"ICU delirium,\" here are three ways hospitals and health systems are using artificial intelligence to improve patient care: Northwell Holdings,"
     publishedDateTime: 2023-01-30T19:34:00Z

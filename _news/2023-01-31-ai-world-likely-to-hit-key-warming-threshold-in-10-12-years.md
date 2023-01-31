@@ -1,28 +1,29 @@
 ---
 category: news
 title: "AI: World likely to hit key warming threshold in 10-12 years"
-excerpt: "A new study using artificial intelligence finds that the world will likely warm a few more tenths of a degrees within the next 10 to 12 years and breach a key climate change threshold"
-publishedDateTime: 2023-01-30T20:09:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/ai-world-hit-key-warming-threshold-10-12-96771701"
-webUrl: "https://abcnews.go.com/US/wireStory/ai-world-hit-key-warming-threshold-10-12-96771701"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-world-hit-key-warming-threshold-10-12-96771701"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-world-hit-key-warming-threshold-10-12-96771701"
+excerpt: "The world will likely breach the internationally agreed-upon climate change threshold in about a decade, and keep heating to break through a next warming limit around mid-century even with big"
+publishedDateTime: 2023-01-30T19:07:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
+webUrl: "https://thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_552dfe3cca346a5714b78ba491867ccc_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/01/efe1b26ae3bf49f481160000646e49a2.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -36,13 +37,13 @@ related:
     provider:
       name: NowThis News
       domain: nowthisnews.com
-    quality: 59
+    quality: 63
     images:
       - url: "https://assets3.thrillist.com/v1/image/3135257/828x610/flatten;crop;webp=auto;jpeg_quality=60.jpg"
         width: 828
         height: 610
         isCached: true
 
-secured: "gxMj0MWUr4/kWpB1uDDGNAvYPNz+sRVAXJxKrJMe5njgEAlL5DJZ0xhPvUkG8F+6wuVNvx8MRRTtgD+dHDhK1FBfmOXGTvqyDPJ81JLexsYssvx6VDeYNcD5hlmbbPk4VPX5QrUfbIDa72DN2+ZvNCvT3Sss+cBHl4cx+OXfaHnZFShxmKPXXPHHEWgn6urcDfbytWhTRUrC3o4MQFXs1MrZlaDg+XSrpz/qSiflqLUltmvLNCJoX7gSypv7oxKC5SF/JRufvDvC9Oat4mJq2qRg258cnSLpwn8fswkw6bx7taN/162mfM8QDOjvodfTItBdt9C0bHBT+Y6+/Q4QZvE8UAf39W0OWyuK3IMqiW4=;L8Fu8miwQ1LaTg5abgko/w=="
+secured: "AGUa3bfsWwPHRgo3fiT5ocsIQCfHIHqOTETnKRT0yf9UBmwcu4vYxdfP3bo7jkSPetU1FD/8LP4fY+Xf+nzwMHi6IAgvx+a7swdm6ryxFbQkY6nSB3J/5IjqFHZveqazTgz192VN0tqXz1p7DgbWLSrw/6MITOlzVNf/cRy0CklCQRfkt+Ay1Af/qTO4bygCXySEROIPybFb2xClx6aQJcRBO5P2qqbkLqshKMKDa+RlpLcJHx/yyscmPTGz4wXJ9+Ylr3xbpk003jmHiCxpJ3anlEE1lQ/5BPsCY7BcGrQRwQYw5t0SxHyA0gAZU7BRM+nje6Uj1SKaBpDXXsy8CL8DBoQKetdgohGlbSKGlgo=;e3dlQ0RUxWo54kRJGeH92A=="
 ---
 

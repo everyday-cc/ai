@@ -23,15 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Automotive Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Automotive"
-    publishedDateTime: 2023-01-30T03:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-01-29"
+  - title: "Artificial Intelligence Market [New 117 Pages Report]: Foretelling Strategy to bear Anticipated Growth by 2026"
+    excerpt: "Artificial Intelligence Market Size [2023 to 2026] Research Report is spread across 117 Pages and provides private data, statistics, vital statistics, Exclusive trends, and competitive landscape details in this which position sector."
+    publishedDateTime: 2023-01-30T16:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-new-117-pages-report-foretelling-strategy-to-bear-anticipated-growth-by-2026-2023-01-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

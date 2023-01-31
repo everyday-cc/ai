@@ -1,39 +1,28 @@
 ---
 category: news
 title: "Seeq Recognizes its 2022 Reseller and Service Partners of the Year"
-excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas. LAS VE"
-publishedDateTime: 2023-01-18T14:25:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/18/9745322.htm"
+excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, announced at Seeq Global Partner Symposium in Las Vegas LAS VEGAS, Jan. 18, 2023 /PR"
+publishedDateTime: 2023-01-18T13:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/n30462442/seeq-recognizes-its-2022-reseller-and-service-partners-of-the-year"
+ampWebUrl: "https://www.benzinga.com/amp/content/30462442"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30462442"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Seeq Recognizes Its 2022 Reseller and Service Partners of the Year"
-    excerpt: "Annual partner awards, honoring excellence in delivering the next generation of process manufacturing improvements, were announced at Seeq Global Partner Symposium in Las Vegas."
-    publishedDateTime: 2023-01-18T18:17:00Z
-    webUrl: "https://www.automation.com/en-us/articles/january-2023/seeq-recognizes-2022-reseller-service-parts-year"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 24
-    images:
-      - url: "https://www.automation.com/getmedia/50452299-0455-42f9-bf78-9afd0ca53436/Seeq-news-Jan-18-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
-secured: "gzEUY+wKvy4zhhUIfiyb6z/5WWcCtyD6GqDrVpCvDHJPPyA2mNG1tW6iU0R/R9YfYe4lzan25Op3sDC9pjZlxzs7KCLFsEu51d0aFURInnQwjPt0KV08+IJRpgCWhQgX3o8gRYZLgVhLMJjT4OHNDEss5Gtdz9qd9yDMPibPJWVAP1dfb2ky+sdioOlY+AyZ+3qwxUC0IA7eIGiOpznThPXkWWb4NwqAF0Zpmtw9z+O6TzTWc3zMpfKciuzksnStscOioQGpfX0ZG+kCTZufcF9vZh1dVJBrDVy/GSUB9RZsEZCCS17RHLcgiCqC8ugMP+u6YqdZU6GIAL67AX6WqdKPFCbfI2K9IQgY106qh/TxBg2Mkcpvr4f8ufqr6UGl7wXS7MxJ8So9MY7Ba0LI2BlkukVhsoFJ4jPACrER1BaiyFgd7u80j3DbfJ6C7DE97iw4DjY00XjoxZbhjEtifJV0fsAUGJbXqnb1XNssnWrdITxlh406Cd1fjtXNuRMYvOA2dzJiOFk5ddhLRwluMg==;93QRq+0F5MLEqj0f3pCJjw=="
+secured: "qDrux64MiLhMQU0S3RGedjKWNKmIQHg8RR+9CSJkkq7bc5oMpCiFGouT89Z7e2H81FVKJD6KO3cMNghiot9wkD/rJAuSs/zrA74P/HieQcCT80h/ALUA/Wk1Pd7erbM8YWAWijha62aHicWgCUgfzqgM6CAEftNgOyDnBiKHC74HHPpv1B1OvtfNHkVyEJC6/EgJzygqSjUc8rL/RLEMEAve8PrLFoi3K+c74JN48cXjcEr8hFNXCHzGK3IoVKp1+e5PPo1VebnBfWO/gDwDXNOXrj5GF+H5xKiBi/krVl6H47/iD4he2Pi+20dOsYH3xnNyvdR5OGWpq0Qk0015qsFyghXG6usbgRv4p48CSF8=;yGxsVbYvYrFHdkGJogwbXg=="
 ---
 

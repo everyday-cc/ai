@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.a
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.amp.html"
 type: article
 quality: 87
-heat: 101
+heat: 97
 published: true
 
 provider:

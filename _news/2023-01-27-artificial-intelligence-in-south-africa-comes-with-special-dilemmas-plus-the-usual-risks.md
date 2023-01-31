@@ -2,24 +2,30 @@
 category: news
 title: "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks"
 excerpt: "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa."
-publishedDateTime: 2023-01-27T10:26:00Z
-originalUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
-webUrl: "https://theconversation.com/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
-ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks-194277"
+publishedDateTime: 2023-01-27T11:38:00Z
+originalUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
+webUrl: "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
+ampWebUrl: "https://www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
+cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: modernghana.com
+  domain: modernghana.com
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
 
-secured: "dlaV9+F6MFEzbnxl5BiO6bKYuadcbCbaeorF1hYKlJuiRRKYBXtfIO4wRkTAEc6CrsNE6H4StD1KSI7ZP/F6F/J3b94+qpiXAyGoznxt9+JslcRNsneCC4pr0voZcWxUVbpoThU2d92sFdJSGpZ+J0kypfndkaPZNNcrCU1ofFy5Jb6p/Iq6REgNlcvyKRTnY3+j55VNTqoKQnQG+flBOJdhge1kmfn7tIEqpSTFPNa6QBqf+dxZc5bnBI9XXcXdu9nAmfRkrryPtoWovB5jB3Ez0IJeOnZAPg4Y1aIgmVwHV+2hM6IvSvTAyhnTN9h28wro57KYY9MjPtccEMt9pyxkYgYQWJcwoemMLNrX70pclUxZwvwl19X4ul/+RsyEJiPHs1fdmz3FmWhnGel8tQjgBVTl0HTCU6XIhDHL6gr9sbugnjKKA2xDZlZsXtWVRAzRY3Ojis3ZYrFSNgF29/kMSUFlmhpL+8TjhDJnL/oSqR3YmNUw2ogfuyckWJdX7HeOAEeL/VCxKSwoOv7HFg==;vsxlX7EkRC3wdCkau+eJQQ=="
+images:
+  - url: "https://cdn.modernghana.com/images/content/1272023123738-0g730m4yxs-file-20230106-13-750vf8.jpg"
+    width: 800
+    height: 338
+    isCached: true
+
+secured: "4e2sW7wssjVRYllBIx3gfeWbCtxv/PAReJXRDywrdQkwbZJ1QymKhbqZ4j3WoSmLLhgmpP8lPz4w2IzI1lrdHr2IlSakF4lhFk8vXzvDr1iEqdTOlWejO2UM7X/9n+ROyCTLF2i94tUARIuDwZ1hW1d40Stp5U2gXSbnjj3eTj0qWWuzAAXIUKSMDHRp/VLzy9uJkrsF6CNI4DN+iJwxFGNbeD46Iv6H6LuvJEcfPy3c7voENDL7Z28nVe60EEUEPcsMom9L4qAVc/Fm/H1Cnf8awibSHumdWWddAf2dfTf4eYcGxJXskyLweum6GQB9KbS2PJjtsdqFvyq27wKNj99UIxBascG0nK940zx42B4=;s0rwFSN1kbjix+9Le/JOXA=="
 ---
 

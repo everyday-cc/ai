@@ -25,8 +25,8 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s new AI model creates songs from text descriptions of moods, sounds"
-    excerpt: "On Thursday, researchers from Google announced a new generative AI model called MusicLM that can create 24 KHz musical audio from text descriptions, such as \"a calming violin melody backed by a distorted guitar riff.\" It can also transform a hummed melody ..."
+  - title: "MusicLM: Google AI generates music in various genres at 24 kHz"
+    excerpt: "On Thursday, researchers from Google announced a new generative AI model called MusicLM that can create 24 KHz musical audio from text descriptions, such as \"a calming violin melody backed by a distorted guitar riff."
     publishedDateTime: 2023-01-30T22:43:00Z
     webUrl: "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/"
     ampWebUrl: "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/amp/"
@@ -35,7 +35,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/music_explosion_hero_1-800x450.jpg"
         width: 800
@@ -57,21 +57,33 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google just developed an AI model that creates music from text prompts — but the company won't be releasing it anytime soon"
-    excerpt: "As the AI race heats up, the tech giant is looking to compete after issuing a \"code red\" in response to the meteoric rise of OpenAI's ChatGPT."
-    publishedDateTime: 2023-01-29T17:04:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-bot-makes-music-text-wont-release-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/google-ai-bot-makes-music-text-wont-release-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-bot-makes-music-text-wont-release-2023-1?amp"
+  - title: "Google AI Can Turn Text Prompts Into Music"
+    excerpt: "Google has made an AI that can transform text prompts into music that lasts several minutes, The Verge reports(Opens in a new window). The AI was able to generate ..."
+    publishedDateTime: 2023-01-29T16:53:00Z
+    webUrl: "https://www.pcmag.com/news/google-ai-can-turn-text-prompts-into-music"
     type: article
     provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 61
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/63ce4df2b9a04b0019eda191?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.pcmag.com/imagery/articles/06QkrILdpt6gGNKvITfudDB-1.fit_lim.size_1200x630.v1675011155.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Google develops new AI system for generating high-fidelity music"
+    excerpt: "Google LLC researchers have developed an artificial intelligence system that can generate high-fidelity music based on a text description provided by the user. Google detailed the system in a Jan. 26 research paper spotted today by TechCrunch."
+    publishedDateTime: 2023-01-27T22:12:00Z
+    webUrl: "https://siliconangle.com/2023/01/27/google-develops-new-ai-system-generating-high-fidelity-music/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/IMG_3819-800x533-1-3.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Google's new AI bot creates 'original' music from text and sound prompts"
     excerpt: "Google's new artificial intelligence bot called MusicLM can create 'original' music from both text and sound prompts put in by the user."

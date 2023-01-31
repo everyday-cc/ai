@@ -39,6 +39,20 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 37
+  - title: "Machine learning identifies drugs that could be repurposed to help people quit smoking cigarettes"
+    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."
+    publishedDateTime: 2023-01-30T22:58:00Z
+    webUrl: "https://www.news-medical.net/news/20230130/Machine-learning-identifies-drugs-that-could-be-repurposed-to-help-people-quit-smoking-cigarettes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 26
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/9/heart_disease_1_12c3ff20f43b43d898bf18f5689e0c7c-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine learning identifies drugs to help smokers quit"
     excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan which is used to treat"
     publishedDateTime: 2023-01-30T20:14:00Z
