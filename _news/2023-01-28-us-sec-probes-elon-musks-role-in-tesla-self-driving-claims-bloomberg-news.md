@@ -133,20 +133,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Elon Musk kills hope of Tesla retrofitting new Autopilot/Self-Driving hardware"
-    excerpt: "Elon Musk has killed the little hope some had for Tesla in offering a retrofit to the new Autopilot/Self-Driving"
-    publishedDateTime: 2023-01-26T16:29:00Z
-    webUrl: "https://electrek.co/2023/01/26/elon-musk-kills-hope-tesla-retrofitting-new-autopilot-self-driving-hardware/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 65
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/06/2120x1192-side-repeater-camera-sunny.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
     excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
     publishedDateTime: 2023-01-27T10:04:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why is Andhra government pushing facial recognition attendance on all its workers?"
+    excerpt: "After introducing facial recognition attendance for teachers in all government schools, the AP govt is now pushing it on sanitation workers"
+    publishedDateTime: 2023-01-31T07:07:00Z
+    webUrl: "https://www.medianama.com/2023/01/223-andhra-government-facial-recognition-attendance-sanitation-workers/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 33
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2019/09/18itl009_facial_recognition_graphic.jpg.jpg"
+        width: 1400
+        height: 616
+        isCached: true
   - title: "Sanitary workers in Ongole demand scrapping of facial recognition-based attendance system"
     excerpt: "Sanitary workers staged a demonstration in front of the Prakasam Bhavan in Ongole on January 30 (Monday) demanding withdrawal of the facial recognition-based attendance system. Leading the protest, Andhra Pradesh Municipal Workers Union (APMWU) State General Secretary P."
     publishedDateTime: 2023-01-30T20:27:00Z

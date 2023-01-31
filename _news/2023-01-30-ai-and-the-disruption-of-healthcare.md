@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "Is ChatGPT HIPAA Compliant, and What Does it Mean for the Future of Healthcare?"
+    excerpt: "Chat GPT, Healthcare, and HIPAA Compliance, includes an assessment of ChatGPT in relation to HIPAA Compliance, as well as currently known shortcomings with the program, and a legal analysis by Compliancy Group's Lead Compliance Attorney of policies and procedures created in the application."
+    publishedDateTime: 2023-01-31T08:06:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9751503.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "++iR3xDuFIFAas+o/j4yVbCY+GQ2VkrpZ6aMU3c3oHzaC0crPNndTEyFjyEya04uUeZdD16um922yncfcHhVgOlbeYz5fKQx4efaO8q5NagZR137iAsF0/1bhnsqBF3y0iicKq+KDcrWgWPZm1Y4NKhc9pN3tWE58Bqa/PZYQ7Y/75AjqaDJY2fwa+P7YIHqBY1u0P4L4kcrejuzFr8S7cnp4XzW6SbyzpdVUYfhPNmmVi6HiF2vl9X7XR12jw8dDjzI/UePFUR929qfyvYT8StPVZzVrviKw1l1IGkR7zqxP1H1YaUBZI3G9fZaUpbwqNw/SEmu5DY6lDXcLv5evdW6oFd4r4ES7uoOlcqrNb3MRbO+UGEjVSRyIQ57Im+83eaF+JoLUaTnRgzSOjR/futwcsM/bUMPIliMPC/IanSV4+HEvwDdeu+Ll8xIm2bDWzVoNuiAHSLg1/k6bU+eN9OMZC24cb5T8qULSNA8Fpml/LXtcrYhXWrQ15iy9BjyAodq53sIrIYbi0Tfeu5kcg==;qXmLYtxXRiWOPtWrjdD+jQ=="
 ---

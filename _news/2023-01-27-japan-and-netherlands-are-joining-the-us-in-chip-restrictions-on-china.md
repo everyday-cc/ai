@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Bloomberg seeks a reporter to cover artificial intelligence"
-    excerpt: "Bloomberg News is one of the world’s biggest and most influential news organizations. Our Global Technology team closely covers the companies and entrepreneurs that are changing the world. We’re seeking a talented,"
-    publishedDateTime: 2023-01-26T15:22:00Z
-    webUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/"
-    ampWebUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Talking Biz News
-      domain: talkingbiznews.com
-    quality: 61
-    images:
-      - url: "https://talkingbiznews.com/wp-content/uploads/2022/08/Bloomberg-logo.png"
-        width: 592
-        height: 233
-        isCached: true
 
 secured: "9gnrqNMX1ozAoAhZ9xszbVVoJWU+h73RVpqgQ1ByPrZxrVcZ+HRlK4ZeTpfZQkkd9VsYjK7QR8wU/XPwZeJVKJC1MPE3mEcAlpVnRBd9/3fI2Wn6vk50UW8QRLnVaiVH/3CybRFC+zHvX1UhZTaXjNMPCTSIixwZgmhasnX5Zvf2+nnYrQLAYv3aMEqgCV4YF1BFhkjR2VFNYmLFyY/HN8SqmsWvAJsWxc1DAmd2Afyp578AJtbFRBspTJGeGu7c7H7GBF2gjoqDhuoZFy9P0QTR3aqnkwADyqzyzhl6DCxbGqW3VI/YL6QgpOGs8aLnEY/90yCh1Uq0bBZS0ZpKpXtyPIIv+NdRiJySlzegD8s=;Yj0lSFJ8/bH5/bYv9UXP1A=="
 ---

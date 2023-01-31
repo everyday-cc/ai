@@ -25,15 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu working on its own AI-powered chatbox, will integrate into search engine by March"
-    excerpt: "The company is developing an AI-powered chatbot similar to OpenAI’s popular ChatGPT and plans to integrate it into its main search engine in March,"
-    publishedDateTime: 2023-01-30T11:32:00Z
-    webUrl: "https://www.marketwatch.com/story/baidu-working-on-its-own-ai-powered-chatbox-will-integrate-into-search-engine-by-march-11675081970?mod=hp_minor_pos26"
+  - title: "A watermark for chatbots can spot text written by an AI"
+    excerpt: "Hidden patterns buried in AI-generated texts could help identify them as such, allowing us to tell whether the words we’re reading are written by a human or not. These “watermarks” are invisible to the human eye but let computers detect that the text probably comes from an AI system."
+    publishedDateTime: 2023-01-27T12:26:00Z
+    webUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/01/GettyImages-1405584647.jpg?w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "The Download: watermarking AI text, and freezing eggs"
+    excerpt: "A watermark for chatbots can spot text written by an AI What’s happened: A new method could help us to spot AI-generated texts. Watermarking buries hidden patterns in the text that are invisible to the human eye,"
+    publishedDateTime: 2023-01-27T13:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/01/27/1067344/download-watermarking-ai-text-freezing-eggs/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "V6Tnv8mhORI4OWDPdFv9IyCaO4ZehE44goQrKfTxLFkh1BPaT54oGohTGs+z70AIXW0UEaO7/HoAb6afSsGCtyI8WTHe0A/SFfXF4c7ltVPMLsNhnj3bkFce5Hj/sL7BCICyYz76nm9pF7BDMHzCqSd6y6FR1lQD7ZEu4PO/qdDXU9Afs+IbZSRw1DQVcnNaNKcmUjVsgOBJWtUtrDCN60uYP8dl2GvH1PNcEIzJowcE2PcS8SgqE1fm5m3gaXMgdo7ZhZOHpf3zLY/5yXK4JJ0ThzwTB4yXnjD/Vz6XUzt32fa5MCSh7ZQEfNMDbtdTnj7WiAaCMvmXHG29DUFtFv/EqTdGyNgAVvLD8NmpTBzJK153lhW/cFwk1cb+aZpTRLSVzeLZELd8rrpU2t3DJdG7IczoVncX0fFvkcw7aGGfqwTAJn73OQkWJiIPu5a9dkZFkNRfOeeklkeISelgvpVJKjlAo1xeOptBUJ/IjVpoUlcbASlgxkYDUbGtm3Bh/OX4bLEBSHVZgAol9Vb6Wg==;QKh++Xc0EZfLdK4Y5yQUWQ=="
 ---

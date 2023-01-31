@@ -94,6 +94,17 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 24
+  - title: "Shufti Pro sweeps Ultimate FinTech Awards 2023 with three major wins"
+    excerpt: "Globally acclaimed for its state-of-the-art identity verification and KYC/AML solutions, Shufti Pro wins three major Ultimate Fintech Awards MEA 2023"
+    publishedDateTime: 2023-01-31T08:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
   - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
     excerpt: "Encora, a global next-gen product engineering provider, today announced that it has acquired Excellarate, a global technology solutions and services company. The acquisition enhances Encora’s capabilities in AI,"
     publishedDateTime: 2023-01-27T06:43:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "BuzzFeed to use artificial intelligence for content"
 excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-publishedDateTime: 2023-01-30T19:48:00Z
-originalUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+publishedDateTime: 2023-01-30T17:33:00Z
+originalUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+webUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+ampWebUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: fox17online
+  domain: fox17online.com
 
 topics:
   - AI
@@ -200,6 +200,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "sb26d23p1baledAWNQJhvtSxbdyh0aq6BYV3e6axJXMUbHe1FBJJqBpvawFuR6sP6dQqXwPYJ298s8yZiZ1X9BtEbgnLLvyjCW9zCXQuTzEcjmj6Fx1P1qGdEjEEum1gg3IWcmSdsd3N2g7cnQ9wHn8Zr4hOzmtuwNL5h+Lv3xkugP4CMa/vlR57fFQ9AWmOH72LmrbYGWBCbQbVeix24pRfYijT7SiBPWhnRIqHAWElNd1eSOX8FooS9tJqt0hXkFH8xOd+xzDGB+pJ/1DvQ1LuhE6c2e9dh64B9cj45pWUn51+teeSeb2ZbKF0D5XtvWJx0VoTGLTLm8dn8SZVeN1iItvvWrIs4ChY7JD6DF0=;WxTUwgUfQFa73iaJQIoK+Q=="
+secured: "PgQUyTP4aX+doQtpsSv4ruN1hh2AT3f5H27BnelMCxT+AO6Fhw+XMD78u5Tb/pr0BfAI6Dksr5diqDPRJtzbemjRr+69ZMivKcXWC0IQEnWSlSyrjtiw03C/DdzK0r7H5tUtS3VW3sbS4ht92M6te7kmbZYWClr9n75pyVEZ5PIzhhWXa0kaQASlv9FMDjsko1m2atRtWUekByAx/QEnggQCwINQTTjmhgotW/pSNLcoc7ZYkXaD5KiS1yl4U+N44yBdbZ9mMDJMhKIjlMVNnug/XeOa9oQThwX62+mRQAW+VJoLKoi6TgseqmENiIes72X+kZnxrvVkM0GlPqn9k6z9PwQwxvukuc86wUxYRGw=;ZIogm9p4mqgncvEDS2hJBQ=="
 ---
 

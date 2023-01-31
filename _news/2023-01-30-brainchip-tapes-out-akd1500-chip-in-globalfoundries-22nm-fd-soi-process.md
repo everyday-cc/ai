@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30616265"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "BrainChip achieves tapes out AKD1500 chip"
+    excerpt: "“The AKD1500 reference chip using GlobalFoundries’ very low-leakage FD SOI platform, showcases the possibilities for intelligent sensors in edge AI.”"
+    publishedDateTime: 2023-01-31T08:45:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/brainchip-achieves-tapes-out-akd1500-chip"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/55ujuvux/brainchip-general.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Brainchip Holdings Limited/ADR: BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process"
     excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 29, 2023 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuro"
     publishedDateTime: 2023-01-29T22:50:00Z

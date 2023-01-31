@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-
 cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Robot Lawyer Just Got Disbarred By Its Creator Before Its First Court Case"
-    excerpt: "Under the threat of jail time, Joshua Browder, founder and CEO of DoNotPay, has decided not to let the 'world's first robot lawyer' help a defendant argue a traffic infraction in court."
-    publishedDateTime: 2023-01-26T15:21:00Z
-    webUrl: "https://hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
-    ampWebUrl: "https://amp.hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 71
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60754/content/Courtroom_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "First AI-powered robot lawyer won't be used in court due to jail threats"
-    excerpt: "News that an AI would represent a defendant fighting a speeding ticket in court on February 22 arrived earlier this month. It would have involved an"
-    publishedDateTime: 2023-01-26T15:16:00Z
-    webUrl: "https://www.techspot.com/news/97393-first-ai-powered-robot-lawyer-wont-appear-court.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 63
   - title: "“Robot lawyer” pulled from first court case over jail time threats"
     excerpt: "CEO of the New York-based startup DoNotPay, Joshua Browder ... being threatened with possible prosecution and jail time. The “robot lawyer” technology relies on a few prominent AI text generators — such as ChatGPT and DaVinci — to dictate responses ..."
     publishedDateTime: 2023-01-27T10:40:00Z

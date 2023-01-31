@@ -44,33 +44,28 @@ related:
         height: 697
         isCached: true
   - title: "UT Austin will offer artificial intelligence graduate program online"
-    excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
-    publishedDateTime: 2023-01-29T02:36:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+    excerpt: "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,"
+    publishedDateTime: 2023-01-29T05:24:00Z
+    webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
     type: article
     provider:
       name: Houston Chronicle
-      domain: houstonchronicle.com
+      domain: chron.com
     quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
         width: 2048
         height: 1152
         isCached: true
-  - title: "AI Master’s Program Launches at UT Austin With Ability to Serve Thousands"
-    excerpt: "Just as artificial intelligence (AI) and machine learning emerge as the fastest-growing in-demand skill sets in the global workforce, The University of Texas at Austin is establishing a new online master's program in AI with the potential to bring thousands of new students into the field."
-    publishedDateTime: 2023-01-26T16:44:00Z
-    webUrl: "https://cns.utexas.edu/news/ai-master-s-program-launches-at-ut-austin-with-ability-to-serve-thousands"
+  - title: "University of Texas to offer master's degree in AI, including health focus"
+    excerpt: "University of Texas at Austin plans to offer an online master's degree in artificial intelligence, the first large-scale program of its kind. The online degree also will be the only one offered by a top-ranked institution priced near $10,"
+    publishedDateTime: 2023-01-27T22:36:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/university-of-texas-to-offer-masters-degree-in-ai-including-health-focus.html"
     type: article
     provider:
-      name: Journalism in the Americas
-      domain: utexas.edu
-    quality: 38
-    images:
-      - url: "https://cns.utexas.edu/images/easyblog_shared/2023/b2ap3_large_ut-online-masters-degree-ai_700x420.jpg"
-        width: 701
-        height: 416
-        isCached: true
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
 
 secured: "tWKVYG61kWl5AxnW/XH3kSWZGas70r086iv+ZlzW0miJuWCAHi+haHppgC3QCQDbHjw06EWXCsxQnFxBBtDUfDqN1rLBmDpwWd5uXSxwfBI8q9GzqdSjQobwVd36NxqjDikoTGnfoccv4zwbc4lySFuCI8aW0p/2OZuFd/8EXDP3tIgy2ehOLg1PKQYQ65uKZSfkLJboLgVu+tP60DsW9s0V4Eo71t8t1QLZ4OzOMTU+pfFxH6QG+LJ16EAx/ABJczRfUY7Dv7hahqiGVGJLJxnOvLLcMn8Aoq1ib0FYXqWhNNMD4Gf3O0BlnMminJpDamkvx51jeNeqRqap6fDJFyXixzKt9062xB6rk+OYw1sUhf/m3sG1XRNvZ7jBmeZ0cWL5Y1JSzlFeSrHofis/+F5GlquESTgPSThLdUb84r1Ma2DjZJJmNVG55LT6d5tWOzYqGRDyfs3svLkbpW5H4JMzEvlkvPElElEcDFW1rp3vWDz1CSGRuELCh7HwPLEzkeo0KKMK+LLM/rLW6nzlVA==;ThTLFhnRRU3yu1IAJX3dDQ=="
 ---

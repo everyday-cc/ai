@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 811
         isCached: true
+  - title: "Why is Andhra government pushing facial recognition attendance on all its workers?"
+    excerpt: "After introducing facial recognition attendance for teachers in all government schools, the AP govt is now pushing it on sanitation workers"
+    publishedDateTime: 2023-01-31T07:07:00Z
+    webUrl: "https://www.medianama.com/2023/01/223-andhra-government-facial-recognition-attendance-sanitation-workers/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 33
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2019/09/18itl009_facial_recognition_graphic.jpg.jpg"
+        width: 1400
+        height: 616
+        isCached: true
 
 secured: "b7FiDDyjQ7p1vxzen9RW9fl9ACIu/VEBrHjGnAUDU5+XUuAxTUzY9VtZsoPxhxL6ItOwuBRJQry+rxVKtV8GUocHDakgJ+uIcNVS4/RuLKnBzwdyg5IlV6zknHYCyyCYwJkx3XJZWFH/7N1ofmxT7k2/ybT8pRubOtfafk1rj/Ifh3MU7fOLSPgUYaYbHq9jcRb4m836a7WzSjl1/zUO/qXIvUffROsEuxR0tBZgx9mlf2XikiSN7sjM0Mky7B56Z+xkb7CB3tdP2TQXSGCKZwqf2HdO3EyRS3Qve7SYQfNcl4tClr4GNu2Uotgg/jzzmOduPsXaWAzjx2rrEfH8jmqXa1Vwp188UTCnRjG6pgW67PvhUYMttaffwF7ja/yR17CdYb8ZLACh+eHZBo2TbsRGuE1fxbhqVmMnLBAk9TwagUvVrEueuYyK34G6JGoV29lnajMQfPJ+Hs37ULycI2QljDDa+4T8hp0Ofy6VoA0zvdQP1EwXRk2CaG0XE+EyXMFZdw+RA7NGkryXXpbzuw==;FlNy/wYghu81SuFK4DlGKQ=="
 ---

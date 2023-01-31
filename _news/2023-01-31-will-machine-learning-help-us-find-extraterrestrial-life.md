@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-extraterrestrial-life.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI Help Researchers Find Intelligent Alien Life?"
+    excerpt: "A team of radio astronomers has been using AI to broaden the search for extraterrestrial life, and the results are promising."
+    publishedDateTime: 2023-01-31T08:00:00Z
+    webUrl: "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897"
+    ampWebUrl: "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
+    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
+    type: article
+    provider:
+      name: BOOM
+      domain: boomlive.in
+    quality: 59
+    images:
+      - url: "https://www.boomlive.in/h-upload/2023/01/31/997739-dish-space-signal.jpg"
+        width: 1280
+        height: 768
+        isCached: true
   - title: "Will machine learning help us find extraterrestrial life?"
     excerpt: "Research published in Nature Astronomy and led by an undergraduate student at the University of Toronto, Peter Ma, along with researchers from the SETI Institute, Breakthrough Listen and scientific research institutions around the world,"
     publishedDateTime: 2023-01-29T23:59:00Z

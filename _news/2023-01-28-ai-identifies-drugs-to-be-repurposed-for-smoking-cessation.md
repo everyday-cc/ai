@@ -58,13 +58,13 @@ related:
         height: 480
         isCached: true
   - title: "Machine learning identifies drugs to help smokers quit"
-    excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan which is used to treat"
-    publishedDateTime: 2023-01-30T20:14:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273458000/machine-learning-identifies-drugs-to-help-smokers-quit"
+    excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan, which is used to treat cold and flu-related coughs, may be repurposed to help individuals give up smoking."
+    publishedDateTime: 2023-01-31T08:33:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20230131/4033046.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
   - title: "Machine learning identifies drugs that could potentially help smokers quit"
     excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."

@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www-images.christianitytoday.com/images/133062.jpg?h=675&w=1200"

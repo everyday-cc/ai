@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "BrainChip achieves tapes out AKD1500 chip"
+    excerpt: "“The AKD1500 reference chip using GlobalFoundries’ very low-leakage FD SOI platform, showcases the possibilities for intelligent sensors in edge AI.”"
+    publishedDateTime: 2023-01-31T08:45:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/brainchip-achieves-tapes-out-akd1500-chip"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/55ujuvux/brainchip-general.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "s3tQxz4xSvv4U68OmVs/iCHYx41c+TqIs2t3DFrqC0uvSucKdud3O6Liep5K+PkPQRW41Uh6JyyzVzaDFCc3hUMChuIvUDSzRduRmOktxSBLO3Th9cMhdISLrx8/uaQ7ndOaGRpaZnZ7/c0udKzrcJHuFyeusXMb/MiS5Zq6wcnUOA269msjEXCXMMioLAv+Y0yvZ7YqYYB+NYog4REpu9b4HbNvL4bkZJFNdMY0FTa0nBgeBaH+pQ/fpIVgPVx8OdovOnv4EVhyBVILX4q2j782iqqDAC7LOvg37szVnBQFoeV/NMolldDjfzKsgQ5xiKTIx8ygfcsBKAU//OZzIsQwcHkbVktw8UHBIvwBNUo=;IwqEvbbyoEkaptRoKJxSrw=="
 ---

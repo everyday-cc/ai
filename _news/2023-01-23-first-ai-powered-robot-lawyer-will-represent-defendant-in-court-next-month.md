@@ -1,16 +1,13 @@
 ---
 category: news
 title: "First AI-powered \"robot\" lawyer will represent defendant in court next month"
-excerpt: "A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month. Joshua Browder, CEO of DoNotPay, said the company ..."
-publishedDateTime: 2023-01-23T10:53:00Z
-originalUrl: "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-webUrl: "https://www.cbsnews.com/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
+publishedDateTime: 2023-01-23T14:52:00Z
+originalUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+webUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
 type: article
-quality: 71
-heat: 81
-published: true
 
 provider:
   name: CBS News
@@ -26,24 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI-powered lawyer to defend in court next month"
-    excerpt: "Artificial intelligence is being used to create art, answer your questions, and write essays. What about an AI-powered lawyer?"
-    publishedDateTime: 2023-01-25T15:07:00Z
-    webUrl: "https://www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month"
-    ampWebUrl: "https://www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/ai-powered-lawyer-to-defend-in-court-next-month?_amp=true"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6025408/2147483647/strip/true/crop/4121x2318+0+214/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F62%2Fb8%2F8565b4ee4cca87a6544a9e6c4131%2Fap23006584552936.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "HPOKJeICxLWnCvPNg+qiXdSNaau9IIjoEA3ydMMZdVEgQcZ5DY8uPAaW6Vw+IvwcWjo4QdF7mBl7hJTbzNUR3Qen4zjdjAlgODnFawzwsmDWBXnG2KxwAOE2oz1w2Obb5lwhS4H6nTZ2xwVW9CGPPLM9zteTyYHdL7Rrxljz4Ts0/DAW4tdlDN7dTAQ9+XEUzTFkaBWq4enrmuomDdO4D4aVq5nZSlV5DUwt5l208A/MeHGd/GPuEa3LfwXjxig5tJQsIThGYMmNhw3oWAGnmxQH3WPnitnVI1r/RTMXc4se511FNkPSXFJQqhVIDyOIJpc3ZdDE4DEk2Q+aFTghy/nBUdKHyF7jusVAKp9qOho=;pDn/r8Yc0e2Zs0GYWnhAzw=="
+secured: "TceeXuNt3xcj5YACHc1WnRmO4Z9ej+rNMcpUISRxDTejjM+AISV03sBBvUJCw5+nSYUxCsSfI/B/yS5qeHZiNwfEQNTTFwIXFGmhFJ6yTDI7IWkyziHbc2gKXjH45CGzN1vd7X2RdI1HwVdYvG/aZozz89/3GE0LaLlMDozcqimgP05G86N2vRzWz4Bf1yNIQUIQkKjpQuPBGc+9zWCq0/cN0g0z1YWDJbI4VL6LSlRCvtoJkB/9yQQqHYNDrkYfT1e/c8bOjLZREl96EjBFEkzMiOCHjjt6c5+HIk7NxMSnFvJTIpWzYRYnFUKUysCpttisvYEQzoBp/52iOdUe+wmO2l7tlMAF9Y/CUtoI1OA=;aWqUGn8zLfNpvxShZkNnrw=="
 ---
 

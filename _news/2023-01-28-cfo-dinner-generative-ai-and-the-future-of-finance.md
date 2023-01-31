@@ -98,6 +98,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "Is ChatGPT HIPAA Compliant, and What Does it Mean for the Future of Healthcare?"
+    excerpt: "Chat GPT, Healthcare, and HIPAA Compliance, includes an assessment of ChatGPT in relation to HIPAA Compliance, as well as currently known shortcomings with the program, and a legal analysis by Compliancy Group's Lead Compliance Attorney of policies and procedures created in the application."
+    publishedDateTime: 2023-01-31T08:06:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9751503.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "lp/b696dl5HwK1ArVAa8/LtRBJcvmKKoUJffeaE+kSnP/HfSVQ5O7BYU2OkQ/uGz/lIZYWvvPnFJLxDXlHdz5ckT1+o5lYY2K7/MMrY6QPQxSkPaDKu0A2ZTCBS1sN16keqscrYkaqVAFSDSpc/mLEGEKPFax/191Pt1SRkclFl1QRDiULZTvC8UL64rzdjQqtoyKW8VhcaJohQYNbHj/2xxYVaUGW/fLcfscPHneilOVrdjq5+gaMpVw+hPwdeAAqLuaOuz8/5fAwwDSUGO1efb+VSF3UmWtLcm2gj3IldE6evFnKYofatZpm6Q8+OVJhKcvDU1lUgzY4RBcIpNJX+qy/CecByd31Zl8Q1jBp2zMkMZMSezVX48vUknf+tlRSEH5z6uDWCKVJ9tLaedfKjy4A3SZmvDXvdh2td5QloFH1Q7f4JTeuvMsZJi6PjqKXIcgt+h5mNXp4hglF3So5S6jbAElhw0C3bQG3atCGIQwqHH5UGkx3TxJTHYq4zjJlzo6wM3Z65js7wkmG9bdg==;Jtb0mKGHxYp1encvvjiHtg=="
 ---

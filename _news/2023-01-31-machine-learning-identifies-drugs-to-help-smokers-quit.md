@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Machine learning identifies drugs to help smokers quit"
-excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan which is used to treat"
-publishedDateTime: 2023-01-30T20:14:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273458000/machine-learning-identifies-drugs-to-help-smokers-quit"
-webUrl: "https://www.bignewsnetwork.com/news/273458000/machine-learning-identifies-drugs-to-help-smokers-quit"
+excerpt: "Researchers from Penn State College of Medicine and the University of Minnesota conducted a study to see if drugs like dextromethorphan, which is used to treat cold and flu-related coughs, may be repurposed to help individuals give up smoking."
+publishedDateTime: 2023-01-31T08:33:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Health/20230131/4033046.html"
+webUrl: "https://news.webindia123.com/news/Articles/Health/20230131/4033046.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Machine Learning
@@ -77,6 +77,6 @@ related:
       domain: medicalxpress.com
     quality: 17
 
-secured: "xRW7WoSqo3XLR0NT1+zbwQp0hZFV2Fvj4Ct9NOfEO/D8l1x8lJTMTVmR704f8mlJaBXbekYU8J9MIE4tj9mHmf97bu2VGrMG3MupqyBdoFScoEyEE9rFIGl2OMzAura0hA/MXqzyC3q+ZBwDfnsOSbjv6bB+IxcHN31zCz5RW5xrRdq8LKtiXlQudYZXwqykP2nC0DSl1JkpEVFKbknXuU+KoJQ3vJhUd9N4CzqHapFjmFYPjQ7zqAj5FXDq2BhMHRZnSaofaRYtryML5OWS20lDvkHO2h35UFFT/NL8AM5r/qHVVm+rVGSf4SWW14yQDkT7hoAhb7ZGZZmwIVHqsIs0pktMBRUu1JKGaE7hU1Y=;8zqEcerR8iXeJGZz9lO7wQ=="
+secured: "+fnoEx7E1IKII6E9mLxr9eppxJU/o3yW6x6KUmIrp5eSXwRlbGKC0bQyRR6BSHgn23JlWThShUCJwqbIX36Pmwtfy4cevr+Ek8uyVKPKh9mPcT8gnt8FOptNsO4hpkMK2sSh8V5rZgqLMXEKuCjtclhCV/X9Nai3PtaX5kKV3IB/E8wAFhJVuiErNi7zZ1QCCz1PxXkG8HkQJNy9dVkYcE4qsu55ZYuywqxFf6Cmg9yULUmN01eGVxalZrE2S8hmmXR4BYy5WEYZ4QgOlwVo1PocpNB7kyD42+t6KqpQ7buMlofrzc7OaiFbMWImxjVNL/PYjIhQrg/Zm74p3qH8O3jEnw95xDE+qv4wxBApLN0=;j+R6321wgf+YcuuUtxYMdQ=="
 ---
 

@@ -93,6 +93,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Is ChatGPT HIPAA Compliant, and What Does it Mean for the Future of Healthcare?"
+    excerpt: "Chat GPT, Healthcare, and HIPAA Compliance, includes an assessment of ChatGPT in relation to HIPAA Compliance, as well as currently known shortcomings with the program, and a legal analysis by Compliancy Group's Lead Compliance Attorney of policies and procedures created in the application."
+    publishedDateTime: 2023-01-31T08:06:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9751503.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "XKkYznuMNvC/jEbEgna9Bwc/WSpLR1NXl0fSdYXlwUn9HnyPeGXmim16Zo3bI5k1OZxoQa7dm31ipuS13Og6lHnUg7y5p3EbOMTRGqXJrGoavhML/QlKO3O4d9peNrSOShL6oGIbTVcFP0TxEVtMSyIXyahxNEjugGXpUI8sRfHT24DOuhMWyjxoIyzVtuNn7Z37lWGRUOIaTkF7ubNjhchzi/QL1APxfJGQ++l9Lt6uBW1bSPLlBduVgG97eDZ9PQ+Hu7GXwweejn15FrDKhaqkvvQgYz0yo5L2+JJ0lvLKyCg4Q1ZPthX8YuIIrFPvGWGJlxlh9fi3ZRpMpcGuTHL3K4ZfeD1ztoBQYaINLOk=;4sdq4yU7OD9ce5iY4W6ECA=="
 ---

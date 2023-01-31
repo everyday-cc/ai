@@ -37,31 +37,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "AI Robot Lawyer Just Got Disbarred By Its Creator Before Its First Court Case"
-    excerpt: "Under the threat of jail time, Joshua Browder, founder and CEO of DoNotPay, has decided not to let the 'world's first robot lawyer' help a defendant argue a traffic infraction in court."
-    publishedDateTime: 2023-01-26T15:21:00Z
-    webUrl: "https://hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
-    ampWebUrl: "https://amp.hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/ai-robot-lawyer-disbarred-by-creator-before-first-court-case"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 71
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60754/content/Courtroom_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "First AI-powered robot lawyer won't be used in court due to jail threats"
-    excerpt: "News that an AI would represent a defendant fighting a speeding ticket in court on February 22 arrived earlier this month. It would have involved an"
-    publishedDateTime: 2023-01-26T15:16:00Z
-    webUrl: "https://www.techspot.com/news/97393-first-ai-powered-robot-lawyer-wont-appear-court.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 63
   - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
     excerpt: "Joshua Browder, CEO of DoNotPay, said his company will postpone a pending court case to focus on consumer rights."
     publishedDateTime: 2023-01-26T17:08:00Z

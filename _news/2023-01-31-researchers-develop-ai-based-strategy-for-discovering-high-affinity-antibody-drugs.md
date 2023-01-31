@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20230130/Researchers-develop-A
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230130/Researchers-develop-AI-based-strategy-for-discovering-high-affinity-antibody-drugs.aspx"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Artificial intelligence aids discovery of super tight-binding antibodies"
+    excerpt: "Scientists at University of California San Diego School of Medicine have developed an artificial intelligence (AI)-based strategy for discovering high-affinity antibody drugs."
+    publishedDateTime: 2023-01-31T08:33:00Z
+    webUrl: "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.html"
+    ampWebUrl: "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 73
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-10.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "QvTTBkBZd60TjHfHsq3dl19Rk1RNYc/4NxGvg7TwygiY+AQtserAUtGi0KLsZ+q0cwamPr+vKoJENpm99ntlATPBFuZZql9A949qLQLkB7F8bf9JebVul6czNMRuxnjzN9l2q9Noued8+2hwyDe0xa1opcbjIvbDjwJkT5slCGc3CaSqfzWSk7FSqS2WaU4K624F6ygmQMfRCuVhuEqPly848J78qSQFlEGZFfSZt71L9jxHqzIZ6m5zZZsLDnzWBhG7n0A2NZXKDF8o3R/HOILwvQkT51ODF7I9CgziXQNhm0V95fnMEtO50e2baMuf/aEPfHh5PZlJ3EtJAVnLm7gpVhPJz92ZgC+fYDvZEgk=;UDyPbwjLjCHozskyL2Nq1Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
 type: article
 quality: 97
-heat: 277
+heat: 267
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://c.ndtvimg.com/2021-03/2l9lamok_elon-musk-tesla_625x300_24_March_21.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Elon Musk kills hope of Tesla retrofitting new Autopilot/Self-Driving hardware"
-    excerpt: "Elon Musk has killed the little hope some had for Tesla in offering a retrofit to the new Autopilot/Self-Driving"
-    publishedDateTime: 2023-01-26T16:29:00Z
-    webUrl: "https://electrek.co/2023/01/26/elon-musk-kills-hope-tesla-retrofitting-new-autopilot-self-driving-hardware/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 65
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/06/2120x1192-side-repeater-camera-sunny.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "U.S. SEC Probes Elon Musk's Role in Tesla Self-Driving Claims - Bloomberg News"
     excerpt: "The U.S. securities regulator is investigating Elon Musk's role in shaping EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter. The review is part of an ongoing Securities and Exchange Commission (SEC) probe of the company's statements about its Autopilot driver-assistance system,"

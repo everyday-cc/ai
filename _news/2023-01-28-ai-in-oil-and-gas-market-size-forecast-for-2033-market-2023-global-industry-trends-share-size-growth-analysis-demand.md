@@ -47,24 +47,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry"
-    publishedDateTime: 2023-01-30T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
+  - title: "Artificial Intelligence (AI) in Real Estate Market | Increasing Demand With Industry Professionals | Including 117 Pages Report"
+    excerpt: "According to Latest Report(117 Latest Report Pages)]The Artificial Intelligence (AI) in Real Estate Market 2023 Size"
+    publishedDateTime: 2023-01-31T01:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-increasing-demand-with-industry-professionals-including-117-pages-report-2023-01-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market | Increasing Demand With Industry Professionals | Including 117 Pages Report"
-    excerpt: "According to Latest Report(117 Latest Report Pages)]The Artificial Intelligence (AI) in Real Estate Market 2023 Size"
-    publishedDateTime: 2023-01-31T01:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-increasing-demand-with-industry-professionals-including-117-pages-report-2023-01-30"
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry"
+    publishedDateTime: 2023-01-30T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
     type: article
     provider:
       name: MarketWatch

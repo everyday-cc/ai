@@ -110,6 +110,17 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 24
+  - title: "Shufti Pro sweeps Ultimate FinTech Awards 2023 with three major wins"
+    excerpt: "Globally acclaimed for its state-of-the-art identity verification and KYC/AML solutions, Shufti Pro wins three major Ultimate Fintech Awards MEA 2023"
+    publishedDateTime: 2023-01-31T08:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
   - title: "Fintech focus on ESG, digitization, AI in 2023"
     excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
     publishedDateTime: 2023-01-30T13:03:00Z

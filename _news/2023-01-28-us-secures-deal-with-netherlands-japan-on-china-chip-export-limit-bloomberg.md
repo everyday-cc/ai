@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/us-secures-deal-with-netherland
 webUrl: "https://www.reuters.com/technology/us-secures-deal-with-netherlands-japan-china-chip-export-limit-bloomberg-2023-01-27/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bloomberg seeks a reporter to cover artificial intelligence"
-    excerpt: "Bloomberg News is one of the world’s biggest and most influential news organizations. Our Global Technology team closely covers the companies and entrepreneurs that are changing the world. We’re seeking a talented,"
-    publishedDateTime: 2023-01-26T15:22:00Z
-    webUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/"
-    ampWebUrl: "https://talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/biz-news-help-wanted/bloomberg-seeks-a-reporter-to-cover-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Talking Biz News
-      domain: talkingbiznews.com
-    quality: 61
-    images:
-      - url: "https://talkingbiznews.com/wp-content/uploads/2022/08/Bloomberg-logo.png"
-        width: 592
-        height: 233
-        isCached: true
   - title: "Japan and Netherlands are joining the US in chip restrictions on China"
     excerpt: "The Dutch company ASML Holding HV will be prevented from transferring deep ultraviolet lithography machines used for chip manufacturing, and similar restrictions will be imposed on the Japanese Nikon Corp."
     publishedDateTime: 2023-01-27T06:50:00Z

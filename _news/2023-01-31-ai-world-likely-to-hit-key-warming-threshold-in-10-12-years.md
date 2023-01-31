@@ -41,6 +41,20 @@ related:
         width: 828
         height: 610
         isCached: true
+  - title: "AI is predicting the world is likely to hit a key warming threshold in 10-12 years"
+    excerpt: "The world will likely breach the internationally agreed-upon climate change threshold in about a decade, artificial intelligence predicts in a new study that's more pessimistic than previous modeling."
+    publishedDateTime: 2023-01-31T08:55:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1152738997/ai-is-predicting-the-world-is-likely-to-hit-a-key-warming-threshold-in-10-12-years"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2023/01/31/ap23030698135423-801426c71ef831345352daf14a36d2fecd88bf8f.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
 
 secured: "D96SU6A1lFdwJBr/iDYzPFbTW080S7HUYn7HSLiYNM3FCDJ8HY1i+c+22JKoyOcZ/FLEj97L2UbWlaZ8FN5/0+Cn/FqHuPy5LRZa63E+natqo8irnfco2sQZMD+vRcnqWA7e60ttdbW7G7MyCbcCSL3Lw/lkby3PR5as0zYF/5AGAq3FGoj4ZoBhWuiXu3879yrZoXcZsGMmRjMdLQCqbqK8Fr0flGX9vbhSbQ4QL6VULrx2F63VHZJVR7EwE6GBa6uCJ46Ea32mlhL8V5QBp94ecxQEukCVV3RoBFbLTlpkIptOJXRsEcmTEjOckcwCGSnWYSeaH7w1uQNnwpUBKcsoa1yLVpkVuCwfMxXTJlw=;91ymhRr9GjonlhAIA85ISA=="
 ---

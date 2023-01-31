@@ -1,20 +1,28 @@
 ---
 category: news
 title: "VIQ Solutions Bolsters AI-Powered Workflows WIth New Proprietary Automatic Speech Recognition (ASR) Increasing Accuracy and Improving Diarization"
-excerpt: "VIQ Solutions Inc. (\"VIQ\", \"VIQ Solutions\" or the \"Company\") (TSX and Nasdaq: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, today announced the addition of a new ASR technology to its engine agnostic portfolio driving improvements in efficiency and diarization in multi-speaker environments."
-publishedDateTime: 2023-01-26T12:35:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/26/9749666.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/26/9749666.htm"
+excerpt: "VIQ offerings are agnostic to speech recognition programs, cloud infrastructure and hardware. The engine agnostic approach ensures they utilize the best suited and most efficient speech engine and ..."
+publishedDateTime: 2023-01-26T12:37:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/01/b30582772/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-"
+webUrl: "https://www.benzinga.com/pressreleases/23/01/b30582772/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-"
+ampWebUrl: "https://www.benzinga.com/amp/content/30582772"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30582772"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "lIHjQKEUTRltTIJ4xVVkIQKzbQ19Z/WpzCkaIqvOx5089h+1YGrVDyvKXpTBjYziii7YipxK9u3ZKavouMwIBE3Y8+soz7K4alvubayO9nGGPc+YQKSumVtGomrVhxXFbKxKhQEVW1l/cErh36K9+Kw4Fgynx79EESKPc056A4XAQ2lLaIxp3Dx/G7QrefpCfxvPVzc11Rb13eNcESZ3QHndt4Gy24QytHP/Cxiki4C7AtH0uCUJhaWE92d9WYEPq6++HUoGSztATunTYUhF1LPIMUZm2gwd0/PtaCrHImy1ruILD3JCeuoidIN9dD2LCju7+DUjd5SAj76jxks1ZIiGu9gffSlFqci69jgDpbY=;vVSp21hExb4aj/gkw0yaGg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "p7tR3yQbyL4WHWDQRmJ65AFKQiHXPQHMoGxTgOGVZFv0H+kvWhoF9y3SGtCFxDZdrS98xZs/ycsrJS18egK4rrq/Ez2Kt7kEYpg3bpsfDEM+Ll/4UkcCRfTr2A2Jg9LN9ZQ2prHbIXYbR5WPDUTtztLSv4oTloLiY58hZX+jqBZz52Rf8/oq10GuAK1ITGicSGebaoB6kJwbxDudsRubdH5yOiKud5fVopsQQSOuyHNgjD7abVcdofCmGgUnCoYEyMr7wbtLmdmxyi9Qg+GlxMjenPQVzx9jKPdXaRmF5vnV1d9jo95S9uAaylgNwA80VsRVOFI8c56jmLN/eGEggKyB88fkHQ1utRLW8U50LRc=;dfxMIJeLTj173Rj6oWhbrg=="
 ---
 

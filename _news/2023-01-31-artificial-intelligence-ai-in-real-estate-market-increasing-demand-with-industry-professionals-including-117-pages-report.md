@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-31T01:09:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-increasing-demand-with-industry-professionals-including-117-pages-report-2023-01-30"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-increasing-demand-with-industry-professionals-including-117-pages-report-2023-01-30"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
