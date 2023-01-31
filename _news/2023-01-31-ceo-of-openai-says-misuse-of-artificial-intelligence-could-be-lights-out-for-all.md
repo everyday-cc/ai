@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Remote IT management gets a generative AI boost as Atera adds OpenAI Codex"
-    excerpt: "Atera announced that it is integrating OpenAI Codex with its RMM platform, to help users automatically generate scripts to help execute processes."
-    publishedDateTime: 2023-01-26T14:12:00Z
-    webUrl: "https://venturebeat.com/ai/remote-it-management-gets-a-generative-ai-boost-as-atera-adds-openai-codex/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "Google, not OpenAI, has the most to gain from generative AI"
     excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
     publishedDateTime: 2023-01-27T04:00:00Z

@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market | Increasing Demand With Industry Professionals | Including 117 Pages Report"
+    excerpt: "According to Latest Report(117 Latest Report Pages)]The Artificial Intelligence (AI) in Real Estate Market 2023 Size"
+    publishedDateTime: 2023-01-31T01:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-increasing-demand-with-industry-professionals-including-117-pages-report-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029"
     excerpt: "In 2023] The Global Artificial Intelligence (AI) in Automotive Market Size (115 Report Pages) is estimated to be worth"
     publishedDateTime: 2023-01-30T00:43:00Z
@@ -94,20 +108,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition for Consumer Electronics Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2026"
-    excerpt: "Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. What is Speech Recognition for Consumer Electronics Market - Competitive and Segmentation Analysis?"
-    publishedDateTime: 2023-01-26T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

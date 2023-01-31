@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Worth $8.95 Billion by 2030 - Exclusive Report by Meticulous Research®"
-    excerpt: "Redding, California, Jan. 26, 2023 (GLOBE NEWSWIRE) -- According to a new market research report titled, 'Artificial Intelligence in Drug Discovery Market by Offering (Software, Services), Application (Target"
-    publishedDateTime: 2023-01-26T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30586798/artificial-intelligence-ai-in-drug-discovery-market-worth-8-95-billion-by-2030-exclusive-report-by"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30586798"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30586798"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Crunching time to market with agile AI solutions"
     excerpt: "The advent of pre-built AI solutions makes it possible for businesses to work with agile models and reduce the time to show business impact by 60% compared to the traditional way of approaching AI/ML solutions."
     publishedDateTime: 2023-01-31T04:00:00Z

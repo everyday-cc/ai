@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "BuzzFeed announces plans to use AI for content creation"
-    excerpt: "BuzzFeed announced Thursday that it would begin using artificial intelligence to help generate its content. The company will partner with OpenAI to start producing \"AI inspired content,\" according to CNN Business,"
-    publishedDateTime: 2023-01-26T23:22:00Z
-    webUrl: "https://justthenews.com/nation/technology/buzzfeed-announces-plans-use-ai-content-creation"
-    type: article
-    provider:
-      name: justthenews
-      domain: justthenews.com
-    quality: 39
-    images:
-      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-02/GettyImages-1071861718.jpg?h=199d8c1f&itok=CCgW1Cd3"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "5xkPv11rWsfPQSl87hB8xHcQlVpXhku0TGIO3R0PvuQJnqTTw48jXFDo5+pXyQ1ov0paDzry++yiEHna7RFzHhy3HmJs6C7sOXgaj5zw7Q0fz9mietvZAc8qXbgGdJAvalNDQ3r4bctr4aRGIDG/nDAGsuJ07gZyDvVD3Qem87eyqoBilqehkAInpgdARKKYPe0wrdTr3xnNJjAT2WDbtKV7PMfPxfV4NQGxr+jRy8TaMrjPudab7nBB6spIE3B8hGbcdDZeYHlw5TGjE0v5qBXpNGasOTA5H5EQXXHy/LQtAasMW3gq2VDBA936srGz96Z9K5ZCDPGgnac5HRxtbzJ5XbkoJETXj28pB4DDJTM=;S5+uhoYOBqMVQd3vk7S+4w=="

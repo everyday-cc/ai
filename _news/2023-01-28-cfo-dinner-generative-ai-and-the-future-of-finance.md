@@ -61,6 +61,20 @@ related:
         width: 857
         height: 600
         isCached: true
+  - title: "Mubadala Health and G42 Healthcare to showcase AI-driven solutions at Arab Health 2023"
+    excerpt: "G42 Healthcare, will be showcasing artificial intelligence (AI) driven solutions at Arab Health 2023, a healthcare event being held at the Dubai World Trade Centre. These solutions are centred ..."
+    publishedDateTime: 2023-01-28T06:40:00Z
+    webUrl: "https://yourstory.com/ys-gulf/mubadala-health-g42-healthcare-artificial-intelligence-arab-health-2023"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 46
+    images:
+      - url: "https://images.yourstory.com/cs/206/d6cc5c20076211ed91383927582c5cb0/NIKITAImageTaggingnoframesEditorialTeamMaster14-1674885477623.jpg?fm=png&auto=format"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "The race of the AI labs heats up"
     excerpt: "The labs may not remain neck-and-neck for ever. One variable that may help determine the ultimate outcome of the contest is how they are organised. OpenAI, a small startup with few revenue streams to protect,"
     publishedDateTime: 2023-01-30T22:33:00Z
@@ -69,7 +83,7 @@ related:
     provider:
       name: The Economist
       domain: economist.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230204_WBD001.jpg"
         width: 1280
@@ -84,15 +98,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
-  - title: "Generative AI and ChatGPT – Is it the disruptor in the digital world needs?"
-    excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
-    publishedDateTime: 2023-01-26T13:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-in-the-digital-world-needs/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
 
 secured: "lp/b696dl5HwK1ArVAa8/LtRBJcvmKKoUJffeaE+kSnP/HfSVQ5O7BYU2OkQ/uGz/lIZYWvvPnFJLxDXlHdz5ckT1+o5lYY2K7/MMrY6QPQxSkPaDKu0A2ZTCBS1sN16keqscrYkaqVAFSDSpc/mLEGEKPFax/191Pt1SRkclFl1QRDiULZTvC8UL64rzdjQqtoyKW8VhcaJohQYNbHj/2xxYVaUGW/fLcfscPHneilOVrdjq5+gaMpVw+hPwdeAAqLuaOuz8/5fAwwDSUGO1efb+VSF3UmWtLcm2gj3IldE6evFnKYofatZpm6Q8+OVJhKcvDU1lUgzY4RBcIpNJX+qy/CecByd31Zl8Q1jBp2zMkMZMSezVX48vUknf+tlRSEH5z6uDWCKVJ9tLaedfKjy4A3SZmvDXvdh2td5QloFH1Q7f4JTeuvMsZJi6PjqKXIcgt+h5mNXp4hglF3So5S6jbAElhw0C3bQG3atCGIQwqHH5UGkx3TxJTHYq4zjJlzo6wM3Z65js7wkmG9bdg==;Jtb0mKGHxYp1encvvjiHtg=="
 ---

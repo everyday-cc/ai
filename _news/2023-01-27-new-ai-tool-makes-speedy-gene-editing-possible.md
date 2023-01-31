@@ -52,20 +52,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "New Breakthrough Could Speed Gene Therapy Research"
-    excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- “Zinc fingers” might sound like the world’s worst candy bar, but these human proteins might prove key to treating complex genetically driven diseases."
-    publishedDateTime: 2023-01-26T15:00:00Z
-    webUrl: "https://omaha.com/lifestyles/health-med-fit/article_e699a9b8-505e-58d8-ad2c-6649c3e4ce64.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/bd/cbdd7ce6-83b4-54d0-8f00-6039be376518/63d2c0d686208.image.jpg?crop=600%2C315%2C0%2C59&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "AIHRJwcCDBq+qdDor/QZzd0DKl7qWcBFFFeAdhE/DAgFk8Xze96E/+Zs4niieYT4YjjxUhblTld5zi52PY3SL/nynHvtcRluk+VXWuXez/No1Qv3HYf3xIJe9zjPqt4ggC8LsTiFyuPG4ZcIizm1KDV+j6fWWU6IETyOUDomfakTuwbO2B5ZR2bAR9pvtczGvsoNp8/HOfVZpSzxkmtU6+5z5eIZVh95CReFfXpchoNVjQgiPkJ5M2P8ObIGwrU2b+cSr05fXpxepF3KNpGFADskLEcd42C+ub1ueaGmQd+r7gImtOQywz+/pRwx5zcbRfp5WKS/Y6G1Qbz6TX+eVleufpfyeObR3zqKlhMx45cRyksO+mFWXYhgPNClmYfQDQSj93saK/g+ZUuU3hztcihvw746UlEq1zeLQdggehVje3yrNfmkE+mCdM6C2Z7cedkPJvi5PRrCWBPhXck+mAMWfTLc3ZcM8grLyNCgSgTRld/hQi4LeykD+ncNDwQXT/YR/8uGLfK64K9B3bNaRA==;TXqcZnGYJTqdugZR7ECFow=="
 ---

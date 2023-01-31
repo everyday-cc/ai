@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2023/01/26/artificial-intellige
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "New Breakthrough Could Speed Gene Therapy Research"
-    excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- “Zinc fingers” might sound like the world’s worst candy bar, but these human proteins might prove key to treating complex genetically driven diseases."
-    publishedDateTime: 2023-01-26T15:00:00Z
-    webUrl: "https://omaha.com/lifestyles/health-med-fit/article_e699a9b8-505e-58d8-ad2c-6649c3e4ce64.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/bd/cbdd7ce6-83b4-54d0-8f00-6039be376518/63d2c0d686208.image.jpg?crop=600%2C315%2C0%2C59&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "2wKHNuFpat8HngXMXC6rW18jVL7aCRfmghpbfczSc+fbplLzjaUX7nmpALUoRwaH1JRClO+Uy+FuYlyNNCHZx4MRD9PSHxA7lZl3nXvdywmGVtezLW3Uj8L/FfuE0AZKq3FqiACPYMdDb4pBEWJ3g+eUIrbaE6Z6AyDHnasGivoNwBQ0doAskQQpItvx7jayMy64DqsSErtcLEwxlVwfenwbpShq+aFlbzWkhxN3dMOZ3DSO5phbpoqK1yd8GFtdAciwUDtwnxoe9Ue6GpRmtY+oatssckZf4B2KTr9lfu7jjM59Stjglo0piEbZIcgi2YqZHPkLEfjIrzp2xu5bWEXhswhnTDTK9H5JJscUEK4=;gGfBza44b2ebWStfEnt9Fw=="
 ---

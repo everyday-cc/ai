@@ -1,23 +1,22 @@
 ---
 category: news
 title: "UT Austin will offer artificial intelligence graduate program online"
-excerpt: "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,"
-publishedDateTime: 2023-01-29T05:24:00Z
-originalUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
-webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
+publishedDateTime: 2023-01-29T02:36:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: chron.com
+  domain: houstonchronicle.com
 
 topics:
-  - AI in Healthcare
+  - Computer Vision
   - AI
-  - AI in Autos
 
 images:
   - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
@@ -73,6 +72,6 @@ related:
         height: 416
         isCached: true
 
-secured: "NSpmgyoNPMqToZPjIcuqNn7l/Uv6WCDgM0/N6Sbg5Z1E0NGDSt9vK7ePWgZBTOrKg+Qmw9PFSwFnArWFdmT2F8iMoTVZi5nsNxUAz7UV7zs4WSYJ+BNJkxTd9/ZgMQZ027dR9FDKOqZk68Vl1JM1X3VV3vmmQNDBe3r6Utcg7DmNN0wl1D3YWW9zxubV5ONt1B8kCIESyaWOpwPhChDC5wZGrWuBUH7bRsdUmqUtjsHfbEfqAGRksOIZBlulGSB+NLgpmhlBvagIV4pvh27+nojh1y6HtcqdveyLP8hDnIMWM87VYHeZgbNPqzJlRnwRA/xha5LU83Y8jAKeCXlTkCi+VTH7fiGOQ8WSm3wHE3A=;+X6GyY0UTcHF/R8aNsRiiQ=="
+secured: "EEIr1vqmhpKYTO6rrYdjo1/wIuhSc7/AUtKDcqO1Mrjizn1UyZj2O3SGX6f6WcvsK4RSUVX6eiu1qc/PjC9N20aFhGnnGbWhJ+6nOc+pLkPohIPYdSmFJIXszWfu49HingC5GgQdlJiLdqUKpSU+AQmkqBk3UPtYCikBtVMuSSdMKCQQDt1z2/3IFOJhd7TicCsNZ7PK4Q07sVCoBAWaK2SoWKl0aWuAHeRni02YRgdvOTmvdyGP4fbbl+P9hu9SIgLd86cJm2di0nXXMFjRN5jVpL/yIILhWKqQx4pLce4nX0lBQf0SuiIKrkm2SW+hAUTmVS6G0JY39FJH71Vd4lCvv5YlUXI0ncMES0nB1ao=;EQxQhKFKfvNDDXJFYDca6Q=="
 ---
 

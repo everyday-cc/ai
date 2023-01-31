@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Worth $8.95 Billion by 2030 - Exclusive Report by Meticulous Research®"
-    excerpt: "Redding, California, Jan. 26, 2023 (GLOBE NEWSWIRE) -- According to a new market research report titled, 'Artificial Intelligence in Drug Discovery Market by Offering (Software, Services), Application (Target"
-    publishedDateTime: 2023-01-26T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/g30586798/artificial-intelligence-ai-in-drug-discovery-market-worth-8-95-billion-by-2030-exclusive-report-by"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30586798"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30586798"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "1mCLrY7QaDToOwcA6WC6qF80yTXj/qLgNNA26da00ZzK6JNSL1BrWhWHAMcM4q3ZKxpNqw6L9mbDfDgXq0eHOrWW7OoNTNNBUHbzGhIQM27CuekgetiC4WeGMpGB1u18+viPCbdYeeW86gdKGx3BXnWhXvziEoVmexWKml86g1E7bxxLJxtnmTCSPBxrAiQmkS/z46hNKY8E2Pkt0UTQz/Lfpj0NEYcYv74MRl6X9Teri5u47ZqXONxFAGf6sT+h50tGYoCoV/Oqf4Q7FQHWbwNeIK0CSJf/Nptb5YPkq2p1dtO9p1xW+o8Z/yiQ5UDy56I2ZeTjY5zxwpwt2y5XGj8Os691zmj0mDNo6ck9gUQ=;EZZ9PkXkmV+S7oJ1FvCHBw=="
 ---

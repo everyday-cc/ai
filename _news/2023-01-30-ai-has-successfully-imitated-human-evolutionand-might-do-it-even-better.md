@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-30T15:23:00Z
 originalUrl: "https://www.popularmechanics.com/science/health/a42704749/artificial-intelligence-imitates-evolution/"
 webUrl: "https://www.popularmechanics.com/science/health/a42704749/artificial-intelligence-imitates-evolution/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://hips.hearstapps.com/hmg-prod/images/two-bubbles-of-air-blue-and-red-forming-two-halves-royalty-free-image-1675087138.jpg?crop=1.00xw:0.647xh;0,0.180xh&resize=1200:*"

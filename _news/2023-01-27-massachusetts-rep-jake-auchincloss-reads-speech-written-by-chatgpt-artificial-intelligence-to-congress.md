@@ -43,26 +43,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Mass. Congressman Jake Auchincloss gives speech written by artificial intelligence tool ChatGPT"
-    excerpt: "Massachusetts Congressman Jake Auchincloss took a creative approach to his most recent speech on the House floor to make a point about artificial intelligence."
-    publishedDateTime: 2023-01-26T14:43:00Z
-    webUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/"
-    ampWebUrl: "https://whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mass-congressman-jake-auchincloss-gives-speech-written-by-artificial-intelligence-tool-chatgpt/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 27
-  - title: "Mass. congressman reads AI-generated speech on House floor"
-    excerpt: "Auchincloss said part of the decision to read a ChatGPT-generated text was to help spur debate on AI. Read more at Boston.com."
-    publishedDateTime: 2023-01-26T14:29:00Z
-    webUrl: "https://www.boston.com/news/politics/2023/01/26/mass-congressman-reads-ai-generated-speech-on-house-floor/"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 17
 
 secured: "PKiSNLdJQ6hBNh0rvBIIQlx7fOxe0ZGUSoNhogHYJlPklx/72Fu3ME2KV66biy+fhbj0xC/OGCKqwXMbgTQwWNaaXPexT6AUtyPUV9IjeDWgQVoOLtckx6plKYGRPlaMcFiKdmmmXK1icQ0ZJYqCBgv54uvP+UYRrMp6ugpIpmzqxtUuhSWHlPzaZSLpRkZV97+KQLMDF8dVEkpviKZ4r1psCndTFTEhD+queQP77XKZ+Q9j9aMVleSNDS3i9lpZ9tgNNzRK7BWnwRxfD3aNa/LpAfsGoKBBGHw3y7QzwXAZaKXKEs6txTa8cvzCNP5F3yDm8zy+ljgb8P+QyX+wh5P+H2BVYrBQ7Y3H408Mb7k=;+mmfWOmw1X9Q+tK1y+NEPA=="
 ---

@@ -120,6 +120,22 @@ related:
       name: pix11
       domain: pix11.com
     quality: 38
+  - title: "James Dolan repeats threat to ban booze at Madison Square Garden amid face-tech fight"
+    excerpt: "The move comes months after the SLA suggested that MSG could lose its ability to sell alcohol at Rangers and Knicks games if Dolan does not stop using facial recognition software to ban opponents."
+    publishedDateTime: 2023-01-27T22:36:00Z
+    webUrl: "https://nypost.com/2023/01/27/james-dolan-repeats-he-might-nix-msg-alcohol-sales-amid-facial-recognition-fight/"
+    ampWebUrl: "https://nypost.com/2023/01/27/james-dolan-repeats-he-might-nix-msg-alcohol-sales-amid-facial-recognition-fight/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/27/james-dolan-repeats-he-might-nix-msg-alcohol-sales-amid-facial-recognition-fight/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 37
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "MSG CEO threatens to stop alcohol sales over facial recognition"
     excerpt: "James Dolan, the owner of the New York Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing"
     publishedDateTime: 2023-01-27T13:12:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
 type: article
 quality: 100
-heat: 190
+heat: 180
 published: true
 
 provider:
@@ -125,15 +125,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 21
-  - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
-    excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
-    publishedDateTime: 2023-01-26T14:00:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-readies-service-to-let-cloud-customers-pool-data-safely"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
 
 secured: "ybCRfp38nDHWOFzFhzUZJsm5CDOQUSRH0IZInTezOYdD5ZM253MHLlzeNUK43rlnY038wZt73A5B/SJCNvSXJlkMuKQMxhzYqcK2LOp+Z2vELYi9uRpp5FCPHzD2rhHYusTBzx1ac/AFQDtlE0cdbh4OoYtv3bvjrY3yhrGt2xxKn+RIc0Xxcs+jTQQ1++OUaeOa2Su0t5/vFLHvHRsDwMexrrtX6gxRjoFLRkGJhWPAc3H0+4+RvNVaUpHz/vAq+g4atLsN25oYfCxO73B2XR8NRAb9GT6C0WLkzodCg7zmdR3R+2CfD311+ZsLIovsrCEY0SUvSmqCG1vzWlrTvW70pncBkXQ+FkV8avZSeZ2MgpGOhtkwEiBhH/iWrAfAH1TsGyfB0MnMXKMfmeuHIRKEqkcgeqIawIj2nDoGk7/gmjU6GW81ng+F7BQTiEu3GKnLVDbpb81ClFAnNgwT9xIjl2qMKRP3wWz/IofZdOEYegGwhT2ow1qTsGdqM8LsrH48Ngnh3N21rjYsLzbdHA==;TkRvJbLhNeZyWB7usfzUgg=="
 ---

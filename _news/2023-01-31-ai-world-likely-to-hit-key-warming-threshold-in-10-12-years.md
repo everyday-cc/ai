@@ -3,23 +3,23 @@ category: news
 title: "AI: World likely to hit key warming threshold in 10-12 years"
 excerpt: "A new study using artificial intelligence finds that the world will likely warm a few more tenths of a degrees within the next 10 to 12 years and breach a"
 publishedDateTime: 2023-01-30T21:13:00Z
-originalUrl: "https://journalnow.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_947ac2c6-86b5-52bb-89c2-e41aa781947b.html"
-webUrl: "https://journalnow.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_947ac2c6-86b5-52bb-89c2-e41aa781947b.html"
+originalUrl: "https://helenair.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_0ed6b45a-768b-5913-b941-d1444f70b99f.html"
+webUrl: "https://helenair.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_0ed6b45a-768b-5913-b941-d1444f70b99f.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Winston-Salem Journal
-  domain: journalnow.com
+  name: Independent Record
+  domain: helenair.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/4e/64e38129-3000-5cd6-af36-44d3368779d4/63d8372badd74.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/3/dd/3dd14db2-52dc-545c-b970-4425bcbedaec/63d8372a06b8f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 610
         isCached: true
 
-secured: "K6UupaSKRFgeYGHgwMtXASBZtyyqRJekjEREhunqVLFbtN9tNxAcF+8A4+yleR0JpYE5tapcPfiCQJkjKkqDMidy2ifsHLb64Q/BKJMBg6Wq/E97BWxvEYWt1dlW3DBvkEMslIxIVfiGYDQrrmZ2MNaKM0Odk4vqGq4gMRug3/upq9xkaL7WdPt8bF7YV6yMdeEyd3C5N3ECsohQzn/DXmenMjf6pDv70Z/X2pmvtdruozJotZJHjyffODn7zPMwfKNTPyQgUBc/mfEgKf7qB7Fc3mSubCDQSsQW6S6nAVefK3CCtDs+ZPH3F4EkvjPOcF5XvppEkerkv4UaUwjVnNsiX6NAuBt//RgaWDtadkU=;tpEONwb4qOQ5Y97hQIlSHw=="
+secured: "D96SU6A1lFdwJBr/iDYzPFbTW080S7HUYn7HSLiYNM3FCDJ8HY1i+c+22JKoyOcZ/FLEj97L2UbWlaZ8FN5/0+Cn/FqHuPy5LRZa63E+natqo8irnfco2sQZMD+vRcnqWA7e60ttdbW7G7MyCbcCSL3Lw/lkby3PR5as0zYF/5AGAq3FGoj4ZoBhWuiXu3879yrZoXcZsGMmRjMdLQCqbqK8Fr0flGX9vbhSbQ4QL6VULrx2F63VHZJVR7EwE6GBa6uCJ46Ea32mlhL8V5QBp94ecxQEukCVV3RoBFbLTlpkIptOJXRsEcmTEjOckcwCGSnWYSeaH7w1uQNnwpUBKcsoa1yLVpkVuCwfMxXTJlw=;91ymhRr9GjonlhAIA85ISA=="
 ---
 

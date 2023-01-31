@@ -35,6 +35,15 @@ related:
         width: 1036
         height: 1033
         isCached: true
+  - title: "How Will ChatGPT Impact the Tech Sector?"
+    excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
+    publishedDateTime: 2023-01-30T18:38:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/01/30/454787-how-will-chatgpt-impact-tech-sector.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "TNTi8Y+DsRGSNnNSAh1rfqcCCSen17cMya8jRtxtaO9KCyRevSYWkoIKyZN8mmXgBE0XN74tmaXFxwDTqmWguj1/j5qmKHyo6JU9ythw3Pm4+2GFrRZbxz5/KVRgt52qtmRn6RF+8L4+x+8MtP7dVzaO/RVV5ThkwD7wmQTjf0KNvAQetug46y1UsPs5XtGPrEM/AdTwrnKRuh/KB0W/RaRlpVY/F0mUKTkG25WaZUwn/FMa4npazA/poLD+LnFfcAnCBMOAG1UzwyQn479KKk0u4cbUyoYxud3W0EVHj99vevH9ySP1en5BUylVK85d405OQ1C+eGBmwnAAyINJtu+3ogdCpoXHfL1LBIpdfHdThF8IgDxYhiOPUSX5W3/Np4St9wIRATpEvgH6T28Ydot3etdhiLfsiHkEiGmUSFauEyoZcouLgAzAB16gItMG6t2bEyy1D2I52f2a69A6sQNymScBR2GgwyMkVf7XkfHPvK3NntDgiS7twvddTRT6KnM17fYgsP5W3DHMyFe8ew==;Ogho1w+8TgxUfaGD6vZ7zA=="
 ---

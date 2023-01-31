@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-30T22:33:00Z
 originalUrl: "https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up"
 webUrl: "https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230204_WBD001.jpg"
@@ -70,6 +71,20 @@ related:
         width: 857
         height: 600
         isCached: true
+  - title: "Mubadala Health and G42 Healthcare to showcase AI-driven solutions at Arab Health 2023"
+    excerpt: "G42 Healthcare, will be showcasing artificial intelligence (AI) driven solutions at Arab Health 2023, a healthcare event being held at the Dubai World Trade Centre. These solutions are centred ..."
+    publishedDateTime: 2023-01-28T06:40:00Z
+    webUrl: "https://yourstory.com/ys-gulf/mubadala-health-g42-healthcare-artificial-intelligence-arab-health-2023"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 46
+    images:
+      - url: "https://images.yourstory.com/cs/206/d6cc5c20076211ed91383927582c5cb0/NIKITAImageTaggingnoframesEditorialTeamMaster14-1674885477623.jpg?fm=png&auto=format"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "3 ways health systems are using AI to improve patient care"
     excerpt: "From backing artificial intelligence-based startups that can detect emotions to developing an artificial intelligence-based tool that can predict \"ICU delirium,\" here are three ways hospitals and health systems are using artificial intelligence to improve patient care: Northwell Holdings,"
     publishedDateTime: 2023-01-30T19:34:00Z
@@ -79,15 +94,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
-  - title: "Generative AI and ChatGPT – Is it the disruptor in the digital world needs?"
-    excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
-    publishedDateTime: 2023-01-26T13:14:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-in-the-digital-world-needs/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
 
 secured: "xC/uck5w1KHDMofw7T6Mr7wYht4l3wWubRVA8A82FmXhthUA1XFAaptJGEH54LEpteP3vTCTj8lFWweey1wdJPbj0iizYYCnusfJR0BM+DO3KFDcbdOcg3rUp+/6/kHvXYBBS0CRA6/OZPUi6+f/Nv7TBddZiIjTZ8bEVBSHuMHcWMWPe7dG670l0goLL6nkpPfDnumWi9gLLtj7qieG/QWkf1BoJCMNS+8Qj/ZVBknvA71eOWPlycbTcZhmkaMcyIWYIHAeS2E3ZZn99K3EzNVEajmK8GGbjuAaVliZ7+Y+2ZginYGvR03G/yCN6BOq/i1INeBPgZr+mYKwclmgRLTU2B9/M+fka1iVFTmTTzc=;FFt3UIojJ7qtW5vZzdUVvw=="
 ---

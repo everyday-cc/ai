@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT leads lawmakers to call for regulating artificial intelligence"
-    excerpt: "The rise of the chatbot ChatGPT, with its ability to generate informed, sophisticated text, is leading lawmakers to push for government intervention in the realm of artificial intelligence."
-    publishedDateTime: 2023-01-26T14:11:00Z
-    webUrl: "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 91
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
     excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
     publishedDateTime: 2023-01-29T12:00:00Z
@@ -60,22 +44,6 @@ related:
     quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d1b102cf214ea638922d82/0x0.jpg?format=jpg&crop=1391,783,x0,y29,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+"
-    excerpt: "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing."
-    publishedDateTime: 2023-01-26T20:28:00Z
-    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/"
-    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d2ef1d548d5f099c9d57eb/0x0.jpg?format=jpg&crop=2176,1224,x0,y204,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -111,22 +79,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pivot to ChatGPT? BuzzFeed preps for AI-written content while CNET fumbles"
-    excerpt: "On Thursday, an internal memo obtained by The Wall Street Journal revealed that BuzzFeed is planning to use ChatGPT-style text synthesis technology from OpenAI to create individualized quizzes and potentially other content in the future."
-    publishedDateTime: 2023-01-27T18:09:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 85
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/robert_the_writing_robot-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
     excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
     publishedDateTime: 2023-01-27T12:00:00Z
@@ -142,22 +94,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d3683734efc0e887a89c47/0x0.jpg?format=jpg&crop=907,605,x143,y0,safe&width=1200"
         width: 907
         height: 605
-        isCached: true
-  - title: "ChatGPT's soaring popularity has added $5 billion to the wealth of Nvidia's founder as Wall Street bets on AI boom for the chipmaker"
-    excerpt: "Nvidia's role as a dominant player in the chip-making space has made it an attractive bet as Wall Street looks to ride the AI trend. After starting initially with graphics chips used in video games, the company is now involved in making chips for AI ..."
-    publishedDateTime: 2023-01-30T16:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/5fb6da9232f2170011f7027f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
     excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
@@ -189,15 +125,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT Isn’t the Only Way to Use AI in Education"
-    excerpt: "In practice, each AI needs an objective function that represents what it ... that reinforces patterns of school segregation and ensuing achievement gaps. A recent research project I did in collaboration with Eric Chu, Doug Beeferman, Rebecca Eynon, and ..."
-    publishedDateTime: 2023-01-26T14:13:00Z
-    webUrl: "https://www.wired.com/story/chatgpt-artificial-intelligence-education-networks/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 66
   - title: "ChatGPT — the ultimate AI innovation"
     excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
     publishedDateTime: 2023-01-30T15:27:00Z
@@ -349,20 +276,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Lawmakers seek rules for artificial intelligence"
-    excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-01-27T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/merrimack_valley/lawmakers-seek-rules-for-artificial-intelligence/article_193cb38a-9e4d-11ed-b71d-27288044a116.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 41
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
-        isCached: true
   - title: "ChatGPT Is Just The Start: AI Is Rewriting The Data Center Real Estate Map"
     excerpt: "ChatGPT is the tip of the iceberg and growing demand for AI will dramatically change where and how data centers are built"
     publishedDateTime: 2023-01-27T01:50:00Z
@@ -432,34 +345,6 @@ related:
       - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUo3QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df02ab74e11904046dd4f09e5e30ff72304d2e69/Tech-AI-machine-learning-head-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Lawmakers seek rules for artificial intelligence"
-    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-01-30T07:01:00Z
-    webUrl: "https://www.andovertownsman.com/news/lawmakers-seek-rules-for-artificial-intelligence/article_d595f67c-87bc-5578-a109-012beb521155.html"
-    type: article
-    provider:
-      name: The Andover Townsman
-      domain: andovertownsman.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/andovertownsman.com/content/tncms/custom/image/6238155c-d1b3-11e5-af53-d325c4b1ac3c.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Mass. lawmakers seek rules for artificial intelligence"
-    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-01-30T08:00:00Z
-    webUrl: "https://www.dailyitem.com/news/mass-lawmakers-seek-rules-for-artificial-intelligence/article_ba75c1e8-4c1b-542a-8dc9-ede9a5c60463.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
   - title: "Google AI model to generate music from text could be bigger than ChatGPT"
     excerpt: "It’s called MusicLM, and according to AI scientist Keunwoo Choi ... To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text ..."
@@ -554,15 +439,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "ChatGPT AI bot passes law exams"
-    excerpt: "An AI chatbot powered by data harvested from the internet has passed exams at a US law school after automatically generating essays to an acceptable academic standard on topics ranging from constitutional law to taxation."
-    publishedDateTime: 2023-01-26T14:09:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/01/chatgpt-ai-bot-passes-law-exams/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
   - title: "How Google’s Sparrow AI Tool Is Looking To Kill ChatGPT"
     excerpt: "The new generation of language models used in Google's AI tool Sparrow is designed to provide improvements to all the"
     publishedDateTime: 2023-01-30T12:00:00Z
@@ -581,24 +457,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 17
-  - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
-    excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
-    publishedDateTime: 2023-01-27T19:36:00Z
-    webUrl: "https://www.thenewstribune.com/news/local/education/article271689532.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 12
-  - title: "US Politician Has ChatGPT Write His Speech"
-    excerpt: "It can also be used for language translation by fine-tuning the model ... RELATED: Pokimane Shares Her Thoughts on AI Streamers On January 25th, Congressman Jake Auchincloss delivered a short ..."
-    publishedDateTime: 2023-01-26T14:51:00Z
-    webUrl: "https://gamerant.com/us-politician-chatgpt-write-speech/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 4
   - title: "ChatGPT Privacy Threat is Real and We are Late"
     excerpt: "Working with neural networks is such that it is almost impossible to set standards on how AI systems should be made and tested"
     publishedDateTime: 2023-01-30T12:20:00Z
@@ -616,15 +474,6 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 4
-  - title: "How Will ChatGPT Impact the Tech Sector?"
-    excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
-    publishedDateTime: 2023-01-30T18:38:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2023/01/30/454787-how-will-chatgpt-impact-tech-sector.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 4
 
 secured: "oiDFAvW7yhbzAqHOXtdADbBsF8x6iRIue9nm4OgZYiG+s2c3xKN0+Mnejsx4XFDLZKogjk4zw44PguUAVjWFhJbBuDmuIBxDmhdGAeOIA8t0hPCKFXfd9Thkj6wcOARqAi8JT3OvrnsVyn6uN4WqZSptDHQFPz9h+nUFLsgG+LdnvTR/MrTEtox8M/1SuV9mtLx+Oyq+Ur10dhA9KzV0PUEjYU8PO3F7d2pQKyFCzDPZVJ10QuLTRRCQCao+3hGb9fnnU3BJiBZ2ASEkJImwqsuXRlvAalSrJnv6wLZB4t9e4Y3mC9+PxAiPASK+YRje8Jyb/CdDSu/n9lAPwsDablAVVSCSHi2IogvxACbYteihTIz1AveAjx0BQj6q2t6Cy0iRiCW0laAR08D67RZZwDcO9b6hL0SyJpdar0ITgYB3vAeOo/S2hj1IS0z1kadNJ+U09oopHLPqgkLjgQW8Pgt7Kikf6P7IULL/jf4yKc6wEhnVTqexco+0POb0Q0mMqx0jQyfMaXRHHWWv0//NHg==;GfXpuFYA047QN6oGvgAA6w=="

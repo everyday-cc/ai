@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+"
+    excerpt: "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing."
+    publishedDateTime: 2023-01-26T20:28:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d2ef1d548d5f099c9d57eb/0x0.jpg?format=jpg&crop=2176,1224,x0,y204,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pivot to ChatGPT? BuzzFeed preps for AI-written content while CNET fumbles"
+    excerpt: "On Thursday, an internal memo obtained by The Wall Street Journal revealed that BuzzFeed is planning to use ChatGPT-style text synthesis technology from OpenAI to create individualized quizzes and potentially other content in the future."
+    publishedDateTime: 2023-01-27T18:09:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/robert_the_writing_robot-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI Will Start Writing BuzzFeed's Notorious Personalized Quizzes"
     excerpt: "The company said it wouldn’t use AI for news journalism, but CEO Jonah Peretti talked up AI as a shift 'toward longer term trends.'"
     publishedDateTime: 2023-01-26T21:40:00Z
@@ -117,35 +149,33 @@ related:
         isCached: true
   - title: "BuzzFeed to use artificial intelligence for content"
     excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    publishedDateTime: 2023-01-30T19:48:00Z
+    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
     type: article
     provider:
-      name: fox13now
-      domain: fox13now.com
+      name: WTKR
+      domain: wtkr.com
     quality: 57
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "BuzzFeed CEO says AI may revolutionize media, fears possible 'dystopian' path"
-    excerpt: "Over the holidays while most media executives were perhaps looking to get away from work, BuzzFeed's CEO was online, immersed in experimenting with artificial intelligence."
-    publishedDateTime: 2023-01-27T02:10:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/buzzfeed-ceo-says-ai-could-revolutionize-media-fears-possible-dystopian-path/"
+  - title: "BuzzFeed announces plans to use AI for content creation"
+    excerpt: "BuzzFeed announced Thursday that it would begin using artificial intelligence to help generate its content. The company will partner with OpenAI to start producing \"AI inspired content,\" according to CNN Business,"
+    publishedDateTime: 2023-01-26T23:22:00Z
+    webUrl: "https://justthenews.com/nation/technology/buzzfeed-announces-plans-use-ai-content-creation"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
+      name: justthenews
+      domain: justthenews.com
+    quality: 39
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2020/11/19/8df9dbcc-6bd3-4949-98bb-acec75321acc/thumbnail/1200x630g8/72e7059bdd593ff3bdc845eb0f73ba0d/gettyimages-169671245.jpg"
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-02/GettyImages-1071861718.jpg?h=199d8c1f&itok=CCgW1Cd3"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
   - title: "BuzzFeed stock rises 150% as company plans to use AI to create content"
     excerpt: "Buzzfeed is planning to heavily lean on AI-generated content, CEO Jonah Peretti said in a memo to staff on Thursday."

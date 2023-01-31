@@ -126,15 +126,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 21
-  - title: "Microsoft Readies Service to Let Cloud Customers Pool Data Safely"
-    excerpt: "As Microsoft weaves more artificial intelligence into its Azure cloud services and applications, it is also working on security and privacy software to assure customers their information doesn’t fall into the wrong hands when stored on cloud servers shared by multiple customers."
-    publishedDateTime: 2023-01-26T14:00:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-readies-service-to-let-cloud-customers-pool-data-safely"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
 
 secured: "vTr/Pm5B4ndQA7QyKfXoaDHecsYFDvNud7tXchg3BCYaK0qDYaTIkyuvTDMgxttewT56Ls4P9npTJJ5vZRnf/lAEwUjrPHxruKFIwjAg0qpDC6OcqLke1KYXsfIv8LL4sb810gm24/E6oG2QmDChNPLdEAzDzgqTnDHk85nOfQAW47kmBC9KO/ve5T0tni/Ou3tdZPMPMJYq+bjQCrxbL1CQqi59GRJypuj6A9epICH76VpLb2SK/VGXjx6WuGR+XQS32gIu8vxug5Omco7C8iKmWb+1KcPjiDgv7eZZrbPbwS7P1gh2J5CMOk5ulqXJ1xgXsgx0PC/wW9AjuXbXcbhCp74uzXf0vvnjZ/LluEt3OagJrn8sZEwQyA5Lal0RcSIbt3Fy2MufdSvjfqSCEhhVln7vzczc6DpdRmVGHZymgnaFzdhGCbEULToCMAPTxeogSpDQolHpzyR8CkLB9xYcgWtNB69ArkiE546k3FGP1EOE97GBBepTk/jylPYF6B2G6iHkIbXS03rfkoI+iA==;tjgI7OEauvOsWn+gNElPEg=="
 ---

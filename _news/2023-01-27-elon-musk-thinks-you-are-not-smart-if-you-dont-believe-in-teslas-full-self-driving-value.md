@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk is reportedly being investigated by the SEC — again"
+    excerpt: "The Securities and Exchange Commission (SEC) is investigating Elon Musk over any involvement he had in Tesla's marketing of its self-driving software, according to a recent report from Bloomberg."
+    publishedDateTime: 2023-01-27T00:01:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/63d43682fc18470019552b01?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "US investigates self-driving claims made by Elon Musk for Tesla: Report"
     excerpt: "The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk. The SEC probe is to determine if the electric car-maker flouted its rules in promoting its full-self driving (FSD) and Autopilot software,"
     publishedDateTime: 2023-01-29T06:17:00Z

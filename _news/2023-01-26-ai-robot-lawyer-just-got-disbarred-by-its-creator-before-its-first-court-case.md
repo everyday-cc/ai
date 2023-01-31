@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered \"robot\" lawyer won't argue in court after jail threats"
-    excerpt: "A \"robot\" lawyer powered by artificial intelligence was set to be the first of its kind to help a defendant fight a traffic ticket in court next month. But the experiment has been scrapped after ..."
-    publishedDateTime: 2023-01-26T13:08:00Z
-    webUrl: "https://www.cbsnews.com/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 74
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A robot was scheduled to argue in court, then came the jail threats"
     excerpt: "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down."
     publishedDateTime: 2023-01-27T00:30:00Z
@@ -88,24 +72,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 34
-  - title: "Robot Lawyer Barred From Fighting Traffic Ticket in Court"
-    excerpt: "Human lawyers have prevented an artificial intelligence-equipped robot from appearing in court, where it was scheduled to fight a defendant’s speeding ticket. The “robot lawyer” is the latest creation from DoNotPay, a New York startup known for its ..."
-    publishedDateTime: 2023-01-27T13:04:00Z
-    webUrl: "https://www.extremetech.com/computing/342647-robot-lawyer-barred-from-fighting-traffic-ticket-in-court"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
-  - title: "Tech CEO nixes AI lawyer stunt after being threatened with jail time"
-    excerpt: "Browder runs a consumer rights startup that was originally built to help people appeal parking tickets more easily, and has since grown with the aim of building \"the world's first robot lawyer.\" He wanted to show AI could replace expensive human lawyers,"
-    publishedDateTime: 2023-01-30T11:39:00Z
-    webUrl: "https://www.theregister.com/2023/01/30/ai_in_brief/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 19
 
 secured: "/Tkal1QwI3jNCLOB+dPFVh3Fu7uFGBrDv0je0Afnl4HrljxusSEjSnxDgqibF3B0pSSns6N35C4c584oJX6qvzmUdxBa3CJCDJ5I9NaqEgINSfQ/rVPH8CzjGMMNadCSZhcIlPcOw1cALHnNEPOJaMJPa1aSFaABbjVSuuEJTW+SuunyiSGXq3LJI/oKvfoAf3Y2Qa/SgxQHtIXYF4fZ7CpkvplPQuaokMn2GWHomBMO+WzsRBcRS28+qX2rKUokrkJUnDZYUHYQH6NZ+w7ld5rpCSHitbiqollbG81BEUmSuztN/eLJ/xQylxs4j29Gl/x/6xVTrecRLI6psJdZB+5vakliBcJHqhZp1weelukvs6Lnum1SvVTTl66qp9J1qLdCOSDaih6NrtOtdiTj4CN1eClgD+cu2YpKkS4blfYGDE3We2Fk2B0qmuHDJY+dOJjYV1c+T7hYM4xZpi8SYYiDSvDr4a6+5w/NqLmbzs1qsKDgzdHHYwsuPvha5N3moOeUnO2572+tCnl7DzZxHQ==;+T8tIfjlpMa3U+ep1uYtlw=="
 ---

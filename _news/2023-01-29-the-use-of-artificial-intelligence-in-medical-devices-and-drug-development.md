@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-28T19:19:00Z
 originalUrl: "https://seekingalpha.com/news/3929184-the-growing-use-of-artificial-intelligence-in-medical-devices-diagnostics-drug-development"
 webUrl: "https://seekingalpha.com/news/3929184-the-growing-use-of-artificial-intelligence-in-medical-devices-diagnostics-drug-development"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365534802/image_1365534802.jpg?io=getty-c-w750"

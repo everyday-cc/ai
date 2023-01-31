@@ -32,14 +32,14 @@ related:
   - title: "AI: World likely to hit key warming threshold in 10-12 years"
     excerpt: "A new study using artificial intelligence finds that the world will likely warm a few more tenths of a degrees within the next 10 to 12 years and breach a"
     publishedDateTime: 2023-01-30T21:13:00Z
-    webUrl: "https://journalnow.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_947ac2c6-86b5-52bb-89c2-e41aa781947b.html"
+    webUrl: "https://helenair.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_0ed6b45a-768b-5913-b941-d1444f70b99f.html"
     type: article
     provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
+      name: Independent Record
+      domain: helenair.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/4e/64e38129-3000-5cd6-af36-44d3368779d4/63d8372badd74.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/3/dd/3dd14db2-52dc-545c-b970-4425bcbedaec/63d8372a06b8f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
