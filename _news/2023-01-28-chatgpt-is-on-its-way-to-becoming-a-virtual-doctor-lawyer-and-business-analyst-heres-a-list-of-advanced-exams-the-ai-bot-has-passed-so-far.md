@@ -497,6 +497,20 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 34
+  - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
+    excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
+    publishedDateTime: 2023-01-30T14:07:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 34
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/404/2022/10/Matthew-Wetherington-01-767x633-2.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "More than artificial intelligence: How ChatGPT learns conversation skills from humans"
     excerpt: "The conversational robot capable of producing impressive texts upon request has had spectacular success. 'Le Monde' delves into what goes into making such a powerful chatbot."
     publishedDateTime: 2023-01-28T03:40:00Z
@@ -510,20 +524,6 @@ related:
       - url: "https://img.lemde.fr/2022/12/17/103/0/2244/1122/1440/720/60/0/a5617ca_1671320365088-chatgpt-humaine-dark.jpg"
         width: 1440
         height: 720
-        isCached: true
-  - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
-    excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
-    publishedDateTime: 2023-01-30T14:07:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 32
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/404/2022/10/Matthew-Wetherington-01-767x633-2.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "ChatGPT rivals Anthropic AI and Character AI reportedly chasing megabuck funding rounds"
     excerpt: "Artificial intelligence startups Anthropic AI and Character Technologies Inc. are reportedly closing on blockbuster funding rounds backed by a number of high-profile venture capital firms, according to reports this weekend."

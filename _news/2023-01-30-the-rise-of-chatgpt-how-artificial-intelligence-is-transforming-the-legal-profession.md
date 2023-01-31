@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-30T14:07:00Z
 originalUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
 webUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/404/2022/10/Matthew-Wetherington-01-767x633-2.jpg"
@@ -623,6 +624,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "tWXJmZI181/0VvUi2vJmLodXFUTDK9LPZCof3bslNygxF+E9vqiTKF7syAH5w/7UJ+RgWLwpozCLNaYOUb8v5SqiAdrQ4Wm9kDeLAFHkst+EM8YGba08Srelp9EvZXz/VCQx+LulsJt0X0JJIUveSLuvOw/CeHd0QAOfaMQGzNklOdXFU8pw9DGBPBYSwYYozvSGu8xcnGRIyLwSWoi+21b6025h7M+UF/ZffCrb7KSsmxzmoo1G/+rUtnfHASjbMHBEicq/8GXRH68MhpBzghRbvkjNrR7pNmT/tw2+UI346eIEFt7pPIvfGGRPm2NEJnLBEkqo56kj+m6Yta2a9yDZqFQ0sYu20KJzMcIslQw=;ruwhhVs6+euh+MEfEltY9g=="
+secured: "BXMK1NMws+9zg4Yh3G0i4D+siKbxSbvjvGbQTN7Bncc9dlcMYEM8CrsKD6lEejS2QiRDXy0NIM82/Hxafh8lbzQif/a2LzrDhJttQJELvYY2m7EQGZJbOasI8fSrh6Z2TezKk72ahdptoJbMaNIzFAGqWWsulVK6b435PAV+XXSWEczmNGOKm8kWyo4xgUDkgPTJHd8hzyaIngtIORz6sWkAW84mOy9LEeJRs0X7cveIYz2+swMQgJ9QLbfBhpvnZ7HqFg+n5imrZnjd847SswVxZDGvbp4vJ2bc7MCj0cXQVVntVq581FDEaBIIrO45zVNxhQUhlg6YnN4HqOcC/kQNzPUr5M0PLVJhkG46CIhWHOSBoO21OA3zrk0iAcLBYuUsZN+GLiNOX5XOz+nmJ17sYKnLxqmFLz3fvFIdDi/wFncbkWKFlZXyfDHMkfp9s3ZeE/0EjCUyKF1M2WA84HbZUK6vyziGXgpcyN639kJXjR5FWMBSVuLBJI/rp7ZgJYCTnMK/Ae1towROjhS5Ww==;R5M6iY2BNqhc8R9seAdX+A=="
 ---
 

@@ -83,22 +83,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The future of Fintech in 2023"
-    excerpt: "With a rate of 87%, India is far ahead of the global average of 64% in the FinTech adoption race. By 2030, it is anticipated that the promising Indian FinTech market will generate $200"
-    publishedDateTime: 2023-01-26T09:57:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "FinTech Bolt ‘cuts 10%’ of workforce"
     excerpt: "One-click checkout FinTech Bolt is reportedly cutting 50 roles, around 10 per cent of its workforce. <br /> <br /> US business publication The Information reports that the company has now culled more than half of its headcount since May 2022,"
     publishedDateTime: 2023-01-26T11:35:00Z

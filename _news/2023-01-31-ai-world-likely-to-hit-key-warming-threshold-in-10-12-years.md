@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AI: World likely to hit key warming threshold in 10-12 years"
-excerpt: "The world will likely breach the internationally agreed-upon climate change threshold in about a decade, and keep heating to break through a next warming limit around mid-century even with big"
-publishedDateTime: 2023-01-30T19:07:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
-webUrl: "https://thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/amp/"
+excerpt: "The artificial intelligence-based study found it unlikely that temperature increase could be held below 2 degrees Celsius, even with tough emissions cuts. And that’s where the AI really differs with scientists who had been forecasting using computer ..."
+publishedDateTime: 2023-01-30T23:09:00Z
+originalUrl: "https://www.courthousenews.com/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
+webUrl: "https://www.courthousenews.com/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Courthouse News Service
+  domain: courthousenews.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/01/efe1b26ae3bf49f481160000646e49a2.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://www.courthousenews.com/wp-content/uploads/2023/01/demonstrators-un-climate-summit-egypt-scaled.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 610
         isCached: true
 
-secured: "AGUa3bfsWwPHRgo3fiT5ocsIQCfHIHqOTETnKRT0yf9UBmwcu4vYxdfP3bo7jkSPetU1FD/8LP4fY+Xf+nzwMHi6IAgvx+a7swdm6ryxFbQkY6nSB3J/5IjqFHZveqazTgz192VN0tqXz1p7DgbWLSrw/6MITOlzVNf/cRy0CklCQRfkt+Ay1Af/qTO4bygCXySEROIPybFb2xClx6aQJcRBO5P2qqbkLqshKMKDa+RlpLcJHx/yyscmPTGz4wXJ9+Ylr3xbpk003jmHiCxpJ3anlEE1lQ/5BPsCY7BcGrQRwQYw5t0SxHyA0gAZU7BRM+nje6Uj1SKaBpDXXsy8CL8DBoQKetdgohGlbSKGlgo=;e3dlQ0RUxWo54kRJGeH92A=="
+secured: "1Fp5yQj22ePyORoC79C3EE9avhuJz34HiO8fxo21WMeaIZdDieWLxHxr8o4dI3ng0FgJ5UngE4jtM9Xr3RsAM0IP1Rb8Efxq9zacarXep0+u44tCvlbXbXwHH+E6JP9eNbSNCzK2MxfFsMCWVVxqXHMn3cpl0RUb27vwzM5/E4u1ODYYhq9fA94gjvYzWa0XeWHZuoWeeW6o40oOtnSVWlq1PdrHZxrw/3qmxagokFhiZp9RWIHs9Gph0ufv4GgM9rfFBspvsQvq1o5yh6udcb/I728h6PC0da9D6UKxeMd8D/a9xntK3M0yMQhVBCmEUikz8AtEmLutiWo+7jIlDohUWZbKG55RY2xvT8sioSs=;tYJnKj0HFuxMCx3gYFnVLQ=="
 ---
 

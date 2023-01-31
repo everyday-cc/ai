@@ -7,7 +7,7 @@ originalUrl: "https://jp.reuters.com/article/alphabet-deepmind-idCAKBN2U31OP"
 webUrl: "https://jp.reuters.com/article/alphabet-deepmind-idCAKBN2U31OP"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Google lay off more employees as DeepMind closes its office in Canada"
-    excerpt: "The parent company of Google is Alphabet and it has other brands just like Google. One of its brands is DeepMind, an AI tech company. According to reports, DeepMind will close its office in ..."
-    publishedDateTime: 2023-01-26T09:49:00Z
-    webUrl: "https://www.gizchina.com/2023/01/26/google-layoff-more-employees-as-deepmind-closes-office-in-canada/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 19
 
 secured: "hoayPMv3UTaxPU0i1ip6OT9gZQd8mpF3/u7Xl6g9mMMLtqkav0D1iRYIikwQ87z7AfMGJ+jN4JjmREiZpyE8kdL2bIKsDD7sQE//vm7pH2IUk4FXZpBh8lWuSejNXjnuS/0oPGTszQDryfejWxso0d5YOkqq/prKP3kbSbWt4+CNN8Mk1h1Hme/+Mjg8H/pEoIef1LIRgfndGK4/TaOuVSE4Xxrv5xFO5o+wammmTtqNTBI+WvNTE9zzzGEje6UKWjJfyiBqw0xK+SRHArTLO6uEhxkDCLv5o6KDFcRFrOonhKopkvRdiedANJ8hCjhl9CK8PNSkn/VnGWFc6a8SIbeYDado0QD+JAX6B9nKF+4=;hCyTNZtGdMDv12OZUM0xCA=="
 ---

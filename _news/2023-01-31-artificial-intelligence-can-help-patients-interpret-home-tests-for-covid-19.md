@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-patie
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-artificial-intelligence-patients-home-covid-.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "Artificial intelligence can help patients interpret home tests for COVID-19"
+    excerpt: "George Mason University researchers found that computerized symptom screenings can supplement at-home COVID-19 tests to better confirm the diagnosis for patients and clinicians. They are now creating a website to deliver an AI-based resource to assist individuals in identifying recommended actions as a result of their clinical profile and COVID at-home test results."
+    publishedDateTime: 2023-01-29T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/978153"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "IiUv5PCaF/DgYoTEffrfSa41DcOAwunzbyH7vMHklOS4gpi2nglCKyKsdU/tSIR0O7G1ErJ5iYwkAkiF3SdFhPMEMW/JQj6x9LNWKErnS/CjetcBOdJ6EroeIkMPf1jnh7fbSx0yqJTkahytAVmwzvSLHxxudSMwlYPN27k9u9hTHeleidvKJr1mDnfLuIAFCxorOCLfHBRkqm8KfD1o4lDZa49DWmJ7q19+x7OQdz2ZRTCQBF/cYQaUL6uuq3uMI0Mv2cpeVhnLEc54FA1WNaW/ydrY7DcZ+yh+pTxODmEeHWdcvvr0/RoPFi1wP7wFNcQX6hA6I0V03+XuIolrjbbhU5Nc0JGmGZLr5SHoznCB7XcuF0c9v2MlfC69ip/ABnE/MO3c7fi5Op5WipETGZ7fhoRrf1iFLod8niTh6uUk7RjM9cPKZdXX7tXyBsClFG4+2Jt0iADLS6qk7TvU1kZHsndYmWNTvsjnkvSUywaFJWiqXJkyPWbdpngv90Ts9MlIhXM1a/bZSzgdx0119Q==;bg2y23fHkze7eDQ/1ACQ/Q=="
 ---

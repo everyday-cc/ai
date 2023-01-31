@@ -7,7 +7,7 @@ originalUrl: "https://www.aei.org/op-eds/generative-ai-no-humbug/"
 webUrl: "https://www.aei.org/op-eds/generative-ai-no-humbug/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Unlock The Potential Of Generative AI: A Guide For Tech Leaders"
-    excerpt: "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency."
-    publishedDateTime: 2023-01-26T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "biNsQayPALsBc2G0YnwPavDBIg5JLf27w9t1BDNPJTdIvaGUKsMS85z7AeiDuOdWVwDLUzqunznLrpNFSyQB2Qou5C4usVCOLbohcGOHrEPl7c5Fgea/KzJfYsqRn+GjE2KJvFThyra0V5WYFR0gHEfpAotE+Kq797rBjKJG0eoEfr39qHozkqP/k/tUmVqlYDokkuo9hbDC3nzQvtlt+BNzlivkYc0sUROhjWq7uKr7PUZzXNT7Ega+gYwMnWesacafW0xwCi+bYzvFnOQF+jgAN1VAIxStovonSO/dHp6adPimbIzbrlIhxrbc42abLsfY+E0z7Mk+q+m7NQX5TQR8n7Jhgcr5DqhuOI46ESU=;b2aE2AeI2XzfNntaScwtLg=="
 ---

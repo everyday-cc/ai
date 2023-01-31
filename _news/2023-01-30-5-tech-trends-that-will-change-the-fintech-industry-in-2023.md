@@ -79,22 +79,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The future of Fintech in 2023"
-    excerpt: "With a rate of 87%, India is far ahead of the global average of 64% in the FinTech adoption race. By 2030, it is anticipated that the promising Indian FinTech market will generate $200"
-    publishedDateTime: 2023-01-26T09:57:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-in-2023/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "Lloyds Bank invests in car payment FinTech"
     excerpt: "Lloyds Banking group has invested £4 million in “all-in-one” motoring app Caura. According to the FinTech, many of the 30 million drivers in the UK use between eight and 10 apps and websites to manage their vehicles."
     publishedDateTime: 2023-01-26T12:02:00Z

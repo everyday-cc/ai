@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-29T05:24:00Z
 originalUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
@@ -71,6 +73,6 @@ related:
         height: 416
         isCached: true
 
-secured: "fMWy4T3IjEnVJsch7db9h20AXar8enEne2z4pYwKeaT9MY4toWGjmnb+izd0+25FZEHY1Md3slUoUHh8U5FHfdhAOlWt2R5eciM3VCVgBubI1k1vzdqveRyKAn8nu4OAJrzeMGXPkIeS1uKViCwHsNGjoT0SVW59kjTBWKwuYZfNZPn96DaXsLyjbVqIbb6rrWwPXuzVDROy7PCS+oIyE7SzrL8vmYPQI9B2E+gmCdNCH1AAeK3DT5TiYcxwwm0d8zt5CaVHfYwaqZRpjSgCjPytt2Xe6Eafqp0PYbru+5+TqtELTtNLUeQnRmM/B/2gMYnHwtPA/+J3bUv+cENluFei/+pIuEEUbrTkjy8ZUmo=;TfppGzIoDJfDyfMOhoqwJw=="
+secured: "0WGGIcATYVVU5KB/FcGp2GLJDY9phtd6LonyzA8Xa8D8GdFLeytASg8fdQpM2CbzfJ+6DymTHwWOcWrWxokmGs7aNoH5R8NpU/OHF/pLr6ztD9JJ5gRlFBT0U+y12PGNALr6DazbO+ByYE+ah5BQ2aiddVDQ81fwq/gF94c9tgCdSWzLTJh5qMtardDjKlue17hsUBszd4ozyuRlsMIrKNzB3sOIAjRw/78e4HfRu4hrmv2X97oMz7JRBhf77QPD1VFwqfdUDDwlQIa3rIJ6k0pHIXWpqFsc6YuX4eLX/v8mYGi3mOn0n6Gpkj7Y7D5cCZsTFfOTwfRLzKArHslsqfSTrS6tpU6edjCJDXO49fU=;t2sgaJr7/nhiqnDN0cSd+w=="
 ---
 

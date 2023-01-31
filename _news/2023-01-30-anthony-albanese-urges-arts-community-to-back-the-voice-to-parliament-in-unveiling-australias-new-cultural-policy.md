@@ -44,15 +44,6 @@ related:
         height: 558
         isCached: true
   - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
-    excerpt: "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage."
-    publishedDateTime: 2023-01-26T10:15:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/explainer-what-is-an-australian-black-voice-to-17742818.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 19
-  - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
     excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
     publishedDateTime: 2023-01-27T19:15:00Z
     webUrl: "https://www.sacbee.com/news/nation-world/world/article271671057.html"

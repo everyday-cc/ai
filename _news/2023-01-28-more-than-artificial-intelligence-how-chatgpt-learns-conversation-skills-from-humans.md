@@ -516,7 +516,7 @@ related:
     provider:
       name: Law
       domain: law.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://images.law.com/contrib/content/uploads/sites/404/2022/10/Matthew-Wetherington-01-767x633-2.jpg"
         width: 767

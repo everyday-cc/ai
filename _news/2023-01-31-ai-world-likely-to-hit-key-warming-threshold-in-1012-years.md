@@ -30,20 +30,18 @@ images:
 
 related:
   - title: "AI: World likely to hit key warming threshold in 10-12 years"
-    excerpt: "The world will likely breach the internationally agreed-upon climate change threshold in about a decade, and keep heating to break through a next warming limit around mid-century even with big"
-    publishedDateTime: 2023-01-30T19:07:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-international/ap-ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/amp/"
+    excerpt: "The artificial intelligence-based study found it unlikely that temperature increase could be held below 2 degrees Celsius, even with tough emissions cuts. And that’s where the AI really differs with scientists who had been forecasting using computer ..."
+    publishedDateTime: 2023-01-30T23:09:00Z
+    webUrl: "https://www.courthousenews.com/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/01/efe1b26ae3bf49f481160000646e49a2.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://www.courthousenews.com/wp-content/uploads/2023/01/demonstrators-un-climate-summit-egypt-scaled.jpg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "B+sr0krOFrtqCH70V5yF8EEi/oBXy4N/7yvWyRlPpbCQtLJBN4VYm95V7eu/NCDiOUWmzjS/iznSfvbGY+eNBD/xdSUc3cl3c9YcH4opZxf6PZABFOpQrD7gUY+yGYmtaLfPngjdsr4h5WkrMAtvQa6NM6TxDKHO9DiCKpnLvoESc803dhQ946Wsq50vgRhmKB5e/tJ17vB+Lj2KJgcwZ5GqB7tFdGbMGGRxJH/vPOS22jYOEF1FkYSidIZlcBKJWR1nijCZM9xoIivrjEM/sFz4cl9PSGsb3Q1V66orM47jCnADqahkaZHS7zXZk1sjqzuhOGbo66JLLnI1zOJLy3MK5WsYegE0U2rTu1p+1TMXbalAwQ4ByI9xb5FoNp5V72cKHYfR+zchvxXDxjkC50YMmu6xPwrCfTudGQ4/u+URzbqlBL+IaryUybWBZEA4Hg58+UC/Q0He/+f9HLtrwwlCD1V76Aa2mmTEtFrVTakvz8q5ks08cOBJIY/hBYHC5O9YyRfHE9xiW5i7IA3EMg==;b2eL7W1Zv86Qii8xCy6gyg=="

@@ -40,6 +40,20 @@ related:
         width: 685
         height: 594
         isCached: true
+  - title: "Will machine learning help us find extraterrestrial life?"
+    excerpt: "Research published in Nature Astronomy and led by an undergraduate student at the University of Toronto, Peter Ma, along with researchers from the SETI Institute, Breakthrough Listen and scientific research institutions around the world,"
+    publishedDateTime: 2023-01-29T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/978138"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b325cf59-d370-48ea-ad01-ab850fcb26fd/Rendition/low-res/Content/Public"
+        width: 700
+        height: 328
+        isCached: true
 
 secured: "6egeK6LMk67Az0GOlbJE0XGc0OOPYKY/x1dMvumYjKh2ddr5Qx8vpM/nvVMBvsgbByKYEP1CQjcieWUVsLVxJFFk4MvYFSorde29aIZ0SyyZ/+6Y/kPuZyDkjPXi2WED6YNpl7xoaQUFg3kAyzXshmHEKgHWoeUDWxp7m1vu/PlwefkNj63wF3WeGTZu78D+WyyUqSkBX4nzrICRBdqGAm3UeEib3TsIjy+r6mX3cbrtBhXrkvIDnvZSc8f7MiXOLz/2dkOol3Z76tUa5+2WiY/bvCsh0+vk/VUoJZZJzkN6QCfhLG1u/T4+qi3nDSS7cjx+lhps2WJ0Jn8QbEGRzwcqVh9YWIyDd75mINxFnmaXslTbOSPfV8OHxecztngyaCRiTLbd7oslzdIB058Weram112suUKddUzvpCsoCwfjS+s32+WjQclhMqoRSv/SSYUpTjBhAeYTrV4GqWwSr5jlSwtecwPfcovOefQXt4QUq+p/5XDGchRqpLAWlhRSyIN1syjg4FzGfNM8XdWJFA==;Nod0CaAsuFTCuL5x6f66eQ=="
 ---

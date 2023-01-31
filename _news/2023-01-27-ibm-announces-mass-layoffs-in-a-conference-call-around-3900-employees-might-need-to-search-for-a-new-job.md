@@ -43,36 +43,6 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "IBM to lay off employees amid tech jobs bloodbath"
-    excerpt: "The retrenchments impact workers remaining after the Kyndryl and Watson Health spinoffs, and will cost $300 million."
-    publishedDateTime: 2023-01-26T09:27:00Z
-    webUrl: "https://www.itweb.co.za/content/lwrKxv3Y3x2Mmg1o"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3Y3x2Mmg1o"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/01/Arvind-Krishna-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "IBM and SAP to cut thousands of jobs in latest tech sector layoffs"
-    excerpt: "IBM on Wednesday announced 3,900 layoffs as part of some asset divestments. Chief financial officer James Kavanaugh told Reuters that the company was still \"committed to hiring for client-facing research and development\"."
-    publishedDateTime: 2023-01-26T09:44:00Z
-    webUrl: "https://www.breakingnews.ie/business/ibm-and-sap-to-cut-thousands-of-jobs-in-latest-tech-sector-layoffs-1424153.html"
-    type: article
-    provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 24
-    images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDFcXFwvMjYwOTQyNTJcXFwvR2V0dHlJbWFnZXMtMTEzMjI3NzcwNy1lMTY3NDcyNjI0NDExNC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY5YWExOGMyMGM0ZjU2MjU3NzkzYmRhMDc5NGMxY2M2NTdlZGM2ZjQifQ==/ibm-and-sap-to-cut-thousands-of-jobs-in-latest-tech-sector-layoffs.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "xTmjWlSuyUyGocBL3IOE+7X5bm/lB/ydDAfJEbhJmbwYdU7igFMNXt+6Tg2EQN06ze/lGBvfajgqzpxb+f6WAQ7ieqDHTQPVdpNa5+rc3o+KVxuXOVZVD2xWxOWrQJ5We7amUMKYIap3NRVhB7//lx+GhxIrPXt9KaR9+HAG89opjdQPm/4ByO5FMnIJ/ZGur/8ECmec5omCYo+CLYN/mZpbwCV6cf5XGabIIpzxck9cohIP2d7TPvSXJvaoNoRWR9I474H2pUvc1aSyvj7gEjPA+tIE/4gjEmiNJFJBErCA7JeBJ2u0UeukEPRJRADHNJyG71iqz15i4w812Emi51JJA8IEEdEAvz2pfUh0nv0=;c0W2++LcM79Ij+pNZHqzKA=="
 ---
