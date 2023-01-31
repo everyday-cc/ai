@@ -8,7 +8,7 @@ webUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intellige
 ampWebUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/robert_the_writing_robot-800x450.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "AI Will Start Writing BuzzFeed's Notorious Personalized Quizzes"
-    excerpt: "The company said it wouldn’t use AI for news journalism, but CEO Jonah Peretti talked up AI as a shift 'toward longer term trends.'"
-    publishedDateTime: 2023-01-26T21:40:00Z
-    webUrl: "https://gizmodo.com/ai-buzzfeed-chatgpt-quiz-1850036965"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8fea373d749715dfcbe4768a647f0955.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "BuzzFeed and AI Are a Match Made in Fad City"
     excerpt: "Shares of struggling digital-media company BuzzFeed Inc. soared as much as 200% on Thursday after saying “AI inspired content” will become “part of our core business” this year. It apparently mattered little to investors that the type of content BuzzFeed has in mind includes its signature quizzes (“Try to Identify 8/8 of these Famous Rodents If You Can” or “If You Paid Attention In Third Grade,"
@@ -134,22 +120,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Buzzfeed to use AI to ‘enhance’ its content and quizzes – report"
-    excerpt: "Platform will also use technology from ChatGPT’s artificial intelligence firm, Open AI, to ‘inform’ brainstorming"
-    publishedDateTime: 2023-01-26T23:00:00Z
-    webUrl: "https://www.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/9352f7730f1c3ab91cc27df2854ad20698a7dddf/0_110_3788_2274/master/3788.jpg?width=620&quality=85&auto=format&fit=max&s=11ee807c6e31642595ed78067ca874a7"
-        width: 620
-        height: 372
-        isCached: true
   - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
     excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
     publishedDateTime: 2023-01-30T19:36:00Z
@@ -159,6 +129,15 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 20
+  - title: "The Telegraph: BuzzFeed replaces 180 fired journalists with ChatGPT neural network"
+    excerpt: "However, in the future, Peretti intends to entrust the neural network to create full-fledged editorial materials ... According to Business Insider, BuzzFeed's stock rose over 200% in 24 hours as artificial intelligence was involved in the writing of ..."
+    publishedDateTime: 2023-01-31T15:17:00Z
+    webUrl: "https://news.am/eng/news/742221.html"
+    type: article
+    provider:
+      name: News
+      domain: news.am
+    quality: 13
 
 secured: "TYTLVCrkK4IgUmuGhTPY4FVJ8v+B3PzrTathvScJeKGUWaPIrUj+gwvDcqIfxdiB0lbg7Wq9pepKRzFo4FrRJfZK+WxiedbuWH1fQuqxSvcLX9G7ZpsM3QA0qcAlNOR3LcWY+4hFiAZZ2NTbdqoD3ENLrCKXr5lrzLdSASXeGUqlyUkmy58JYVISOJ4Cp82ogleQTrK3x2RfQNeIEXdJVsrunCIfrkrzsmCJCl8HG9JU4DaaaKUm+aIQ6fHFbjcA3ztGOx67B/zgt0MKKhjC7U9PfPWo15iEVxNbcKrZfhwGwhcvJSLxxqAVwXI0HY2WFnRThpSNT1+ARIay21bX8GmNY/gtWiuEgwz6PZ6nbrC9rtKqVYiR+JxAVlySQwsostGsYbcUysJFJEcZFBNB7xmlI6Igj9BNslEBEUz6SzrwH7MLNNK+XjrHNuSMW7SbognMZe7cAHfxiiiApn8yPFpFB28+cYlavCXXchbsbzkllqkK6DzcgA2Kb2rF8Q2U2B9EBUG5tap+ZslZe7qBxA==;0jtLiiTK0QYXXBqEVP4Hxw=="
 ---

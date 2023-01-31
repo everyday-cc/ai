@@ -170,6 +170,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Praxent Experiences High Growth in 2022, Accelerating Fintech Design and Development"
+    excerpt: "Fintech product agency reports internal and external growth, gains industry recognition AUSTIN, Texas--(BUSINESS WIRE)--Praxent, a fintech product agency"
+    publishedDateTime: 2023-01-31T12:21:00Z
+    webUrl: "https://www.01net.it/praxent-experiences-high-growth-in-2022-accelerating-fintech-design-and-development/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "LrAAISlXrIMkCNPlt+xDjZA8ZsR7fU17YRs+J9hIZpDhO1szLlzvKPRLGI/iAIrbpVoZrCZQaBsc6FhME3+pffRSzn3DxISKco17eyPyMsGPPN+1Ncsqg1TP6tySF8rx4yR6XMSQmMzsfsex8fgPhSnToEeGoQ9ZRWgUpXcMFA60a8zbWMaRgBih6quI3IpyqEpr3wOM53m6vVv6tfWjgfHJQjP/Bp0KviTkkkTyWqTAWp1emuhUBePIZ7eLHuurh65b9Uj9ekW7Lp2vxcHq+3MIMkkEEpMiJM2n27xYFABSNfK+YLnd7+7TBAcpZo2wVG8igq0P2tWLuqWnnvhxN/Mb3wVpiHVDgUBh1dtb2jo=;z5fP8GnGr5t1Kk9OAX8o7Q=="
 ---

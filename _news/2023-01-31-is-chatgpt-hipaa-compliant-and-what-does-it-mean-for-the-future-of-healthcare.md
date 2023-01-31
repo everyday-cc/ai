@@ -79,19 +79,19 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "The race of the AI labs heats up"
-    excerpt: "The labs may not remain neck-and-neck for ever. One variable that may help determine the ultimate outcome of the contest is how they are organised. OpenAI, a small startup with few revenue streams to protect,"
-    publishedDateTime: 2023-01-30T22:33:00Z
-    webUrl: "https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up"
+  - title: "ChatGPT and the dark side of AI"
+    excerpt: "AI like ChatGPT can show you the what, but it is not very good at finding the why, writes Mary Faulkner of IA."
+    publishedDateTime: 2023-01-31T16:01:00Z
+    webUrl: "https://hrexecutive.com/chatgpt-and-the-dark-side-of-ai/"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
+      name: hrexecutive
+      domain: hrexecutive.com
+    quality: 37
     images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230204_WBD001.jpg"
-        width: 1280
-        height: 720
+      - url: "https://hrexecutive.com/wp-content/uploads/2018/07/GettyImages-AIfightagainstbias700.jpg"
+        width: 700
+        height: 450
         isCached: true
   - title: "3 ways health systems are using AI to improve patient care"
     excerpt: "From backing artificial intelligence-based startups that can detect emotions to developing an artificial intelligence-based tool that can predict \"ICU delirium,\" here are three ways hospitals and health systems are using artificial intelligence to improve patient care: Northwell Holdings,"
@@ -102,6 +102,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "The Race of the AI Labs Heats Up"
+    excerpt: "Regardless of the extent to which the generative AI models that underpin ChatGPT and its rivals actually transform business, culture and society, however, it is already transforming how the tech industry thinks about innovation and its engines—the corporate research labs which,"
+    publishedDateTime: 2023-01-31T15:20:00Z
+    webUrl: "https://cacm.acm.org/news/269343-the-race-of-the-ai-labs-heats-up"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "+Fy8CzNLlqHYT+KycFEFWfpIa+Zixsp0pJW3Gh1SjGITJaIhu42tXhAYyZuzWw/EXeXanpnOVTRCqah6KB6V5RPdv0k5l0fU+xb2oR3xdI/YU1qVi5KGgaalFus3PvR1mENf1dCZy7ZnyYqIuj4L6oE0cEQNQrTjDdgD9EFfBpGyhso+1Bi/ycv2S/Ea2/DOx4MmDIKwkCc6eVRxB9tuyDywZDgwqRkpS0j33x08wyjsTFmTgNjGfkH4kbdyJhQcHGkmheGDyA25RZS1A5oPgNBz4QX9XP3Rt2VDg+9lbevH5neX0UK8iTi9ImFKuqpkZTLrqNgRIf6nCWV4J3atJ4FhCy2nc+iqUGtKf/zVEMw=;eRjwwbiuX5QNIjyHdbPxBQ=="
 ---

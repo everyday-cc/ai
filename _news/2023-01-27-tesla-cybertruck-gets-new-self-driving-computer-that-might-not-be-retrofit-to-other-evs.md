@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk is reportedly being investigated by the SEC — again"
-    excerpt: "The Securities and Exchange Commission (SEC) is investigating Elon Musk over any involvement he had in Tesla's marketing of its self-driving software, according to a recent report from Bloomberg."
-    publishedDateTime: 2023-01-27T00:01:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/63d43682fc18470019552b01?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "US investigates self-driving claims made by Elon Musk for Tesla: Report"
     excerpt: "The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk. The SEC probe is to determine if the electric car-maker flouted its rules in promoting its full-self driving (FSD) and Autopilot software,"
     publishedDateTime: 2023-01-29T06:17:00Z
@@ -260,6 +244,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Justice Department probes Tesla over self-driving car system"
+    excerpt: "The DOJ has asked Tesla for information related to its self-driving car system, the automaker confirmed Tuesday."
+    publishedDateTime: 2023-01-31T15:56:00Z
+    webUrl: "https://www.axios.com/2023/01/31/tesla-autopilot-doj-department-of-justice"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/a_13_Y9BmcT_Z7w2jq8wffRfXok=/0x275:8256x4919/1366x768/2023/01/31/1675179755637.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Beyond the hype and crash investigations: What it’s like to drive with Tesla’s ‘Full Self-Driving’ feature"
     excerpt: "In most cases, the car drove well, avoided construction cones, and made right- and left-hand turns confidently"
     publishedDateTime: 2023-01-30T10:24:00Z
@@ -274,6 +272,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Tesla gets Justice Department subpoena for self-driving cars"
+    excerpt: "The U.S. Justice Department has requested documents from Tesla Inc. related to its Autopilot and “Full Self-Driving” features, according to a regulatory filing"
+    publishedDateTime: 2023-01-31T07:42:00Z
+    webUrl: "https://www.washingtonpost.com/business/tesla-gets-justice-department-subpoena-for-self-driving-cars/2023/01/31/0d62397c-a16d-11ed-8b47-9863fda8e494_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 19
 
 secured: "EbOeIOUocOxsuqHFheTXsdsjknpInISwd1TN5u8C9r0xWzDW1WqPw7GuUxB0S6br5W7zeR3HqVtXJmO6jfz8UuBcwMb3dqdZ10Pva7N974NmV68S5Efmc0c8plgzP0S96QvSK8Y/tBNE7ea8QUVFxx1n2UC0+sYFYn5L/r61T/5PXQsW2I0dP7oiOMcgBXfsvwyTztCTXnSNe4i3+RhwD2ENhGuxz/0ys9qUAZDEqPjFC8lFbOU32HmZmUAaLtUW4Xd/4LCBtVI1YW4yJ+sEgFEcy7QeE9nBHmROem2P2/XWqPP5RLWDxRrxVeSThDgoyd2jKKGJyqzLSFSpj/HZSoM1TWkemIKPdFdxpIzCFPI=;92gNDzC0abnSuWpHpY6IrA=="
 ---

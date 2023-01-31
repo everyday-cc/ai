@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T14:00:00Z
 originalUrl: "https://venturebeat.com/ai/samsung-brings-generative-ai-art-and-personalization-to-refrigerators/"
 webUrl: "https://venturebeat.com/ai/samsung-brings-generative-ai-art-and-personalization-to-refrigerators/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

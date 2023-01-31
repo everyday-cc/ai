@@ -42,18 +42,13 @@ related:
         isCached: true
   - title: "AI is predicting the world is likely to hit a key warming threshold in 10-12 years"
     excerpt: "The world will likely breach the internationally agreed-upon climate change threshold in about a decade, artificial intelligence predicts in a new study that's more pessimistic than previous modeling."
-    publishedDateTime: 2023-01-31T08:15:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-01-31/ai-is-predicting-the-world-is-likely-to-hit-a-key-warming-threshold-in-10-12-years"
+    publishedDateTime: 2023-01-31T13:16:00Z
+    webUrl: "https://www.tpr.org/2023-01-31/ai-is-predicting-the-world-is-likely-to-hit-a-key-warming-threshold-in-10-12-years"
     type: article
     provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 35
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/7914374/2147483647/strip/true/crop/7330x3848+0+824/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F31%2Fap23030698135423-801426c71ef831345352daf14a36d2fecd88bf8f.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Texas Public Radio
+      domain: tpr.org
+    quality: 13
 
 secured: "eB1Ggmj5BP/bomga3bilr1Y4YTx+OENN8TgnJGVv9pK7j6Ly97xCCiNXQ38wFetI1BzR5pFGLo5WIN0/meLS9jNd37MvckOWXT8ynr3D3U6ImqamkCbFNyavLEvNZZEHOru7OiUu+LDyZg7qmfLAPJ3wdCpz1XYuBVFplj5BoO4XHOgmg7PWeeIDzyLLNzzZvp3ORXb2IQBOdX9geJgHw4Lhk9/Ag77Gcy4iMxlIBQ3H8/a45nnXwehYvJwGGHZQMq+tJnBBXHRS00ut3/K4kwI/ooiDfS6EoiFM+KWo7nIm4M3ql6ACcHe4tbL2EG+0dUFABAmid3dQzi+iE3PelXw3Uxql2tWG/F6dBJPj+MfE47K1XLImQmR8FT6QpXls8Jo4bZOMmcy8GaYENfkatp5eyYGhX3Ls2sEuJJco8XPvuHSlCBWC8f3odfq4FcA6uEz05ijHATXXcVdaLTTk75yafMucIvgWONS/GSmYkixDGY0gWFR9ewNRbK0PPiCYfE9g0H/lbwMgWH+f6KydkA==;TudLtfA5pJozf6NTwVKz1A=="
 ---

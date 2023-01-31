@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kxan.com/news/education/ut-will-launch-online-masters-pr
 cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "UT launching master's program in artificial intelligence"
-    excerpt: "\"The degree program is pending final approval by the Texas Higher Education Coordinating Board,\" the release explained."
-    publishedDateTime: 2023-01-27T00:59:00Z
-    webUrl: "https://www.wfaa.com/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
-    images:
-      - url: "https://media.wfaa.com/assets/KVUE/images/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "UT Austin will offer artificial intelligence graduate program online"
     excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
     publishedDateTime: 2023-01-29T02:36:00Z
@@ -52,7 +36,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: houstonchronicle.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg"
         width: 2048

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-bringing-san-francisco
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Business Insider
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Cars Are Causing 911 False Alarms in San Francisco"
-    excerpt: "Ride-hailing services from GM subsidiary Cruise and Alphabet company Waymo allow them to summon a driverless ride with an app. But some riders have become perhaps too comfortable with the technology."
-    publishedDateTime: 2023-01-27T00:24:00Z
-    webUrl: "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/"
-    ampWebUrl: "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/63d1e157e86be50408c465bb/master/pass/Self-driving-Car-Chaos-in-San-Francisco-Business-GettyImages-1238159533.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "The ChatGPT and generative AI 'gold rush' has founders flocking to San Francisco's 'Cerebral Valley'"
     excerpt: "Generative AI is breathing new life into San Francisco after two years of ​Silicon Valley tech companies shuttering offices because of the pandemic."
     publishedDateTime: 2023-01-31T10:00:00Z

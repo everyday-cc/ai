@@ -23,17 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Google, not OpenAI, has the most to gain from generative AI"
-    excerpt: "After spending billions on artificial intelligence R&D and acquisitions, Google finds itself ceding the AI limelight to OpenAI, an upstart that has captured the popular imagination with the public beta of its startlingly conversant chatbot,"
-    publishedDateTime: 2023-01-27T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90839649/google-not-openai-has-the-most-to-gain-from-generative-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
-
 secured: "k1hJDB8Peedf09X7Ftsu/rrDhBQm0yjZZWax+mX8Jk1yhuRfEvanrMgNCuZAeKO/KaUycmcsSma+6I+bhGBLfdYi5rd6U3KkFzAKWxQLeXWShc3lPIjaAuu1EuuUHcn22QwnZly4VX09EDUknhTnZb3V3+KXS3U52psS9qkeTggRslSgR8QGEJB+6/rXnhWFcaLk7jZEwSSDiNXH+qvM4YduI84amjohoxdw1hSIuFKAixEZdqQqsiNjJxp6xkW3H8/2bq8zl/UVSLLUBW922i7k7igFs5PotMig8jQE6XAmKl0SIZFnRvbQdMNPU/G9LS6edbdUl45XT8ywLRnuqud4LoSGOA3zS5Y+M0nldIY=;C35aw4+CvqOwuTS+4C/ptQ=="
 ---
 

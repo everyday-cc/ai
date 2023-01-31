@@ -165,6 +165,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 4
+  - title: "Praxent Experiences High Growth in 2022, Accelerating Fintech Design and Development"
+    excerpt: "Fintech product agency reports internal and external growth, gains industry recognition AUSTIN, Texas--(BUSINESS WIRE)--Praxent, a fintech product agency"
+    publishedDateTime: 2023-01-31T12:21:00Z
+    webUrl: "https://www.01net.it/praxent-experiences-high-growth-in-2022-accelerating-fintech-design-and-development/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "edBr0AGWGpLAvT6eY6pbdPWHDkWW4pqUkAL14QNtwAEplDE1lu+vMeF2EONPbTHKMLxy6YQuaxlIZVZBvuqH6yG6HoonLaLBuPboXv9HhfXpKvOa3tm83wA1yPn9g/Hm3fZNDvGY3sCZhTsVW5LcCx3ozxcQ+Sq6DMUKYFhJdkOy4gUFhDnbVlX3XE+IGoTzbuw6zzk2VJPaNpKUJ6CJocRF/0JrHVCX0XKJTgcMsh7y463SrflClwLzoVcRjgF7ipjFwJl8yEaHUIbTg5wfC9rRtWCw8KpiY3mM9uzCzG115vxT7kf3fHCNv8JfMgQggYqFajoHsGCZBfxiQ0ZznE0c02+3EDiwpfR27LajDCI=;8Ecqqj6DSgJe7/lFdr6cRg=="
 ---

@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
-    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known a"
-    publishedDateTime: 2023-01-27T00:53:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527"
+  - title: "Albanese’s tough-love Alice intervention overshadows Voice hopes"
+    excerpt: "On the back foot over the Voice to parliament plan, Labor has resorted to the kind of knee-jerk top-down decision-making that constitutional recognition is meant to stop."
+    publishedDateTime: 2023-01-27T02:30:00Z
+    webUrl: "https://www.afr.com/politics/federal/albanese-s-tough-love-alice-intervention-overshadows-voice-hopes-20230126-p5cfnf"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_07694a5fc5e28b243c09873c994bb3d6_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://static.ffx.io/images/$zoom_0.6197%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_719%2C$y_373/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/0d57422185e61d2b7b2eed079130376eebe847a3"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
-    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
-    publishedDateTime: 2023-01-27T19:15:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/world/article271671057.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 19
 
 secured: "W1nOjWM74yXPIijy0o5T4Q8DjdfUDhJ5Gh5wSiXpValZeXZ0Y6fc5Zmpv9u99Amt2o9lD3JXWCw+zIuve6ne2pVk5YDilJOpBWIB203aPsvfhGx388vgatjookwCMKgzrofyNFY1eHk/J9srPgRY57r7f9FctzjeEronSpzd7Vmu1EPI7k0yOiPVsHLZSXuCZAL8i9ctjzygpfYxLw7L2XsdrA9TK6LTfrya6F7E0b+AmYUiDbxvFcw2Xf2vLnRTOPr5q8AhXX+x/1xuiLRsu1IKcpCp5x6+CGg3q8vjjgF3ZrQO0ST6BoD56FFUnkeykZ4GDlmy4GAVx2iSFDmmpE0jL8xY/e2+uFNwI3MpmPo=;cHy0movfuzKLCld+Ku9X6w=="
 ---

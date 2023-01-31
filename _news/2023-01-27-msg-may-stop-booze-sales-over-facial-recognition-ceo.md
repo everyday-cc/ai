@@ -140,15 +140,6 @@ related:
       name: SportsPro
       domain: sportspromedia.com
     quality: 19
-  - title: "Madison Square Garden uses face recognition to keep out enemy lawyers. That may be illegal."
-    excerpt: "based on facial-recognition technology with known flaws, would have a chilling effect on speech and Americans' access to public spaces. \"Who will actually go to court against the country's largest ..."
-    publishedDateTime: 2023-01-26T22:58:00Z
-    webUrl: "https://www.cbsnews.com/news/madison-square-garden-face-recognition-illegal-new-york-attorney-general-letitia-james/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 11
 
 secured: "aC6Tf9EJel4e4+3SYjdFneJDvSKisXuher1gVuO13eNgPFojuN7LhMbi6w7hmDjihoC8aQ2wiGTxtQlu9ooROV0+r69Q5J7bsOd/vq8nuNvktPMhAVkjMbbWxpZBDVJhrDIArqdIaOtoLuapKDbFKTVZS+L05nEWkShtxmjPfxjQeN2zEoPFZW/SBiopHEBLqru5dXejC4CYVTvGdv4wUHBnluqNKl7yTHELwAc4wV+Fgd2clp9RRtdJ0/6wJLaEZsL0b0OJT73tGsQhzITGSLHvqULP5LM+jgD4dvdaJo3JfDxdInyhm3HZCaVrHStXJOO8AJ02k3B/9hhYyMa0a1OW35OOcQDQ5T5qQPwZErJ3YzqTIzbUWMVMA9AfhEE2n8Ig1RlO5OcON50YzxFitqJ3UNJsAhd2Ibvc8DKGQZ9jV2huEzfxy64NyiwbmLbB07u7vRl0VrxkJDIAUkjvU9GNyCg/3ME/YglH6XAzVrNlNd1kNowoqjU7XRkY2xbRZwm80Z9h0w/pJSEfEuiBWQ==;OBCGnFKK2pL0h7iJGVR7hA=="
 ---

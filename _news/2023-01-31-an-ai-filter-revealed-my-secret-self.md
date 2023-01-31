@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T14:00:00Z
 originalUrl: "https://www.wired.com/story/ai-filter-beauty-tiktok/"
 webUrl: "https://www.wired.com/story/ai-filter-beauty-tiktok/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired

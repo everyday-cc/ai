@@ -1,21 +1,21 @@
 ---
 category: news
 title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
-excerpt: "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,"
-publishedDateTime: 2023-01-18T05:15:00Z
-originalUrl: "https://www.theweek.in/wire-updates/business/2023/01/18/dcm12-kfin-technologies-limited.html"
-webUrl: "https://www.theweek.in/wire-updates/business/2023/01/18/dcm12-kfin-technologies-limited.html"
+excerpt: "Leveraging the depth and breadth of AWS capabilities, KFintech helps their clients digitally transform, providing the best business, program, and portfolio strategies to build the next generation of solutions in the capital market."
+publishedDateTime: 2023-01-18T05:41:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire"
 type: article
 
 provider:
-  name: The Week
-  domain: theweek.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
   - AWS AI
 
-secured: "RIGyMgEiozWHABC3/Ba1/hGuKUX3zbUX0cwUcaUIe5yJYqvrU5ZemdqXjG0PcTsT61y8igV1OSr2FH04xAB/wPAkuV551F9kkqGQPH6PNOiQshkH+o8ocpjNowGDCeOoMrHpbm0wrlgUkfV3ePSNmXX/AGSmFTo+j6CZrg4BXeiZlqhyl/GJ2LuySWrkPhYnkLkntTAZVrdD7oBdAbLPqmt1/3K9pBiLApfatlenkIRfHL/O9fNRWtvRLQCDpLFatPMwjTUjbFsLHnbVvpPuESFwNjWdHIMHQoLI5o3mArjwJSt1hFOG1lpYoz4zxnd5k9EiSO0ioarjeQqyvDnlrmm7blmgL23RAwoRbiHehHU=;Qn+G5EI8imMH9tRVwuxNhQ=="
+secured: "6kTPg1Y1m2FuR+kMYGZQqCGOuQdoPGEzvZxBwAy+IIKxsbAM+L9sWtsyniJmYafG0bXL9FhP1DA03pPk+CKA1TS3nxnut/PX+ndJzlANEZQvbT880mU2WSBtsx8Orxzj0d+lzLhC+krEbxynpiCyfPwP4iqdhtKuXLTU07NmTdbGGr4wizhz+rtI1FU4vB0m0qHh27R36QJyaAzAn706FCK/p7Nx7VyyzkPduk+X6W12KRyQjCKFcNc4Vy8nhLRDVqdH4/gjMv2g88P+rExtcdzNvHRH4h8BHhhGmNUJYzqjfZc7OSHxs0VO4Il+pInNkHJL5vVwkbDAv58r/+oNYXqncJqR9EBCanVS6JsaTT4=;4Vr5DHjBwYT+9bQ+8kfnsA=="
 ---
 

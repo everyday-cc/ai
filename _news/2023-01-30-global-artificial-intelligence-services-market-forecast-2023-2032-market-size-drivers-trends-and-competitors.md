@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-27T00:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2026-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
   - title: "Medical Artificial Intelligence Market 2023 Analysis by Market Dynamics, Industry Trends, Drivers, Challenges, Restraints and Outlook to 2027"
     excerpt: "Jan 27, 2023 (The Expresswire) -- Global “Medical Artificial Intelligence Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
     publishedDateTime: 2023-01-27T20:04:00Z

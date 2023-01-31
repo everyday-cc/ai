@@ -71,20 +71,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Welcome to high-class Manhattan, facial recognition. This will be interesting"
-    excerpt: "New York Attorney General Letitia James is asking for answers from James Dolan, CEO of Madison Square Garden Entertainment, the man at the heart of controversy."
-    publishedDateTime: 2023-01-26T23:36:00Z
-    webUrl: "https://www.biometricupdate.com/202301/welcome-to-high-class-manhattan-facial-recognition-this-will-be-interesting"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/26183203/facial-recognition-close-crowd-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "/KtBTJGHXFS0lgsHQ3JEatILw3AgNyfL4JIomIIaawO+2K3ZKeazk9WTKfBJvxPnNrPe0jVqoteNg7TtIdD21apjZAfyZhWda92x6HbyAnDZfni8YanpZ03Hvjaz2VYCnBeSqnNsYbi9LTvW6zyYsnswv2QLS9OzE+skklRvZoaJGOcUlZa/ZS8R2jAHQKDq0MQq63EKr/Em9UZfRpSoPHz/k9g3JPe4vCt5ubL+doYSFhrtrAYqavhXLDOIllQKBbKJJc8+yoLwtcrfnNPWFAu7jXSfkFlX830iQvshHKyFgJlGWa8FJpkaZ9FJ6GOKgpE6KZdCLnsgqt9HfMPA6ZrKF5D+RHDkUkeNw3bwYBlByHqgDP86oWcSJNJiAOyqZh8CwQO+ze91AjfpK18mwzKY+aMs+WhcXrQFZ+vTswzz53eFBW/CuGs2WFSYQGWK5/3UDDgzt3svwYvzzJycOOymbtwFYuRVFGaRFYyF9odKC/CV2RkceWfDPLgNZ21XJATs+3A04UUt8B9WMyk9VA==;GVh/dSoAqJuMazsmkCD/iw=="
 ---

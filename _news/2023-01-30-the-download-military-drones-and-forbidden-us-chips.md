@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "The Download: hope for renewables, and AI’s role in journalism"
+    excerpt: "Plus: Elon Musk is considering adding fintech features to Twitter"
+    publishedDateTime: 2023-01-31T13:27:00Z
+    webUrl: "https://www.technologyreview.com/2023/01/31/1067451/download-renewables-ai-journalism/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
   - title: "The Download: watermarking AI text, and freezing eggs"
     excerpt: "A watermark for chatbots can spot text written by an AI What’s happened: A new method could help us to spot AI-generated texts. Watermarking buries hidden patterns in the text that are invisible to the human eye,"
     publishedDateTime: 2023-01-27T13:10:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-29T02:36:00Z
 originalUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -41,22 +41,6 @@ related:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2016/07/ut-austin_37219191_ver1.0.jpg?w=1280"
         width: 1280
         height: 697
-        isCached: true
-  - title: "UT launching master's program in artificial intelligence"
-    excerpt: "\"The degree program is pending final approval by the Texas Higher Education Coordinating Board,\" the release explained."
-    publishedDateTime: 2023-01-27T00:59:00Z
-    webUrl: "https://www.wfaa.com/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/education/ut-lmasters-program-ai/269-8dd96ef3-7fff-4ead-a60a-cd580fa9d967"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
-    images:
-      - url: "https://media.wfaa.com/assets/KVUE/images/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5/44869c64-4c5e-40f9-a00b-d3eb5c1f84a5_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "University of Texas to offer master's degree in AI, including health focus"
     excerpt: "University of Texas at Austin plans to offer an online master's degree in artificial intelligence, the first large-scale program of its kind. The online degree also will be the only one offered by a top-ranked institution priced near $10,"

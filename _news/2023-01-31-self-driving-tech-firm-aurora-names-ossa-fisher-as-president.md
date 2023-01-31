@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-30T21:20:00Z
 originalUrl: "https://www.reuters.com/technology/self-driving-tech-firm-aurora-names-ossa-fisher-president-2023-01-30/"
 webUrl: "https://www.reuters.com/technology/self-driving-tech-firm-aurora-names-ossa-fisher-president-2023-01-30/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Reuters

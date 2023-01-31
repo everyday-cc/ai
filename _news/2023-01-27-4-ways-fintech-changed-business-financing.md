@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -169,6 +169,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 0
+  - title: "Praxent Experiences High Growth in 2022, Accelerating Fintech Design and Development"
+    excerpt: "Fintech product agency reports internal and external growth, gains industry recognition AUSTIN, Texas--(BUSINESS WIRE)--Praxent, a fintech product agency"
+    publishedDateTime: 2023-01-31T12:21:00Z
+    webUrl: "https://www.01net.it/praxent-experiences-high-growth-in-2022-accelerating-fintech-design-and-development/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
     quality: 0
 
 secured: "m12TXKwVQZsEa58p476uNTI9piKUI30Mlrus70L+B1uMtr7+Pcwpf2ks2/9FJn6b5lwouYsxXppcKKU6gaqgy53EOL9bt4jnUsfXdvnKo+cQYULSjYOgJVr9A2Nky0CzNJ3dpXi+6trRZbE8B6HKQYaj/wNSaX14at6ak2sO55ML1LBLa3MSmPrGtX7WfqHevO5Ory5Jsz4LZ79jq4MTTYrSeLoiH91t/00uh9ueD7SNs30cOCPDEmPoB+VGe6xIZHw4s4OcGGr8pxtCdI8kcLT3Pd7D04y3MTTZCnJdFR4ivqKE/WGY3VHshYQdXED/ykui/+Xw2yo/xlJVHkN5X5B/+d9xk/Lx3fyMLTEY6A0=;m47n+togN7knW8vsjsV4uQ=="

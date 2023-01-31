@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-o
 webUrl: "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -143,15 +143,6 @@ related:
       name: SportsPro
       domain: sportspromedia.com
     quality: 19
-  - title: "Madison Square Garden uses face recognition to keep out enemy lawyers. That may be illegal."
-    excerpt: "based on facial-recognition technology with known flaws, would have a chilling effect on speech and Americans' access to public spaces. \"Who will actually go to court against the country's largest ..."
-    publishedDateTime: 2023-01-26T22:58:00Z
-    webUrl: "https://www.cbsnews.com/news/madison-square-garden-face-recognition-illegal-new-york-attorney-general-letitia-james/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 11
 
 secured: "ZmMAXqOjSyLVmp5AX1utORHIVnruwo396HkpPxuWNXw0XE5OtX5+V2B6lAh8Q3KZPZUpjUa2zRtwbqE4ndRMfZ5OfapDLpOoT2zQ7FyyHlFaEHLUA7VFXmBKUAO709M5B9KmGZ0O80F9yW1qdQ/l0RB3F32q0ysXoACWIPRYWNqF3Ad1z1vjDnGvlMhrxWwQ2YeBALDXS43V7OMzzDuyAhrmvZ7e+8FALIuVPZ+0Ngiq8ONoUdMl9cOSeHKjtpDn2MZyuY2YdaDVxAi1BaT8UZqBGi7SjDB5mKrRHm1hWyAg6FxloWJlB+lqpcNb3yspcuDW466s/FaemJC7BVWtoDpVC3Bh300bDUc6+0Mu+np5uIGhevkltkd1yaMcRUnaj9+S8qn7Sukm5L/ld/f8WAoZt2RMidTTgPw1v1KNXKw90Y+rK4M2O3Wm8QP4gMHTYTsU8u8RCW/T96BXgmCX3WUzbz0pCWbs71vKS4EQhpqIv4o7zwItL5UQjcJgTGI0EU37qwYANY8WohzjEKsWng==;MgK2DCKo1fI7TlYMWl1Rlg=="
 ---

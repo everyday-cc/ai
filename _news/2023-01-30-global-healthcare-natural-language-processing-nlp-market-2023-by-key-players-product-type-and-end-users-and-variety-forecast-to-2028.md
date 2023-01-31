@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-healthcare-natura
 webUrl: "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29"
 type: article
 quality: 69
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -39,34 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market : Global Market Growth, New Trends, COVID-19 Impact and Forecast 2023 To 2028"
-    excerpt: "Jan 26, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in the..."
-    publishedDateTime: 2023-01-26T23:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-global-market-growth-new-trends-covid-19-impact-and-forecast-2023-to-2028-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market To Eyewitness Steady Growth Throughout 2023-2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-01-27T00:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-to-eyewitness-steady-growth-throughout-2023-2026-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

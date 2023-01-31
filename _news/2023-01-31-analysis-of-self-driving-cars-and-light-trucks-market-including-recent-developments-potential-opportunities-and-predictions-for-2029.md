@@ -29,15 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Tech Firm Aurora Names Ossa Fisher as President"
-    excerpt: "Aurora Innovation Inc on Monday named Ossa Fisher as president to focus on scaling operations at the self-driving technology company ahead of its commercial launch in 2024. Fisher is expected to begin at the new role in February and joins Aurora from education tech firm Istation,"
-    publishedDateTime: 2023-01-30T22:20:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-01-30/self-driving-tech-firm-aurora-names-ossa-fisher-as-president"
+  - title: "Self-Driving Semis Focus of California Rules, Legislation"
+    excerpt: "Joe Garner, a truck driver and shop steward for the local 315 of the International Brotherhood of Teamsters, watches a rally at the California Capitol on Monday, Jan. 30, 2023, in Sacramento, Calif. Garner supports a bill that would require human drivers to be present for self-driving semitrucks."
+    publishedDateTime: 2023-01-31T00:32:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2023-01-30/self-driving-semis-focus-of-california-rules-legislation"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "‘Loss of life is not recoverable’: California considers authorizing self-driving semi-trucks"
+    excerpt: "California’s DMV is hosting a public workshop Friday to discuss modifying state regulations around autonomous vehicles."
+    publishedDateTime: 2023-01-30T19:26:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article271692497.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 0
 
 secured: "yT0TQydBtZaS2zY+7Tk3T8JkrpNvBgBZzZrrCKjlG1LTsNpV3xDi7zYpMGEnFJgQjJR2XV5CzMd55tPKFJvWmrwBJZQW+8j2gxmyRu8P64nnaxLVi4Uhwf86MX54Aj6/N+9ke2e1yFIYT9Wfsk/HUPxZttn6hVe8LA5cp70Bo0huCNGyXT78AIaAHls9WDF0+RJ4MhXOwDHOmI3sdTXHOYXoZ2utcoLG5NRw6Yl8wFe6tP1ve2WW1keiDJvV3qjqLou3WV752QE6ayC+U816go++n722T94X+7QZ/MNPfuxSiivOM3ysRIysUQgGZLZOZ2w4RvxOmk5yNv1Rul6KRchIQfyh5x1h+H8QDPrW1bI=;zDTJDhEhmg1/hlW2LCA7Yg=="
 ---

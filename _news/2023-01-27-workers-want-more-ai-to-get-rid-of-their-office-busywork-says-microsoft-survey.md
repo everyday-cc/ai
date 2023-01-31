@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
 type: article
 quality: 100
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 1024
         height: 400
         isCached: true
+  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
+    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
+    publishedDateTime: 2023-01-31T12:50:00Z
+    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 34
   - title: "Microsoft Research project helps languages survive — and thrive"
     excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
     publishedDateTime: 2023-01-30T16:40:00Z

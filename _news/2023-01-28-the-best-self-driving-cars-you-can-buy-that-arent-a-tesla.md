@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk is reportedly being investigated by the SEC — again"
-    excerpt: "The Securities and Exchange Commission (SEC) is investigating Elon Musk over any involvement he had in Tesla's marketing of its self-driving software, according to a recent report from Bloomberg."
-    publishedDateTime: 2023-01-27T00:01:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-sec-investigation-tesla-autopilot-self-driving-fsd-report-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/63d43682fc18470019552b01?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "US investigates self-driving claims made by Elon Musk for Tesla: Report"
     excerpt: "The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk. The SEC probe is to determine if the electric car-maker flouted its rules in promoting its full-self driving (FSD) and Autopilot software,"
     publishedDateTime: 2023-01-29T06:17:00Z
@@ -251,6 +235,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Justice Department probes Tesla over self-driving car system"
+    excerpt: "The DOJ has asked Tesla for information related to its self-driving car system, the automaker confirmed Tuesday."
+    publishedDateTime: 2023-01-31T15:56:00Z
+    webUrl: "https://www.axios.com/2023/01/31/tesla-autopilot-doj-department-of-justice"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/a_13_Y9BmcT_Z7w2jq8wffRfXok=/0x275:8256x4919/1366x768/2023/01/31/1675179755637.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Tesla Cybertruck Gets New Self-Driving Computer That Might Not Be Retrofit to Other EVs"
     excerpt: "Tesla is getting ready to roll out the next version of its Full Self-Driving (FSD) computer to its line of passenger vehicles. The first of which, according to Musk's commentary during the company ..."
     publishedDateTime: 2023-01-27T03:46:00Z
@@ -279,6 +277,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Tesla gets Justice Department subpoena for self-driving cars"
+    excerpt: "The U.S. Justice Department has requested documents from Tesla Inc. related to its Autopilot and “Full Self-Driving” features, according to a regulatory filing"
+    publishedDateTime: 2023-01-31T07:42:00Z
+    webUrl: "https://www.washingtonpost.com/business/tesla-gets-justice-department-subpoena-for-self-driving-cars/2023/01/31/0d62397c-a16d-11ed-8b47-9863fda8e494_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 19
 
 secured: "t8Io7TQodZDIz2ciDSpI5b63Z+ZlJxHpICEnMvJH0VTG9K9OobDrmrhL/b9kX7dkzwceImp1oekzr8ayfP78Gb2dvFD7+j5jIG/4gFn09WASo3Slghrlcfqcm4n+utoV/ohRn+SQDVRcaClGScwN82wFI1wRzdLX82nmKVm4CCnmropIn1nfjQInMPMW4xuUz8xLfTeMwCgmQWMQTAnaDdOUHIyKbnuhlmdSQuXG8cwsjSrKjpdHnmEOqWqBk1FQ03nC9Idzn/B06SoYMj1D7M8nTtbsZYZBSVsO+VStgAeC4Hne0lP2rvbe+ZU0U5cXwhe4PPFV3lbyQnFcSMcmclvNmJXvrr+Y9FfStE9EDwo=;o86UWRjdQFtQ8Trr6zFecQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recogn
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/flm1674877201.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Welcome to high-class Manhattan, facial recognition. This will be interesting"
-    excerpt: "New York Attorney General Letitia James is asking for answers from James Dolan, CEO of Madison Square Garden Entertainment, the man at the heart of controversy."
-    publishedDateTime: 2023-01-26T23:36:00Z
-    webUrl: "https://www.biometricupdate.com/202301/welcome-to-high-class-manhattan-facial-recognition-this-will-be-interesting"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/26183203/facial-recognition-close-crowd-scaled.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Letitia James wants to know about MSG’s facial recognition tech after lawyers banned"
     excerpt: "Madison Square Garden has reportedly begun using facial recognition technology to identify and deny entry to its events and the State’s Attorney General Letitia James has questions. The issue began when MSG allegedly used facial recognition technology to identify and deny entry to a group of lawyers who are affiliated with law firms that represent"

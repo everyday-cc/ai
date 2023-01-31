@@ -44,20 +44,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI Will Start Writing BuzzFeed's Notorious Personalized Quizzes"
-    excerpt: "The company said it wouldn’t use AI for news journalism, but CEO Jonah Peretti talked up AI as a shift 'toward longer term trends.'"
-    publishedDateTime: 2023-01-26T21:40:00Z
-    webUrl: "https://gizmodo.com/ai-buzzfeed-chatgpt-quiz-1850036965"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8fea373d749715dfcbe4768a647f0955.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "BuzzFeed Will Start Using AI to Create Content"
     excerpt: "Learn More Buzzfeed just stumbled into its latest listicle idea: Top 5 Ways AI Can Scale Your Business. On Thursday, the millennial-focused digital publishing... For more crisp and insightful business and economic news, subscribe to The Daily Upside ..."
     publishedDateTime: 2023-01-27T01:24:00Z
@@ -71,6 +57,22 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/718208/featured-daily-upside-image.jpg"
         width: 800
         height: 640
+        isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:33:00Z
+    webUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: TMJ4
+      domain: tmj4.com
+    quality: 61
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "We asked ChatGPT to write a listicle in the style of Buzzfeed. It's obvious why Buzzfeed is going to start using OpenAI tech."
     excerpt: "BuzzFeed CEO Jonah Perett reportedly told staff it would use OpenAI tech to boost its quizzes and personalize some other content."
@@ -104,22 +106,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    type: article
-    provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "A watermark for chatbots can spot text written by an AI"
     excerpt: "Hidden patterns buried in AI-generated texts could help identify them as such, allowing us to tell whether the words we’re reading are written by a human or not. These “watermarks” are invisible to the human eye but let computers detect that the text probably comes from an AI system."
     publishedDateTime: 2023-01-27T12:26:00Z
@@ -136,22 +122,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Buzzfeed to use AI to ‘enhance’ its content and quizzes – report"
-    excerpt: "Platform will also use technology from ChatGPT’s artificial intelligence firm, Open AI, to ‘inform’ brainstorming"
-    publishedDateTime: 2023-01-26T23:00:00Z
-    webUrl: "https://www.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2023/jan/26/buzzfeed-artifical-intelligence-content-quizzes-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/9352f7730f1c3ab91cc27df2854ad20698a7dddf/0_110_3788_2274/master/3788.jpg?width=620&quality=85&auto=format&fit=max&s=11ee807c6e31642595ed78067ca874a7"
-        width: 620
-        height: 372
-        isCached: true
   - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
     excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
     publishedDateTime: 2023-01-30T19:36:00Z
@@ -161,6 +131,15 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 20
+  - title: "The Telegraph: BuzzFeed replaces 180 fired journalists with ChatGPT neural network"
+    excerpt: "However, in the future, Peretti intends to entrust the neural network to create full-fledged editorial materials ... According to Business Insider, BuzzFeed's stock rose over 200% in 24 hours as artificial intelligence was involved in the writing of ..."
+    publishedDateTime: 2023-01-31T15:17:00Z
+    webUrl: "https://news.am/eng/news/742221.html"
+    type: article
+    provider:
+      name: News
+      domain: news.am
+    quality: 13
 
 secured: "P64Uvfu6AX3vekmDVZW7lE7hWbxerKoD2k8LJMpLJX0vuAFKS5bNTv9mpZit/bgyrTe/mruHiBvuwwqPd7/gaakEY2ozF/7OEWGtA8A74tpXZrHEiuUc5/i3T7VF3oXLDUcwTiCPd9M4dak8qlBor87Lo7NexZDu0uzgpIZu1pND94pvrREBK8WuV6e5aV4cs7tEkmaG7oprZ4s1MnVBzjGkbsk8RtyL/KNR2PYyKREz5tNYCymreL2YLUSiEwa+UjwfnI7Ysqn5ubOIRxWtwms/fkmC5HqLCBmwBv+D7pKp5rHTIPL0Uy/faa3QD2Yz+MIvQK89mM2N/pVE5P40HMWB6+A/1GWZ9+tVtm1kNZCYdH+HQ90c15n0jFm2mAZ/29UdhGWkentJ59JOnWpD5PYQJLMHVomvibqX221M3zUycYX98TAqTTS5rml/3dTaA6qYO/eYu9fUJDpE9pFKhXdifltv3YkMWuADE4zbnvDvP/6MUxF6i2js+aXpAT3+iyyb4hs0nC9GfaTrdHo2Pg==;L/qTA9ceVGELY1t7JlPCbw=="
 ---

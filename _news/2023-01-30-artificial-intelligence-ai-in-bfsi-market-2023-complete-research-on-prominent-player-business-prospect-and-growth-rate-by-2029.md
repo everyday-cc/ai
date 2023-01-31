@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud AI in Fintech Market 2023 Analysis by Market Size, New Technology, Growth Rate, Geographical Regions, Drivers and Outlook to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Global “Cloud AI in Fintech Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
-    publishedDateTime: 2023-01-27T00:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-2023-analysis-by-market-size-new-technology-growth-rate-geographical-regions-drivers-and-outlook-to-2028-2023-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
     publishedDateTime: 2023-01-27T02:17:00Z

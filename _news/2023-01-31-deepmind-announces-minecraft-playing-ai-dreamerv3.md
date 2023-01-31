@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T14:07:00Z
 originalUrl: "https://www.infoq.com/news/2023/01/deepmind-dreamer-minecraft/"
 webUrl: "https://www.infoq.com/news/2023/01/deepmind-dreamer-minecraft/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: InfoQ

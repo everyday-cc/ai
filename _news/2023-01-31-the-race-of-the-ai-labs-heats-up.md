@@ -1,28 +1,21 @@
 ---
 category: news
-title: "The race of the AI labs heats up"
-excerpt: "The labs may not remain neck-and-neck for ever. One variable that may help determine the ultimate outcome of the contest is how they are organised. OpenAI, a small startup with few revenue streams to protect,"
-publishedDateTime: 2023-01-30T22:33:00Z
-originalUrl: "https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up"
-webUrl: "https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up"
+title: "The Race of the AI Labs Heats Up"
+excerpt: "Regardless of the extent to which the generative AI models that underpin ChatGPT and its rivals actually transform business, culture and society, however, it is already transforming how the tech industry thinks about innovation and its engines—the corporate research labs which,"
+publishedDateTime: 2023-01-31T15:20:00Z
+originalUrl: "https://cacm.acm.org/news/269343-the-race-of-the-ai-labs-heats-up"
+webUrl: "https://cacm.acm.org/news/269343-the-race-of-the-ai-labs-heats-up"
 type: article
-quality: 39
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: The Economist
-  domain: economist.com
+  name: acm.org
+  domain: acm.org
 
 topics:
   - AI
-  - Facebook AI
-
-images:
-  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230204_WBD001.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "AI And The Disruption Of Healthcare"
@@ -85,6 +78,20 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "ChatGPT and the dark side of AI"
+    excerpt: "AI like ChatGPT can show you the what, but it is not very good at finding the why, writes Mary Faulkner of IA."
+    publishedDateTime: 2023-01-31T16:01:00Z
+    webUrl: "https://hrexecutive.com/chatgpt-and-the-dark-side-of-ai/"
+    type: article
+    provider:
+      name: hrexecutive
+      domain: hrexecutive.com
+    quality: 37
+    images:
+      - url: "https://hrexecutive.com/wp-content/uploads/2018/07/GettyImages-AIfightagainstbias700.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "3 ways health systems are using AI to improve patient care"
     excerpt: "From backing artificial intelligence-based startups that can detect emotions to developing an artificial intelligence-based tool that can predict \"ICU delirium,\" here are three ways hospitals and health systems are using artificial intelligence to improve patient care: Northwell Holdings,"
     publishedDateTime: 2023-01-30T19:34:00Z
@@ -104,6 +111,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "xC/uck5w1KHDMofw7T6Mr7wYht4l3wWubRVA8A82FmXhthUA1XFAaptJGEH54LEpteP3vTCTj8lFWweey1wdJPbj0iizYYCnusfJR0BM+DO3KFDcbdOcg3rUp+/6/kHvXYBBS0CRA6/OZPUi6+f/Nv7TBddZiIjTZ8bEVBSHuMHcWMWPe7dG670l0goLL6nkpPfDnumWi9gLLtj7qieG/QWkf1BoJCMNS+8Qj/ZVBknvA71eOWPlycbTcZhmkaMcyIWYIHAeS2E3ZZn99K3EzNVEajmK8GGbjuAaVliZ7+Y+2ZginYGvR03G/yCN6BOq/i1INeBPgZr+mYKwclmgRLTU2B9/M+fka1iVFTmTTzc=;FFt3UIojJ7qtW5vZzdUVvw=="
+secured: "47df77QQIgjtI/GrmieXY6HihWvPmsf+85qMPvdJbdeDqwqEhW4ctdD995ZjCQVB5Q9nqW+wuHSNFf4oyelGv61BnpBZk46jyb8s7XUh54IMVZY7x1IepEBdg6z5UeZqAPqPGSLjoNcaJo/nftkfRlqp9mzhp357UAzMtcTSA0yEopr5p4BfxTMSyOpNh5g3deJM8Lf1BiyIkFghYxskyCs2fz3crfgYHgxYJK+YMTMxUsH8Nh0rh6L3fvc9rFT2mop7amRZubJrgFHn3gbdXsLTuY5yyZ1qKgvdXNd90EoaqeD0NDvRKLAGU3covuUwj9rfCT/A4/rj23Xt4HgzlnEVFFFoBS94zOCNnfiGp28PN0om/hfofx2FsIBGgatQLxDXIZHg0aDVmsnmCql6OhGGtAFi6tFOVKMmv4tpL2yTHdwCNC3vWtL0tL4nMi9mGv/yBCx6skvc/oxnd7/ZtTyeEAiYgx3sxeEHr1M0XhmvJphR9QMEUvlWVKkNGfVu3owk5rKkdKmfZ1MjcITBwg==;nK2W/EqwAYQeFc0yo3NZOQ=="
 ---
 

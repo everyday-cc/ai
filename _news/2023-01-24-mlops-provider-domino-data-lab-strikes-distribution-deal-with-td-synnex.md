@@ -3,12 +3,9 @@ category: news
 title: "MLOps Provider Domino Data Lab Strikes Distribution Deal With TD Synnex"
 excerpt: "Domino Data Lab is partnering with tech distributor and solutions aggregator TD Synnex to bring the company’s MLOps machine learning platform to a wider audience of channel partners and potential customers,"
 publishedDateTime: 2023-01-24T14:02:00Z
-originalUrl: "https://www.crn.com/news/managed-services/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex"
-webUrl: "https://www.crn.com/news/managed-services/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex"
+originalUrl: "https://www.crn.com/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex"
+webUrl: "https://www.crn.com/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
   name: CRN
@@ -24,17 +21,6 @@ images:
     height: 459
     isCached: true
 
-related:
-  - title: "TD SYNNEX (SNX), Domino Data Lab Partner to Boost AI Adoption"
-    excerpt: "Incorporating Microsoft Azure Active Directory, TD SYNNEX’s SMB solution ... incorporated with Google Cloud’s capabilities in artificial intelligence, machine learning, data analytics, infrastructure, collaboration and many more things."
-    publishedDateTime: 2023-01-25T17:08:00Z
-    webUrl: "https://www.nasdaq.com/articles/td-synnex-snx-domino-data-lab-partner-to-boost-ai-adoption"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-
-secured: "nwgU0tccsJ4Nwzge7+5HzAsDYA2EvvljSi6ECZz46yjjgxF9erNKXbJEMDWpRXFzSj+h0JoV2TN2ji7B62QIinjOE22fV85+EYZIKsTLk5vShSXCU2Arq+KIpbulicAolqwij5XkhPdNj3Au4OXZ0W31SBslGTSJsRaapZXmELFr/Rww6Qxime10CvnWH2l8F2peF0ruKIKj5Kyy4R1SOcaaxFCfuQcacZIzbm1osTqPS1dFFEc+MOTdtXg9nYwtQR+PVqJ+8ORQEQ3sptroQaUkJaoJFjJ1MtVz90N9MzMM7jsUrnBSa66mQUsdzVlajVGr+mOgA8ew/DZMIKKRkeHzySnhYlS00soCWQHbB+m4RABUTOuAAMQlEBGFyqjUYlZQzvBSjj60X33Wjt40F84EQhiMdR903BXHiVbgPNvAyssEdKUFo2PKzxDAtER1lkPY/6OUgtPLfFsWhZXfXjQ7gNHSyaO91NG5ISjdd/SyiPr77GYuSsMXPcqh2dfHmelIZElGA+KV9N4bRfua8w==;NgHXY6LDSqb9/v6D39F+kw=="
+secured: "3HVX/RBJVjw78lDdZjrMR/8fYOzJzOyAheFkJe+W2N6klHQC8GvnN+2oI+7fHWA/4rUELZ8aeEboxJmXeefwRxSog2dUu6R4sxLnSZM2rm2X7V8ycnVIwDOBJmVVLaQAIUiEoMd7a5JmbngOq07BILFkcuetepF+kad7agAcvVw3k0VmQ/8GHFvOx6GSFmR9IKGV/y6FXnhKhs0jGUbtsxAflLbUaDv6j8fW+4b6TXOF/iQdnxID6SV85s80uaQZ4aFUS0UEkX6xhuqikx3XJvZkVT2QMaMb+PWYbvZZoTqtsToEmyDFGZ0gMUfKYNra47wl3d9EHpveZF4qK5eRhBXSYqNscPTwBp6CztaaUL4=;0pVS45IpFw2V3p/alLzYKg=="
 ---
 

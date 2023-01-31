@@ -454,6 +454,33 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 17
+  - title: "ChatGPT and AI tools can replace jobs in many industries; Know details here"
+    excerpt: "Artificial Intelligence and chatbots such as the now viral ChatGPT can impact jobs in a range of industries as they have the ability to write specific content."
+    publishedDateTime: 2023-01-31T13:49:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/us/chatgpt-and-ai-tools-can-replace-jobs-in-many-industries-know-details-here/articleshow/97496727.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
+  - title: "More debate needed over generative AI's health care impacts: ChatGPT"
+    excerpt: "So-called generative AI—algorithms that can be used to create content using machine learning—has been much in the news of late. In particular, the tool ChatGPT, created by Open AI, has attracted considerable attention."
+    publishedDateTime: 2023-01-31T14:05:00Z
+    webUrl: "https://medicalxpress.com/news/2023-01-debate-generative-ai-health-impacts.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
+  - title: "HourOne launches new AI script-writing feature with Open AI’s viral ChatGPT chatbot"
+    excerpt: "Hour One's new Script Wizard feature allows for scripts to be automatically written by GPT3. Users can also select prompts such as “make longer” or “make professional” for Script Writer to make changes to their original written scripts or change the tone of an existing script."
+    publishedDateTime: 2023-01-31T14:31:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/01/31/Technology/hour-one-chatgpt.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 13
   - title: "ChatGPT Privacy Threat is Real and We are Late"
     excerpt: "Working with neural networks is such that it is almost impossible to set standards on how AI systems should be made and tested"
     publishedDateTime: 2023-01-30T12:20:00Z

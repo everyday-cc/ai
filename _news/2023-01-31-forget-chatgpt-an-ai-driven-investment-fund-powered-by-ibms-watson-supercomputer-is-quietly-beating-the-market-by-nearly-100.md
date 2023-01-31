@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T14:55:00Z
 originalUrl: "https://markets.businessinsider.com/news/etf/chatgpt-openai-ai-powered-equity-etf-aieq-ibm-watson-supercomputer-2023-1"
 webUrl: "https://markets.businessinsider.com/news/etf/chatgpt-openai-ai-powered-equity-etf-aieq-ibm-watson-supercomputer-2023-1"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Business Insider

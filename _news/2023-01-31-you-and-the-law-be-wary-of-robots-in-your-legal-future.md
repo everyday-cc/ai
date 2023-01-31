@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T13:30:00Z
 originalUrl: "https://www.times-standard.com/2023/01/31/you-and-the-law-be-wary-of-robots-in-your-legal-future/"
 webUrl: "https://www.times-standard.com/2023/01/31/you-and-the-law-be-wary-of-robots-in-your-legal-future/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Times-Standard

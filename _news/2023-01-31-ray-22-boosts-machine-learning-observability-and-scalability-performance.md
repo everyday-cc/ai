@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-31T14:00:00Z
 originalUrl: "https://venturebeat.com/ai/ray-2-2-boosts-machine-learning-observability-and-scalability-performance/"
 webUrl: "https://venturebeat.com/ai/ray-2-2-boosts-machine-learning-observability-and-scalability-performance/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: VentureBeat

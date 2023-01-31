@@ -144,6 +144,15 @@ related:
         width: 1024
         height: 400
         isCached: true
+  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
+    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
+    publishedDateTime: 2023-01-31T12:50:00Z
+    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 34
 
 secured: "fP72NA6ETj1jS8Q31I9v0LdGaLLBMy6j3BFlCNeotg/bp7SuEnjdaLgPDu5viry/rFo9nUNOub3LcYasgXpoi/eId83SA+0HcF5KHWqln9P5CVqauexMQ8nazNyvj/0L8jEPwToBgWFQng9V5XGJcx3mjePwYBRSowQDBi+yyTg0Q63D1cGB0WDivFPH/sI8rUg0H5VcWWJdKDdcc9IDQ/gsg/3xrBa4SGO0g1ljC1XCo2iwJhPKVuP+OswjyhfEdFCm8QIBWw7nvfTOQw/5pJM6136Guw0AhGPiUhpug4z9m6u6pZzi+NdB/YQGlKIbjVSaBCDgLKvTy9ug5Nq2YEcbr1n25UqK/UIwYk0730vMkpzn/Vaou2/nD1qfglOgVtbP+7hluce0L5CCqT0SVXpRGfbUArE4bIgv2dygrtJkpstagZ7TTR17W6vdzuPYJnm78CoHKvkSIn9f5pHWE2Lhgf0Yk6H/7zbcWjURA0nyfPijKyYc12m9SXBOkYJaRyFQnzGUeJaZi/A7sFnPsw==;MpivYNce6x5qhmuyipw2hA=="
 ---

@@ -37,8 +37,8 @@ related:
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-01-31T00:25:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/01/30/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    publishedDateTime: 2023-01-31T15:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/31/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
       name: Law
