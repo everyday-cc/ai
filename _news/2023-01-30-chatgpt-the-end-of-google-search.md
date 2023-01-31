@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is ChatGPT Becoming Synonymous With Plagiarism in Scientific Research?"
-    excerpt: "Holden Thorp, PhD, editor-in-chief of Science, highlighted the capabilities and potential benefits of using ChatGPT and other language-generating AI programs, but emphasized that this technology should not be considered true authorship for scientific papers."
-    publishedDateTime: 2023-01-26T19:37:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/102830"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 4
   - title: "How Will ChatGPT Impact the Tech Sector?"
     excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
     publishedDateTime: 2023-01-30T18:38:00Z

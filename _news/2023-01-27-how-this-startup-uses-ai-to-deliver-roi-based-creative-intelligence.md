@@ -37,6 +37,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 86
+  - title: "BuzzFeed announces plans to use AI for content creation"
+    excerpt: "BuzzFeed announced Thursday that it would begin using artificial intelligence to help generate its content. The company will partner with OpenAI to start producing \"AI inspired content,\" according to CNN Business,"
+    publishedDateTime: 2023-01-26T23:22:00Z
+    webUrl: "https://justthenews.com/nation/technology/buzzfeed-announces-plans-use-ai-content-creation"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 39
+    images:
+      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-02/GettyImages-1071861718.jpg?h=199d8c1f&itok=CCgW1Cd3"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "+Cp+b9YZMNdcWczw59ocG4yoiO4WF6LC37trzeH52Qa/KOECKx5DGbhoRptDcWnwW0VyXtmoVmJMpaOeN51j5vry7AlAcA7ufwruq0AnfCucZiT0+wjnto5hsk8exrf/PhK9JBemRNuTVxbnc5y/7j5Hr50ifA5tG9CQJWIqp6SkpAa5OJ+b44MOIPsCneGBECtNmdwRRCs3pnG7dyLt0sNR8rcmzn1P2FbYD6JQAyJ/H/dzQIWQzA5nRlZ6S/KN+IQ7+NzXANg/ndaclaukXE/b/YivzJhbFwYFDnuDy81EtCFjkYn7IPqBmgW1sNk2zBESIJuTcBalfltM0/xu32SucPpRBjvqFYWNvqJS4KE=;hE44RZvP/XBtOAk+Vt3LqA=="
 ---

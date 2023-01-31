@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
 type: article
 quality: 100
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Artificial Intelligence Software Market Major Segments, Size Parameters and Topmost Key Players - Google, Baidu, IBM, Microsoft"
+    excerpt: "With the aid of this study, it is possible to effectively determine the current situation of the Artificial Intelligence Software market and the trends that will influence it between 2023 and 2029. The solutions presented in this study will assist market participants in formulating plans for seizing any opportunities that may arise in the future."
+    publishedDateTime: 2023-01-30T21:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-major-segments-size-parameters-and-topmost-key-players---google-baidu-ibm-microsoft-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TurboHire now available in the Microsoft Azure Marketplace"
     excerpt: "TurboHire now available in the Microsoft Azure Marketplace - Recruitment automation platform TurboHire announced its availabilityin the Microsoft Azure Marketplace, an"

@@ -101,6 +101,15 @@ related:
       name: The Asset
       domain: theasset.com
     quality: 19
+  - title: "Open Banking and NeoBanking - Fintech Trends For 2023"
+    excerpt: "Two of the most important trends will be popularized services in neo-banking and open banking services. You will get more information about  these and other new fintech trends down below. Fintech Industry in 2022 - What Has Changed and What Were The Main Trends As investments in fintech significantly increased in 2021,"
+    publishedDateTime: 2023-01-31T11:19:00Z
+    webUrl: "https://www.finextra.com/blogposting/23653/open-banking-and-neobanking---fintech-trends-for-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "The fintech sentiment: Data Privacy Day 2023 and the policies protecting financial services"
     excerpt: "Data Privacy Day – also referred to as Data Protection Day in Europe, is an international event that occurs every year on 28th January and promotes privacy best ..."
     publishedDateTime: 2023-01-31T09:03:00Z

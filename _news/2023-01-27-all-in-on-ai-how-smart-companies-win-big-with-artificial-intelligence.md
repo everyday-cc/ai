@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How companies can practice ethical AI"
-    excerpt: "The team can be customized depending on the business’s needs, but here is a general example of a robust team for companies that use AI-enabled technology: Chief ethics officer: Often called a chief compliance officer, this role is responsible for ..."
-    publishedDateTime: 2023-01-26T19:08:00Z
-    webUrl: "https://venturebeat.com/ai/how-companies-can-practice-ethical-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-01-31T00:25:00Z

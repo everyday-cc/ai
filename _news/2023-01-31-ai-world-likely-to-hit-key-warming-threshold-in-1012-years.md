@@ -51,7 +51,7 @@ related:
     provider:
       name: wusfnews.wusf.usf.edu
       domain: usf.edu
-    quality: 33
+    quality: 35
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/7914374/2147483647/strip/true/crop/7330x3848+0+824/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F31%2Fap23030698135423-801426c71ef831345352daf14a36d2fecd88bf8f.jpg"
         width: 1200

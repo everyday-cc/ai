@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/meta-ai-facebook-instagram-reels-ad-t
 webUrl: "https://www.wsj.com/articles/meta-ai-facebook-instagram-reels-ad-targeting-11674829286"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Wall Street Journal
@@ -27,17 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "How Roomba tester’s private images ended up on Facebook"
-    excerpt: "Reporting: A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook? Roomba testers feel misled after intimate images ended up on Facebook; We meet: Eileen"
-    publishedDateTime: 2023-01-26T19:17:00Z
-    webUrl: "https://www.technologyreview.com/2023/01/26/1067317/podcast-roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy-consent-agreement-misled/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 4
 
 secured: "rqjJw8wzs5+MATH+hvDxe9oYhrvGX4HKYwibMWTlthC1yT28XUdccvqxmBC9nAjrcHEiAMy5k7uIo6KiQH9m5AZdfHRYOlT07zYwWo+EpeSfsIfT4HADtQlLfnVOutGqew36ZmRzP2e0uDg9u1of7LL62b1koBfWA8BJv4hs9MZSBsocR3vdb7Jb7Q3Lv4eELfaR+5krhE4+q0uxzbIXX2qYIBxHCz+uXiSdwJP3e/hl7ZHLn7pFTPEg8nNstXcVOO4FNAxTAC+94fVGLm2TMK5mKYmaJ8kZbRzRgQu4Eo8jP8a06JDtTKLvhngLsKHsaVAhjuiMgsXZ1Qmz6qm/e1A0NKYndHAVbRJh/wEADRlwzixogsntak6kOfmVsWAqmUZ5LxMLtGJfEiA9SlKQy/xfKdl0ouDQhDssoK0jbCenc1mVNm7yLBz1cskyU7mlzLVdXt56PW/X9P9HSK13V0tHqKW+g3tkHfUeHB/ks1I4zqFItMJ5Wl70OlNk/J7M22sUh/9DXERLngP9NTjKLw==;wzpjn94XWZ+nQQh80E6dfQ=="
 ---

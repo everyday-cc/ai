@@ -3,20 +3,21 @@ category: news
 title: "BuzzFeed to use artificial intelligence for content"
 excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
 publishedDateTime: 2023-01-30T17:33:00Z
-originalUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-webUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-ampWebUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+originalUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+webUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+ampWebUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: fox17online
-  domain: fox17online.com
+  name: TMJ4
+  domain: tmj4.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -26,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "BuzzFeed To Use ChatGPT’s AI For Content Creation, Stock Up 200%+"
-    excerpt: "BuzzFeed, the publicly-traded content generation platform, is going big on AI-generated content. And Wall Street is noticing."
-    publishedDateTime: 2023-01-26T20:28:00Z
-    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/"
-    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/01/26/buzzfeed-to-use-chatgpts-ai-for-content-creation-stock-up-200/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d2ef1d548d5f099c9d57eb/0x0.jpg?format=jpg&crop=2176,1224,x0,y204,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Pivot to ChatGPT? BuzzFeed preps for AI-written content while CNET fumbles"
     excerpt: "On Thursday, an internal memo obtained by The Wall Street Journal revealed that BuzzFeed is planning to use ChatGPT-style text synthesis technology from OpenAI to create individualized quizzes and potentially other content in the future."
     publishedDateTime: 2023-01-27T18:09:00Z
@@ -132,6 +117,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "A watermark for chatbots can spot text written by an AI"
+    excerpt: "Hidden patterns buried in AI-generated texts could help identify them as such, allowing us to tell whether the words we’re reading are written by a human or not. These “watermarks” are invisible to the human eye but let computers detect that the text probably comes from an AI system."
+    publishedDateTime: 2023-01-27T12:26:00Z
+    webUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/01/GettyImages-1405584647.jpg?w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Buzzfeed to use AI to ‘enhance’ its content and quizzes – report"
     excerpt: "Platform will also use technology from ChatGPT’s artificial intelligence firm, Open AI, to ‘inform’ brainstorming"
     publishedDateTime: 2023-01-26T23:00:00Z
@@ -148,20 +149,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "BuzzFeed announces plans to use AI for content creation"
-    excerpt: "BuzzFeed announced Thursday that it would begin using artificial intelligence to help generate its content. The company will partner with OpenAI to start producing \"AI inspired content,\" according to CNN Business,"
-    publishedDateTime: 2023-01-26T23:22:00Z
-    webUrl: "https://justthenews.com/nation/technology/buzzfeed-announces-plans-use-ai-content-creation"
-    type: article
-    provider:
-      name: justthenews
-      domain: justthenews.com
-    quality: 39
-    images:
-      - url: "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-02/GettyImages-1071861718.jpg?h=199d8c1f&itok=CCgW1Cd3"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
     excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
     publishedDateTime: 2023-01-30T19:36:00Z
@@ -172,6 +159,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "ixVOGsRotYRMcgufTXpfFMd6wPVi7IPBMFdu+5qjpISKUTrrftsZMlIl6Ep939Hbvv4HnMgOukecBaMloYinv+hBCxDkAz6v7kcmKgr9okgLcQf2N7xQJtcMUM/qhyp6dKOZdziHYaG9NLZqBD4nGTxKX/Kk4/0T82E0vahH+8TQLKdLcIbdDBbWpvmeAWe7MdqnI16g6/+DHLHiQ1scPX/UQ4mUE2TNkEpn/1fjQs3dED+h0rJLW6KxOHHT0DpryLeSvReferQz1kMo1xRhjcuGwsYL3cPz9M/yVBbWta7HK9w/ZZODxszwEZkiLsGl8QOdBfZLoitcgUdV4tfaxjvTP0pAjujNqVRL/vyupmwPdokDdJXv58uiHdyb+AE+mS9M45xm1XnP9IvDRHjbXI+7SRY4FwVqzXjn40dh/cN1XdZeOU8pWgoLUycx25lXwSQGKLNPHZb6XNM6W7v15b+Hj+cohrMmHpLajT/JNwizCOpNEKwNbR2kqI4GvajgxpmU04GC89RhMpV41NhTAw==;/PnN2t05xH2o3zanV6wXMA=="
+secured: "0TQV7j7EQOPNmHStNBzDAF4a4jBfkckV0QRTrIhUzheOZ0l9bvKUx6PkXa7UEhGKHuq/IgloaVdK65yWrHVLnSjOUTnhoVNYsYCUTvWBqG7E65CHHrzTYGDXq6tosjlW7veF+3Fez2xWlDK8q02XXBrCCvdnu4PJ0H5KmyLaG1LiQRxQB7U80WlHu4tWNGgfp6C5WyeCkoEUL2mbMau5PVkeeI9YgLAs7O4dqpwd1qxXWLXTtX7T2DIxWJn5m7Bv50UTL2a7hMwtwZqQwDr9XkOZrPziFyhNap63XIV/YdEZ+1QpzzMiwyjhxtz8wTz2ag3RNJavrJStaIzxirhHMaiSuS0QC1dR58Ldy+bv+M8=;h1xPHKK55lZw5boG3e4Cog=="
 ---
 

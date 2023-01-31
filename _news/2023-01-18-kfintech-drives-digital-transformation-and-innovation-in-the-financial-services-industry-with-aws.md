@@ -1,23 +1,21 @@
 ---
 category: news
 title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
-excerpt: "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,"
-publishedDateTime: 2023-01-18T05:15:00Z
-originalUrl: "https://www.theweek.in/wire-updates/business/2023/01/18/dcm12-kfin-technologies-limited.html"
-webUrl: "https://www.theweek.in/wire-updates/business/2023/01/18/dcm12-kfin-technologies-limited.html"
-ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/01/18/dcm12-kfin-technologies-limited.amp.html"
-cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/01/18/dcm12-kfin-technologies-limited.amp.html"
+excerpt: "Leveraging the depth and breadth of AWS capabilities, KFintech helps their clients digitally transform, providing the best business, program, and portfolio strategies to build the next generation of solutions in the capital market."
+publishedDateTime: 2023-01-18T05:41:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1301274&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1301274&cat=PR News Wire"
 type: article
 
 provider:
-  name: The Week
-  domain: theweek.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
   - AWS AI
 
-secured: "DOd5kRIDZsUS1VMp70odsrMgw8a5tqOz666g9K9YNLjQBNHsmv+TcUUKiptx3ywMBNpUOdU9SrMnGs2etwxs18z+0WKGIBTmmkFbpkqoOiAp1U7W/3svYpz+i9sbuqP105Wj4c/qt63vTiIu+SLozPorodDZf1ZpnfPhuVNA98ZFmN9iJSh4CpUo00PvEJvEa4urKfQrkdTsvsmMHMYK7vLZEVFktgcIKCE9CRcEWmktxpRJFjbE7EFjJ8vZno+gXcmVBQe/3Fa/2/38WdQ6HbCYbW6nd+E4UAp5BuHAaV3aSHslDUXNoiboaAYokF2ANKEZVWCH5Q9P/prGW/ZKTHM4jrBgIf++8BsnHoTg4cA=;rTDmJZLeY2hyXT5R3wPZtg=="
+secured: "sqy3ps7YtGpjzgmkcyTybSojnyK6iahDSi+mhZt5IXNE1Huot6DdxC8y7ojC8Qg3qzKAVS7y+8SlQGubBfsJQYOuooi/DPxepAqTkTO7e0JDTw1Z1hXKz3Z7BZ4e9HETbH+eDlyUZF25GgMJa3S5A831GrbLSvWL6XiSei1X/vVFs5+896RWvg5JJhWSttRwCBnyTu3XkdxftqNjH/EPApnYuCN4q1W76dUsGxLKgCc2pg7R2GnmtUlffQBHkSjVS3XPhaWgZ/kUVIrSOm6pejWw1KGDdwyEQrAwYIZ1ZljT+r1rwoTD48kzTCabq+svhV2r3+WcrvUy4IZVfmtsTz45jladUPcSBG03LfqBbIM=;oCYCDgkZylJbAlht6sgSyA=="
 ---
 

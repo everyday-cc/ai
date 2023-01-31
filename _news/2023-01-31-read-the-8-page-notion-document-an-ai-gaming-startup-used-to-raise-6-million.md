@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-31T10:20:00Z
 originalUrl: "https://www.businessinsider.com/notion-doc-ai-gaming-company-used-to-raise-6-million-2023-1"
 webUrl: "https://www.businessinsider.com/notion-doc-ai-gaming-company-used-to-raise-6-million-2023-1"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/63d13cf1def14100198e323f?width=1200&format=jpeg"
