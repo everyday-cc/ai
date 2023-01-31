@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "C3ai has soared 86% year-to-date as investor frenzy for artificial intelligence builds amid ChatGPT success"
+    excerpt: "C3.ai soared as much as 28% on Tuesday after the company said it would integrate ChatGPT into its product suite of artificial intelligence tools."
+    publishedDateTime: 2023-01-31T17:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/c3ai-stock-price-chatgpt-investor-frenzy-openai-success-artificial-intelligence-2023-1"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/c3ai-stock-price-chatgpt-investor-frenzy-openai-success-artificial-intelligence-2023-1?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/c3ai-stock-price-chatgpt-investor-frenzy-openai-success-artificial-intelligence-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/63d93d3d0a08ae0018a62c1c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
     excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
     publishedDateTime: 2023-01-27T12:00:00Z
@@ -275,20 +291,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "ChatGPT Is Just The Start: AI Is Rewriting The Data Center Real Estate Map"
-    excerpt: "ChatGPT is the tip of the iceberg and growing demand for AI will dramatically change where and how data centers are built"
-    publishedDateTime: 2023-01-27T01:50:00Z
-    webUrl: "https://www.bisnow.com/national/news/data-center/chatgpt-is-just-the-start-ai-is-rewriting-the-data-center-real-estate-map-117396"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 39
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F01%2F63d31190ee587-pexels-tara-winstead-8386440.jpeg&width=1200&sign=ksa2s85Cfnmm2JF0eU-1VRTJ3mMhd2rji3AWMwYfTdc"
-        width: 1200
-        height: 816
-        isCached: true
   - title: "Generative AI like viral ChatGPT lands on DISA technology watch list"
     excerpt: "An Air Force official said the military must \"automate more\" in order to remain dominant in a world of advanced computing and quick decisions."
     publishedDateTime: 2023-01-27T20:13:00Z
@@ -373,6 +375,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The AI immune system that's changing our understanding of human health"
+    excerpt: "Artificial immune systems are intelligent algorithms based on how the immune system learns and remembers and could transform our ability to protect ourselves from biological – and technological - inva"
+    publishedDateTime: 2023-01-31T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg25734243-700-the-ai-immune-system-thats-changing-our-understanding-of-human-health/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/31114705/SEI_142264558.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
     excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
     publishedDateTime: 2023-01-27T14:41:00Z
@@ -423,6 +439,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/maxresdefault.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "ChatGPT is just the beginning: Artificial intelligence is ready to transform the world"
+    excerpt: "New chatbots capable of generating text and images from a few, simple prompts provide glimpses of how AI could change the workplace, education, superpower relations and our daily lives"
+    publishedDateTime: 2023-01-31T18:37:00Z
+    webUrl: "https://english.elpais.com/science-tech/2023-01-31/chatgpt-is-just-the-beginning-artificial-intelligence-is-ready-to-transform-the-world.html"
+    type: article
+    provider:
+      name: El País in English
+      domain: elpais.com
+    quality: 29
+    images:
+      - url: "https://imagenes.elpais.com/resizer/uFHzXcVK7ndKQfi5DOdlSPtYh_g=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/2JLRGDW6XVFK3BRIMXRPEMWY5Y.jpg"
+        width: 414
+        height: 276
         isCached: true
   - title: "The Hidden Cost of ChatGPT for Indian Languages"
     excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
@@ -483,6 +513,15 @@ related:
       name: Sports Business Journal
       domain: sportsbusinessjournal.com
     quality: 13
+  - title: "Hour One launches new AI script-writing feature with Open AI’s viral ChatGPT chatbot"
+    excerpt: "Hour One's new Script Wizard feature allows for scripts to be automatically written by GPT3. German sports media outlet Ran has used Hour One’s pre-recorded virtual human avatars to read scripts for soccer video content."
+    publishedDateTime: 2023-01-31T17:03:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/01/31/Technology/hour-one-script-wizard-chatgpt.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 12
   - title: "ChatGPT Privacy Threat is Real and We are Late"
     excerpt: "Working with neural networks is such that it is almost impossible to set standards on how AI systems should be made and tested"
     publishedDateTime: 2023-01-30T12:20:00Z

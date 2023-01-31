@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-softwar
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28"
 type: article
 quality: 64
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "A New Voice Recognition System Market Size 2022 Reports On Company Insights That Seek Out New High-Growth Sectors in the Industry to 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Voice Recognition System Market Qualified Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape ..."
-    publishedDateTime: 2023-01-27T02:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-new-voice-recognition-system-market-size-2022-reports-on-company-insights-that-seek-out-new-high-growth-sectors-in-the-industry-to-2028-2023-01-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tDpofxli7lNgzxrSHYwrfqfocl2DGgKiCF/GFqceyl8hEPnPada7bTwjSr42DrpiZ6sWw7zCxag6hdrsiNWycDfpg6aZzxBzwOib8AUH+abpKmiZLVOsYBFJhrVEiznGJXaQIAXTOH3vuUQP2hyu3nlL0GFJkpeHYS8xYgTT6Kv69u6/a4FeA9/OaB3+aY4FuqGMWGO6BBmx6AIhYwMOLcP4GNVN7Jr6rPI+CIZ01/OYAiRUNXnkdpWKfz86/YV7tCDGjouGRb6bTEFrmaQdnTIby68E9F9UZQ5AUi+4osiah4CE0hMCy0+G7SwRkt3XXlfxWqtMDvSyluCSnvmlFCaTN5oReGmMtdxdmNVubC0=;HYTQ83vJQOwGNh0dCqTxJQ=="
 ---

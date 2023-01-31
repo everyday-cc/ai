@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/cascadeo-it-guru-on-aws-charge-tech
 webUrl: "https://www.crn.com/news/cloud/cascadeo-it-guru-on-aws-charge-tech-layoffs-chatgpt-and-why-old-it-world-hasn-t-died-off-yet"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "AWS CTO Slams ChatGPT: ‘Not Concerned About The Truth’"
+    excerpt: "AWS says ChatGPT isn’t correct on cloud computing and cybersecurity regarding the Microsoft backed AI chatbot response on cybercrime and cloud growth, says CTO Werner Vogels."
+    publishedDateTime: 2023-01-31T17:03:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-cto-slams-chatgpt-not-concerned-about-the-truth-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/027d-1733d70b8573-d642fffa319c-1000/werner-vogels-reinvent.jpeg"
+        width: 610
+        height: 457
+        isCached: true
 
 secured: "pfx4pQ/e7yG5EBfwMbgVFlDtV/oz07WrepgCOk0T1l5xzB9fDISvklj5q+w9iMkyOrQtF+yoh78ITgVPpU4GILUOLku76VSF+WlvmU7afGDlUfLyuqU/zICdZ5z3a6q/fAAapyvJ7bwykJDxQ8i5H54ukbcoD/LCFrr/9KWUwl1VvbDZoGeCp+0AXhIh1Ll4soSid+MuAccrVlkpHz1LWZHtnlZfyh38cUiX+nTA/QU8UfIkRdaZgwCj2Wb+gKnTd8F9xoHjYrDmbxaNJbQektn8ytFgBOZxyBZjrSB2y67y1u2YtDICjAXl4DFe+a3u5zDfvbpiX5m0JcUlyZdTZUY+QFXCrLBbQfjBnZQEfpRWMdldgZ26wq1TSle7GUTqQCHUAqHQMznP4M/R0ymC+pkIyRqme7BqdIqYC8wBs75YpL94MBgvLPte3+uab4MH3wE5LPg3v7yF/JEMGtJdRvd8oX9XIl0dAVZBxPdaDKcDHSy2JVNcOoOF+yODveJEUk3mxYumB6T+oNUqpyt9lQ==;NXLhCsykbPDPz3l830V4Xw=="
 ---

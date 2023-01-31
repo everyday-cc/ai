@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-01-framework-social-intelligence-home.
 ampWebUrl: "https://techxplore.com/news/2023-01-framework-social-intelligence-home.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-framework-social-intelligence-home.amp"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/a-framework-that-could.jpg"
@@ -26,6 +27,6 @@ images:
     height: 922
     isCached: true
 
-secured: "e597Sbu6r00oxv1+q7lzYTeNvssiyCTYH0mbicKsQq+VcjIB08yr5IIBvgN4dTb+ztzl0DcrY06/rajG9+mZ4rmWhqrdw2tvO/uaGaA49FttWFrhFis2lxnCPBJDvyE7VUpEzFWhOVRMokWic6ywMxfFAjEbTj+8BtXBmM+44fgPFPVF0mxz5oxatzUV84sOH61CqcvMKH5pck6iyKuZaJ3ZRXGnVzdoqQvL+DXc9HpmhPgdfz/Uye4iCgjoz8GFuOpCP9YQheByGhEnQB/RXj5Ue0y0mrXKoi7Yld+GhZtljI6AdZ+XgToQuSrSeBVt+JO5StWMgGOHBRSZkZqxmMDGsPoDECxGeg96uk406C4=;anciLJAhqeO9e/nOkMbFtQ=="
+secured: "hDbz5oowAJ+6oghV2cD+IWn12/iXoyYzth90x3cldGz8VBYi4oZlUj+YMAzMtxucSktk5iNgUg+38Difo2K2fV/6uazbpd4+c+5/jF8rZ1C1eSlEn+YW+sGnf6c/ED5CM+8hqf2oFU1ZrVU1ljq5X+N9ONpcypxxvcDN7A8/rdKDvHtdNKcOac2HxoalN3mQaKkZ2bEa8oCviN5Ib2hh+skh7pE1dCUrUu9wS3B3GvJh+85csgCB96KRjYCbJzF7mX+G4MlunRGbRUo8Y+jSv6Rv8LxpuLNXneGdyeSGAwqBHt3tTXRYteulVGhqOZOBjmF0uvx3En7zD46vvhiwvsheCrHmjBbXbnOF+BDGyVwfCJrJAHtS8zWA9zcZ3BKoaZWi2AqfXuH/m3s6ISC9S5tTjQ9dnomRtvMNqjPGXLASEdWlqaotgsBqtRxRZkvn302S20f/QDrft75V7kj6C5gyN2t5uPCK8LzibhwaR2hmeYLLs9Z9WXaSUr6deJKu5vXgOJbug/OSb9C769MTXQ==;O1E+GNypODEtymsTf817uQ=="
 ---
 

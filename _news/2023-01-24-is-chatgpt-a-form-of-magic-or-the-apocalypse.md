@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://static.ffx.io/images/$zoom_1.0347%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_248/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/17c81cf72fe7d0573f6927940263850e594b7139"

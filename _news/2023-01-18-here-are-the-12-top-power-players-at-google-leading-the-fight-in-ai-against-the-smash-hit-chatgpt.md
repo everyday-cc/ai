@@ -22,6 +22,7 @@ topics:
   - Microsoft AI
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/63c0772f1f388b00195f4423?width=1200&format=jpeg"

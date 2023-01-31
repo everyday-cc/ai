@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Faces Justice Department Probe Over Self-Driving Tech"
+    excerpt: "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,"
+    publishedDateTime: 2023-01-31T18:05:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/5b05f17d495a4f8a8d52e7118734048460c09c39/hub/2022/09/30/fb452108-55bb-4ac9-a2e2-4ea9f76d929e/20220929-tesla-fsd-beta-01.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US investigates self-driving claims made by Elon Musk for Tesla: Report"
     excerpt: "The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk. The SEC probe is to determine if the electric car-maker flouted its rules in promoting its full-self driving (FSD) and Autopilot software,"
     publishedDateTime: 2023-01-29T06:17:00Z
@@ -282,6 +298,6 @@ related:
       domain: washingtonpost.com
     quality: 19
 
-secured: "tiN0l/bqOtDDST2T2w5/tIi55cmFfPHCl7XTfBSBIUUPIfOrCZ7BbbwZDlD67S77259ocIapKHGJer/YCaia4pY/EXyusjeBB5H0jb02CYUIJzlhgJMWBNi4SDORtFwpVAzv1RUVa9Kx13t/bSifISby1y2xJcxAxmyLRYGAunKWOA7qEWDJSIPdC9gHjuoLZCBL5htef6GglDoBgLhZN0lvbTNZjLK2dcVPGHAl9xHA8zS1M6Tky61cPMK7LZ8mTggrCwHmGQ7ywaVazXQAJXsOJ4bN3SbPn7G0wGWM23/VL7kZKS6/8oYRlr5dc8mgRczM+jMSCniuK5V19RCCvcojGKvqW28M9qPqDz8UAH0=;0KCGhKxe0zUPQovozVsLTQ=="
+secured: "uzX+gyS/EspVIoAoCXCopfctWNhWvhPB6Zr9FmJc1i60F8DcN3iXuaygmYeYXge8YdJkUa8/rbbDEdMmpYYATwfxVkE37wm+20Ptp9oOhVfRGg4pqmTUJyY02hPGTGgDcupqtqC2aNB3anqvV6JM0PZXT3QUU4xQwH95azRJBzQzpZvAh1BZFq4wRVmMCWvaCt5/2Z5owY2ez0LFt+UH8xKGnZ/VwkvLEPOZ4JUVnQmFQ0CRdNehPUYsEkgGK13CM2OCXv5gMr2OR5ScUs8HeMWubkZ3HslTcH0OvOPaCHMitAigTAFR88Z9aGRTsZaWgRKm1uucP1Uv4wmwmBBIrGzslwi1Oz1aSR9cmV2XihuDamB0phqh6QlGM8J4B+1UasbLOTpcPJ7pLIWkal/ohTswas4FxpVgCLueHZfFtUVmNGM3MIriootJtOxtDg2ZijNxlPUaqPsVUkugtZkZ2/CwGJeX2n1THIsT2n//aHjN7rrDCs4V0+Dqmqr1kIQHuFW/99XEW7J6BHQJL6pCAg==;X+qhLtwwqTqsJy1QR2q2Gw=="
 ---
 

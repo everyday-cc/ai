@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Faces Justice Department Probe Over Self-Driving Tech"
+    excerpt: "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,"
+    publishedDateTime: 2023-01-31T18:05:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/5b05f17d495a4f8a8d52e7118734048460c09c39/hub/2022/09/30/fb452108-55bb-4ac9-a2e2-4ea9f76d929e/20220929-tesla-fsd-beta-01.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US probes Elon Musk for Tesla self-driving claims"
     excerpt: "The rollout of FSD came at a time when Tesla faces a criminal investigation from the US Department of Justice over potentially false claims related to Autopilot, the company's advanced driver assistance system."
     publishedDateTime: 2023-01-29T07:17:00Z

@@ -65,6 +65,20 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "San Francisco is getting cold feet about self-driving car tests"
+    excerpt: "San Francisco officials have called for a slower, more considered expansion of the use of autonomous vehicles, which have blocked traffic and hampered emergency services"
+    publishedDateTime: 2023-01-31T18:11:00Z
+    webUrl: "https://www.newscientist.com/article/2356888-san-francisco-is-getting-cold-feet-about-self-driving-car-tests/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 24
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/30165435/SEI_142265995.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "ayq60ZTIwac8ZUMwtw+LpF2ROPlzhy9LyjtjObspxrGegV+27U4CJgZ8CUvSv6QmcTCgQ5MKhq8zEsBCvbJ+Ju4sqO0TQnn2g/2vprQjIPtnpvkJliQYG0pxKYnH75lAh7Fc/R3+CtaU/7fXm7L1YjT1gsO5NZpEQz2Eim8rdkQVHhKWU38po+3A8Bo65ziHuaQLjxaFY4/ql63ydOZyjQKFcYyHyVrfBrvrKiT9WnVmFeAPQ83DRluD5prvLbfFrjDAyt0uFcvUNz+JKSY7Bv9P6y2RYskEvggQ5OuBfzteZWbaDe3U6mQjX4t56FwZ+lzsdk6I1i5Nrnbxj1Plj1s/UnVe62iEBMPulD+T+OhYIXHtHOvs/Tm8GW5PKJvz1DPWsyqeLIl3etnXAjQg7SEnW+dcb/16ldGQBcSnJtg0dz2XZt9YT17nxxhN/4WMrZg1naaowYT08I+hyw5kMcQn2ei9LTXYZdFItnxx3F3Mqzrwe45Rf/k/270EfVphSaJ4XlYEuHTTtOn/ecSJPA==;+ZU3Ig/xhpx8oXB5PcMKJw=="
 ---

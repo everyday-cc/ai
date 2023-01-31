@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "BuzzFeed Will Start Using AI to Create Content"
-    excerpt: "Learn More Buzzfeed just stumbled into its latest listicle idea: Top 5 Ways AI Can Scale Your Business. On Thursday, the millennial-focused digital publishing... For more crisp and insightful business and economic news, subscribe to The Daily Upside ..."
-    publishedDateTime: 2023-01-27T01:24:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/26/buzzfeed-will-start-using-ai-to-create-content/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/718208/featured-daily-upside-image.jpg"
-        width: 800
-        height: 640
-        isCached: true
   - title: "BuzzFeed to use artificial intelligence for content"
     excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
     publishedDateTime: 2023-01-30T17:33:00Z
@@ -126,6 +112,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/01/GettyImages-1405584647.jpg?w=3000"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "BuzzFeed’s AI-Produced Content Experiment Is a Glimpse Into a Bleak Future"
+    excerpt: "We can expect a media universe where a shrinking labor force is exploited to feed ChatGPT so it can churn out clickbait."
+    publishedDateTime: 2023-01-31T16:34:00Z
+    webUrl: "https://truthout.org/articles/buzzfeeds-ai-produced-content-experiment-is-a-glimpse-into-a-bleak-future/"
+    type: article
+    provider:
+      name: Truthout
+      domain: truthout.org
+    quality: 37
+    images:
+      - url: "https://truthout.org/app/uploads/2023/01/2023_0131-buzzfeed-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
     excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
