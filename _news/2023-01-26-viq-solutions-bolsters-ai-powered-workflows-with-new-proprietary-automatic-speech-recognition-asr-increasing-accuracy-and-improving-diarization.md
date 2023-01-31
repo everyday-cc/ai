@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JMag-Feb-2023-cover.jpg"
-    width: 350
-    height: 446
-    isCached: true
-
-secured: "sMBdkkybtRPtWrhLPJO5lLXwqT0RayzlY1jytSYfgVwu5fPFHKV5OTWcSXGpgnkLlzyIV+pZzC3N4mi+mO6nfRLDXFJZ3gHRXuCKkTZFSSXy6FQvb7N8QEkW5tiVCpQZ6yt+g/65UjCe7oHVu2Emr4KjicYabrJTR6SHOjyh3rKYVAQfyrnq06u4Uf2Sr6UQJP7lDullErXVy0nOZLy7J86RSftY/Apg73Aho3ja5PygDJ+wKoiYTDYQocxD/ugaBU8LrkV8qI3AMThB0vlFp5vn/qZsGGiDyJgI1AGuSDNekkfjRL5JM/ua9ZesqhoPuS7XVlpxGGf6/X5cu9iQdkGSzzu2Q8fQijP8J6IZ014=;5imGAXyMXH1q95P446MuJQ=="
+secured: "uSoCSakmoT2LoPeOh96r7w5L/IrhCfhd5TP12gfQGQDNkPinTQWU4Rr1h7ICnBvaYJ3m97LrWC1/BIzhEIvgWl+QQIP3l69WciuuFv/LZ6u+nEgheEbTdpNEqfrUHos11JsY1/cRI18aPb3uXoj6bZoj6b7ZBGqztuGvtnnkbl8KpUP0UKSpZ3QHP23h3NHDTT64hR2E4WZLmwFajPTWpmOorVih/gSmvt9BRZDol6WEyvnCI2kegyHl96dRiKYYEzbgQd0U/052F1dqRJuuQ8JzJV1Z4rhsKWUdb3E+mSvpX2c0XAgElak9sd/aC2IfAcWGfZqQdrM/g8wU5qE4e6P/xCpeh9I20+nUDX1iDe4=;ndY2wYO7GFhQVRL74u1DuA=="
 ---
 

@@ -1,12 +1,10 @@
 ---
 category: news
 title: "AI Deep Learning Predicts Brain Tumor Growth"
-excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience."
-publishedDateTime: 2023-01-24T15:21:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp"
+excerpt: "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience. A new study published in the Journal of Theoretical Biology demonstrates how AI deep learning can predict brain tumor progression for glioblastoma from medical images to accelerate precision medicine."
+publishedDateTime: 2023-01-23T22:55:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu"
-    width: 1528
-    height: 800
-    isCached: true
-
-secured: "eVsf5OPkJU62cTROrsspCzepYlX+LfwBbFmF5xencnzvqq+eoxXqL6nTwhqit9RP0ZHd/0K1AWb8dtIcu0xpUWUA0Iz+bTohxypXztfX+pCwVWDmeqKQOQgUZmVfwzTO1EME8GrHO0yIMqd1Tq8J96mVVOJ51BxNdujyKjBy+DOrk3RGySGSGW8m8VxSQ/T2ArE44NWqvRqV7O68RwnKR2j1PCN+lWq2iggT9rPgrihhQHzvFpEZjkb1rM36tD4LxEPwrddVY0n4M2vyoUS8i+jvFnBhWZXeZmQxuZfIy1p69Ch9KVB9UbWGsypFEbMeCzy33Fa/RxBSO7XIr6L1PaalPo3gxjQFI2FkBz1IjUK57KsrTbcv21LWOvgx775tobX+IolSTPTwA8JglHhk55GfGtOzLvFrda0bxODO/Xdlzja89Ls4xLc1gMd2/WpURI0bdmeIqlQzIT4bH+Su08G8SuXV428D/eRTiPncTZ3l0CXnzPotvpUon18dfkgot8pHyP/kERRKmO7jiOnLHA==;lBaD4iTVZjeC3B4Pq8bCIw=="
+secured: "RgQzGS3Ded5/hzNVJnyPZfTEAeZhwzbZG5OUohjDf9thg3cMIso4Cj6Ar3II12yK65K9v5BwLSDVCtaYd8LXDv5/p6Fd3uJk7RyfvKeWYodijU2K62nfsWmQfPQbXftQ+X19npwbSzaw+uk8TOQ85NSt0v96r0Cqc1dIMUrHNMorIG7nEtE/UtsMzZd9ULF0kFOL9pjNYlXg52T4TkUBPOf7CkC1WNIGYOsnAaJ+FamOvmA+9BIRfanvxyWWZu50zyjzo5sI++7tpMasoOnvgsWfSM2q+kECoRKkw3WpJ7vUPxn923zpbXQReINH9yaqpAxtQxgECoE7bnU6b+z3zTa3+kMBMpZykVVQZhBHGfae2SD1He27ruSDwBCpuL43MnXLbQQ+Oog7nuorRmwy2JOy1bO01WdNFCEPJmpCxL6J3tq7OF8x1zbgHHBS17HfrxfRH3ORFaMnEGLXGXH7/lAH4gMZokks/Y7hRATfqWot2ryOaPoDR5gt3f5U9s2yxi8flcB1c/PJM0llMhefgQ==;ox/AKz7BqHy8T9Yd3vaVwA=="
 ---
 
