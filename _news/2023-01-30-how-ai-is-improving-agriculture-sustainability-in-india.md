@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-
 webUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/16/full/1660646326-2135.jpg?im=Resize,width=480"
         width: 480
         height: 359
+        isCached: true
+  - title: "US, India Partnership Aimed At Competing China In Arms And AI"
+    excerpt: "The United States is launching a new partnership with India aimed at helping both countries to compete against China on military equipme"
+    publishedDateTime: 2023-02-01T12:04:00Z
+    webUrl: "https://menafn.com/1105508271/US-India-Partnership-Aimed-At-Competing-China-In-Arms-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-02/01/KP_a60d6image_story.jpeg"
+        width: 960
+        height: 540
         isCached: true
   - title: "U.S., India partnership targets arms, AI to compete with China"
     excerpt: "The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against China on military equipment, semiconductors and artificial intelligence."

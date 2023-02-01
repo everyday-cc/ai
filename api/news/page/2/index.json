@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-31-can-ai-help-researchers-find-intelligent-alien-life.md",
+      "title": "Can AI Help Researchers Find Intelligent Alien Life?",
+      "excerpt": "A team of radio astronomers has been using AI to broaden the search for extraterrestrial life, and the results are promising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897",
+      "originalUrl": "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boomlive.in/h-upload/2023/01/31/997739-dish-space-signal.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897",
+      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897",
+      "publishedDateTime": "2023-01-31T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BOOM",
+        "domain": "boomlive.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-machine-learning-operations-mlops-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
+      "title": "Machine Learning Operations (MLOps) Market Size 2023 With Presentation Outlook, Horizontal Viewpoint, Global View",
+      "excerpt": "Machine Learning Operations (MLOps) Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T16:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-make-sure-your-midjourney-ai-image-prompts-have-this-parameter.md",
+      "title": "Make Sure Your Midjourney AI Image Prompts Have This Parameter",
+      "excerpt": "Welcome to Midjourney AI Monday with tips and advanced prompts to help you get the most out of the image AI tool. In this post, we are going to explore what it means to use the “seed” parameter as a way to keep the Midjourney bot",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/01/30/make-sure-your-midjourney-ai-image-prompts-have-this-parameter/",
+      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/01/30/make-sure-your-midjourney-ai-image-prompts-have-this-parameter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d8537229aebab05b9afec2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/01/30/make-sure-your-midjourney-ai-image-prompts-have-this-parameter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/30/make-sure-your-midjourney-ai-image-prompts-have-this-parameter/amp/",
+      "publishedDateTime": "2023-01-30T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-the-future-of-payments-in-an-ai-enabled-future.md",
       "title": "The Future Of Payments In An AI-Enabled Future",
       "excerpt": "Unless you’ve been in a cave or on a beach over the past month (cue revenge travel meme), you’ll no doubt have heard of ChatGPT, the chatbot on steroids from the company OpenAI that is now fielding tender investment offers at a valuation of US$29 billion.",
@@ -157,7 +306,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -459,7 +608,7 @@
       "originalUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -616,7 +765,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -702,6 +851,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai.md",
+      "title": "Inscribe Secures $25M in Funding to Combat Financial Fraud with AI",
+      "excerpt": "Inscribe recently announced a $25 million funding round in order to combat financial fraud by leveraging the latest AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/01/Stop-Fraud-600.png",
+          "width": 600,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/amp/",
+      "publishedDateTime": "2023-01-30T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1062,214 +1254,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-the-generative-ai-revolution-has-begunhow-did-we-get-here.md",
-      "title": "The generative AI revolution has begun—how did we get here?",
-      "excerpt": "AI in natural language was waiting for a new model that could take advantage of the compute and data that already existed. The big breakthrough was a model from Google called \"the transformer.\" The researchers at Google were working on a very specific natural language problem: Translation is tricky;",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/generativeai10-640x262.png",
-          "width": 640,
-          "height": 262,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/amp/",
-      "publishedDateTime": "2023-01-30T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-microsoft-named-a-leader-in-the-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platform-2022-vendor-assessment.md",
-      "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment",
-      "excerpt": "I am thrilled to announce that Microsoft has been recognized as a Leader in the IDC MarketScape: Worldwide General-purpose Computer Vision AI Software Platform 2022 Vendor Assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cb6d9b82-2d04-4aaa-82cd-3aa9d78dfb23.png",
-          "width": 773,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T00:00:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions.md",
-      "title": "2023 Artificial Intelligence Delivery Robot Market: New Research Report with Worldwide Top Players, Major Regions",
-      "excerpt": "Get a sample PDF of the report at  Key player companies in global Artificial Intelligence Delivery Robot Market are: The report providing scenario of history and present performance with an overview of successful marketing strategies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-29T20:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance.md",
-      "title": "US Defence Department Issues New Directive: Autonomy In Weapons Systems With AI Policy Guidance",
-      "excerpt": "The U.S. Defense Department released on January 25, 2023 its update on autonomous weapons to take into account AI's \"increasing role\" in warfare. This article references also the pros and cons of AI in the military.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d6e7073fdb7283cba89c4b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/30/us-defence-department-issues-new-directive-autonomy-in-weapons-systems-with-ai-policy-guidance/amp/",
-      "publishedDateTime": "2023-01-29T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

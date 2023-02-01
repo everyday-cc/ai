@@ -62,6 +62,20 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 24
+  - title: "AR and VR could revolutionise customer experience in the fintech sector"
+    excerpt: "A mobile application is a great approach to provide such services nowadays, however if you want to take it a step further, you could introduce VR or AR to help customers plan different scenarios. It’s easier to see big documents and charts in a virtual  environment where you can swipe through different options,"
+    publishedDateTime: 2023-02-01T11:42:00Z
+    webUrl: "https://www.finextra.com/blogposting/23655/ar-and-vr-could-revolutionise-customer-experience-in-the-fintech-sector"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/1a9d22c2-afc7-45f4-9ae7-4b0d352e5042.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Budget 2023: Fintech industry seeks RRR–Relief, Reform, and Regulatory easing"
     excerpt: "One of the most important demands the businesses have from the government for the next Budget is to further ease the financial burden for startups in the fintech industry."
     publishedDateTime: 2023-01-29T02:30:00Z
@@ -94,15 +108,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "What are the top 10 ways AI is revolutionizing fintech?"
-    excerpt: "One of the most critical applications of AI in fintech is fraud detection and prevention. AI algorithms can analyze vast amounts of data to identify patterns of fraudulent activity and flag potential threats in real time."
-    publishedDateTime: 2023-02-01T05:45:00Z
-    webUrl: "https://www.finextra.com/blogposting/23662/what-are-the-top-10-ways-ai-is-revolutionizing-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "The fintech sentiment: Data Privacy Day 2023 and the policies protecting financial services"
     excerpt: "Data Privacy Day – also referred to as Data Protection Day in Europe, is an international event that occurs every year on 28th January and promotes privacy best ..."
     publishedDateTime: 2023-01-31T09:03:00Z
@@ -126,15 +131,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 4
-  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
-    excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
-    publishedDateTime: 2023-01-27T19:40:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302526&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
   - title: "Praxent Experiences High Growth in 2022, Accelerating Fintech Design and Development"
     excerpt: "Fintech product agency reports internal and external growth, gains industry recognition AUSTIN, Texas--(BUSINESS WIRE)--Praxent, a fintech product agency"
     publishedDateTime: 2023-01-31T12:21:00Z

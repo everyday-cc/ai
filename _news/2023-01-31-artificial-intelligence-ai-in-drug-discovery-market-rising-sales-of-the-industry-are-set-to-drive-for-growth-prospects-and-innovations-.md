@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-30"
 type: article
 quality: 64
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -114,15 +114,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
-    publishedDateTime: 2023-01-27T19:46:00Z
-    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "6ly8YkzJnS5ba4s93QzyZr3aHLFRJPm+rS1p9pCBTLf1PHtY9b1mdYWpmtRUVDOSUahHo3ls6+FsefyRi3CtWYtwsYbJbWgJwUqGNOAa8BHauOCvoiEJTvPFkg7gk75k43USqA42/YrgrS+Z6gHynv90HRedQA2IeXPlACh3hyg0oWBfC0zVrp0C0LPy7iGbSl+63fdh/chTJVsJ+MWyUntrwC3qc706p4h2NL1Pq66baFKh1ytKZkrhGNqZiSq24HUQWHrQUrkfK4tzy8YDnvWDrRzQHpjO2SYxYE1mSisbUO6xi/FpSk0VzYP53e/4Lu/5RMhNPHHBSulnzdkKMkl8gMXwTgZbJRXP0lo3rSI=;YzPZ6n2DHfwqsDha7cN8CQ=="
 ---

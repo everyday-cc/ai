@@ -113,15 +113,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
-    publishedDateTime: 2023-01-27T19:46:00Z
-    webUrl: "https://menafn.com/1105485570/AI-In-Oil-And-Gas-Market-Size-Forecast-For-2033-Market-2023-Global-Industry-Trends-Share-Size-Growth-Analysis-Demand"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "H+rHiExeKzLi5lxUyXpqMNnmXYGGcFkUWsdSA5aDDEiHoQe3YpikQQMk113mUWZeg60ea7iIMMRiC+8TV3nT0h7i02Ac3oudYNHzKmXMplgZct6wSbD0LA+4Fr2boYgs5l51kEJNnZujVcwX2+rJkHugB2CaspnUhZG8IOtFph9jHx4biNriaj2NNnxRhh7PwufCrKqLUZDzJvRy6iT9oR+Jmee7NH/oDxYezs3amVaRKhjlV6Gqf4zl+x1M/7MZhRWt0AWDR3QeOak3vGdWHyBH9EPSQEP3gYKrhc30AB+SW3/KYj7HIK/C99YXyBj0XTM1TFblrBH8VbN/KLv1Lg4SahZCD7x8wrfVdIOFkts=;LVG9tKI72ceaeE1sttMDsw=="
 ---

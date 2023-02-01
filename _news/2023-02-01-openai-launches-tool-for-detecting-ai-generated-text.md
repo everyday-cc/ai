@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Getting started with Azure OpenAI"
+    excerpt: "Microsoft’s Azure-hosted OpenAI language models are now generally available, and it’s surprisingly simple to use them in your code."
+    publishedDateTime: 2023-02-01T11:04:00Z
+    webUrl: "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "OpenAI launches tool to catch AI-generated text"
     excerpt: "The AI Text Classifier, released by the makers of ChatGPT, \"may help\" determine whether a school essay was AI-generated."
     publishedDateTime: 2023-02-01T01:25:00Z
@@ -41,37 +57,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Why Are AI-Generated Hands So Messed Up?"
-    excerpt: "It all comes down to the images AI is learning from. Earlier this month, Miles Zimmerman, a 31-year-old programmer from San Francisco, was messing around with Midjourney, the AI-powered tool that generates images with a simple text prompt,"
-    publishedDateTime: 2023-01-31T20:10:00Z
-    webUrl: "https://www.buzzfeednews.com/article/pranavdixit/ai-generated-art-hands-fingers-messed-up"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/pranavdixit/ai-generated-art-hands-fingers-messed-up"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pranavdixit/ai-generated-art-hands-fingers-messed-up"
+  - title: "Are You Smarter Than ChatGPT? OpenAI Tool Aims to Detect AI-Generated Text"
+    excerpt: "The tool could help teachers catch students who are exploiting ChatGPT to cheat on homework assignments, though it's far from perfect."
+    publishedDateTime: 2023-01-31T20:35:00Z
+    webUrl: "https://www.pcmag.com/news/are-you-smarter-than-chatgpt-openai-tool-aims-to-detect-ai-generated-text"
     type: article
     provider:
-      name: YAHOO!News
-      domain: buzzfeednews.com
-    quality: 87
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/26/20/campaign_images/9df61c241700/why-am-i-sp-bad-at-typign-2-398-1619469865-17_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
-    excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
-    publishedDateTime: 2023-01-27T21:06:00Z
-    webUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/63d414c4fc18470019551e68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.pcmag.com/imagery/articles/03WPSGVBZZvbzggI35gK5vG-2.fit_lim.size_1200x630.v1675192537.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "CEO of OpenAI says misuse of artificial intelligence could be 'lights out for all'"
     excerpt: "OpenAI CEO and co-founder Sam Altman spoke about the future of AI, good and bad, in the vaguest way possible—which scares me a bit. Altman answered questions about OpenAI, the makers of the wildly popular AI chatbot ChatGPT,"
@@ -101,29 +99,15 @@ related:
         width: 700
         height: 586
         isCached: true
-  - title: "Report: OpenAI hired 1,000 contractors to improve its AI models’ coding capabilities"
-    excerpt: "OpenAI LLC has reportedly hired about 1,000 contractors over the past six months to help hone its artificial intelligence models’ coding capabilities. Semafor reported the development today, citing people familiar with the matter."
-    publishedDateTime: 2023-01-27T21:02:00Z
-    webUrl: "https://siliconangle.com/2023/01/27/report-openai-hired-1000-contractors-improve-ai-models-coding-capabilities/"
+  - title: "Can artificial intelligence displace attorneys? A ‘conversation’ about law with OpenAI"
+    excerpt: "Does artificial intelligence has the ability to replace an attorney? Can it formulate the same responses to client questions that an experienced attorney would?"
+    publishedDateTime: 2023-02-01T04:00:00Z
+    webUrl: "https://www.bizjournals.com/dayton/news/2023/02/01/can-artificial-intelligence-displace-attorneys.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/openai-1.png"
-        width: 859
-        height: 478
-        isCached: true
-  - title: "Artificial Intelligence cheaters beware! New tool takes aim at AI-written text"
-    excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework. Teenagers and college students were among the millions of ..."
-    publishedDateTime: 2023-01-31T19:09:00Z
-    webUrl: "https://wraltechwire.com/2023/01/31/artificial-intelligence-cheaters-beware-new-tool-takes-aim-at-ai-written-text/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 30
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 26
 
 secured: "8Gh+ZuoM1KZ8Kgt4FQWiXqG5m/srR7Rm/hIg6sAziGhanHXKgrin0mtkwr5mb2RtakL3Tiz720zrcAuEqYE0EkpaM0JFrXHou+RroDVhtYKcCT5DJHrltKUtaof67PykxBdwV4Y98rw15HFu2xLw7ySW/DW+JzacpHgLyBJZ06/OpznhUtqZtkgnA4J6h7Lt5IOZ2fg8rJnitcRQsJj7msYmkKZBeD0jqtiYzSGfpCKomGLjgTTICCxSk7/ghW/d1vPo/KxCK2zHwnE24+ad5+mOsi7/p2s/kG94IJUaXtPJ5XHQ1qPa/IyMEDsA/jNyWGkepCY7Lj97HXYU73C5p9KrAzNjE3HurS3nTqrb6GJWGRA2dSKViQr4AMWdjWROuqiAU56DuTU2KlWHmpdTigE+hxbMHyn9bPNTKC7QBFKCLgvb4d0ey/xnWSdxzLxPlgXgkAFau26Il8oqlVIIDv/3DDxLBMnlJJmAQxqXiqo209y7Af8BXMk5Y9H5ndbWtTNTUpMaxM+ibhYzFEkUfw==;B/vbdnM2aU3ILZC+yFhMqw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Rise of Artificial Intelligence: Navigating the Future with AI"
+    excerpt: "Artificial Intelligence (AI) is rapidly becoming a crucial aspect of modern life, transforming the way we live, work, and interact with each other. The rise of AI brings exciting opportunities, such as improved efficiency and accuracy in various industries,"
+    publishedDateTime: 2023-02-01T10:46:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2338982-the-rise-of-artificial-intelligence-navigating-the-future-with-ai"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2338982-the-rise-of-artificial-intelligence-navigating-the-future-with-ai?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2338982-the-rise-of-artificial-intelligence-navigating-the-future-with-ai?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/01_02_2023_16_10_50_4040532.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Creativity or clickbait? Art world wrestles with AI"
     excerpt: "Tech companies tout their inventions as a liberating force of art for all, but purists argue that the artist is still the central cog in the machine."
     publishedDateTime: 2023-02-01T06:46:00Z

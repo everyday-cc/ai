@@ -2,19 +2,19 @@
 category: news
 title: "Self-driving semis focus of California rules, legislation"
 excerpt: "California already has rules governing self-driving cars and delivery trucks that weigh less than 10,001 pounds (4,536 kilograms). Now, the California Department of Motor Vehicles is gathering information for potential new rules that would let self-driving semitrucks on the road that can weigh up to 80,"
-publishedDateTime: 2023-02-01T05:08:00Z
-originalUrl: "https://www.newsobserver.com/news/business/article271851187.html"
-webUrl: "https://www.newsobserver.com/news/business/article271851187.html"
-ampWebUrl: "https://amp.newsobserver.com/news/business/article271851187.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article271851187.html"
+publishedDateTime: 2023-02-01T08:54:00Z
+originalUrl: "https://www.kansas.com/news/business/article271851187.html"
+webUrl: "https://www.kansas.com/news/business/article271851187.html"
+ampWebUrl: "https://amp.kansas.com/news/business/article271851187.html"
+cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article271851187.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Wichita Eagle
+  domain: kansas.com
 
 topics:
   - AI in Autos
@@ -45,6 +45,6 @@ related:
       domain: sacbee.com
     quality: 0
 
-secured: "/bmqMLe45ni7nqa9jdP4+3xz3vnjI0Um3YApsKtaobELOLbPCajOmrDcdkJs5tbfZ+fBwyynZW0MviSdp/uLqslaTjDW0QEMrADSpa9OoaJUqII9aXrpW8reQPnlICsFkcUm+A67JUgIK30y02zcVGgNcp9XdnQVvOrEjniE+5kOaLOBj8NbPnDsbh0FvCV8/JTTqmWqgiyoBmvAcqrKkz1RyiesS862/Qm3f1PfRz4ABc6GlzyU0N8O6x6vgAPDzU7N2nSIIY5ieB05EfnA3Xehqsx7ftCvKFCWNj24i0pep1FGDGVHS6stZ7SspVO98K5OW+lg6QIbjQ6BLGrXAF/FG6lPe8wQOZXSKp81qVe4fS8Ecqh/zuV5pWyd8PEqLRj0xrwsgvAyzfCdnfrwEHIv8fNfT88HJdOfVjzvNO1nHPmFBL6uHs4xXG5r7TCoIJCmQlXa5yciIZBVAklC50zLJds+RMJQHvUjJJ4Wp4ZcHr43ixZNp2uv6iPy96G6jL3dMs9ziM0KN4qNVn67zg==;Lfv7l37Fu7Mt/VTt+ve/ng=="
+secured: "A3P0N6e+dNuZyD7JX2dqmZugNGRaY/7Xf11Z62P7ik4rsFUMb7dJ1pnQ/Wm4kCZFEkNXMrmadjvgw2kNR485ydmF64W9Ln9GkgQ5VhEUjrHQzaL/RAXb57Xu7VsYvpvBN2gAv64ngQO8l1cxmXzftiZsY8iTy5/SbJBDe0gC0TKwAfN4/HjmZ0nSWwNw5kqnvjGptpTBCTZZe6dNcZfu0PKg66eqKf8yaQcORpvN7tdqaaPhRKT/btvE2Vz3WT1P5paKKtsMnDb+UHpLmgb4KegWBsE0FaJVqIsQ/dqhxcWm5Trun2Q4FOVY2AqqDeTLBSnmyEi9CYLdi/yQ2Rq030CN2D9dShvH7KvKvq+tOR0jL4Da1v+mGQ8X0GnWYUP/SKJ5/NTpQEq7WEpbz4SbxqZoqeQfFK6zFLuHOysFnbUso+Y5HPiQRnqPuljXa+z9fYh0jl+DHWKjkPgP6ohmIOCNtSNyU+iMdK3+c02nfXUWICX7zGfroA7Zee3cgVKRq+eq726k5eXu5wdLLGoSlg==;ZThJPJnMsmiNtJALGXxwzA=="
 ---
 

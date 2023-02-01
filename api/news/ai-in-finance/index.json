@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-31-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai.md",
+      "title": "Inscribe Secures $25M in Funding to Combat Financial Fraud with AI",
+      "excerpt": "Inscribe recently announced a $25 million funding round in order to combat financial fraud by leveraging the latest AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/01/Stop-Fraud-600.png",
+          "width": 600,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/amp/",
+      "publishedDateTime": "2023-01-30T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-artificial-intelligence-may-actually-help-humanize-financial-services.md",
       "title": "Artificial Intelligence May Actually Help Humanize Financial Services",
       "excerpt": "Industrywide, we lacked some engagement, we lacked some warmth, we lacked some relevance, particularly through digital channel. We need to re-instate humanization into digital, and AI is a tool that’s going to help us get there.",
@@ -169,7 +212,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1335,58 +1378,6 @@
         "name": "Financial IT",
         "domain": "financialit.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-fintech-stocks-lag-behind-the-rest-of-the-market-should-you-buy-or-sell.md",
-      "title": "Fintech Stocks Lag Behind The Rest Of The Market — Should You Buy Or Sell?",
-      "excerpt": "While financial and tech stocks had a rough time in 2022, fintech stocks continue to lag behind the rest of the market. We explore the idea of investing in the fintech space in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bee7c6c67f5dbd12964a45/0x0.jpg?format=jpg&crop=2490,1400,x24,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/11/fintech-stocks-lag-behind-the-rest-of-the-market---should-you-buy-or-sell/amp/",
-      "publishedDateTime": "2023-01-11T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

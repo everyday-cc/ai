@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "Clothing line created to trick AI facial recognition into thinking you're an animal"
-    excerpt: "An Italian clothing line has unveiled a new style of fashion aimed at evading increasingly invasive facial recognition technology. According to the company, wearing clothes made by Milan-based Cap_able tricks AI-powered face."
-    publishedDateTime: 2023-01-27T20:08:00Z
-    webUrl: "https://www.fox5ny.com/news/clothing-line-created-to-trick-ai-facial-recognition-into-thinking-youre-an-animal"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 28
 
 secured: "r+PVob2T5lEMiIWqYEkHavTmz5G1L1Cd2j0UJxENETN6BmR8Ctj9p4d/PguNRLPRE6r9/pe/hxJXrlYE+N1sKiBgPE+94DDhAndiKshVJqdmzQw6PpojtbiPl4ryEJT6x9apnZQj8r0Bl/UQJvkbtYjHXKMRbl8T8XCWkY8VwGeyOTzNZav5B9t8l3+eq0bpIywCKlrcXI7j1yNGIbuItUupm6uHAtI6J52RrlzDEEpFokr9ckwEOAMxJWRCW20pR0XnVPd7umxoyKdpACpR5vqQH2bsiVbJUeKBVtdYtZ7BR/7ryyW0w9iD8vno6wxFRKPQaE3phG+OQfkweL+Yaipz15pxJ2vYU8APwrmDbU4ECp+u6HDSJNMxGYOjCBDJspNTqiSSxB/Z4NKU/2BkAKl7NGqDyT9QMvsH4ZwuQEZbrslF+nBDkSiTTONNWXEjq3Du3gbiKcR4w6Z7k1t7XrnFWLUaBRN6X/NRGZkjqEnDaf6qQpywNpxZwNVPr3Gt53jajznZCikk5O1icieiZw==;2U5oYG+daapxugdA/JR83g=="
 ---

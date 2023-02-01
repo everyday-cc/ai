@@ -42,22 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google created an AI that can generate music from text descriptions, but won’t release it"
-    excerpt: "Google has created an AI system that can generate songs given detailed text descriptions. But it won't release it for fear of the risks."
-    publishedDateTime: 2023-01-27T19:54:00Z
-    webUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/"
-    ampWebUrl: "https://techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/google-created-an-ai-that-can-generate-music-from-text-descriptions-but-wont-release-it/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/CMC_4141.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google AI Can Turn Text Prompts Into Music"
     excerpt: "Google has made an AI that can transform text prompts into music that lasts several minutes, The Verge reports(Opens in a new window). The AI was able to generate ..."
     publishedDateTime: 2023-01-29T16:53:00Z

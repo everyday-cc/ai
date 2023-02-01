@@ -41,20 +41,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Lawmakers seek rules for artificial intelligence"
-    excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-01-27T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/merrimack_valley/lawmakers-seek-rules-for-artificial-intelligence/article_193cb38a-9e4d-11ed-b71d-27288044a116.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 41
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
-        isCached: true
   - title: "Mass. lawmakers seek rules for artificial intelligence"
     excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-01-30T08:00:00Z
@@ -69,15 +55,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "AI Isn’t Really Artificial Intelligence"
-    excerpt: "Nothing’s easier to sell than a product with a good name. The technology that we call “artificial intelligence” is extremely complicated, but thanks to its name, you already have an idea of what it does!"
-    publishedDateTime: 2023-01-27T20:30:00Z
-    webUrl: "https://www.reviewgeek.com/143948/ai-isnt-really-artificial-intelligence/"
-    type: article
-    provider:
-      name: reviewgeek
-      domain: reviewgeek.com
-    quality: 34
 
 secured: "G/aWQTO8+iLxnShQpA8oziBnntqXUPw6j7uNGozJQnhyV9p3w6XEflZWMlmE/PnR/d7fN/LYvrU00jJXWyZpV20QxUkWJYYFGg074enJ3KSRT0vEyWOQxRvZGhnF6q3IpRDjdoFDCVPrRjayRmQmzOuqkkZYDZUMp0pxrE3VwiG0CY9yal53UhGUDinmf1TofvuzEwamn/0W2DFKZnPHgLbREU+ppGbOhp7exEreGdjuO+2a3ZXsf36Q9WMwAqsCghjG3kimYu9r557BKpuNMMdqkh9kgcMnI8G34tEetfPPGhBR6Ne0PT7AslfSQpk8Tyahp/RxSXJ/JgHqRUpSvZYYerGTKySjSyzGy/nyEdo=;fKZbIHJ3toYFl7CMlU+Evg=="
 ---

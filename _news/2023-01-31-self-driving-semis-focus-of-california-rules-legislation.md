@@ -27,14 +27,14 @@ images:
 related:
   - title: "Self-driving semis focus of California rules, legislation"
     excerpt: "California already has rules governing self-driving cars and delivery trucks that weigh less than 10,001 pounds (4,536 kilograms). Now, the California Department of Motor Vehicles is gathering information for potential new rules that would let self-driving semitrucks on the road that can weigh up to 80,"
-    publishedDateTime: 2023-02-01T05:08:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article271851187.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article271851187.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article271851187.html"
+    publishedDateTime: 2023-02-01T08:54:00Z
+    webUrl: "https://www.kansas.com/news/business/article271851187.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article271851187.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article271851187.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Wichita Eagle
+      domain: kansas.com
     quality: 24
   - title: "‘Loss of life is not recoverable’: California considers authorizing self-driving semi-trucks"
     excerpt: "California’s DMV is hosting a public workshop Friday to discuss modifying state regulations around autonomous vehicles."

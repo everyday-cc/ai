@@ -42,15 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Medical Artificial Intelligence Market 2023 Analysis by Market Dynamics, Industry Trends, Drivers, Challenges, Restraints and Outlook to 2027"
-    excerpt: "Jan 27, 2023 (The Expresswire) -- Global “Medical Artificial Intelligence Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
-    publishedDateTime: 2023-01-27T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-2023-analysis-by-market-dynamics-industry-trends-drivers-challenges-restraints-and-outlook-to-2027-2023-01-27"
+  - title: "Edge Artificial Intelligence Chips Market 2023| Statistical Analysis for Upcoming Business Opportunities and Forecast to 2026"
+    excerpt: "Edge Artificial Intelligence Chips Market” 2023 report offers business strategy, covers complete landscape for"
+    publishedDateTime: 2023-02-01T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-chips-market-2023-statistical-analysis-for-upcoming-business-opportunities-and-forecast-to-2026-2023-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

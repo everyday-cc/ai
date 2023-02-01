@@ -26,17 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "EXPLAINER: What is an Australian Black Voice to Parliament?"
-    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known as the Voice."
-    publishedDateTime: 2023-01-27T19:15:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/world/article271671057.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 19
-
 secured: "W1nOjWM74yXPIijy0o5T4Q8DjdfUDhJ5Gh5wSiXpValZeXZ0Y6fc5Zmpv9u99Amt2o9lD3JXWCw+zIuve6ne2pVk5YDilJOpBWIB203aPsvfhGx388vgatjookwCMKgzrofyNFY1eHk/J9srPgRY57r7f9FctzjeEronSpzd7Vmu1EPI7k0yOiPVsHLZSXuCZAL8i9ctjzygpfYxLw7L2XsdrA9TK6LTfrya6F7E0b+AmYUiDbxvFcw2Xf2vLnRTOPr5q8AhXX+x/1xuiLRsu1IKcpCp5x6+CGg3q8vjjgF3ZrQO0ST6BoD56FFUnkeykZ4GDlmy4GAVx2iSFDmmpE0jL8xY/e2+uFNwI3MpmPo=;cHy0movfuzKLCld+Ku9X6w=="
 ---
 

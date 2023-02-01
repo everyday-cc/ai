@@ -77,6 +77,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 24
+  - title: "AR and VR could revolutionise customer experience in the fintech sector"
+    excerpt: "A mobile application is a great approach to provide such services nowadays, however if you want to take it a step further, you could introduce VR or AR to help customers plan different scenarios. It’s easier to see big documents and charts in a virtual  environment where you can swipe through different options,"
+    publishedDateTime: 2023-02-01T11:42:00Z
+    webUrl: "https://www.finextra.com/blogposting/23655/ar-and-vr-could-revolutionise-customer-experience-in-the-fintech-sector"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/1a9d22c2-afc7-45f4-9ae7-4b0d352e5042.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Fintech focus on ESG, digitization, AI in 2023"
     excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
     publishedDateTime: 2023-01-30T13:03:00Z
@@ -90,15 +104,6 @@ related:
     excerpt: "Two of the most important trends will be popularized services in neo-banking and open banking services. You will get more information about  these and other new fintech trends down below. Fintech Industry in 2022 - What Has Changed and What Were The Main Trends As investments in fintech significantly increased in 2021,"
     publishedDateTime: 2023-01-31T11:19:00Z
     webUrl: "https://www.finextra.com/blogposting/23653/open-banking-and-neobanking---fintech-trends-for-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "What are the top 10 ways AI is revolutionizing fintech?"
-    excerpt: "One of the most critical applications of AI in fintech is fraud detection and prevention. AI algorithms can analyze vast amounts of data to identify patterns of fraudulent activity and flag potential threats in real time."
-    publishedDateTime: 2023-02-01T05:45:00Z
-    webUrl: "https://www.finextra.com/blogposting/23662/what-are-the-top-10-ways-ai-is-revolutionizing-fintech"
     type: article
     provider:
       name: Finextra
@@ -127,15 +132,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 4
-  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
-    excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
-    publishedDateTime: 2023-01-27T19:40:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302526&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
   - title: "Praxent Experiences High Growth in 2022, Accelerating Fintech Design and Development"
     excerpt: "Fintech product agency reports internal and external growth, gains industry recognition AUSTIN, Texas--(BUSINESS WIRE)--Praxent, a fintech product agency"
     publishedDateTime: 2023-01-31T12:21:00Z

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Medical Artificial Intelligence Market 2023 Analysis by Market Dynamics, Industry Trends, Drivers, Challenges, Restraints and Outlook to 2027"
-    excerpt: "Jan 27, 2023 (The Expresswire) -- Global “Medical Artificial Intelligence Market” report gives in-depth data on emerging trends, market dynamics, latest developments, driving factors ..."
-    publishedDateTime: 2023-01-27T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-2023-analysis-by-market-dynamics-industry-trends-drivers-challenges-restraints-and-outlook-to-2027-2023-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Automotive Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2028"
     excerpt: "Artificial Intelligence in Automotive Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
     publishedDateTime: 2023-01-30T18:39:00Z
@@ -52,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge Artificial Intelligence Chips Market 2023| Statistical Analysis for Upcoming Business Opportunities and Forecast to 2026"
+    excerpt: "Edge Artificial Intelligence Chips Market” 2023 report offers business strategy, covers complete landscape for"
+    publishedDateTime: 2023-02-01T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-chips-market-2023-statistical-analysis-for-upcoming-business-opportunities-and-forecast-to-2026-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

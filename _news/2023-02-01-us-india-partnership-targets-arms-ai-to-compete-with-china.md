@@ -71,6 +71,20 @@ related:
         width: 480
         height: 359
         isCached: true
+  - title: "US, India Partnership Aimed At Competing China In Arms And AI"
+    excerpt: "The United States is launching a new partnership with India aimed at helping both countries to compete against China on military equipme"
+    publishedDateTime: 2023-02-01T12:04:00Z
+    webUrl: "https://menafn.com/1105508271/US-India-Partnership-Aimed-At-Competing-China-In-Arms-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-02/01/KP_a60d6image_story.jpeg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "AWS launches Data Lab program in India"
     excerpt: "AWS Data Lab is designed to bring enterprise customers and AWS data specialists together to solve complex data challenges in tangible ways, using AWS products and services."
     publishedDateTime: 2023-01-30T11:35:00Z

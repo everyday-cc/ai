@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-01-getting-started-with-azure-openai.md",
+      "title": "Getting started with Azure OpenAI",
+      "excerpt": "Microsoft’s Azure-hosted OpenAI language models are now generally available, and it’s surprisingly simple to use them in your code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html",
+      "originalUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html",
+      "publishedDateTime": "2023-02-01T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-cloud-and-ai-combined-revolutionizing-tech.md",
+      "title": "Cloud and AI Combined: Revolutionizing Tech",
+      "excerpt": "Cloud and AI, both powerful on their own, are merging into a single entity that is radically reshaping business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/cloud-and-ai/",
+      "originalUrl": "https://www.eweek.com/cloud/cloud-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/01/cloud-and-ai.jpg",
+          "width": 1400,
+          "height": 1138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T14:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-citizen-data-science-and-automation-at-att.md",
       "title": "Citizen Data Science And Automation At AT&T",
       "excerpt": "AT&T has dramatically improved its productivity and effectiveness at data science and automation by engaging citizen development.",
@@ -1302,110 +1406,6 @@
         "name": "Information Age",
         "domain": "information-age.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value.md",
-      "title": "What's new in Azure Data & AI: Empowering retailers to streamline operations and accelerate time to value",
-      "excerpt": "Let’s explore what’s new for Azure Data & AI this month.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/",
-      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c5c54319-99e7-40ad-8031-c81bb273e918.png",
-          "width": 768,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T00:00:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-rob-reiner-grilled-for-praising-biden-as-a-decent-law-abiding-person-poster-boy-for-cognitive-dissonance.md",
-      "title": "Rob Reiner grilled for praising Biden as a 'decent law abiding person': 'Poster boy for cognitive dissonance'",
-      "excerpt": "\"As of now, you're quite literally the poster boy for cognitive dissonance…\" he added. In a separate tweet, Lombardi slammed Reiner's post as a \"propaganda tweet.\" \"Yea? That’s why the FBI tri ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
-      "originalUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Headshot-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
-      "publishedDateTime": "2023-01-16T23:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

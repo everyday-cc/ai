@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
 type: article
 quality: 97
-heat: 307
+heat: 277
 published: true
 
 provider:
@@ -111,15 +111,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "U.S. SEC Probes Elon Musk's Role in Tesla Self-Driving Claims - Bloomberg News"
-    excerpt: "The U.S. securities regulator is investigating Elon Musk's role in shaping EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter. The review is part of an ongoing Securities and Exchange Commission (SEC) probe of the company's statements about its Autopilot driver-assistance system,"
-    publishedDateTime: 2023-01-27T20:31:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-01-27/u-s-sec-probes-elon-musks-role-in-tesla-self-driving-claims-bloomberg-news"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "Elon Musk's role under scanner in Tesla self-driving controversy"
     excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."
     publishedDateTime: 2023-01-29T04:06:00Z
@@ -179,34 +170,6 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1519,w_2700,x_0,y_30/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674853882/GettyImages-1459166551_w5ddls"
         width: 1480
         height: 833
-        isCached: true
-  - title: "Musk faces SEC probe for role in Tesla self-driving claims, report says"
-    excerpt: "U.S. stock market regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving vehicle claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing ..."
-    publishedDateTime: 2023-01-27T20:55:00Z
-    webUrl: "https://www.autonews.com/executives/elon-musk-faces-sec-probe-tesla-self-driving-claims"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MMUSK_0_0_0_0_1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Musk faces SEC probe for role in Tesla self-driving claims"
-    excerpt: "The review is part of an ongoing Securities and Exchange Commission probe of the company’s statements about its Autopilot driver-assistance system."
-    publishedDateTime: 2023-01-27T20:13:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2023/01/27/musk-faces-sec-probe-for-role-in-tesla-self-driving-claims/69849318007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 54
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/12/12/PDTN/cc8da9a6-2a24-4dc3-81e8-519ac02b9f89-TeslaModel3-FSD_ren-cen.jpg?auto=webp&crop=3986,2243,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "SEC investigating Tesla's self-driving vehicle claims made by Elon Musk"
     excerpt: "The U.S. Securities and Exchange Commission is investigating claims made by Tesla CEO Elon Musk regarding the company's autopilot vehicle feature."

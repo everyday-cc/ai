@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/31/dar
 ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/31/dare-you-use-artificial-intelligence-to-write-better-job-postings/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/31/dare-you-use-artificial-intelligence-to-write-better-job-postings/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200"

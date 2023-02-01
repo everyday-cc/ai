@@ -231,20 +231,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Are You Smarter Than ChatGPT? OpenAI Tool Aims to Detect AI-Generated Text"
-    excerpt: "The tool could help teachers catch students who are exploiting ChatGPT to cheat on homework assignments, though it's far from perfect."
-    publishedDateTime: 2023-01-31T20:35:00Z
-    webUrl: "https://www.pcmag.com/news/are-you-smarter-than-chatgpt-openai-tool-aims-to-detect-ai-generated-text"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03WPSGVBZZvbzggI35gK5vG-2.fit_lim.size_1200x630.v1675192537.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
     excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
     publishedDateTime: 2023-01-29T09:30:00Z
@@ -303,13 +289,13 @@ related:
   - title: "BuzzFeed to use artificial intelligence for content"
     excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
     publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    webUrl: "https://www.news5cleveland.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.news5cleveland.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-news5cleveland-com.cdn.ampproject.org/c/s/www.news5cleveland.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
     type: article
     provider:
-      name: fox13now
-      domain: fox13now.com
+      name: Cleveland
+      domain: news5cleveland.com
     quality: 59
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
@@ -484,20 +470,6 @@ related:
       - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/01/29/thumbs/800x531/254190.jpg"
         width: 1600
         height: 1062
-        isCached: true
-  - title: "Generative AI like viral ChatGPT lands on DISA technology watch list"
-    excerpt: "An Air Force official said the military must \"automate more\" in order to remain dominant in a world of advanced computing and quick decisions."
-    publishedDateTime: 2023-01-27T20:13:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2023/01/27/generative-ai-like-viral-chatgpt-lands-on-disa-technology-watch-list/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
-    images:
-      - url: "https://www.defensenews.com/resizer/28N31Ch5RJoUggCCQq_G1YvCgSw=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/VMUM2BXK3ZA6LL2Z4CXBIV6GEA.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Make-A-Video AI: ChatGPT, But For Videos"
     excerpt: "AI chatbots can do your homework, write essays, and explain concepts from a simple user prompt. Soon, it could create videos for you! Facebook company Meta is developing an AI tool called"
@@ -777,15 +749,6 @@ related:
       name: Sports Business Journal
       domain: sportsbusinessjournal.com
     quality: 13
-  - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
-    excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
-    publishedDateTime: 2023-01-27T19:36:00Z
-    webUrl: "https://www.thenewstribune.com/news/local/education/article271689532.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 12
   - title: "Hour One launches new AI script-writing feature with Open AI’s viral ChatGPT chatbot"
     excerpt: "Hour One's new Script Wizard feature allows for scripts to be automatically written by GPT3. German sports media outlet Ran has used Hour One’s pre-recorded virtual human avatars to read scripts for soccer video content."
     publishedDateTime: 2023-01-31T17:03:00Z

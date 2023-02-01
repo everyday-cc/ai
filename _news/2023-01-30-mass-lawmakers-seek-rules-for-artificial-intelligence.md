@@ -42,20 +42,6 @@ related:
         height: 1600
         isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
-    excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-01-27T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/merrimack_valley/lawmakers-seek-rules-for-artificial-intelligence/article_193cb38a-9e4d-11ed-b71d-27288044a116.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 41
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
-        isCached: true
-  - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-01-30T07:01:00Z
     webUrl: "https://www.andovertownsman.com/news/lawmakers-seek-rules-for-artificial-intelligence/article_d595f67c-87bc-5578-a109-012beb521155.html"
@@ -69,15 +55,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "AI Isn’t Really Artificial Intelligence"
-    excerpt: "Nothing’s easier to sell than a product with a good name. The technology that we call “artificial intelligence” is extremely complicated, but thanks to its name, you already have an idea of what it does!"
-    publishedDateTime: 2023-01-27T20:30:00Z
-    webUrl: "https://www.reviewgeek.com/143948/ai-isnt-really-artificial-intelligence/"
-    type: article
-    provider:
-      name: reviewgeek
-      domain: reviewgeek.com
-    quality: 34
 
 secured: "gQkYZ3bIBxzZiAvzdA7omIzgRgPivzZMRdBXbcjXFU6+OmA90J1gX1DgGpZ51imwUVc+xg6GJD+VI7OSrrhCQ3YPjm3cHXIvykFu17sa3NdGrWdgrV2eo3DZ3qDlJzyRR36SCfHgGRmFKaUslK69ggdjPYOwOTfyiNGdA5YbHALvKlnjPaObRwPYQA15gsp7jMCxL+Ty+9lxKrvoLg9p4hvA/cyI9/EpBTs0IiXTtMuTMI9OIdJUPQLvyCHjVad/F973HbFI+51oqBsIoIAvUk7xBJ+/UWegZmZv8PxaLByY2rKywy1Gg3HZLKrQ3umBdUl4qONz8FZGTFs4zT1k5wEUCnKEwNSb45FcAGyB0fY=;4mqWL30Q5PSLSUCAZq4KAA=="
 ---

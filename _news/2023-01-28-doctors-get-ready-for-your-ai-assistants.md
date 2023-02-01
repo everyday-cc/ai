@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-artificial-intelligence-medicine/amp"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lawmakers seek rules for artificial intelligence"
-    excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-01-27T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/merrimack_valley/lawmakers-seek-rules-for-artificial-intelligence/article_193cb38a-9e4d-11ed-b71d-27288044a116.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 41
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
-        isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-01-30T07:01:00Z
@@ -73,15 +59,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "AI Isn’t Really Artificial Intelligence"
-    excerpt: "Nothing’s easier to sell than a product with a good name. The technology that we call “artificial intelligence” is extremely complicated, but thanks to its name, you already have an idea of what it does!"
-    publishedDateTime: 2023-01-27T20:30:00Z
-    webUrl: "https://www.reviewgeek.com/143948/ai-isnt-really-artificial-intelligence/"
-    type: article
-    provider:
-      name: reviewgeek
-      domain: reviewgeek.com
-    quality: 34
 
 secured: "SPiiu6x2IcLCGIBx+UTynNw2q9eDOp0MkUK4nULhOQLrcmX00lOHS36sXfrjLDXLpyV/BctWPwK0RRYNa6t1KM8OhzVdyFQx1CRLEqrX6nckJnANXlVvp2XlQK6PoLudCopsubo6pxi6EdQhzKBND8rpkcmj9oJrHbcCSVTK/E1lSVvmhrmRAuHd1gCZWBS6u9gcx6RxjmjWjD0mcqf+aT+xgxTmjUzu8oIA2fikSoyI3EZb19QRo4V8y2tQddey/Kx88LMvj9NESgrH0dJqerodHqTagxZgVxyPqAHOdQGgp54mR+xbCwUOIeHWX+QD5PxnvHtWbl5EhRBO0ZWX7KBUJ88Gj2LpQO+RxZTRnQ3aUukYkYYYRa5qNp0PuidjAuj6npFZ4t0eMDqAKov8Rqzar8tJ7bmpUchzvw3rHYpkcmcIxU9Ir7NAa1rP/4RrvQQaYWYqsF1OTYdj9nAa5IBv76VBWPMGVg+momgS5Cntf2hGydTrzCCcy7u3qExnPOSB1f+yhYUlhAnKLB/2dQ==;lCvKwWR7oAEe2KnFThHuZw=="
 ---

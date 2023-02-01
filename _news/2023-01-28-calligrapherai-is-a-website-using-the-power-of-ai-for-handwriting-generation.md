@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 1057
         isCached: true
-  - title: "Clothing line created to trick AI facial recognition into thinking you're an animal"
-    excerpt: "An Italian clothing line has unveiled a new style of fashion aimed at evading increasingly invasive facial recognition technology. According to the company, wearing clothes made by Milan-based Cap_able tricks AI-powered face."
-    publishedDateTime: 2023-01-27T20:08:00Z
-    webUrl: "https://www.fox5ny.com/news/clothing-line-created-to-trick-ai-facial-recognition-into-thinking-youre-an-animal"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 28
 
 secured: "Qpr2xjV48Kf4U/RSlG5rsw1UC36UjYDo8zto4z+t0wZkaK7Ei2XHNvTmCGGo9PQS1jdpD0otfoHzqXepC+ihdqN7QnNheHDwya/ZIhdyH1RKke28e7DjxT99hXQuOFt59VdmFcXhiAQOhZTuktH5MlyS+W2awWzKDlpk0/zqpxsw+iMIiOajdNb4M+gARlo9d+vAPqJGsvH1EyJ0tp6jv6MhrPdvIOZCSPBm4cBmE9v/qAxIFn0M4WjZJrLQmNC1b7vU6FZd34zrnmLV1bhpICrn2ldEtJMayKEewJh21Q4b4bPVtPmkQ+MIauJiylpE63SpjoNTKjbjuXK8/CrrTjP/QcPLErcXs9OL3GmiXJk=;jh+jG63WrSd/Lx5eh7IF9g=="
 ---

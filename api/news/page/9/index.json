@@ -2,6 +2,232 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-23-iit-mandi-inks-pact-with-iafs-hq-maintenance-command-for-rd-in-ai-machine-learning.md",
+      "title": "IIT Mandi inks pact with IAF's HQ maintenance command for R&D in AI, machine learning",
+      "excerpt": "The collaboration will also facilitate the technology development and will look into plans to scale up the prototypes and technologies coming out of the collaboration for fabrication by mutually identified industry partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/education/2328809-iit-mandi-inks-pact-with-iafs-hq-maintenance-command-for-rd-in-ai-machine-learning",
+      "originalUrl": "https://www.devdiscourse.com/article/education/2328809-iit-mandi-inks-pact-with-iafs-hq-maintenance-command-for-rd-in-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_01_2023_15_56_10_1679065.jpg?width=1280",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/education/2328809-iit-mandi-inks-pact-with-iafs-hq-maintenance-command-for-rd-in-ai-machine-learning?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2328809-iit-mandi-inks-pact-with-iafs-hq-maintenance-command-for-rd-in-ai-machine-learning?amp",
+      "publishedDateTime": "2023-01-23T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.md",
+      "title": "Microsoft exec: AI will reinvent Windows user experience, define ‘our time’",
+      "excerpt": "At least one Microsoft executive has made it clear artificial intelligence will continue to play a big role in future Windows features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html",
+      "originalUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3686051/microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.amp.html",
+      "publishedDateTime": "2023-01-22T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-europe-driverless-car-software-market-report-2019.md",
+      "title": "Europe Driverless Car Software Market Report 2019",
+      "excerpt": "(MENAFN- Nxtgen Reports) In this report, our team research the Europe Driverless Car Software market by type, application, region and manufacturer 2014-2020 and forcast 2021-2026. For the region ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105463818/Europe-Driverless-Car-Software-Market-Report-2019",
+      "originalUrl": "https://menafn.com/1105463818/Europe-Driverless-Car-Software-Market-Report-2019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?219734",
+          "width": 278,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T22:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-global-driverless-car-software-sales-marketfrom-2014-2026.md",
+      "title": "Global Driverless Car Software Sales Marketfrom 2014-2026",
+      "excerpt": "(MENAFN- Nxtgen Reports) In this report, our team research the global Driverless Car Software market by type, application, region and manufacturer 2014-2020 and forcast 2021-2026. For the region ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105463815/Global-Driverless-Car-Software-Sales-Marketfrom-2014-2026",
+      "originalUrl": "https://menafn.com/1105463815/Global-Driverless-Car-Software-Sales-Marketfrom-2014-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?120049",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T22:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-flamboyant-italian-clothes-defeat-facial-recognition-without-masks.md",
+      "title": "Flamboyant Italian clothes defeat facial recognition without masks",
+      "excerpt": "They may be a little brutal on the eye, but Capable says its visually confusing and extremely pricey cotton knits are designed to throw off AI facial recognition systems, by fooling machine learning systems into thinking you're an animal and not a human.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/good-thinking/facial-recognition-clothes/",
+      "originalUrl": "https://newatlas.com/good-thinking/facial-recognition-clothes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/754120e/2147483647/strip/true/crop/965x507+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F74%2Fb4%2Fb339109845caad60b7e4ae243df3%2F309634727-461346366016754-2441330964910929706-n.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-machine-learning-operations-mlops-market-is-booming-worldwide-including-119-pages-report.md",
       "title": "Machine Learning Operations (MLOps) Market Is Booming Worldwide | Including 119 Pages Report",
       "excerpt": "In 2023] The Global Machine Learning Operations (MLOps) Market Size (119 Report Pages) is estimated to be worth",
@@ -350,10 +576,10 @@
     {
       "path": "_news/2023-01-23-new-soft-robots-poised-to-be-more-agile-controlled.md",
       "title": "New soft robots poised to be more agile, controlled",
-      "excerpt": "One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled. A team of ...",
+      "excerpt": "One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
+      "webUrl": "https://www.eurekalert.org/news-releases/977427",
+      "originalUrl": "https://www.eurekalert.org/news-releases/977427",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -366,18 +592,9 @@
       "publishedDateTime": "2023-01-22T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -864,240 +1081,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-teaching-in-the-age-of-artificial-intelligence-and-chatgpt.md",
-      "title": "Teaching In The Age Of Artificial Intelligence And ChatGPT",
-      "excerpt": "Artificial intelligence empowers increasingly complex interactions between humans and machines. This technology, currently popularized by ChatGPT, provides a potentially enormous opportunity for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63cb84748d623fc3b06e3ae4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
-      "publishedDateTime": "2023-01-21T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-nvidia-geforce-rtx-4090-laptop-gpu-shows-better-gaming-performance-with-dlss-3-than-its-predecessor.md",
-      "title": "NVIDIA GeForce RTX 4090 Laptop GPU Shows better gaming performance with DLSS 3 than its predecessor",
-      "excerpt": "Comparisons between the RTX 4090 GPU in the Razer Blade 16 with NVIDIA's DLSS 3 upscaling enabled and the Razer Blade 17 with DLSS 2 enabled are not entirely useful in this case, demonstrating the limitations of what Jarrod is permitted to show.",
-      "sourceUrl": null,
-      "webUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/",
-      "originalUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technosports.co.in/wp-content/uploads/2022/09/NVIDIA-GeForce-RTX-4090-Graphics-Card-Official-1-1030x579-1.jpg",
-          "width": 1030,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/?amp",
-      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/?amp",
-      "publishedDateTime": "2023-01-21T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-microsofts-new-ai-can-clone-anyones-voice-with-just-a-3-second-audio-sample.md",
-      "title": "Microsoft's new AI can clone anyone's voice with just a 3 second audio sample",
-      "excerpt": "The new AI is called VALL-E, and according to a newly released paper, the system is a neural codec language model that is a text-to-speech synthesizer. According to the report, VALL-E is capable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/90038/microsofts-new-ai-can-clone-anyones-voice-with-just-3-second-audio-sample/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/90038/microsofts-new-ai-can-clone-anyones-voice-with-just-3-second-audio-sample/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/0/90038_012_microsofts-new-ai-can-clone-anyones-voice-with-just-3-second-audio-sample.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-21T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-college-professors-are-considering-creative-ways-to-stop-students-from-using-ai-to-cheat.md",
-      "title": "College professors are considering creative ways to stop students from using AI to cheat",
-      "excerpt": "Some professors say students are using OpenAI's buzzy chatbot, ChatGPT, to pass off AI-generated content as their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1",
-      "originalUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63c6d1284fa0aa0018895a8b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatgpt-college-professors-students-cheating-2023-1?amp",
-      "publishedDateTime": "2023-01-21T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-robotics-drug-control-on-senators-mind-this-week-letters.md",
-      "title": "Robotics, drug control on senator’s mind this week (Letters)",
-      "excerpt": "As usual, the beginning of formal session has been exceptionally busy ahead of our bill filing deadline. All bills filed prior are guaranteed a public hearing, an important step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
-      "originalUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V3HL2JSC25CP7NTDBBGK6Q52JA.jpg",
-          "width": 2385,
-          "height": 2385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
-      "publishedDateTime": "2023-01-20T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

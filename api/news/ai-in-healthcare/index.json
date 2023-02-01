@@ -10,7 +10,7 @@
       "originalUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -43,6 +43,58 @@
         "AI Ethics",
         "AI",
         "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-dare-you-use-artificial-intelligence-to-write-better-job-postings.md",
+      "title": "Dare You Use Artificial Intelligence To Write Better Job Postings?",
+      "excerpt": "We are hearing more and more about a number of artificial intelligence (AI) tools that could help you with time-consuming tasks or even write the perfect essay or perhaps the perfect research paper—and in the case of HR specialists, write the perfect job ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/31/dare-you-use-artificial-intelligence-to-write-better-job-postings/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/31/dare-you-use-artificial-intelligence-to-write-better-job-postings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/31/dare-you-use-artificial-intelligence-to-write-better-job-postings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/31/dare-you-use-artificial-intelligence-to-write-better-job-postings/amp/",
+      "publishedDateTime": "2023-01-31T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI in Healthcare"
       ]
     },
@@ -1445,50 +1497,6 @@
         "AI Ethics",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-artificial-intelligence-could-surpass-that-of-humans-later-this-decade.md",
-      "title": "Artificial intelligence could surpass that of humans later this decade",
-      "excerpt": "Artificial intelligence (AI) has the potential to ... This ability can be particularly useful in fields such as finance, healthcare, and transportation, where AI is already being used to analyze ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/",
-      "originalUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/01/hands-of-robot-and-human-touching-on-big-data-network-connection-background-science-and-artificial-intelligence-technology-innovation-and-futuristic-1200x639.jpeg",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/",
-      "publishedDateTime": "2023-01-22T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

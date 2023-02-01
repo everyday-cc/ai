@@ -40,6 +40,15 @@ related:
         width: 600
         height: 558
         isCached: true
+  - title: "Phantom AI Raises $36.5M in Series C Funding Round"
+    excerpt: "Phantom AI, a Silicon Valley startup providing a comprehensive autonomous driving platform featuring computer vision, sensor fusion and control capabilities, today announced that it has secured $36.5 million in its Series C funding round."
+    publishedDateTime: 2023-02-01T12:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/02/01/9752819.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "/Bui6G3tTq75QnQNQc1fjlbCgI/+zxETboWSfm3bLjUdqH6DSNgMqNqShOConFNECrejkzk2mukgakUetIEe9HH/eEfgg+P018e3B1XPSOGb/QB8US4PVa/sbF2YKbkKle0q1n2tVT8HkgeoOXRghLXJb37QwUhCcM5gOaSumwq6RqbaFoy20JPeb49ozaQeimV8pqr3HWt6WIIpQtXEZZKKnR2+eyDz6DGOuuhWZlutDVSAR3EhyoZqpdA+yPElcZhHlXifFVTGIJrvzBi4bBgUjH7S1JuSefxf9fOZpRpvGXUpXQ+yKesHRzXx5+VM5z5D7SsPGaCQEuYyfEqPxJQP23/NsWlVPP+bY9dsxvBn5xzQRqLYnwMVOmwqXa03i9qQZBtNoJDcDAPMELlJvoPxGq8DnGFIJlEeiUqTBEqzyMA9fZhTV5SsFJJuK/69n9U/UPFWonGdrIVLPjrM5bWbydn99u6raXyjcf6oGhR+YIMRi9PY/dfOgSOQAHtptSIYPiE6vL/PRrT5L3zVOg==;gyTQmjAKoH8n74FMIyUtgg=="
 ---
