@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "P2P Recognition and Reward System Market Trends, Business Overview, Industry Growth, and Forecast 2023 To 2028"
+    excerpt: "P2P Recognition and Reward System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-02-01T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/p2p-recognition-and-reward-system-market-trends-business-overview-industry-growth-and-forecast-2023-to-2028-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Zg5kb/gSwp9x3DVzVI+zYcWt8dWqQLwnesvxouHBjtd+y4170u6KNIHvhVkM6wROmmGROYdISx0vV+BW9hAwMtH/nyBEYVpnsEC3u4XVtaEgT0whgvNPFSVHafFQh8QMNDLylwoHWWFeBvGzkGAKxZ6ozqwL18EpEdYoRD04be0WKrgc/lDMmzTmck19oz9PIXdBCcdZFqwRN/CegH4nOwz4zJTBkah5xY0bQb/mZ0C5JKLWk3bQlJZITcjGc4Wf+oNGHSi3YuxPx+fUbEcQAFgJHOeN+4Ed6abRNIKVITQX23KU2Kspc9rtOOrzkxynJgsTKp3jnnl6UEsLKCSBW4ec1HBY0om80MS9FuLhP5I=;veozWSu9fmf1hvsWwsF0oQ=="
 ---

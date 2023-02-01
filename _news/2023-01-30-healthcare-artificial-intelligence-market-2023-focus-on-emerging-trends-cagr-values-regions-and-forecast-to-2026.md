@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision System Market 2023 : Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 01, 2023 (The Expresswire) -- Computer Vision System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR during the ..."
+    publishedDateTime: 2023-02-01T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-2023-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platform Market Regional Analysis by Size 2023 | Sales Volume, Competitive Landscape and Forecast To 2026"
     excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Artificial Intelligence"
     publishedDateTime: 2023-01-30T08:44:00Z

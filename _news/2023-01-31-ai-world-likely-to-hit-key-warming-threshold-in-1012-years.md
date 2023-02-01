@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "AI: World likely to hit key warming threshold in 10-12 years"
-    excerpt: "The world will likely breach the internationally agreed-upon climate change threshold in about a decade, and keep heating to break through a next warming limit around mid-century even with big pollution cuts,"
-    publishedDateTime: 2023-01-30T18:39:00Z
-    webUrl: "https://www.chron.com/news/article/ai-world-likely-to-hit-key-warming-threshold-in-17751991.php"
+    excerpt: "A new study using artificial intelligence finds that the world will likely warm a few more tenths of a degrees within the next 10 to 12 years and breach a"
+    publishedDateTime: 2023-01-30T21:13:00Z
+    webUrl: "https://tdn.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_2a329915-c07c-5bb0-a128-c27baca78de2.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: tdn
+      domain: tdn.com
+    quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/31/25/41/23418951/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/1/a2/1a2ead57-9e38-58a0-9496-6b79e0a1a760/63d96503759d3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI is predicting the world is likely to hit a key warming threshold in 10-12 years"
     excerpt: "The world will likely breach the internationally agreed-upon climate change threshold in about a decade, artificial intelligence predicts in a new study that's more pessimistic than previous modeling."

@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-c
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2023/01/cowomen-8M6KCnMvLus-unsplash-c17c.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600
         height: 400
+        isCached: true
+  - title: "This AI startup will generate celebrity-like voices for you: Here’s how"
+    excerpt: "ElevenLabs tweeted that it has witnessed a rise in the number of voice cloning since the tool was launched. The startup also asked Twitter users to provide feedback on how voice cloning can be stopped."
+    publishedDateTime: 2023-02-01T06:57:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/this-ai-startup-will-generate-celebrity-like-voices-for-you-here-s-how-11675232785902.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/this-ai-startup-will-generate-celebrity-like-voices-for-you-here-s-how/amp-11675232785902.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/this-ai-startup-will-generate-celebrity-like-voices-for-you-here-s-how/amp-11675232785902.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2023/02/01/600x338/67bbde00-68bf-11ed-b05f-f3a699bb92b4_1668940894952_1675234638656_1675234638656.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "4chan users embrace AI voice clone tool to generate celebrity hatespeech"
     excerpt: "An AI startup that lets anyone clone a target’s voice in a matter of seconds is being rapidly embraced by internet trolls. 4chan users have been flocking to free voice synthesis platform ElevenLabs, using the company’s tech to clone the voices of celebrities and read out audio ranging from memes and erotica to hatespeech and misinformation."

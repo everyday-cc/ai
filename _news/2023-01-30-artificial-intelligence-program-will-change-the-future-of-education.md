@@ -8,7 +8,7 @@ webUrl: "https://www.theoaklandpress.com/2023/01/29/artificial-intelligence-prog
 ampWebUrl: "https://www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/amp/"
 cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/amp/"
 type: article
-quality: 76
+quality: 78
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Education
+  - AI in Healthcare
 
 images:
   - url: "https://www.theoaklandpress.com/wp-content/uploads/2023/01/IMG-2873.jpg?w=1024&h=381"

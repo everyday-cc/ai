@@ -20,21 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "CO bill that suggests using artificial intelligence to help detect wildfires moves forward in Legislature"
-    excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million wildfire prevention program, which may use artificial intelligence to identify fires early."
-    publishedDateTime: 2023-01-27T16:42:00Z
-    webUrl: "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature"
-    ampWebUrl: "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp"
+  - title: "Machine learning approach may aid water conservation push in the Colorado River basin"
+    excerpt: "The Colorado River basin, which supplies water to 40 million people in the Western United States, is threatened by historic drought, a changing climate and water demands from growing cities. One potential response involves encouraging individuals to conserve water,"
+    publishedDateTime: 2023-01-27T17:21:00Z
+    webUrl: "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.html"
+    ampWebUrl: "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-approach-aid-colorado-river.amp"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 72
+      name: Phys.org
+      domain: phys.org
+    quality: 69
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bde9982c-2a76-46f7-b0b5-c18e3df1c055/29e73dbf-bb1f-476b-a5bc-48b588c0eb99/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/colorado-river-basin-m.jpg"
+        width: 1000
+        height: 750
         isCached: true
   - title: "AI wildfire detection bill gets initial approval in Colorado"
     excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."

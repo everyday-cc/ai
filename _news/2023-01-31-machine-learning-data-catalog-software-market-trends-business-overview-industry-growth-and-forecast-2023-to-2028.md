@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) In Construction Market By Size, Latest Industry Trends, Market Share By Application, And Regional Forecast 2023-2033"
+    excerpt: "The report predicts the global Artificial Intelligence (AI) in Construction Market to grow with a CAGR of 35.1% over the forecast period from 202"
+    publishedDateTime: 2023-02-01T07:30:00Z
+    webUrl: "https://menafn.com/1105507054/Artificial-Intelligence-AI-In-Construction-Market-By-Size-Latest-Industry-Trends-Market-Share-By-Application-And-Regional-Forecast-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?557597"
+        width: 375
+        height: 249
+        isCached: true
   - title: "AI In Oil And Gas Market Size Forecast For 2033, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
     excerpt: "The AI in Oil and Gas market was valued at USD 2 billion<br /> and is expected to reach USD 3.81 billion, at a CAGR of 10.96% over the forecast p"
     publishedDateTime: 2023-01-27T19:46:00Z

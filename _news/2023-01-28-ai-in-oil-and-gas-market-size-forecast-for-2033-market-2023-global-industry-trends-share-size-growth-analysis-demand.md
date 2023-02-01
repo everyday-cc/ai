@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) In Construction Market By Size, Latest Industry Trends, Market Share By Application, And Regional Forecast 2023-2033"
+    excerpt: "The report predicts the global Artificial Intelligence (AI) in Construction Market to grow with a CAGR of 35.1% over the forecast period from 202"
+    publishedDateTime: 2023-02-01T07:30:00Z
+    webUrl: "https://menafn.com/1105507054/Artificial-Intelligence-AI-In-Construction-Market-By-Size-Latest-Industry-Trends-Market-Share-By-Application-And-Regional-Forecast-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?557597"
+        width: 375
+        height: 249
+        isCached: true
 
 secured: "vKkppKi6dIjQ1Z+boFBfXP7FBu4Pkk9KyAo+ll69Ju9MTb6igyl3aK5I3vSEbB0P5f2OY5o8QPBdlxwk8ahS9k4PK8mkVw5dXaTUnlwTiK6nkKwC1nvaSO8R9gjkt0k5adEZjTuzo28ESaLB+tIx0UUku+/uFyy5enpiwmnz82Ge/Mj5CrPCMLhUoxjWa8m1z4ardk/Lu3WOyT+o/i4PVVIh4PWR1KQCj1ViKklWaTZQ6i56F3ILnKTSt674QDf6DOFUheSMzh645QHtz/VcAjxwBgRaF83bLLTEHy53Bj52RMDrD54BGIqRecJ2VC5uKDO7UuAzWTlmCHOSnPKtNxvQrsI+ZtuFZJJA4LsaapQ=;GL+ihUCzzNX9UczQ3Som1A=="
 ---

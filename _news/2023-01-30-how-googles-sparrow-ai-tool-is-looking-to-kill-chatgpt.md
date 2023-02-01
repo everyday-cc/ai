@@ -179,6 +179,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Google's testing potential ChatGPT rivals including a homegrown AI chatbot called 'Apprentice Bard': CNBC"
+    excerpt: "This is just weeks after the tech giant's management reportedly issued a \"code red\" over the rise of AI chatbot ChatGPT."
+    publishedDateTime: 2023-02-01T08:49:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-google-ai-chatbot-apprentice-bard-artificial-intelligence-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-google-ai-chatbot-apprentice-bard-artificial-intelligence-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-google-ai-chatbot-apprentice-bard-artificial-intelligence-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/63d9ed170a08ae0018a64639?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Calligrapher.ai is using AI for handwriting generation"
     excerpt: "An RNN is a class of artificial neural networks where connections between nodes can create a cycle allowing output from some nodes to affect subsequent input to the same nodes. Recurrent neural networks can exhibit temporal dynamic behavior, which makes ..."
     publishedDateTime: 2023-01-27T22:06:00Z
@@ -289,22 +305,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-97439180,width-1070,height-580,imgsize-93524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1068
         height: 580
-        isCached: true
-  - title: "Microsoft Confirms Its $10 Billion Investment Into ChatGPT, Changing How Microsoft Competes With Google, Apple And Other Tech Giants"
-    excerpt: "Microsoft finally confirmed that they would be extending the partnership with OpenAI, the company behind the new AI-powered ChatGPT tool. We look at what this means for the tech industry and the field of AI."
-    publishedDateTime: 2023-01-27T16:56:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d40f73f56a6976217458de/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "A top UK private school is changing its approach to homework amid the rise of ChatGPT, as educators around the world adapt to AI"
     excerpt: "Jane Lunnon, the head teacher of the $28,000-a-year Alleyn's School, told Insider: \"Everyone is talking about it in education.\""
@@ -503,6 +503,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:33:00Z
+    webUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 41
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/769d769/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Generative AI like viral ChatGPT lands on DISA technology watch list"
     excerpt: "An Air Force official said the military must \"automate more\" in order to remain dominant in a world of advanced computing and quick decisions."
     publishedDateTime: 2023-01-27T20:13:00Z
@@ -559,20 +573,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/769d769/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-01-31T15:42:00Z
@@ -598,20 +598,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "Cheaters beware: ChatGPT maker releases AI detection tool"
-    excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework."
-    publishedDateTime: 2023-01-31T23:02:00Z
-    webUrl: "https://www.ksat.com/business/2023/01/31/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TFBKDF3POFEB3G6SLWY5YVUHDY.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Google AI model to generate music from text could be bigger than ChatGPT"
     excerpt: "It’s called MusicLM, and according to AI scientist Keunwoo Choi ... To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text ..."
     publishedDateTime: 2023-01-27T23:22:00Z
@@ -648,6 +634,17 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 37
+  - title: "Cheaters beware: ChatGPT maker releases AI detection tool"
+    excerpt: "Launch of the AI Text Classifier follows discussion at schools and colleges, including in Seattle, over fears of academic dishonesty and hindered learning."
+    publishedDateTime: 2023-01-31T18:12:00Z
+    webUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
+    ampWebUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 37
   - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
     excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
@@ -737,15 +734,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 19
-  - title: "Big Tech was moving cautiously on AI. Then came ChatGPT"
-    excerpt: "Google, Facebook and Microsoft helped build the scaffolding of AI. Smaller companies are taking it to the masses, forcing Big Tech to react."
-    publishedDateTime: 2023-01-27T16:28:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/01/27/big-tech-was-moving-cautiously-on-ai-then-came-chatgpt-tdn/69848382007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 17
   - title: "ChatGPT and AI tools can replace jobs in many industries; Know details here"
     excerpt: "Artificial Intelligence and chatbots such as the now viral ChatGPT can impact jobs in a range of industries as they have the ability to write specific content."
     publishedDateTime: 2023-01-31T13:49:00Z

@@ -176,6 +176,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla subpoenaed by Justice Department for full self-driving"
+    excerpt: "The U.S. Justice Department has requested documents from Tesla related to its Autopilot and “Full Self-Driving” features, according to a filing with the Securities and Exchange"
+    publishedDateTime: 2023-01-31T20:12:00Z
+    webUrl: "https://fox8.com/automotive/internet-brands/tesla-subpoenaed-by-justice-department-for-full-self-driving/"
+    ampWebUrl: "https://fox8.com/automotive/internet-brands/tesla-subpoenaed-by-justice-department-for-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/automotive/internet-brands/tesla-subpoenaed-by-justice-department-for-full-self-driving/amp/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 59
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2023/02/2018-tesla-model-3_100676013_m.jpg?w=1280"
+        width: 640
+        height: 379
+        isCached: true
   - title: "Elon Musk Under SEC Probe Over Tesla Self-Driving Claims"
     excerpt: "Elon Musk allegedly supervised a misleading promotional video in 2016 that claimed a Tesla was “driving itself” despite the car not truly having those capabilities."
     publishedDateTime: 2023-01-27T21:24:00Z

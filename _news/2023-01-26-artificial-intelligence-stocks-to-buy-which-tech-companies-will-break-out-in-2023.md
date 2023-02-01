@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63d19ed712cd6030ab922d84/0x0.jpg?format=jpg&width=1200"

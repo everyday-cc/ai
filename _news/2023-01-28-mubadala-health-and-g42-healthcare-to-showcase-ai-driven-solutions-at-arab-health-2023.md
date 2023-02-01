@@ -65,7 +65,7 @@ related:
     provider:
       name: The Oakland Press
       domain: theoaklandpress.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://www.theoaklandpress.com/wp-content/uploads/2023/01/IMG-2873.jpg?w=1024&h=381"
         width: 1024

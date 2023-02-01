@@ -1,26 +1,27 @@
 ---
 category: news
 title: "AI: World likely to hit key warming threshold in 10-12 years"
-excerpt: "The world will likely breach the internationally agreed-upon climate change threshold in about a decade, and keep heating to break through a next warming limit around mid-century even with big pollution cuts,"
-publishedDateTime: 2023-01-30T18:39:00Z
-originalUrl: "https://www.chron.com/news/article/ai-world-likely-to-hit-key-warming-threshold-in-17751991.php"
-webUrl: "https://www.chron.com/news/article/ai-world-likely-to-hit-key-warming-threshold-in-17751991.php"
+excerpt: "A new study using artificial intelligence finds that the world will likely warm a few more tenths of a degrees within the next 10 to 12 years and breach a"
+publishedDateTime: 2023-01-30T21:13:00Z
+originalUrl: "https://tdn.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_2a329915-c07c-5bb0-a128-c27baca78de2.html"
+webUrl: "https://tdn.com/news/science/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years/article_2a329915-c07c-5bb0-a128-c27baca78de2.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: tdn
+  domain: tdn.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/31/25/41/23418951/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/1/a2/1a2ead57-9e38-58a0-9496-6b79e0a1a760/63d96503759d3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -50,6 +51,6 @@ related:
       domain: tpr.org
     quality: 13
 
-secured: "eB1Ggmj5BP/bomga3bilr1Y4YTx+OENN8TgnJGVv9pK7j6Ly97xCCiNXQ38wFetI1BzR5pFGLo5WIN0/meLS9jNd37MvckOWXT8ynr3D3U6ImqamkCbFNyavLEvNZZEHOru7OiUu+LDyZg7qmfLAPJ3wdCpz1XYuBVFplj5BoO4XHOgmg7PWeeIDzyLLNzzZvp3ORXb2IQBOdX9geJgHw4Lhk9/Ag77Gcy4iMxlIBQ3H8/a45nnXwehYvJwGGHZQMq+tJnBBXHRS00ut3/K4kwI/ooiDfS6EoiFM+KWo7nIm4M3ql6ACcHe4tbL2EG+0dUFABAmid3dQzi+iE3PelXw3Uxql2tWG/F6dBJPj+MfE47K1XLImQmR8FT6QpXls8Jo4bZOMmcy8GaYENfkatp5eyYGhX3Ls2sEuJJco8XPvuHSlCBWC8f3odfq4FcA6uEz05ijHATXXcVdaLTTk75yafMucIvgWONS/GSmYkixDGY0gWFR9ewNRbK0PPiCYfE9g0H/lbwMgWH+f6KydkA==;TudLtfA5pJozf6NTwVKz1A=="
+secured: "/E7296eQo4iI4M/ibb6w5eIf9LPmQeXEty7gkVJrjt0RyIrohOfmoO3vwuqxhFrvlmeVm+FmGbp2wk1tGw3IB4VgYgjHK7ZCXUX1iPJm3u1R0tI+vZd/jbuSwVstZn+D6pwhxuNi8IwK8yXf+HL4GK6Ms/08+92ysNNMqCIsANJW4PIYfdICMupYIizCGcpR2gbW8l6L7/YCBAh4zyrVjWtpc+9qa5rfl6+vaki+tP+uSx7Eoa7YS5ZtPmnoUV5H8hiJIRQWScKIUBGYiOxRg1SGQaxsncOsYT+lTViYc6PWalOe2ap2FrOnjx04kiAMdRz7zWNatSFtj06kB6B6FEqfcZrWzCCZ1Is3seVC1xI=;7dVNtgq4cT6LdBrwgHC+EA=="
 ---
 

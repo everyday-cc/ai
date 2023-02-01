@@ -2,9 +2,9 @@
 category: news
 title: "Smart cars set to drive auto industry's development"
 excerpt: "Edward Wang, managing director of syndicated research at J.D. Power China, which focuses on consumer insights, data and analytics, said smart features and exciting onboard experiences are becoming increasingly important factors when people are deciding to buy a new car."
-publishedDateTime: 2023-02-01T00:15:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202302/01/WS63d99cdaa31057c47ebac298.html"
-webUrl: "https://global.chinadaily.com.cn/a/202302/01/WS63d99cdaa31057c47ebac298.html"
+publishedDateTime: 2023-01-31T22:57:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202302/01/WS63d99cdaa31057c47ebac298.html"
+webUrl: "https://www.chinadaily.com.cn/a/202302/01/WS63d99cdaa31057c47ebac298.html"
 type: article
 quality: 24
 heat: 24
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202302/01/63d99dd4a31057c4b4b42d0a.jpeg"
-    width: 462
-    height: 308
+  - url: "https://img2.chinadaily.com.cn/images/202302/01/63d9d901a31057c4b4b43507.jpeg"
+    width: 671
+    height: 447
     isCached: true
 
-secured: "AtyzXmAvkTuCyI7YmsFPKD9K3mD9iFH4HurWGmCYzDGhDFBzo0juORhE9EjAxW5cHyOC7+g3oUSaFeUnBYIa7ftj2UWFGfCRWzZoInoDTyGWvWUH2rbN/OaRQDsr7jm1Jr9Rj5TkElubIQAgthxIp0BFFAM8hwBXgs3heerdLIW2V/zPji8C3op7pwknhHzJb1JSQmP5LLta/CaEklg9IXQhodeRumN7enri68jLacaezWYjnXy9YJxJHLcVaNei+I4jeKb4eqTRL6qAd/6ryCGGVdT8oaE+sW3K0LbcY7WdKiiem8PqXFQzr8ddSFUXfCGSNLi4PP72P6HN7g7Hz0ckpQfOSBLnCytnca+3O/UbCeyip+dcV0OvQdQzLeltBJDNhQOXaxXicTTY9UXWxJ5DvGAMffIYFYhdH4IWdCsKgEnjSwa7sCZJ0LelND5K2zVN3+Pvp+rCmyim8MHaXjSV5pgsBuAjqZyt6IB85n1nNoLCaI54YYTw7IT6+IcwE6PiMQ1oVjijGeDboAwUxA==;/z+K4hdDj2oDPjTuxy8S2w=="
+secured: "K3D8T5TiUBVH/nf7dpik+k9bRvmgS3rO/C0tQNJk7LFmnI4k6GUKCkEE8iO+NtELEs3N+kGlTjSBNJQZ1HijvLEkzdAJuH/acrpHSIiwQHPFJoiPeXNUHSWRpa9Dh11C/19JJKX4ylhE44AsmzsLR9hBn9GiMuHm8g7hKpbPV41OX2flFEWuPbfX0pPE2iEf9mh7u/njdXcd29MCKNULoZPfh1ArhwYoC8i9Xf738k/1dur/wPmzZ/c41yoPR6VtvyEImodBy6PHQWC/yClIw5dlMLfaVpqIWDBEw2vrx7dpoy+EpKrt9OmTQvL/W/G/ZMbzdBDGCOrer8UPncIz1XNiF7wzQNKvY9DdT3UnFm8=;BKDu940CMsZoOlyyawtK+Q=="
 ---
 
