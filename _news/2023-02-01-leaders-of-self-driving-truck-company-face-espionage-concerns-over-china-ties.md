@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T13:00:00Z
 originalUrl: "https://www.wsj.com/articles/leaders-of-self-driving-truck-company-face-espionage-concerns-over-china-ties-11675255921"
 webUrl: "https://www.wsj.com/articles/leaders-of-self-driving-truck-company-face-espionage-concerns-over-china-ties-11675255921"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Wall Street Journal

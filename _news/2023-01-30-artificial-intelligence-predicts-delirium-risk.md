@@ -36,12 +36,7 @@ related:
     provider:
       name: Scientific American
       domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/737B2FF6-BCAE-41F4-AC7041A2B35FABAB.jpg"
-        width: 790
-        height: 496
-        isCached: true
+    quality: 17
 
 secured: "t7PSv5j/T7EurcDtA8bOXmPnO7BJweLy5aCGlRgN1zvtUX8vxdkmAdlS4WMNZ1sRSMsUzeT03bbIfqp2ExAori9KAE63iRV7yh9Z82GRoI88AXJ2jYXT2i04UJN7eN00pYQAt6BsiMa7c6zSzMkEjtH7W8CmTjc/HpE+1Vltd6OVX3TgR3kwYKKHGaSi4vGVv9C8M0FCVcTUSvDA0TO8wQdb1cANgTf9u7/x7OAVonc2kJLV4eXPaHOCvt5Yf0fUcYZKRVe/uEADiLuEHALrPpdMXu7HxAv76WTPjDX0NoZeoZ/qB8iviW8TKXvBWWTgx9YV6oaeKIPsSl6EmE6jOIEr18Gk0fufcPNa1vAABAM=;vIMkJBMW2At2H0eXmoy4xA=="
 ---

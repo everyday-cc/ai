@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says"
-    excerpt: "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities."
-    publishedDateTime: 2023-01-27T23:43:00Z
-    webUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/"
-    ampWebUrl: "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla Faces Justice Department Probe Over Self-Driving Tech"
     excerpt: "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,"
     publishedDateTime: 2023-01-31T18:05:00Z
@@ -105,22 +89,6 @@ related:
         width: 1024
         height: 746
         isCached: true
-  - title: "US Market Regulator Probes Elon Musk's Role In Tesla Self-Driving Claims: Report"
-    excerpt: "The U.S. securities regulator is investigating Elon Musk's role in giving shape to EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter."
-    publishedDateTime: 2023-01-27T23:26:00Z
-    webUrl: "https://www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650"
-    ampWebUrl: "https://www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-market-regulator-probes-elon-musks-role-in-tesla-self-driving-claims-report-3730650/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 69
-    images:
-      - url: "https://c.ndtvimg.com/2021-03/2l9lamok_elon-musk-tesla_625x300_24_March_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Elon Musk's role under scanner in Tesla self-driving controversy"
     excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."
     publishedDateTime: 2023-01-29T04:06:00Z
@@ -136,50 +104,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2023/01/29/1600x900/Elon_Musk_31_1668134290957_1674964963750_1674964963750.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Tesla subpoenaed by Justice Department for full self-driving"
-    excerpt: "The U.S. Justice Department has requested documents from Tesla related to its Autopilot and “Full Self-Driving” features, according to a filing with the Securities and Exchange"
-    publishedDateTime: 2023-01-31T20:12:00Z
-    webUrl: "https://fox8.com/automotive/internet-brands/tesla-subpoenaed-by-justice-department-for-full-self-driving/"
-    ampWebUrl: "https://fox8.com/automotive/internet-brands/tesla-subpoenaed-by-justice-department-for-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/automotive/internet-brands/tesla-subpoenaed-by-justice-department-for-full-self-driving/amp/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 59
-    images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2023/02/2018-tesla-model-3_100676013_m.jpg?w=1280"
-        width: 640
-        height: 379
-        isCached: true
-  - title: "Elon Musk faces SEC probe for role in Tesla self-driving claims"
-    excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla ’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest person. The review is part of an ongoing Securities and Exchange ..."
-    publishedDateTime: 2023-01-28T00:03:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-01-27/musk-sec-probe-tesla-self-driving-claims"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 54
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/4617e46/2147483647/strip/true/crop/2405x1263+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F23%2F493f36c147d69cdb67ee5a461dc5%2Fwhite-house-musk-26132.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Elon Musk Under SEC Probe Over Tesla Self-Driving Claims"
-    excerpt: "Elon Musk allegedly supervised a misleading promotional video in 2016 that claimed a Tesla was “driving itself” despite the car not truly having those capabilities."
-    publishedDateTime: 2023-01-27T21:24:00Z
-    webUrl: "https://www.thedailybeast.com/elon-musk-under-sec-probe-over-tesla-self-driving-claims"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 54
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1519,w_2700,x_0,y_30/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674853882/GettyImages-1459166551_w5ddls"
-        width: 1480
-        height: 833
         isCached: true
   - title: "SEC investigating Tesla's self-driving vehicle claims made by Elon Musk"
     excerpt: "The U.S. Securities and Exchange Commission is investigating claims made by Tesla CEO Elon Musk regarding the company's autopilot vehicle feature."
@@ -232,17 +156,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "US Justice Dept Investigating Tesla Self-driving Features"
-    excerpt: "The US Department of Justice has opened an investigation into Tesla's driver-assistance features, the company said Tuesday in a financial document."
-    publishedDateTime: 2023-01-31T21:33:00Z
-    webUrl: "https://www.barrons.com/news/us-justice-dept-investigating-tesla-self-driving-features-01675186508"
-    ampWebUrl: "https://www.barrons.com/amp/news/us-justice-dept-investigating-tesla-self-driving-features-01675186508"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-justice-dept-investigating-tesla-self-driving-features-01675186508"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
   - title: "Tesla says Biden administration has requested documentation on company's self-driving technology"
     excerpt: "Auto company Tesla said in government filings this week that the White House is actively seeking information from it regarding its self-driving and artificial intelligence technologies. The corporation said in SEC filings on Monday that it regularly ..."
     publishedDateTime: 2023-01-31T20:25:00Z
@@ -257,20 +170,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Beyond the hype and crash investigations: What it’s like to drive with Tesla’s ‘Full Self-Driving’ feature"
-    excerpt: "In most cases, the car drove well, avoided construction cones, and made right- and left-hand turns confidently"
-    publishedDateTime: 2023-01-30T10:24:00Z
-    webUrl: "https://www.theglobeandmail.com/drive/reviews/article-beyond-the-hype-and-crash-investigations-what-its-like-to-drive-with/"
+  - title: "Justice Department seeks Tesla automated driving documents"
+    excerpt: "The U.S. Justice Department has requested documents from Tesla Inc. related to its Autopilot and “Full Self-Driving” features, according to a regulatory filing"
+    publishedDateTime: 2023-01-31T13:57:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tesla-gets-justice-department-subpoena-driving-cars-96788407"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 21
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/UmMBmKvXt9tyKvuQoQ6gAgPggVw=/1200x900/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OF4OHW53SRA2LEU2KODK4W4XYI.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: ABC
+      domain: abcnews.go.com
+    quality: 19
   - title: "Tesla gets Justice Department subpoena for self-driving cars"
     excerpt: "The U.S. Justice Department has requested documents from Tesla Inc. related to its Autopilot and “Full Self-Driving” features, according to a regulatory filing"
     publishedDateTime: 2023-01-31T07:42:00Z
@@ -279,6 +187,24 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
+    quality: 19
+  - title: "Tesla subpoenaed by Justice Department for full self-driving"
+    excerpt: "In the filing, Tesla confirmed that the Justice Department had requested documents, but it indicated it wasn't anticipating prosecution."
+    publishedDateTime: 2023-01-31T21:12:00Z
+    webUrl: "https://www.motorauthority.com/news/1138625_tesla-subpoenaed-by-justice-department-for-full-self-driving"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 19
+  - title: "US Justice Dept Investigating Tesla Self-Driving Features"
+    excerpt: "The California Department of Motor Vehicles filed a complaint against the company last year for using advertising language that could make its products seem more capable than they are."
+    publishedDateTime: 2023-02-01T10:09:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21259180/us-justice-dept-investigating-tesla-selfdriving-features"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
     quality: 19
 
 secured: "8fFS2BP/f8xd8lMAYjXCOOeUgc+GF4ROcwN453ldGUshlD+LT1kjz5RwudYjFzQORmriy71uuFd6QOi9uLB23Ihv2VPsKF0jgXGJ5IVntSuvoqOS56LtxbrzQgnZr7Fge/EHRxNG62sak/JOn0rQyiKNd5E25u49TdcHgu6khg/4H/be7V+q8zgZsJueiHMnq56UNYj62heXB7XlllDQI4azWP53OcDMGVJR2SR4Zgwj6LXTgzuj3wutvMkFSFYCCSEbcDOVRXtr2NZnueJwozYn/jaCVwpXGxsxMYpocss2PNEmAB7BHmMOWDaXdfVmmqowhm5BRnFbYANx8HQgTxpQOQszug4usPmKZ4kLzoVqvo6BAV6wbnWefbA9l4A/Qziz/Fso5abkrPGKLNrJ64+/dWVBVTiu/AGfdQ1K/4hU2pKsxbzkxh8lk+vM2gzAsE2lKtZZzgGgaP6oLM+7PTeOTjZXsm/DLTDxj79EHZkHrM8yVtDJDCc2nH0MT2QIix687OJDbq9OJo6qveBDTg==;0ZW5Icf5RCGRWq0zBgq25A=="

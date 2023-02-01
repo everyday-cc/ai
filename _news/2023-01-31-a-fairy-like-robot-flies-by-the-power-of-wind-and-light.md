@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Wind and Light Bring a Fairy-like Robot to Life"
+    excerpt: "Researchers at Tampere University have developed a polymer-assembly robot controlled by light and powered by wind."
+    publishedDateTime: 2023-02-01T13:32:00Z
+    webUrl: "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/"
+    ampWebUrl: "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 104
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/the-wind-and-light-bring-a-fairy-like-robot-to-life.jpeg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "A fairy-like robot flies by the power of wind and light"
     excerpt: "The development of stimuli-responsive polymers has brought about a wealth of material-related opportunities for next-generation small-scale, wirelessly controlled soft-bodied robots. For some time now,"
     publishedDateTime: 2023-01-30T14:57:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T14:37:00Z
 originalUrl: "https://www.rollingstone.com/music/music-features/raye-escapism-21st-century-blues-interview-1234671381/"
 webUrl: "https://www.rollingstone.com/music/music-features/raye-escapism-21st-century-blues-interview-1234671381/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Rolling Stone

@@ -51,6 +51,15 @@ related:
         width: 412
         height: 312
         isCached: true
+  - title: "A Magnificent Seven Retail Banking and Fintech Trends to Spy in 2023"
+    excerpt: "This trend will involve the use of white label branches, where a single location serves as a shared service centre for  all banking activities, regardless of the customer's bank. The white label branch also has the ability to offer further financial services in addition to access to cash."
+    publishedDateTime: 2023-02-01T14:56:00Z
+    webUrl: "https://www.finextra.com/blogposting/23672/a-magnificent-seven-retail-banking-and-fintech-trends-to-spy-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "Shufti Pro sweeps Ultimate FinTech Awards 2023 with three major wins"
     excerpt: "Globally acclaimed for its state-of-the-art identity verification and KYC/AML solutions, Shufti Pro wins three major Ultimate Fintech Awards MEA 2023"
     publishedDateTime: 2023-01-31T08:30:00Z

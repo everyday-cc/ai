@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-05-tencent-cloud-named-as-major-player-in-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platforms-2022-vendor-assessment.md",
+      "title": "Tencent Cloud Named as Major Player in IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platforms 2022 Vendor Assessment",
+      "excerpt": "Tencent Cloud – the cloud business of global technology company Tencent, today announced that it has been named a Major Player in the IDC MarketScape:",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/tencent-cloud-named-major-player-idc-marketscape-worldwide-general-purpose-computer-vision",
+      "originalUrl": "https://www.asiaone.com/business/tencent-cloud-named-major-player-idc-marketscape-worldwide-general-purpose-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2023/pr-newswire_500_4_199.jpg?h=7de12b8a&itok=70c_cR8I",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T23:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-profet-ai-closes-us56m-series-a-round-to-fuel-regional-expansion-and-product-development.md",
+      "title": "PROFET AI CLOSES US$5.6M SERIES A ROUND TO FUEL REGIONAL EXPANSION AND PRODUCT DEVELOPMENT",
+      "excerpt": "Profet AI will use this funding to accelerate its overseas expansion into Japan, Southeast Asia and China, further develop its AutoML Virtual Data Scientist Platform and Ready To Go Applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-closes-us-5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-1032001263",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/profet-ai-closes-us-5-6m-series-a-round-to-fuel-regional-expansion-and-product-development-1032001263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding.md",
       "title": "AI startup looks to transform data into AI models and applications, closes series A funding",
       "excerpt": "Taiwanese firm Profet AI has raised $5.6 million to expand into new markets with AI/ML solutions purpose-built for the manufacturing sector.",
@@ -1218,93 +1305,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know.md",
-      "title": "Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know",
-      "excerpt": "Read more about Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know on Devdiscourse",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T20:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-forecast-2028-for-the-machine-learning-in-finance-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
-      "title": "Forecast 2028 for the Machine Learning in Finance Market in terms of size, returns, gross margin, and market share",
-      "excerpt": "The major players covered in the Machine Learning in Finance market report are: Get a sample copy of the Machine Learning in Finance Market report 2023 The value of machine learning in finance is becoming more apparent by the day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-machine-learning-in-finance-market-in-terms-of-size-returns-gross-margin-and-market-share-2022-12-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-machine-learning-in-finance-market-in-terms-of-size-returns-gross-margin-and-market-share-2022-12-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/sethjoseph/2023/02/01/building-bridges-between-data-silos-mayo-clinic-platforms-ambitious-initiative-to-enable-a-learning-healthcare-system/"
 webUrl: "https://www.forbes.com/sites/sethjoseph/2023/02/01/building-bridges-between-data-silos-mayo-clinic-platforms-ambitious-initiative-to-enable-a-learning-healthcare-system/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Forbes

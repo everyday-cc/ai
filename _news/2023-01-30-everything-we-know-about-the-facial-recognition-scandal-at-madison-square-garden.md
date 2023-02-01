@@ -37,22 +37,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "James Dolan repeats threat to ban booze at Madison Square Garden amid face-tech fight"
-    excerpt: "The move comes months after the SLA suggested that MSG could lose its ability to sell alcohol at Rangers and Knicks games if Dolan does not stop using facial recognition software to ban opponents."
-    publishedDateTime: 2023-01-27T22:36:00Z
-    webUrl: "https://nypost.com/2023/01/27/james-dolan-repeats-he-might-nix-msg-alcohol-sales-amid-facial-recognition-fight/"
-    ampWebUrl: "https://nypost.com/2023/01/27/james-dolan-repeats-he-might-nix-msg-alcohol-sales-amid-facial-recognition-fight/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/27/james-dolan-repeats-he-might-nix-msg-alcohol-sales-amid-facial-recognition-fight/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 37
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/01/facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "James Dolan defends MSG’s use of facial recognition"
     excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
     publishedDateTime: 2023-01-30T16:43:00Z

@@ -2,6 +2,538 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-26-chatgpt-leads-lawmakers-to-call-for-regulating-artificial-intelligence.md",
+      "title": "ChatGPT leads lawmakers to call for regulating artificial intelligence",
+      "excerpt": "The rise of the chatbot ChatGPT, with its ability to generate informed, sophisticated text, is leading lawmakers to push for government intervention in the realm of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 531,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp",
+      "publishedDateTime": "2023-01-26T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023.md",
+      "title": "Artificial Intelligence Stocks To Buy: Which Tech Companies Will Break Out In 2023?",
+      "excerpt": "With the rise of ChatGPT, all eyes are on the artificial intelligence space as investors and analysts look for the best investment opportunities right now Even though major tech companies had a rough year in the stock market in 2022, there are plenty of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d19ed712cd6030ab922d84/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/26/artificial-intelligence-stocks-to-buy-which-tech-companies-will-break-out-in-2023/amp/",
+      "publishedDateTime": "2023-01-26T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-if-you-retire-early-you-could-face-faster-cognitive-decline-as-you-age-according-to-a-new-study.md",
+      "title": "If you retire early, you could face 'faster cognitive decline' as you age, according to a new study",
+      "excerpt": "The researchers found that early retirement can lead to \"faster cognitive decline among the elderly.\" In 2009, China introduced the New Rural Pension Scheme (NRP), an initiative that provided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1",
+      "originalUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63d18a0740fbb600192b745d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1?amp",
+      "publishedDateTime": "2023-01-26T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-ai-powered-robot-lawyer-wont-argue-in-court-after-jail-threats.md",
+      "title": "AI-powered \"robot\" lawyer won't argue in court after jail threats",
+      "excerpt": "A \"robot\" lawyer powered by artificial intelligence was set to be the first of its kind to help a defendant fight a traffic ticket in court next month. But the experiment has been scrapped after ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/",
+      "originalUrl": "https://www.cbsnews.com/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/",
+      "publishedDateTime": "2023-01-26T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-can-you-flirt-better-than-artificial-intelligence.md",
+      "title": "Can You Flirt Better Than Artificial Intelligence?",
+      "excerpt": "Chatting on dating apps is awkward. With new AI-driven apps, entrepreneurs are looking to cut the small talk and get more people on actual dates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-704289/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
+      "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
+      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
+      "originalUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/press-releases/article271678367.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271678367.html",
+      "publishedDateTime": "2023-01-26T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-how-to-build-a-neural-network-in-java.md",
+      "title": "How to build a neural network in Java",
+      "excerpt": "Artificial neural networks are a form of deep learning and one of the pillars of modern-day AI. The best way to really get a grip on how these things work is to build one. This article will be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html",
+      "originalUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/23/15/istock-1268123564-100931530-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.amp.html",
+      "publishedDateTime": "2023-01-26T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy-and-improving-diarization.md",
+      "title": "VIQ Solutions Bolsters AI-Powered Workflows WIth New Proprietary Automatic Speech Recognition (ASR) Increasing Accuracy and Improving Diarization",
+      "excerpt": "VIQ Solutions Inc. (\"VIQ\", \"VIQ Solutions\" or the \"Company\") (TSX and Nasdaq: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, today announced the addition of a new ASR technology to its engine agnostic portfolio driving improvements in efficiency and diarization in multi-speaker environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_0ba4eaf7-68e9-5ead-9da4-cbda1b911927.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_0ba4eaf7-68e9-5ead-9da4-cbda1b911927.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders.md",
+      "title": "Unlock The Potential Of Generative AI: A Guide For Tech Leaders",
+      "excerpt": "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
+      "publishedDateTime": "2023-01-26T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats.md",
+      "title": "AI robot lawyer courtroom debut on hold as company founder gets jail threats",
+      "excerpt": "The CEO of the New York startup DoNotPay Joshua Browder announced ... from state bar prosecutors including jail time, if the AI robot lawyer were to be deployed in court. The seriousness of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/technology/news/story/ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats-367680-2023-01-26",
+      "originalUrl": "https://www.businesstoday.in/technology/news/story/ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats-367680-2023-01-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202301/ai_lawyer-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/technology/news/story/ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats-367680-2023-01-26",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats-367680-2023-01-26",
+      "publishedDateTime": "2023-01-26T01:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-startup-founders-dont-cross-the-line-between-optimism-and-fraud.md",
+      "title": "Startup founders: Don’t cross the line between optimism and fraud",
+      "excerpt": "Don’t be afraid to sprint forward with an optimistic vision for your startup. But be sure to toe the fine line between optimism and fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/startup-founders-dont-cross-the-line-between-optimism-and-fraud/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/startup-founders-dont-cross-the-line-between-optimism-and-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/6830726846_04b471de4c_h.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/startup-founders-dont-cross-the-line-between-optimism-and-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/startup-founders-dont-cross-the-line-between-optimism-and-fraud/amp/",
+      "publishedDateTime": "2023-01-25T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-seattle-startup-aims-to-change-surgery-using-ai-computer-vision-and-augmented-reality.md",
       "title": "Seattle startup aims to change surgery using AI, computer vision and augmented reality",
       "excerpt": "The system relies on advances in light field imaging, computer vision, machine learning, robotics and augmented reality. The surgeon can see the relevant anatomy in three dimensions on a screen ...",
@@ -50,49 +582,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
-      "title": "New Software Incorporates Dendritic Properties Into Neural Network Models",
-      "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models. This work has important applications both in understanding brain function and in the field of artificial intelligence. Deciphering the secrets of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/dendrites-ai-neural-networks-22366/",
-      "originalUrl": "https://neurosciencenews.com/dendrites-ai-neural-networks-22366/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2023/01/dendrite-neural-network-neurosinces-public.jpg",
-          "width": 769,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -628,6 +1117,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
+      "title": "New software incorporates dendritic properties into neural network models",
+      "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models ... brain function and in the field of artificial intelligence. Deciphering the secrets ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-a-step-clo.jpg",
+          "width": 1500,
+          "height": 1584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp",
+      "publishedDateTime": "2023-01-25T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-a-person-shaped-robot-that-can-liquify-and-escape-jail-all-with-the-power-of-magnets.md",
       "title": "A person-shaped robot that can liquify and escape jail, all with the power of magnets",
       "excerpt": "Inspired by sea cucumbers, engineers have designed miniature robots that rapidly and reversibly shift between liquid and solid states. On top of being able to shape-shift, the robots are magnetic and can conduct electricity.",
@@ -657,542 +1189,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-federated-learning-key-to-securing-ai.md",
-      "title": "Federated learning key to securing AI",
-      "excerpt": "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
-      "originalUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
-      "publishedDateTime": "2023-01-25T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-we-forgot-to-give-neural-networks-the-ability-to-forget.md",
-      "title": "We Forgot To Give Neural Networks The Ability To Forget",
-      "excerpt": "A conversation with social entrepreneur Miguel Luengo about artificial intelligence’s current inability to forget and what this means for the right to privacy and user agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ashoka/2023/01/25/we-forgot-to-give-neural-networks-the-ability-to-forget/",
-      "originalUrl": "https://www.forbes.com/sites/ashoka/2023/01/25/we-forgot-to-give-neural-networks-the-ability-to-forget/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d1567bf68d1c73776e3ae4/0x0.jpg?format=jpg&crop=1160,652,x0,y64,safe&width=1200",
-          "width": 1160,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ashoka/2023/01/25/we-forgot-to-give-neural-networks-the-ability-to-forget/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashoka/2023/01/25/we-forgot-to-give-neural-networks-the-ability-to-forget/amp/",
-      "publishedDateTime": "2023-01-25T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack.md",
-      "title": "Microsoft CEO Nadella: 'Expect us to incorporate AI in every layer of the stack'",
-      "excerpt": "During Microsoft's fiscal first-quarter conference call, Tuesday, CEO Satya Nadella told Wall Street the company's private deal with OpenAI will pervade Microsoft's cloud computing operations. It's so big,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/28c13746b18be3bc2e2dad4fe2b5861a4c4943eb/2023/01/25/47a6e1df-cd08-4cd6-af1d-ecac2180912c/gettyimages-1246126800.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
-      "publishedDateTime": "2023-01-25T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-biomedical-research-platform-terra-now-available-on-microsoft-azure.md",
-      "title": "Biomedical Research Platform Terra Now Available on Microsoft Azure",
-      "excerpt": "We stand at the threshold of a new era of precision medicine, where health and life sciences data hold the potential to dramatically propel and expand our understanding and treatment of human disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/",
-      "originalUrl": "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2023/01/Terra_TW_LI_FB_with_logo_1200x627.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk.md",
-      "title": "Alphabet-owned DeepMind AI to shut office in Canada, lay off employees in UK",
-      "excerpt": "​“DeepMind has made the difficult decision to consolidate its Canadian offices and close the Edmonton office, while maintaining its other Canadian loc",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/articleshow/97320876.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/articleshow/97320876.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-97321176,width-1070,height-580,imgsize-484019,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/amp_articleshow/97320876.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk/amp_articleshow/97320876.cms",
-      "publishedDateTime": "2023-01-25T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-resolving-to-live-the-year-of-the-rabbit-to-the-fullest.md",
-      "title": "Resolving to live the Year of the Rabbit to the fullest",
-      "excerpt": "We spoke to Liu Yang, who has one of the strangest jobs around: to sit in the passenger seat and monitor how self-driving cars cope with Beijing’s streets. Since we talked in the summer of 2022, Liu Yang had briefly stepped out of his robotaxi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/",
-      "originalUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/01/AP110204144775-crop.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/amp/",
-      "publishedDateTime": "2023-01-25T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-its-time-to-look-harder-at-the-morality-of-ai.md",
-      "title": "It's Time To Look Harder At The Morality Of AI",
-      "excerpt": "Are we giving adequate thought to—and building sufficient guardrails around—AI's impact on the world's workers?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/",
-      "publishedDateTime": "2023-01-25T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-welcome-back-mr-bond-we-follow-you-on-instagram.md",
-      "title": "Welcome Back, Mr. Bond: We Follow You On Instagram",
-      "excerpt": "The James Bond era is over. It's no fun being a spy these days, what with social media, biometrics and open-source intelligence. But it does give me a business",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/",
-      "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d116747a6c1a8e98922d82/0x0.jpg?format=jpg&crop=2830,1591,x0,y50,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/amp/",
-      "publishedDateTime": "2023-01-25T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies.md",
-      "title": "Meet The Ukrainian Startup Using AI To Address Healthcare Emergencies",
-      "excerpt": "A Ukrainian startup is one of a handful of companies in the world using AI to detect a growing complication caused by diabetes.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/",
-      "originalUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2023/01/max-kukurudziak-qbc3Zmxw0G8-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/amp/",
-      "publishedDateTime": "2023-01-25T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-mysterious-green-comet-nears-earth-revealing-secrets-of-time-and-space.md",
-      "title": "Mysterious Green Comet Nears Earth, Revealing Secrets of Time and Space",
-      "excerpt": "Then we look to see if there is an object that moves from image to image ... changing the constellation beyond recognition. Earth's rotation will have slowed, adding one second to each day. Niagara Falls will have eroded into a meandering waterway.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html",
-      "originalUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2183677/fe-comets-04.jpg?w=600&q=75&f=e5c8cbdde6947dc81256588e718a2b8f",
-          "width": 600,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html?amp=1",
-      "publishedDateTime": "2023-01-25T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies.md",
-      "title": "How ‘killer robots’ can help us learn from mistakes made in AI policies",
-      "excerpt": "Finally, it is critical to consider oversight mechanisms at the start ... “killer robots,” we should not lose sight of the danger that poor processes create when deploying AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/",
-      "originalUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/01/San-Francisco-police-05212019.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/amp/",
-      "publishedDateTime": "2023-01-24T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null

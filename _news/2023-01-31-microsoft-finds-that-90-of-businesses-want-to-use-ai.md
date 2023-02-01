@@ -76,15 +76,15 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Unpacking Microsoft’s Earnings and the Future of AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips “Write a newsletter about Microsoft’s second-quarter earnings for"
-    publishedDateTime: 2023-01-27T21:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-and-future-of-ai-1032047671"
+  - title: "Microsoft to develop AI-based healthcare services"
+    excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
+    publishedDateTime: 2023-02-01T15:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-to-develop-ai-based-healthcare-services.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
 
 secured: "L95ox/iRQM1SVV8CfBb7pEWMHfiQBLZvjzmpZaDFcFHrQY97xG62v+Xm6/I53pS9t/1fGuPil01uGhwZx1OATMj1m+MxpvRIOW2fiXY5kYeObtvwEEG/UJi265zDGDSLLVpJnFILnRMg4EFPN9vU8KMjKYFHbB9feX5pb3f/ru9PZ+ge+K9JWuX2YA0Tlr0q8UUKTULcexjs/bsrXtbi/tkOGaEyN6De7fm7bEZazszyAHI8ofuqtW/eleYP7mq9G0WeeR0x1i+84U/LxokKlQ9SdIuECK3VtqFzlGy5I11ntnw+1sNG/qfho7HJhilCcwJcwWMLn3pgYx5lUNIQybK4tLegjPHUfYiPVqW8QP/gregmr5B8MnfMscuNVZuJz/q25gTmhVXq20AhtpoYhHYH3oBnCUy/L0gUUbY3EFcEfQ0ukL9GGtAuzn2vbKuqgFOqITVKLGunrW0mdFeKsoprfzF64zlUYLv0G//bzMmS+IWtj22GOXohMwZHDaTlTVB8qYjTtduJ1ajrK27Fvg==;yt8BO86SGBrMCLscuqzIsA=="
 ---

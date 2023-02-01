@@ -51,6 +51,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fact-Checkers Are Scrambling to Fight Disinformation With AI"
+    excerpt: "Bad actors use artificial intelligence to propagate falsehoods and upset elections, but the same tools can be repurposed to defend the truth."
+    publishedDateTime: 2023-02-01T13:00:00Z
+    webUrl: "https://www.wired.com/story/fact-checkers-ai-chatgpt-misinformation/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
 
 secured: "6nydks2l/IP8MKqhuTUn1atTT/PRvc4WP1dl8GD4U58Ohg/430P3GmbijrBpJrdxiTqyFp5alu0VbcP5ro+gWDbQ6TT0mHopMOHjxX9kjjWZelh64jK63D6VXGYBSptn1xPyqS/P2xx8bDCjMQy1jZxQWag4CE4i/LLx8nMzvNZQkOgS23re5/frLg3krAm9voW0uYTRGPjWeeBY+m/JDr1Ws9uzwmbsF9zmONfaHWu18F5KRZ2mu2Ti3icJ+K/ncIlEBXfMOK7FbM8PlNdHopBtuVapkRaouwinUcmEO+9hRJaUfZyurQWAXPcrAd3Mdm4Io+sFR27pQR38gdTkpxVtyyAXGpdkUrh1/pyfIUQ/NvFRGIWaG2u8QxaNfGGhawivYCqDwG5b/LVBIGa5FfoiRtqkGZDa8sYMp6VNrIBdDA42ZOTeXPehz0196hinKHlu29V4Gw4UFApPPbfaHowgZeamI9uou0dtlQWbU17fs4o0aLX9p5F6SE8nmCMu2NHXdQwKg5mpzIt1jP9+sw==;iNkriKFNzPjrhGHyHOXO9g=="
 ---

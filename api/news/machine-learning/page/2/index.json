@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-20-federated-learning-ai-model-could-lead-to-healthcare-breakthrough.md",
+      "title": "Federated learning AI model could lead to healthcare breakthrough",
+      "excerpt": "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "publishedDateTime": "2023-01-19T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso.md",
+      "title": "UC Santa Barbara Doctoral Students Build Neural Network to Paint Like Picasso",
+      "excerpt": "Fifty years after his death, Pablo Picasso is painting once again. The late Spanish master has been reborn as a form of artificial intelligence (AI), a “neural network” created by two UC Santa Barbara doctoral students to generate original pieces of art in his signature styles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
+      "originalUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.com/wp-content/uploads/2023/01/AI_picasso.jpg?fit=1200%2C799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
+      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
+      "publishedDateTime": "2023-01-19T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Barbara Independent",
+        "domain": "independent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
       "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
       "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
@@ -1359,92 +1456,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-top-machine-learning-trends-to-watch-out-for-in-2023.md",
-      "title": "Top Machine Learning Trends to Watch out for in 2023",
-      "excerpt": "Using automated machine learning, professionals can design effective tech models that improve production and efficiency. Fremont, CA: We can",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/top-machine-learning-trends-to-watch-out-for-in-2023-nid-10447.html",
-      "originalUrl": "https://www.cioapplications.com/news/top-machine-learning-trends-to-watch-out-for-in-2023-nid-10447.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/zdtphcioapp450-308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-machine-learning-accelerates-drug-formulation-development-changing-the-game-for-pharmaceutical-research.md",
-      "title": "Machine Learning Accelerates Drug Formulation Development, Changing the Game for Pharmaceutical Research",
-      "excerpt": "New study demonstrates the potential for machine learning to accelerate the development of innovative drug delivery technologies. Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/machine-learning-accelerates-drug-formulation-development-changing-the-game-for-pharmaceutical-research/",
-      "originalUrl": "https://scitechdaily.com/machine-learning-accelerates-drug-formulation-development-changing-the-game-for-pharmaceutical-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Artificial-Intelligence-AI-Technology-Drug-Discovery.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Accounting Market 2023 (New Report): Size is set to Grow at a Prominent Pace in the Upcoming Years till 2029"
+    excerpt: "Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence in Accounting Market\" Report New Research Insight Report 2023 | Recent Report Spread Across|"
+    publishedDateTime: 2023-02-01T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2023-new-report-size-is-set-to-grow-at-a-prominent-pace-in-the-upcoming-years-till-2029-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tbB3khXJrQWlTL4b4Q74CkyKglABKQTaWzmN41Zp7B65n1NH635tz+NnFjtu4VPCdCE0QEO6o7kvJO3AfJjP5OQALYhKHLx2gPRlwGFHBLVa0xu6jg3NkM7q1vc7nY/aLOEtyaiCEUib1lq+vEh/K1CheZ5UxCp5DUSV+knUJKFbmAg6OkHGUigfguxpmlc750Qjd2hkgQL4wjKUdzhEnLCAm/tJlLw3NL/3M93xYAFffEePXrtScyQ6jhbQ7y+MUkff6+fwzPohFKZdrXX+clJ4HmLTWO0/t2FJe5Xmp9lza8B9fk+qttET/T7McSA6hKvgmo28PbwiHy5gpm9To2JkNnaYGdZsrlA0tEIyWkI=;79ho/8AVLM9OBQPBk3GTlg=="
 ---

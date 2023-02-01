@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T13:45:00Z
 originalUrl: "https://interestingengineering.com/innovation/ibms-watson-trumps-where-chatgpt-fails"
 webUrl: "https://interestingengineering.com/innovation/ibms-watson-trumps-where-chatgpt-fails"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Interesting Engineering
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - IBM AI
 
-secured: "7LG969yz6uI4jY/1mIRC+COe0gipnrmMwbMaWrN8eD4krNcDNbaP0QY1fvl7/4vR08Mq6gU5sloc9XnaS4VjUJO+LE4U00qzLky3lRNV6rbyajfp4zyRG2R7WYg0dlc9NuknVchp02EDMhEqXmzH2NE3AyaozKbyXk8yrCI5r3VAFESGMwVe3lMsvburlssUcY3ztqzW1GZKBrqcm7tNztzpwH77spk4okhY19+ZX+Pc+1GfdYVNeIGyXKNMMokDuhFOemozAjHJ7zHS7vfuYWboUzvKE1qlaA1umGe/6c/z8I6kcz2DrLd85VbDuLnaDcN4s7uvSCtfWhAyPwLPr2oMMWfM1QpnYYc5e++lVcSSb1ydtHA4z1NaCt9DXDKVCpUlWPMRLTl33mbL/q4fXP2pXczGEyaCWK5ghxQ/uK9vziPUSjSqJ/50KUkxXgmFGef2r0zJqodkZu0MGFQiJ65bKhK4sLf+AoTU2IT4uwKQpiQbOTRNZr5pTQqu19zJlCo8PuXK79D7dEiI3qiYRg==;GzC7Qwf4L9Ey+kG5OOHDGw=="
+images:
+  - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/01/image/jpeg/bD7VVBL3qVdzGhRqr8iPjjoh6A0ugVW55dyxjbvz.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "hwUvLtdNG+QS02CY6VnvV9NdeoUSYGbgbkz+HEaXvVYsaIqlrNU6kkVNZD/lC0lzgfM4oOHQ5gYl2nklO6pRcxiXeC90njUm6mTLF4F6Wf4btfjKm23Oqs7gclZXzoRZ22E/ZUYXHbAHoCNn/qeWo+DbTn/DEdiLKFIP2emzUQa3urgghor+Nqw2zxZxm5TBpcdhOKIxITJROOmJNt9lqZ+TU2FCRem76S9hVGrjLtRoPd4RtKTmClEEdioZdxOoNsxCfoA4brn5+sFR70aZcyGDXMESS1/DXL406zSDu6w7fagNz7HzaUFMQvRt8PEpZIKZgeKbKiTldEUYMOHYHuKQZr5bPOUW8AmEPnszHmM=;eoZ/hmVQC+oAayP/Sn2ovA=="
 ---
 

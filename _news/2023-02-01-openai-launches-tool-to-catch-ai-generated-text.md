@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT maker OpenAI has a free tool that can spot AI-written text"
+    excerpt: "OpenAI's offers a free but \"imperfect\" tool to detect AI-generated text, and hopes it sparks a debate about AI literacy."
+    publishedDateTime: 2023-02-01T15:23:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1c1f20c62b292dee9b24dd9dced81e04feb7a15a/2023/02/01/d0bf3f5b-f7f0-486e-9a97-a1e0f44e218e/looking-at-pc.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Are You Smarter Than ChatGPT? OpenAI Tool Aims to Detect AI-Generated Text"
     excerpt: "The tool could help teachers catch students who are exploiting ChatGPT to cheat on homework assignments, though it's far from perfect."
     publishedDateTime: 2023-01-31T20:35:00Z
@@ -107,6 +123,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 26
+  - title: "OpenAI Is Making Headlines. It’s Also Seeding Talent Across Silicon Valley"
+    excerpt: "OpenAI has just 375 full-time employees, but its buzzy chatbot, ChatGPT, is shaking up Silicon Valley. The company’s influence extends even further, through former employees who are now in top positions at other artificial intelligence firms or have founded startups of their own."
+    publishedDateTime: 2023-02-01T14:00:00Z
+    webUrl: "https://www.theinformation.com/articles/openai-is-making-headlines-its-also-seeding-talent-across-silicon-valley"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 17
 
 secured: "9udUjnK32c+TpB7IGzY2P45Ih6GT6q+ZhrXJNVoiVmhoalC/kmF1O5uTzpP48IHAstDzHHU78C/xZIGTUllJpsp3ZYQgSt32WyrmDJ/MXuZM9TDcbQi8aVWX0okEV81TheiTZYllpL6eYK19r8bNvqntEhldk3NB6eXpklqqjbil1RhS3lCd6nuj/er28NX6X9r75BFYgLxr4dUJ3gCKqONRPr+JqcK2+mu5h+2u43PRb4xZuj/zd9yn/ymW2vNbcAXg2EZ8k4ZAhBDlJ6x7MypDYNF8gzoI6CyxuylI2LehuOfjMnBzuCOXqV3eqL3DT9XcZZpIOprb5/aCBj8kkAKPOiHidHxXjfJArTIsX7DFTEMDv+h77AFmDl8RQg7iabD+/wF7D8qWdverR1Lqp57FoBUhoBLag1xL27x5hvSktOElbumI9rnJ3Bum3+oOe60RSM6YlUlI4zzVFdWtp8Qd8VdV4GbFXavVw3nEygIvoC3eAsLoulAGUxvBBLDStytQaKCCp7EomZ78M7ImQQ==;yUc7a4EAj+X+sIiszX95cQ=="
 ---

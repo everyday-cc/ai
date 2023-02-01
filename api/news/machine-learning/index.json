@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-01-worse-at-math-better-at-tech-how-covid-19-impacted-learning.md",
+      "title": "Worse at math, better at tech: How COVID-19 impacted learning",
+      "excerpt": "Meanwhile, video conferencing remains relevant for group projects, while machine-learning apps and chat tools can help teachers draft tests and assignments. A separate report by the Pew Research Center also noted that more rapid advancements in online ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
+      "originalUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2023/02/c4fcc8b2f8c643a5ac7848dae4ed9a0c.jpg?w=1280",
+          "width": 1280,
+          "height": 925,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
+      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
+      "publishedDateTime": "2023-02-01T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLFY News 10",
+        "domain": "klfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-enterprise-ai-is-moving-beyond-data-science-and-into-every-decision.md",
+      "title": "Enterprise AI Is Moving Beyond Data Science And Into Every Decision",
+      "excerpt": "AI can help automate some processes and alleviate manual data work, but it can’t and shouldn’t be the ultimate decision-maker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/01/enterprise-ai-is-moving-beyond-data-science-and-into-every-decision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/01/enterprise-ai-is-moving-beyond-data-science-and-into-every-decision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60ca10c91854bb852614d23b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/01/enterprise-ai-is-moving-beyond-data-science-and-into-every-decision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/01/enterprise-ai-is-moving-beyond-data-science-and-into-every-decision/amp/",
+      "publishedDateTime": "2023-02-01T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-artificial-intelligence-across-the-lending-life-cycle.md",
       "title": "Artificial Intelligence Across The Lending Life Cycle",
       "excerpt": "When AI augments rather than replaces good lending practices, it can support fairer outcomes and improve financial well-being.",
@@ -555,31 +651,22 @@
       "title": "Deep Learning Reconstruction Enables Accelerated Knee MRI",
       "excerpt": "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ...",
       "sourceUrl": null,
-      "webUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
-      "originalUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
+      "webUrl": "https://www.wfmz.com/health/deep-learning-reconstruction-enables-accelerated-knee-mri/article_f9a945fd-cfb6-511a-9c87-cf8f043a5648.html",
+      "originalUrl": "https://www.wfmz.com/health/deep-learning-reconstruction-enables-accelerated-knee-mri/article_f9a945fd-cfb6-511a-9c87-cf8f043a5648.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/89/a89d37bd-9579-50c1-b5d9-7aedd499602e/63d2ae37698fb.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T09:10:00-08:00",
+      "publishedDateTime": "2023-01-26T08:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -744,49 +831,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
-      "title": "New Software Incorporates Dendritic Properties Into Neural Network Models",
-      "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models. This work has important applications both in understanding brain function and in the field of artificial intelligence. Deciphering the secrets of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/dendrites-ai-neural-networks-22366/",
-      "originalUrl": "https://neurosciencenews.com/dendrites-ai-neural-networks-22366/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2023/01/dendrite-neural-network-neurosinces-public.jpg",
-          "width": 769,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-26-protecting-the-hidden-layer-in-neural-networks.md",
       "title": "Protecting the Hidden Layer in Neural Networks",
       "excerpt": "In this episode of \"Cybersecurity Unplugged,\" Chris \"Tito\" Sestito discusses technology to protect neural networks and artificial intelligence",
@@ -816,6 +860,49 @@
       "provider": {
         "name": "healthcareinfosecurity.com",
         "domain": "healthcareinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
+      "title": "New software incorporates dendritic properties into neural network models",
+      "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models ... brain function and in the field of artificial intelligence. Deciphering the secrets ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-a-step-clo.jpg",
+          "width": 1500,
+          "height": 1584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp",
+      "publishedDateTime": "2023-01-25T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -979,6 +1066,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-24-ai-deep-learning-predicts-brain-tumor-growth.md",
+      "title": "AI Deep Learning Predicts Brain Tumor Growth",
+      "excerpt": "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
+      "publishedDateTime": "2023-01-24T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028.md",
       "title": "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028",
       "excerpt": "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison",
@@ -1030,49 +1160,6 @@
         "AI",
         "AI in Finance",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-ai-deep-learning-predicts-brain-tumor-growth.md",
-      "title": "AI Deep Learning Predicts Brain Tumor Growth",
-      "excerpt": "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience. A new study published in the Journal of Theoretical Biology demonstrates how AI deep learning can predict brain tumor progression for glioblastoma from medical images to accelerate precision medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
-      "publishedDateTime": "2023-01-23T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1351,103 +1438,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-federated-learning-ai-model-could-lead-to-healthcare-breakthrough.md",
-      "title": "Federated learning AI model could lead to healthcare breakthrough",
-      "excerpt": "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
-      "originalUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
-      "publishedDateTime": "2023-01-19T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso.md",
-      "title": "UC Santa Barbara Doctoral Students Build Neural Network to Paint Like Picasso",
-      "excerpt": "Fifty years after his death, Pablo Picasso is painting once again. The late Spanish master has been reborn as a form of artificial intelligence (AI), a “neural network” created by two UC Santa Barbara doctoral students to generate original pieces of art in his signature styles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
-      "originalUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.com/wp-content/uploads/2023/01/AI_picasso.jpg?fit=1200%2C799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
-      "cdnAmpWebUrl": "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/01/19/uc-santa-barbara-doctoral-students-build-neural-network-to-paint-like-picasso/?amp=1",
-      "publishedDateTime": "2023-01-19T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Barbara Independent",
-        "domain": "independent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

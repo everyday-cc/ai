@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T13:48:00Z
 originalUrl: "https://khn.org/morning-breakout/viewpoints-using-chatgpt-in-health-care-is-risky-china-wasnt-prepared-to-end-covid-lockdowns/"
 webUrl: "https://khn.org/morning-breakout/viewpoints-using-chatgpt-in-health-care-is-risky-china-wasnt-prepared-to-end-covid-lockdowns/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Kaiser Health News

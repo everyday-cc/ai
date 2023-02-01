@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2026-2023-01-30"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Platform Market Latest Trends 2023, Drivers, and Projections Report from 2023-2029| 99 Pages Report with a Splendid Growth"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence Platform Market\" Report New Research Updated Report 2023 | Latest Report Spread Across| 99 Pages | Global Industry ..."
+    publishedDateTime: 2023-02-01T16:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-latest-trends-2023-drivers-and-projections-report-from-2023-2029-99-pages-report-with-a-splendid-growth-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

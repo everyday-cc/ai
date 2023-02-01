@@ -20,6 +20,22 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Worse at math, better at tech: How COVID-19 impacted learning"
+    excerpt: "Meanwhile, video conferencing remains relevant for group projects, while machine-learning apps and chat tools can help teachers draft tests and assignments. A separate report by the Pew Research Center also noted that more rapid advancements in online ..."
+    publishedDateTime: 2023-02-01T15:15:00Z
+    webUrl: "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/"
+    ampWebUrl: "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/"
+    cdnAmpWebUrl: "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/"
+    type: article
+    provider:
+      name: KLFY News 10
+      domain: klfy.com
+    quality: 61
+    images:
+      - url: "https://www.klfy.com/wp-content/uploads/sites/9/2023/02/c4fcc8b2f8c643a5ac7848dae4ed9a0c.jpg?w=1280"
+        width: 1280
+        height: 925
+        isCached: true
   - title: "Artificial intelligence can help patients interpret home tests for COVID-19"
     excerpt: "New machine learning research led by George Mason University's Professor Farrokh Alemi and Professor Janusz Wojtusiak provides a way for patients and clinicians to better predict whether symptoms are due to COVID-19,"
     publishedDateTime: 2023-01-30T22:03:00Z

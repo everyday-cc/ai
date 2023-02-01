@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-
 webUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F5%252F3%252F5%252F44175357-1-eng-GB%252F2023-01-19T191532Z_2055329384_RC2WRW96Z15E_RTRMADP_3_USA-ISRAEL-UKRAINE.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
+        isCached: true
+  - title: "US, India target arms, AI to compete with China"
+    excerpt: "The White House on Tuesday launched a partnership with India that US President Joe Biden said he hopes would help the countries compete against China on military equipment, semiconductors and artificial intelligence (AI)."
+    publishedDateTime: 2023-02-01T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/02/02/2003793528"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/02/02/p11-230202-345.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "AWS launches Data Lab program in India"
     excerpt: "AWS Data Lab is designed to bring enterprise customers and AWS data specialists together to solve complex data challenges in tangible ways, using AWS products and services."

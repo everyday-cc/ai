@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-fairy-like-robot-flies-power.amp"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Wind and Light Bring a Fairy-like Robot to Life"
+    excerpt: "Researchers at Tampere University have developed a polymer-assembly robot controlled by light and powered by wind."
+    publishedDateTime: 2023-02-01T13:32:00Z
+    webUrl: "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/"
+    ampWebUrl: "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 104
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/the-wind-and-light-bring-a-fairy-like-robot-to-life.jpeg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "A fairy-like robot flies by the power of wind and light"
     excerpt: "The loss of pollinators, such as bees, is a huge challenge for global biodiversity and affects humanity by causing problems in food production. At Tampere University, researchers have now developed the first passively flying robot equipped with artificial muscle."
     publishedDateTime: 2023-01-30T19:46:00Z

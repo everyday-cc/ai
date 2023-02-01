@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 708
         isCached: true
+  - title: "Fact-Checkers Are Scrambling to Fight Disinformation With AI"
+    excerpt: "Bad actors use artificial intelligence to propagate falsehoods and upset elections, but the same tools can be repurposed to defend the truth."
+    publishedDateTime: 2023-02-01T13:00:00Z
+    webUrl: "https://www.wired.com/story/fact-checkers-ai-chatgpt-misinformation/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Creativity or clickbait? Art world wrestles with AI"
     excerpt: "Tech companies tout their inventions as a liberating force of art for all, but purists argue that the artist is still the central cog in the machine."
     publishedDateTime: 2023-02-01T06:46:00Z

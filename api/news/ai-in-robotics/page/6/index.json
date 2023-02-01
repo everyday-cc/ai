@@ -2,6 +2,169 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-10-a-new-soft-robot-is-able-to-spot-injuries-and-self-heal.md",
+      "title": "A New Soft Robot Is Able to Spot Injuries and Self-Heal",
+      "excerpt": "A new study by Cornell University researchers published in Science Advances introduces an autonomous, self-healing soft robot that is not only able to identify injuries but also heal itself. The scientists plan to integrate these soft robots with artificial intelligence (AI) machine learning in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp",
+      "publishedDateTime": "2022-12-09T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-why-robots-are-taking-over-the-world-and-thats-a-good-thing.md",
+      "title": "Why Robots Are Taking Over The World - And That's A Good Thing",
+      "excerpt": "Robots and automation are not \"taking jobs\" in this latest economic downturn but are instead doing the work that few people want to do — from weeding fields to cleaning floors to stacking boxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e2b41fa2aa3cd9557066e/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "publishedDateTime": "2022-12-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-is-chatgpt-the-start-of-the-ai-revolution.md",
+      "title": "Is ChatGPT the Start of the AI Revolution?",
+      "excerpt": "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440",
+          "width": 1440,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services.md",
+      "title": "Autonomous Robot Startup Synkar Partners With Toronto Based Microart Services",
+      "excerpt": "OSHAWA, ON — Synkar Autonomous, a Canadian Startup based in Oshawa and developer of autonomous delivery systems is proud to announce their partnership with Microart Services, an Electronic Manufacturing Services (EMS) provider,",
+      "sourceUrl": null,
+      "webUrl": "https://circuitsassembly.com/ca/current/38309-autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services.html",
+      "originalUrl": "https://circuitsassembly.com/ca/current/38309-autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T15:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Circuit",
+        "domain": "circuitsassembly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis.md",
       "title": "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis",
       "excerpt": "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected",

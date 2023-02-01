@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/01/data-quality-the-real-bottleneck-in-ai-adoption/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/01/data-quality-the-real-bottleneck-in-ai-adoption/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

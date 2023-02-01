@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Two companies race to deploy robotaxis in San Francisco. The city wants them to hit the brakes."
-    excerpt: "The episode adds another chapter to the complicated history of self-driving cars, an idea that has been teased by technologists as a possibility in the future while facing a variety of setbacks in ..."
-    publishedDateTime: 2023-01-27T23:30:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/san-francisco-looks-hit-brakes-self-driving-cars-rcna66204"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna66204"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66204"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 62
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220603-cruise-al-0912-f3d96d.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "San Francisco is getting cold feet about self-driving car tests"
     excerpt: "San Francisco officials have called for a slower, more considered expansion of the use of autonomous vehicles, which have blocked traffic and hampered emergency services"
     publishedDateTime: 2023-01-31T18:11:00Z

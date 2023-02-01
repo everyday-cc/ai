@@ -49,20 +49,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google develops new AI system for generating high-fidelity music"
-    excerpt: "Google LLC researchers have developed an artificial intelligence system that can generate high-fidelity music based on a text description provided by the user. Google detailed the system in a Jan. 26 research paper spotted today by TechCrunch."
-    publishedDateTime: 2023-01-27T22:12:00Z
-    webUrl: "https://siliconangle.com/2023/01/27/google-develops-new-ai-system-generating-high-fidelity-music/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/IMG_3819-800x533-1-3.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Google's new AI bot creates 'original' music from text and sound prompts"
     excerpt: "Google's new artificial intelligence bot called MusicLM can create 'original' music from both text and sound prompts put in by the user."
     publishedDateTime: 2023-01-30T10:32:00Z

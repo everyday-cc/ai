@@ -2,6 +2,180 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-17-as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up.md",
+      "title": "As Supply Chain Bogs Down, Autonomous Mobile Robot Sales Trend Up",
+      "excerpt": "A Vecna Robotics’ AMR moves heavy payloads through a warehouse ... tote things on a whole other level – using sophisticated sensors, artificial intelligence, machine learning and computerized pathway planning techniques to navigate their environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richblake1/2022/12/16/as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up/",
+      "originalUrl": "https://www.forbes.com/sites/richblake1/2022/12/16/as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T12:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-robotics-competition-kicked-off-for-delhi-government-school-students.md",
+      "title": "Robotics competition kicked off for Delhi government school students",
+      "excerpt": "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
+      "originalUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/jelleke-vanooteghem-6nulohm40w8-unsplash-sixteen_nine.jpg?VersionId=q1ETy.V2ObyHT1nAmNcfRDHfT1U9NJdu",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
+      "publishedDateTime": "2022-12-16T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-artificial-intelligence-could-steal-your-restaurant-job-heres-how.md",
+      "title": "Artificial Intelligence could steal your restaurant job. Here's how",
+      "excerpt": "The food and beverage industry is experiencing a digital transformation, as robots and AI-powered tools fill in the gaps caused by a labor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bdcf8a7fc5583b41444768b0857c758bafb595a4/2020/03/23/bc89ffa7-bdfe-41e3-8ff1-adb3a9e28676/istock-1141493516.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
+      "publishedDateTime": "2022-12-15T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
+      "title": "eYs3D Microelectronics: eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
+      "excerpt": "TAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase a powerful new vision platform for robotics at the upcoming CES 2023 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57859982-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57859982-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T14:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031.md",
       "title": "Artificial Intelligence (AI) Robot Market is Expected to Reach US$ 52.63 Bn by 2031",
       "excerpt": "Artificial Intelligence Robot Market is expected to surpass the value of US$ 52.63 Bn by 2031, It is estimated to expand at a CAGR of 20.5% from 2022 to 2031 The business intelligence study on the market is prepared by employing industry-validated primary and secondary methods.",
@@ -1140,169 +1314,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-a-new-soft-robot-is-able-to-spot-injuries-and-self-heal.md",
-      "title": "A New Soft Robot Is Able to Spot Injuries and Self-Heal",
-      "excerpt": "A new study by Cornell University researchers published in Science Advances introduces an autonomous, self-healing soft robot that is not only able to identify injuries but also heal itself. The scientists plan to integrate these soft robots with artificial intelligence (AI) machine learning in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp",
-      "publishedDateTime": "2022-12-09T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-why-robots-are-taking-over-the-world-and-thats-a-good-thing.md",
-      "title": "Why Robots Are Taking Over The World - And That's A Good Thing",
-      "excerpt": "Robots and automation are not \"taking jobs\" in this latest economic downturn but are instead doing the work that few people want to do — from weeding fields to cleaning floors to stacking boxes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638e2b41fa2aa3cd9557066e/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
-      "publishedDateTime": "2022-12-09T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-is-chatgpt-the-start-of-the-ai-revolution.md",
-      "title": "Is ChatGPT the Start of the AI Revolution?",
-      "excerpt": "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440",
-          "width": 1440,
-          "height": 963,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services.md",
-      "title": "Autonomous Robot Startup Synkar Partners With Toronto Based Microart Services",
-      "excerpt": "OSHAWA, ON — Synkar Autonomous, a Canadian Startup based in Oshawa and developer of autonomous delivery systems is proud to announce their partnership with Microart Services, an Electronic Manufacturing Services (EMS) provider,",
-      "sourceUrl": null,
-      "webUrl": "https://circuitsassembly.com/ca/current/38309-autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services.html",
-      "originalUrl": "https://circuitsassembly.com/ca/current/38309-autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T15:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Circuit",
-        "domain": "circuitsassembly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

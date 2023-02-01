@@ -42,6 +42,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "AI and Robots Come to Construction Wood Reclamation"
+    excerpt: "Reuse wood and there is no destruction of the carbon capture in the wood and no additional carbon footprint of the newly delivered replacement material. Beyond the feel-good value is something more substantive that will become clear over time as developing regulations will demand disclosure."
+    publishedDateTime: 2023-02-01T13:02:00Z
+    webUrl: "https://www.globest.com/2023/02/01/ai-and-robots-come-to-construction-wood-reclamation/"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 34
 
 secured: "SeBJ/7srrbz2GAHEyxOcNRYmcswmX6mfmjSD4eQLXPcE7u7LwIVJC0t9+9vR4VTX5839eyU8C6TdruIhu3uEbtdk8CLgXDpmN6Q66jzMvVf/8Lj+fAQDutyLCyRnpuYkmbyisS36Sc7Sn49oaW96kk/l9UrTtD8ZFnNm30d/mEl4OD4srfi0Q25Qf0jKcoRZ/+kVgX1MyJQqn9J2K8SuOur4aNnce7/NVJtP0RGpqCTyCI33Nh2wF0FjUyvd2EcuFr/gdjR10CLpUxZhEjh+xUihsU8V8mL1xoW6qKFSo03ALcV7++aICyfOgWkJSI13jIghFKAY4Tw5DOIR+4MM439fo62FJ9dN0KPRrTifIF0=;uOBUvdWkMGhrPFltBZRCpQ=="
 ---

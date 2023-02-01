@@ -49,6 +49,15 @@ related:
         width: 412
         height: 312
         isCached: true
+  - title: "A Magnificent Seven Retail Banking and Fintech Trends to Spy in 2023"
+    excerpt: "This trend will involve the use of white label branches, where a single location serves as a shared service centre for  all banking activities, regardless of the customer's bank. The white label branch also has the ability to offer further financial services in addition to access to cash."
+    publishedDateTime: 2023-02-01T14:56:00Z
+    webUrl: "https://www.finextra.com/blogposting/23672/a-magnificent-seven-retail-banking-and-fintech-trends-to-spy-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "5 tech trends that will change the fintech industry in 2023"
     excerpt: "A recent report by Bain and Co. recognized India as one of the first leaders to uplift the exposure of the country’s fintech industry globally. Further, the report states the boom in smartphone adoption"
     publishedDateTime: 2023-01-30T08:47:00Z

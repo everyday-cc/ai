@@ -9,7 +9,7 @@ ampWebUrl: "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-
 cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
 type: article
 quality: 59
-heat: 79
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,38 @@ related:
         width: 700
         height: 328
         isCached: true
+  - title: "Will an AI be the first to discover alien life?"
+    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss."
+    publishedDateTime: 2023-01-30T16:57:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-00258-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00258-z/d41586-023-00258-z_23960252.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Will an AI Be the First to Discover Alien Life?"
+    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss"
+    publishedDateTime: 2023-01-31T20:02:00Z
+    webUrl: "https://www.scientificamerican.com/article/will-an-ai-be-the-first-to-discover-alien-life/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
+  - title: "SETI: Alien hunters get a boost as AI helps identify promising signals from space"
+    excerpt: "An international team of researchers looking for signs of intelligent life in space have used artificial intelligence (AI) to reveal eight promising radio signals in data collected at a U.S. observatory."
+    publishedDateTime: 2023-02-01T14:31:00Z
+    webUrl: "https://phys.org/news/2023-02-seti-alien-hunters-boost-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 12
 
 secured: "EqEmEAv2F+A0d4DGlnYlDGKgOFUs0iO3VdOEDOvbk5guAJc/qY/TD2qT0cNem3tlBaoQfFmIAdrLwP7wVymHVJvq5SCtB0cxncsQXGcREi2ZQ11onHB9SM8iTUAvDN0FmUJNNMYX9JGukY7IU+tk60/GmInxW5/JXp4utfChpOFJ0pBVvwDRsxbOP/fl+03lc+QNTrGv7RDctxxOEXBV3/FFLYb1zdTEAMnLPXrHhVMmu5Bto0f4YkbQWJvzTsb5UqIFqo7VpTX0zKQmwdg71Kn3ABgqu/WIPg6GK8UqyEBvuG9lECE2uhemfd18yPBKCNLq6CddtXqbUTS9h24uSop0eWlmmMFFcBXJi1dRESfEofHSCTDu8BqwCajtzXIhfdeK1icLq430omHttFtjFaihktpcOcYX/EfPz9PPHolKVUUL0J5+x5TKSJqnogtbvGpL0qXaEI2yYHAcQSnJmoAVLtDLpcA/zx8Xi2qI3GA5B94zJbolzFKMgcMv7/fgOY2CVX9CWhcr38ukxnp/xw==;lVtPUyFWZQW9wnCLaCi8kA=="
 ---

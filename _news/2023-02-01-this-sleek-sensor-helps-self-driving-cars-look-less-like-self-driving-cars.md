@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T06:10:00Z
 originalUrl: "https://www.fastcompany.com/90842572/this-new-sensor-helps-self-driving-cars-look-less-like-self-driving-cars"
 webUrl: "https://www.fastcompany.com/90842572/this-new-sensor-helps-self-driving-cars-look-less-like-self-driving-cars"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Fast Company

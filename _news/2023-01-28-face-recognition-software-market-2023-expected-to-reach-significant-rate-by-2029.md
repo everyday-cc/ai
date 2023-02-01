@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-softwar
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "L3 Self-driving Vehicle Market 2023 Insights with Complete Revenue Expected Evolutionary Business Aspect Forecast to 2026"
+    excerpt: "L3 Self-driving Vehicle Market” 2023 report offers business strategy, covers complete landscape for business development including major regions with the frame of reference historic data. Competitive scenario of current market situations,"
+    publishedDateTime: 2023-02-01T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-2023-insights-with-complete-revenue-expected-evolutionary-business-aspect-forecast-to-2026-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "tDpofxli7lNgzxrSHYwrfqfocl2DGgKiCF/GFqceyl8hEPnPada7bTwjSr42DrpiZ6sWw7zCxag6hdrsiNWycDfpg6aZzxBzwOib8AUH+abpKmiZLVOsYBFJhrVEiznGJXaQIAXTOH3vuUQP2hyu3nlL0GFJkpeHYS8xYgTT6Kv69u6/a4FeA9/OaB3+aY4FuqGMWGO6BBmx6AIhYwMOLcP4GNVN7Jr6rPI+CIZ01/OYAiRUNXnkdpWKfz86/YV7tCDGjouGRb6bTEFrmaQdnTIby68E9F9UZQ5AUi+4osiah4CE0hMCy0+G7SwRkt3XXlfxWqtMDvSyluCSnvmlFCaTN5oReGmMtdxdmNVubC0=;HYTQ83vJQOwGNh0dCqTxJQ=="
 ---

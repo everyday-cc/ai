@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T13:24:00Z
 originalUrl: "https://www.gadgetsnow.com/tech-news/google-may-soon-let-users-translate-text-within-images-in-chrome/articleshow/97529759.cms"
 webUrl: "https://www.gadgetsnow.com/tech-news/google-may-soon-let-users-translate-text-within-images-in-chrome/articleshow/97529759.cms"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Gadgets Now

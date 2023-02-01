@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-01-artificial-intelligence-patie
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-artificial-intelligence-patients-home-covid-.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Worse at math, better at tech: How COVID-19 impacted learning"
+    excerpt: "Meanwhile, video conferencing remains relevant for group projects, while machine-learning apps and chat tools can help teachers draft tests and assignments. A separate report by the Pew Research Center also noted that more rapid advancements in online ..."
+    publishedDateTime: 2023-02-01T15:15:00Z
+    webUrl: "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/"
+    ampWebUrl: "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/"
+    cdnAmpWebUrl: "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/"
+    type: article
+    provider:
+      name: KLFY News 10
+      domain: klfy.com
+    quality: 61
+    images:
+      - url: "https://www.klfy.com/wp-content/uploads/sites/9/2023/02/c4fcc8b2f8c643a5ac7848dae4ed9a0c.jpg?w=1280"
+        width: 1280
+        height: 925
+        isCached: true
   - title: "Artificial intelligence can help patients interpret home tests for COVID-19"
     excerpt: "George Mason University researchers found that computerized symptom screenings can supplement at-home COVID-19 tests to better confirm the diagnosis for patients and clinicians. They are now creating a website to deliver an AI-based resource to assist individuals in identifying recommended actions as a result of their clinical profile and COVID at-home test results."
     publishedDateTime: 2023-01-29T23:59:00Z

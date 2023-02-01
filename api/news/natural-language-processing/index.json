@@ -194,6 +194,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-30-flawless-demos-its-wild-ai-film-dialogue-manipulation-and-language-translation.md",
+      "title": "Flawless Demos Its Wild AI Film Dialogue Manipulation And Language Translation",
+      "excerpt": "From tweaking Tom Cruise to advancing deepfake detection with Intel, AI manipulation of photo, video, and audio sources is becoming more mainstream daily. Now, one company is taking this tech to Hollywood with the debut of TrueSync,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
+      "originalUrl": "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60779/content/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
+      "publishedDateTime": "2023-01-29T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-5-ways-ml-and-sme-collaboration-can-accelerate-innovation.md",
       "title": "5 Ways ML And SME Collaboration Can Accelerate Innovation",
       "excerpt": "In this article, I will lay out five ways in which partnerships between data scientists and subject matter experts (SMEs) can accelerate innovation.",
@@ -379,19 +422,19 @@
     {
       "path": "_news/2023-01-26-viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy-and-improving-diarization.md",
       "title": "VIQ Solutions Bolsters AI-Powered Workflows WIth New Proprietary Automatic Speech Recognition (ASR) Increasing Accuracy and Improving Diarization",
-      "excerpt": "VIQ offerings are agnostic to speech recognition programs, cloud infrastructure and hardware. The engine agnostic approach ensures they utilize the best suited and most efficient speech engine and ...",
+      "excerpt": "VIQ Solutions Inc. (\"VIQ\", \"VIQ Solutions\" or the \"Company\") (TSX and Nasdaq: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, today announced the addition of a new ASR technology to its engine agnostic portfolio driving improvements in efficiency and diarization in multi-speaker environments.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/b30582772/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/b30582772/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-",
+      "webUrl": "https://www.bakersfield.com/ap/news/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_0ba4eaf7-68e9-5ead-9da4-cbda1b911927.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_0ba4eaf7-68e9-5ead-9da4-cbda1b911927.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -399,13 +442,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30582772",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30582772",
-      "publishedDateTime": "2023-01-26T04:37:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T03:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1360,60 +1403,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
-      "title": "Natural Language Processing (NLP) Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
-      "excerpt": "Pages Report] Rising demand for Consumer Goods Industry will drive the Natural Language Processing (NLP) segment growth over the next five years. Global Market Analysis for N",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 302,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
       ]
     }
   ],

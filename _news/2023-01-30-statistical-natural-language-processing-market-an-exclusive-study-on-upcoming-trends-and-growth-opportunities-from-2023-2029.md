@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Accounting Market 2023 (New Report): Size is set to Grow at a Prominent Pace in the Upcoming Years till 2029"
+    excerpt: "Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence in Accounting Market\" Report New Research Insight Report 2023 | Recent Report Spread Across|"
+    publishedDateTime: 2023-02-01T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2023-new-report-size-is-set-to-grow-at-a-prominent-pace-in-the-upcoming-years-till-2029-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video Surveillance and Vsaas Market 2023-2028: Upcoming Trend, Professional Strategies, Complete Analysis | 98 Pages Report"
     excerpt: "A recent research report on “Video Surveillance and Vsaas Market” provides the latest growth synopsis of market along"
     publishedDateTime: 2023-01-30T04:37:00Z

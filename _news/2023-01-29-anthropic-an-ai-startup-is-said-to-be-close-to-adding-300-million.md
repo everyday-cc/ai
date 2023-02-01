@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Anthropic, an A.I. Start-Up, Is Said to Be Close to Adding $300 Million"
-    excerpt: "Anthropic specializes in generative artificial intelligence, a hot investment in Silicon Valley. The new funding could value the company at roughly $5 billion."
-    publishedDateTime: 2023-01-27T21:05:00Z
-    webUrl: "https://www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.html"
-    ampWebUrl: "https://www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/27/technology/anthropic-ai-funding.amp.html"
+  - title: "Read the 8-page Notion document an AI-gaming startup used to raise $6 million"
+    excerpt: "Scenario is a startup that allows artists to train AI models using their own images. Here's the Notion document it used to raise $6 million."
+    publishedDateTime: 2023-01-31T10:20:00Z
+    webUrl: "https://www.businessinsider.com/notion-doc-ai-gaming-company-used-to-raise-6-million-2023-1"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://static01.nyt.com/images/2023/01/27/business/27ai-funds-01/27ai-funds-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://i.insider.com/63d13cf1def14100198e323f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "BcnzLAwX2MCJ1BRC5GtPT37HThihlEXAxmTy5pccSJZbGHVE8MLLOn3nIqBK7WT4eGd36Q5NL68PvtBG/T5T6IcAQWzqk+Pku8DoyYIABoEsl0bYZVDYYH8cfBqGqPyYP37DD+Wo0uB5gA2vp/WOgvyozOAsyzv9d/THkJ2qkng0mZAaWlYSSEsKnWHxbtpjH+jXKN+yNHzrvFbKRk1EOE6nmPkDucWa19wfnnKAKcWV8mYZvodne8pQeV7cByiRXEkTfgbhWlqO6Fm9etDEJRJdGh4Q8CJRLaQnPtZRmzRSeOP+4Hn1rEf6LaHTWhaNRSif3kZ5GvV05cEcVm+eefST6Y47LUNfDKYQArfdT0xVso4YXv8CFOADAq0T3EhXbql1bIoBPGZM5RSe4+lJrJ8jILZ6Fh4K4p+4VcXX4TEjsD+H3B4LqR5JEiiox+eyxPsCNJib2v8oZbBnITjlDcqMxQbB2o5WRBc9dp1UrmNKykHD7yEddoFHyHP+svhzGEXBf/m328pFVJT1vdRw0A==;u7u65Dc2KdXrGTuwPD5acA=="

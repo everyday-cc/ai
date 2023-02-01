@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-techn
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: HotHardware
@@ -41,6 +41,15 @@ related:
         width: 680
         height: 383
         isCached: true
+  - title: "AI and Robots Come to Construction Wood Reclamation"
+    excerpt: "Reuse wood and there is no destruction of the carbon capture in the wood and no additional carbon footprint of the newly delivered replacement material. Beyond the feel-good value is something more substantive that will become clear over time as developing regulations will demand disclosure."
+    publishedDateTime: 2023-02-01T13:02:00Z
+    webUrl: "https://www.globest.com/2023/02/01/ai-and-robots-come-to-construction-wood-reclamation/"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 34
 
 secured: "7pVUDjVf3KnIhOkkiDR6f5NDWJR7jh5iRtCbexqt6h/p/jDP61rD3y2fOYOgGhPloHbxVrQpAC3Fk8SL48GYgQNkTHVVUjZSH0VRJkEi/Ag1O3id/nOltuvMERsykJGny/0pdYheb9YDD3CtiPqmcu3K4D1jxTyg9C0pEnF1TK7ds2UcUK1YDNS3lYpxmKfC2/Mwpcgj2Of5fnhNGt2BYwpxpqk45y2sEEj22PevABOThIt5tLrQcxQslFp6IOrPYuGlI9aW8A04C3XnURIZCxBWlx/tpUercnRWKPTkbVNajz2yLB1MtggD7+laK/lDI+sO33Y2R6i9ZYRP6JhF4eEj1MvsmySRYRnC0+h8VTtAt5rnilwAjUVt8KvPIXvcgiOXzI5zSfA2VTRG1EeoTkUJUNrv1gewUfVm6/Pk7dxDaaSZ11OApQOKSDpVwOb/JcmsUodhbf+FM16SNOlSOmLeX1GsWU2eY+fViT2xDydrOHgxArfxfFtVTuba8YOzFomIe7+XSfHZRHqLyeZSbA==;WOxkSdM/evvgcsqkj/mSDw=="
 ---

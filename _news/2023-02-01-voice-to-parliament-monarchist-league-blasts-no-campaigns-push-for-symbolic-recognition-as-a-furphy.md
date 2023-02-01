@@ -31,6 +31,17 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Amending Australia’s Constitution to Create an Indigenous Voice to Parliament: Challenges Ahead"
+    excerpt: "First Nations people gathered together from across Australia to draft and sign the Uluru Statement from the Heart. The Uluru Statement proposed a First Nations Voice to Parliament, a"
+    publishedDateTime: 2023-02-01T07:37:00Z
+    webUrl: "https://www.jurist.org/commentary/2023/02/amending-australias-constitution-to-create-an-indigenous-voice-to-parliament-challenges-ahead/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 0
+
 secured: "WYG1Oyg1so/Nu9Z8EqLWQ4SiBbs1Q7+qiTppfjrUPQpLS/RgfEAA/ztapZCoeoEEYkJ5SS5K5CRhyOHvFut37ZkmfCGnFMQ1xrV89EqqV3oqH7DivI6DtzuqG5qvbZ+1aTtDm9XMIF4aayR0if5P6ISbSBapGW7jgTg2w7kVykLYnRgG4bcFrFgcg/ZU1BWBMsKSSC/RqTctCcPrQSlARmNrP+7QNb7Y429eMwIaA7qA2L8vNZYN6Nh8U2hqmrXWPlt6vmpFtzDCNEPwZgT7jIPd86dYy90eazDwvLg2Yym/VkmJkiER1a/02mNLUSQ0Mwh/swmTC2PYe9X1NRa5W8HN8m8lk9YlJob8P8SFOlLitlpmQFICVHfdUFXw429A1vqIvT2jA3VN/Bu/I9AKrNM/K3yZKHE0GiuKCjo7R2HPeWel00ypqSBsH5lk7n1YS+3Nv5GcSX91D+Yw8cY8ZmnZukbZqzcevzL9+t5HTWQfL1DVTjTx1egakgMeBnaYo6rlM13vncGr5ZGqYGtl6A==;hjbk74Oyofw2KitUFmQyKg=="
 ---
 

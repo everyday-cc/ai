@@ -2,6 +2,200 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-02-our-future-could-be-full-of-undying-self-repairing-robots-heres-how.md",
+      "title": "Our future could be full of undying, self-repairing robots. Here's how",
+      "excerpt": "With generative artificial intelligence (AI) systems such as ChatGPT and StableDiffusion ... But the rate of advancement in robotics—which we could think of as the potential physical embodiment of AI—is slow. Could it be that future AI systems will ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/our-future-could-be-fu.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp",
+      "publishedDateTime": "2023-02-01T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-humanoid-robots-to-take-centre-stage-at-un-meet-on-ai.md",
+      "title": "Humanoid robots to take centre stage at UN meet on AI",
+      "excerpt": "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/humanoid.jpg",
+          "width": 2880,
+          "height": 2106,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.amp",
+      "publishedDateTime": "2023-02-01T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-our-pick-of-the-best-artificial-intelligence-ai-stocks-shares.md",
+      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks & Shares",
+      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. The potential opport",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-the-wind-and-light-bring-a-fairy-like-robot-to-life.md",
+      "title": "The Wind and Light Bring a Fairy-like Robot to Life",
+      "excerpt": "Researchers at Tampere University have developed a polymer-assembly robot controlled by light and powered by wind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/",
+      "originalUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/02/the-wind-and-light-bring-a-fairy-like-robot-to-life.jpeg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1",
+      "publishedDateTime": "2023-02-01T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-tech-tuesday-samsung-smartphones-google-ai-liquid-robots.md",
       "title": "Tech Tuesday: Samsung smartphones, Google AI, ‘liquid’ robots",
       "excerpt": "From a sneak peek of the latest smartphones and artificial intelligence to “liquid” robots, technology expert Greg Nibler joined KOIN 6 News’ AM Extra to share the latest tech",
@@ -118,49 +312,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-a-fairy-like-robot-flies-by-the-power-of-wind-and-light.md",
-      "title": "A fairy-like robot flies by the power of wind and light",
-      "excerpt": "The development of stimuli-responsive polymers has brought about a wealth of material-related opportunities for next-generation small-scale, wirelessly controlled soft-bodied robots. For some time now,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html",
-      "originalUrl": "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-fairy-like-robot-fli.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-fairy-like-robot-flies-power.amp",
-      "publishedDateTime": "2023-01-30T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -829,6 +980,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-25-gas-leak-detection-robot.md",
+      "title": "Gas leak detection robot",
+      "excerpt": "In order enable an early detection of gas leaks, we wanted to build a big remote operated robot (on a low budget) to carry the required equipment.” “It should take advantage of cellular ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/gas-leak-detection-robot-24-01-2023/",
+      "originalUrl": "https://www.geeky-gadgets.com/gas-leak-detection-robot-24-01-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/01/gas-leak-detection-robot.jpg",
+          "width": 700,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies.md",
       "title": "How ‘killer robots’ can help us learn from mistakes made in AI policies",
       "excerpt": "Finally, it is critical to consider oversight mechanisms at the start ... “killer robots,” we should not lose sight of the danger that poor processes create when deploying AI systems.",
@@ -1170,178 +1364,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-robotics-drug-control-on-senators-mind-this-week-letters.md",
-      "title": "Robotics, drug control on senator’s mind this week (Letters)",
-      "excerpt": "As usual, the beginning of formal session has been exceptionally busy ahead of our bill filing deadline. All bills filed prior are guaranteed a public hearing, an important step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
-      "originalUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V3HL2JSC25CP7NTDBBGK6Q52JA.jpg",
-          "width": 2385,
-          "height": 2385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
-      "publishedDateTime": "2023-01-20T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-did-johnny-write-this-or-a-robot-ai-chatbots-rock-michigan-schools.md",
-      "title": "Did Johnny write this or a robot? AI chatbots rock Michigan schools",
-      "excerpt": "Artificial intelligence writing generators like ChatGPT can compose school assignments at the click of a button. Is it the end of writing as we know it? An invitation to cheating? Or a handy tool like a calculator?",
-      "sourceUrl": null,
-      "webUrl": "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools",
-      "originalUrl": "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-01/teacher%20with%20student.jpg?itok=0Njw6XVo",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp",
-      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp",
-      "publishedDateTime": "2023-01-20T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bridge Magazine",
-        "domain": "bridgemi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-robots-and-the-future.md",
-      "title": "Robots and the future",
-      "excerpt": "Remotely controlled robots OriHime-D, developed by Ory Lab Inc. to promote employment of disabled people, serve customers at a cafe in Tokyo, Japan November 26, 2018. REUTERS/Issei Kato ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pakistantoday.com.pk/2023/01/20/robots-and-the-future/",
-      "originalUrl": "https://www.pakistantoday.com.pk/2023/01/20/robots-and-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pakistantoday.com.pk/wp-content/uploads/2023/01/Beta-18.jpg",
-          "width": 1024,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-20T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pakistan Today",
-        "domain": "pakistantoday.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-best-robot-vacuum-deals-under-100.md",
-      "title": "Best robot vacuum deals under $100",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100/",
-      "publishedDateTime": "2023-01-20T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

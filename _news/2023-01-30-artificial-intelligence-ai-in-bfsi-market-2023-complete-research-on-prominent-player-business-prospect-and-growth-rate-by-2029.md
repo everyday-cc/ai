@@ -92,6 +92,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "L3 Self-driving Vehicle Market 2023 Insights with Complete Revenue Expected Evolutionary Business Aspect Forecast to 2026"
+    excerpt: "L3 Self-driving Vehicle Market” 2023 report offers business strategy, covers complete landscape for business development including major regions with the frame of reference historic data. Competitive scenario of current market situations,"
+    publishedDateTime: 2023-02-01T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-2023-insights-with-complete-revenue-expected-evolutionary-business-aspect-forecast-to-2026-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "Zg5kb/gSwp9x3DVzVI+zYcWt8dWqQLwnesvxouHBjtd+y4170u6KNIHvhVkM6wROmmGROYdISx0vV+BW9hAwMtH/nyBEYVpnsEC3u4XVtaEgT0whgvNPFSVHafFQh8QMNDLylwoHWWFeBvGzkGAKxZ6ozqwL18EpEdYoRD04be0WKrgc/lDMmzTmck19oz9PIXdBCcdZFqwRN/CegH4nOwz4zJTBkah5xY0bQb/mZ0C5JKLWk3bQlJZITcjGc4Wf+oNGHSi3YuxPx+fUbEcQAFgJHOeN+4Ed6abRNIKVITQX23KU2Kspc9rtOOrzkxynJgsTKp3jnnl6UEsLKCSBW4ec1HBY0om80MS9FuLhP5I=;veozWSu9fmf1hvsWwsF0oQ=="
 ---

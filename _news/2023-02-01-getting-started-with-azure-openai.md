@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3686694/getting-started-with-azure
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html"
 type: article
 quality: 104
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT maker OpenAI has a free tool that can spot AI-written text"
+    excerpt: "OpenAI's offers a free but \"imperfect\" tool to detect AI-generated text, and hopes it sparks a debate about AI literacy."
+    publishedDateTime: 2023-02-01T15:23:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1c1f20c62b292dee9b24dd9dced81e04feb7a15a/2023/02/01/d0bf3f5b-f7f0-486e-9a97-a1e0f44e218e/looking-at-pc.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI launches tool to catch AI-generated text"
     excerpt: "The AI Text Classifier, released by the makers of ChatGPT, \"may help\" determine whether a school essay was AI-generated."
     publishedDateTime: 2023-02-01T01:25:00Z
@@ -112,6 +128,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 26
+  - title: "OpenAI Is Making Headlines. It’s Also Seeding Talent Across Silicon Valley"
+    excerpt: "OpenAI has just 375 full-time employees, but its buzzy chatbot, ChatGPT, is shaking up Silicon Valley. The company’s influence extends even further, through former employees who are now in top positions at other artificial intelligence firms or have founded startups of their own."
+    publishedDateTime: 2023-02-01T14:00:00Z
+    webUrl: "https://www.theinformation.com/articles/openai-is-making-headlines-its-also-seeding-talent-across-silicon-valley"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 17
 
 secured: "rn+2X+pxsnlSEaH3NO2Xu1udX75QWmlaBlM+LQTWKQuF8A+Z8+rzjPyaJyH2ISK9xHv/BH4VGR/HYOxMVvFEs8QQMutMsS2E/3CzRHKOdcTSx1bm1TF8ZDIwIRZYMyN7mTQ79vFPi6y9R7zfLeaWop4hRj+nk9YQGSFJUVVMOUB4Xx0YzFS6x2qwIGum9a3h/ImXrzn0ELlPXmmOKS71mY0TI138EmMUjTNaK5kBXuXvRGcaHZN6Ewkof+49F4sA7DR1kTINKx63ddDVqR8VUDuULJ43z4HFcNd8c6WwrAd0Vg3R5Q0TUm4GAQ05xTk+UMWfxEMX6NJVRBXsz5a847CkxD/CqyBf/5JOjJ3bSg11YGDr9GNNxhK8RUbWlgH7bPQrFleFOKQAjWHwv7xQG3aVQRrQuPu2I78Q3q5ccBt1nzXojKAmZSvyKpj27fSreJ0IGpupfWJ288VR5Aq+hY1UgqN5j21PVNPmGiEtywvsgVeSJvE4nmlJgf97HHCGL/Ea6BXPqhY6/DqdkybQ4w==;ihJ2H4gyt70xuu/wIOthVg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T11:30:00Z
 originalUrl: "https://www.repairerdrivennews.com/2023/02/01/appen-makes-case-for-future-of-autonomous-vehicles/"
 webUrl: "https://www.repairerdrivennews.com/2023/02/01/appen-makes-case-for-future-of-autonomous-vehicles/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Repairer Driven News

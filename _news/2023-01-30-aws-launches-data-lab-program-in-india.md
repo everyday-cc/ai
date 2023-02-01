@@ -93,6 +93,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "US, India target arms, AI to compete with China"
+    excerpt: "The White House on Tuesday launched a partnership with India that US President Joe Biden said he hopes would help the countries compete against China on military equipment, semiconductors and artificial intelligence (AI)."
+    publishedDateTime: 2023-02-01T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/02/02/2003793528"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/02/02/p11-230202-345.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "HzcAI/MvNrKpwMmub8dqy2tY2E0xwKwQlg1namFHlREqG2LUKyJBAPrq012z8NJRgRzs7ywxydmsXi4ccg55dWfRDmeJudCi1Px8UUDJl21ezEOwBK3B1X33XxY9bl6CWs/qdN2KZ7/mZYaUZNLs9OuTxU0LO5LTH6o23DJvcssx33H08dL2VwEPhWVDmpf0kP1WqUagn/VEvbYuD3sITSyujnIWpOa4m4ss9YbmEhT4h2HppJaESsvQHiWq1l9nIuDHOPx1yr7ACObz8hG7XFmObG385MB6mXIERi/UlUMXohG8G1GKhk06ppfcjIUHjmBUbMSDTa9JSlALpfu4HjzODHqwqSTrEPcmk0uGIGpCnuX0k1HoaOS1lRm7b8tA6H3OoVY0uZBEpysh6G/yx68DqeQrFrhzrivPSafblg3aSKyml18PotKpPeRlnWZSf7ztcvesTbIas3ltd1MSArsFgnBpIt1/4hQIvFh0R2ceVwETObu+uw8wWUzS1b8kZRgH8M7QGqrRj9nU2L6ejA==;yb+ZTXt4YJdTdVFz8rrC4A=="
 ---

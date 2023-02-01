@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T13:00:00Z
 originalUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.html"
 webUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

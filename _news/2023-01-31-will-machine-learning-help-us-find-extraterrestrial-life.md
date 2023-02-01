@@ -57,6 +57,38 @@ related:
         width: 700
         height: 328
         isCached: true
+  - title: "Will an AI be the first to discover alien life?"
+    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss."
+    publishedDateTime: 2023-01-30T16:57:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-00258-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00258-z/d41586-023-00258-z_23960252.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Will an AI Be the First to Discover Alien Life?"
+    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss"
+    publishedDateTime: 2023-01-31T20:02:00Z
+    webUrl: "https://www.scientificamerican.com/article/will-an-ai-be-the-first-to-discover-alien-life/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
+  - title: "SETI: Alien hunters get a boost as AI helps identify promising signals from space"
+    excerpt: "An international team of researchers looking for signs of intelligent life in space have used artificial intelligence (AI) to reveal eight promising radio signals in data collected at a U.S. observatory."
+    publishedDateTime: 2023-02-01T14:31:00Z
+    webUrl: "https://phys.org/news/2023-02-seti-alien-hunters-boost-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 12
 
 secured: "ldnRRlYTJ2ZUO9Kw3QfECk3ahxF0wjNVZhEoQp6XrPHwigrMMwUzU7F8NzGFSgxtW1mPRhE6oXLC308HGrkpoXlMR3r7UVVNl5mifDQqEKk4pAMEgwV/7xKcH67WCeXBUqCVszjDe1IR8IsfjZUwRsOrQujLt8XvHqVx9jyQAyDx2yTnN/BJvfg/oS7T+EhgXjZp+SAXaxd35CIFazviv/5N0vSwEzEL2C71Wir4v9R46OzHFEufxR6RZQCX2QaCe22XL7eFvlFmZfiE8tElw/f5RD4Rp37UwbHGcTfcWMVYetaYGP1OV39TqxCWjOttYFNkt/Kv+GM4X7Mwadv//XsJRVDQBUknwCVY+5ot8Lvvj3HUCQg+/nkOnR+uwmnSDYNCWgMxxyGd8o//nNmhg1R+8nmcc2NitvGMNMyNMi//tgfXKo/CNa+S+RsmER0lL0y99TouQFdPyc+Z0AB4MLEjefJnkyxonlzf9PYJUNHz1PYAu4tOHWCWCesqyQuOQXNNoHPoQKiKQwqTLmeU4w==;A/wFTUaeeeYO9PfyWslN/A=="
 ---

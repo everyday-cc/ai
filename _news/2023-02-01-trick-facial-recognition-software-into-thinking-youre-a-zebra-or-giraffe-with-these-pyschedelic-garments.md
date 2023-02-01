@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T14:55:00Z
 originalUrl: "https://www.thisiscolossal.com/2023/02/capable-facial-recognition-textiles/"
 webUrl: "https://www.thisiscolossal.com/2023/02/capable-facial-recognition-textiles/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Colossal

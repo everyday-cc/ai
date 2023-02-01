@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT maker OpenAI has a free tool that can spot AI-written text"
+    excerpt: "OpenAI's offers a free but \"imperfect\" tool to detect AI-generated text, and hopes it sparks a debate about AI literacy."
+    publishedDateTime: 2023-02-01T15:23:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1c1f20c62b292dee9b24dd9dced81e04feb7a15a/2023/02/01/d0bf3f5b-f7f0-486e-9a97-a1e0f44e218e/looking-at-pc.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI launches tool to catch AI-generated text"
     excerpt: "The AI Text Classifier, released by the makers of ChatGPT, \"may help\" determine whether a school essay was AI-generated."
     publishedDateTime: 2023-02-01T01:25:00Z
@@ -108,6 +124,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 26
+  - title: "OpenAI Is Making Headlines. It’s Also Seeding Talent Across Silicon Valley"
+    excerpt: "OpenAI has just 375 full-time employees, but its buzzy chatbot, ChatGPT, is shaking up Silicon Valley. The company’s influence extends even further, through former employees who are now in top positions at other artificial intelligence firms or have founded startups of their own."
+    publishedDateTime: 2023-02-01T14:00:00Z
+    webUrl: "https://www.theinformation.com/articles/openai-is-making-headlines-its-also-seeding-talent-across-silicon-valley"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 17
 
 secured: "8Gh+ZuoM1KZ8Kgt4FQWiXqG5m/srR7Rm/hIg6sAziGhanHXKgrin0mtkwr5mb2RtakL3Tiz720zrcAuEqYE0EkpaM0JFrXHou+RroDVhtYKcCT5DJHrltKUtaof67PykxBdwV4Y98rw15HFu2xLw7ySW/DW+JzacpHgLyBJZ06/OpznhUtqZtkgnA4J6h7Lt5IOZ2fg8rJnitcRQsJj7msYmkKZBeD0jqtiYzSGfpCKomGLjgTTICCxSk7/ghW/d1vPo/KxCK2zHwnE24+ad5+mOsi7/p2s/kG94IJUaXtPJ5XHQ1qPa/IyMEDsA/jNyWGkepCY7Lj97HXYU73C5p9KrAzNjE3HurS3nTqrb6GJWGRA2dSKViQr4AMWdjWROuqiAU56DuTU2KlWHmpdTigE+hxbMHyn9bPNTKC7QBFKCLgvb4d0ey/xnWSdxzLxPlgXgkAFau26Il8oqlVIIDv/3DDxLBMnlJJmAQxqXiqo209y7Af8BXMk5Y9H5ndbWtTNTUpMaxM+ibhYzFEkUfw==;B/vbdnM2aU3ILZC+yFhMqw=="
 ---

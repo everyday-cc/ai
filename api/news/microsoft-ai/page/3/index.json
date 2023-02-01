@@ -2,6 +2,128 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-10-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT ... Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhs.uk/services/clinic/harrow-talking-therapies-iapt/RV383/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "originalUrl": "https://www.nhs.uk/services/clinic/harrow-talking-therapies-iapt/RV383/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-why-advisors-should-make-plans-well-before-they-experience-cognitive-decline.md",
+      "title": "Why advisors should make plans well before they experience cognitive decline",
+      "excerpt": "Advisors look out for cognitive decline in their clients, but what happens when it’s advisors themselves who experience progressive memory loss and other symptoms severe enough to impact their work?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-practice/article-why-advisors-should-make-plans-well-before-they-experience-cognitive/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-practice/article-why-advisors-should-make-plans-well-before-they-experience-cognitive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/DcvkPvx7LA2O-uypqiSEe1GT3sI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/6A5RMBIFINFEFER6J32QFI3ODI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce.md",
+      "title": "Artificial Intelligence in Fintech Market is expected to Exhibit a Massive CAGR of 22% by 2030 | Microsoft, Google, Salesforce",
+      "excerpt": "Artificial Intelligence (AI) is a rapidly growing technology that is transforming the financial services industry, often referred to as Fintech. AI is used to automate and improve many of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2023/01/Artificial-Intelligence-in-Fintech.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-this-lawsuit-against-microsoft-could-change-the-future-of-ai.md",
       "title": "This lawsuit against Microsoft could change the future of AI",
       "excerpt": "With ChatGPT, artificial intelligence and what it can do is suddenly all the rage. But an intellectual property lawsuit against Microsoft could undermine the future of AI before it gets off the ground.",
@@ -1138,117 +1260,6 @@
       "provider": {
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-how-to-protect-against-the-cognitive-decline-associated-with-aging.md",
-      "title": "How to protect against the cognitive decline associated with aging",
-      "excerpt": "Scientific research suggests that there are steps linked to cognitive health. Making these part of your routine could help you function better. The first step is eating for your brain. There is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.winknews.com/2023/01/02/how-to-protect-against-the-cognitive-decline-associated-with-aging/",
-      "originalUrl": "https://www.winknews.com/2023/01/02/how-to-protect-against-the-cognitive-decline-associated-with-aging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winknews.com/wp-content/uploads/2023/01/Screenshot-2023-01-02-4.33.49-PM.png",
-          "width": 1871,
-          "height": 983,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WINK NEWS",
-        "domain": "winknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code.md",
-      "title": "One lakh developers participated in Microsoft's Future Ready Champions of Code",
-      "excerpt": "The top three winning teams from the hackathon, shortlisted based on their innovation and impact, were from Tata Consultancy Services (TCS), Wipro, and IndusNet.",
-      "sourceUrl": null,
-      "webUrl": "https://newsmeter.in/tech-startups/one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code-705968",
-      "originalUrl": "https://newsmeter.in/tech-startups/one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code-705968",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T18:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsmeter",
-        "domain": "newsmeter.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-updated-guidelines-on-cognitive-rehabilitation-after-traumatic-brain-injury.md",
-      "title": "Updated guidelines on cognitive rehabilitation after traumatic brain injury",
-      "excerpt": "January 3, 2023 – A rapidly growing body of evidence shows the importance and effectiveness of cognitive rehabilitation ... software solutions, and services for the clinicians, nurses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/975514",
-      "originalUrl": "https://www.eurekalert.org/news-releases/975514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

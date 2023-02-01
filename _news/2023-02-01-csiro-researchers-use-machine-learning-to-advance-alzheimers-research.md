@@ -24,6 +24,17 @@ images:
     height: 249
     isCached: true
 
+related:
+  - title: "Researchers create world-first benchmark to measure brain atrophy for Alzheimer's diagnosis"
+    excerpt: "Scientists from CSIRO, Australia's national science agency, in partnership with Queensland University of Technology, have used artificial intelligence to develop a world-first benchmark for measuring brain atrophy—or thinning—in neurodegenerative diseases,"
+    publishedDateTime: 2023-02-01T13:49:00Z
+    webUrl: "https://medicalxpress.com/news/2023-02-world-first-benchmark-brain-atrophy-alzheimer.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 9
+
 secured: "uvbdQKOj1Hh9pcNdN1gcHcfESeLr6Qyf7S7e0QQPjX1Q/+o+N1Gu3RxacEJxEv0bRTFo6gpkAAvSW+5j4IEr7ct0JUjsQ1nwcsUlWetV7VwPNjZqBSjRuz8DbZqqsu8IuGjhzD3kom45AU8PJh99UyDlU3RSBtRXVLWqOcqZtthtvgprJsLv83IontCvjqb01Q3o+jEap0wNOGWzWk7FvF8az6WVQ22rEtP45HdBnQkN1toYFDThhBdxlw4PmQG9jO04+kUvyw8AHSlnuVhNx1DHUq5t+e7Neb7Ir4D2kqwtkKd+YYYzBctFLwlOeQaB57G0sHzX8pFDikSbMlgfX6VxtctJDLLX/gUjNNrFK0I=;FtWOKTKUpH4QhpL05EUODA=="
 ---
 

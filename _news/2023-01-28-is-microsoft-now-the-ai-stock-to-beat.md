@@ -72,15 +72,15 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Unpacking Microsoft’s Earnings and the Future of AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips “Write a newsletter about Microsoft’s second-quarter earnings for"
-    publishedDateTime: 2023-01-27T21:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-and-future-of-ai-1032047671"
+  - title: "Microsoft to develop AI-based healthcare services"
+    excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
+    publishedDateTime: 2023-02-01T15:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-to-develop-ai-based-healthcare-services.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
   - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
     excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
     publishedDateTime: 2023-01-31T12:50:00Z
