@@ -1,25 +1,20 @@
 ---
 category: news
-title: "PROVEN Solution to showcase its latest robotics solutions and immersive technologies at LEAP 2023"
-excerpt: "Riyadh, Saudi Arabia: PROVEN Solution, a state-of-the-art venture studio dealing primarily with technological solutions pertaining to Artificial Intelligence (AI), robotics, and virtual and augmented reality solutions, has announced its participation in ..."
-publishedDateTime: 2023-02-01T06:47:00Z
-originalUrl: "https://www.zawya.com/en/press-release/companies-news/proven-solution-to-showcase-its-latest-robotics-solutions-and-immersive-technologies-at-leap-2023-mgbx3cu5"
-webUrl: "https://www.zawya.com/en/press-release/companies-news/proven-solution-to-showcase-its-latest-robotics-solutions-and-immersive-technologies-at-leap-2023-mgbx3cu5"
-ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/proven-solution-to-showcase-its-latest-robotics-solutions-and-immersive-technologies-at-leap-2023-mgbx3cu5?amp=1"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/proven-solution-to-showcase-its-latest-robotics-solutions-and-immersive-technologies-at-leap-2023-mgbx3cu5?amp=1"
+title: "PROVEN Solution To Showcase Its Latest Robotics Solutions And Immersive Technologies At LEAP 2023"
+excerpt: "PROVEN Solution, a state-of-the-art venture studio dealing primarily with technological solutions pertaining to Artificial Intelligence (AI), robotics, and virtual and augmented reality solutions, has announced its participation in LEAP 2023,"
+publishedDateTime: 2023-02-01T14:34:00Z
+originalUrl: "https://menafn.com/1105509015/PROVEN-Solution-To-Showcase-Its-Latest-Robotics-Solutions-And-Immersive-Technologies-At-LEAP-2023"
+webUrl: "https://menafn.com/1105509015/PROVEN-Solution-To-Showcase-Its-Latest-Robotics-Solutions-And-Immersive-Technologies-At-LEAP-2023"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Z8p22HIc7LVftRn9k8XIjIR2aFnGOzM0QWZ36r9sjRRzG6BCWsKpZowFZIjN7a/dKGWueEqzpLVaQkLrzgGUDFqkACgqyGH7v1t4x+ZO6GWYHZ+dw+EzHKSRYLb8V3ENawGnqIcvT+RSefPcIdkWWIaat/bUhgR1NO/QpPpcI6IFSzmwDKPPjvmwi02d9GEtMY5THLM8skLVZKanruxNlgqv+TBRUrEqtgrg37Zk0iYbxhv2hJc9wPuVz6wFQ70SFmY1ANG3rVmp+wkXOi2pvd9ACjM1rw2OKoF3KC4her5OzmJFORvIrSQUh4EJDmn6Y7oqAs0lzfXrhJeNN1fA4mpLwIWri3oGTfcAAPyIASg=;dB4oqMUap3p1nytOQs2qjA=="
+secured: "fqgLayXGx5XZcen4B7ukv29Pm5lgL3GXw1Gbg3n22nTWM0PFctMEP8OKkBi5JlB/1wH+x+LZwKNy78zW8FSsLA7D3AGSJpy5WT8112qi/YChMsUn91J4DWNqwKAd+GuUZD/R52ybHvZkeWO4qcWLeXxcFd1QKNNVPgr+K7kRMYEzz3QTMc4rk5uyIRp7qdSOpKeYzlLMkrvAyI+8CqVtjmYGVOCcLcUNSGgWWWbSHH4ZblbBFkzg8l0I9BU9+ubQrLlcnX9JpYMSM3vlZedViT4M/kjFuuBlWVj8VPLINB+KvwOPJ0Iz8QyT76OK6g/x/CM1rfQiCXwFEOeTIZriEanLPuRbrAxkUMAgbknMAax0xoPq9oFKJPOp4LrVaegKizJzqzfbL6OQgYQLXtKwWWlBzpJ21CJgcMA1uP+0WV4RMwTmQwU6jpmUgEBAvi2BZMSzK2zOk7bEdxjiPx74rYp+2Dy8U8A7iTTC2lku8kU9u4jyec54XVEtijcEx9Z8guriR9M+4hGp0MJHSlXrUQ==;4ztWBEK/tPcRHgX1xYCQDw=="
 ---
 
