@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "Artificial intelligence program will change the future of education"
+    excerpt: "Launched in November, ChatGPT is a natural language tool driven by artificial intelligence that allows users to have human-like interactions and more with a chatbot. The application can answer ..."
+    publishedDateTime: 2023-01-29T16:09:00Z
+    webUrl: "https://www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/"
+    ampWebUrl: "https://www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/amp/"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/amp/"
+    type: article
+    provider:
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 76
+    images:
+      - url: "https://www.theoaklandpress.com/wp-content/uploads/2023/01/IMG-2873.jpg?w=1024&h=381"
+        width: 1024
+        height: 380
+        isCached: true
   - title: "Generative AI and ChatGPT – Is it the disruptor that the digital world needs?"
     excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
     publishedDateTime: 2023-01-28T11:10:00Z

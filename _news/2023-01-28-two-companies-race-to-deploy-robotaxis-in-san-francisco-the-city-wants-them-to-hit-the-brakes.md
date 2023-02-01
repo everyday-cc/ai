@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The ChatGPT and generative AI 'gold rush' has founders flocking to San Francisco's 'Cerebral Valley'"
-    excerpt: "Generative AI is breathing new life into San Francisco after two years of ​Silicon Valley tech companies shuttering offices because of the pandemic."
-    publishedDateTime: 2023-01-31T10:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/63d8165e4589790018e5c0a6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "San Francisco is getting cold feet about self-driving car tests"
     excerpt: "San Francisco officials have called for a slower, more considered expansion of the use of autonomous vehicles, which have blocked traffic and hampered emergency services"
     publishedDateTime: 2023-01-31T18:11:00Z

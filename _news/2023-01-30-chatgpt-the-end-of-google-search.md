@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-end-of-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-end-of-google-search/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1036
     height: 1033
     isCached: true
-
-related:
-  - title: "ChatGPT: What is it and how to use it?"
-    excerpt: "ChatGPT is a conversational chatbot that can answer questions, simplify difficult concepts, and even generate poetry like a human."
-    publishedDateTime: 2023-01-31T21:17:00Z
-    webUrl: "https://www.androidauthority.com/what-is-chatgpt-3274333/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 54
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/01/chatgpt-stock-photo.jpg"
-        width: 1919
-        height: 1080
-        isCached: true
 
 secured: "I9rwf5DcIlZDsPL+VcruFSp/92FOqeLHFu2XuDaLJH7qEEIIdKjw+bAFn8dG9NWcic/0g2ax2CH0QDnKe5mW1HnZGGquHt0Yuze9gGqs1TTFKSZ9par1PCsGrAqMH0X3PriEwlvy9ZqDfmAKLvVxfUHCaBmVEIkNuHyA1JJ62ngHBJDW4C8sC67dvl1gM+WeaNgNE/kbIW7YxGaGlCUUEeHWT35O5UfPKqbDwukj6seRMjNJtmvR8nLDGKzRf9BnVnKyc4PbkvZZWnXNB1scFwh9VNZqclZaYFpeSPQrjiVYX3Jt4iOoMEI3X80Hbz1I2EMVHOYH1GF6NLvdv5hr/Ubvmo64ehovBBoCzggXJ+kYzZq2DNGPKTZvGRJVFgmN2oegAaL8FlNf2Gn3i17RvpaqGcpmgGl3maZPHGNiowaxSEgxicqH2D7ym07S8q9JQj0ArwIyyryOcSiu5ve4jk0D1EVpK4AOTWSAePpadNxC1uW7yYuzxIQB9SnzA4b7vb500L+v3+LK5eGBX6ZOmQ==;p7qJfeixHhZuOizJJTbG0Q=="
 ---

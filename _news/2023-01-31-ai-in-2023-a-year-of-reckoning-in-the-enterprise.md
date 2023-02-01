@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Predictions for AI in 2023: ‘A whole new world is emerging’"
-    excerpt: "Adobe Stock Artificial intelligence (AI) has moved upstream rapidly in the ... I predict that we will see autonomous trucks followed by taxis before we see driverless cars in the wild. They are less risky because we can restrict them to specific routes ..."
-    publishedDateTime: 2023-01-27T11:03:00Z
-    webUrl: "https://www.thedrum.com/opinion/2023/01/27/predictions-ai-2023-whole-new-world-emerging"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 39
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-01-26t154526.739.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "wJUJRArUBfabwzHrt8QCZM3bV5QmvfXO7B+RgoQ5/CSTwrplYXQBbjVQKId7LhBRcPBPuhFmAhSFUEttUVY9JIill1LO6AhvHCBIMi4CVIRDZ3G6pqdfLZjGY2nywJWSW9YZurG6llMDVaUYi9U+V2Fmfb0LNTgt2U8boEBiLsfE0XvooXDAGQVzeYdmwb72weSGA/fatt6U++AY2EUMO51gdEgQE5X5WqAyvT0OcKq9E4a6ok1FJZReDuE7caK0tlMF1jnSNyDghnJjVLAMVLcIB21+5FCzzdqWPSETX0C8cVHUcVfamkk3MrVRFGo8BJIh9voCgb9ieKtAi+KkRuj8vqvjdneMzWNFw/Wx7n70ZGt7RIXhHkgOX4SM6gROc+uH12x9rGIJDk+ZlNPimi0CB+Bu/QcmCH/G2Mu6rGBmnN4YvCc4X2zDfFl//Xw/LbiIf9PC4GNS0Ab1HHTR7BZ0dVvppoFH9jekP7Fh5ztldSCYg1ZhS5kwxOBCZF0zw+tNwoA1TxkTR7zjAvwXcQ==;NhFDqlPLyPdNuQq8fTB1Vw=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "The Voice is fundamentally ‘about two things’: Linda Burney"
+    excerpt: "Minister for Indigenous Australians Linda Burney says the Voice to Parliament is about ensuring. Indigenous people have a say on parliamentary issues and receive recognition within the constitution. “It’s really about two things;"
+    publishedDateTime: 2023-01-31T14:22:00Z
+    webUrl: "https://www.couriermail.com.au/news/national/the-voice-is-fundamentally-about-two-things-linda-burney/video/cdd3716f2c28d5b83c0c759b3e186fce"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
+
 secured: "29WJcRgtCT6r6b4TEXD2tqfeFHSFFN/z1xhPRaKz3BC/nC9stcEymZuSfoFeTiDxl0ZywLtakbtZeLgvn8DJzab9SqxbQaAfA3PLGajFwqbgKeTsR+fDpSZOitBaDoU766b/smITgROPXW01Ph1xR0YU/a9vH8uDs23NOQQSJLwCEy7/3QXi5OHGeVxE0FQT8T2j28I4cAF7rjnLbJogFWZDo62Fmx5Pf/oVbkZunD3OredcVGNg4g03taenvSEJjxVuYyGOvVoZjz4svPBkxewpE2EfEw2MKK3Y4hgjkE29zLBsxajcDs7qjoBA45cIA17EUMyFZwkhu0KzOqpYeTXJtNtRibToTDyH3KvbxhA=;H0iA4AWsmk89XzvnN7vrYw=="
 ---
 

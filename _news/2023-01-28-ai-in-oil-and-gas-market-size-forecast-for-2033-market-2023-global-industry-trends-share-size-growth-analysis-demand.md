@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Communication Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 27, 2023 (The Expresswire) -- Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
-    publishedDateTime: 2023-01-27T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2028-2023-01-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vKkppKi6dIjQ1Z+boFBfXP7FBu4Pkk9KyAo+ll69Ju9MTb6igyl3aK5I3vSEbB0P5f2OY5o8QPBdlxwk8ahS9k4PK8mkVw5dXaTUnlwTiK6nkKwC1nvaSO8R9gjkt0k5adEZjTuzo28ESaLB+tIx0UUku+/uFyy5enpiwmnz82Ge/Mj5CrPCMLhUoxjWa8m1z4ardk/Lu3WOyT+o/i4PVVIh4PWR1KQCj1ViKklWaTZQ6i56F3ILnKTSt674QDf6DOFUheSMzh645QHtz/VcAjxwBgRaF83bLLTEHy53Bj52RMDrD54BGIqRecJ2VC5uKDO7UuAzWTlmCHOSnPKtNxvQrsI+ZtuFZJJA4LsaapQ=;GL+ihUCzzNX9UczQ3Som1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/googles-new-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/IMG_3819-800x533-1-3.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Google's new MusicLM AI can generate music from descriptions"
-    excerpt: "Google is testing a new AI model called MusicLM, which can generate \"high-fidelity ... The description adds, \"To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text descriptions provided ..."
-    publishedDateTime: 2023-01-27T10:55:00Z
-    webUrl: "https://www.thelineofbestfit.com/news/googles-new-musiclm-ai-can-generate-music-from-descriptions"
-    type: article
-    provider:
-      name: thelineofbestfit.com
-      domain: thelineofbestfit.com
-    quality: 39
-    images:
-      - url: "https://optimise2.assets-servd.host/best-fit/production/images/vinyl-spines-headphones-blocks-unsplash.jpg?w=1200&h=798&q=100&auto=format&fit=crop&dm=1673007337&s=5b30c5011672efc9f41cff26da1c7140"
-        width: 1200
-        height: 798
         isCached: true
   - title: "Google's new AI bot creates 'original' music from text and sound prompts"
     excerpt: "Google's new artificial intelligence bot called MusicLM can create 'original' music from both text and sound prompts put in by the user."

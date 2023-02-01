@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Brands Can Use ChatGPT And Other Generative AI For Content Marketing"
+    excerpt: "ChatGPT, the generative AI app, has received attention for its conversational and human-like responses to queries. Launched by OpenAI last year, the chatbot uses a language processing model to predict responses that are eerily reflective of human speech and take mere seconds to conjure."
+    publishedDateTime: 2023-02-01T00:30:00Z
+    webUrl: "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d9bd96c3973041eb9afec2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 796
+        isCached: true
   - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
     excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
     publishedDateTime: 2023-01-29T12:00:00Z
@@ -89,6 +105,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pivot to ChatGPT? BuzzFeed preps for AI-written content while CNET fumbles"
+    excerpt: "On Thursday, an internal memo obtained by The Wall Street Journal revealed that BuzzFeed is planning to use ChatGPT-style text synthesis technology from OpenAI to create individualized quizzes and potentially other content in the future."
+    publishedDateTime: 2023-01-27T18:09:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/robert_the_writing_robot-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "C3ai has soared 86% year-to-date as investor frenzy for artificial intelligence builds amid ChatGPT success"
     excerpt: "C3.ai soared as much as 28% on Tuesday after the company said it would integrate ChatGPT into its product suite of artificial intelligence tools."
     publishedDateTime: 2023-01-31T17:39:00Z
@@ -121,6 +153,22 @@ related:
         width: 907
         height: 605
         isCached: true
+  - title: "The ChatGPT and generative AI 'gold rush' has founders flocking to San Francisco's 'Cerebral Valley'"
+    excerpt: "Generative AI is breathing new life into San Francisco after two years of ​Silicon Valley tech companies shuttering offices because of the pandemic."
+    publishedDateTime: 2023-01-31T10:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/63d8165e4589790018e5c0a6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Teachers rejoice! ChatGPT creators have released a tool to help detect AI-generated writing"
     excerpt: "Amid concerns that ChatGPT makes it easier for students to cheat, the company behind the buzzy AI bot released a way to detect its writing."
     publishedDateTime: 2023-01-31T19:43:00Z
@@ -137,21 +185,35 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says"
-    excerpt: "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering."
-    publishedDateTime: 2023-01-27T21:06:00Z
-    webUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1?amp"
+  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
+    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
+    publishedDateTime: 2023-01-29T23:55:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
     type: article
     provider:
-      name: YAHOO!News
-      domain: businessinsider.com
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Calligrapher.ai is using AI for handwriting generation"
+    excerpt: "An RNN is a class of artificial neural networks where connections between nodes can create a cycle allowing output from some nodes to affect subsequent input to the same nodes. Recurrent neural networks can exhibit temporal dynamic behavior, which makes ..."
+    publishedDateTime: 2023-01-27T22:06:00Z
+    webUrl: "https://www.techspot.com/news/97411-calligrapherai-website-using-power-ai-handwriting-generation.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
     quality: 69
     images:
-      - url: "https://i.insider.com/63d414c4fc18470019551e68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-27-image-13.jpg"
+        width: 2400
+        height: 1800
         isCached: true
   - title: "ChatGPT’s creator releases tool for detecting AI text, and it stinks"
     excerpt: "OpenAI has released a \"classifier\" for detecting AI-generated text, but it pales in comparison to a free rival tool called Hive Moderation."
@@ -195,6 +257,29 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
+    excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
+    publishedDateTime: 2023-01-29T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+  - title: "ChatGPT Creator Releases Tool to Detect AI-Generated Text, Calls It ‘Unreliable’"
+    excerpt: "OpenAI says the AI-detection tool complements methods educators, employers and others use to determine the source of a piece of text."
+    publishedDateTime: 2023-01-31T21:40:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-creator-releases-tool-to-detect-ai-generated-text-calls-it-unreliable-11675204820"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 62
+    images:
+      - url: "https://images.wsj.net/im-714331/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "ChatGPT — the ultimate AI innovation"
     excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
     publishedDateTime: 2023-01-30T15:27:00Z
@@ -210,6 +295,54 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/4xza53/article66451386.ece/alternates/FREE_1200/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
         width: 1200
         height: 580
+        isCached: true
+  - title: "Microsoft-backed ChatGPT may soon get a Chinese rival"
+    excerpt: "Since November, OpenAI’s ChatGPT has been the hot topic for every conversation on the internet for its “chatty” mastery. It has Google worried, while"
+    publishedDateTime: 2023-01-30T08:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/articleshow/97439184.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-97439180,width-1070,height-580,imgsize-93524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:33:00Z
+    webUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: fox13now
+      domain: fox13now.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft Confirms Its $10 Billion Investment Into ChatGPT, Changing How Microsoft Competes With Google, Apple And Other Tech Giants"
+    excerpt: "Microsoft finally confirmed that they would be extending the partnership with OpenAI, the company behind the new AI-powered ChatGPT tool. We look at what this means for the tech industry and the field of AI."
+    publishedDateTime: 2023-01-27T16:56:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/27/microsoft-confirms-its-10-billion-investment-into-chatgpt-changing-how-microsoft-competes-with-google-apple-and-other-tech-giants/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 58
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d40f73f56a6976217458de/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "A top UK private school is changing its approach to homework amid the rise of ChatGPT, as educators around the world adapt to AI"
     excerpt: "Jane Lunnon, the head teacher of the $28,000-a-year Alleyn's School, told Insider: \"Everyone is talking about it in education.\""
@@ -227,6 +360,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A watermark for chatbots can spot text written by an AI"
+    excerpt: "Hidden patterns buried in AI-generated texts could help identify them as such, allowing us to tell whether the words we’re reading are written by a human or not. These “watermarks” are invisible to the human eye but let computers detect that the text probably comes from an AI system."
+    publishedDateTime: 2023-01-27T12:26:00Z
+    webUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/01/GettyImages-1405584647.jpg?w=3000"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
     publishedDateTime: 2023-01-28T11:40:00Z
@@ -243,6 +392,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cheaters Beware: ChatGPT Maker Releases AI Detection Tool for Teachers"
+    excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework. The new AI Text Classifier launched Tuesday by OpenAI follows a weeks-long discussion at schools and colleges over fears that ChatGPT’s ability to write just about anything on command could fuel academic dishonesty and hinder learning."
+    publishedDateTime: 2023-01-31T18:47:00Z
+    webUrl: "https://www.nbcnewyork.com/news/tech/cheaters-beware-chatgpt-maker-releases-ai-detection-tool-for-teachers/4077877/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/tech/cheaters-beware-chatgpt-maker-releases-ai-detection-tool-for-teachers/4077877/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/cheaters-beware-chatgpt-maker-releases-ai-detection-tool-for-teachers/4077877/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 57
+    images:
+      - url: "https://media.nbcnewyork.com/2023/01/107167123-1671131329343-gettyimages-1245565790-raa-openaich221212_npdgP.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
     excerpt: "ChatGPT is a revolutionary new artificial intelligence which has passed a law exam and is replacing white collar workers - with one expert saying 'the wolf is at the door'"
     publishedDateTime: 2023-01-27T12:56:00Z
@@ -258,6 +423,20 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ChatGPT: What is it and how to use it?"
+    excerpt: "ChatGPT is a conversational chatbot that can answer questions, simplify difficult concepts, and even generate poetry like a human."
+    publishedDateTime: 2023-01-31T21:17:00Z
+    webUrl: "https://www.androidauthority.com/what-is-chatgpt-3274333/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 54
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/01/chatgpt-stock-photo.jpg"
+        width: 1919
+        height: 1080
         isCached: true
   - title: "Did ChatGPT write this article? Faculty look at AI challenges and opportunities"
     excerpt: "The academic landscape shifted dramatically in November 2022 with the launch of ChatGPT, a chatbot developed by OpenAI. ChatGPT is artificial intelligence software that can write essays, poems, code and perform other tasks traditionally done by humans."
@@ -290,6 +469,22 @@ related:
       - url: "https://i.insider.com/63d45173fc184700195532f8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "ChatGPT maker releases AI detection tool after school districts complain of cheating"
+    excerpt: "The makers of ChatGPT have introduced a new tool that may help educators distinguish between a text written by AI and a text written by humans."
+    publishedDateTime: 2023-02-01T02:49:00Z
+    webUrl: "https://www.foxbusiness.com/technology/chatgpt-maker-releases-ai-detection-tool-school-districts-complain-cheating"
+    ampWebUrl: "https://www.foxbusiness.com/technology/chatgpt-maker-releases-ai-detection-tool-school-districts-complain-cheating.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/chatgpt-maker-releases-ai-detection-tool-school-districts-complain-cheating.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 50
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f10f4340-42c7-4392-896f-74dc0661b6a9/bfd9c01d-d211-4649-99dc-e9d1fe3285eb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
     excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
@@ -402,6 +597,34 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-01-31T15:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/01/31/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Cheaters beware: ChatGPT maker releases AI detection tool"
+    excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework."
+    publishedDateTime: 2023-01-31T23:02:00Z
+    webUrl: "https://www.ksat.com/business/2023/01/31/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TFBKDF3POFEB3G6SLWY5YVUHDY.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "ChatGPT: The revolutionary AI that can understand and respond to questions"
     excerpt: "“Chat GPT is a generative AI assistant,” said Paula Lauren ... help prepare for job interviews, and with language translation. “How close are we to a point in which computers have achieved the same intelligence as humans,” asked David."
     publishedDateTime: 2023-01-27T23:02:00Z
@@ -416,20 +639,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI immune system that's changing our understanding of human health"
-    excerpt: "Artificial immune systems are intelligent algorithms based on how the immune system learns and remembers and could transform our ability to protect ourselves from biological – and technological - inva"
-    publishedDateTime: 2023-01-31T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25734243-700-the-ai-immune-system-thats-changing-our-understanding-of-human-health/"
+  - title: "Forget ChatGPT - an AI-driven investment fund powered by IBM's Watson supercomputer is quietly beating the market by nearly 100%"
+    excerpt: "Yet, the $102 million AI Powered Equity ETF (AIEQ), which launched in 2017, has been quietly fulfilling that request so far this year. Issued by ETF Managers Group in partnership with the fintech firm Equbot, the fund leans on IBM's Watson supercomputer to ..."
+    publishedDateTime: 2023-01-31T14:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/chatgpt-openai-ai-powered-equity-etf-aieq-ibm-watson-supercomputer-2023-1"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/31114705/SEI_142264558.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
     excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
     publishedDateTime: 2023-01-27T14:41:00Z
@@ -572,6 +790,15 @@ related:
       name: Sports Business Journal
       domain: sportsbusinessjournal.com
     quality: 13
+  - title: "Will AI program ChatGPT change how schools teach? Tacoma educators and staff weigh in"
+    excerpt: "For Barkin, oral exams are another alternative. Finally, Coleman, Balta and Barkin all say that the tool can be a great starting point for conducting academic research, as well as teaching students about AI literacy. For these three educators, AI can serve ..."
+    publishedDateTime: 2023-01-27T19:36:00Z
+    webUrl: "https://www.thenewstribune.com/news/local/education/article271689532.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 12
   - title: "Hour One launches new AI script-writing feature with Open AI’s viral ChatGPT chatbot"
     excerpt: "Hour One's new Script Wizard feature allows for scripts to be automatically written by GPT3. German sports media outlet Ran has used Hour One’s pre-recorded virtual human avatars to read scripts for soccer video content."
     publishedDateTime: 2023-01-31T17:03:00Z
@@ -598,6 +825,24 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
+    quality: 4
+  - title: "How Will ChatGPT Impact the Tech Sector?"
+    excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
+    publishedDateTime: 2023-01-30T18:38:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/01/30/454787-how-will-chatgpt-impact-tech-sector.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
+  - title: "ChatGPT might change advertising — but it won’t revolutionize it"
+    excerpt: "Even though its unlikely to upend the ad world any time soon, the buzzy conversational AI model could prove useful for savvy marketers."
+    publishedDateTime: 2023-01-31T20:25:00Z
+    webUrl: "https://www.marketingdive.com/news/chatgpt-AI-marketing-advertising-revolutionize/641649/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
     quality: 4
 
 secured: "QLf8HdPfRnQAJqhGIqQZjxfDpImXfP1iOQvCFj6RwCRHlZ1ZYNIccmoj99SEWONTgEsA5ODAwOGXKBgPzeD2c6hphpP4JbF+9edSdY0qRAyj8UrhF1GEU7yg27kDekT8eV9LrRl5cFbw6xybAdDRU/D49NL5EU9yTPbJBmOKzShx24zLpxo8r+IZ2PLHBiEkr3tixsITdtdZljscBLz5bZ4mNIkIsbGEMikLGEJ+B7+YMHze5tsoICioOSwMdb6GrBHkO8KLcCvieY76Ij14/N1rjAMH09vR7Dg3oWFIV/kR7fFkSlFToQdKiDl5NyXMILyzGCVWHpZmgEjb4Ciumf/2MOfbGhu1/124opOFqNY=;Fnp3at14zSAPSFVst9OEgA=="

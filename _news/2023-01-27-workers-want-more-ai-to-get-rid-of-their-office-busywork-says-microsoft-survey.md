@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
 type: article
 quality: 100
-heat: 200
+heat: 180
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
         width: 8660
         height: 5773
         isCached: true
-  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
-    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
-    publishedDateTime: 2023-01-29T23:55:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Artificial Intelligence Software Market Major Segments, Size Parameters and Topmost Key Players - Google, Baidu, IBM, Microsoft"
     excerpt: "With the aid of this study, it is possible to effectively determine the current situation of the Artificial Intelligence Software market and the trends that will influence it between 2023 and 2029. The solutions presented in this study will assist market participants in formulating plans for seizing any opportunities that may arise in the future."
     publishedDateTime: 2023-01-30T21:18:00Z
@@ -112,15 +96,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
-    excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
-    publishedDateTime: 2023-01-29T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Buy Seagate, Microsoft, Sell IBM"
     excerpt: "The tech sector is a mixed bag. It will only reward selective investors who anticipate the demand recovery. In the storage market, Seagate (STX) could potentially stage a recovery. Seagate posted revenue of $1."
     publishedDateTime: 2023-01-30T14:40:00Z

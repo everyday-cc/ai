@@ -48,15 +48,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 6
-  - title: "How Will ChatGPT Impact the Tech Sector?"
-    excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
-    publishedDateTime: 2023-01-30T18:38:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2023/01/30/454787-how-will-chatgpt-impact-tech-sector.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "w3guretxHDJJlOENLVbleK+QBi6GBGi+dZbh2qQVM085bb8dfSw3MkdyCYUSyXR3PTtuOZJhD89+Q134nyV+ugWSDLa2lRiSnoDaHCvRtn1ofWSLYNreXgBK85bEhc4n01vpr5oDSuTOTY3SjAKgMaOUS6FtXpk9XFDzvYKRBOQ6GR4X9f+BJjn5CPofFONHvvG99RLiCnH5IGqaB5jwpWXlG2ukWjBe7lZJxjLKwN9hfnwBxp6uBWKI0EZWMGNuPsgTg/I5deZHyuqyBAh1woJMqCd18abaUY5Z5VwaqryUphG75ARxWboz6W04DbD4QxIhaECnl0+JOctZsEPL3JlJHT+OPGXoFxw83qKiZV8=;RMpEAmnW6Rb3NDeTyMhYtg=="
 ---

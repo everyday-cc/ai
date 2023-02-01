@@ -70,22 +70,6 @@ related:
         width: 8660
         height: 5773
         isCached: true
-  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
-    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
-    publishedDateTime: 2023-01-29T23:55:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Artificial Intelligence Software Market Major Segments, Size Parameters and Topmost Key Players - Google, Baidu, IBM, Microsoft"
     excerpt: "With the aid of this study, it is possible to effectively determine the current situation of the Artificial Intelligence Software market and the trends that will influence it between 2023 and 2029. The solutions presented in this study will assist market participants in formulating plans for seizing any opportunities that may arise in the future."
     publishedDateTime: 2023-01-30T21:18:00Z
@@ -123,15 +107,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
-    excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
-    publishedDateTime: 2023-01-29T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
     excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
     publishedDateTime: 2023-01-31T12:50:00Z

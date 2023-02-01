@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://d2byebo1j9i40c.cloudfront.net/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1/Images/posterImage-ver1-1280x720.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Artificial intelligence program will change the future of education"
+    excerpt: "Launched in November, ChatGPT is a natural language tool driven by artificial intelligence that allows users to have human-like interactions and more with a chatbot. The application can answer ..."
+    publishedDateTime: 2023-01-29T16:09:00Z
+    webUrl: "https://www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/"
+    ampWebUrl: "https://www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/amp/"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/amp/"
+    type: article
+    provider:
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 76
+    images:
+      - url: "https://www.theoaklandpress.com/wp-content/uploads/2023/01/IMG-2873.jpg?w=1024&h=381"
+        width: 1024
+        height: 380
         isCached: true
   - title: "Generative AI and ChatGPT – Is it the disruptor that the digital world needs?"
     excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."

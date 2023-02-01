@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pivot to ChatGPT? BuzzFeed preps for AI-written content while CNET fumbles"
-    excerpt: "On Thursday, an internal memo obtained by The Wall Street Journal revealed that BuzzFeed is planning to use ChatGPT-style text synthesis technology from OpenAI to create individualized quizzes and potentially other content in the future."
-    publishedDateTime: 2023-01-27T18:09:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 85
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/robert_the_writing_robot-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "BuzzFeed and AI Are a Match Made in Fad City"
     excerpt: "Shares of struggling digital-media company BuzzFeed Inc. soared as much as 200% on Thursday after saying “AI inspired content” will become “part of our core business” this year. It apparently mattered little to investors that the type of content BuzzFeed has in mind includes its signature quizzes (“Try to Identify 8/8 of these Famous Rodents If You Can” or “If You Paid Attention In Third Grade,"
     publishedDateTime: 2023-01-27T12:00:00Z
@@ -55,36 +39,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "A watermark for chatbots can spot text written by an AI"
-    excerpt: "Hidden patterns buried in AI-generated texts could help identify them as such, allowing us to tell whether the words we’re reading are written by a human or not. These “watermarks” are invisible to the human eye but let computers detect that the text probably comes from an AI system."
-    publishedDateTime: 2023-01-27T12:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/01/GettyImages-1405584647.jpg?w=3000"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/769d769/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BuzzFeed writers react with a mix of disappointment and excitement at news that AI-generated content is coming to the website"
     excerpt: "The decision to use tech from ChatGPT maker OpenAI to produce content is part of BuzzFeed's broader cost-cutting strategy in a challenging economy."
     publishedDateTime: 2023-01-30T19:36:00Z
@@ -94,15 +48,15 @@ related:
       name: YAHOO!News
       domain: businessinsider.com
     quality: 20
-  - title: "The Telegraph: BuzzFeed replaces 180 fired journalists with ChatGPT neural network"
-    excerpt: "However, in the future, Peretti intends to entrust the neural network to create full-fledged editorial materials ... According to Business Insider, BuzzFeed's stock rose over 200% in 24 hours as artificial intelligence was involved in the writing of ..."
-    publishedDateTime: 2023-01-31T15:17:00Z
-    webUrl: "https://news.am/eng/news/742221.html"
+  - title: "BuzzFeed’s CEO says AI could usher in a ‘new model for digital media,’ but warns against a ‘dystopian’ path"
+    excerpt: "Over the holidays, while most media executives were perhaps looking to get a reprieve from work, Jonah Peretti was online, fully immersed in experimenting with artificial intelligence."
+    publishedDateTime: 2023-01-27T17:19:00Z
+    webUrl: "https://localnews8.com/life/technology/2023/01/26/buzzfeeds-ceo-says-ai-could-usher-in-a-new-model-for-digital-media-but-warns-against-a-dystopian-path/"
     type: article
     provider:
-      name: News
-      domain: news.am
-    quality: 13
+      name: Local News 8
+      domain: localnews8.com
+    quality: 1
 
 secured: "iAbnPwQC6k8tbTLH7OQ2jrPWVTjauByJ9S3XGhU/5Fn+HAa32829s2yvDq62xlAetkDS551GODo8jD69KUesiND0NmvjeER4mz97fqStOdpL6hsPYqvVd39/3laroW9FAEWcSILAWswozrjfpuWpTXykvuFdNBL8tlIKBtEBouBV4dz+gEz2eroWZvBoj2LuoqxXxtTztLaiw2QVhca/Ue3XHl94PW16KYVWj8nZpzYoY4+aG2FbVAZRwxrLeBJEVYNQunnw+wGzwREq4n4aYYodfkLS6EPPmbCC5vw+mR6USZZ6xI4Qs0drYfIKsvW+I9clUno615wuriUtAWFrx6HpZrDzj0LjpEzhEDjdUDWDlPfDsff4iFz4y7hr9KSRYInQ084H0Zl/iZnHesrJspxowgHHkE4aJ5KFAs83EelOcOpU+0CDMgkLLXgEjUPR0kXxHbSxfPslv2MFNz4mxGhV04wLF+R+odI/putLIdQtpY+KiwbJpCDpOikqkD1WU+UQEHBrG57gtphxLpnSbg==;VmOOIey/BkUcbPwbsL/ZzA=="
 ---

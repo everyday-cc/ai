@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/cyber-insights-2023-artificial-intellig
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2023-artificial-intelligence/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predictions for AI in 2023: ‘A whole new world is emerging’"
-    excerpt: "Adobe Stock Artificial intelligence (AI) has moved upstream rapidly in the ... I predict that we will see autonomous trucks followed by taxis before we see driverless cars in the wild. They are less risky because we can restrict them to specific routes ..."
-    publishedDateTime: 2023-01-27T11:03:00Z
-    webUrl: "https://www.thedrum.com/opinion/2023/01/27/predictions-ai-2023-whole-new-world-emerging"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 39
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-01-26t154526.739.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI In 2023: A Year of Reckoning In The Enterprise"
     excerpt: "What does the AI sector look like for 2023? Jason Schoettler of Calibrate Ventures, share his findings and predictions for the year ahead."
     publishedDateTime: 2023-01-31T13:30:00Z

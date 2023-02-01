@@ -35,7 +35,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.medindia.net/amp-images/health-images/delirium.jpg"
         width: 1200

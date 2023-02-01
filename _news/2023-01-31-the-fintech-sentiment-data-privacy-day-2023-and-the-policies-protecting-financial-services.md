@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Ways Fintech Changed Business Financing"
-    excerpt: "Fintech’s influence will continue to ripple in the finance world as technology advances, but here are four key impacts our industry has had so far."
-    publishedDateTime: 2023-01-27T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6170329671bdc8c063550907/0x0.jpg?format=jpg&width=1200"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "5 Tech Trends That Will Change the Fintech Industry In 2023"
     excerpt: "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ..."
     publishedDateTime: 2023-01-28T14:07:00Z
@@ -77,6 +61,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 24
+  - title: "Budget 2023: Fintech industry seeks RRR–Relief, Reform, and Regulatory easing"
+    excerpt: "One of the most important demands the businesses have from the government for the next Budget is to further ease the financial burden for startups in the fintech industry."
+    publishedDateTime: 2023-01-29T02:30:00Z
+    webUrl: "https://yourstory.com/2023/01/budget-2023-fintech-industry-rrr-relief-reform-regulatory-easing"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 21
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/budget-YS-1674901391444.png?fm=png&auto=format"
+        width: 1105
+        height: 597
+        isCached: true
   - title: "Fintech focus on ESG, digitization, AI in 2023"
     excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
     publishedDateTime: 2023-01-30T13:03:00Z

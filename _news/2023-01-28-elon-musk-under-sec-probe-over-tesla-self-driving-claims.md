@@ -144,20 +144,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Elon Musk thinks you are not smart if you don’t believe in Tesla’s Full Self-Driving value"
-    excerpt: "Elon Musk made new comments about Tesla’s Full Self-Driving effort, saying he believes that only some “smart retail investors”"
-    publishedDateTime: 2023-01-27T10:04:00Z
-    webUrl: "https://electrek.co/2023/01/26/elon-musk-thinks-not-smart-dont-teslas-full-self-driving-claims/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk's role under scanner in Tesla self-driving controversy"
     excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."
     publishedDateTime: 2023-01-29T04:06:00Z
@@ -284,6 +270,20 @@ related:
       - url: "https://images.axios.com/a_13_Y9BmcT_Z7w2jq8wffRfXok=/0x275:8256x4919/1366x768/2023/01/31/1675179755637.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Tesla Gets Justice Department Subpoena for Self-Driving Features"
+    excerpt: "The U.S. Justice Department has requested documents from Tesla Inc. related to its Autopilot and “Full Self-Driving” features, according to a regulatory filing."
+    publishedDateTime: 2023-01-31T14:16:00Z
+    webUrl: "https://www.ttnews.com/articles/tesla-gets-justice-department-subpoena-self-driving-features"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-01/Musk-court-1200_0.jpg"
+        width: 470
+        height: 246
         isCached: true
   - title: "US Justice Dept Investigating Tesla Self-driving Features"
     excerpt: "The US Department of Justice has opened an investigation into Tesla's driver-assistance features, the company said Tuesday in a financial document."
