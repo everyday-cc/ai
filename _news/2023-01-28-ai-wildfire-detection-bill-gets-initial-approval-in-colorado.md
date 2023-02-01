@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.sacbee.com/news/business/article271678832.html"
 cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article271678832.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning approach may aid water conservation push in the Colorado River basin"
-    excerpt: "The Colorado River basin, which supplies water to 40 million people in the Western United States, is threatened by historic drought, a changing climate and water demands from growing cities. One potential response involves encouraging individuals to conserve water,"
-    publishedDateTime: 2023-01-27T17:21:00Z
-    webUrl: "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.html"
-    ampWebUrl: "https://phys.org/news/2023-01-machine-approach-aid-colorado-river.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-approach-aid-colorado-river.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 69
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/colorado-river-basin-m.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "AI wildfire detection bill gets initial approval in Colorado"
     excerpt: "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million pilot program to use cameras and artificial intelligence technology to help identify fires before they burn out of control."
     publishedDateTime: 2023-01-30T06:00:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "A new AI voice tool is already being abused to make deepfake celebrity audio clips"
+    excerpt: "ElevenLabs' AI speech synthetizer is being used to generate clips featuring voices that sound like celebrities reading or saying something questionable.."
+    publishedDateTime: 2023-02-01T09:36:00Z
+    webUrl: "https://www.engadget.com/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html"
+    ampWebUrl: "https://www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 81
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/7dc12ee0-e5b0-11ec-b977-a345e4c04815"
+        width: 8553
+        height: 5846
+        isCached: true
   - title: "AI voice generator used to deepfake celebrities spewing racist abuse"
     excerpt: "UK-based ElevenLabs announced its Prime Voice AI which lets users generate the ‘most realistic’ spoken audio in any voice and style. However, in just a few weeks, troublemakers have taken to using the tool to upload deep faked voices of celebrities like Joe Rogan to Robin Williams,"
     publishedDateTime: 2023-01-31T11:41:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2023/01/cowomen-8M6KCnMvLus-unsplash-c17c.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600
         height: 400
-        isCached: true
-  - title: "This AI startup will generate celebrity-like voices for you: Here’s how"
-    excerpt: "ElevenLabs tweeted that it has witnessed a rise in the number of voice cloning since the tool was launched. The startup also asked Twitter users to provide feedback on how voice cloning can be stopped."
-    publishedDateTime: 2023-02-01T06:57:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/this-ai-startup-will-generate-celebrity-like-voices-for-you-here-s-how-11675232785902.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/this-ai-startup-will-generate-celebrity-like-voices-for-you-here-s-how/amp-11675232785902.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/this-ai-startup-will-generate-celebrity-like-voices-for-you-here-s-how/amp-11675232785902.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2023/02/01/600x338/67bbde00-68bf-11ed-b05f-f3a699bb92b4_1668940894952_1675234638656_1675234638656.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "4chan users embrace AI voice clone tool to generate celebrity hatespeech"
     excerpt: "An AI startup that lets anyone clone a target’s voice in a matter of seconds is being rapidly embraced by internet trolls. 4chan users have been flocking to free voice synthesis platform ElevenLabs, using the company’s tech to clone the voices of celebrities and read out audio ranging from memes and erotica to hatespeech and misinformation."

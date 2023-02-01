@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Justice Department seeks Tesla automated driving documents"
-excerpt: "The Austin, Texas, electric vehicle maker cautioned that if the government decides to pursue an enforcement action, it could possibly have a material adverse impact on its business."
-publishedDateTime: 2023-01-31T18:38:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/justice-department-seeks-tesla-automated-driving-documents/"
-webUrl: "https://www.cbsnews.com/detroit/news/justice-department-seeks-tesla-automated-driving-documents/"
-ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/justice-department-seeks-tesla-automated-driving-documents/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/justice-department-seeks-tesla-automated-driving-documents/"
+excerpt: "The U.S. Justice Department has requested documents from Tesla related to its Autopilot and \"Full Self-Driving\" features, according to a regulatory filing."
+publishedDateTime: 2023-02-01T10:12:00Z
+originalUrl: "https://www.newstribune.com/news/2023/feb/01/justice-department-seeks-tesla-automated-driving/"
+webUrl: "https://www.newstribune.com/news/2023/feb/01/justice-department-seeks-tesla-automated-driving/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/31/0c759950-de12-4b5d-b4f9-fe78782cfb77/thumbnail/1200x630/3e31fbfb61a41c91610e577b01d16f4c/ap23031464533386.jpg"
-    width: 1200
-    height: 630
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/203505155_203505155-aa436ac081674a6f8d8266616efa317b_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -106,20 +104,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2023/01/GettyImages-1459166551.jpg?w=1024&h=746"
         width: 1024
         height: 746
-        isCached: true
-  - title: "The Best Self-Driving Cars You Can Buy That Aren't A Tesla"
-    excerpt: "The car is built to sense and respond to everything that's going on around it, using a combination of five cameras that provide a clear view, five radar sensors for measuring object distances ... speed limit recognition, and accurate self-parking ..."
-    publishedDateTime: 2023-01-27T18:16:00Z
-    webUrl: "https://www.slashgear.com/1180692/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 71
-    images:
-      - url: "https://www.slashgear.com/img/gallery/the-best-self-driving-cars-you-can-buy-that-arent-a-tesla/l-intro-1674842787.jpg"
-        width: 1600
-        height: 897
         isCached: true
   - title: "US Market Regulator Probes Elon Musk's Role In Tesla Self-Driving Claims: Report"
     excerpt: "The U.S. securities regulator is investigating Elon Musk's role in giving shape to EV maker Tesla's self-driving claims, Bloomberg News reported on Friday, citing a person with knowledge of the matter."
@@ -257,22 +241,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "California Might Allow Self-Driving Semi-Trucks on Roads"
-    excerpt: "Following years of pleadings from the autonomous vehicle industry, California officials are revisiting a statewide policy that prohibits self-driving semi-trucks and big rigs on its roads."
-    publishedDateTime: 2023-01-27T17:16:00Z
-    webUrl: "https://www.govtech.com/fs/california-might-allow-self-driving-semi-trucks-on-roads"
-    ampWebUrl: "https://www.govtech.com/fs/california-might-allow-self-driving-semi-trucks-on-roads?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-might-allow-self-driving-semi-trucks-on-roads?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/ac47d98/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F77%2F9a%2Fab4e14a38bbac86a1b90c10c07b4%2Fshutterstock-5291614481.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Justice Department probes Tesla over self-driving car system"
     excerpt: "The DOJ has asked Tesla for information related to its self-driving car system, the automaker confirmed Tuesday."
     publishedDateTime: 2023-01-31T15:56:00Z
@@ -350,6 +318,6 @@ related:
       domain: washingtonpost.com
     quality: 19
 
-secured: "IGxDeNyTrs9itaAtqNbifxN08qwu6hkfPLHikPwUJTvvFKfoS+8l1XKtLrACowTmb5w8iWSIxR8YbxcHaAZlJmxwMW99HSALANJiw2KQlnn+YhdQRaUZfIZZuyHSsiw8LOemmAmiiFP4BTuij09w8vMJt2j29dJQnD6lP/Gupa5hZxeKIsFbiG709TgluaaCwhfSgGEOM8A+6Sz+s4fMFOww1HE1J0d3u7CZPEk48gqENPZIdECoIXNXhpidkZEoGA2cTAIGoIgOzT6EhZIDP1htkiczq/APGuopik6SD7TNpKthMpMr8+DTdgBTllWaGA27rZvC8wCzEZAszVKMk7KwLE0ayWI/fKR9+7vhioE=;JouywNefsfWPKzdPB+1Oug=="
+secured: "Ty1DKHwWAZnz/ebekEWdsT7MhBHqglMCyev6WyXkZE4LTqCZ+y5dZ2OZFieLNg8Za6UWMTUAe609B2hgF82g1rCju8Sj/geCEnk1olV+1B0m43wwKUf4qYRPZxAUFiymbr2imcse3dWqB2Z7zrf4L9EIclHs6KttwXvUffXe5GwHWp5wzAQRzu6zQyAmj1f15D1YSFqhwmAkCha1aQRJmLEaR5WkL4sx2t5zT49pQo31rN962TcNXqsNlMOF0fBpZNzdtQnZ3NjYZZwmsHtBxH9CHqZtOE05BmIVF2gDkO6QRnLnq186UCX+tYNT7NSut4nAE8Paz2FVkHgEg1aD0/plL5blqZrt8S2L7FeIzrw=;PlR6qMc8E2cZs+HfxdDCgA=="
 ---
 

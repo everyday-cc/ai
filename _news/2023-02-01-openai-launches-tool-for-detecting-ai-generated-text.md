@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI launches AI classifier tool to detect AI generated text"
+    excerpt: "OpenAI, the company behind ChatGPT has launched a new AI classifier tool to determine if a text has been written by a person or by Artificial"
+    publishedDateTime: 2023-02-01T09:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-launches-ai-classifier-tool-to-detect-ai-generated-text-31-01-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/02/AI-classifier.jpg"
+        width: 700
+        height: 586
+        isCached: true
   - title: "Report: OpenAI hired 1,000 contractors to improve its AI models’ coding capabilities"
     excerpt: "OpenAI LLC has reportedly hired about 1,000 contractors over the past six months to help hone its artificial intelligence models’ coding capabilities. Semafor reported the development today, citing people familiar with the matter."
     publishedDateTime: 2023-01-27T21:02:00Z

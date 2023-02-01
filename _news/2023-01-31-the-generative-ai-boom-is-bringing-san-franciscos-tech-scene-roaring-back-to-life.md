@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-bringing-san-francisco
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220603-cruise-al-0912-f3d96d.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "San Francisco wants to slow robotaxi rollout over blocked traffic and false 911 calls"
+    excerpt: "Now that both companies have had their fully driverless vehicles on San Francisco streets for several months, we’re starting to see the vehicles’ response — or lack thereof — to complex tr ..."
+    publishedDateTime: 2023-01-29T20:11:00Z
+    webUrl: "https://www.theverge.com/2023/1/29/23576422/san-francisco-cruise-waymo-robotaxi-rollout"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/6FEemNT5L-MUJG7j7Ywe0bNlXAQ=/0x0:4000x2666/1200x628/filters:focal(1950x1593:1951x1594)/cdn.vox-cdn.com/uploads/chorus_asset/file/24393819/1238159388.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "San Francisco is getting cold feet about self-driving car tests"
     excerpt: "San Francisco officials have called for a slower, more considered expansion of the use of autonomous vehicles, which have blocked traffic and hampered emergency services"

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read"
-excerpt: "BURLINGTON, Mass. / ACCESSWIRE / / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022."
-publishedDateTime: 2023-01-26T11:14:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article271678367.html"
-webUrl: "https://www.sacbee.com/press-releases/article271678367.html"
-ampWebUrl: "https://amp.sacbee.com/press-releases/article271678367.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271678367.html"
+excerpt: "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022."
+publishedDateTime: 2023-01-26T12:14:00Z
+originalUrl: "https://www.miamiherald.com/press-releases/article271678367.html"
+webUrl: "https://www.miamiherald.com/press-releases/article271678367.html"
+ampWebUrl: "https://amp.miamiherald.com/press-releases/article271678367.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271678367.html"
 type: article
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "9Uw7Winf/72HHz5ioZ9xEL33gDOp6T8LBcw/Cic4coR7wN38qsIoSGt2DyCCUw9Y+VFScfCYqvfdYD+DyIFoT16RBO0mLqfoI+30iZOHUlz0pHQe3qM0FRgPZNecFtdsppuzJHo4Py+lKL//elnlgVPrpOhn/13s0AUP3PBi/3V1+qIHFqWeyMvIiHJCJxL9gqCm0dRJ4aGiUnKmacIdy4aDNLz5ZQ9M3Mu7tHv8axzD4KIRZZC6XLW+NXJQb8SOz48SAtKONM3oGRrIZLcWImkPnyOAGc0dI8wSAT0kseD0Fm3Zme0b2kfJ2exfJ9TUCe69fDD9r0FQ3xDJkeU4sI/XvrW49LXPeO4R6uAYH8rX6bh0v+wS519ERs5VOLBYRdEAwdeLfQyZHLxY6PP4GwZvDa3q9gsrMepysTgWG+GJWk1KnPUjN0w+tGsFPMCd48leJDfn1thSuTGXwxx0QI431XPhkQEdpfkro7v6Kr5WXIHUOXCgfjVhHZEyEaSi2+WDcHF8EKFdnmnNcvmkIQ==;7jHPCISbH+IcV3hfKpMVdg=="
+secured: "yV6AjiO5q8qSRrSXLlHxgTEM5PLW8bO+tbjNRcJv9rai/R/J5EifVrgvEMeQL5T8QD1GKQMOFf9A4CYuUkgr1ty8IKkwVDrM3Zs2hyPQGb8cPlo5RQa6IXBpNZUzwMCuBqYzxZin5mp6QsmNj/EyqmSWsnFGs0g5cOqBV2N5HGp55HjTYx9wtuQ8dTQgDlokZ3KPwKxo1cGOrntOCTbzTxCB+e9spz64/LUYmZwWgmL4IUyRZAVIJGHmMFI9K2LUiyEXNx6j8xu7oB/usLIpTm3jM2rIgDSn8UqF0Ej98Fp9WsWPAeGvbXDyVUIJCcN0WE/be+fr8RhyKr/qLNxDcJKLUe4h1oA93N4YHn9p6EKgUa2I2PZlBL1zHCFYOaecp6OmrO1deqHzPZMVh7RTwU9h6ds8XmcpGW35wU1Faz9lm+JUrDGUr6hDyizzIPRxbp97YeVzLGAv+crZrX/R2usL1+zBJsJkM0foShGRJZbNqSXpE/iLLfqvVG1IjfVKfWlicfRC5FHTlL/h5N65mQ==;zsZUqVns9+33gEEPEU5z0g=="
 ---
 

@@ -107,22 +107,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Pivot to ChatGPT? BuzzFeed preps for AI-written content while CNET fumbles"
-    excerpt: "On Thursday, an internal memo obtained by The Wall Street Journal revealed that BuzzFeed is planning to use ChatGPT-style text synthesis technology from OpenAI to create individualized quizzes and potentially other content in the future."
-    publishedDateTime: 2023-01-27T18:09:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/pivot-to-chatgpt-buzzfeed-preps-for-ai-written-content-while-cnet-fumbles/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 85
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/robert_the_writing_robot-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "C3ai has soared 86% year-to-date as investor frenzy for artificial intelligence builds amid ChatGPT success"
     excerpt: "C3.ai soared as much as 28% on Tuesday after the company said it would integrate ChatGPT into its product suite of artificial intelligence tools."
     publishedDateTime: 2023-01-31T17:39:00Z
@@ -314,6 +298,22 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:33:00Z
+    webUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: fox13now
+      domain: fox13now.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A top UK private school is changing its approach to homework amid the rise of ChatGPT, as educators around the world adapt to AI"
     excerpt: "Jane Lunnon, the head teacher of the $28,000-a-year Alleyn's School, told Insider: \"Everyone is talking about it in education.\""
     publishedDateTime: 2023-01-30T16:16:00Z
@@ -481,34 +481,6 @@ related:
         width: 1600
         height: 1062
         isCached: true
-  - title: "Following ChatGPT Hype, South Florida’s Lawyers See Promise in AI Boom"
-    excerpt: "People come to where the money is. Miami is where the money is. And a lot of the money has poured into new tech and startups, and there's going to be a lot of that with AI, said Tal Lifshitz, a Miami-based tech lawyer."
-    publishedDateTime: 2023-01-27T18:57:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2023/01/27/following-chatgpt-hype-south-floridas-lawyers-see-promise-in-ai-boom/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/01/Chatbot-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 41
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/769d769/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Generative AI like viral ChatGPT lands on DISA technology watch list"
     excerpt: "An Air Force official said the military must \"automate more\" in order to remain dominant in a world of advanced computing and quick decisions."
     publishedDateTime: 2023-01-27T20:13:00Z
@@ -579,6 +551,17 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "ChatGPT buzz drives buying frenzy in China's AI-related stocks"
+    excerpt: "The surge reflects a heightened interest in all things AI after ChatGPT took the internet by storm since its launch in November."
+    publishedDateTime: 2023-02-01T08:42:00Z
+    webUrl: "https://www.theedgesingapore.com/news/tech/chatgpt-buzz-drives-buying-frenzy-chinas-ai-related-stocks"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/tech/chatgpt-buzz-drives-buying-frenzy-chinas-ai-related-stocks"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/tech/chatgpt-buzz-drives-buying-frenzy-chinas-ai-related-stocks"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
   - title: "ChatGPT creator reveals tool that detects AI-generated text"
     excerpt: "OpenAI, which released the viral ChatGPT chatbot last year, unveiled a tool that’s intended to help show if text has been authored by an artificial intelligence program and passed off as human. The tool will flag content written by OpenAI’s products as well as other AI authoring software."
     publishedDateTime: 2023-02-01T05:42:00Z
@@ -590,6 +573,34 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "How UX Design Makes Conversational Banking with AI Similar to ChatGPT"
+    excerpt: "AI-powered solutions such as ChatGPT could fuel new types of products in banking, more personalized and more connected to users, but integrating innovative technologies often causes complications in terms of user experience."
+    publishedDateTime: 2023-02-01T09:54:00Z
+    webUrl: "https://www.finextra.com/blogposting/23666/how-ux-design-makes-conversational-banking-with-ai-similar-to-chatgpt"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/341989c3-2f17-4de4-bbcb-66cbc642bb1c.jpeg"
+        width: 500
+        height: 275
+        isCached: true
+  - title: "Why is ChatGPT making waves in the AI market?"
+    excerpt: "By Bern Elliot, Distinguished VP Analyst at Gartner Artificial intelligence (AI) research and deployment company OpenAI recently announced the official launch of ChatGPT, a new model for conversational AI."
+    publishedDateTime: 2023-02-01T09:35:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3297320"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 39
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/02/1500__Bern-Elliot-Distinguished-VP-Analyst-at-Gartner1-26d3749e.jpg"
+        width: 978
+        height: 1500
+        isCached: true
   - title: "Google AI model to generate music from text could be bigger than ChatGPT"
     excerpt: "It’s called MusicLM, and according to AI scientist Keunwoo Choi ... To support future research, we publicly release MusicCaps, a dataset composed of 5.5k music-text pairs, with rich text ..."
     publishedDateTime: 2023-01-27T23:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/this-ai-startup-will-g
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/this-ai-startup-will-generate-celebrity-like-voices-for-you-here-s-how/amp-11675232785902.html"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,58 +25,6 @@ images:
     height: 338
     isCached: true
 
-related:
-  - title: "AI voice generator used to deepfake celebrities spewing racist abuse"
-    excerpt: "UK-based ElevenLabs announced its Prime Voice AI which lets users generate the ‘most realistic’ spoken audio in any voice and style. However, in just a few weeks, troublemakers have taken to using the tool to upload deep faked voices of celebrities like Joe Rogan to Robin Williams,"
-    publishedDateTime: 2023-01-31T11:41:00Z
-    webUrl: "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/"
-    ampWebUrl: "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/01/cowomen-8M6KCnMvLus-unsplash-c17c.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "AI voice generator used to deepfake celebrities spewing racist abuse"
-    excerpt: "Microsoft have announced their AI “VALL-E” Using a 3-second sample of human speech ... However, the tech giant had also mentioned in an ethics statement that since VALL-E could synthesize speech that maintains speaker identity, it may carry potential ..."
-    publishedDateTime: 2023-02-01T06:35:00Z
-    webUrl: "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/?ico=tag-post-strip_item_3_news"
-    ampWebUrl: "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/01/cowomen-8M6KCnMvLus-unsplash-c17c.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "4chan users embrace AI voice clone tool to generate celebrity hatespeech"
-    excerpt: "An AI startup that lets anyone clone a target’s voice in a matter of seconds is being rapidly embraced by internet trolls. 4chan users have been flocking to free voice synthesis platform ElevenLabs, using the company’s tech to clone the voices of celebrities and read out audio ranging from memes and erotica to hatespeech and misinformation."
-    publishedDateTime: 2023-01-31T13:00:00Z
-    webUrl: "https://www.theverge.com/2023/1/31/23579289/ai-voice-clone-deepfake-abuse-4chan-elevenlabs"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 46
-  - title: "People Are Still Terrible: AI Voice-Cloning Tool Misused for Deepfake Celeb Clips"
-    excerpt: "ElevenLabs says it may need to impose new rules on its voice-cloning tool after bad actors reportedly used it to create fake clips of celebs and media personalities saying offensive things."
-    publishedDateTime: 2023-01-31T19:02:00Z
-    webUrl: "https://www.pcmag.com/news/people-are-still-terrible-ai-voice-cloning-tool-misused-for-deepfake-celeb"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 42
-
-secured: "8CfEgUJeqK8YB4QSZolL/SYOlYMVw8aUh0SeWTGdyrv/o9u7mGyDAbqbp7L/boZJSrenLkokpWI+cfquAz1oQYZnwR6OGvBoPKyzQy57GBJhFMqNmhjKLqy4amCF4FVOxfpME1Bqlonv8MNveX+6ub3/kdCWxJ2S490HXI+JRrQ2fWHRlU+FExQNd7CmBgOP5AONzn7RbuAlvt5g+TT0VAFp0RJAXpVbwaH89RzQVZtXPxBtyG8ktFoTw6Pjf5uO77J0XAExy8rmNTNAaKglilirNjw789pJB8GmD5pGy7qMPSIXK6+NNPQsJXKl2JJKEpVtH11Au2V/oW5tSOcBLOdlg1fS2oVM/sXI+CxPKUk=;4BF9tDC2PDtHtLEVZN5HUA=="
+secured: "JPpq2ZKnlcXraLC7yCODKUZax7njM9jZLfT1jf+2U9SFILsRYWRyOquIcjCrC2UBAhDY5l84s/n9EiSWD/s5ZUM5myzEDt096+7aIeZEJX0qgnrb1sdLMhacoHS2dh7FVmORB5J7OOdUSjCHrpt5X+MZOxdFe9dDke6dsKTy4cXNHdz/zb5iNy88TKi04as15uA4RmAJwDkMpYwL3UGPH3IpSjVZkoRcbwZ0pYzgC89+pKh73WMATSSbh5oMaUPweP2QMns80Qe3JUPqZUnSlhr0dlT1DlqjZ2qzxUSJMgg7sU7uVHuZ6c1rBpUAOSN0iy2DZhnx0WfJJDVtjoTLwqMUbRd2HANbfqDCT+9PgkEQ2kX2bJVm89r5/zvH9nWyVt0SXwmGN8lAw+rboJS0NSxPdodXgWbI7ReflfLq/6sT4LB6wUjmnXy1eZ7qBcpxhCe7QrfXyL+ZqGut/ZuFXmkmvLqpOZUDEBtYEoqbpelvVM+rTKw1uWBLZaUltghhgvXx2BvvTRvxiApz1WL2fQ==;q7/iupqy63J2YgEKi1N1Lg=="
 ---
 

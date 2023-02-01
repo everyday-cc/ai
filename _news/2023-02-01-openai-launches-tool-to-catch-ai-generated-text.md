@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna68480"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna68480"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/p2nwRUMdJmYewXiBbibeLK-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "OpenAI launches AI classifier tool to detect AI generated text"
+    excerpt: "OpenAI, the company behind ChatGPT has launched a new AI classifier tool to determine if a text has been written by a person or by Artificial"
+    publishedDateTime: 2023-02-01T09:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-launches-ai-classifier-tool-to-detect-ai-generated-text-31-01-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/02/AI-classifier.jpg"
+        width: 700
+        height: 586
         isCached: true
   - title: "OpenAI launches tool for detecting AI-generated text"
     excerpt: "OpenAI LLC today introduced a cloud-based tool that can help users determine whether a piece of text was written by artificial intelligence. The tool, which is available at no charge, is itself based on an AI model."

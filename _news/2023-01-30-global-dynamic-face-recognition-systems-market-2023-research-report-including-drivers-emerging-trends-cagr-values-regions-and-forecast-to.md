@@ -117,6 +117,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "L2 Self-driving Vehicle Market by Type, by Technology, by End User: Global Opportunity Analysis and Industry Forecast, 2023-2028"
+    excerpt: "The “L2 Self-driving Vehicle Market” report provides an in-depth analysis of the size of the global market. It"
+    publishedDateTime: 2023-02-01T08:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-by-type-by-technology-by-end-user-global-opportunity-analysis-and-industry-forecast-2023-2028-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Synthetic Data Software Market Share 2023 Research by Growth Developments, Emerging Demand, Future Trends and Business Statistics Forecast to 2028"
     excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Synthetic Data Software"
     publishedDateTime: 2023-01-30T17:29:00Z

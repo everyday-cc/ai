@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-healthcare-natura
 webUrl: "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "L2 Self-driving Vehicle Market by Type, by Technology, by End User: Global Opportunity Analysis and Industry Forecast, 2023-2028"
+    excerpt: "The “L2 Self-driving Vehicle Market” report provides an in-depth analysis of the size of the global market. It"
+    publishedDateTime: 2023-02-01T08:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-by-type-by-technology-by-end-user-global-opportunity-analysis-and-industry-forecast-2023-2028-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

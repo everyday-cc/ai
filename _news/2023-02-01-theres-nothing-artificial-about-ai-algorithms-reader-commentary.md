@@ -34,7 +34,7 @@ related:
     provider:
       name: Orlando Sentinel
       domain: orlandosentinel.com
-    quality: 32
+    quality: 36
     images:
       - url: "https://www.orlandosentinel.com/resizer/Egol2K3Vz3TQFORGlhQFa7wpknc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/G4BEZ3VJEFFOJL7H75ERFP3PI4.jpg"
         width: 1200

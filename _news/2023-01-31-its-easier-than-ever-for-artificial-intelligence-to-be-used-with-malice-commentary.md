@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-31T10:30:00Z
 originalUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-artificial-intelligence-handle-with-care-20230131-lfjxo6oeobcb7hkli6byc4xwdq-story.html"
 webUrl: "https://www.orlandosentinel.com/opinion/guest-commentary/os-op-artificial-intelligence-handle-with-care-20230131-lfjxo6oeobcb7hkli6byc4xwdq-story.html"
 type: article
-quality: 32
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.orlandosentinel.com/resizer/Egol2K3Vz3TQFORGlhQFa7wpknc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/G4BEZ3VJEFFOJL7H75ERFP3PI4.jpg"
