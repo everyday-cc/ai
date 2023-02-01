@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/instagram-co-founders-introduce
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/instagram-co-founders-introduce-ai-powered-news-app-artifact/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Embraces AI as Facebook, Instagram Help Drive a Rebound"
-    excerpt: "After the roughest year in its history, Meta is starting to bounce back. Users are watching its short-form videos, ad-targeting is improving and the social-media company is well down the road to recovering from the impact of privacy changes imposed by Apple."
-    publishedDateTime: 2023-01-27T13:27:00Z
-    webUrl: "https://www.wsj.com/articles/meta-ai-facebook-instagram-reels-ad-targeting-11674829286"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-711357/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Instagram co-founder are back with AI-driven news platform ‘Artifact’"
     excerpt: "Artifact is currently in a private beta but is now accepting requests to be a part of its user base. You can give the company your phone number and it"
     publishedDateTime: 2023-02-01T04:15:00Z

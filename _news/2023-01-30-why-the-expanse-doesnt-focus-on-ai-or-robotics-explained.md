@@ -7,8 +7,8 @@ originalUrl: "https://gamerant.com/why-the-expanse-doesnt-focus-ai-robotics-expl
 webUrl: "https://gamerant.com/why-the-expanse-doesnt-focus-ai-robotics-explained/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Game Rant
@@ -25,45 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Consumer Robotics: How Artificial Intelligence Is Changing The Game"
-    excerpt: "From vacuum cleaners and lawnmowers to personal assistants and healthcare workers, robots are increasingly becoming a common sight in homes and businesses worldwide."
-    publishedDateTime: 2023-01-27T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/"
+  - title: "Why You Need the Ability to Explain AI"
+    excerpt: "For artificial intelligence solutions to gain acceptance in the enterprise, users must trust that it will work as well as humans."
+    publishedDateTime: 2023-01-27T16:17:00Z
+    webUrl: "https://www.networkworld.com/article/3686473/why-you-need-the-ability-to-explain-ai.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
+      name: Network World
+      domain: networkworld.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d2872a3e9e3b86964c5506/0x0.jpg?format=jpg&width=1200"
-        width: 1123
-        height: 748
+      - url: "https://images.idgesg.net/images/article/2023/01/istock-1066422156-100936830-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 813
         isCached: true
-  - title: "Changing the conversation around AI"
-    excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
-    publishedDateTime: 2023-01-31T00:15:00Z
-    webUrl: "https://www.digitalhealth.net/2023/01/changing-the-conversation-around-ai/"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 39
-    images:
-      - url: "https://www.digitalhealth.net/wp-content/uploads/2022/08/Somerset-AI-lung-cancer.jpg"
-        width: 555
-        height: 330
-        isCached: true
-  - title: "Subsea Robotics: Aquanauts, Hydronauts, Roll Out"
-    excerpt: "It now has three of its second-generation Aquanauts in build in Vancouver, which will be used on trials in the Gulf of Mexico and offshore Norway, and two Hydronaut uncrewed surface vessels (USVs), which will act as launch and recovery systems and surface gateways to Aquanauts,"
-    publishedDateTime: 2023-01-30T14:18:00Z
-    webUrl: "https://www.oedigital.com/news/502542-subsea-robotics-aquanauts-hydronauts-roll-out"
-    type: article
-    provider:
-      name: oedigital.com
-      domain: oedigital.com
-    quality: 34
 
 secured: "aaTcDQpgjXo2Fd45QguiC5Pn0WfX2HXk74TG5Smx0lbw6VfBvUN9lwz3csg9noLLb0geP8fO6s20Usm0qGf1P7LVvBVgGqAIscQr2zF4lR/Ace37yg9mrusHK86wSx/IkCsfJNQO8WE4SlV6catRSTYytWXVqf4+2gLlGLSpW9iDhkqQtBwRILug1wI1/h4WgG/u3RsmKblaXk1MEqqXEjtFSQrUkBdMIIfPnIgZQPkSzdUgmq0X0E+8EhzjK2QR8S8KG7yxXBR0mVsYFILVJfgIW7+Qh3nxGUkp2EDnTFg/XLTyo5BhslP1bJBufL6sOJzvq3SD7+CUvkNqPIxk+JH1mWM5C/jEKJpvDDSgqLg3NAB6PVN9/F8ZsR+NNRTluk4T9U/BQodgx6LkPdsySeGEpxZHvmPXLAsuBpMZKmlttgkKUh9mblBPHYYeC2X9XkBbFDiCter9c14ARkcOub1nuy3Q0yxxFT4ifBNLaeWrAAUPDGn4jASO40onzmf8GSrMdFdMVXYuzDNNmigC0A==;xaCTboeMwRafdcbSotxr+w=="
 ---

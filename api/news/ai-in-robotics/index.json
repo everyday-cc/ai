@@ -281,6 +281,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-30-why-the-expanse-doesnt-focus-on-ai-or-robotics-explained.md",
+      "title": "Why The Expanse Doesn’t Focus On AI Or Robotics, Explained",
+      "excerpt": "The Expanse is timeless storytelling as well as solid science fiction. It leans into hard sci-fi, a term its creator’s shy away from, though the series does depict very plausible tech and stays true to the laws of physics.",
+      "sourceUrl": null,
+      "webUrl": "https://gamerant.com/why-the-expanse-doesnt-focus-ai-robotics-explained/",
+      "originalUrl": "https://gamerant.com/why-the-expanse-doesnt-focus-ai-robotics-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/naomi-the-expanse-feature.jpeg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-ted-lieu-uses-a-robot-to-draft-the-first-ai-written-bill-for-congress.md",
       "title": "Ted Lieu uses a robot to draft the first AI-written bill for Congress",
       "excerpt": "Rep. Ted Lieu, a California Democrat, is pulling out all the stops to warn us about the need to regulate artificial intelligence technology such as ChatGPT.",
@@ -1308,49 +1351,6 @@
       "provider": {
         "name": "Pakistan Today",
         "domain": "pakistantoday.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-best-robot-vacuum-deals-under-100.md",
-      "title": "Best robot vacuum deals under $100",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100/",
-      "publishedDateTime": "2023-01-20T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

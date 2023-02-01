@@ -74,15 +74,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
-  - title: "MSG may stop booze sales over facial recognition: CEO"
-    excerpt: "James Dolan, the owner of th Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing his use of facial recognition technology at venues including MSG."
-    publishedDateTime: 2023-01-27T14:53:00Z
-    webUrl: "https://pix11.com/video/msg-may-stop-booze-sales-over-facial-recognition-ceo/8340098/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 38
   - title: "James Dolan repeats threat to ban booze at Madison Square Garden amid face-tech fight"
     excerpt: "The move comes months after the SLA suggested that MSG could lose its ability to sell alcohol at Rangers and Knicks games if Dolan does not stop using facial recognition software to ban opponents."
     publishedDateTime: 2023-01-27T22:36:00Z
@@ -99,15 +90,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "MSG CEO threatens to stop alcohol sales over facial recognition"
-    excerpt: "James Dolan, the owner of the New York Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing"
-    publishedDateTime: 2023-01-27T13:12:00Z
-    webUrl: "https://pix11.com/news/local-news/manhattan/msg-ceo-threatens-to-stop-alcohol-sales-over-facial-recognition/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 36
 
 secured: "P+/XFvR2/GwMte5MrlX3ClfOrZ4u41GdsDU7rKJsgbKS8LvHCCS8mnN49wRtOwAk1dwvOAd76WLxjlYFcHoYmrobbcby/bgEHAIG8enjzhyFIsyQp8g5o7mOkbC8Cs+XCOgz5rBGEe0K0GcML4Ka7goSpJiI5Uldmf82xgC4T6PFiM4Q1PzVIl8kVU+9wCUwFMye7KKxE0f/01ROHOjGh5KRZq0j5f8j7suvd9Mjk9WWtAFh2HVFDITI7E83IvGLUPYpYVkQKRpmijiO/NEDBIdJRyJydyVaGDqsLmCiznO4py8nsZTmXa5njqJa2J9/qLhmU4lnnE7JVEi8xJ/p9BJxuX4XqGEAQtxjHtEn7EzeuowQyDSeScyoB//f9cNYfo0UU1OXOc6j2hNAn0EViARoOl7X1jq7BI4QTiHMJ0dBaHBuDRuCdAyrP7iGTDrkwwtZFfO1jCysK997uMQZrXy8kIvtpPcvCynr9ckdts6LDTxHP+kh2WTwaaLGRh1VOIUTgF0mJk0FK9a7RUmsHQ==;aQVaDy5dzIz9u3iEfr0g+g=="
 ---

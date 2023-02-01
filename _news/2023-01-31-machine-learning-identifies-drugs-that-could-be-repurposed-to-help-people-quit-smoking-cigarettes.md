@@ -43,15 +43,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Machine learning identifies drugs that could potentially help smokers quit"
-    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."
-    publishedDateTime: 2023-01-27T14:50:00Z
-    webUrl: "https://medicalxpress.com/news/2023-01-machine-drugs-potentially-smokers.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
 
 secured: "Bwx0KYcQrot+I8BkoEKBczhZvTw2SMYgzyhKM4qmhjiiVQpnGx43c2WvCrdTeZWNzw2dlOVE8hp9hAikFg56JWFre7+hxdMT7/Q2YvdhzLNtf4HztlicBol4QTtkpjKzAXwvLe3p+oJxC2aWNRYCLDgUunRMzN/MTTTw8CsF+xzaNhKjmjeX2dmyBgOckQvfOo0MqVfn7+8fzb2glzTEukBdO3qAomUIdUDxHjgVAClnB1GCDbotbkzHf3AzOtDhMCaPcJvQRMi1Re/5xHzkAnMjBp8LSvmnjPJvbQkQZDkFORpOVHYxi+H1SfzM5Lsi7M1HGJe05WrOfZgwCc3ND2PNliOC/4kxrDYE7q1Zm4Y=;+dZM9brnIMs6sCNsNeqX5w=="
 ---

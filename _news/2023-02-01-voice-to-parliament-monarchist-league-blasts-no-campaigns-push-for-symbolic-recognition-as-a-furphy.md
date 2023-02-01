@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/australia-news/2023/feb/01/indigenous-voice
 ampWebUrl: "https://amp.theguardian.com/australia-news/2023/feb/01/indigenous-voice-to-parliament-referendum--monarchist-league-blasts-no-campaign"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/feb/01/indigenous-voice-to-parliament-referendum--monarchist-league-blasts-no-campaign"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.guim.co.uk/img/media/351023a69419a91317ebd1ecfa6f850c79b6bfce/0_0_5224_3135/master/5224.jpg?width=620&quality=85&auto=format&fit=max&s=25892fd025c62f6b75dc06125c180cb4"
@@ -30,6 +31,6 @@ images:
     height: 372
     isCached: true
 
-secured: "siqd8TWdAUdOGmYxxeYGregdTNisYfiROi8PVfZZemCG6y1Wn4BJu+7iuwAaIrTkl9D5EiJ5RU0qHGDbNVS5OEQFUVR/B0W63xzABTFHec+b2HLeqaVvJ8QSR9oWa3bpZTagKmH4X0nye0dHDhCngd3gaxiI5WT63cV4mNJ+Cp1sm+oWCLMSeUTq6KQr/0Fj1ZbRQnNBGzy6Vyp3M/PXvy4YWwVvmkMGQV5DoSCVu0JLpCu+6iP8KAcGNU7z7xB75OatlGBhjWKjQMP6NYZLGWadoetWCGsAUULJIP/+PLhcosavH7YKaSRL2V5+itC/nCS5Oy6XU1SlPu/8lAwatlB4QyjEb9HjZn+drB5lJL8=;bafAXWVfY7B4fBuOqGOpNw=="
+secured: "WYG1Oyg1so/Nu9Z8EqLWQ4SiBbs1Q7+qiTppfjrUPQpLS/RgfEAA/ztapZCoeoEEYkJ5SS5K5CRhyOHvFut37ZkmfCGnFMQ1xrV89EqqV3oqH7DivI6DtzuqG5qvbZ+1aTtDm9XMIF4aayR0if5P6ISbSBapGW7jgTg2w7kVykLYnRgG4bcFrFgcg/ZU1BWBMsKSSC/RqTctCcPrQSlARmNrP+7QNb7Y429eMwIaA7qA2L8vNZYN6Nh8U2hqmrXWPlt6vmpFtzDCNEPwZgT7jIPd86dYy90eazDwvLg2Yym/VkmJkiER1a/02mNLUSQ0Mwh/swmTC2PYe9X1NRa5W8HN8m8lk9YlJob8P8SFOlLitlpmQFICVHfdUFXw429A1vqIvT2jA3VN/Bu/I9AKrNM/K3yZKHE0GiuKCjo7R2HPeWel00ypqSBsH5lk7n1YS+3Nv5GcSX91D+Yw8cY8ZmnZukbZqzcevzL9+t5HTWQfL1DVTjTx1egakgMeBnaYo6rlM13vncGr5ZGqYGtl6A==;hjbk74Oyofw2KitUFmQyKg=="
 ---
 

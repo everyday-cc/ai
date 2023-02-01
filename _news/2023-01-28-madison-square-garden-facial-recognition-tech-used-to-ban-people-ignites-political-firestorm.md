@@ -66,15 +66,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
-  - title: "MSG may stop booze sales over facial recognition: CEO"
-    excerpt: "James Dolan, the owner of th Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing his use of facial recognition technology at venues including MSG."
-    publishedDateTime: 2023-01-27T14:53:00Z
-    webUrl: "https://pix11.com/video/msg-may-stop-booze-sales-over-facial-recognition-ceo/8340098/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 38
   - title: "James Dolan repeats threat to ban booze at Madison Square Garden amid face-tech fight"
     excerpt: "The move comes months after the SLA suggested that MSG could lose its ability to sell alcohol at Rangers and Knicks games if Dolan does not stop using facial recognition software to ban opponents."
     publishedDateTime: 2023-01-27T22:36:00Z
@@ -91,15 +82,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "MSG CEO threatens to stop alcohol sales over facial recognition"
-    excerpt: "James Dolan, the owner of the New York Knicks and Rangers, has threatened to suspend alcohol sales at Madison Square Garden in response to state officials critiquing"
-    publishedDateTime: 2023-01-27T13:12:00Z
-    webUrl: "https://pix11.com/news/local-news/manhattan/msg-ceo-threatens-to-stop-alcohol-sales-over-facial-recognition/"
-    type: article
-    provider:
-      name: pix11
-      domain: pix11.com
-    quality: 36
   - title: "James Dolan defends MSG’s use of facial recognition"
     excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
     publishedDateTime: 2023-01-30T16:43:00Z

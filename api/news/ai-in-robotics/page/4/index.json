@@ -2,6 +2,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-03-learning-to-see-and-learning-to-read-artificial-intelligence-enters-a-new-era.md",
+      "title": "'Learning to see and learning to read': Artificial intelligence enters a new era",
+      "excerpt": "The team’s approach relies on a type of AI known as an artificial neural network, modeled after the neurons and connections of the brain, combined with a model of the physics of light transport. The neurons in the model are actually computer algorithms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.princeton.edu/news/2023/01/03/learning-see-and-learning-read-artificial-intelligence-enters-new-era",
+      "originalUrl": "https://www.princeton.edu/news/2023/01/03/learning-see-and-learning-read-artificial-intelligence-enters-new-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2023/01/Discovery-2022-23_feature_ai_AI--BIGGER--cover--3000x1688px.jpg?itok=7QASTP2x",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Princeton University",
+        "domain": "princeton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-artificial-intelligence-and-robots-will-contribute-to-more-made-in-europe.md",
+      "title": "Artificial intelligence and robots will contribute to more «made in Europe»",
+      "excerpt": "In a new EU project, NORCE researchers will contribute to the increased automated production of goods. This will ensure better access to goods",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229020",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/16e5dedc-fda4-44a8-a470-b9b862cd9cbc-773a43cd-87d5-46df-91bf-eeaddfe85613--logo-horizontal-black.png",
+          "width": 654,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-03-artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies.md",
       "title": "Artificial Intelligence Robotics Market Growth and Key Dynamics 2023-2027 | Opportunities and Challenges, Top Regions and Emerging Technologies",
       "excerpt": "New Research on “Artificial Intelligence Robotics Market” Report 2023 provides distinguishes and intelligence analysis on industry growth revenue, size, share and future trends. The report ...",
@@ -1345,84 +1433,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
-      "title": "eYs3D Microelectronics: eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
-      "excerpt": "TAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase a powerful new vision platform for robotics at the upcoming CES 2023 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57859982-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57859982-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T14:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031.md",
-      "title": "Artificial Intelligence (AI) Robot Market is Expected to Reach US$ 52.63 Bn by 2031",
-      "excerpt": "Artificial Intelligence Robot Market is expected to surpass the value of US$ 52.63 Bn by 2031, It is estimated to expand at a CAGR of 20.5% from 2022 to 2031 The business intelligence study on the market is prepared by employing industry-validated primary and secondary methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273216757/artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273216757/artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2022/12/icn698884-icnArtificial20Intelligence2028AI2920Robots.jpg",
-          "width": 280,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

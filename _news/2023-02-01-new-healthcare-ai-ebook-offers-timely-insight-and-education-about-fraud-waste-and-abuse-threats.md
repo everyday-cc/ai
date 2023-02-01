@@ -96,6 +96,20 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "Changing the conversation around AI"
+    excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
+    publishedDateTime: 2023-01-31T00:15:00Z
+    webUrl: "https://www.digitalhealth.net/2023/01/changing-the-conversation-around-ai/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 39
+    images:
+      - url: "https://www.digitalhealth.net/wp-content/uploads/2022/08/Somerset-AI-lung-cancer.jpg"
+        width: 555
+        height: 330
+        isCached: true
   - title: "ChatGPT and the dark side of AI"
     excerpt: "AI like ChatGPT can show you the what, but it is not very good at finding the why, writes Mary Faulkner of IA."
     publishedDateTime: 2023-01-31T16:01:00Z

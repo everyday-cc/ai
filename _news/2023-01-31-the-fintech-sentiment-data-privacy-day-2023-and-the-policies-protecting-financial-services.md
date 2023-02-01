@@ -39,6 +39,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Fintech industry seeks ‘RRR’ from Budget 2023: Relief, Reform and Regulatory Easing"
+    excerpt: "The Indian economy has shown great resilience as it continues on the path to becoming the fastest-growing G20 economy, despite the decelerating global conditions. The upcoming Union Budget will be crucial in strengthening and"
+    publishedDateTime: 2023-02-01T05:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-industry-seeks-rrr-from-budget-2023-relief-reform-and-regulatory-easing/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-industry-seeks-rrr-from-budget-2023-relief-reform-and-regulatory-easing/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-industry-seeks-rrr-from-budget-2023-relief-reform-and-regulatory-easing/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 38
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/02/Pic-1.png"
+        width: 412
+        height: 312
+        isCached: true
   - title: "5 tech trends that will change the fintech industry in 2023"
     excerpt: "A recent report by Bain and Co. recognized India as one of the first leaders to uplift the exposure of the country’s fintech industry globally. Further, the report states the boom in smartphone adoption"
     publishedDateTime: 2023-01-30T08:47:00Z
@@ -88,6 +104,15 @@ related:
     excerpt: "Two of the most important trends will be popularized services in neo-banking and open banking services. You will get more information about  these and other new fintech trends down below. Fintech Industry in 2022 - What Has Changed and What Were The Main Trends As investments in fintech significantly increased in 2021,"
     publishedDateTime: 2023-01-31T11:19:00Z
     webUrl: "https://www.finextra.com/blogposting/23653/open-banking-and-neobanking---fintech-trends-for-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "What are the top 10 ways AI is revolutionizing fintech?"
+    excerpt: "One of the most critical applications of AI in fintech is fraud detection and prevention. AI algorithms can analyze vast amounts of data to identify patterns of fraudulent activity and flag potential threats in real time."
+    publishedDateTime: 2023-02-01T05:45:00Z
+    webUrl: "https://www.finextra.com/blogposting/23662/what-are-the-top-10-ways-ai-is-revolutionizing-fintech"
     type: article
     provider:
       name: Finextra

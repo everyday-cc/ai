@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-30T14:14:00Z
 originalUrl: "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon"
 webUrl: "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon"
 type: article
-quality: 75
-heat: 75
+quality: 77
+heat: 77
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Computer Vision
   - Machine Learning
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2Fmignon01.jpg&signature=4fad0650e664016385da848878a9e6ae"

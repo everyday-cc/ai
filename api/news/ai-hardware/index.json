@@ -53,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -157,7 +157,7 @@
       "originalUrl": "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -200,7 +200,8 @@
         "AI",
         "Computer Vision",
         "Machine Learning",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -249,10 +250,10 @@
     {
       "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
       "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
-      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
+      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE / / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
       "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
-      "originalUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
+      "webUrl": "https://www.sacbee.com/press-releases/article271678367.html",
+      "originalUrl": "https://www.sacbee.com/press-releases/article271678367.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -260,13 +261,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/press-releases/article271678367.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271678367.html",
-      "publishedDateTime": "2023-01-26T04:14:00-08:00",
+      "ampWebUrl": "https://amp.sacbee.com/press-releases/article271678367.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271678367.html",
+      "publishedDateTime": "2023-01-26T03:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null

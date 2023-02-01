@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://images.yourstory.com/cs/206/d6cc5c20076211ed91383927582c5cb0/NIKITAImageTaggingnoframesEditorialTeamMaster14-1674885477623.jpg?fm=png&auto=format"
         width: 1600
         height: 800
+        isCached: true
+  - title: "Changing the conversation around AI"
+    excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
+    publishedDateTime: 2023-01-31T00:15:00Z
+    webUrl: "https://www.digitalhealth.net/2023/01/changing-the-conversation-around-ai/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 39
+    images:
+      - url: "https://www.digitalhealth.net/wp-content/uploads/2022/08/Somerset-AI-lung-cancer.jpg"
+        width: 555
+        height: 330
         isCached: true
   - title: "New Healthcare AI eBook Offers Timely Insight and Education about Fraud, Waste and Abuse Threats"
     excerpt: "Payment integrity and FWA experts from Codoxo share the latest healthcare cost containment risks and best practices to inform leadership strategy for 2023 and beyond ATLANTA (PRWEB) January 31, 2023 Codoxo, a trusted"

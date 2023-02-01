@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 842
     height: 596
     isCached: true
+
+related:
+  - title: "Academics also at ethical risk from using AI, regulator warns"
+    excerpt: "Universities have been put on notice that they must address risks of student cheating posed by new forms of artificial intelligence but also be alert to academics taking shortcuts through using AI."
+    publishedDateTime: 2023-02-01T06:38:00Z
+    webUrl: "https://www.afr.com/policy/health-and-education/academics-also-at-ethical-risk-from-using-ai-regulator-warns-20230201-p5ch2x"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 56
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.4347%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_162/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/42001c7ef58313c2e2b3acc744c962d40b7c79f5"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "fWUiMTxqOpsUKPa7elAsJrDwyMxhkJFgj2WXJO6DKCMUmLXP+yxuGV/qncIyVO/sL5xBIRquVxrla6i8qrqfIVGZs5i8woE9wYL5BykF1LwpLBN7brbtEkWEbzetZt6sGixRhsg3VtWeuby7JZ3diVbn3z6ezdS2j99I5B4KG16aO3SMqEXqCs/pfcrWo5UFam1gFEcjWKD7rhy5Ta+XRdfnAD+kUBgy9OPwCcOcuZeAASQMZXLFYdmT3HNMIb3NQOfeqzUTB6GkxYvDvvlMvm+ZR4HMN6kREGmuV7ysPxslqzp0WtubGLzkb4zVNIr3co7mInSvIeirbsbLRGrUXH+1bgxrIfzF1YmDxPLYujhHacWrsnV+ZXev6Zk6uXuuSBIs+cMBrQ4u8im2BcjuzejV3H0LIsjt1gmDZciyV8vEHBWf0A2VUKsdHk08fIIn9hf4Imi0lRPjrJW29WsDYuaP45GWpUP2ogBHKcx+i+v2DxROF/5TWPjrgcXOYkxwyImCIWOSwZ58GtUrkVpZOA==;mUHrPkEiWQNDje/A7cvPwA=="
 ---

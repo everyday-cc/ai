@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-27-accelerating-ai-for-growth-the-key-role-of-infrastructure.md",
+      "title": "Accelerating AI for growth: The key role of infrastructure",
+      "excerpt": "High-performance AI infrastructure offers CIOs and enterprises a way to cost-effectively manage and accelerate growth of production AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/",
+      "originalUrl": "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/9-Sponsored-How-infrastructure-helps-CIOs-unify-enterprise-AI-GREEN-e1674659119985.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/accelerating-ai-for-growth-the-key-role-of-infrastructure/amp/",
+      "publishedDateTime": "2023-01-26T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come.md",
+      "title": "James Dolan defends facial recognition policy against lawyers who are suing MSG: ‘Please don’t come’",
+      "excerpt": "Several attorneys say they have been denied entry into MSG-owned venues because their firm is in active litigation against the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
+      "originalUrl": "https://www.marketwatch.com/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-710774/horizontal",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/james-dolan-defends-facial-recognition-policy-against-lawyers-who-are-suing-msg-please-dont-come-11674755769",
+      "publishedDateTime": "2023-01-26T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-mass-congressman-reads-ai-generated-speech-on-house-floor.md",
       "title": "Mass. Congressman Reads AI-Generated Speech On House Floor",
       "excerpt": "When U.S. Rep. Jake Auchincloss decided to deliver a speech on a bill that would create a U.S.-Israel artificial intelligence center, he opted to let the AI do the talking.",
@@ -541,40 +646,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
-      "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
-      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
-      "originalUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/press-releases/article271678367.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271678367.html",
-      "publishedDateTime": "2023-01-26T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-26-how-to-build-a-neural-network-in-java.md",
       "title": "How to build a neural network in Java",
       "excerpt": "Artificial neural networks are a form of deep learning and one of the pillars of modern-day AI. The best way to really get a grip on how these things work is to build one. This article will be a ...",
@@ -623,6 +694,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
+      "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
+      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE / / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/press-releases/article271678367.html",
+      "originalUrl": "https://www.sacbee.com/press-releases/article271678367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sacbee.com/press-releases/article271678367.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271678367.html",
+      "publishedDateTime": "2023-01-26T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -975,6 +1080,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-26-protecting-the-hidden-layer-in-neural-networks.md",
+      "title": "Protecting the Hidden Layer in Neural Networks",
+      "excerpt": "In this episode of \"Cybersecurity Unplugged,\" Chris \"Tito\" Sestito discusses technology to protect neural networks and artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
+      "originalUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://0267f973c7f511eda6a4-193e28812cee85d6e20ea22afb83e185.ssl.cf1.rackcdn.com/protecting-neural-networks-showcase_image-6-i-5228.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcareinfosecurity.com",
+        "domain": "healthcareinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-recent-study-shows-cognitive-benefits-of-hearing-aids.md",
       "title": "Recent study shows cognitive benefits of hearing aids",
       "excerpt": "PHOENIX (3TV/CBS 5) — A recent study shows hearing aids are a preventative tool against dementia and cognitive decline. Done by National University of Singapore researchers, the study found the ...",
@@ -1050,163 +1198,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- Artificial Intelligence and Robotics in Aerospace and Defense Market Size is projected to Reach Multimillion USD by 2029, In comparison to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-move-over-siri-apples-new-audiobook-ai-voice-sounds-like-a-human.md",
-      "title": "Move over, Siri: Apple’s new audiobook AI voice sounds like a human",
-      "excerpt": "AI technologies are being developed and used in various applications, including natural language processing, as Apple is doing, robotics, and expert systems for various industries and purposes. Apple decided to make this move to give those books from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human",
-      "originalUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49b27374-8393-481b-9616-6a55b4a55a55/1047e1eb-df4e-4cd9-a305-0b15a2c04946/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/move-over-siri-apples-new-audiobook-ai-voice-sounds-human.amp",
-      "publishedDateTime": "2023-01-25T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-can-artificial-intelligence-crack-college-admissions.md",
-      "title": "Can Artificial Intelligence Crack College Admissions?",
-      "excerpt": "While the program is well equipped to pass even complex tests, it cannot be a substitute for innovation, creativity, and critical thinking—attributes that students are expected to showcase on the college admissions essay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
-      "originalUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d1786b06f7c970a36e3ae4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
-      "publishedDateTime": "2023-01-25T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

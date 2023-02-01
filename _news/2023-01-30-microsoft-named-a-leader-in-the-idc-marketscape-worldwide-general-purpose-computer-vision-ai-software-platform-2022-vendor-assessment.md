@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-i
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Microsoft
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Workers want more AI to get rid of their office busywork, says Microsoft survey"
-    excerpt: "As AI assistants such as ChatGPT continue to cause a sensation, a survey by Microsoft of over 3,000 people has found that the vast majority of workers want more help from artificial intelligence to automate mundane daily tasks."
-    publishedDateTime: 2023-01-27T13:07:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/137375a87a2b79fdafa822be1cc1af3467954667/2023/01/27/b4df6d49-a210-46a0-b638-3ae9128247ce/officework.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Is Microsoft Now the AI Stock to Beat?"
     excerpt: "Alphabet acquired AI tech company Deepmind in 2014 and has developed its own large language model, LaMDA ... as having the best technology doesn't necessarily translate into the best or most successful product. Alphabet, for example, seems hamstrung ..."
     publishedDateTime: 2023-01-28T15:26:00Z
@@ -97,20 +81,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Buy Seagate, Microsoft, Sell IBM"
-    excerpt: "The tech sector is a mixed bag. It will only reward selective investors who anticipate the demand recovery. In the storage market, Seagate (STX) could potentially stage a recovery. Seagate posted revenue of $1."
-    publishedDateTime: 2023-01-30T14:40:00Z
-    webUrl: "https://baystreet.ca/articles/stockstowatch/84468/Buy-Seagate-Microsoft-Sell-IBM"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 41
-    images:
-      - url: "http://baystreet.ca/images/articlegroups/original/7/stockstowatch5.jpg"
-        width: 1024
-        height: 400
-        isCached: true
   - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
     excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
     publishedDateTime: 2023-01-31T12:50:00Z
@@ -120,15 +90,6 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 36
-  - title: "Microsoft Research project helps languages survive — and thrive"
-    excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
-    publishedDateTime: 2023-01-30T16:40:00Z
-    webUrl: "https://news.microsoft.com/en-in/features/microsoft-research-project-helps-languages-survive-and-thrive/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
 
 secured: "doT4g3Ayvz+wZ+rHc8BBLru6EnvytaKUGkpzUCcNX1ZFDuAEpMTdfA7S4GQKWHLHlhqTV44pWXUsQR9u7f1xDzc+KjWE0R/gad0K8wUm4KTe+qyQ95Bch5BEqP+FBKNlMxInjJxKTqGwsF6gTEpYdupVXPNYI1hUYQus4yszkN6rxopK7N0UHMIRNSLJAWp/1SqzJwZlOYhtmMvtNqP/9TdCha4u7yQ+OMND6PzpZ3HQjbrUfvp/AZNkL1LmE6n/mnBAko2Avg+20mKYJp+IajCwAVcJLJQr+FjKthIcjxirHyQupYEG+qId3W6jiS75W1swIT3qLPZBRHrxSvX+OaeZS7p3yhZoaICwy6HUM9Q=;SlNoXB/Xn8k506z0FJE5uw=="
 ---

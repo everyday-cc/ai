@@ -38,6 +38,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "AI voice generator used to deepfake celebrities spewing racist abuse"
+    excerpt: "Microsoft have announced their AI “VALL-E” Using a 3-second sample of human speech ... However, the tech giant had also mentioned in an ethics statement that since VALL-E could synthesize speech that maintains speaker identity, it may carry potential ..."
+    publishedDateTime: 2023-02-01T06:35:00Z
+    webUrl: "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/?ico=tag-post-strip_item_3_news"
+    ampWebUrl: "https://metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/01/31/ai-voice-generator-used-to-deepfake-celebrities-spewing-racist-abuse-18195060/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/01/cowomen-8M6KCnMvLus-unsplash-c17c.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
   - title: "People Are Still Terrible: AI Voice-Cloning Tool Misused for Deepfake Celeb Clips"
     excerpt: "ElevenLabs says it may need to impose new rules on its voice-cloning tool after bad actors reportedly used it to create fake clips of celebs and media personalities saying offensive things."
     publishedDateTime: 2023-01-31T19:02:00Z

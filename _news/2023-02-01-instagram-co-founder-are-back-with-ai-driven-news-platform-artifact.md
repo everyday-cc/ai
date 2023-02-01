@@ -43,21 +43,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta Embraces AI as Facebook, Instagram Help Drive a Rebound"
-    excerpt: "After the roughest year in its history, Meta is starting to bounce back. Users are watching its short-form videos, ad-targeting is improving and the social-media company is well down the road to recovering from the impact of privacy changes imposed by Apple."
-    publishedDateTime: 2023-01-27T13:27:00Z
-    webUrl: "https://www.wsj.com/articles/meta-ai-facebook-instagram-reels-ad-targeting-11674829286"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-711357/social"
-        width: 1280
-        height: 640
-        isCached: true
 
-secured: "L4paWq9zdX95BSheEZnTqNBnwwyBuHhbuQhFIdlCGuMccLmbakCqRMKNaMoRxTOpDQtrpGT0KxcKBjNGqErNU0Z/8KKNPVccGvKWUOM3fIgJg1hvQl52zCFJWAXCKtVtKWOR/yMR3Xw4wj7v5S5DCa6VDQbfMkLfxytTwSJSK1VHZyixX7VyNESTzKnwF/RukOSPs8r+5/mraBpjU0sWalFqAUHuC5nmdW/vNBk6XAcIIPhWSGEaSqR7a1kWh4MNUT3eGuObAyVrDKb99VJU2bZaaRn0u/0svvxJlHAL9eQqgIbkaTf2U2nWRqEbRwxJHZUqmG+dgV6U4fiqFSKiow3o19z1b2HOeO/JccfgBn4=;+GlorKklMiFdw8HrhN+jOg=="
+secured: "JlMVK+O0OD7KaUp1Fblo16SvptmK74usA5V0E5rqpXzZzakwg1yX6IlD9VRsSf2aIg5BB0Oa1+9fAHBU3xv6h3AjdD0mml6Lg9b7lZgmIJFhr91kizQFoVl69Wj7XtogDSHkCwxJDuEVKP9jh9MoY6NACgRZxok9lQapvJfuueQ1jvamY9ooYJLsjtuCT2r2UgW4C+bJCdTbcZTf0+cB4A2OH0v3XtXw9p7qwF45jaMcy+vgtxCiYWwI5PMGybrsmcwiKieIrxkCm8C88uQRVdaTaIDhDGzfdWFo2FGX5hVRyQrEaUxYL8pu256Y3SLRva/2EKRvUb/I41+mOV4R50w/AMQVNmUZMUioFBN+taeUp1/scRFE7csraQnkqnLB3GOz0HbXtje8G8qIUaF9IMdMoo0pJ23E/huxBc3FCHbBss+TeTmP5Af36sXW1MEQ3NFaw0VRqXOc0+sI/sj7YavE0OLAa3pghbhiGGjgo4/umkhNugGysRmbeQ61+BLPEA0l1w6sPIN7V0Yagqu2dw==;8j8owab0B7lwiMFL8u6gCQ=="
 ---
 

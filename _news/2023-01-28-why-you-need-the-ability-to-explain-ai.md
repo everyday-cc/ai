@@ -7,7 +7,7 @@ originalUrl: "https://www.networkworld.com/article/3686473/why-you-need-the-abil
 webUrl: "https://www.networkworld.com/article/3686473/why-you-need-the-ability-to-explain-ai.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 813
     isCached: true
+
+related:
+  - title: "Why The Expanse Doesn’t Focus On AI Or Robotics, Explained"
+    excerpt: "The Expanse is timeless storytelling as well as solid science fiction. It leans into hard sci-fi, a term its creator’s shy away from, though the series does depict very plausible tech and stays true to the laws of physics."
+    publishedDateTime: 2023-01-29T17:01:00Z
+    webUrl: "https://gamerant.com/why-the-expanse-doesnt-focus-ai-robotics-explained/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 69
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/naomi-the-expanse-feature.jpeg"
+        width: 1800
+        height: 900
+        isCached: true
 
 secured: "qcorsp+5W+RbXBaOHI4diaKm55WM9Lrq0sKfAQPaAFX2QkyJ/XScOqwC6luKdDJfTlOhvTkuFjmMgCUXi2n5lLaCMRUQ+fD2iL9Yq0TihMwv30+PzAWlYgToVjD77ThrjYYvmsjf6QyzSysF69ufHpN58JifTQ4PMo1vgKqUh0XxFNci9WHjbeWRKVM3ZH5kFgGAOckIEksRZ1fVwy2cmprADtk4FFZ0r07EIYDY+6EgOUNc5utBpLObs/vuHhLbCfL2GJJybY5Y2UIIQs/X95NYC7tjuZgQv5xvTkXtFjS7NArPiFoFKkxPwKQvt56bMIy313tj6nN3E1Kd8YODbhsF5M2LFUvknu5Q67V4A/uXgTuKZii5aTRROQJbsuV5YgWd0h1MjXAXe3+OAYdlVfvw/8GO4+61un39S81IZccP+LJV+ockCVLqUiKKoBXBceoSD1/bqRdGN2AyWPiLgZhxg5nYBgLnkB9ft0KN8dVI6+4W5iH3uBKV4oEia8Cp4Op4JHqPezHoUDxm08DChQ==;eairChzTiQoNKXouxKwhsQ=="
 ---

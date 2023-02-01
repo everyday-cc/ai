@@ -20,22 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Workers want more AI to get rid of their office busywork, says Microsoft survey"
-    excerpt: "As AI assistants such as ChatGPT continue to cause a sensation, a survey by Microsoft of over 3,000 people has found that the vast majority of workers want more help from artificial intelligence to automate mundane daily tasks."
-    publishedDateTime: 2023-01-27T13:07:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/137375a87a2b79fdafa822be1cc1af3467954667/2023/01/27/b4df6d49-a210-46a0-b638-3ae9128247ce/officework.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment"
     excerpt: "I am thrilled to announce that Microsoft has been recognized as a Leader in the IDC MarketScape: Worldwide General-purpose Computer Vision AI Software Platform 2022 Vendor Assessment."
     publishedDateTime: 2023-01-30T08:00:12Z
@@ -101,29 +85,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Buy Seagate, Microsoft, Sell IBM"
-    excerpt: "The tech sector is a mixed bag. It will only reward selective investors who anticipate the demand recovery. In the storage market, Seagate (STX) could potentially stage a recovery. Seagate posted revenue of $1."
-    publishedDateTime: 2023-01-30T14:40:00Z
-    webUrl: "https://baystreet.ca/articles/stockstowatch/84468/Buy-Seagate-Microsoft-Sell-IBM"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 41
-    images:
-      - url: "http://baystreet.ca/images/articlegroups/original/7/stockstowatch5.jpg"
-        width: 1024
-        height: 400
-        isCached: true
-  - title: "Microsoft Research project helps languages survive — and thrive"
-    excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
-    publishedDateTime: 2023-01-30T16:40:00Z
-    webUrl: "https://news.microsoft.com/en-in/features/microsoft-research-project-helps-languages-survive-and-thrive/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
 
 secured: "L95ox/iRQM1SVV8CfBb7pEWMHfiQBLZvjzmpZaDFcFHrQY97xG62v+Xm6/I53pS9t/1fGuPil01uGhwZx1OATMj1m+MxpvRIOW2fiXY5kYeObtvwEEG/UJi265zDGDSLLVpJnFILnRMg4EFPN9vU8KMjKYFHbB9feX5pb3f/ru9PZ+ge+K9JWuX2YA0Tlr0q8UUKTULcexjs/bsrXtbi/tkOGaEyN6De7fm7bEZazszyAHI8ofuqtW/eleYP7mq9G0WeeR0x1i+84U/LxokKlQ9SdIuECK3VtqFzlGy5I11ntnw+1sNG/qfho7HJhilCcwJcwWMLn3pgYx5lUNIQybK4tLegjPHUfYiPVqW8QP/gregmr5B8MnfMscuNVZuJz/q25gTmhVXq20AhtpoYhHYH3oBnCUy/L0gUUbY3EFcEfQ0ukL9GGtAuzn2vbKuqgFOqITVKLGunrW0mdFeKsoprfzF64zlUYLv0G//bzMmS+IWtj22GOXohMwZHDaTlTVB8qYjTtduJ1ajrK27Fvg==;yt8BO86SGBrMCLscuqzIsA=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 700
     isCached: true
 
-related:
-  - title: "Despite $30 million funding round, AI start-up Mad Street Den doesn't plan to expand or hire"
-    excerpt: "The company's co-founder and CEO Ashwini Asokan told CNBC-TV18 in an exclusive interview that the company is focusing on \"double-down\" on existing geographies and clients as it looks to help bring about greater artificial intelligence adoption across large companies."
-    publishedDateTime: 2023-01-27T14:03:00Z
-    webUrl: "https://www.cnbctv18.com/startup/despite-30-million-funding-round-ai-start-up-mad-street-den-doesnt-plan-to-expand-or-hire-15786151.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 6
-
 secured: "nG+KHYJSC/rv1z25N+GIVAoVZAwNTlA7Om0stKc6rD6aW9kQWxzHfedg94l5SGeA4N6DeNe4WBV+Gph0upZz2LjLh0sVWXHWtK6IoXdBr9Yajy7aMOq9lDht5aBmlh+Ih5xAZZV8ts94HvSzYgBC2haqLOi2yTdkFvoG1d2vKZKR6nOroauPwhcLL1KBukNGJ81kWSYx3hwhkFbzdrqranVpkgukp3SzSx1EWlycsCU5bu9uil2EzzIMrB2B9B3KGHHUIcffdSOTp7Ia8QqktVGb+0SIZSx7jatph6/Q9eqAaFc6p0d+c4ukS3ZVp3TS8bHqYqIuTwz4cNT4pTjzUFZ+TZB9JBgmz8TXh9nlAfQ4jo5nWpgFZ3/XCCVDewQPpuKug7RSUXQdNIbq5R7fBAsJ2GMLBFCMOr+7FZVOeehv06RJS5NIoKr6WzpFnQ5MJas3Moe+bd5d6By9bTEDJUynzcI5LNMw+9zTFJAdZGxWLJlPzubqLhrNYP5j94zp9ZXcwOf3++UudbSrTz9CYw==;6IEkyv5NAojkbtk3fRXNyg=="
 ---
 

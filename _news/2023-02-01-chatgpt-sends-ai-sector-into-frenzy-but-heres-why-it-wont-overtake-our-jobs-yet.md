@@ -8,7 +8,7 @@ webUrl: "https://stockhead.com.au/tech/chatgpt-sends-ai-sector-into-frenzy-but-h
 ampWebUrl: "https://stockhead.com.au/tech/chatgpt-sends-ai-sector-into-frenzy-but-heres-why-it-wont-overtake-our-jobs-yet/?amp"
 cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/chatgpt-sends-ai-sector-into-frenzy-but-heres-why-it-wont-overtake-our-jobs-yet/?amp"
 type: article
-quality: 53
+quality: 57
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://stockhead.com.au/wp-content/uploads/2023/01/chatGPT-has-created-frenzy-within-the-AI-sector.-Picture-Getty.jpg"
@@ -298,22 +300,6 @@ related:
         width: 1068
         height: 580
         isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:41:00Z
-    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Confirms Its $10 Billion Investment Into ChatGPT, Changing How Microsoft Competes With Google, Apple And Other Tech Giants"
     excerpt: "Microsoft finally confirmed that they would be extending the partnership with OpenAI, the company behind the new AI-powered ChatGPT tool. We look at what this means for the tech industry and the field of AI."
     publishedDateTime: 2023-01-27T16:56:00Z
@@ -567,6 +553,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:33:00Z
+    webUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/769d769/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-01-31T15:42:00Z
@@ -581,6 +581,17 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "ChatGPT creator reveals tool that detects AI-generated text"
+    excerpt: "OpenAI, which released the viral ChatGPT chatbot last year, unveiled a tool that’s intended to help show if text has been authored by an artificial intelligence program and passed off as human. The tool will flag content written by OpenAI’s products as well as other AI authoring software."
+    publishedDateTime: 2023-02-01T05:42:00Z
+    webUrl: "https://mybroadband.co.za/news/software/478493-chatgpt-creator-launches-tool-that-detects-ai-generated-text.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/478493-chatgpt-creator-launches-tool-that-detects-ai-generated-text.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/478493-chatgpt-creator-launches-tool-that-detects-ai-generated-text.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
   - title: "Cheaters beware: ChatGPT maker releases AI detection tool"
     excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework."
     publishedDateTime: 2023-01-31T23:02:00Z
@@ -632,15 +643,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "Robot lawyers? Artificial intelligence program ChatGPT passes law exams"
-    excerpt: "ChatGPT is smart enough to pass prestigious graduate-level exams - though not with particularly high marks. The powerful new AI chatbot tool recently passed law exams in five exams at two universities."
-    publishedDateTime: 2023-01-27T14:41:00Z
-    webUrl: "https://wraltechwire.com/2023/01/27/robot-lawyers-artificial-intelligence-program-chatgpt-passes-law-exams/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 34
   - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
     excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
     publishedDateTime: 2023-01-30T14:07:00Z
@@ -828,7 +830,16 @@ related:
       name: Marketing Dive
       domain: marketingdive.com
     quality: 4
+  - title: "ChatGPT's Conversational Technology Will Change the Way Businesses Operate"
+    excerpt: "Developed by OpenAI, ChatGPT is an impressive language model chatbot that can converse naturally with humans. With the help of Reinforcement Learning with Human Feedback (RLHF), ChatGPT can learn from human feedback and generate replies that sound natural to people."
+    publishedDateTime: 2023-02-01T06:48:00Z
+    webUrl: "https://www.inc.com/marc-emmer/how-chatgpts-conversational-technology-will-change-way-businesses-operate.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 2
 
-secured: "x8ndnvQ2MzgNWud39sA2zKSQf9/z9L/PMW75KcXsELjIorFU/cCHjKOedRQZRc7z7bdD1Q4crs4ceYpXAtptAq3d4zC/sGIKFT08cbEqhSXphRLxLkpgE5GkVhTuLVwk8uuXHev8tlofUoHm7kNl/Xju3uwhfYTwTKrnf7MCRdZkzXA0GK8dZgeScvE55A5/4XKc9iIR27PTrjGLk2xTQT4yWGuy7pWq+eTjzNBJT0yvoiDFXQeE3FebmNMv/cwuuVpQiojtt7aRyuUzK/ND3szNHoU0LSlMWlx37lQmv9F1c72IEMwVKopb3ufByjZ06kEXYzAa8tAeHk6CpodYuZZ3I/gwNU8jlCrThdVTLzY=;FXcjwLNtKhoBC7KT5Wpa7Q=="
+secured: "iE/VzTxnp942AVEii/M/mK9W2QmgIiUIEExcbRwLIlwDCSpsW5vYoi5bXqxb4co2Ai9XYmHW+ZZTP9tIUz73aztLoeoUzck+O19Rcoel06Jpjj9d9z9QdGZh46WHDG07N5QtC4KnrojJm0JezJhm95Ir4nucVtf4M3xpYKPbIoeoKg3q78qrjwLAr4WBhuuIuZNgfbFLSDYsW6XTCKfu0++7VA81rv/s703LIeRjReAh/twOu2zD3QgBrcxQYhHWMLazPLNGAssawiUwOMGTSaSKO3kRpVa2dov2UCy2VLB9Cd7kGCbE6ZcRTQ5YMPpiJb27O8vVYt1TCTgM4bRk8YSJVx3EksTpt8eGjxdunBSQlkG2MBVS3WzJK5bFWbGMjkoMOVVc3gRtJftuY+LskWVL5TyYVi+CosG8FXUwEjZrhq0hPqU5Ylobkldag9vROqzdCa90B9KhpThIQ4lztBQuo7ZyTGvNXgVahN8eh/tIFMjmKuIEDKdJ+eTk9313JpiG/SyMRF6Dc28FMEFsHQ==;CCz0/SBXpG43u4sXIXQp5A=="
 ---
 
