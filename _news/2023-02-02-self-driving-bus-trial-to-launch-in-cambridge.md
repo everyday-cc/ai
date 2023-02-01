@@ -39,6 +39,15 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 24
+  - title: "Self-driving semis focus of California rules, legislation"
+    excerpt: "California already has rules governing self-driving cars and delivery trucks that weigh less than 10,001 pounds (4,536 kilograms). Now, the California Department of Motor Vehicles is gathering information for potential new rules that would let self-driving semitrucks on the road that can weigh up to 80,"
+    publishedDateTime: 2023-02-01T17:26:00Z
+    webUrl: "https://www.sacbee.com/news/business/article271851187.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 4
 
 secured: "6cb+u3vZOqOI/pQFv+aIBXJ0lAUGOGfPVLyKldaLKy5kRinYzyOAxGXDLfX2VAVbkUPdEn5Zf2CO4cfRNfX0m104htEL0n6+Iz1xMAvoE1TuPlx9VxpQGBnxOjPTeYYMkC5ECvxrc9OHc1R7rv/EevShwB3C49HCpd4CY2xwcOpCYjIoAnWPNyxtLfgBw/UbI0ZQTCuATC68iA2nszKocmKsBYO2fD5wvBrlH9yIqfmjCcf56DDXxZDJDHEeDIf8uQxYKe76TUPWEbLdpv75g11esAGQwTBNhXJ1kdRtow3ssIQ2HOXq4lF+ugMDQYKwVhf+3kQ/4Jqrg4jmxZE40nVyMUHV9ire8NkoBEtSYRMyIRys8ct10HhI4yw0tcyFqIb3l5F61LoFz+0ziHhYG5kz+1ssAK3bJ4LuDnSOh36BYxfZyEpo0dzbfn8P+hSsKp/XOPvCiXeU5f/bLMc1uk5R3lUK87wTEnUaZC6W/pcK/7OTDE71POeFX3efmrV/D1HCoJ1y8PMf9zkMcAjbtQ==;guiDhgkUErx/wZwFmBt5Rw=="
 ---

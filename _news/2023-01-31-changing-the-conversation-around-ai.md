@@ -73,20 +73,6 @@ related:
         width: 857
         height: 600
         isCached: true
-  - title: "Mubadala Health and G42 Healthcare to showcase AI-driven solutions at Arab Health 2023"
-    excerpt: "G42 Healthcare, will be showcasing artificial intelligence (AI) driven solutions at Arab Health 2023, a healthcare event being held at the Dubai World Trade Centre. These solutions are centred ..."
-    publishedDateTime: 2023-01-28T06:40:00Z
-    webUrl: "https://yourstory.com/ys-gulf/mubadala-health-g42-healthcare-artificial-intelligence-arab-health-2023"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 46
-    images:
-      - url: "https://images.yourstory.com/cs/206/d6cc5c20076211ed91383927582c5cb0/NIKITAImageTaggingnoframesEditorialTeamMaster14-1674885477623.jpg?fm=png&auto=format"
-        width: 1600
-        height: 800
-        isCached: true
   - title: "New Healthcare AI eBook Offers Timely Insight and Education about Fraud, Waste and Abuse Threats"
     excerpt: "Payment integrity and FWA experts from Codoxo share the latest healthcare cost containment risks and best practices to inform leadership strategy for 2023 and beyond ATLANTA (PRWEB) January 31, 2023 Codoxo, a trusted"
     publishedDateTime: 2023-01-31T18:00:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T11:36:00Z
 originalUrl: "https://www.wsj.com/articles/quantgate-announces-new-strategic-direction-into-investment-management-sector-with-proprietary-ai-technology-and-new-board-member-01675254969"
 webUrl: "https://www.wsj.com/articles/quantgate-announces-new-strategic-direction-into-investment-management-sector-with-proprietary-ai-technology-and-new-board-member-01675254969"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Wall Street Journal

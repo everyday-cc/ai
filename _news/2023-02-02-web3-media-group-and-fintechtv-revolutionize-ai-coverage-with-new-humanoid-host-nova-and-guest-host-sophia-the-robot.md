@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T19:07:00Z
 originalUrl: "https://menafn.com/1105510126/Web3-Media-Group-And-FINTECHTV-Revolutionize-AI-Coverage-With-New-Humanoid-Host-Nova-And-Guest-Host-Sophia-The-Robot"
 webUrl: "https://menafn.com/1105510126/Web3-Media-Group-And-FINTECHTV-Revolutionize-AI-Coverage-With-New-Humanoid-Host-Nova-And-Guest-Host-Sophia-The-Robot"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Mena FN

@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-23-artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Sales, CAGR And Competition Data from 2023 To 2028",
+      "excerpt": "Pages Report] Rising demand for Electronic Devices Industry will drive the Artificial Intelligence (AI) Chipset segment growth over the next five years. Global Market Analysi",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-sales-cagr-and-competition-data-from-2023-to-2028-2023-01-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-23T03:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-ai-experts-on-whether-you-should-be-terrified-of-chatgpt.md",
       "title": "AI experts on whether you should be \"terrified\" of ChatGPT",
       "excerpt": "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code.",
@@ -1313,49 +1367,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-houston-community-college-reveals-first-two-bachelors-degree-programs.md",
-      "title": "Houston Community College reveals first two bachelor’s degree programs",
-      "excerpt": "Students can obtain a four-year degree in Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
-      "originalUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.hpm.io/wp-content/uploads/2022/09/22150424/HBU_Aerial-450x294.jpg",
-          "width": 450,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
-      "cdnAmpWebUrl": "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
-      "publishedDateTime": "2023-01-10T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Public Media",
-        "domain": "houstonpublicmedia.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

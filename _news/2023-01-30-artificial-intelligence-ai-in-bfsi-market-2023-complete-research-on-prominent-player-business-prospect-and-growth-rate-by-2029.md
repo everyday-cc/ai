@@ -106,6 +106,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
+    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
+    publishedDateTime: 2023-01-31T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-smart-retail-global-market-report-2023-advent-computer-/2023/01/31/9752597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "L3 Self-driving Vehicle Market 2023 Insights with Complete Revenue Expected Evolutionary Business Aspect Forecast to 2026"
     excerpt: "L3 Self-driving Vehicle Market” 2023 report offers business strategy, covers complete landscape for business development including major regions with the frame of reference historic data. Competitive scenario of current market situations,"
     publishedDateTime: 2023-02-01T09:54:00Z

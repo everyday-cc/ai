@@ -247,6 +247,40 @@
       ]
     },
     {
+      "path": "_news/2023-01-20-agricultural-ai-market-is-booming-worldwide-ibm-deere-company-intel-google.md",
+      "title": "Agricultural AI Market is Booming Worldwide | IBM, Deere & Company, Intel, Google",
+      "excerpt": "and livestock observing will help to boost global agriculture AI market. The titled segments and sub-section of the market are illuminated below: 24th September 2018, IBM Watson and The Weather ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/agricultural-ai-market-is-booming-worldwide-ibm-deere-company-intel-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/agricultural-ai-market-is-booming-worldwide-ibm-deere-company-intel-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-how-to-detect-chatgpt-plagiarism-and-why-its-becoming-so-difficult.md",
       "title": "How to detect ChatGPT plagiarism — and why it’s becoming so difficult",
       "excerpt": "Just for fun, I included Giant Language Model Test Room (GLTR), developed by researchers from the MIT-IBM Watson AI Lab and Harvard Natural Language Processing Group. Like GPTZero, it doesn’t ...",
@@ -1360,58 +1394,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-citizens-new-smartwatch-uses-nasa-technology-to-help-you-reduce-fatigue.md",
-      "title": "Citizen's new smartwatch uses NASA technology to help you reduce fatigue",
-      "excerpt": "Citizen announced it's launching a new version of its CZ Smart smartwatches. The new watch comes with a built-in \"self-care advisor\" AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/citizen-smartwatch-ai-3262402",
-      "originalUrl": "https://www.androidauthority.com/citizen-smartwatch-ai-3262402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/01/460cfb80-8ad0-11ed-be9d-eeeed03b6f2d-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

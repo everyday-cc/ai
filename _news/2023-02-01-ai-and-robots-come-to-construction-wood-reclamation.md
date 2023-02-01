@@ -19,35 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "Flawless Demos Its Wild AI Film Dialogue Manipulation And Language Translation"
-    excerpt: "From tweaking Tom Cruise to advancing deepfake detection with Intel, AI manipulation of photo, video, and audio sources is becoming more mainstream daily. Now, one company is taking this tech to Hollywood with the debut of TrueSync,"
-    publishedDateTime: 2023-01-29T16:57:00Z
-    webUrl: "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
-    ampWebUrl: "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
+  - title: "How to decide between Amazon Rekognition image and video API for video moderation"
+    excerpt: "Almost 80% of today’s web content is user-generated, creating a deluge of content that organizations struggle to analyze with human-only processes. The availability of consumer information helps them make decisions, from buying a new pair of jeans to securing home loans. In a recent survey, 79% of consumers"
+    publishedDateTime: 2023-02-01T20:40:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 55
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60779/content/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Flawless AI can use artificial intelligence to alter movie dialogue and even languages"
-    excerpt: "Artificial intelligence has grown by leaps and bounds over the past few years. From Tesla’s self-driving vehicle program to chatGPT, the field has a lot of possibilities. Flawless AI is taking the technology to the big screen by altering actor dialogue."
-    publishedDateTime: 2023-01-28T17:31:00Z
-    webUrl: "https://techaeris.com/2023/01/28/flawless-ai-can-use-artificial-intelligence-to-alter-movie-dialogue-and-even-languages/"
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
+  - title: "Migrant leaders reject push for recognition in Constitution"
+    excerpt: "A push by referendum opponents to recognise migrants to Australia in the Constitution has been described as offensive."
+    publishedDateTime: 2023-01-30T21:55:00Z
+    webUrl: "https://www.afr.com/politics/federal/migrant-leaders-reject-push-for-recognition-in-constitution-20230130-p5cglk"
     type: article
     provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 48
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
     images:
-      - url: "https://pbs.twimg.com/ext_tw_video_thumb/1618953707286134784/pu/img/3kPF5-qjCUo_sVzL.jpg?format=jpg&name=small"
-        width: 680
-        height: 383
+      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_697%2C$y_80/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/deb3a1b0bd8a88bc0b4d68e272b37653acf3ec5c"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "kLyWI18s9xEK8xX3TJcwS3cxWwA8gJ0C8P8W2qM0djvlkhJR0G7KiOgy1ckSP7u6LJ+HKyy3o+urUjhc9vIhijL39R1Zj8X/kV0zzTjpduu+f/W5dgziaZXsmSU07l2HCjjPQx/xahiEIPc3WmuBRrPZxmfmCt/AEeZgJi5VLaIL9b6+j4bXMqyHdYrJxJofVf3Wu1eiyiWh5RrTf1Dt+BB0M122GHxbgoFzlB2ueCyesiFzisQkgu5H2dJ/uyqchAn7MTsJt5v7PKzA7BynEhyDMQjkrRJGAiDywD/olRUHOZwBlgKbHHsRcKeZ36mA/b/nGwo2JSQHxUpvsJL4fEXCUiNSPeL5Ug7TlUxS6NH8w364RrMOaFEyLZJ4BI/0zknwqVPLqTwcbxm8WDuLTFJ0xNQdpFVDYNSKb7fArkr8QhXHjR3g4ZBNWovRWuZOWlfeT2SIth4t0WgVDGTrSZqhCyDGMH3lQGagNmt0ibyt9CmKA+JzK9+oTCmr0DjYpCvY3N1VkqQRwaGcGQ/KEQ==;kC/WAb1Xpuh80CiqPPGgCw=="

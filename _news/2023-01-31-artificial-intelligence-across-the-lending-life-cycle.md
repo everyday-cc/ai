@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-in
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63d7c999764a5279f9a89c47/0x0.jpg?format=jpg&width=1200"

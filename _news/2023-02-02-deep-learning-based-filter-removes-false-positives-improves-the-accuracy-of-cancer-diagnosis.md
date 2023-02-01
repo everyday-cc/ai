@@ -26,6 +26,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Deep-learning filter improves precision of cell mutation detection, accuracy of cancer diagnoses"
+    excerpt: "Next-generation cancer strategies rely on next-generation gene sequencing (NGS), which paves the way for new techniques and tools to detect mutations and determine patient therapy. A team of Chinese researchers proposed a more effective strategy to filter false positive results,"
+    publishedDateTime: 2023-02-01T19:54:00Z
+    webUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 0
+
 secured: "RIrZnw12NqUFTuXG4QYwLPiZJOlFexNET9pc9Pe4+rfbsThlXeJ7UF9nPH+YlFgm3n1NyndgD1EsirLHsU3aCR1MWSApLW+ARy89OArl75VpSTyZdp8C+jkVBq8JfnZHMejlLXBDLs2TEy7hf1/ybRZmxxBqkE+ueI1tiLmWJI+Z+YFwfHhwlJN1LIHquAN2zIuqjFExB6IHUr9TW2E4Y09VqZFO5GjXNycFmpooO4voJLNuNnbtBiqWG0UsaC+YTeMA5Ye6unwiLzQyhMji7nDHAlh5nGdTu70w6EUxo1w+nhasbKnDQcVK1GTPPnriHfOqBNOz2dyQh6jVlOo2fl4rTYNXgeMddwoZmqjJnjo=;gXxfmQKHJq3vIBpIIkYUmA=="
 ---
 

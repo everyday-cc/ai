@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T17:28:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/02/r30673701/levr-ai-secures-1-million-of-pre-seed-funding-to-change-the-way-businesses-access-and-manage-loans"
 webUrl: "https://www.benzinga.com/pressreleases/23/02/r30673701/levr-ai-secures-1-million-of-pre-seed-funding-to-change-the-way-businesses-access-and-manage-loans"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

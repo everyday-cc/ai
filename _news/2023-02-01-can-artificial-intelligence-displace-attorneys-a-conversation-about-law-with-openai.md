@@ -81,6 +81,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "As part of a continued commitment to democratising AI, and the ongoing partnership with OpenAI, Microsoft has announced the general availability of Azure OpenAI Service. .."
+    publishedDateTime: 2023-02-01T20:08:00Z
+    webUrl: "https://www.ft.lk/it-telecom-tech/Microsoft-announces-general-availability-of-Azure-OpenAI-Service/50-744832"
+    type: article
+    provider:
+      name: FT
+      domain: www.ft.lk
+    quality: 49
   - title: "CEO of OpenAI says misuse of artificial intelligence could be 'lights out for all'"
     excerpt: "OpenAI CEO and co-founder Sam Altman spoke about the future of AI, good and bad, in the vaguest way possible—which scares me a bit. Altman answered questions about OpenAI, the makers of the wildly popular AI chatbot ChatGPT,"
     publishedDateTime: 2023-01-30T21:59:00Z

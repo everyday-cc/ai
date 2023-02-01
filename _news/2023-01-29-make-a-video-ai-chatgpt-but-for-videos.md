@@ -169,6 +169,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "ChatGPT mania sends these obscure artificial intelligence stocks soaring as hype extends beyond big caps"
+    excerpt: "The success of ChatGPT has spilled over to small-cap stocks, with investors piling cash into the artificial intelligence craze."
+    publishedDateTime: 2023-02-01T15:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-stocks-bigbearai-bbai-soundhound-ai-soun-2023-2"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-stocks-bigbearai-bbai-soundhound-ai-soun-2023-2?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-stocks-bigbearai-bbai-soundhound-ai-soun-2023-2?amp"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/63da7f42e33c4000193a817c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google's testing potential ChatGPT rivals including a homegrown AI chatbot called 'Apprentice Bard': CNBC"
     excerpt: "This is just weeks after the tech giant's management reportedly issued a \"code red\" over the rise of AI chatbot ChatGPT."
     publishedDateTime: 2023-02-01T08:49:00Z
@@ -198,6 +214,20 @@ related:
       - url: "https://b2c-contenthub.com/wp-content/uploads/2023/01/AI-classifier-1.png?w=1200"
         width: 1199
         height: 1093
+        isCached: true
+  - title: "ChatGPT Plus will offer immediate AI access for $20 per month"
+    excerpt: "OpenAI’s ChatGPT’s AI chatbot is so good, too many people are using it ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
+    publishedDateTime: 2023-02-01T21:57:00Z
+    webUrl: "https://www.pcworld.com/article/1500290/paid-chatgpt-plus-debuts-for-20-per-month.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/02/OpenAI-icon-CMS-primary.png?w=1024"
+        width: 1023
+        height: 682
         isCached: true
   - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
     excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
@@ -268,6 +298,22 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:33:00Z
+    webUrl: "https://www.kristv.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.kristv.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: kristv
+      domain: kristv.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A top UK private school is changing its approach to homework amid the rise of ChatGPT, as educators around the world adapt to AI"
     excerpt: "Jane Lunnon, the head teacher of the $28,000-a-year Alleyn's School, told Insider: \"Everyone is talking about it in education.\""
     publishedDateTime: 2023-01-30T16:16:00Z
@@ -299,6 +345,22 @@ related:
       - url: "https://i.insider.com/63d43770fc18470019552b4d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "ChatGPT maker fields tool for spotting AI-written text"
+    excerpt: "Creators of a ChatGPT bot causing a stir for its ability to mimic human writing on Tuesday released a tool designed to detect when written works are authored by artificial intelligence."
+    publishedDateTime: 2023-02-01T09:03:00Z
+    webUrl: "https://phys.org/news/2023-02-chatgpt-maker-fields-tool-ai-written.html"
+    ampWebUrl: "https://phys.org/news/2023-02-chatgpt-maker-fields-tool-ai-written.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-chatgpt-maker-fields-tool-ai-written.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/chatgpt-creator-openai.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "ChatGPT sends AI sector into frenzy, but here’s why it won’t overtake our jobs… yet"
     excerpt: "The recent lauch of chatGPT has created a frenzy in the AI sector. Will the product replace white collar jobs?"
@@ -394,22 +456,6 @@ related:
         width: 2412
         height: 1544
         isCached: true
-  - title: "ChatGPT is on its way to becoming a virtual doctor, lawyer, and business analyst. Here's a list of advanced exams the AI bot has passed so far."
-    excerpt: "ChatGPT is becoming more professionally competitive by the day. We rounded up all the exams the bot has passed."
-    publishedDateTime: 2023-01-28T04:20:00Z
-    webUrl: "https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/63d45173fc184700195532f8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "ChatGPT maker releases AI detection tool after school districts complain of cheating"
     excerpt: "The makers of ChatGPT have introduced a new tool that may help educators distinguish between a text written by AI and a text written by humans."
     publishedDateTime: 2023-02-01T02:49:00Z
@@ -498,20 +544,6 @@ related:
       - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/01/29/thumbs/800x531/254190.jpg"
         width: 1600
         height: 1062
-        isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 41
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/769d769/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Voice Of ChatGPT Is Now On The Air"
     excerpt: "AIs can now apparently carry on a passable conversation, depending on what you classify as passable conversation. The quality of your local pub’s banter aside, an AI stuck in a text box"
@@ -633,6 +665,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ChatGPT creator launches subscription service for viral AI chatbot"
+    excerpt: "By Samantha Murphy Kelly, CNN Business OpenAI, the company behind ChatGPT, announced on Wednesday it is piloting a $20 monthly subscription plan that offers users priority access to the AI chatbot even during peak times."
+    publishedDateTime: 2023-02-01T20:05:00Z
+    webUrl: "https://ktvz.com/news/2023/02/01/chatgpt-creator-launches-subscription-service-for-viral-ai-chatbot/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 39
+    images:
+      - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Forget ChatGPT - an AI-driven investment fund powered by IBM's Watson supercomputer is quietly beating the market by nearly 100%"
     excerpt: "Yet, the $102 million AI Powered Equity ETF (AIEQ), which launched in 2017, has been quietly fulfilling that request so far this year. Issued by ETF Managers Group in partnership with the fintech firm Equbot, the fund leans on IBM's Watson supercomputer to ..."
     publishedDateTime: 2023-01-31T14:55:00Z
@@ -678,20 +724,6 @@ related:
       - url: "https://thumb.spokesman.com/CGjfvh7cZEu2l6YAu1VSvkJZXww=/1200x630/smart/media.spokesman.com/photos/2023/01/31/63d9a2ace67f4.image.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "More than artificial intelligence: How ChatGPT learns conversation skills from humans"
-    excerpt: "The conversational robot capable of producing impressive texts upon request has had spectacular success. 'Le Monde' delves into what goes into making such a powerful chatbot."
-    publishedDateTime: 2023-01-28T03:40:00Z
-    webUrl: "https://www.lemonde.fr/en/economy/article/2023/01/28/more-than-artificial-intelligence-how-chatgpt-learns-conversation-skills-from-humans_6013427_19.html"
-    type: article
-    provider:
-      name: Le Monde.fr
-      domain: lemonde.fr
-    quality: 32
-    images:
-      - url: "https://img.lemde.fr/2022/12/17/103/0/2244/1122/1440/720/60/0/a5617ca_1671320365088-chatgpt-humaine-dark.jpg"
-        width: 1440
-        height: 720
         isCached: true
   - title: "ChatGPT's massive hype has made these 5 artificial intelligence stocks some of the hottest on the market"
     excerpt: "is embedded in the artificial intelligence craze, and the firm's technology is used for various AI integrations from self-driving cars to robots. The Nvidia stock rally has also made founder and CEO Jensen Huang considerably richer as his wealth has grown ..."
@@ -748,6 +780,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 19
+  - title: "OpenAI launches ChatGPT Plus for $20 per month"
+    excerpt: "The subscription ChatGPT will run on the same GPT-3.5 natural language models that powers the original free version, but with some improvements."
+    publishedDateTime: 2023-02-01T14:06:00Z
+    webUrl: "https://www.fastcompany.com/90843550/openai-launches-chatgpt-plus-for-20-per-month"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
   - title: "ChatGPT and AI tools can replace jobs in many industries; Know details here"
     excerpt: "Artificial Intelligence and chatbots such as the now viral ChatGPT can impact jobs in a range of industries as they have the ability to write specific content."
     publishedDateTime: 2023-01-31T13:49:00Z
@@ -765,6 +806,33 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
+    quality: 17
+  - title: "A small software company's stock is up 200% on news of AI integration as companies big and small cash in on the craze stoked by ChatGPT"
+    excerpt: "The craze over AI and ChatGPT sweeping over investors and Wall Street benefited shares of Versus Systems on Wednesday."
+    publishedDateTime: 2023-02-01T20:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-versus-systems-stock-price-chatgpt-tech-resolve-debt-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
+  - title: "C3.ai: Don't Ride The ChatGPT Hype Now"
+    excerpt: "ChatGPT hype rocketed C3.ai stock to an astonishing comeback in January. C3 plans to release a Generative AI solution predicated on ChatGPT. Read more here."
+    publishedDateTime: 2023-02-01T18:25:00Z
+    webUrl: "https://seekingalpha.com/article/4574319-c3ai-dont-ride-the-chatgpt-hype-now"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+  - title: "How AI chatbots can build an instant startup"
+    excerpt: "We investigated this possibility with the open tools launched by AI giants such as the chatbot ChatGPT and the image generator Midjourney to try and found a startup in the shortest possible time. We did not register or sell products or services but simply focused on as many processes as possible in building the company."
+    publishedDateTime: 2023-02-01T19:18:00Z
+    webUrl: "https://en.globes.co.il/en/article-ai-chatbots-can-build-an-instant-startup-1001437189"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
     quality: 17
   - title: "HourOne launches new AI script-writing feature with Open AI’s viral ChatGPT chatbot"
     excerpt: "Hour One's new Script Wizard feature allows for scripts to be automatically written by GPT3. Users can also select prompts such as “make longer” or “make professional” for Script Writer to make changes to their original written scripts or change the tone of an existing script."

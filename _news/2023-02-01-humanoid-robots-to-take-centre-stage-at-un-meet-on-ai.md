@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 445
         height: 334
         isCached: true
+  - title: "Humanoid Robots To Take Centre Stage At UN Meet On AI"
+    excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday."
+    publishedDateTime: 2023-02-01T16:00:00Z
+    webUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 34
 
 secured: "qtl+ZcqkwY6K3VCuMVhJf+nn7zNMVhq21fyW4wPegLDyk0lh/X2sfgWQmdfj2hSbI/xWycZOC4oD/6omMYmpaFvw2r9fswF2Ado7zI4/CPf5Ea8LyD1y5r7cfdMbWsGt4xamm5tv2R8+QyUaNZ43Zh4ccv5dQwGzGKpomaPSRrlFWjhDbLupcr6sTX/jF9/9KPru+yYBBKhPWVSJNiEziypHSwQ/j/Y+v1LxawFaxcJcsI5UCQJDA0zzbdRAybdQ70j7TeaT5LeLobzU4mer+WZA5wn8SMAwrxA9jlCs+BRQ6gYt1SNR8PS6HqW442rAo7cYn7/iAUj8P4iHIeDzRbsMhhtScKUDxbH17em8OOJ8C4lm+AsaILXzIAfrhfoYsmzN4Jm9d8iVjfv0Vf31tLXRdLIKhDgNcO6mCBGbYisdwvve9Z/G+ugZZfnjbwx3XRjWMIl5RZm3FffQDZxQtu4YqPAJSZriGAoqKr/tdoqhtJAzUTCENUXHrzkWnTIFK5+NeuA+cPuFSnAlm6P7Ug==;QB3pzzz9cPWWVeMTb1sAmg=="
 ---

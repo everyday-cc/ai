@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 746
         isCached: true
+  - title: "U.S. Department of Justice Looking Into Tesla Autopilot And Full-Self Driving"
+    excerpt: "Tesla continues to be in the crosshairs of government investigations as the automaker has revealed the United States Department of Justice (DOJ) is"
+    publishedDateTime: 2023-02-01T21:42:00Z
+    webUrl: "https://www.carscoops.com/2023/02/u-s-department-of-justice-looking-into-tesla-autopilot-and-full-self-driving/"
+    ampWebUrl: "https://www.carscoops.com/2023/02/u-s-department-of-justice-looking-into-tesla-autopilot-and-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/02/u-s-department-of-justice-looking-into-tesla-autopilot-and-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 71
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/01/Tesla-Staged-Video-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "SEC investigating Tesla's self-driving vehicle claims made by Elon Musk"
     excerpt: "The U.S. Securities and Exchange Commission is investigating claims made by Tesla CEO Elon Musk regarding the company's autopilot vehicle feature."
     publishedDateTime: 2023-01-28T16:29:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence In Medical Imaging Market [2023-2026] | Optimize Your Worldwide Industry with Our Advanced Research Report"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-01T10:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-2023-2026-optimize-your-worldwide-industry-with-our-advanced-research-report-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
 secured: "NFx65eUqgyh5i4RF5Ee3Foh8aZecxrpD4cddxJrK3GxyUWG07Dd4K17uG5wl+havwosIjBZ8ObrJxx5Lv5MNUCaOsc+Qn1uZ29CtJ5FOADOkpAW1mQ803m5/M+1TIYkSdIYAZGR78HlUEyfrDEZwvNMtz3/K8MmkFanMT5oDyjtrdW1Zs5Qj7MhNdTgNm8iC+HF2eeTI0Bb2Ex7LddA3/yRA3tpkQYbpfQurKi+gxgMQjm13TWyNdcFK9cgNqtAaT/KWK+kR1U0o1L/D+HZ6raommcdEot8/f/+4FliF3CkiquDLY/+NFwRRLdmXDK49Pj7mhUuOK0EVuGSBHAJ4u20E4RO8GPfvKG0ByA/P2EA=;y5tdyWAiSCr08DQP0siK3A=="
 ---

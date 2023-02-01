@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-27-nist-releases-new-ai-risk-management-framework-for-trustworthy-ai.md",
+      "title": "NIST releases new AI risk management framework for ‘trustworthy’ AI",
+      "excerpt": "Today the National Institute of Standards and Technology (NIST) released the first version of its new AI Risk Management Framework.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/",
+      "originalUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-12.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/amp/",
+      "publishedDateTime": "2023-01-26T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023.md",
+      "title": "AI, Machine Learning, Robotics Will Improve Supply Chains Amid Ongoing Disruptions in 2023",
+      "excerpt": "War, raw materials shortages, rising energy costs and extreme weather conditions are just some of the factors that will disrupt global supply chains in 2023, warns the non-profit organisation that aims to elevate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/",
+      "originalUrl": "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-2-696x452.jpg",
+          "width": 696,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence.md",
       "title": "University Of Texas, EdX Team Up To Offer New Online MS In Artificial Intelligence",
       "excerpt": "The University of Texas at Austin is partnering with edX, a leading online learning platform founded by Harvard and MIT a decade ago, to offer a low-cost, online Master of Science degree in Artificial Intelligence (MSAI).",
@@ -1113,101 +1208,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics.md",
-      "title": "Build a loyalty points anomaly detector using Amazon Lookout for Metrics",
-      "excerpt": "Today, gaining customer loyalty cannot be a one-off thing. A brand needs a focused and integrated plan to retain its best customers—put simply, it needs a customer loyalty program. Earn and burn programs are one of the main paradigms. A typical earn and burn program rewards customers after a certain",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/25/loyalty-points-anomaly-detector.jpg",
-          "width": 1569,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T08:19:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
-      "title": "New software incorporates dendritic properties into neural network models",
-      "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models ... brain function and in the field of artificial intelligence. Deciphering the secrets ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-a-step-clo.jpg",
-          "width": 1500,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp",
-      "publishedDateTime": "2023-01-25T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

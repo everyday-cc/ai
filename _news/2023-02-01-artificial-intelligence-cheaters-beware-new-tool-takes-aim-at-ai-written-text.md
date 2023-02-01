@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-31T19:09:00Z
 originalUrl: "https://wraltechwire.com/2023/01/31/artificial-intelligence-cheaters-beware-new-tool-takes-aim-at-ai-written-text/"
 webUrl: "https://wraltechwire.com/2023/01/31/artificial-intelligence-cheaters-beware-new-tool-takes-aim-at-ai-written-text/"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:

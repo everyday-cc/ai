@@ -99,20 +99,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "U.S.-India partnership targets arms, AI to compete with China"
-    excerpt: "The larger challenge posed by China – its economic practices, its aggressive military moves – have had a profound impact on the thinking in Delhi' - Click the link for more details."
-    publishedDateTime: 2023-02-01T17:48:00Z
-    webUrl: "https://www.i24news.tv/en/news/international/technology-science/1675273281-u-s-india-partnership-targets-arms-ai-to-compete-with-china"
-    type: article
-    provider:
-      name: i24NEWS
-      domain: i24news.tv
-    quality: 39
-    images:
-      - url: "https://cdn.i24news.tv/uploads/67/9a/4e/d4/33/15/1e/59/e7/6f/c5/83/3b/73/cc/c7/679a4ed433151e59e76fc5833b73ccc7.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AWS launches Data Lab program in India"
     excerpt: "AWS Data Lab is designed to bring enterprise customers and AWS data specialists together to solve complex data challenges in tangible ways, using AWS products and services."
     publishedDateTime: 2023-01-30T11:35:00Z
@@ -121,6 +107,15 @@ related:
     provider:
       name: CIO
       domain: cio.com
+    quality: 19
+  - title: "US, India Partnership Targets Arms, AI to Compete with China"
+    excerpt: "washington - The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against Chi"
+    publishedDateTime: 2023-02-01T20:50:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273464437/us-india-partnership-targets-arms-ai-to-compete-with-china"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 19
 
 secured: "1GcLE+ZAq+3YifkGT4xrSaazR10FfnJ++YYhY6mfQhMCX1IBNIiFcs3QrkPL28OMg6OG2Aq9+49JskPP3k2HZVYJ6Vvyfa+ESMfQA29dkam4GTUK4c4B45b29zSWDCoqQUiPaCJSD0JEPhBwQjonqyPrNcyR7pRRYzraxwCNfri8WxWFuwRhzKYgVlptmG95ke/0PQdfbHwEDDFgoWaqKJ3GV6eV3pD+jF4vNFX7JP08OGi/aZ4Cg26PvIezD9N7OpP7xdhyeRM2aTQzuwxb9+e5YZ8vwBsG9Kf3ojZjO27tkJWgv0h7YJ5nXbJ5rRZLO4Bmuin5E0vs10/KRNgCHQOvJB1SuD19OePo+SoDV2M=;LcROQx88XoFV0XxSIAt12g=="

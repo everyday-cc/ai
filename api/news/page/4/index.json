@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-30-artificial-intelligence-predicts-delirium-risk.md",
+      "title": "Artificial Intelligence Predicts Delirium Risk",
+      "excerpt": "During an ICU stay, the newly developed artificial intelligence (AI) algorithms were found to detect the early warning delirium signs. Patients in ICU stay are at an increased risk of delirium. \"Being able to differentiate between patients at low and high risk of delirium is incredibly important in the ICU because it enables us to devote more resources toward interventions in the high-risk population,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/delirium.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
+      "publishedDateTime": "2023-01-29T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-29-who-owns-ai-generated-art-a-comic-book-draws-the-battle-lines.md",
+      "title": "Who Owns AI-Generated Art? A Comic Book Draws the Battle Lines",
+      "excerpt": "Artificial intelligence programs like Midjourney allow artists to create mashup images from written prompts, stirring up questions over copyright; an ‘epic scene’ and Zendaya.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
+      "originalUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-710473/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-29-firefighters-smashed-the-window-of-a-driverless-cruise-taxi-to-stop-it-running-over-their-hoses.md",
       "title": "Firefighters smashed the window of a driverless Cruise taxi to stop it running over their hoses",
       "excerpt": "San Francisco firefighters smashed the front window of a Cruise driverless taxi to stop it from running over their hoses. A Cruise autonomous vehicle drove toward fire hoses on the ground in the ...",
@@ -367,7 +463,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1124,111 +1220,6 @@
         "IBM AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-5-ways-ml-and-sme-collaboration-can-accelerate-innovation.md",
-      "title": "5 Ways ML And SME Collaboration Can Accelerate Innovation",
-      "excerpt": "In this article, I will lay out five ways in which partnerships between data scientists and subject matter experts (SMEs) can accelerate innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ffe0a25c386c343ec2b0a9b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
-      "publishedDateTime": "2023-01-27T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-4-ways-fintech-changed-business-financing.md",
-      "title": "4 Ways Fintech Changed Business Financing",
-      "excerpt": "Fintech’s influence will continue to ripple in the finance world as technology advances, but here are four key impacts our industry has had so far.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6170329671bdc8c063550907/0x0.jpg?format=jpg&width=1200",
-          "width": 1050,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/",
-      "publishedDateTime": "2023-01-27T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

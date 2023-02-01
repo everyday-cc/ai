@@ -116,6 +116,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
+    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
+    publishedDateTime: 2023-01-31T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-smart-retail-global-market-report-2023-advent-computer-/2023/01/31/9752597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "Z9hLEzKsMsL7xlEFBLIuZk1eC0Xd2Bc2Lf/DKkYC5OM68DN+nXZvD5X6VpZFsRrGDARz2YUv2mRL32vjA41bK1diyUdm3ylgIKeBmhgu84IPV2PZ/8QnLPOO+UYOnsUXXUiJEe4mo4ZEDPnP4mmPLs6e/9/vB89NyoAgGVVtVffHvfrMXAilkly3m/JPLkDygVMbMePS9WYZFh1KeGVgLkA4tO7jVkZwbaTC5zrtmcU9IVtubLxJPb+rRdkfnVW5AVA58e3rxv/9SqaPfH4J0Ht93BCZG1RK9XmTDCzE3kgHkahoziFoUWjo/HfVSaMfzWKekvE+gO28wGcJ1WNVyiEPuZjGu+rqaemkxv6ZcAs=;JXd0lI0Htl80KNy57DZspQ=="
 ---

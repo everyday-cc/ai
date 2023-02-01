@@ -66,7 +66,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -207,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -248,7 +248,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {

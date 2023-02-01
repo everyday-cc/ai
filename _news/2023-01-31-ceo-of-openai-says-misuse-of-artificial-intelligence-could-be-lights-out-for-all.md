@@ -86,6 +86,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Microsoft announces general availability of Azure OpenAI Service"
+    excerpt: "As part of a continued commitment to democratising AI, and the ongoing partnership with OpenAI, Microsoft has announced the general availability of Azure OpenAI Service. .."
+    publishedDateTime: 2023-02-01T20:08:00Z
+    webUrl: "https://www.ft.lk/it-telecom-tech/Microsoft-announces-general-availability-of-Azure-OpenAI-Service/50-744832"
+    type: article
+    provider:
+      name: FT
+      domain: www.ft.lk
+    quality: 49
   - title: "OpenAI launches AI classifier tool to detect AI generated text"
     excerpt: "OpenAI, the company behind ChatGPT has launched a new AI classifier tool to determine if a text has been written by a person or by Artificial"
     publishedDateTime: 2023-02-01T09:01:00Z

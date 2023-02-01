@@ -73,20 +73,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Migrant leaders reject push for recognition in Constitution"
-    excerpt: "A push by referendum opponents to recognise migrants to Australia in the Constitution has been described as offensive."
-    publishedDateTime: 2023-01-30T21:55:00Z
-    webUrl: "https://www.afr.com/politics/federal/migrant-leaders-reject-push-for-recognition-in-constitution-20230130-p5cglk"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_697%2C$y_80/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/deb3a1b0bd8a88bc0b4d68e272b37653acf3ec5c"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Warren Mundine's push for constitutional recognition for migrants a 'distraction'"
     excerpt: "Picture by Adam McLean A push from a leading Voice to Parliament opponent to recognise migrants alongside First Nations people in the constitution is a \"distraction\", according to the peak body for multicultural Australians. Dan covers federal politics ..."
     publishedDateTime: 2023-01-30T05:47:00Z

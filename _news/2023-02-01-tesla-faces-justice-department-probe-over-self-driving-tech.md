@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2023/01/GettyImages-1459166551.jpg?w=1024&h=746"
         width: 1024
         height: 746
+        isCached: true
+  - title: "U.S. Department of Justice Looking Into Tesla Autopilot And Full-Self Driving"
+    excerpt: "Tesla continues to be in the crosshairs of government investigations as the automaker has revealed the United States Department of Justice (DOJ) is"
+    publishedDateTime: 2023-02-01T21:42:00Z
+    webUrl: "https://www.carscoops.com/2023/02/u-s-department-of-justice-looking-into-tesla-autopilot-and-full-self-driving/"
+    ampWebUrl: "https://www.carscoops.com/2023/02/u-s-department-of-justice-looking-into-tesla-autopilot-and-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/02/u-s-department-of-justice-looking-into-tesla-autopilot-and-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 71
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/01/Tesla-Staged-Video-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Elon Musk's role under scanner in Tesla self-driving controversy"
     excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."

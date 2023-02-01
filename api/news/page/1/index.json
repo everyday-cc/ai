@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-02-how-can-generative-ai-improve-the-customer-experience.md",
+      "title": "How can generative AI improve the customer experience?",
+      "excerpt": "Here is a summary of my conversation with Michael Maoz: Q: Why are we suddenly seeing a wave of hype around Generative AI? What is it, exactly, and why should we care? A: We'll start from the last question and work back. Over the next five years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai/",
+      "publishedDateTime": "2023-02-01T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-ai-company-co-founder-addresses-ethics-of-tom-cruise-deepfake-videos.md",
+      "title": "AI Company Co-Founder Addresses Ethics of Tom Cruise 'Deepfake' Videos",
+      "excerpt": "It started as an art project, then the Tom Cruise 'deepfake' videos went viral on TikTok. Now a co-founder of an artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/currencies/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos-1032060499",
+      "originalUrl": "https://markets.businessinsider.com/news/currencies/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos-1032060499",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/oko5AqArqAk7G2MGm1chPvIJZME=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PEPA47DVHRH6FDIZ2OELRYFTWM.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation.md",
+      "title": "How to decide between Amazon Rekognition image and video API for video moderation",
+      "excerpt": "Almost 80% of today’s web content is user-generated, creating a deluge of content that organizations struggle to analyze with human-only processes. The availability of consumer information helps them make decisions, from buying a new pair of jeans to securing home loans. In a recent survey, 79% of consumers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T12:40:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-scaling-distributed-training-with-aws-trainium-and-amazon-eks.md",
       "title": "Scaling distributed training with AWS Trainium and Amazon EKS",
       "excerpt": "Recent developments in deep learning have led to increasingly large models such as GPT-3, BLOOM, and OPT, some of which are already in excess of 100 billion parameters. Although larger models tend to be more powerful, training such models requires significant computational resources. Even with the use",
@@ -156,7 +303,7 @@
       "originalUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -611,7 +758,7 @@
       "originalUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -818,7 +965,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 703,
+      "heat": 763,
       "tags": null,
       "images": [
         {
@@ -1110,153 +1257,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-ai-tool-used-to-spot-child-abuse-allegedly-targets-parents-with-disabilities.md",
-      "title": "AI tool used to spot child abuse allegedly targets parents with disabilities",
-      "excerpt": "Since 2016, social workers in a Pennsylvania county have relied on an algorithm to help them determine which child welfare calls warrant further investigation. Now, the Justice Department is reportedly scrutinizing the controversial family-screening tool over concerns that using the algorithm may be violating the Americans with Disabilities Act by allegedly discriminating against families with disabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1339965935-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/amp/",
-      "publishedDateTime": "2023-01-31T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-tesla-faces-justice-department-probe-over-self-driving-tech.md",
-      "title": "Tesla Faces Justice Department Probe Over Self-Driving Tech",
-      "excerpt": "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/5b05f17d495a4f8a8d52e7118734048460c09c39/hub/2022/09/30/fb452108-55bb-4ac9-a2e2-4ea9f76d929e/20220929-tesla-fsd-beta-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
-      "publishedDateTime": "2023-01-31T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-tech-tuesday-samsung-smartphones-google-ai-liquid-robots.md",
-      "title": "Tech Tuesday: Samsung smartphones, Google AI, ‘liquid’ robots",
-      "excerpt": "From a sneak peek of the latest smartphones and artificial intelligence to “liquid” robots, technology expert Greg Nibler joined KOIN 6 News’ AM Extra to share the latest tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
-      "originalUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/01/Liquid-robot-Carnegie-Mellon-University-1312023.png?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
-      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
-      "publishedDateTime": "2023-01-31T09:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

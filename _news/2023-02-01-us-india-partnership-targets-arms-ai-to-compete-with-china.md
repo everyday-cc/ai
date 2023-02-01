@@ -85,20 +85,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "U.S.-India partnership targets arms, AI to compete with China"
-    excerpt: "The larger challenge posed by China – its economic practices, its aggressive military moves – have had a profound impact on the thinking in Delhi' - Click the link for more details."
-    publishedDateTime: 2023-02-01T17:48:00Z
-    webUrl: "https://www.i24news.tv/en/news/international/technology-science/1675273281-u-s-india-partnership-targets-arms-ai-to-compete-with-china"
-    type: article
-    provider:
-      name: i24NEWS
-      domain: i24news.tv
-    quality: 39
-    images:
-      - url: "https://cdn.i24news.tv/uploads/67/9a/4e/d4/33/15/1e/59/e7/6f/c5/83/3b/73/cc/c7/679a4ed433151e59e76fc5833b73ccc7.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "US, India target arms, AI to compete with China"
     excerpt: "The White House on Tuesday launched a partnership with India that US President Joe Biden said he hopes would help the countries compete against China on military equipment, semiconductors and artificial intelligence (AI)."
     publishedDateTime: 2023-02-01T16:00:00Z
@@ -121,6 +107,15 @@ related:
     provider:
       name: CIO
       domain: cio.com
+    quality: 19
+  - title: "US, India Partnership Targets Arms, AI to Compete with China"
+    excerpt: "washington - The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against Chi"
+    publishedDateTime: 2023-02-01T20:50:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273464437/us-india-partnership-targets-arms-ai-to-compete-with-china"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 19
 
 secured: "NI5fmFN8wiTPW4JYhqeTdTc3ZYS1J20XJCfKhnLWKfBrFcqFpnybyhjg380FjbSn6kUQe3rREJ7DhiryzblzydR2t3iMFwS3guX68lIdhiMooNXlPeo4ATHsU5IPOBLXwgz+qdmZ20GnIWFYAhNorrk7NeBD8hrTkoqy8XBH4wwJHMm5QIOM0m5xabnetRp7J8Zo4CPZ4DZoY/HhhuoYe4QKn9mgbj3QkPQpg9hGyVechCULg4MQtLZJj4Sk1TIkPY/gIDOZP8baW3J7+4TOUfUpdU4lXUm3ZIC9W0q9RzG09/pX2WgaubY1elv8GAvcuTQx9hzk/zms/HIFfHpi2AR45BK3LbobP/+HpOympnc=;JsBbNYhVHHHGXsJ9wQiisQ=="

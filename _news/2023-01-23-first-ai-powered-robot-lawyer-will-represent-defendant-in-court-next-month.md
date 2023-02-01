@@ -2,11 +2,11 @@
 category: news
 title: "First AI-powered \"robot\" lawyer will represent defendant in court next month"
 excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
-publishedDateTime: 2023-01-23T14:52:00Z
-originalUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-webUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+publishedDateTime: 2023-01-23T12:53:00Z
+originalUrl: "https://www.cbsnews.com/colorado/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+webUrl: "https://www.cbsnews.com/colorado/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+ampWebUrl: "https://www.cbsnews.com/amp/colorado/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/colorado/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "zmLsiRyT65sux0myVTWa9rjAx43Yp7vi/XZuikZfpj2ay/sbitPNvMaV32Tcj9k2DbBkhvv8UGVPMPXBjkghFqx12GDgzNqlcHXSwP9qC3/RlrRoEDz/PKZgviWTaaoXPL/HfqmQKwGPv3s5oQk52Ghn2+6wBh8AXqVLfhdiTgERbSgIM0Ts+mllk+07tZ5YoGb9Pr96YTM1MIpSpY7OGYPWhbvfVdZiXQAgonGS/CWcfAgkNGlz+R3jfTxqnvXLfa9jqJZDh6IolfneKBlhhyj4BGGLKvkgyArNyLiImbzZB90UdjYOpiGADxOryhEdJsCW/wA2fPk8wxGw6MTb5i2lFREc7DnL+OWy+EjqHoX1Go/vOoKExPaLOtNYa1rpx9kQn7vkBSUE61ZdGOmxDiK2ARt2QjUHyzHQOf+ICPitXp/zWEQhHXC6zZRZufLFPb6xsvcXhfBTcYTDNWlIpdGhClnivnnrOB1H4371k+G6d5yxaomW4yQ69kh9eXss/6Gb23fAxVERwqKWqKNQdA==;uRrCV/h/+OHfFZ0tYryViQ=="
+secured: "tzrLNUlHYD/7Q5DMey6AR4OeOxQ1EaEd0xTmQaHEmZI6uahe+L3jqLwQBjS6oJxvyOKqwu4NE4mJntKt8GQfq+SYdnF+iagLxLddp01d3wQXmE2kRYwf8jzVu4CGCi5kWIqYu1NoJeL7H2HLHYk2a4aMw5pDXKNmKFXNV8YRbH1iLevLNBDMPb6YHmYc15LQ/PdP5OfA2yuni3VvoXao2JrvDr3cWaWkJKTbAMJgRgm5+3km17P5iXHePfZ3tgRrGxt/JVeJqBSvRfdMNcaiqWP84dGDEF8nP+6HxCI+Iny8XuGe0gZ7DBsHQWgT5oDb6Wv1Aau3yfCr4GLiwAyqwDywgpM6fVmN0vrCczRO4Bc=;e88H3cSI4hARfcvj9MP7Tg=="
 ---
 

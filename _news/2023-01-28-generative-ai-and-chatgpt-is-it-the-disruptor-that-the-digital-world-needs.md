@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 380
         isCached: true
-  - title: "Mubadala Health and G42 Healthcare to showcase AI-driven solutions at Arab Health 2023"
-    excerpt: "G42 Healthcare, will be showcasing artificial intelligence (AI) driven solutions at Arab Health 2023, a healthcare event being held at the Dubai World Trade Centre. These solutions are centred ..."
-    publishedDateTime: 2023-01-28T06:40:00Z
-    webUrl: "https://yourstory.com/ys-gulf/mubadala-health-g42-healthcare-artificial-intelligence-arab-health-2023"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 46
-    images:
-      - url: "https://images.yourstory.com/cs/206/d6cc5c20076211ed91383927582c5cb0/NIKITAImageTaggingnoframesEditorialTeamMaster14-1674885477623.jpg?fm=png&auto=format"
-        width: 1600
-        height: 800
-        isCached: true
   - title: "Changing the conversation around AI"
     excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
     publishedDateTime: 2023-01-31T00:15:00Z

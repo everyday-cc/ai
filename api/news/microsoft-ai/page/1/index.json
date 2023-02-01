@@ -171,7 +171,7 @@
       "originalUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -761,6 +761,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-cognitive-search-service-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
+      "title": "Cognitive Search Service Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
+      "excerpt": "In 2023, Current Cognitive Search Service Market Size | 2029 | Newest [120] Pages Report Cognitive Search Service",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-search-service-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-search-service-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1387,49 +1440,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-microsoft-is-expanding-access-to-its-azure-openai-service-with-chatgpt-available-soon.md",
-      "title": "Microsoft Is Expanding Access to Its Azure OpenAI Service, With ChatGPT Available 'Soon'",
-      "excerpt": "On Monday, Microsoft announced it’s widening access to its Azure OpenAI Service, a move likely to increase business uses of Open AI’s popular GPT-3.5, Codex, and DALL E 2 systems. ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-openai-chatgpt-ai-1849995341",
-      "originalUrl": "https://gizmodo.com/microsoft-openai-chatgpt-ai-1849995341",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

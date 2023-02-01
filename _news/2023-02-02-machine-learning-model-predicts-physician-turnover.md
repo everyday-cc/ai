@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-01T19:00:00Z
 originalUrl: "https://news.yale.edu/2023/02/01/machine-learning-model-predicts-physician-turnover"
 webUrl: "https://news.yale.edu/2023/02/01/machine-learning-model-predicts-physician-turnover"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Yale Environment 360

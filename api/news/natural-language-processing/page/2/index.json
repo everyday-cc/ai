@@ -2,60 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-01-16-natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
-      "title": "Natural Language Processing (NLP) Market 2023 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
-      "excerpt": "Pages Report] Rising demand for Consumer Goods Industry will drive the Natural Language Processing (NLP) segment growth over the next five years. Global Market Analysis for N",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-size-revenue-analysis-sales-share-and-research-depth-study-2028-2023-01-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 302,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-16-unveiling-the-mystery-of-the-human-brain-for-ai-advancements.md",
       "title": "Unveiling the Mystery of the Human Brain for AI Advancements",
       "excerpt": "While machines can learn how to predict words, we have yet to understand how the human brain does it, and Dr LI Jixing’s research aims to uncover the secret",
@@ -1362,6 +1308,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-to-identify-a-voice-brains-rely-on-sight.md",
+      "title": "To identify a voice, brains rely on sight",
+      "excerpt": "A new study suggests that voice and face recognition are linked even more intimately than previously thought. To recognize a famous voice, human brains use the same center that lights up when the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230103133736.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230103133736.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

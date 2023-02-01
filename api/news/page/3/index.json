@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-30-amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask.md",
+      "title": "Amazon SageMaker built-in LightGBM now offers distributed training using Dask",
+      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/30/sagemaker-lightgbm.jpg",
+          "width": 1564,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T10:10:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-post-secondary-sector-must-embrace-emerging-ai-technology-in-education.md",
+      "title": "Post-secondary sector must embrace emerging AI technology in education",
+      "excerpt": "Since its release in November 2022, OpenAI's ChatGPT has caused a stir, with a stream of op-eds and news stories focused on the ways the program opens possibilities for academic misconduct by students.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-post-secondary-sector-embrace-emerging-ai.html",
+      "originalUrl": "https://phys.org/news/2023-01-post-secondary-sector-embrace-emerging-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/post-secondary-sector.jpg",
+          "width": 500,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-post-secondary-sector-embrace-emerging-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-post-secondary-sector-embrace-emerging-ai.amp",
+      "publishedDateTime": "2023-01-30T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-build-a-water-consumption-forecasting-solution-for-a-water-utility-agency-using-amazon-forecast.md",
+      "title": "Build a water consumption forecasting solution for a water utility agency using Amazon Forecast",
+      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating supply and demand for inventory management, travel demand forecasting,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-water-consumption-forecasting-solution-for-a-water-utility-agency-using-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-water-consumption-forecasting-solution-for-a-water-utility-agency-using-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/30/water-consumption-forecast.jpg",
+          "width": 1565,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T09:59:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-how-ai-is-improving-agriculture-sustainability-in-india.md",
       "title": "How AI is improving agriculture sustainability in India",
       "excerpt": "A look at how AI can help agriculture and sustainable farming in India.",
@@ -367,7 +514,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -686,7 +833,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -893,7 +1040,7 @@
       "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1031,7 +1178,7 @@
       "originalUrl": "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1123,145 +1270,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-artificial-intelligence-predicts-delirium-risk.md",
-      "title": "Artificial Intelligence Predicts Delirium Risk",
-      "excerpt": "During an ICU stay, the newly developed artificial intelligence (AI) algorithms were found to detect the early warning delirium signs. Patients in ICU stay are at an increased risk of delirium. \"Being able to differentiate between patients at low and high risk of delirium is incredibly important in the ICU because it enables us to devote more resources toward interventions in the high-risk population,",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/delirium.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
-      "publishedDateTime": "2023-01-29T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-flawless-demos-its-wild-ai-film-dialogue-manipulation-and-language-translation.md",
-      "title": "Flawless Demos Its Wild AI Film Dialogue Manipulation And Language Translation",
-      "excerpt": "From tweaking Tom Cruise to advancing deepfake detection with Intel, AI manipulation of photo, video, and audio sources is becoming more mainstream daily. Now, one company is taking this tech to Hollywood with the debut of TrueSync,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
-      "originalUrl": "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/60779/content/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
-      "publishedDateTime": "2023-01-29T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-29-who-owns-ai-generated-art-a-comic-book-draws-the-battle-lines.md",
-      "title": "Who Owns AI-Generated Art? A Comic Book Draws the Battle Lines",
-      "excerpt": "Artificial intelligence programs like Midjourney allow artists to create mashup images from written prompts, stirring up questions over copyright; an ‘epic scene’ and Zendaya.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
-      "originalUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-710473/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-29T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
