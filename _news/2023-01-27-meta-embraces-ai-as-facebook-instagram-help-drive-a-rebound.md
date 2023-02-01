@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Instagram co-founder are back with AI-driven news platform ‘Artifact’"
+    excerpt: "Artifact is currently in a private beta but is now accepting requests to be a part of its user base. You can give the company your phone number and it"
+    publishedDateTime: 2023-02-01T04:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/instagram-co-founder-are-back-with-ai-driven-news-platform-artifact/articleshow/97510916.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/instagram-co-founder-are-back-with-ai-driven-news-platform-artifact/amp_articleshow/97510916.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/instagram-co-founder-are-back-with-ai-driven-news-platform-artifact/amp_articleshow/97510916.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-97510951,width-1070,height-580,imgsize-25086,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
 
 secured: "rqjJw8wzs5+MATH+hvDxe9oYhrvGX4HKYwibMWTlthC1yT28XUdccvqxmBC9nAjrcHEiAMy5k7uIo6KiQH9m5AZdfHRYOlT07zYwWo+EpeSfsIfT4HADtQlLfnVOutGqew36ZmRzP2e0uDg9u1of7LL62b1koBfWA8BJv4hs9MZSBsocR3vdb7Jb7Q3Lv4eELfaR+5krhE4+q0uxzbIXX2qYIBxHCz+uXiSdwJP3e/hl7ZHLn7pFTPEg8nNstXcVOO4FNAxTAC+94fVGLm2TMK5mKYmaJ8kZbRzRgQu4Eo8jP8a06JDtTKLvhngLsKHsaVAhjuiMgsXZ1Qmz6qm/e1A0NKYndHAVbRJh/wEADRlwzixogsntak6kOfmVsWAqmUZ5LxMLtGJfEiA9SlKQy/xfKdl0ouDQhDssoK0jbCenc1mVNm7yLBz1cskyU7mlzLVdXt56PW/X9P9HSK13V0tHqKW+g3tkHfUeHB/ks1I4zqFItMJ5Wl70OlNk/J7M22sUh/9DXERLngP9NTjKLw==;wzpjn94XWZ+nQQh80E6dfQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetizati
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1192
     height: 876
     isCached: true
-
-related:
-  - title: "Talking AI - CEO Arvind Khrisna on IBM's monetization strategy"
-    excerpt: "In his view, there have been three moments that matter in the past decade in terms of AI emerging to have business potential and impact: One, when IBM won Jeopardy! with Watson, I think it was a big moment, and AI came onto everyone's roadmap."
-    publishedDateTime: 2023-01-27T11:19:00Z
-    webUrl: "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy"
-    ampWebUrl: "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 61
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-01/Screenshot%202022-01-25%20at%2011.06.30.png"
-        width: 1192
-        height: 876
-        isCached: true
 
 secured: "pivDpsmtpgXLWWgs3wRdvlnwE4pYtd/YJ6XdkTI9+Y56P1jNso3S6MrR49y47ZljZolFeqkcCTmw7JX/iam46BwFdp0rmF38XG48/GNIPZbdGiz++cwYoN/np7gUcxB+rnSHaTQIaiHMsLhhUoPUMuV+czdHPb+GAHmu6o1Ktk1fCN42o5fdHhciqG6GjnZOAVbSfRQoXBxQV/QKRsKkGul9j4BOdlrlq+S7HnQyhort+TFknA/EfH3f55Yu7/rPVVp1d9bIWG3hVbm7nCn3jpwUcHRG3OfhZC0SCc6hF4vtjkgMYmUB+Zm1HwyCXmiKaf2qw6Loz69THx5ZudV7RKQeeXl/6g2cPqh8PBsbUMw=;hw8zr6WU0eCijpFPjYb6Ew=="
 ---

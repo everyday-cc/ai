@@ -79,15 +79,6 @@ related:
       name: Commercial Integrator
       domain: commercialintegrator.com
     quality: 14
-  - title: "Remark Holdings, Inc. partners with AAEON to simplify the delivery of AI-driven video analytics for a complex world"
-    excerpt: "Remark Holdings, Inc. (NASDAQ:MARK), a diversified global technology company with leading artificial intelligence (\"AI\") -powered computer vision solutions, today announced"
-    publishedDateTime: 2023-01-27T13:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30602305/remark-holdings-inc-partners-with-aaeon-to-simplify-the-delivery-of-ai-driven-video-analytics-for-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "zN2l3YVIT3F8IlyyfY+3NASzKsixPpWRKkfYiNkjsPsxF05BTBqeoKoAHivVL19s4GRIVlUamu0vWYi22B3YJ+ykV7IRD1lElFwcdB+MC6oegnl2udX/jC69D96bVLDU3RcUhxAmonz7xn2KnSmVnTyH5u2upQZL2MOXmPlOC7IWsZsqJMuyTvl1ZpyVoridk08UnwpziAHdNkKZCln+UexOsVEcXcl1JFBPvkEzxDi/73O5He6HQkFt+/4OUYrbYOFKIDJ8xvO40np/r/lJ7qvA7FFHqLUW3Ki6m29HXJ1kFAA8ug5P0wmUttEgN149MI6XftSNibc7DnycG71zpeyINrUKrfQIaQe0uoJzIZwgPAQi8l3Bwb7v/3iyeOHeNfZkB9yFm4DQbFIIzJhkYTpwxVk1YtwVOew1uAz2pU7+cYu2FBNuF4J97AplVh0wTw0EYFBwGr2pcMLsmt6xYapOSN3wbjKjVnQCt3e/rtRYg8tphW4tsWlJ0rMqqEhPmIJMN46P5aRMfD4V1ni8cA==;HMtUvid5xtHXekkQSf6VnQ=="
 ---

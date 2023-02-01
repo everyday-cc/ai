@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/amp/"
 type: article
 quality: 103
-heat: 713
+heat: 703
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://i.insider.com/63d93d3d0a08ae0018a62c1c?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Generative AI ChatGPT Can Disturbingly Gobble Up Your Private And Confidential Data, Forewarns AI Ethics And AI Law"
-    excerpt: "All those people eagerly using generative AI ChatGPT are potentially falling into an insidious trap, namely entering confidential info that they assume will be ironclad confidential. Here's what they and everyone needs to know."
-    publishedDateTime: 2023-01-27T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d3683734efc0e887a89c47/0x0.jpg?format=jpg&crop=907,605,x143,y0,safe&width=1200"
-        width: 907
-        height: 605
         isCached: true
   - title: "The ChatGPT and generative AI 'gold rush' has founders flocking to San Francisco's 'Cerebral Valley'"
     excerpt: "Generative AI is breathing new life into San Francisco after two years of ​Silicon Valley tech companies shuttering offices because of the pandemic."
@@ -304,14 +288,14 @@ related:
         isCached: true
   - title: "BuzzFeed to use artificial intelligence for content"
     excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    publishedDateTime: 2023-01-30T17:41:00Z
+    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
     type: article
     provider:
-      name: fox13now
-      domain: fox13now.com
+      name: WTKR
+      domain: wtkr.com
     quality: 59
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
@@ -350,22 +334,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "A watermark for chatbots can spot text written by an AI"
-    excerpt: "Hidden patterns buried in AI-generated texts could help identify them as such, allowing us to tell whether the words we’re reading are written by a human or not. These “watermarks” are invisible to the human eye but let computers detect that the text probably comes from an AI system."
-    publishedDateTime: 2023-01-27T12:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/27/1067338/a-watermark-for-chatbots-can-spot-text-written-by-an-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/01/GettyImages-1405584647.jpg?w=3000"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
     excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
     publishedDateTime: 2023-01-28T11:40:00Z
@@ -398,22 +366,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "All the jobs new AI technology ChatGPT is coming for - and its scary potential"
-    excerpt: "ChatGPT is a revolutionary new artificial intelligence which has passed a law exam and is replacing white collar workers - with one expert saying 'the wolf is at the door'"
-    publishedDateTime: 2023-01-27T12:56:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/jobs-new-ai-technology-chatgpt-29066279.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 55
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article29066538.ece/ALTERNATES/s1200/0_OpenAI-DallE-2-ChatGPT-Illustration-Brussels-Belgium-22-Jan-2023.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ChatGPT: What is it and how to use it?"
     excerpt: "ChatGPT is a conversational chatbot that can answer questions, simplify difficult concepts, and even generate poetry like a human."
     publishedDateTime: 2023-01-31T21:17:00Z
@@ -443,6 +395,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/did-chatgpt-write-this.jpg"
         width: 2412
         height: 1544
+        isCached: true
+  - title: "ChatGPT sends AI sector into frenzy, but here’s why it won’t overtake our jobs… yet"
+    excerpt: "The recent lauch of chatGPT has created a frenzy in the AI sector. Will the product replace white collar jobs?"
+    publishedDateTime: 2023-02-01T02:54:00Z
+    webUrl: "https://stockhead.com.au/tech/chatgpt-sends-ai-sector-into-frenzy-but-heres-why-it-wont-overtake-our-jobs-yet/"
+    ampWebUrl: "https://stockhead.com.au/tech/chatgpt-sends-ai-sector-into-frenzy-but-heres-why-it-wont-overtake-our-jobs-yet/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/chatgpt-sends-ai-sector-into-frenzy-but-heres-why-it-wont-overtake-our-jobs-yet/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 53
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2023/01/chatGPT-has-created-frenzy-within-the-AI-sector.-Picture-Getty.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "ChatGPT is on its way to becoming a virtual doctor, lawyer, and business analyst. Here's a list of advanced exams the AI bot has passed so far."
     excerpt: "ChatGPT is becoming more professionally competitive by the day. We rounded up all the exams the bot has passed."
@@ -475,6 +443,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f10f4340-42c7-4392-896f-74dc0661b6a9/bfd9c01d-d211-4649-99dc-e9d1fe3285eb/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "ChatGPT maker OpenAI releases ‘not fully reliable’ tool to detect AI generated content"
+    excerpt: "OpenAI is calling on educators to give their feedback on how the tool is used, amid rising concerns around AI-assisted cheating at universities"
+    publishedDateTime: 2023-02-01T02:59:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/feb/01/chatgpt-maker-openai-releases-ai-generated-content-detection-tool"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/01/chatgpt-maker-openai-releases-ai-generated-content-detection-tool"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/01/chatgpt-maker-openai-releases-ai-generated-content-detection-tool"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/db2d0b4600c445e5a48b02febf29547b7fbc6ae6/0_213_8107_4864/master/8107.jpg?width=620&quality=85&auto=format&fit=max&s=6f0490bc4efe3bc4358e0b7bf97a95d3"
+        width: 620
+        height: 372
         isCached: true
   - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
     excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
@@ -849,6 +833,6 @@ related:
       domain: marketingdive.com
     quality: 4
 
-secured: "2Xc280EgN3ReTV3ZvCx0MbdtuMKdB9mWsDXOKb5HVPt0TeilJ+uSBMd4PMOtt8HbRV9dUC+Q9WZaWd8EXNa46fdMLtHD+FSLKQTrjyUpGgGTgpjG/5KI2a3aYHXHnD0IbOLQ7zDLllAV+lXzpiUNFDs4zFIuJVZKkQmWM+32nd//jEzJqajtZNiyzl3aHhUfvhghBAb818KqvqX4N5GAEQAdDzlWzRusOSPi18ZREoz2rZIZ4KxTH3zfhuxstEL6c+qMzGHFCEfSzjqkdpUuhjf4hXVCdYhHNZAs7oaypMs9/jvptlzKIBxv2tHkLMuPv8SVDij1zJxjo9xb33FMwsmOKxpb1mQOPjZyZ7pQtFg=;1v9wdnGqsDZtTdNH3XCx1g=="
+secured: "9vTYEd3QcBufOsTE8rAPLn4kZ8WXfMwedc7aqg+2CVtsrGkZR69XpCPgZFiuJREgLu1EUOVVcU+OkcgIEa95hKVtv1+l5UqXKOvp5G7cM3Xp2pJ9G7q7dywn8+dd20XZJCbVo+H3J8xH+OaXDni5oMPtALbjofLr8NMwLBf7vHF7KGN1Ws2+lt4OZFQOliVcCyixXXKUMnQ1cMH42fRqbWy9auharxNE7YhCI0F9+iNw7/w6sBZYjyhH1FYfjLDBTENsrwbHUrDQ29t1kqTRz/8YnVS/fzzPCyQsHR+EEcHK40kRgsrsDRoIQGCeTZgsJdMl0s+E3rOdY5bdFndaOw5Nn3D8SeR/Y7/EhtnOez/QFoeQj+Bvj8G3alOyMmkD5vsK9LcW8x4hwEfP7EpyhmnDNyTc9tfCOqUmXCSDQ+mYJCZAUIfLZFpXNBwO5oOYm3dKGfEN6lDyBxRMMIn4Eajd5lmswlO1jm62FZF5lWFHC8YSppBWTCMbkqR98N9eIuhv1FC0f/uZodT4wqFnKg==;rYgs2UoKmb8ck+uJgYmW8A=="
 ---
 

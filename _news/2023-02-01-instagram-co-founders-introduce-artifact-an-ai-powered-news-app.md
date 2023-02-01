@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/instagram-co-founders-introduce
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/instagram-co-founders-introduce-ai-powered-news-app-artifact/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://images.wsj.net/im-711357/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Instagram co-founder are back with AI-driven news platform ‘Artifact’"
+    excerpt: "Artifact is currently in a private beta but is now accepting requests to be a part of its user base. You can give the company your phone number and it"
+    publishedDateTime: 2023-02-01T04:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/instagram-co-founder-are-back-with-ai-driven-news-platform-artifact/articleshow/97510916.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/instagram-co-founder-are-back-with-ai-driven-news-platform-artifact/amp_articleshow/97510916.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/instagram-co-founder-are-back-with-ai-driven-news-platform-artifact/amp_articleshow/97510916.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-97510951,width-1070,height-580,imgsize-25086,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
 
 secured: "0aJaiW6QwBV+u0wPwdcLXzwtNOmHEC5yrmh5lbc1I0Dd3wK1w4Bm1bfVGZQf/DVFYU8hxVPyIv51+jqxpMSWbmOqfDTeIsmJJIYgnfVl/2N9aBVZ2Ju3+YuhFRquwWFYQrbDSQbTgg/JqAb1Ao17in92uZ7fmy8Y0LSNvAT4WiHDrpUOWc2fG9GJtSMejeL596/Wdyoh4USMuqRa2RsMAIeZPc47TNVAsjM+D8M/hdynU6CMMKnDb9YsoYVB0LsXVEWbq8mhwrwQkFwI9ImkdnkeE7MXA5yNKI2n3p8gkQ0RgTjFmosUO6catC7BsrhWCCUbJvo8NEA06z6z/8O6Y3ED5BtQCnuJh317UShmKVs=;i2miqw8kpF4FmotQSQX7Aw=="

@@ -80,15 +80,6 @@ related:
       name: Broadcast
       domain: broadcastnow.co.uk
     quality: 4
-  - title: "Remark Holdings, Inc. partners with AAEON to simplify the delivery of AI-driven video analytics for a complex world"
-    excerpt: "Remark Holdings, Inc. (NASDAQ:MARK), a diversified global technology company with leading artificial intelligence (\"AI\") -powered computer vision solutions, today announced"
-    publishedDateTime: 2023-01-27T13:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/n30602305/remark-holdings-inc-partners-with-aaeon-to-simplify-the-delivery-of-ai-driven-video-analytics-for-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "Bc53+BRSdhxxiGSzNrwV24U+T/yzMIIDS2bs9ByyPzeMzEIj9T5CbZPlm9+Q9nBXteIKpqwgxZrrLbcnTML32uCNuQXK0znLQCtgP5B1cJQlwNRvcsTtRFlheo1E1q7qR5F6M+EA5CTItrsvCEXdb8xsJKjqHVrsW38BAqWnAwYazD7VPsAD7UMQOSl7CDbcZwXcfiNiU0jop4QZNMVx1fwsCTmmbiT/TQ7RcHH4UV8XlP5/fUbgDPZyEItt8XMSZowIpVoei53xHLCMK04wBP50nOHQK/mngfuYHAX4Y99sawqmjLf/ZkbuW+Ru5TJyN5gZjQXmVjTzlP5MF1kupCowSRU1UkpyxhjR8kpJOsc=;08Mwn/wo9TQQAC0j7LP9uA=="
 ---
