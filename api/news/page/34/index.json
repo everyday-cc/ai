@@ -2,6 +2,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-01-02-tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon.md",
+      "title": "TCS, Wipro, Indusnet Teams Win Microsoft's Coding Hackathon",
+      "excerpt": "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innov",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105374526/TCS-Wipro-Indusnet-Teams-Win-Microsofts-Coding-Hackathon",
+      "originalUrl": "https://menafn.com/1105374526/TCS-Wipro-Indusnet-Teams-Win-Microsofts-Coding-Hackathon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-01T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-02-gamification-ar-will-change-e-learning-in-2023.md",
       "title": "Gamification, AR will change e-learning in 2023",
       "excerpt": "“Emerging technologies such as artificial intelligence, machine learning, blockchain and robotics ... edtech players will have to design programmes and services to suit the learners ...",
@@ -970,48 +1004,6 @@
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-please-slow-downthe-7-biggest-ai-stories-of-2022.md",
-      "title": "“Please slow down”—The 7 biggest AI stories of 2022",
-      "excerpt": "More than once this year, AI experts have repeated a familiar refrain: \"Please slow down.\" AI news in 2022 has been rapid-fire and relentless; the moment you knew where things currently stood in AI, a new paper or discovery would make that understanding obsolete.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/please-slow-down-the-7-biggest-ai-stories-of-2022/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/please-slow-down-the-7-biggest-ai-stories-of-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

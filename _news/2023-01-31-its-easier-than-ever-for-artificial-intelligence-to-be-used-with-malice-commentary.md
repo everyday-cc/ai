@@ -33,7 +33,7 @@ related:
     provider:
       name: The Baltimore Sun
       domain: baltimoresun.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.baltimoresun.com/resizer//4JjbHJKZHrdpjf-tC51uuH4LeL4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/MQLX65PDCFKNLAJROKWLJ7I7XQ.jpg"
         width: 1200

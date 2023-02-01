@@ -2,9 +2,9 @@
 category: news
 title: "Granulate is Making its Continuous Workload Optimization Solution Available in Microsoft Azure Marketplace as an IP-Co Sell Transactable Offer"
 excerpt: "Granulate, an Intel Company and provider of autonomous, continuous workload optimization solutions, announced that it is available as an IP Co-Sell Transactional offer in Azure Marketplace. Granulate is now Microsoft Azure Consumption Commitment (MACC) eligible,"
-publishedDateTime: 2023-01-31T17:05:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/01/31/9752116.htm"
-webUrl: "https://it.tmcnet.com/news/2023/01/31/9752116.htm"
+publishedDateTime: 2023-01-31T16:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/01/31/9752116.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/01/31/9752116.htm"
 type: article
 quality: 13
 heat: 13
@@ -18,6 +18,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "Vym1QWd7Ke6168tuhjD2K5g06DwAt6DIKbLfmXswnFGECpemXyQb/1BZUPvfJ3Zh+92PpHOkVLMHC85ccWnFeQz6Nuu9+nK7xjO6nktrXu6NDEnEzL28Dr6WUZRDdKgbu+FC/cGBkumOaSx/Yp3OtwohIC3PBP34sdtKugZVLFGs60347lAQvo8EzKHaDouxEDLRYG/lw9iBdsnVLWQHObVqzSu/Msy98belKWPyPeHTl4UZhvFiQuCOfnHVowg8baL9T8rUABhjkMi3O4p0uToIvrMswTh259M2OWzNixaLANNBNCaOViqZH2Yb2KuE0kEbGfw7pe7M6wpRjHe1x3GGm6UP5Hodt1LunU7qgso=;RVdbItGHEcAeaszvaENozg=="
+secured: "VBwVUcAjOZ1QGIhyQy2whS+mFtBtiFjtxnkcaIUPr56byr+btgCQ0I2lqgZn6MPXXitpKGsVEpVPThEfY4HeTPhfRhdWZjPaWhlFZkqEN3eimyIigVi2CtEHkf4aNKl5NpzkpMIQ943Z6qC3gag9yzs7V5R7OTPJkBxbInE77JzbgRk56G5U4yP49N3I+kMKS4X/Ou8v/fdStj+lZaOS6bkSsUSB3+XqfYJqfnhGfp0HxsI/f8tCP91iyK+7Wgn6tvgJk7HamHaVUldpj8f7n+qXqsYj2p1cHDXzq7ZwA9hgM4jhR4QMxbJasSjDKGntRhts0ZTQSr8QrgGJI/MBqKbgS7zBzaiTguQPNqh8Kh0=;ArQ8RW7qrp5k9peTjZkFpw=="
 ---
 

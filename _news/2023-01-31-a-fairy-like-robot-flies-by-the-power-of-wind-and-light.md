@@ -1,0 +1,47 @@
+---
+category: news
+title: "A fairy-like robot flies by the power of wind and light"
+excerpt: "The loss of pollinators, such as bees, is a huge challenge for global biodiversity and affects humanity by causing problems in food production. At Tampere University, researchers have now developed the first passively flying robot equipped with artificial muscle."
+publishedDateTime: 2023-01-30T19:46:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/977927"
+webUrl: "https://www.eurekalert.org/news-releases/977927"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: EurekAlert!
+  domain: eurekalert.org
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/afc3f908-e9d8-46f9-887b-4040d876504b/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
+    isCached: true
+
+related:
+  - title: "A fairy-like robot flies by the power of wind and light"
+    excerpt: "The development of stimuli-responsive polymers has brought about a wealth of material-related opportunities for next-generation small-scale, wirelessly controlled soft-bodied robots. For some time now,"
+    publishedDateTime: 2023-01-30T14:57:00Z
+    webUrl: "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html"
+    ampWebUrl: "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-fairy-like-robot-flies-power.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/a-fairy-like-robot-fli.jpg"
+        width: 900
+        height: 600
+        isCached: true
+
+secured: "FannwkoGer4YjtMVxBp+wGqproQmKHmWzVo0FV8Van7DqrKjnsFZViM0h2rnb3g346zffWDep80Tsi4e3y8q5uItr1CS3fif8olZRF90wiUA7T3wH4AkqE8mj9qdEWobJ6hrmOkHVD0l8F8VmP/O7C2j7WuR+TD+9RmMxziFzrJqxrjHp+04UORTMhT3bQW/8GmlPsEybtppxCR+9kN6Ef5zL8yI5EOrVObn2Dnm98/YaBV52L4/HPEVcFOgviPSuoW0msUsFh4t2yVlr6l8NWGZ489AK+vDmy1MAlGqWatjkp803WfZeB2XkOy1UpVfmLatVKpM8SRz45xzdvAXTDduZgj2xlcOYV2zAu3ssi4=;gOAfQZ5sm36WNZ5dvptcyQ=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://nowthisnews.com/amphtml/news/ai-world-likely-to-hit-key-warm
 cdnAmpWebUrl: "https://nowthisnews-com.cdn.ampproject.org/c/s/nowthisnews.com/amphtml/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years"
 type: article
 quality: 63
-heat: 84
+heat: 85
 published: true
 
 provider:

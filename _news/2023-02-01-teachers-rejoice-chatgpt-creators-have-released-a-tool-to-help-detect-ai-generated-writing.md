@@ -142,6 +142,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "ChatGPT’s creator releases tool for detecting AI text, and it stinks"
+    excerpt: "OpenAI has released a \"classifier\" for detecting AI-generated text, but it pales in comparison to a free rival tool called Hive Moderation."
+    publishedDateTime: 2023-02-01T00:30:00Z
+    webUrl: "https://www.pcworld.com/article/1499149/chatgpts-creator-releases-tool-for-detecting-ai-text-and-it-stinks.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://b2c-contenthub.com/wp-content/uploads/2023/01/AI-classifier-1.png?w=1200"
+        width: 1199
+        height: 1093
+        isCached: true
   - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
     excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
     publishedDateTime: 2023-01-30T15:05:00Z
@@ -442,6 +456,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "ChatGPT creator’s new feature can show you if text has been written by AI or human"
+    excerpt: "OpenAI, which released the viral ChatGPT chatbot last year, unveiled a tool that's intended to help show if text has been authored by an artificial intelligence program and passed off as human."
+    publishedDateTime: 2023-02-01T00:11:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jan/31/chatgpt-creators-new-feature-can-show-you-if-text-/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 33
+    images:
+      - url: "https://thumb.spokesman.com/CGjfvh7cZEu2l6YAu1VSvkJZXww=/1200x630/smart/media.spokesman.com/photos/2023/01/31/63d9a2ace67f4.image.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "More than artificial intelligence: How ChatGPT learns conversation skills from humans"
     excerpt: "The conversational robot capable of producing impressive texts upon request has had spectacular success. 'Le Monde' delves into what goes into making such a powerful chatbot."
     publishedDateTime: 2023-01-28T03:40:00Z
@@ -492,20 +520,6 @@ related:
       - url: "https://imagenes.elpais.com/resizer/uFHzXcVK7ndKQfi5DOdlSPtYh_g=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/2JLRGDW6XVFK3BRIMXRPEMWY5Y.jpg"
         width: 414
         height: 276
-        isCached: true
-  - title: "The Hidden Cost of ChatGPT for Indian Languages"
-    excerpt: "While everyone is thrilled about ChatGPT and the many wonders it seems to be doing, non-English speakers are curious to know whether it can be developed in their own languages. Indian users, for example,"
-    publishedDateTime: 2023-01-27T07:59:00Z
-    webUrl: "https://analyticsindiamag.com/the-hidden-cost-of-chatgpt-for-indian-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/chat-gpt-in-hindi.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "How Google’s Sparrow AI Tool Is Looking To Kill ChatGPT"
     excerpt: "The new generation of language models used in Google's AI tool Sparrow is designed to provide improvements to all the"
@@ -589,6 +603,6 @@ related:
       domain: analyticsindiamag.com
     quality: 4
 
-secured: "f0unux6Tdc1Z9MiCusjcb+dXkNhbt1JP2jee8+yP/GlF8v2AXylwVQmfZIyA/mmRT/3Yv3cnNtp70TQ5/ZFyWF7pkTS5gzQYTzJBhHOSqM0KZLTvI1s8/2DPkACeqJpA3QxQbBF4rvt/hKtSp76IU7R7QiFJNRI0NtzWrAhedHSHlMzQpVAnNe2liZq1AM6pSNlKp+Ybw0lrQ1PgetMWQGNzQPpbHFwB9Afr1oeexVb4BuM6zc47JfZcFBBipCB4MRHUf1dcc8vaGZAzeNyTb34TONM4qGRXzKLn8SnbC3XVAB9OVt1hYRnXqcKnPWz7YTWyYSu1JQSqsEyw+9x603k7wZNHKlSVmDmG5y1UJws=;HVSYWTNNspNIzAtQCDJJTA=="
+secured: "D0X34PtLNJp3J1tw4q8xnUOKZauWaOpuNHSRBl7+PZO+ZQgmqwoJBE7tph33xFOVIMv0mAbouwLNe6eozUt9hLxOF8mL7oP6GB6FSgzMjuAwt2vS0fzl/99g7e1nYkQfAshW2SDTbDOKnt7b2fe+ccKDiq6eL0NGhHJs9KI+6Da3liLg8Yr8R7/2SeBhnICOfTZfzo+9inRrCARxeaUqt4OfGxvI5cSQ2d7xFzz/ak3rm/9vfDbcF9pWoT+vcjMvuBJmCnx/4z80fg7iduHRtF8mhHm0FBDM5229s+24S+4REukdlcxETzUzqM9xUXzgUHimkY0TFcrsSeovjV9uau0Xdx4GWHUDxkNIVIGooduIvxxMdvQ6VP6fPDXxuwEs1RJpalOs/rp/ZgGz6ih2Tz8F/CarJzqbA/MqJcJSIeV4QekTpkBqcFPN/1f5szNy4q9+D3Hn4g1hiB6FWPeE8tb8wyxjYWkELAieZTv2xFlB5upBWl2OKeEFSDTajbBT68Yqdv8gz9SRTfvPMwy6Iw==;XBzker97xR7Rhe0ArsyvcQ=="
 ---
 

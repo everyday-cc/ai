@@ -3,8 +3,8 @@ category: news
 title: "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS"
 excerpt: "KFin Technologies Limited (KFintech), a leading technology-driven financial services firm, today announced it is using Amazon Web Services (AWS), to help the asset management industry digitally transform and build new products,"
 publishedDateTime: 2023-01-18T05:41:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1300689&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1300689&cat=PR News Wire"
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1300464&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1300464&cat=PR News Wire"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - AI
   - AWS AI
 
-secured: "Cjm3rtPDyQX8F9sRv2tbBwEMwHJr/kKXuShEnvz/QeOIRO0pjkklzqpYvXTyrnnbxgUiM0dx4V83GHfTaun4Sn+BrEXg5pg+EKsvRbcAloBQK60Jhql+HsjGNDI2/AiOAWxNjgdWgSAdC8h2p+rAvDZvkHUmLSJH70kFt+kN+0K2Ua5f5FzyPqc6ziZvsO7ZC2tBlSL7/w9oD/1bxrLjWICLM2ddnDvHhOpM4iFX8E8CZiLTNUsjDP0xnEgE+EqsfhllGV5nhKo0afaA8yiQCGBXFw+DyC68AIX9rqq/PkvdStVXLKuBJSeOpzHyCmImuLA53ftYoUpjodgTeEVrFMIUSoigDz8Bgz8vJWHh300=;WlLAILTbGL7EiXlCkeW7wA=="
+secured: "MZi/htVf1cNNL9MEbMl6FKctHDRw8wJlHEbMvNc7pLqxL6Ujx8yNshnL0zxW7ENTHH9lEgf+AGDn2gaeSxV6A52KfZ2Ab6hA6FMmMnFUNOwhy9Cjo5TN56fQYPy9H0vgxJKZ+tbw17XJlIT+LVMHfE/r+hSRNQpqAlLo0QFDcTvmUZ5oWd7zlGckTiiWwccj3FJ6dodtcGQNQFNmKgp7e2zExx7EZAYhMp1kUhXr252Sd60vRG/dtDNewtmA7G2MNu8waiGC8LifViVABXOppp/qqhfsExrrTCsrF4ZnoVYLnYmZUMAKk/pw+ild7LOMmZQQgj8dv1DVc4fqyLHADK7wW7S1LzwTvH6N8X6yMMQ=;7yqlUXtHH1Qgf2YscyajOQ=="
 ---
 

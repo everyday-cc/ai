@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-12-10-popballoons-the-first-serious-mixed-reality-game-for-autistic-children.md",
+      "title": "Pop'Balloons: The first serious mixed-reality game for autistic children",
+      "excerpt": "Demand for mental health assessment and intervention is soaring; available services are stretched to the limit, centralized and difficult for many to access. This is particularly true for children with autism spectrum disorder (ASD).",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/popballoons-the-first.jpg",
+          "width": 795,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.amp",
+      "publishedDateTime": "2022-12-09T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-aws-think-big-space-opens-at-jl-simpson-middle-school.md",
       "title": "AWS Think Big Space Opens at J.L. Simpson Middle School",
       "excerpt": "Amazon Web Services newest Think Big Space in Virginia opened Thursday at J.L. Simpson Middle School in Leesburg.",
@@ -1086,40 +1129,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy.md",
-      "title": "Flexible AI computer chips promise wearable health monitors that protect privacy",
-      "excerpt": "Rather than working like a typical computer chip, though, the chip we’re working ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php",
-      "originalUrl": "https://www.seattlepi.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

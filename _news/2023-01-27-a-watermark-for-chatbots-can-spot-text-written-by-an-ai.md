@@ -59,18 +59,16 @@ related:
   - title: "BuzzFeed to use artificial intelligence for content"
     excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
     publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    webUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 61
+      name: WXYZ
+      domain: wxyz.com
+    quality: 39
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1280
-        height: 720
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/769d769/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "BuzzFeed’s AI-Produced Content Experiment Is a Glimpse Into a Bleak Future"
     excerpt: "We can expect a media universe where a shrinking labor force is exploited to feed ChatGPT so it can churn out clickbait."

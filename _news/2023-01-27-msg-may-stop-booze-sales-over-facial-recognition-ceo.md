@@ -35,22 +35,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Madison Square Garden's facial recognition blacklisting sparks outcry"
-    excerpt: "The heated debate over facial recognition technology has a new flashpoint: Manhattan's celebrated Madison Square Garden, home to the New York Knicks basketball team and countless Billy Joel concerts."
-    publishedDateTime: 2023-01-27T07:52:00Z
-    webUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.html"
-    ampWebUrl: "https://techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-madison-square-garden-facial-recognition.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/madison-square-garden.jpg"
-        width: 1024
-        height: 633
-        isCached: true
   - title: "Madison Square Garden facial recognition tech, to ban people, ignites political firestorm"
     excerpt: "Madison Square Garden’s use of facial recognition technology to bar unwanted fans has prompted an outcry from people fearing that New York is turning into the Gotham of a 2008 Batman film in which the superhero had access to a mass visual surveillance ..."
     publishedDateTime: 2023-01-27T20:03:00Z

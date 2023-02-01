@@ -3,28 +3,25 @@ category: news
 title: "BuzzFeed to use artificial intelligence for content"
 excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
 publishedDateTime: 2023-01-30T17:33:00Z
-originalUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-webUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-ampWebUrl: "https://www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+originalUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+webUrl: "https://www.wxyz.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
 type: article
-quality: 61
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMJ4
-  domain: tmj4.com
+  name: WXYZ
+  domain: wxyz.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/769d769/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -107,6 +104,6 @@ related:
       domain: news.am
     quality: 13
 
-secured: "TYTLVCrkK4IgUmuGhTPY4FVJ8v+B3PzrTathvScJeKGUWaPIrUj+gwvDcqIfxdiB0lbg7Wq9pepKRzFo4FrRJfZK+WxiedbuWH1fQuqxSvcLX9G7ZpsM3QA0qcAlNOR3LcWY+4hFiAZZ2NTbdqoD3ENLrCKXr5lrzLdSASXeGUqlyUkmy58JYVISOJ4Cp82ogleQTrK3x2RfQNeIEXdJVsrunCIfrkrzsmCJCl8HG9JU4DaaaKUm+aIQ6fHFbjcA3ztGOx67B/zgt0MKKhjC7U9PfPWo15iEVxNbcKrZfhwGwhcvJSLxxqAVwXI0HY2WFnRThpSNT1+ARIay21bX8GmNY/gtWiuEgwz6PZ6nbrC9rtKqVYiR+JxAVlySQwsostGsYbcUysJFJEcZFBNB7xmlI6Igj9BNslEBEUz6SzrwH7MLNNK+XjrHNuSMW7SbognMZe7cAHfxiiiApn8yPFpFB28+cYlavCXXchbsbzkllqkK6DzcgA2Kb2rF8Q2U2B9EBUG5tap+ZslZe7qBxA==;0jtLiiTK0QYXXBqEVP4Hxw=="
+secured: "jipWjGPWP8tR2luO9qsHNI/hhg3E/8/Apc2y+yRk/CarUSu46H6Vn+wZLbBG2Rl0aRUi0gCbXTdwf594dpgACox9oiSZ4yeTySF86uT2F+kHA9mhadYPEH3jpk+4gFCQ2ihJlgXOB2Pp1+DnRWm+6amo1dMJSNwebUjfunUoTnaFwSui0P03PdjjLwSM7HW8zt7BccfHGgtyijtNkYPHWCzXvdBJikO6O2z9VUdHR3BQVjWPari9voeSyUxEHb2bev65Skd4Eob7hD9zGCr83GIc51Wf4kM8sbsPbnFWyEeqWjQmR044VMwBmlP7krtALdhSlwEwd6NY5srIity/D8RRfpz7YS9TQLN/ay8igXE=;qJOnQsSPcAuZtDsyN6uyvQ=="
 ---
 

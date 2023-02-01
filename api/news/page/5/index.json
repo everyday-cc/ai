@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-26-university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence.md",
+      "title": "University Of Texas, EdX Team Up To Offer New Online MS In Artificial Intelligence",
+      "excerpt": "The University of Texas at Austin is partnering with edX, a leading online learning platform founded by Harvard and MIT a decade ago, to offer a low-cost, online Master of Science degree in Artificial Intelligence (MSAI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/616fead4f21964288cb397dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-26T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-chatgpt-leads-lawmakers-to-call-for-regulating-artificial-intelligence.md",
       "title": "ChatGPT leads lawmakers to call for regulating artificial intelligence",
       "excerpt": "The rise of the chatbot ChatGPT, with its ability to generate informed, sophisticated text, is leading lawmakers to push for government intervention in the realm of artificial intelligence.",
@@ -585,6 +637,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
+      "title": "New Software Incorporates Dendritic Properties Into Neural Network Models",
+      "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models. This work has important applications both in understanding brain function and in the field of artificial intelligence. Deciphering the secrets of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/dendrites-ai-neural-networks-22366/",
+      "originalUrl": "https://neurosciencenews.com/dendrites-ai-neural-networks-22366/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2023/01/dendrite-neural-network-neurosinces-public.jpg",
+          "width": 769,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-7-eleven-is-quietly-testing-self-driving-robots-to-deliver-slurpees-and-big-bite-hot-dogs-in-los-angeles-heres-how-it-works.md",
       "title": "7-Eleven is quietly testing self-driving robots to deliver Slurpees and Big Bite Hot Dogs in Los Angeles. Here's how it works.",
       "excerpt": "All they have to do is hail a robot. 7-Eleven has been testing self-driving robots to deliver some of the convenience store chain's most iconic foods and snacks – from Slurpees to Big Bite Hot Dogs.",
@@ -1072,49 +1167,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
-      "title": "New software incorporates dendritic properties into neural network models",
-      "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models ... brain function and in the field of artificial intelligence. Deciphering the secrets ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-a-step-clo.jpg",
-          "width": 1500,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.amp",
-      "publishedDateTime": "2023-01-25T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-26-a-person-shaped-robot-that-can-liquify-and-escape-jail-all-with-the-power-of-magnets.md",
       "title": "A person-shaped robot that can liquify and escape jail, all with the power of magnets",
       "excerpt": "Inspired by sea cucumbers, engineers have designed miniature robots that rapidly and reversibly shift between liquid and solid states. On top of being able to shape-shift, the robots are magnetic and can conduct electricity.",
@@ -1155,59 +1207,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-federated-learning-key-to-securing-ai.md",
-      "title": "Federated learning key to securing AI",
-      "excerpt": "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
-      "originalUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
-      "publishedDateTime": "2023-01-25T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

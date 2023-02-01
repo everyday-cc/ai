@@ -45,20 +45,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "5 Ways How Fintech Is Revolutionizing MSMEs"
-    excerpt: "Technology advancements in the digital services ecosystem, such as account aggregators and OCEN make MSME lending simple"
-    publishedDateTime: 2023-01-27T07:59:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/5-ways-how-fintech-is-revolutionizing-msmes/443779"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674806346-Hithere.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "5 tech trends that will change the fintech industry in 2023"
     excerpt: "A recent report by Bain and Co. recognized India as one of the first leaders to uplift the exposure of the country’s fintech industry globally. Further, the report states the boom in smartphone adoption"
     publishedDateTime: 2023-01-30T08:47:00Z
@@ -113,15 +99,6 @@ related:
         width: 799
         height: 449
         isCached: true
-  - title: "African fintech revolution leads the way for healthtech"
-    excerpt: "When combined with AI, it enables the delivery of predictive diagnostics in various pathological fields anywhere, even in the most remote locations. Healthtech can be as successful as fintech, especially when innovation is applied in ways that solve pain ..."
-    publishedDateTime: 2023-01-27T08:27:00Z
-    webUrl: "https://it-online.co.za/2023/01/27/african-fintech-revolution-leads-the-way-for-healthtech/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
   - title: "What to expect for India’s Fintech Agenda in the Budget year 2023?"
     excerpt: "Fintech in India has seen significant growth in recent years, driven by a combination of factors including a large and young population, a growing economy, and increasing access to technology."
     publishedDateTime: 2023-01-29T13:34:00Z

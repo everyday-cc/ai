@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 101
 published: true
 
 provider:

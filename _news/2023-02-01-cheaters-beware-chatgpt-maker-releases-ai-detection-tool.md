@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Cheaters, beware: ChatGPT maker releases AI detection tool"
-excerpt: "Launch of the AI Text Classifier follows discussion at schools and colleges, including in Seattle, over fears of academic dishonesty and hindered learning."
-publishedDateTime: 2023-01-31T18:12:00Z
-originalUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
-webUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
-ampWebUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/?amp=1"
+title: "Cheaters beware: ChatGPT maker releases AI detection tool"
+excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework."
+publishedDateTime: 2023-01-31T23:02:00Z
+originalUrl: "https://www.ksat.com/business/2023/01/31/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
+webUrl: "https://www.ksat.com/business/2023/01/31/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
+  - Facebook AI
   - AI
+
+images:
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TFBKDF3POFEB3G6SLWY5YVUHDY.jpg?_a=ATO2Bfe0"
+    width: 700
+    height: 467
+    isCached: true
 
 related:
   - title: "ChatGPT's soaring popularity has added $5 billion to the wealth of Nvidia's founder as Wall Street bets on AI boom for the chipmaker"
@@ -53,6 +58,6 @@ related:
         height: 675
         isCached: true
 
-secured: "gt75cblFCuBwWzudgETwD50mbK9yt7Ki4dqmtg4RjehCaGblNy+rnenlp6JFVntuSK5J6Q48rr3cyQ9LVGG+dI/hxkPVTcBFEALF7A71rmRK1yAghQWbJITwKl/XrykGDiqCWSwhq7QAP4o51V+o0rRIrvkQHwPkmuNfcRS9iglCzXnf4hfED88BL1ho3nectHxr/PemUiVHvwKk8zx6R9cScmP+MivQMJb32XqTdUg7/jGPucWA+lYO/EoiVpoH6TpxNA9rxUa0WtsTucsrylvUoZeHOifutDrc0eGyPcxqFpW7vU5Zcn+U7PZ1l9jRs3vo8D+YiQp1P4C2yEvXglfncn7yz4yMhXgt3Hewj0jCWS4MzMPPMUvDhsJQHlKZVz9G5pLWbRzuUNpD2hrAZBZJ42oJ92ivBW7KnH+WkQt1XIZT4sF5z6W+RcI0eo4MAtHnSBRd8g0Rbl+ukpDQ+ge/uRqjsB7/xsOfGDqd1EoVeMRZRbFaMQsISGPva80H7+fguPJFA18sbnYeL3abJw==;1uoFJJxZSK3TXb2J5qVKRA=="
+secured: "CcBqjD20aDmULNsTHBkZHvB8TwAXa8IJ8Yl1lFwbYE6wHICyVZl+5wUB0i+pySd78WB1g9hh8abfJQfC50Y+ZtAitfkLAy+7LbdEsY2T1q80C5nlifknJNjKbEQgTeTBnUQtlBeoxWqw+9QA/rE0XnKkyUnua3BrA0Ppy0bZKhs2F02xps98myU+OwfndQgTUMJOjqomvYN0Wfhakdpn7cKaqr97G/k6WF2/5pWs2JFYPFZyaLMkyXczXvNSP8tYyMXQIeqxzoEkeTIIVPXK0Pj6JN8C4v04TlWdCWwSjwJ9z+lr3LjrxRF44H0xZKFB/kQVOjmk+zqYD6xrwntDesIxen89hSFt6M3zF9B/Rno=;g9itPV6wplgNCQuRKaMiFw=="
 ---
 

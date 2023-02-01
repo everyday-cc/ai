@@ -42,17 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Cheaters, beware: ChatGPT maker releases AI detection tool"
-    excerpt: "Launch of the AI Text Classifier follows discussion at schools and colleges, including in Seattle, over fears of academic dishonesty and hindered learning."
-    publishedDateTime: 2023-01-31T18:12:00Z
-    webUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
-    ampWebUrl: "https://www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/?amp=1"
+  - title: "Cheaters beware: ChatGPT maker releases AI detection tool"
+    excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework."
+    publishedDateTime: 2023-01-31T23:02:00Z
+    webUrl: "https://www.ksat.com/business/2023/01/31/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
+      name: KSAT
+      domain: ksat.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/TFBKDF3POFEB3G6SLWY5YVUHDY.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "4zua+9A3GdelxL8Wrbje1kP5XhAf2ugfwDqq6AVCgheLXnpL7tgyl6rNRzm2L2IiJz8dAeonlMUIRv6MGvmVXW7sFxPhARXVStdqNH6owS2XJmoWFe206mTQ/mhE5lFNlftQKkylNqMwiRexNhqvKjlBMjXGA2Sz6kQcmWmXnK9mp0qeVOQ/B8650h1MmYop0aWTTVM/ie1TklcJITVGDAg2f/Ga67Bv0TC0tILybzMz+JxjrveRNpXWzuLUB1+k18Zh7Tl0peNfk4h3r3NMEcir5GLRULqJTzBhlZDhh39afSclYjqUHU3V/57GT0ms3kNRAgY9alpUcHrg6IThPgVzhCbK8S98owSpC82P4LE=;+wTUUSiDe4m6MSpBpNIqZA=="
 ---

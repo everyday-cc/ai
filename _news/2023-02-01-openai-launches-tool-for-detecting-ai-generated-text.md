@@ -6,7 +6,7 @@ publishedDateTime: 2023-01-31T21:55:00Z
 originalUrl: "https://siliconangle.com/2023/01/31/openai-launches-tool-detecting-ai-generated-text/"
 webUrl: "https://siliconangle.com/2023/01/31/openai-launches-tool-detecting-ai-generated-text/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/openai.png"
