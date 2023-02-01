@@ -3,10 +3,10 @@ category: news
 title: "Congress Wants To Regulate Artificial Intelligence — And It's Using A Bill Written By ChatGPT"
 excerpt: "U.S. and EU regulators have increasingly opened up to the possibility of regulating artificial intelligence (AI). AI poses an interesting challenge as regulators look to define what it is and the reasonable balance between regulation and the progression of the technology."
 publishedDateTime: 2023-02-01T15:02:00Z
-originalUrl: "https://www.benzinga.com/news/23/02/30670828/congress-wants-to-regulate-artificial-intelligence-and-its-using-a-bill-written-by-chatgpt"
-webUrl: "https://www.benzinga.com/news/23/02/30670828/congress-wants-to-regulate-artificial-intelligence-and-its-using-a-bill-written-by-chatgpt"
-ampWebUrl: "https://www.benzinga.com/amp/content/30670828"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30670828"
+originalUrl: "https://www.benzinga.com/news/23/02/30670821/congress-wants-to-regulate-artificial-intelligence-and-its-using-a-bill-written-by-chatgpt"
+webUrl: "https://www.benzinga.com/news/23/02/30670821/congress-wants-to-regulate-artificial-intelligence-and-its-using-a-bill-written-by-chatgpt"
+ampWebUrl: "https://www.benzinga.com/amp/content/30670821"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30670821"
 type: article
 quality: 48
 heat: -1
@@ -350,6 +350,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Could ChatGPT be your child's next tutor? AI experts, politicians weigh in"
+    excerpt: "Auchinloss tols ABC News that AI can scale one-on-one tutoring for students who've suffered historic learning loss after schools shuttered during the start of the COVID-19 pandemic. \"There's very strong evidence that one-on-one tutoring is a highly ..."
+    publishedDateTime: 2023-02-01T18:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/chatgpt-childs-tutor-ai-experts-politicians-weigh/story?id=96724856"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/chatgpt-childs-tutor-ai-experts-politicians-weigh/story?id=96724856"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chatgpt-childs-tutor-ai-experts-politicians-weigh/story?id=96724856"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 55
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-building-ap-jef-230127_1674857072812_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "ChatGPT: What is it and how to use it?"
     excerpt: "ChatGPT is a conversational chatbot that can answer questions, simplify difficult concepts, and even generate poetry like a human."
     publishedDateTime: 2023-01-31T21:17:00Z
@@ -603,6 +619,20 @@ related:
         width: 978
         height: 1500
         isCached: true
+  - title: "ChatGPT: 30 incredible ways to use the AI-powered chatbot"
+    excerpt: "The chatbot can be used as a handy little internet search engine. A $42 monthly paid professional \"experimental\" package is now available from OpenAI. ChatGPT is an advanced language model developed by OpenAI."
+    publishedDateTime: 2023-02-01T18:01:00Z
+    webUrl: "https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/01/image/jpeg/s3HqNlNMPb04Ii8OjWz653HQZtPSsmmj6ZjDaJOb.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Forget ChatGPT - an AI-driven investment fund powered by IBM's Watson supercomputer is quietly beating the market by nearly 100%"
     excerpt: "Yet, the $102 million AI Powered Equity ETF (AIEQ), which launched in 2017, has been quietly fulfilling that request so far this year. Issued by ETF Managers Group in partnership with the fintech firm Equbot, the fund leans on IBM's Watson supercomputer to ..."
     publishedDateTime: 2023-01-31T14:55:00Z
@@ -800,6 +830,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "tj9YQYv0mkatrtTDG6rAu8Js+XDEtA7ee4k7so26+F36AVbIG0Ee9pi0Mwps8lvIf6tVuBvnPvD/7tWcMZJETAK1GMeNW8YtRTsWaGOOX9V+el5VbWglkbmmd5yIDKNv4ZIfmdDqJ0k8x+EyTMAQNa6vIT4Dh/TzeFAUWeyIkTW+MnIvjLrL1cwg4a8XLflZWvcrS9Nl56Lalt6i4fSVRyG2UazCcMI1YuxhxWjrJCDOJxxmHI15qSMU1xOxq01imqZKddzZ0zbOl0WuSCfiEhtMc9xec9bAQ0UOuyFUYIt+JMbglrwkcfR6hPsOY69JlrwRM2LO5/ksBh91gm0ekOMKYdMk6pwkpix5wrG+VF4=;WaNBcYFOZDKubqheC//hdA=="
+secured: "42NxNM5QesP73Pltuhc+d74lXZMTt8Ni/wfubs++VBuXR8NsjX1dUYhrMdeNLT6LCQ9bvgD9TqiGpxI+c4xDodFGT6G0+s0lCuhHED6BZksHTWbtLnFw3FdAFd+PSGaAsCSGo/ktRnTucO9uTJV74A2UfAHh69G+BJeS4kLo4/2eXHouvVWdSRexeWqEXrOsANliy8OL7ArF7+44vLS4Kx5It1BtiF3Rjuvu8Dbtcx0Cl3OMpRutBcUEc6vXOXcRoxnV5Yv2c+C/BSGDMXaVOi2blTyHH0Kwn59Elh4dI7w9G1woOrHQbAbTYfXWWgGwRY00IrVDA2RGeGw3vy+lISSY+1WRS+Mf7PuRwLF9DKs=;kqKiTAFcuKy9iqpP/v6k6A=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "CFO Dinner: Generative AI and the Future of Finance"
-    excerpt: "Michael Schrage, Research fellow, MIT Sloan School of Management Interviewer: Michal Lev-Ram, Editor-at-Large, FORTUNE"
-    publishedDateTime: 2023-01-28T01:29:00Z
-    webUrl: "https://fortune.com/videos/watch/CFO-Dinner-Generative-AI-and-the-Future-of-Finance/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 84
-    images:
-      - url: "https://d2byebo1j9i40c.cloudfront.net/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1/Images/posterImage-ver1-1280x720.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence program will change the future of education"
     excerpt: "Launched in November, ChatGPT is a natural language tool driven by artificial intelligence that allows users to have human-like interactions and more with a chatbot. The application can answer ..."
     publishedDateTime: 2023-01-29T16:09:00Z

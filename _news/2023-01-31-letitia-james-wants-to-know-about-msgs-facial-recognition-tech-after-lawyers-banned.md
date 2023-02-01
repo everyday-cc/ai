@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dolan says he he has no plan to sell Knicks, retire, but he loves facial recognition"
-    excerpt: "Dolan defended Madison Square Garden’s controversial use of facial recognition technology to ban attorneys from firms involved in lawsuits against the Knicks or MSG from entering the property ..."
-    publishedDateTime: 2023-01-28T02:45:00Z
-    webUrl: "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/"
-    ampWebUrl: "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://nba-nbcsports-com.cdn.ampproject.org/c/s/nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/"
-    type: article
-    provider:
-      name: NBC Sports
-      domain: nbcsports.com
-    quality: 52
-    images:
-      - url: "https://nba.nbcsports.com/wp-content/uploads/sites/12/2023/01/GettyImages-1431321339-e1674869992496.jpg"
-        width: 698
-        height: 394
-        isCached: true
   - title: "James Dolan won't sell Knicks, defends MSG facial recognition tech"
     excerpt: "In a rare media interview Friday James Dolan said he has no plans to sell the New York Knicks or Rangers and discussed the facial recognition technology being"
     publishedDateTime: 2023-01-28T03:59:00Z
@@ -55,6 +39,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Sources: MSG, Dolan hire Hope Hicks amid facial recognition backlash"
+    excerpt: "The decision to hire Hope Hicks comes after it was revealed James Dolan used the controversial technology to boot fans critical of him from games and events at MSG-owned properties."
+    publishedDateTime: 2023-02-01T17:29:00Z
+    webUrl: "https://www.sportsbusinessdaily.com/Daily/Issues/2023/02/01/People-and-Pop-Culture/james-dolan-msg-hire-hope-hicks-facial-recognition-issues.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessdaily.com
+    quality: 19
 
 secured: "/KtBTJGHXFS0lgsHQ3JEatILw3AgNyfL4JIomIIaawO+2K3ZKeazk9WTKfBJvxPnNrPe0jVqoteNg7TtIdD21apjZAfyZhWda92x6HbyAnDZfni8YanpZ03Hvjaz2VYCnBeSqnNsYbi9LTvW6zyYsnswv2QLS9OzE+skklRvZoaJGOcUlZa/ZS8R2jAHQKDq0MQq63EKr/Em9UZfRpSoPHz/k9g3JPe4vCt5ubL+doYSFhrtrAYqavhXLDOIllQKBbKJJc8+yoLwtcrfnNPWFAu7jXSfkFlX830iQvshHKyFgJlGWa8FJpkaZ9FJ6GOKgpE6KZdCLnsgqt9HfMPA6ZrKF5D+RHDkUkeNw3bwYBlByHqgDP86oWcSJNJiAOyqZh8CwQO+ze91AjfpK18mwzKY+aMs+WhcXrQFZ+vTswzz53eFBW/CuGs2WFSYQGWK5/3UDDgzt3svwYvzzJycOOymbtwFYuRVFGaRFYyF9odKC/CV2RkceWfDPLgNZ21XJATs+3A04UUt8B9WMyk9VA==;GVh/dSoAqJuMazsmkCD/iw=="
 ---

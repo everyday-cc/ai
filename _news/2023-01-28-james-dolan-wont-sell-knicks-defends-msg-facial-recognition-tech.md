@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273444355/james-dolan-wont-sel
 webUrl: "https://www.bignewsnetwork.com/news/273444355/james-dolan-wont-sell-knicks-defends-msg-facial-recognition-tech"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dolan says he he has no plan to sell Knicks, retire, but he loves facial recognition"
-    excerpt: "Dolan defended Madison Square Garden’s controversial use of facial recognition technology to ban attorneys from firms involved in lawsuits against the Knicks or MSG from entering the property ..."
-    publishedDateTime: 2023-01-28T02:45:00Z
-    webUrl: "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/"
-    ampWebUrl: "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://nba-nbcsports-com.cdn.ampproject.org/c/s/nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/"
-    type: article
-    provider:
-      name: NBC Sports
-      domain: nbcsports.com
-    quality: 52
-    images:
-      - url: "https://nba.nbcsports.com/wp-content/uploads/sites/12/2023/01/GettyImages-1431321339-e1674869992496.jpg"
-        width: 698
-        height: 394
-        isCached: true
   - title: "Letitia James wants to know about MSG’s facial recognition tech after lawyers banned"
     excerpt: "Madison Square Garden has reportedly begun using facial recognition technology to identify and deny entry to its events and the State’s Attorney General Letitia James has questions. The issue began when MSG allegedly used facial recognition technology to identify and deny entry to a group of lawyers who are affiliated with law firms that represent"
     publishedDateTime: 2023-01-30T16:00:00Z
@@ -55,6 +39,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Sources: MSG, Dolan hire Hope Hicks amid facial recognition backlash"
+    excerpt: "The decision to hire Hope Hicks comes after it was revealed James Dolan used the controversial technology to boot fans critical of him from games and events at MSG-owned properties."
+    publishedDateTime: 2023-02-01T17:29:00Z
+    webUrl: "https://www.sportsbusinessdaily.com/Daily/Issues/2023/02/01/People-and-Pop-Culture/james-dolan-msg-hire-hope-hicks-facial-recognition-issues.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessdaily.com
+    quality: 19
 
 secured: "t9q6tfw4kCwb3awQ710G1G6u70DQSyfD2wIX88OUC7mGIRPT/28oOMM5pdGQ48Bo78//dd6j1x23R/hPJabLv5CzSRj7LY+9k8+bQJXKrS/1lgK+1MiCMq9/Y8hJDYdUAddqsXk69VOeIRsSV+VAtBNGoQDAKsgW/S+WBvuluhZZWkTB/4mgEF+gAsgdsOsdZwck1SRB37SH2MaCEH60KeNeNDyQQVcolQYmwemFEH0E5mIiPdQ+qalPDZS9NvJ5DUehpNVaXPYZBJ/O1Ngu98UYDd/n4Hn3dxIOwwaMevxrHKDTmUjO71tDjo78qcVvkz/5D7JM+0JNxO0oIiWbymYI1qEQEx7h3+eAbSTm7ik=;DFT58zkYjh5osniulzF8pw=="
 ---

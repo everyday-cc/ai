@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-bringing-san-francisco
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Car Services Want to Expand in San Francisco Despite Recent Hiccups"
+    excerpt: "Waymo and Cruise hope to widen their projects to include more of the city. But local officials are increasingly concerned about breakdowns causing congestion."
+    publishedDateTime: 2023-02-01T17:04:00Z
+    webUrl: "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.html"
+    ampWebUrl: "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.amp.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2023/01/31/business/00selfdriving-stall-01/00selfdriving-stall-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "San Francisco wants to slow robotaxi rollout over blocked traffic and false 911 calls"
     excerpt: "Now that both companies have had their fully driverless vehicles on San Francisco streets for several months, we’re starting to see the vehicles’ response — or lack thereof — to complex tr ..."
     publishedDateTime: 2023-01-29T20:11:00Z

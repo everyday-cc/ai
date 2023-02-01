@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/28/ai-leadership-wi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/28/ai-leadership-with-us-and-eu-advancing-ai-research-in-critical-global-needs/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "US, EU Launch Agreement on Artificial Intelligence"
-    excerpt: "AI modeling, which refers to machine-learning algorithms that use data to make logical decisions, could be used to improve speed, efficiency of government operations, services"
-    publishedDateTime: 2023-01-28T01:42:00Z
-    webUrl: "https://www.voanews.com/a/us-eu-launch-agreement-on-artificial-intelligence/6937782.html"
-    ampWebUrl: "https://www.voanews.com/amp/us-eu-launch-agreement-on-artificial-intelligence/6937782.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/us-eu-launch-agreement-on-artificial-intelligence/6937782.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 39
   - title: "US, EU Sign Unprecedented AI Agreement"
     excerpt: "The agreement will prioritize international research collaboration while directing AI resources toward specific industries."
     publishedDateTime: 2023-01-30T13:01:00Z

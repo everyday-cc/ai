@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-02-future-full-undying-self-repairi
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 668
     isCached: true
 
-secured: "VdnXkt7b3iYs2dgVUE6aSskXfUh3wnBr78M06VeKKF1sTyP/jnz/3e9uzSVM61CXYDFi8YFi8sy/g7HAMaH+80U0Qt5LmrMPBumePlt3zYzMIePrYd5NPmsef+PFOv8V8yNu3F00wCP2B8h9Qr2whAMidA2QQlvgvEK49LhI5MhSvfflO9NF5RKFOY3457cRHFqc1/FTAKI4k0qaU8XhCS5JJnNvJtGv3ha9dWY0yw94ACratmuPmMy1mmPf8B8gC4iiEOq38TgEGGkCpujksQWUVCN6hzm5VoG3EC6Iwrr5FEKebMupfff8HKG4ocfnuwvz0oVBVaBQckrH3F8Emk7nMc448rdK0Vhq0LnTtYw=;Q9ckZzF+TsC6iAOJE1HAGA=="
+related:
+  - title: "Undying, self-repairing AI robots that live in large colonies will be everywhere in the future, experts claim"
+    excerpt: "THERE are Terminator-like robots that have the technological leap to take over the future, experts say. Technology has come far enough that robots may live forever, and scientists are at work on"
+    publishedDateTime: 2023-02-01T16:53:00Z
+    webUrl: "https://www.thesun.co.uk/tech/21243598/self-repairing-artificial-intelligence-robots-are-taking-over/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/21243598/self-repairing-artificial-intelligence-robots-are-taking-over/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21243598/self-repairing-artificial-intelligence-robots-are-taking-over/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 55
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/02/NA-AI-robot-offplatform.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "gyhUuFtPOr+hv3ZKwgnrbqQhpZwi2I1aKdXbuxx0CeOSsE7BmrF7yW/9Je3oO+esAdGTKR3xcYNbmfhqf0nOjSYlGrT8UTyog5QEINGScj8mWsSSS5Scm9Q1sTu2hFKc0kaprWdS/4q/PE3mAheuJZNQYuFg9mIeYD75HIw+L2EpqIyml/Uwjnw2AWF7ZxXHuv8ViPmUNtMRuzpFUj9PUN8e69YpWVeInHbPX0/VQxzykAecpsvHYrBH9m/Tktob6pTMydBdmD8J9VGv/qHwCZ9tmDt7yJygZN7HvPsLBfg84eOphkUUgOY9pBPTcjy/4MZ+mXXxTTHKBFXCc9ZfW4Q0ZswAc1NeK/t48OKTyKJHEv8ZJD2Bzg2/bYwXUOcuNLmEF73BA1erkCRuRgkMZlHWZi9Fzn1gWaeh6/RQFecDXhfwI1aQew/disQpiHUnnscda8U6XKUhSXEKjybcAMCsQSLRT4OzUkGQqzeSrXSr6Pe+wYzN5hNt0M3anDnejMavpvzvMl+FrBrpmiSgxw==;pyIXlD7gCDrdd2/dz13vBw=="
 ---
 

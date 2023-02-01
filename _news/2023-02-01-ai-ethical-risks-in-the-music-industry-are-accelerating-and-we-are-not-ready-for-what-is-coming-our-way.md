@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Does Artificial Intelligence Work? And How Is It Disrupting The Tech Industry?"
+    excerpt: "Artificial intelligence allows machines to perform tasks that require human input quickly and more efficiently. We look at how AI is disrupting the tech industry right now, with major companies pouring billions of dollars into AI research."
+    publishedDateTime: 2023-02-01T17:26:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63daae61aa317d4bfd3e9f12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Academics also at ethical risk from using AI, regulator warns"
     excerpt: "Universities have been put on notice that they must address risks of student cheating posed by new forms of artificial intelligence but also be alert to academics taking shortcuts through using AI."
     publishedDateTime: 2023-02-01T06:38:00Z

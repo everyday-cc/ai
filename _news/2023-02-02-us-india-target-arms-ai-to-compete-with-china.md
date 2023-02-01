@@ -99,6 +99,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "U.S.-India partnership targets arms, AI to compete with China"
+    excerpt: "The larger challenge posed by China – its economic practices, its aggressive military moves – have had a profound impact on the thinking in Delhi' - Click the link for more details."
+    publishedDateTime: 2023-02-01T17:48:00Z
+    webUrl: "https://www.i24news.tv/en/news/international/technology-science/1675273281-u-s-india-partnership-targets-arms-ai-to-compete-with-china"
+    type: article
+    provider:
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 39
+    images:
+      - url: "https://cdn.i24news.tv/uploads/67/9a/4e/d4/33/15/1e/59/e7/6f/c5/83/3b/73/cc/c7/679a4ed433151e59e76fc5833b73ccc7.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AWS launches Data Lab program in India"
     excerpt: "AWS Data Lab is designed to bring enterprise customers and AWS data specialists together to solve complex data challenges in tangible ways, using AWS products and services."
     publishedDateTime: 2023-01-30T11:35:00Z

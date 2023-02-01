@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-
 webUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F5%252F3%252F5%252F44175357-1-eng-GB%252F2023-01-19T191532Z_2055329384_RC2WRW96Z15E_RTRMADP_3_USA-ISRAEL-UKRAINE.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
+        isCached: true
+  - title: "U.S.-India partnership targets arms, AI to compete with China"
+    excerpt: "The larger challenge posed by China – its economic practices, its aggressive military moves – have had a profound impact on the thinking in Delhi' - Click the link for more details."
+    publishedDateTime: 2023-02-01T17:48:00Z
+    webUrl: "https://www.i24news.tv/en/news/international/technology-science/1675273281-u-s-india-partnership-targets-arms-ai-to-compete-with-china"
+    type: article
+    provider:
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 39
+    images:
+      - url: "https://cdn.i24news.tv/uploads/67/9a/4e/d4/33/15/1e/59/e7/6f/c5/83/3b/73/cc/c7/679a4ed433151e59e76fc5833b73ccc7.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "US, India target arms, AI to compete with China"
     excerpt: "The White House on Tuesday launched a partnership with India that US President Joe Biden said he hopes would help the countries compete against China on military equipment, semiconductors and artificial intelligence (AI)."

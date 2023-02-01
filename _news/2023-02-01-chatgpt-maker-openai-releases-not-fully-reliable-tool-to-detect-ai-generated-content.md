@@ -353,6 +353,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Could ChatGPT be your child's next tutor? AI experts, politicians weigh in"
+    excerpt: "Auchinloss tols ABC News that AI can scale one-on-one tutoring for students who've suffered historic learning loss after schools shuttered during the start of the COVID-19 pandemic. \"There's very strong evidence that one-on-one tutoring is a highly ..."
+    publishedDateTime: 2023-02-01T18:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/chatgpt-childs-tutor-ai-experts-politicians-weigh/story?id=96724856"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/chatgpt-childs-tutor-ai-experts-politicians-weigh/story?id=96724856"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chatgpt-childs-tutor-ai-experts-politicians-weigh/story?id=96724856"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 55
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-building-ap-jef-230127_1674857072812_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "ChatGPT: What is it and how to use it?"
     excerpt: "ChatGPT is a conversational chatbot that can answer questions, simplify difficult concepts, and even generate poetry like a human."
     publishedDateTime: 2023-01-31T21:17:00Z
@@ -418,9 +434,9 @@ related:
   - title: "Congress Wants To Regulate Artificial Intelligence — And It's Using A Bill Written By ChatGPT"
     excerpt: "U.S. and EU regulators have increasingly opened up to the possibility of regulating artificial intelligence (AI). AI poses an interesting challenge as regulators look to define what it is and the reasonable balance between regulation and the progression of the technology."
     publishedDateTime: 2023-02-01T15:02:00Z
-    webUrl: "https://www.benzinga.com/news/23/02/30670828/congress-wants-to-regulate-artificial-intelligence-and-its-using-a-bill-written-by-chatgpt"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30670828"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30670828"
+    webUrl: "https://www.benzinga.com/news/23/02/30670821/congress-wants-to-regulate-artificial-intelligence-and-its-using-a-bill-written-by-chatgpt"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30670821"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30670821"
     type: article
     provider:
       name: Benzinga.com
@@ -605,6 +621,20 @@ related:
       - url: "https://www.thaipr.net/wp-content/uploads/2023/02/1500__Bern-Elliot-Distinguished-VP-Analyst-at-Gartner1-26d3749e.jpg"
         width: 978
         height: 1500
+        isCached: true
+  - title: "ChatGPT: 30 incredible ways to use the AI-powered chatbot"
+    excerpt: "The chatbot can be used as a handy little internet search engine. A $42 monthly paid professional \"experimental\" package is now available from OpenAI. ChatGPT is an advanced language model developed by OpenAI."
+    publishedDateTime: 2023-02-01T18:01:00Z
+    webUrl: "https://interestingengineering.com/innovation/chatgpt-30-incredible-ways-to-use"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/01/image/jpeg/s3HqNlNMPb04Ii8OjWz653HQZtPSsmmj6ZjDaJOb.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Forget ChatGPT - an AI-driven investment fund powered by IBM's Watson supercomputer is quietly beating the market by nearly 100%"
     excerpt: "Yet, the $102 million AI Powered Equity ETF (AIEQ), which launched in 2017, has been quietly fulfilling that request so far this year. Issued by ETF Managers Group in partnership with the fintech firm Equbot, the fund leans on IBM's Watson supercomputer to ..."

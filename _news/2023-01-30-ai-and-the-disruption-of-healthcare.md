@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "CFO Dinner: Generative AI and the Future of Finance"
-    excerpt: "Michael Schrage, Research fellow, MIT Sloan School of Management Interviewer: Michal Lev-Ram, Editor-at-Large, FORTUNE"
-    publishedDateTime: 2023-01-28T01:29:00Z
-    webUrl: "https://fortune.com/videos/watch/CFO-Dinner-Generative-AI-and-the-Future-of-Finance/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 84
-    images:
-      - url: "https://d2byebo1j9i40c.cloudfront.net/5e41bf30-bc3e-4368-82c1-5ab3ea0283a1/Images/posterImage-ver1-1280x720.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence program will change the future of education"
     excerpt: "Launched in November, ChatGPT is a natural language tool driven by artificial intelligence that allows users to have human-like interactions and more with a chatbot. The application can answer ..."
     publishedDateTime: 2023-01-29T16:09:00Z

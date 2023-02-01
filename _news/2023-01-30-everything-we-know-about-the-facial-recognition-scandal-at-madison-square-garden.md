@@ -37,6 +37,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Garda use of body cameras and facial recognition technology debated in Dáil"
+    excerpt: "Simon Harris says he intends to bring amendment to Garda Síochána (Recording Devices) Bill 2022 at committee stage on use of facial recognition technology"
+    publishedDateTime: 2023-02-01T18:37:00Z
+    webUrl: "https://www.irishtimes.com/politics/2023/02/01/garda-use-of-body-cameras-and-facial-recognition-technology-debated-in-dail/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/resizer/HXgO7Di9v3irmt8MSiN9SowHJEo=/1200x630/filters:format(jpg):quality(70):focal(3787x2723:3797x2733)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/PQIOXH6FNRHG3HIUS2X4WFQJVQ.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "James Dolan defends MSG’s use of facial recognition"
     excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
     publishedDateTime: 2023-01-30T16:43:00Z

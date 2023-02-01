@@ -4,17 +4,17 @@
     {
       "path": "_news/2023-02-01-worse-at-math-better-at-tech-how-covid-19-impacted-learning.md",
       "title": "Worse at math, better at tech: How COVID-19 impacted learning",
-      "excerpt": "Meanwhile, video conferencing remains relevant for group projects, while machine-learning apps and chat tools can help teachers draft tests and assignments. A separate report by the Pew Research Center also noted that more rapid advancements in online ...",
+      "excerpt": "The COVID-19 pandemic cost students months of learning and many fell behind in math and reading, a new study has found.",
       "sourceUrl": null,
-      "webUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
-      "originalUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
+      "webUrl": "https://ktla.com/news/nexstar-media-wire/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
+      "originalUrl": "https://ktla.com/news/nexstar-media-wire/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2023/02/c4fcc8b2f8c643a5ac7848dae4ed9a0c.jpg?w=1280",
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/02/c4fcc8b2f8c643a5ac7848dae4ed9a0c.jpg?w=1280",
           "width": 1280,
           "height": 925,
           "title": null,
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
-      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
-      "publishedDateTime": "2023-02-01T07:15:00-08:00",
+      "ampWebUrl": "https://ktla.com/news/nexstar-media-wire/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nexstar-media-wire/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
+      "publishedDateTime": "2023-02-01T06:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KLFY News 10",
-        "domain": "klfy.com",
+        "name": "KTLA",
+        "domain": "ktla.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1066,49 +1066,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-24-ai-deep-learning-predicts-brain-tumor-growth.md",
-      "title": "AI Deep Learning Predicts Brain Tumor Growth",
-      "excerpt": "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
-      "publishedDateTime": "2023-01-24T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-24-artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028.md",
       "title": "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028",
       "excerpt": "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison",
@@ -1160,6 +1117,49 @@
         "AI",
         "AI in Finance",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-ai-deep-learning-predicts-brain-tumor-growth.md",
+      "title": "AI Deep Learning Predicts Brain Tumor Growth",
+      "excerpt": "Artificial intelligence (AI) deep learning combined with patient imaging data is opening a new world of possibilities for medical clinicians and researchers, especially in neuroscience. A new study published in the Journal of Theoretical Biology demonstrates how AI deep learning can predict brain tumor progression for glioblastoma from medical images to accelerate precision medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/pic07825.jpg?itok=E3c4ivWu",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202301/ai-deep-learning-predicts-brain-tumor-growth?amp",
+      "publishedDateTime": "2023-01-23T14:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {

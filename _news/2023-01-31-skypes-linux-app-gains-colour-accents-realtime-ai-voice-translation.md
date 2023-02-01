@@ -9,7 +9,7 @@ ampWebUrl: "https://www.omgubuntu.co.uk/2023/01/skype-linux-app-ai-voice-transla
 cdnAmpWebUrl: "https://www-omgubuntu-co-uk.cdn.ampproject.org/c/s/www.omgubuntu.co.uk/2023/01/skype-linux-app-ai-voice-translation/amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Skype translation gains two major features in latest update"
-    excerpt: "Microsoft has worked to improve Skype translation over the years. The feature first came out in preview seven years ago and has gained new features steadily. Now, Skype can automa"
-    publishedDateTime: 2023-01-30T12:30:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/skype-translation-gains-two-major-features-in-latest-update"
+  - title: "Skype Linux App Gets Colour Options, Realtime AI Voice Translation"
+    excerpt: "Anyone out there still using Skype? Thought not , but Microsoft just dropped a big feature update across Skype's desktop and web apps that will"
+    publishedDateTime: 2023-01-30T21:03:00Z
+    webUrl: "https://www.omgubuntu.co.uk/2023/01/skype-linux-app-ai-voice-translation"
+    ampWebUrl: "https://www.omgubuntu.co.uk/2023/01/skype-linux-app-ai-voice-translation/amp"
+    cdnAmpWebUrl: "https://www-omgubuntu-co-uk.cdn.ampproject.org/c/s/www.omgubuntu.co.uk/2023/01/skype-linux-app-ai-voice-translation/amp"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 19
+      name: OMG! Ubuntu!
+      domain: omgubuntu.co.uk
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/qrTZ2IQpwi0/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "qCfaNnTwmiLqU3OpkEghWdkqMbRdayopsL85GIuIkNEWq+nRvSCj8i8OyVzq7uh4OmjZfC7hCaE12r9sAvY66ngkh9A+PsAQJtbwMErfGPsXKYI4XLyLe13RF5i026EKuIZrNz25B/hNL73N+T2FhA/DevXw1BGUpqpwvdGoAM92gv4ejY7ziLMtS7007VTc3ko4R45IxYPqCaRbD5RenMORllmGjcuaXe3CIAhim6zWHsYQv7b9hwRNLW5mmFvRNi/NWxG5xCf4APCODUENg2FOsSU+CRS1CQzZhpLs4B/MKDmwItr+n5vR1APfJSNb55vyGLej52DjyTD3eu2W3hBIqlPZJPPmrCxd5rbmXiMJ47Ze+QUnXfMrBcOMIbQF2LbqlJYH+kc6AraWgPRRXpVJB6cI5EJfkjcYqfegVVKjEY9mk9WX1VyT+KMqcfDXSQl6lqjXUp1kKzwPXHUUD2qnZ95SJvN2HD0bACePUH6aN3SPsRRU3OsOQMHHma1gYxVexC+gM8Benx6mCILX8g==;c3tFo1NLsTAvRemQxlrL/A=="
 ---

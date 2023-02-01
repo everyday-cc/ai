@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-30T22:56:00Z
 originalUrl: "https://www.chicagotribune.com/business/success/ai-stocks-money-management-20230130-dp5iamxctbau3nme4ul4wxztpu-story.html"
 webUrl: "https://www.chicagotribune.com/business/success/ai-stocks-money-management-20230130-dp5iamxctbau3nme4ul4wxztpu-story.html"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+  - AI in Autos
 
 images:
   - url: "https://www.chicagotribune.com/resizer/57nEl0-it_rD9vYNbD54rmKKki4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/45MECPUUXRC6IBV22FEIO453LQ.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/laptops-get-ai-chips-sm
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy/amp-11675178489033.html"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Maine businesses, schools get smart at artificial intelligence meeting"
-    excerpt: "A study by the Portland-based Roux Institute finds that a handful of Maine industries are using AI as a tool for increased efficiency and a host of other competitive advantages."
-    publishedDateTime: 2023-01-28T01:29:00Z
-    webUrl: "https://www.centralmaine.com/2023/01/27/maine-businesses-schools-get-smart-at-artificial-intelligence-meeting/"
-    type: article
-    provider:
-      name: Kennebec Journal
-      domain: centralmaine.com
-    quality: 36
 
 secured: "BzaQB/fu355GObRVIfdT8vZo5Nml6sTynnLFofnoZDHMP2XU2MlbVyqnky898VGmv3TFvjMuKKM8j8AwGatwrogdK7ba0SFV8Mr8Paxtl2H/TIOfMiryybd03r5TK1mZD8jCfrDV+yvYHtjZi9Ix/J1o+J+HEQRz9SROZOGm4qLWyJS0BQvUFvK4ZrcHv4cb/S8iKGr4sjT1V4EjEwNq0aN/qv/YOxcG0tj07sKtzThciwEbyEGaO9CXG2WvkdnxrJt24lXMl57A9LEeAxjdIQS53I1xobzfS+Gz2rJEGqlgnTLEtyd/FN/KPmjlOoKGZYC8aFyMVP4zx2Oso8PWL3/dUHu8qQoo0aRE/LKx7Jw=;S9cG8ZIkweNF8EcQQDLTFw=="
 ---

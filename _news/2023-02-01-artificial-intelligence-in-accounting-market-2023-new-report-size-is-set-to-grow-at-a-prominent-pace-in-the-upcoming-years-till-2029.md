@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-01T09:25:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2023-new-report-size-is-set-to-grow-at-a-prominent-pace-in-the-upcoming-years-till-2029-2023-02-01"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2023-new-report-size-is-set-to-grow-at-a-prominent-pace-in-the-upcoming-years-till-2029-2023-02-01"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -42,6 +42,22 @@ related:
         width: 842
         height: 596
         isCached: true
+  - title: "How Does Artificial Intelligence Work? And How Is It Disrupting The Tech Industry?"
+    excerpt: "Artificial intelligence allows machines to perform tasks that require human input quickly and more efficiently. We look at how AI is disrupting the tech industry right now, with major companies pouring billions of dollars into AI research."
+    publishedDateTime: 2023-02-01T17:26:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63daae61aa317d4bfd3e9f12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "2WrFYnRvk7WK1hzpp/7gvjO20c3Ul/P/1lGJdKQotuMN+4M8KlrHdoL2ykKMpGxaT9VAIgb9+CFWvtM2KO6HYTwfO7wm9n+IVFz2X2VC+Ft/+t6x/RvjNGZYZToB+O9q3UkcRxnNz5zTWQ3Xn1K4pGfU+QBibbDge/kqnhfYLRn39oy8aedMpRskjEUuUyi03nVM2kFyGVK7Qkn8PAihEjf8/qeIdvj8sw9izTWj0eZ4ErkA9uchuYUFtPnj0LRWwRQcOzQzkKkj+OKAK5p/wjkMSnDOqPyGDTUlLUS+S0+RWx5O4Z1Af8zTl2C3GICSNldKVaQlHVE2bXrHFLrua0WP5HoxMzr+0/Sy3hNowOl8ndx35rMT7R2CEjUjT/g1EAiLTiqTASQ0kDh6BmUsyoP1FICwVlKJk2Y6GVcnIKFujOBQn5x/EtMe4ZMGpEsGRphZ/ZokHyeQEb5mjFOt3jlBRtbvblNT+WiYJe5ItuHaFhxa8Gff2OnvzbGpvjuW9F/Shvk9a0dQ2CALbpTl6w==;vZT8U4I3IJvuaj6J7zfsBQ=="
 ---
