@@ -68,6 +68,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
+  - title: "Clickbait or Creativity? The art world wrestles with AI"
+    excerpt: "Paris: Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in"
+    publishedDateTime: 2023-02-02T08:07:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/02/02/2023/clickbait-or-creativity-the-art-world-wrestles-with-ai"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230202_1675325500-30.jpg?1675325500"
+        width: 1000
+        height: 664
+        isCached: true
   - title: "Creativity or clickbait? Art world wrestles with AI"
     excerpt: "Tech companies tout their inventions as a liberating force of art for all, but purists argue that the artist is still the central cog in the machine."
     publishedDateTime: 2023-02-01T06:46:00Z

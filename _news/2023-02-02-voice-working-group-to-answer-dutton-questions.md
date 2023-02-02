@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/politics/federal/voice-working-group-to-answer
 webUrl: "https://www.afr.com/politics/federal/voice-working-group-to-answer-dutton-questions-20230201-p5ch7n"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Voice working group meeting begins"
-    excerpt: "Prime Minister Anthony Albanese says the Voice to Parliament’s “two clear messages” are for “recognition and consolation” during its working group meeting on Thursday afternoon. “Recognizing first nations people in our nation"
-    publishedDateTime: 2023-02-02T05:34:00Z
-    webUrl: "https://www.theaustralian.com.au/news/voice-working-group-meeting-begins/video/bce29e8ecea8e5ccd25457c19fb50794"
+  - title: "Peter Dutton commits to more Voice meetings after talks fail to sway his position"
+    excerpt: "Australians are being called to support a referendum on an Indigenous Voice to Parliament whether or not it is backed by all sides of politics."
+    publishedDateTime: 2023-02-02T08:14:00Z
+    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-commits-to-more-voice-meetings-after-talks-fail-to-sway-his-position/dr764178n"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
+      name: SBS
+      domain: sbs.com.au
+    quality: 34
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/ceeda70/2147483647/strip/true/crop/3592x2020+590+498/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fbc%2Fc5%2F6425bce14feea22ba8688fe798b4%2Fdutton.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fMzCflV/vGCbgHIf82EKmaZj8kLhrGKQ/HYnSriX1tjS/uIam1Vg9pYNhmq2XWbqNAtj1llSfQv/oatnrthxDzGODUf8hfnwKHDhqHIQIBNYkNHWoRxDJR2BNqaSvRXpqoOjJ5SnQ0FId5HMkOlGjMNSjT9fycSyuYL12UyarVGOsmL4V6FQH/I9ZklVBJvOQrTpt4l5pv/ixtzYdCfM2XeBxqn2FqC5rgtXeplmAdaw+V2+5M1n+ajPTbnMbz98PFuKyAATEirfjTuuXB7sq/rGG/qsu6b8JF5ztP4xNrXEMJNzNydbA9p1zg5FkRT0QwXWSfgEm5Sz0LT/lCx4uNZpaOr5P2o2kUTezghy6Gk=;duydSgQaYnjxbfD2caWckw=="
 ---

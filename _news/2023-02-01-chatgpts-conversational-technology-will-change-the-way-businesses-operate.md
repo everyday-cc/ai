@@ -308,22 +308,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:41:00Z
-    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 61
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "ChatGPT — the ultimate AI innovation"
     excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
     publishedDateTime: 2023-01-30T15:27:00Z
@@ -734,6 +718,20 @@ related:
       - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_e8f743d069b8cae26569803478517c01-300.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "ChatGPT unleashes stock trader stampede for everything AI"
+    excerpt: "A $480 billion chipmaker whose processors are used for complex computing tasks. A digital-media company seeking to mine nascent technologies for content. A tiny software firm whose shares traded below $1 for most of December.These are some of the disparate businesses whose stocks are benefiting from euphoria swirling around artificial intelligence - the latest buzzword to whip traders into a speculative froth - and evoking memories of past bubbles.The blistering rallies in companies that have AI in their names is reminding veteran market professionals of previous crazes like the one in 2017 sparked by blockchain technology. In that period, there was a dash for exposure - both from companies and traders - only to see the frenzy fizzle and stock gains disappear. While AI is undoubtedly a huge growth opportunity and a theme that investors should take seriously, buyers should beware, said Michael O'Rourke of JonesTrading.\"We've had tons of episodes like this before where a group becomes hot and everyone just piles into everything related to it,\" O'Rourke, the firm's chief market strategist, said in an interview. \"As far as everyone who's betting on names and tickers, it will be a wild ride for them. If you're speculating, you're not investing.\"The massive popularity of OpenAI's ChatGPT tool has generated a lot of excitement about the potential use cases for AI since it debuted late last year. Microsoft is investing $10 billion in OpenAI, which needs funding and cloud-computing power to run increasingly complex models. Microsoft said it plans to use OpenAI's models in current and future products.Nvidia, the semiconductor maker, has been touted by Wall Street analysts as a beneficiary of greater investment in AI since it dominates the market for graphics chips that provide the computing power behind the software models. Its shares rallied 34% in January, Nvidia's best month in almost six years.The case behind the rallies in some other stocks are more tenuous. BigBear.ai, which uses artificial intelligence to help customers analyze data, saw its shares soar almost fivefold last month. BuzzFeed, the media company that's been cutting costs amid a slump in digital advertising, jumped more than 300% over two days last week after its chief executive officer pledged to make AI-inspired content part of its \"core business.\"C3.ai, another software maker that counts Raytheon and Baker Hughes among its customers, rallied a record 77% last month.On Wednesday, LivePerson shares jumped as much as 19% after the customer service software maker said it plans to include generative capabilities from OpenAI.Baidu, China's largest-search engine company, also is jumping into the fray. The company plans to roll out a chatbot service similar to ChatGPT, according to a person familiar with the matter, though the news this week failed to lift the stock price.Until the bubble bursts, O'Rourke said he wouldn't be surprised to see companies adding AI to their names or a jump in secondary stock offerings as executives seek to capitalize on the euphoria.\"It's still early stages,\" he said. \"For all the names and tickers moving now there will probably be three times as many in a month.\"Investors' recent optimism toward tech stocks has helped propel the Nasdaq 100 Index above its 200-day moving average. This is a key measure for long-term momentum and the tech-heavy gauge had been trading under it for 203 consecutive sessions, making it the longest such streak in about two decades. The index is up nearly 11% this year, but the Federal Reserve's rate on Wednesday and a string of Big Tech earnings will show if this rally has any legs.---Top Tech Stories-Intel, struggling with a rapid drop in revenue and earnings, is cutting management pay across the company to cope with a shaky economy and preserve cash for an ambitious turnaround plan.-Snap is forecasting its first quarterly revenue decline, citing a flurry of changes to Snapchat's advertising products that may be disruptive to the social media app's business. Snap has persuaded more than 2 million users to pay"
+    publishedDateTime: 2023-02-02T08:33:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/feb/02/chatgpt-unleashes-stock-trader-stampede-for-everyt/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 39
+    images:
+      - url: "https://thumb.spokesman.com/uM8icINgUgad9Aq-C5o423VNWII=/1200x630/smart/media.spokesman.com/photos/2023/02/01/63dadf161ca74.image.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Forget ChatGPT - an AI-driven investment fund powered by IBM's Watson supercomputer is quietly beating the market by nearly 100%"
     excerpt: "Yet, the $102 million AI Powered Equity ETF (AIEQ), which launched in 2017, has been quietly fulfilling that request so far this year. Issued by ETF Managers Group in partnership with the fintech firm Equbot, the fund leans on IBM's Watson supercomputer to ..."

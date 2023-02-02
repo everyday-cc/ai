@@ -107,20 +107,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "SEC investigating Tesla's self-driving vehicle claims made by Elon Musk"
-    excerpt: "The U.S. Securities and Exchange Commission is investigating claims made by Tesla CEO Elon Musk regarding the company's autopilot vehicle feature."
-    publishedDateTime: 2023-01-28T16:29:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/sec-investigating-teslas-self-driving-vehicle-claims-made-elon-musk"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 54
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/08836fc/2147483647/strip/true/crop/5440x2856+0+385/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F52%2Fb7%2F20fa7bb6a98f90f95b719ca88679%2F2a742265ce323c6247f20c61bde2b2b7.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla’s Self-Driving Technology Comes Under Justice Dept. Scrutiny"
     excerpt: "A regulatory filing says officials have asked about software that Elon Musk, the chief executive, has said would allow cars to operate autonomously."
     publishedDateTime: 2023-01-31T20:14:00Z

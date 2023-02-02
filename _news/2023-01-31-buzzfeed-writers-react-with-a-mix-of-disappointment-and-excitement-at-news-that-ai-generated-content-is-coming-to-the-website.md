@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ..."
+    publishedDateTime: 2023-01-30T19:34:00Z
+    webUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: fox17online
+      domain: fox17online.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BuzzFeed’s AI-Produced Content Experiment Is a Glimpse Into a Bleak Future"
     excerpt: "We can expect a media universe where a shrinking labor force is exploited to feed ChatGPT so it can churn out clickbait."
     publishedDateTime: 2023-01-31T16:34:00Z

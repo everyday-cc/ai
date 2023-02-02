@@ -3,10 +3,10 @@ category: news
 title: "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden"
 excerpt: "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City"
 publishedDateTime: 2023-02-01T18:21:00Z
-originalUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=home-page"
-webUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=home-page"
+originalUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing"
+webUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing"
 type: article
-quality: 47
+quality: 67
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://images.mktw.net/im-239699/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Madison Square Garden CEO Defends Use of Facial Recognition Tech"
@@ -70,6 +76,6 @@ related:
       domain: sportspromedia.com
     quality: 19
 
-secured: "HQUa8xaIQK8DpRfKxabjRduF/ifRBk2qH3K6IKQEt2mfF8qDVYAeAnqAeZ+RPid/PyFuBuhzt7zwZAj24RODpz96USKdjiZaJu1dlTlJDK6InWhlSaVShxlxNQN7xttRGxi+vemcuNMZNnhkLyLm8EvMqzgCAH1M2/meNX7yhtwTAR1udYeLpTMxTA6YgZdbdtBR4yYcFLcFvYWuFGzpdwEW4YKaLmS+Hp20mKFV/BzlnJiautsYW8edMSyf+pVlC3hHaI8hPF7SKZbKWjtQWyi9LdDfvhHNF7Teuh3br9Ovio7oNXle4/w9Muy5S5X/YyEPBfO+cgh98nXgdvolomov28cRl+3mhjC/NhI8s/pU24pTeOdl3hFp94sjZABtMl8mnLeZy3U9PIZ2U8hwH42mCwOOnYl8UWzxZxmccXwMQuloVclljmimSOM9/n4KgwuF0WbVPorLbvjYGFMBmVoyeHDsBHUcEBZk5PjLr5QWqkq6lE6fCn3cpyJYF4pCk1X1Ijfx5xxYqVhP7fR/vw==;51sCkW6rIGv/K4q1NuffNA=="
+secured: "kcsVp3WCgP8+/x5zqZ5jopIzQ8a73Xe+x3lOdGu4vsq3TO/YKlT6DyZ0nAniFjGbIv3iNSvZeYYdpxSynfODzgQuXZQfPLekpSf+T/P0Mp08ib9QRH9eqDOKundzMiqeUd5Sbg+cz4XZj24I7+/JdRBOwgwOrPnkA+PfyvB8Iyiv3rl7zK8hCmoUn+UDKYUCLm7OEo8VMiLOOrZJas9GrmhzEEuuhLnYDJU6E2w6pTcE6ow5fItQZQ697PgTRfV7H3EDZ/I4hfSeMs8ROP2U5cniwXkE6nfio4ij2BatvZguNiSj2LLjmN/YbzWwLodurvz34pUkHJdeFFGgrRDrlH9XFjw+suLjdWsVj/6RNeI=;F/d3DLoAfEPXaGpCs0viRw=="
 ---
 

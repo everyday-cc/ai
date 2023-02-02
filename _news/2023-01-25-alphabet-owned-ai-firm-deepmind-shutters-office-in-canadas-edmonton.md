@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton"
-excerpt: "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton (Reuters) - DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a ..."
-publishedDateTime: 2023-01-24T19:54:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton"
+title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
+excerpt: "DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google’s parent announced it would lay ..."
+publishedDateTime: 2023-01-24T20:04:00Z
+originalUrl: "https://www.euronews.com/next/2023/01/24/alphabet-deepmind"
+webUrl: "https://www.euronews.com/next/2023/01/24/alphabet-deepmind"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - Google AI
   - AI
 
-secured: "mXALVUjjWbOxbmz2Iyvaupk7LbsZzl8cZYEaRocGiHJ6DAE9GfJ5W0Gj0756PyKWl5a+Pn5rxHgvbMeexYE+XLruhywY7cmnEXhQV/BKEbXDgLVn0L+AP82Zg/R+85eT2E9K0UnkwFD0nw6/krkHjp74iJJt/x+B8gbGs4TKC2eBjV1aqu80JpBuvR9sQjF4sLfi5P3Uce1K0+P5frRcJ8TSNnj31jbLqH3lYTyOd5J6/WNT505AZX0C8Qysgcb9aVhWZlP4fMXqSxgB5jS8GxofgnuWMPtX/pDLSBjLv5j2A1bX/M/CG8dXN0haivcG2pm/7d6HTtztPndPeW5jgTxiMAk4z3E60aTF8DPQJRk=;+/iT8oOhuWtLRg0QtRIcIA=="
+images:
+  - url: "https://static.euronews.com/articles/stories/07/35/81/16/400x225_cmsv2_786eff6f-3836-585d-97a4-13289c964322-7358116.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "AStgtOruNQ8lkeaovQt4ne7HB2PlmzPs4EjHKZlI06VtknlE3vl5uvaxE6JzPYda86nbtlmnhnm+uFcT3oP3laLC4e7vdRtrZFK8zkjzoYV8oq5+6XsiNBV5PglMkgqHter9qEURRDyL44f4MqdJHE06gGUmN2/4v9gz17FolC77uzEJJsj8pvc+LIViEike99801zvC2h1R3bI2rnR+9f2st8RMEHJMmYh+B5opL3Tf0SKbEEUzNBtMEohUniKLrIROQFvPwqSKDDAo1iYl2+g7eoxBKY92whCBgttUI4uwU2RbZ6CUZuwtbDENDW5iDQFyYdS/2x5Bvi6t1JD/w5aHPKiEHeQC51EbJfd4enA=;H20B8ZRdTNDkjHtjRvTUnQ=="
 ---
 

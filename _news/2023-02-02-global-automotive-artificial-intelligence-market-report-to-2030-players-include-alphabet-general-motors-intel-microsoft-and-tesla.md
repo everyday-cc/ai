@@ -40,20 +40,6 @@ related:
         width: 773
         height: 768
         isCached: true
-  - title: "Is Microsoft Now the AI Stock to Beat?"
-    excerpt: "Alphabet acquired AI tech company Deepmind in 2014 and has developed its own large language model, LaMDA ... as having the best technology doesn't necessarily translate into the best or most successful product. Alphabet, for example, seems hamstrung ..."
-    publishedDateTime: 2023-01-28T15:26:00Z
-    webUrl: "https://www.fool.com/investing/2023/01/28/is-microsoft-now-the-ai-stock-to-beat/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/718135/artificial-intelligence-investing-algorithms.jpg"
-        width: 8660
-        height: 5773
-        isCached: true
   - title: "Artificial Intelligence Software Market Major Segments, Size Parameters and Topmost Key Players - Google, Baidu, IBM, Microsoft"
     excerpt: "With the aid of this study, it is possible to effectively determine the current situation of the Artificial Intelligence Software market and the trends that will influence it between 2023 and 2029. The solutions presented in this study will assist market participants in formulating plans for seizing any opportunities that may arise in the future."
     publishedDateTime: 2023-01-30T21:18:00Z
