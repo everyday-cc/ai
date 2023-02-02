@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-27-james-dolan-defends-facial-recognition-use-to-ban-legal-foes-from-venues.md",
+      "title": "James Dolan defends facial recognition use to ban legal foes from venues",
+      "excerpt": "James Dolan, executive chairman and CEO of Madison Square Garden, defended his use of facial recognition technology to keep attorneys involved in lawsuits against MSG Entertainment out of its venues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues",
+      "originalUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/GettyImages-1368431178-copy.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp",
+      "publishedDateTime": "2023-01-27T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-talking-ai-ceo-arvind-khrisna-on-ibms-monetization-strategy.md",
       "title": "Talking AI - CEO Arvind Khrisna on IBM's monetization strategy",
       "excerpt": "In his view, there have been three moments that matter in the past decade in terms of AI emerging to have business potential and impact: One, when IBM won Jeopardy! with Watson, I think it was a big moment, and AI came onto everyone's roadmap.",
@@ -1136,40 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-deep-learning-reconstruction-enables-accelerated-knee-mri.md",
-      "title": "Deep Learning Reconstruction Enables Accelerated Knee MRI",
-      "excerpt": "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/health/deep-learning-reconstruction-enables-accelerated-knee-mri/article_f9a945fd-cfb6-511a-9c87-cf8f043a5648.html",
-      "originalUrl": "https://www.wfmz.com/health/deep-learning-reconstruction-enables-accelerated-knee-mri/article_f9a945fd-cfb6-511a-9c87-cf8f043a5648.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

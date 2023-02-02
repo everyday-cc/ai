@@ -2,6 +2,154 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-09-apple-audi-and-others-scale-back-self-driving-others-go-further.md",
+      "title": "Apple, Audi And Others Scale Back Self-Driving, Others Go Further",
+      "excerpt": "The consolidation and shake-out in the self-driving business brought on by the bad market conditions of 2022 are continuing. A recent report suggests that Apple will scale back its secretive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/12/09/apple-audi-and-others-scale-back-self-driving-others-go-further/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/12/09/apple-audi-and-others-scale-back-self-driving-others-go-further/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6393839b0ad6ea64a565cf35/0x0.jpg?format=jpg&crop=1647,927,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/12/09/apple-audi-and-others-scale-back-self-driving-others-go-further/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/12/09/apple-audi-and-others-scale-back-self-driving-others-go-further/amp/",
+      "publishedDateTime": "2022-12-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-tesla-says-its-self-driving-technology-may-be-a-failure-but-not-fraud.md",
+      "title": "Tesla says its self-driving technology may be a ‘failure’ — but not fraud",
+      "excerpt": "Tesla’s Full Self-Driving technology may be a failure, Tesla lawyers admit — but it’s not a fraud. The electric car company is facing a class-action lawsuit from Autopilot and Full Self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud",
+      "originalUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/d3a5473/2147483647/strip/true/crop/1642x1098+0+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbc%2Fcbcecd1d40919fc40cc4deb90aee%2F1-courthouse.jpg",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true",
+      "publishedDateTime": "2022-12-08T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know.md",
+      "title": "Factors To Consider When Adopting Artificial Intelligence And Machine Learning: What Businesses Need To Know",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML), or AI/ML, are quickly becoming a crucial next step for business growth. Recent years have seen more and more businesses adopting this technology and witnessing significant benefits in several areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6390d461115ce3b59c08ccfa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
+      "publishedDateTime": "2022-12-08T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-driverless-cars-to-hit-uk-motorways-safety-fears-for-motorcyclists-as-road-trials-planned-for-2023.md",
       "title": "Driverless cars to hit UK motorways: Safety fears for motorcyclists as road trials planned for 2023",
       "excerpt": "Real-life on-the-road tests of self-driving vehicles are due to begin in the UK next year, sparking fears that they could put riders in danger. According to the Department for Transport, we could ...",

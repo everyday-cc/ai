@@ -5,8 +5,10 @@ excerpt: "Next-generation cancer strategies rely on next-generation gene sequenc
 publishedDateTime: 2023-02-01T19:54:00Z
 originalUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.html"
 webUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.amp"
 type: article
-quality: 0
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-filter-i.jpg"
+    width: 1212
+    height: 670
+    isCached: true
 
 related:
   - title: "Deep-learning based filter removes false positives, improves the accuracy of cancer diagnosis"
@@ -36,6 +44,6 @@ related:
         height: 480
         isCached: true
 
-secured: "n+bz2uvGPr38BPBwiyp+kNwKOZgDhNQXfeS6zNied8mq7qziVTwzHxWLZCvDDSXh+2XpNf+5HLQGGQk4okBvDihX085rPcQ7mi8OiBTBItfB8DzCgKi+OaqTCm+4UvfyTSOnwcEK8mVtjL4pTAh7v8yQ7POJv+yY5dtJKzBrQM9A2xx619Pd/jomJQ1ENcISxq0bupFuylhlN7Nwl73zHHnVo/zp4TFl21g/Gpvx32mjr0e5bkWZ4npFBo1EhUO7njLeerIyxD73njPyEDOxnWK6TFgn7omt1X01zmiWn3355z6PmGgm8AXyJ2r7Rfsh92GIZRM579ye60VqoQKAbAUUtgq8hk72XyQ05XUmfo0m2KoXQDa0nhtgtCsIJjDwMA3iYvw9psp4DRmNRQUa6hmXXG1lgwzWzegV7YAncrg+699IbxmQGNzTW5rZlDurl0qyixmOgJNrnDhnLfG4bhplaRNz3MTDgzTIcPMeEAxS6iZ3RrXufxvr4Imr5LGdNjygLFl1EdrG3jcM/DQR6w==;sYEE+6lGBXFyGGCw1m+wJw=="
+secured: "qHmlx8o1vdKDMubERdJPzvMfWezfGCnO85uS8q6qcjTSHCnSwlGqt8wEuPb07z8w0xM60TFmHhdhyq3cYciu+GBVXYuojUNlV5orvcheC0qr2Nh0+edMdMCV38noB2Y2wHDAlUCh2jEuA9JwhfkaxSLgfrgtg82WsHoTB52m69ls2OIL2kGByeMVCjFT54Symng4m7juHlacNHUe8zOJ72d80dU29IpBmZq5wCOqt0R/V44wcxoOT57qPuxCM7J2aXxfXAngnfHLwFm+tyDVPHAfNNX5jyCwGXvuNCdYr9f/csY1pLmV7uc9158gK2Bt6TUMvQFbUGkneTodttdEK9j8JcgzgHH07aWkpLlXTBk=;elkpKbq7ZNTVwgDhsRKC6Q=="
 ---
 

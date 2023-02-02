@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Humanoid robots to take centre stage at UN meet on AI"
-excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of"
-publishedDateTime: 2023-02-02T00:20:00Z
-originalUrl: "https://www.malaymail.com/news/tech-gadgets/2023/02/02/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai/53010"
-webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/02/02/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai/53010"
+title: "Humanoid Robots To Take Centre Stage At UN Meet On AI"
+excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday."
+publishedDateTime: 2023-02-01T16:00:00Z
+originalUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
+webUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
+ampWebUrl: "https://www.barrons.com/amp/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.malaymail.com/malaymail/uploads/images/2023/02/02/88534.jpeg"
-    width: 1000
-    height: 500
-    isCached: true
 
 related:
   - title: "Humanoid robots to take centre stage at UN meet on AI"
@@ -57,7 +53,21 @@ related:
         width: 445
         height: 334
         isCached: true
+  - title: "Humanoid robots to be star attractions at UN’s AI summit"
+    excerpt: "GENEVA: Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the..."
+    publishedDateTime: 2023-02-02T01:01:00Z
+    webUrl: "https://www.dawn.com/news/1734880/humanoid-robots-to-be-star-attractions-at-uns-ai-summit"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 54
+    images:
+      - url: "http://www.dawn.com/_img/social-default.jpg"
+        width: 375
+        height: 375
+        isCached: true
 
-secured: "g5trCEmsspk2DbymNPMHSMxK+QalluZT3Ylk0GVFwqq0gzxEBaikXWV/ziDW5IwV+rUUXmov+aTxX352neac4blBuzF5XSqfFbKvnPjq56S5h9DaicRG40bMhvOlD0zYkqSLt4ivHgVcWtJaMb5T7zAML7icXzKmvuOIvvPSWI2aRbWzB/f4ytgPOCDFwefgGqDF7ggRlxIWsTLMRijktGj5vIwI7aNc+47fYMkjUBpPbDrbpXSehCROj49/w+htpjWgxQTAbDYuCG7HYrGaucBq91Zk0Z3ldNukyiv92kykNxpRExXIuYcO62FiI5+H0jmTl3XRbAhIveIP1zHTKnB2RdQb/+mZFa3kYyTqGbI=;+NC22EsOll+TNyo0eFw7+w=="
+secured: "WmndFd44C2cNi2kpBIkbkIu3HOt/5fBiEPX36IqoXw3DoOT80z9gUX0eiytXAioAZgOXSB6hSTGpCYw7XWRmv/uCraJbQ5NuNHriZYOxg9nPDWdt/j4nq+gYz2b/UMEpceb65hQB/nABNU3zvHeQ3vsWPokLW+LFDvN7TSKTKdCortxFOgbQkr48rasC1c6xchbhNgChYjz3NnJcf2XXXDvOAH7UQ5CNFg459YwQJOeiQDM8jmyGDwKHnNeAOr+5zKzcS7OM6OFNId8JQ5CCIvtGHC8CnxB2AaJGquCYkH0etAuB+RWvttt24vAGOyLQ+Eaqk+NYjzhoNlO5Ky5U9GTxdFGy3K0N+0w8Q3loQ4U=;MI026FLPMx0yOXdDiLWemQ=="
 ---
 

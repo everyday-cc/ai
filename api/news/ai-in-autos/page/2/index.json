@@ -107,6 +107,59 @@
       ]
     },
     {
+      "path": "_news/2023-01-24-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt.md",
+      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT",
+      "excerpt": "He covers artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas. @cademetz Karen Weise is a technology correspondent based in Seattle, covering Amazon and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/23/multimedia/23microsoft-pkhc/23microsoft-pkhc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
+      "publishedDateTime": "2023-01-24T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-after-being-used-as-a-test-bed-ngee-ann-polytechnic-gets-free-driverless-bus-service.md",
       "title": "After being used as a test bed, Ngee Ann Polytechnic gets free driverless bus service",
       "excerpt": "(Photo: Liew Zhi Xin/CNA) SINGAPORE: It is one of the latest driverless vehicles allowed on public roads. Called the MooBus, it has recently been deployed by homegrown company MooVita in its first ...",
@@ -181,60 +234,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt.md",
-      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT",
-      "excerpt": "The tech giant aims to remain at the forefront of generative artificial intelligence with its partnership with OpenAI. Send any friend a story As a subscriber, you have 10 gift articles to give ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 358,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/23/multimedia/23microsoft-pkhc/23microsoft-pkhc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
-      "publishedDateTime": "2023-01-23T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
       ]
     },
     {
@@ -821,6 +820,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-20-davos-using-ai-without-human-oversight-is-downright-dangerous.md",
+      "title": "Davos: Using AI without human oversight is ‘downright dangerous’",
+      "excerpt": "A Davos World Economic Forum session hears that using AI without human input comes with risks. This is something HR should consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.personneltoday.com/hr/ai-human-input-davos-2023/",
+      "originalUrl": "https://www.personneltoday.com/hr/ai-human-input-davos-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.personneltoday.com/wp-content/uploads/sites/8/2023/01/2H4NPWN-1.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Personnel Today",
+        "domain": "personneltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-artificial-intelligence-is-coming-for-human-creativity.md",
       "title": "Artificial Intelligence Is Coming for Human Creativity",
       "excerpt": "Second, the development of artificial intelligence poses a challenge to our claims to creative uniqueness. With the defeat of Garry Kasparov by Big Blue in 1997, many people lost interest in chess ...",
@@ -862,6 +904,49 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-how-grenoble-has-mastered-industryacademia-science-collaborations.md",
+      "title": "How Grenoble has mastered industry–academia science collaborations",
+      "excerpt": "Despite its small size, the French city’s long history of science and business means it punches above its weight in scientific output.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-023-00109-x",
+      "originalUrl": "https://www.nature.com/articles/d41586-023-00109-x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00109-x/d41586-023-00109-x_23932204.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1254,101 +1339,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-17T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Livewire Markets",
-        "domain": "livewiremarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-watch-two-moments-from-a-2016-tesla-self-driving-ad-that-are-totally-staged-according-to-a-senior-engineer.md",
-      "title": "Watch two moments from a 2016 Tesla self-driving ad that are totally staged, according to a senior engineer",
-      "excerpt": "An curved arrow pointing right. A senior Tesla engineer testified in a July 2022 deposition that the electric-vehicle company staged parts of its 2016 self-driving Tesla ad, Reuters reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/watch-staged-scenes-from-2016-tesla-self-driving-ad-report-2023-1",
-      "originalUrl": "https://www.businessinsider.com/watch-staged-scenes-from-2016-tesla-self-driving-ad-report-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63c83c792a1e600018b897df?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/watch-staged-scenes-from-2016-tesla-self-driving-ad-report-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-staged-scenes-from-2016-tesla-self-driving-ad-report-2023-1?amp",
-      "publishedDateTime": "2023-01-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-how-to-position-your-portfolio-in-2023-a-look-around-the-world.md",
-      "title": "How to position your portfolio in 2023 – A look around the world",
-      "excerpt": "Despite my children reminding me of how old I am, 2022 brought events that I have not witnessed in my lifetime. It was the third time since 1926 that both US stocks and bonds lost money. US inflation hit 40-year highs and the",
-      "sourceUrl": null,
-      "webUrl": "https://www.livewiremarkets.com/wires/how-to-position-your-portfolio-in-2023-a-look-around-the-world",
-      "originalUrl": "https://www.livewiremarkets.com/wires/how-to-position-your-portfolio-in-2023-a-look-around-the-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeU5uQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d5e8b0133fa6c825470ea1eb868b8853e33e9220/Primary%20Image%20Crop%20(55).png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T15:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Livewire Markets",

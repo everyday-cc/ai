@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Software Market 2023 Expected to Reach Significant Rate by 2029"
-    excerpt: "The Global Face Recognition Software market Report provides Detailed analysis on the market position of the Face Recognition Software Top players with stastical data, SWOT analysis, PESTAL analysis, latest developments across the globe."
-    publishedDateTime: 2023-01-28T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28"
+  - title: "Artificial Intelligence Machines Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "Artificial Intelligence Machines Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-29T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,75 +57,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Outlook 2023 to 2029 Top Players - Cloudwalk, Dahua Technology, Aurora, Insigma Group"
-    excerpt: "MarketsandResearch.biz has reported that a thorough study on Global Face Recognition Device Market 2023 to 2029"
-    publishedDateTime: 2023-01-30T01:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-outlook-2023-to-2029-top-players---cloudwalk-dahua-technology-aurora-insigma-group-2023-01-29"
+  - title: "Artificial Intelligence in Automotive Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2028"
+    excerpt: "Artificial Intelligence in Automotive Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-30T18:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028-2023-01-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market 2023 : Size (value & volume) by Company, Key Regions, Type, and Application 2028"
-    excerpt: "Facial Recognition Door Lock Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-29T21:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-size-value-volume-by-company-key-regions-type-and-application-2028-2023-01-29"
+  - title: "Edge Artificial Intelligence Chips Market 2023| Statistical Analysis for Upcoming Business Opportunities and Forecast to 2026"
+    excerpt: "Edge Artificial Intelligence Chips Market” 2023 report offers business strategy, covers complete landscape for"
+    publishedDateTime: 2023-02-01T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-chips-market-2023-statistical-analysis-for-upcoming-business-opportunities-and-forecast-to-2026-2023-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "P2P Recognition and Reward System Market Trends, Business Overview, Industry Growth, and Forecast 2023 To 2028"
-    excerpt: "P2P Recognition and Reward System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-02-01T06:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/p2p-recognition-and-reward-system-market-trends-business-overview-industry-growth-and-forecast-2023-to-2028-2023-02-01"
+  - title: "Global Artificial Intelligence Services Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
+    excerpt: "Artificial Intelligence Services Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Com"
+    publishedDateTime: 2023-01-30T13:47:00Z
+    webUrl: "https://menafn.com/1105495391/Global-Artificial-Intelligence-Services-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
-    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
-    publishedDateTime: 2023-01-30T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
-    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
-    publishedDateTime: 2023-01-31T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-smart-retail-global-market-report-2023-advent-computer-/2023/01/31/9752597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "L3 Self-driving Vehicle Market 2023 Insights with Complete Revenue Expected Evolutionary Business Aspect Forecast to 2026"
-    excerpt: "L3 Self-driving Vehicle Market” 2023 report offers business strategy, covers complete landscape for business development including major regions with the frame of reference historic data. Competitive scenario of current market situations,"
-    publishedDateTime: 2023-02-01T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-2023-insights-with-complete-revenue-expected-evolutionary-business-aspect-forecast-to-2026-2023-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 9
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "hcXZNubhaBXJoRQeU+XAPrmpiRxafYV824YBYKfGmQ0ju4sEg0FK6PVIiVJez/tEk/KbkDnSTHGZuQhXYhACCOneOmK4N3nJnBvG34M3drsa8P7CfVlARt6Ca2d/vZipnYvYc1jOrrUl8VnKwRiiIASLD1hyO3Sew3bQJqv9Ww/IliY3Ycpm2I0FEVOg47kg2+y8jGTgjQITWoRPYrutfcgV6+fVzEae8YcO30TF7jxvqRxqcAkzv7h0QDiRAmDdPBIbI4UNoylIjhPo/ElTAwOuQOtLf3eUy9F0niKolNYEHYMbUD583TDVRE6OhfkoLf25XGUmUkBmQ0A06NkuJyzo2y/Rc6n0c16AHEU06ME=;eS84wsVrBo43IynRVRUtGg=="
 ---

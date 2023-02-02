@@ -1,22 +1,28 @@
 ---
 category: news
 title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
-excerpt: "IBM and NASA's Marshall Space Flight Center today announced a collaboration to use IBM's artificial intelligence"
-publishedDateTime: 2023-02-01T16:02:00Z
-originalUrl: "https://www.datanami.com/this-just-in/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
-webUrl: "https://www.datanami.com/this-just-in/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+excerpt: "IBM (NYSE: IBM) and NASA's Marshall Space Flight Center today announce a collaboration to use IBM's artificial intelligence (AI) technology to discover new insights in NASA's massive trove of Earth and geospatial science data."
+publishedDateTime: 2023-02-02T01:44:00Z
+originalUrl: "https://spaceref.com/press-release/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+webUrl: "https://spaceref.com/press-release/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: SpaceRef
+  domain: spaceref.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://media2.spaceref.com/wp-content/uploads/2023/02/01164529/ibm_logo-scaled.jpg"
+    width: 2560
+    height: 1338
+    isCached: true
 
 related:
   - title: "NASA partners with IBM to build AI foundation models to advance climate science"
@@ -45,6 +51,6 @@ related:
       domain: nextgov.com
     quality: 21
 
-secured: "Ptn/hTIad42bz50VsPAAZvUn6G6lrVbSd689qnCO48I2+9nMyAhLIzGTGWMZtkJ6kDgyiDOwrk2E0+BbujDH8OcEjBnvbdQwkeRL8NwAfjvr/8zSIs82Godb47vTy9C/zBgRGk47CKMigH13B+4gxYV/omUM+AkHsNf/e5jcmWtPZ8fD2G3IBb+r7xXV+nnNowhGsm0AV/3Nd1xRK24Z/b8CKdcmkFAtKa39mm/8+xYw58Af4vbp1Mfo/eOD1amduRtMtZxVyGHQ4qMsc9B7jCkZpIO2P9f7KBuaXuWf+Ffcwxib83mh3CGgaNc/4USZHKsi4tc9agCDGZWM3yUAoECs3wh67/xZgmc8z/JZ64dc5tDcm69soGJum/WQA+k1GKD25VuCOqUG0FzuglUQVyyBXKcB//egWriGUM1uxQHKfHvvELbsbrQA7j2oBk8vVkA74AXF1DcNw1xko0r/omL03danLE9kMKgqI2feqptjuBeAmGS3HP7l4si78BaANQoANsmbQ5BY3/6sE+/Azw==;uBbE4k5+zApUMQLEf0hnfg=="
+secured: "TdP/O5yNJlXGl5BG7MXK3See0BwiTwQDbFJqLjVZ/5rCNPWeOlroArAJrQyvj1diaSX/WQo7zWE3YcOk/ZDwL0NwarnHDRcreVFDjxl1cE72nBnY634nNU/pYjbWCIp9MRy7306FKzEC1G5dA7llOFmSWEOaO1/j5NBXkXwxQ2ANvT9DVnrI5KMS4A0Jvoij0YuS6tLMUnNGE34qFJ/IeQ4n6ESXZD1RnaBqeH4LOwU6RYzAiuVByH5llCWqu09/iRSzjIGenMalJPGy1ONGhcEtX4fOs8QEPJdGYk0FtLU5sc/dgy6PSoZficjEYsq63xwLgz6UcxLa1Do/FlI7gpGE8jVC+PHPgEoa1aBpZd8=;KyRbjCD1P6Duaru0BvsG/Q=="
 ---
 

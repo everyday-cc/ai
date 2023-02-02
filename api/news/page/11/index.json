@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-01-21-how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession.md",
+      "title": "How AI and data enrichment can protect the vulnerable during a recession",
+      "excerpt": "Fraudsters work hard to make their methods convincing. Technology and intelligent use of data can help catch cyber criminals and their scams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/",
+      "originalUrl": "https://venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1319855844-e1632858362362.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/amp/",
+      "publishedDateTime": "2023-01-20T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-did-johnny-write-this-or-a-robot-ai-chatbots-rock-michigan-schools.md",
       "title": "Did Johnny write this or a robot? AI chatbots rock Michigan schools",
       "excerpt": "Artificial intelligence writing generators like ChatGPT can compose school assignments at the click of a button. Is it the end of writing as we know it? An invitation to cheating? Or a handy tool like a calculator?",
@@ -756,6 +807,49 @@
       ]
     },
     {
+      "path": "_news/2023-01-20-davos-using-ai-without-human-oversight-is-downright-dangerous.md",
+      "title": "Davos: Using AI without human oversight is ‘downright dangerous’",
+      "excerpt": "A Davos World Economic Forum session hears that using AI without human input comes with risks. This is something HR should consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.personneltoday.com/hr/ai-human-input-davos-2023/",
+      "originalUrl": "https://www.personneltoday.com/hr/ai-human-input-davos-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.personneltoday.com/wp-content/uploads/sites/8/2023/01/2H4NPWN-1.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Personnel Today",
+        "domain": "personneltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-how-much-will-ai-impact-life-in-2023.md",
       "title": "How much will AI impact life in 2023?",
       "excerpt": "Artificial intelligence (AI) has been a part of many aspects of modern life for years, but in the last few weeks the sudden arrival of ChatGPT, a publicly",
@@ -1089,111 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence.md",
-      "title": "Ensuring Better Patient Experience And Outcomes Through Artificial Intelligence",
-      "excerpt": "This makes the patient experience especially hard in healthcare. Sixty-eight percent of patients said their healthcare providers need to improve how they interact with patients. W",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638755d97adcceda18c8a8ba/0x0.jpg?format=jpg&crop=3796,2136,x0,y266,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/20/ensuring-better-patient-experience-and-outcomes-through-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-20T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-the-chatbots-cant-outsmart-you-yet.md",
-      "title": "The Chatbots Can’t Outsmart You. Yet.",
-      "excerpt": "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it. We need to stay calm — and develop a new test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/22/business/22Turing-test-illo/22Turing-test-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html",
-      "publishedDateTime": "2023-01-20T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

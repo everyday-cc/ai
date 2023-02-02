@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Contributing to the utilization of big data! Developing new data learning methods for artificial intelligence"
-excerpt: "A research group has developed a new learning method for artificial intelligence that combines classification performance for data with multiple labels with the ability to learn continually from data."
-publishedDateTime: 2023-02-01T18:01:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/02/230201084349.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/02/230201084349.htm"
+excerpt: "A research group at the Osaka Metropolitan University Graduate School of Informatics has developed a new learning method for artificial intelligence that combines classification performance for data with multiple labels with the ability to learn continually from data."
+publishedDateTime: 2023-02-02T02:02:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/978206"
+webUrl: "https://www.eurekalert.org/news-releases/978206"
 type: article
-quality: 30
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/27271292-39c4-4539-aaa9-1c0192cc9d67/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 226
+    isCached: true
 
 related:
   - title: "Leveraging Data Management Solutions for Successful Machine Learning Projects"
@@ -47,6 +49,6 @@ related:
       domain: marketwatch.com
     quality: 36
 
-secured: "37N3SdQK8fBGbJP15xPJnLCjLTb4M/xDNWTfWaw1RhljjPEGEQZWffglySQ6pDJkT6f6L4O7va+NYS/OLTBjlKhF4uREkyqPlf0VOJ51kVB7Q+kTjvaNsoXN15YhDoghU/XUPqO6ISYMQFcrCG0nHUvA9VL9u1QvD8aDFtdbm46tiIrncxJSDRwDKXQvvGu37ZsDexwV8rtydzlMWsLLZQiBQrkPl0lQrEiRz4D0TJKNqgBw4Xj77vIARZGIXfSZ5l8kNIVLp5NAQ0ifDToH8gxJ4/pHLyQ3m2qeRrePztRI6kTaqyXWXvbwXawjOhV3/QoCTzGvQYSpjHQXMQw3eiOyErk0bi170OKkBBiYogI=;dPYKYsbEoRjmIm+Tp/V3yQ=="
+secured: "nk0TS+/Upj8h4RoJRJUlYUXmNTv1+E4j/YUW/DQzo4aQcLFg66CLuSBKdoH3eMA4WYBiGPcUv/zc1/+FvcJVlRR8nkJqjvE/RoBG9vo3KdVsVzE6/MjpQFNkCPHxjTVNlmEWdghJOczh8SF79I389qrP1Xfkskq1zsdjRl0oQYETfgypcH9xPrO2Yuu5kzPi0tmgYmdTqcmQmGZ6V65dO556YDmIdYk3gDZ3Vd7lrGn6dicj8hiJTGzbuStCYEpY7i8a3kIKEZhgcYeRv4q52gZRhn/Ch1KdXIYJLChvHXFgTdgt1MgvUQnQ/ybVg0aB8ZXymFw+v/o92K+lPmz/KqdZ4yr0TWtL3+kvjfOgZIU=;xtCph2l5DjY9BxY/y4YFHw=="
 ---
 

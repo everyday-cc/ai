@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
+    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
+    publishedDateTime: 2023-01-31T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-smart-retail-global-market-report-2023-advent-computer-/2023/01/31/9752597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "Video Surveillance and Vsaas Market 2023-2028: Upcoming Trend, Professional Strategies, Complete Analysis | 98 Pages Report"
     excerpt: "A recent research report on “Video Surveillance and Vsaas Market” provides the latest growth synopsis of market along"
     publishedDateTime: 2023-01-30T04:37:00Z

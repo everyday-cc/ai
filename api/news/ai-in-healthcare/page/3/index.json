@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-01-11-houston-community-college-reveals-first-two-bachelors-degree-programs.md",
-      "title": "Houston Community College reveals first two bachelor’s degree programs",
-      "excerpt": "Students can obtain a four-year degree in Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
-      "originalUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.hpm.io/wp-content/uploads/2022/09/22150424/HBU_Aerial-450x294.jpg",
-          "width": 450,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
-      "cdnAmpWebUrl": "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
-      "publishedDateTime": "2023-01-10T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Public Media",
-        "domain": "houstonpublicmedia.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-10-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
       "title": "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
       "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT ... Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
@@ -1337,6 +1294,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-how-is-artificial-intelligence-shaping-the-audits-of-financial-statements.md",
+      "title": "How Is Artificial Intelligence Shaping The Audits Of Financial Statements?",
+      "excerpt": "A recent study demonstrates that the use of artificial intelligence is significantly improving the quality and efficiency of financial statement audits, as well as displacing audit professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/",
+      "originalUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6399d4dbc66f19da4ea62f2e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/amp/",
+      "publishedDateTime": "2022-12-19T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AI in Healthcare"
       ]

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.theglobeandmail.com/resizer/x0Rwyaur8JradOZ6iWQ6jzv08aY=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/WUW2RYB7TFGA5PBZ2BLZOVZLQQ.jpg"
@@ -49,6 +50,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "/T0nDPduDK4J1QvwfVZzSq0H1yo+GNslA/X8xBXwzNNG3VjkL8sB7Cg2vuDFipIOqTfZi2MAQ+DpLNRQAd5obTVJQ0O2gfZpcB5QdJoRXC/avyBOr0bfI9U+claBbnhheiPXitwGZbyEmP3CxO2iu29oJY7DBA2imj4MFJfpdQZvdlB3yFarOtA0HEK0xCiY4KebBAv1WzZ6jOWE0HdyJuLuBdWsZ3ianNwFOpX+X0XoUXVvkKwHxTwg0ay6EuijPps4I5HMvlHJEmv4H/nMTJDruGZCFFtirAgA+krsPEcBr6fKIbwU9CDdU1wh4vL8HfSwXgRfWl2zqVq8q/5eVlwoSy69ZdAZf6CKV4Xgti4=;4EZSX4nLmMWMUVFpGWextg=="
+secured: "APwa7W8Blx/zzRNx2DX2Y+1cXAB0zXSh/pGJvnCW0HTalp60uJOvMwAAdLM9Gu6b97Ce3WjCwggAdouLUiBcjmslhKfm9v/IQri+vC3+XyPL/Upokm1J6cfMNTjKeXnwx0p8gqp8PuugBzen75zNoY9O5volr+n46jlJFyaeqkrQ/j6wDYhDUbRAvp4N3iAv+WEJ/hubJgtUUSBMQ5tfHsoTcI7C36llPAUhPuHvwo29+07sd1eR9oZa4kh25HJPgHJo8+rbTOMkWpG1OytMHGdloQcxXuHby80Hujy+AcVDs8Zzw1n6eLJaGs9vidC780gDw1bpkt/MeI8V1CshTPP/HlSdK9RmvHBGsn16Pe11Adb0fQBeYIwcMPIK+7SeoB+83rTGA0U0BXiHUAdtbjk0MeaEgcHDBPyNWjBnmkEyLLTWdVLhHpk40P5cVbhuLIYGPXB+ucEz/+XlDudATwuboTpzuLuPhzzHa6Kldw3PQidhn2CKv08txOeW3wfPlcrrOrQfr5vaFteo+J+y3g==;upra8R2WlpX+Cek/cua1Ag=="
 ---
 

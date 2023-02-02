@@ -2,26 +2,26 @@
 category: news
 title: "ChatGPT creator launches subscription service for viral AI chatbot"
 excerpt: "By Samantha Murphy Kelly, CNN Business OpenAI, the company behind ChatGPT, announced on Wednesday it is piloting a $20 monthly subscription plan that offers users priority access to the AI chatbot even during peak times."
-publishedDateTime: 2023-02-01T20:05:00Z
-originalUrl: "https://ktvz.com/news/2023/02/01/chatgpt-creator-launches-subscription-service-for-viral-ai-chatbot/"
-webUrl: "https://ktvz.com/news/2023/02/01/chatgpt-creator-launches-subscription-service-for-viral-ai-chatbot/"
+publishedDateTime: 2023-02-02T01:05:00Z
+originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2023/02/01/chatgpt-creator-launches-subscription-service-for-viral-ai-chatbot/"
+webUrl: "https://localnews8.com/money/cnn-social-media-technology/2023/02/01/chatgpt-creator-launches-subscription-service-for-viral-ai-chatbot/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
-    width: 1200
-    height: 675
+  - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_e8f743d069b8cae26569803478517c01-300.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
 related:
@@ -52,6 +52,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 101
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot Search, OpenAI Charges $20"
+    excerpt: "The race is on to see who gets to market first with next-generation chatbot search as a flood of rivals target March. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
+    publishedDateTime: 2023-02-01T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -946,6 +962,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "TzbpL9mxXC6wq2782Ez2pyZfKaeKlpBcTR40zLnJS/jJcZV6ISvS4ZHWDxH4IK9jW8vGLSzGfyunQJTL6pJQa+gOGi+g3wtPoYrPbNVHcEiq4A9ZOD2fpFAILTqz+2NLYzwYTr9VpddZeyWfhsJL3pPmeK8DuazxN0xGEcl2RIT+qN/lg/UvHzBJ/6bzny6Yxry/tPXwULCdDCIvz18we8Ok3R2CDmTyK9nzuBeGWLEoTJOC353BTBK6w4nsuqpjx0FKKTv3dUYAUpNVILfOBg8UgijYhTub/iaJbsvmeCmXSHz7uLofR7DTmeObneKJedDqA9bM1gcVee+/LBETAoqK+hdiGGlPOQlP1bcbl5k=;1ayfJQe+GbYTpwVcDKiTeA=="
+secured: "4vs7D9uDxNJWWGB+wpSXVqSlDfcpfHBi/Mjbv4/7NNcfit3plM7608Fk8DIVVEb+a4VVNPrZ+bnoOCJEss36pzb4CQaszE7c3Uxux0B1oyQ3zRP0EyCfLUP6ncVmeikOLpO9OrPvgrYu1huIW6UvORcMP4gwnhtWlVGcp7ZtihSuyWWUnx0aa0u6fc8/tvRJ2LIMz8//rApNubPVHkqHKmansdUmSv9v0+pTXbmrEZSFz/Hw4GgeaEdp7w26nk3IFBZu104JtJ88Bm8n3MSgtlY4Xapbc+HDUKsRrnQoUQU8BUTjT3BDCfM9cCHtWyWZ7vthLA83stBNuXTeZEF5Dzr61wWl1Lrbn3w18Te7Ouo=;cK1qWEfs7Nzi1SYgoGOgxA=="
 ---
 

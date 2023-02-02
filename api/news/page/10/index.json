@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-23-artificial-insurance-how-machine-learning-is-transforming-underwriting.md",
+      "title": "Artificial Insurance? How Machine Learning Is Transforming Underwriting",
+      "excerpt": "“French AI startup firm Shift Technology incorporates this technology in their fraud prevention services, which have already processed over 77 million claims. The cognitive machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04073124/audit_andrei_r_getty.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-artificial-intelligence-and-how-it-may-change-the-world.md",
       "title": "Artificial Intelligence and how it may change the world",
       "excerpt": "He (or she) will step forward and take over the procedure from the robot. The next step in the development of artificial intelligence, AI, is to have machines develop conscientiousness.",
@@ -1035,57 +1079,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession.md",
-      "title": "How AI and data enrichment can protect the vulnerable during a recession",
-      "excerpt": "Fraudsters work hard to make their methods convincing. Technology and intelligent use of data can help catch cyber criminals and their scams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/",
-      "originalUrl": "https://venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1319855844-e1632858362362.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-ai-and-data-enrichment-can-protect-the-vulnerable-during-a-recession/amp/",
-      "publishedDateTime": "2023-01-20T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

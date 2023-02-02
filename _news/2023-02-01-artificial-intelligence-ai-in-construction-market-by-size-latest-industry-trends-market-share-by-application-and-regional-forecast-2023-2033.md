@@ -109,6 +109,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "P2P Recognition and Reward System Market Trends, Business Overview, Industry Growth, and Forecast 2023 To 2028"
+    excerpt: "P2P Recognition and Reward System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-02-01T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/p2p-recognition-and-reward-system-market-trends-business-overview-industry-growth-and-forecast-2023-to-2028-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
+    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
+    publishedDateTime: 2023-01-30T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
   - title: "Artificial Intelligence Platform Market Latest Trends 2023, Drivers, and Projections Report from 2023-2029| 99 Pages Report with a Splendid Growth"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence Platform Market\" Report New Research Updated Report 2023 | Latest Report Spread Across| 99 Pages | Global Industry ..."
     publishedDateTime: 2023-02-01T16:31:00Z

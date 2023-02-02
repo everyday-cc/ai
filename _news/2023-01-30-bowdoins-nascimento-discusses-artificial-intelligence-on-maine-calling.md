@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-29T23:59:00Z
 originalUrl: "https://www.bowdoin.edu/news/2023/01/bowdoins-nascimento-discusses-artificial-intelligence-on-maine-calling.html"
 webUrl: "https://www.bowdoin.edu/news/2023/01/bowdoins-nascimento-discusses-artificial-intelligence-on-maine-calling.html"
 type: article
-quality: 51
-heat: 51
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.bowdoin.edu/profiles/faculty/fnascime/images/fernando-nascimento-bowdoin.JPG"
@@ -23,6 +25,6 @@ images:
     height: 605
     isCached: true
 
-secured: "qzElfJ5YBQ+oz7FIdrNFHmJCRpCY7RYzhIv5Z+7B6JJiq4N1rLHgg6vLbRjf9bbgdKCS9PkkRwhHuNLYcKMbBCvoMJSEkEaB2KkK1aggu/KMjc87E0DxoSdpNISN99UuoEkfgmWuJ/H6fNV7UupmU4Ag2Ql5Q72tK+EJANL7bOAEj8fBVidb88QVSVY4YyECy35N7Ia5tHc1X5PTjRgdxyMkWiqFLI0/I+BXChmxA7ggc7ACnNpDguD7J/n+KnNZwlIOKrnEyTBM5nxZtfnfalEQRw9lCvvHDyUjHWysjATyRM6BPRq0OWzJk/FPtoV0xvE79ULtTUXpxYwpQQdtKQCqDHT1JBLbwB1Oz6jWXd8=;Lry4jRcbK2EhzgSxrBFlUQ=="
+secured: "qvgduB5ACqGHJf/1w9PTkd5s2grQkl+ez3HLUh3LaJXDW0S2mA9HVVGuVZtgBpOCMTIkk/Vz6NGmJaNH5HOLMfKdY7HNyL18Ec/spvnazlUtYT7ggvPVgdvK2nfLB5HVBBAMmZ2LWN1Bgzsh/afCi2dnkFlIcNTEMgWBcbIwBsEuNLZc4ZberIJ7qYJCziKl69Lq4ZLdbttkDOkpjZyZAH5GWWOH9zpGeAu68GlCI1xYg/idKSRWc6i7GIB1UeKkrQn49gmUF8mmpqgNjd1H+94PTbAZUWq47fCPz61OCapMt3bQ6veyMn06sBD7kaZI3StQJKp+GHhxy0ABNWAZbbMWRvHYJPhdEPWa0eiOCx9vPEvkZPYoyNVC2mKgLaaHDkx9uya3KQWUHR3MANvD2sdAgPfZvbjjDofy6zZkbzviGv+QSFPOai9cPb6hOhsRdQirhKvWyf1bsWvsXYBeIqP6lsjTT3jAJb7/bb8kEUFFD2F4yHQy+L9aX3ivNtj03nYUaLzX31FpwdnbbQIPrw==;RvbJTQvadqjKAIPgZ0lKmw=="
 ---
 

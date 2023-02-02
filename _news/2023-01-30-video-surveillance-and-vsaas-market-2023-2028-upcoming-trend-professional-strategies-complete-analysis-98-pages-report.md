@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
+    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
+    publishedDateTime: 2023-01-31T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-smart-retail-global-market-report-2023-advent-computer-/2023/01/31/9752597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "tbB3khXJrQWlTL4b4Q74CkyKglABKQTaWzmN41Zp7B65n1NH635tz+NnFjtu4VPCdCE0QEO6o7kvJO3AfJjP5OQALYhKHLx2gPRlwGFHBLVa0xu6jg3NkM7q1vc7nY/aLOEtyaiCEUib1lq+vEh/K1CheZ5UxCp5DUSV+knUJKFbmAg6OkHGUigfguxpmlc750Qjd2hkgQL4wjKUdzhEnLCAm/tJlLw3NL/3M93xYAFffEePXrtScyQ6jhbQ7y+MUkff6+fwzPohFKZdrXX+clJ4HmLTWO0/t2FJe5Xmp9lza8B9fk+qttET/T7McSA6hKvgmo28PbwiHy5gpm9To2JkNnaYGdZsrlA0tEIyWkI=;79ho/8AVLM9OBQPBk3GTlg=="
 ---

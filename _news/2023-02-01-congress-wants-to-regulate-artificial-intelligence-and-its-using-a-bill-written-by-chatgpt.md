@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot Search, OpenAI Charges $20"
+    excerpt: "The race is on to see who gets to market first with next-generation chatbot search as a flood of rivals target March. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
+    publishedDateTime: 2023-02-01T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
     excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
     publishedDateTime: 2023-01-29T12:00:00Z
@@ -715,17 +731,17 @@ related:
         isCached: true
   - title: "ChatGPT creator launches subscription service for viral AI chatbot"
     excerpt: "By Samantha Murphy Kelly, CNN Business OpenAI, the company behind ChatGPT, announced on Wednesday it is piloting a $20 monthly subscription plan that offers users priority access to the AI chatbot even during peak times."
-    publishedDateTime: 2023-02-01T20:05:00Z
-    webUrl: "https://ktvz.com/news/2023/02/01/chatgpt-creator-launches-subscription-service-for-viral-ai-chatbot/"
+    publishedDateTime: 2023-02-02T01:05:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2023/02/01/chatgpt-creator-launches-subscription-service-for-viral-ai-chatbot/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 39
     images:
-      - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
-        width: 1200
-        height: 675
+      - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_e8f743d069b8cae26569803478517c01-300.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Forget ChatGPT - an AI-driven investment fund powered by IBM's Watson supercomputer is quietly beating the market by nearly 100%"
     excerpt: "Yet, the $102 million AI Powered Equity ETF (AIEQ), which launched in 2017, has been quietly fulfilling that request so far this year. Issued by ETF Managers Group in partnership with the fintech firm Equbot, the fund leans on IBM's Watson supercomputer to ..."

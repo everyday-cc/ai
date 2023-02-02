@@ -37,14 +37,19 @@ related:
         height: 450
         isCached: true
   - title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
-    excerpt: "IBM and NASA's Marshall Space Flight Center today announced a collaboration to use IBM's artificial intelligence"
-    publishedDateTime: 2023-02-01T16:02:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+    excerpt: "IBM (NYSE: IBM) and NASA's Marshall Space Flight Center today announce a collaboration to use IBM's artificial intelligence (AI) technology to discover new insights in NASA's massive trove of Earth and geospatial science data."
+    publishedDateTime: 2023-02-02T01:44:00Z
+    webUrl: "https://spaceref.com/press-release/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 39
+    images:
+      - url: "https://media2.spaceref.com/wp-content/uploads/2023/02/01164529/ibm_logo-scaled.jpg"
+        width: 2560
+        height: 1338
+        isCached: true
 
 secured: "VWFDB0i+5SfONQHoQRyup+9FGioxDS6mTdpsOllxlx6dSk3Lg70h9dfwUpxUBoelgEH0M8cbSMHhUcLLqb9bK/RrfqPetEwlLjtzUx2dILyH8zrYAqYMEmWq9QTH8BicJE/c0EIjl3THIEZhmeAg8B8wpaznTYn8NUQPyFVe515JV7uTu8JoBKRoEO/Y+Ha5A4IYGI4FUmkl6zbILcBk3KxGJ6yiBuQ2I9XYLRujq1zLvvVMPtbHruqlEoXV7Yp/74E0KD7OZrhoBWYFkDfrnhu7OUxPXG12EBAe+TLzb2wf1eO2oS+HFv1rdokozeEW5hpsFn92JebUai9n/OepIYzV9Dw9fNT7aclSnr9dtNtXCpE7gQyxn2StTDYfMsi9OwmSS+JNmSPxcnW4BItTmqADhnl7YD1XzIaEkIUGqa9OTWSyM6qX3Tr3dfgoIX7olOmHZzyQ3iNeC0pdRQMy1Oh2jY+wM5Ma099wB91SiST4yJkMtYB1N/vtRYL84FImcdPLyEjuL1Wa78VfxTWZlw==;xCydXNZdMolHurBDhfowIg=="
 ---

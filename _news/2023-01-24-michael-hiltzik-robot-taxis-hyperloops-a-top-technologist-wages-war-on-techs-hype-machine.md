@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/203417020_web-BIZ-HILTZIK-COLUMN-TECH-LA_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"

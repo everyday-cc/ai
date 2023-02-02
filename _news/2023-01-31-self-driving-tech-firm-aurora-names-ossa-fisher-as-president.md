@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Analysis of Self-Driving Cars and Light Trucks Market, Including Recent Developments, Potential Opportunities, and Predictions for 2029"
-    excerpt: "Self-Driving Cars and Light Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-31T03:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/analysis-of-self-driving-cars-and-light-trucks-market-including-recent-developments-potential-opportunities-and-predictions-for-2029-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving truck firm Aurora appoints Ossa Fisher as president"
     excerpt: "She had been president and chief operating officer of Istation, a Dallas firm that creates game-like educational technology, for nearly eight years."
     publishedDateTime: 2023-01-31T20:38:00Z

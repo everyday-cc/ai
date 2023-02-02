@@ -38,14 +38,19 @@ related:
         height: 630
         isCached: true
   - title: "Contributing to the utilization of big data! Developing new data learning methods for artificial intelligence"
-    excerpt: "A research group has developed a new learning method for artificial intelligence that combines classification performance for data with multiple labels with the ability to learn continually from data."
-    publishedDateTime: 2023-02-01T18:01:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/02/230201084349.htm"
+    excerpt: "A research group at the Osaka Metropolitan University Graduate School of Informatics has developed a new learning method for artificial intelligence that combines classification performance for data with multiple labels with the ability to learn continually from data."
+    publishedDateTime: 2023-02-02T02:02:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/978206"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 30
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 20
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/27271292-39c4-4539-aaa9-1c0192cc9d67/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 226
+        isCached: true
 
 secured: "SW6gJ7EsoIGAH+2n5+lGzNXWCKSflmFHUoYGLmswATHzbTPcdMVRYaFjxpighyHIL2xR7DpPbQHbz/s2h2e2OYmMXVvevY6PB85yxBWt01bcPwJf6pjDGrnb3K+ZfQ3KuQJV6oJjQTTbgqfVqxiBGSd81+rl85GmdT3C8tJD9payvBdXyTZgz/3YsD0WO+vOYWyIfe7yJ8rnyQ3jqEV44gsBA490TtTtOcql3Mdr5X8YvuRf1BOTlpNkjP6qDTj5vDv2Xs2nbvc5g1eXtX1i/f9YC3L9qxWmap30obzDiWuUb/I3kGcQroVzYftwaw42SZDLU4k8hHQDQQdsYyL3cF/u1/DIjmxdyi7NNVZ7sAs=;Qip22kGMzqQKEq3ypJqeDw=="
 ---

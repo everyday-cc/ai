@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.zenfs.com/en/aol_la_times_articles_830/736ac0bf0988a149e20989b943f177a2"
