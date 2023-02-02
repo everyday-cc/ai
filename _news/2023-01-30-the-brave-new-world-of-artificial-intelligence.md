@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Brave New World of Artificial Intelligence"
-excerpt: "As a journalist and commentator, I have closely followed the development of OpenAI, the artificial intelligence research lab founded by Elon Musk, Sam Altman, and other prominent figures in the tech industry. While I am excited about the potential of AI to ..."
-publishedDateTime: 2023-01-30T04:06:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.html"
-webUrl: "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.html"
+excerpt: "As a journalist and commentator, I have closely followed the development of OpenAI, the artificial intelligence research lab founded by Elon Musk, Sam Altman, and other prominent figures in the ..."
+publishedDateTime: 2023-01-30T07:14:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.amp.html"
 type: article
@@ -17,8 +17,8 @@ provider:
   domain: realclearpolitics.com
 
 topics:
+  - AI in Healthcare
   - AI
-  - AI in Autos
 
 images:
   - url: "https://assets.realclear.com/images/60/600942_5_.jpeg"
@@ -26,6 +26,6 @@ images:
     height: 500
     isCached: true
 
-secured: "e4MaC5RpuW2u0FuaDI+e7ZX0W3ATEe8sNHJ898IE6AIgK1GbSNtAD89NlijpLAsKgkaaAEUSLKEcvNLDbhGLGH4Ox3TVTZfE8W+6opKntvkxrXQWz8RZ7l9wzaVh6eaQVBOyGUftE3y+xEDDGllV211fSLHmn3X0NxtsUa8Bewrgs7OHM60Qru+Ihcu2pL6SyNUhiQjhdYr7wZ45L4R7CE16uVrBd2uYMP33l8dfN1DDv5qWP7tS1v8OzmYtxklN95KaNaTmkYlmICA5MMTPjn6cFI3ufd88MzaMhftuyTsl0Sr94hsmTlCNKNqyDYY6k7SlBN1+vCqucoZI2DniWg+5rByc/jXWfOY/swD2s+h8cEFA2tP5lIFyPkfgyzCDiUmv5zlRuJeejhBARk1Ql0ef5xwmCroLHD44+64/g6LbvUOquQxhKI1qBMcPZN7Es8N2ARAzp+81/WkW/av6iRdTrlZMYGkgfBFHON25Gr8SQUnuuG4Srtv55hwpJkh9gIJLJ5eusf+9PtimBwzlKg==;2FSIHsUDRwdxjJBBZSr4qQ=="
+secured: "/Hp7+jn8KxhTWzC/GzMOIUOTwKQwDA3gqaz0RSNn7gDta3yL1D6n7UUS3JXwL/Tem/2tVVx0P4uUr+Mn3VXDrTAunPPBWHLSsC8LtgHyzO4270lu9PuqTDFLADFdrEzSea5eKGqmN1BgRdw5uFo9gaEG7i0NbS19iTQRmUn/1+b7t9olpHGWSylR4oOvdz13MeieBL0NWiuAbZ+pC7Lk8N6oOWruqY6hZ3WHHLQUiQiFYaFxtCwszQfrIEsVNJ7Gy9vKFjtMkC2sSXRzk6bzJ7Pdl7MlliW8TrbD8qGoDK4519REDAelO0aJRMbCQahnYV0JpfMwHfcL4pNawlLM3Fm6QcxbhOS22m/ttxW8D/8=;jIY3oI577q6Ss9IVj4/6OQ=="
 ---
 

@@ -1,36 +1,46 @@
 ---
 category: news
-title: "How Musicians Are Fashioning Creativity With AI"
-excerpt: "As AI (artificial intelligence) gains a larger presence in the music industry, some artists remain wary of the technology while others are embracing the opportunities that it offers to power their songwriting creativity."
-publishedDateTime: 2023-01-31T11:00:00Z
-originalUrl: "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/"
-webUrl: "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/"
-ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/amp/"
+title: "Clickbait or creativity? The art world wrestles with artificial intelligence"
+excerpt: "Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in popularity, sparking soul-searching over the nature of art. Tech companies tout their inventions as a liberating force of art for all,"
+publishedDateTime: 2023-02-02T09:42:00Z
+originalUrl: "https://www.globaltimes.cn/page/202302/1284685.shtml"
+webUrl: "https://www.globaltimes.cn/page/202302/1284685.shtml"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Global Times
+  domain: globaltimes.cn
 
 topics:
-  - AI Hardware
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/63d890b43171908e19a89c47/0x0.jpg?format=jpg&width=1200"
-    width: 1200
-    height: 708
+  - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-09-14/41db9b0f-4d8b-4a39-8476-d6932455a385.jpeg"
+    width: 800
+    height: 480
     isCached: true
 
 related:
+  - title: "How Musicians Are Fashioning Creativity With AI"
+    excerpt: "As AI (artificial intelligence) gains a larger presence in the music industry, some artists remain wary of the technology while others are embracing the opportunities that it offers to power their songwriting creativity."
+    publishedDateTime: 2023-01-31T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d890b43171908e19a89c47/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 708
+        isCached: true
   - title: "The Rise of Artificial Intelligence: Navigating the Future with AI"
     excerpt: "Artificial Intelligence (AI) is rapidly becoming a crucial aspect of modern life, transforming the way we live, work, and interact with each other. The rise of AI brings exciting opportunities, such as improved efficiency and accuracy in various industries,"
     publishedDateTime: 2023-02-01T10:46:00Z
@@ -62,20 +72,6 @@ related:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP3449580022236755445739987449664002665713-us-art-basel-miami-beach-vip-preview-2021-1.jpg"
         width: 768
         height: 512
-        isCached: true
-  - title: "Clickbait or creativity? The art world wrestles with artificial intelligence"
-    excerpt: "Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in popularity, sparking soul-searching over the nature of art. Tech companies tout their inventions as a liberating force of art for all,"
-    publishedDateTime: 2023-02-02T09:42:00Z
-    webUrl: "https://www.globaltimes.cn/page/202302/1284685.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 51
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-09-14/41db9b0f-4d8b-4a39-8476-d6932455a385.jpeg"
-        width: 800
-        height: 480
         isCached: true
   - title: "Fact-Checkers Are Scrambling to Fight Disinformation With AI"
     excerpt: "Bad actors use artificial intelligence to propagate falsehoods and upset elections, but the same tools can be repurposed to defend the truth."
@@ -110,6 +106,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "KDi4KQqQKk348YcF9QQMAXBFEx6WkufLWoMsTD7YUG4guCBiXhIzaHLuvGSfm5Rr5eMjvblRUUlPx0AxXjHEgQHw4125FyZi6xVgNQPFPfrdDz3I1U0tICMeykbrgXwg3urcz1w6T8jgMXSPANJ2dltXKFZXrWFFVJN62ywg9NvfIMtCJu65chaPlxXysKEjCmZB0Inb1umiWDiRHY8OzkL9mz1wxA77PtyoRiivXLA9m2H09hpOa0FB8PXDd3szpX4XNwPACUem511v1v6J+TMGXZU9XRk58MaWnlah4K73R7fSz5xZeEaH6MjbUNrVo+xpkKbK2NXXx+rkhGGXw6i/P+DhmMFHKtV4G6ZW0ye3DTwWQ1VJKrkuSTNvlxHADYkaL4VqunDT1FvRbtFu4xM/HkZEluqMmTmNrpQSk1jc3XcoAfad3UnyZ4KRR7veI/OhX6GZQD7bhQDRNKafsI/Iwog+KHO6P5o7360KB9YCYDwRIOBRC0n3rhuqg713XJYFToDV+HDK1W09FGJ1cQ==;UFKcny6x9Pg2PnJOSpgDJg=="
+secured: "JSRxvsspzSI27F1hORNJTdklZoJPrBBhuvTfoh5x7iSP4+r4IDqVMFK2FmAEclNtpcsEu5W2HPtn4Wp4O19u6vbqRNB5P/pjX3j8JEyCX9aI//xfTfh5IHOT36HvNSUgW9QTw4uqzdsavDiNkOTKAEK3hbyMFsQ64voZibpjuzx+inxpkiZfJZ3/nDr56BgzH2IB57zPaWSGBCdr0iR3xf1sjcY2s1ba5SnpTQHvLmNZIr7EEj8S4vwaR9gqr1zow7weB4M4jEIQ8AF09bLJ6+FT7tSR7in5gTMExFjeVjTDZJOO5ssTOGSzypCK+jOX5yFw+hC0QYBk41kl3jXc+sSMfVV7VH6r8NuG2ZvnI68=;5Z4oxDEyZwN7DVuKoFQF2w=="
 ---
 

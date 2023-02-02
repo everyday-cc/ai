@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-30-artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026",
+      "excerpt": "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-microsoft-named-a-leader-in-the-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platform-2022-vendor-assessment.md",
       "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment",
       "excerpt": "I am thrilled to announce that Microsoft has been recognized as a Leader in the IDC MarketScape: Worldwide General-purpose Computer Vision AI Software Platform 2022 Vendor Assessment.",
@@ -503,7 +554,7 @@
       "originalUrl": "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -535,58 +586,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-29-who-owns-ai-generated-art-a-comic-book-draws-the-battle-lines.md",
-      "title": "Who Owns AI-Generated Art? A Comic Book Draws the Battle Lines",
-      "excerpt": "Artificial intelligence programs like Midjourney allow artists to create mashup images from written prompts, stirring up questions over copyright; an ‘epic scene’ and Zendaya.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
-      "originalUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-710473/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-29T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {

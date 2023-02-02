@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook stock surges after announcing $40 billion share buyback"
-excerpt: "Facebook stock jumped in the extended session after the company reported fourth-quarter sales that were better than expected."
-publishedDateTime: 2023-02-01T21:38:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/02/01/facebook-earnings-q4-buyback.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/02/01/facebook-earnings-q4-buyback.html"
+excerpt: "Analysts had expected earnings of $2.22 a share and revenue of $31.5 billion, according to financial research ... Facebook just reached the milestone of 2 billion daily actives,\" CEO Mark Zuckerberg said in a statement. \"The progress we're making on our AI ..."
+publishedDateTime: 2023-02-01T22:39:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2023/02/01/facebook-earnings-q4-buyback.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2023/02/01/facebook-earnings-q4-buyback.html"
 type: article
 quality: 4
 heat: -1
@@ -19,6 +19,52 @@ topics:
   - AI
 
 related:
+  - title: "Facebook posts more than 2 billion daily users for the first time"
+    excerpt: "When you talk about Facebook, it’s generally appropriate to use the word ‘billions’ in conversation. The company bought VR company Oculus for $2 billion. It passed 2 billion monthly users some time in 2017."
+    publishedDateTime: 2023-02-02T09:32:00Z
+    webUrl: "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/"
+    ampWebUrl: "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1"
+    type: article
+    provider:
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 59
+    images:
+      - url: "https://stuff.co.za/wp-content/uploads/2023/02/Facebook-Billions.png"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Facebook (META) averaged 2 billion daily active users (DAUs) during Q4 2022"
+    excerpt: "Meta (META) released its Q4 2022 earnings report on Wednesday, which it included the latest user numbers for Facebook. Facebook's daily active user count is at 2 billion as of December 31, 2022. That's up slightly from last quarter's 1."
+    publishedDateTime: 2023-02-01T20:37:00Z
+    webUrl: "https://www.shacknews.com/article/133970/facebook-meta-averaged-2-billion-daily-active-users-daus-during-q4-2022"
+    ampWebUrl: "https://www.shacknews.com/article/133970/facebook-meta-averaged-2-billion-daily-active-users-daus-during-q4-2022?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/133970/facebook-meta-averaged-2-billion-daily-active-users-daus-during-q4-2022?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/02/01/facebook-1_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facebook Parent Meta Reports Sales Drop, But Beats Expectations"
+    excerpt: "Meta said sales dropped one percent to $116.6 billion in 2022, while it also announced that the number of daily users on Facebook hit two billion for the first time."
+    publishedDateTime: 2023-02-02T05:02:00Z
+    webUrl: "https://www.ndtv.com/business/instagram-mark-zuckerberg-facebook-parent-meta-reports-sales-drop-but-beats-expectations-3745772"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 41
+    images:
+      - url: "https://c.ndtvimg.com/2023-02/9vc5snv_meta-facebook-afp_625x300_02_February_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675?ver-20230201.120"
+        width: 7177
+        height: 5005
+        isCached: true
   - title: "Facebook parent Meta’s shares surge on better-than-expected Q4 revenue, stock buyback announcement"
     excerpt: "Facebook﻿parent Meta posted better-than-expected ... and one of my goals for Meta is to build on our research to become a leader in generative AI in addition to our leading work in recommendation AI,” he added. In addition, this year, the social ..."
     publishedDateTime: 2023-02-02T06:22:00Z
@@ -34,6 +80,6 @@ related:
         height: 400
         isCached: true
 
-secured: "DhDHgoKT5XhCfMZZ3ls9Pif8fqNhJJ4Vtz8CfMOMdKCMfEMP6DfKDQn9e9Xg45Bpw+tSb0fU9265hM6IKsJpNk/WQPvia4FS1J4SrVnfhJSk1sBKjQrm62NdES+LRv4CrsLlm+ZgQ+tgawzhRNfmeIkGP1vDEkjcsvmgchSvZpEaBiKa4NILWbGk/lgNlIlD5Gk0LLPl9u8lWr5Qfo9c19fEyFxeKYfZV9CqbtjVHkLQ7DFu5QPB5K9A77idLv64CTz2IjqxIijxZGjhwcRed9/zqwqVMqhKDOUiRgqAPkX74qbSNOSkRQg6sNvYZsjh+6iu9dQ89AmMuYvhUpeoWOEVZfbJSiS++4N/Vue5fIo=;F/S8M+NFL3z2BT3GnsX6iQ=="
+secured: "XpQyVPkCy8Jln2DJQIeL/ipcXRAAj3yuHAhURZka8QHM1oFRlmupGEp6lVgDb3XE+EtyYZAef5i2d5xBhk5MI2tec31C3kztcNKUqZw80eBeLQUxs/dmrw97PZcC/ImzcNMz84yTw15dHh0SKlp2C22G/N/1DgVGCDRjpcBNU+7b7oDi/LOUJcUwg56lNM5U4vJ2SS0IlpgW1M2BJskYy1TDid8VHfaI1+OYbnh9TxEs1m+kd/Kf6ZJ9Ahu/iEXKIx9nif1F7gtkiRme6mkElXGFK1GxHB0I0kNdMhF+9H0WP3PpOpjz86lDgSmWC2Fo/s0RctZkilp2jF85rv7NEFOD6+YyiVv4TjPKH38LQNY=;yvGY3Qix+lrBg9YePLB2dQ=="
 ---
 

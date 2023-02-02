@@ -207,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -351,49 +351,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-31-buzzfeed-to-use-artificial-intelligence-for-content.md",
-      "title": "BuzzFeed to use artificial intelligence for content",
-      "excerpt": "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
-      "originalUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
-      "publishedDateTime": "2023-01-30T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fox17online",
-        "domain": "fox17online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-30-a-new-way-of-doing-artificial-intelligence-uks-mignon-has-a-fresh-proposition-for-ai-on-the-edge.md",
       "title": "‘A new way of doing artificial intelligence’: UK’s Mignon has a fresh proposition for AI on the edge",
       "excerpt": "The UK-based startup, Mignon, believes it has developed a new way of doing artificial intelligence. We explore those claims.",
@@ -491,58 +448,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-29-who-owns-ai-generated-art-a-comic-book-draws-the-battle-lines.md",
-      "title": "Who Owns AI-Generated Art? A Comic Book Draws the Battle Lines",
-      "excerpt": "Artificial intelligence programs like Midjourney allow artists to create mashup images from written prompts, stirring up questions over copyright; an ‘epic scene’ and Zendaya.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
-      "originalUrl": "https://www.wsj.com/articles/ai-generator-art-midjourney-zarya-11674856712?mod=hp_featst_pos5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-710473/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-29T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1492,6 +1397,111 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-self-driving-golf-cart-development-why-is-it-in-demand.md",
+      "title": "Self-Driving Golf Cart Development: Why Is It In Demand?",
+      "excerpt": "Golf Carts Push For Autonomy. Faced with the harsh reality that a future of fully autonomous cars is further away than promised, automakers and tech companies are pivoting to alte",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceff7ab891403906766ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
+      "publishedDateTime": "2023-01-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.md",
+      "title": "Artificial intelligence chatbot passes elite business school exam, outperforms some Ivy League students",
+      "excerpt": "Chat GPT3, an artificial intelligence bot, outperformed some Ivy League students at the University of Pennsylvania's Wharton School of Business on a final exam. In a paper titled \"Would Chat GPT3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
+      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
+      "publishedDateTime": "2023-01-24T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

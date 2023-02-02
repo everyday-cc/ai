@@ -5,9 +5,11 @@ excerpt: "A group of undergraduate computer science students at Kettering Univer
 publishedDateTime: 2023-01-30T14:30:00Z
 originalUrl: "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html"
 webUrl: "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html"
+ampWebUrl: "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp"
 type: article
-quality: 27
-heat: 27
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "qpMDG9JVqFUtfFWjUwg0ZZdgrOcKDwa9P+M1AK2q1OGzzd3v2x4Z/QA2xhM09clq4IZbVMiRZgDhD6EXCymhLR57dAtjAFSSRzSJDbdJ38Af9MYsdeNfi4oJ9p6Qh9QIpMt87mRKoTVxWHRQXFxIpUAfrOHsFCeUOO+DENuUhaui59iH9rbhMadOZSU12P60XHfuCc8aAnbNtNLUpUITVo49Hi/bUozLgPjskcQfrFlcxKO9p5XEoszSDAF5rgM37o9d/8iK7UT2k/+tQbYrZv1bq0GgUKXVm1DfTsYrQ1ibIZBNAGJ0QpN4A6EyNfDux/0uOze6ox8fewVDQWObjoiAsbmqX5K2LDjK/PESHl9B5Kd/9pn9Ix1NuguqE2lb9zfKzrBnnwxU4C8TuHgppDgTMQDgAhWcLA78W2fGGcNgMgvYBpDgRbydZgczNSwihDAObPuxOIREN878/K2EjruHxS2dc4PFqTZneidiaHLvBsJALxggXqHAYhJAKpRbE0EXwx/9mT2IiBS+aKCeoA==;x+DxKVDjY2xOSS5sxnukvg=="
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WEPZ3JLZOVAZDEHDMW42TLGEMQ.jpg"
+    width: 3080
+    height: 2237
+    isCached: true
+
+secured: "sfLTPHJ98M8xl/VU4f8Zb7ObPKv1TmzWwfdTLQ+w3x7HuGpeiyMujkV6FjrUJ+7WG2Le+/jogGM/df6NsyW/VKkHc5JRnQFd+Ch4XJOLHlNMScwWR4SvtPLFA5qF25XP6xY67MucMG7taNXHjKwKacFCdja2kQc+C0YLLJva89Uruf4gbxkU/W+q3bJEH9TElt4Q06MsLkbgMA8W+RMoQki2Tn5FrOjUznDvwnuemKk6fzvdF/d9WAYtcoACX61MRdxnnfAWnXa77BSwhHQDIAH/WIP1ZxsIapQAbFPJz72JgGl8iQFtxyAqZyQI1FDr9TXsF1066N8hbbjRBbgX2ziD+MPqYKCTrmun1VEiEew=;PP32aB93N4psaoXVDTeUrg=="
 ---
 

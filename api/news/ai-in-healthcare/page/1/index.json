@@ -216,7 +216,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -259,6 +259,49 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-buzzfeed-to-use-artificial-intelligence-for-content.md",
+      "title": "BuzzFeed to use artificial intelligence for content",
+      "excerpt": "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "originalUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "cdnAmpWebUrl": "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "publishedDateTime": "2023-01-30T21:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wtvr",
+        "domain": "wtvr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1452,60 +1495,6 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028.md",
-      "title": "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028",
-      "excerpt": "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
         "AI in Healthcare"
       ]
     }

@@ -2,22 +2,22 @@
 category: news
 title: "BuzzFeed to use artificial intelligence for content"
 excerpt: "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ..."
-publishedDateTime: 2023-01-30T19:34:00Z
-originalUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-webUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-ampWebUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+publishedDateTime: 2023-01-31T05:50:00Z
+originalUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+webUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+ampWebUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: fox17online
-  domain: fox17online.com
+  name: wtvr
+  domain: wtvr.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -51,6 +51,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "L1PqfcDDT6IIxKerdxZ5bL5hzPz2qRsJOvTuqLGwg/KA7Yqb9vI+ZivfInCBMnoMuPO6ikx6A6QzrXMmWgELbspBCRMGQYBIMMhs5nwg1+HEn+q32k02ffH/ycJtn8AFJ3b+2Amasja3nG7qsjEKquseJQ3omYtnGllX/r405zs3Hv9QWtH9KLeIUfC5GHbuGD4Z8rGOJKuUXzdagONbiszzyA+YlPEuzLWtjob8yPzB89yE+P2W9akGnY4ojYCdevtl7GZ0jpR4LFNryVspGp/EHP5LQFKzbPEgIyC4H9AElOoXXEeEMbSYA5LcPqyp2QTB1ag37EKmGP8zTK/Q/69tVQJiu060f7fzJETv280=;VXL3/hiAmuXI0dfBaOBQMA=="
+secured: "U4kFb3L5R1Q0k0PDntg25ZdmICnXISeRX4YZ6UDoMnCkehOpcr9IhIdE3hKQnMNZQ8NFnb1Tt3QhwqRwXqYBe9n3rhHTd78snEE+Az62NzbnAoZrNS3ra1ebDvt/8/IPNBIgQOnFMQNjLC2u16fUmMaYI9HgC9FUmAtZhNNFyR1ZFPaC//utOgkYW7eIZcxgyg7mty0b/GQp+YVn0piOo1IqSYrRgJIP2FXDPdNBt+GwHcA7Z4AbXKFhkzujqO/wjGKxMt0TAuvhAUKrwgicOEF57YlN6QC5OOEhwKDPNsJzWsw5UeqVFhDvEZP84opxxncTde8rbDAyouf9NkPI5EYg98eVXkppX4t4ujL45LM=;xhm2pGZmnLDkcKVpTK9H8w=="
 ---
 

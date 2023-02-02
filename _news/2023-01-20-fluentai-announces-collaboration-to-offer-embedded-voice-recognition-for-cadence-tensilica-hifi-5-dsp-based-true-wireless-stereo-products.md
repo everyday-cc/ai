@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products"
-excerpt: "Fluent.ai provides offline, noise robust speech recognition that can support any language or accent. The latest software solution allows users to trigger more than 30 TWS actions through 101 natural and flexible voice commands,"
-publishedDateTime: 2023-01-19T17:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/01/19/9746105.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/01/19/9746105.htm"
+excerpt: "Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software solutions, today announced its embedded voice recognition solution for True Wireless Stereo (TWS) and other hearable products running on the Cadence ® Tensilica ® HiFi 5 DSP in partnership with Airoha,"
+publishedDateTime: 2023-01-19T18:00:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/01/19/9746105.htm"
+webUrl: "https://it.tmcnet.com/news/2023/01/19/9746105.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "JyAZ+HE1isXWR63geESNhebgaEUJZavRxBa4Waabj3mSnrbEqWdbpn1wNGExIs807fqYrvWHsAl4ziOwY/cDVbgnRGEvvfTrNn+yRNIEEsfuVY6mrLCf6lj1UzgftLEy9isvnZWiNmCAT+oSY9VQD3hxComDV7XSGTdLSkeP37ethe8Ghw3ylireDWqFMtxIlhPPvgjpR6iRXq1VsC930CuGlqJIx7lIq22+OJys4bcNhQSHKUqUIxSyn/7sW7iA4KcoEtT5CRrae2OEiFumFXzH9IKkFA1zvCaW6JSh9gg+c3U+F2jO6LRvjP/qmaHGcQJnQMiSp7ma2jTBcwGtvhb4+JIkhtCVZrfIOnPSSCI=;YXQi3bqxPZFIiO+1YZhJ5Q=="
+secured: "t1UQQuVu6vRnuSwS1pXRS3XmQauhXUKMCYcRAvcJEG90biyK7dbqnR7G5aOF6y6HmXrxr2hkc0TSD9NElgzNoJYvAlX+6Vn8878QF/rDVOno90kCulysqyqcbJeHAE7AdV71V7rVEG1npGxfIea9IYTEihOIADIzZwJHHscr4Z4oA0LeCe5fRq4l3Mhm1z5alCnaEtiMy8sYZ52E7c/awI/fW8+AQTqeanoyOQFKfEcQResXmf9pQRknOtzn/z69bvIY2kpmi8rq3I4XhecKYMMYsip9or1v6mwTl9qII+2KInhEWl6YDWVh9tTXRUgUNHiSJqDY4Cf9jWDI26U+XRigjOoW6+rApYRi+EuW658=;IP2hOTYcmluOnDVkUez2tg=="
 ---
 

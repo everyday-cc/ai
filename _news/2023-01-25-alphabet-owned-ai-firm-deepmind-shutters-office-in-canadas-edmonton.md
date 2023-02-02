@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
-excerpt: "DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google’s parent announced it would lay ..."
-publishedDateTime: 2023-01-24T20:04:00Z
-originalUrl: "https://www.euronews.com/next/2023/01/24/alphabet-deepmind"
-webUrl: "https://www.euronews.com/next/2023/01/24/alphabet-deepmind"
+title: "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton"
+excerpt: "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton (Reuters) - DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a ..."
+publishedDateTime: 2023-01-24T19:54:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton"
 type: article
 
 provider:
-  name: Euronews
-  domain: euronews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://static.euronews.com/articles/stories/07/35/81/16/400x225_cmsv2_786eff6f-3836-585d-97a4-13289c964322-7358116.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "AStgtOruNQ8lkeaovQt4ne7HB2PlmzPs4EjHKZlI06VtknlE3vl5uvaxE6JzPYda86nbtlmnhnm+uFcT3oP3laLC4e7vdRtrZFK8zkjzoYV8oq5+6XsiNBV5PglMkgqHter9qEURRDyL44f4MqdJHE06gGUmN2/4v9gz17FolC77uzEJJsj8pvc+LIViEike99801zvC2h1R3bI2rnR+9f2st8RMEHJMmYh+B5opL3Tf0SKbEEUzNBtMEohUniKLrIROQFvPwqSKDDAo1iYl2+g7eoxBKY92whCBgttUI4uwU2RbZ6CUZuwtbDENDW5iDQFyYdS/2x5Bvi6t1JD/w5aHPKiEHeQC51EbJfd4enA=;H20B8ZRdTNDkjHtjRvTUnQ=="
+secured: "gUTOO/kmlfi3M5b61O1hTPFxCtYm0gSKJz/7FAlpBepi8+fn8bhwgP3S4LeWfzC538pIQDIBdas54NjjQg418WW0PjH1/GslJih7dKYpk/jbiWnQTfkx8KpgCVk8vP2WCYr/7m8kLl2eyXbLGfd9OQ4GbxTmsckz2jrP/fOd2Q7O5Tk94RzrK1x96eZdqbq2ypK6INgnUC9wwqll0ZywMPN6a7Rq51TcAFSRu7cybxPcm+CuOSs+vvQuLj1TuwPHvPKdWFP5S4R6HVi8ukPLv32L2EJVhVyg4YmbwHmo9fN94Vw/dxZmfmgZCJ00sg5unaA5lOb6/2oBAa8583YP0gzc7VB+LuSWmZQDTWPM6Co=;GqKCm6lHce7hbjq4pmcCpg=="
 ---
 

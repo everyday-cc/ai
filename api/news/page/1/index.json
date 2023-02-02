@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-02-facebook-posts-more-than-2-billion-daily-users-for-the-first-time.md",
+      "title": "Facebook posts more than 2 billion daily users for the first time",
+      "excerpt": "When you talk about Facebook, it’s generally appropriate to use the word ‘billions’ in conversation. The company bought VR company Oculus for $2 billion. It passed 2 billion monthly users some time in 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/",
+      "originalUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stuff.co.za/wp-content/uploads/2023/02/Facebook-Billions.png",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1",
+      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1",
+      "publishedDateTime": "2023-02-02T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stuff.co.za",
+        "domain": "stuff.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-gpt-3-use-cases-in-banking-finance-and-fintech.md",
       "title": "GPT-3 Use Cases in Banking, Finance and Fintech",
       "excerpt": "Since its release in November 2022, artificial intelligence (AI)-powered chatbot ChatGPT has garnered much excitement in the technology industry",
@@ -1186,58 +1229,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science.md",
-      "title": "NASA partners with IBM to build AI foundation models to advance climate science",
-      "excerpt": "NASA and IBM are developing new AI foundation models to analyze geospatial satellite data to understand and take action on climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
-      "originalUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI-e1675215120724.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
-      "publishedDateTime": "2023-02-01T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

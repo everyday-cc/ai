@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-02-facebook-posts-more-than-2-billion-daily-users-for-the-first-time.md",
+      "title": "Facebook posts more than 2 billion daily users for the first time",
+      "excerpt": "When you talk about Facebook, it’s generally appropriate to use the word ‘billions’ in conversation. The company bought VR company Oculus for $2 billion. It passed 2 billion monthly users some time in 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/",
+      "originalUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stuff.co.za/wp-content/uploads/2023/02/Facebook-Billions.png",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1",
+      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1",
+      "publishedDateTime": "2023-02-02T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stuff.co.za",
+        "domain": "stuff.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-fake-pictures-of-people-of-color-wont-fix-ai-bias.md",
       "title": "Fake Pictures of People of Color Won’t Fix AI Bias",
       "excerpt": "Companies claim synthetic images can add diversity to AI data sets, but they carry functional and moral risks.",
@@ -1378,50 +1421,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-exploring-ai-for-tech-marketing.md",
-      "title": "Exploring AI for Tech Marketing",
-      "excerpt": "Can AI improve your marketing and help grow your business? Contributor Nick Wassenberg whips up some prompts and explores.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.mn/news/exploring-ai-for-tech-marketing",
-      "originalUrl": "https://tech.mn/news/exploring-ai-for-tech-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tech.mn/hs-fs/hubfs/ai%20tech%20marketing%201.png?width=1634&height=758&name=ai%20tech%20marketing%201.png",
-          "width": 1634,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true",
-      "cdnAmpWebUrl": "https://tech-mn.cdn.ampproject.org/c/s/tech.mn/news/exploring-ai-for-tech-marketing?hs_amp=true",
-      "publishedDateTime": "2023-01-12T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TECH",
-        "domain": "tech.mn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

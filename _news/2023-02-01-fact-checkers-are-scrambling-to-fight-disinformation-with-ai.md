@@ -71,6 +71,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Clickbait or creativity? The art world wrestles with artificial intelligence"
+    excerpt: "Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in popularity, sparking soul-searching over the nature of art. Tech companies tout their inventions as a liberating force of art for all,"
+    publishedDateTime: 2023-02-02T09:42:00Z
+    webUrl: "https://www.globaltimes.cn/page/202302/1284685.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 51
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-09-14/41db9b0f-4d8b-4a39-8476-d6932455a385.jpeg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Clickbait or Creativity? The art world wrestles with AI"
     excerpt: "Paris: Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in"
     publishedDateTime: 2023-02-02T08:07:00Z

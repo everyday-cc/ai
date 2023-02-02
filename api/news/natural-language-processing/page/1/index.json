@@ -306,7 +306,7 @@
       "originalUrl": "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1092,10 +1092,10 @@
     {
       "path": "_news/2023-01-20-fluentai-announces-collaboration-to-offer-embedded-voice-recognition-for-cadence-tensilica-hifi-5-dsp-based-true-wireless-stereo-products.md",
       "title": "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products",
-      "excerpt": "Fluent.ai provides offline, noise robust speech recognition that can support any language or accent. The latest software solution allows users to trigger more than 30 TWS actions through 101 natural and flexible voice commands,",
+      "excerpt": "Fluent.ai – a leader in small footprint embedded, noise robust and multilingual/multi-accent speech recognition software solutions, today announced its embedded voice recognition solution for True Wireless Stereo (TWS) and other hearable products running on the Cadence ® Tensilica ® HiFi 5 DSP in partnership with Airoha,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/01/19/9746105.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/01/19/9746105.htm",
+      "webUrl": "https://it.tmcnet.com/news/2023/01/19/9746105.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/01/19/9746105.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1105,7 +1105,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T09:14:00-08:00",
+      "publishedDateTime": "2023-01-19T10:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

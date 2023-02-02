@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-01-nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science.md",
+      "title": "NASA partners with IBM to build AI foundation models to advance climate science",
+      "excerpt": "NASA and IBM are developing new AI foundation models to analyze geospatial satellite data to understand and take action on climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
+      "originalUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI-e1675215120724.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
+      "publishedDateTime": "2023-02-01T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-a-new-ai-voice-tool-is-already-being-abused-to-make-deepfake-celebrity-audio-clips.md",
       "title": "A new AI voice tool is already being abused to make deepfake celebrity audio clips",
       "excerpt": "ElevenLabs' AI speech synthetizer is being used to generate clips featuring voices that sound like celebrities reading or saying something questionable..",
@@ -944,7 +996,7 @@
       "originalUrl": "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1099,7 +1151,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1192,49 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-artificial-intelligence-aids-discovery-of-super-tight-binding-antibodies.md",
-      "title": "Artificial intelligence aids discovery of super tight-binding antibodies",
-      "excerpt": "Scientists at University of California San Diego School of Medicine have developed an artificial intelligence (AI)-based strategy for discovering high-affinity antibody drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.html",
-      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-10.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp",
-      "publishedDateTime": "2023-01-31T00:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

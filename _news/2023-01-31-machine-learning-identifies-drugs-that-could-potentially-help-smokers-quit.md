@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Existing Drugs That May Help People Quit Smoking Identified by Machine Learning"
+    excerpt: "Researchers have used machine learning to identify genes related to smoking behaviors and find existing medications that may be able to be repurposed to help people quit smoking."
+    publishedDateTime: 2023-02-01T10:11:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 35
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/369733/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733-640x360.jpg?cb=20230201"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Machine learning identifies drugs that could be repurposed to help people quit smoking cigarettes"
     excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."
     publishedDateTime: 2023-01-30T22:58:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-02T08:02:00Z
 originalUrl: "https://semiengineering.com/where-and-why-ai-makes-sense-in-cars/"
 webUrl: "https://semiengineering.com/where-and-why-ai-makes-sense-in-cars/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/car-AdobeStock_191304174-scaled.jpeg?fit=2560%2C1717&ssl=1"
@@ -24,6 +25,6 @@ images:
     height: 1717
     isCached: true
 
-secured: "4ronukf/DDNzJUvcqsAMkz5j6i/N3Rlvyse9FhEqnHoudYyEOU8UT7npR5TbCObFh72Y8q1YbRofrMhI9SS+BJ+8Z0Gy+8RE0kWF9cWCrq43+2WhEQPlxQ8LqABM2fpQLk8qmBPfeSoG9HZu5J8mUgPaDV8yF7GojiO0fuoYwidx6tlrW4j8jxrZrx4lor7tP2IC9Mfp4FhymS0oOqmeFukJ8z7p70ksoZIIdzuaOu345faS9VVIwKL3kiUJvvlYOTVkQ6gBg+b8Zn5mLZ0xZe+PDgzHnbrxsq1FjSPPPn7AKvoKzer++GDlinB50Dt7s7UWtGUxKrMzAo/b4H0QdATjBOARBnJCJi8GtOWpTC8=;3oldAb1zs/x7oEsh2EMu+g=="
+secured: "hGDkY50E0sTOMIqJXtz6MJ8ilOiyBb8hsrcWTlCeLlOOFdhsJtaK5/hAkGRjotcP1NkDNxthT0/u/UDtsx62uTbILt1KX/q5roPWV4OJkItwalTBNdWegDlUk+07Apk6YxDMkyW3vf4WiGXRW8YdgwuS138Ph4p7CFkkQOiCVaiWuhCfy5EJkcpiN9/Z4EDC7g+KRmfBBmkgDmqV0mq5E+oWlLoVI/hyhzUh6CqVey2qx4/VP3gRxBVdNmGXCIg56y+/qvXsRMxDiwsbFMkssFUXWKURLo0hnqpXg5UmNYXiWqL+S9DCNfqYtP71PT7En9S6upulIg7u8RYHiyIDrHR59N/eRHtarpHKIh7LUtSliyOhoABSjtWAkyyiE2s1QqyZKu8ZISAo9Q1MT37D7mWp8lkU6KXUgjezTYrq2GX7OTHWD0hO6OTQxkQajOXYvsHEqSXMZ3pzo+oQY6Zsob3FFFPJTj4Olq+bItMppVO2xojFTxNPbGZ7SLpIRC+OhABePPSU8zVR7cR59duYuQ==;HMO4bDlaNRARPk1WQ3rMXw=="
 ---
 

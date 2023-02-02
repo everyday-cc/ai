@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-techn
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flawless AI can use artificial intelligence to alter movie dialogue and even languages"
-    excerpt: "Artificial intelligence has grown by leaps and bounds over the past few years. From Tesla’s self-driving vehicle program to chatGPT, the field has a lot of possibilities. Flawless AI is taking the technology to the big screen by altering actor dialogue."
-    publishedDateTime: 2023-01-28T17:31:00Z
-    webUrl: "https://techaeris.com/2023/01/28/flawless-ai-can-use-artificial-intelligence-to-alter-movie-dialogue-and-even-languages/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 48
-    images:
-      - url: "https://pbs.twimg.com/ext_tw_video_thumb/1618953707286134784/pu/img/3kPF5-qjCUo_sVzL.jpg?format=jpg&name=small"
-        width: 680
-        height: 383
-        isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-01-30T07:01:00Z

@@ -27,14 +27,14 @@ images:
 related:
   - title: "BuzzFeed to use artificial intelligence for content"
     excerpt: "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ..."
-    publishedDateTime: 2023-01-30T19:34:00Z
-    webUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    publishedDateTime: 2023-01-31T05:50:00Z
+    webUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
     type: article
     provider:
-      name: fox17online
-      domain: fox17online.com
+      name: wtvr
+      domain: wtvr.com
     quality: 59
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
