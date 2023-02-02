@@ -52,20 +52,6 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 24
-  - title: "Analysis of Self-Driving Cars and Light Trucks Market, Including Recent Developments, Potential Opportunities, and Predictions for 2029"
-    excerpt: "Self-Driving Cars and Light Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-31T03:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/analysis-of-self-driving-cars-and-light-trucks-market-including-recent-developments-potential-opportunities-and-predictions-for-2029-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving semis focus of California rules, legislation"
     excerpt: "California already has rules governing self-driving cars and delivery trucks that weigh less than 10,001 pounds (4,536 kilograms). Now, the California Department of Motor Vehicles is gathering information for potential new rules that would let self-driving semitrucks on the road that can weigh up to 80,"
     publishedDateTime: 2023-02-01T17:26:00Z
@@ -85,6 +71,6 @@ related:
       domain: sacbee.com
     quality: 0
 
-secured: "DeDjaASNkdZw2IZfiNGuIL1PWchkc2lfjeEcdlPHt7znCQZV7LHv9jtMHbxXtFx/vDFzogR4jPmO4W0oxza5M8HGHb8K3ltbyk8Kf9BXtUR11rO2K0mT0bxt3LVYmGjyv34NeIB38uu8dEi4UQ38fbMyOVA91ESU9P6J2CwMgxE2pfrWNHXWLG2kUiTUxpex8SZ82PhVZZeeGi7aw8Lx9Fp7l8T1BfJC/BSkHKb25ZPkjXZAPeeSkErbb8YFE95WghNaHWHIBzbHpDHgBdSDkqJAHfh7UnhxnLLegFekh7GAedi5srzmAfEBPnBooisxwOFsTNjZd5slfIalrVmMUVeb8A9wdVbht6AW8Wz684E=;M5YJ5Jk6YXgbr9xLAAb+JA=="
+secured: "aqOG5U94cvEEuMWMP68fIULvo7CFJpc2OrfFdQ/+2aqCXyqkMS4mzj3Pib1uwS0rSpfGLmcb2d/Ee6GJivlSjqlkPo6KAMN3fCextYsZSfPKUAjHp4iXCJQs9GRiF+18D+rH0RnQ87CS3+ZLI6JlMNEp6JUEQrSBcevAP3Tm7H2ZJ92M6T+cXgw7fkkSUPTApWseLGrsnLe8X/wZ4ayxKnWD7Zh2oScEoivnew9GbaQTTkN0GRRvtb94tWyPjuux8m1k2lWBpSz9jiBt+srUuGe+7tvAkza3DenisCYnsWz7kcJLgqZWo6vc/JcADk3tgfqQRKNXnvXQuZKjrkRFtkwRJt7DeQUt82m0AFbibBvUQRxFuoCRWBUhpvsEYA5BBpbr+tdSgcQmTKIQzlanyqR8LL89WdV2/tE3FE3t3oMLapaXNRvBEufFM87oRlRl0tSzgWHvRBQrAyydoEv+g30LwM2Po9jdCs0LBIdHnTXLa6QgW3uKnKlZ4FTZF/dgdv9CP2oBKsM+X+Ujd+oo7A==;CFvn8lQ2s6vGey+m+VloFA=="
 ---
 

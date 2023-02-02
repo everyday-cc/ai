@@ -76,6 +76,20 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
+  - title: "Global Automotive Artificial Intelligence Market Report To 2030 - Players Include Alphabet, General Motors, Intel, Microsoft And Tesla"
+    excerpt: "At an estimated value of over 2.57 billion USD in 2021, the global Automotive Artificial Intelligence (AI) Market is predicted to thrive at a CAGR of 29.2% and valued at over USD 34.30 billion over the forecast year 2022-2030."
+    publishedDateTime: 2023-02-02T04:37:00Z
+    webUrl: "https://menafn.com/1105511873/Global-Automotive-Artificial-Intelligence-Market-Report-To-2030-Players-Include-Alphabet-General-Motors-Intel-Microsoft-And-Tesla"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?366424"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
     excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
     publishedDateTime: 2023-01-31T12:50:00Z

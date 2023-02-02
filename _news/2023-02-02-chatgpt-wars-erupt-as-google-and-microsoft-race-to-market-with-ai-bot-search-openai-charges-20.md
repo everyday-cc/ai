@@ -338,14 +338,14 @@ related:
         isCached: true
   - title: "BuzzFeed to use artificial intelligence for content"
     excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    publishedDateTime: 2023-01-30T17:41:00Z
+    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
     type: article
     provider:
-      name: ABC 10 News
-      domain: 10news.com
+      name: WTKR
+      domain: wtkr.com
     quality: 59
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
@@ -365,22 +365,6 @@ related:
     quality: 58
     images:
       - url: "https://i.insider.com/63d7d5914589790018e5b1ff?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "I asked ChatGPT how to negotiate a raise. Career coaches said I'd probably get one by following the AI chatbot's steps and script."
-    excerpt: "Career coaches told me ChatGPT's suggestions formed a solid foundation, didn't seem AI-generated, and probably would in fact land me a raise."
-    publishedDateTime: 2023-01-28T11:40:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-how-to-negotiate-a-raise-job-advice-experts-approved-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/63d43770fc18470019552b4d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -966,6 +950,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "xl5T6cLKVJJseJC3ZPRIU+VvlrKQ61WSFG51yjN1GLQPmRlQoV9A7LqyB6WTIjj/8n6eMA9wc4qgj0VyEWmDgTD8yaVzZE0d90JhJa9poGRA83xs7Y0MCmBkdJ5WQEKYHkMwjVk7YanHEhvs9pPR1QDSGVIkXO+MJ6sFjFIhKjGjEX7ylnbvUlCI94QX9NmhKvHztDAlfwfJPNTjrhl04HqXN7lyu2m80V/ocHpaAQwEYbyMC8oFL40KYKPzeY+oAz5kMFulaIHmVBK2aM0gp72T7BBz5z2VdVM1jGof1xPz8nL1e9I4LemCqBDhB0NgGfQmcN94r4L8aevaBpZ0Z3oB44bZdXo6ithGTuIUaGg=;VZqa1f4ydVp2HHL3tYLB0w=="
+secured: "9oEzZtHV/C1ur2HUa2OBMYdWOOCJrJ50iYZqBup3HysXR1e3hstfgKWZsUOld5eCZONVopNPt/65dc8dL5A4PwcY2EHrVWzMaFMSGxtJn2iYcdMkVPw4Qg4ZyQ1O/cUmp4QTyswdCGG4BzbjUUlCI7Crf7bV8csSEnQ/Z8VejqiCdU1MSxztsVMjAgsFMknStAk6nyrnTVPH4rUbr8ij1OMdPTXw/j4hGqD9W7nogxHMooxBUpldr5hEQksTLmjav6mb/m4z+vU7zYVzrL7NIPyTfvHWZLd68K6lVaUIticDntLAW7M17wGpuTUCZujv+zVh9/uYjrvIURhRKifOcVDxvdPxsHj75V7oyWI88U9D7CFbVd2SiMVTLj7lPPCndtFJOFtsYqmUUvnGHxIuP6s/O6BfKR30jjB25/06lWMJnFsr6FYijSDNfq6i7v7+DrGEhlFuli7E2uYdcsN1LvjDhsT7WufLmJ5Uxos9/8HtmBp+iL/TCKrY85wgtzWydVmKhXfUqpKM3MhrPnvmrA==;68dPxqT7cBnFe16IeSt81A=="
 ---
 

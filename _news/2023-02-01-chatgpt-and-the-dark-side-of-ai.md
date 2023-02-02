@@ -56,22 +56,6 @@ related:
         width: 1024
         height: 380
         isCached: true
-  - title: "Generative AI and ChatGPT – Is it the disruptor that the digital world needs?"
-    excerpt: "Generative AI models, like ChatGPT, can be used to generate text, speech, images, and other types of media, which can be used in a variety of applications such as chatbots, automated content creation, and language translation. Additionally, its ability to ..."
-    publishedDateTime: 2023-01-28T11:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-chatgpt-is-it-the-disruptor-that-the-digital-world-needs/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/01/Photo-Pradeep-Singh-Founder-and-CEO-of-Squirrel....jpg"
-        width: 857
-        height: 600
-        isCached: true
   - title: "AI in healthcare gets Budget push"
     excerpt: "Hyderabad: Private healthcare majors feel that the Budget has given artificial intelligence (AI) in healthcare a major thrust and this would be of immense help in improving the sector and also create opportunities for research and innovation across the ..."
     publishedDateTime: 2023-02-02T00:42:00Z

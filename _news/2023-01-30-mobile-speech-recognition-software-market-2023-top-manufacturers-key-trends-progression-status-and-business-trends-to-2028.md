@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Machines Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-    excerpt: "Artificial Intelligence Machines Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-29T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Software Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028"
     excerpt: "Voice Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
     publishedDateTime: 2023-02-01T06:32:00Z
@@ -52,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Door Lock Market 2023 : Size (value & volume) by Company, Key Regions, Type, and Application 2028"
+    excerpt: "Facial Recognition Door Lock Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-29T21:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-size-value-volume-by-company-key-regions-type-and-application-2028-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,29 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge Artificial Intelligence Chips Market 2023| Statistical Analysis for Upcoming Business Opportunities and Forecast to 2026"
-    excerpt: "Edge Artificial Intelligence Chips Market” 2023 report offers business strategy, covers complete landscape for"
-    publishedDateTime: 2023-02-01T10:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-chips-market-2023-statistical-analysis-for-upcoming-business-opportunities-and-forecast-to-2026-2023-02-01"
+  - title: "Analysis of Self-Driving Cars and Light Trucks Market, Including Recent Developments, Potential Opportunities, and Predictions for 2029"
+    excerpt: "Self-Driving Cars and Light Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-31T03:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/analysis-of-self-driving-cars-and-light-trucks-market-including-recent-developments-potential-opportunities-and-predictions-for-2029-2023-01-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Services Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
-    excerpt: "Artificial Intelligence Services Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Com"
-    publishedDateTime: 2023-01-30T13:47:00Z
-    webUrl: "https://menafn.com/1105495391/Global-Artificial-Intelligence-Services-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "hcXZNubhaBXJoRQeU+XAPrmpiRxafYV824YBYKfGmQ0ju4sEg0FK6PVIiVJez/tEk/KbkDnSTHGZuQhXYhACCOneOmK4N3nJnBvG34M3drsa8P7CfVlARt6Ca2d/vZipnYvYc1jOrrUl8VnKwRiiIASLD1hyO3Sew3bQJqv9Ww/IliY3Ycpm2I0FEVOg47kg2+y8jGTgjQITWoRPYrutfcgV6+fVzEae8YcO30TF7jxvqRxqcAkzv7h0QDiRAmDdPBIbI4UNoylIjhPo/ElTAwOuQOtLf3eUy9F0niKolNYEHYMbUD583TDVRE6OhfkoLf25XGUmUkBmQ0A06NkuJyzo2y/Rc6n0c16AHEU06ME=;eS84wsVrBo43IynRVRUtGg=="
 ---

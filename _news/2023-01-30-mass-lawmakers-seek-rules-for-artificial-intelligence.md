@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Doctors, Get Ready for Your AI Assistants"
-    excerpt: "Hospitals have begun using machine learning to help analyze and collect images, and the medical applications are endless."
-    publishedDateTime: 2023-01-28T12:00:00Z
-    webUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine/"
-    ampWebUrl: "https://www.wired.com/story/doctors-artificial-intelligence-medicine/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-artificial-intelligence-medicine/amp"
+  - title: "Flawless Demos Its Wild AI Film Dialogue Manipulation And Language Translation"
+    excerpt: "From tweaking Tom Cruise to advancing deepfake detection with Intel, AI manipulation of photo, video, and audio sources is becoming more mainstream daily. Now, one company is taking this tech to Hollywood with the debut of TrueSync,"
+    publishedDateTime: 2023-01-29T16:57:00Z
+    webUrl: "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
+    ampWebUrl: "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: HotHardware
+      domain: hothardware.com
+    quality: 55
     images:
-      - url: "https://media.wired.com/photos/63ceb6f404fdce858b27a139/master/pass/05_As-AI-health-assistant-at-every-level.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://images.hothardware.com/contentimages/newsitem/60779/content/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "Flawless AI can use artificial intelligence to alter movie dialogue and even languages"
+    excerpt: "Artificial intelligence has grown by leaps and bounds over the past few years. From Tesla’s self-driving vehicle program to chatGPT, the field has a lot of possibilities. Flawless AI is taking the technology to the big screen by altering actor dialogue."
+    publishedDateTime: 2023-01-28T17:31:00Z
+    webUrl: "https://techaeris.com/2023/01/28/flawless-ai-can-use-artificial-intelligence-to-alter-movie-dialogue-and-even-languages/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
+    quality: 48
+    images:
+      - url: "https://pbs.twimg.com/ext_tw_video_thumb/1618953707286134784/pu/img/3kPF5-qjCUo_sVzL.jpg?format=jpg&name=small"
+        width: 680
+        height: 383
         isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"

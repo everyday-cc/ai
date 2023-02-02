@@ -35,6 +35,20 @@ related:
         width: 1920
         height: 1233
         isCached: true
+  - title: "These robots might build your house"
+    excerpt: "The construction industry is in a crisis, and more companies are turning to robots to automate tasks on the job site."
+    publishedDateTime: 2023-01-30T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/01/30/construction-companies-robotic-technology/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GKHTU6OBLYGRBADJ2KBSVQ5TEU.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
 
 secured: "k0tG3dXMgRHVi++22N1ev5CGpLFi8TIGFStk11KV08zcUhRaToHTzjC9ZwpG1hIK86TQSDKPsB2AAtEw9ZTLBCKsKwgDXa8S2sL5ECgOHa+pjwIi1Q2Vu0zLIWnII60t82+4RCm3cg4oiDtO8NimG2sVjDzgjXVTdeOtL4L+0rbKE13dQSLdSlDgBD9/IdUOhRKldp5RwV1fs4xKCrBeZBggOB8Seorh9S+FPefEnfMECLn9t2HmcpAOcC0sxj6T1hN3+mQVNi7FYOHfSquuYm1h/3nJnsKZ1Vh16aPW+FPbl9HnDUtsXNBcrOZ8jfxYVveL+pbAxzZ+Tpcq0iGTOEYhZVxVUd7q6amhPKc+RYvrWogchEOYOm9qZUu1vI+5PxU5IDBUrU9u9BQS+eRG0PP7UCbQatIGY1b7+GtzFZV8SIDBYThZ2677/UvFjcKGg7V55yklafVeQ+sumRVoKnkEXTCIG13P5hgZ+xbF/UptW5klCUrWsCRHE1fQzAlKm9rIfiMU7i0erhU/EL/Agg==;7+iXJp5cb58DIxBM1HyIkg=="
 ---

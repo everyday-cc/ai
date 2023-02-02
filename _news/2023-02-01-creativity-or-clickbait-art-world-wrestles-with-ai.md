@@ -51,6 +51,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Clickbait Or Creativity? The Art World Wrestles With AI"
+    excerpt: "Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in popularity, sparking soul-searching over the nature of art."
+    publishedDateTime: 2023-02-01T06:17:00Z
+    webUrl: "https://www.barrons.com/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010"
+    ampWebUrl: "https://www.barrons.com/amp/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP3449580022236755445739987449664002665713-us-art-basel-miami-beach-vip-preview-2021-1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Fact-Checkers Are Scrambling to Fight Disinformation With AI"
     excerpt: "Bad actors use artificial intelligence to propagate falsehoods and upset elections, but the same tools can be repurposed to defend the truth."
     publishedDateTime: 2023-02-01T13:00:00Z
