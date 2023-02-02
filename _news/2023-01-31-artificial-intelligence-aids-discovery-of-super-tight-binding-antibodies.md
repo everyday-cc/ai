@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Massive Dying Light 2 update improves biter AI and adds DLSS 3"
+    excerpt: "The latest Dying Light 2 patch makes major improvements to Techland's zombie-infested adventure, with tons of quality of life enhancements and technical fixes."
+    publishedDateTime: 2023-01-31T17:48:00Z
+    webUrl: "https://www.pcgamesn.com/dying-light-2/update-1-9-0-dlss-3"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 19
 
 secured: "T8GwUwTxekF26V0IeyGIOKbsQ3HTG4+QxoUi+ebzjB/SVRjUnLUFBDMOVWUTfd4WiTpkXfE4604sh7lRAOkU3pBpGOQiRitYTT2WcwT3BmTOonhBe1rWaVPZfQ0vlo3s+I3tRLC623VZ2cP8uWlAOa4l4HfVw7CnFs8uBl67Bgyl/k/gRnRpiVeum5Gii5n3vXnPxc9Zry8accysr1NE5uTCsar1JdnO+nLHaPRVM+dK3XmAaJkSYyHkt8dgmfy72qUmvu3ih1VFFv6nRQCHKCkVxeCNWQXFlEsMl52BHwt1wgCZuDlf84RZPdtSyVkshUzWHn9tW2pNhRNr7Hzgufp/2zUAWwvG9fyV4IajmGoP9UYNkSxcUAFM0IKtm68bQ9vrLDrjIeLB/b5t9KrqEwuo7Wf6whPwQzq2AAN5cUhCDKgOxWPugPJNY8Lu75rxEAAuF9ORtAnGQMvpygEEA/xDqphxJ64dewHfKmDdiZHgR35Nb7yTj1KcIr2N2n7dL1um76gL4Mofv0sW6jC53Q==;XqF9JXEgQcy8tD4U25aGdw=="
 ---

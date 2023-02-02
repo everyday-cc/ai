@@ -108,6 +108,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Microsoft will integrate ChatGPT in Bing as OpenAI starts monetizing the AI chatbot"
+    excerpt: "Microsoft has recently strengthened its partnership with OpenAI, integrating several AI services into the Azure cloud platform and investing an additional $10 billion into the San Francisco-based research lab. Now, the Redmond giant is about to turn OpenAI ..."
+    publishedDateTime: 2023-02-02T19:52:00Z
+    webUrl: "https://www.techspot.com/news/97471-microsoft-integrate-chatgpt-bing-openai-starts-monetizing-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 58
   - title: "Microsoft announces general availability of Azure OpenAI Service"
     excerpt: "As part of a continued commitment to democratising AI, and the ongoing partnership with OpenAI, Microsoft has announced the general availability of Azure OpenAI Service. .."
     publishedDateTime: 2023-02-01T20:08:00Z

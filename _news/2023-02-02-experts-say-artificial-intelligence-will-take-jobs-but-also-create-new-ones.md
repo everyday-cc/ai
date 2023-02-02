@@ -30,16 +30,16 @@ related:
   - title: "Experts say artificial intelligence will take jobs but also create new ones"
     excerpt: "(CNN) - Recent artificial intelligence tools appear to be able to do what humans can and faster, but that means some people may be out of a job. AI experts said the technology will actually create a large number of employment opportunities. Shelly Palmer ..."
     publishedDateTime: 2023-02-02T16:18:00Z
-    webUrl: "https://www.kait8.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
-    ampWebUrl: "https://www.kait8.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kait8-com.cdn.ampproject.org/c/s/www.kait8.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
+    webUrl: "https://www.wtoc.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
+    ampWebUrl: "https://www.wtoc.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wtoc-com.cdn.ampproject.org/c/s/www.wtoc.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
     type: article
     provider:
-      name: KAIT
-      domain: kait8.com
+      name: WTOC-TV
+      domain: wtoc.com
     quality: 55
     images:
-      - url: "https://gray-kait-prod.cdn.arcpublishing.com/resizer/pAM-PqLk9e6CPzYB3gOKu5lxbdk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/REJSX5JASFETZM7WPEI3HZK4EI.png"
+      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/BNcJLLgRW7gxZ5UHXJ_qNsHgdNA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PHZAY7DTHJA55EB77YSBS6NJP4.jpeg"
         width: 800
         height: 450
         isCached: true

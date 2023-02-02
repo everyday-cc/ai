@@ -47,22 +47,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Voice to parliament no campaign to push for recognition of migrants as well as Indigenous people"
-    excerpt: "Warren Mundine says no campaign will propose a new referendum on an acknowledgment in the preamble of the constitution"
-    publishedDateTime: 2023-01-29T05:01:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/jan/29/voice-to-parliament-no-campaign-to-push-for-recognition-of-migrants-as-well-as-indigenous-people"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/29/voice-to-parliament-no-campaign-to-push-for-recognition-of-migrants-as-well-as-indigenous-people"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/29/voice-to-parliament-no-campaign-to-push-for-recognition-of-migrants-as-well-as-indigenous-people"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 46
-    images:
-      - url: "https://i.guim.co.uk/img/media/e83e3eb5f8f8b3fd93dbbd17d7a74c392e94f752/658_0_5012_3007/master/5012.jpg?width=620&quality=85&auto=format&fit=max&s=b96b199c1311a4b83014ace3adeccd03"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Voice opponents push for recognition of migrants alongside Indigenous people"
     excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."
     publishedDateTime: 2023-01-30T00:15:00Z

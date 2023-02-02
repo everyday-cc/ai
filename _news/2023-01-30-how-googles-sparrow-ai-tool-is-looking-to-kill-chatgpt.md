@@ -626,6 +626,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
+  - title: "Google Reportedly Testing Its Own AI Chatbot Answer to ChatGPT"
+    excerpt: "Google, an AI pioneer, is leery of damaging its reputation by releasing a tool that doesn't work well, a CNBC report says."
+    publishedDateTime: 2023-02-02T19:24:00Z
+    webUrl: "https://www.cnet.com/tech/computing/google-reportedly-testing-its-own-ai-chatbot-answer-to-chatgpt/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "ChatGPT and I wrote this article"
     excerpt: "It was trained on a dataset of billions of words and can be fine-tuned for a variety of natural language processing tasks, such as language translation, conversation generation, and question answering.” A screenshot from the ChatGPT website showing the ..."
     publishedDateTime: 2023-01-29T10:19:00Z
@@ -643,32 +652,18 @@ related:
         height: 1062
         isCached: true
   - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
-    excerpt: "But the test-taker wasn’t a member of Mensa or a medical savant; it was the artificial intelligence ChatGPT ... Already, ChatGPT has entered the discussion around research and publishing. The results of the medical licensing exam study were even written ..."
-    publishedDateTime: 2023-02-02T18:21:00Z
-    webUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
+    excerpt: "ChatGPT, or Chat Generative Pre-trained Transformer, is a natural language-processing tool driven by artificial intelligence. The technology, created by San Francisco-based OpenAI and launched in November, is not like a well-spoken search engine."
+    publishedDateTime: 2023-02-02T17:35:00Z
+    webUrl: "https://www.ktbs.com/news/health/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine/article_f3310bc4-7f15-520e-b7ef-9e41c4808dc0.html"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: KTBS
+      domain: ktbs.com
     quality: 43
     images:
-      - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_d92745b782c9df1a3d86799eba4717de-300.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The Voice Of ChatGPT Is Now On The Air"
-    excerpt: "AIs can now apparently carry on a passable conversation, depending on what you classify as passable conversation. The quality of your local pub’s banter aside, an AI stuck in a text box"
-    publishedDateTime: 2023-01-29T06:00:00Z
-    webUrl: "https://hackaday.com/2023/01/28/the-voice-of-chatgpt-is-now-on-the-air/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2023/01/Talking-to-ChatGPT-over-DSTAR-digital-amateur-radio-0-7-screenshot.png"
-        width: 3840
-        height: 2160
+      - url: "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/5/c8/5c8d7f38-f3bb-5665-a2e3-0763de5fdfee/63dbf3970b426.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI ChatGPT – the next great hype cycle?"
     excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."
@@ -967,6 +962,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 19
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
+    publishedDateTime: 2023-02-02T20:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/02/02/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
   - title: "ChatGPT and AI tools can replace jobs in many industries; Know details here"
     excerpt: "Artificial Intelligence and chatbots such as the now viral ChatGPT can impact jobs in a range of industries as they have the ability to write specific content."
     publishedDateTime: 2023-01-31T13:49:00Z
@@ -1030,6 +1034,15 @@ related:
       name: Sports Business Journal
       domain: sportsbusinessjournal.com
     quality: 12
+  - title: "ChatGPT takes on real estate: Agents say the AI could be a game changer in the industry"
+    excerpt: "Century 21 Beggins Enterprises on its website lists a \"beautiful\" three-bedroom condo in Madeira Beach, Florida with \"large spacious balconies to enjoy the warm, beautiful views.\""
+    publishedDateTime: 2023-02-01T19:24:00Z
+    webUrl: "https://techxplore.com/news/2023-02-chatgpt-real-estate-agents-ai.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 11
   - title: "ChatGPT Privacy Threat is Real and We are Late"
     excerpt: "Working with neural networks is such that it is almost impossible to set standards on how AI systems should be made and tested"
     publishedDateTime: 2023-01-30T12:20:00Z

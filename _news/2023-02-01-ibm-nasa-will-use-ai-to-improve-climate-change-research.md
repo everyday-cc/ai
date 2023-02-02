@@ -36,20 +36,24 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
-    excerpt: "IBM (NYSE: IBM) and NASA's Marshall Space Flight Center today announce a collaboration to use IBM's artificial intelligence (AI) technology to discover new insights in NASA's massive trove of Earth and geospatial science data."
-    publishedDateTime: 2023-02-02T01:44:00Z
-    webUrl: "https://spaceref.com/press-release/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+  - title: "IBM AI Helps NASA Researchers Mine Earth Data"
+    excerpt: "The NASA data set is over 5,000 times larger than the GPT-3 data set, making this a monumental task, but the benefits could be ground-breaking."
+    publishedDateTime: 2023-02-01T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/02/01/ibm-ai-helps-nasa-researchers-mine-earth-data/"
     type: article
     provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 39
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2023/02/01164529/ibm_logo-scaled.jpg"
-        width: 2560
-        height: 1338
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
+    excerpt: "IBM and NASA's Marshall Space Flight Center today announced a collaboration to use IBM's artificial intelligence"
+    publishedDateTime: 2023-02-01T16:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "IBM, NASA To Leverage AI To Research Impact Of Climate Change"
     excerpt: "New IBM foundation model technology leverages NASA earth science data for geospatial intelligence, , ibm corp, nasa, artificial intelligence"
     publishedDateTime: 2023-02-02T14:26:00Z

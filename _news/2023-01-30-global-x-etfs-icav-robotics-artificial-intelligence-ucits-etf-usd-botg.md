@@ -6,6 +6,9 @@ publishedDateTime: 2023-01-29T23:59:00Z
 originalUrl: "https://www.hl.co.uk/shares/shares-search-results/g/global-x-robotics-and-artificial-intelligence"
 webUrl: "https://www.hl.co.uk/shares/shares-search-results/g/global-x-robotics-and-artificial-intelligence"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Hargreaves Lansdown

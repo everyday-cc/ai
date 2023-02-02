@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2023/jan/31/france-paris-olympics-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jan/31/france-paris-olympics-ai-video-surveillance-law"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "French Senators okay AI surveillance bill excluding facial recognition for 2024 Olympics"
+    excerpt: "French Senators this week okayed a bill which excludes the use of biometrics and any other facial recognition technology during the event to be staged in Paris."
+    publishedDateTime: 2023-02-02T18:34:00Z
+    webUrl: "https://www.biometricupdate.com/202302/french-senators-okay-ai-surveillance-bill-excluding-facial-recognition-for-2024-olympics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
 
 secured: "4sxalL95r6v7CKQ2kWT58AusmWK/T2pKLvXIUqQIa+acHYxgei3oBWDGxfWlmoUmwI9icAv4I6Sm3bSojxVMALow5334GXNziIQF0/78+2T4yaRuiKwgOXJQ5uAXpulGWDyV1t3s6ZpXAXvtslM8qsg/Cu3cJ3zBg6JS1DepfNR4UxJsh3ouNmR1e0TCoYwI82TgjFqeUdu+qO6SojpQzbv0CkDVxYXy8mviZoO7sFTy1WsS6H0j6yIB782ZBTnKiHJ09bGg7KMX/dmBAaxmiQ+5VLy1Q6glsgnaBv6AQ4IK56ablYGXuFcxBgkF2ps0OfO+eiPnHk7B9oi8gnpp+p6a2m+11SEnLeLW/TOVjix1kSIKQJLMAgRI6mdBKkDeNyUUZlzw8UPnyPyfvAzM6eYUFz4xMq+i1zyEMby7ZHmbOF6opEl2ukZx4rT7kN21LgXoMYO+ZySwoH6ya4X1A8jpACZVMJQrmK5hligPMGendQnrQDMsIfs2/cS6N1hT9te4hMjmzo9iUF8NoTtK1Q==;aL9nBjezMZx7Rg0qOb7hNA=="
 ---

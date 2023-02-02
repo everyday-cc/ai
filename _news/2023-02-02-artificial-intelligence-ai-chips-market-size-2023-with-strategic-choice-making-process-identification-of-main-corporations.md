@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01"
 type: article
 quality: 72
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+  - title: "Predictive Analytics And Machine Learning Market Size 2023-2028 With Strategic Choice-Making Process, Identification of Main Corporations"
+    excerpt: "The “Predictive Analytics And Machine Learning Market” report provides an in-depth analysis of the size of the"
+    publishedDateTime: 2023-02-02T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and-machine-learning-market-size-2023-2028-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "Artificial Intelligence (AI) In Construction Market By Size, Latest Industry Trends, Market Share By Application, And Regional Forecast 2023-2033"
     excerpt: "The report predicts the global Artificial Intelligence (AI) in Construction Market to grow with a CAGR of 35.1% over the forecast period from 202"
     publishedDateTime: 2023-02-01T07:30:00Z

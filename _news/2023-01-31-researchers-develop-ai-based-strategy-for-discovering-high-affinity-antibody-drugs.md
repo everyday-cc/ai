@@ -53,6 +53,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 61
+  - title: "Massive Dying Light 2 update improves biter AI and adds DLSS 3"
+    excerpt: "The latest Dying Light 2 patch makes major improvements to Techland's zombie-infested adventure, with tons of quality of life enhancements and technical fixes."
+    publishedDateTime: 2023-01-31T17:48:00Z
+    webUrl: "https://www.pcgamesn.com/dying-light-2/update-1-9-0-dlss-3"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 19
 
 secured: "QvTTBkBZd60TjHfHsq3dl19Rk1RNYc/4NxGvg7TwygiY+AQtserAUtGi0KLsZ+q0cwamPr+vKoJENpm99ntlATPBFuZZql9A949qLQLkB7F8bf9JebVul6czNMRuxnjzN9l2q9Noued8+2hwyDe0xa1opcbjIvbDjwJkT5slCGc3CaSqfzWSk7FSqS2WaU4K624F6ygmQMfRCuVhuEqPly848J78qSQFlEGZFfSZt71L9jxHqzIZ6m5zZZsLDnzWBhG7n0A2NZXKDF8o3R/HOILwvQkT51ODF7I9CgziXQNhm0V95fnMEtO50e2baMuf/aEPfHh5PZlJ3EtJAVnLm7gpVhPJz92ZgC+fYDvZEgk=;UDyPbwjLjCHozskyL2Nq1Q=="
 ---

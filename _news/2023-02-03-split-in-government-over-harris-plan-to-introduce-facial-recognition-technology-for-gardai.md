@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T18:23:00Z
 originalUrl: "https://www.irishmirror.ie/news/irish-news/politics/split-government-over-harris-plan-29119077"
 webUrl: "https://www.irishmirror.ie/news/irish-news/politics/split-government-over-harris-plan-29119077"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Irish Daily Mirror

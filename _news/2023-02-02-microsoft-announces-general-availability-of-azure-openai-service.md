@@ -113,6 +113,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Microsoft will integrate ChatGPT in Bing as OpenAI starts monetizing the AI chatbot"
+    excerpt: "Microsoft has recently strengthened its partnership with OpenAI, integrating several AI services into the Azure cloud platform and investing an additional $10 billion into the San Francisco-based research lab. Now, the Redmond giant is about to turn OpenAI ..."
+    publishedDateTime: 2023-02-02T19:52:00Z
+    webUrl: "https://www.techspot.com/news/97471-microsoft-integrate-chatgpt-bing-openai-starts-monetizing-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 58
   - title: "CEO of OpenAI says misuse of artificial intelligence could be 'lights out for all'"
     excerpt: "OpenAI CEO and co-founder Sam Altman spoke about the future of AI, good and bad, in the vaguest way possible—which scares me a bit. Altman answered questions about OpenAI, the makers of the wildly popular AI chatbot ChatGPT,"
     publishedDateTime: 2023-01-30T21:59:00Z

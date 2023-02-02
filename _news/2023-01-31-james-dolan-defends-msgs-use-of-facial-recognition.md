@@ -35,8 +35,8 @@ related:
         isCached: true
   - title: "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden"
     excerpt: "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City"
-    publishedDateTime: 2023-02-02T11:38:00Z
-    webUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=flipboard_industries"
+    publishedDateTime: 2023-02-01T18:21:00Z
+    webUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing"
     type: article
     provider:
       name: MarketWatch

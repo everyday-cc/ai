@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Flawless Demos Its Wild AI Film Dialogue Manipulation And Language Translation"
-    excerpt: "From tweaking Tom Cruise to advancing deepfake detection with Intel, AI manipulation of photo, video, and audio sources is becoming more mainstream daily. Now, one company is taking this tech to Hollywood with the debut of TrueSync,"
-    publishedDateTime: 2023-01-29T16:57:00Z
-    webUrl: "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
-    ampWebUrl: "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
+  - title: "Advisory panel rules Connecticut needs to further regulate state-used AI"
+    excerpt: "Concerns about such use of artificial intelligence, or AI, led the Biden administration in October to issue its Blueprint for an AI Bill of Rights urging government action to safeguard digital and civil rights. An investigation by The Associated Press last ..."
+    publishedDateTime: 2023-02-02T21:31:00Z
+    webUrl: "https://www.foxnews.com/politics/advisory-panel-rules-connecticut-needs-further-regulate-state-used-ai"
+    ampWebUrl: "https://www.foxnews.com/politics/advisory-panel-rules-connecticut-needs-further-regulate-state-used-ai.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/advisory-panel-rules-connecticut-needs-further-regulate-state-used-ai.amp"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 55
+      name: Fox News
+      domain: foxnews.com
+    quality: 86
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60779/content/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "Mass. lawmakers seek rules for artificial intelligence"
-    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-01-30T08:00:00Z
-    webUrl: "https://www.dailyitem.com/news/mass-lawmakers-seek-rules-for-artificial-intelligence/article_ba75c1e8-4c1b-542a-8dc9-ede9a5c60463.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2c9c84f-a40c-48e5-885e-6484c5d1dd2b/ca5c8b2d-300b-492a-a4d2-deeaafdd3f9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
@@ -68,6 +54,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg?resize=600%2C315"
         width: 600
         height: 315
+        isCached: true
+  - title: "AI Risks Guide Sets Starting Point for Compliance, Regulation"
+    excerpt: "The latest government guidance addressing artificial intelligence risks serves as a launch pad for compliance considerations and could signal regulatory and lawmaker action to come, attorneys say."
+    publishedDateTime: 2023-02-01T10:16:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/ai-risks-guide-sets-starting-point-for-compliance-regulation"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 37
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/dfe2137/2147483647/legacy_thumbnail/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc9%2Ff8%2F5689d05545aaaef866ff622a8b7b%2Fbli-ai-concept-1-958x369.png"
+        width: 958
+        height: 369
         isCached: true
 
 secured: "G/aWQTO8+iLxnShQpA8oziBnntqXUPw6j7uNGozJQnhyV9p3w6XEflZWMlmE/PnR/d7fN/LYvrU00jJXWyZpV20QxUkWJYYFGg074enJ3KSRT0vEyWOQxRvZGhnF6q3IpRDjdoFDCVPrRjayRmQmzOuqkkZYDZUMp0pxrE3VwiG0CY9yal53UhGUDinmf1TofvuzEwamn/0W2DFKZnPHgLbREU+ppGbOhp7exEreGdjuO+2a3ZXsf36Q9WMwAqsCghjG3kimYu9r557BKpuNMMdqkh9kgcMnI8G34tEetfPPGhBR6Ne0PT7AslfSQpk8Tyahp/RxSXJ/JgHqRUpSvZYYerGTKySjSyzGy/nyEdo=;fKZbIHJ3toYFl7CMlU+Evg=="

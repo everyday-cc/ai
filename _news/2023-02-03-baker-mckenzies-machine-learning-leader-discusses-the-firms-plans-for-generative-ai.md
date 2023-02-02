@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T20:13:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/02/02/baker-mckenzies-machine-learning-leader-discusses-the-firms-plans-for-generative-ai/"
 webUrl: "https://www.law.com/legaltechnews/2023/02/02/baker-mckenzies-machine-learning-leader-discusses-the-firms-plans-for-generative-ai/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Law

@@ -19,7 +19,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-  - AI in Autos
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
@@ -68,6 +67,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "XPjiW/3y1xSFWFH5dh7xDjm1og91kvZYI7CCwKVzgpdSH+jKtMHw4tFAkx71G/Pn3+PZc9fVmy5PC0f6z3vLEzkLc7z2XpHCJj4LbpKfTltwUL6GOZuRl4oZS/cXUmYdqiNrd+AujPFxgfhm5WuMVwHgP6bhEE2dTw+hSis2/wsL34MuPEs154W5LmPFJDPd1j2wg6Uw+azKDVwUt6YgncQoV4u9wOsEdyZkbb2OL0hdyE/GReZ6t5rlRU6x2g0IEpSt6JzstTKaT9I6koXd3rIBPr8TIZAa+3FMmEqfo7R1SHX/JZpm273Ukpyf0T1z+UmxbyrCUpUOV/35FkccAxWNGBWif3FXOXXyr3DWHZ0=;Ti5sxOk3v6m8WwHm65/qcg=="
+secured: "7Krxn2NpSvuA+X7y/vnfaxNxcFw6K8F8ag7g9YOfZHjiD96FWI11+pl6nSvB+OSzZPfWNrfpYYEFe8xcsyy/Xr0Nowdynpjy+++qIX6ZMOJw2pGaFyAplPHqJxyUN5u3BHWQEC803nXk4H3v1PI4PNxiJlCtOwvl7M89ljb6pPrFQ7rPLPLnA2iJGS6n0OuyqtKB36GfF/2jHnCFTUeu7jlTWEwIiO0l9W1EfBoPI7mGBBWYqN+bP5ZAoGDOMWOFTr0h3rtMl2oWVNfDpbtovyuzWkDMGCrXs2W5GVLyErn20Yd5VXCosPe566N7P+zqLnjaSlKVh2Z7QErqcsKHlX8NQgRJiPZKGyAllDLQIw0=;FF9JJkotqyZzC3uzYGvszQ=="
 ---
 

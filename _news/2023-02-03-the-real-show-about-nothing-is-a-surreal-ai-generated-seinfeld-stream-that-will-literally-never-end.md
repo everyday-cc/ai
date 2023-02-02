@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T20:40:00Z
 originalUrl: "https://gizmodo.com/seinfeld-ai-twitch-jerry-seinfeld-nothing-forever-1850064935"
 webUrl: "https://gizmodo.com/seinfeld-ai-twitch-jerry-seinfeld-nothing-forever-1850064935"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Gizmodo

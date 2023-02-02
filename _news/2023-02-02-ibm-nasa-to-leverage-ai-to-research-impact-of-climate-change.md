@@ -35,20 +35,15 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
-    excerpt: "IBM (NYSE: IBM) and NASA's Marshall Space Flight Center today announce a collaboration to use IBM's artificial intelligence (AI) technology to discover new insights in NASA's massive trove of Earth and geospatial science data."
-    publishedDateTime: 2023-02-02T01:44:00Z
-    webUrl: "https://spaceref.com/press-release/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+  - title: "IBM AI Helps NASA Researchers Mine Earth Data"
+    excerpt: "The NASA data set is over 5,000 times larger than the GPT-3 data set, making this a monumental task, but the benefits could be ground-breaking."
+    publishedDateTime: 2023-02-01T14:59:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/02/01/ibm-ai-helps-nasa-researchers-mine-earth-data/"
     type: article
     provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 39
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2023/02/01164529/ibm_logo-scaled.jpg"
-        width: 2560
-        height: 1338
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "IBM, NASA Will Use AI to Improve Climate Change Research"
     excerpt: "The research will use IBM’s artificial intelligence technology and NASA’s Earth and geospatial science data for easier and faster research."
     publishedDateTime: 2023-02-01T14:17:00Z
@@ -58,6 +53,15 @@ related:
       name: Nextgov
       domain: nextgov.com
     quality: 21
+  - title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
+    excerpt: "IBM and NASA's Marshall Space Flight Center today announced a collaboration to use IBM's artificial intelligence"
+    publishedDateTime: 2023-02-01T16:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "7joDJe8J9SO6HbfUM4BExNcoWkF5MboXWeaV6guzRhOqbqYDnqjtczGva3guoYCUM3gH+yYlr82k1yiGhxYhyioyK0ajCexHr3U5KtjufFWYpmIEa5mHDSJ0nD+gDTv7Q1CD7NsaJfxqCqR5KiwKeG2QIaiGi41MpMwQeFizRZ37mLyaHWgjIHSvgesE/trouquG6k69iJA+DgP+KwkW+dlGfDnTjhzPSVH7+lgApkO+T4C8xJQ2mtQjPpblJLk0PAsVOfO0oJ09zB0uZ3elCquY3SqxiFxXTu4HeFf+kxJklEvB/jxaCA97ZEg5wRX1X3ts7zwcnsf2mvv130QYqn3a20olzGhF4NZuHLIAkOc=;oJK6MiHxZbjFlz/uDmUDrQ=="
 ---

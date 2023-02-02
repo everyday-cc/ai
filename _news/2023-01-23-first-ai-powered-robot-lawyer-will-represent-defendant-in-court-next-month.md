@@ -3,10 +3,10 @@ category: news
 title: "First AI-powered \"robot\" lawyer will represent defendant in court next month"
 excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
 publishedDateTime: 2023-01-23T14:52:00Z
-originalUrl: "https://www.cbsnews.com/philadelphia/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-webUrl: "https://www.cbsnews.com/philadelphia/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+originalUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+webUrl: "https://www.cbsnews.com/detroit/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "z5HofzeQrQQQhqbGaLLU8TLwfJ0YQGBbBUEAbCVs9kVHtzIhbZDpVOFAr3HQbTUjXfVzDmJr45PjtaN21XdagfrSjNcQNaTnhsRN28s5Rx6jyLBqKQHe6GF+tvh+MDdOjXJVFFWH6jOQZtcgGOf1cH8lkeGZJThyFK6QzOvVEUwD5idT2fWDzsxDS6y50Ju3Ts1PY3s8FrIj5yfaCS7w6WA6yQIGdiVySuaTIK7WLYbsKrkM5+9ZDJEiYXkKDIQjGqIExqqiveU9zIvxX7Rp7N+B6jAm05ve4RIP6BrvOpD6V9MeHbVrbWq/cNhhKjjB614la/XwXO7py9XompKMiA4Z49Yf9cLvNFCxR2ekG2Y=;XbSbaqBF3octfEzkDwzEWQ=="
+secured: "HXM3wENXWiUgVOUxxrK3lWmpc2QU1rEyRWkYAiYqr5AqtsSAkNnhG4Od2NS3rVbZZVRDNXHA7ZbelzrOc+lsiQZVV8Ih9L+2eSHpZY2pfqU93GxCLcf8WLjDXR5j+q2E59CQeeS03wf4ZuZNpTjKb2UnIuGngj1tGtbDvVeS/AOOGPmwzkQDZ6frlzbgZUs421x3Erpqp1+T0IJPpFXcipmJCaG6eT7lCqkycwdUseBVfHizJK2/7iP5sahMfOyH3z+wBB9FSuKFEvAe4ywmGaoBOWUNIFAF76ILcqrWM/prg+SAw9oeKzffxD48q8wZNn+V1knH9MsQi3Yaog9XZkOlkq/rvFPWCHLgpEdkLO8=;+Q796vtc6BUL8RfhxwLAkQ=="
 ---
 

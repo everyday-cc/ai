@@ -54,6 +54,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Cathie Wood Is Doubling Down on This Hidden-Gem Artificial Intelligence Stock"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In November 2021, Cathie Wood described artificial intelligence as the “n..."
+    publishedDateTime: 2023-02-02T15:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cathie-wood-is-doubling-down-on-this-hidden-gem-artificial-intelligence-stock-1032063298"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "T3MNHNEO/HkVnGC78JWoFbg0PL1m9hwDFXFiTdPvJ6Pw4pNmI2b92/hsfJkjHUxvcXF9adN4JR8NNfWZVRdDC1lMZ9Vx3dlP9pPeDELkqbJtKgOOasi80I2TPNFbvYcaU0uayfOp0NRfwAfim/cPup+CVSqhW6mCfbxWNxCE8VMvVQzgvm9SaTDiDLh2cynmZJxW6ft/ZKE8TQu/K0ekdMj3Iwh3gTHwFReuFiGVmZyYvAgAbZhVouFiWW9MyriWvZYmF2TZ3pGkHFslW508Wb69oP5MBiF/nulXwz8M8RYG6qNNcaV5xANJ7750+Kxtf2sj3tuXtOnygh9v0l2k6LxOVTL8b8Issscrd91BKgvUspLC52KataE74ZWjLH+TpjjHUUqOoK82ynV6WSViiKLDKiI0QrW/zr2Vy5KzHDmLmCQaQqpVI6qLbF/410usY981VaEhp+fkvoN2iFMgxLG976NH9qhezg01jwh/Hy3bNq2Ip/Fe8eFbuumO3XFRUKWxhDvTf29n0UWDl1d2yQ==;NUX6g99n5XueEs+CXgjZzQ=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "PM withholding voice detail for political gain: Dutton"
+    excerpt: "The opposition leader is maintaining his attack against Labor for not releasing more detail on an Indigenous voice after meeting the referendum working group."
+    publishedDateTime: 2023-02-02T20:54:00Z
+    webUrl: "https://www.perthnow.com.au/politics/pm-withholding-voice-detail-for-political-gain-dutton-c-9637743"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 19
 
 secured: "Fk4hzO+a9MbxipjgxQFBuOE/QXLEoj8UqQNQjBv4vSVKGNxfKjU2Ch0rdDpsutpTe3Ysg0Kg1Ot0bG1qa1qx7Gy50iIbs0hkjEQGubo/1SdyDatHGDpKpEmVXin554TUjSXT9xOMTtc2tnYAGrHCZDIjKqBvFFE/tcSuctYOOM/OvitK3VS9Se+MhiFz3zfLFR/uZ8zPssKTM7xTlNyaRygKYo8KXjaITr9q4qaQHJs84xI5OSmEGAalBeuF2+Qf46SZ7OfKBNQziX4A57SvyeRTjawVrQBuT0KSF+7CEgkUcuv7wQSYJhPBKvCu4Cj61NiBFIQlVWds1ZTrVa8N85gHPN5dh/7jLVRqAlnVP9I=;qRCV7ZG2GiQktHseKL8/7g=="
 ---

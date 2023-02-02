@@ -50,6 +50,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Cathie Wood Is Doubling Down on This Hidden-Gem Artificial Intelligence Stock"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In November 2021, Cathie Wood described artificial intelligence as the “n..."
+    publishedDateTime: 2023-02-02T15:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cathie-wood-is-doubling-down-on-this-hidden-gem-artificial-intelligence-stock-1032063298"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "JnGyKQXnpnbsbtOKr+RVPx3SJnSxbAynmQgKByAH7+DtFd74gjF2gNU9OddjytIswtWXR4gwQXroFKNa/hAw7MQDSuiRTAVIh9r7P9B3vEcXvuSZFVWD2+Qo9J7QcDeBcdz7+VrAQfR2G5G5tAEfN74YGUtTVN+DAPpJKECvfCjQdJMjKhm9VSmoiA2l/4nvXlFs8Y8gaJGpGTRbf4OO3gorVnUXxny/2fwIAFDxwdaoQu0+gc3I/L+KwzyudmpyRfQXph0q0uQGcqOWUt1QT8fmb6Jxq6Sn9fnENu2OU1TRBVQHdievZRLUZAVjulFfb0EWty++P1b5dKwx+Sve931xHwHx9Kqf/XI57O/VeVDd8SIfvW27aX9SaPM/RiajFGehY98QSt78vmcQ4SCKvQxJ/N9I88eujPQT3shZ+04Z/gG2aPufb16i4JYrgjzSV4SdVu6p2RbvPYPUDTfAbirw0F5BWWH52CgIYroBi2ROMiOkT9cNf4ESzZtQYjmtGRFOkP8UTGK4R/ms1JcyXw==;Smu3NZlvTYAMsMKZ0qyuIg=="
 ---

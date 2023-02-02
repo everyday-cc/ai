@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US investigates self-driving claims made by Elon Musk for Tesla: Report"
-    excerpt: "The US Securities and Exchange Commission (SEC) is investigating self-driving claims made by Tesla CEO Elon Musk. The SEC probe is to determine if the electric car-maker flouted its rules in promoting its full-self driving (FSD) and Autopilot software,"
-    publishedDateTime: 2023-01-29T06:17:00Z
-    webUrl: "https://www.business-standard.com/article/international/us-investigates-self-driving-claims-made-by-elon-musk-for-tesla-report-123012900196_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/us-investigates-self-driving-claims-made-by-elon-musk-for-tesla-report-123012900196_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/us-investigates-self-driving-claims-made-by-elon-musk-for-tesla-report-123012900196_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/21/full/1671589608-4754.jpg?im=Resize,width=480"
-        width: 480
-        height: 359
-        isCached: true
   - title: "Musk faces SEC probe over Tesla self-driving claims"
     excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest"
     publishedDateTime: 2023-01-29T21:01:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2023/01/Tesla-Staged-Video-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Elon Musk's role under scanner in Tesla self-driving controversy"
-    excerpt: "Tesla has been recently accused of staging a video in 2016 that demonstrated its electric cars' self-driving technology."
-    publishedDateTime: 2023-01-29T04:06:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy-41674964305530.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/elon-musk-s-role-under-scanner-in-tesla-self-driving-controversy/amp-41674964305530.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/01/29/1600x900/Elon_Musk_31_1668134290957_1674964963750_1674964963750.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Tesla’s Self-Driving Technology Comes Under Justice Dept. Scrutiny"
     excerpt: "A regulatory filing says officials have asked about software that Elon Musk, the chief executive, has said would allow cars to operate autonomously."

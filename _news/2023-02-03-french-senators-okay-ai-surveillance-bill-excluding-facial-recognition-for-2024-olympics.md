@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T18:34:00Z
 originalUrl: "https://www.biometricupdate.com/202302/french-senators-okay-ai-surveillance-bill-excluding-facial-recognition-for-2024-olympics"
 webUrl: "https://www.biometricupdate.com/202302/french-senators-okay-ai-surveillance-bill-excluding-facial-recognition-for-2024-olympics"
 type: article
+quality: 25
+heat: -1
+published: false
 
 provider:
   name: Biometric Companies
@@ -14,6 +17,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "France fast-tracking law to use AI video surveillance at Paris Olympics"
+    excerpt: "Ministers say measures are needed but rights groups warn they could be a pretext to extend police powers"
+    publishedDateTime: 2023-01-31T11:06:00Z
+    webUrl: "https://www.theguardian.com/world/2023/jan/31/france-paris-olympics-ai-video-surveillance-law"
+    ampWebUrl: "https://amp.theguardian.com/world/2023/jan/31/france-paris-olympics-ai-video-surveillance-law"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jan/31/france-paris-olympics-ai-video-surveillance-law"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/5881519c98826a07518d96ee5377525c031a8cd7/0_255_4352_2611/master/4352.jpg?width=620&quality=85&auto=format&fit=max&s=93d3fca3ff2366d8122fd43eea256c5a"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "ep/gaaNiPeCrUBIGrvTbECIfLeUlTbOU6vMiECHevTWuETFdfHwNAiukC6MvS2cEZoPuvg9pthdpqUCbRFOthFq/mMbynXQAHj3JzIFT8XXNFYc1WPePEkR/OdDL6p9W+ex6z4C28i7mkq52oV/6deeXFmyuU2UMrVjTKFUdqt7DuaeUVtpT4gMep0Gp6iilgghft/gC+iDr3tUH4YN1Gxq7IXN9oZrYPEyEjhXV3lct5DwrU4vMct7s9VJWW2DZTT4JNLHEYKEvMxkicYFW6Vvwq3axb9o8qW7vjSrfYZ19TRz/WyENQ5v96JwWjpGH97HZQt6rbOXk0QWpEnMKkbZUtfZQCmbOVipPPzTcbeA=;5FQ2FVI0FKx1JGE5L47jGg=="
 ---

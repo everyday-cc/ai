@@ -119,6 +119,15 @@ related:
       name: The Economist
       domain: economist.com
     quality: 19
+  - title: "Artificial Intelligence and Virtual Health"
+    excerpt: "For three years now, Oro Health has been running its deep learning algorithm on a proprietary dataset of more than 80,000 clinical images classified by two canadian board-certified dermatologists with the ultimate goal of offering it to non-specialized health professionals as a clinical decision support tool to enhance front-line dermatological care."
+    publishedDateTime: 2023-02-02T20:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/02/9754366.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Is ChatGPT HIPAA Compliant, and What Does it Mean for the Future of Healthcare?"
     excerpt: "Chat GPT, Healthcare, and HIPAA Compliance, includes an assessment of ChatGPT in relation to HIPAA Compliance, as well as currently known shortcomings with the program, and a legal analysis by Compliancy Group's Lead Compliance Attorney of policies and procedures created in the application."
     publishedDateTime: 2023-01-31T08:06:00Z

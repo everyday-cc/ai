@@ -129,6 +129,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence Aids Providers in Maintaining Colonoscopy Quality"
+    excerpt: "A recent study found that an artificial intelligence system helped to reduce the time-related decline in colonoscopy quality while supporting endoscopist performance and adenoma detection."
+    publishedDateTime: 2023-02-02T17:31:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-aids-providers-in-maintaining-colonoscopy-quality"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 31
   - title: "AWS launches Data Lab program in India"
     excerpt: "AWS Data Lab is designed to bring enterprise customers and AWS data specialists together to solve complex data challenges in tangible ways, using AWS products and services."
     publishedDateTime: 2023-01-30T11:35:00Z

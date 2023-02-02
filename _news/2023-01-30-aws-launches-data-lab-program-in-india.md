@@ -137,6 +137,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence Aids Providers in Maintaining Colonoscopy Quality"
+    excerpt: "A recent study found that an artificial intelligence system helped to reduce the time-related decline in colonoscopy quality while supporting endoscopist performance and adenoma detection."
+    publishedDateTime: 2023-02-02T17:31:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-aids-providers-in-maintaining-colonoscopy-quality"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 31
 
 secured: "HzcAI/MvNrKpwMmub8dqy2tY2E0xwKwQlg1namFHlREqG2LUKyJBAPrq012z8NJRgRzs7ywxydmsXi4ccg55dWfRDmeJudCi1Px8UUDJl21ezEOwBK3B1X33XxY9bl6CWs/qdN2KZ7/mZYaUZNLs9OuTxU0LO5LTH6o23DJvcssx33H08dL2VwEPhWVDmpf0kP1WqUagn/VEvbYuD3sITSyujnIWpOa4m4ss9YbmEhT4h2HppJaESsvQHiWq1l9nIuDHOPx1yr7ACObz8hG7XFmObG385MB6mXIERi/UlUMXohG8G1GKhk06ppfcjIUHjmBUbMSDTa9JSlALpfu4HjzODHqwqSTrEPcmk0uGIGpCnuX0k1HoaOS1lRm7b8tA6H3OoVY0uZBEpysh6G/yx68DqeQrFrhzrivPSafblg3aSKyml18PotKpPeRlnWZSf7ztcvesTbIas3ltd1MSArsFgnBpIt1/4hQIvFh0R2ceVwETObu+uw8wWUzS1b8kZRgH8M7QGqrRj9nU2L6ejA==;yb+ZTXt4YJdTdVFz8rrC4A=="
 ---

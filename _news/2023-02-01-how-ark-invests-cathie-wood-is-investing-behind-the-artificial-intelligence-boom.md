@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/02/01/ark-invest-cathie-wood-artificial-
 webUrl: "https://www.cnbc.com/2023/02/01/ark-invest-cathie-wood-artificial-intelligence-chatgpt.html"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Cathie Wood Is Doubling Down on This Hidden-Gem Artificial Intelligence Stock"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In November 2021, Cathie Wood described artificial intelligence as the “n..."
+    publishedDateTime: 2023-02-02T15:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cathie-wood-is-doubling-down-on-this-hidden-gem-artificial-intelligence-stock-1032063298"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "lpQyPVF2v9DNIYOFIYaOmxBk8dOEGMbRYJQ5jIhALuIu47A1Uj1W5IRSukbWH0MEjuY4Cdh7EaRoootvxFZhdEdVGtPGixowxcr3g7NapQiD9FgzW2pom9uKCAt8PdRcRZv4Z92NIwhEeLw/J6g+CsnQsOYetN43BUEqVZtmJUHVeiyl7aHYf7dv3+TcQxCym1NmSi+d9aYkm6+PX7e7I7R87ZD+cwZ8kualnAfowfvwZe5X8oBnuW8VHAj14x13N9YVaAiLXMZ8F20gyXxdgCWPuisz8g73XyMOSFenGiZ2b8VaNGw9A6/T9y5cCvlbIcS6aoQkHZuSFPMsaEqlk1TIFgMQsyGY8sZyBtv5hK7NxBkPp1PXL8oRrij6IhP//mh/JQuZd3ae3x9gYncDrJnbsrvhrjSs9kHygTikOVEzI6Bam6DqVrEtaHBkO41TtxnZFVelEV8yzGuQmTs6rqjL38P9IWnDK0IZgDp8uyOqs45ZfaAwxOEHLSlyMhpaXyaawZl9D8mnBAOKU9b/7Q==;85FEcf8vDAkY2TzIsoIdDw=="
 ---
