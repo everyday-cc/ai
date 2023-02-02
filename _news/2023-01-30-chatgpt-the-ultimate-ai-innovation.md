@@ -442,6 +442,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "ChatGPT: The AI tech that's revolutionizing teaching"
+    excerpt: "\"We are on the cusp of a massive explosion of innovation and creativity in the education sector and AI is at the very center of it,\" Prof Siemens says. \"Teachers must start connecting with their peers around the impact of AI on their teaching; schools will ..."
+    publishedDateTime: 2023-02-02T15:50:00Z
+    webUrl: "https://phys.org/news/2023-02-chatgpt-ai-tech-revolutionizing.html"
+    ampWebUrl: "https://phys.org/news/2023-02-chatgpt-ai-tech-revolutionizing.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-chatgpt-ai-tech-revolutionizing.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-the-ai-tech-th.jpg"
+        width: 2880
+        height: 2880
+        isCached: true
   - title: "Could ChatGPT be your child's next tutor? AI experts, politicians weigh in"
     excerpt: "Auchinloss tols ABC News that AI can scale one-on-one tutoring for students who've suffered historic learning loss after schools shuttered during the start of the COVID-19 pandemic. \"There's very strong evidence that one-on-one tutoring is a highly ..."
     publishedDateTime: 2023-02-01T18:29:00Z
@@ -560,6 +576,15 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
+    quality: 47
+  - title: "ChatGPT introduced AI to the masses and it's already affecting us"
+    excerpt: "Since OpenAI released it in November 2022, millions of people have been using the AI chatbot for things like fixing coding errors and writing papers."
+    publishedDateTime: 2023-02-02T11:00:00Z
+    webUrl: "https://www.cnbc.com/2023/02/02/chatgpt-introduced-ai-to-the-masses-and-its-already-affecting-us-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
     quality: 47
   - title: "ChatGPT and I wrote this article"
     excerpt: "It was trained on a dataset of billions of words and can be fine-tuned for a variety of natural language processing tasks, such as language translation, conversation generation, and question answering.” A screenshot from the ChatGPT website showing the ..."
@@ -833,6 +858,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Getting Away With Proclaiming Generative AI ChatGPT Entitlement Even When The AI Sensation Isn’t Being Used, Troubling AI Ethics And AI Law"
+    excerpt: "Seems like everyone wants to get onto the generative AI ChatGPT bandwagon, including invoking the name of the app when it doesn't even fit the bill. This raises AI Ethics and AI Law qualms."
+    publishedDateTime: 2023-02-02T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/02/getting-away-with-proclaiming-generative-ai-chatgpt-entitlement-even-when-the-ai-sensation-isnt-being-used-troubling-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 30
   - title: "ChatGPT rivals Anthropic AI and Character AI reportedly chasing megabuck funding rounds"
     excerpt: "Artificial intelligence startups Anthropic AI and Character Technologies Inc. are reportedly closing on blockbuster funding rounds backed by a number of high-profile venture capital firms, according to reports this weekend."
     publishedDateTime: 2023-01-30T00:29:00Z

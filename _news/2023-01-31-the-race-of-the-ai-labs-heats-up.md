@@ -110,6 +110,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "The relationship between AI and humans"
+    excerpt: "An AI that makes it easier to process your expenses is one thing; an AI that people would prefer to sit next to at a dinner party quite another. Being clear about how workers would redirect time and energy that is freed up by an AI helps foster acceptance."
+    publishedDateTime: 2023-02-02T14:18:00Z
+    webUrl: "https://www.economist.com/business/2023/02/02/the-relationship-between-ai-and-humans"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 19
   - title: "Is ChatGPT HIPAA Compliant, and What Does it Mean for the Future of Healthcare?"
     excerpt: "Chat GPT, Healthcare, and HIPAA Compliance, includes an assessment of ChatGPT in relation to HIPAA Compliance, as well as currently known shortcomings with the program, and a legal analysis by Compliancy Group's Lead Compliance Attorney of policies and procedures created in the application."
     publishedDateTime: 2023-01-31T08:06:00Z

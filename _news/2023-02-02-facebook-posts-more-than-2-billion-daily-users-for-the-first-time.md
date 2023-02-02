@@ -9,7 +9,7 @@ ampWebUrl: "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-
 cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "Meta Platform's Zuckerberg: Facebook parent to be leaner, more efficient"
+    excerpt: "Analysts had expected earnings of $2.22 a share and revenue of $31.5 billion, according to financial research ... Facebook just reached the milestone of 2 billion daily actives,\" Zuckerberg said in a statement. \"The progress we're making on our AI ..."
+    publishedDateTime: 2023-02-02T15:38:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/02/02/zuckerberg-meta-platforms-leaner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "M9aXppkj6LfW5H+Qn+GgnGJM6fZ9+0uTnGlrid6Fvks1aEpAAz7X+tuYjs2378Ry3rWMTkxgmHokL7mlZb+r+Jy2BSNX0o8pzK+scs9uIhCZo+52T9GWzuulKD3/4FtONn9fSL90eZMeJx1yik4Kj6UN2zGULwfrBxvQwxzbfk3BMrsdPNmLrVC9j0JdN7hpMDb2yVKETTs2+rOjK9Sb1hUN+FVCLjMu2dYyabk0vllYWU2zr6JMVhUyNUP5QDiJXLP/7Euia1iB7QitYmxkz8iwUi3Qw8SYQx6LTChlY7eVC0OCj67fLANj1YULyPRYWIBHwMLlgON6ZGz2MW5aaTrc1wqqAvZWeHduoYw7Vrg=;16/E8b1v48El0SOMURt8Jw=="
 ---

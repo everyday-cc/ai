@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T14:23:00Z
 originalUrl: "https://www.washingtontimes.com/news/2023/feb/2/fast-food-chains-outsource-work-robots/"
 webUrl: "https://www.washingtontimes.com/news/2023/feb/2/fast-food-chains-outsource-work-robots/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Washington Times

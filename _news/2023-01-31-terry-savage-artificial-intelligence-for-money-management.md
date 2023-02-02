@@ -26,6 +26,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "How AI Will Transform Project Management"
+    excerpt: "Only 35% of projects today are completed successfully. One reason for this disappointing rate is the low level of maturity of technologies available for project management. This is about to change. Researchers,"
+    publishedDateTime: 2023-02-02T13:04:00Z
+    webUrl: "https://hbr.org/2023/02/how-ai-will-transform-project-management"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
+
 secured: "XNOs7d+0Rj/ihWQ2VrXbmcFK2OG2JdQAFlBoRx/vs9ML6Dj9NbMd5m9IbwPw/sxL6erbgfyHKMNcpQR4XorCaRNWJMFSmR+l8cm9i8A+A5lNS6vLTY4GGJ8itE5YP9jTe/nvFIcLp16EP1iiEU7fpNm2+bSpIub8vYOuvpGC5HhvKgX5GqtbCgwkn4BHGhGUZ/6/fcEfKES91hc06wYffQTOE8PQAETISL1QkTiEBUvH1FB+lk9gaZiyX7ZBiMyx6aZRoPj23OFgu7EZxFB1g9dhJZjCTOtYpuLm2l8FdNOnuMMolgfFkwSVOAOAB6Xv82pDot5yEby1BrIvSD99n8u+T6Ii98lJVejzs3W19MC1Z1QUlvrZyXc3TkfjvYKZ+FtuaVCajsSXXyiXi0g4wN+JvxzHNMnW+qVEk8Vd0Q4q/ZBxqrqURguQlIjeT6+zgCka+jxPdOQtIGkUUuRjRB0J/52BI1NlZqE117ut/I9UYbu5ARQ/7q7k/hI5k7J2+qacLqALK+MBSS7TE+xbpw==;ROHE/+JYmWYfgou/it8ZAw=="
 ---
 

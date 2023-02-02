@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Five Sensible Ways for Using Generative AI in Doing Legal Work"
+    excerpt: "Forewarns AI Ethics And AI Law”, January 27, 2023. Lawyers of course should be exercising special care when using these AI apps. This is another example of needing to keep your guard up. I highly recommend that you make use of generative AI so that you ..."
+    publishedDateTime: 2023-02-02T14:27:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/02/02/five-sensible-ways-for-using-generative-ai-in-doing-legal-work/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "fWUiMTxqOpsUKPa7elAsJrDwyMxhkJFgj2WXJO6DKCMUmLXP+yxuGV/qncIyVO/sL5xBIRquVxrla6i8qrqfIVGZs5i8woE9wYL5BykF1LwpLBN7brbtEkWEbzetZt6sGixRhsg3VtWeuby7JZ3diVbn3z6ezdS2j99I5B4KG16aO3SMqEXqCs/pfcrWo5UFam1gFEcjWKD7rhy5Ta+XRdfnAD+kUBgy9OPwCcOcuZeAASQMZXLFYdmT3HNMIb3NQOfeqzUTB6GkxYvDvvlMvm+ZR4HMN6kREGmuV7ysPxslqzp0WtubGLzkb4zVNIr3co7mInSvIeirbsbLRGrUXH+1bgxrIfzF1YmDxPLYujhHacWrsnV+ZXev6Zk6uXuuSBIs+cMBrQ4u8im2BcjuzejV3H0LIsjt1gmDZciyV8vEHBWf0A2VUKsdHk08fIIn9hf4Imi0lRPjrJW29WsDYuaP45GWpUP2ogBHKcx+i+v2DxROF/5TWPjrgcXOYkxwyImCIWOSwZ58GtUrkVpZOA==;mUHrPkEiWQNDje/A7cvPwA=="
 ---

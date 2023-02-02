@@ -102,6 +102,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "The relationship between AI and humans"
+    excerpt: "An AI that makes it easier to process your expenses is one thing; an AI that people would prefer to sit next to at a dinner party quite another. Being clear about how workers would redirect time and energy that is freed up by an AI helps foster acceptance."
+    publishedDateTime: 2023-02-02T14:18:00Z
+    webUrl: "https://www.economist.com/business/2023/02/02/the-relationship-between-ai-and-humans"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 19
   - title: "The Race of the AI Labs Heats Up"
     excerpt: "Regardless of the extent to which the generative AI models that underpin ChatGPT and its rivals actually transform business, culture and society, however, it is already transforming how the tech industry thinks about innovation and its engines—the corporate research labs which,"
     publishedDateTime: 2023-01-31T15:20:00Z

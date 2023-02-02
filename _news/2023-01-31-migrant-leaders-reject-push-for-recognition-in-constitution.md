@@ -25,24 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "How to decide between Amazon Rekognition image and video API for video moderation"
-    excerpt: "Almost 80% of today’s web content is user-generated, creating a deluge of content that organizations struggle to analyze with human-only processes. The availability of consumer information helps them make decisions, from buying a new pair of jeans to securing home loans. In a recent survey, 79% of consumers"
-    publishedDateTime: 2023-02-01T20:40:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation/"
+  - title: "Get Used to Face Recognition in Stadiums"
+    excerpt: "The state’s top law enforcement agency wants to know more about how the company operating Radio City Music Hall and the storied arena where the NBA’s Knicks play uses a face recognition system to deny entry to certain people, and in particular lawyers ..."
+    publishedDateTime: 2023-02-02T13:39:00Z
+    webUrl: "https://www.wired.com/story/get-used-to-face-recognition-in-stadiums/"
+    ampWebUrl: "https://www.wired.com/story/get-used-to-face-recognition-in-stadiums/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/get-used-to-face-recognition-in-stadiums/amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 81
-  - title: "AI and Robots Come to Construction Wood Reclamation"
-    excerpt: "Reuse wood and there is no destruction of the carbon capture in the wood and no additional carbon footprint of the newly delivered replacement material. Beyond the feel-good value is something more substantive that will become clear over time as developing regulations will demand disclosure."
-    publishedDateTime: 2023-02-01T13:02:00Z
-    webUrl: "https://www.globest.com/2023/02/01/ai-and-robots-come-to-construction-wood-reclamation/"
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/63dac48099770d142a2f96be/master/pass/Facial-Recognition-In-Stadiums-Business-1242151288.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Doubters find their voice on recognition: ‘fix is destined to fail’"
+    excerpt: "A formal committee advancing the No case for a constitutionally enshrined Indigenous voice to parliament will be launched on Monday and warns the body would forever change the way Australia was governed while failing to improve results for Aboriginal and Torres Strait Islanders."
+    publishedDateTime: 2023-01-29T10:50:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607?amp"
     type: article
     provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 34
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
 
 secured: "noPPcpcYJDGI0VhFKDDQu+F7WaMHzOe1xKff0nST1efiqh3MoHiREttqOf0z+45s1zEEMR1J0NuYFI2E86q2SDFBy7jUOAt9K+hrbmdICNmKGZWxYvhozGqlkcZZhTTcEmhXYelaLIF+2neZNvEIY2kYWnUXjIItmAeAP9Jns1ITJWj4RmFFfRJzyPMe3n04j3uE7HVyENiEXKiSyxoNfD9qwmyZtbV8AwZ3rIme9t/DsNbANdX3DXrJrYSd7gKnfRuKasMZpi2GqUDUyxFTMLOVFZrFoAqh+fpNRVlQYztCwXq5+xCj7ejz4I1//NFq3duMdYmrpQBFyynmj7SD2gfpEvSFwFsZNRXuGzCdFT8=;cw2+VRSXnFvUY4JepNIvWQ=="
 ---

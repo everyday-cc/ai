@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T12:16:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/02/what-qa-teams-should-know-about-machine-learning-for-software-testing/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/02/what-qa-teams-should-know-about-machine-learning-for-software-testing/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

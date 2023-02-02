@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/international/uae/robotics-and-auto
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://images.wsj.net/im-714963/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "2023 Business Predictions As AI And Automation Rise In Popularity"
+    excerpt: "A survey of Global 500 companies found that leaders choosing to invest in AI and automation business tools and software solutions expect to see significant growth within the next few years."
+    publishedDateTime: 2023-02-02T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/serenitygibbons/2023/02/02/2023-business-predictions-as-ai-and-automation-rise-in-popularity/"
+    ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2023/02/02/2023-business-predictions-as-ai-and-automation-rise-in-popularity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2023/02/02/2023-business-predictions-as-ai-and-automation-rise-in-popularity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d2c1e8033f465f354c5504/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 639
         isCached: true
 
 secured: "AQoSp2Cw1bIu54fzp+JTRjsCOmmikMPXUMJdXv5KRRrcLML1UVtiVqMGzRHOFigqC2JIEdy09QOJl7/5CovCtuMBrAiNjqyKD6zkQQbi8SouOfRpyp6FH9ufwDSXufP+vv+a6HRRj6mQJNc6UCGdoxyVtbPK+Iq7JX1iHDmzMYgDDiMMy7PuDic6j98ed9PQ6SioZYzhUJnw8Ajl2cSQG6ZFbApj6H+UytuJ71SgqpIF5N/o0B3dZ+7gP9jhPbD5T+JrA0qAR7YEP1w9IVxhLWB7e8yfnHdJ9Rzj2bZ2XUnzCTc2yBRpc9Cn/GAA1ZW85BRqXeuuWPI+Sdml6sQnsKP7eIHaxVLIQAy3Adt2mcE=;csHU02Fst/teYX05erFYmg=="

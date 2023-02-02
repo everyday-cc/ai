@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-to-decide-betwee
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -33,20 +33,6 @@ related:
       name: GlobeSt.com
       domain: globest.com
     quality: 34
-  - title: "Migrant leaders reject push for recognition in Constitution"
-    excerpt: "A push by referendum opponents to recognise migrants to Australia in the Constitution has been described as offensive."
-    publishedDateTime: 2023-01-30T21:55:00Z
-    webUrl: "https://www.afr.com/politics/federal/migrant-leaders-reject-push-for-recognition-in-constitution-20230130-p5cglk"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_697%2C$y_80/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/deb3a1b0bd8a88bc0b4d68e272b37653acf3ec5c"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "ZentM7pqaHo9bnrT/IRnYtG6w5/T65tWx9BDoOwYsl69GSbajfdcCxowsLqBt/wz7YGGpKfbNYzFDSdRMNonM0AdENNpq8F1/kNOLQGw71GI0lavGNYaCwkSXtgkzS3vzGppzqxCtBj1zGo4APZECYstqnTQpExsGwq9QrYXDqddKKzgcJ9j6x0Lju582bIBQ+ERbsgVvGlZCYiki8HvnK55BwstbPWs/66vCnwChj5lsUW89KlEE6KTM6/SX7193RimsaEQEinX4vAKiQyk+dFCyK+l40AT3j2GVu/krRpuEeADtBhPq6n3DyLFDFABkamPxfuYP+hbHTa1EagVF71PMNIzLiUBtcBBRRxKrX0=;zlMMq91qiEFsURR37nf0Ow=="
 ---

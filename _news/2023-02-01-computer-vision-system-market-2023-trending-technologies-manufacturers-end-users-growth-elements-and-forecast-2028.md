@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Security Market 2023: Top Manufacturers, Key Trends, Progression Status and Business Trends and forecast to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) in Security Market” report provides an in-depth analysis of the size of the global market. It also ..."
+    publishedDateTime: 2023-02-02T15:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
     excerpt: "Market Analysis and Insights: Global Healthcare Artificial Intelligence Market The major players covered in the Healthcare Artificial Intelligence market report are: The research report has incorporated the analysis of different factors that augment the market’s growth."
     publishedDateTime: 2023-01-30T08:39:00Z
@@ -131,6 +145,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Camera Market by Type, by Technology, by End User: Global Opportunity Analysis and Industry Forecast, 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Deep Learning Camera Market” report provides an in-depth analysis of the size of the global market. It also discusses market size ..."
+    publishedDateTime: 2023-02-02T14:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-by-type-by-technology-by-end-user-global-opportunity-analysis-and-industry-forecast-2023-2028-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
   - title: "Synthetic Data Software Market Share 2023 Research by Growth Developments, Emerging Demand, Future Trends and Business Statistics Forecast to 2028"
     excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Synthetic Data Software"
     publishedDateTime: 2023-01-30T17:29:00Z

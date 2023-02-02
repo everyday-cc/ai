@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-bringing-san-francisco
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/01/30165435/SEI_142265995.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "San Francisco Taps the Brakes on Self-Driving Taxis"
+    excerpt: "But in the first major city to host a self-driving taxi service, local officials want state regulators to tap the brakes until those companies prove they can make it happen withou"
+    publishedDateTime: 2023-02-02T16:37:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22684572/san-francisco-taps-the-brakes-on-selfdriving-taxis"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/02/mm1215.63dbd3ca9a4e6.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "H+xqeyCZb5onDasvTQxyFpevvoOvkg6CgKiHkI6fQBU3+C8jMfmime35TAZ6YQweIWcWKFHOFVngTtUboQaGG8rJl3Er0a8ovQco1imrHZoGQ24JC9aJbRfAX/UBAbtC5k3A6lqwDltLuQC3yfPbDtfIXR9drnne88a4ABvcT5OIo8IxWh1E5r2vUI/WHWj9fKS2ZpwEwiEzxp+bauGeGeRu0oCl0uepBwud9Sxu1s7Of5gTHVB8hFLZ7F1SzDlU3ykjYo8GzIHu/ZitS2OfpMJEISxNrBwRz45tBVv7ixDUrTod1kNymcCI6DvANko17Pm0QEPcHrfnQ5WPS0kxLSiZBOpV+BAW/NKqk6y1EbY=;LSKGw1d9beWtAaZuRs1vxA=="

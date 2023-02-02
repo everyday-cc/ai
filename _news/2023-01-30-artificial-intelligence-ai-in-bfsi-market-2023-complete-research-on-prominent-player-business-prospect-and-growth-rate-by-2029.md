@@ -115,6 +115,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
+  - title: "Artificial Intelligence in Healthcare Market worth $102.7 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The AI in Healthcare Market is projected to grow from USD 14.6 Billion in 2023 to USD 102.7 Billion by 2028; it is expected to grow at a"
+    publishedDateTime: 2023-02-02T14:01:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-worth-102-7-billion-by-2028---exclusive-report-by-marketsandmarkets-301737144.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 14
 
 secured: "Zg5kb/gSwp9x3DVzVI+zYcWt8dWqQLwnesvxouHBjtd+y4170u6KNIHvhVkM6wROmmGROYdISx0vV+BW9hAwMtH/nyBEYVpnsEC3u4XVtaEgT0whgvNPFSVHafFQh8QMNDLylwoHWWFeBvGzkGAKxZ6ozqwL18EpEdYoRD04be0WKrgc/lDMmzTmck19oz9PIXdBCcdZFqwRN/CegH4nOwz4zJTBkah5xY0bQb/mZ0C5JKLWk3bQlJZITcjGc4Wf+oNGHSi3YuxPx+fUbEcQAFgJHOeN+4Ed6abRNIKVITQX23KU2Kspc9rtOOrzkxynJgsTKp3jnnl6UEsLKCSBW4ec1HBY0om80MS9FuLhP5I=;veozWSu9fmf1hvsWwsF0oQ=="
 ---

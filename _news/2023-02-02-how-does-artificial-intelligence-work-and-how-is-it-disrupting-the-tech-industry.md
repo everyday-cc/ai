@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Five Sensible Ways for Using Generative AI in Doing Legal Work"
+    excerpt: "Forewarns AI Ethics And AI Law”, January 27, 2023. Lawyers of course should be exercising special care when using these AI apps. This is another example of needing to keep your guard up. I highly recommend that you make use of generative AI so that you ..."
+    publishedDateTime: 2023-02-02T14:27:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/02/02/five-sensible-ways-for-using-generative-ai-in-doing-legal-work/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "I94T5oluxK8cYbbW4n2g2enNas0fqwZgT+/X4zpHMQxUCuxtlBtlrkiyaf82Rq8xSxdmco2PRfL1q477vCg+rgn457dWzKmmmHAKumo4FnFNoB3l71QoDL5X9S30ZtCUv2KtV0ElXCH/V1mb0Irc01flpkGTOKWiIBYb+XMLoazfQla3PRxqq32zBajmbP7Fiko/IFH4nYyJAtnmwhoQydLqput07RBH4Hhsh/rNJ2e1BV9zFVaGyMSDZRix+nb22hfy1rys9RY8sVbFACyqBSniShLhrva01PkYYRTUh0jkqVSHVTgqh9v4PjmgZ3UTle9sZ4OTdiYt9EtXsrgRn4maEBFhaae0j29PB5EHNE/sEjjcyitBjk4aV9pt3lEvzVnBSaLmgQh19zeE9eOpQlHajv7DT3to97JGRWDB5eMr8gqchkXkYDBIHxrRVywIWlJdVrkUBqx3lqL7yaTVryQoFa3S9ez6VFi4Eu2wrVOr/e3QDKaT62USdzmmMa+J4Tvc38XCb26ZItx/VwfhZw==;DUaJvKO2A8zMZwPnz2irUA=="
 ---

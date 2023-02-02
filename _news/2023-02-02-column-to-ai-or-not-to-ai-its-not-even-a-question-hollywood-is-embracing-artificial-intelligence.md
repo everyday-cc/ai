@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-02T11:30:00Z
 originalUrl: "https://www.chicagotribune.com/entertainment/what-to-watch/ct-ent-will-artificial-intelligence-replace-actor-performances-20230202-ufqumqs7bjggnddcdboko6hucy-story.html"
 webUrl: "https://www.chicagotribune.com/entertainment/what-to-watch/ct-ent-will-artificial-intelligence-replace-actor-performances-20230202-ufqumqs7bjggnddcdboko6hucy-story.html"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://www.chicagotribune.com/resizer/zj8pHnEmOmGiHvc_LVIgHAYMqjw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/3YL7DCMCJZDA7FEBSBQZJP54O4"

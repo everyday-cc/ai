@@ -28,20 +28,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 81
-  - title: "Migrant leaders reject push for recognition in Constitution"
-    excerpt: "A push by referendum opponents to recognise migrants to Australia in the Constitution has been described as offensive."
-    publishedDateTime: 2023-01-30T21:55:00Z
-    webUrl: "https://www.afr.com/politics/federal/migrant-leaders-reject-push-for-recognition-in-constitution-20230130-p5cglk"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_697%2C$y_80/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/deb3a1b0bd8a88bc0b4d68e272b37653acf3ec5c"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "kLyWI18s9xEK8xX3TJcwS3cxWwA8gJ0C8P8W2qM0djvlkhJR0G7KiOgy1ckSP7u6LJ+HKyy3o+urUjhc9vIhijL39R1Zj8X/kV0zzTjpduu+f/W5dgziaZXsmSU07l2HCjjPQx/xahiEIPc3WmuBRrPZxmfmCt/AEeZgJi5VLaIL9b6+j4bXMqyHdYrJxJofVf3Wu1eiyiWh5RrTf1Dt+BB0M122GHxbgoFzlB2ueCyesiFzisQkgu5H2dJ/uyqchAn7MTsJt5v7PKzA7BynEhyDMQjkrRJGAiDywD/olRUHOZwBlgKbHHsRcKeZ36mA/b/nGwo2JSQHxUpvsJL4fEXCUiNSPeL5Ug7TlUxS6NH8w364RrMOaFEyLZJ4BI/0zknwqVPLqTwcbxm8WDuLTFJ0xNQdpFVDYNSKb7fArkr8QhXHjR3g4ZBNWovRWuZOWlfeT2SIth4t0WgVDGTrSZqhCyDGMH3lQGagNmt0ibyt9CmKA+JzK9+oTCmr0DjYpCvY3N1VkqQRwaGcGQ/KEQ==;kC/WAb1Xpuh80CiqPPGgCw=="
 ---

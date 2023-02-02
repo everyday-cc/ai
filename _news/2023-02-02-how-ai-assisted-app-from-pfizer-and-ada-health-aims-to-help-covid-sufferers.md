@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T14:01:00Z
 originalUrl: "https://venturebeat.com/ai/how-ai-assisted-app-from-pfizer-and-ada-health-aims-to-help-covid-sufferers/"
 webUrl: "https://venturebeat.com/ai/how-ai-assisted-app-from-pfizer-and-ada-health-aims-to-help-covid-sufferers/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: VentureBeat

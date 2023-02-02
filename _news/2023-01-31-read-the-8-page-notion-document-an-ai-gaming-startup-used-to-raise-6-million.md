@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/notion-doc-ai-gaming-company-used-
 webUrl: "https://www.businessinsider.com/notion-doc-ai-gaming-company-used-to-raise-6-million-2023-1"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 37
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/b/10/b10facfa-11f6-11ed-9859-7315df3c7c9c/62e86a12d247e.image.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automated driving startup Phantom AI raises $36.5 million in latest funding round"
+    excerpt: "Bay Area startup Phantom AI said Wednesday it has closed its series C funding round. Currently, the company is focused on speeding the development of driver-assist technology."
+    publishedDateTime: 2023-02-02T15:03:00Z
+    webUrl: "https://www.autonews.com/mobility-report/samsungs-vc-among-investors-phantom-ai-series-c-funding-round"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 32
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Phantom-MAIN_i.png"
         width: 1200
         height: 630
         isCached: true

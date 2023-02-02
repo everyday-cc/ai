@@ -50,6 +50,15 @@ related:
       name: Nextgov
       domain: nextgov.com
     quality: 21
+  - title: "IBM, NASA To Leverage AI To Research Impact Of Climate Change"
+    excerpt: "New IBM foundation model technology leverages NASA earth science data for geospatial intelligence, , ibm corp, nasa, artificial intelligence"
+    publishedDateTime: 2023-02-02T14:26:00Z
+    webUrl: "https://www.businessworld.in/article/IBM-NASA-To-Leverage-AI-To-Research-Impact-Of-Climate-Change-/02-02-2023-464129/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 19
 
 secured: "TdP/O5yNJlXGl5BG7MXK3See0BwiTwQDbFJqLjVZ/5rCNPWeOlroArAJrQyvj1diaSX/WQo7zWE3YcOk/ZDwL0NwarnHDRcreVFDjxl1cE72nBnY634nNU/pYjbWCIp9MRy7306FKzEC1G5dA7llOFmSWEOaO1/j5NBXkXwxQ2ANvT9DVnrI5KMS4A0Jvoij0YuS6tLMUnNGE34qFJ/IeQ4n6ESXZD1RnaBqeH4LOwU6RYzAiuVByH5llCWqu09/iRSzjIGenMalJPGy1ONGhcEtX4fOs8QEPJdGYk0FtLU5sc/dgy6PSoZficjEYsq63xwLgz6UcxLa1Do/FlI7gpGE8jVC+PHPgEoa1aBpZd8=;KyRbjCD1P6Duaru0BvsG/Q=="
 ---

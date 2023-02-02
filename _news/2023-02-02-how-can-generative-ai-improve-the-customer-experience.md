@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial intelligence can improve efficiency of genome editing"
+    excerpt: "Researchers at the University of Zurich have developed a new tool that uses artificial intelligence to predict the efficacy of various genome-editing repair options. Unintentional errors in the correction of DNA mutations of genetic diseases can thus be reduced."
+    publishedDateTime: 2023-02-02T15:39:00Z
+    webUrl: "https://phys.org/news/2023-02-artificial-intelligence-efficiency-genome.html"
+    ampWebUrl: "https://phys.org/news/2023-02-artificial-intelligence-efficiency-genome.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-artificial-intelligence-efficiency-genome.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-12.jpg"
+        width: 2164
+        height: 1755
+        isCached: true
 
 secured: "wYhgwUqdJ5vmVcvCmJfL+MahbZkB8AzOPwZ9oP3IOhC+GKp9FMzKYSFuZ5mp6Q+cYncN8seYBfBc5PRb+iL/A/VM2Qqmi14FelFn9uHrOiRJjgAowLaNsffalcmXTenpNoZuF+0dL5gFlK2Ug+6bWU2+fxAepYzQ0gc1sbFsEFhRKlwVtj3casRJPYSiaolegH59FvJtd2A9DlFzwTdJ5XQ1Jb9lp+5l7QLZQePJrZc9IZEEUc1NqvM0zuTBqH+bCDSGy1E3Xa4bxEVBwAC2rhoX6PqF1DcEJEslntGNsy30UOMdGpZzcuvXrF1fYF1fqv25F8CD0RhZMLDrwPqGwjAGnArFLCRAlbbUT6l454MZLDRvIxDAM8EcqPqo+NQMoSbZykiNG4fY4dDhK8J9F1r+De1ygcMPcrAnscomW71GUy9vfu7ZkqVrnNmOVSOcSXK4p40K/s4RYnNxnnZqSoNOn4dpiFxUtvaJASdkHXOLp2YQNgti5dxJb/2w+rd+oFrkUtYOawL5c7xYeyPI+A==;3dnSwmVnu/gTTADgoYCOvw=="
 ---

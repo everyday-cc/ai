@@ -36,7 +36,7 @@ related:
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://assets.realclear.com/images/60/600942_5_.jpeg"
         width: 750

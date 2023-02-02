@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "San Francisco Taps the Brakes on Self-Driving Taxis"
+    excerpt: "But in the first major city to host a self-driving taxi service, local officials want state regulators to tap the brakes until those companies prove they can make it happen withou"
+    publishedDateTime: 2023-02-02T16:37:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22684572/san-francisco-taps-the-brakes-on-selfdriving-taxis"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/02/mm1215.63dbd3ca9a4e6.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3Tz2OefhepohTdkrQlPjzORoZaKSEQVlv+zX/BF2egkKdxfPX7R94r3Uh7mC0OIfwPmpOBBE98PL+Fn+5xr4usxtzIWof7kHXaxf5tkXNSFduDo6+QeeYw0cB35yldVwYn3B7eNMEUmEhQvZTcEEJvYi8K5Q0gxHbiQtjZBmjFXUZhxCs2nqcLrk1nhnbq55JkM29vys5SrYVBPX4RLBO9qkge4YrO+t62DCq7EPWN+2hI7ZljoC1EXJh64SZ2nePTePLj6p5pa8au624++a/h8Dwn+P7pUJtfNQPDytBwoTYr/6GFC0fK8TcwIZJIoFM7/8irCXdx2PNN+JuV4Sz5/CV7tA7WeNSo0jkaUqqFo=;JtYuDmyYRABCF8H+o5DcLQ=="
 ---

@@ -35,7 +35,7 @@ related:
     provider:
       name: YAHOO!News
       domain: chicagotribune.com
-    quality: 39
+    quality: 43
     images:
       - url: "https://www.chicagotribune.com/resizer/zj8pHnEmOmGiHvc_LVIgHAYMqjw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/3YL7DCMCJZDA7FEBSBQZJP54O4"
         width: 1200

@@ -81,6 +81,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "Meta Platform's Zuckerberg: Facebook parent to be leaner, more efficient"
+    excerpt: "Analysts had expected earnings of $2.22 a share and revenue of $31.5 billion, according to financial research ... Facebook just reached the milestone of 2 billion daily actives,\" Zuckerberg said in a statement. \"The progress we're making on our AI ..."
+    publishedDateTime: 2023-02-02T15:38:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/02/02/zuckerberg-meta-platforms-leaner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "+ZAOKk5s1BMc+GBHpMsWQy+QJ+n0VViz+y8/+H8nDjiqDr3ZV09vntdyPWseq5plziWzsZRomTaY76x/7zgfrhwybpSp7Jo+Qsis6SMS+pjacgI13GxLKwiljIFzPyeqKJHu7cnMtsnxSaMnNVd/8sg0Ri/DvC3MXMjqudb5aS1lzEul9vXiodk9uwQ/eGrh204NJfGUoUrl7966YYQxp1MJ+njXNxgDVTy57HrlOMRBMorGL63qe6D89M2DRbhLWnWVaSmMHm+y7xbOUFbK/9ylkgWjuWr+zs9MZ9eNvPu0gesikGU7MPsAd7HqlSdult9YWbGfcehewak5vYpm8Swto1z/RnO+mHJ2xGBMUEzf51dcBgiV/SuXdblGoLC/xLa+J2MP1AoYr13CYORpCE/1f1fc1ay1W6aKaDyUFDGPeKRGDDW6j02MFRow+RhP5lzvV/vw6J/n4ikv+Zi1BPLHeozDpPC2ZR2jfkRxrH+tpdeD1Jk7a/dnFfYb5YLAcx/luV7R92NAzaCEo7G4eQ==;EOWchValvrcyCbJ3Zgo9YQ=="
 ---

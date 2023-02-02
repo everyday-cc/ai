@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230201/Voice-activated-device-
 webUrl: "https://www.news-medical.net/news/20230201/Voice-activated-device-could-make-DNA-handling-at-the-laboratory-safer-for-scientists.aspx"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -29,11 +29,18 @@ related:
     excerpt: "Smart voice assistants are a popular way for people to get quick answers or play their favorite music. That same technology could make the laboratory safer for scientists and technicians who handle potentially infectious samples."
     publishedDateTime: 2023-02-01T13:00:00Z
     webUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.html"
+    ampWebUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-voice-activated-hands-free-safer-dna.amp"
     type: article
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 4
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/voice-activated-system.jpg"
+        width: 2604
+        height: 2238
+        isCached: true
 
 secured: "yclOkgJ5JUdvHHJCJeBd8KXidS8fJnrlhnDPDc//m7UBc4AwIUFEITOh9J6T866c8KiFi0s8HkYrEPpM6nqK/7/OspCvy9vzG5Lk+597s87U6yjJW95mjWNxXUh3mCtBBsBjaYRMbwpzoo+Qiz2CYzgwOGglP90x1UaTHFuuXzsw0c1D1sWYKEhW04fIe207Mns7dxwDS8PMNFE5vfGtdn1o9vOzaV6kOsjK+FvvkEfpLvdG+MJ48sI24xEEdXLuDujwPJgG3Rj2/Deq+igG0Oa32Vow8mJerMrVu9z5EhrhOpYF8UREdRI0gP2j+cUkwUCdNma5oj4jdZLEJ1It479ip9ULfc8tECRw3/FUzyw=;+vtkiVc5cDDNYP9bkoS4nA=="
 ---

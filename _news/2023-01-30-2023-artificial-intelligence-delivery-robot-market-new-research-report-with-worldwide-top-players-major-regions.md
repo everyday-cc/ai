@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30"
 type: article
 quality: 63
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
+  - title: "Artificial Intelligence in Healthcare Market worth $102.7 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The AI in Healthcare Market is projected to grow from USD 14.6 Billion in 2023 to USD 102.7 Billion by 2028; it is expected to grow at a"
+    publishedDateTime: 2023-02-02T14:01:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-worth-102-7-billion-by-2028---exclusive-report-by-marketsandmarkets-301737144.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 14
 
 secured: "NFx65eUqgyh5i4RF5Ee3Foh8aZecxrpD4cddxJrK3GxyUWG07Dd4K17uG5wl+havwosIjBZ8ObrJxx5Lv5MNUCaOsc+Qn1uZ29CtJ5FOADOkpAW1mQ803m5/M+1TIYkSdIYAZGR78HlUEyfrDEZwvNMtz3/K8MmkFanMT5oDyjtrdW1Zs5Qj7MhNdTgNm8iC+HF2eeTI0Bb2Ex7LddA3/yRA3tpkQYbpfQurKi+gxgMQjm13TWyNdcFK9cgNqtAaT/KWK+kR1U0o1L/D+HZ6raommcdEot8/f/+4FliF3CkiquDLY/+NFwRRLdmXDK49Pj7mhUuOK0EVuGSBHAJ4u20E4RO8GPfvKG0ByA/P2EA=;y5tdyWAiSCr08DQP0siK3A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T14:04:00Z
 originalUrl: "https://www.columbian.com/news/2023/feb/02/peanut-the-robot-has-a-song-in-her-h-a-r-t-and-tea-on-her-tray-at-lynnwood-sushi-restaurant/"
 webUrl: "https://www.columbian.com/news/2023/feb/02/peanut-the-robot-has-a-song-in-her-h-a-r-t-and-tea-on-her-tray-at-lynnwood-sushi-restaurant/"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Columbian

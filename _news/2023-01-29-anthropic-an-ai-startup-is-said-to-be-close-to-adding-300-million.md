@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Automated driving startup Phantom AI raises $36.5 million in latest funding round"
+    excerpt: "Bay Area startup Phantom AI said Wednesday it has closed its series C funding round. Currently, the company is focused on speeding the development of driver-assist technology."
+    publishedDateTime: 2023-02-02T15:03:00Z
+    webUrl: "https://www.autonews.com/mobility-report/samsungs-vc-among-investors-phantom-ai-series-c-funding-round"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 32
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Phantom-MAIN_i.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BcnzLAwX2MCJ1BRC5GtPT37HThihlEXAxmTy5pccSJZbGHVE8MLLOn3nIqBK7WT4eGd36Q5NL68PvtBG/T5T6IcAQWzqk+Pku8DoyYIABoEsl0bYZVDYYH8cfBqGqPyYP37DD+Wo0uB5gA2vp/WOgvyozOAsyzv9d/THkJ2qkng0mZAaWlYSSEsKnWHxbtpjH+jXKN+yNHzrvFbKRk1EOE6nmPkDucWa19wfnnKAKcWV8mYZvodne8pQeV7cByiRXEkTfgbhWlqO6Fm9etDEJRJdGh4Q8CJRLaQnPtZRmzRSeOP+4Hn1rEf6LaHTWhaNRSif3kZ5GvV05cEcVm+eefST6Y47LUNfDKYQArfdT0xVso4YXv8CFOADAq0T3EhXbql1bIoBPGZM5RSe4+lJrJ8jILZ6Fh4K4p+4VcXX4TEjsD+H3B4LqR5JEiiox+eyxPsCNJib2v8oZbBnITjlDcqMxQbB2o5WRBc9dp1UrmNKykHD7yEddoFHyHP+svhzGEXBf/m328pFVJT1vdRw0A==;u7u65Dc2KdXrGTuwPD5acA=="
 ---
