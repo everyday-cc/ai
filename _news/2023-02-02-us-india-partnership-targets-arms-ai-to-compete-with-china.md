@@ -1,22 +1,28 @@
 ---
 category: news
-title: "US, India Partnership Targets Arms, AI to Compete with China"
-excerpt: "washington - The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against Chi"
-publishedDateTime: 2023-02-01T20:50:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273464437/us-india-partnership-targets-arms-ai-to-compete-with-china"
-webUrl: "https://www.bignewsnetwork.com/news/273464437/us-india-partnership-targets-arms-ai-to-compete-with-china"
+title: "U.S., India partnership targets arms, AI to compete with China"
+excerpt: "The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against China on military equipment, semiconductors and artificial intelligence."
+publishedDateTime: 2023-02-02T05:58:00Z
+originalUrl: "https://za.investing.com/news/us-india-partnership-targets-arms-and-ai-to-compete-with-china-2688028"
+webUrl: "https://za.investing.com/news/us-india-partnership-targets-arms-and-ai-to-compete-with-china-2688028"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Investing
+  domain: investing.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ0U0W8_L.jpg"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "How AI is improving agriculture sustainability in India"
@@ -117,6 +123,6 @@ related:
       domain: cio.com
     quality: 19
 
-secured: "pBMQ6QbjsNRXfZNuGMfQ6Hazw2GmQ6ez3mKoMVJmGQS9Wl+bNGqsp0g6YOU12vPaBMvnrgT5Ph1fhGHOIWcJruVaLQ4e20RlMsf5IEB+J6VF4xxROCCNmaK41ujvgRTtSFq2sYXeShfU+IEIIV65/CM6xtpl7LrvCXk63sghbU2kaYlfZWUWTfKwtuYR/AxPuX3O9XHHLwJRxuLcUhTUBTy5PASDmmzD22LYbOa7JySk5Eg0qM4xRj4WVS6zW5BZRds32+E8AlAafpLqcKi+9MgNNJPowx05kprkLTlharNBHbTDiRehB32B+B45JFKQ5Np570dnVFszLzzgMEEstXfA1cEGlh8m+CZ0YXnb3QkxeD5ftatLstP8EAeVrnvJyj8tYTYxE0eyk6EjDKXcITVHy10LKYRGCV6BiAp0vPyhIp4oYbhI3fgoYOAKqE/2psv1aSEKPTUnGxdpYWZBiXuEo9Nv/aw7GHk+ffzPthouq9JB7K86T8AUwqqresHrFNJGEjrj1aqMBNa+w8NgzA==;OyDH5Q4FSMxBbbEFyP3bOg=="
+secured: "ZpUmuMNr9oBqplNWetAMqDxdOroroSzOCw4jFwIZ0dKxfVZ3fapW09avh0hF92JMt2VWH2PMj9PyJyru557xv5VK4GWEiy2iNwfTLAy/WcoO5hHaAJ8tH1yfc6rE2GVaYMrgNXS/aqgVvDtq+35OQ2rJsTUQsvyQBJ0bW+KiUK1SK97NTqLB2JhRZC0l8UU37mQvSxb+q1pe7DKLY2n5K88cfkkvZ56nj8IS91us/wuEXbhcoZaev010ZzdZUvSs/2diGKBTN1Pizcsm7/iwcQvdwhipYnlVKbvZUnoYNDaSDdxbRMRGQtBs6SGxPI24y7IuDJalyRhPXv5Udq1OZtGWa5qVBDjXXUCNzFlrpyI=;GXacfGYWzTYXtuKico3UUw=="
 ---
 

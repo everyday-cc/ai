@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why the Artificial Intelligence (AI) Accelerator Market is Booming with Revenue Generation, Future Scope, Selling Proposition?"
-    excerpt: "Get a sample PDF of the report at -  The report provides an overview of successful marketing strategies, product performance and recent developments of leading companies, it also offers a dashboard overview of several methodologies and analyses that provides in-depth and accurate information about the Artificial Intelligence (AI) Accelerator."
-    publishedDateTime: 2023-01-30T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/why-the-artificial-intelligence-ai-accelerator-market-is-booming-with-revenue-generation-future-scope-selling-proposition-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
   - title: "Contributing to the utilization of big data! Developing new data learning methods for artificial intelligence"
     excerpt: "A research group at the Osaka Metropolitan University Graduate School of Informatics has developed a new learning method for artificial intelligence that combines classification performance for data with multiple labels with the ability to learn continually from data."
     publishedDateTime: 2023-02-02T02:02:00Z

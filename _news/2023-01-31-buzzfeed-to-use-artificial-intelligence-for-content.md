@@ -8,7 +8,7 @@ webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intellige
 ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
@@ -946,6 +947,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "s5Jiiphs+iqHoLpdZJKT67ZO9NAzyzdjhZb88hteKTFFxXuYxzUt23r1MrRUivjfc4f/y677PX7T5AErn3gt0gqMeH0Z0iPT4hf0ychkKQTVlwsTF2Df7kltmPBnXYj3fp11vsyD/s4dDkMVMJ43vN+SDDF72NcgmIk6mTWcUPBExcIUFTO1u4ZM9NLhOpiHNxvdTWTnb1px+LqoELW4epz5jhHyoRqvrAkup0KWVtGlLfpHsw5E16K9i+QpeSRNVv8V6aQN+Hsscntsy3UomffVImzxLGop7pzoIn5pIQfeYgZr5q0F8wMnu7JB4AxtD++PB1OX/XtTFhIJPabpNhM8yTusglUt6Nkienf/87k=;bxSuoFia1GG1B09VcMXV4g=="
+secured: "B2WMtaT8VqCiSdJPoL0kdXq+vHBKsgVJB3zCpzxDvV1955HuRA+9O2zAS7h/QjMGPGJaE9kY7x3Vp79gzneZundkNTUTq1qjGZmi8Qt1ZoFAGSuOUr1CkEe31agakJYVhEh63k85xzukuTO5jwCf5z/H6QFqJolbklGXmXvh0Yzsp0UwKYsMjZ11cadtUaahKZdrqmlaeDdQ3CFDNFcJhwkaEitdWO5OS/RO8T0cYIU81FTv+A0oEF7FZhqP7gNtQyM7zdPinydLg9vfC960+FiCy8ixv4BQ30Vv6jLDz2DjauHal8DUcoBJ959sDQVRhOAduUXiwyd/xeMPC7GG0gKvYU0pLHsFxj0g8bcLd62a6UN5CDpXho5/gZpss41bcId6jS/viP02Bvm72qlJ9falrm28qrADnTWd2p2sllAXRgAalRPCHmtQQV/VjJlNJ0q6LlgqnHO7+Yt0XWSHS4TvJ5YfpKf4ZkzuBVR30eDuzy8b5oF+O3iDJuwPApLFJc6CYK3k88aYUmPDaCmWyQ==;0Dclnr9jSnqOTd3X3R/ebQ=="
 ---
 

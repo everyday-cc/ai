@@ -319,6 +319,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:41:00Z
+    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: WTKR
+      domain: wtkr.com
+    quality: 61
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "ChatGPT — the ultimate AI innovation"
     excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
     publishedDateTime: 2023-01-30T15:27:00Z
@@ -350,22 +366,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-97439180,width-1070,height-580,imgsize-93524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1068
         height: 580
-        isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:41:00Z
-    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "ChatGPT maker fields tool for spotting AI-written text"
     excerpt: "Creators of a ChatGPT bot causing a stir for its ability to mimic human writing on Tuesday released a tool designed to detect when written works are authored by artificial intelligence."

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30"
 type: article
 quality: 63
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -42,6 +42,29 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Crunching-time-to-market-with-agile-AI-solutions-.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
+    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
+    publishedDateTime: 2023-01-30T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Artificial Intelligence Platform Market Latest Trends 2023, Drivers, and Projections Report from 2023-2029| 99 Pages Report with a Splendid Growth"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence Platform Market\" Report New Research Updated Report 2023 | Latest Report Spread Across| 99 Pages | Global Industry ..."
+    publishedDateTime: 2023-02-01T16:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-latest-trends-2023-drivers-and-projections-report-from-2023-2029-99-pages-report-with-a-splendid-growth-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence In Medical Imaging Market [2023-2026] | Optimize Your Worldwide Industry with Our Advanced Research Report"
     excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"

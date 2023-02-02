@@ -85,6 +85,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "U.S., India partnership targets arms, AI to compete with China"
+    excerpt: "The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against China on military equipment, semiconductors and artificial intelligence."
+    publishedDateTime: 2023-02-02T05:58:00Z
+    webUrl: "https://za.investing.com/news/us-india-partnership-targets-arms-and-ai-to-compete-with-china-2688028"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ0U0W8_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "US, India target arms, AI to compete with China"
     excerpt: "The White House on Tuesday launched a partnership with India that US President Joe Biden said he hopes would help the countries compete against China on military equipment, semiconductors and artificial intelligence (AI)."
     publishedDateTime: 2023-02-01T16:00:00Z
@@ -107,15 +121,6 @@ related:
     provider:
       name: CIO
       domain: cio.com
-    quality: 19
-  - title: "US, India Partnership Targets Arms, AI to Compete with China"
-    excerpt: "washington - The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against Chi"
-    publishedDateTime: 2023-02-01T20:50:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273464437/us-india-partnership-targets-arms-ai-to-compete-with-china"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
     quality: 19
 
 secured: "Kh2qhTItlU83Ynf2maxaTidY79IrSQo7t3NCK1dsVWlmGPxaH5HMEjR4AiFN0BkOauM5cawEfPrkQmZ3SDYk5eZpVB2TGvCWHkv7vOyK+uttnEoyuS/FA2OwklwhRNyfrbZuW5kM6gmx+splvbAnDalaKc3H9/Hg0AaXAoGC/HWDWp3RwjH1gzlMe41oSXOnY8/S28th3tfw4JeNgQCNJ5q8qm6lD4qHP4ZDVJJ6XceSnEvnk4Sd29TfhK/PpVDCSURysHFKzhTHx58Q2G3z2hNpN9tM82CaH7NRBqSmr1gzbYoR561CLcta4CyHdtvbdGUSx+Wp1Nxxh479sA9Kb+tZ63RpfN47Yrs9vnOvj6g=;/mcWRVoxG/wVjiEr59IL4Q=="

@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Deep-learning filter improves precision of cell mutation detection, accuracy of cancer diagnoses"
-    excerpt: "Next-generation cancer strategies rely on next-generation gene sequencing (NGS), which paves the way for new techniques and tools to detect mutations and determine patient therapy. A team of Chinese researchers proposed a more effective strategy to filter false positives results,"
-    publishedDateTime: 2023-02-02T02:02:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/978340"
+    excerpt: "Next-generation cancer strategies rely on next-generation gene sequencing (NGS), which paves the way for new techniques and tools to detect mutations and determine patient therapy. A team of Chinese researchers proposed a more effective strategy to filter false positive results,"
+    publishedDateTime: 2023-02-01T19:54:00Z
+    webUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 11
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 31
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/54ce8c73-813e-47ac-9880-22d17e16fdc5/Rendition/low-res/Content/Public"
-        width: 700
-        height: 387
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-filter-i.jpg"
+        width: 1212
+        height: 670
         isCached: true
 
 secured: "RIrZnw12NqUFTuXG4QYwLPiZJOlFexNET9pc9Pe4+rfbsThlXeJ7UF9nPH+YlFgm3n1NyndgD1EsirLHsU3aCR1MWSApLW+ARy89OArl75VpSTyZdp8C+jkVBq8JfnZHMejlLXBDLs2TEy7hf1/ybRZmxxBqkE+ueI1tiLmWJI+Z+YFwfHhwlJN1LIHquAN2zIuqjFExB6IHUr9TW2E4Y09VqZFO5GjXNycFmpooO4voJLNuNnbtBiqWG0UsaC+YTeMA5Ye6unwiLzQyhMji7nDHAlh5nGdTu70w6EUxo1w+nhasbKnDQcVK1GTPPnriHfOqBNOz2dyQh6jVlOo2fl4rTYNXgeMddwoZmqjJnjo=;gXxfmQKHJq3vIBpIIkYUmA=="

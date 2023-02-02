@@ -3,8 +3,8 @@ category: news
 title: "Scientists believe in fairies - robot ones controlled by light"
 excerpt: "Researchers at Tampere University in Finland have made fairies real - by creating a robot that flies and sparkles just like Peter Pan's pal Tinkerbell."
 publishedDateTime: 2023-02-01T17:30:00Z
-originalUrl: "https://madison.com/news/science/scientists-believe-in-fairies---robot-ones-controlled-by-light/video_d5e7de50-4fb7-5c4d-9d79-95ebff666207.html"
-webUrl: "https://madison.com/news/science/scientists-believe-in-fairies---robot-ones-controlled-by-light/video_d5e7de50-4fb7-5c4d-9d79-95ebff666207.html"
+originalUrl: "https://madison.com/news/world/scientists-believe-in-fairies---robot-ones-controlled-by-light/video_d5e7de50-4fb7-5c4d-9d79-95ebff666207.html"
+webUrl: "https://madison.com/news/world/scientists-believe-in-fairies---robot-ones-controlled-by-light/video_d5e7de50-4fb7-5c4d-9d79-95ebff666207.html"
 type: article
 quality: 54
 heat: -1
@@ -72,6 +72,6 @@ related:
         height: 467
         isCached: true
 
-secured: "6N2IU2CrcFYSM8QUlXADpbAen6gxWvwm5PnsW+jkYSdxXn1RfSMymLdsGkLNBjo9HGs3JoGdeU7x1KaMbzk8UbCo2dtxxWIamzXXLzsd5yO/DBNxvedmwlUFFxMyjY7M/iiSoQqhZnZXTuAaL3H/aOS9tutAjpxUkQq9OZnq1YIW7fK9oTTfQfsydK3XwUZwDPp2B17ZyNV6y2KY7ycG7YpqiRfcga1Xq9bBXH2FBvus4GOaIFhgQQ0sz+ec20wxWA8INwYTrHdGvbL75U5bw3I6mKrrXlvTfqAhEo87+MENUq5927THZpRbeW2aJTDxj+q85nxdp5077LsCW7yAIK46aTfWEasT5lt+M7JXHQU=;KifVQy8HCS7PlDKt+FmO+A=="
+secured: "oIiwRppbCY4ySx+qmEMEuP8QnGxFAvWa3MtN/G91xDThUeT05fk1H+rBPmZfzJIOd6v30lH8mXCRWdborDOYRuFlKP1kTLRAtjrgErNyBmQ2jXGN9EXkSTK8v5HCcWLccpYxbvdrMkuceKlLvqbYeoRKD4ggtQ5wEEJI6uw9dlKmR/246UG8YFQqJVSmqXqF0EKEx91+dPWpmQJImHJ0SnkMYX5aXMNnpqj+tdda4TmaqLqRCKyDY3KToL6EhuBci6BUotnUF6YztAfwV4bqupDH9F4nCkBqoOoEmn0Qcw9r3V/pfF27F4tYa+7U9RBjYWjNyPSnxxRGRzC4aLYquKwCDnr/VR1iszWl10MVI5I=;yA+KEbYrvo9gfIVF8m4fCw=="
 ---
 

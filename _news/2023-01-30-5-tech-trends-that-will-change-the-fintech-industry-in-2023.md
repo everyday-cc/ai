@@ -21,35 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "5 Tech Trends That Will Change the Fintech Industry In 2023"
-    excerpt: "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ..."
-    publishedDateTime: 2023-01-28T14:07:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523"
+  - title: "GPT-3 Use Cases in Banking, Finance and Fintech"
+    excerpt: "Since its release in November 2022, artificial intelligence (AI)-powered chatbot ChatGPT has garnered much excitement in the technology industry"
+    publishedDateTime: 2023-02-02T06:00:00Z
+    webUrl: "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: fintechnews
+      domain: fintechnews.ch
     quality: 54
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Fintech industry seeks ‘RRR’ from Budget 2023: Relief, Reform and Regulatory Easing"
-    excerpt: "The Indian economy has shown great resilience as it continues on the path to becoming the fastest-growing G20 economy, despite the decelerating global conditions. The upcoming Union Budget will be crucial in strengthening and"
-    publishedDateTime: 2023-02-01T05:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-industry-seeks-rrr-from-budget-2023-relief-reform-and-regulatory-easing/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-industry-seeks-rrr-from-budget-2023-relief-reform-and-regulatory-easing/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-industry-seeks-rrr-from-budget-2023-relief-reform-and-regulatory-easing/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/02/Pic-1.png"
-        width: 412
-        height: 312
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/01/GPT-3-Use-Cases-in-Banking-Finance-and-Fintech-1440x564_c.jpg?x30842"
+        width: 1440
+        height: 564
         isCached: true
   - title: "A Magnificent Seven Retail Banking and Fintech Trends to Spy in 2023"
     excerpt: "This trend will involve the use of white label branches, where a single location serves as a shared service centre for  all banking activities, regardless of the customer's bank. The white label branch also has the ability to offer further financial services in addition to access to cash."
@@ -60,17 +44,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 34
-  - title: "Shufti Pro sweeps Ultimate FinTech Awards 2023 with three major wins"
-    excerpt: "Globally acclaimed for its state-of-the-art identity verification and KYC/AML solutions, Shufti Pro wins three major Ultimate Fintech Awards MEA 2023"
-    publishedDateTime: 2023-01-31T08:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/shufti-pro-sweeps-ultimate-fintech-awards-2023-with-three-major-wins-clib5nn5?amp=1"
+  - title: "Fintech Startup BeFiSc Launches AI/ML Powered KYC Solutions Beyond Financial Scores"
+    excerpt: "A Delhi-NCR-based fintech Startup, BeFiSc, has launched its AI/ML-powered technology solutions for financial institutions, government agencies, and other businesses helping them to detect fraud, enrich user data,"
+    publishedDateTime: 2023-02-01T05:32:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/prlog-2023-2-1-fintech-startup-befisc-launches-aiml-powered-kyc-solutions-beyond-financial-scores"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 30
   - title: "AR and VR could revolutionise customer experience in the fintech sector"
     excerpt: "A mobile application is a great approach to provide such services nowadays, however if you want to take it a step further, you could introduce VR or AR to help customers plan different scenarios. It’s easier to see big documents and charts in a virtual  environment where you can swipe through different options,"
     publishedDateTime: 2023-02-01T11:42:00Z

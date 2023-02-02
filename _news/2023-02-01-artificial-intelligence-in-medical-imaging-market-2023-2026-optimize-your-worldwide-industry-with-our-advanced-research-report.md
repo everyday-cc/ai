@@ -50,6 +50,29 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
+    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
+    publishedDateTime: 2023-01-30T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Artificial Intelligence Platform Market Latest Trends 2023, Drivers, and Projections Report from 2023-2029| 99 Pages Report with a Splendid Growth"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence Platform Market\" Report New Research Updated Report 2023 | Latest Report Spread Across| 99 Pages | Global Industry ..."
+    publishedDateTime: 2023-02-01T16:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-latest-trends-2023-drivers-and-projections-report-from-2023-2029-99-pages-report-with-a-splendid-growth-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "nzFEb3dpgh+mqJe36Tew5J6QN+BcGZ2xm4xkMQVHry5/m40XmeOoU3Cu/dl+JWTG6Jeo3X4TCAnSVeUcTdk8AIvw94sqFz5fl+t/rD1swTt18WRPHZ/d+Aw9jnTh1fSOZFLGMk/bHQVZDPwZHsFfCg3Iw9rAiOdd5q0pQugavefj6BWcHgp+A24qIFoUAdVMGKK5QSdGL9cjKJ7s6IT+uWZE9a1jSxCt/9KXQ8nz9hUfAXmmTYXUOfJhqUeBnnE3c4DzcvOEwpRHnJc8cVEud/JjhdFNwAfJ5D0b7AQQm6En9sk9Zf7knbY0L2o8jAcDRPXe8ODk7oYY20+9FVRkVFFPa6IZOyznK7+4lDxQpX4=;9kmFWxQALZ2oltJulOsk2A=="
 ---

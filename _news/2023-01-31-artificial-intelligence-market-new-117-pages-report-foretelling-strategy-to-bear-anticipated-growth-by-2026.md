@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-new-117-pages-report-foretelling-strategy-to-bear-anticipated-growth-by-2026-2023-01-30"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -28,10 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "Statistical Natural Language Processing Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029"
-    excerpt: "In 2023] The Global Statistical Natural Language Processing Market Size (113 Report Pages) is estimated to be worth"
-    publishedDateTime: 2023-01-30T00:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-01-29"
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry"
+    publishedDateTime: 2023-01-30T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029"
+    excerpt: "In 2023] The Global Artificial Intelligence (AI) in Automotive Market Size (115 Report Pages) is estimated to be worth"
+    publishedDateTime: 2023-01-30T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mobile Speech Recognition Software Market 2023 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-01-30T03:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2023-01-29"
     type: article
     provider:
       name: MarketWatch
@@ -42,15 +70,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market 2023 (New Report): Size is set to Grow at a Prominent Pace in the Upcoming Years till 2029"
-    excerpt: "Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence in Accounting Market\" Report New Research Insight Report 2023 | Recent Report Spread Across|"
-    publishedDateTime: 2023-02-01T09:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2023-new-report-size-is-set-to-grow-at-a-prominent-pace-in-the-upcoming-years-till-2029-2023-02-01"
+  - title: "Edge Artificial Intelligence Chips Market 2023| Statistical Analysis for Upcoming Business Opportunities and Forecast to 2026"
+    excerpt: "Edge Artificial Intelligence Chips Market” 2023 report offers business strategy, covers complete landscape for"
+    publishedDateTime: 2023-02-01T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-chips-market-2023-statistical-analysis-for-upcoming-business-opportunities-and-forecast-to-2026-2023-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars Market 2023 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2028"
+    excerpt: "Pages Report] Rising demand for Automobile & Transportation Industry will drive the Self-driving Cars segment growth over the next five years. Global Market Analysis for Self-"
+    publishedDateTime: 2023-01-30T00:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2028-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -65,6 +107,24 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
+    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, r"
+    publishedDateTime: 2023-01-31T22:37:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9752597.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+  - title: "Facial Recognition Market 2023 by Global Trends, Recent Developments, Opportunities, Business Size, and Regional Segmentations Forecast to 2027"
+    excerpt: "Facial Recognition Market” [105 Pages] | Report 2023 aims to deliver precise top-bottom and strategic analysis of"
+    publishedDateTime: 2023-01-31T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-by-global-trends-recent-developments-opportunities-business-size-and-regional-segmentations-forecast-to-2027-2023-01-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
   - title: "Video Surveillance and Vsaas Market 2023-2028: Upcoming Trend, Professional Strategies, Complete Analysis | 98 Pages Report"
     excerpt: "A recent research report on “Video Surveillance and Vsaas Market” provides the latest growth synopsis of market along"
     publishedDateTime: 2023-01-30T04:37:00Z
@@ -74,6 +134,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 8
+  - title: "Global Artificial Intelligence Services Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
+    excerpt: "Artificial Intelligence Services Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Com"
+    publishedDateTime: 2023-01-30T13:47:00Z
+    webUrl: "https://menafn.com/1105495391/Global-Artificial-Intelligence-Services-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "y379B65/l+s33SCg7wOm9vxYUIrn4/oHHk58Um07nDnK5vM6UbERWS76vkdOn1kUXGZvJHFXjFPQBYcY4yYa+z9nELbkDTKlMv+86cvgdvByrxSBOj3GUxIci1wWmeKQXoTqiZdDpOPbHkJlcKBnvULc9bwUk8opL+ldB8bjYaRPD5C3Olo7LlJFmRNL/h6QeJt3n/wO6CjoDPohnUsXN8Aaumg3ZjZbHrxbUaWxFzwpiKbMNjXE8rRWctikT2HefDtHI7CRRQcRbgBr/T38nE5GWYY8pQMObTQYbJrzt661pDMVxhjRTqmYDIBUnWZrDGQU94nhmF1/aWEbk+J48PY3iAZksTvUtTp+XoQjvkE=;4CKmXmrM8d5WgpNKrtugQQ=="
 ---

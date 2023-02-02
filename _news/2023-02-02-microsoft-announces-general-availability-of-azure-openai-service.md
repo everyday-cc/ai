@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot, OpenAI Starts Charging $20"
+    excerpt: "The race is on to see who gets to market first with next-generation chatbot search as a flood of rivals target March. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
+    publishedDateTime: 2023-02-01T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "ChatGPT maker OpenAI has a free tool that can spot AI-written text"
     excerpt: "OpenAI's offers a free but \"imperfect\" tool to detect AI-generated text, and hopes it sparks a debate about AI literacy."
     publishedDateTime: 2023-02-01T15:23:00Z

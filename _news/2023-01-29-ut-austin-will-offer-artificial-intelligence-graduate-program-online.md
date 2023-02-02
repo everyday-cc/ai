@@ -1,10 +1,10 @@
 ---
 category: news
 title: "UT Austin will offer artificial intelligence graduate program online"
-excerpt: "Now the Texas public school is set to launch an affordable, online master's degree program in artificial intelligence. The university said it's the first large-scale degree program of its kind and ..."
-publishedDateTime: 2023-01-29T13:17:00Z
-originalUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
-webUrl: "https://www.chron.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
+publishedDateTime: 2023-01-29T02:36:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 type: article
 quality: 39
 heat: 39
@@ -12,10 +12,10 @@ published: false
 
 provider:
   name: Houston Chronicle
-  domain: chron.com
+  domain: houstonchronicle.com
 
 topics:
-  - AI in Autos
+  - Computer Vision
   - AI
 
 images:
@@ -24,6 +24,6 @@ images:
     height: 1152
     isCached: true
 
-secured: "ytdqpGbnVLXy7KVObtmxPR7ssbdA+MGUEcAr/rrGmvVsjfP63ZvBbmzdXVXIN7YocQZm0dKrRpViFxq8dcZP2ipVNLrQgJpL7LnZ1muYLzhC5zqngQnv5KTM3Oqplmx+LYBXXmBimAspWFWgMKpcuTjE45P0ugVtgAcDOb/oEMeP4p4CJevERHDZcdUP+nsQdh0JGAd3k1h6HTTJ5Zaf5iSNC/He+PgyRxJvdirQWML6UTZwppV/Y5hwFlJu9iWm9DLbrv7Z93jJfoY7+/kJziG1Yy+02FCgl599ISabl0oxngu48DSCDRTBnNPVFkKL9hgTD0dnU40BjAzn3d4+PrVjS9S2Dxrbjs4xF13bOZw=;4KNj3KqNH1S52jP6Yey7ew=="
+secured: "fYFO4czbKeqe8NO0rF0sD3fno7atHcY+KGPQX3pw7w/cn8BdKiXv4eA5QI6yz5ehm2Sg8oEeuNPLWRV7OfQ1g/BvgXYq6v7M47nY+H54LUv/MIcwlUd/oMemAW7ruq3ujlxPWVZLlPW7jU+OxDQgaMAXWTxN2Kw/SUP2JjictQ5zY6HaAq61dtkRhK39+174eNG6/MQ7s49PM2cNmEhmU7cHH+24ztEHUu8khaQHRDU6hhWwE6OV3SiAbIMankayv9VMfOSIzMbxVuXMLxXCKjQjYlO1myiQnur4O3zMwltfFX3p86mxr9rCMddNr7n1F9rHhN3y8OPwX36Q9m9N5chuirB+KANF7jSwIr6lFF0=;xugwFz2mcAs+DRkHjvbObg=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Voice working group meeting begins"
+    excerpt: "Prime Minister Anthony Albanese says the Voice to Parliament’s “two clear messages” are for “recognition and consolation” during its working group meeting on Thursday afternoon. “Recognizing first nations people in our nation"
+    publishedDateTime: 2023-02-02T05:34:00Z
+    webUrl: "https://www.theaustralian.com.au/news/voice-working-group-meeting-begins/video/bce29e8ecea8e5ccd25457c19fb50794"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
+
 secured: "fMzCflV/vGCbgHIf82EKmaZj8kLhrGKQ/HYnSriX1tjS/uIam1Vg9pYNhmq2XWbqNAtj1llSfQv/oatnrthxDzGODUf8hfnwKHDhqHIQIBNYkNHWoRxDJR2BNqaSvRXpqoOjJ5SnQ0FId5HMkOlGjMNSjT9fycSyuYL12UyarVGOsmL4V6FQH/I9ZklVBJvOQrTpt4l5pv/ixtzYdCfM2XeBxqn2FqC5rgtXeplmAdaw+V2+5M1n+ajPTbnMbz98PFuKyAATEirfjTuuXB7sq/rGG/qsu6b8JF5ztP4xNrXEMJNzNydbA9p1zg5FkRT0QwXWSfgEm5Sz0LT/lCx4uNZpaOr5P2o2kUTezghy6Gk=;duydSgQaYnjxbfD2caWckw=="
 ---
 
