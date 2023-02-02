@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.chicagotribune.com/resizer/zj8pHnEmOmGiHvc_LVIgHAYMqjw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/3YL7DCMCJZDA7FEBSBQZJP54O4"
@@ -40,6 +41,6 @@ related:
         height: 768
         isCached: true
 
-secured: "KzEtgnodXuAPI4xw9l/rkMlOY2F03CgqG8WvJ/QkqeDaT3cRRlqL+2bU7yw+sWPmoeH3MSSNxyuw/D0wt7SwQcwvmsFUZqmNiVr9YUywZmji1tH1wHUHC/Xr57E57unR/HMheU6HcrA25Qf5jRBoslB44yX7yt+2xKcnxyMYdYSQiWEuIPiBLNsJz8aJSuJhBOoRwCkyu4otqMW49CIZkJLwS8U1iJsRls0qM/8JhJzt8DRed8BsMcUWBvfMuRgCI50C5glQMnq7PTG5gydCTz4jjCfHtGO493PNIOTuovuIzgUZkKNGGSqDGcTGzSl9IAl3fPgYO1AumqspNSjh7ctxkBoeh4/y4vr9FImqW4I=;2Wgss5GV/tFZkqS4K9TuAw=="
+secured: "Kl0TWirIvdMsu75z6tr4crP7enA5NjdGqaXxoXTD3GIohSgueFT3XhKag0JHTSvhOFwlTHzQ9QwdBr5ZdvdXrAZi5da+F19YompV82+Lo0r7R5ff2+ZuQG6BIfk/PCOHbMDvVCCJZ/smskAOXBxsSSf8lkUA6wBOD6HQOWsvWaRVim+MRc72g6bLUOhVPzJlNhAKOIEbYmbs2GhvmFlR7g3o5XFTCSjORDdGxvfVY5nV7jeSb61kfNtIS+Sh4Ms/xjpAsffmDeMTsv4XZxNeEOoJWx433mZcOK5xpXEcwS833uezD+To4eybKxb0khfe7EEPWnwR342rM1J3DBngX57mMJ9kVxDudK0ds+7c2P4ygcUumnCQJLVd6o8V0X92OOTUjXfsZm348KNDj5d35KVZK/KkUhN/YxLevlDmDofs89ccohexYFBn7QRD4Wd68/m0nJuoK6/ncBtMO2FvHdzyuj4xRk91awJAVIOBN3gqad2rbdRYDddvV1DyG1jChD+OquYVIy3f52+w2gdC/w==;K8rvD0InFIVL43b5uRik9g=="
 ---
 

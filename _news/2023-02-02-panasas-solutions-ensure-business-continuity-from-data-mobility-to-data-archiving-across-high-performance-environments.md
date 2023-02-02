@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 related:
   - title: "Panasas Announces PanView and Pan Move Software for HPC and AI Data Visibility and Mobility"
