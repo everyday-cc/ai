@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/esports-platforms-integ
 webUrl: "https://www.prnewswire.co.uk/news-releases/esports-platforms-integrate-advanced-ai-capabilities-in-an-effort-to-aid-bettors-301737231.html"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -27,7 +27,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 14
+    quality: 16
   - title: "FinancialBuzz.com: eSports Platforms Integrate Advanced AI Capabilities in an Effort to Aid Bettors"
     excerpt: "Artificial Intelligence (AI) is in the forefront of technological innovations, with ChatGPT, launched by OpenAI"
     publishedDateTime: 2023-02-02T13:06:00Z

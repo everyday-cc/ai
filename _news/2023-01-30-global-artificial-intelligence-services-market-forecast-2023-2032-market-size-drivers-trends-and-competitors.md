@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip Market Global Analysis Of Key Manufacturers, Dynamics & Forecast 2030"
+    excerpt: "Regionally, the AI chip market is segmented into five major regions including North America, Europe, Asia Pacific, Latin America and the Middle East & Africa. Asia Pacific is projected to witness ..."
+    publishedDateTime: 2023-01-31T09:15:00Z
+    webUrl: "https://menafn.com/1105500186/AI-Chip-Market-Global-Analysis-Of-Key-Manufacturers-Dynamics-Forecast-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206347"
+        width: 349
+        height: 250
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market 2023: Magnificent Analysis Report for Huge Growth with Forthcoming Challenges Forecast to 2027"
     excerpt: "Feb 02, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Machine Learning as a Service"
     publishedDateTime: 2023-02-02T10:33:00Z

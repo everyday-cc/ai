@@ -76,20 +76,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Budget 2023: Fintech industry seeks RRR–Relief, Reform, and Regulatory easing"
-    excerpt: "One of the most important demands the businesses have from the government for the next Budget is to further ease the financial burden for startups in the fintech industry."
-    publishedDateTime: 2023-01-29T02:30:00Z
-    webUrl: "https://yourstory.com/2023/01/budget-2023-fintech-industry-rrr-relief-reform-regulatory-easing"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 21
-    images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/budget-YS-1674901391444.png?fm=png&auto=format"
-        width: 1105
-        height: 597
-        isCached: true
   - title: "Fintech focus on ESG, digitization, AI in 2023"
     excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
     publishedDateTime: 2023-01-30T13:03:00Z
@@ -131,6 +117,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 4
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
+    publishedDateTime: 2023-02-02T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1303430&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "m6ebKtJfPb6yXQbAkhyQmtN4q1TUqBM6EUFMOXKQ4NSSKVeOI3cdAwQx2U2QWfDCjM+lmITVIS5rhcnO9/CWQFmeCVvGRsMKQhjHztgPdWEcsBkFkY1D/w9o6hFq+kSDCSnkxPCRDHk90J57mXScqLbkPh5YjZtZ5GTSkCE9tZfcIVzeXTBY9/XlpjqCTVh6PooVYDMcHsgv/lBv5rGJ4NcCYdU1TewI4eCmewrWzFABM1n2Ns611QPOWq+133J21guQ08/pnRC7R5Hkpr222Sxm+yiPnLRt6Mf51HDrlB7ZpsnPFZFkqxaOKByOw/BXiU9yPo4moxMQbiywFIIReNT9fY0vwwb+hHpEi8WJMCg=;NA8A39CZ6VXjsjvhnJ6vEg=="
 ---

@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2023 to 2029 Top Countries Data by Region & Research Insights in NEW REPORT"
+    excerpt: "The Artificial Intelligence Market in the Telecommunication market has witnessed a growth from Multimillion USD to Multimillion USD from 2017 to 2022. With a Impressive CAGR, this market is estimated to reach Multimillion USD in 2029. The report focuses on ..."
+    publishedDateTime: 2023-02-02T17:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-2029-top-countries-data-by-region-research-insights-in-new-report-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Crunching time to market with agile AI solutions"
     excerpt: "The advent of pre-built AI solutions makes it possible for businesses to work with agile models and reduce the time to show business impact by 60% compared to the traditional way of approaching AI/ML solutions."
     publishedDateTime: 2023-01-31T04:00:00Z

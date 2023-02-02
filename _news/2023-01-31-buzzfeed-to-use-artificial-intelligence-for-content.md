@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intell
 cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -17,7 +17,7 @@ provider:
   domain: wtvr.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "BuzzFeed Stock Jumps 92% As Employees Fret That AI Will Replace Them"
+    excerpt: "Shares of the digital media company BuzzFeed Inc. (NASDAQ: BZFD) jumped 92% in one trading day after The Wall Street Journal broke the news of the company’s plans to use artificial intelligence (AI) programs to create quizzes and other content for readers."
+    publishedDateTime: 2023-02-02T15:50:00Z
+    webUrl: "https://www.benzinga.com/news/23/02/30692433/buzzfeed-stock-jumps-92-as-employees-fret-that-ai-will-replace-them"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30692433"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30692433"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/02/nicole-angelova-417kabtpfeu-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "BuzzFeed’s AI-Produced Content Experiment Is a Glimpse Into a Bleak Future"
     excerpt: "We can expect a media universe where a shrinking labor force is exploited to feed ChatGPT so it can churn out clickbait."
     publishedDateTime: 2023-01-31T16:34:00Z
@@ -51,6 +67,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "loBh4zsqD1KBkm+JfG1mVD0F8fdLziCeEEShEW/xSrRgwcEbxXWE0qdbGbQOirEqq7av+aUA/heERJQxylr5MsgeayADa43s+ZbcfaUnEETSv94e1axMpQ9gvKZEkQ/n+yZdnEr6lx+YWwZzr3bVnt0ZjpkYVbHQkqBxfifGM1lvjehPa/mLm85fIh9CDpO3oj/CjadhBYJ7Iisxo3Dbh4HQeoXE7aohSW9esd5wN1+Q3S+JYX/FdwJSsuMw4RA3qhRuQKAlBPT5NtN0BFi/41COe1WtsT39OvCxymCX8YKI8lj2BBnttcC0Cz/5C//dGlg2iUKsllbqyq6UhnaTA/kiT+zjU07RsE/siPYq4eE=;nhx7Fn9oSfR+9KZT1mypUA=="
+secured: "XPjiW/3y1xSFWFH5dh7xDjm1og91kvZYI7CCwKVzgpdSH+jKtMHw4tFAkx71G/Pn3+PZc9fVmy5PC0f6z3vLEzkLc7z2XpHCJj4LbpKfTltwUL6GOZuRl4oZS/cXUmYdqiNrd+AujPFxgfhm5WuMVwHgP6bhEE2dTw+hSis2/wsL34MuPEs154W5LmPFJDPd1j2wg6Uw+azKDVwUt6YgncQoV4u9wOsEdyZkbb2OL0hdyE/GReZ6t5rlRU6x2g0IEpSt6JzstTKaT9I6koXd3rIBPr8TIZAa+3FMmEqfo7R1SHX/JZpm273Ukpyf0T1z+UmxbyrCUpUOV/35FkccAxWNGBWif3FXOXXyr3DWHZ0=;Ti5sxOk3v6m8WwHm65/qcg=="
 ---
 

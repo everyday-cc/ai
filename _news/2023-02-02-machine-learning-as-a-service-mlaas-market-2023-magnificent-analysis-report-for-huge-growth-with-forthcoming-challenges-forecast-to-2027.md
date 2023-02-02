@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip Market Global Analysis Of Key Manufacturers, Dynamics & Forecast 2030"
+    excerpt: "Regionally, the AI chip market is segmented into five major regions including North America, Europe, Asia Pacific, Latin America and the Middle East & Africa. Asia Pacific is projected to witness ..."
+    publishedDateTime: 2023-01-31T09:15:00Z
+    webUrl: "https://menafn.com/1105500186/AI-Chip-Market-Global-Analysis-Of-Key-Manufacturers-Dynamics-Forecast-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206347"
+        width: 349
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence Market [New 117 Pages Report]: Foretelling Strategy to bear Anticipated Growth by 2026"
     excerpt: "Artificial Intelligence Market Size [2023 to 2026] Research Report is spread across 117 Pages and provides private data, statistics, vital statistics, Exclusive trends, and competitive landscape details in this which position sector."
     publishedDateTime: 2023-01-30T16:37:00Z

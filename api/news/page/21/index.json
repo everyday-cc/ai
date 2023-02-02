@@ -2,6 +2,240 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-01-13-northern-arc-unveils-machine-learning-based-solution.md",
+      "title": "Northern Arc unveils machine learning based solution",
+      "excerpt": "Business News: Chennai, Jan 13 (PTI) Diversified financial services platform Northern Arc Capital has launched machine learning based solution 'Nu Score,' a propriet",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/northern-arc-unveils-machine-learning-based-solution/articleshow/96967505.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/northern-arc-unveils-machine-learning-based-solution/articleshow/96967505.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/northern-arc-unveils-machine-learning-based-solution/amp_articleshow/96967505.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/northern-arc-unveils-machine-learning-based-solution/amp_articleshow/96967505.cms",
+      "publishedDateTime": "2023-01-13T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-6-types-of-ai-and-what-they-can-do-for-your-business.md",
+      "title": "6 Types Of AI And What They Can Do For Your Business",
+      "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. AI is slowly taking over the world. Drones are delivering food, vacuums are cleaning homes on auto-pilot, virtual assistants are initiating calls and art is being assembled by bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c00726196515fc48c92cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1105,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/13/6-types-of-ai-and-what-they-can-do-for-your-business/amp/",
+      "publishedDateTime": "2023-01-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-nvidia-broadcasts-ai-powered-update-makes-it-look-like-youre-paying-attention-when-youre-not.md",
+      "title": "Nvidia Broadcast’s AI-powered update makes it look like you’re paying attention when you’re not",
+      "excerpt": "Nvidia Broadcast, the GPU-maker's software for live streaming and conferencing, has something that'll make it easier to be distracted while",
+      "sourceUrl": null,
+      "webUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/",
+      "originalUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stuff.co.za/wp-content/uploads/2023/01/Nvidia-Broadcast.png",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/?amp=1",
+      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/01/13/nvidia-broadcasts-ai-powered-update/?amp=1",
+      "publishedDateTime": "2023-01-13T02:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stuff.co.za",
+        "domain": "stuff.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-computer-vision-software-market-detailed-analysis-of-current-industry-figures-with-forecasts-regional-outlook-2028.md",
+      "title": "Computer Vision Software Market Detailed Analysis of Current Industry Figures with Forecasts Regional Outlook 2028",
+      "excerpt": "Computer Vision Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-detailed-analysis-of-current-industry-figures-with-forecasts-regional-outlook-2028-2023-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-detailed-analysis-of-current-industry-figures-with-forecasts-regional-outlook-2028-2023-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency.md",
+      "title": "Roborock reinforces its leadership in smart robot vacuum cleaners with new “Roborock Dyad Pro” unveiled for higher cleaning efficiency",
+      "excerpt": "Roborock, the world-class smart robot vacuum cleaner and mop brand for efficient home cleaning, held a press conference on its new product launch “New Roborock Beyond All Cleaners” to introduce a lineup of Roborock autonomous cleaning robots and robot vacuums and floor cleaning devices as well as unveiling the new “Roborock Dyad Pro” as the next-generation cleaning device to improve overall efficiency in house cleaning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/thailand/pr/2481910/roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency",
+      "originalUrl": "https://www.bangkokpost.com/thailand/pr/2481910/roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/media/content/20230113/c1_2481910_230113143658_700.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-global-chipmakers-to-invest-over-300m-in-ai-designed-chips-this-year.md",
       "title": "Global chipmakers to invest over $300m in AI-designed chips this year",
       "excerpt": "The world’s leading semiconductor companies will likely spend more than $300 million in the development of artificial intelligence (AI) to help design semiconductors faster this year as a global chip shortage continues to put a strain on demand,",
@@ -916,230 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market.md",
-      "title": "Pittsburgh’s AI expertise may give rise to an already growing startup market",
-      "excerpt": "Pittsburgh is an AI powerhouse. Now that seemingly every VC is interested in the category, the Steel City's startup scene could see a boost.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/12/pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market/",
-      "originalUrl": "https://techcrunch.com/2023/01/12/pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1351881393.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-security-technology-startup-awarded-over-4000000-for-humanitarian-support.md",
-      "title": "Security Technology Startup Awarded Over $4,000,000 for Humanitarian Support",
-      "excerpt": "Secured™, a service-disabled veteran owned small business security technology firm, is revolutionizing the field of drone surveillance with the first commercially-available automated AI Object Recognition & Change Detection software designed to merge sensor data in near real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/science-pr-newswire-drones-business-ea798c837083b6e25c7ff06f122f1b04",
-      "originalUrl": "https://apnews.com/article/science-pr-newswire-drones-business-ea798c837083b6e25c7ff06f122f1b04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-using-machine-learning-to-help-monitor-climate-induced-hazards.md",
-      "title": "Using machine learning to help monitor climate-induced hazards",
-      "excerpt": "Combining satellite technology with machine learning may allow scientists to better track and prepare for climate-induced natural hazards, according to research presented last month at the annual meeting of the American Geophysical Union.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/976499",
-      "originalUrl": "https://www.eurekalert.org/news-releases/976499",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-how-and-where-the-artificial-intelligence-ai-in-healthcare-market-is-set-to-grow-in-forecast-period-2028.md",
-      "title": "How and Where the Artificial Intelligence (AI) in Healthcare Market is Set to Grow in forecast period 2028",
-      "excerpt": "Artificial Intelligence (AI) in Healthcare Market Report offers an Complete view about the cutthroat scene of the Artificial Intelligence (AI) in Healthcare market and incorporates a profound picture of execution by a portion of the key global players finishing on the lookout.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-ai-in-healthcare-market-is-set-to-grow-in-forecast-period-2028-2023-01-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-ai-in-healthcare-market-is-set-to-grow-in-forecast-period-2028-2023-01-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-this-ai-lawyer-is-set-to-take-on-two-real-life-speeding-ticket-disputes.md",
-      "title": "This AI lawyer is set to take on two real life speeding ticket disputes",
-      "excerpt": "Designed by legal advice startup DoNotPay (opens in new tab), the AI will help the defendants—who remain unidentified—by telling them exactly what to say and when, through an",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/this-ai-lawyer-is-set-to-take-on-two-real-life-speeding-ticket-disputes/",
-      "originalUrl": "https://www.pcgamer.com/this-ai-lawyer-is-set-to-take-on-two-real-life-speeding-ticket-disputes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fj8TWAwLJotXNFhBrLtKgC-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

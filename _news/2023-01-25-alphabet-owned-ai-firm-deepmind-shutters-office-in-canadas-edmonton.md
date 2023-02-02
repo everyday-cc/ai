@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton"
-excerpt: "Alphabet-Owned AI Firm DeepMind Shutters Office in Canada's Edmonton (Reuters) - DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a ..."
-publishedDateTime: 2023-01-24T19:54:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-01-24/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton"
+title: "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton"
+excerpt: "London-based DeepMind's Edmonton office is the only international site directly managed by the artificial intelligence firm, making it far more resource-intensive to operate, the spokesperson said."
+publishedDateTime: 2023-01-25T02:18:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - Google AI
   - AI
 
-secured: "GttWT6FQhsM/O21PnGtQsfMEQRXYq95wlXuIBdO/KVm/3TOLEtySxgGHMkYKw7WbAKg5dMFkSZGeJEu/aZqtABsbplCqndoDwK0V/JU3pOUEjx4YaXG7isDy3y7s+kr2ST5/6g3zPTl8Vj5qeGlXagvjnnmxjnlDJXvghiISZDYwTajNHwoxo2T44b1a8e/VdTpejZb4F4TmKRTGvsxJTGKGY/oQOdqY6lYjGbwnLQBMbnNzXifimXp4vv8CcopabQ+42s0N0SrxkJZy6+BSV+bx0laNUoiKCRlxfLjofEuu9VfXLpDA4zrHJhwIjXx7habrhafRP+Nr648SQIz7gyOUDv1id19QpnnOe4FuqUM=;wE1bhYaJ+HBeyI63QVTGwg=="
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-97294835,imgsize-29614,width-1200,height-628,overlay-ettelecom/alphabet-owned-ai-firm-deepmind-shutters-office-in-canada-s-edmonton.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "dkgDh2h82HUtxLCwCePLAD/PZs3CdTfH6uBdHpAu3cIg9HNC/+XXDOw2DjXk+ttTFz2Whf485LyO0JEGZ/4JbUqQ1LnRy6mgzgmAFq4OGmmkcu17WDeLNPHy4jcJOe1iLrk/o7bg+2CxlapxvBM2fdd5uxK+o1pMFmd/jtbwBFYoA2i3ucfb+tThQMIN4c9u6hbt0/R3ieHlzfrCK9FOTQjuppG/g+wT8a4vJVN++BtSsAitUDMMCrIkeG4hodWQEcxys5ZXFWtbX1DIuPk1yxjq28E19zMYwrlH7pKtsldqAdxVp4LZjNrJVoWwrI3wZc62tQBfUpsPTURFv8hgAqlelihZe0rELeO6MDNHy4A=;6JFMeoUw7zEwNS+ulzn85A=="
 ---
 

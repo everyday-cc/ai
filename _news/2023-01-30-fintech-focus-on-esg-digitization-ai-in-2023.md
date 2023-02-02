@@ -76,20 +76,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Budget 2023: Fintech industry seeks RRR–Relief, Reform, and Regulatory easing"
-    excerpt: "One of the most important demands the businesses have from the government for the next Budget is to further ease the financial burden for startups in the fintech industry."
-    publishedDateTime: 2023-01-29T02:30:00Z
-    webUrl: "https://yourstory.com/2023/01/budget-2023-fintech-industry-rrr-relief-reform-regulatory-easing"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 21
-    images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/budget-YS-1674901391444.png?fm=png&auto=format"
-        width: 1105
-        height: 597
-        isCached: true
   - title: "Open Banking and NeoBanking - Fintech Trends For 2023"
     excerpt: "Two of the most important trends will be popularized services in neo-banking and open banking services. You will get more information about  these and other new fintech trends down below. Fintech Industry in 2022 - What Has Changed and What Were The Main Trends As investments in fintech significantly increased in 2021,"
     publishedDateTime: 2023-01-31T11:19:00Z
@@ -130,6 +116,15 @@ related:
     provider:
       name: 01Net
       domain: 01net.it
+    quality: 0
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
+    publishedDateTime: 2023-02-02T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1303430&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "CROXv26a7/CXcyOdknyO5LC/5sdRe22byC/ekIpzqSt4VjgKmhmpctT+gFBS4N0XCfrs4ptTMJqU8dyyDMN84wkyllAJ/t7E+JNL3IZvMTsEfukH977SYYEMcZJ97B1dvwq+WeRd77InZYCiGDGYhDmngUEiH6NxU0RvYFXjLSdkZ6oDsVUmBRDrrpHyuddoyxXry82X23i2HdhtkJk4XabkHpIKQzQV2EZrqSabsFNaubVzv3/aKIh4hjO6IsOEtC4j6AUaYL8o3oMjPHZIY+600ziZ47PifYSrfjgHyacA3/8w6mraPYz4XIBMjmxsnfxwnrIntfmLnSpO2w6xkS4EUB1g130jj9QbVqUaHqs8zam9tlDoYalEWEMAywpdvZWiJi10b+RlcZiUvvJTYC9r6s7ipR9ZHQEpsjY6z/Zmj8bpeP7tmxlYI9Uc5EfBa79zqe+76ylRU9BHpUIusa42VnbtTMrkr4wL+Ken5fmE1u6nRfTJ1DVtbFrBWw/R3HzDsquJBWRJARhztfQ2SQ==;J7I0rWco0DqWnVpqAhgkBg=="

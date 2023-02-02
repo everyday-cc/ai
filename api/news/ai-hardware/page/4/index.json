@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-16-biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry.md",
+      "title": "Biden administration puts China's YMTC on blacklist, turns focus on AI chip industry",
+      "excerpt": "Over 20 other significant names in China's artificial intelligence chip sector have been put on a US trade blacklist amid a crackdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox4now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry",
+      "originalUrl": "https://www.fox4now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 4",
+        "domain": "fox4now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-encharge-ai-a-chip-startup-born-in-princeton-lab-raises-217-mln.md",
+      "title": "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln",
+      "excerpt": "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
+      "originalUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
       "title": "eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
       "excerpt": "Intelligent Heterogeneous Integration Gives Machines Brains, Eyes and SensesTAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase",
@@ -1270,103 +1356,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank.md",
-      "title": "Deutsche commits to using AI tech from Nvidia throughout the bank",
-      "excerpt": "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank.",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank",
-      "originalUrl": "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/95eab24/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2Fab%2F08937d7a40b4b2df5be665b66e8d%2F394007626.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot.md",
-      "title": "Why Everyone's Obsessed With ChatGPT, a Mindblowing AI Chatbot",
-      "excerpt": "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
-      "originalUrl": "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
-      "publishedDateTime": "2022-12-07T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

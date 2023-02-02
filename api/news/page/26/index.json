@@ -2,6 +2,222 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-01-10-nvidia-would-be-working-on-ai-optimized-drivers.md",
+      "title": "NVIDIA would be working on AI-optimized drivers",
+      "excerpt": "NVIDIA is rumored to develop AI-optimized drivers that will boost GPU performance by up to 30%. This could provide a significant free upgrade to its users while also revolutionizing the way NVIDIA",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
+      "originalUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce.md",
+      "title": "Artificial Intelligence in Fintech Market is expected to Exhibit a Massive CAGR of 22% by 2030 | Microsoft, Google, Salesforce",
+      "excerpt": "Artificial Intelligence (AI) is a rapidly growing technology that is transforming the financial services industry, often referred to as Fintech. AI is used to automate and improve many of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2023/01/Artificial-Intelligence-in-Fintech.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-c3ai-bear-with-this-company-as-it-executes-a-turnaround.md",
+      "title": "C3.ai: Bear With This Company As It Executes A Turnaround",
+      "excerpt": "C3.ai has kicked off a business model transition to convert its contracts into consumption-based pricing and away from subscriptions. See why AI stock is a Buy.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4568926-c3ai-bear-company-executes-turnaround",
+      "originalUrl": "https://seekingalpha.com/article/4568926-c3ai-bear-company-executes-turnaround",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219304976/image_1219304976.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-federal-regulators-investigating-elon-musks-full-self-driving-new-years-eve-tweet.md",
+      "title": "Federal Regulators Investigating Elon Musk's 'Full Self Driving' New Year's Eve Tweet",
+      "excerpt": "The NHTSA wants to know what Musk meant when he tweeted about disabling driver alerts on Tesla's \"Full Self Driving\" driver assist system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/fed-regulators-looking-at-musks-full-self-driving-tweet/442568",
+      "originalUrl": "https://www.entrepreneur.com/business-news/fed-regulators-looking-at-musks-full-self-driving-tweet/442568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1673332382-GettyImages-492682174-tesla-fsd.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-deep-learning-expert-says-gpt-startups-may-be-in-for-a-very-rude-awakening.md",
+      "title": "Deep Learning Expert Says GPT Startups May Be in for a Very Rude Awakening",
+      "excerpt": "\"The current climate in AI has so many parallels to 2021 web3 it's making me uncomfortable,\" François Chollet, an influential deep learning researcher at Google and the creator of the deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening",
+      "originalUrl": "https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/01/deep-learning-expert-gpt-startups-rude-awakening.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-this-lawsuit-against-microsoft-could-change-the-future-of-ai.md",
       "title": "This lawsuit against Microsoft could change the future of AI",
       "excerpt": "With ChatGPT, artificial intelligence and what it can do is suddenly all the rage. But an intellectual property lawsuit against Microsoft could undermine the future of AI before it gets off the ground.",
@@ -933,231 +1149,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-the-impact-of-the-mind-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.md",
-      "title": "The impact of the MIND dietary pattern on cognitive health and incidence of dementia",
-      "excerpt": "Around seventeen population-based studies conducted in Sweden, Australia, France, the US, Spain, Israel, Brazil, and the Netherlands, have analyzed the association between MIND and cognitive health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-unique-real-world-data-shows-early-retirement-hastens-cognitive-decline.md",
-      "title": "Unique real-world data shows early retirement hastens cognitive decline",
-      "excerpt": "New research from economists at Binghamton University shows early retirement can be linked to an acceleration of age-related cognitive decline. Looking at data from a unique pension program in ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f3f1f57/2147483647/strip/true/crop/3825x2008+0+381/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd9%2F5c%2Fbae30bda4f58bb78d6978d47e2e0%2Fdepositphotos-25100239-xl.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-university-of-toronto-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
-      "title": "University of Toronto scientists use machine learning to fast-track drug formulation development",
-      "excerpt": "Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations. The potential for machine learning algorithms to accelerate drug formulation could reduce the time and cost associated with drug development,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/976052",
-      "originalUrl": "https://www.eurekalert.org/news-releases/976052",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-why-artificial-intelligence-is-set-to-be-a-game-changer-for-businesses-in-2023-according-to-7-founders.md",
-      "title": "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders",
-      "excerpt": "If you've seen artificial-intelligence-generated selfies ... They mentioned innovations in healthcare, wellness, and supply chains, but the most common trend was AI. Many said they expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63b895d0fd2a2700180838c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-the-ai-market-an-overview.md",
-      "title": "The AI Market: An Overview",
-      "excerpt": "The AI market is growing exponentially, both in terms of revenue and level of innovation. If there’s a leading technology of the current era, artificial intelligence (AI) is clearly a top contender. The hype is constant and flows from all quarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T15:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

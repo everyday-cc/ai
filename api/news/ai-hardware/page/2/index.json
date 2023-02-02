@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-16-microsofts-panos-panay-teases-next-gen-ai-powered-windows-11-windows-120-0.md",
+      "title": "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0",
+      "excerpt": "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "publishedDateTime": "2023-01-15T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-has-nvidia-won-the-ai-training-market.md",
+      "title": "Has Nvidia won the AI training market?",
+      "excerpt": "AI chips serve two functions. AI builders first take a large (or truly massive) set of data and run complex software to look for patterns in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html",
+      "originalUrl": "https://www.techspot.com/news/97272-has-nvidia-won-ai-training-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-15-image.jpg",
+          "width": 1963,
+          "height": 1104,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-15-why-chip-maker-nvidia-was-at-a-healthcare-conference.md",
       "title": "Why Chip Maker Nvidia Was at a Healthcare Conference",
       "excerpt": "Healthcare could become a billion dollar a year market for Nvidia's number-crunching and artificial intelligence products, writes J.P. Morgan's semiconductor analyst Harlan Sur, in a note about the chip maker's Thursday presentation.",
@@ -1285,83 +1390,6 @@
       "provider": {
         "name": "HotHardware",
         "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-08-lenovo-unveils-ai-gaming-laptop-range-with-frame-rate-smarts.md",
-      "title": "Lenovo unveils AI gaming laptop range with frame rate smarts",
-      "excerpt": "Artificial intelligence is becoming a part of our daily lives, and Lenevo is set to use AI gaming laptop chips in its upcoming portable gaming PC range. The tech will aim to intelligently fine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamesn.com/lenovo/ai-gaming-laptop-range-ces-2023",
-      "originalUrl": "https://www.pcgamesn.com/lenovo/ai-gaming-laptop-range-ces-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/01/lenovo-ai-gaming-laptop-range-ces-2023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-07T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-07-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator.md",
-      "title": "Skynet Smiles: AMD Unveils Monster Instinct MI300 Hybrid AI Accelerator",
-      "excerpt": "The MI300 sports 24 Zen 4 cores along with its CDNA 3 GPU architecture and 128GB of high-bandwidth memory (HBM3). AMD didn’t mention how many CUs were being used on the GPU side. The CPU and GPU chiplets are 3D-stacked on top of a base die that connects them to the eight stacks of HBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
-      "originalUrl": "https://www.extremetech.com/extreme/342078-skynet-smiles-amd-unveils-monster-instinct-mi300-hybrid-ai-accelerator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
         "images": null,
         "publishers": null,
         "authors": null

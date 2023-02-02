@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "BuzzFeed Stock Jumps 92% As Employees Fret That AI Will Replace Them"
+    excerpt: "Shares of the digital media company BuzzFeed Inc. (NASDAQ: BZFD) jumped 92% in one trading day after The Wall Street Journal broke the news of the company’s plans to use artificial intelligence (AI) programs to create quizzes and other content for readers."
+    publishedDateTime: 2023-02-02T15:50:00Z
+    webUrl: "https://www.benzinga.com/news/23/02/30692433/buzzfeed-stock-jumps-92-as-employees-fret-that-ai-will-replace-them"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30692433"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30692433"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/02/nicole-angelova-417kabtpfeu-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "BuzzFeed’s AI-Produced Content Experiment Is a Glimpse Into a Bleak Future"
     excerpt: "We can expect a media universe where a shrinking labor force is exploited to feed ChatGPT so it can churn out clickbait."
     publishedDateTime: 2023-01-31T16:34:00Z

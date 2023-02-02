@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-06-acrelec-and-xxii-team-up-to-provide-restaurants-with-advanced-computer-vision-analytics-for-drive-thru.md",
+      "title": "ACRELEC and XXII Team Up to Provide Restaurants with Advanced Computer Vision Analytics for Drive-Thru",
+      "excerpt": "Restaurant operators will now have access to a platform that combines AI computer vision with timer technology to track the customer journey and alleviate roadblocks in the drive-thru CHICAGO, Jan. 6,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/01/06/9739153.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/01/06/9739153.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-how-banking-institutions-can-adopt-computer-vision.md",
       "title": "How Banking Institutions Can Adopt Computer Vision",
       "excerpt": "Incorporating computer vision in banking will help banks function more effectively. AI-based technologies like computer vision can automate banking procedures and processes to help humans complete repetitive activities more quickly and accurately.",
@@ -1258,62 +1292,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
-      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
-      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
-      "publishedDateTime": "2022-12-13T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI in Robotics"
       ]
     }
   ],

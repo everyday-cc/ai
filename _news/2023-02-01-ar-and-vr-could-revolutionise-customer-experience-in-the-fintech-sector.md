@@ -68,20 +68,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 24
-  - title: "Budget 2023: Fintech industry seeks RRR–Relief, Reform, and Regulatory easing"
-    excerpt: "One of the most important demands the businesses have from the government for the next Budget is to further ease the financial burden for startups in the fintech industry."
-    publishedDateTime: 2023-01-29T02:30:00Z
-    webUrl: "https://yourstory.com/2023/01/budget-2023-fintech-industry-rrr-relief-reform-regulatory-easing"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 21
-    images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/budget-YS-1674901391444.png?fm=png&auto=format"
-        width: 1105
-        height: 597
-        isCached: true
   - title: "Fintech focus on ESG, digitization, AI in 2023"
     excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
     publishedDateTime: 2023-01-30T13:03:00Z
@@ -131,6 +117,15 @@ related:
     provider:
       name: 01Net
       domain: 01net.it
+    quality: 0
+  - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
+    excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
+    publishedDateTime: 2023-02-02T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1303430&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "K7uqPh+hFSJeHazv3ceBSS/XTh9fWwQTNqiyz4L31q7oJAn86hFOh62zX6zml2Fv+tjujhu4kSsEeCfHNykJg1F/Q0/ZRXT632WoemADUnxtRi3ter7jCUrXgY7ge1IZEsWIAfu0Dc1n/GuVli5QrzI2d5DI7z73LuWit63HkF882dnPurUk9MJPvI6d971oXM9aUqwgxvkjH7lmH6F797F02682O8krUF7NlXOpSZhu7PrLy2Xnef2PJv/jX51cdJkJMnJ/Yq1ZrQAdxqNIPt8VUj+d+1/ik4qYvgoLRZljoU6hzTDMi6Fd/QHgQscElSvO8AEFQY7glDPVHSBUpHRBfblrF9lZUTYF0uUolUk=;Jos+GUzjasZNyHGgQw4FQw=="

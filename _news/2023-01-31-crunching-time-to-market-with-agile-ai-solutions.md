@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market 2023 to 2029 Top Countries Data by Region & Research Insights in NEW REPORT"
+    excerpt: "The Artificial Intelligence Market in the Telecommunication market has witnessed a growth from Multimillion USD to Multimillion USD from 2017 to 2022. With a Impressive CAGR, this market is estimated to reach Multimillion USD in 2029. The report focuses on ..."
+    publishedDateTime: 2023-02-02T17:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-to-2029-top-countries-data-by-region-research-insights-in-new-report-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Educational AI Equipments Market Size 2023 (New Report) to See Enormous Development by 2029 | Competitive Landscape by 116 Pages Research"
     excerpt: "The Latest research study released as “Global Educational AI Equipments Market” with analysis on business Strategy taken up by key and emerging industry players and delivers k"
     publishedDateTime: 2023-02-01T10:42:00Z

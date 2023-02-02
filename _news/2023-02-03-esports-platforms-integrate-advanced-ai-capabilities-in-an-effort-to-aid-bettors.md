@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-02T16:54:00Z
 originalUrl: "https://it.tmcnet.com/news/2023/02/02/9754050.htm"
 webUrl: "https://it.tmcnet.com/news/2023/02/02/9754050.htm"
 type: article
-quality: 14
-heat: -1
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 related:
   - title: "eSports Platforms Integrate Advanced AI Capabilities in an Effort to Aid Bettors"

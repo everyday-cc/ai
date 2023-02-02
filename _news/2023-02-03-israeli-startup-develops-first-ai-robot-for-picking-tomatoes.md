@@ -8,8 +8,8 @@ webUrl: "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-f
 ampWebUrl: "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/amp/"
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://static.timesofisrael.com/www/uploads/2023/02/רובוט-לקטיף-עגבניות-קרדיט-MotoMotion-640x400.jpg"
@@ -26,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "hKFpMsuhPL0PT0kdZcFZ9uy0lNOTsR0jPOFX4PZbs1w2PIdIi6g4S2z8bKNyIGp9lDxRHf3RdgZZbljKS7vLH+Kx/lpz4iwwYmE8xtDlvlm5tmFKqyrbgOU4gZjyKeyJge3GAfsKV/eOqzbrU49ZL5Fbr+kqavSiCP2cnrLmJHHshWRFBbf2l28xxzculc8oyJa51o3P61yeZFOzITRiGCSErxSADMgfaCKNp4BnrO97IwVpUnLCOGpwLxPi5WJrnZVhXmgjpKLGjngyzRWokRKasL5csktVJK7EH4OTAxlFUNYGLkEfQVvfLhkhoTQ76vYFeQzFQOd8Jp08IUCqLo7562wdMCVBra+BxVUL+Zw=;VWeehbwl5XFO34NLZizn9Q=="
+secured: "4rhIFws7W8xj5I4XBe2npHxaMCgBPUZodyTq1aH6p1YMreMj2BrM2zsrdxELLHa6sUgUvAbL1Iw0GNYxwn89wye/2Jf2WV4p3w8g46aMg9lDGkwv1e2YdhtRQ7X+abdil/hz4QYyoWyDo6hRMnBAL9gnyTW8v4YhtQRCIVpsbvLeuVe8b6dJ3U0Qj6XR71fJCJndGc+ig972Q7lKNlVcKfUKJOkGRi7+YxlMZsD3e12oqDFwHYbstl9bhrcXzcj7QMFeNIjMeAvl9/A57z+AOmij/OosPmJQqDsvaFtibTRzRCLpyZr6sPmyslZ7gMYDXyO8q8Q6uW/8oIhptqYLM6ShmMbLEpenDG3jSUMJeLfEXJ3bBSJZMrfWx6oAGXZftQM2Tn1ESDEKkUd1OcLOg92z/QvxkcFDNnrq4kSBFNRlewRzCf88KdMRRYxSSNAWPOVQXbkmnQ9iqwRQqgACdXWYtoYKyHZqiz8xx+BFOM6ljjkmr4Y5RFudjoCagkJeCxphXaH4iMCXJXJQpe2w7w==;J+wurzNfsC0+zS4xQfbZPg=="
 ---
 

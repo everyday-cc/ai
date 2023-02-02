@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-26-can-artificial-intelligence-crack-college-admissions.md",
+      "title": "Can Artificial Intelligence Crack College Admissions?",
+      "excerpt": "While the program is well equipped to pass even complex tests, it cannot be a substitute for innovation, creativity, and critical thinking—attributes that students are expected to showcase on the college admissions essay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
+      "originalUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d1786b06f7c970a36e3ae4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
+      "publishedDateTime": "2023-01-25T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-resolving-to-live-the-year-of-the-rabbit-to-the-fullest.md",
       "title": "Resolving to live the Year of the Rabbit to the fullest",
       "excerpt": "We spoke to Liu Yang, who has one of the strangest jobs around: to sit in the passenger seat and monitor how self-driving cars cope with Beijing’s streets. Since we talked in the summer of 2022, Liu Yang had briefly stepped out of his robotaxi.",
@@ -1291,49 +1343,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year.md",
-      "title": "8 ASX and global stock ideas to add to your portfolio this year",
-      "excerpt": "This spike in inflation was driven by a culmination of factors including the continued impact of covid 19 on global supply chains, a war in Ukraine, and economic sanctions on Russia, which provides many parts of the world with much-needed energy and agricultural commodities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livewiremarkets.com/wires/8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year",
-      "originalUrl": "https://www.livewiremarkets.com/wires/8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHhsQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--46968fa7f1d978925522326ee7d201f4bc21a9ae/Chart%202%20-%20PE%20by%20region.png",
-          "width": 445,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Livewire Markets",
-        "domain": "livewiremarkets.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
