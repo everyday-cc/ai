@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "San Francisco asks California regulators to halt or slow the rollout of driverless taxis"
+    excerpt: "Alphabet's Waymo and Cruise, owned by GM, both operate fully driverless services (without backup drivers) in the city. Last June, Cruise gained permission to charge for rides in set areas of the ..."
+    publishedDateTime: 2023-01-30T09:25:00Z
+    webUrl: "https://www.engadget.com/san-francisco-asks-california-regulators-to-halt-or-slow-driverless-vehicle-testing-083906662.html"
+    ampWebUrl: "https://www.engadget.com/amp/san-francisco-asks-california-regulators-to-halt-or-slow-driverless-vehicle-testing-083906662.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/san-francisco-asks-california-regulators-to-halt-or-slow-driverless-vehicle-testing-083906662.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 80
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-11/3f32a8e0-3d52-11ec-b7dd-743871b058c9"
+        width: 1122
+        height: 676
+        isCached: true
   - title: "San Francisco wants to slow robotaxi rollout over blocked traffic and false 911 calls"
     excerpt: "Now that both companies have had their fully driverless vehicles on San Francisco streets for several months, we’re starting to see the vehicles’ response — or lack thereof — to complex tr ..."
     publishedDateTime: 2023-01-29T20:11:00Z

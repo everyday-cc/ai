@@ -41,6 +41,22 @@ related:
         width: 1300
         height: 902
         isCached: true
+  - title: "How AI Is Cropping Up In The Agriculture Industry"
+    excerpt: "For decision-makers in agriculture, properly utilizing AI can help increase productivity while decreasing waste amid increasing costs."
+    publishedDateTime: 2023-02-02T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fd288f278fb3ba430ef35db/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "US-India partnership targets arms, semiconductors, AI to compete with China"
     excerpt: "Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies, to welcome more Indian computer chip specialists to the United States and to encourage companies from both countries to collaborate on ..."
     publishedDateTime: 2023-02-01T02:10:00Z

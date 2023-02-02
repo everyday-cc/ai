@@ -303,6 +303,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
+  - title: "Six Things You Didn’t Know About ChatGPT, Stable Diffusion And The Future Of Generative AI"
+    excerpt: "Forbes spoke to 60 entrepreneurs and researchers in the AI space to understand what’s happening with ChatGPT, OpenAI and the race to dominate a technology that could be as transformative as the internet."
+    publishedDateTime: 2023-02-02T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2023/02/02/things-you-didnt-know-chatgpt-stable-diffusion-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63db0033d01da33f8fe6ed8a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 597
+        isCached: true
   - title: "ChatGPT — the ultimate AI innovation"
     excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
     publishedDateTime: 2023-01-30T15:27:00Z
@@ -737,6 +751,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Can ChatGPT help me at the office? We put the AI chatbot to the test."
+    excerpt: "The AI chatbot ChatGPT can generate conversational responses to questions, but how well does it do with workplace tasks?"
+    publishedDateTime: 2023-02-02T10:04:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/02/02/chatgpt-work-ai-uses/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-01-2023/t_d7931f6f02254df09493d922af4a6915_name_ChatGPT_THUMB.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Cheaters beware: ChatGPT maker releases AI detection tool"
+    excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework."
+    publishedDateTime: 2023-02-02T11:27:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article271878092.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article271878092.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article271878092.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 37
   - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
     excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
     publishedDateTime: 2023-01-30T14:07:00Z
@@ -783,6 +822,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
+  - title: "ChatGPT takes on real estate: Agents say the AI could be a game changer in the industry"
+    excerpt: "Real estate agents across the country are turning to the ChatGPT AI program to help write up listing descriptions and marketing content."
+    publishedDateTime: 2023-01-31T20:54:00Z
+    webUrl: "https://www.indystar.com/story/money/personalfinance/real-estate/2023/01/31/real-esatate-agents-chatgpt-ai/11155895002/"
+    type: article
+    provider:
+      name: The Indianapolis Star
+      domain: indystar.com
+    quality: 31
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/01/05/USAT/1f540a16-fefc-492c-8504-6cc02b2ff498-AFP_AFP_336H73P.jpg?auto=webp&crop=8184,4604,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ChatGPT rivals Anthropic AI and Character AI reportedly chasing megabuck funding rounds"
     excerpt: "Artificial intelligence startups Anthropic AI and Character Technologies Inc. are reportedly closing on blockbuster funding rounds backed by a number of high-profile venture capital firms, according to reports this weekend."
     publishedDateTime: 2023-01-30T00:29:00Z

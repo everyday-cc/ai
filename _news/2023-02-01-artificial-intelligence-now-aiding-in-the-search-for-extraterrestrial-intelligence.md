@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Boffins deploy machine learning in search for intelligent ET"
-    excerpt: "Scientists have developed a machine learning method they think could help filter out interference and more efficiently spot unusual radio signals from space, contributing to the ongoing search for extra-terrestrial intelligence."
-    publishedDateTime: 2023-01-30T18:42:00Z
-    webUrl: "https://www.theregister.com/2023/01/30/ai_looks_for_et/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/01/30/ai_looks_for_et/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/30/ai_looks_for_et/"
+  - title: "Key Intelligence Agencies Bolster National Security Through AI, ML"
+    excerpt: "Intelligence Authorization Act — the ruling that directs and approves funding for U.S. government intelligence initiatives — Congress requested that the IC develop a plan to incorporate AI into its regular practices."
+    publishedDateTime: 2023-02-02T10:55:00Z
+    webUrl: "https://www.govconwire.com/2023/02/key-intelligence-agencies-bolster-national-security-through-ai-ml/"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 73
     images:
-      - url: "https://regmedia.co.uk/2016/08/12/chill_alien.jpg"
-        width: 1000
-        height: 665
+      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/g4KcXc61B56zlqgRrS-rU.jpg"
+        width: 272
+        height: 270
         isCached: true
 
 secured: "Ii6Y9X6+xqdRvzl3bf6Ns2qZE4dB1yWpKvkwqnHQnateu0IZlM7xJ91FqZQczcRLVkqBa+T4Z+PRVMeyZAwgxYqlplrAAIH/QG7ARXUs6aKiILuXFD9vXXtcup9yRh/KisID564lHOOvZz84taqZZzkKosBDmTMDkojp3c1XGy6mwS6gaZyn2vpo8oOcCrw1fQpgOQwW1rC7OyQVGKSeA/CXUyw9KV/rBq6IdiPFKQLbEt4z5wpz1+I+FhxKrMf7ViqveUlNY4rM/Uscq8v1xG+Wwgo6x5taqKSjg2TNNm25ujPksv2dSbnP4jKZEbYVQxhyqldfM0N9QzGTwSiyPAGL2kxw6kRQk4nmp6wQGv0=;8sovtLrx0PNL5pNBnZniRQ=="

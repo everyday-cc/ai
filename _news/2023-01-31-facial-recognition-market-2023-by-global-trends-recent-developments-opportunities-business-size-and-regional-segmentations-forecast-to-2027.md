@@ -23,126 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry"
-    publishedDateTime: 2023-01-30T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
+  - title: "Facial Recognition In Schools: Clever Tech. Bad, Bad, Bad Implementation"
+    excerpt: "Your kids are in high school, between the ages of 11 and 18, and they need to be fed, but when they get to the till or point of sale in the canteen, their faces are scanned, matched to a biometric pattern and the data is stored somewhere until they are 23."
+    publishedDateTime: 2023-02-02T10:54:00Z
+    webUrl: "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/"
+    ampWebUrl: "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63dba304f628758f399afec2/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029"
-    excerpt: "In 2023] The Global Artificial Intelligence (AI) in Automotive Market Size (115 Report Pages) is estimated to be worth"
-    publishedDateTime: 2023-01-30T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market [New 117 Pages Report]: Foretelling Strategy to bear Anticipated Growth by 2026"
-    excerpt: "Artificial Intelligence Market Size [2023 to 2026] Research Report is spread across 117 Pages and provides private data, statistics, vital statistics, Exclusive trends, and competitive landscape details in this which position sector."
-    publishedDateTime: 2023-01-30T16:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-new-117-pages-report-foretelling-strategy-to-bear-anticipated-growth-by-2026-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mobile Speech Recognition Software Market 2023 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
-    excerpt: "Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-30T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge Artificial Intelligence Chips Market 2023| Statistical Analysis for Upcoming Business Opportunities and Forecast to 2026"
-    excerpt: "Edge Artificial Intelligence Chips Market” 2023 report offers business strategy, covers complete landscape for"
-    publishedDateTime: 2023-02-01T10:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-chips-market-2023-statistical-analysis-for-upcoming-business-opportunities-and-forecast-to-2026-2023-02-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Cars Market 2023 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2028"
-    excerpt: "Pages Report] Rising demand for Automobile & Transportation Industry will drive the Self-driving Cars segment growth over the next five years. Global Market Analysis for Self-"
-    publishedDateTime: 2023-01-30T00:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
-    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
-    publishedDateTime: 2023-01-31T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-smart-retail-global-market-report-2023-advent-computer-/2023/01/31/9752597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
-    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, r"
-    publishedDateTime: 2023-01-31T22:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9752597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "Video Surveillance and Vsaas Market 2023-2028: Upcoming Trend, Professional Strategies, Complete Analysis | 98 Pages Report"
-    excerpt: "A recent research report on “Video Surveillance and Vsaas Market” provides the latest growth synopsis of market along"
-    publishedDateTime: 2023-01-30T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2023-2028-upcoming-trend-professional-strategies-complete-analysis-98-pages-report-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 8
-  - title: "Global Artificial Intelligence Services Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
-    excerpt: "Artificial Intelligence Services Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Com"
-    publishedDateTime: 2023-01-30T13:47:00Z
-    webUrl: "https://menafn.com/1105495391/Global-Artificial-Intelligence-Services-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "JVPbjgyfdpFoj7ptQArRwCJ4qj0nBHlySJd6IRKvUEZ72OIb0lyQ2PFyDVumArL+Ga0JFdJs3YIbj+FGVAJzbN89a80wrAHXLArAgw+y2YqvDhCGajteeoOO+gXRZf9m6MqJr++XVcyJxXzQg1Q+VMVFwsXRCfPDqLRwnwhq2ZGlZAO7cl6UpUUknPEbNna7XE19zV97F7mLYMLSZoqa9kKtCe3rc+4Y/kCltgp6W2bPfSUay8qJB60xvmFiIaA+yQDS85Shj6A9ZpIMGlR56jOmupP6GkcUWcCy/aRojqR+WdceTeZM+mFnaXRmqHfX7OBsj6MxG6Lp0ng9WnQB57znHQpNCs04rJ847qaOoM0=;7CztHIE1m9zXeLXvlr+4ZA=="
 ---

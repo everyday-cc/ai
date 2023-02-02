@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Babies Remember Faces Despite Face Masks"
+    excerpt: "A new study by researchers at the University of California, Davis, allays those concerns, finding that 6- to 9-month-old babies can form memories of masked faces and recognize those faces when unmasked."
+    publishedDateTime: 2023-02-02T10:28:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/babies-remember-faces-despite-face-masks-369830"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/369830/babies-remember-faces-despite-face-masks-369830-640x360.jpg?cb=20230202"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "XD28KOqi3u4UBn+CMQwh62i36RTXIEUehUYGTJ2f+RUl6kUgmyfuIx3QX+WJYudMjTxhdzlbZteOE9Nx9RCuM0piu3tvzE+IJ5sTzR9OXIRome7fOcfXteZWriEnN6aisOnevJM7MjnszuJPbKn1+pltku3kIoXwuPoyjBIlx2WHjycj/T6Ee/pVe2xf/QsJTC1KQ+xRfgoXPHnnIa1Q9WER8d7UweFfks09uR77nkKA0nJXbrhwRR8fYVBk8S++NENs/09Sh3NnLax1lfdXeFOK4XPrOwZRBvUJ6u+RoLOs4PO0eOmVqzq1lpcNYDkMcN6I4+l28504K4gr6QOpdL+s2i+geN9wi5osaNzNczc=;ynHI3QLxaXGxrw/hxUTNGg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-30T08:00:00Z
 originalUrl: "https://www.bostonglobe.com/2023/01/30/opinion/are-you-real-most-urgent-question-with-artificial-intelligence-new-interlocutor/"
 webUrl: "https://www.bostonglobe.com/2023/01/30/opinion/are-you-real-most-urgent-question-with-artificial-intelligence-new-interlocutor/"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/J96KloKz4xexApYRfdAWRUrxM9A=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/NAZ5KLQDNNCHNAPCIVVY7VCT6I.jpg"

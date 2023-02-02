@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/micr
 webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Microsoft Packs Teams Premium Full of AI for $10/Month"
+    excerpt: "Meeting notes, task lists, timeline markers, speaker markers, and live translations are all handled automatically by artificial intelligence if you're willing to pay."
+    publishedDateTime: 2023-02-02T12:38:00Z
+    webUrl: "https://uk.pcmag.com/communications-1/145237/microsoft-packs-teams-premium-full-of-ai-for-10month"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 86
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-packs-teams-premium-full-of-ai-for-10month_hquk.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "CMLEJqlklBb4B0DL4DNToc24o2rcf4PJ6TOCzLLyyJ+PdxDCHSnrtcDY/FVSzqIn5K7tjj/WkItJq4WgGMub6gjrmjc7I3dDFtAeoh3lxVrgvPE4A2qYrca6vMpuec9mbAtBO0MUv2AZKavDkgbfrxecxl+Z/U2h8xfJfItn4sktcULIPXAgzb0gNE2384hIik5G6RAcDo04GTJVIHr7rgniqVirIcLs0Jv+at4Py64U1BgfGmInMfXLhTH5SplmSU55CHw4qcxjURlfqtDxbNKZgXa+bHsFrRI6cDaALy4QlqcLwznGfLIyIPfNyE8BmWqDB1gSth5Q/iNFltmbFX7gPELjusAYHBTrL8CsoSPGHav89iCTfd3KZaXzsHaQHwZ6I7DVGNQbUD4mHc6a/c3h3+bYVc7ZE6Yh2ogNSEkTa9BHrO7BD2582UCKFUD778R8jcFNEIaispntIrFzEmH7YS3hUWEUG8DXY0y7PdZwtQxr4cMGbYMsnvmEMfnN0e7sErjdZRzhe6HoRNrDDQ==;Fqvq2lu0x7ZKzBTRZixMCw=="
 ---

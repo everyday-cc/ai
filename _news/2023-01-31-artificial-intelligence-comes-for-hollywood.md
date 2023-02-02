@@ -26,6 +26,22 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "Column: To AI or not to AI? It’s not even a question — Hollywood is embracing artificial intelligence"
+    excerpt: "For example, filmmaker Robert Zemeckis announced that Tom Hanks and Robin Wright, the stars of his next film, will be de-aged using AI face swaps."
+    publishedDateTime: 2023-02-02T11:30:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/what-to-watch/ct-ent-will-artificial-intelligence-replace-actor-performances-20230202-ufqumqs7bjggnddcdboko6hucy-story.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: chicagotribune.com
+    quality: 39
+    images:
+      - url: "https://www.chicagotribune.com/resizer/zj8pHnEmOmGiHvc_LVIgHAYMqjw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/3YL7DCMCJZDA7FEBSBQZJP54O4"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "dzskJSoE+PW8ngpHbz1DGH+haj6j5Nf28CnWlKtm3eNKt9E3s3t7UGgXIG5U3rAW4G/n3rLwR4mn7sPNXEiNG14sGdYMJCDgGcUcRLasAXzMzR0XjWHCz2V3RqRVNM+E+lbIEeTOkuAgO/59imZaEeFV/FkHj8Z2ShsmNNnfCNsj6A8BwFeAmO6betRpc4QXmCk2/FJ43T/DHpIO73FwR8PtQ6hP1jd0tnncGkf9VHdlZ7T6/Nfbz28X3WavtTgtiUIZZ6A5gdnhXW7EyP7sQqKmdkbJLP451KyLcDIkvwBWXj/sB8jSzaU+Ahsqu4FkpMhUZf8pfrOkudf4t/L38rbjwUjHc0lfUpXS4WnI99tuvoSqzY+dnUX8QZS26cAEHbwVLQSagdy1tFVfIrh9czF6Ab2R0EJFaIZINdDgr0l/Zbwd5qp1YSCZRqr6i1Gk7jts9sDUoi2jdoab4/TEoK7kn3RMqN4TG1oZOm4EekbGDiKu1UjxK1ucZDsXkzCVTVkssWKHTCubCbVQ30v45A==;V+jEnz8W/eO7WMD1EHClHg=="
 ---
 

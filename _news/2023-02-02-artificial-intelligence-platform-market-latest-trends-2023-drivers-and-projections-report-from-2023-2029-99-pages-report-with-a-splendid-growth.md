@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot Firefighter Market 2023 (New Report) to Eyewitness Massive Growth to 2028 | 122 Pages Report"
+    excerpt: "The New Report for Global Robot FirefighterMarketResearch Report 2023 | Robot Firefighter Market Provides Such by"
+    publishedDateTime: 2023-02-02T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robot-firefighter-market-2023-new-report-to-eyewitness-massive-growth-to-2028-122-pages-report-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Size 2023 (New Report) is Thriving worldwide 2023 to 2028 | 96 Pages Report"
+    excerpt: "The New Report for Global Face Recognition SystemsMarketResearch Report 2023 | Face Recognition Systems Market"
+    publishedDateTime: 2023-02-02T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-2023-new-report-is-thriving-worldwide-2023-to-2028-96-pages-report-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Crunching time to market with agile AI solutions"
     excerpt: "The advent of pre-built AI solutions makes it possible for businesses to work with agile models and reduce the time to show business impact by 60% compared to the traditional way of approaching AI/ML solutions."
     publishedDateTime: 2023-01-31T04:00:00Z
@@ -55,6 +83,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/Crunching-time-to-market-with-agile-AI-solutions-.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Educational AI Equipments Market Size 2023 (New Report) to See Enormous Development by 2029 | Competitive Landscape by 116 Pages Research"
+    excerpt: "The Latest research study released as “Global Educational AI Equipments Market” with analysis on business Strategy taken up by key and emerging industry players and delivers k"
+    publishedDateTime: 2023-02-01T10:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/educational-ai-equipments-market-size-2023-new-report-to-see-enormous-development-by-2029-competitive-landscape-by-116-pages-research-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
     excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"

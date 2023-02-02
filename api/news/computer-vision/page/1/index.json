@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-02-facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation.md",
+      "title": "Facial Recognition In Schools: Clever Tech. Bad, Bad, Bad Implementation",
+      "excerpt": "Your kids are in high school, between the ages of 11 and 18, and they need to be fed, but when they get to the till or point of sale in the canteen, their faces are scanned, matched to a biometric pattern and the data is stored somewhere until they are 23.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/",
+      "originalUrl": "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63dba304f628758f399afec2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/amp/",
+      "publishedDateTime": "2023-02-02T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation.md",
       "title": "How to decide between Amazon Rekognition image and video API for video moderation",
       "excerpt": "Almost 80% of today’s web content is user-generated, creating a deluge of content that organizations struggle to analyze with human-only processes. The availability of consumer information helps them make decisions, from buying a new pair of jeans to securing home loans. In a recent survey, 79% of consumers",
@@ -1450,58 +1502,6 @@
         "AI",
         "Computer Vision",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-italian-startup-clothing-line-will-protect-your-identity-from-facial-recognition-software.md",
-      "title": "Italian Startup Clothing Line will Protect Your Identity from Facial Recognition Software",
-      "excerpt": "Big Brother is watching you...unless you wear this wacky shirt. Cap_able, an Italian clothing start-up, is trying to make fashion for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/",
-      "originalUrl": "https://www.fool.com/investing/2023/01/16/italian-startup-clothing-line-will-protect-your-id/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/716782/featured-daily-upside-image.jpg",
-          "width": 1920,
-          "height": 1138,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
 type: article
 quality: 54
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2023: Magnificent Analysis Report for Huge Growth with Forthcoming Challenges Forecast to 2027"
+    excerpt: "Feb 02, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Machine Learning as a Service"
+    publishedDateTime: 2023-02-02T10:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-magnificent-analysis-report-for-huge-growth-with-forthcoming-challenges-forecast-to-2027-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -98,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Fintech Market Size Share, Trends, Segmentation, Top Key Players, Growth And Forecast To 2023-2033"
+    excerpt: "The global AI in Fintech market was estimated at USD 6.67 billion<br />and is expected to reach USD 22.60 billion. The market is also expected to"
+    publishedDateTime: 2023-02-02T12:27:00Z
+    webUrl: "https://menafn.com/1105514730/AI-In-Fintech-Market-Size-Share-Trends-Segmentation-Top-Key-Players-Growth-And-Forecast-To-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979102"
+        width: 356
+        height: 250
+        isCached: true
   - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
     excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
     publishedDateTime: 2023-01-31T00:00:00Z
@@ -116,15 +144,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "Facial Recognition Market 2023 by Global Trends, Recent Developments, Opportunities, Business Size, and Regional Segmentations Forecast to 2027"
-    excerpt: "Facial Recognition Market” [105 Pages] | Report 2023 aims to deliver precise top-bottom and strategic analysis of"
-    publishedDateTime: 2023-01-31T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-by-global-trends-recent-developments-opportunities-business-size-and-regional-segmentations-forecast-to-2027-2023-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
   - title: "Video Surveillance and Vsaas Market 2023-2028: Upcoming Trend, Professional Strategies, Complete Analysis | 98 Pages Report"
     excerpt: "A recent research report on “Video Surveillance and Vsaas Market” provides the latest growth synopsis of market along"
     publishedDateTime: 2023-01-30T04:37:00Z
