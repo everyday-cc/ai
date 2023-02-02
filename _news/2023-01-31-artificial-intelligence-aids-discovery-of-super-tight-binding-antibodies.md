@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence aids discovery of super tight-binding antibodies"
+    excerpt: "Scientists developed an artificial intelligence tool that could accelerate the development of new high affinity antibody drugs."
+    publishedDateTime: 2023-02-01T01:21:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130213953.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 61
   - title: "Researchers develop AI-based strategy for discovering high-affinity antibody drugs"
     excerpt: "Scientists at University of California San Diego School of Medicine have developed an artificial intelligence (AI)-based strategy for discovering high-affinity antibody drugs."
     publishedDateTime: 2023-01-31T00:21:00Z

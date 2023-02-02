@@ -73,6 +73,20 @@ related:
         width: 857
         height: 600
         isCached: true
+  - title: "AI in healthcare gets Budget push"
+    excerpt: "Hyderabad: Private healthcare majors feel that the Budget has given artificial intelligence (AI) in healthcare a major thrust and this would be of immense help in improving the sector and also create opportunities for research and innovation across the ..."
+    publishedDateTime: 2023-02-02T00:42:00Z
+    webUrl: "https://www.thehansindia.com/business/ai-in-healthcare-gets-budget-push-780539"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/02/01/1333200-pradeep.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "New Healthcare AI eBook Offers Timely Insight and Education about Fraud, Waste and Abuse Threats"
     excerpt: "Payment integrity and FWA experts from Codoxo share the latest healthcare cost containment risks and best practices to inform leadership strategy for 2023 and beyond ATLANTA (PRWEB) January 31, 2023 Codoxo, a trusted"
     publishedDateTime: 2023-01-31T18:00:00Z

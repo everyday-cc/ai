@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Artificial intelligence aids discovery of super tight-binding antibodies"
+    excerpt: "Scientists developed an artificial intelligence tool that could accelerate the development of new high affinity antibody drugs."
+    publishedDateTime: 2023-02-01T01:21:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130213953.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 61
 
 secured: "QvTTBkBZd60TjHfHsq3dl19Rk1RNYc/4NxGvg7TwygiY+AQtserAUtGi0KLsZ+q0cwamPr+vKoJENpm99ntlATPBFuZZql9A949qLQLkB7F8bf9JebVul6czNMRuxnjzN9l2q9Noued8+2hwyDe0xa1opcbjIvbDjwJkT5slCGc3CaSqfzWSk7FSqS2WaU4K624F6ygmQMfRCuVhuEqPly848J78qSQFlEGZFfSZt71L9jxHqzIZ6m5zZZsLDnzWBhG7n0A2NZXKDF8o3R/HOILwvQkT51ODF7I9CgziXQNhm0V95fnMEtO50e2baMuf/aEPfHh5PZlJ3EtJAVnLm7gpVhPJz92ZgC+fYDvZEgk=;UDyPbwjLjCHozskyL2Nq1Q=="
 ---

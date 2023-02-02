@@ -5,10 +5,12 @@ excerpt: "AI is changing the way smartphones do everything, from optimizing the 
 publishedDateTime: 2023-02-01T20:32:00Z
 originalUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/"
 webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/"
+ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/amp/"
 type: article
-quality: 25
-heat: 25
-published: false
+quality: 65
+heat: 75
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63daca927c65a91ebbe6ed8a/0x0.jpg?format=jpg&width=1200"
+    width: 624
+    height: 468
+    isCached: true
 
 related:
   - title: "Samsung Announces New Galaxy S23 Ultra With 200-Megapixel Camera"
@@ -38,6 +46,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "k69y9xtqq31XCSFIulpTejoZJ1Y9BPyah3yPUPIxIZ2SoJG7mN0BG4I7/Ftmg/aZ3x6b1WHG3fjRRmq4Rwef0gmUsbpkWVuQZhCH/kbBop++ibqgo2woPaXvTokkDLRuia/nJDG6L1YCZvpXvqzsj0H+TEFrAU5gi6FkxIf3KwrVSLP/LvAD9fKTZj9wxQDkDl1/1J+yhte7qewJoac/s6D6sRIzurrcXM9wKcE7c5/lgTdjqZgAEYYI3IKR6hK7ab+k6gRMtK2evDoN/Gk00XjlpzMqOWtoiLnOJ3LXQ9dfgbphYQky6mj1P1fAQO8G6Y9GpqjEhY4XRaIoBGb+vOdNjTzfVae9v8x1BWMkKfQ=;OeZmk1onrJxyIdONgVU+nA=="
+secured: "XZyZWz7013+hti1Py8zBSxWOX34Bnfy7+5yLJdK8T+nXB5W9Yv78ZpGS/pDPmojryZuRlGIs/diKF7gW4rworXwX4vgEodT8iEOMlLbHghwn8s2MJePStbSPzZGIJTJ8y53fljx3W7sTRqa6Gd2qwLtF03O6vfIqxHSfSZMFDLQh2INKc97Suyofdrx0p5XkeBkwCaLrZih9TQFgD1WjJNwbJyyoZF+Mpu1WKAVZuCM5OXW9g+16CmCrVk0KzEYl4GGY6b0O9itv3y7XJdJOhmg3FHgvuwP8cNhcnxtx5LTy2i+AprnXjzpSmGPsGoBOCcZW6F0YLq6l2oKnPO8Yg9QjRQjPFPrYGzd5fTVf7ng=;xeVlzRskmBIXbqpOyXOOdw=="
 ---
 

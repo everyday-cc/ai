@@ -29,11 +29,18 @@ related:
     excerpt: "AI is changing the way smartphones do everything, from optimizing the device's connectivity to the phone's battery and natural language processing on multi-level software stacks. The Galaxy S23 Ultra supports real-time ray tracing for enhanced gaming ..."
     publishedDateTime: 2023-02-01T20:32:00Z
     webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 25
+    quality: 65
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63daca927c65a91ebbe6ed8a/0x0.jpg?format=jpg&width=1200"
+        width: 624
+        height: 468
+        isCached: true
 
 secured: "bKLBkH4gR29RTlgktGLqiOV7qdtntznENzLpgyOU7eBAVkYizQemKxBXf/CE0dwn2P3aE/kaW9aXJpD6fxiC2j72/XgLco3CrD4fuoirxk4NfF0bODVLqRGA+76BEl698OVEFapIOpIXK4jcKHfBwnwULyLRMmnoPa1DXrvDBeuUeAOBuAiBQvAaqiKPO4/TRujKHDZtkglaaO8i9NOc4jFV6AfEynHYb2Qwe+w8SzhKGsNdit6OYDqnuI7c7uTuJ8za8y+ykZNwhuLRJhcbjuYSqG3tMDuEHaa4XpcH0SebfpoSC8umRunT3ulwl4gfWymj10mDJESHNaWl7nlmejr5+e9Il2HydILoQE9JykS03XWbSq3AQbOZJLWYliHpv+Wj1J7fbPwtndPQ6xkU1SbUlhVjU0WyYzfXusVra3iWLLHgh1NG8Wy+IupkZeyLLzbnaIYOhiLnvWlrZpKIyvUHWDq64xHy3rVty7FfRt2hYVNyPN/E5maOxJ6Gv6DTMuJgWHvyVo9ugkTMCneQ8A==;Ui5AQSxKnnlSaOUekl6qFQ=="
 ---

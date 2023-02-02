@@ -42,15 +42,20 @@ related:
         width: 2880
         height: 2106
         isCached: true
-  - title: "Humanoid Robots To Take Centre Stage At UN Meet On AI"
-    excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday."
-    publishedDateTime: 2023-02-01T16:00:00Z
-    webUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
+  - title: "Humanoid robots to take centre stage at UN meet on AI"
+    excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of"
+    publishedDateTime: 2023-02-02T00:20:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/02/02/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai/53010"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 34
+      name: malaymail
+      domain: malaymail.com
+    quality: 54
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/02/02/88534.jpeg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "mJto6rmdiL/5/3NmK7bgI6EvvJTSz+eukutodu+Mucmv4tQRourvCLQnnUnmLE10hP5AdmXeAe867q1f1dGutoB7BVqeXwi0FdqhkJ6lESnIeMOocJvN38FQGtqe+YN6WHk1XiUx7Ezu4TKImCklJc9ac936uDJJDfsQnF4s/yvzrb4nSqeNpkBc6NAImutUD61J8CS0LG+kIMocrApp4QjVtxfczVDoQ9DrlU/WQRY//VGWb/kK2EGK5j3O0Js0BdwV8aqVXKolz3kvAGPHTl2JuAckyMiJbangK6YuKgi+1CfubSNzTxpMQE4do5YQZ/Z4no6pfJmtQhz86Xuc6rRdIjhoq41yEcZG1Q1JwXE=;8tvLZtinjEBnyJUQQGJeNQ=="
 ---

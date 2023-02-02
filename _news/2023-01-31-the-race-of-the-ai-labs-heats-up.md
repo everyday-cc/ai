@@ -66,6 +66,20 @@ related:
         width: 857
         height: 600
         isCached: true
+  - title: "AI in healthcare gets Budget push"
+    excerpt: "Hyderabad: Private healthcare majors feel that the Budget has given artificial intelligence (AI) in healthcare a major thrust and this would be of immense help in improving the sector and also create opportunities for research and innovation across the ..."
+    publishedDateTime: 2023-02-02T00:42:00Z
+    webUrl: "https://www.thehansindia.com/business/ai-in-healthcare-gets-budget-push-780539"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/02/01/1333200-pradeep.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Changing the conversation around AI"
     excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
     publishedDateTime: 2023-01-31T00:15:00Z

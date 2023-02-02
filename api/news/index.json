@@ -149,6 +149,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-02-samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops.md",
+      "title": "Samsung Announces Its Next Generation Flagship S Series Devices And Galaxy Book3 Laptops",
+      "excerpt": "AI is changing the way smartphones do everything, from optimizing the device's connectivity to the phone's battery and natural language processing on multi-level software stacks. The Galaxy S23 Ultra supports real-time ray tracing for enhanced gaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63daca927c65a91ebbe6ed8a/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/02/01/samsung-announces-its-next-generation-flagship-s-series-devices-and-galaxy-book3-laptops/amp/",
+      "publishedDateTime": "2023-02-01T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-scaling-distributed-training-with-aws-trainium-and-amazon-eks.md",
       "title": "Scaling distributed training with AWS Trainium and Amazon EKS",
       "excerpt": "Recent developments in deep learning have led to increasingly large models such as GPT-3, BLOOM, and OPT, some of which are already in excess of 100 billion parameters. Although larger models tend to be more powerful, training such models requires significant computational resources. Even with the use",
@@ -338,6 +390,50 @@
       ]
     },
     {
+      "path": "_news/2023-02-01-worse-at-math-better-at-tech-how-covid-19-impacted-learning.md",
+      "title": "Worse at math, better at tech: How COVID-19 impacted learning",
+      "excerpt": "Meanwhile, video conferencing remains relevant for group projects, while machine-learning apps and chat tools can help teachers draft tests and assignments. A separate report by the Pew Research Center also noted that more rapid advancements in online ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
+      "originalUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2023/02/c4fcc8b2f8c643a5ac7848dae4ed9a0c.jpg?w=1280",
+          "width": 1280,
+          "height": 925,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
+      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
+      "publishedDateTime": "2023-02-01T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLFY News 10",
+        "domain": "klfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m.md",
       "title": "Gem Security shows detection and response key to cloud security, raises $11M",
       "excerpt": "Gem Security emerges from stealth with $11 million in seed funding for cloud security detection and response solution.",
@@ -496,50 +592,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-worse-at-math-better-at-tech-how-covid-19-impacted-learning.md",
-      "title": "Worse at math, better at tech: How COVID-19 impacted learning",
-      "excerpt": "The COVID-19 pandemic cost students months of learning and many fell behind in math and reading, a new study has found.",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/news/nexstar-media-wire/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
-      "originalUrl": "https://ktla.com/news/nexstar-media-wire/worse-at-math-better-at-tech-how-covid-19-impacted-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/02/c4fcc8b2f8c643a5ac7848dae4ed9a0c.jpg?w=1280",
-          "width": 1280,
-          "height": 925,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktla.com/news/nexstar-media-wire/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
-      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nexstar-media-wire/worse-at-math-better-at-tech-how-covid-19-impacted-learning/amp/",
-      "publishedDateTime": "2023-02-01T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
       ]
     },
     {
@@ -862,7 +914,7 @@
       "originalUrl": "https://www.engadget.com/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -965,7 +1017,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 763,
+      "heat": 793,
       "tags": null,
       "images": [
         {
@@ -1121,7 +1173,7 @@
       "originalUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1205,57 +1257,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-why-are-ai-generated-hands-so-messed-up.md",
-      "title": "Why Are AI-Generated Hands So Messed Up?",
-      "excerpt": "It all comes down to the images AI is learning from. Earlier this month, Miles Zimmerman, a 31-year-old programmer from San Francisco, was messing around with Midjourney, the AI-powered tool that generates images with a simple text prompt,",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-generated-art-hands-fingers-messed-up",
-      "originalUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-generated-art-hands-fingers-messed-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/26/20/campaign_images/9df61c241700/why-am-i-sp-bad-at-typign-2-398-1619469865-17_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/pranavdixit/ai-generated-art-hands-fingers-messed-up",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pranavdixit/ai-generated-art-hands-fingers-messed-up",
-      "publishedDateTime": "2023-01-31T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

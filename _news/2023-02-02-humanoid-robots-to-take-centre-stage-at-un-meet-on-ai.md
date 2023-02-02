@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Humanoid Robots To Take Centre Stage At UN Meet On AI"
-excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday."
-publishedDateTime: 2023-02-01T16:00:00Z
-originalUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
-webUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
+title: "Humanoid robots to take centre stage at UN meet on AI"
+excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of"
+publishedDateTime: 2023-02-02T00:20:00Z
+originalUrl: "https://www.malaymail.com/news/tech-gadgets/2023/02/02/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai/53010"
+webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/02/02/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai/53010"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: malaymail
+  domain: malaymail.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.malaymail.com/malaymail/uploads/images/2023/02/02/88534.jpeg"
+    width: 1000
+    height: 500
+    isCached: true
 
 related:
   - title: "Humanoid robots to take centre stage at UN meet on AI"
@@ -52,6 +58,6 @@ related:
         height: 334
         isCached: true
 
-secured: "TfIwTK9acyem3//YCbWX/cvgzTaewbkANOCeXcjqzKmB+dsLzHC09kjtXNdKpLGLQVkE/b/v1sxbD7PuAZxZXVL/Bx+H9BSMLucRkdsrfZHwzLMJUXQga+aOpWGc90ytEZrED46IOjNl+OocFmD0CBXIK674HtY/bkj8DRuXoZ/mPBKwSWx1wOvTriqKIUVUc7DIlk4K+8ldvV5YrZ6BOaq93r5WVIGLmOw9vmvJ/Q1QFOq4Iyy+thwZlrP89U0H30OXC2a1DaB3wWG58BTFsurAX3WKtfOSBFRMuPYTvqCliggC+6X2sgT0ZrNzN5PFd6sul8+y3uab+KfZuaKWy/ThI5MIXhN2U5W9B0YihAc=;r1kfCzX/F4Cb3IxZeXWdZA=="
+secured: "g5trCEmsspk2DbymNPMHSMxK+QalluZT3Ylk0GVFwqq0gzxEBaikXWV/ziDW5IwV+rUUXmov+aTxX352neac4blBuzF5XSqfFbKvnPjq56S5h9DaicRG40bMhvOlD0zYkqSLt4ivHgVcWtJaMb5T7zAML7icXzKmvuOIvvPSWI2aRbWzB/f4ytgPOCDFwefgGqDF7ggRlxIWsTLMRijktGj5vIwI7aNc+47fYMkjUBpPbDrbpXSehCROj49/w+htpjWgxQTAbDYuCG7HYrGaucBq91Zk0Z3ldNukyiv92kykNxpRExXIuYcO62FiI5+H0jmTl3XRbAhIveIP1zHTKnB2RdQb/+mZFa3kYyTqGbI=;+NC22EsOll+TNyo0eFw7+w=="
 ---
 
