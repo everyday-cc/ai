@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://gray-kait-prod.cdn.arcpublishing.com/resizer/pAM-PqLk9e6CPzYB3gOKu5lxbdk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/REJSX5JASFETZM7WPEI3HZK4EI.png"
@@ -43,6 +44,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PUM5AlcZVjQ/Udw73V1aPnJSQsqycMr1svylUamwF0xKIVm6Y2UBHVC2grImV4eFyojF2Nrswbdx4L/3aNjhjkHeZ+liceWxHpKTCn+33fc2JIPK1rxk5Q//BM5NNlcY9BvXE3qPZZ4Vo4ojkPul7HA7MjT+7yqHvzEARaEcJAtd+V9CndU986AAnlw/lK4dKYZDHFRksEWCUwmJvsZQvgaYbo1qT5La/0gdNI0qC/sdGsWWrRcjK80StNBMOweslN/s+j7UZf1HAgexyqaLW9Y1VHQyvRQe9AyYW0Ge8vi/kU7yGVdU1aJVLulOTPVAVyUPt65bopcNaZFd5ozo0pQFJvIt9/8MH/vbzMPoB8I=;/u1nrexZ3OXfXRS37odNuA=="
+secured: "9ChJj2utpd0jbmUPG7JqZ7XrDTV8/Mm3a9XST1ZLOVSixFkvBX5FDHA2VP/eLhM7jTuMWjXnp7kV8nn+Uqxeri5x4SBV+WjEuHV6e05lr7MaHp24zM1bbaRGdBCB5y+YiCqPVFFBjjELucGX4UtP55CNl9CP0RhjWYFNZ5IvzvgTY+2t/2KZOAt3H2wl5xd22qDIjJATaE0+UTCzduiKVkQD3+f7EtJLy5RAqKUYOVxg39/bcLM7i9xb1ZoAPxz8wqq1geoSO4bBKjW8LUvKjNLTskWshwVqGT9hAYyKjK7ITM5qrQ+Uebau2g7/eEiaiaarfolFvrajNoSXs/V6Xla7pXvnpmYkjBUzsIYWz/DNOiRCErFl+b6bmHgoHDXglTpxIqiieVYl/uOB51kbVSTngDob3ogpjJ/DSGlHRfnS7RgnsgraSKp5f79mGBvbvRYPg9msugkZpx+g3wQ3blYoKjxh6CpIA+FEGbYpmjnrkCxemkZ41sWHDC+rrl89fTzowt32S0ojVn9aENrxrQ==;taZMm7GD3XRePei6oq2jfA=="
 ---
 
