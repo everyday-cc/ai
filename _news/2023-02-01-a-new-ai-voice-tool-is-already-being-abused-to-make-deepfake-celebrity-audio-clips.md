@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html"
 type: article
 quality: 81
-heat: 123
+heat: 121
 published: true
 
 provider:

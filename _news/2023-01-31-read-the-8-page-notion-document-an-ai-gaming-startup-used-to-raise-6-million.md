@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/notion-doc-ai-gaming-company-used-
 webUrl: "https://www.businessinsider.com/notion-doc-ai-gaming-company-used-to-raise-6-million-2023-1"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthropic, an AI startup, is said to be close to adding $300 million"
-    excerpt: "The startup, which was founded in 2021, previously raised $704 million, valuing it at $4 billion, according to PitchBook"
-    publishedDateTime: 2023-01-29T08:00:00Z
-    webUrl: "https://www.sfexaminer.com/news/technology/anthropic-an-ai-startup-is-said-to-be-close-to-adding-300-million/article_066b7df1-fe43-5e2e-a39d-29cff3511d14.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/b/10/b10facfa-11f6-11ed-9859-7315df3c7c9c/62e86a12d247e.image.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automated driving startup Phantom AI raises $36.5 million in latest funding round"
     excerpt: "Bay Area startup Phantom AI said Wednesday it has closed its series C funding round. Currently, the company is focused on speeding the development of driver-assist technology."
     publishedDateTime: 2023-02-02T15:03:00Z

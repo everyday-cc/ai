@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US probes Elon Musk for Tesla self-driving claims"
-    excerpt: "The rollout of FSD came at a time when Tesla faces a criminal investigation from the US Department of Justice over potentially false claims related to Autopilot, the company's advanced driver assistance system."
-    publishedDateTime: 2023-01-29T07:17:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97414132,imgsize-40334,width-1200,height-628,overlay-etauto/us-probes-elon-musk-for-tesla-self-driving-claims.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "U.S. Department of Justice Looking Into Tesla Autopilot And Full-Self Driving"
     excerpt: "Tesla continues to be in the crosshairs of government investigations as the automaker has revealed the United States Department of Justice (DOJ) is"
     publishedDateTime: 2023-02-01T21:42:00Z

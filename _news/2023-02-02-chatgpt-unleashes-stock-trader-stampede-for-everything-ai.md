@@ -641,6 +641,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
+  - title: "OpenAI’s ChatGPT has a major political bias, and it could ruin artificial intelligence"
+    excerpt: "artificial intelligence (AI) has the potential to greatly improve the lives of Americans and people around the world, by increasing productivity, improving health care, and helping to solve some of the world’s most pressing problems; Whereas, AI is ..."
+    publishedDateTime: 2023-02-02T04:44:00Z
+    webUrl: "https://bgr.com/general/openais-chatgpt-has-a-major-political-bias-and-it-could-ruin-artificial-intelligence/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 46
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/AdobeStock_299562309_20.jpeg?quality=82&strip=all"
+        width: 1400
+        height: 862
+        isCached: true
   - title: "ChatGPT and I wrote this article"
     excerpt: "It was trained on a dataset of billions of words and can be fine-tuned for a variety of natural language processing tasks, such as language translation, conversation generation, and question answering.” A screenshot from the ChatGPT website showing the ..."
     publishedDateTime: 2023-01-29T10:19:00Z
@@ -658,18 +672,18 @@ related:
         height: 1062
         isCached: true
   - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
-    excerpt: "ChatGPT, or Chat Generative Pre-trained Transformer, is a natural language-processing tool driven by artificial intelligence. The technology, created by San Francisco-based OpenAI and launched in November, is not like a well-spoken search engine."
-    publishedDateTime: 2023-02-02T17:35:00Z
-    webUrl: "https://www.ktbs.com/news/health/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine/article_f3310bc4-7f15-520e-b7ef-9e41c4808dc0.html"
+    excerpt: "But the test-taker wasn’t a member of Mensa or a medical savant; it was the artificial intelligence ChatGPT. The tool, which was created to answer user questions in a conversational manner, has generated so much buzz that doctors and scientists are ..."
+    publishedDateTime: 2023-02-02T18:21:00Z
+    webUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
     type: article
     provider:
-      name: KTBS
-      domain: ktbs.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 43
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/5/c8/5c8d7f38-f3bb-5665-a2e3-0763de5fdfee/63dbf3970b426.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_d92745b782c9df1a3d86799eba4717de-300.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "AI ChatGPT – the next great hype cycle?"
     excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."

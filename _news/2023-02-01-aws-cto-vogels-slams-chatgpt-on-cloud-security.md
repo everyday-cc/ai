@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-
 webUrl: "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376"
 type: article
 quality: 56
-heat: 78
+heat: 76
 published: true
 
 provider:

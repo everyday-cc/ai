@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "US probes Elon Musk for Tesla self-driving claims"
-    excerpt: "The rollout of FSD came at a time when Tesla faces a criminal investigation from the US Department of Justice over potentially false claims related to Autopilot, the company's advanced driver assistance system."
-    publishedDateTime: 2023-01-29T07:17:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/us-probes-elon-musk-for-tesla-self-driving-claims/97414132"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97414132,imgsize-40334,width-1200,height-628,overlay-etauto/us-probes-elon-musk-for-tesla-self-driving-claims.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Musk faces SEC probe over Tesla self-driving claims"
     excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest"
     publishedDateTime: 2023-01-29T21:01:00Z

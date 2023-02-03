@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-03-microsoft-integrates-openais-gpt-35-model-into-its-viva-sales-application.md",
+      "title": "Microsoft integrates OpenAI’s GPT-3.5 model into its Viva Sales application",
+      "excerpt": "Microsoft Corp. today introduced new artificial intelligence features for Sales Viva ... Additionally, the company intends to integrate OpenAI-developed neural networks into its enterprise and consumer products. Microsoft has already incorporated OpenAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/02/microsoft-integrates-openais-gpt-3-5-model-viva-sales-application/",
+      "originalUrl": "https://siliconangle.com/2023/02/02/microsoft-integrates-openais-gpt-3-5-model-viva-sales-application/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/vivasales.png",
+          "width": 934,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-microsoft-packs-teams-premium-full-of-ai-for-10month.md",
       "title": "Microsoft Packs Teams Premium Full of AI for $10/Month",
       "excerpt": "Meeting notes, task lists, timeline markers, speaker markers, and live translations are all handled automatically by artificial intelligence if you're willing to pay.",
@@ -1403,49 +1448,6 @@
       "provider": {
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-microsoft-expands-availability-of-azure-openai-service.md",
-      "title": "Microsoft expands availability of Azure OpenAI Service",
-      "excerpt": "Microsoft announced that it’s expanding the general availability of Azure OpenAI, which allows more businesses to apply for access to AI models such as GPT-3.5, Codex and DALL•E 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/news/emerging-technology/microsoft-expands-availability-of-azure-openai-service",
-      "originalUrl": "https://www.scmagazine.com/news/emerging-technology/microsoft-expands-availability-of-azure-openai-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2023/01/011823_microsoft_logo.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
