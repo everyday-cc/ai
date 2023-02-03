@@ -7,8 +7,8 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/02/chatgpt-ai-
 webUrl: "https://www.theatlantic.com/technology/archive/2023/02/chatgpt-ai-detector-machine-learning-technology-bureaucracy/672927/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Atlantic
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 625
     isCached: true
+
+related:
+  - title: "Google to host event about artificial intelligence on Feb 8"
+    excerpt: "ET Telecom privacy and cookie policy has been updated to align with the new data regulations in European Union. Please review and accept these changes below to continue using the website. You can see our privacy policy & our cookie policy. We use cookies ..."
+    publishedDateTime: 2023-02-03T10:54:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/google-to-host-event-about-artificial-intelligence-on-feb-8/97579313"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/google-to-host-event-about-artificial-intelligence-on-feb-8/97579313"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/google-to-host-event-about-artificial-intelligence-on-feb-8/97579313"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97579313,imgsize-29614,width-1200,height-628,overlay-ettelecom/google-to-host-event-about-artificial-intelligence-on-feb-8.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "aJlU8K+xhsk4u0iIxAUP5MA4f0+UqJKF1l7owT2xR1KD8n/N9EPBRgY+VC23gt5wi0Me/lTiUq2u9zoFuj9Nt6+7awvS8OBHkhcxHknA8e/U97nfqMFmfqmGvXxasM1qi4j7xmcQ4mFnJGyIxkFpelo7uRPd3QNiguY+dLWysR8JwY7VPi8jN0H+vADJDMsOToecTYxwyYS9W3PQXHE1rt3TP+/bzOWJHBwCLiaO1NmXice4L8s4zHlwfVIQpKrUTbW2t5VSWsUSg5FVgNAaMEf1i5wZItZzMBG271jJcSnrKk04clJW94+uymHJVQtGZUYeIOF/FBvJ+Lzls3r+NZDhOQYC/LJacATA7jbO55j93E8b/evs8RjdfBptwrSw/qJINGdHyYxnDukM34sXIYtqc4N70WjTMy0DEXK8lDCtT4uWqRH3aCglxPN5gZkyEDDK+Md39sSYuBbNMkuPWc6up9z5z66SNMoDkOpAHRlGztnTHlzqhKhJSvK4pB2/bND94SlMez+nwRjM8EVvwQ==;M6T893CX02aKcRNphfWAdg=="
 ---

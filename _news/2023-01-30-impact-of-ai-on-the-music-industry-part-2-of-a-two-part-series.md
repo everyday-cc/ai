@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Is Google Displacing Musicians With Its New Generative AI System: Music LM? (Part 1 Of A 2 Part Series)"
-    excerpt: "This article discusses the risks of Generative AI in the Music Industry and puts a spotlight on Google, MusicLM developments and encourages leaders in the music industry to think harder about the future of their industry."
-    publishedDateTime: 2023-01-29T19:02:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/01/29/is-google-displacing-musicians-with-its-new-generative-ai-system-music-lm-part-1-of-a-2-part-article-series/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 31
 
 secured: "A/sJ4PRJCLv46H8dn8OdEGkkyncUkpP9IbvJMS5vLfLeEDTGwO07pzCU7851xtTXHilVDhtGf5KN1le5HuJ0CBvrHUcT0PU9NhOdl0w3Cnt9Z1wyRT7A1uUMeRAjfhlfO7thekcc+8cLYMxxQkVKmd4CPW9dokOD/QDJlM60CghfSTye2DIbWCGAdnYI/QVinJh2IRi6zTZyT06kgHmrEiKgiP7oFMCV4d15otEStgLIbMzNwdl96bsnbP0t8aX/dIznhgIRM+1EA1zpyD2QwAKfDOgipPeqNbw8GOvUHEtVaKHrn9TIV5wA9ORWamBQWGEot7GhJuGouhH6MjYQMjV0xNanUcBMG1QUCU8pKRBNFNYcLLzZQutSw9MwZEPIUbDEhI2OhBrauYAWouJYe8IDEm7K5BpXi9Ao9oMlsdY1NZTByA2llv1sN7jFkWR5NJMhy0rIo8M0j2yPvCZkqtb4ORHOXBzoCAFtSegLZi4BSUuwx3+tEyxNrdv59wgkUoZ+pbHsu4/UmqK6tqko1A==;Is48/F9FM2WYhpVy+mtqRA=="
 ---

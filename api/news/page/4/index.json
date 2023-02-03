@@ -2,6 +2,239 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-31-instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global.md",
+      "title": "InstaDeep’s acquisition is a classic case of an African startup gone global",
+      "excerpt": "InstaDeep’s deal — subject to regulatory approval and expected to close in the first half of this year — is quite intriguing, for a few reasons. First, when completed (at $682 million, adjusted in U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/",
+      "originalUrl": "https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/A536C676-96A8-4812-8B9F-156FD92C1EC6.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/31/instadeeps-acquisition-is-a-classic-case-of-an-african-startup-gone-global/amp/",
+      "publishedDateTime": "2023-01-31T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-artificial-intelligence-aids-discovery-of-super-tight-binding-antibodies.md",
+      "title": "Artificial intelligence aids discovery of super tight-binding antibodies",
+      "excerpt": "Scientists at University of California San Diego School of Medicine have developed an artificial intelligence (AI)-based strategy for discovering high-affinity antibody drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.html",
+      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-10.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp",
+      "publishedDateTime": "2023-01-31T00:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-can-ai-help-researchers-find-intelligent-alien-life.md",
+      "title": "Can AI Help Researchers Find Intelligent Alien Life?",
+      "excerpt": "A team of radio astronomers has been using AI to broaden the search for extraterrestrial life, and the results are promising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897",
+      "originalUrl": "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boomlive.in/h-upload/2023/01/31/997739-dish-space-signal.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897",
+      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897",
+      "publishedDateTime": "2023-01-31T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BOOM",
+        "domain": "boomlive.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-buzzfeed-to-use-artificial-intelligence-for-content.md",
+      "title": "BuzzFeed to use artificial intelligence for content",
+      "excerpt": "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "originalUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "cdnAmpWebUrl": "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "publishedDateTime": "2023-01-30T21:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wtvr",
+        "domain": "wtvr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-make-sure-your-midjourney-ai-image-prompts-have-this-parameter.md",
+      "title": "Make Sure Your Midjourney AI Image Prompts Have This Parameter",
+      "excerpt": "Welcome to Midjourney AI Monday with tips and advanced prompts to help you get the most out of the image AI tool. In this post, we are going to explore what it means to use the “seed” parameter as a way to keep the Midjourney bot",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/01/30/make-sure-your-midjourney-ai-image-prompts-have-this-parameter/",
+      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/01/30/make-sure-your-midjourney-ai-image-prompts-have-this-parameter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d8537229aebab05b9afec2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/01/30/make-sure-your-midjourney-ai-image-prompts-have-this-parameter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/30/make-sure-your-midjourney-ai-image-prompts-have-this-parameter/amp/",
+      "publishedDateTime": "2023-01-30T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-the-future-of-payments-in-an-ai-enabled-future.md",
       "title": "The Future Of Payments In An AI-Enabled Future",
       "excerpt": "Unless you’ve been in a cave or on a beach over the past month (cue revenge travel meme), you’ll no doubt have heard of ChatGPT, the chatbot on steroids from the company OpenAI that is now fielding tender investment offers at a valuation of US$29 billion.",
@@ -10,7 +243,7 @@
       "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-payments-in-an-ai-enabled-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -106,7 +339,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -660,7 +893,7 @@
       "originalUrl": "https://jp.reuters.com/article/alphabet-deepmind-idCAKBN2U31OP",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1008,259 +1241,6 @@
         "Machine Learning",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-what-greek-myths-can-teach-us-about-the-dangers-of-ai.md",
-      "title": "What Greek myths can teach us about the dangers of AI",
-      "excerpt": "How far should we go with AI? And what are the looming implications of this technology? Three Ancient Greek myths help us give an answer.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai",
-      "originalUrl": "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-97-15.jpg&signature=56160b29db2ed4aba13fef25ff153c47",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-the-generative-ai-revolution-has-begunhow-did-we-get-here.md",
-      "title": "The generative AI revolution has begun—how did we get here?",
-      "excerpt": "AI in natural language was waiting for a new model that could take advantage of the compute and data that already existed. The big breakthrough was a model from Google called \"the transformer.\" The researchers at Google were working on a very specific natural language problem: Translation is tricky;",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/generativeai10-640x262.png",
-          "width": 640,
-          "height": 262,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/amp/",
-      "publishedDateTime": "2023-01-30T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026",
-      "excerpt": "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process.md",
-      "title": "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process",
-      "excerpt": "“The AKD1500 reference chip using GlobalFoundries’ very low-leakage FD SOI platform, showcases the possibilities for intelligent sensors in edge AI.” About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/53394/brainchip-neural-processor-for-edge-ai-globalfoundries-22nm-fd-soi.html",
-      "originalUrl": "https://www.design-reuse.com/news/53394/brainchip-neural-processor-for-edge-ai-globalfoundries-22nm-fd-soi.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage53394/BrainChip-general.jpg",
-          "width": 704,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T00:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-microsoft-named-a-leader-in-the-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platform-2022-vendor-assessment.md",
-      "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment",
-      "excerpt": "I am thrilled to announce that Microsoft has been recognized as a Leader in the IDC MarketScape: Worldwide General-purpose Computer Vision AI Software Platform 2022 Vendor Assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cb6d9b82-2d04-4aaa-82cd-3aa9d78dfb23.png",
-          "width": 773,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T00:00:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

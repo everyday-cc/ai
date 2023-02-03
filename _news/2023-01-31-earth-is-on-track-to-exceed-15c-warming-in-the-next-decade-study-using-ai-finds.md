@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/environment/2023/jan/30/climate-crisis
 webUrl: "https://www.theguardian.com/environment/2023/jan/30/climate-crisis-global-heating-artificial-intelligence"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI Predicts Warming Will Surpass 1.5 C in a Decade"
+    excerpt: "New research from artificial intelligence projects that global warming will hit the threshold of 1.5 degrees Celsius somewhere between 2033 and 2035"
+    publishedDateTime: 2023-01-31T19:41:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-predicts-warming-will-surpass-1-5-c-in-a-decade/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
 
 secured: "QsNJktx8gdzSuX2DcsUmH5KPsyYcKS4zhijhS9GQL6pSJ7iKfhtHDo/Q58IZ7xsfRKaADN1VXGlEqYdlVrjr3gkwdkf8pZQ5c6dH9qCcAXLGPXz5OzzgJfNWG9q5M+UT+lUJ/wwEWe/gFlRGImN+MX9pf+x4NLlKJI7bMdk72jyKn5PqwZ22PhYZPWpd03SdCRFkI5riZKFoOOExPCuHGwTdApnXvtc8+9KnOGwkbDNZW9NKvLFSDUHKY/ukUu5uY9Yw5zat+fi/Z87xMCgFSEkawItMCLFVroATQMxngfUpuGuESF9MAmKCmMWZSoDyBJAtSXRce44aN7cCOy3biKMcoKHFH196RZKIxKcRjvO0hHVhVnNcaoysm5R2qSw2ttiUY9rg8jNzneiG0E+euAeIK8M/vcuC9J7V5yI+9EAAX/yjN9umiF6Bu+FOZguyAxdKboSr/GwyyKsZ2M847pbEzbW4GsOcH3Q8B1URPrIyd066CqdXi0xtabu5UCsl4lQ8aPkn9hFur7RkmR8m1g==;/faO2JrYNL4HoAPuCLy5Yw=="
 ---

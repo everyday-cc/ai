@@ -132,6 +132,22 @@ related:
         width: 934
         height: 522
         isCached: true
+  - title: "Hashtag Trending Feb.3rd- Microsoft Azure’s tracking and notifications broken; Twitter paid API; Microsoft Teams incorporates AI"
+    excerpt: "Real-time tracking and notifications of spending on Microsoft Azure broken, Twitter API no longer free to access and Microsoft Teams injects AI into its service. That’s all the tech news that’s trending right now."
+    publishedDateTime: 2023-02-03T08:59:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-feb-3rd-microsoft-azures-tracking-and-notifications-broken-twitter-paid-api-microsoft-teams-incorporates-ai/525222"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-feb-3rd-microsoft-azures-tracking-and-notifications-broken-twitter-paid-api-microsoft-teams-incorporates-ai/525222?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-feb-3rd-microsoft-azures-tracking-and-notifications-broken-twitter-paid-api-microsoft-teams-incorporates-ai/525222?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 60
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
+        isCached: true
   - title: "Microsoft-backed ChatGPT may soon get a Chinese rival"
     excerpt: "Since November, OpenAI’s ChatGPT has been the hot topic for every conversation on the internet for its “chatty” mastery. It has Google worried, while"
     publishedDateTime: 2023-01-30T08:49:00Z

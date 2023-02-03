@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/world/quad-to-leverage-machine-le
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/02/ANI-20221102065819.jpg"
         width: 640
         height: 362
+        isCached: true
+  - title: "India, US, Australia, Japan to Use Machine Learning in Bid to Enhance Quad Members’ National Cyber Capabilities"
+    excerpt: "Quad group to focus on tackling Chinese threat in telecom, 6G technology Quad includes Australia, India, Japan and the United States Officials of Quad group met in New Delhi on January 30 and January"
+    publishedDateTime: 2023-02-03T06:59:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/quad-group-of-nations-machine-learning-australia-india-japan-us-cyber-security-3749276"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/quad-group-of-nations-machine-learning-australia-india-japan-us-cyber-security-3749276/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/quad-group-of-nations-machine-learning-australia-india-japan-us-cyber-security-3749276/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 39
+    images:
+      - url: "https://i.gadgets360cdn.com/large/malware_reuters_1582111754357.JPG"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "OqxY7CengAJcVKpogR6sUPmdmXSKo+wAOHa2Z6JFY7chW6zbn+XWxnXXFtjvIQdbPVOJHWkPY8NXZr7OjoviLaT/oepNTJXi11R925uSZW4BDyVfUss6tosKWHC2eRJlprkSZinFqsF7JjIwlvxs1vlnt1+VkGa+3p9gbLfZsmvBxAftXrAAF3V938rnXGa+wiI+Yv32zrtA4n0nHlXFJMTPwEd+oFmfFalACDYplFwSqgrbEuHnx67kA8b1tOkt6v4imuG6f8tJ6vr706E6RcbkEHtQqlPLODROu4tA1AlQyvWgoV6yF2DCFlI4iFVjc75u9jhZVr10x6TTTOoGQmObiT9WJSFO2xnoMsjKuhpD1+k9gX0F8IqVoBLckYM9Has4gB7i1Jq3rhsQ362xJzovUaJtAXX9PkUTgBgWxpdW+PpvIcsNAbJGsC9tYQOmxfnV8YLMQBkWllahygDBQwIrs09HvZsVXqZ7wsIBv6T2u2hzQr1ZKrb7EkgR4FpFXy18uLnHywrmrR6+CqAwVw==;n/qpMkICrC3dGM+ZP5AWiQ=="

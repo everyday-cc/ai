@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-02T14:27:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/02/02/five-sensible-ways-for-using-generative-ai-in-doing-legal-work/"
 webUrl: "https://www.law.com/legaltechnews/2023/02/02/five-sensible-ways-for-using-generative-ai-in-doing-legal-work/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Legal-Robot-01-767x633.jpg"
+    width: 768
+    height: 633
+    isCached: true
 
 related:
   - title: "AI Ethical Risks In the Music Industry Are Accelerating And We Are Not Ready For What Is Coming Our Way"
@@ -66,6 +72,6 @@ related:
         height: 628
         isCached: true
 
-secured: "/pVxB5GNhHXe2FDDgyEl/vCa202k20g8mvxmrXl4Qjc7v9kJAKK/g9gbRw35TFwTUtzlmYDxcFOS62qdV+0fE5cJABF2i/Qw3sF/8zVY9vw0HZ43c0Xj27yiyJ3gWFKAUuwoD2aHaXC20Y7JiGKXDCJEkZXT5uIxivyTEAKiXTJE1lk3ASwQ2SNYAc39rHevsLQMzl0RGDMv7XE8MBYQEqianEfC/ljERZsUCDUV0UKX59ISg815GUI79Aaf+q6YuTKbPsAal7gFXFOlv/rzblUIdPhLOKPjatTCeNxSuf9AZFQq2XA8h0PtW5sYjrfTOxVZ4fkcU8lIQLlcZQf0FnpFZqu4O8BceD9zNT9YSJI=;1pvRIibmGc73Jk69x5bNvg=="
+secured: "2Ub/s3MdBE1FTyThhcK6AaAxmoOAH1zQXwPzJY6GkErGE7tmlRIBxXjCQV5A6adDn3kP7zVOFexOdeVpmZsNUjePzXVTXbatYzYovlKbPFq/vNIY7l/12fh6X65f86MGoLk9AIMQlOYwl7g5to83Zh8WXofLzHCaON4BG6LQfA7uMe76uD/noiBF3Z4ZehuC9xq8GthdIuj9NstmKQvY8lf4DeYnJY2qYgiS6tAapFYFUerlhy5QU7c+n2cF9A6lnMulmUOBlzuSgkIYxN9Z0o/HV/tMkArtzqx5UiDukWRFHiwcKsHJ5TR0lafQ5rRP0aFIU+zVnZvdefOGAA4bqKDWjKj+55uXenRq1F4w5I4=;4KqTxgclWeY+hamWQOPNxQ=="
 ---
 

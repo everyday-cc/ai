@@ -28,14 +28,21 @@ images:
 
 related:
   - title: "Will machine learning help us find extraterrestrial life?"
-    excerpt: "Researchers have applied a deep learning technique to a previously studied dataset of nearby stars and uncovered eight previously unidentified signals of interest. When pondering the probability ..."
-    publishedDateTime: 2023-01-30T18:42:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130512.htm"
+    excerpt: "When pondering the probability of discovering technologically advanced extraterrestrial life, the question that often arises is, \"if they're out there, why haven't we found them yet?\" And often, the response is that we have only searched a tiny portion of the galaxy."
+    publishedDateTime: 2023-01-30T17:57:00Z
+    webUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.html"
+    ampWebUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-extraterrestrial-life.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/will-machine-learning.jpg"
+        width: 685
+        height: 594
+        isCached: true
   - title: "Will machine learning help us find extraterrestrial life?"
     excerpt: "Research published in Nature Astronomy and led by an undergraduate student at the University of Toronto, Peter Ma, along with researchers from the SETI Institute, Breakthrough Listen and scientific research institutions around the world,"
     publishedDateTime: 2023-01-29T23:59:00Z

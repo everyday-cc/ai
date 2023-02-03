@@ -17,7 +17,7 @@ provider:
   domain: wtvr.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -67,6 +67,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "6BbTgwCt/2KG0cG5+APSsawJ22lR/im6x7lU7qEpyIM3VS+ZS/OLGrDSh6edhgRf9iPIbOD7MCgXSRDBbmeofU0DYs91fKRFZkS5S3USptSbUWhq2TYp+S5gzZp2Mh0xtpN1MPyhdhDKHdsO9pqq2CdubSJRQbge8Mvr04qKTCW+j0L0JsoKn/sOb5ik7v9tBc3fVJ5TQUzNuwOqzakn8Ryg9fy4Acv2sVg5u/HC882J0HLiZygUTWZ5G3H+TXfrMxWG4ixWsoXCJ8CFlZdOM62VUs7f76E/bn31TYESnR1Rs46A+MYzh9cWAL4rTB3R8dL1+GZOWOTaj1dBNIorfBF1YpkTd+HMqL+UaoK3Qkc=;Kja6XgQ44dEKj4FE7rIj1w=="
+secured: "m089bfbp0uemjva9RlZOSKOnRNM1v3Jo0DuIa/NNiCuxueG8OAv/+qUEgatj6kr/HNZ3QwNdDyXeoIuT1eNE6/8Fo7nmgmxmw2a5Wen2mGCKoWUhvIsgXzyqcCwlYlOZCWZfsU1E+kqhecFtv43gQokCbbGT8axkymMKdiQ+Q1SSL0yos2qs2X3OWt1y0YfyM8PmBEYIId1fkAdr52aQ/XaoFE5Iqw4LrlkfN/JnkHlvVlElYNfO5J70z6eqdUWFiY326nuKaTYban6N/D3kEk5vBp5qunUVzhB/1dUKS9/+lcqyE1hswYQb0z/2RQCu6zXk/0rdmTt5G4xdrgnBY/qgPDbhTF3FD5ZrFrcs2zY=;AdjxRz9n5lslargJS/0L0A=="
 ---
 

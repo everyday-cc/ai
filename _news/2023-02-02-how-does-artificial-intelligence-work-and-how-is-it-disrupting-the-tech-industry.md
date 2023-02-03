@@ -69,7 +69,12 @@ related:
     provider:
       name: Law
       domain: law.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Legal-Robot-01-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
 
 secured: "I94T5oluxK8cYbbW4n2g2enNas0fqwZgT+/X4zpHMQxUCuxtlBtlrkiyaf82Rq8xSxdmco2PRfL1q477vCg+rgn457dWzKmmmHAKumo4FnFNoB3l71QoDL5X9S30ZtCUv2KtV0ElXCH/V1mb0Irc01flpkGTOKWiIBYb+XMLoazfQla3PRxqq32zBajmbP7Fiko/IFH4nYyJAtnmwhoQydLqput07RBH4Hhsh/rNJ2e1BV9zFVaGyMSDZRix+nb22hfy1rys9RY8sVbFACyqBSniShLhrva01PkYYRTUh0jkqVSHVTgqh9v4PjmgZ3UTle9sZ4OTdiYt9EtXsrgRn4maEBFhaae0j29PB5EHNE/sEjjcyitBjk4aV9pt3lEvzVnBSaLmgQh19zeE9eOpQlHajv7DT3to97JGRWDB5eMr8gqchkXkYDBIHxrRVywIWlJdVrkUBqx3lqL7yaTVryQoFa3S9ez6VFi4Eu2wrVOr/e3QDKaT62USdzmmMa+J4Tvc38XCb26ZItx/VwfhZw==;DUaJvKO2A8zMZwPnz2irUA=="
 ---

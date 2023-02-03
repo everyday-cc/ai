@@ -2,6 +2,256 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-02-artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations.md",
+      "title": "Artificial Intelligence (AI) Chips Market Size 2023 With Strategic Choice-Making Process, Identification of Main Corporations",
+      "excerpt": "Chips Market 2023 with 118 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Chips Market conditions can be influenced by a wide range of factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-researchers-prove-ai-art-generators-can-simply-copy-existing-images.md",
+      "title": "Researchers Prove AI Art Generators Can Simply Copy Existing Images",
+      "excerpt": "Current diffusion-based AI models can and will reproduce copyrighted images from its data set, though rarely. It will get worse the bigger these systems become.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-art-generators-ai-copyright-stable-diffusion-1850060656",
+      "originalUrl": "https://gizmodo.com/ai-art-generators-ai-copyright-stable-diffusion-1850060656",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/52285b755ff9e3869fac20294bfe1fc1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T16:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-google-hosting-search-and-ai-event-next-week.md",
+      "title": "Google hosting Search and AI event next week",
+      "excerpt": "Google will be “using the power of AI” to do those things. The event — which has a YouTube livestream titled “Google presents : Live from Paris” — features artwork that also demonstrates Google Lens visual search and translation, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2023/02/02/google-search-ai-event/",
+      "originalUrl": "https://9to5google.com/2023/02/02/google-search-ai-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/google-search-ai-event-cover-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5google.com/2023/02/02/google-search-ai-event/amp/",
+      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2023/02/02/google-search-ai-event/amp/",
+      "publishedDateTime": "2023-02-01T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-how-can-generative-ai-improve-the-customer-experience.md",
+      "title": "How can generative AI improve the customer experience?",
+      "excerpt": "Here is a summary of my conversation with Michael Maoz: Q: Why are we suddenly seeing a wave of hype around Generative AI? What is it, exactly, and why should we care? A: We'll start from the last question and work back. Over the next five years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai/",
+      "publishedDateTime": "2023-02-01T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research.md",
+      "title": "Global Deep Learning Courses for NLP Market 2023-2027 (New Report) for a Sustainable Future | Forecast Report by 106 Pages Research",
+      "excerpt": "Deep Learning Courses for NLP market report investigates new project feasibility with the purpose of enlightening new entrants about the possibilities in this market. In this report, thorough SWOT analysis and investment analysis are provided which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-red-hat-gives-an-arm-up-to-openshift-kubernetes-operations.md",
       "title": "Red Hat gives an ARM up to OpenShift Kubernetes operations",
       "excerpt": "Red Hat announced the general availability of OpenShift 4.12, bringing new capabilities to its hybrid cloud application delivery platform.",
@@ -998,265 +1248,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science.md",
-      "title": "NASA partners with IBM to build AI foundation models to advance climate science",
-      "excerpt": "NASA and IBM are developing new AI foundation models to analyze geospatial satellite data to understand and take action on climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
-      "originalUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI-e1675215120724.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
-      "publishedDateTime": "2023-02-01T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-a-new-ai-voice-tool-is-already-being-abused-to-make-deepfake-celebrity-audio-clips.md",
-      "title": "A new AI voice tool is already being abused to make deepfake celebrity audio clips",
-      "excerpt": "ElevenLabs' AI speech synthetizer is being used to generate clips featuring voices that sound like celebrities reading or saying something questionable..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
-      "originalUrl": "https://www.engadget.com/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/7dc12ee0-e5b0-11ec-b977-a345e4c04815",
-          "width": 8553,
-          "height": 5846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
-      "publishedDateTime": "2023-02-01T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-voice-recognition-software-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028.md",
-      "title": "Voice Recognition Software Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028",
-      "excerpt": "Voice Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-recognition-software-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2023-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-recognition-software-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2023-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop.md",
-      "title": "SK Hynix posts first loss in 10 years from memory chip price drop",
-      "excerpt": "South Korean memory chipmaker SK Hynix recorded its first operating loss in ten years during the fourth quarter last year from sluggish demand and the steep drop in the price of memory chips. The company said on Wednesday that it recorded 7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
-      "originalUrl": "https://www.zdnet.com/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1957bb0a8c3e7d31547ba8cbd2687325ff7976f0/2021/07/12/fe6f3bca-c7f0-4093-90bf-6b7c74d4b3a9/figure-1-sk-hynix-starts-mass-production-of-1anm-dram-using-euv-equipment.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
-      "publishedDateTime": "2023-01-31T19:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way.md",
-      "title": "AI Ethical Risks In the Music Industry Are Accelerating And We Are Not Ready For What Is Coming Our Way",
-      "excerpt": "This article reinforces that the AI Ethical Risks in the music industry are accelerating and we are not ready for what is coming our way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d84b38429f596655787f4f/0x0.jpg?format=jpg&width=1200",
-          "width": 842,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/",
-      "publishedDateTime": "2023-01-31T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-14-facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns.md",
+      "title": "Facial recognition system rollout at Indian airports raises privacy concerns",
+      "excerpt": "Since December 2, the Union Ministry of Civil Aviation has started using facial recognition technology for airport security. Airports will now allow travellers to pass through various checkpoints – entry,",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "originalUrl": "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156735-fcmoyjrqax-1616694153.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "publishedDateTime": "2022-12-13T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
       "title": "4 Mind-Boggling Technology Advances In Store For 2023",
       "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
@@ -1308,50 +1351,7 @@
         "Computer Vision",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-12-05-digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.md",
-      "title": "DigiYatra: Facial recognition technology is now available at these Indian airports",
-      "excerpt": "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53688,msid-96000068/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
-      "publishedDateTime": "2022-12-05T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

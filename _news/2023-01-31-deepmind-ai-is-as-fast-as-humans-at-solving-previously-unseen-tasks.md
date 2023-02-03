@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A|I: The AI Times – Tenstorrent swaps CEOs, DeepMind exits Edmonton"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-02-03T10:01:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-tenstorrent-swaps-ceos-deepmind-exits-edmonton/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 54
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2023/01/Jim-Keller.jpeg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "WeM4CfRBg2j5ihYCOo2AXnD4vqCtfcvkm8B0pLj8Ct4TDEaZpNKMeS3XZjm06tymsoznvWXQAGsunncPdq7AxIB31BALLOobgzmBNmtt+ocWxLIsevHmNnZIV9L1FktPlil43Q3thoGcdDTiULfKKIWW9Gq+9ZPDmidKtqINR4Jx2oIDMI7UGtlG7JQAU3sF+3f5OP5Y8AFR48g/Qf0N1KoOruHKKx2VdZ4MWWOiN3nojyKN+Imp2HnIs1q52Ww/5mzDLgXupuCDj21dVWV5b9uo+Qw68SBh3ObNp7cgF97Dhao1dIX2JGSKl3z8tltw22BwL2Z+bgHG9tT7xdba9w3AzEVTIZpf+hmUXkAbPDNzsJGromOG9nHJGn36usiw/Z1H9UfICnhkCu1Aktb5NC7dg/MQ6amSaa65d0cq+ZUjikgd3BKeA5gDAjedpWczhE6iwPgUb2yjYr9BZY4JavGzFHRma4yVukS4+4sFakV+i5UvING0d0yfdWPwNL6GoZJXKuvZNIkv7521gYkxRQ==;mMi9OZHQUQ1JajedDjDgnQ=="
 ---

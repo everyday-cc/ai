@@ -63,6 +63,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senior Liberals Peter Dutton and Julian Leeser attend crucial Voice meeting"
+    excerpt: "Anthony Albanese will join a crucial meeting of the Voice to Parliament working group following his 11th-hour plea to Peter Dutton to engage with the group."
+    publishedDateTime: 2023-02-03T10:51:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/extraordinary-anthony-albaneses-plea-to-peter-dutton/news-story/0e3ec0d19db24711ca611fb1ec79c0bc"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 2
 
 secured: "J8at54cczPah3hKWNOUA6nBPHH2tS5J2QpHYHewrRR13hziYIIPHLabaYK55133F0qENl1ec7auxisfmQshohQW8SaTIR755et77OaBp9n0egG4NcqqaY6Z+VYk2gnNp2IcYh7+c/jRGuZ//8QEYUFnKYyGf7GK29gZEXL0eFeb5+NcaQwRJZ3QPiNhbgaq/wHXpAlXTq3QnsA3r3cOXwuWmvPqlCAlCiis5T4xaXihY6QpZ6nDpDAfxgEwVati0Sql1IQnb/HVSHehblqAg0mXJd9Shkd5Offb9B3QAeEsNmf6L5Y63v4MRsKUVRfMOrOHbCa/hiTzclk9BS2oQiUot0zHE6j25NncRTX9hsLRhvUB0OioVquI01T+W3Gk0H6sdctyB/OCWt23WA32VB9qRHCSzKTRlTdbLNX6cqorLr/sWS6poCrhc/ZWdiHyTK7aSVFaEdhsbDMHy4b1HykR7wf/IKeLDtpLSFVxVQwQ/hxS+CHBDTRLpxPhXRsPE3koYU3irKcGER876NRQg7A==;owQwpJTkxdzQK6T0ygwOcw=="
 ---

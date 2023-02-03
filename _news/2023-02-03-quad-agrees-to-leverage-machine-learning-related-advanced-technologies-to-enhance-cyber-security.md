@@ -61,6 +61,22 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "India, US, Australia, Japan to Use Machine Learning in Bid to Enhance Quad Members’ National Cyber Capabilities"
+    excerpt: "Quad group to focus on tackling Chinese threat in telecom, 6G technology Quad includes Australia, India, Japan and the United States Officials of Quad group met in New Delhi on January 30 and January"
+    publishedDateTime: 2023-02-03T06:59:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/quad-group-of-nations-machine-learning-australia-india-japan-us-cyber-security-3749276"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/quad-group-of-nations-machine-learning-australia-india-japan-us-cyber-security-3749276/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/quad-group-of-nations-machine-learning-australia-india-japan-us-cyber-security-3749276/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 39
+    images:
+      - url: "https://i.gadgets360cdn.com/large/malware_reuters_1582111754357.JPG"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wIeWV+ot/rg9ywZRRgw27EyTMQ5nzS/Dyjf0mIZVcfwr6vEN7mbkahsxIA0IOg2vcfrAyuYIXhNC2W2AEH3C64EECUJgL0SO1NK716JjWpREw0BYNKSY/O8MarHjm59DmgUWKgEA6qrCdRImlVLFEqB5qpw/UJdsiolcz7QUDMbR2bVar95UjusaaqktC6svTRhMPz/YNaF+Ety31ZUuwkPtIRXXAp+QOeqktmzPaNl4vZ9rLBIDkJ/cNrc9VAxZYUedVTUyCxQarHi0Mhab8w/3d9qy3PJgyLSSK+h6ZZ+tJRqtbN4GqdMuOY7Ex9wmJ+eJoh/6Cfyjrbx2WXcLyUYCpjflIasbDYUQykcGeRBXlqhPpnCYuGZdklfENwIRzSiCtyCyeFN7fgK29E8j+UU/Erg+maxVQa0fuwTIf5itrEa0KUONL08HGoY8lot8IFlcRGfkK/iBVkUm1ZSbpWME6oT9tTmzgP/o6gb7y7Q30fiu2u5sbw6cG55Ve2PreQGjlba7Icrs4TDhiVFVWQ==;28RqfebSclVMzfQwAM/W5w=="
 ---

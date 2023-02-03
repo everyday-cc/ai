@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-03-intels-arc-a750-gpu-just-got-a-price-cut-and-amd-should-be-worried.md",
+      "title": "Intel’s Arc A750 GPU just got a price cut - and AMD should be worried",
+      "excerpt": "It’s a bold move from Intel, which has yet to see significant traction gained in the GPU market by its recently-launched Arc ... for professional creators with mighty - and expensive - AI-powered graphics cards. AMD, on the other hand, is trying to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/intels-arc-a750-gpu-just-got-a-price-cut-and-amd-should-be-worried",
+      "originalUrl": "https://www.techradar.com/news/intels-arc-a750-gpu-just-got-a-price-cut-and-amd-should-be-worried",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/x52n3hSmTcsnGSoZ8oKvoU-1200-80.jpg",
+          "width": 1170,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-see-the-pitch-deck-construction-robotics-firm-kewazo-used-to-raise-a-10-million-series-a.md",
+      "title": "See the pitch deck construction-robotics firm Kewazo used to raise a $10 million Series A",
+      "excerpt": "The artificial-intelligence startup Kewazo is focusing its efforts on the construction ... said the company's next goal was to expand across Europe and into North America, while adding to the robot's functions. Kewazo recently raised a $10 million Series ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2",
+      "originalUrl": "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63dbe024e33c4000193aacce?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-why-tech-billionaires-love-middle-earth.md",
+      "title": "Why Tech Billionaires Love Middle-earth",
+      "excerpt": "Under the Trump Administration, the company began building surveillance towers along the U.S.-Mexico border that track undocumented immigrant crossings using object recognition. Computer scientists and human rights groups say virtual border wall projects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2023/02/10/why-tech-billionaires-love-middle-earth-1778694.html",
+      "originalUrl": "https://www.newsweek.com/2023/02/10/why-tech-billionaires-love-middle-earth-1778694.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2189023/cul-lord-rings-libertarians-02.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/2023/02/10/why-tech-billionaires-love-middle-earth-1778694.html?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2023/02/10/why-tech-billionaires-love-middle-earth-1778694.html?amp=1",
+      "publishedDateTime": "2023-02-03T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.md",
       "title": "Quad to leverage machine learning, related advanced technologies to enhance cyber security",
       "excerpt": "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced ... methodology will encourage major software services, products, and providers leveraged by ...",
@@ -10,7 +166,7 @@
       "originalUrl": "https://www.telegraphindia.com/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -55,7 +211,7 @@
       "originalUrl": "https://www.cnbc.com/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -389,6 +545,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-03-ai-is-about-to-dump-more-work-on-everyone.md",
+      "title": "AI Is About to Dump More Work on Everyone",
+      "excerpt": "Better run the work through the AI-cheater check. Even educators who don’t want to use such a thing will be ensnared in its use: subject to debates about the ethics of sharing student work with OpenAI to train the model; forced to adopt procedures to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/technology/archive/2023/02/chatgpt-ai-detector-machine-learning-technology-bureaucracy/672927/",
+      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/02/chatgpt-ai-detector-machine-learning-technology-bureaucracy/672927/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/3VV-s1dxNJuyHxAUIzsA3gtXnRw=/0x102:4792x2598/1200x625/media/img/mt/2023/02/AI_Bureaucracy_copy/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-artificial-intelligences-new-role-in-medicine-finance-and-other-industries-how-computer-learning-is-changing-every-corner-of-the-market.md",
       "title": "Artificial Intelligence's New Role In Medicine, Finance And Other Industries - How Computer Learning Is Changing Every Corner Of The Market",
       "excerpt": "Artificial intelligence is impacting medicine, finance and many other industries. Here’s what you need to know about AI and how it may affect your life.",
@@ -502,7 +710,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -1022,213 +1230,6 @@
         "AI",
         "AI in Security",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations.md",
-      "title": "Artificial Intelligence (AI) Chips Market Size 2023 With Strategic Choice-Making Process, Identification of Main Corporations",
-      "excerpt": "Chips Market 2023 with 118 Pages Report and enhance with extents shares into sub-counties are covered in this market. Artificial Intelligence (AI) Chips Market conditions can be influenced by a wide range of factors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-researchers-prove-ai-art-generators-can-simply-copy-existing-images.md",
-      "title": "Researchers Prove AI Art Generators Can Simply Copy Existing Images",
-      "excerpt": "Current diffusion-based AI models can and will reproduce copyrighted images from its data set, though rarely. It will get worse the bigger these systems become.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-art-generators-ai-copyright-stable-diffusion-1850060656",
-      "originalUrl": "https://gizmodo.com/ai-art-generators-ai-copyright-stable-diffusion-1850060656",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/52285b755ff9e3869fac20294bfe1fc1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T16:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-how-can-generative-ai-improve-the-customer-experience.md",
-      "title": "How can generative AI improve the customer experience?",
-      "excerpt": "Here is a summary of my conversation with Michael Maoz: Q: Why are we suddenly seeing a wave of hype around Generative AI? What is it, exactly, and why should we care? A: We'll start from the last question and work back. Over the next five years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai/",
-      "publishedDateTime": "2023-02-01T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research.md",
-      "title": "Global Deep Learning Courses for NLP Market 2023-2027 (New Report) for a Sustainable Future | Forecast Report by 106 Pages Research",
-      "excerpt": "Deep Learning Courses for NLP market report investigates new project feasibility with the purpose of enlightening new entrants about the possibilities in this market. In this report, thorough SWOT analysis and investment analysis are provided which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

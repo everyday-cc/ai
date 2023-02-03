@@ -1,0 +1,47 @@
+---
+category: news
+title: "Can AI deliver the future of wellness at work?"
+excerpt: "That is according to recent data compiled by IBM which identified that building trust in AI will require collective effort from scientists, industry and governments. The report also identified that using AI for social good is a key component in changing mass perception of the technology."
+publishedDateTime: 2023-02-03T10:05:00Z
+originalUrl: "https://www.finextra.com/the-long-read/599/can-ai-deliver-the-future-of-wellness-at-work"
+webUrl: "https://www.finextra.com/the-long-read/599/can-ai-deliver-the-future-of-wellness-at-work"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Finextra
+  domain: finextra.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.finextra.com/finextra-images/oped/599.jpg"
+    width: 800
+    height: 450
+    isCached: true
+
+related:
+  - title: "The Future Of Payments In An AI-Enabled Future"
+    excerpt: "Unless you’ve been in a cave or on a beach over the past month (cue revenge travel meme), you’ll no doubt have heard of ChatGPT, the chatbot on steroids from the company OpenAI that is now fielding tender investment offers at a valuation of US$29 billion."
+    publishedDateTime: 2023-01-31T00:08:00Z
+    webUrl: "https://www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-payments-in-an-ai-enabled-future/"
+    ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-payments-in-an-ai-enabled-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-payments-in-an-ai-enabled-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d86891f90365afc42e8c66/0x0.jpg?format=jpg&width=1200"
+        width: 1022
+        height: 429
+        isCached: true
+
+secured: "t/cpdHnem9zakT3LoBlPhGuMlye4/aBFakodSMOk/DTs+pR7kJcjolgQ150E0ApWHMRhzFppgbvfo/y6lkHQMtIgF5o3NWjKJh5ZK/Yh9sxjR2seVarvOu/QzjpDfGkQs1SDh4IrVHcs3QUipCw+IdmW3UF5SQjrNJMXxiHGiAdGjF+/OyaYDrz7ye5M9uDdzDNG/RDJNq8qQXMSLF3FI9ubgdJgSzTyrhexTQfbosw3GUGLIuGGTjaUCVm4CI0+gsy3WijFdHxoPwLooHZywU1Nw3Rj3APTUfNY7m7fqmYSfD6uIjUPWDIJBrqpRtXbbh/Dn6iFaEDRpMCFHEkOR/r46VRiYgqAnSwQkXOEFbY=;vu+cB9wfUKyAaSAoKHR5GA=="
+---
+

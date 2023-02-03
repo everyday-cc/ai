@@ -64,6 +64,15 @@ related:
       name: Perth Now
       domain: perthnow.com.au
     quality: 19
+  - title: "Senior Liberals Peter Dutton and Julian Leeser attend crucial Voice meeting"
+    excerpt: "Anthony Albanese will join a crucial meeting of the Voice to Parliament working group following his 11th-hour plea to Peter Dutton to engage with the group."
+    publishedDateTime: 2023-02-03T10:51:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/extraordinary-anthony-albaneses-plea-to-peter-dutton/news-story/0e3ec0d19db24711ca611fb1ec79c0bc"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 2
 
 secured: "JM6XEq5eLVs1k+SkQn4b/H9pJ15/yc9CNMZZVr7IUTigtcsVW9+SD3CgZqfw3T1wJ3ReV3Qtmb9crlmTwPOUjth7sHpZ0wPQAHz2Y5dbyBhPaeNwvEdodPJ5tNkC9Nu62TamzcQKlv73KRnrlEeY+B09h1SwWao2YhJotyEwZckBdb3ORdmkvTSwOlNRhJzVzwFGcYP8ucLwsec05Gv+0zkrkY8rp8bbRuUbknuz05nmUcO+KNWNf877FwtNI2aPoop5cAvqYqWSLuc5les51bwlcvKpXvFQ65fI5wlcx21snY67WX0R1+zNF+ta43UzoIOtbzrXNu3YETFpimUCdFqWODHZ37xahty1sMwnh0M=;gzloJKEL/bSNVCfZ1oqlbg=="
 ---

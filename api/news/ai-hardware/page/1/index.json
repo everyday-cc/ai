@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-03-intels-arc-a750-gpu-just-got-a-price-cut-and-amd-should-be-worried.md",
+      "title": "Intel’s Arc A750 GPU just got a price cut - and AMD should be worried",
+      "excerpt": "It’s a bold move from Intel, which has yet to see significant traction gained in the GPU market by its recently-launched Arc ... for professional creators with mighty - and expensive - AI-powered graphics cards. AMD, on the other hand, is trying to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/intels-arc-a750-gpu-just-got-a-price-cut-and-amd-should-be-worried",
+      "originalUrl": "https://www.techradar.com/news/intels-arc-a750-gpu-just-got-a-price-cut-and-amd-should-be-worried",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/x52n3hSmTcsnGSoZ8oKvoU-1200-80.jpg",
+          "width": 1170,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-japanese-chip-venture-rapidus-needs-54-bln-to-begin-production-says-chairman.md",
       "title": "Japanese chip venture Rapidus needs $54 bln to begin production, says chairman",
       "excerpt": "Japan's state-backed chip venture Rapidus will need about 7 trillion yen ($54 billion) of mostly taxpayer money to begin mass producing advanced logic chips in around 2027, its chairman, Tetsuro Higashi,",
@@ -1362,58 +1414,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-dell-integrates-more-ai-power-into-updated-server-portfolio.md",
-      "title": "Dell integrates more AI power into updated server portfolio",
-      "excerpt": "Today's Dell PowerEdge event introduced a new server lineup with hardware for general purpose workloads and purpose-built systems for AI/ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/",
-      "originalUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Dell_poweredge_R760_011723-e1673966368373.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/",
-      "publishedDateTime": "2023-01-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
