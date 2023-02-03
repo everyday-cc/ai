@@ -283,6 +283,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia CSO: Generative AI, ChatGPT has made security a ‘cat and mouse’ game"
+    excerpt: "Nvidia CSO David Reber argues that generative AI solutions like ChatGPT have turned cybersecurity into a 'cat and mouse' game."
+    publishedDateTime: 2023-02-03T13:07:00Z
+    webUrl: "https://venturebeat.com/security/nvidia-cso-generative-ai-chatgpt-has-made-security-a-cat-and-mouse-game/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
   - title: "Six Things You Didn’t Know About ChatGPT, Stable Diffusion And The Future Of Generative AI"
     excerpt: "Forbes spoke to 60 entrepreneurs and researchers in the AI space to understand what’s happening with ChatGPT, OpenAI and the race to dominate a technology that could be as transformative as the internet."
     publishedDateTime: 2023-02-02T10:31:00Z
@@ -578,6 +587,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
+  - title: "Google Will Join the AI Wars, Pitting LaMDA Against ChatGPT"
+    excerpt: "On Thursday, as Pichai announced fourth-quarter results that narrowly missed analysts’ estimates, he said that Google would make its AI-based large language model known as LaMDA available “in the coming weeks and months,"
+    publishedDateTime: 2023-02-03T13:49:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-02-03/google-battles-chatgpt-for-the-future-of-internet-search"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "OpenAI’s ChatGPT has a major political bias, and it could ruin artificial intelligence"
     excerpt: "artificial intelligence (AI) has the potential to greatly improve the lives of Americans and people around the world, by increasing productivity, improving health care, and helping to solve some of the world’s most pressing problems; Whereas, AI is ..."
     publishedDateTime: 2023-02-02T04:44:00Z
@@ -592,19 +610,19 @@ related:
         width: 1400
         height: 862
         isCached: true
-  - title: "AI ChatGPT – the next great hype cycle?"
-    excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."
-    publishedDateTime: 2023-01-30T00:51:00Z
-    webUrl: "https://www.livewiremarkets.com/wires/ai-chatgpt-the-next-great-hype-cycle"
+  - title: "ChatGPT adds 100 million users in two months, making it the fastest-growing \"app\" ever"
+    excerpt: "According to analysis by Swiss bank UBS, the speed at which ChatGPT has added 100 million users makes it the fastest-growing consumer app in history— more"
+    publishedDateTime: 2023-02-03T16:05:00Z
+    webUrl: "https://www.techspot.com/news/97486-chatgpt-adds-100-million-users-two-months-making.html"
     type: article
     provider:
-      name: Livewire Markets
-      domain: livewiremarkets.com
-    quality: 39
+      name: TechSpot
+      domain: techspot.com
+    quality: 46
     images:
-      - url: "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUo3QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df02ab74e11904046dd4f09e5e30ff72304d2e69/Tech-AI-machine-learning-head-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-03-image-7.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Baidu to introduce ChatGPT-like chatbot in March: report"
     excerpt: "Baidu is developing a ChatGPT-like application, and has plans to launch the conversational artificial intelligence assistant in March in a move aimed at to accelerating AI adoption and drive business growth, Bloomberg reported on Monday. The Chinese search ..."
@@ -843,20 +861,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
-  - title: "ChatGPT rivals Anthropic AI and Character AI reportedly chasing megabuck funding rounds"
-    excerpt: "Artificial intelligence startups Anthropic AI and Character Technologies Inc. are reportedly closing on blockbuster funding rounds backed by a number of high-profile venture capital firms, according to reports this weekend."
-    publishedDateTime: 2023-01-30T00:29:00Z
-    webUrl: "https://siliconangle.com/2023/01/29/chatgpt-rivals-anthropic-ai-character-ai-chasing-megabuck-funding-rounds/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "ChatGPT is just the beginning: Artificial intelligence is ready to transform the world"
     excerpt: "New chatbots capable of generating text and images from a few, simple prompts provide glimpses of how AI could change the workplace, education, superpower relations and our daily lives"
     publishedDateTime: 2023-01-31T18:37:00Z
@@ -888,6 +892,15 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
+    quality: 19
+  - title: "A Human Breaks Down Some Top Categories For Generative AI Funding"
+    excerpt: "Using Crunchbase data, we assembled a series of lists highlighting funding to four categories where AI is playing an ever-larger role: Video-making, music, writing, and customer service."
+    publishedDateTime: 2023-02-03T13:30:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/generative-ai-venture-startup-funding/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
     quality: 19
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."

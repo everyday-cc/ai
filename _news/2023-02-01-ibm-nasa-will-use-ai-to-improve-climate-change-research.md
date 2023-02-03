@@ -46,14 +46,19 @@ related:
       domain: forbes.com
     quality: 49
   - title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
-    excerpt: "IBM and NASA's Marshall Space Flight Center today announced a collaboration to use IBM's artificial intelligence"
-    publishedDateTime: 2023-02-01T16:02:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+    excerpt: "IBM (NYSE: IBM) and NASA's Marshall Space Flight Center today announce a collaboration to use IBM's artificial intelligence (AI) technology to discover new insights in NASA's massive trove of Earth and geospatial science data."
+    publishedDateTime: 2023-02-02T01:44:00Z
+    webUrl: "https://spaceref.com/press-release/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 39
+    images:
+      - url: "https://media2.spaceref.com/wp-content/uploads/2023/02/01164529/ibm_logo-scaled.jpg"
+        width: 2560
+        height: 1338
+        isCached: true
   - title: "IBM, NASA To Leverage AI To Research Impact Of Climate Change"
     excerpt: "New IBM foundation model technology leverages NASA earth science data for geospatial intelligence, , ibm corp, nasa, artificial intelligence"
     publishedDateTime: 2023-02-02T14:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-02"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Statistical Natural Language Processing Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029"
-    excerpt: "In 2023] The Global Statistical Natural Language Processing Market Size (113 Report Pages) is estimated to be worth"
-    publishedDateTime: 2023-01-30T00:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-01-29"
+  - title: "Cognitive/Artificial Intelligence Systems Market Size 2023 with Economical Benchmarking, Old Statistics & Forecasts, Company Returns Shares"
+    excerpt: "Jan 29, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Cognitive/Artificial Intelligence Systems industry. In 2023, Cognitive/Artificial Intelligence Systems Market Size [2023 ..."
+    publishedDateTime: 2023-01-30T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitiveartificial-intelligence-systems-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-01-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

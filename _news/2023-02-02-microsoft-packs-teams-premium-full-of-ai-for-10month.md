@@ -94,22 +94,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
-    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
-    publishedDateTime: 2023-01-29T23:55:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Microsoft integrates OpenAI’s GPT-3.5 model into its Viva Sales application"
     excerpt: "Microsoft Corp. today introduced new artificial intelligence features for Sales Viva ... Additionally, the company intends to integrate OpenAI-developed neural networks into its enterprise and consumer products. Microsoft has already incorporated OpenAI ..."
     publishedDateTime: 2023-02-02T22:10:00Z

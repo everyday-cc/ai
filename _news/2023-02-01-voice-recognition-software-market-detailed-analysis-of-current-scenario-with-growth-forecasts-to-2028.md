@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-softwa
 webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2023-02-01"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Door Lock Market 2023 : Size (value & volume) by Company, Key Regions, Type, and Application 2028"
-    excerpt: "Facial Recognition Door Lock Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-29T21:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-size-value-volume-by-company-key-regions-type-and-application-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

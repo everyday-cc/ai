@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence & Advanced Machine Learning Market Outlook 2023-2027 [New Report]: Know What Factors Suggest Great Pickup in Momentum"
+    excerpt: "New research publishedas the“Artificial Intelligence and Advanced Machine Learning Market”research report provides"
+    publishedDateTime: 2023-02-03T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-outlook-2023-2027-new-report-know-what-factors-suggest-great-pickup-in-momentum-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market 2023 to 2029 Top Countries Data by Region & Research Insights in NEW REPORT"
     excerpt: "The Artificial Intelligence Market in the Telecommunication market has witnessed a growth from Multimillion USD to Multimillion USD from 2017 to 2022. With a Impressive CAGR, this market is estimated to reach Multimillion USD in 2029. The report focuses on ..."
     publishedDateTime: 2023-02-02T17:24:00Z
@@ -155,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Big Data & Machine Learning in Telecom Market (New Report) to Eyewitness Huge Growth Demands by 2023 to 2027 | 111 Pages Research"
+    excerpt: "New research publishedas the“Big Data and Machine Learning in Telecom Market”research report provides an in-depth review"
+    publishedDateTime: 2023-02-03T04:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-new-report-to-eyewitness-huge-growth-demands-by-2023-to-2027-111-pages-research-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market 2023 (New Report): Size is set to Grow at a Prominent Pace in the Upcoming Years till 2029"
     excerpt: "Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence in Accounting Market\" Report New Research Insight Report 2023 | Recent Report Spread Across|"
     publishedDateTime: 2023-02-01T09:25:00Z
@@ -173,6 +201,20 @@ related:
     excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Dynamic Face Recognition"
     publishedDateTime: 2023-01-30T08:38:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-dynamic-face-recognition-systems-market-2023-research-report-including-drivers-emerging-trends-cagr-values-regions-and-forecast-to-2028-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market 2023 (New Report) Shaping Ahead to Long Term Value Realization | Forecast (2027) and 119 Pages Research"
+    excerpt: "A new Research study on GlobalCloud Natural Language Processing Market2023 |New Report published across the globewith"
+    publishedDateTime: 2023-02-03T04:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-new-report-shaping-ahead-to-long-term-value-realization-forecast-2027-and-119-pages-research-2023-02-03"
     type: article
     provider:
       name: MarketWatch

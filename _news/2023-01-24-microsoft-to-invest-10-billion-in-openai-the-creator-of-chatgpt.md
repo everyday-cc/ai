@@ -21,6 +21,7 @@ topics:
   - AI in Healthcare
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://static01.nyt.com/images/2023/01/23/multimedia/23microsoft-pkhc/23microsoft-pkhc-facebookJumbo.jpg"

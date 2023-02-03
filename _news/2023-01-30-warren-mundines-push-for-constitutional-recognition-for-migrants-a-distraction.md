@@ -57,20 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Voice opponents push for recognition of migrants alongside Indigenous people"
-    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."
-    publishedDateTime: 2023-01-30T00:15:00Z
-    webUrl: "https://www.sbs.com.au/news/article/voice-opponents-push-to-recognition-of-migrants-alongside-indigenous-people/e54lxc80q"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 21
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/7c9777f/2147483647/strip/true/crop/1457x820+0+4/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fmundine_1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "S43nsoWem8Ek+p2JfhPjF6TK0r3wTIRvSNBieBX/hHoPKhyHdwvp7ZEwdUQIlpVYFE/64+zKXKUe6rtmjx2pk/Px7p0bzRsyUOtH7v9i8hDYM0HQaDhc0Qpqrv8ybUQUY/VWNUoy31gJsWoT6oh+4eyoVfB201o6HtKpfXcwzK7Q/J55AMvjQNLN2Yyq6+3l3b2FwzXfD+HyYsbrDC8g+YH2vxWcejOPxd4P1WlLFFMKDEWqveFWMBav2GExXdx/lhUhWbVPRMWveD5iXc7SYH3Fi9JRI2sc65JlSGXCSG10E0xbjpPKVrb7SoeAZ6N4tveAl+1yRcLWPAm1iaflP8Zsrin232Py6NE8OfLMYIQ=;/axYzIST+RhN42YsIiozQA=="
 ---

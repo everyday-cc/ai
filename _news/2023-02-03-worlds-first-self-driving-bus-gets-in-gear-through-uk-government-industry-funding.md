@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T07:30:00Z
 originalUrl: "https://www.computerweekly.com/news/365530201/Worlds-first-self-driving-bus-gets-in-gear-through-UK-government-industry-funding"
 webUrl: "https://www.computerweekly.com/news/365530201/Worlds-first-self-driving-bus-gets-in-gear-through-UK-government-industry-funding"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Computer Weekly

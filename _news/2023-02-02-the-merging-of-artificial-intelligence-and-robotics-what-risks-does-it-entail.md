@@ -7,7 +7,7 @@ originalUrl: "https://www.merca20.com/the-merging-of-artificial-intelligence-and
 webUrl: "https://www.merca20.com/the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1280
     height: 765
     isCached: true
+
+related:
+  - title: "All-Around Upgrades of Elephant Robotics' AI Robot Kit 2023"
+    excerpt: "Elephant Robotics launched the AI Kit. It is a robotic kit that integrates multiple functions including vision, positioning grabbing, and automatic sorting modules."
+    publishedDateTime: 2023-02-03T13:00:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13570"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 51
 
 secured: "tJTMsMiuC72hShis+6SqNsaZ52Uqt6F8gNQwHRAPap19nUhLXvDLQb5TSoawI8yGwf2pGtFLMuIU4MXnXgK9YKU3fUFitj5z7VHbZ2hLZ0ulYNUgzzgQMWcwfTdAwK4iDKMK+dbr0Zkv3cqd6u/Q48MnaKxeMXJlUNgxcTEOiL6SZFjNaiz8OR5gJuoQGXV4pMYArx7n8EKxldzI1qaIcENOMo7vdE+cwtmLvctxEdnI4GxUoQMPLITmN5alC8m4N7/PvyZvX1e7W88+/VEyMYg9YLMubX1f6p5YOT5Uhz9xBXZAM9onKeBddoP0G1C3RR1j3C1THsPaK7GXLGU0fcOuFLTYTglmNjK1tiw58YVd9ZtCVu04EmRMeIDa5xK1u+xblu9DnlXJw6xYIu4T6zNgHkcNpnBDMloKSur5GtXdbnQNB5HWhbGKJIqeqn8oabwwSxMu00LuiO2gQOz4X98YiX963hePEm5V5QYDCWtO/vfJ5769AgK0OsQc4gMS/rwDJOls5gfurnjuKfJxmA==;jaFgFFAW0+/12FdJkGpjZg=="
 ---

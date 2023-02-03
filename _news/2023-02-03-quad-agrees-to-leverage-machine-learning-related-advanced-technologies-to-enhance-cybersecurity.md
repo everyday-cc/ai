@@ -44,22 +44,6 @@ related:
         width: 558
         height: 372
         isCached: true
-  - title: "Quad agrees to leverage machine learning, related advanced technologies to enhance cyber security"
-    excerpt: "Cybersecurity: Officials of Australia, India, Japan and the United States met in New Delhi on January 30-31 for the Quad Senior Cyber Group, during which they reaffirmed their commitment to advance a free and open Indo-Pacific that is inclusive and resilient,"
-    publishedDateTime: 2023-02-03T02:09:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "India, US, Australia, Japan to Use Machine Learning in Bid to Enhance Quad Members’ National Cyber Capabilities"
     excerpt: "Quad group to focus on tackling Chinese threat in telecom, 6G technology Quad includes Australia, India, Japan and the United States Officials of Quad group met in New Delhi on January 30 and January"
     publishedDateTime: 2023-02-03T06:59:00Z
@@ -76,6 +60,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Quad agrees to leverage machine learning, related advanced technologies to enhance cyber security"
+    excerpt: "(Representational image: IE) Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related ... will encourage major software services, products, and providers leveraged ..."
+    publishedDateTime: 2023-02-03T03:51:00Z
+    webUrl: "https://www.financialexpress.com/defence/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/2970113/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 25
 
 secured: "qhiiK0daWU0xQlaVLfy7vcgBKCgGfLFo9A4BA9X75qtwGewwAXdb9GxnSpBZj1dAMQOCSzxujvQN4dknjwuNjUQwSL0yEwPzItI0WFqKFnGm8DxuTeI9pTP2+3eN3JHdX41OTXbp9woRSmfu6tybZKp8MdxQOYBYQs7Omk83HTj+vQayHozpBB4dY/TMeyDKxiXREF2sF6u2oklK3QOFoKdm7AoXla7sXsfKtutMysKpDd57RRmUmnIci2KnhXJaUO3VvdoMToZpTdM3oUvgbJKMuU5IAVPV3cq5NRCIFdR71LwYHpb75Fa35TtcFjhcO26Pi7fbL74fQq+rsV6n1kVnPH6Icc2K0Ef13BJskZ6mkX8H0RQCEEXfliOBz1bSB0/9J/FtUYwY6HzqeqTxanv2cF8yNZnUUYZPbkTmj/w44YLoC4asxl3fbhbUzopBt81HKtBt+Ip571kKoblctCPy5/K/W94+EIQL5FSwR4dco1i5oBsie+pt9PN2S7bi8+DH2Up0+TtFfR3RUTcPqQ==;Jk9Iqgl/B3x48V2BhYOi/A=="
 ---

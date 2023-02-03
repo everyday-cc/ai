@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T17:48:00Z
 originalUrl: "https://techcrunch.com/2023/02/02/as-the-bee-population-declines-this-startup-secures-8m-to-apply-ai-and-evs-to-pollination/"
 webUrl: "https://techcrunch.com/2023/02/02/as-the-bee-population-declines-this-startup-secures-8m-to-apply-ai-and-evs-to-pollination/"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: TechCrunch

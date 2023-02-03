@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campai
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/b3d2acc4061bd914e8d9d6a4bfe75c430745a24b/0_535_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=f17fb2590f287d66d9d84c5b84ebbc22"
         width: 620
         height: 372
-        isCached: true
-  - title: "Voice opponents push for recognition of migrants alongside Indigenous people"
-    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."
-    publishedDateTime: 2023-01-30T00:15:00Z
-    webUrl: "https://www.sbs.com.au/news/article/voice-opponents-push-to-recognition-of-migrants-alongside-indigenous-people/e54lxc80q"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 21
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/7c9777f/2147483647/strip/true/crop/1457x820+0+4/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fmundine_1.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Warren Mundine's push for constitutional recognition for migrants a 'distraction'"
     excerpt: "Picture by Adam McLean A push from a leading Voice to Parliament opponent to recognise migrants alongside First Nations people in the constitution is a \"distraction\", according to the peak body for multicultural Australians. Dan covers federal politics ..."

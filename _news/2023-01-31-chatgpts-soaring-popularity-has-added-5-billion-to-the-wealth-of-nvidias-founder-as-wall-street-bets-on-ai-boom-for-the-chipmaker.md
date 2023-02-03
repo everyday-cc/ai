@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-nvidi
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-openai-nvidia-jensen-huang-wealth-artificial-intelligence-chip-stocks-2023-1?amp"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Nvidia Rallies As Investors Bullish On Chipmaker's AI Business"
+    excerpt: "Shares of Nvidia advanced 33.69% in January and started February with a gain of 11.12%. The moves come as Wall Street analysts are increasingly bullish on chip stocks, partly because the notorious chip shortages of 2021 and 2022 are easing and partly on robust prospects for AI chips for use in almost every industry."
+    publishedDateTime: 2023-02-03T11:13:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-rallies-as-investors-bullish-on-chipmakers-ai-business"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "SwQ/Du5A4qkMU+apmMFS1/2//b4bEq+ESvcJvccl3Bicsydz1b588bWQ/fP/4dcu8dpsDj2jttJ55sDIiUkLJ929mZf4T6D6uXfo4DEvQmfp6Xde+suTx87QaZf2Nbn8oJodjIL/MIiDgbkaHXwTcclsVQVBJtmAILJ+Uj4tP0WWE+V0fRPwO7/J57w9YlEbvtTperjoh5LYszGp0ZYt0m/Gg71O4ko0+l38+q+tUm5iHP7a8km4CLzui88HLmySceWbNiGySv9ZjCOI05KCrfQg9Rm3eLUwKrZe/IQ/Tk01Grsd6yt1SQKHYFUPMCHeKuzrhsF6pL+H71h0H4bqWv4AO9E2ShFfKlLnMEZNtQEakVAReNw1wbr0s/kDp0Fj0hym953mRuzGgDQjvfegAZWQntUr0+sjhrs3P+UchCiVTOIXWN+dR62lYG6BFEHca+JaDO+7XFthfguAlpAwOCE/43meDZWJFcedGs1ZYALlgmuPNY3AiK0VE5RZzeOX/Ufip/mUYFIGapNiYr9Fig==;vPLAKIh5sJ0SzVCyOe6bmA=="
 ---

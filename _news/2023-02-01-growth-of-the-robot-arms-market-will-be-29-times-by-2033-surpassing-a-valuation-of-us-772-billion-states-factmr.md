@@ -36,6 +36,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 29
+  - title: "Smart Harvest Market Is Projected To Reach A Size Of US$ 40 Billion, Artificial Intelligence To Surge Demand: Fact.MR Report"
+    excerpt: "The global smart harvest market is expected to hit a valuation of us$ 40 billion by 2033 , expanding at 11% CAGR from 2023 to 2033, as per this new industry analysis by Fact.MR, a market research and competitive intelligence provider."
+    publishedDateTime: 2023-02-03T13:40:00Z
+    webUrl: "https://menafn.com/1105520885/Smart-Harvest-Market-Is-Projected-To-Reach-A-Size-Of-US-40-Billion-Artificial-Intelligence-To-Surge-Demand-FactMR-Report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "lG/ub88WJ2rFa0jYMr1xt/AP1Pjx3pGIn1CT7DBRO4UmUmY7+c/rJR3zWBoQyLnvQkai9t3jo0G2T3dwYk0Psg4mNbRp6HST8wOJTSWDV1EPJvI1mIBk9mR2bTNjltE5SWcvoY0jzS0c+QtjhCUZjjkZrE/mSl0W6Rq4EFJ/rRSQqo1AwYQStPvPMyFuAljW92YnyVI2G9KvGBQYIviNigIuokh/dm7+9Jhe+k7GG8bVxzpoaFKzBjWZ+qHFEHKUQ4qiAtz3hjjzEDhRPyaPTXh8p5tA8IDrfUQhpa/D9G1aN80fAxH9vMH9nIYY3OP/nSyPDs4ocdSGaOXektbtxRJTIxtm0zqZ/bYfKF4qPZ8=;DFGDxS0l15c3vkEMFFTgtQ=="
 ---

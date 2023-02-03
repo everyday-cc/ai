@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) As a Service Market Size 2023 with New Report by Driving Players and Top Selling Cost till 2027"
+    excerpt: "Artificial Intelligence (AI) As a Service market size report with 108 pages and enriched with self-explained Tables and charts in ... As a Service Market and outlines the factors that are and will be driving the growth of the industry taking into ..."
+    publishedDateTime: 2023-02-03T04:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-as-a-service-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2027-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why the Artificial Intelligence (AI) Accelerator Market is Booming with Revenue Generation, Future Scope, Selling Proposition?"
     excerpt: "Get a sample PDF of the report at -  The report provides an overview of successful marketing strategies, product performance and recent developments of leading companies, it also offers a dashboard overview of several methodologies and analyses that provides in-depth and accurate information about the Artificial Intelligence (AI) Accelerator."
     publishedDateTime: 2023-01-30T16:21:00Z

@@ -43,20 +43,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Will machine learning help us find extraterrestrial life?"
-    excerpt: "Research published in Nature Astronomy and led by an undergraduate student at the University of Toronto, Peter Ma, along with researchers from the SETI Institute, Breakthrough Listen and scientific research institutions around the world,"
-    publishedDateTime: 2023-01-29T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/978138"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b325cf59-d370-48ea-ad01-ab850fcb26fd/Rendition/low-res/Content/Public"
-        width: 700
-        height: 328
-        isCached: true
   - title: "Will an AI be the first to discover alien life?"
     excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss."
     publishedDateTime: 2023-01-30T16:57:00Z

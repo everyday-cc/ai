@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029"
-    excerpt: "In 2023] The Global Artificial Intelligence (AI) in Automotive Market Size (115 Report Pages) is estimated to be worth"
-    publishedDateTime: 2023-01-30T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Market 2023 : Future Trend, Business Strategies, Comprehensive Analysis and Forecast by 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2023 (The Expresswire) -- Speech Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR during the forecast ..."
     publishedDateTime: 2023-02-03T11:54:00Z
@@ -90,20 +76,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Cars Market 2023 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2028"
-    excerpt: "Pages Report] Rising demand for Automobile & Transportation Industry will drive the Self-driving Cars segment growth over the next five years. Global Market Analysis for Self-"
-    publishedDateTime: 2023-01-30T00:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

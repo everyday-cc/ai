@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023 Advance Technology, Latest Trend and Future Expansion by 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jan 30, 2023 (The Expresswire) -- Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size is projected to Reach Multimillion USD by 2029, In comparison ..."
-    publishedDateTime: 2023-01-29T23:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-advance-technology-latest-trend-and-future-expansion-by-2028-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Natural Language Processing (NLP) Market Qualified Report is spread across 112 Pages and provides exclusive data, information, vital statistics, trends, and competitive ..."
     publishedDateTime: 2023-02-03T05:37:00Z

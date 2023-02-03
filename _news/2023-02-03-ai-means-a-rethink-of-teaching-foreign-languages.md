@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T14:32:00Z
 originalUrl: "https://pursuit.unimelb.edu.au/articles/ai-means-a-rethink-of-teaching-foreign-languages"
 webUrl: "https://pursuit.unimelb.edu.au/articles/ai-means-a-rethink-of-teaching-foreign-languages"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: pursuit.unimelb

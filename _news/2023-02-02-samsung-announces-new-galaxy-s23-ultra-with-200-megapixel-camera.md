@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung Galaxy Book 3 Ultra hands-on — meet Samsung’s answer to the MacBook Pro"
+    excerpt: "The Samsung Galaxy Book 3 Ultra is a powerful 16-inch Windows laptop that aims to rival Apple's premium notebooks. Based on our early hands-on time, we think it could be one of 2023's best laptops for power users."
+    publishedDateTime: 2023-02-01T18:01:00Z
+    webUrl: "https://www.tomsguide.com/reviews/samsung-galaxy-book-3-ultra"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 0
 
 secured: "bKLBkH4gR29RTlgktGLqiOV7qdtntznENzLpgyOU7eBAVkYizQemKxBXf/CE0dwn2P3aE/kaW9aXJpD6fxiC2j72/XgLco3CrD4fuoirxk4NfF0bODVLqRGA+76BEl698OVEFapIOpIXK4jcKHfBwnwULyLRMmnoPa1DXrvDBeuUeAOBuAiBQvAaqiKPO4/TRujKHDZtkglaaO8i9NOc4jFV6AfEynHYb2Qwe+w8SzhKGsNdit6OYDqnuI7c7uTuJ8za8y+ykZNwhuLRJhcbjuYSqG3tMDuEHaa4XpcH0SebfpoSC8umRunT3ulwl4gfWymj10mDJESHNaWl7nlmejr5+e9Il2HydILoQE9JykS03XWbSq3AQbOZJLWYliHpv+Wj1J7fbPwtndPQ6xkU1SbUlhVjU0WyYzfXusVra3iWLLHgh1NG8Wy+IupkZeyLLzbnaIYOhiLnvWlrZpKIyvUHWDq64xHy3rVty7FfRt2hYVNyPN/E5maOxJ6Gv6DTMuJgWHvyVo9ugkTMCneQ8A==;Ui5AQSxKnnlSaOUekl6qFQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Facebook stock surges after announcing $40 billion share buyback"
 excerpt: "Facebook stock jumped in the extended session after the company reported fourth-quarter sales that were better than expected."
 publishedDateTime: 2023-02-01T21:38:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/02/01/facebook-earnings-q4-buyback.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/02/01/facebook-earnings-q4-buyback.html"
+originalUrl: "https://www.bizjournals.com/sanjose/news/2023/02/01/facebook-earnings-q4-buyback.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2023/02/01/facebook-earnings-q4-buyback.html"
 type: article
 quality: 4
 heat: -1
@@ -89,6 +89,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "rLLfMwPNZ/F+K3THHZ8FwaPE2s3zJEyOyE7nZIHsBuZ/QcR+S/EhycUpXfflCbqJ94+mYHCRGH4i+OmLcnmp5nvTLqTw+3J0iRPqC5hhtweq90mAzVX4PIGR7mLoUYJcrPt6gN3sbehlYL7eDYx344sBDLgm/9PM6LWAHCLPqR/OJUFXt69ZgsM4BDhaWwvK/qZ0ALzDVAgj+MExVdsETZLigEtYylK4aZht9ei/eKuVXRUbMAYPiwuXAHFh09pqB5sX8JoNTZDyaRZ2WRjw2BbKQjHoIvs/viefwW6GxP28SUPRJqfLNHkiWeed1Teyk+OFXROG6wxcH7VsCtoXEioww/WkDLJAHSgdqJ2hetc=;LidYfEx3WmcSdGc1mhIXeA=="
+secured: "hiEdqdBOpgGuqjqgwWQqswr0pJRS8RCbPKmqoaZWuRqITcUMrV6tnFNB8dEDtRcF7x1t6MWn2jTR8jXcJcyfPrX9muPeT/+nTC8uKt/MbFfN/uSEyn2Hrk705ZMahGKF5GbCDBo1UWVS9w3FyWMN4hPcxtI+Ss81b+NBoQlCWwjlOKARa931Do1xbi2TaNr8WLHHBSTZ6ere36gXgDbLaYEzGL6sN71p5BJKXxmAR6aGBGANkKSG1w+p5l55aLfvb6fTO229U9JL3OHHaAv0crqZOI+nwDr42kwbe0j9wlHMK0CaFwaYPkyK2NoVHKLw9LXp2GOen+g29qRi7I2ZvOOhYLmW/mLQvBeW4FTd3jsD9SKPU5ILOHwsjBmgTXyynn8wn9kUojFLiDvrjBWz53yZyKrJoiAnRpK/jlpHq4IjmXsr9eL3OZT6MDcmV39kfsZPOOzk1D9UkvjnnscGr0LFjTHirC4cr2PTxaq3rMiDsxmr76kMktQX60/iq2XI5CJx/p8PlqjCwxUQyxbdHQ==;KOARoc+TaHn/0FdIVszrPA=="
 ---
 

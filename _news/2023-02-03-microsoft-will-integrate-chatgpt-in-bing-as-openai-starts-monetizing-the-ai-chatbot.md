@@ -101,6 +101,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "CEO of Stability AI, an OpenAI rival, reportedly told employees they were 'all going to die in 2023' as competition heats up"
+    excerpt: "Stability AI CEO Emad Mostaque reportedly warned staff that 2023 would be a year of hard work as the company competes with OpenAI, Meta, and Google."
+    publishedDateTime: 2023-02-03T15:18:00Z
+    webUrl: "https://www.businessinsider.com/stability-ai-ceo-employees-going-die-openai-google-meta-report-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/stability-ai-ceo-employees-going-die-openai-google-meta-report-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-ceo-employees-going-die-openai-google-meta-report-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/63dbe679e33c4000193aae6c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CEO of OpenAI says misuse of artificial intelligence could be 'lights out for all'"
     excerpt: "OpenAI CEO and co-founder Sam Altman spoke about the future of AI, good and bad, in the vaguest way possible—which scares me a bit. Altman answered questions about OpenAI, the makers of the wildly popular AI chatbot ChatGPT,"
     publishedDateTime: 2023-01-30T21:59:00Z

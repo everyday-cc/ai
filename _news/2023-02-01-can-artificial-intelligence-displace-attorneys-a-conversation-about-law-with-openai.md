@@ -97,6 +97,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "CEO of Stability AI, an OpenAI rival, reportedly told employees they were 'all going to die in 2023' as competition heats up"
+    excerpt: "Stability AI CEO Emad Mostaque reportedly warned staff that 2023 would be a year of hard work as the company competes with OpenAI, Meta, and Google."
+    publishedDateTime: 2023-02-03T15:18:00Z
+    webUrl: "https://www.businessinsider.com/stability-ai-ceo-employees-going-die-openai-google-meta-report-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/stability-ai-ceo-employees-going-die-openai-google-meta-report-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-ceo-employees-going-die-openai-google-meta-report-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/63dbe679e33c4000193aae6c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft will integrate ChatGPT in Bing as OpenAI starts monetizing the AI chatbot"
     excerpt: "Microsoft has recently strengthened its partnership with OpenAI, integrating several AI services into the Azure cloud platform and investing an additional $10 billion into the San Francisco-based research lab. Now, the Redmond giant is about to turn OpenAI ..."
     publishedDateTime: 2023-02-02T19:52:00Z

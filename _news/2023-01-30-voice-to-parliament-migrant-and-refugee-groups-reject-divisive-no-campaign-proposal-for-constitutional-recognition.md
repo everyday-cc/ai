@@ -47,20 +47,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Voice opponents push for recognition of migrants alongside Indigenous people"
-    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament have urged for Indigenous people and migrants to be constitutionally recognised."
-    publishedDateTime: 2023-01-30T00:15:00Z
-    webUrl: "https://www.sbs.com.au/news/article/voice-opponents-push-to-recognition-of-migrants-alongside-indigenous-people/e54lxc80q"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 21
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/7c9777f/2147483647/strip/true/crop/1457x820+0+4/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fmundine_1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Warren Mundine's push for constitutional recognition for migrants a 'distraction'"
     excerpt: "Picture by Adam McLean A push from a leading Voice to Parliament opponent to recognise migrants alongside First Nations people in the constitution is a \"distraction\", according to the peak body for multicultural Australians. Dan covers federal politics ..."
     publishedDateTime: 2023-01-30T05:47:00Z

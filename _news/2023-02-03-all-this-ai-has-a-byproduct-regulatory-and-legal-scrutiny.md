@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T13:41:00Z
 originalUrl: "https://www.ciodive.com/news/AI-ChatGPT-legal-scrutiny/641912/"
 webUrl: "https://www.ciodive.com/news/AI-ChatGPT-legal-scrutiny/641912/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CIO Dive

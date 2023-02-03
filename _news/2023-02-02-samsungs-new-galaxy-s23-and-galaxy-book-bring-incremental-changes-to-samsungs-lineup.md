@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-ga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/amp/"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Samsung Galaxy Book 3 Ultra hands-on — meet Samsung’s answer to the MacBook Pro"
+    excerpt: "The Samsung Galaxy Book 3 Ultra is a powerful 16-inch Windows laptop that aims to rival Apple's premium notebooks. Based on our early hands-on time, we think it could be one of 2023's best laptops for power users."
+    publishedDateTime: 2023-02-01T18:01:00Z
+    webUrl: "https://www.tomsguide.com/reviews/samsung-galaxy-book-3-ultra"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 0
 
 secured: "ALR3PiVzByXSzB4tn3qCXkD58AYgDxkv92ICxDDaEpeRLITzeGqJQ4UbdfsHImdd2PsEYMygpXxaTfRk7iU2j3cM+lGjqKTO4Ru4EbxB4uXXJ5FCgU68UFAfnx2d3kE3F6Exu7hDYgSRUGoHNbtIp5snnVVt99SMdfI8BLt2daNNCgwjDfEtPJNWdWPintMRWv3BrGZ1Pt2Cy13fdrF+O29YDSg/FmmUkhyoqNpSjkkVoWecLaUrgdZiHmJIg9rpBKK2V8v96sL/BF05DUxPFp/R5Nf+8m/ck5Q58lMXfADcIQScpugTe1c1iVJ3fZSyS/g2H47ngxO8vMoYduEGVBfXZn/1u99wwUmQI+nAgICyeH8DwLV823cqxEUdBzPepFBjQvbZ+cScMCBIuY9Bjk3g7zNZYDH9+QvXtgjN+jsth9HLWyfNaGHXJcO+rWesgPdJ2Y+gNm5U7gbpbKfZnThdYZZYWuilhsCRd26HIAeW9dtc7OczhPfLojppezsSjLzDhjT+vIPAtargRlV4Nw==;5e3fe7FC78PElXiAqP1F2A=="
 ---

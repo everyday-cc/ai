@@ -74,7 +74,7 @@ related:
   - title: "Facebook stock surges after announcing $40 billion share buyback"
     excerpt: "Facebook stock jumped in the extended session after the company reported fourth-quarter sales that were better than expected."
     publishedDateTime: 2023-02-01T21:38:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/02/01/facebook-earnings-q4-buyback.html"
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/02/01/facebook-earnings-q4-buyback.html"
     type: article
     provider:
       name: The Business Journals

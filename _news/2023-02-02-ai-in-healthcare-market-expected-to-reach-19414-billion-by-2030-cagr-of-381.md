@@ -35,6 +35,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Smart Harvest Market Is Projected To Reach A Size Of US$ 40 Billion, Artificial Intelligence To Surge Demand: Fact.MR Report"
+    excerpt: "The global smart harvest market is expected to hit a valuation of us$ 40 billion by 2033 , expanding at 11% CAGR from 2023 to 2033, as per this new industry analysis by Fact.MR, a market research and competitive intelligence provider."
+    publishedDateTime: 2023-02-03T13:40:00Z
+    webUrl: "https://menafn.com/1105520885/Smart-Harvest-Market-Is-Projected-To-Reach-A-Size-Of-US-40-Billion-Artificial-Intelligence-To-Surge-Demand-FactMR-Report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "7fJRwlsdffcvAshZOkIy/B9SvCswXWu3uOirRqR/3IXh7sV9w1PoZZT9aC9sNN9r+YfZqrhRvKp/bBkc8c0rxqe7X1EJkKCTEQxOQg0bI4JGzq98ufsA672ZB+sgA3O0x0RZ6LB0d0dc4eIApvKQ7liIht+xSpHmhQ8IERKiumGni4jkZxnG5FnMw8h3hEYP1jVti/GaZbit8jlrkG9I0Rf2atwYpRNslLOBwhji1NxoPy6FX7t0AEPa4dYrSaaUEO2PRAO6v65BTgPvNrJQ6RYwQLVM8WZw9zffpCnWtwDMDLjAxxSj+5oeKsYkT1zObJ4tMS5dntDaG40swCExD0Jgf41a1nHfmfkKqIZ8Ed68/uNVVcyMynIo+7ExnN8MTWHr6a9rTaAjaVEyaOb3vukhTtMlbIGl5CXIBKQpG3US5ac355JkhLDNJoIMoDNhqT2RRptTDwl21rXq0kNwkr/+7eI20yld9k9jVczF/JuJmS4quiNYoUrRE60QKGClJ9nozFS7NTPx7dD21OSixg==;DSYWW978+YoUX5AhbXB7fA=="
 ---

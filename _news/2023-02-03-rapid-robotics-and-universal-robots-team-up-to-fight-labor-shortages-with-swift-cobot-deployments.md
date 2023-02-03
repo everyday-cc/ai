@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Rapid Robotics and Universal Robots Team up to Fight Labor Shortages With Swift Cobot Deployments"
-excerpt: "Rapid Robotics & Universal Robots team up to provide North American manufacturers with fast, flexible automation and help solve labor shortages."
-publishedDateTime: 2023-02-02T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230202005391/en/Rapid-Robotics-and-Universal-Robots-Team-up-to-Fight-Labor-Shortages-With-Swift-Cobot-Deployments"
-webUrl: "https://www.businesswire.com/news/home/20230202005391/en/Rapid-Robotics-and-Universal-Robots-Team-up-to-Fight-Labor-Shortages-With-Swift-Cobot-Deployments"
+excerpt: "Rapid Robotics today announced a new partnership with Universal Robots (UR) in which the Danish collaborative robot (cobot) producer will be supplying collaborative robot arms for Rapid Robotics’ deployment of cobot work cells across North America."
+publishedDateTime: 2023-02-02T16:01:00Z
+originalUrl: "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb"
+webUrl: "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb"
 type: article
-quality: 21
-heat: 21
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "e2uhKfpoSpYCryZL8Es36Bps1F6gBv4TUsMoaOUOpmd1rqiMyMLmFrKY2e0CIMx61AWCdjJBYLkl8UlKEYOV0vWYQKJJdIk501Q20hbeMR4ZeAaxV71H7tHHqZMDkOXaTmcZ0JTJpSz4XFK1pV2egkEN4dEanHwcIlcnG6XHwkgIc15XxrXIkWnmAbVB0XFIrOEeaFiJ3UWWbXWH0JqFZ2AQKTaTk8NuDQXtwKkU39MQYXSCadFAyu3Ci9ADzYLMpi4twVX+wpGQmWrGV+2i9YsdgPM/ZHEuBaWgyqm5DH3JAD2Ddz4tMFNMBCCqiIKzd3bX30D5wIhbZlU/24kkWqqgZjLi93EJwOUbVnMFZ2PkINH5FG+0bSZPkMfW0a59TnzQIjE3g1OAXCKERpMbPouRnMXbHYEye7wIVz7Y/k3MimEUndpvTI4BtwfUlOujdkLRqd0wbtvkZ0v6jsFUTPOaOj0koylLCdbL1deC8jKhehnXuBScHOQbKGpqnnGQEtmwO6L81PkNAp6jfTpA6Q==;9P64qwu7zDA7Cua02q/tXg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "mtQhS1+jaA6zIRWxhcdCqQ3fSn/3nDNoZ8NJi2NBZ/FTc0uHUmIHZKHHJy5dG+ecDlLpQZL4O161AjbNtfIuojLPVo10LoMDsIyiX05VNTOfwoaWrGQHnPK9zNsJNpDXF87+hAfBmr8EHlqL1v1Ajsef38i0SovwG6qQ4Ji72F9yS6YNsxTR8phJ2tLc2tjSpUdy2SHMRdaBWteHJKFxv7e33Qg/HF6/rKANYBDbJx7FzbjfpCu2Sl+Cq2anPwGOM7319LMQYa1o+NiP8VfUzgBfzYdHNBFDTmLmZIK3zLPW49chQ0KAIBMHZxkC/Yjhbp/DhH7Y8ouHIgRHrknh7bm/NQqKwWclbviUfJQybgw=;DxKONLX3/uErW7v0vU1+qA=="
 ---
 

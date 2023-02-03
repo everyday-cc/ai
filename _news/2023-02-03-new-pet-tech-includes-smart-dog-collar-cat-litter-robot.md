@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T13:02:00Z
 originalUrl: "https://www.columbian.com/news/2023/feb/03/new-pet-tech-includes-smart-dog-collar-cat-litter-robot/"
 webUrl: "https://www.columbian.com/news/2023/feb/03/new-pet-tech-includes-smart-dog-collar-cat-litter-robot/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Columbian

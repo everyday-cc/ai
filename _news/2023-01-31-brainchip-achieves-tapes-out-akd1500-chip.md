@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Brainchip Holdings Limited/ADR: BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 29, 2023 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuro"
-    publishedDateTime: 2023-01-29T22:50:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58172310-brainchip-holdings-limited-adr-brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
 
 secured: "sA93KKxmQ9XxgzclX1U9vE4ZgRdavUCbzAChvE7J+nkjLVTKcOR0dk/59nop+6CcOYaeg5Bez3bJqaj/gZDJDpVcIMiWF1ccR7chvEQTG34AqhP6FIagwGwWg3J83++BUi+w31WzRQ43Wsj7nX7f3oSmecbIedoDhSM+Gr1JlEGtgsYS0b89faCJu8Tu4y9Dlg7CfnG83vvC5iQo7BbjqXZydmbP+bEvNBqFTL/MM5muIbzLWX3myVUjJG4ZtFN3O96EJPX5EBkQEE11J7W9S2qsPII7K8hfvMuI4Vb2viv4/6VmHidje6zYAZI9+BbT1qxbjHFN489/pMsi3jgPcncIClKteQMpeSmG0EizaXE=;xbwCQk4VLGomJq4iinhsvQ=="
 ---

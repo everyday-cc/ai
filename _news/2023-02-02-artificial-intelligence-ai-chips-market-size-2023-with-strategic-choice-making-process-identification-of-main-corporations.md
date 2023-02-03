@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01"
 type: article
 quality: 72
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) As a Service Market Size 2023 with New Report by Driving Players and Top Selling Cost till 2027"
+    excerpt: "Artificial Intelligence (AI) As a Service market size report with 108 pages and enriched with self-explained Tables and charts in ... As a Service Market and outlines the factors that are and will be driving the growth of the industry taking into ..."
+    publishedDateTime: 2023-02-03T04:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-as-a-service-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2027-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

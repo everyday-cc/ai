@@ -7,7 +7,7 @@ originalUrl: "https://www.design-reuse.com/news/53394/brainchip-neural-processor
 webUrl: "https://www.design-reuse.com/news/53394/brainchip-neural-processor-for-edge-ai-globalfoundries-22nm-fd-soi.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Brainchip Holdings Limited/ADR: BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 29, 2023 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuro"
-    publishedDateTime: 2023-01-29T22:50:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-01/58172310-brainchip-holdings-limited-adr-brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
 
 secured: "mZnwGKfguO6KxX1W1MIS+98At0LLEWiaq8/OCiHGCIZejFgt1WjK5R2kbztI6KFj79IezVxnI7BXzjQxupW2fikSQTvYVvHkgL7UauNK5fXufFrWcoSnB2ecCT2MC8rIkQm39wd+4v488Xyn/qerNjBHB8/bFPhyCKnn5tow0E8hcC/kQznXKFY5mO8QxDQTDgaVtl5LtwKeJlVTQNk9nn/OvFf1pQkyZf4dg1gnyOtSdZKxp0fFnN0LEXaa3eL5P9l10hiZGVrS+okoTNYiCDE0Ab/sBAeO/L17x90i493Zn6MbWIMp3Jlhdm2pq0QjI+5cMAiHrrOtMHtL/m8EwDiGGzwuRa+UaBvQBo3QJoE=;vhj6nI8q6L4EcQU8L7tJgA=="
 ---
