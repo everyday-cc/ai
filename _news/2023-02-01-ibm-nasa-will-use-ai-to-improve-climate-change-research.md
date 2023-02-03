@@ -63,6 +63,15 @@ related:
       name: Businessworld
       domain: businessworld.in
     quality: 19
+  - title: "IBM’s AI will now help NASA analyze Earth data"
+    excerpt: "NASA and IBM announced a partnership that leverages the agency’s suite of geospatial data and historical imagery to generate insights on how the Earth and its climate has changed over time. IBM’s AI will analyze petabytes—that’s thousands of terabytes—of NASA’s Earth science literature and imagery,"
+    publishedDateTime: 2023-02-03T03:01:00Z
+    webUrl: "https://www.fastcompany.com/90843943/ibms-ai-will-now-help-nasa-analyze-earth-data"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "VWFDB0i+5SfONQHoQRyup+9FGioxDS6mTdpsOllxlx6dSk3Lg70h9dfwUpxUBoelgEH0M8cbSMHhUcLLqb9bK/RrfqPetEwlLjtzUx2dILyH8zrYAqYMEmWq9QTH8BicJE/c0EIjl3THIEZhmeAg8B8wpaznTYn8NUQPyFVe515JV7uTu8JoBKRoEO/Y+Ha5A4IYGI4FUmkl6zbILcBk3KxGJ6yiBuQ2I9XYLRujq1zLvvVMPtbHruqlEoXV7Yp/74E0KD7OZrhoBWYFkDfrnhu7OUxPXG12EBAe+TLzb2wf1eO2oS+HFv1rdokozeEW5hpsFn92JebUai9n/OepIYzV9Dw9fNT7aclSnr9dtNtXCpE7gQyxn2StTDYfMsi9OwmSS+JNmSPxcnW4BItTmqADhnl7YD1XzIaEkIUGqa9OTWSyM6qX3Tr3dfgoIX7olOmHZzyQ3iNeC0pdRQMy1Oh2jY+wM5Ma099wB91SiST4yJkMtYB1N/vtRYL84FImcdPLyEjuL1Wa78VfxTWZlw==;xCydXNZdMolHurBDhfowIg=="
 ---

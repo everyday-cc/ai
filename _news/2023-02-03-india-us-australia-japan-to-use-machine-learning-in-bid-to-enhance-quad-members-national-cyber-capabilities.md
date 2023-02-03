@@ -44,20 +44,20 @@ related:
         height: 372
         isCached: true
   - title: "Quad agrees to leverage machine learning, related advanced technologies to enhance cyber security"
-    excerpt: "(Representational image: IE) Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related ... will encourage major software services, products, and providers leveraged ..."
-    publishedDateTime: 2023-02-03T03:51:00Z
-    webUrl: "https://www.financialexpress.com/defence/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/2970113/"
-    ampWebUrl: "https://www.financialexpress.com/defence/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/2970113/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/2970113/lite/"
+    excerpt: "Cybersecurity: Officials of Australia, India, Japan and the United States met in New Delhi on January 30-31 for the Quad Senior Cyber Group, during which they reaffirmed their commitment to advance a free and open Indo-Pacific that is inclusive and resilient,"
+    publishedDateTime: 2023-02-03T02:09:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 65
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 63
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/02/cyber-security.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
   - title: "Quad agrees to leverage machine learning, related advanced technologies to enhance cybersecurity"
     excerpt: "In the longer term, the Group committed to leverage machine learning and related advanced technologies to enhance cybersecurity and establish secure channels for Computer Emergency Response Teams and"
@@ -76,6 +76,6 @@ related:
         height: 362
         isCached: true
 
-secured: "rheiMBYgJb7ve5vOjOUzu7NJ99EEsuWYh+yaIxmHrHsyvR8VywwGXf0IClIPfwR8rBxJHN8S2QHNkWTmlDEyDRFvBCbq+gxrwaZyz3nM5hcCFw40zQiFaP8YNPyX+UkQaxKX1FgvOHyLpsW+KPX13JhWwNZCk30ghkIpTVQ+ZUpqxlIvYPjQCkNZ8TbenYR9hjU8A7GCo1wXOkU4ljtpg/a6HK+YsWr7ty/iuQmmHLZSz5rB1xg+qCdZ4HVxRmAANyNUgvTNS+0Sh5W9GPZR6RixNmvXGko7n4hXVFva3rRvQ2JSTtysUa87OG4DT4pu131cc5S/VnVqY5k8d7xHCMR3lls4byq7GJ9Rf9OmZdQ=;BiqGwaWewGaAPRIlNg0I2Q=="
+secured: "F7GNF4kycqb/G1JWlQiTkBsJlU83KQSdZUAz+6ti1myV9UX3oEh9xe18Fpr+gzbdD5jettRa1sZ/MdzFxuBG1sUjg/51I+8XxRjDJWN4/GsK5HCesxgtJtZa5sAx0ZzTeZNyBrvWtz/704//JVFbWCAG6/X4m76xMJjjTuiyB4LF5vFdfeU4oi4QjTK9GFhZnRY5y5HWBRrW+r1XRd9G2v0t4tgFJkKQvVN1NzBQlqm5cgMYDrp28e/p0SEbO6HES/AbpWZZyadIjsyOWWjzghZyCdGTPodmcHg5wvC766Non9/PUY5CFFBBJ3+VVIBWveZTd/nrScBbOQx1A/6nH+6EimY7FBwv/wkpDVxoO8HbSc8blZizi7Fw1KlZ29yNG8dEANHEcQB4rkEr8eAvogD1LIy4IGblhpEyhcA7FH/wltz7nm9CODY2cir5PABVQ0+OzGTfF7y37dQAm++SUbW+W6f2s9rFk6b6zgcVjjAw3/hwJadFq2Xhgi3eJBAoW7j6xwHSVyt7+e1lfkLibA==;FigFmwvSVy9xTQ5d270g9w=="
 ---
 

@@ -110,6 +110,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Does ChatGPT Pose A Cybersecurity Threat? Here’s The AI Bot’s Answer"
+    excerpt: "Newly published research from BlackBerry suggests that the AI-powered ChatGPT bot could pose a cybersecurity threat. \"It’s been well documented that people with malicious intent are testing the waters,"
+    publishedDateTime: 2023-02-03T11:21:00Z
+    webUrl: "https://www.forbes.com/sites/daveywinder/2023/02/03/does-chatgpt-pose-a-cybersecurity-threat-heres-the-ai-bots-answer/"
+    ampWebUrl: "https://www.forbes.com/sites/daveywinder/2023/02/03/does-chatgpt-pose-a-cybersecurity-threat-heres-the-ai-bots-answer/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2023/02/03/does-chatgpt-pose-a-cybersecurity-threat-heres-the-ai-bots-answer/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63db953a89dcc64ab93e9f62/0x0.jpg?format=jpg&crop=3543,1992,x0,y15,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "C3ai has soared 86% year-to-date as investor frenzy for artificial intelligence builds amid ChatGPT success"
     excerpt: "C3.ai soared as much as 28% on Tuesday after the company said it would integrate ChatGPT into its product suite of artificial intelligence tools."
     publishedDateTime: 2023-01-31T17:39:00Z

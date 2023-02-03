@@ -60,6 +60,20 @@ related:
         width: 349
         height: 250
         isCached: true
+  - title: "Speech Recognition Market 2023 : Future Trend, Business Strategies, Comprehensive Analysis and Forecast by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2023 (The Expresswire) -- Speech Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR during the forecast ..."
+    publishedDateTime: 2023-02-03T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-2023-future-trend-business-strategies-comprehensive-analysis-and-forecast-by-2028-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Speech Recognition Software Market 2023 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
     excerpt: "Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
     publishedDateTime: 2023-01-30T03:35:00Z
@@ -129,6 +143,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Legal Software (Focus On Machine Learning) Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
+    excerpt: "The Business Research Company's Legal Software (focus on machine learning) Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Company's global market reports are now updated with the latest market sizing ..."
+    publishedDateTime: 2023-02-03T11:24:00Z
+    webUrl: "https://menafn.com/1105520030/Legal-Software-Focus-On-Machine-Learning-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/updates/pr/2023-02/03/EP_db6b0image_story.jpeg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "18Vne6OFGpykOJtdDpHRzEemqRxLObKfEDtyRA+Iw/nLQd0igGamw8EV765KRfZHZkA4TW8pidvoFQcuj9lXZCFCB5FEPCRw8Q0cEKuLMOI+UvygPSNQK+DchfubbsyfFX9vZylziG747CNXW7TitghrlkPgo5Ne2buikE2haLqC3jF0CdVIcBUDwpts8BCLyIlSem0+dWWoVTDFjjvvhKtWbJrhDkMTJ4zsaEYIsu55I6wj/p8pWjmzLs1T+M2sAJSwxq9FODJMX8+MNKHahCllMgnFx5p1q1PkqVcw7NT4m8thVqKtzKKYFrAG332tXUaWerpO9l6y22QNuCmd4yly4W9mSB03ExveoFR7SxSU8w0dz5YyrpRiFGiu/JmBlv6PbmktcTZAeKjMxZ598YagefhZGfGroTHOs+ZueVoAANCxcqVNVMJkAHQWfyNAjYTGZ9nHIndZmZXC2dTZ+erpsxV1qUxDV/obF+7EOcnx3lCsHI+0j1lg0Wej4wTN/e/DQiBFoSa4ClRAGUMrOw==;a5AdcHNUyIdV8Lw0pyryzA=="

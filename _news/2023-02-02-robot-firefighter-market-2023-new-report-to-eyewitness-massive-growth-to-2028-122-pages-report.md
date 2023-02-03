@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Entertainment Robots Market 2023 (New Report) Revenue Growth is Making Marketplace Explosive During 2028 | 117 Pages Report"
+    excerpt: "Data from a variety of sources, including closed-circuit television cameras (CCTV), commercial off-the-shelf cameras, and first- and third-party consumer data, is processed using powerful artificial intelligence ... with a head start in planning and ..."
+    publishedDateTime: 2023-02-03T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2023-new-report-revenue-growth-is-making-marketplace-explosive-during-2028-117-pages-report-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market Size 2023 (New Report) is Thriving worldwide 2023 to 2028 | 96 Pages Report"
     excerpt: "The New Report for Global Face Recognition SystemsMarketResearch Report 2023 | Face Recognition Systems Market"
     publishedDateTime: 2023-02-02T06:14:00Z

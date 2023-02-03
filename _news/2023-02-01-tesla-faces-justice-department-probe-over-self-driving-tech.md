@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk faces SEC probe over Tesla self-driving claims"
-    excerpt: "U.S. regulators are investigating Elon Musk’s role in shaping Tesla Inc.’s self-driving car claims, the latest effort by watchdogs to scrutinize the actions of the world’s second-richest"
-    publishedDateTime: 2023-01-29T21:01:00Z
-    webUrl: "https://www.bostonherald.com/2023/01/29/musk-faces-sec-probe-over-tesla-self-driving-claims/"
-    ampWebUrl: "https://www.bostonherald.com/2023/01/29/musk-faces-sec-probe-over-tesla-self-driving-claims/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/01/29/musk-faces-sec-probe-over-tesla-self-driving-claims/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 74
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/01/GettyImages-1459166551.jpg?w=1024&h=746"
-        width: 1024
-        height: 746
-        isCached: true
   - title: "U.S. Department of Justice Looking Into Tesla Autopilot And Full-Self Driving"
     excerpt: "Tesla continues to be in the crosshairs of government investigations as the automaker has revealed the United States Department of Justice (DOJ) is"
     publishedDateTime: 2023-02-01T21:42:00Z

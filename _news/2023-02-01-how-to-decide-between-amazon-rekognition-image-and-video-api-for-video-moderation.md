@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-to-decide-betwee
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       name: GlobeSt.com
       domain: globest.com
     quality: 34
+  - title: "Embedded Voice Recognition System Market Diversification, and Product Development and Innovation from 2023 to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2023 (The Expresswire) -- Embedded Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR ..."
+    publishedDateTime: 2023-02-03T12:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/embedded-voice-recognition-system-market-diversification-and-product-development-and-innovation-from-2023-to-2028-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZentM7pqaHo9bnrT/IRnYtG6w5/T65tWx9BDoOwYsl69GSbajfdcCxowsLqBt/wz7YGGpKfbNYzFDSdRMNonM0AdENNpq8F1/kNOLQGw71GI0lavGNYaCwkSXtgkzS3vzGppzqxCtBj1zGo4APZECYstqnTQpExsGwq9QrYXDqddKKzgcJ9j6x0Lju582bIBQ+ERbsgVvGlZCYiki8HvnK55BwstbPWs/66vCnwChj5lsUW89KlEE6KTM6/SX7193RimsaEQEinX4vAKiQyk+dFCyK+l40AT3j2GVu/krRpuEeADtBhPq6n3DyLFDFABkamPxfuYP+hbHTa1EagVF71PMNIzLiUBtcBBRRxKrX0=;zlMMq91qiEFsURR37nf0Ow=="
 ---

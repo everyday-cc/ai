@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Entertainment Robots Market 2023 (New Report) Revenue Growth is Making Marketplace Explosive During 2028 | 117 Pages Report"
+    excerpt: "Data from a variety of sources, including closed-circuit television cameras (CCTV), commercial off-the-shelf cameras, and first- and third-party consumer data, is processed using powerful artificial intelligence ... with a head start in planning and ..."
+    publishedDateTime: 2023-02-03T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2023-new-report-revenue-growth-is-making-marketplace-explosive-during-2028-117-pages-report-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robot Firefighter Market 2023 (New Report) to Eyewitness Massive Growth to 2028 | 122 Pages Report"
     excerpt: "The New Report for Global Robot FirefighterMarketResearch Report 2023 | Robot Firefighter Market Provides Such by"
     publishedDateTime: 2023-02-02T06:15:00Z

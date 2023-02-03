@@ -41,16 +41,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google has developed a music-making AI bot"
-    excerpt: "As AI slowly creeps it way into every facet of our digital lives — from essay writing to conversations with therapists to the generation of original art — it's the least bit surprising that artificial intelligence would also take a step into music. It's also not surprising that tech giant Google would be the first major player on the scene. The company is reportedly building an AI bot that can create \"original\" music from both text and sound prompts — users would be able to type in increasingly"
-    publishedDateTime: 2023-01-29T19:08:00Z
-    webUrl: "https://www.aol.com/news/google-developed-music-making-ai-200824598.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
-secured: "fSEd4dR51tgiQLrpXaAW42j52+CqezY7//XUgL/bliQ/mtLHkO1MEtHot+BUeUl2YSROopGVYH4Mwmbk6d6EWLfPgbtGGt+5q4jP1kv/CRAU/PAifTjGF+RJ4ysq2V/14d+tinTDHkVeh/QgQC/oXN4LvvhPw1AIGTuyCV23a5BcRIb4AwisvMhgPFTZpibI47d3hoTycxsVSYI6MsjMvl8VZj8RHgw098M+rKfIYxeMW5T5RorCtTV8xYsxS7ar5FSK6G+Vz2/qidBgLIvU8qU5qO/h7gX9GGB/UqlWrVpxgPBeg3EMwIB41TR1FSIm+RU5goB5cc0QmobRP/0wgIGQQDxkwWX2mvh/abkZQPc=;DNX2rkPmjKPP0Jch9+4lKg=="
+secured: "vnyIsKdB5LiNQxTTDznSzEIPuwSAJufYKBymIF0gvbLRidKssylzi+yDiICHyTS3mgR9C2nmKTcjQUaPk3K6Z17M0nKPjXmL7N9PfgHtUJ19nYoLe7vsnsZhBhaDP3PovtCR4v6QcdbdQof5JW/I/5ZYsqmCN1fF0Fkobs+VH+mpwZqp/Tg8ltAUgVQ2boTVG95ESg6HvGnSBvB92E8EG2uH3qjSOCVNdUBZ7nqPwB+L2bLz9bphDlxaIko2aXKfmIoKXpTTXT8ZD7tQBtY/nqQvhStIcQ/AtiIOylSP+qtSHVD8uNaprmUuu9NgfC22ch16qnpzqNPG2qjkpgtXyIZovwsxJ1nbba5uRq/nRaA3bfhw5aUHI41VeDIzcggdCYqmNKo/hwjrUcxzcS77OqNpYx514lRzl9aJ0gWtKPqYzFQ641wqJ4VQm/G+yaiOMIeUo5OROPG8zKSWvzAZOCe67FDQ6AugyKRxeVdGKPaTPtG4bWu+4nTY6GTzjmGtikNA6Cyc9jY97R331+BM5Q==;iOjMSBJ46AM3O0RF8vLaug=="
 ---
 

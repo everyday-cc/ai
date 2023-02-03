@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Madison Square Garden CEO Defends Use of Facial Recognition Tech"
-    excerpt: "In an interview on Fox 5’s 'Good Day New York' this week CEO James Dolan said: 'If you’re suing us, we’re just asking of you—please don’t come until you’re done with your argument with us.'"
-    publishedDateTime: 2023-01-29T20:28:00Z
-    webUrl: "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/07pDunJzjhUyZX14QfwYQLQ-1.fit_lim.size_1200x630.v1675023958.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden"
     excerpt: "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City"
     publishedDateTime: 2023-02-01T18:21:00Z
@@ -51,20 +37,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Garda use of body cameras and facial recognition technology debated in Dáil"
-    excerpt: "Simon Harris says he intends to bring amendment to Garda Síochána (Recording Devices) Bill 2022 at committee stage on use of facial recognition technology"
-    publishedDateTime: 2023-02-01T18:37:00Z
-    webUrl: "https://www.irishtimes.com/politics/2023/02/01/garda-use-of-body-cameras-and-facial-recognition-technology-debated-in-dail/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/HXgO7Di9v3irmt8MSiN9SowHJEo=/1200x630/filters:format(jpg):quality(70):focal(3787x2723:3797x2733)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/PQIOXH6FNRHG3HIUS2X4WFQJVQ.JPG"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "James Dolan defends MSG’s use of facial recognition"
     excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
     publishedDateTime: 2023-01-30T16:43:00Z
@@ -73,6 +45,15 @@ related:
     provider:
       name: SportsPro
       domain: sportspromedia.com
+    quality: 19
+  - title: "Sources: MSG, Dolan hire Hope Hicks amid facial recognition backlash"
+    excerpt: "The decision to hire Hope Hicks comes after it was revealed James Dolan used the controversial technology to boot fans critical of him from games and events at MSG-owned properties."
+    publishedDateTime: 2023-02-01T17:29:00Z
+    webUrl: "https://www.sportsbusinessdaily.com/Daily/Issues/2023/02/01/People-and-Pop-Culture/james-dolan-msg-hire-hope-hicks-facial-recognition-issues.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessdaily.com
     quality: 19
 
 secured: "VNzeJV388pZV+7itP8BTjYyBX2b6zhpohTTyQDoTuA+YNwj/Gr8kPFtTNMsnw9CHbOUXsc0Uw4+RutanHgOXykOiTRoNNjaU4/Gqued1nVKI3NOIBp8ZCH5UqWh6NeI/GaetdNMi+cGZgUfN+UjY2zWrVdifEO4gA9mOKQ4anfTd7OD1WFI2gUFEi5bTveMLDARlLqpl1g4pQQHWR8bLwthHQx3IOEQLYMmJHKUfugkiDHnnZSdp4robeS4SOcChKXI99/6Az0Spc2nCmeh2EtUJ2+DfiLyZfVdYGZkgSEB3k4GKoCqgeBcfXQnANH0nI99HtR6tP1U3g0ZPQqlHcFuCILhQ4zHsTd0sZsT0ynxtiK/JqIcir2rDR5FbPr7yZpGLi9RmTgMr9F6l81KlZXY6artru9eZirYKi8UautUScoOELLvvO3m+ZgHuMuGgm6hIP2pil2esCwlh8L/aXXDLoaoNV0tzYYyTkqkV34aOxx+Oe5KRZbhbVfq+JXyOmJc8yj7ADlgNuM9I+xUN2Q==;1RS3Ej5eXwbOVn4DAt9OGg=="

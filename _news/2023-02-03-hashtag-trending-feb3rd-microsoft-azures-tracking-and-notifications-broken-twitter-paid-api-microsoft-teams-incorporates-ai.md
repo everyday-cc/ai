@@ -206,15 +206,6 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 36
-  - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
-    excerpt: "Cirrus Link’s software widget connects MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer with no coding required."
-    publishedDateTime: 2023-01-29T19:53:00Z
-    webUrl: "https://www.automationworld.com/supplier-news/news/22684077/cirrus-link-solutions-cirrus-link-iot-bridge-for-azure"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 34
   - title: "Microsoft Research project helps languages survive — and thrive"
     excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
     publishedDateTime: 2023-01-30T16:40:00Z
@@ -225,6 +216,6 @@ related:
       domain: microsoft.com
     quality: 21
 
-secured: "SR50sgtwCyS0jPjlSAEIgNQC33poWjWiATNiHOJi8oi0PfZ2tiSDJOne8v1R17bZlXkY5D+MnXDPgPBf+qajiW0rQvxx1/9Mlac6qWYRzkGQNqwgiLmwGYdWWSqWamjiCcthck9wc4HMtV+bYYfpHjhYCu3teICAmMvQc8VSh858nm6eRekLqA1UFLzq2hO9g5D3DqS+qhJ/x6uqnNwYMNMXe7kO8+NBjreoZVE83CZ3HE/58blKR5NaqoPU+dIuip4MuW5uFR+IiucCmMENMr1Mf/ZXQW+fzXh47jSp2Ej/sloE8WFbZmyuefUwvZwH9v0K8vc2nt/2qbgiIqPA0Do8ZTsVaK8sUHVBQ4xwazo=;rO8jEz9nx5nynoEuTQdvTA=="
+secured: "ZWK1vNrFhCsTlj1ow8jUyPyNJcCuqQ5aJeTZLZaIjvQZGgKnlVxOwhY0w6BKAeO3Y19tPeIDAOBDf+wzFw2GAt+jGNHc7LqfOE7gYmHab+H6NAzxYkqsB5jMt8CwTjx85clpPEPMKpSJ2tuxU1MqP4GPKizb3XWH3d40MwITpOecy6Z+H58DXE0ELihRgBm4B8OnlhOr5lYsKR0Yccttm/k2YnGPh+ZdhKmztMBh9uWRaFjLLarUy93CsYaStoKEj7TKod2/GRHtiGM9VD1mWCW053+B9fXFAjdQhe1x6Z22QUTy4s9XRltaQIMPXDj4Ffk9D2FMF+YAs4g+gypfsMO/umPtzHSKWwQtM+hMZ1IR9CcPlaCSsssMvIErfJR87ETheLEzvSz2TM2uofkAgVkOM7j+f8nOmIgyOpBx0NZtntowOgaIPr6ks5RKWv7sQXCxp3iiHNRPpwFGgXwBtPpfjPh+pztRGeGvtff/cD94SXU2J+EogUle2Y1So+6/5q6cTxtCpIL7YItpYeFjnw==;8C+P0g/iLWrl/c0elJtn3g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnin
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html"
 type: article
 quality: 73
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 4000
     height: 2667
     isCached: true
+
+related:
+  - title: "Google CEO Sundar Pichai says users will be able to interact directly with AI features in its search engine 'very soon'"
+    excerpt: "AI \"is the most profound technology\" the company is working on, Pichai said. He first mentioned Google's plans to become \"AI-first\" several years ago."
+    publishedDateTime: 2023-02-03T11:33:00Z
+    webUrl: "https://www.businessinsider.com/google-sundar-pichai-ai-features-search-tech-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/google-sundar-pichai-ai-features-search-tech-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-sundar-pichai-ai-features-search-tech-2023-2?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/60da240636cf170019de8599?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "oEPSdeVZxTBaIVuiq9kubkU11jCzzXMIvaJthfkSW15eIZgbF8l4U5Mm51G+l6WzSXNO8riSBaUa3rPDHxDILcmwIukPwVHgpdMy01v2uD1pZnh7znuqaCdYziYBLzjSh8d4IEuHDYVIyKTudUkjF9Tw2EGkbBObykAZ7J3khX3MHDlgRrRE3mOS+PzejenOT9xjn6XPi+THrIUObPYf1B/IS1QuGa+BFyv+5hq0RWMpXRDmOMOZ1FvfnooEi7FFsIC0df1kRpX5xMv2FqmFZNiie+yRxVNZMK+7NDqMrFZJErKGRzcrv4tXUfvn9Kno+qSDN4VBNiVPfwbRTUZTbbOLcJPH41VfiRsoBIuGPrHYak+JU/vFbSe581xhNq7lYjXr0qlhuAA+V67iRudW8oEp6SS25VSQ5//Xc47HbP13yvkKBuFRx3ghbeC1vS+DZtcGAc2FAAXSqeRFxAydgTclLZnQ0tsoTGy+i4lyPo0TovagdszvQTceSO0aCdRoc4NQcFiW+LpCybM+YLJvTw==;0UpyGOjDvPEqh6Taa0mBkw=="
 ---

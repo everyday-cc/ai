@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Madison Square Garden CEO Defends Use of Facial Recognition Tech"
-    excerpt: "In an interview on Fox 5’s 'Good Day New York' this week CEO James Dolan said: 'If you’re suing us, we’re just asking of you—please don’t come until you’re done with your argument with us.'"
-    publishedDateTime: 2023-01-29T20:28:00Z
-    webUrl: "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/07pDunJzjhUyZX14QfwYQLQ-1.fit_lim.size_1200x630.v1675023958.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden"
     excerpt: "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City"
     publishedDateTime: 2023-02-01T18:21:00Z
@@ -56,20 +42,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 44
-  - title: "Garda use of body cameras and facial recognition technology debated in Dáil"
-    excerpt: "Simon Harris says he intends to bring amendment to Garda Síochána (Recording Devices) Bill 2022 at committee stage on use of facial recognition technology"
-    publishedDateTime: 2023-02-01T18:37:00Z
-    webUrl: "https://www.irishtimes.com/politics/2023/02/01/garda-use-of-body-cameras-and-facial-recognition-technology-debated-in-dail/"
+  - title: "Sources: MSG, Dolan hire Hope Hicks amid facial recognition backlash"
+    excerpt: "The decision to hire Hope Hicks comes after it was revealed James Dolan used the controversial technology to boot fans critical of him from games and events at MSG-owned properties."
+    publishedDateTime: 2023-02-01T17:29:00Z
+    webUrl: "https://www.sportsbusinessdaily.com/Daily/Issues/2023/02/01/People-and-Pop-Culture/james-dolan-msg-hire-hope-hicks-facial-recognition-issues.aspx"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/HXgO7Di9v3irmt8MSiN9SowHJEo=/1200x630/filters:format(jpg):quality(70):focal(3787x2723:3797x2733)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/PQIOXH6FNRHG3HIUS2X4WFQJVQ.JPG"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Sports Business Journal
+      domain: sportsbusinessdaily.com
+    quality: 19
 
 secured: "P+/XFvR2/GwMte5MrlX3ClfOrZ4u41GdsDU7rKJsgbKS8LvHCCS8mnN49wRtOwAk1dwvOAd76WLxjlYFcHoYmrobbcby/bgEHAIG8enjzhyFIsyQp8g5o7mOkbC8Cs+XCOgz5rBGEe0K0GcML4Ka7goSpJiI5Uldmf82xgC4T6PFiM4Q1PzVIl8kVU+9wCUwFMye7KKxE0f/01ROHOjGh5KRZq0j5f8j7suvd9Mjk9WWtAFh2HVFDITI7E83IvGLUPYpYVkQKRpmijiO/NEDBIdJRyJydyVaGDqsLmCiznO4py8nsZTmXa5njqJa2J9/qLhmU4lnnE7JVEi8xJ/p9BJxuX4XqGEAQtxjHtEn7EzeuowQyDSeScyoB//f9cNYfo0UU1OXOc6j2hNAn0EViARoOl7X1jq7BI4QTiHMJ0dBaHBuDRuCdAyrP7iGTDrkwwtZFfO1jCysK997uMQZrXy8kIvtpPcvCynr9ckdts6LDTxHP+kh2WTwaaLGRh1VOIUTgF0mJk0FK9a7RUmsHQ==;aQVaDy5dzIz9u3iEfr0g+g=="
 ---

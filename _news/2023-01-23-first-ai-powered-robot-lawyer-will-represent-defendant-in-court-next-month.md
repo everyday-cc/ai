@@ -2,11 +2,11 @@
 category: news
 title: "First AI-powered \"robot\" lawyer will represent defendant in court next month"
 excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
-publishedDateTime: 2023-01-23T12:53:00Z
-originalUrl: "https://www.cbsnews.com/colorado/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-webUrl: "https://www.cbsnews.com/colorado/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-ampWebUrl: "https://www.cbsnews.com/amp/colorado/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/colorado/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+publishedDateTime: 2023-01-23T14:52:00Z
+originalUrl: "https://www.cbsnews.com/philadelphia/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+webUrl: "https://www.cbsnews.com/philadelphia/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "YEDfBYA/pIswtUL0OcD8HSGkO3yMVQYyu+q9bZRbG9DeEO2Qipe7ZVu4R/3kUJ7h1K767t8Vu7FEltpwdyfBzlz62orIFsxGToUA5N0EM+fSgsShdVghxcHBFO+hpbaDyYIywbWh1Z8GO7K1gf60sRW3yVZUebYpPubKJWa4TJosL1osCL76Y8eooUm7dCVn5mkL5BVBD5K7+7Jn4u8YHRO/9k1VY3sotQNCfhSPNMnC9MkTDSVDi0Y09v4QotDi+akFXkGkXW8xl4cLDBcXgWsuvZrf6+XQXhdbFlsICNkIMwiyv0n2K05Ispfj77SrafYWq1HLEd6qq9YvbZmitIlaOgu0DwTWTY/3RokdcEz+O6BgaLXom/baCXMLmRP4g9ZSvYQp2L88WvsnUHjEl1K6o5B3GLs+arW9RkZy+9WoI5DQJrBUVP1vuQkWx88qB7y5kINuDVw3AgjLePlSf3njw2EbpzphYA2hg5FxNyeqUfjFzWhLkwgf99vEfXLEc2NthleC0JKXPgw30CZCFA==;zRecrUCUHmam5GJHZ4EmAw=="
+secured: "MU6y90z80CDKrG/Z3vW5UyPLy6neOPLUhe49t4MFIY3/e1Fny9xJgGVPUVPoDpbcsCzqJH4g+DgTB6c+5Ka2HKweTA+5RvwXm9R33oOFpKAFyk5qM3Qs+cR9N+FixQ93cgUaa+TDTCNSb1yQTUAlaWrdwjbkiwTYCWZaBmDNKMPKUAOq4TEm5GRYtOuNf1xjcyQum3sJJk7WpNW0UOWamLMpr7f8l30Ot6Pvxkyp4GwmeUJlxKLvKThcEBXGrLaM0UzkG2nbhVVaXYpQ2Llx3vWqTQv15wN2F76e+laVW64Uekm851UlIgQYBqD4pTQqwWbCP4KKt4wJfh2tV2feJcC902TEoKZZGOJBsvr+awc=;go5GN5FykVdEA6CQiFSRvg=="
 ---
 

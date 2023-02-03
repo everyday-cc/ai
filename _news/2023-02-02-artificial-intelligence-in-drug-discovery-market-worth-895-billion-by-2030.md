@@ -7,7 +7,7 @@ originalUrl: "https://www.medgadget.com/2023/02/artificial-intelligence-in-drug-
 webUrl: "https://www.medgadget.com/2023/02/artificial-intelligence-in-drug-discovery-market-worth-8-95-billion-by-2030.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market worth $102.7 Billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The AI in Healthcare Market is projected to grow from USD 14.6 Billion in 2023 to USD 102.7 Billion by 2028; it is expected to grow at a"
-    publishedDateTime: 2023-02-02T14:01:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-worth-102-7-billion-by-2028---exclusive-report-by-marketsandmarkets-301737144.html"
+  - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $83.6 Billion by 2028"
+    excerpt: "This report assesses the application of AI in computer vision systems used in conjunction with connected devices, hardware components, embedded software, AI platforms, and analytics. The report analyzes machine learning models and APIs used in computer vision systems along with the application of neural networks in AI analytics systems."
+    publishedDateTime: 2023-02-03T12:56:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/02/03/9754717.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 14
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "92NBmsdj7xx7Ho2FnCfqzuAQmCF+l5F9NEzjyMgZRvI7PZKX2nU56X4O73feZWucEYtqf+ewE1OUVmg1ky+flCHApa+EOFCJqyfh4V0iGucU7V+XEwZHVgXNSfrK5P8wbTDn4a/tRxiO+QTGpPBfPJDpypsEavS7v5DfP5GkUbu8j1/4a/5BAtYATMtUHgX45uBcIVZw/QZiKJLjWPau+OZK9nPyuBjmUdzCg+HEzJDtgeG9t5mtolhTFEhJo/xbVNZ8t6KYVACT9NL7Gm0vD9fo6mP4nhYwxrc8byNKzYNvaMj20aJ7O5jlgjQz/hwAYadDPs/Qg9RlmMvQiX4oeo6tp9RxMPLnH2KpYK3dI3E=;oREVnyrBjSYVA7bkuehW8g=="
 ---

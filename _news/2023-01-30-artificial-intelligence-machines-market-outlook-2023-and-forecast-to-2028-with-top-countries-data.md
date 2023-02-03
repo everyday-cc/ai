@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Fashion Retail Market Opportunities, Demand and Forecasts, 2023-2028 with Top Countries Data"
+    excerpt: "Artificial Intelligence in Fashion Retail Market Size is projected to Reach Multimillion USD by 2029, In comparison"
+    publishedDateTime: 2023-02-03T02:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-opportunities-demand-and-forecasts-2023-2028-with-top-countries-data-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Data Catalog Software Market Trends, Business Overview, Industry Growth, and Forecast 2023 To 2028"
     excerpt: "Machine Learning Data Catalog Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
     publishedDateTime: 2023-01-30T17:05:00Z
