@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
+    excerpt: "Artificial intelligence programs have been around for a while ... but it also assesses clinical reasoning, ethics, critical thinking and problem-solving skills. The study team used 305 publicly available test questions from the June 2022 sample exam."
+    publishedDateTime: 2023-02-02T18:27:00Z
+    webUrl: "https://www.cnn.com/2023/02/02/health/artificial-intelligence-medicine/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 93
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230201145445-02-chatgpt-phone-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
     excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
     publishedDateTime: 2023-01-29T12:00:00Z
@@ -297,15 +313,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT Spotlights Microsoft’s Early Efforts to Monetize AI"
-    excerpt: "The company has pledged billions of dollars more for OpenAI, the company behind the chatbot."
-    publishedDateTime: 2023-01-29T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-spotlights-microsofts-early-efforts-to-monetize-ai-11674964348"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "ChatGPT Creator Releases Tool to Detect AI-Generated Text, Calls It ‘Unreliable’"
     excerpt: "OpenAI says the AI-detection tool complements methods educators, employers and others use to determine the source of a piece of text."
     publishedDateTime: 2023-01-31T21:40:00Z
@@ -644,36 +651,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/02/AdobeStock_299562309_20.jpeg?quality=82&strip=all"
         width: 1400
         height: 862
-        isCached: true
-  - title: "ChatGPT and I wrote this article"
-    excerpt: "It was trained on a dataset of billions of words and can be fine-tuned for a variety of natural language processing tasks, such as language translation, conversation generation, and question answering.” A screenshot from the ChatGPT website showing the ..."
-    publishedDateTime: 2023-01-29T10:19:00Z
-    webUrl: "https://www.dailysabah.com/opinion/op-ed/chatgpt-and-i-wrote-this-article"
-    ampWebUrl: "https://www.dailysabah.com/opinion/op-ed/chatgpt-and-i-wrote-this-article/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/opinion/op-ed/chatgpt-and-i-wrote-this-article/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 44
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/01/29/thumbs/800x531/254190.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
-  - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
-    excerpt: "But the test-taker wasn’t a member of Mensa or a medical savant; it was the artificial intelligence ChatGPT. The tool, which was created to answer user questions in a conversational manner, has generated so much buzz that doctors and scientists are ..."
-    publishedDateTime: 2023-02-02T18:21:00Z
-    webUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 43
-    images:
-      - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_d92745b782c9df1a3d86799eba4717de-300.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "AI ChatGPT – the next great hype cycle?"
     excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."

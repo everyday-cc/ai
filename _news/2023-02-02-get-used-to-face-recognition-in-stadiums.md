@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/get-used-to-face-recognition-in-stadiums
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/get-used-to-face-recognition-in-stadiums/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Doubters find their voice on recognition: ‘fix is destined to fail’"
-    excerpt: "A formal committee advancing the No case for a constitutionally enshrined Indigenous voice to parliament will be launched on Monday and warns the body would forever change the way Australia was governed while failing to improve results for Aboriginal and Torres Strait Islanders."
-    publishedDateTime: 2023-01-29T10:50:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/doubters-find-their-voice-on-recognition-fix-is-destined-to-fail/news-story/4267634303815d4ff24010a67d8b8607?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "Migrant leaders reject push for recognition in Constitution"
     excerpt: "A push by referendum opponents to recognise migrants to Australia in the Constitution has been described as offensive."
     publishedDateTime: 2023-01-30T21:55:00Z

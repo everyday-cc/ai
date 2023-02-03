@@ -67,6 +67,20 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 54
+  - title: "Humanoid robots to take centre stage at UN meet on AI"
+    excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said on Feb 1. The AI for Good Global Summit, first held in 2017, will return ..."
+    publishedDateTime: 2023-02-03T01:02:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/02/03/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/02/02/1926028.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "mJto6rmdiL/5/3NmK7bgI6EvvJTSz+eukutodu+Mucmv4tQRourvCLQnnUnmLE10hP5AdmXeAe867q1f1dGutoB7BVqeXwi0FdqhkJ6lESnIeMOocJvN38FQGtqe+YN6WHk1XiUx7Ezu4TKImCklJc9ac936uDJJDfsQnF4s/yvzrb4nSqeNpkBc6NAImutUD61J8CS0LG+kIMocrApp4QjVtxfczVDoQ9DrlU/WQRY//VGWb/kK2EGK5j3O0Js0BdwV8aqVXKolz3kvAGPHTl2JuAckyMiJbangK6YuKgi+1CfubSNzTxpMQE4do5YQZ/Z4no6pfJmtQhz86Xuc6rRdIjhoq41yEcZG1Q1JwXE=;8tvLZtinjEBnyJUQQGJeNQ=="
 ---

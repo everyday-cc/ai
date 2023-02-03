@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Chinese lidar maker Hesai to raise up to $171 million in US IPO"
-excerpt: "Laser-based lidar sensors help self-driving cars detect objects ahead and around the vehicle ... Its investors include Xiaomi Corp , Meituan, Bosch and Baidu Inc . Hesai's IPO is the first major offering by a Chinese firm since the country scrapped most ..."
-publishedDateTime: 2023-02-02T22:56:00Z
-originalUrl: "https://www.channelnewsasia.com/business/chinese-lidar-maker-hesai-raise-171-million-us-ipo-3250891"
-webUrl: "https://www.channelnewsasia.com/business/chinese-lidar-maker-hesai-raise-171-million-us-ipo-3250891"
+title: "Chinese lidar maker Hesai to raise up to $171 million in U.S. IPO"
+excerpt: "Laser-based lidar sensors help self-driving cars detect objects ahead and around the vehicle ... Its investors include Xiaomi, Meituan, Bosch and Baidu. Hesai's IPO is the first major offering by a Chinese firm since the country scrapped most of its ..."
+publishedDateTime: 2023-02-03T01:38:00Z
+originalUrl: "https://www.cnbc.com/2023/02/03/chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.html"
+webUrl: "https://www.cnbc.com/2023/02/03/chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.html"
+ampWebUrl: "https://www.cnbc.com/amp/2023/02/03/chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/03/chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.html"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-    width: 1200
-    height: 676
+  - url: "https://image.cnbcfm.com/api/v1/image/107188476-1675387186307-gettyimages-1242024723-AFP_32F26PH.jpeg?v=1675388157"
+    width: 6048
+    height: 4024
     isCached: true
 
 related:
@@ -40,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "p0fJsaisqfGxNhgwX/edltJTyMZv+pBUrA6YDrPFnW7fh7uI0apCGLS48DvUfUFDiUJGSmrFm4nK192WcfnfuOLYd9XFC8wnIFeec/TfJNJaz+5bZ+jmZfGwzMItmwXUiZQ59hKerqT1tu8BaXaJlSyGjR93sc9WSs0/UQWc2aci3UYVm2PZt2dGIOAJcbjo/q05qh1nq7xrNukxY/TO+bw7mjvJIMS3F7zuUjA0UI6M7S+X33u5n8RG1ciIQ22jgcxMa2VA+31KgulHEwf4HbBaa2/ZEaKj01WErzNLaskZ+q0+pgDfcIitD93rlYZbdijBMIhGWXMbnPBN26e3+v287mVynGqh+rtLQe0/TSA=;8yA36kWOSYPZQyrHl+YasQ=="
+secured: "5ZytD4nmc6WBMo0oP28kdSz+TCKkKBUo/83wCG3NGiuU83OOO5o1if81YHsCdaQe52I0Y7e6TMKlttMdi1i0QEf5l7TCS7xX0nfhzgzmTeXbN1WqMOr6rj3MPCOBYW/9g4L/TYzbmH/S2PRhQRYvwixz8XzxfANchyb4PEjwn4+vIucaKR/FTHZDgK9WKAGDx/ZU8Md2X3GQaYXRgFRerwJj3nxN75Gi0baqrD5pSKDToRrQRjX2FAUj48Q7lgDNGVaM70E9d4rbcw5ZOVoKASsQih7KYkvi4TRr4Ak+M238HF5i0spnHB5C4FG36P6F7jrrP/CVmFmczilkKOumGxW+O+gpt3WqqQPdftMM+kA=;2h0LZoweJ9NzvhQHapPJoA=="
 ---
 

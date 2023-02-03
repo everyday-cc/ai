@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Scottish Schools' Use of Facial Recognition Violated GDPR"
+    excerpt: "A Scottish school system decided not to use facial recognition in its secondary school cafeterias after international outcry. The U.K. Information Commissioner's"
+    publishedDateTime: 2023-02-01T23:59:00Z
+    webUrl: "https://www.govinfosecurity.com/scottish-schools-use-facial-recognition-violated-gdpr-a-21097"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/scottish-schools-use-facial-recognition-violated-gdpr-showcase_image-5-a-21097.jpg"
+        width: 860
+        height: 522
+        isCached: true
 
 secured: "JVPbjgyfdpFoj7ptQArRwCJ4qj0nBHlySJd6IRKvUEZ72OIb0lyQ2PFyDVumArL+Ga0JFdJs3YIbj+FGVAJzbN89a80wrAHXLArAgw+y2YqvDhCGajteeoOO+gXRZf9m6MqJr++XVcyJxXzQg1Q+VMVFwsXRCfPDqLRwnwhq2ZGlZAO7cl6UpUUknPEbNna7XE19zV97F7mLYMLSZoqa9kKtCe3rc+4Y/kCltgp6W2bPfSUay8qJB60xvmFiIaA+yQDS85Shj6A9ZpIMGlR56jOmupP6GkcUWcCy/aRojqR+WdceTeZM+mFnaXRmqHfX7OBsj6MxG6Lp0ng9WnQB57znHQpNCs04rJ847qaOoM0=;7CztHIE1m9zXeLXvlr+4ZA=="
 ---
