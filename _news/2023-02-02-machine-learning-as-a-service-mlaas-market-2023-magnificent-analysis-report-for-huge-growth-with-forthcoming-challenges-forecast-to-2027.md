@@ -141,6 +141,20 @@ related:
         width: 356
         height: 250
         isCached: true
+  - title: "Hybrid Voice Recognition System Market Size with Global Industry Analysis, Revenue, Future Growth, Business Prospects and Forecast 2023 to 2028"
+    excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
+    publishedDateTime: 2023-02-03T03:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-size-with-global-industry-analysis-revenue-future-growth-business-prospects-and-forecast-2023-to-2028-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
     excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
     publishedDateTime: 2023-01-31T00:00:00Z

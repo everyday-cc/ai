@@ -2,6 +2,151 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-01-15-no-black-boxes-keep-humans-involved-in-artificial-intelligence.md",
+      "title": "No Black Boxes: Keep Humans Involved In Artificial Intelligence",
+      "excerpt": "Human decision-making is critical in the loop of AI functioning. Without it, we’ll end up with biased, unhelpful technology that serves no one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/01/15/no-black-boxes-keep-humans-involved-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/01/15/no-black-boxes-keep-humans-involved-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c0866fb9ef9d46c4964a41/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/01/15/no-black-boxes-keep-humans-involved-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/01/15/no-black-boxes-keep-humans-involved-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-15T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-self-driving-cars-could-nearly-double-road-congestion-says-government-report.md",
+      "title": "Self-driving cars could nearly double road congestion, says Government report",
+      "excerpt": "Motorists could be stuck in congestion nearly twice as bad as current levels if self-driving cars become commonplace, a Government report warns. Department for Transport (DfT) traffic projections ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/self-driving-cars-could-nearly-090027319.html",
+      "originalUrl": "https://www.aol.com/self-driving-cars-could-nearly-090027319.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/U5ux9vpqR44sDsOBKyRCcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/888fc871e24364dc519de9f449493743",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-this-man-used-ai-to-write-and-illustrate-a-childrens-book-in-1-weekend-he-wasnt-prepared-for-the-backlash.md",
+      "title": "This man used AI to write and illustrate a children's book in 1 weekend. He wasn't prepared for the backlash.",
+      "excerpt": "ChatGPT and Midjourney helped Ammaar Reshi make what he thought was a fun gift for his friends' children. He was shocked by the response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c19fd901aaab001848b238?width=1200&format=jpeg",
+          "width": 565,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-midjourney-ai-write-illustrate-childrens-book-one-weekend-alice-2023-1?amp",
+      "publishedDateTime": "2023-01-15T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-15-machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing.md",
       "title": "Machine machinations: How tech remains both a divisive and unifying force can be disturbing",
       "excerpt": "The Equality Machine is a disturbing book. On the one hand, it tells you about the wonders that artificial intelligence and machine learning can ... supplying goods and services free of cost ...",
@@ -1071,164 +1216,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm.md",
-      "title": "Tech gets religion on AI: Inside the Vatican summit with Islamic and Jewish leaders, Microsoft and IBM",
-      "excerpt": "It’s unusual for tech executives and religious leaders to get together to discuss their shared interests and goals for the future of humanity and the planet. It’s even more extraordinary… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-gets-religion-on-ai-inside-the-vatican-summit-with-islamic-and-jewish-leaders-microsoft-and-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-pope.jpg",
-          "width": 1828,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects.md",
-      "title": "How Thomson Reuters built an AI platform using Amazon SageMaker to accelerate delivery of ML projects",
-      "excerpt": "This post is co-written by Ramdev Wudali and Kiran Mantripragada from Thomson Reuters. In 1992, Thomson Reuters (TR) released its first AI legal research service, WIN (Westlaw Is Natural), an innovation at the time, as most search engines only supported Boolean terms and connectors. Since then, TR has",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/thomson-reuters-sagemaker-ml-projects.jpg",
-          "width": 1562,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T09:26:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-federated-learning-on-aws-with-fedml-health-analytics-without-sharing-sensitive-data-part-1.md",
-      "title": "Federated Learning on AWS with FedML: Health analytics without sharing sensitive data – Part 1",
-      "excerpt": "This blog post is co-written with Chaoyang He and Salman Avestimehr from FedML. Analyzing real-world healthcare and life sciences (HCLS) data poses several practical challenges, such as distributed data silos, lack of sufficient data at any single site for rare events, regulatory guidelines that prohibit",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-federated-learning-on-aws-with-fedml-health-analytics-without-sharing-sensitive-data/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-federated-learning-on-aws-with-fedml-health-analytics-without-sharing-sensitive-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/fedml-on-aws-part-1.jpg",
-          "width": 1564,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T09:22:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

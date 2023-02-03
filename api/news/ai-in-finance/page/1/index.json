@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-03-quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.md",
+      "title": "Quad to leverage machine learning, related advanced technologies to enhance cyber security",
+      "excerpt": "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced ... methodology will encourage major software services, products, and providers leveraged by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
+      "originalUrl": "https://www.telegraphindia.com/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Feb/1675396517_1648877835_cybersecurity.jpg",
+          "width": 558,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
+      "publishedDateTime": "2023-02-02T20:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-artificial-intelligences-new-role-in-medicine-finance-and-other-industries-how-computer-learning-is-changing-every-corner-of-the-market.md",
       "title": "Artificial Intelligence's New Role In Medicine, Finance And Other Industries - How Computer Learning Is Changing Every Corner Of The Market",
       "excerpt": "Artificial intelligence is impacting medicine, finance and many other industries. Here’s what you need to know about AI and how it may affect your life.",
@@ -1336,49 +1381,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-divilo-selects-thetaray-ai-solution-to-monitor-global-payments-for-financial-crime.md",
-      "title": "Divilo Selects ThetaRay AI Solution to Monitor Global Payments for Financial Crime",
-      "excerpt": "Divilo, a Spain-based fintech providing B2B financial services, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced they will collaborate to protect Divilo’s growing services against money laundering,",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/payments/divilo-selects-thetaray-ai-solution-monitor-global-payments-financial-crime",
-      "originalUrl": "https://financialit.net/news/payments/divilo-selects-thetaray-ai-solution-monitor-global-payments-financial-crime",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/divilo.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

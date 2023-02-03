@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-30-otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing.md",
+      "title": "Otter.ai Is A Gem For Transcribing Your Recorded Thoughts Into Writing",
+      "excerpt": "Taking notes by keyboard, or even worse for some, by hand with a pen or pencil, is akin to the dark ages. Try this terrific app and service, Otter.ai, to transcribe your verbal thoughts to writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/",
+      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d7496e0aba9cf779a89c55/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1057,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/29/otterai-is-a-gem-for-transcribing-your-recorded-thoughts-into-writing/amp/",
+      "publishedDateTime": "2023-01-29T19:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028.md",
+      "title": "Global Healthcare Natural Language Processing (NLP) Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-no-campaigners-push-migrant-recognition.md",
       "title": "‘No’ campaigners push migrant recognition",
       "excerpt": "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised.",
@@ -289,10 +393,10 @@
     {
       "path": "_news/2023-01-29-ut-austin-will-offer-artificial-intelligence-graduate-program-online.md",
       "title": "UT Austin will offer artificial intelligence graduate program online",
-      "excerpt": "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ...",
+      "excerpt": "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,",
       "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
+      "webUrl": "https://www.beaumontenterprise.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
+      "originalUrl": "https://www.beaumontenterprise.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -311,11 +415,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-28T18:36:00-08:00",
+      "publishedDateTime": "2023-01-28T21:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
+        "name": "The Beaumont Enterprise",
+        "domain": "beaumontenterprise.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -325,7 +429,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1097,109 +1201,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-co-bill-that-suggests-using-artificial-intelligence-to-help-detect-wildfires-moves-forward-in-legislature.md",
-      "title": "CO bill that suggests using artificial intelligence to help detect wildfires moves forward in Legislature",
-      "excerpt": "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million wildfire prevention program, which may use artificial intelligence to identify fires early.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature",
-      "originalUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bde9982c-2a76-46f7-b0b5-c18e3df1c055/29e73dbf-bb1f-476b-a5bc-48b588c0eb99/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp",
-      "publishedDateTime": "2023-01-27T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-artificial-intelligence-out-buzzes-the-blockchain.md",
-      "title": "Artificial intelligence out-buzzes the blockchain",
-      "excerpt": "The blockchain is so last year. The newest craze to excite investors is artificial intelligence. BuzzFeed is case in point. Shares in the digital publisher more than doubled on Thursday after the Wall Street Journal reported that the company run by Jonah Peretti is going to use OpenAI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/artificial-intelligence-out-buzzes-blockchain-2023-01-27/",
-      "originalUrl": "https://www.reuters.com/breakingviews/artificial-intelligence-out-buzzes-blockchain-2023-01-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/DeYdHV7CD7lkZZ7mfk-skDgg4Fk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RDOIHOEZWJIDVB77W3JQZTWN6A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

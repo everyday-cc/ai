@@ -1,18 +1,22 @@
 ---
 category: news
-title: "Self-driving semis focus of California rules, legislation"
-excerpt: "SACRAMENTO, Calif. — As California regulators explore new rules to put self-driving semitrucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will ..."
-publishedDateTime: 2023-01-31T00:38:00Z
-originalUrl: "https://www.washingtonpost.com/business/self-driving-semis-focus-of-california-rules-legislation/2023/01/30/c9265324-a0fe-11ed-8b47-9863fda8e494_story.html"
-webUrl: "https://www.washingtonpost.com/business/self-driving-semis-focus-of-california-rules-legislation/2023/01/30/c9265324-a0fe-11ed-8b47-9863fda8e494_story.html"
+title: "Self-Driving Semis Focus of California Rules, Legislation"
+excerpt: "SACRAMENTO, Calif. (AP) — As California regulators explore new rules to put self-driving semitrucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say ..."
+publishedDateTime: 2023-01-31T00:40:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2023-01-30/self-driving-semis-focus-of-california-rules-legislation"
+webUrl: "https://www.usnews.com/news/business/articles/2023-01-30/self-driving-semis-focus-of-california-rules-legislation"
 type: article
-quality: 4
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -65,6 +69,6 @@ related:
       domain: sacbee.com
     quality: 0
 
-secured: "hG1YjVMfMp+eMKyP/B4cmCJ1zCX8W4I6kC+3pJShTXqSDjjhtFwoMxSH0cJ1TOXXAt991KFS5VfnhEef18LZEijyCw/1e5opMk/yh0KvOrNikfiQPAZ2KMgdKeGBejb+dYaKCL+akX502PffYXe/mZ6gcarYUAAfdh+peonXO/kC91SaNuMJT8Tv/wE5crzBNr/+5busqWMX1B8pGoNTk++3Gf83+V7ag+fRW6iLKxJvToTRrA+iYhftTYQHRknKhrFS3Ewxc7sxHqYNDMR1hxk9HLuTWt9pGra41Vr91vzpw2B9TpEp85R74kEoiwmi6KxxZk0FtpX7N0mJsdJtIo9nXzDSDhHdBVX/1/CgFTw=;1uD2XRc4dB1qdc6zB+HhAg=="
+secured: "9BLOifc1i6JuLBGWOHWIMsrZtVrkMbimlGep3kljL2/Sh8FndSSrI4n5CDEqgBZ1NSEYlFTf7++JafxpzKj2L92UDc24LYkVjAkeXRhGjIucE6VpNKCBMeDtgDAzsOmvoVquAsp64Tq7XBLZzhQaHoGF/3Pznsh6/P0kZKS3Vxnv+go2p2m9dh29morct9qTcwKqQG9qjt7UU9eL76XlgISxw5+TWZy54CuZ6QQ2gQqZ2GLSGpkDPgrjqT+sG0ksAm9WDp+ZZZtbaSCAYg+zW25Q4S59Xau8H7NJUfjfWQB/nQ4VLA6MmTGg1Id2YHHgDJO9kfNQLKds+7J4lp6rHgfXxqfAs22f0/ooKwtUIV4=;UxcRA/M6vU3mmHMd1+zjHA=="
 ---
 

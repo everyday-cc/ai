@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "The Voice referendum: how did we get here and where are we going? Here’s what we know"
+    excerpt: "We’ll be asked whether we support changing the Constitution to recognise Aboriginal and Torres Strait Islander people through the establishment of a representative Voice to inform government and parliamentary decisions."
+    publishedDateTime: 2023-02-03T03:27:00Z
+    webUrl: "https://theconversation.com/the-voice-referendum-how-did-we-get-here-and-where-are-we-going-heres-what-we-know-198299"
+    ampWebUrl: "https://theconversation.com/amp/the-voice-referendum-how-did-we-get-here-and-where-are-we-going-heres-what-we-know-198299"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-voice-referendum-how-did-we-get-here-and-where-are-we-going-heres-what-we-know-198299"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 37
+    images:
+      - url: "https://images.theconversation.com/files/508012/original/file-20230203-23916-3d58yn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
 
 secured: "K5IgUF3bqR2sXXOLasfrTV9rg8rZA35YaCMI8kRRQfaJAXJDhUe0NYTTV1LLduoLrQUpko2lrUK7BbqTsZ3UeKkQSjLBVOJPUaBkkHjcZE1qDIJUicIe5sw4sxkXJY60qQPKnbj0m/YnmXZvT5zw+odCZ56yRUZFTW0eJo2/nnAwa23bmJWsSbQa8twqD5AR3TIxMWPyw5+m1QCozrQNDd5sc8TwqWo8Nd9gLf8jUgImLVxSSsze2YFqcg4froQlNxlpetysMcuLNwW0cCLemElifuHXp6wvZV5yAu21szLBbMKswCEloErDcHthCNXfHw82zMjss2frAKiQwuKNcxZWlJgIg+PS6gYQtNWZIuPYsoX5+GQg2AOJbN3pKqCnwtU6TZnXP3m9lRooSR1Brnqo/cqOqxKl/aXjJ64wezmAqx1ygwb10zem5pXUIYMuGySfCu3kZemuMa1ocjXjep+oc1CZN9/BQPKv+vUfwPjcgj3YYDhnCqTjzwU6OSJs5vJSRnrw4rDln/FUVzsLmA==;qduevT7MUosPrxxQWcksCg=="
 ---

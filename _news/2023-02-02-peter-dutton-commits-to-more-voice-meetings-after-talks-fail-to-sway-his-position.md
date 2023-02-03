@@ -48,6 +48,22 @@ related:
       name: Perth Now
       domain: perthnow.com.au
     quality: 19
+  - title: "'Should be above politics': Liberal leaders Dominic Perrottet and Peter Dutton divided as National Cabinet signs on to support Voice to Parliament"
+    excerpt: "in recognition of our commitment for constitutional recognition of Aboriginal and Torres Strait Islander peoples as Australia's First Peoples, and also with a Voice to parliament being enshrined in our constitution, re-signed, recommitted and signed up to ..."
+    publishedDateTime: 2023-02-03T03:58:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 6
+    images:
+      - url: "https://content.api.news/v3/images/bin/9acbd6fbdf6a8ebb68523c16076912e6"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Fk4hzO+a9MbxipjgxQFBuOE/QXLEoj8UqQNQjBv4vSVKGNxfKjU2Ch0rdDpsutpTe3Ysg0Kg1Ot0bG1qa1qx7Gy50iIbs0hkjEQGubo/1SdyDatHGDpKpEmVXin554TUjSXT9xOMTtc2tnYAGrHCZDIjKqBvFFE/tcSuctYOOM/OvitK3VS9Se+MhiFz3zfLFR/uZ8zPssKTM7xTlNyaRygKYo8KXjaITr9q4qaQHJs84xI5OSmEGAalBeuF2+Qf46SZ7OfKBNQziX4A57SvyeRTjawVrQBuT0KSF+7CEgkUcuv7wQSYJhPBKvCu4Cj61NiBFIQlVWds1ZTrVa8N85gHPN5dh/7jLVRqAlnVP9I=;qRCV7ZG2GiQktHseKL8/7g=="
 ---

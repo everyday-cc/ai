@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "'Should be above politics': Liberal leaders Dominic Perrottet and Peter Dutton divided as National Cabinet signs on to support Voice to Parliament"
+    excerpt: "in recognition of our commitment for constitutional recognition of Aboriginal and Torres Strait Islander peoples as Australia's First Peoples, and also with a Voice to parliament being enshrined in our constitution, re-signed, recommitted and signed up to ..."
+    publishedDateTime: 2023-02-03T03:58:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 6
+    images:
+      - url: "https://content.api.news/v3/images/bin/9acbd6fbdf6a8ebb68523c16076912e6"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "J8at54cczPah3hKWNOUA6nBPHH2tS5J2QpHYHewrRR13hziYIIPHLabaYK55133F0qENl1ec7auxisfmQshohQW8SaTIR755et77OaBp9n0egG4NcqqaY6Z+VYk2gnNp2IcYh7+c/jRGuZ//8QEYUFnKYyGf7GK29gZEXL0eFeb5+NcaQwRJZ3QPiNhbgaq/wHXpAlXTq3QnsA3r3cOXwuWmvPqlCAlCiis5T4xaXihY6QpZ6nDpDAfxgEwVati0Sql1IQnb/HVSHehblqAg0mXJd9Shkd5Offb9B3QAeEsNmf6L5Y63v4MRsKUVRfMOrOHbCa/hiTzclk9BS2oQiUot0zHE6j25NncRTX9hsLRhvUB0OioVquI01T+W3Gk0H6sdctyB/OCWt23WA32VB9qRHCSzKTRlTdbLNX6cqorLr/sWS6poCrhc/ZWdiHyTK7aSVFaEdhsbDMHy4b1HykR7wf/IKeLDtpLSFVxVQwQ/hxS+CHBDTRLpxPhXRsPE3koYU3irKcGER876NRQg7A==;owQwpJTkxdzQK6T0ygwOcw=="
 ---

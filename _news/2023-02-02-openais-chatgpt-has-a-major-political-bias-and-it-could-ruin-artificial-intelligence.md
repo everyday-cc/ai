@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
-    excerpt: "Artificial intelligence programs have been around for a while ... but it also assesses clinical reasoning, ethics, critical thinking and problem-solving skills. The study team used 305 publicly available test questions from the June 2022 sample exam."
-    publishedDateTime: 2023-02-02T18:27:00Z
-    webUrl: "https://www.cnn.com/2023/02/02/health/artificial-intelligence-medicine/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 93
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230201145445-02-chatgpt-phone-stock-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot Search, OpenAI Charges $20"
     excerpt: "The race is on to see who gets to market first with next-generation chatbot search as a flood of rivals target March. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
     publishedDateTime: 2023-02-01T22:19:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
-    excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
-    publishedDateTime: 2023-01-29T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d1b102cf214ea638922d82/0x0.jpg?format=jpg&crop=1391,783,x0,y29,safe&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Baidu to launch AI Chatbot, Rivaling OpenAI’s ChatGPT"
     excerpt: "Baidu to launch AI chatbot similar to OpenAI's ChatGPT in March. Standalone app and search engine integration."
@@ -648,6 +616,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
+  - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
+    excerpt: "ChatGPT, or Chat Generative Pre-trained Transformer, is a natural language-processing tool driven by artificial intelligence. The technology, created by San Francisco-based OpenAI and launched in November, is not like a well-spoken search engine."
+    publishedDateTime: 2023-02-02T18:21:00Z
+    webUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 43
+    images:
+      - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_d92745b782c9df1a3d86799eba4717de-300.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AI ChatGPT – the next great hype cycle?"
     excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."
     publishedDateTime: 2023-01-30T00:51:00Z
@@ -1081,6 +1063,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "je6xLWca1TRipbTEzH3c5kWyD3rDNGGTePI4oul45RG+WBV9FjSGif4m4aERoGUQJgqjdGcfO0ceg9rLqbq0M0hGl9J3q2QGWTzxK3qs7oS935CyuKwZNpIuUGspPuTJWXuD8EpEsa4UvmbXJQe2z2qu42KJP5VXiyM7MpSrC8okn26QWVBJvOr07J4NmOliluvpkiAWkXVhCdGi7ogoG2VYxdGAoM/p6AQrk+suuPfiqMySmLQzGcDq2yVg9vW7hzC+iwTITz3wapuRMpDKMQyfe8ON6oYecx0gvvo1BzGcxXGjvOCIOqVEpXEiVnxEmkE+z6EQZ1ZuIwOPEHdmr+k5T6HrzO6jPQWPTnV+FcA=;ffPsgWYtzoZONrsyCJUS6A=="
+secured: "ccZNWy1m0l2NIx4cUmuw2n9T2Jvk7iJ8qpik6Wyn0fJl0LyST7eOlInBWdE/cq9rDhedN5EACbxYopdFxviTGGZC7d2j4xF94BXhKtCq/Hmzj04+uX3giOLVw6qF14NFmB11wrWlBxKNW33hccR95H6P/eBze7jTR90mnx8HwrHJU+tu3O30e8L4fkvu1kiPQlx6x4Zg+D5otCBblabWREROgH31Q1MFnrIa5RFUtpgqO9AWp0yPmEwQ4pdE4vLZJECevak6ZTrD+KQAtvLcX3Ym9lF7o/2Q5V4kQ0ez/1xhSVXofXA/QIqg7VlKcumvN5eJjGLI8PqCgnWERGvTpW+iWHzsx2BIoT1ZikZ3La4zZqzgdSrxHgK31q7YSj6Ch9uLUTJ/BZQjUWSIh7AJK7Da8qShGGnvcSbXpB3Kr3eKw5bA9c2t1vUfun+0NK7RnbK3qnltatAN2VltGMINQHN90m7C1hmfVHGO3vC7f8CxrU/o4WIIPFKQs55OcJol6W/yR6Ag6j0dHN9si0r4Xw==;Rq27XwjZluXsvEINyCrBdw=="
 ---
 

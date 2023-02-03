@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-02-ai-company-co-founder-addresses-ethics-of-tom-cruise-deepfake-videos.md",
+      "title": "AI Company Co-Founder Addresses Ethics of Tom Cruise 'Deepfake' Videos",
+      "excerpt": "It started as an art project, then the Tom Cruise 'deepfake' videos went viral on TikTok. Now a co-founder of an artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/currencies/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos-1032060499",
+      "originalUrl": "https://markets.businessinsider.com/news/currencies/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos-1032060499",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/oko5AqArqAk7G2MGm1chPvIJZME=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PEPA47DVHRH6FDIZ2OELRYFTWM.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-netflix-stirs-fears-by-using-ai-assisted-background-art-in-short-anime-film.md",
+      "title": "Netflix stirs fears by using AI-assisted background art in short anime film",
+      "excerpt": "In the announcement tweet, Netflix cited an industry labor shortage as the reason for using the image synthesis technology: As an experimental effort to help the anime industry, w",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/dog_and_boy_hero_1-800x448.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/amp/",
+      "publishedDateTime": "2023-02-01T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation.md",
       "title": "How to decide between Amazon Rekognition image and video API for video moderation",
       "excerpt": "Almost 80% of today’s web content is user-generated, creating a deluge of content that organizations struggle to analyze with human-only processes. The availability of consumer information helps them make decisions, from buying a new pair of jeans to securing home loans. In a recent survey, 79% of consumers",
@@ -1061,7 +1164,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 903,
+      "heat": 893,
       "tags": null,
       "images": [
         {
@@ -1154,102 +1257,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-cloud-and-ai-combined-revolutionizing-tech.md",
-      "title": "Cloud and AI Combined: Revolutionizing Tech",
-      "excerpt": "Cloud and AI, both powerful on their own, are merging into a single entity that is radically reshaping business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/cloud-and-ai/",
-      "originalUrl": "https://www.eweek.com/cloud/cloud-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/01/cloud-and-ai.jpg",
-          "width": 1400,
-          "height": 1138,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-aws-cto-vogels-slams-chatgpt-on-cloud-security.md",
-      "title": "AWS CTO Vogels slams ChatGPT on cloud security",
-      "excerpt": "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
-      "originalUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/chatgpt.jpg",
-          "width": 1108,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

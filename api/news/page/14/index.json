@@ -2,6 +2,151 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-01-20-scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets.md",
+      "title": "Scenario lands $6M for its AI platform that generates game art assets",
+      "excerpt": "Scenario, a startup developing a platform for creating game assets with AI, has raised $6 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/",
+      "originalUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/Little-Robots-collage-1-e1673991425721.jpeg?resize=1200,660",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/",
+      "publishedDateTime": "2023-01-19T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-alethea-ai-debuts-generative-ai-on-polygon-blockchain.md",
+      "title": "Alethea AI debuts generative AI on Polygon blockchain",
+      "excerpt": "Alethea AI has teamed up with blockchain company Polygon to bring the power of generative AI to AI character NFTs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/",
+      "originalUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/alethea-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/",
+      "publishedDateTime": "2023-01-19T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-hc3-warns-healthcare-of-ais-use-in-malware-development.md",
+      "title": "HC3 Warns Healthcare of AI’s Use in Malware Development",
+      "excerpt": "In its latest brief, HC3 details how artificial intelligence (AI) can be used by threat actors to aid in malware development, forming a serious threat to healthcare cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "originalUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitsecurity.com/images/sized/datasecurityGettyImages-1319188207-39a26234983c4eca9381530cb872a66d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "publishedDateTime": "2023-01-19T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-fluentai-announces-collaboration-to-offer-embedded-voice-recognition-for-cadence-tensilica-hifi-5-dsp-based-true-wireless-stereo-products.md",
       "title": "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products",
       "excerpt": "Fluent.ai provides offline, noise robust speech recognition that can support any language or accent. The latest software solution allows users to trigger more than 30 TWS actions through 101 natural and flexible voice commands,",
@@ -1022,144 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-the-schools-we-need-for-the-new-cognitive-economy.md",
-      "title": "The Schools We Need for the New 'Cognitive Economy'",
-      "excerpt": "This rapidly changing environment might be called a “cognitive economy.” It requires workers who are not only literate but numerate. That means effective training in math and science and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/60/600019_5_.jpeg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html",
-      "publishedDateTime": "2023-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-translated-named-a-leader-in-idc-marketscape-for-machine-translation.md",
-      "title": "Translated Named a Leader in IDC MarketScape for Machine Translation",
-      "excerpt": "Press Release Translated, the global enterprise that pioneered AI-assisted localization services, has been recognized as a Leader in the MarketScape \"Worldwide Machine Translation Software 2022 Vendor Assessment\" (Doc #US48325622,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/",
-      "originalUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/amp/",
-      "publishedDateTime": "2023-01-18T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-adobe-says-no-its-not-using-your-images-to-train-ai-art-generators.md",
-      "title": "Adobe says no, it’s not using your images to train AI art generators",
-      "excerpt": "Illustration by Alex Castro / The Verge Adobe’s chief product officer, Scott Belsky, has responded to concerns regarding the company’s policies on artificial intelligence, claiming that Adobe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/1/18/23560801/adobe-ai-art-generator-scott-belsky",
-      "originalUrl": "https://www.theverge.com/2023/1/18/23560801/adobe-ai-art-generator-scott-belsky",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/IQ9lZfS-AEiVpW3_a_ao75HbUBc=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23624357/acastro_STK124_03.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

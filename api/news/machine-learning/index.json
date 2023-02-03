@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-03-quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.md",
+      "title": "Quad to leverage machine learning, related advanced technologies to enhance cyber security",
+      "excerpt": "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced ... methodology will encourage major software services, products, and providers leveraged by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
+      "originalUrl": "https://www.telegraphindia.com/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Feb/1675396517_1648877835_cybersecurity.jpg",
+          "width": 558,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976",
+      "publishedDateTime": "2023-02-02T20:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-microsoft-integrates-openais-gpt-35-model-into-its-viva-sales-application.md",
       "title": "Microsoft integrates OpenAI’s GPT-3.5 model into its Viva Sales application",
       "excerpt": "Microsoft Corp. today introduced new artificial intelligence features for Sales Viva ... Additionally, the company intends to integrate OpenAI-developed neural networks into its enterprise and consumer products. Microsoft has already incorporated OpenAI ...",
@@ -1400,49 +1445,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-machine-learning-or-automation-whats-the-difference.md",
-      "title": "Machine Learning or Automation: What’s the Difference?",
-      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

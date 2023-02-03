@@ -46,6 +46,22 @@ related:
         width: 640
         height: 262
         isCached: true
+  - title: "The Voice referendum: how did we get here and where are we going? Here’s what we know"
+    excerpt: "We’ll be asked whether we support changing the Constitution to recognise Aboriginal and Torres Strait Islander people through the establishment of a representative Voice to inform government and parliamentary decisions."
+    publishedDateTime: 2023-02-03T03:27:00Z
+    webUrl: "https://theconversation.com/the-voice-referendum-how-did-we-get-here-and-where-are-we-going-heres-what-we-know-198299"
+    ampWebUrl: "https://theconversation.com/amp/the-voice-referendum-how-did-we-get-here-and-where-are-we-going-heres-what-we-know-198299"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-voice-referendum-how-did-we-get-here-and-where-are-we-going-heres-what-we-know-198299"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 37
+    images:
+      - url: "https://images.theconversation.com/files/508012/original/file-20230203-23916-3d58yn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "7 AI blunders that show the revolution isn’t here quite yet"
     excerpt: "Below, we’ve rounded up seven of these AI blunders from the past few months to show that the tech still has quite a few kinks to iron out. CNET has been facing criticism since news came out that the tech outlet was publishing AI-generated articles under the byline “ CNET Money Staff ."
     publishedDateTime: 2023-02-01T04:00:00Z

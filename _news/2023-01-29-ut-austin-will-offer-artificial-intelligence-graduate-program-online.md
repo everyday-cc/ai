@@ -1,18 +1,18 @@
 ---
 category: news
 title: "UT Austin will offer artificial intelligence graduate program online"
-excerpt: "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ..."
-publishedDateTime: 2023-01-29T02:36:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
-webUrl: "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+excerpt: "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,"
+publishedDateTime: 2023-01-29T05:24:00Z
+originalUrl: "https://www.beaumontenterprise.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
+webUrl: "https://www.beaumontenterprise.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: The Beaumont Enterprise
+  domain: beaumontenterprise.com
 
 topics:
-  - Computer Vision
+  - AI in Healthcare
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1152
     isCached: true
 
-secured: "4yU/tJLCiHoqWuDY6U8Xe3ObNBjwl/1jRLlnvL/SARNcl2hpd92q75IpGFZBxHzLy39FConTZPTt5/gZ4CMUjYcprjOqsMVRT2vYP5y+5eTlxPBVGp3K84vZRAuGw5pjYS4kTWLCdyRT1n6qOZ2xlHl736S/lrS+CAVdUrjXXPqvji/ldPQh+uJku6LLO/Qto5CqGslEYwLhw+ERwnrLQacPHEh3LoxXGu3EMnwdCTEgPiVsDZFDUkLl6gn+7C/i7qlbHWYm+Oo4Ju1cG00PKkkWWx17Wawn8ugJX3n3FXG9fO449g6vqNLctPyOTUCoiG3wwBi18NSCnEIBoOFu3NOa+jQWODoYGDydvDbXLPWDRDR8pz5zHEDpF/1tLo3CmjqvY2eYJghlibQKP4vJ5XBB60RaPVGGhL48UVUnZCEOL1XkF7y9DL8PN6F1YpnrF/H8LUi3opebpc4kMW6v4CSRRDctLP03CrfN8EckRJZgQHAW79OYXDvi18yqGU7i3XU3nAmAeYpsjt5d0Fhj7A==;3Ha6hdJMy8gKXWXknSTYwA=="
+secured: "6cRm/JlCgowTyOKj69zbaXkpdPrZgPRvO1Lkta1o1N8JI+c7hePYR6e3TRlg8AmbjbP5qck85ue57UxC5JxMbWhywd+oGH3nX+dz5u83IXjql0arV8dw6E217aNGe0w5W2W8TLRIg1+J/401t7jZLiQ6YymMXP0DWPK53fq7FKMMZ5E0BvJND/Nk0qvUp1ylbO+BdaP3Pd7+9mwqOn8Z1mbGYec/F0eo0t0fMmw9zP4zoqi1x+/AqirOrWoxEG45vvpBu+BI3LXDqyk5JfOaH4CXpEOvbycyXhXlpNvb03atZoAcO+GXk3KrhjkjsJTkyXBnfcyRk0cMOjbhghocPsc9+BFJkCy8j+YVmeazKDg=;3ZvH6XtO4vM1G0yFZmropg=="
 ---
 

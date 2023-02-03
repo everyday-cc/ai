@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
-excerpt: "Artificial intelligence programs have been around for a while ... but it also assesses clinical reasoning, ethics, critical thinking and problem-solving skills. The study team used 305 publicly available test questions from the June 2022 sample exam."
-publishedDateTime: 2023-02-02T18:27:00Z
-originalUrl: "https://www.cnn.com/2023/02/02/health/artificial-intelligence-medicine/index.html"
-webUrl: "https://www.cnn.com/2023/02/02/health/artificial-intelligence-medicine/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
+excerpt: "ChatGPT, or Chat Generative Pre-trained Transformer, is a natural language-processing tool driven by artificial intelligence. The technology, created by San Francisco-based OpenAI and launched in November, is not like a well-spoken search engine."
+publishedDateTime: 2023-02-02T18:21:00Z
+originalUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
+webUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
 type: article
-quality: 93
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
-  - AI Ethics
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/230201145445-02-chatgpt-phone-stock-super-tease.jpeg"
-    width: 1100
-    height: 619
+  - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_d92745b782c9df1a3d86799eba4717de-300.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
 related:
@@ -78,22 +72,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Some Insist That Generative AI ChatGPT Is A Mirror Into The Soul Of Humanity, Vexing AI Ethics And AI Law"
-    excerpt: "Does generative AI ChatGPT represent a mirror into the soul of humanity? That's a tall order. We take a close look at this contention. Watch out for cracked mirrors."
-    publishedDateTime: 2023-01-29T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/29/some-insist-that-generative-ai-chatgpt-is-a-mirror-into-the-soul-of-humanity-vexing-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d1b102cf214ea638922d82/0x0.jpg?format=jpg&crop=1391,783,x0,y29,safe&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Baidu to launch AI Chatbot, Rivaling OpenAI’s ChatGPT"
     excerpt: "Baidu to launch AI chatbot similar to OpenAI's ChatGPT in March. Standalone app and search engine integration."
@@ -1085,6 +1063,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "EZE25x0fp2p/yIBtM/qkkbHLwCsDx2jFIbtttPRBFIo9YZL3iAQhxUn0KiQzoJ0VdXEqJodSjhjqBD0DKHHr5QQsan4mLYt3Tg+wOK/gRqb/1ZDJ+8ZiNy+0z28CiIxtXOc6595n9mKkGQ8cVn9pgfn+IsZytk7D4xT5Wqx4cCU5v10P5O73ffRoutOQ0dB0krC/AJdDgo5+sFgTTZCnicy4mPNfpYIT8uewmUouYL5+vFbTX2MNc0V4OZn+WJ+vQEKngMl04S6acHUusIbVBljk6dNc71gZ5ITSo1J96lkrM2pgMNbsqXEzU3iL8biLu95KqH/ChaIfh1bTUS3y3zXDRuXjytp84PrNgjnjPcY=;4bVXYYuBsNsH4P/MkMmE5w=="
+secured: "RAISChgIrJtP8cSSuuCih7rBXOENyUHrqdZpRrlUQKfHI5Rvi9OZPjW6hsyPtzh3dQlGNydDkB65EeszYmcO49YSF7ZzbqhDe0a7FFDR7/dfZLMojQ6kz1C3BuFxO0iYoQtBrwfuF1+8YXYM+1p/iFApFjIm5Hn0OzPLHMrXCSaCsoTO84G4PE4o0o7ZHRCR5fAAjmN+G/RVLoZlGKzaQxN3UYteFbHVaQz97Wh+ehNoJW2CZLYA2vT90LiNglbqsjEAcr1khNDFtbjb+M+2qc+xXHqm47KVhSWRYIgLI6/pP9H6yZZKY3msh/LQXfkEViFmrarAuNOOF5/Vt11XXjfg/Pmg98wTR6h3bEscnWE=;Y5zGTJ0mPMjPy/U4xut06w=="
 ---
 

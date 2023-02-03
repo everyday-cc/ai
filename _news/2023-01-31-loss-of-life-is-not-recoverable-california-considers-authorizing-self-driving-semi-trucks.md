@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-Driving Semis Focus of California Rules, Legislation"
+    excerpt: "SACRAMENTO, Calif. (AP) — As California regulators explore new rules to put self-driving semitrucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say ..."
+    publishedDateTime: 2023-01-31T00:40:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2023-01-30/self-driving-semis-focus-of-california-rules-legislation"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Self-driving semis focus of California rules, legislation"
     excerpt: "California already has rules governing self-driving cars and delivery trucks that weigh less than 10,001 pounds (4,536 kilograms). Now, the California Department of Motor Vehicles is gathering information for potential new rules that would let self-driving semitrucks on the road that can weigh up to 80,"
     publishedDateTime: 2023-02-01T13:22:00Z
@@ -46,15 +55,6 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 24
-  - title: "Self-driving semis focus of California rules, legislation"
-    excerpt: "SACRAMENTO, Calif. — As California regulators explore new rules to put self-driving semitrucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will ..."
-    publishedDateTime: 2023-01-31T00:38:00Z
-    webUrl: "https://www.washingtonpost.com/business/self-driving-semis-focus-of-california-rules-legislation/2023/01/30/c9265324-a0fe-11ed-8b47-9863fda8e494_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 4
   - title: "Self-driving semis focus of California rules, legislation"
     excerpt: "California already has rules governing self-driving cars and delivery trucks that weigh less than 10,001 pounds (4,536 kilograms). Now, the California Department of Motor Vehicles is gathering information for potential new rules that would let self-driving semitrucks on the road that can weigh up to 80,"
     publishedDateTime: 2023-02-01T17:26:00Z

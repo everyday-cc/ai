@@ -48,6 +48,22 @@ related:
       name: Perth Now
       domain: perthnow.com.au
     quality: 19
+  - title: "'Should be above politics': Liberal leaders Dominic Perrottet and Peter Dutton divided as National Cabinet signs on to support Voice to Parliament"
+    excerpt: "in recognition of our commitment for constitutional recognition of Aboriginal and Torres Strait Islander peoples as Australia's First Peoples, and also with a Voice to parliament being enshrined in our constitution, re-signed, recommitted and signed up to ..."
+    publishedDateTime: 2023-02-03T03:58:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/should-be-above-politics-liberal-leaders-dominic-perrottet-and-peter-dutton-divided-as-national-cabinet-signs-on-to-support-voice-to-parliament/news-story/3444e29648494577fb2aeb77066080a0?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 6
+    images:
+      - url: "https://content.api.news/v3/images/bin/9acbd6fbdf6a8ebb68523c16076912e6"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fMzCflV/vGCbgHIf82EKmaZj8kLhrGKQ/HYnSriX1tjS/uIam1Vg9pYNhmq2XWbqNAtj1llSfQv/oatnrthxDzGODUf8hfnwKHDhqHIQIBNYkNHWoRxDJR2BNqaSvRXpqoOjJ5SnQ0FId5HMkOlGjMNSjT9fycSyuYL12UyarVGOsmL4V6FQH/I9ZklVBJvOQrTpt4l5pv/ixtzYdCfM2XeBxqn2FqC5rgtXeplmAdaw+V2+5M1n+ajPTbnMbz98PFuKyAATEirfjTuuXB7sq/rGG/qsu6b8JF5ztP4xNrXEMJNzNydbA9p1zg5FkRT0QwXWSfgEm5Sz0LT/lCx4uNZpaOr5P2o2kUTezghy6Gk=;duydSgQaYnjxbfD2caWckw=="
 ---
