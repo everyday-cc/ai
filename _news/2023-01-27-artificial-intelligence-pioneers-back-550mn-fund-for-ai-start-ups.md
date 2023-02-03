@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 related:
   - title: "Radical Ventures $550m fund for AI start-ups backed by market pioneers"
@@ -48,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "UpV5cjgvs13jsChbgpLrqdeSOjDUi4zkLbZ7WrNJxm55R1KXufl29ACLNnZLH5NhUfyFnArQP/J6i+0qvcmupvL/gMCMHwUr9YyCczPh3zxUX+R7Oayb13V4y/it7eDlz08iXhjNLtt3KSHYTrqyGQ1bkJEmyUk/USg4kbNwDyM+mwHna7acOtOPAYBwLE5Vcfxk3zav+roxSolw3fSZduPdIkcg5VHs6XSlg7bjSvHZtrgEJq5pzZ3n+ZtqpsDG2BmvLiYoivctPtJOA1sZM0i7mE9TIaHp+f+dhhsBTD0K5GBnvzfMJGmCiOKMn8hTuZKgnp7EN+wyhXDyeyvdoLct66O316uguyoFHfX9i4E=;Xanxu4T9FXgMHrNm8gU1ZA=="
+secured: "lYconU4x1Wi8MBXcWtS0WYF2ZqkikN/ih8S3QWA/X/mGD5xiwyDuvBBXl+5iftj0+z8a4FtE17i6e79Snagvic2qvoAtr+FqsgCih5xQJb1/2jxpta+YkiIU2YMz+o3JYc2MRgiQJ6ZL7t1/IydNrgeEHRPLWWWyYWRY0NO0HJmkVRjylRhKyPG774SgSi60e66Iwj26Y/3WXq+0B/9xZn2lryvncf7unQZxUdsnRZlsOL11I+5L7yi47Dd+LFjW+GW++rzGyLm4vrfNlUN+B3sJtijAbIGZZurMnLdqkdZbb1O0EO9OgY6HP4Ax3XYGBPwu4br4LYwbvE5YIU1V8ke4ZAK9qAZoZg08iVL0PRYbmv15VF/ViSJX79jSmmJb8LCYvUURlOqltFpqrNkk+PuupReAYLEO6KnywqF40MQFtI+mA4t1t1b11tAqZDgwJACXLq1GyW/4gMvRqqi/FDhd4BFXbJKbXglwUaZcRHK+SHVKDBXnwerh7y2u8SNJZ8sG89GBUz4PdJZiqqqx6A==;MPZAUBPo2H8U8GTYQ/IQeg=="
 ---
 
