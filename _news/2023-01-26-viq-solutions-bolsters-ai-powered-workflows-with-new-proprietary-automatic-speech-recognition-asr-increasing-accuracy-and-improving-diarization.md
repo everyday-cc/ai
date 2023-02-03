@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "Lp4I3o/GQp5pSRWQhBkT9rnuCMHDvr1PFhCop5ANN6kAAt8sZm1azj7ByGyinI6yzutS7LigZqbQHprLfzTN3xVQo9K6+pTTb9ocxqBbqc5Xcn2T68Rt2xq9W5kNc6OiGDxZUrYu69gQaJEN6I8BmiBRnndi+Ba2cH+HzBa703DnylsAyXHEdGKSDVyJurc2Hj21k0rF6YwI/UNzS83ADW+e/qT/6WHI7LGezRK9rNkKwp0sJnPB/acRlOWs6/QUuGb9QRacx6Uj6W2vQLXnPO7DkpYrfvpbQja1SxRhImI7NT5O27nEhRmoE7QhDoJTnAZtrnV0c8fRl4PsIOplNigRVhVt1Zndw0j6aXdVbME=;Axotr/u3hgzIlTee1NnOHw=="
+secured: "8IP7Ye75F1VRlOdNdadPZ+uZ6UYG/zyl9JQeMf0wGOvZziO5EdWFgBP0UzAuJN7iySmAxMVtxmgxh3JjhYFiCVPWvAZa5MG8r0dd3YrKrLjzR5I4AWNBdENBd7G9+8dLuo79bB/fqLbHZFQTzS7gExGHDGN8gpBkS+SboqBc7d91IrLtk+4E1I2YntTIV+9tbhbaEHMcivjX/K03t1xhhaoGpzx7h+iQoihfMGZ+n1l513N1xhWDLCzLrw2+Y9qDFbgKwX2gePOxxM7jRm74BrA0I0+95Go2hlBAP+ypsD/X18LETbEqEq6s4bDCaCNC9qmWEYRbuh03t5RMbfXELYI5voixOIF9ybQIMvSE2aU=;rzzmJnW0398dEKnD7tRf8A=="
 ---
 
