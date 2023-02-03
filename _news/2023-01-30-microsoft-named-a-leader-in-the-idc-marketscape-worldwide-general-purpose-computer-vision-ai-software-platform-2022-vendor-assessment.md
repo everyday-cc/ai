@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-i
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Microsoft to develop AI-based healthcare services"
-    excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
-    publishedDateTime: 2023-02-01T15:23:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-to-develop-ai-based-healthcare-services.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
   - title: "Global Automotive Artificial Intelligence Market Report To 2030 - Players Include Alphabet, General Motors, Intel, Microsoft And Tesla"
     excerpt: "At an estimated value of over 2.57 billion USD in 2021, the global Automotive Artificial Intelligence (AI) Market is predicted to thrive at a CAGR of 29.2% and valued at over USD 34.30 billion over the forecast year 2022-2030."
     publishedDateTime: 2023-02-02T04:37:00Z
@@ -81,15 +72,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
-    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
-    publishedDateTime: 2023-01-31T12:50:00Z
-    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 36
 
 secured: "doT4g3Ayvz+wZ+rHc8BBLru6EnvytaKUGkpzUCcNX1ZFDuAEpMTdfA7S4GQKWHLHlhqTV44pWXUsQR9u7f1xDzc+KjWE0R/gad0K8wUm4KTe+qyQ95Bch5BEqP+FBKNlMxInjJxKTqGwsF6gTEpYdupVXPNYI1hUYQus4yszkN6rxopK7N0UHMIRNSLJAWp/1SqzJwZlOYhtmMvtNqP/9TdCha4u7yQ+OMND6PzpZ3HQjbrUfvp/AZNkL1LmE6n/mnBAko2Avg+20mKYJp+IajCwAVcJLJQr+FjKthIcjxirHyQupYEG+qId3W6jiS75W1swIT3qLPZBRHrxSvX+OaeZS7p3yhZoaICwy6HUM9Q=;SlNoXB/Xn8k506z0FJE5uw=="
 ---

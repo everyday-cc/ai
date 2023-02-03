@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/02/netflix-taps-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03T2h4pGHIgF1DGEv0pQZKY-1.fit_lim.size_1200x630.v1675283309.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Netflix has found an exciting new way to piss everyone off with AI art"
+    excerpt: "Netflix released a new anime short that uses AI-generated art for its backgrounds, and it has started a firestorm online."
+    publishedDateTime: 2023-02-02T22:17:00Z
+    webUrl: "https://bgr.com/entertainment/netflix-has-found-an-exciting-new-way-to-piss-everyone-off/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/The-Dog-and-The-Boy.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "qd1moB9UyVZMOwpg2Xqg5lhaR10fILxUiVw1C938M2ZR1JSP5nSaMqv9luyuwWI6Qi7S0NABl9TGW7tgnCh5daSNpxj/XapXR6M9BBV2CjK3TcI7FwV//ViZf0fBDLoRZpCyMZS8tWNpgrZhL3UNbNTaAnWMO6XPs/V54zbcAv/x8ArHFLJc/e0+H4PyjlaU7IUwAK6MoHWx8swoQdSXK57X7kmBgIcOrjx22oQTLwAwhyXZfCzeoJn3+TlvzSyec7juZvST2IoZi2nDEooXF3KP7pAtKTMZGDSPupT71r79eTTd5XRqGL7Xmlxl8fGc7DixdVQLXgkgR4wyxqU0RL1zPSc0UVuE55djtWSccgt5wpUAC5e13Fk/xrueNKB4LNPH88kKfu4g2emgi844RWpydrHdizL7oU5dARLtde4oLaqAGt2bf1Vmkz0s9GRFnmVFfMPEiaQtmaynFQx/wBth+80BLRrC3Srl75WEHrd3SRUVy8UV6DqgdOgrb+W76/Nt/L4QK/mj1r9pd0U4VA==;9shLd47yzagjNuMzlwPSsg=="

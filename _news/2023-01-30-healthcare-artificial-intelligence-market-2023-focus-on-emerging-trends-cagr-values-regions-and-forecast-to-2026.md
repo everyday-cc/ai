@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Accelerator Chip Market 2023 : Research Report, Industry Growth, Competitors Analysis and Forecast 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI Accelerator Chip"
-    publishedDateTime: 2023-01-30T18:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-research-report-industry-growth-competitors-analysis-and-forecast-2028-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Security Market 2023: Top Manufacturers, Key Trends, Progression Status and Business Trends and forecast to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) in Security Market” report provides an in-depth analysis of the size of the global market. It also ..."
     publishedDateTime: 2023-02-02T15:50:00Z
@@ -116,20 +102,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-  - title: "Global Dynamic Face Recognition Systems Market 2023 Research Report including Drivers, Emerging Trends, CAGR Values, Regions and Forecast to 2028"
-    excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Dynamic Face Recognition"
-    publishedDateTime: 2023-01-30T08:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-dynamic-face-recognition-systems-market-2023-research-report-including-drivers-emerging-trends-cagr-values-regions-and-forecast-to-2028-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Self-Driving Truck Technology Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028"
     excerpt: "Jan 29, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Self-Driving Truck Technology industry. In 2023, Self-Driving Truck Technology Market Size [2023 to 2028] Research ..."
     publishedDateTime: 2023-01-30T03:11:00Z
@@ -158,15 +130,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Camera Market by Type, by Technology, by End User: Global Opportunity Analysis and Industry Forecast, 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Deep Learning Camera Market” report provides an in-depth analysis of the size of the global market. It also discusses market size ..."
-    publishedDateTime: 2023-02-02T14:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-by-type-by-technology-by-end-user-global-opportunity-analysis-and-industry-forecast-2023-2028-2023-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
   - title: "Synthetic Data Software Market Share 2023 Research by Growth Developments, Emerging Demand, Future Trends and Business Statistics Forecast to 2028"
     excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Synthetic Data Software"
     publishedDateTime: 2023-01-30T17:29:00Z

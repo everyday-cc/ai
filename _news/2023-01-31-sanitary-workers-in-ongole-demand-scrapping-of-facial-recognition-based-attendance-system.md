@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition-based attendance spells trouble for sanitation workers in Andhra Pradesh"
-    excerpt: "A majority of them, who are illiterate and do not own smartphones, are facing a lot of inconvenience in registering their attendance daily"
-    publishedDateTime: 2023-01-29T15:49:00Z
-    webUrl: "https://www.thehindu.com/news/national/andhra-pradesh/facial-recognition-based-attendance-spells-trouble-for-sanitation-workers-in-andhra-pradesh/article66446910.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/andhra-pradesh/facial-recognition-based-attendance-spells-trouble-for-sanitation-workers-in-andhra-pradesh/article66446910.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/facial-recognition-based-attendance-spells-trouble-for-sanitation-workers-in-andhra-pradesh/article66446910.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 49
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/23vcc1/article66447819.ece/alternates/FREE_1200/9775_29_1_2023_20_27_43_1_DSC_1632.JPEG"
-        width: 1200
-        height: 811
-        isCached: true
   - title: "Why is Andhra government pushing facial recognition attendance on all its workers?"
     excerpt: "After introducing facial recognition attendance for teachers in all government schools, the AP govt is now pushing it on sanitation workers"
     publishedDateTime: 2023-01-31T07:07:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-01-30T11:32:00Z
 originalUrl: "https://baptistnews.com/article/reverend-roboto-artificial-intelligence-and-pastoral-care/"
 webUrl: "https://baptistnews.com/article/reverend-roboto-artificial-intelligence-and-pastoral-care/"
 type: article
-quality: 19
-heat: 19
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
-secured: "MamEeMx5gg2B+/jr6EcT50F7cHR028XYBgxnaStOYvwPSeIkvugkSoiHeYMcc9lOpxR9BsL+tkE5Eb1TzNykLXvYhC+ujAEWg93/e5ta5uTO/JQgaHMF3nOYpKt/exrmMcpXClvBfUsYY/a79ABQl33KlP58vmlaW/lFEe6tP+MkHsugiGUiehO8RnmufEXlrdXhwBn3HdWMfN6lHO9MLGuXmS0QaukgHMPvl2BXUM+Z6GLZggkzfPOZdTSaIaR/lmP+S7PWCEt/j6e6G5hhXrWjPCzNp5OlfPf0hxcjbVBH1sxYzgH8jfGnPyvBx8SNUfJcb56Kvq+I+EhtlpV1LvXRExHu6CGcSPhoYVLGJ8yyf/KU0mWdVQL+vzaPtwm0LU7aTCrjqrCgmq1uLv7T+KCekxbJXMv1m1XLePTIpgcAopMJPlACYSq3hRKzx8ox3CTBuZSDH7oRelCR2lQDrlNZJYT4idXmZoxzWO+IcV6jvi3dgNiYrcpU6kTccEf9d8epejDqWOWzSxZpvaNfog==;GbMTNSRUuwtu4uHgcTHbLg=="
+images:
+  - url: "https://baptistnews.com/wp-content/uploads/2023/01/medium.jpeg"
+    width: 263
+    height: 300
+    isCached: true
+
+secured: "szNac4aGG94o2X+mc8RYGt2N9X1okdFL+PW+XoNa+ptdaDU7DmEICELYWZ+2eVbyssRPaRpPTYvvk6caZsE9FvLrVlUanyBE74OUmzKebf7UCw9NYfhtMMEWAiRHybdxeUHXPP6dw2kgxTCu0ROKVTE6lT4BiTdtdlmLCV/waDD+qg1QcpTRUcxUa3GnEbMm8z8XSkRMvKZjns9gVNn6zFyfZG1gPArm9d+q2qNi7DlirzX+4D/4PT4vnxCLHVXPkN1qhtT+FO04lHeSiRld5mfShIoJVLOWgqI2PcO08hpXirPxtksE39oSVYBniWGV2OfGSDh6ui+9MqLAk93+0y46U/FnzNZ3MPvEywacr+E=;3h+AhKaQyGutsmvihyBZTg=="
 ---
 

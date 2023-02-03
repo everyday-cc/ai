@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnin
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

@@ -28,23 +28,39 @@ images:
     isCached: true
 
 related:
-  - title: "Getting started with Azure OpenAI"
-    excerpt: "Microsoft’s Azure-hosted OpenAI language models are now generally available, and it’s surprisingly simple to use them in your code."
-    publishedDateTime: 2023-02-01T11:04:00Z
-    webUrl: "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html"
+  - title: "Microsoft gives businesses a GPT boost in Teams and Viva Sales"
+    excerpt: "Today, Microsoft also offered a preview of a new generative AI ... The app uses the OpenAI API inside of Azure Cognitive Services, which Lamanna pointed out has “very strong privacy guarantees — your data is your data. We don’t train or retrain ..."
+    publishedDateTime: 2023-02-02T16:36:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
     images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg?auto=webp&quality=85,70"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/RE4YuNJ.png?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot, OpenAI Starts Charging $20"
+  - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot Search"
+    excerpt: "The race is on to see who gets to market first with chatbot search as a flood of rivals target March - and OpenAI launches its hotly-awaited a $20 pro version. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
+    publishedDateTime: 2023-02-01T22:19:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 101
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot Search, OpenAI Charges $20"
     excerpt: "The race is on to see who gets to market first with next-generation chatbot search as a flood of rivals target March. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
     publishedDateTime: 2023-02-01T22:19:00Z
     webUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/"
@@ -60,61 +76,89 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "ChatGPT maker OpenAI has a free tool that can spot AI-written text"
-    excerpt: "OpenAI's offers a free but \"imperfect\" tool to detect AI-generated text, and hopes it sparks a debate about AI literacy."
-    publishedDateTime: 2023-02-01T15:23:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-maker-openai-has-a-free-tool-that-can-spot-ai-written-text/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1c1f20c62b292dee9b24dd9dced81e04feb7a15a/2023/02/01/d0bf3f5b-f7f0-486e-9a97-a1e0f44e218e/looking-at-pc.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI launches tool to catch AI-generated text"
-    excerpt: "The AI Text Classifier, released by the makers of ChatGPT, \"may help\" determine whether a school essay was AI-generated."
-    publishedDateTime: 2023-02-01T01:25:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-tool-catch-ai-generated-text-chatgpt-rcna68480"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna68480"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna68480"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230131-open-ai-se-624p-35f3c4.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Are You Smarter Than ChatGPT? OpenAI Tool Aims to Detect AI-Generated Text"
-    excerpt: "The tool could help teachers catch students who are exploiting ChatGPT to cheat on homework assignments, though it's far from perfect."
-    publishedDateTime: 2023-01-31T20:35:00Z
-    webUrl: "https://www.pcmag.com/news/are-you-smarter-than-chatgpt-openai-tool-aims-to-detect-ai-generated-text"
+  - title: "Microsoft Packs Teams Premium Full of AI for $10/Month"
+    excerpt: "Meeting notes, task lists, timeline markers, speaker markers, and live translations are all handled automatically by artificial intelligence if you're willing to pay."
+    publishedDateTime: 2023-02-02T12:38:00Z
+    webUrl: "https://uk.pcmag.com/communications-1/145237/microsoft-packs-teams-premium-full-of-ai-for-10month"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 65
+    quality: 86
     images:
-      - url: "https://i.pcmag.com/imagery/articles/03WPSGVBZZvbzggI35gK5vG-2.fit_lim.size_1200x630.v1675192537.jpg"
-        width: 1120
-        height: 630
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-packs-teams-premium-full-of-ai-for-10month_hquk.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft will integrate ChatGPT in Bing as OpenAI starts monetizing the AI chatbot"
-    excerpt: "Microsoft has recently strengthened its partnership with OpenAI, integrating several AI services into the Azure cloud platform and investing an additional $10 billion into the San Francisco-based research lab. Now, the Redmond giant is about to turn OpenAI ..."
-    publishedDateTime: 2023-02-02T19:52:00Z
-    webUrl: "https://www.techspot.com/news/97471-microsoft-integrate-chatgpt-bing-openai-starts-monetizing-ai.html"
+  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
+    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
+    publishedDateTime: 2023-01-29T23:55:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Microsoft integrates OpenAI’s GPT-3.5 model into its Viva Sales application"
+    excerpt: "Microsoft Corp. today introduced new artificial intelligence features for Sales Viva ... Additionally, the company intends to integrate OpenAI-developed neural networks into its enterprise and consumer products. Microsoft has already incorporated OpenAI ..."
+    publishedDateTime: 2023-02-02T22:10:00Z
+    webUrl: "https://siliconangle.com/2023/02/02/microsoft-integrates-openais-gpt-3-5-model-viva-sales-application/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/vivasales.png"
+        width: 934
+        height: 522
+        isCached: true
+  - title: "Microsoft-backed ChatGPT may soon get a Chinese rival"
+    excerpt: "Since November, OpenAI’s ChatGPT has been the hot topic for every conversation on the internet for its “chatty” mastery. It has Google worried, while"
+    publishedDateTime: 2023-01-30T08:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/articleshow/97439184.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-97439180,width-1070,height-580,imgsize-93524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
+  - title: "Microsoft Teams Premium: Cut costs and add AI-powered productivity"
+    excerpt: "Unlock new experiences with Microsoft Teams Premium for customers looking to make meetings more intelligent, personalized, and protected."
+    publishedDateTime: 2023-02-01T21:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/02/M365CO22_Rally_003.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Microsoft to develop AI-based healthcare services"
+    excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
+    publishedDateTime: 2023-02-01T15:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-to-develop-ai-based-healthcare-services.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
   - title: "Microsoft announces general availability of Azure OpenAI Service"
     excerpt: "As part of a continued commitment to democratising AI, and the ongoing partnership with OpenAI, Microsoft has announced the general availability of Azure OpenAI Service. .."
     publishedDateTime: 2023-02-01T20:08:00Z
@@ -124,66 +168,47 @@ related:
       name: FT
       domain: www.ft.lk
     quality: 49
-  - title: "CEO of OpenAI says misuse of artificial intelligence could be 'lights out for all'"
-    excerpt: "OpenAI CEO and co-founder Sam Altman spoke about the future of AI, good and bad, in the vaguest way possible—which scares me a bit. Altman answered questions about OpenAI, the makers of the wildly popular AI chatbot ChatGPT,"
-    publishedDateTime: 2023-01-30T21:59:00Z
-    webUrl: "https://www.pcgamer.com/ceo-of-openai-says-misuse-of-artificial-intelligence-could-be-lights-out-for-all/"
+  - title: "Buy Seagate, Microsoft, Sell IBM"
+    excerpt: "The tech sector is a mixed bag. It will only reward selective investors who anticipate the demand recovery. In the storage market, Seagate (STX) could potentially stage a recovery. Seagate posted revenue of $1."
+    publishedDateTime: 2023-01-30T14:40:00Z
+    webUrl: "https://baystreet.ca/articles/stockstowatch/84468/Buy-Seagate-Microsoft-Sell-IBM"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 46
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 41
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/p2nwRUMdJmYewXiBbibeLK-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "http://baystreet.ca/images/articlegroups/original/7/stockstowatch5.jpg"
+        width: 1024
+        height: 400
         isCached: true
-  - title: "OpenAI launches AI classifier tool to detect AI generated text"
-    excerpt: "OpenAI, the company behind ChatGPT has launched a new AI classifier tool to determine if a text has been written by a person or by Artificial"
-    publishedDateTime: 2023-02-01T09:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-launches-ai-classifier-tool-to-detect-ai-generated-text-31-01-2023/"
+  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
+    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
+    publishedDateTime: 2023-01-31T12:50:00Z
+    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/02/AI-classifier.jpg"
-        width: 700
-        height: 586
-        isCached: true
-  - title: "OpenAI launches tool for detecting AI-generated text"
-    excerpt: "OpenAI LLC today introduced a cloud-based tool that can help users determine whether a piece of text was written by artificial intelligence. The tool, which is available at no charge, is itself based on an AI model."
-    publishedDateTime: 2023-01-31T21:55:00Z
-    webUrl: "https://siliconangle.com/2023/01/31/openai-launches-tool-detecting-ai-generated-text/"
+      name: Tech.co
+      domain: tech.co
+    quality: 36
+  - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
+    excerpt: "Cirrus Link’s software widget connects MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer with no coding required."
+    publishedDateTime: 2023-01-29T19:53:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/22684077/cirrus-link-solutions-cirrus-link-iot-bridge-for-azure"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/openai.png"
-        width: 989
-        height: 520
-        isCached: true
-  - title: "Can artificial intelligence displace attorneys? A ‘conversation’ about law with OpenAI"
-    excerpt: "Does artificial intelligence has the ability to replace an attorney? Can it formulate the same responses to client questions that an experienced attorney would?"
-    publishedDateTime: 2023-02-01T04:00:00Z
-    webUrl: "https://www.bizjournals.com/dayton/news/2023/02/01/can-artificial-intelligence-displace-attorneys.html"
+      name: Automation World
+      domain: automationworld.com
+    quality: 34
+  - title: "Microsoft Research project helps languages survive — and thrive"
+    excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
+    publishedDateTime: 2023-01-30T16:40:00Z
+    webUrl: "https://news.microsoft.com/en-in/features/microsoft-research-project-helps-languages-survive-and-thrive/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 26
-  - title: "OpenAI Is Making Headlines. It’s Also Seeding Talent Across Silicon Valley"
-    excerpt: "OpenAI has just 375 full-time employees, but its buzzy chatbot, ChatGPT, is shaking up Silicon Valley. The company’s influence extends even further, through former employees who are now in top positions at other artificial intelligence firms or have founded startups of their own."
-    publishedDateTime: 2023-02-01T14:00:00Z
-    webUrl: "https://www.theinformation.com/articles/openai-is-making-headlines-its-also-seeding-talent-across-silicon-valley"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 17
+      name: Microsoft
+      domain: microsoft.com
+    quality: 21
 
 secured: "a3Dr81h/xUxd+McaMqqqwpdBfktOJO0A4m/s8UAiMDBVo3H0JlLTTRvxfB9EHa54XXS+7fsiVjQelaKb2C8Sx0lSe2gvrzC7bXLyVCo2nM3LwHCh4QAaDok8w5uHHVxz0Xr2fhSjH7hYTyFhEqslDDMbel5WeKIIREDfpj7/45spLDW7nfy9FlGDIfb2O99g3v25eiTHSQAdi9KR96sh5LGLsTWeABAr3lMaIGF48JzZ7DOEgsQ53DPQMM3Pf0gAJpJHUmYAd0lKp3FarZsPItyNh1/4GCXVWIPVByCPkTj3jzLLJPG4rLJZU2k9iVp3H1a7gq3fZrSrgbihF0ijgRl6MPwbEDUSDKsuKvd496M=;gedVak/84gwN9ZUrUEGgkw=="
 ---

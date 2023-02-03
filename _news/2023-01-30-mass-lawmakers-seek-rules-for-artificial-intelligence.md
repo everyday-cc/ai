@@ -7,7 +7,7 @@ originalUrl: "https://www.dailyitem.com/news/mass-lawmakers-seek-rules-for-artif
 webUrl: "https://www.dailyitem.com/news/mass-lawmakers-seek-rules-for-artificial-intelligence/article_ba75c1e8-4c1b-542a-8dc9-ede9a5c60463.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "Flawless Demos Its Wild AI Film Dialogue Manipulation And Language Translation"
-    excerpt: "From tweaking Tom Cruise to advancing deepfake detection with Intel, AI manipulation of photo, video, and audio sources is becoming more mainstream daily. Now, one company is taking this tech to Hollywood with the debut of TrueSync,"
-    publishedDateTime: 2023-01-29T16:57:00Z
-    webUrl: "https://hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
-    ampWebUrl: "https://amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 55
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60779/content/flawless-ai-truesync-deepfake-technology-debuts-for-hollywood.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "gQkYZ3bIBxzZiAvzdA7omIzgRgPivzZMRdBXbcjXFU6+OmA90J1gX1DgGpZ51imwUVc+xg6GJD+VI7OSrrhCQ3YPjm3cHXIvykFu17sa3NdGrWdgrV2eo3DZ3qDlJzyRR36SCfHgGRmFKaUslK69ggdjPYOwOTfyiNGdA5YbHALvKlnjPaObRwPYQA15gsp7jMCxL+Ty+9lxKrvoLg9p4hvA/cyI9/EpBTs0IiXTtMuTMI9OIdJUPQLvyCHjVad/F973HbFI+51oqBsIoIAvUk7xBJ+/UWegZmZv8PxaLByY2rKywy1Gg3HZLKrQ3umBdUl4qONz8FZGTFs4zT1k5wEUCnKEwNSb45FcAGyB0fY=;4mqWL30Q5PSLSUCAZq4KAA=="
 ---

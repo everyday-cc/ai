@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Platform Market Size 2023 With Economical Benchmarking, Old Statistics & Forecasts, Company Returns Shares"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- [In 2023] The Global Artificial Intelligence Platform Market Size (122 Report Pages) is estimated to be worth USD million in 2021 and is ..."
+    publishedDateTime: 2023-02-03T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "TNrSj0scDMi7JshagdcDZO8cNrsUBFMjrw4VmmqUmJldn+j6EDb8B5VTJICIOqJlvNnZRNX1/reYK+vVr2jmrKf5AmZ0nXE51Y03bJ3XoL4y+zlbe7NTZpC29KaS9N1wXYFzaCItvp/6dFUPZKp59eymoHlkzWWaYcC49c7fztlLWjvvcO6zfPxHeC3js8TB0pHSHmuQEFN9JgJCLcRGSeNAmSYrgncT5xsDKknNSMzHODZLKTrg0m0rzgFwGtKK8N0hxei9Hfu15jg4tzeX9VjjI7TN0JK9oUWBNOCCoAAXuw19yE6R/1PaZTqkIRUi1FENxXRd407iKt9FizRr00Z4IQNmWA4pVpB4ERB6Qi8=;qmTSomqwTKuB3sM6jLHZMg=="
 ---
 

@@ -68,24 +68,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Microsoft to develop AI-based healthcare services"
-    excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
-    publishedDateTime: 2023-02-01T15:23:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-to-develop-ai-based-healthcare-services.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
-  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
-    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
-    publishedDateTime: 2023-01-31T12:50:00Z
-    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 36
 
 secured: "Su6HinoHy8l8/HP+v2mNJVwsZdF9VUOUV+vaqjoaUsz1asHDdzbu5nrpCMTPBhLZUysLYMTUtQCB3iDPJQkQgcDlEBFJSiX3JpWQRIvrFfHDGw0tWjlQjr1wpyhcPO78ShNlZlZ1QtpI/7xLJjLTm4XENlSsf16ubgIW/4pT6BGOUF3WDUPOucI57P/U35/bjLhAlu+Bxi7UzSnrwubQO92z/844MxEUyByGM0aHle6fFVNL7k/9LM7kToQhh7A1MgOnUPoI5fWj+jQ0CZbtYe0K1Gb8eMExlwwo/T/vBRBCupS4sw+6Tw7PQaWvw3tuASGIcs1EsdHcsntMUkVyzNgm+mfolcpAQrl6VY0EOAE=;GGOPhsjs3DyKLp6DytW8Qg=="
 ---

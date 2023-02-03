@@ -88,22 +88,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Microsoft’s new Teams Premium tier integrates with OpenAI's GPT-3.5"
-    excerpt: "Weeks after extending its multibillion dollar partnership with OpenAI, Microsoft announces that new Teams AI capabilities will be underpinned by OpenAI's GPT-3.5 natural language model."
-    publishedDateTime: 2023-02-02T14:38:00Z
-    webUrl: "https://www.computerworld.com/article/3687170/microsoft-s-new-teams-premium-tier-integrates-with-openais-gpt-3-5.html"
-    ampWebUrl: "https://www.computerworld.com/article/3687170/microsoft-s-new-teams-premium-tier-integrates-with-openais-gpt-3-5.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3687170/microsoft-s-new-teams-premium-tier-integrates-with-openais-gpt-3-5.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 76
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/artificial-intelligence_robotics_machine-learning-100746084-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Are You Smarter Than ChatGPT? OpenAI Tool Aims to Detect AI-Generated Text"
     excerpt: "The tool could help teachers catch students who are exploiting ChatGPT to cheat on homework assignments, though it's far from perfect."
     publishedDateTime: 2023-01-31T20:35:00Z
@@ -127,15 +111,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 58
-  - title: "Microsoft announces general availability of Azure OpenAI Service"
-    excerpt: "As part of a continued commitment to democratising AI, and the ongoing partnership with OpenAI, Microsoft has announced the general availability of Azure OpenAI Service. .."
-    publishedDateTime: 2023-02-01T20:08:00Z
-    webUrl: "https://www.ft.lk/it-telecom-tech/Microsoft-announces-general-availability-of-Azure-OpenAI-Service/50-744832"
-    type: article
-    provider:
-      name: FT
-      domain: www.ft.lk
-    quality: 49
   - title: "OpenAI launches AI classifier tool to detect AI generated text"
     excerpt: "OpenAI, the company behind ChatGPT has launched a new AI classifier tool to determine if a text has been written by a person or by Artificial"
     publishedDateTime: 2023-02-01T09:01:00Z

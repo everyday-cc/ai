@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot Search"
-    excerpt: "The race is on to see who gets to market first with chatbot search as a flood of rivals target March - and OpenAI launches its hotly-awaited a $20 pro version. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
-    publishedDateTime: 2023-02-01T22:19:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
     excerpt: "Artificial intelligence programs have been around for a while ... but it also assesses clinical reasoning, ethics, critical thinking and problem-solving skills. The study team used 305 publicly available test questions from the June 2022 sample exam."
     publishedDateTime: 2023-02-02T18:27:00Z
@@ -77,22 +61,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/230201145445-02-chatgpt-phone-stock-super-tease.jpeg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot Search, OpenAI Charges $20"
-    excerpt: "The race is on to see who gets to market first with next-generation chatbot search as a flood of rivals target March. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
-    publishedDateTime: 2023-02-01T22:19:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/01/chatgpt-wars-erupt-as-google-goes-code-red-and-microsoft-eyes-gpt-4/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d7f1ffde8cef61075c8566/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 750
         isCached: true
   - title: "Baidu to launch AI Chatbot, Rivaling OpenAI’s ChatGPT"
     excerpt: "Baidu to launch AI chatbot similar to OpenAI's ChatGPT in March. Standalone app and search engine integration."
@@ -205,22 +173,6 @@ related:
       - url: "https://i.insider.com/63d95d720a08ae0018a63451?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "ChatGPT spotlights Microsoft’s early efforts to monetize AI"
-    excerpt: "As the breakout success of OpenAI‘s ChatGPT triggers a tsunami of excitement over artificial intelligence, Microsoft Corp. is positioning itself at the forefront of what some see as the next wave of technological innovation."
-    publishedDateTime: 2023-01-29T23:55:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai-11674994801921.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-spotlights-microsoft-s-early-efforts-to-monetize-ai/amp-11674994801921.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2023/01/29/600x338/Microsoft_1674994856732_1674994856950_1674994856950.JPG"
-        width: 600
-        height: 338
         isCached: true
   - title: "ChatGPT mania sends these obscure artificial intelligence stocks soaring as hype extends beyond big caps"
     excerpt: "The success of ChatGPT has spilled over to small-cap stocks, with investors piling cash into the artificial intelligence craze."
@@ -338,22 +290,6 @@ related:
     images:
       - url: "https://bl-i.thgim.com/public/incoming/4xza53/article66451386.ece/alternates/FREE_1200/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
         width: 1200
-        height: 580
-        isCached: true
-  - title: "Microsoft-backed ChatGPT may soon get a Chinese rival"
-    excerpt: "Since November, OpenAI’s ChatGPT has been the hot topic for every conversation on the internet for its “chatty” mastery. It has Google worried, while"
-    publishedDateTime: 2023-01-30T08:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/articleshow/97439184.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-97439180,width-1070,height-580,imgsize-93524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1068
         height: 580
         isCached: true
   - title: "Baidu Plans Rival to ChatGPT. China’s Google Wants to Be Its AI Champion."

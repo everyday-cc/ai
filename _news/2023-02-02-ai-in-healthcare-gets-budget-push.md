@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "Artificial intelligence program will change the future of education"
-    excerpt: "Launched in November, ChatGPT is a natural language tool driven by artificial intelligence that allows users to have human-like interactions and more with a chatbot. The application can answer ..."
-    publishedDateTime: 2023-01-29T16:09:00Z
-    webUrl: "https://www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/"
-    ampWebUrl: "https://www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/amp/"
-    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/2023/01/29/artificial-intelligence-program-will-change-the-future-of-education/amp/"
-    type: article
-    provider:
-      name: The Oakland Press
-      domain: theoaklandpress.com
-    quality: 78
-    images:
-      - url: "https://www.theoaklandpress.com/wp-content/uploads/2023/01/IMG-2873.jpg?w=1024&h=381"
-        width: 1024
-        height: 380
-        isCached: true
   - title: "Changing the conversation around AI"
     excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
     publishedDateTime: 2023-01-31T00:15:00Z

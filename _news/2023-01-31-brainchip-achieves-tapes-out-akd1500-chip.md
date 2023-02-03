@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to"
-    publishedDateTime: 2023-01-29T21:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30616265"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265"
+    excerpt: "“The AKD1500 reference chip using GlobalFoundries’ very low-leakage FD SOI platform, showcases the possibilities for intelligent sensors in edge AI.” About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader ..."
+    publishedDateTime: 2023-01-30T08:08:00Z
+    webUrl: "https://www.design-reuse.com/news/53394/brainchip-neural-processor-for-edge-ai-globalfoundries-22nm-fd-soi.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 54
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.design-reuse.com/news_img2/homepage53394/BrainChip-general.jpg"
+        width: 704
+        height: 417
         isCached: true
   - title: "BrainChip achieves tape out of AKD1500 chip"
     excerpt: "BrainChip, the first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, has achieved tape out of its AKD1500 reference design."

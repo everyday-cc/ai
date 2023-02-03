@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft to develop AI-based healthcare services"
-    excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
-    publishedDateTime: 2023-02-01T15:23:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-to-develop-ai-based-healthcare-services.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
   - title: "Global Automotive Artificial Intelligence Market Report To 2030 - Players Include Alphabet, General Motors, Intel, Microsoft And Tesla"
     excerpt: "At an estimated value of over 2.57 billion USD in 2021, the global Automotive Artificial Intelligence (AI) Market is predicted to thrive at a CAGR of 29.2% and valued at over USD 34.30 billion over the forecast year 2022-2030."
     publishedDateTime: 2023-02-02T04:37:00Z
@@ -76,15 +67,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
-    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
-    publishedDateTime: 2023-01-31T12:50:00Z
-    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 36
 
 secured: "qidwQGaSKaXbBGQTeAv9gzXZFsyla7vE1q0875Rg5T3s5I9Jpbn/SfvRnv7NCA4ca1H9hQAyLDvbt3rtMasn0kpAoyNUo6fGg0m4Pwrf0CfP0JBsp+eQwg9wVIWPTPsYZk3BRIxrO2bxHxNSRRRP3mbyFMizmYZ/AsB89lxVXfw7xz0sNZhwky3ZFn+03dAfK8oR+yrxxmGkmnJVS2yDg+JyfnUr46AunkpswPrBFgW749915yiHQFVE1Pw0Qn6aMtUxmpJ8p2KACHdcV56Sb6rfrkosLc2NtmN/J6RwZM3f91Ekyor0kPoOMPKSCVw73Le7gWc8nR4aZdjY1LejBg4orOjaIS3BQ2WPwC36oNM=;mxYlwOzSzGU6cHAu83MPMg=="
 ---

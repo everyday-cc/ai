@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/project-ellora-how-microsoft
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/amp_articleshow/97456643.cms"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1068
     height: 580
     isCached: true
-
-related:
-  - title: "Microsoft Research project helps languages survive — and thrive"
-    excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
-    publishedDateTime: 2023-01-30T16:40:00Z
-    webUrl: "https://news.microsoft.com/en-in/features/microsoft-research-project-helps-languages-survive-and-thrive/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
 
 secured: "/b5i+AgQ4SuZoXh4dlYFkLl6miS3pODAVBLmX+AA4vACZyhd7IcpzWJGefF0vdCHdbGywRNRTEkAB0b1gGooPtCZ1TvCZ1Z9kaCcqG8euQNq6GkMxu0rRfqGxY7VqXUqud8h41AXcrv0y0AnJZdSSmd0QrLtdqXv39NTCY+rDDvZPskDluYgnzlW035v7FDcCXsyoAUKrYAajaVWXmQSiqka8cJT0a4nsOjwRLpYedx6/0A7lHTv2ZO8XNmEQCrCacOiDltAVclbNY2/dJyLMB6YCpe0lakMMHIFKb+UariJuPOksxrthQ7/9ZbKreSobW4QxUmHoDhgCJdLTEktTyQfwwfV6Cfd0ih0Fn/VkyHvy7RMMMF+kbKxhfRul7ZQ7ZlOnhiI8d5CFLC4oxKM1JmgHtfxDX+6pPL0dotCeIJ6eIkiXMLYsSaSeIGf5GgAsUurIeVZ5YV0q3yqPzxeUIQ8PRCPEjl87PSbo8DDWCrr/2JTGZDDwcTJH1ZTkIlu/zTyBY1nHLiqxzERb1BoBA==;QsbK+O/IlQo6zgQjOX2sBQ=="
 ---
