@@ -29,16 +29,16 @@ related:
   - title: "Experts say artificial intelligence will take jobs but also create new ones"
     excerpt: "By 2025, the World Economic Forum predicts that 85 million jobs will be displaced by automation and technology, but it will also create 97 million new roles."
     publishedDateTime: 2023-02-02T15:17:00Z
-    webUrl: "https://www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
-    ampWebUrl: "https://www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsaz-com.cdn.ampproject.org/c/s/www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
+    webUrl: "https://www.kcrg.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
+    ampWebUrl: "https://www.kcrg.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
     type: article
     provider:
-      name: WSAZ
-      domain: wsaz.com
+      name: ABC Kcrg  9
+      domain: kcrg.com
     quality: 55
     images:
-      - url: "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/Q6PABuIuCPDgyFvROv_rVDEWS-M=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/S6GKXXTWZFEYXEU35IIHDBTNHA.jpg"
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/zNq-_ii2-aFdTjT7D0p9dx7T1J0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/IFEPTVM2DNA5PLFJWY2UWXNPSY.JPG"
         width: 800
         height: 450
         isCached: true

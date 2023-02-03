@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
-excerpt: "ChatGPT, or Chat Generative Pre-trained Transformer, is a natural language-processing tool driven by artificial intelligence. The technology, created by San Francisco-based OpenAI and launched in November, is not like a well-spoken search engine."
-publishedDateTime: 2023-02-02T18:21:00Z
-originalUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
-webUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
+excerpt: "Artificial intelligence programs have been around for a while ... but it also assesses clinical reasoning, ethics, critical thinking and problem-solving skills. The study team used 305 publicly available test questions from the June 2022 sample exam."
+publishedDateTime: 2023-02-02T18:27:00Z
+originalUrl: "https://www.cnn.com/2023/02/02/health/artificial-intelligence-medicine/index.html"
+webUrl: "https://www.cnn.com/2023/02/02/health/artificial-intelligence-medicine/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
 type: article
-quality: 43
+quality: 93
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_d92745b782c9df1a3d86799eba4717de-300.jpg"
-    width: 2000
-    height: 1333
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/230201145445-02-chatgpt-phone-stock-super-tease.jpeg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -1063,6 +1069,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "RAISChgIrJtP8cSSuuCih7rBXOENyUHrqdZpRrlUQKfHI5Rvi9OZPjW6hsyPtzh3dQlGNydDkB65EeszYmcO49YSF7ZzbqhDe0a7FFDR7/dfZLMojQ6kz1C3BuFxO0iYoQtBrwfuF1+8YXYM+1p/iFApFjIm5Hn0OzPLHMrXCSaCsoTO84G4PE4o0o7ZHRCR5fAAjmN+G/RVLoZlGKzaQxN3UYteFbHVaQz97Wh+ehNoJW2CZLYA2vT90LiNglbqsjEAcr1khNDFtbjb+M+2qc+xXHqm47KVhSWRYIgLI6/pP9H6yZZKY3msh/LQXfkEViFmrarAuNOOF5/Vt11XXjfg/Pmg98wTR6h3bEscnWE=;Y5zGTJ0mPMjPy/U4xut06w=="
+secured: "InqlGjtsAWwUUscbSwi1uH01r0SdmdhnwQh+T7S2ISQASBFq54jTpf5If0H8X8xrdGMLKAaSm9FcrV27I3CAIa9+EzGKAD8e1C04dXbRdCvWTGVQv+QGNwd6EhmQh4rzEeGpFUj6ye8LYfobbwSp0+X6tKlxSNlMmhW+7TElR+AZJsvdYS8bpHMK6jj797rxO0GIfcbypAywdoAcgBOwZI7f1RnbZhkgogYk9vYbB572rDlRxlJ3Vd0n4FHYPLf51rDxIaeQCpYB3wBOvrBazyphY0sZRaM7QZdjvfVIW8OkX5Px1pvOa7gtMtSs3kIsjlB7hQ290W0XkLUU+jwYjCWWT/EuApjJnrp2Th1Pfc4=;v66gW2BcqLxkpy9CN0C27A=="
 ---
 

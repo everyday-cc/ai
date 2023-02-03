@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Self-driving semis focus of California rules, legislation"
-excerpt: "California already has rules governing self-driving cars and delivery trucks that weigh less than 10,001 pounds (4,536 kilograms). Now, the California Department of Motor Vehicles is gathering information for potential new rules that would let self-driving semitrucks on the road that can weigh up to 80,"
-publishedDateTime: 2023-02-01T13:22:00Z
-originalUrl: "https://www.thenewstribune.com/news/business/article271851187.html"
-webUrl: "https://www.thenewstribune.com/news/business/article271851187.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article271851187.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article271851187.html"
+excerpt: "As California regulators explore new rules to put self-driving semitrucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will protect their jobs ..."
+publishedDateTime: 2023-01-31T19:23:00Z
+originalUrl: "https://www.kentucky.com/news/business/article271851187.html"
+webUrl: "https://www.kentucky.com/news/business/article271851187.html"
+ampWebUrl: "https://amp.kentucky.com/news/business/article271851187.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article271851187.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - AI in Autos
@@ -65,6 +65,6 @@ related:
       domain: sacbee.com
     quality: 0
 
-secured: "FAtpOaJNUeIHTZWiFkTVlqMTBxhdZAzOB34K6qcgoZneP/FxT5Eyy4UYEksNjPPF3CCV74h/koLsWsRo/Zh2l290w1NPRwDXWOOTUR6jVlVxgAgmWkPZLuHsCYG7oURQ3iMjz+cYYlIHlMTbCNOkkNNpH5j5k+4ICN2lAvHvcsSCWminocP6qsiiQmjdSpG8IMS4c3DH31I45WnGBozIWIhrTMKWYf789haBU71cQ5u0CBaAmNlzqWLuvkFDfgnzwPHJ0eDej71KYr0BxhUckulz9k3Nd1LmgMVy7PlZqOdYlYsooeKssL+YIBuzA36AGZSYo0wILuWHS/vR6I6Iea8+8xMsLXAR78nd26Y/b8h7DI7ViqELuDkYs5vZY9IxPXJoUFm+6CyfJTf7sOZud9X26gYC6L1RrKeR3mtQfPi9rdFNEdx9MmsYrG81f13/JX2i8QQAM3RsDa2qNVB5fLlarFbW854Dho/pmf5NaCJwSIMtlxvJ1AoPHrQZLVMK6wPFuDhMmIfql3oS6hXvDw==;KQrF3O19VUjrS7Vbug28+A=="
+secured: "EoJkiIylmy9u4+e7ierr6IWuSaAN4/uRBq4R4BD7tbwnU57pXjRW89WtBCHSqf9XVe/JokAGWERs4nF0uSWeSd5xb+tqpR47sHuX+nqCJCGRUeENZgIgTCgrEzS0q7FDrW3GO9ZcvRi7Z6Pdk2yGU+n9FiwzHIJtScjEkVAacLFgEDFV9EMSmPUUWBEbo8aekUiCr+qU6AGThFwdNkhY3+0mvVU1sdvDt2nQZiqX6j6EKmm8nAxTrrOR58MXI64utkqbcmaf8R8GxTrxdj75tZOQRMYAAA7xR4/yHvV/sN1oIlr5UF6fmPy78NgVdqLm6txW5YCiM8jG5AY3oKmagao+2KClXTM/LTDBsC1zrM0=;/LAEmxnnp5T5ABAaNEGdZQ=="
 ---
 

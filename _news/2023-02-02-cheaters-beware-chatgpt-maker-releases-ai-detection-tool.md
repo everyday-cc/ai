@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
+    excerpt: "Artificial intelligence programs have been around for a while ... but it also assesses clinical reasoning, ethics, critical thinking and problem-solving skills. The study team used 305 publicly available test questions from the June 2022 sample exam."
+    publishedDateTime: 2023-02-02T18:27:00Z
+    webUrl: "https://www.cnn.com/2023/02/02/health/artificial-intelligence-medicine/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/02/health/artificial-intelligence-medicine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 93
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230201145445-02-chatgpt-phone-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "ChatGPT Wars Erupt As Google And Microsoft Race To Market With AI Bot Search, OpenAI Charges $20"
     excerpt: "The race is on to see who gets to market first with next-generation chatbot search as a flood of rivals target March. Here's the latest on the AI frenzy with insights from Y Combinator CEO Garry Tan and M13 partner Morgan Blumberg."
     publishedDateTime: 2023-02-01T22:19:00Z
@@ -624,20 +640,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/02/AdobeStock_299562309_20.jpeg?quality=82&strip=all"
         width: 1400
         height: 862
-        isCached: true
-  - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
-    excerpt: "ChatGPT, or Chat Generative Pre-trained Transformer, is a natural language-processing tool driven by artificial intelligence. The technology, created by San Francisco-based OpenAI and launched in November, is not like a well-spoken search engine."
-    publishedDateTime: 2023-02-02T18:21:00Z
-    webUrl: "https://localnews8.com/health/cnn-health/2023/02/02/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine-2/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 43
-    images:
-      - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_1182b8adda4c99026bec228a84a0f55c-h_d92745b782c9df1a3d86799eba4717de-300.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "AI ChatGPT – the next great hype cycle?"
     excerpt: "Portfolio manager Alison Porter discusses the development of ChatGPT and the implications of its release on the tech sector."

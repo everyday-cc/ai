@@ -61,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -393,10 +393,10 @@
     {
       "path": "_news/2023-01-29-ut-austin-will-offer-artificial-intelligence-graduate-program-online.md",
       "title": "UT Austin will offer artificial intelligence graduate program online",
-      "excerpt": "UT Austin is one of the nation’s leading computer science schools, tied with elite ivy league universities like Princeton, according to the U.S. News & World Report rankings. Now the Texas public school is set to launch an affordable,",
+      "excerpt": "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.beaumontenterprise.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
-      "originalUrl": "https://www.beaumontenterprise.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
+      "webUrl": "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -415,11 +415,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-28T21:24:00-08:00",
+      "publishedDateTime": "2023-01-28T18:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Beaumont Enterprise",
-        "domain": "beaumontenterprise.com",
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -429,7 +429,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Computer Vision",
         "AI"
       ]
     },

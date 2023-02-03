@@ -23,15 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Based Medical Device Market 2023 Complete Analytical Report with Huge Business Growth by 2026"
-    excerpt: "Artificial Intelligence Based Medical Device Market” 2023 report offers business strategy, covers complete landscape"
-    publishedDateTime: 2023-02-01T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-complete-analytical-report-with-huge-business-growth-by-2026-2023-02-01"
+  - title: "Natural Language Processing Market 2023-2028 by Key Dynamics, Sales Revenue, Major Developments and Leading Players Analysis with Industry Segments"
+    excerpt: "Global “Natural Language Processing Market” 2023-2028 gives wide-ranging and qualitative perceptions on innovative business growth strategies, macro and micro economic factors, appraising trends, and economic statement of top key players. This report ..."
+    publishedDateTime: 2023-02-03T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-2028-by-key-dynamics-sales-revenue-major-developments-and-leading-players-analysis-with-industry-segments-2023-02-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Automotive"
+    publishedDateTime: 2023-01-30T03:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-01-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

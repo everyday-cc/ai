@@ -104,6 +104,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "AI Image Recognition Market Size Inclinations & Development Status Highlighted During Forecast Period 2023-2033"
+    excerpt: "Due to this, there is always a high competition between players to innovate and introduce new products. – March 2019 – Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis ..."
+    publishedDateTime: 2023-02-03T06:42:00Z
+    webUrl: "https://menafn.com/1105519083/AI-Image-Recognition-Market-Size-Inclinations-Development-Status-Highlighted-During-Forecast-Period-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?614155"
+        width: 374
+        height: 249
+        isCached: true
   - title: "Artificial Intelligence (AI) In Construction Market By Size, Latest Industry Trends, Market Share By Application, And Regional Forecast 2023-2033"
     excerpt: "The report predicts the global Artificial Intelligence (AI) in Construction Market to grow with a CAGR of 35.1% over the forecast period from 202"
     publishedDateTime: 2023-02-01T07:30:00Z

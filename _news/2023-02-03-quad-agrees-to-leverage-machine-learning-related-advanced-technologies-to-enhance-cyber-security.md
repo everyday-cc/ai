@@ -55,7 +55,7 @@ related:
     provider:
       name: Firstpost
       domain: firstpost.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/02/ANI-20221102065819.jpg"
         width: 640

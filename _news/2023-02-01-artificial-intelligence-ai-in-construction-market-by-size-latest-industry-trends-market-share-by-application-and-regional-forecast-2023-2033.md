@@ -113,6 +113,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "AI Image Recognition Market Size Inclinations & Development Status Highlighted During Forecast Period 2023-2033"
+    excerpt: "Due to this, there is always a high competition between players to innovate and introduce new products. – March 2019 – Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis ..."
+    publishedDateTime: 2023-02-03T06:42:00Z
+    webUrl: "https://menafn.com/1105519083/AI-Image-Recognition-Market-Size-Inclinations-Development-Status-Highlighted-During-Forecast-Period-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?614155"
+        width: 374
+        height: 249
+        isCached: true
 
 secured: "9suEIxhZ+hmqw6ZhJ5CFwvaMQyJTafwHnWKts8LviSwVv6RKt5KQWMWTHtvSwgKJgY06YDCLQAntD53Wy7TSvTaFVGsGj79w2h4DABKHBunYfwFhr8EU979K2TbZWlP02nmpehRe1TBtyu0arKS2U+8VtjOFw4SYmwhsKgcRG7P6zM+/2U4nx/44EWMMMhkNU2UnVUNrCEiu1YuWOrMREqK4hhCj69euJdnmaFbf2dE0Ah9WyJ21hOFyhH1CqIDGHStm8fKJ+LDA1hIALnkyfXPG2yxYQAnMCYIFVyhU1fKNTNhHCl06XHh4NADBeNrovJ13EGP72zg1jIuDAEF0AafW109qYIK1UCplqEDNKAg=;hVjuV7ocvJgmthmZjyfDpw=="
 ---

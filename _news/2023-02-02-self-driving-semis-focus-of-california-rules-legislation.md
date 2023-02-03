@@ -45,15 +45,15 @@ related:
       domain: usnews.com
     quality: 34
   - title: "Self-driving semis focus of California rules, legislation"
-    excerpt: "California already has rules governing self-driving cars and delivery trucks that weigh less than 10,001 pounds (4,536 kilograms). Now, the California Department of Motor Vehicles is gathering information for potential new rules that would let self-driving semitrucks on the road that can weigh up to 80,"
-    publishedDateTime: 2023-02-01T13:22:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article271851187.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article271851187.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article271851187.html"
+    excerpt: "As California regulators explore new rules to put self-driving semitrucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will protect their jobs ..."
+    publishedDateTime: 2023-01-31T19:23:00Z
+    webUrl: "https://www.kentucky.com/news/business/article271851187.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article271851187.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article271851187.html"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: Lexington Herald Leader
+      domain: kentucky.com
     quality: 24
   - title: "‘Loss of life is not recoverable’: California considers authorizing self-driving semi-trucks"
     excerpt: "California’s DMV is hosting a public workshop Friday to discuss modifying state regulations around autonomous vehicles."

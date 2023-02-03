@@ -8,7 +8,7 @@ webUrl: "https://www.firstpost.com/world/quad-agrees-to-leverage-machine-learnin
 ampWebUrl: "https://www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html/amp"
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html/amp"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.firstpost.com/wp-content/uploads/2023/02/ANI-20221102065819.jpg"
@@ -60,6 +61,6 @@ related:
         height: 675
         isCached: true
 
-secured: "IX8WMWYgfR3zCPMhKliKmisdXCQNfmib7u2YhH0UuVENKKVNpY623cv99imtjI+ejH7X/RhDbk8SVATCoUQHo8Kcng40KytrKeLd8GvEQnVCXlYhTqXlOoJsmxVLoIu3CoTKsJZDjJcF3941n9gIXgCOdGPPvRhlPGkI19cKAGHvz72UomOVgwuMbhz9d9XnFpOJjL3q+1wJIYGcK6H2dE3P/7VomQEZo4/0Q6TSxuuwPnxEb3oe7PUhfuNHBIj93lUrYwBYJg09OO4hzRShuMy0sfUmbxVlMK4/nJqyhc2uGV49gm5Qsk89FQRVPzYzosFHD++D9kX07O/X3WQbgmTcfrsZ7MxUs1HtUfVhq48=;+PLRVLLzsr+U8OInNnHpug=="
+secured: "qhiiK0daWU0xQlaVLfy7vcgBKCgGfLFo9A4BA9X75qtwGewwAXdb9GxnSpBZj1dAMQOCSzxujvQN4dknjwuNjUQwSL0yEwPzItI0WFqKFnGm8DxuTeI9pTP2+3eN3JHdX41OTXbp9woRSmfu6tybZKp8MdxQOYBYQs7Omk83HTj+vQayHozpBB4dY/TMeyDKxiXREF2sF6u2oklK3QOFoKdm7AoXla7sXsfKtutMysKpDd57RRmUmnIci2KnhXJaUO3VvdoMToZpTdM3oUvgbJKMuU5IAVPV3cq5NRCIFdR71LwYHpb75Fa35TtcFjhcO26Pi7fbL74fQq+rsV6n1kVnPH6Icc2K0Ef13BJskZ6mkX8H0RQCEEXfliOBz1bSB0/9J/FtUYwY6HzqeqTxanv2cF8yNZnUUYZPbkTmj/w44YLoC4asxl3fbhbUzopBt81HKtBt+Ip571kKoblctCPy5/K/W94+EIQL5FSwR4dco1i5oBsie+pt9PN2S7bi8+DH2Up0+TtFfR3RUTcPqQ==;Jk9Iqgl/B3x48V2BhYOi/A=="
 ---
 

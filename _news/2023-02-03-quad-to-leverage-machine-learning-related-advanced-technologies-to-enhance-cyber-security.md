@@ -55,13 +55,13 @@ related:
     provider:
       name: Firstpost
       domain: firstpost.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://images.firstpost.com/wp-content/uploads/2023/02/ANI-20221102065819.jpg"
         width: 640
         height: 362
         isCached: true
 
-secured: "yODDtwUnqZU80WyNvQYOHCRDEvqQndjsSxqXtaHrKkU1VN6B0SyjA7AJUKcum3OcwDtd7MbsPBbsj9hQfh/4tMjlCJKG3umKDHe3XYUiP6ZUQvWZj1xL8WErI17QnZikf1sdpGSaGv8l3Z2RRLvg+LZ13hSeW6h0gU6O3lowrBFMwEOqBgiOTOCYvc3IvVKM6jfCodns8Z3ANYqcXvS+HP+GizYh+4kfjWksnyOK00W1gUuy1+/19vI5y/DlbNI5n3M86zsbMqPVIUnEOdpJlM+VZ1LcJgn80/Jaf+2iYIMDZtAv1tUNwCS9Aju+Iu+1qjAbkMK33tBrA6I59WD5hXy16byyTEjmrHkdDcHEkLk=;Ki9f8aTOQERhSt2jzNt0yQ=="
+secured: "OqxY7CengAJcVKpogR6sUPmdmXSKo+wAOHa2Z6JFY7chW6zbn+XWxnXXFtjvIQdbPVOJHWkPY8NXZr7OjoviLaT/oepNTJXi11R925uSZW4BDyVfUss6tosKWHC2eRJlprkSZinFqsF7JjIwlvxs1vlnt1+VkGa+3p9gbLfZsmvBxAftXrAAF3V938rnXGa+wiI+Yv32zrtA4n0nHlXFJMTPwEd+oFmfFalACDYplFwSqgrbEuHnx67kA8b1tOkt6v4imuG6f8tJ6vr706E6RcbkEHtQqlPLODROu4tA1AlQyvWgoV6yF2DCFlI4iFVjc75u9jhZVr10x6TTTOoGQmObiT9WJSFO2xnoMsjKuhpD1+k9gX0F8IqVoBLckYM9Has4gB7i1Jq3rhsQ362xJzovUaJtAXX9PkUTgBgWxpdW+PpvIcsNAbJGsC9tYQOmxfnV8YLMQBkWllahygDBQwIrs09HvZsVXqZ7wsIBv6T2u2hzQr1ZKrb7EkgR4FpFXy18uLnHywrmrR6+CqAwVw==;n/qpMkICrC3dGM+ZP5AWiQ=="
 ---
 

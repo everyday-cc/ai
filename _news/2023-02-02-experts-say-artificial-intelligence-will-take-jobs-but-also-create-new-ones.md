@@ -3,24 +3,24 @@ category: news
 title: "Experts say artificial intelligence will take jobs but also create new ones"
 excerpt: "By 2025, the World Economic Forum predicts that 85 million jobs will be displaced by automation and technology, but it will also create 97 million new roles."
 publishedDateTime: 2023-02-02T15:17:00Z
-originalUrl: "https://www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
-webUrl: "https://www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
-ampWebUrl: "https://www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsaz-com.cdn.ampproject.org/c/s/www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
+originalUrl: "https://www.kcrg.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
+webUrl: "https://www.kcrg.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
+ampWebUrl: "https://www.kcrg.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
+cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
 type: article
 quality: 55
 heat: 65
 published: false
 
 provider:
-  name: WSAZ
-  domain: wsaz.com
+  name: ABC Kcrg  9
+  domain: kcrg.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/Q6PABuIuCPDgyFvROv_rVDEWS-M=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/S6GKXXTWZFEYXEU35IIHDBTNHA.jpg"
+  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/zNq-_ii2-aFdTjT7D0p9dx7T1J0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/IFEPTVM2DNA5PLFJWY2UWXNPSY.JPG"
     width: 800
     height: 450
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 450
         isCached: true
 
-secured: "QYq6lNyzERO9pshS5igGPMZhQkFJo/wMirsT6wdGokA99YNj1ySWvrMT43aTxhXm6S7MCIIbhqEG96bCBNzssFi8Dfer99IUpsF0oZwI1qq9WUvlB4we0sOCPjb13tIx6aMvdFeIBWWOonuCKbff6ORWIpwCeh26LAgySC74LIJjt67XV5KFAqLgAgyXYXnRh64Y44+vhXZ4N/6yExVT4t4bU2eInZbtEAFrV/rXf3esw7CkkgyRBr2zPA3NHs2pOSJ+0lleFuQPGHFd7rdUiwhLZRum7UBwW5PrWxnqZlL2GUTVbMArARLU98OBT6ugLnouCwJT9yk/aMTFekXcZZrI18b3WFJxEmxT5yEJO8gCDmclSvqe7WKSyBqhNRXuu3Ue6M3lc4WuL/DGBXceHaign+16yezGTxQ1HpIE1UWtyskB4+I+2+owCyHX+1lCNIeq1noSxu2m7/fPHOxAoGh3bLsw1fCqb6ArEIwjMyyelpuIGr+sRu7g5JG6WILs6cPxq6P4z9bc0rlCf8hmIQ==;r3vQll7iJxssa4FX5Mrttg=="
+secured: "V/qOpNbiAj5kTrnmdJHyn2vlNhXZTb+12VCwj28tB5cIusJa3AdoszGYyZ4Xg8OQwO1GF4HvodUeoSnFLWm8V03TZ3IoOozlWriwBKR+gliOKEc6l94HXDPAydv7HPXl/KbCa0LmqFHr2dWgD6r1MRCDwheIhngcibCEjP153dgoRBijD7GVbnhbtq5KSgo04/m3PIZwLX52POdaVS2FBevvCDS6yNUSfoejozosQ92up91SFkOD/5xZMVBS12R5I9OFLoK8DYQIz3oaeMI0fWJnMqrlxw3kr4qPZRt9RTKc7HG0l8Fv3nt0ANC46x0kdSJG6mbrM/AAMotufX8KAFl3Xq6pdlUB3qpKTOuq5HY=;q9DFAQa6d6P2rIt9cx5qBQ=="
 ---
 

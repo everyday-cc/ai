@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Natural Language Processing (NLP) Market Qualified Report is spread across 112 Pages and provides exclusive data, information, vital statistics, trends, and competitive ..."
+    publishedDateTime: 2023-02-03T05:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2028-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
     excerpt: "Market Analysis and Insights: Global Healthcare Artificial Intelligence Market The major players covered in the Healthcare Artificial Intelligence market report are: The research report has incorporated the analysis of different factors that augment the market’s growth."
     publishedDateTime: 2023-01-30T08:39:00Z

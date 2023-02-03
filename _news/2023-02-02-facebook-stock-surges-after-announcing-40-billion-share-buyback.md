@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook stock surges after announcing $40 billion share buyback"
-excerpt: "Analysts had expected earnings of $2.22 a share and revenue of $31.5 billion, according to financial research ... Facebook just reached the milestone of 2 billion daily actives,\" CEO Mark Zuckerberg said in a statement. \"The progress we're making on our AI ..."
-publishedDateTime: 2023-02-01T22:39:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2023/02/01/facebook-earnings-q4-buyback.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2023/02/01/facebook-earnings-q4-buyback.html"
+excerpt: "Facebook stock jumped in the extended session after the company reported fourth-quarter sales that were better than expected."
+publishedDateTime: 2023-02-01T21:38:00Z
+originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/02/01/facebook-earnings-q4-buyback.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/02/01/facebook-earnings-q4-buyback.html"
 type: article
 quality: 4
 heat: -1
@@ -89,6 +89,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "3c+QpQ2jut1k2SdDMLENAB4GOlO+KRQu3lrrR4hfOkz4kqaNV7m3w8MQESCgirhKWH7KDkV2XF5BDiHE7YvSxSu5wFXJf4fjpk2Ez588rtUNzLPDIRiCbUysEnt/GTRS1MCKDoVjBH+fxkABqypPfAF0bPCUntd5O/xzzyvOs+ZzoYCvXF8bu8KfB8lLVpWYW6Lh++udJ/rf+tMFldKpLmtzvVudvegoggOTuNZWqPhXI680LKGOt7u18KEyfvkqHvb0bNN0J+KB2KYS5kLZzXw347jG4F3EL7qwLDKE7TnS5C+irej4pHDQphkJnPOc/QCMR28n/MgKEsLikgS4VkhB9Tjs+AKk5L9m8InWl4E=;wm+roYAD3RSrryVMlabgvA=="
+secured: "rLLfMwPNZ/F+K3THHZ8FwaPE2s3zJEyOyE7nZIHsBuZ/QcR+S/EhycUpXfflCbqJ94+mYHCRGH4i+OmLcnmp5nvTLqTw+3J0iRPqC5hhtweq90mAzVX4PIGR7mLoUYJcrPt6gN3sbehlYL7eDYx344sBDLgm/9PM6LWAHCLPqR/OJUFXt69ZgsM4BDhaWwvK/qZ0ALzDVAgj+MExVdsETZLigEtYylK4aZht9ei/eKuVXRUbMAYPiwuXAHFh09pqB5sX8JoNTZDyaRZ2WRjw2BbKQjHoIvs/viefwW6GxP28SUPRJqfLNHkiWeed1Teyk+OFXROG6wxcH7VsCtoXEioww/WkDLJAHSgdqJ2hetc=;LidYfEx3WmcSdGc1mhIXeA=="
 ---
 
