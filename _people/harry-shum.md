@@ -18,11 +18,11 @@ website: http://t.co/NY3kFUGs7a
 twitter:
   username: harryshum
   url: https://twitter.com/harryshum
-  followers: 17020
+  followers: 17019
 
 googleScholar:
   url: https://scholar.google.com/citations?user=9akH-n8AAAAJ
-  citations: 50426
+  citations: 50447
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Harry_Shum
