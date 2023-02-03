@@ -75,6 +75,15 @@ related:
       name: Businessworld
       domain: businessworld.in
     quality: 19
+  - title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
+    excerpt: "IBM (NYSE: IBM) and NASA’s Marshall Space Flight Center today announce a collaboration to use IBM’s artificial intelligence (AI) technology to discover new insights in NASA’s massive trove of Earth and geospatial science data."
+    publishedDateTime: 2023-02-02T18:22:00Z
+    webUrl: "https://sensorsandsystems.com/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+    type: article
+    provider:
+      name: sensorsandsystems.com
+      domain: sensorsandsystems.com
+    quality: 19
 
 secured: "FXddXVFIeUvGJUZElHzCpiK1VzqM/UbK33V66KPgw56uaieeUugsDjExFbxEG1TlbsWrDgtsj1t8a4PEhgycR/gDnFObE/XvVhPtOqGGU0vhwBKKFOPKaqruyhMJjMMyjHcdmL7c+KvPTAZjPDFSaQ3fDP1pUk8MfplF0AS3WigIdq5jgeoodWZlDELyCJ+0wKfbfJQbMfiTHwsR78S0zRPfmI2A6/J3ltQZQ11vWPa5WjLHsLiVCKTVNCnuBAfUXL6NjjU1FQY7FCGK5QIiYreza5Qt9BM83NNnvAtERss8QoJX+PVe2OrLpKGC7wQJWfiFwhjQ0j1lDBb/6VzS3RElnqK3zOtEz8ixqBbXKpeB6zXkgGAYIXsj16ubL+dheEF4fH6Wx2NUn8ab8lFG/HlyYRTKhW3LtQpsozhmAR0mmqp9lm552H7pb1CuVZoq1i7ybLqmOcqHqpZgkPHVArOomJaaE5YbQa8ID69pGjIHJpF5TceloePFCpbOETbA//lbw/6pC3ZIUhsnqMh93Q==;65Tr6aWmH6yyRv/0v4zKDQ=="
 ---

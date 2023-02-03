@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-financ
 webUrl: "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/"
 type: article
 quality: 54
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Magnificent Seven Retail Banking and Fintech Trends to Spy in 2023"
-    excerpt: "This trend will involve the use of white label branches, where a single location serves as a shared service centre for  all banking activities, regardless of the customer's bank. The white label branch also has the ability to offer further financial services in addition to access to cash."
-    publishedDateTime: 2023-02-01T14:56:00Z
-    webUrl: "https://www.finextra.com/blogposting/23672/a-magnificent-seven-retail-banking-and-fintech-trends-to-spy-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 34
   - title: "Fintech Startup BeFiSc Launches AI/ML Powered KYC Solutions Beyond Financial Scores"
     excerpt: "A Delhi-NCR-based fintech Startup, BeFiSc, has launched its AI/ML-powered technology solutions for financial institutions, government agencies, and other businesses helping them to detect fraud, enrich user data,"
     publishedDateTime: 2023-02-01T05:32:00Z
@@ -43,17 +34,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 30
-  - title: "5 tech trends that will change the fintech industry in 2023"
-    excerpt: "A recent report by Bain and Co. recognized India as one of the first leaders to uplift the exposure of the country’s fintech industry globally. Further, the report states the boom in smartphone adoption"
-    publishedDateTime: 2023-01-30T08:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 24
   - title: "AR and VR could revolutionise customer experience in the fintech sector"
     excerpt: "A mobile application is a great approach to provide such services nowadays, however if you want to take it a step further, you could introduce VR or AR to help customers plan different scenarios. It’s easier to see big documents and charts in a virtual  environment where you can swipe through different options,"
     publishedDateTime: 2023-02-01T11:42:00Z

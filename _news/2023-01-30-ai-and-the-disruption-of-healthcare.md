@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2023/02/01/1333200-pradeep.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Text-to-audio generation is here: One of the next big AI disruptions could be in the music industry"
+    excerpt: "The past few years have seen an explosion in applications of artificial intelligence to creative fields. A new generation of image and text generators is delivering impressive results. Now AI has also found applications in music,"
+    publishedDateTime: 2023-02-03T16:41:00Z
+    webUrl: "https://techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 43
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/text-to-audio-generati.jpg"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Changing the conversation around AI"
     excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."

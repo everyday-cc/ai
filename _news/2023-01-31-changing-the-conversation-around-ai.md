@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Text-to-audio generation is here: One of the next big AI disruptions could be in the music industry"
+    excerpt: "The past few years have seen an explosion in applications of artificial intelligence to creative fields. A new generation of image and text generators is delivering impressive results. Now AI has also found applications in music,"
+    publishedDateTime: 2023-02-03T16:41:00Z
+    webUrl: "https://techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 43
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/text-to-audio-generati.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "New Healthcare AI eBook Offers Timely Insight and Education about Fraud, Waste and Abuse Threats"
     excerpt: "Payment integrity and FWA experts from Codoxo share the latest healthcare cost containment risks and best practices to inform leadership strategy for 2023 and beyond ATLANTA (PRWEB) January 31, 2023 Codoxo, a trusted"
     publishedDateTime: 2023-01-31T18:00:00Z

@@ -31,36 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "‘No’ campaigners push migrant recognition"
-    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised."
-    publishedDateTime: 2023-01-30T02:36:00Z
-    webUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/"
-    ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
-    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
+  - title: "Voice to parliament: Monarchist League blasts no campaign’s push for symbolic recognition as a ‘furphy’"
+    excerpt: "Group says it will take no official position on referendum but strongly opposes Warren Mundine’s preamble proposal"
+    publishedDateTime: 2023-02-01T03:20:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/feb/01/indigenous-voice-to-parliament-referendum--monarchist-league-blasts-no-campaign"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/feb/01/indigenous-voice-to-parliament-referendum--monarchist-league-blasts-no-campaign"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/feb/01/indigenous-voice-to-parliament-referendum--monarchist-league-blasts-no-campaign"
     type: article
     provider:
-      name: thenewdaily
-      domain: thenewdaily.com.au
-    quality: 59
+      name: The Guardian
+      domain: theguardian.com
+    quality: 45
     images:
-      - url: "https://thenewdaily.com.au/wp-content/uploads/2023/01/1675046142-Warren-Mundine.jpg?resize=960,600"
-        width: 960
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/351023a69419a91317ebd1ecfa6f850c79b6bfce/0_0_5224_3135/master/5224.jpg?width=620&quality=85&auto=format&fit=max&s=25892fd025c62f6b75dc06125c180cb4"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Warren Mundine's push for constitutional recognition for migrants a 'distraction'"
-    excerpt: "Picture by Adam McLean A push from a leading Voice to Parliament opponent to recognise migrants alongside First Nations people in the constitution is a \"distraction\", according to the peak body for multicultural Australians. Dan covers federal politics ..."
-    publishedDateTime: 2023-01-30T05:47:00Z
-    webUrl: "https://www.canberratimes.com.au/story/8065434/push-for-migrant-recognition-a-distraction-in-voice-debate/"
+  - title: "Amending Australia’s Constitution to Create an Indigenous Voice to Parliament: Challenges Ahead"
+    excerpt: "First Nations people gathered together from across Australia to draft and sign the Uluru Statement from the Heart. The Uluru Statement proposed a First Nations Voice to Parliament, a"
+    publishedDateTime: 2023-02-01T07:37:00Z
+    webUrl: "https://www.jurist.org/commentary/2023/02/amending-australias-constitution-to-create-an-indigenous-voice-to-parliament-challenges-ahead/"
     type: article
     provider:
-      name: The Canberra Times
-      domain: canberratimes.com.au
-    quality: 19
-    images:
-      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/znhWFHRUTrpRC32tGqnZkk/4d8d73e4-a2f3-4de7-98ee-20debd11204d.jpg/r0_209_4554_2600_w1200_h630_fmax.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Jurist
+      domain: jurist.org
+    quality: 0
 
 secured: "NTVr+Stjz4ksYMTUnWVM6aLa88WVH3qOhlNlHo4uUc99ER2W2/89iecNBnTNkacH4uGc05qTEj8bdhga1x0qx9hCF3e3gp9kQi6lEPXcXkfK5adHhK4VRETdckSMYE9C+9dkUdCDM6GXM/fQofjKI+TGreI0Ns0sA13OoxBW7WG7hSWR74wS2XlXDOvp2wMRvK6a9LYwDYW4uOXwbXdvD8FmsdG9Clo0iDZ1k1snueTc38ztlwB2Tc1oNhQZtyzmpNrevfpxQms3mnJ7c+dPR4famjgb+L4c8z/dzgE4pXk2G6T0IfkSiW4dOuVsnH6dopRgMXT0nLknlS40x1MLRbWHdheNXdQ+oTao/6vGrnNnHF+vlG0JDVrfmvYYHwu/vRQiTMiVysmCOwrLys6AfeR8/jGtqD6F4Gq0DGkfH7sh1y+i5/4Wb7wvoababfl/OsQZq+Ff4MIybXJCU7xoBGdQr6q7AAI7tu22rKfi59N8FYfhPaqMNllYwbNaI8Bc45AV5mBDDMzRQDnYuy/2Fg==;1X90x/WRCExNBKc+ty0NyQ=="
 ---

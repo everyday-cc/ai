@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Healthcare Market Expected to reach $194.14 billion by 2030 | CAGR of 38.1%"
-    excerpt: "AI in healthcare market was valued at $8.23 billion in 2020, and is estimated to reach $194.14 billion by 2030, growing at a CAGR of 38.1% from 2021 to"
-    publishedDateTime: 2023-02-02T04:52:00Z
-    webUrl: "https://www.medgadget.com/2023/02/ai-in-healthcare-market-expected-to-reach-194-14-billion-by-2030-cagr-of-38-1.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 29
   - title: "Smart Harvest Market Is Projected To Reach A Size Of US$ 40 Billion, Artificial Intelligence To Surge Demand: Fact.MR Report"
     excerpt: "The global smart harvest market is expected to hit a valuation of us$ 40 billion by 2033 , expanding at 11% CAGR from 2023 to 2033, as per this new industry analysis by Fact.MR, a market research and competitive intelligence provider."
     publishedDateTime: 2023-02-03T13:40:00Z

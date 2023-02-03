@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘No’ campaigners push migrant recognition"
-    excerpt: "Supporters of the \"no\" campaign for an Indigenous voice to parliament want both Indigenous people and migrants to be constitutionally recognised."
-    publishedDateTime: 2023-01-30T02:36:00Z
-    webUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/"
-    ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
-    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2023/01/30/no-campaigners-push-migrant-recognition/amp/"
+  - title: "‘Failure of the process’: Opposition questions new recognition line in Voice proposal"
+    excerpt: "Albanese unveiled three draft sentences that he said could be added to the Constitution to set up the Voice “in recognition of Aboriginal and Torres Strait Islanders as the First Peoples of Australia”. But this week the government appeared to update ..."
+    publishedDateTime: 2023-02-03T08:27:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/failure-of-process-opposition-questions-new-recognition-line-in-voice-proposal-20230203-p5chpk.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/failure-of-process-opposition-questions-new-recognition-line-in-voice-proposal-20230203-p5chpk.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/failure-of-process-opposition-questions-new-recognition-line-in-voice-proposal-20230203-p5chpk.html"
     type: article
     provider:
-      name: thenewdaily
-      domain: thenewdaily.com.au
-    quality: 59
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 52
     images:
-      - url: "https://thenewdaily.com.au/wp-content/uploads/2023/01/1675046142-Warren-Mundine.jpg?resize=960,600"
-        width: 960
-        height: 600
-        isCached: true
-  - title: "Voice to parliament: migrant and refugee groups reject ‘divisive’ no campaign proposal for constitutional recognition"
-    excerpt: "Chair of body representing culturally diverse communities says Warren Mundine’s push for ‘symbolic’ recognition is a ‘red herring’"
-    publishedDateTime: 2023-01-30T05:12:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/jan/30/voice-to-parliament-migrant-and-refugee-groups-reject-divisive-no-campaign-proposal-for-constitutional-recognition"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jan/30/voice-to-parliament-migrant-and-refugee-groups-reject-divisive-no-campaign-proposal-for-constitutional-recognition"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jan/30/voice-to-parliament-migrant-and-refugee-groups-reject-divisive-no-campaign-proposal-for-constitutional-recognition"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 36
-    images:
-      - url: "https://i.guim.co.uk/img/media/b3d2acc4061bd914e8d9d6a4bfe75c430745a24b/0_535_8192_4918/master/8192.jpg?width=620&quality=85&auto=format&fit=max&s=f17fb2590f287d66d9d84c5b84ebbc22"
-        width: 620
-        height: 372
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "S43nsoWem8Ek+p2JfhPjF6TK0r3wTIRvSNBieBX/hHoPKhyHdwvp7ZEwdUQIlpVYFE/64+zKXKUe6rtmjx2pk/Px7p0bzRsyUOtH7v9i8hDYM0HQaDhc0Qpqrv8ybUQUY/VWNUoy31gJsWoT6oh+4eyoVfB201o6HtKpfXcwzK7Q/J55AMvjQNLN2Yyq6+3l3b2FwzXfD+HyYsbrDC8g+YH2vxWcejOPxd4P1WlLFFMKDEWqveFWMBav2GExXdx/lhUhWbVPRMWveD5iXc7SYH3Fi9JRI2sc65JlSGXCSG10E0xbjpPKVrb7SoeAZ6N4tveAl+1yRcLWPAm1iaflP8Zsrin232Py6NE8OfLMYIQ=;/axYzIST+RhN42YsIiozQA=="

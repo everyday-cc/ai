@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry"
-    publishedDateTime: 2023-01-30T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
+  - title: "Artificial Intelligence (AI) in Security Market 2023: Top Manufacturers, Key Trends, Progression Status and Business Trends and forecast to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) in Security Market” report provides an in-depth analysis of the size of the global market. It also ..."
+    publishedDateTime: 2023-02-02T15:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Natural Language Processing (NLP) Market Qualified Report is spread across 112 Pages and provides exclusive data, information, vital statistics, trends, and competitive ..."
+    publishedDateTime: 2023-02-03T05:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2028-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -53,29 +67,15 @@ related:
         width: 349
         height: 250
         isCached: true
-  - title: "Speech Recognition Market 2023 : Future Trend, Business Strategies, Comprehensive Analysis and Forecast by 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2023 (The Expresswire) -- Speech Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR during the forecast ..."
-    publishedDateTime: 2023-02-03T11:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-2023-future-trend-business-strategies-comprehensive-analysis-and-forecast-by-2028-2023-02-03"
+  - title: "Natural Language Processing Market 2023-2028 by Key Dynamics, Sales Revenue, Major Developments and Leading Players Analysis with Industry Segments"
+    excerpt: "Global “Natural Language Processing Market” 2023-2028 gives wide-ranging and qualitative perceptions on innovative business growth strategies, macro and micro economic factors, appraising trends, and economic statement of top key players. This report ..."
+    publishedDateTime: 2023-02-03T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-2028-by-key-dynamics-sales-revenue-major-developments-and-leading-players-analysis-with-industry-segments-2023-02-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mobile Speech Recognition Software Market 2023 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
-    excerpt: "Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-30T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -95,43 +95,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hybrid Voice Recognition System Market Size with Global Industry Analysis, Revenue, Future Growth, Business Prospects and Forecast 2023 to 2028"
-    excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-02-03T03:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-size-with-global-industry-analysis-revenue-future-growth-business-prospects-and-forecast-2023-to-2028-2023-02-02"
+  - title: "Artificial Intelligence Platform Market Size 2023 With Economical Benchmarking, Old Statistics & Forecasts, Company Returns Shares"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- [In 2023] The Global Artificial Intelligence Platform Market Size (122 Report Pages) is estimated to be worth USD million in 2021 and is ..."
+    publishedDateTime: 2023-02-03T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Legal Software (Focus On Machine Learning) Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
-    excerpt: "The Business Research Company's Legal Software (focus on machine learning) Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Company's global market reports are now updated with the latest market sizing ..."
-    publishedDateTime: 2023-02-03T11:24:00Z
-    webUrl: "https://menafn.com/1105520030/Legal-Software-Focus-On-Machine-Learning-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
+  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
+    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
+    publishedDateTime: 2023-01-30T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "L2 Self-driving Vehicle Market by Type, by Technology, by End User: Global Opportunity Analysis and Industry Forecast, 2023-2028"
+    excerpt: "The “L2 Self-driving Vehicle Market” report provides an in-depth analysis of the size of the global market. It"
+    publishedDateTime: 2023-02-01T08:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-by-type-by-technology-by-end-user-global-opportunity-analysis-and-industry-forecast-2023-2028-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
     images:
-      - url: "https://menafn.com/updates/pr/2023-02/03/EP_db6b0image_story.jpeg"
-        width: 1024
-        height: 536
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Services Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
-    excerpt: "Artificial Intelligence Services Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Com"
-    publishedDateTime: 2023-01-30T13:47:00Z
-    webUrl: "https://menafn.com/1105495391/Global-Artificial-Intelligence-Services-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
+  - title: "Synthetic Data Software Market Share 2023 Research by Growth Developments, Emerging Demand, Future Trends and Business Statistics Forecast to 2028"
+    excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Synthetic Data Software"
+    publishedDateTime: 2023-01-30T17:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/synthetic-data-software-market-share-2023-research-by-growth-developments-emerging-demand-future-trends-and-business-statistics-forecast-to-2028-2023-01-30"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lSYBObSdWJJoWhBWnxy4nXhjgFiBv040lrMl/thFhfrdh164haHv3fl2v71DeS8k+ewZkPoyGeks6gg6L490yKW5Kceeq8JzBjSLCYSaSdKI5FE7l2Rzo77iTfM0KY5qLtGw79wYe3/9QUKChwnJFeReJLbX9KwVTMPcd6WBzx+1sM6Ye7zhG6FG16P8cKODsmZ0L6VKhNHxtZhuIKWonCx1A2BlFbQ7MZCvpKaC7LlrxCZmQaxGHFo7PZ4NhD51SXt3oacwjgVY19c6rc/CFSM+MqJTbBX28RH/pwCPMIM3VdLZ6FLVt8JPUn8khwnvf73RdIrFkGZLL2KT2mArbc32TuIH7hKVoYtOI8OMnzk=;CB58nU6RH0NkCstvr0HDuQ=="
 ---

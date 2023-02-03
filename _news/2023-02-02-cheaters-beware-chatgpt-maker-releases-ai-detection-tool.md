@@ -270,6 +270,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "ETF Seizes on ChatGPT Buzz With a Focus on ‘Conversational’ AI"
+    excerpt: "Wall Street’s $6 trillion ETF machine rarely lets a viral trend pass it by. OpenAI’s chatbot is no exception. Enter the Conversational AI, AI and Innovation ETF, which would trade under the ticker CHAT."
+    publishedDateTime: 2023-02-03T16:02:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-02-03/etf-seizes-on-chatgpt-buzz-with-a-focus-on-conversational-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irwPZlKZGQZQ/v1/1200x666.jpg"
+        width: 1200
+        height: 666
+        isCached: true
   - title: "ChatGPT Creator Releases Tool to Detect AI-Generated Text, Calls It ‘Unreliable’"
     excerpt: "OpenAI says the AI-detection tool complements methods educators, employers and others use to determine the source of a piece of text."
     publishedDateTime: 2023-01-31T21:40:00Z
@@ -322,6 +336,22 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/4xza53/article66451386.ece/alternates/FREE_1200/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
         width: 1200
         height: 580
+        isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:33:00Z
+    webUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: ABC 10 News
+      domain: 10news.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Baidu Plans Rival to ChatGPT. China’s Google Wants to Be Its AI Champion."
     excerpt: "Chinese internet company Baidu is readying the launch of its own artificial-intelligence-powered chatbot, similar to ChatGPT, according to reports. Baidu (ticker: BIDU) plans to integrate the ..."

@@ -2,6 +2,252 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-02-our-future-could-be-full-of-undying-self-repairing-robots-heres-how.md",
+      "title": "Our future could be full of undying, self-repairing robots. Here's how",
+      "excerpt": "With generative artificial intelligence (AI) systems such as ChatGPT and StableDiffusion ... But the rate of advancement in robotics—which we could think of as the potential physical embodiment of AI—is slow. Could it be that future AI systems will ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/our-future-could-be-fu.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp",
+      "publishedDateTime": "2023-02-01T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad.md",
+      "title": "Empathy’s new tool uses AI to generate obituaries, and it’s not half bad",
+      "excerpt": "Startup Empathy has launched a new tool that uses AI to generate obituaries. It might sound callous, but the results aren't terrible, surprisingly.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/",
+      "originalUrl": "https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1218896782.jpg?resize=1200,839",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/amp/",
+      "publishedDateTime": "2023-02-01T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-humanoid-robots-to-take-centre-stage-at-un-meet-on-ai.md",
+      "title": "Humanoid robots to take centre stage at UN meet on AI",
+      "excerpt": "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/humanoid.jpg",
+          "width": 2880,
+          "height": 2106,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.amp",
+      "publishedDateTime": "2023-02-01T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m.md",
+      "title": "Gem Security shows detection and response key to cloud security, raises $11M",
+      "excerpt": "Gem Security emerges from stealth with $11 million in seed funding for cloud security detection and response solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m/",
+      "originalUrl": "https://venturebeat.com/security/gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Our-Gems.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m/amp/",
+      "publishedDateTime": "2023-02-01T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-our-pick-of-the-best-artificial-intelligence-ai-stocks-shares.md",
+      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks & Shares",
+      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. The potential opport",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-do-more-with-less-why-public-cloud-services-are-key-for-ai-and-hpc-in-an-uncertain-2023.md",
       "title": "‘Do more with less’: Why public cloud services are key for AI and HPC in an uncertain 2023",
       "excerpt": "This article is part of a VB Lab Insights series on AI sponsored by Microsoft and Nvidia. Don’t miss additional articles in this series providing new industry insights, trends and analysis on how AI is transforming organizations.",
@@ -321,7 +567,7 @@
       "originalUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -412,58 +658,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-voice-recognition-software-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028.md",
-      "title": "Voice Recognition Software Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028",
-      "excerpt": "Voice Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-recognition-software-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2023-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-recognition-software-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2028-2023-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -580,7 +774,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 883,
+      "heat": 903,
       "tags": null,
       "images": [
         {
@@ -725,50 +919,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-aws-cto-vogels-slams-chatgpt-on-cloud-security.md",
-      "title": "AWS CTO Vogels slams ChatGPT on cloud security",
-      "excerpt": "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
-      "originalUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/chatgpt.jpg",
-          "width": 1108,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -1094,146 +1244,6 @@
       "provider": {
         "name": "WESH",
         "domain": "wesh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-cyber-insights-2023-artificial-intelligence.md",
-      "title": "Cyber Insights 2023: Artificial Intelligence",
-      "excerpt": "What is still unknown is the degree of danger that may be introduced when adversaries start to use artificial intelligence (AI) as an effective weapon of attack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/",
-      "originalUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cyber_Insights-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2023-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-31T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecurityWeek",
-        "domain": "securityweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-raylo-raises-136m-to-build-out-its-gadget-lease-and-reuse-fintech-platform.md",
-      "title": "Raylo raises $136M to build out its gadget lease-and-reuse ‘fintech’ platform",
-      "excerpt": "A U.K. startup has picked up £110 million to grow its business offering consumers access to new gadgets by way of short-term leases.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/30/raylo-raises-136m-to-build-out-its-gadget-lease-and-reuse-fintech-platform/",
-      "originalUrl": "https://techcrunch.com/2023/01/30/raylo-raises-136m-to-build-out-its-gadget-lease-and-reuse-fintech-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/Raylo-box-photo-2.png?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/30/raylo-raises-136m-to-build-out-its-gadget-lease-and-reuse-fintech-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/30/raylo-raises-136m-to-build-out-its-gadget-lease-and-reuse-fintech-platform/amp/",
-      "publishedDateTime": "2023-01-31T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-robotics-and-automation-to-drive-economic-growth-in-dubai.md",
-      "title": "Robotics and Automation to drive economic growth in Dubai",
-      "excerpt": "With the opportunities in the global robotics and automation market expected to grow significantly over the next decade, Dubai is setting its sights on becoming a key global player in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/articleshow/97494513.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/articleshow/97494513.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/msid-97494507,width-640,height-480,resizemode-7/hamdan-bin-mohammed-launches-the-dubai-robotics-and-automation-program-900x510.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms",
-      "publishedDateTime": "2023-01-31T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -68,6 +68,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Lawmakers seek rules for artificial intelligence"
+    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
+    publishedDateTime: 2023-02-03T15:59:00Z
+    webUrl: "https://www.salemnews.com/news/lawmakers-seek-rules-for-artificial-intelligence/article_12af7512-a2a2-11ed-9cbd-dbdb65989ea3.html"
+    type: article
+    provider:
+      name: The Salem News
+      domain: salemnews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/custom/image/29c67f80-6b81-11e5-9882-1ba0e94cc00f.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "gcz+Ylyc3AMLFHXlxfgjDT0FuEWJNf2jphvcWTaZz0iq7fKn520QhkUrHxbrz8H3m9/uFT0I8vJchjsu9LzjtCfQUEzY+Uu31mN+kDbyqhZpUrouSTUqZDVR3ORrCooiL1+pI+qmcaKm06aurMcEDngi/Q6SyhVdQ14x8isyax0wUfd6i1UewUx+39OKEyWG312WvHH+DUqnoBbcls44aOLtRiTeGRXu9jiARYiQbE48G3S81C3+7V3cmaMXtSeYYiwOlVahAok8Zmgsy1W8Bb0q7yIVyrpaat0nRrQNDVsPhznwGUWUV/HSFQ1UOxUBYUXPVX6+TgDhGrw+4Bs1QSuqJ3IMgZVOhpCfWoyhH7BkaMEqe+WppSqY93nH51U5XDnfnnq7boWSuAnnd7Kd+NNaF2hUkbeM/oyEuJQ0ZDFAAkjXNzAzbE1eN/RNg7QxmyzbErOcNOlYv5zYHnF1nyT98lvMzShlPNqx9gw53kmTjNlL3TyfbzyrtTPCCjL2eSpDF2Lh0dHVnZ0Jpk1RaA==;VVDzfs+uZZMFyMfM8QGlww=="
 ---

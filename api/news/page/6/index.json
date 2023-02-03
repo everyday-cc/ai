@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-28-5-tech-trends-that-will-change-the-fintech-industry-in-2023.md",
+      "title": "5 Tech Trends That Will Change the Fintech Industry In 2023",
+      "excerpt": "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-28T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures.md",
+      "title": "Plainsight and MarineSitu Using ‘Computer Vision’ To Protect Sea Creatures",
+      "excerpt": "Plainsight calls the technology “vision AI” or “computer vision,” says Elizabeth Spears, company cofounder and chief product officer in Seattle, Washington. “The idea is that anything that people could see,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d4305c97b9ba16ada89c47/0x0.jpg?format=jpg&width=1200",
+          "width": 756,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/amp/",
+      "publishedDateTime": "2023-01-28T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-usa-and-eu-advance-ai-research-in-critical-global-needs-in-new-administrative-agreement.md",
       "title": "USA And EU Advance AI Research In Critical Global Needs In New Administrative Agreement",
       "excerpt": "This article focuses on the AI leadership with the USA and the European Union in signing a new administrative agreement to do joint AI research in key global challenge areas like: climate change, healthcare,",
@@ -1087,103 +1191,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence.md",
-      "title": "All In On AI: How Smart Companies Win Big With Artificial Intelligence",
-      "excerpt": "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-26T22:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-deci-claims-breakthrough-inference-performance-on-intel-sapphire-rapids.md",
-      "title": "Deci claims breakthrough inference performance on Intel Sapphire Rapids",
-      "excerpt": "Israeli startup Deci claims to have achieved breakthrough performance in running computer vision and natural language processing (NLP) models on Intel’s latest Xeon processor. Delivering GPU-like AI inference performance, the breakthrough was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids",
-      "originalUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1",
-      "publishedDateTime": "2023-01-26T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

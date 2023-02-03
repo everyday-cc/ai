@@ -34,22 +34,6 @@ related:
         width: 640
         height: 262
         isCached: true
-  - title: "The Generative AI Revolution Is Creating The Next Phase Of Autonomous Enterprise"
-    excerpt: "Generative AI is on the cusp of creating autonomous, self-sustaining digital-only enterprises that can interact with humans without the active need for human interaction. The article will explore how businesses can leverage this technology to build robust,"
-    publishedDateTime: 2023-01-30T02:28:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2023/01/29/the-generative-ai-revolution-is-creating-the-next-phase-of-autonomous-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/01/29/the-generative-ai-revolution-is-creating-the-next-phase-of-autonomous-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/01/29/the-generative-ai-revolution-is-creating-the-next-phase-of-autonomous-enterprise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d72cc2f25a8843c25c8564/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 751
-        isCached: true
   - title: "The Voice referendum: how did we get here and where are we going? Here’s what we know"
     excerpt: "We’ll be asked whether we support changing the Constitution to recognise Aboriginal and Torres Strait Islander people through the establishment of a representative Voice to inform government and parliamentary decisions."
     publishedDateTime: 2023-02-03T03:27:00Z

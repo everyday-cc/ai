@@ -35,15 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI in Healthcare Market Expected to reach $194.14 billion by 2030 | CAGR of 38.1%"
-    excerpt: "AI in healthcare market was valued at $8.23 billion in 2020, and is estimated to reach $194.14 billion by 2030, growing at a CAGR of 38.1% from 2021 to"
-    publishedDateTime: 2023-02-02T04:52:00Z
-    webUrl: "https://www.medgadget.com/2023/02/ai-in-healthcare-market-expected-to-reach-194-14-billion-by-2030-cagr-of-38-1.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 29
 
 secured: "6Z0SOW9i/zvW8yVU0RJxJc7gIixuitkgH74ivCPvHQ511jvSCePdx3PIV+KmFyIT+X57BlhFQwF6QJXZg8jUROjYY4yabg8vh+8G1SRoGtduDv/G1o1jUTYy6jWmLCylpSIqZmTP+4YY1bNKnfYmjLi4NoOokQfk4fspnykumgm7RqBrBYdxDJVv1gltjtHTgx+3z97k8uvantyJIH1k+zt7y9C//MCRXG23vV6lV12C6wQoKFuwrjC3iogN5tnKqWAvtegtrPPJK6EqXWG54IQ6iZn0l0nUeCJR3wc8KVysx7C4LfGz/euVErHLKQhQxekcVf4/7skOe462bn+VV1HOpH5ceoiwkQcOpc4iT48=;QvsANNqILZjFbWCBBnvarw=="
 ---

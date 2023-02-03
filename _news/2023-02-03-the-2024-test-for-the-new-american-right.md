@@ -26,6 +26,24 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "The 2024 Test for the New American Right"
+    excerpt: "That is laughable; Ryan, now a distinguished visiting fellow at the neoliberal American Enterprise Institute, would object to most, perhaps all, of DeSantis' moves mentioned above. On the other hand, there are a number of possible 2024 candidates who do ..."
+    publishedDateTime: 2023-02-03T16:02:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2023/02/03/the_2024_test_for_the_new_american_right_148816.html?amp"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2023/02/03/the_2024_test_for_the_new_american_right_148816.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/02/03/the_2024_test_for_the_new_american_right_148816.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 44
+    images:
+      - url: "https://assets.realclear.com/images/60/601504_5_.jpeg"
+        width: 750
+        height: 500
+        isCached: true
+
 secured: "PZeg98ZemKRnRv04KFENVyB3WBLumDlHav5HEWVZw6FfL21domPU0kuFI3F1Ma1KhCuodd9iz7FXtOAeQLvqP7FueNdSqhqMhJA2wbv5yG1NjgnPMNEydkNLH03mIOj+xEOngsUACva+SqLBR1fjIy5NoAO6f7R36VHK/dvRtY02ZPaKrUAMS6+n7TdwvOIA4Tn374P925IReRbORQskx6gTJRUVuqOZV3vuIU+RgY9qaXxpyx9j9DmbzvO+Ilt/NszTeu4o0mgiY1xLV/2KHRCZslIGIVImuaD0XkMJHqs/Z/MWa3U/Dz/BUPKoK/DtPdLxsFdkAlEedTQieRJAQter2RR/EvP3VZKEh0C18WY1AWOd5P0uARrdVVQKr+hzPuNX+SYr0v2BhbPgI14LJfh5eP08iPldGJYXm6Lsktm6ZXKqsBGK6r5NnVVQ31s83Ms/XtUCAHOiAOEg4nYGrV3lzsdKgbuKJ4cm3OX4CmgT53rNSimbstytHOk1FLN6tOh7TQ/naBNgABShHqi4AQ==;WuxF/viKNfRvcEmmwfrY4w=="
 ---
 

@@ -42,6 +42,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Artists must be protected from piracy in the new world of AI"
+    excerpt: "Letter: We must recognise the critical importance of strong copyright law and fair remuneration, writes Christian Zimmermann"
+    publishedDateTime: 2023-02-03T16:12:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2023/feb/03/artists-must-be-protected-from-piracy-in-the-new-world-of-ai"
+    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/feb/03/artists-must-be-protected-from-piracy-in-the-new-world-of-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/feb/03/artists-must-be-protected-from-piracy-in-the-new-world-of-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/127a35380e77238d41aa621c8b7abfbcba7de89e/1449_640_1704_1022/master/1704.jpg?width=620&quality=85&auto=format&fit=max&s=6aa05fc73c783bc125adbd17ae8e23c6"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "B2bM2hweaUQ/KNtIC1BQOy7Z10PtEMDypQqSiLvYihGaWLfm7Lb0sL86wtYBwZ4b0zBd3Xp6wS9FWOUvUNeJdjFsPLpGBhfMOF5bCzm4Cvi9vR+d1/PlaTRaUXQbKpj8xl3G9mrxQYPd6lkJu9aHgoMjQZMJjg/CVT7968dh6tcYfmUEGehitSzE8TPxCE5fiOkZvb8pRQhTK+yurNBaA63fhaYA9dxT3f56yyn19GhQeoBuL5XnLhOfFMz0nL4WTAnwQSqk0k8CReCAP+yolw3R8uA+tpkSZw1iQ0TfCw1UNtbhfgO8piT3oKN30iiRMqZyS30bM8oMKGpyJUNNGcoPg/RQvEjEzK55mJRJN23wYWOlZKVmAag3dYSe9DPD2Zzutp8FRiRLoIi0sSeczAIYbqh/f38Jdu2oo95tW7dPQmK1O3/vqxJfJxsMDH/j1v/RA6FzUFgc6Uw7poNMz/640b2p6zisC0L7wk0En9ckQ388aFfAVsz7o3Ma/aexsvravLwxChRBb200ZJOOxw==;RhInNddnZC/GUXqoKWuCsg=="
 ---

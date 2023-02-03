@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-31-project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai.md",
+      "title": "Project ELLORA: How Microsoft is helping preserve 'rare' Indian languages with AI",
+      "excerpt": "To bring ‘rare’ Indian languages online, Microsoft launched project ELLORA or Enabling Low Resource Languages in 2015. Under the project, researchers",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/articleshow/97456643.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/articleshow/97456643.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97456699,width-1070,height-580,imgsize-47682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1068,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/amp_articleshow/97456643.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai/amp_articleshow/97456643.cms",
+      "publishedDateTime": "2023-01-30T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton.md",
+      "title": "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton",
+      "excerpt": "(Reuters) - DeepMind Technologies, owned by Alphabet Inc, is closing its office in the Canadian city of Edmonton, a spokesperson for the AI firm said, just days after Google’s parent announced it would lay off 12,000 employees. London-based DeepMind’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://jp.reuters.com/article/alphabet-deepmind-idCAKBN2U31OP",
+      "originalUrl": "https://jp.reuters.com/article/alphabet-deepmind-idCAKBN2U31OP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ロイター",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-us-economy-shows-resilience-amid-recession-predictions-for-2023-forbes-ai-newsletter-january-28th.md",
       "title": "U.S. Economy Shows Resilience Amid Recession Predictions For 2023 - Forbes AI Newsletter January 28th",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
@@ -61,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -371,7 +467,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -415,21 +511,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-30-artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026",
-      "excerpt": "Global “Artificial Intelligence (AI) in Manufacturing Market” research report provides major analysis on industry",
+      "path": "_news/2023-01-30-baidu-may-soon-launch-its-chatgpt-style-bot.md",
+      "title": "Baidu may soon launch its ChatGPT-style bot",
+      "excerpt": "Apart from research in AI, the search giant is now also developing autonomous driving technology. Baidu Chief Executive Officer Robin Li raised ChatGPT as an example of where the tech giant can ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30",
+      "webUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot-11675053677894.html",
+      "originalUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot-11675053677894.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.livemint.com/img/2023/01/30/600x338/im-317366_1616998743178_1675054105448_1675054105448.jfif",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -437,23 +533,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T00:43:00-08:00",
+      "ampWebUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot/amp-11675053677894.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot/amp-11675053677894.html",
+      "publishedDateTime": "2023-01-30T02:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -462,6 +549,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -570,7 +658,7 @@
       "originalUrl": "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.html#!",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1149,110 +1237,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-5-tech-trends-that-will-change-the-fintech-industry-in-2023.md",
-      "title": "5 Tech Trends That Will Change the Fintech Industry In 2023",
-      "excerpt": "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-28T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures.md",
-      "title": "Plainsight and MarineSitu Using ‘Computer Vision’ To Protect Sea Creatures",
-      "excerpt": "Plainsight calls the technology “vision AI” or “computer vision,” says Elizabeth Spears, company cofounder and chief product officer in Seattle, Washington. “The idea is that anything that people could see,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/",
-      "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d4305c97b9ba16ada89c47/0x0.jpg?format=jpg&width=1200",
-          "width": 756,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/amp/",
-      "publishedDateTime": "2023-01-28T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

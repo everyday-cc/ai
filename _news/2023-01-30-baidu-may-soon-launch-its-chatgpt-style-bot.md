@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-styl
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot/amp-11675053677894.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Mint
@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Search Giant Baidu to Launch ChatGPT-Style Bot"
-    excerpt: "Baidu Inc. is planning to roll out an artificial intelligence chatbot service similar to OpenAI’s ChatGPT, according to a person familiar with the matter, potentially China’s most prominent ..."
-    publishedDateTime: 2023-01-30T02:20:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-01-30/chinese-search-giant-baidu-to-launch-chatgpt-style-bot-in-march"
+  - title: "AWS CTO Vogels slams ChatGPT on cloud security"
+    excerpt: "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,"
+    publishedDateTime: 2023-01-31T21:28:00Z
+    webUrl: "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 69
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igdSOD6Jy2II/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ChatGPT: The end of Google search?"
-    excerpt: "As technology continues to advance, Artificial Intelligence (AI) is becoming more and more prevalent in our everyday lives. From self-driving cars to virtual assistants, AI is quickly becoming an integral part of our lives."
-    publishedDateTime: 2023-01-30T10:24:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-end-of-google-search/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-the-end-of-google-search/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/chatgpt-the-end-of-google-search/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/Amit-Jaju-HiRes-Image.jpg"
-        width: 1036
-        height: 1033
+      - url: "https://i.nextmedia.com.au/News/chatgpt.jpg"
+        width: 1108
+        height: 570
         isCached: true
   - title: "Baidu creates own AI chatbot"
     excerpt: "Baidu is set to roll out its own AI chatbot in March. It will also be embedded into Baidu's main search services, meaning users could soon get conversation-style search results. This will not be a ..."
@@ -107,20 +91,6 @@ related:
       - url: "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/01/30134523/untitled-design-70.jpeg"
         width: 800
         height: 800
-        isCached: true
-  - title: "Chinese automaker Baidu: next-level search engine"
-    excerpt: "Tech giant Baidu is viewed as a leader in the development of autonomous driving. All German manufacturers are cooperating with it. That's not entirely harmless."
-    publishedDateTime: 2023-02-01T09:36:00Z
-    webUrl: "https://www.heise.de/hintergrund/Chinese-automaker-Baidu-next-level-search-engine-7477796.html"
-    type: article
-    provider:
-      name: heise online
-      domain: heise.de
-    quality: 39
-    images:
-      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/9/5/0/6/09-Baidu-1-10b9f74eb0a55376.jpg"
-        width: 1200
-        height: 674
         isCached: true
 
 secured: "a/DUc6B8R5j5IQaVk120QodH2Led+0g3SM6WdDTyCQodhNZqs7A8CZNX0dfdeW1+o5qbVzjPpbw8tdgbrigDO6FEevydzVyrelQisAOc+L2U9JoTvGzkhhxOZxWsPFSaljfjwJbnfw/aKAr1kFCbbmK9HbvSwLsnSIZ5HAJPGeHHLulcvWGhrKhniFGJwHGhE6bMsErkO1Ot4h2hemc6O8XU0rRrrFdvsy9e6kFYcW73yaH/e2OP78jr31vCvWK4sHWBX7s4PDYcmU9hyYMF4XWSRvQgGRaCPx6tnklcjfmgoiIIRdLoW/5REdyfS45hvq3uGP08Rikb2Mv0VXlGjUWU5v2tsE1c3Z/wK/uY/qY=;S+qenU5e22dYxfvpZXsVWw=="

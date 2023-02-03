@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-bringing-san-francisco
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/01/30165435/SEI_142265995.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "GM’s Self-Driving Expansion Faces Challenges in San Francisco"
+    excerpt: "General Motors-owned Cruise is working to expand its paid service to all of San Francisco and run it 24 hours a day."
+    publishedDateTime: 2023-02-03T15:39:00Z
+    webUrl: "https://www.ttnews.com/articles/gms-self-driving-expansion-faces-challenges-san-francisco"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-02/GM-Cruise-1200.jpg"
+        width: 470
+        height: 246
         isCached: true
   - title: "San Francisco Taps the Brakes on Self-Driving Taxis"
     excerpt: "But in the first major city to host a self-driving taxi service, local officials want state regulators to tap the brakes until those companies prove they can make it happen withou"

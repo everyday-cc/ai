@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS CTO Vogels slams ChatGPT on cloud security"
-    excerpt: "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,"
-    publishedDateTime: 2023-01-31T21:28:00Z
-    webUrl: "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/chatgpt.jpg"
-        width: 1108
-        height: 570
-        isCached: true
   - title: "AWS CTO Slams ChatGPT: ‘Not Concerned About The Truth’"
     excerpt: "AWS says ChatGPT isn’t correct on cloud computing and cybersecurity regarding the Microsoft backed AI chatbot response on cybercrime and cloud growth, says CTO Werner Vogels."
     publishedDateTime: 2023-01-31T17:03:00Z

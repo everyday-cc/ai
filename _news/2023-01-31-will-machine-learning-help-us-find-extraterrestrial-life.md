@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Will machine learning help us find extraterrestrial life?"
-excerpt: "Researchers have applied a deep learning technique to a previously studied dataset of nearby stars and uncovered eight previously unidentified signals of interest. When pondering the probability ..."
-publishedDateTime: 2023-01-30T18:42:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/01/230130130512.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130512.htm"
+excerpt: "When pondering the probability of discovering technologically advanced extraterrestrial life, the question that often arises is, \"if they're out there, why haven't we found them yet?\" And often, the response is that we have only searched a tiny portion of the galaxy."
+publishedDateTime: 2023-01-30T17:57:00Z
+originalUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.html"
+webUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.html"
+ampWebUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-extraterrestrial-life.amp"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/will-machine-learning.jpg"
+    width: 685
+    height: 594
+    isCached: true
 
 related:
   - title: "Can AI Help Researchers Find Intelligent Alien Life?"
@@ -72,6 +76,6 @@ related:
       domain: phys.org
     quality: 12
 
-secured: "Ovb0Y0fAksuXDtLcNijVBDfoshzdWrXMs8jyCFuBDUEZNOjdy5aNFre1b8/7WLYVtqw2W8itaEHTWOJMdtF754S7HfvpCD/ob/WKzPBdiiC3VUlrGcfwwX7xf9WBIoDiZlKw596t2FM9Gp4mjC41bPZMyJRPe4SYEHG5ei71+hTEueElLtfA1xgBF314MjmUuQij28BoQk+abXUDqhAQTJ6isdZpDGvDGfn3Dp+2bJMMfGqwX+59WI9dREZpiaExG7hSelsdnjWYhJH1a61GVUT/BoJ8O2S2AjgJChQjLZTjm1IbXBIoCjD70VVb/Xwo9m7U0oyv7/WWVHcaU1KeHE1W32gMFY2llFHmHL5d0J8=;9jBqDk8dyZaNsvxJiTwCcA=="
+secured: "xEn3fk2TcWNHepQf3ZMMwulJZOCzb9nqUf+H6j9aWi3kxJ2rYzUpWtY8PB4RKhrKEgqlmBS6GHojAetdAPXvbeCsfDtqF9T6q0Sp1IunVIJsP/fPDRt6hgi5keYF8hoBYVnywG+NhfpXkCrdt0NFqp+hvtG8a4+UHZpPglGlcQ/MD9XbvjtpKybzB6RRGTdzU41h42OZi3UePrize5K1mbXtehJEtL0QUHsdLHnzqMlgZMPDkQBytravvhH8nAk2pdBX5P03Hlect5efs2xYiHmkNU0uNs2sj3jFdofG3ebXgPlTJIymKL3M3GpyBxQUtspvNkUYj1MrDx0WH4JgYqiMA25tbYKtPfcmHbw1Ykw=;5T+pDqT8CzeV93Ejkzv0mw=="
 ---
 

@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "GM’s Self-Driving Expansion Faces Challenges in San Francisco"
+    excerpt: "General Motors-owned Cruise is working to expand its paid service to all of San Francisco and run it 24 hours a day."
+    publishedDateTime: 2023-02-03T15:39:00Z
+    webUrl: "https://www.ttnews.com/articles/gms-self-driving-expansion-faces-challenges-san-francisco"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-02/GM-Cruise-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "San Francisco Taps the Brakes on Self-Driving Taxis"
     excerpt: "But in the first major city to host a self-driving taxi service, local officials want state regulators to tap the brakes until those companies prove they can make it happen withou"
     publishedDateTime: 2023-02-02T16:37:00Z

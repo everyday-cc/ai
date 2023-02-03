@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "GM’s Self-Driving Expansion Faces Challenges in San Francisco"
+    excerpt: "General Motors-owned Cruise is working to expand its paid service to all of San Francisco and run it 24 hours a day."
+    publishedDateTime: 2023-02-03T15:39:00Z
+    webUrl: "https://www.ttnews.com/articles/gms-self-driving-expansion-faces-challenges-san-francisco"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-02/GM-Cruise-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "iQm14msEwyXDH/GpeJjwIPwvr1AVbXSrkqbtSIxHqPSFAxDHLtcLqiJVPu6ksz711n1cZcmgzFR2z3rP2UuUrkzkfSl2yVsXGuKv88xxwnMvFHIHPLzWw4ucjalZXe7Pjc7HDmYeQsBDjpFgYQnPiI9MD1yKRsUMnuS5KNOJglV8UUSli8SiiKPmo9MKneXZ2gVrtAyGcTyweZAXcb6Uo12ORqzH0omFej1hIOZHr6uJvbv6GmkxFYoPZPwnNNxnwxy7M6TF+3ARV0r/7u9OEzRBPvVMDA+4UYJNKn/fGjkUUm3ut8yt7Ss+FKYbsz7OQbq/JvRYp9AeJcF2uwSw6BNRVEqtB8KGEPhR5ssx2RSDqv+S+DgVEzGXXVi0SG36w+5LFQBZpgPW1bqpTI8wC/Jk9Duy6+YvXF/2lw8BsEsRw0DfhgiSxMghW5G3YTgt25epQ0UAycpx4yB+13ilnkAxBaFS6Es3Wgd+sV3dIEHieTSozHXGnVzHyirco/1BpuaCngpburu+/rXeSkWUWA==;K7V37CtRLUoHyEzbGcDGHA=="
 ---

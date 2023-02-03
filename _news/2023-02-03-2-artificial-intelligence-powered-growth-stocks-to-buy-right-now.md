@@ -1,32 +1,21 @@
 ---
 category: news
 title: "2 Artificial Intelligence-Powered Growth Stocks to Buy Right Now"
-excerpt: "CrowdStrike succeeded in getting customers to use multiple products. Palantir's artificial intelligence platform created remarkable outcomes for many companies and governments. You’re reading a free article with opinions that may differ from The Motley ..."
-publishedDateTime: 2023-02-03T12:27:00Z
-originalUrl: "https://www.fool.com/investing/2023/02/03/2-artificial-intelligence-powered-growth-stocks-to/"
-webUrl: "https://www.fool.com/investing/2023/02/03/2-artificial-intelligence-powered-growth-stocks-to/"
+excerpt: "Artificial intelligence (AI) is a fascinating technology whose potential hasn't been fully discovered. Incredible programs like ChatGPT have already passed the bar and U.S. medical licensing exam, but other,"
+publishedDateTime: 2023-02-03T11:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-powered-growth-stocks-to-buy-right-now"
+webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-powered-growth-stocks-to-buy-right-now"
 type: article
-quality: 69
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/718324/cybersecurity-hacker-in-front-of-a-computer.jpg"
-    width: 2309
-    height: 1299
-    isCached: true
 
 related:
   - title: "How to choose the right Chief AI Officer"
@@ -46,6 +35,6 @@ related:
         height: 400
         isCached: true
 
-secured: "hEQ7P3UAHWqisl9QkIHom11TQdYptrF6ARN1DH7sYfPQuK1bknk9Rs9yp3wwL2G+DgzfinoYiZGQ54yjQwER67UdlbUcR4U2J8SCdMx7cdB7VolgTBAo5m6Fb9Igc0baL+9OzqIPAXGlDenKvJBg7CChCUGI2MvcQgl5klGVx6+HbJRCFGkvaGiZf1xjPnzSTwu+rwyuSxOhW1lCgg0azGo4aTnFvszqGy2o0j7riZIkIfquzuFKVjnbbvihditzoGmZCzta3Ef2xP/tljNFfAVeYjMNmS/8x2CTLNcf3OLI/FGlubfne2VcmQ0G8p5Ojg1zZ0BI1QAYvl/ZY4Smthii5zIQZsy55MlqPiljkdg=;m5fp6qTRJ3lgmo58guoocQ=="
+secured: "yYa3X8CSh31GJrJ5vHqAWfxYfzs0xwq/iKKfC71i17ZpcumWchbioRAcA3Y3ulH2Dc1JRMhEhZWl/xM4tt7/Uy/0dmEN6ilmm4LPMF8kK/hEQ6AmlsVWexLgfiFbyRMwsAPetE/R+DWoAMEfJO/954wVJN0kS1xEvSb1n6NYBh8v1Io2UgitrZd/YDDXR0mcndAcS6YrtPItIwCYkGcMVUMArHd/px6naEnAsnx6dd2AiqT7F2h08fOOwDtS7CiMLUhbX+kDyy6l6ir8Jo1mIrKVbhn777Y+Qimwj4OWHEU023mwSf/2i+4Dz/mC5T5W58RWOMObjPrglzJqBi2vMSKx/wXgh973FlZiAhQ912WG4WweNcOYL+qBJZoJppiNVPL8tRhrwErRnlga+okYAOV+MPP96Ykiw2d1gvk54+ziqpdI1330BvIP3o43/pO1zJbWnlxMDLNow0UJUNnPo7Joeg2EiV9nup5FbITxyxG85YJJ4es738UfOanofBOAm5KOmkXLFamOuLcBj97p2Q==;NjnYQ2F1Awo+Z3vZIFq+jQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-02"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,122 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive/Artificial Intelligence Systems Market Size 2023 with Economical Benchmarking, Old Statistics & Forecasts, Company Returns Shares"
-    excerpt: "Jan 29, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Cognitive/Artificial Intelligence Systems industry. In 2023, Cognitive/Artificial Intelligence Systems Market Size [2023 ..."
-    publishedDateTime: 2023-01-30T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitiveartificial-intelligence-systems-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-01-29"
+  - title: "Artificial Intelligence (AI) in Security Market 2023: Top Manufacturers, Key Trends, Progression Status and Business Trends and forecast to 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) in Security Market” report provides an in-depth analysis of the size of the global market. It also ..."
+    publishedDateTime: 2023-02-02T15:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Natural Language Processing (NLP) Market Qualified Report is spread across 112 Pages and provides exclusive data, information, vital statistics, trends, and competitive ..."
+    publishedDateTime: 2023-02-03T05:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-in-2023-industry-demand-industry-news-business-growth-top-key-players-update-till-2028-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Chip Market Global Analysis Of Key Manufacturers, Dynamics & Forecast 2030"
+    excerpt: "Regionally, the AI chip market is segmented into five major regions including North America, Europe, Asia Pacific, Latin America and the Middle East & Africa. Asia Pacific is projected to witness ..."
+    publishedDateTime: 2023-01-31T09:15:00Z
+    webUrl: "https://menafn.com/1105500186/AI-Chip-Market-Global-Analysis-Of-Key-Manufacturers-Dynamics-Forecast-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206347"
+        width: 349
+        height: 250
+        isCached: true
+  - title: "Natural Language Processing Market 2023-2028 by Key Dynamics, Sales Revenue, Major Developments and Leading Players Analysis with Industry Segments"
+    excerpt: "Global “Natural Language Processing Market” 2023-2028 gives wide-ranging and qualitative perceptions on innovative business growth strategies, macro and micro economic factors, appraising trends, and economic statement of top key players. This report ..."
+    publishedDateTime: 2023-02-03T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-2028-by-key-dynamics-sales-revenue-major-developments-and-leading-players-analysis-with-industry-segments-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge Artificial Intelligence Chips Market 2023| Statistical Analysis for Upcoming Business Opportunities and Forecast to 2026"
+    excerpt: "Edge Artificial Intelligence Chips Market” 2023 report offers business strategy, covers complete landscape for"
+    publishedDateTime: 2023-02-01T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-chips-market-2023-statistical-analysis-for-upcoming-business-opportunities-and-forecast-to-2026-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
+    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
+    publishedDateTime: 2023-01-30T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "L2 Self-driving Vehicle Market by Type, by Technology, by End User: Global Opportunity Analysis and Industry Forecast, 2023-2028"
+    excerpt: "The “L2 Self-driving Vehicle Market” report provides an in-depth analysis of the size of the global market. It"
+    publishedDateTime: 2023-02-01T08:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-by-type-by-technology-by-end-user-global-opportunity-analysis-and-industry-forecast-2023-2028-2023-02-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Fintech Market Size Share, Trends, Segmentation, Top Key Players, Growth And Forecast To 2023-2033"
+    excerpt: "The global AI in Fintech market was estimated at USD 6.67 billion<br />and is expected to reach USD 22.60 billion. The market is also expected to"
+    publishedDateTime: 2023-02-02T12:27:00Z
+    webUrl: "https://menafn.com/1105514730/AI-In-Fintech-Market-Size-Share-Trends-Segmentation-Top-Key-Players-Growth-And-Forecast-To-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979102"
+        width: 356
+        height: 250
+        isCached: true
+  - title: "Synthetic Data Software Market Share 2023 Research by Growth Developments, Emerging Demand, Future Trends and Business Statistics Forecast to 2028"
+    excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Synthetic Data Software"
+    publishedDateTime: 2023-01-30T17:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/synthetic-data-software-market-share-2023-research-by-growth-developments-emerging-demand-future-trends-and-business-statistics-forecast-to-2028-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

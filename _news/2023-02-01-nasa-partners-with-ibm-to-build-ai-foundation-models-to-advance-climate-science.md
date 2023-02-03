@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-founda
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
     provider:
       name: Businessworld
       domain: businessworld.in
+    quality: 19
+  - title: "IBM and NASA Collaborate to Research Impact of Climate Change with AI"
+    excerpt: "IBM (NYSE: IBM) and NASA’s Marshall Space Flight Center today announce a collaboration to use IBM’s artificial intelligence (AI) technology to discover new insights in NASA’s massive trove of Earth and geospatial science data."
+    publishedDateTime: 2023-02-02T18:22:00Z
+    webUrl: "https://sensorsandsystems.com/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai/"
+    type: article
+    provider:
+      name: sensorsandsystems.com
+      domain: sensorsandsystems.com
     quality: 19
   - title: "IBM’s AI will now help NASA analyze Earth data"
     excerpt: "NASA and IBM announced a partnership that leverages the agency’s suite of geospatial data and historical imagery to generate insights on how the Earth and its climate has changed over time. IBM’s AI will analyze petabytes—that’s thousands of terabytes—of NASA’s Earth science literature and imagery,"

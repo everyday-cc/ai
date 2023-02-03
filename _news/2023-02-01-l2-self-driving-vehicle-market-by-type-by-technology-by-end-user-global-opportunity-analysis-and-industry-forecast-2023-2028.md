@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Natural Language Processing (NLP) Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Healthcare"
-    publishedDateTime: 2023-01-30T03:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-nlp-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Security Market 2023: Top Manufacturers, Key Trends, Progression Status and Business Trends and forecast to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) in Security Market” report provides an in-depth analysis of the size of the global market. It also ..."
     publishedDateTime: 2023-02-02T15:50:00Z
@@ -71,51 +57,84 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision System Market 2023 : Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 01, 2023 (The Expresswire) -- Computer Vision System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at unexpected CAGR during the ..."
-    publishedDateTime: 2023-02-01T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-2023-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2023-02-01"
+  - title: "AI Chip Market Global Analysis Of Key Manufacturers, Dynamics & Forecast 2030"
+    excerpt: "Regionally, the AI chip market is segmented into five major regions including North America, Europe, Asia Pacific, Latin America and the Middle East & Africa. Asia Pacific is projected to witness ..."
+    publishedDateTime: 2023-01-31T09:15:00Z
+    webUrl: "https://menafn.com/1105500186/AI-Chip-Market-Global-Analysis-Of-Key-Manufacturers-Dynamics-Forecast-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206347"
+        width: 349
+        height: 250
+        isCached: true
+  - title: "Natural Language Processing Market 2023-2028 by Key Dynamics, Sales Revenue, Major Developments and Leading Players Analysis with Industry Segments"
+    excerpt: "Global “Natural Language Processing Market” 2023-2028 gives wide-ranging and qualitative perceptions on innovative business growth strategies, macro and micro economic factors, appraising trends, and economic statement of top key players. This report ..."
+    publishedDateTime: 2023-02-03T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2023-2028-by-key-dynamics-sales-revenue-major-developments-and-leading-players-analysis-with-industry-segments-2023-02-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market 2023: Focus on Emerging Trends, CAGR Values, Regions and Forecast to 2026"
-    excerpt: "Market Analysis and Insights: Global Healthcare Artificial Intelligence Market The major players covered in the Healthcare Artificial Intelligence market report are: The research report has incorporated the analysis of different factors that augment the market’s growth."
-    publishedDateTime: 2023-01-30T08:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-focus-on-emerging-trends-cagr-values-regions-and-forecast-to-2026-2023-01-30"
+  - title: "Edge Artificial Intelligence Chips Market 2023| Statistical Analysis for Upcoming Business Opportunities and Forecast to 2026"
+    excerpt: "Edge Artificial Intelligence Chips Market” 2023 report offers business strategy, covers complete landscape for"
+    publishedDateTime: 2023-02-01T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-chips-market-2023-statistical-analysis-for-upcoming-business-opportunities-and-forecast-to-2026-2023-02-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
-  - title: "Artificial Intelligence Platform Market Regional Analysis by Size 2023 | Sales Volume, Competitive Landscape and Forecast To 2026"
-    excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Artificial Intelligence"
-    publishedDateTime: 2023-01-30T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-regional-analysis-by-size-2023-sales-volume-competitive-landscape-and-forecast-to-2026-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-  - title: "Global Self-Driving Truck Technology Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028"
-    excerpt: "Jan 29, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Self-Driving Truck Technology industry. In 2023, Self-Driving Truck Technology Market Size [2023 to 2028] Research ..."
-    publishedDateTime: 2023-01-30T03:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Platform Market Size 2023 With Economical Benchmarking, Old Statistics & Forecasts, Company Returns Shares"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- [In 2023] The Global Artificial Intelligence Platform Market Size (122 Report Pages) is estimated to be worth USD million in 2021 and is ..."
+    publishedDateTime: 2023-02-03T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
+    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
+    publishedDateTime: 2023-01-30T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "AI In Fintech Market Size Share, Trends, Segmentation, Top Key Players, Growth And Forecast To 2023-2033"
+    excerpt: "The global AI in Fintech market was estimated at USD 6.67 billion<br />and is expected to reach USD 22.60 billion. The market is also expected to"
+    publishedDateTime: 2023-02-02T12:27:00Z
+    webUrl: "https://menafn.com/1105514730/AI-In-Fintech-Market-Size-Share-Trends-Segmentation-Top-Key-Players-Growth-And-Forecast-To-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979102"
+        width: 356
+        height: 250
         isCached: true
   - title: "Synthetic Data Software Market Share 2023 Research by Growth Developments, Emerging Demand, Future Trends and Business Statistics Forecast to 2028"
     excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Synthetic Data Software"
