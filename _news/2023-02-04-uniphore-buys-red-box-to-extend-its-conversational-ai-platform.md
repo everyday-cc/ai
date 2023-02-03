@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T19:38:00Z
 originalUrl: "https://www.eweek.com/networking/uniphore-buys-red-box-to-extend-its-conversational-ai-platform/"
 webUrl: "https://www.eweek.com/networking/uniphore-buys-red-box-to-extend-its-conversational-ai-platform/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: eWeek

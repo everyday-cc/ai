@@ -26,6 +26,17 @@ images:
     height: 574
     isCached: true
 
+related:
+  - title: "Police plan expansions of facial recognition across Ireland, Australia, US, Nigeria"
+    excerpt: "Law enforcement officials in several countries are pushing deployment or regulation of face biometrics to improve public security."
+    publishedDateTime: 2023-02-03T20:05:00Z
+    webUrl: "https://www.biometricupdate.com/202302/police-plan-expansions-of-facial-recognition-across-ireland-australia-us-nigeria"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+
 secured: "9PIIQSsrJwAWxuhncEwL5UDxLEd1b/KYRqo7JrVOh3mmJntpnNSyANhA8+69pKjIuRJZNEFV0881vfJAORzzOVnjcesm4EMcyzzDGSf/qW0CuAdO37tdJ2UfzQ/BRguMykGBnmi6MMnCJ8VySdAgR57cfQvRmNWYMb1gb2J42b9EUa1VZpsJXn32rsNCzqJAx9a/phZ2pcrgz4fqCIw2tFhncXq8RIBleG1fZtxcNaPA2jGHlVQy79cBNrVhP2Sf7FFcAU1xNWIJjwrHKemk1IvTEl8BoxNhp0NN1TdicIGV8UkucljH8ExDnKeCtmYAlavhzwy+MkCi4lV6fwT4xVn5U2fR+LGPUAu5CNMRTFQ=;kQ8SyEBKlzJ53YXJwxrrrQ=="
 ---
 

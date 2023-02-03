@@ -137,20 +137,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "Mobile Speech Recognition Software Market 2023 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
-    excerpt: "Mobile Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-30T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Platform Market Regional Analysis by Size 2023 | Sales Volume, Competitive Landscape and Forecast To 2026"
     excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Artificial Intelligence"
     publishedDateTime: 2023-01-30T08:44:00Z
@@ -174,20 +160,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-Driving Truck Technology Market 2023 by Key Players, Product Type and End-Users and Variety Forecast To 2028"
-    excerpt: "Jan 29, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 Influence on this Self-Driving Truck Technology industry. In 2023, Self-Driving Truck Technology Market Size [2023 to 2028] Research ..."
-    publishedDateTime: 2023-01-30T03:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2023-by-key-players-product-type-and-end-users-and-variety-forecast-to-2028-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Healthcare Market Expected to reach $194.14 billion by 2030 | CAGR of 38.1%"
     excerpt: "AI in healthcare market was valued at $8.23 billion in 2020, and is estimated to reach $194.14 billion by 2030, growing at a CAGR of 38.1% from 2021 to"
     publishedDateTime: 2023-02-02T04:52:00Z
@@ -197,15 +169,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 29
-  - title: "Global Short Message Service Marketing Market Report to 2027: Featuring Oracle, IBM, Salesforce and Agile CRM Among Others"
-    excerpt: "Marketing Market was valued at USD 64489.20 million in 2021 and is slated to reach at USD 84904.89 million by 2027 at a CAGR of 3.8 % from 2022-2027. Short message service marketing (SMS) is a technique used by businesses to give permission-based text messaging."
-    publishedDateTime: 2023-02-03T15:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/02/03/9754849.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
   - title: "Analysis of Self-Driving Cars and Light Trucks Market, Including Recent Developments, Potential Opportunities, and Predictions for 2029"
     excerpt: "Self-Driving Cars and Light Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
     publishedDateTime: 2023-01-31T03:04:00Z

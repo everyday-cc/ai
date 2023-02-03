@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T18:52:00Z
 originalUrl: "https://hothardware.com/news/radeon-780m-leaked-3dmark-heres-how-it-did"
 webUrl: "https://hothardware.com/news/radeon-780m-leaked-3dmark-heres-how-it-did"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: HotHardware

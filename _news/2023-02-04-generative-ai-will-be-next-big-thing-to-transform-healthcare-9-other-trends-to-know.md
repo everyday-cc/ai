@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T18:39:00Z
 originalUrl: "https://www.beckershospitalreview.com/digital-health/generative-ai-will-be-next-big-thing-to-transform-healthcare-9-other-trends-to-know.html"
 webUrl: "https://www.beckershospitalreview.com/digital-health/generative-ai-will-be-next-big-thing-to-transform-healthcare-9-other-trends-to-know.html"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Becker's Hospital Review

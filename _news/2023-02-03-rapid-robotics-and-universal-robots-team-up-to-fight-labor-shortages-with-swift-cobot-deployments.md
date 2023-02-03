@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Rapid Robotics and Universal Robots Team up to Fight Labor Shortages With Swift Cobot Deployments"
-excerpt: "Rapid Robotics today announced a new partnership with Universal Robots (UR) in which the Danish collaborative robot (cobot) producer will be supplying collaborative robot arms for Rapid Robotics’ deployment of cobot work cells across North America."
-publishedDateTime: 2023-02-02T16:01:00Z
-originalUrl: "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb"
-webUrl: "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb"
+excerpt: "Rapid Robotics & Universal Robots team up to provide North American manufacturers with fast, flexible automation and help solve labor shortages."
+publishedDateTime: 2023-02-02T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230202005391/en/Rapid-Robotics-and-Universal-Robots-Team-up-to-Fight-Labor-Shortages-With-Swift-Cobot-Deployments"
+webUrl: "https://www.businesswire.com/news/home/20230202005391/en/Rapid-Robotics-and-Universal-Robots-Team-up-to-Fight-Labor-Shortages-With-Swift-Cobot-Deployments"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "UTBTsOQ7Op6vtkibi9+QrE2Ddaw/RlOiaxcR4fl6V8sRZritnjD1dtOpQ6YQ3VS6+WWHAt9tkRJT+Ke09TrECQxtgizKkdx4Ai+4mctcPN0yjL2CI0iM4MD8RgRWPr0rW7hnZCftjJD5NPpHaApEuXCRoOQ1w/Z+WCvHHGolxrLiFt27jVApwDs0d63UnBmDYjU2B6jDkiywU7rZhuqFZCAlX4PKtDUOjVfNm+9xpR8O7dEL8ElEXB/7JT/T7pIo6BbItH9+aWjC4+0Xc9L8dQP4twjm9GnvKZb7TuzTDkVF6SJPYOX+fX3L0HPyKLhLJh+4SfQ9kJ0CLFG1QX+xNEvwGvcr2Nnqz/n73QNx2gU=;jZKqdubQAZ++2tvJ0cv1dw=="
+secured: "n3CgPSaJ2KkFDSf+sf8whF+5iG4AXb9dc4jyXKlDpz+g+u3bixiAuOSzTXUO/LNMD4uDjt/W/M650iRFhHiKTRwy+4BKrGHumP6eknX55RxP2PKzQV6jsjIQUALeraIxIeGvRmNgsy3VaPFXsHcWTpgKs/iMbR+3YHu/bFP1Zns/sAOHAZhIbuoo/HeUUPC+iFUAG/Tag4f3vpyTy1cxrT/CCEOEPWz+Y8yfQw0c6d6/m/ztZk4/tU4HzZdUlyTA2eabqIkqDpDIqakl2JZApFvaCnPyn+5fv7GhzinGRNGeOmqUXRI3/OPZuWc06RdeNXBdR/tJ6ipdbmmfEyilN0ZwSCAZYEQREXCDDOJYf0cpJAVFgLn6/rAJ6T3cCtP9uwL6FHv/18BPrY/XI27tS+UVYaK/ltBvqUYrK8G8k+sNYGiiS7yvqUmMYL0qdPYEFXlCDD+XMXGNe27zDDo0XWI++ens2OvYjX1JWBaTHl8IOGiws5FHu/56ifO4wEuU9ir08EiZ9R7Iv2o2mTkbNw==;xoxJkSomjWDc1RQwezdrzQ=="
 ---
 

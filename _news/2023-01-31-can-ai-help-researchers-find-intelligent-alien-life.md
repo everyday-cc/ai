@@ -9,8 +9,8 @@ ampWebUrl: "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-
 cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: BOOM
@@ -27,54 +27,75 @@ images:
     isCached: true
 
 related:
-  - title: "Will machine learning help us find extraterrestrial life?"
-    excerpt: "When pondering the probability of discovering technologically advanced extraterrestrial life, the question that often arises is, \"if they're out there, why haven't we found them yet?\" And often, the response is that we have only searched a tiny portion of the galaxy."
-    publishedDateTime: 2023-01-30T17:57:00Z
-    webUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.html"
-    ampWebUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-extraterrestrial-life.amp"
+  - title: "Should You Invest In Artificial Liquid Intelligence? Exploring The Marriage Between NFTs And AI"
+    excerpt: "The rise in popularity of artificial intelligence has led to numerous cryptocurrency tokens that participate in a similar space increasing in value. Here’s a look at investing in artificial liquid intelligence and the connection between blockchain technology and AI."
+    publishedDateTime: 2023-02-03T20:36:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/02/03/should-you-invest-in-artificial-liquid-intelligence-exploring-the-marriage-between-nfts-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/03/should-you-invest-in-artificial-liquid-intelligence-exploring-the-marriage-between-nfts-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/03/should-you-invest-in-artificial-liquid-intelligence-exploring-the-marriage-between-nfts-and-ai/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 75
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/will-machine-learning.jpg"
-        width: 685
-        height: 594
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63dd7f72f311e6452219dafb/0x0.jpg?format=jpg&crop=4707,2648,x0,y6,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Will an AI be the first to discover alien life?"
-    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss."
-    publishedDateTime: 2023-01-30T16:57:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-00258-z"
+  - title: "Key Intelligence Agencies Bolster National Security Through AI, ML"
+    excerpt: "Intelligence Authorization Act — the ruling that directs and approves funding for U.S. government intelligence initiatives — Congress requested that the IC develop a plan to incorporate AI into its regular practices."
+    publishedDateTime: 2023-02-02T10:55:00Z
+    webUrl: "https://www.govconwire.com/2023/02/key-intelligence-agencies-bolster-national-security-through-ai-ml/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 73
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00258-z/d41586-023-00258-z_23960252.jpg"
-        width: 1024
-        height: 576
+      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/g4KcXc61B56zlqgRrS-rU.jpg"
+        width: 272
+        height: 270
         isCached: true
-  - title: "Will an AI Be the First to Discover Alien Life?"
-    excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss"
-    publishedDateTime: 2023-01-31T20:02:00Z
-    webUrl: "https://www.scientificamerican.com/article/will-an-ai-be-the-first-to-discover-alien-life/"
+  - title: "Artificial intelligence now aiding in the search for extraterrestrial intelligence"
+    excerpt: "Scientists are hoping to apply machine learning to the search for extraterrestrial life. Get up-to-the-minute news sent straight to your device."
+    publishedDateTime: 2023-01-31T17:30:00Z
+    webUrl: "https://www.stltoday.com/news/science/artificial-intelligence-now-aiding-in-the-search-for-extraterrestrial-intelligence/video_7a6012f9-4107-5d3e-8fe6-e189837b50ce.html"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
-  - title: "SETI: Alien hunters get a boost as AI helps identify promising signals from space"
-    excerpt: "An international team of researchers looking for signs of intelligent life in space have used artificial intelligence (AI) to reveal eight promising radio signals in data collected at a U.S. observatory."
-    publishedDateTime: 2023-02-01T14:31:00Z
-    webUrl: "https://phys.org/news/2023-02-seti-alien-hunters-boost-ai.html"
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/a6/7a6012f9-4107-5d3e-8fe6-e189837b50ce/63d945ca78ab9.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AGI (Artificial General Intelligence) vs narrow/Niche AI: Which one has an unobtrusive impact?"
+    excerpt: "Artificial intelligence (AI) will add approximately 15 trillion to the global economy by 2030 and around 97 million people will be employed in the AI industry by 2025. Given this explosive impact, one can"
+    publishedDateTime: 2023-01-30T09:47:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/agi-artificial-general-intelligence-vs-narrow-niche-ai-which-one-has-an-unobtrusive-impact/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/agi-artificial-general-intelligence-vs-narrow-niche-ai-which-one-has-an-unobtrusive-impact/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/agi-artificial-general-intelligence-vs-narrow-niche-ai-which-one-has-an-unobtrusive-impact/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 12
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Sanjeev-Menon.png"
+        width: 573
+        height: 413
+        isCached: true
+  - title: "The Pentagon’s Quest for Academic Intelligence: (AI)"
+    excerpt: "But now, to obtain expertise in cutting-edge fields such as artificial intelligence (AI), robotics, and hypersonics, the military services seek a renewed presence back on campus, where their personnel can work alongside leading academic innovators."
+    publishedDateTime: 2023-01-30T14:25:00Z
+    webUrl: "https://www.thenation.com/article/world/the-pentagons-quest-for-academic-intelligence-ai/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 25
 
 secured: "EqEmEAv2F+A0d4DGlnYlDGKgOFUs0iO3VdOEDOvbk5guAJc/qY/TD2qT0cNem3tlBaoQfFmIAdrLwP7wVymHVJvq5SCtB0cxncsQXGcREi2ZQ11onHB9SM8iTUAvDN0FmUJNNMYX9JGukY7IU+tk60/GmInxW5/JXp4utfChpOFJ0pBVvwDRsxbOP/fl+03lc+QNTrGv7RDctxxOEXBV3/FFLYb1zdTEAMnLPXrHhVMmu5Bto0f4YkbQWJvzTsb5UqIFqo7VpTX0zKQmwdg71Kn3ABgqu/WIPg6GK8UqyEBvuG9lECE2uhemfd18yPBKCNLq6CddtXqbUTS9h24uSop0eWlmmMFFcBXJi1dRESfEofHSCTDu8BqwCajtzXIhfdeK1icLq430omHttFtjFaihktpcOcYX/EfPz9PPHolKVUUL0J5+x5TKSJqnogtbvGpL0qXaEI2yYHAcQSnJmoAVLtDLpcA/zx8Xi2qI3GA5B94zJbolzFKMgcMv7/fgOY2CVX9CWhcr38ukxnp/xw==;lVtPUyFWZQW9wnCLaCi8kA=="
 ---

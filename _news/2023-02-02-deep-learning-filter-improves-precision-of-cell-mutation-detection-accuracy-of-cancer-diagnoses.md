@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Deep-learning filter improves precision of cell mutation detection, accuracy of cancer diagnoses"
-excerpt: "Next-generation cancer strategies rely on next-generation gene sequencing (NGS), which paves the way for new techniques and tools to detect mutations and determine patient therapy. A team of Chinese researchers proposed a more effective strategy to filter false positive results,"
-publishedDateTime: 2023-02-01T19:54:00Z
-originalUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.html"
-webUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deep-learning-filter-precision-cell-mutation.amp"
+excerpt: "Next-generation cancer strategies rely on next-generation gene sequencing (NGS), which paves the way for new techniques and tools to detect mutations and determine patient therapy. A team of Chinese researchers proposed a more effective strategy to filter false positives results,"
+publishedDateTime: 2023-02-02T02:02:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/978340"
+webUrl: "https://www.eurekalert.org/news-releases/978340"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-filter-i.jpg"
-    width: 1212
-    height: 670
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/54ce8c73-813e-47ac-9880-22d17e16fdc5/Rendition/low-res/Content/Public"
+    width: 700
+    height: 387
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "RstdbEIa82dG8Zm/3g5FJ6Mr+A3LpuNA/dZeqfV1QqtV3eNiJvowPDpoIqG+pbV7Bkk5zWcLuatHAj5a0oBjoVwn+PkU70NboZ1nRFKg+WAlQbO0Sr2OGeNiQuapg133I0uMy4oeUqyX+qvrJg2ZIGNQueYKOkyxQeU7r2AWNoG0z12EhdJlX57gMA07E3fMLsZVQ2oOWUmYhahp22a0u55jrl07r+KgYaYNNAA92kMKJe6xBTB0EqVz3QlJBr8t5h/Bc1BhnizyXR0Dzksxw/bkJ/Ektlxcp/xEIS3B+/e7gluEUKaLCP5Bc7EJmW+agovmz7qMz2CmVogfpz4lQCKUCSaI56kgRgg3Mf3PrUP7gZaHXjkyly6ybHomn4kOGJ8TvVa1GNG9LXs1xPlnv61M9Z4VAlh3mlNT3kt5k585V9KFcZ5QAUAcEQ+ObjavM4/HdGmqCD9KwfvuuowWwTIa6ejMCxykBxnfeOQzue4Na7FERBJX0lnmJh+U9t6TtGdC5icEGe+Iu4kFi+JowQ==;lcph1F4Cz20Z7Qn5rAxccw=="
+secured: "bejTDTLfEb7sz4eFHqmrvBZiZ7DtCPTLuRB5m6CPzSiY+h6JWL6ABop1ZufLDvJsc6M9NpJ9MA9g7exefun+LmXrinucFEtS1+HCUoQ2Vw5QXkEYuMkvUzJPbgBHxze35TZeFcPTIepW+GCvkz/iKc5BXkUcFhEuPPlp7IcZUkAuUZpzhtgtFDIqdKYbIlMZf3EDGi7jCIIQaQ3oEmOWaAouDG2rEk56sEybTv2gm/FT1imZtMJr3Ij+SnKCkStPzJScgozou2LnSRFueIeqAczhPQ1Cg8OzILBp5U99p73oMGaUDF4rWa4aq3WOxl86l11oYOuRelMjyI4MSw+buT6ZKln2ymMYch8sn8/yTds=;gSs0FVUbcv1MqddUyJ78Bw=="
 ---
 

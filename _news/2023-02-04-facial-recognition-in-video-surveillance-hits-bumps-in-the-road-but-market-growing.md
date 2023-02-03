@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T20:16:00Z
 originalUrl: "https://www.biometricupdate.com/202302/facial-recognition-in-video-surveillance-hits-bumps-in-the-road-but-market-growing"
 webUrl: "https://www.biometricupdate.com/202302/facial-recognition-in-video-surveillance-hits-bumps-in-the-road-but-market-growing"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Biometric Companies

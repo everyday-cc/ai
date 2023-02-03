@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-styl
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot/amp-11675053677894.html"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
     quality: 39
     images:
       - url: "https://images.lifestyleasia.com/wp-content/uploads/sites/2/2023/01/30125506/Untitled-design-70.jpg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "Chinese Internet giant Baidu to launch AI chatbot service in March"
-    excerpt: "Chinese internet giant Baidu is planning to launch an artificial intelligence (AI) chatbot similar to OpenAI's ChatGPT."
-    publishedDateTime: 2023-01-30T06:00:00Z
-    webUrl: "https://www.lifestyleasia.com/ind/gear/tech/chinese-internet-giant-baidu-to-launch-ai-chatbot-service-in-march/"
-    type: article
-    provider:
-      name: LifestyleAsia
-      domain: lifestyleasia.com
-    quality: 39
-    images:
-      - url: "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/01/30134523/untitled-design-70.jpeg"
         width: 800
         height: 800
         isCached: true

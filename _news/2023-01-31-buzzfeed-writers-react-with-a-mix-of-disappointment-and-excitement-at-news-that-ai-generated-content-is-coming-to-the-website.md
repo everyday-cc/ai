@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ..."
+    publishedDateTime: 2023-01-31T05:50:00Z
+    webUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: wtvr
+      domain: wtvr.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BuzzFeed Stock Jumps 92% As Employees Fret That AI Will Replace Them"
     excerpt: "Shares of the digital media company BuzzFeed Inc. (NASDAQ: BZFD) jumped 92% in one trading day after The Wall Street Journal broke the news of the company’s plans to use artificial intelligence (AI) programs to create quizzes and other content for readers."
     publishedDateTime: 2023-02-02T15:50:00Z

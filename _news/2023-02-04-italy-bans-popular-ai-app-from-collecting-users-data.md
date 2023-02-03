@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T19:27:00Z
 originalUrl: "https://www.foxnews.com/world/italy-bans-popular-ai-app-collecting-users-data"
 webUrl: "https://www.foxnews.com/world/italy-bans-popular-ai-app-collecting-users-data"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Fox News

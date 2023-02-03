@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T18:28:00Z
 originalUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/02/03/delta-bravo-tech-startup-taps-former-bmw-rock-hill.html"
 webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2023/02/03/delta-bravo-tech-startup-taps-former-bmw-rock-hill.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Business Journals

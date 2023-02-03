@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Artificial Intelligence Delivery Robot Market: New Research Report with Worldwide Top Players, Major Regions"
-    excerpt: "Get a sample PDF of the report at  Key player companies in global Artificial Intelligence Delivery Robot Market are: The report providing scenario of history and present performance with an overview of successful marketing strategies,"
-    publishedDateTime: 2023-01-30T04:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Entertainment Robots Market 2023 (New Report) Revenue Growth is Making Marketplace Explosive During 2028 | 117 Pages Report"
     excerpt: "Data from a variety of sources, including closed-circuit television cameras (CCTV), commercial off-the-shelf cameras, and first- and third-party consumer data, is processed using powerful artificial intelligence ... with a head start in planning and ..."
     publishedDateTime: 2023-02-03T11:20:00Z
@@ -266,15 +252,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "Video Surveillance and Vsaas Market 2023-2028: Upcoming Trend, Professional Strategies, Complete Analysis | 98 Pages Report"
-    excerpt: "A recent research report on “Video Surveillance and Vsaas Market” provides the latest growth synopsis of market along"
-    publishedDateTime: 2023-01-30T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2023-2028-upcoming-trend-professional-strategies-complete-analysis-98-pages-report-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 8
 
 secured: "Ns9hbglk3897yytm/vsbxkf1OILbq2t1/Zhl4fevJ0tx6K+NJaQovSYvzQHjXh28nqPuNNN6KBe1C+U7uqiG5CwkmNvakizRqJOh3oQ3DA44U133Bsi4WqiozJxDExzw4Tb5dRiLQTPzXoeciFOyp0Rpl7QAFRaOBQ4rkm2+4IngLz5nRpCvIUnGp+vKTVD9TkwX+o7L5nGaqm9pJx4NEQLcrYmfWh+LU3EcKEaM+EipnxbZnGysom+jXRcAwAN0Ka8jnKoRpUeKF60gXIoDRq/03hbFKf0CM0bbdA7uXqOJWKaAzgwosBJtFKaWORGSeEAgMqlVs1TXWbZxTOY4et14O53Y28aw2EBWx+D2hiY=;WAqORPufUGo+isM+U1MghQ=="
 ---

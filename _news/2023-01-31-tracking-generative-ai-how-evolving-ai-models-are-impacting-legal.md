@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Google tries to reassure investors on AI progress as ChatGPT breathes down its neck"
+    excerpt: "Google worked to reassure investors and analysts on Thursday during its quarterly earnings call that it’s still a leader in developing AI."
+    publishedDateTime: 2023-02-03T21:35:00Z
+    webUrl: "https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/"
+    ampWebUrl: "https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1246745535.jpg?resize=1200,809"
+        width: 1200
+        height: 809
+        isCached: true
   - title: "The ChatGPT and generative AI 'gold rush' has founders flocking to San Francisco's 'Cerebral Valley'"
     excerpt: "Generative AI is breathing new life into San Francisco after two years of ​Silicon Valley tech companies shuttering offices because of the pandemic."
     publishedDateTime: 2023-01-31T10:00:00Z
@@ -341,22 +357,6 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/4xza53/article66451386.ece/alternates/FREE_1200/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
         width: 1200
         height: 580
-        isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:33:00Z
-    webUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    type: article
-    provider:
-      name: ABC 10 News
-      domain: 10news.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Baidu Plans Rival to ChatGPT. China’s Google Wants to Be Its AI Champion."
     excerpt: "Chinese internet company Baidu is readying the launch of its own artificial-intelligence-powered chatbot, similar to ChatGPT, according to reports. Baidu (ticker: BIDU) plans to integrate the ..."
@@ -659,6 +659,20 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-03-image-7.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Paging Dr. AI? What ChatGPT and artificial intelligence could mean for the future of medicine"
+    excerpt: "Without cracking a single textbook, without spending a day in medical school, the co-author of a preprint study correctly answered enough practice questions that it would have passed the real US"
+    publishedDateTime: 2023-02-03T20:30:00Z
+    webUrl: "https://nbcpalmsprings.com/2023/02/03/paging-dr-ai-what-chatgpt-and-artificial-intelligence-could-mean-for-the-future-of-medicine/"
+    type: article
+    provider:
+      name: nbcpalmsprings
+      domain: nbcpalmsprings.com
+    quality: 45
+    images:
+      - url: "https://nbcpalmsprings.com/wp-content/uploads/sites/8/2023/02/ChatGPT-App.jpg"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "Baidu to introduce ChatGPT-like chatbot in March: report"
     excerpt: "Baidu is developing a ChatGPT-like application, and has plans to launch the conversational artificial intelligence assistant in March in a move aimed at to accelerating AI adoption and drive business growth, Bloomberg reported on Monday. The Chinese search ..."

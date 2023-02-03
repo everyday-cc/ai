@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T19:22:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/why-are-ai-stocks-ai-bbai-soun-up-today-1032067017"
 webUrl: "https://markets.businessinsider.com/news/stocks/why-are-ai-stocks-ai-bbai-soun-up-today-1032067017"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

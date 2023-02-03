@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T14:10:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/02/n30707974/global-short-message-service-marketing-market-report-to-2027-featuring-oracle-ibm-salesforce-and-a"
 webUrl: "https://www.benzinga.com/pressreleases/23/02/n30707974/global-short-message-service-marketing-market-report-to-2027-featuring-oracle-ibm-salesforce-and-a"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Benzinga.com

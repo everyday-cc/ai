@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Artificial Intelligence Delivery Robot Market: New Research Report with Worldwide Top Players, Major Regions"
-    excerpt: "Get a sample PDF of the report at  Key player companies in global Artificial Intelligence Delivery Robot Market are: The report providing scenario of history and present performance with an overview of successful marketing strategies,"
-    publishedDateTime: 2023-01-30T04:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-new-research-report-with-worldwide-top-players-major-regions-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robot Firefighter Market 2023 (New Report) to Eyewitness Massive Growth to 2028 | 122 Pages Report"
     excerpt: "The New Report for Global Robot FirefighterMarketResearch Report 2023 | Robot Firefighter Market Provides Such by"
     publishedDateTime: 2023-02-02T06:15:00Z
@@ -266,15 +252,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "Video Surveillance and Vsaas Market 2023-2028: Upcoming Trend, Professional Strategies, Complete Analysis | 98 Pages Report"
-    excerpt: "A recent research report on “Video Surveillance and Vsaas Market” provides the latest growth synopsis of market along"
-    publishedDateTime: 2023-01-30T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-surveillance-and-vsaas-market-2023-2028-upcoming-trend-professional-strategies-complete-analysis-98-pages-report-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 8
 
 secured: "Ic/iYYxJo52ZsHDa3q30YD5lH6UFjIYZ83RCuN85Lj3aO+pEJq47JMlVFFSoGda4oXx1Qb2N37PkxjIL4i9KVC4Qng+zOE5WwnilwxYr9AG2Iboz8OgYPaumVz6z7qqnfBTTj5gFThhnfsGjIQnPM9+M9fkOhbJoLtTLedvT1pBx7vPEb+40ZkRsL7KssG7/2kl2I9JwnxIpuOxzo/hM6KonUIDFuPu18+1E3F1NbuFm3lfScNTYQq8mXUyr9q+KwcLEk7W+8bNT8EjbPCslDv4GqluMfbhMPZp3IWEQAH0UF/JJfX0rNFN++YR3N5W+a+2m4JZVZMAc0wjCX5UF/Xjfubi4n+4RbtyTZOimHKg=;lnOxoiKLelzmUaIl2adWww=="
 ---

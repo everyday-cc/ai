@@ -116,6 +116,15 @@ related:
         width: 934
         height: 522
         isCached: true
+  - title: "ChatGPT Hits 100 Million, Microsoft Unleashes AI Bots And CatGPT Goes Viral"
+    excerpt: "ChatGPT hits an estimated 100 million monthly active users making it the fastest growing consumer internet application in history. Meanwhile, Microsoft has started to unleash AI chatbots across its products. Google announces a Feb. 8 event for a big AI reveal and mock website CatGPT goes wild."
+    publishedDateTime: 2023-02-03T18:16:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/03/chatgpt-hits-100-million-microsoft-unleashes-ai-bots-and-catgpt-goes-viral/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Hashtag Trending Feb.3rd- Microsoft Azure’s tracking and notifications broken; Twitter paid API; Microsoft Teams incorporates AI"
     excerpt: "Real-time tracking and notifications of spending on Microsoft Azure broken, Twitter API no longer free to access and Microsoft Teams injects AI into its service. That’s all the tech news that’s trending right now."
     publishedDateTime: 2023-02-03T08:59:00Z

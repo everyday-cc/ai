@@ -42,20 +42,6 @@ related:
         height: 675
         isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
-    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-01-30T07:01:00Z
-    webUrl: "https://www.andovertownsman.com/news/lawmakers-seek-rules-for-artificial-intelligence/article_d595f67c-87bc-5578-a109-012beb521155.html"
-    type: article
-    provider:
-      name: The Andover Townsman
-      domain: andovertownsman.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/andovertownsman.com/content/tncms/custom/image/6238155c-d1b3-11e5-af53-d325c4b1ac3c.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-01-31T08:26:00Z
     webUrl: "https://www.newburyportnews.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_ec38668e-a0ba-11ed-856e-576a6de4e723.html"

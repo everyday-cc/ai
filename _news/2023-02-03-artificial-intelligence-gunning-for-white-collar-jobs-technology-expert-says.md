@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T21:19:00Z
 originalUrl: "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive"
 webUrl: "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: WPTV-TV

@@ -18,38 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Can AI Help Researchers Find Intelligent Alien Life?"
-    excerpt: "A team of radio astronomers has been using AI to broaden the search for extraterrestrial life, and the results are promising."
-    publishedDateTime: 2023-01-31T08:00:00Z
-    webUrl: "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897"
-    ampWebUrl: "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
-    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
-    type: article
-    provider:
-      name: BOOM
-      domain: boomlive.in
-    quality: 59
-    images:
-      - url: "https://www.boomlive.in/h-upload/2023/01/31/997739-dish-space-signal.jpg"
-        width: 1280
-        height: 768
-        isCached: true
   - title: "Will machine learning help us find extraterrestrial life?"
-    excerpt: "When pondering the probability of discovering technologically advanced extraterrestrial life, the question that often arises is, \"if they're out there, why haven't we found them yet?\" And often, the response is that we have only searched a tiny portion of the galaxy."
-    publishedDateTime: 2023-01-30T17:57:00Z
-    webUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.html"
-    ampWebUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-extraterrestrial-life.amp"
+    excerpt: "Researchers have applied a deep learning technique to a previously studied dataset of nearby stars and uncovered eight previously unidentified signals of interest. When pondering the probability ..."
+    publishedDateTime: 2023-01-30T18:42:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130512.htm"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/will-machine-learning.jpg"
-        width: 685
-        height: 594
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Will an AI be the first to discover alien life?"
     excerpt: "SETI, the search for extraterrestrial intelligence, is deploying machine-learning algorithms that filter out Earthly interference and spot signals humans might miss."
     publishedDateTime: 2023-01-30T16:57:00Z
@@ -64,15 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "SETI: Alien hunters get a boost as AI helps identify promising signals from space"
-    excerpt: "An international team of researchers looking for signs of intelligent life in space have used artificial intelligence (AI) to reveal eight promising radio signals in data collected at a U.S. observatory."
-    publishedDateTime: 2023-02-01T14:31:00Z
-    webUrl: "https://phys.org/news/2023-02-seti-alien-hunters-boost-ai.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 12
 
 secured: "2wLDETgyeNeEUFWix6Hsai0GP7cKR5M//xrzQt7hhR6wAJhv1VgamKz7H5/VNDPLMSKe1SFSy8H38eGteJc5/mF7f5fwz+w9iy32RAVe/DxARQkPAcr1JgzchPsZG9d2YTE/T+pF6R3qk/ckJG0GcN3JDjpw9PG9pIeCrjuhOdWpUydSywI9H0QuwfNshc112V4BZhXRJhOLbg+YG94jZLtegE4OEcFR7xep1+B2V0UY4hVw0fdoEhgh9No2mGpd+lvJRKIuxTHMMd+uKUM2YCezyy4liID7wgB21fm6m1HhE9K0PX52mYSI2+8X7iA+ruBZSawVeaKXLdqixOc0HptTDj6844NLjuN1gcm320CQqFJEWxSqxgv8L132j5pn2UnUK9LyLBfOawCeyH124eW8Lmo4jA3XWqiKDQEcnLjwIAoMWq9kG5lsSaemYeRZ+u9G5oCFuJ1vCcc8wvILXXXV6GzdxhJj+N+oqIQp1o6dEba8WXPxDRrpxYYqLZ7a+3czVoOwfVTLDLoe0OjQcw==;B5yvmG4Gre0wl3AysXR0uw=="
 ---

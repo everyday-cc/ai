@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01"
 type: article
 quality: 72
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Industry by 360 Market Updates with, New Companies, Major Strategies, Massive Strategies And Forecast 2026"
-    excerpt: "In 2023, Current Artificial Intelligence (AI) Market Size | 2029 | Newest [111] Pages Report Artificial Intelligence"
-    publishedDateTime: 2023-01-30T03:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-industry-by-360-market-updates-with-new-companies-major-strategies-massive-strategies-and-forecast-2026-2023-01-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
