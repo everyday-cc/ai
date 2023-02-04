@@ -41,6 +41,22 @@ related:
         width: 1022
         height: 429
         isCached: true
+  - title: "Real-time data and AI thrust manufacturing into the future"
+    excerpt: "With a growing need for real-time situational awareness and insights, artificial intelligence architectures are becoming increasingly important to make sense of the acquired information."
+    publishedDateTime: 2023-02-04T02:15:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/"
+    ampWebUrl: "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1326464894-e1653670614862.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "t/cpdHnem9zakT3LoBlPhGuMlye4/aBFakodSMOk/DTs+pR7kJcjolgQ150E0ApWHMRhzFppgbvfo/y6lkHQMtIgF5o3NWjKJh5ZK/Yh9sxjR2seVarvOu/QzjpDfGkQs1SDh4IrVHcs3QUipCw+IdmW3UF5SQjrNJMXxiHGiAdGjF+/OyaYDrz7ye5M9uDdzDNG/RDJNq8qQXMSLF3FI9ubgdJgSzTyrhexTQfbosw3GUGLIuGGTjaUCVm4CI0+gsy3WijFdHxoPwLooHZywU1Nw3Rj3APTUfNY7m7fqmYSfD6uIjUPWDIJBrqpRtXbbh/Dn6iFaEDRpMCFHEkOR/r46VRiYgqAnSwQkXOEFbY=;vu+cB9wfUKyAaSAoKHR5GA=="
 ---

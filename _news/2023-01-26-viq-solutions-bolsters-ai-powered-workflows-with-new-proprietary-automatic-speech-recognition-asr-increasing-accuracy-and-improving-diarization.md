@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "8IP7Ye75F1VRlOdNdadPZ+uZ6UYG/zyl9JQeMf0wGOvZziO5EdWFgBP0UzAuJN7iySmAxMVtxmgxh3JjhYFiCVPWvAZa5MG8r0dd3YrKrLjzR5I4AWNBdENBd7G9+8dLuo79bB/fqLbHZFQTzS7gExGHDGN8gpBkS+SboqBc7d91IrLtk+4E1I2YntTIV+9tbhbaEHMcivjX/K03t1xhhaoGpzx7h+iQoihfMGZ+n1l513N1xhWDLCzLrw2+Y9qDFbgKwX2gePOxxM7jRm74BrA0I0+95Go2hlBAP+ypsD/X18LETbEqEq6s4bDCaCNC9qmWEYRbuh03t5RMbfXELYI5voixOIF9ybQIMvSE2aU=;rzzmJnW0398dEKnD7tRf8A=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "C10bAo9Tf4grkWrJEaNLAoiEy3C9zITSoSdu9qG9pkEEOZeEpxzwWyimjurQsWATryEk+vvvHyeSeBmtlaxKjMqTRMq5diS54PkA8gZlRDuwfP/YII1fV5mFfQF+sfWxhf7j9OZnnPyYANwVBikqogA1eTOJSKtqxUaAnX5kxGFA12yfpNX0VKtFvmGoAV9Jvt7pkBlKul8pqADnY2D9VEESgfhQ7PooO1FLO9Sj3ydDuYrv8kpxdUovsR8mGjcADHkS6DNC0IO/sNkbY3rkKWlcxfkU/4pF3zRF4QvC0OJWl0VizkNKRbocs5sV1JJGHmvE9180oYiQyjYRyV5E7tLcresROtIXUp9l46dHYpI=;AWb6E2sEwohtrd+RleBtjQ=="
 ---
 

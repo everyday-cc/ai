@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dola
 webUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Everything We Know About the Facial Recognition Scandal at Madison Square Garden"
-    excerpt: "MSG Entertainment is using facial recognition to identify, accost, and remove attorneys involved in lawsuits against it. It's doubling down on doing it."
-    publishedDateTime: 2023-01-30T11:00:00Z
-    webUrl: "https://gizmodo.com/madison-square-garden-facial-recognition-what-we-know-1850041475"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 44
   - title: "James Dolan defends MSG’s use of facial recognition"
     excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
     publishedDateTime: 2023-01-30T16:43:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/pitch-deck-construction-robotics-c
 webUrl: "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2"
 type: article
 quality: 90
-heat: 90
+heat: 91
 published: true
 
 provider:

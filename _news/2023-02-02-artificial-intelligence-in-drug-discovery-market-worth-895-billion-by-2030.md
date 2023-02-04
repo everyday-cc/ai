@@ -28,6 +28,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 26
+  - title: "The Worldwide Deep Learning Industry is Projected to"
+    excerpt: "The global market for Deep Learning estimated at US$33.8 Billion in the year 2022, is projected to reach a revised size of US$320.6 Billion by 2030, growing at a CAGR of 32.5% over the analysis period 2022-2030."
+    publishedDateTime: 2023-02-03T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-deep-learning-industry-projected-reach-3206-billion-/2023/02/03/9754992.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "92NBmsdj7xx7Ho2FnCfqzuAQmCF+l5F9NEzjyMgZRvI7PZKX2nU56X4O73feZWucEYtqf+ewE1OUVmg1ky+flCHApa+EOFCJqyfh4V0iGucU7V+XEwZHVgXNSfrK5P8wbTDn4a/tRxiO+QTGpPBfPJDpypsEavS7v5DfP5GkUbu8j1/4a/5BAtYATMtUHgX45uBcIVZw/QZiKJLjWPau+OZK9nPyuBjmUdzCg+HEzJDtgeG9t5mtolhTFEhJo/xbVNZ8t6KYVACT9NL7Gm0vD9fo6mP4nhYwxrc8byNKzYNvaMj20aJ7O5jlgjQz/hwAYadDPs/Qg9RlmMvQiX4oeo6tp9RxMPLnH2KpYK3dI3E=;oREVnyrBjSYVA7bkuehW8g=="
 ---

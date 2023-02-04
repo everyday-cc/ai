@@ -70,15 +70,6 @@ related:
       name: Commercial Integrator
       domain: commercialintegrator.com
     quality: 14
-  - title: "Sony releases two 4K PTZ cameras"
-    excerpt: "Sony has launched two 4K PTZ cameras, which both include built-in AI Analytics. The SRG-A40 and SRG-A12 automatically track and frame presenters without the use of a computer, as well as automatic operation for quick object tracking and rediscovery and multiple auto framing options."
-    publishedDateTime: 2023-01-30T10:48:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech/sony-releases-two-4k-ptz-cameras/5178605.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 4
 
 secured: "S2lW+x4LKrceXSGN1G9t7fVsU7u7DXUkWEE55GVr1MJDwg0jnkmAc2A2g9PKxLctwre4pDoiL8tukExoOFFpFe2q80e8vJLW7ug8w+HY0FTu5LcC8RQAd35+ohCyTNaPBaqwNlEvkt1XGEXuVgjjgEhV5oQCsHzjhjp5nuXIxjcTH9kK/U7/d5KH06JtbD1DiO3Avku59Q5zWVg3R93gL4iFqzMxdA+aR2JuN8dZ0DHOZSAg6I73j30ZBmfm30HCQzDLPn8Je146PYGuwGOkaSEfSWbMmOfSdtfv2Sjn9WcFmXWFOH33HNcySbWPZU2Y+6Byxj4hLPDyfo3HfQxIFQrjPpn1g2YZK56UuzvGsPuF0MCOMjIdJzO9ZuqRKGLIPQpEeWW4vijLAl97ZCGn0oVx7TJgH7esu17mZk1Yx0etZ49nP06u1flbFanhBvxFQPYcqvhRY3p5Vbsm30BgyDhlOtIbVF7SEE/7T2ZI4NMzxIFAjxSHluwbtD3pi+2YVrlWKbPQDWiiUkKUnHD+2g==;jIaH0TQmKnzxPUNhpyQcqg=="
 ---

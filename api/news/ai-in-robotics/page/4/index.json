@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-01-07-more-businesses-are-expected-to-integrate-artificial-intelligence-technology-into-their-operations-and-decision-making-processes-in-2023.md",
-      "title": "More businesses are expected to integrate artificial intelligence technology into their operations and decision-making processes in 2023.",
-      "excerpt": "More businesses are expected to integrate artificial intelligence technology into their operations and decision-making processes in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/ben-sherry/we-asked-chatgpt-and-sophia-the-robot-to-predict-the-impact-of-ai-on-the-business-world-heres-what-they-said.html",
-      "originalUrl": "https://www.inc.com/ben-sherry/we-asked-chatgpt-and-sophia-the-robot-to-predict-the-impact-of-ai-on-the-business-world-heres-what-they-said.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-07-robot-lawyer-powered-by-ai-will-help-fight-speeding-ticket-as-it-takes-first-case-in-court.md",
       "title": "‘Robot lawyer’ powered by AI will help fight speeding ticket as it takes first case in court",
       "excerpt": "The AI, billed as “the world’s first robot lawyer” by the startup that created it, DoNotPay, will run on a smartphone and listen to court arguments in real-time before telling the defendant ...",
@@ -1372,6 +1338,52 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-2022-the-year-in-ai-and-robotics.md",
+      "title": "2022 - the year in AI and Robotics",
+      "excerpt": "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "originalUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png",
+          "width": 1536,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "IBM AI"
       ]
     }
   ],

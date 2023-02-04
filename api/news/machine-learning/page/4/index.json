@@ -2,41 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-01-05-artificial-intelligence-and-machine-learning-in-2023.md",
-      "title": "Artificial Intelligence and Machine Learning in 2023",
-      "excerpt": "As 2022 drew to a close, once again the overblown hype surrounding fully automated driverless trucking ... significant—new kid on the artificial intelligence (AI) block is the family of natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aei.org/technology-and-innovation/artificial-intelligence-and-machine-learning-in-2023/",
-      "originalUrl": "https://www.aei.org/technology-and-innovation/artificial-intelligence-and-machine-learning-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Enterprise Institute",
-        "domain": "aei.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-01-05-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
       "title": "Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
       "excerpt": "Able to run speech inferences at 280 microwatts, the NDP115 is designed to natively run multiple deep neural networks on a variety of architectures, such as CNNs, RNNs and fully connected networks. Ideal for close-talk, far-field, keyword speech and audio ...",
@@ -1268,6 +1233,49 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-26-26-ai-experts-who-left-google-to-start-new-companies-in-2022-as-machine-learning-ushers-in-a-new-era-of-lifelike-ai.md",
+      "title": "26 AI experts who left Google to start new companies in 2022 as machine learning ushers in a new era of lifelike AI",
+      "excerpt": "Google researchers created the most widely-used AI technique. Now they're venturing off for a new wave of cutting-edge machine-learning startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/26-ai-machine-learning-experts-left-google-for-startups-2022-12",
+      "originalUrl": "https://www.businessinsider.com/26-ai-machine-learning-experts-left-google-for-startups-2022-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-26T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

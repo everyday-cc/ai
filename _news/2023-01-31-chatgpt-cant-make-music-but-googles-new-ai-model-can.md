@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Baidu to launch AI Chatbot, Rivaling OpenAI’s ChatGPT"
-    excerpt: "Baidu to launch AI chatbot similar to OpenAI's ChatGPT in March. Standalone app and search engine integration."
-    publishedDateTime: 2023-01-30T09:45:00Z
-    webUrl: "https://www.gizmochina.com/2023/01/30/baidu-ai-chatbot-rivaling-openai-chatgpt/"
-    ampWebUrl: "https://www.gizmochina.com/2023/01/30/baidu-ai-chatbot-rivaling-openai-chatgpt/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/01/30/baidu-ai-chatbot-rivaling-openai-chatgpt/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 89
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/01/baidu-ai-chatbot-rivaling-openai-chatgpt.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Who will compete with ChatGPT? Meet the contenders | The AI Beat"
     excerpt: "ChatGPT turns two years old today. But competitors are hot on its heels. Meet the contenders for the chatbot crown."
     publishedDateTime: 2023-01-30T16:23:00Z

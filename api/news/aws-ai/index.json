@@ -150,6 +150,50 @@
       ]
     },
     {
+      "path": "_news/2023-02-01-aws-cto-vogels-slams-chatgpt-on-cloud-security.md",
+      "title": "AWS CTO Vogels slams ChatGPT on cloud security",
+      "excerpt": "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
+      "originalUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/chatgpt.jpg",
+          "width": 1108,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask.md",
       "title": "Amazon SageMaker built-in LightGBM now offers distributed training using Dask",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -1388,49 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-what-does-it-really-take-to-be-a-leader-when-it-comes-to-cloud-databases.md",
-      "title": "What does it really take to be a leader when it comes to cloud databases?",
-      "excerpt": "Or it could be that Gartner positioned AWS highest in execution and furthest in vision in its 2022 Magic Quadrant for Cloud DBMS. In fact, both points support each other, says the company. AWS has become a leader in the cloud-native database market precisely because it pays such close attention to what customers need from their database infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/",
-      "originalUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/12/02/shutterstock_cloud_servers.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2023/01/10/what_does_it_really_take/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/10/what_does_it_really_take/",
-      "publishedDateTime": "2023-01-10T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

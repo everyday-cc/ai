@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-03T18:52:00Z
 originalUrl: "https://hothardware.com/news/radeon-780m-leaked-3dmark-heres-how-it-did"
 webUrl: "https://hothardware.com/news/radeon-780m-leaked-3dmark-heres-how-it-did"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "bv+nqbn1cCKEvqUJxIes5O83hlgUb5No0gFJ5VZsTK3EfKWvHFpTVCpZnhJ3HU1/beIAGTTsdujxjDGswM+V2ZigAmVcvjsiHT7mtiZiSU/njaeYb339I8MgRsiGBJMwkGO/hZp6kMeMmYfibxRZdnkwg36ce16XFJis8aKro8rcGKs2D4FXYJ0RmS05mJ2Jw3bj+0RyBO82ejAE7LUv8ioxLaP0/6ZpCZBOxzbJ6YYa7tDAdWFntX+HkL0N9tjhb9J6y87HhExth2Wd+KkBAZJ/IT33ue7hkJTqecYir5p++pU9VKqtQWHWBw49RZFrKTq99rOasQ3Ob7qbFEhFvPMhv6TBCdxMrRJYlGkYefo=;jY0Tj4PGXs+qRCw4paCRGQ=="
+images:
+  - url: "https://images.hothardware.com/contentimages/newsitem/60827/content/hero-ryzen-7000-series.jpg"
+    width: 708
+    height: 398
+    isCached: true
+
+secured: "EXC33sCru6TPJ+dL3ywLGrLk0CexolAdAgHdygBQj5YxyG3injEMA1Kis1Vp8rctYkBWjwjkOdmeDlbhNY26V8LZuLpoBBn4tKbjFvrm6yIQEt/DSmXAWpSVFJtqWcL8Gwyk7VTtYTAhfsO2g2kIiBXv4WdvWgKQtT1Bz6LZxPNetNgz5S0P4vDgp5KDvcm0P+pH914my+7pv/z2uhyg0NFBr/9EMBsFvjd2/SsCXnrI3YKYi6yIlX3SPfjg+4RUHcuIAtWI0XdU4rWW5y0ILk+EGSZLTKhUYIgiYv1znmzLeQhuvzebsBW1D/G6OdDGyKKsGGP9VEP2ROE6tmW1DKhlswpBwF0nEv9F5HBEBJo=;GgqydhobmkkynCJMhuWyMg=="
 ---
 

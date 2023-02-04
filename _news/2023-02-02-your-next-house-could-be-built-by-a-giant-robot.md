@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-02-house-built-giant-robot.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-house-built-giant-robot.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "These robots might build your house"
-    excerpt: "The construction industry is in a crisis, and more companies are turning to robots to automate tasks on the job site."
-    publishedDateTime: 2023-01-30T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/01/30/construction-companies-robotic-technology/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GKHTU6OBLYGRBADJ2KBSVQ5TEU.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
   - title: "Your next house could be built by a giant robot"
     excerpt: "The “3D printers” control nozzles spouting concrete mix based on programmed coordinates, similar to a desktop 3D printer but at a much larger scale."
     publishedDateTime: 2023-02-01T14:28:00Z

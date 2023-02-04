@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/aws-cto-slams-chatgpt-not-concerned
 webUrl: "https://www.crn.com/news/cloud/aws-cto-slams-chatgpt-not-concerned-about-the-truth-"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS CTO Vogels slams ChatGPT on cloud security"
+    excerpt: "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,"
+    publishedDateTime: 2023-01-31T21:28:00Z
+    webUrl: "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 56
+    images:
+      - url: "https://i.nextmedia.com.au/News/chatgpt.jpg"
+        width: 1108
+        height: 570
+        isCached: true
   - title: "Cascadeo IT Guru On AWS Charge, Tech Layoffs, ChatGPT And Why ‘Old IT World’ Hasn’t Died Off Yet"
     excerpt: "AWS partner Cascadeo is betting big on cloud computing growth, AI technology, OpenAI ChatGPT, while not being worried about tech layoffs at cloud market leaders Amazon, Microsoft and Google, says president Jared Reimer."
     publishedDateTime: 2023-01-30T20:08:00Z

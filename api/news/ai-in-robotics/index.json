@@ -53,7 +53,7 @@
       "originalUrl": "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -184,49 +184,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-02-your-next-house-could-be-built-by-a-giant-robot.md",
-      "title": "Your next house could be built by a giant robot",
-      "excerpt": "Hugo and Erica Briones, like thousands of other homebuyers in North Texas, are waiting patiently for their new home to be built—but their home is different.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-02-house-built-giant-robot.html",
-      "originalUrl": "https://techxplore.com/news/2023-02-house-built-giant-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/home-construction.jpg",
-          "width": 1920,
-          "height": 1233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-02-house-built-giant-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-house-built-giant-robot.amp",
-      "publishedDateTime": "2023-02-01T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-02-our-future-could-be-full-of-undying-self-repairing-robots-heres-how.md",
       "title": "Our future could be full of undying, self-repairing robots. Here's how",
       "excerpt": "With generative artificial intelligence (AI) systems such as ChatGPT and StableDiffusion ... But the rate of advancement in robotics—which we could think of as the potential physical embodiment of AI—is slow. Could it be that future AI systems will ...",
@@ -278,7 +235,7 @@
       "originalUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1345,6 +1302,49 @@
       "provider": {
         "name": "MSNBC",
         "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-roin-acquisition-strengthens-built-robotics-offering-and-unicontrol-steps-up-us-distribution.md",
+      "title": "Roin Acquisition Strengthens Built Robotics Offering and Unicontrol Steps up US Distribution",
+      "excerpt": "New developments at construction robotics organizations suggest 2023 ... They may be afraid of machine control.” While Unicontrol does not automate production, it does automate data collection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/article/22670947/built-robotics-unicontrol-announce-acquisition-distribution",
+      "originalUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/article/22670947/built-robotics-unicontrol-announce-acquisition-distribution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/01/shotcrete_robot.jpg.63d024156c3d0.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "For Construction Pros",
+        "domain": "forconstructionpros.com",
         "images": null,
         "publishers": null,
         "authors": null

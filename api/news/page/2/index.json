@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-03-more-business-owners-turning-to-artificial-intelligence-to-stay-competitive.md",
+      "title": "More business owners turning to artificial intelligence to stay competitive",
+      "excerpt": "WEST PALM BEACH, Fla. — It's becoming their smartest most efficient employee. More business owners are using artificial intelligence or AI assistants. WPTV looked at why entrepreneurs said it's changing the playing field in their industries. Coined the W ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive",
+      "originalUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f172a20/2147483647/strip/true/crop/1211x681+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F6e%2F0c%2F41b6fb60485dbbba26341a62515f%2Fai.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true",
+      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true",
+      "publishedDateTime": "2023-02-02T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPTV-TV",
+        "domain": "wptv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-ai-is-about-to-dump-more-work-on-everyone.md",
       "title": "AI Is About to Dump More Work on Everyone",
       "excerpt": "Better run the work through the AI-cheater check. Even educators who don’t want to use such a thing will be ensnared in its use: subject to debates about the ethics of sharing student work with OpenAI to train the model; forced to adopt procedures to ...",
@@ -1050,49 +1092,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-02-your-next-house-could-be-built-by-a-giant-robot.md",
-      "title": "Your next house could be built by a giant robot",
-      "excerpt": "Hugo and Erica Briones, like thousands of other homebuyers in North Texas, are waiting patiently for their new home to be built—but their home is different.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-02-house-built-giant-robot.html",
-      "originalUrl": "https://techxplore.com/news/2023-02-house-built-giant-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/home-construction.jpg",
-          "width": 1920,
-          "height": 1233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-02-house-built-giant-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-house-built-giant-robot.amp",
-      "publishedDateTime": "2023-02-01T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-02-trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden.md",
       "title": "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden",
       "excerpt": "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City",
@@ -1101,7 +1100,7 @@
       "originalUrl": "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Existing Drugs That May Help People Quit Smoking Identified by Machine Learning"
-excerpt: "They developed a novel machine learning method, where computer programs analyze data sets for patterns and trends, to identify the drugs and said that some of them are already being tested in clinical trials. Cigarette smoking is a risk factor for ..."
-publishedDateTime: 2023-02-01T10:17:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
-webUrl: "https://www.technologynetworks.com/tn/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
+excerpt: "Researchers have used machine learning to identify genes related to smoking behaviors and find existing medications that may be able to be repurposed to help people quit smoking."
+publishedDateTime: 2023-02-01T10:11:00Z
+originalUrl: "https://www.technologynetworks.com/drug-discovery/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
+webUrl: "https://www.technologynetworks.com/drug-discovery/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
 type: article
 quality: 35
 heat: -1
@@ -58,6 +58,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "IXTuPEOsIpphdTkct6/l/fLxT4F2HPL7zCD5sjwBlJQCNP/7bttmixYm3SgfdRWCqIYP1NhGnD4Wm40jN8gJJ9pVGci0/5oZswAYYgh/vgJ53za//hnI/6K/G1ZpVTPI3uILhsKn7JMfYCWfWCGYAa5YhgAN8PSsTghWt7c6TZ4h/GZMsgTKBvfD2ruLOFVrae//qcWd+jnFZyxXAi+0ET9Ve0zTsIvhRyrZUmJ/Yiw6Qpz/x4hQlIURbe7/pcpus8LA9TrlZexS03P5z1NLKrcPoHp4puvlDObtK7+ZdCDQchXytielt+5X663woxO+Mhg+3DnS4yxL4QDjhD0CYRbeB9DkNBaYNQvsQXmXwj0=;GePIWYe2EGzLKx07jf+Hcg=="
+secured: "D6gxG0bXQa3BD5B3RqCi346Czr32BLxdyXVE3a9lQb67LNSylFDpFYNe4HZlRUh38BYhWBJ9gnn5ONNskyY9S+CbqCsEsu83a/7fTBKo/50BP1a6INETIHzRuZqBOclaAl94qHl3fwY/RvHAyXlq4sFCCwNcCfUpQWHnp9QcxhhBI4VPmeFMi9HF2TkFU0nR2LKCo1UGq5N8lRAEbRV5NPmKm8Hheqp8j4mwN8NwejJJs6Y3IyRpJRZP/7lUa0PKuO1EtuvSH33JplpgEcOdUSLa61QRMvQWPGwcSTZqVG/qXKIlMilRDqFG4QC18dVhlVEpPHWsvq420+c+cJ5OTRSzQS5A2SKMZdxOALQluL0=;yKDYKCY21M3OH1bpB9Dpmw=="
 ---
 

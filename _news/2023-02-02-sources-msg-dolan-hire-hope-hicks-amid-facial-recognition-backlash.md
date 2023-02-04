@@ -33,15 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Everything We Know About the Facial Recognition Scandal at Madison Square Garden"
-    excerpt: "MSG Entertainment is using facial recognition to identify, accost, and remove attorneys involved in lawsuits against it. It's doubling down on doing it."
-    publishedDateTime: 2023-01-30T11:00:00Z
-    webUrl: "https://gizmodo.com/madison-square-garden-facial-recognition-what-we-know-1850041475"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 44
   - title: "James Dolan defends MSG’s use of facial recognition"
     excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
     publishedDateTime: 2023-01-30T16:43:00Z

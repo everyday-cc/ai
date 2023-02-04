@@ -70,15 +70,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 19
-  - title: "Sony releases two 4K PTZ cameras"
-    excerpt: "Sony has launched two 4K PTZ cameras, which both include built-in AI Analytics. The SRG-A40 and SRG-A12 automatically track and frame presenters without the use of a computer, as well as automatic operation for quick object tracking and rediscovery and multiple auto framing options."
-    publishedDateTime: 2023-01-30T10:48:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech/sony-releases-two-4k-ptz-cameras/5178605.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 4
 
 secured: "I3onvnwZGwzos0EP6nX5GbUvI2jRrBVBjjcGmyqmXlgGrKBdBDdUEPvMCUomkuso5EtJr0/a6CIriCCuN0TD+24CPK7uFwoXzejPAWERc/cuoj12ZaP7uh9nb+ucKH26tcb5x/BMF9GQSNaQXvBQsvjgitJwk2d5XPIMBr/IBcv1LaNDgZA4zjV1jeuI5pW61GJYErXeDg3jSGrzAwMPckBn7BhzujscPr1W6+eznc81PxTJ8L/V8AWkGKdTk0+BuZdaKoMuXDBuZoJtST7gQ1mRqdAMgKlGVPXu7qwBqJCEOjAz2HoRErmDBxr4elSpHBvQiMey/m4F6bIJovvuJszi8qQ3anJV4DycTcOM3UDH900+d2soDqUr1sE41NyF/RYkAwFwQrTm4XuTMg8upCkK8y18ba5a7z4ApbwSnBl97Ui/pIxcFSOCtQ93C+EuJg2/KxtAEkdIo1SbexMJiyrV2WsjsIpA6vg6DlNRqysOwe1BzFFBVo6HBUY7aWNbMo9kGLwq6gxDVU0Nm3Cryg==;mfO89F+JoH4ko5zY9PVfug=="
 ---

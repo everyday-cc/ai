@@ -33,15 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Everything We Know About the Facial Recognition Scandal at Madison Square Garden"
-    excerpt: "MSG Entertainment is using facial recognition to identify, accost, and remove attorneys involved in lawsuits against it. It's doubling down on doing it."
-    publishedDateTime: 2023-01-30T11:00:00Z
-    webUrl: "https://gizmodo.com/madison-square-garden-facial-recognition-what-we-know-1850041475"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 44
   - title: "Sources: MSG, Dolan hire Hope Hicks amid facial recognition backlash"
     excerpt: "The decision to hire Hope Hicks comes after it was revealed James Dolan used the controversial technology to boot fans critical of him from games and events at MSG-owned properties."
     publishedDateTime: 2023-02-01T17:29:00Z

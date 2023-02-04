@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-04-how-third-generation-ai-powered-digital-twins-can-save-energy.md",
+      "title": "How third-generation AI-powered digital twins can save energy",
+      "excerpt": "How advanced third-generation digital twins using AI algorithms can help producers accomplish their energy-saving goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/",
+      "originalUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/network-infrastructure.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/amp/",
+      "publishedDateTime": "2023-02-03T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-04-criminals-use-facial-recognition-to-rob-patrons-at-nyc-gay-bar.md",
       "title": "Criminals use facial recognition to rob patrons at NYC gay bar",
       "excerpt": "Police say criminals used facial recognition technology to steal thousands of dollars from patrons at a New York City gay bar. NBC’s Matt Lavietes has more on how these crimes are occurring and what authorities are advising for protecting oneself from these incidents.",
@@ -156,7 +207,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2023/02/03/should-you-invest-in-artificial-liquid-intelligence-exploring-the-marriage-between-nfts-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -654,7 +705,7 @@
       "originalUrl": "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1198,48 +1249,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-more-business-owners-turning-to-artificial-intelligence-to-stay-competitive.md",
-      "title": "More business owners turning to artificial intelligence to stay competitive",
-      "excerpt": "WEST PALM BEACH, Fla. — It's becoming their smartest most efficient employee. More business owners are using artificial intelligence or AI assistants. WPTV looked at why entrepreneurs said it's changing the playing field in their industries. Coined the W ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive",
-      "originalUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f172a20/2147483647/strip/true/crop/1211x681+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F6e%2F0c%2F41b6fb60485dbbba26341a62515f%2Fai.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true",
-      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true",
-      "publishedDateTime": "2023-02-02T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPTV-TV",
-        "domain": "wptv.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

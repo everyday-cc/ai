@@ -37,6 +37,22 @@ related:
         width: 2880
         height: 2106
         isCached: true
+  - title: "Humanoid robots to take centre stage at UN meet on AI"
+    excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic."
+    publishedDateTime: 2023-02-04T01:28:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/humanoid-robots-take-centre-stage-un-meet-ai-404903"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/humanoid-robots-take-centre-stage-un-meet-ai-404903?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/humanoid-robots-take-centre-stage-un-meet-ai-404903?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 74
+    images:
+      - url: "https://img.astroawani.com/2023-02/71675420786_LONDON.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "Union Budget 2023: Centre bets big on Artificial Intelligence, IoT"
     excerpt: "Nirmala Sitharaman added that the National Data Governance Policy will enable anonymised data and the KYC process will be simplified by adopting a risk-based system"
     publishedDateTime: 2023-02-01T06:42:00Z

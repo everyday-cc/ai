@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "The Worldwide Deep Learning Industry is Projected to"
+    excerpt: "The global market for Deep Learning estimated at US$33.8 Billion in the year 2022, is projected to reach a revised size of US$320.6 Billion by 2030, growing at a CAGR of 32.5% over the analysis period 2022-2030."
+    publishedDateTime: 2023-02-03T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-deep-learning-industry-projected-reach-3206-billion-/2023/02/03/9754992.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Artificial Intelligence in Drug Discovery Market Worth $8.95 Billion by 2030"
     excerpt: "Meticulous Research®—a leading global market research company, published a research report titled, Artificial Intelligence in Drug Discovery Market by"
     publishedDateTime: 2023-02-02T12:30:00Z

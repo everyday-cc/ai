@@ -104,7 +104,7 @@
       "originalUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -774,7 +774,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 923,
+      "heat": 913,
       "tags": null,
       "images": [
         {
@@ -919,6 +919,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-aws-cto-vogels-slams-chatgpt-on-cloud-security.md",
+      "title": "AWS CTO Vogels slams ChatGPT on cloud security",
+      "excerpt": "Amazon Web Services’ popular chief technology officer, Werner Vogels, slammed OpenAI’s ChatGPT regarding its answer to one of his questions regarding cloud cybersecurity. Vogels checked out ChatGPT's responses to cloud security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
+      "originalUrl": "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/chatgpt.jpg",
+          "width": 1108,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1211,49 +1255,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-wesh-2-exclusive-meeting-sophia-the-ai-robot.md",
-      "title": "WESH 2 Exclusive: Meeting Sophia the AI Robot",
-      "excerpt": "SANIKA: ROBOLAND FEATURE SEVERAL ROBOTS, LIKE ROBO THESPIAN, ROBO I-PAL, EVEN A ROBO FISH, BUT ONE SPECIAL ROBOT IS THE MAIN ATTRACTION, SOPHIA. WESH 2’S JASON GUY HAS THE STORY. >> MY NAME IS SOPHIA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "originalUrl": "https://www.wesh.com/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/ae4ebf35-5ee0-4848-a320-2d48bc3ab273/ae4ebf35-5ee0-4848-a320-2d48bc3ab273_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "publishedDateTime": "2023-01-31T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
