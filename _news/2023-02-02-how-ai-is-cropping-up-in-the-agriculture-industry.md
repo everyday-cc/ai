@@ -141,15 +141,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 31
-  - title: "AWS launches Data Lab program in India"
-    excerpt: "AWS Data Lab is designed to bring enterprise customers and AWS data specialists together to solve complex data challenges in tangible ways, using AWS products and services."
-    publishedDateTime: 2023-01-30T11:35:00Z
-    webUrl: "https://www.cio.com/article/420300/aws-launches-data-lab-program-in-india.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 19
 
 secured: "Jr7T/E1+bo/L7C5p1SXrcXyIsCOQHeUWJcXo/5TJeFfQw63wJFF1ROrk/qJ7xFWXu01i4SW1jD3PUJbutvGNYhczmcTn9x+3dxQXoYt50bQVgwu/Jn06Dr0vBz/kZuW94xgvP2JrRoxJ0MxNaKfhVP+9z4kQ6wRRZiqQFxe4PjyEhJ5BOeeqbDhr/ao/ZILBzaZVqsmnCnQdtG6xFuSYu3NPhNyyicLysyFxC2vV92cG4IzBUHNFhxftiNTpSoJpGlitJclbpfM2wnMsdWxcFtdS6mp2bryvZrzu0ERbsPlxXCbp1sJXqr31pMFM/A/sNovYAFi/+mXyM0080WQ6xt4Jq4bCb8/hYTKLlaZXEkJrcxOj5dKIbQlgCPfb8Zbu6beBYMyvLxPOvRVNMrXtgy04dnk8CEFw5O4USGfs2bCgvMoEfSqkQn9Hd9gkj7t/RwmfYZPYeJLr5SBrnIPM948t9VUZiE1Q9K/P4k0LijLNA26jRcsvH7X+N55DkNU9zJQofgdSXHGxgtvn6rMivg==;io3lf3ADiP5oQtoryOzgMg=="
 ---

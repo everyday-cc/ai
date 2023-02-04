@@ -348,22 +348,6 @@ related:
         width: 1200
         height: 580
         isCached: true
-  - title: "Baidu Plans Rival to ChatGPT. China’s Google Wants to Be Its AI Champion."
-    excerpt: "Chinese internet company Baidu is readying the launch of its own artificial-intelligence-powered chatbot, similar to ChatGPT, according to reports. Baidu (ticker: BIDU) plans to integrate the ..."
-    publishedDateTime: 2023-01-30T11:08:00Z
-    webUrl: "https://www.barrons.com/articles/baidu-china-chatgpt-google-microsoft-ai-51675075605"
-    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-china-chatgpt-google-microsoft-ai-51675075605"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-china-chatgpt-google-microsoft-ai-51675075605"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 58
-    images:
-      - url: "https://images.barrons.com/im-49068/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "A top UK private school is changing its approach to homework amid the rise of ChatGPT, as educators around the world adapt to AI"
     excerpt: "Jane Lunnon, the head teacher of the $28,000-a-year Alleyn's School, told Insider: \"Everyone is talking about it in education.\""
     publishedDateTime: 2023-01-30T16:16:00Z
@@ -915,15 +899,6 @@ related:
         width: 414
         height: 276
         isCached: true
-  - title: "How Google’s Sparrow AI Tool Is Looking To Kill ChatGPT"
-    excerpt: "The new generation of language models used in Google's AI tool Sparrow is designed to provide improvements to all the"
-    publishedDateTime: 2023-01-30T12:00:00Z
-    webUrl: "https://www.techbooky.com/how-googles-sparrow-ai-tool-is-looking-to-kill-chatgpt/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 19
   - title: "ChatGPT new feature can distinguish text written by AI"
     excerpt: "OpenAI, which released the viral ChatGPT chatbot last year, unveiled a tool that’s intended to help show if text has been authored by an artificial intelligence program and passed off as human. The tool will flag content written by OpenAI’s products as well as other AI authoring software."
     publishedDateTime: 2023-01-31T19:45:00Z
@@ -1032,24 +1007,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 11
-  - title: "ChatGPT Privacy Threat is Real and We are Late"
-    excerpt: "Working with neural networks is such that it is almost impossible to set standards on how AI systems should be made and tested"
-    publishedDateTime: 2023-01-30T12:20:00Z
-    webUrl: "https://analyticsindiamag.com/chatgpt-privacy-threat-is-real-and-we-are-late/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 4
-  - title: "What’s the Antidote to ChatGPT?"
-    excerpt: "While ChatGPT’s superhuman capabilities have amazed the world, they have also stoked fear in the educational community about the chatbot’s misuse"
-    publishedDateTime: 2023-01-30T11:29:00Z
-    webUrl: "https://analyticsindiamag.com/top-7-tools-for-detecting-ai-generated-content/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 4
   - title: "How Will ChatGPT Impact the Tech Sector?"
     excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
     publishedDateTime: 2023-01-30T18:38:00Z

@@ -136,15 +136,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AWS launches Data Lab program in India"
-    excerpt: "AWS Data Lab is designed to bring enterprise customers and AWS data specialists together to solve complex data challenges in tangible ways, using AWS products and services."
-    publishedDateTime: 2023-01-30T11:35:00Z
-    webUrl: "https://www.cio.com/article/420300/aws-launches-data-lab-program-in-india.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 19
 
 secured: "jO+6EDPPh4YqK4JBPATSQGXcJMBESWF3Uw0AO9wJ1Xx8HONPBbhJcaUGqistRCuTe0EN+ZCucl2hD7psxHVv+VLk33A3mEGM8LSudY6xmHIQiTjc1iio69AFrs7Qmgqe/w7XiY++a4lCZDdpJk82K5jh/ARqe6VzTcQ6i5th3xBO5GKl4iaUnNwRoh4huEAxKoYSRohbQXpUxjDx9OqoR5Qe++Hvlz3oD4oYKfLXbdwt1K/PSqX8NdbTubITcGjaMbYo+1y+C+byZ3DQY7gSJ3ZC3nriffTKLb0Rv4OfJlXdMk7aWG7IpmOQ2EOEha9luNehfmG5dbdFANdPKQt3gRFHSoIQsOIM9Iu675S63C8=;f8OiJ/KMmXP6alc7EjuETA=="
 ---

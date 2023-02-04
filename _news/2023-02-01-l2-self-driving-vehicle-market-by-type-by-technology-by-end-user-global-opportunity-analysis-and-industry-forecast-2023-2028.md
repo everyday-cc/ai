@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market: 2023 Complete Research on Prominent Player, Business Prospect, and Growth Rate By 2029"
-    excerpt: "Pages Report] The Artificial Intelligence (AI) in BFSI market research report includes the total number of facts"
-    publishedDateTime: 2023-01-30T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-2023-complete-research-on-prominent-player-business-prospect-and-growth-rate-by-2029-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "AI In Fintech Market Size Share, Trends, Segmentation, Top Key Players, Growth And Forecast To 2023-2033"
     excerpt: "The global AI in Fintech market was estimated at USD 6.67 billion<br />and is expected to reach USD 22.60 billion. The market is also expected to"
     publishedDateTime: 2023-02-02T12:27:00Z
