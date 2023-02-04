@@ -2,40 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2022-12-06-coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation.md",
-      "title": "CoreWeave Secures $100M to Expand NVIDIA HGX H100 GPU Offering, Usher in New Era of AI Innovation",
-      "excerpt": "NVIDIA HGX H100 supercomputing - joining Amazon, Google, Microsoft and Oracle as the initial cloud providers to supply the trailblazing AI platform. CoreWeave is on pace to grow year-over-year revenue by over 450%,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-06-invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors.md",
       "title": "Invea Therapeutics Appoints Mr. Jason Fenton to Its Board of Directors",
       "excerpt": "Mr. Fenton augments board expertise as the Company readies for Phase 1b/2 execution of lead program targeting mast cell biology",
@@ -1195,6 +1161,41 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-amazons-new-chip-moves-aws-into-high-performance-computing.md",
+      "title": "Amazon’s new chip moves AWS into high-performance computing",
+      "excerpt": "Peter DeSantis, a senior vice president who oversees most of AWS’s engineering teams, said in an interview that the product is a springboard for making what the industry calls high-performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/amazons-new-chip-moves-aws-into-high-performance-computing/",
+      "originalUrl": "https://www.seattletimes.com/business/amazons-new-chip-moves-aws-into-high-performance-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

@@ -33,6 +33,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "James Dolan’s Facial Recognition Policy May Force Madison Square Garden to Find a New Location"
+    excerpt: "Madison Square Garden’s permit is up for renewal, but will backlash from the venue’s facial technology ban affect its ability to operate above Penn Station?"
+    publishedDateTime: 2023-02-04T12:01:00Z
+    webUrl: "https://observer.com/2023/02/james-dolans-facial-recognition-policy-may-force-madison-square-garden-to-find-a-new-location/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 27
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/02/GettyImages-1244469752.jpg?quality=80&#038;strip"
+        width: 7796
+        height: 5200
+        isCached: true
 
 secured: "Tk8aPJ7FfJt9Up6w2C84EuxAYUusX/qS9bFl3QmIrqp5vWU/A47eZIoYTj/PbXgDar2g00M3f+7J7I1DigbzPz6t09yO5JdLOg/K69x6STm/YQIOfIxGZO/eh1KWbFLlMtxDypKnvkd/ZG3mDSrXhLk2UbjBC0yz2c3s4jmNYZ8YAwk2GzuTvm3xDAI0UGrc+p7YZnYq1DShkZhooE1PgkJr7Q2zMecA4/STIyYBUeqkEfpqccdWgx2UlMcffZRQXAVn/G33jJZXjMsBWgHpQICIcGzxZJucMGbm0+MnLtBl4HKbMZOdJa7azjcSCnHrSWklvNJ0i7x9bHimLMXF7/8Kyj9H3hyRS//q9Jb53Uc=;I7jEjhTznPCws7Ask2y82Q=="
 ---

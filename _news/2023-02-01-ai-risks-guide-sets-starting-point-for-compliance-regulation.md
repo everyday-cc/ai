@@ -68,6 +68,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Lawmakers seek rules for artificial intelligence"
+    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
+    publishedDateTime: 2023-02-04T10:00:00Z
+    webUrl: "https://www.gloucestertimes.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_d81ed187-6dea-5fd9-a14a-a17eb1910acd.html"
+    type: article
+    provider:
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "gcz+Ylyc3AMLFHXlxfgjDT0FuEWJNf2jphvcWTaZz0iq7fKn520QhkUrHxbrz8H3m9/uFT0I8vJchjsu9LzjtCfQUEzY+Uu31mN+kDbyqhZpUrouSTUqZDVR3ORrCooiL1+pI+qmcaKm06aurMcEDngi/Q6SyhVdQ14x8isyax0wUfd6i1UewUx+39OKEyWG312WvHH+DUqnoBbcls44aOLtRiTeGRXu9jiARYiQbE48G3S81C3+7V3cmaMXtSeYYiwOlVahAok8Zmgsy1W8Bb0q7yIVyrpaat0nRrQNDVsPhznwGUWUV/HSFQ1UOxUBYUXPVX6+TgDhGrw+4Bs1QSuqJ3IMgZVOhpCfWoyhH7BkaMEqe+WppSqY93nH51U5XDnfnnq7boWSuAnnd7Kd+NNaF2hUkbeM/oyEuJQ0ZDFAAkjXNzAzbE1eN/RNg7QxmyzbErOcNOlYv5zYHnF1nyT98lvMzShlPNqx9gw53kmTjNlL3TyfbzyrtTPCCjL2eSpDF2Lh0dHVnZ0Jpk1RaA==;VVDzfs+uZZMFyMfM8QGlww=="
 ---

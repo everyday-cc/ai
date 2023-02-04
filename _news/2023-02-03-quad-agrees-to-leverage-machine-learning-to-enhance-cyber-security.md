@@ -1,49 +1,34 @@
 ---
 category: news
-title: "Quad agrees to leverage machine learning, related advanced technologies to enhance cybersecurity"
-excerpt: "In the longer term, the Group committed to leverage machine learning and related advanced technologies to enhance cybersecurity and establish secure channels for Computer Emergency Response Teams and"
-publishedDateTime: 2023-02-03T03:27:00Z
-originalUrl: "https://www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html"
-webUrl: "https://www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html"
-ampWebUrl: "https://www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html/amp"
-cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html/amp"
+title: "Quad agrees to leverage machine learning to enhance cyber security"
+excerpt: "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced technologies to enhance cyber security, the White House has said."
+publishedDateTime: 2023-02-03T03:46:00Z
+originalUrl: "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
+webUrl: "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
 type: article
-quality: 48
-heat: -1
-published: false
+quality: 78
+heat: 118
+published: true
 
 provider:
-  name: Firstpost
-  domain: firstpost.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
+  - Machine Learning
+  - AI in Security
 
 images:
-  - url: "https://images.firstpost.com/wp-content/uploads/2023/02/ANI-20221102065819.jpg"
-    width: 640
-    height: 362
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/24/full/1632506444-4684.jpg"
+    width: 620
+    height: 464
     isCached: true
 
 related:
-  - title: "Quad agrees to leverage machine learning to enhance cyber security"
-    excerpt: "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced technologies to enhance cyber security, the White House has said."
-    publishedDateTime: 2023-02-03T03:46:00Z
-    webUrl: "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 78
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/24/full/1632506444-4684.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Quad to leverage machine learning, related advanced technologies to enhance cyber security"
     excerpt: "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced ... methodology will encourage major software services, products, and providers leveraged by ..."
     publishedDateTime: 2023-02-03T04:10:00Z
@@ -59,6 +44,22 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2023/Feb/1675396517_1648877835_cybersecurity.jpg"
         width: 558
         height: 372
+        isCached: true
+  - title: "Quad agrees to leverage machine learning, related advanced technologies to enhance cybersecurity"
+    excerpt: "In the longer term, the Group committed to leverage machine learning and related advanced technologies to enhance cybersecurity and establish secure channels for Computer Emergency Response Teams and"
+    publishedDateTime: 2023-02-03T03:27:00Z
+    webUrl: "https://www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html"
+    ampWebUrl: "https://www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cybersecurity-12094762.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 48
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/02/ANI-20221102065819.jpg"
+        width: 640
+        height: 362
         isCached: true
   - title: "India, US, Australia, Japan to Use Machine Learning in Bid to Enhance Quad Members’ National Cyber Capabilities"
     excerpt: "Quad group to focus on tackling Chinese threat in telecom, 6G technology Quad includes Australia, India, Japan and the United States Officials of Quad group met in New Delhi on January 30 and January"
@@ -86,6 +87,6 @@ related:
       domain: financialexpress.com
     quality: 25
 
-secured: "qhiiK0daWU0xQlaVLfy7vcgBKCgGfLFo9A4BA9X75qtwGewwAXdb9GxnSpBZj1dAMQOCSzxujvQN4dknjwuNjUQwSL0yEwPzItI0WFqKFnGm8DxuTeI9pTP2+3eN3JHdX41OTXbp9woRSmfu6tybZKp8MdxQOYBYQs7Omk83HTj+vQayHozpBB4dY/TMeyDKxiXREF2sF6u2oklK3QOFoKdm7AoXla7sXsfKtutMysKpDd57RRmUmnIci2KnhXJaUO3VvdoMToZpTdM3oUvgbJKMuU5IAVPV3cq5NRCIFdR71LwYHpb75Fa35TtcFjhcO26Pi7fbL74fQq+rsV6n1kVnPH6Icc2K0Ef13BJskZ6mkX8H0RQCEEXfliOBz1bSB0/9J/FtUYwY6HzqeqTxanv2cF8yNZnUUYZPbkTmj/w44YLoC4asxl3fbhbUzopBt81HKtBt+Ip571kKoblctCPy5/K/W94+EIQL5FSwR4dco1i5oBsie+pt9PN2S7bi8+DH2Up0+TtFfR3RUTcPqQ==;Jk9Iqgl/B3x48V2BhYOi/A=="
+secured: "p0wTyHUIr1zNLYjfPdclpGvo5BCIDySAjC5ESfyZY00S8qxwBxhyLJ2hAD9u+UjG2bU8jYM56wdz0OhsylpcjqG2AhBBHv8DD7kYwF5bYGz8Jp1aarLCRSgQS0qNPp2wPpy8AhyGVp8n2xrNbXQnJmRgz+Y2WlnOYw8WajDH9tM1r7wsjwRS9h1Ef7uUG4Iv0hzI2O6kO9IBneRzz3bBgzzpUJFMLSdv4tRbZ24HWgOmd9du7BIaGlWa4Nhbo67KQ4OGvyK0J4y86vpfJ6CzV4ioDwBaLdBJUL38Zta/LfHKVWrwSm5LOKLa23T/fapnCxp4b3DT+GYs0mpllMFajL/mf1kSt69aKUgle6LeeOk=;sozKO+kSuCVPHcAfsQ++6Q=="
 ---
 

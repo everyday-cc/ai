@@ -55,15 +55,6 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 24
-  - title: "‘Loss of life is not recoverable’: California considers authorizing self-driving semi-trucks"
-    excerpt: "California’s DMV is hosting a public workshop Friday to discuss modifying state regulations around autonomous vehicles."
-    publishedDateTime: 2023-01-30T19:26:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article271692497.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 0
 
 secured: "Tf3WfJqrYeSvAdiItwHGKqSw6Qkvo/r4C1B+YYIGOQn8BZquKvhfpYlJancWFb5f06etpDpKcm+FBdiYtUl5FDmdvIQ9/b2EED5dim43OdEva7bPanx4rDmSqludSlqXY1zy4+3nx6FCAal7iQ1fY2etXqiCCvv39MbrE6qEdzR8j+EYLj/ybtgFxBSsXjXaAN+/BICMP9m/hpkk7EY0ucwGzLRtcYfhJ1D56zDpoWmsW7dT+FZRs7XwM4nrhocv9vCYrMp1MWtnnYQ0Jl286KbfDL8V91YeMVZgiJCDpJp0jxwqD/XYyP5MbPBNtcajiHl4cvQOmgdKQdSJZ2UNT0/4aHmwnPOnPvEE1DNglnmCG80a07OEj6yhsAhxijJHsPIioL0wQ0dMvWBSaPHSjhEGTyhBTbeOr9CCNzHURBP8ScO+3J72k+auh1GKks41e0a6nQsVUNJMSim0qq8CfOqBAtPCRc64IGOcOpFJ1NAf6oYZhkihHe/Joi5FQSr5N7/biEmwjkUSqsP6wjuCww==;zK2FeqzwzEg4qf2wth1d7A=="
 ---

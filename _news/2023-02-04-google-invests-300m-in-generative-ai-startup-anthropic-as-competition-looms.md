@@ -40,6 +40,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google invests $400 mn in AI start-up Anthropic: Can it be a gamechanger for the search giant?"
+    excerpt: "Google partnering with San Francisco-based start-up Anthropic, a rival to OpenAI’s ChatGPT, seems to be a clarion call for a fresh wave of changes in the search engine."
+    publishedDateTime: 2023-02-04T12:16:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 45
+    images:
+      - url: "https://images.indianexpress.com/2023/02/Google-and-Anthropic.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Google invested $300m in AI firm Anthropic, gains it as cloud customer"
+    excerpt: "For the investment, Google got a 10 percent stake in the company - and an exclusive cloud contract. \"We're thrilled to be able to partner with Google Cloud on training and deploying useful AI systems,"
+    publishedDateTime: 2023-02-04T11:12:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-invested-300m-in-ai-firm-anthropic-gains-it-as-cloud-customer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google-server_1.width-358.width-358.jpg"
+        width: 358
+        height: 208
+        isCached: true
   - title: "Google Invests $300M In Anthropic As Tech’s AI Arms Race Heats Up"
     excerpt: "Unwilling to let competitors win the battle for AI supremacy, Google invests $300 million in Anthropic, a rival to ChatGPT."
     publishedDateTime: 2023-02-03T18:48:00Z

@@ -41,20 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "A fairy-like robot flies by the power of wind and light"
-    excerpt: "The loss of pollinators, such as bees, is a huge challenge for global biodiversity and affects humanity by causing problems in food production. At Tampere University, researchers have now developed the first passively flying robot equipped with artificial muscle."
-    publishedDateTime: 2023-01-30T19:46:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/977927"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/afc3f908-e9d8-46f9-887b-4040d876504b/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "ubVtubrW1iYTGzDD9oEJvXjSWqCR2yZGJ32955Y1qD1czrMcHNL7tcwQDu6S4Re1t5ZEbHHOWw9XxlDDIYIvawXRABDbGo+BdKfj8Zh+IJgWZbEAWw/VJ63yDYmw/NMEjFY8k1PF+bo0nZuexKr5Dk5f3ZeLs1xKlQ+a+snzqtNlBC8fXoP3+2G6+7B7ysyZ3rl8LIBnvYy5OZRQNO5suFi6vrIMdNiyLeNiErPStiIsOuvmdrhSXWZ02Rbr5k3Yb+IkEC7XmdLmj3OEIIjVZG+MxrkylkZFllh1Zo4VJ8jmwkt8rtMtygu1EiW0hPEnoSRcGc9vZAWVaOzd2JCrYtbIY0n6GE/+prAA5oTXcAXVpFlu+XyTVx4Pzq+Ie6knHmEgBHzx07r5ixnHqDYyh3ghQwX+V/36vw35ID77fM0mFsPDBvC+qpLXQvb+qA1UbfhnLWyldNUJxxCSlvxXqPYlGzSnq5w7lj/EqtkiUVdoY6ihgI4S8U6x2CtiXDVsCpZc2UM9iEo9isTNM4ZKFQ==;sr05jj4uRYJuUsH8glqlsA=="
 ---

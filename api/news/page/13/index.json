@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2023-01-22-what-happens-to-a-large-language-model-llm-after-its-trained.md",
-      "title": "What happens to a large language model (LLM) after it’s trained",
-      "excerpt": "Different approaches to using large language models (LLMs) after they're built — their complexities and likelihood of advancement.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/",
-      "originalUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/amp/",
-      "publishedDateTime": "2023-01-21T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-22-nvidia-geforce-rtx-4080-review-deadly-gaming-gpu-but-not-cheap.md",
       "title": "NVIDIA GeForce RTX 4080 review: Deadly gaming GPU but not cheap",
       "excerpt": "Team green has already its Ada Lovelace architecture and its GPUs namely, RTX 4090 and RTX 4080 with massive price tags, looking as if both NVIDIA and Apple are competing with their pricing of iPhones and GPUs,",
@@ -1160,6 +1108,58 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-individuals-barred-from-top-nyc-venues-slam-use-of-facial-recognition-slippery-slope.md",
+      "title": "Individuals barred from top NYC venues slam use of facial recognition: ‘Slippery slope’",
+      "excerpt": "Kelly Conlon, who was kept from seeing the Rockettes, and Sam Davis, who was barred from attending a Rangers game, speak out against MSG Entertainment and James Dolan for their use of facial recognition on 'America's Newsroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6318967719112",
+      "originalUrl": "https://www.foxnews.com/video/6318967719112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a59fcf2c-07db-48d9-8cb6-3d4e5c54cb91/c444767f-fa42-4280-b081-73c50a1754d4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

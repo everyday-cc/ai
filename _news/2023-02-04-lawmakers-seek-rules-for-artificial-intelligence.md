@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Lawmakers seek rules for artificial intelligence"
-excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-publishedDateTime: 2023-01-31T08:26:00Z
-originalUrl: "https://www.newburyportnews.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_ec38668e-a0ba-11ed-856e-576a6de4e723.html"
-webUrl: "https://www.newburyportnews.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_ec38668e-a0ba-11ed-856e-576a6de4e723.html"
+excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
+publishedDateTime: 2023-02-04T10:00:00Z
+originalUrl: "https://www.gloucestertimes.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_d81ed187-6dea-5fd9-a14a-a17eb1910acd.html"
+webUrl: "https://www.gloucestertimes.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_d81ed187-6dea-5fd9-a14a-a17eb1910acd.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Daily News of Newburyport
-  domain: newburyportnews.com
+  name: Gloucester Daily Times
+  domain: gloucestertimes.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg?resize=600%2C315"
+  - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
     width: 600
     height: 315
     isCached: true
@@ -42,6 +42,20 @@ related:
         height: 675
         isCached: true
   - title: "Lawmakers seek rules for artificial intelligence"
+    excerpt: "Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
+    publishedDateTime: 2023-01-31T08:26:00Z
+    webUrl: "https://www.newburyportnews.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_ec38668e-a0ba-11ed-856e-576a6de4e723.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Lawmakers seek rules for artificial intelligence"
     excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
     publishedDateTime: 2023-02-03T15:59:00Z
     webUrl: "https://www.salemnews.com/news/lawmakers-seek-rules-for-artificial-intelligence/article_12af7512-a2a2-11ed-9cbd-dbdb65989ea3.html"
@@ -52,20 +66,6 @@ related:
     quality: 39
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/custom/image/29c67f80-6b81-11e5-9882-1ba0e94cc00f.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Lawmakers seek rules for artificial intelligence"
-    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
-    publishedDateTime: 2023-02-04T10:00:00Z
-    webUrl: "https://www.gloucestertimes.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_d81ed187-6dea-5fd9-a14a-a17eb1910acd.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
         width: 600
         height: 315
         isCached: true
@@ -84,6 +84,6 @@ related:
         height: 369
         isCached: true
 
-secured: "uDIsUmWeWaUgqsubn9JfbDGEk6Pgao8wqh2t5wkjn/fUUVaBM8OP1qY2/UWBJ1ZiC6O5OvJB3WlIGt8Yd4u5JRbIGxk9MPY98dmlUBdsm5Exuu2H8culN0LYVhN6uR5EcoUCVvZyA9fBSmE4DqH5QSj28Ew0RwcpJvpJYAHjN0E97w01hZt4k2HV6KFA4CwTpqmhIQH2eGWi56XhqVO3n1rhx/bUkkaFuz5E+pvvzdQh5MWYW5efN1ZCPCST60STH3WwJ66JYsUgeEE2dlGBEzpONhwNCU7aPpw/eU1z76GcqlPz5UpgccwPknY/68/sFqw1ei1AJubGbug6+wGi5Sv41pdJ7YhRuQKCoy9LOGQ=;Y3XYNrj/8l1zRl4JD4jRIw=="
+secured: "mLnrCwSf1z3z4jWA1/Nx6pRlyz8kyMUfDp8OhT6sOKCxR73xSD0b6L8TMBbiYIBpTNDxJuth7xeUkjfMY+ZPiMW+0eViy+lPdfHgK6AnaeAOwx8qq8dPMKwUzdF1WwhORNvJpAEEkwv0qn7LzYnVtJ723+IohgZk9KwUhesPuzfsUwYLiRjvr4aaquj80apOTtEPAE30O/Z/5Vomon8EZ1/OUMJlXB5WwokcwZtlzJlgtuP4EHqYeHKKwAwVStdwYR7NvDTY3uH9lpEZuqsqm0DvvI0a+xOi5y4LT88eJXOEQaBJpGmgr2W4z+3T+oSUV62/uokKmI55Q6dhDrRNhnXJf5SKEliJl8EjvcAR8YQ=;JbLbzng0bXxXeoFFmykT0Q=="
 ---
 

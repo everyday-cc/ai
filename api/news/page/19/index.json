@@ -2,40 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2023-01-17-ieee-introduces-new-program-for-free-access-to-ai-ethics-and-governance-standards.md",
-      "title": "IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards",
-      "excerpt": "IEEE, the world's largest technical professional organization dedicated to advancing technology for humanity, and the IEEE Standards Association (IEEE SA) announce the availability of a program that provides free access to global socio-technical standards in AI Ethics and Governance that provide guidance and considerations towards trustworthy AI.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/01/17/9743790.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/01/17/9743790.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-17-achieving-next-level-value-from-ai-by-focusing-on-the-operational-side-of-machine-learning.md",
       "title": "Achieving Next-Level Value From AI By Focusing On The Operational Side Of Machine Learning",
       "excerpt": "To this list, I would add another reason that I have seen many organizations struggle to achieve value from their AI projects. Companies often have invested heavily in building da",
@@ -1172,6 +1138,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo.md",
+      "title": "AI about to hit a level that could cause damage to humanity: DeepMind CEO",
+      "excerpt": "Google's DeepMind CEO Demis Hassabis has said AI is \"on the cusp\" of being able to make tools that could be damaging to humans. \"When it comes to very powerful technologies...we need to be careful,\" he said.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "originalUrl": "https://inshorts.com/en/news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/01_jan/16_mon/img_1673888098959_71.jpg?",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-about-to-hit-a-level-that-could-cause-damage-to-humanity-deepmind-ceo-1673889761715",
+      "publishedDateTime": "2023-01-16T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

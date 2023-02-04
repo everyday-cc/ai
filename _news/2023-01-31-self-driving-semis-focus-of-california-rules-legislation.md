@@ -59,15 +59,6 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 4
-  - title: "‘Loss of life is not recoverable’: California considers authorizing self-driving semi-trucks"
-    excerpt: "California’s DMV is hosting a public workshop Friday to discuss modifying state regulations around autonomous vehicles."
-    publishedDateTime: 2023-01-30T19:26:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article271692497.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 0
 
 secured: "9BLOifc1i6JuLBGWOHWIMsrZtVrkMbimlGep3kljL2/Sh8FndSSrI4n5CDEqgBZ1NSEYlFTf7++JafxpzKj2L92UDc24LYkVjAkeXRhGjIucE6VpNKCBMeDtgDAzsOmvoVquAsp64Tq7XBLZzhQaHoGF/3Pznsh6/P0kZKS3Vxnv+go2p2m9dh29morct9qTcwKqQG9qjt7UU9eL76XlgISxw5+TWZy54CuZ6QQ2gQqZ2GLSGpkDPgrjqT+sG0ksAm9WDp+ZZZtbaSCAYg+zW25Q4S59Xau8H7NJUfjfWQB/nQ4VLA6MmTGg1Id2YHHgDJO9kfNQLKds+7J4lp6rHgfXxqfAs22f0/ooKwtUIV4=;UxcRA/M6vU3mmHMd1+zjHA=="
 ---

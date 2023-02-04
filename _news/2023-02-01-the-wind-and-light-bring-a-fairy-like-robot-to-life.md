@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fai
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "A fairy-like robot flies by the power of wind and light"
-    excerpt: "The loss of pollinators, such as bees, is a huge challenge for global biodiversity and affects humanity by causing problems in food production. At Tampere University, researchers have now developed the first passively flying robot equipped with artificial muscle."
-    publishedDateTime: 2023-01-30T19:46:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/977927"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/afc3f908-e9d8-46f9-887b-4040d876504b/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Scientists believe in fairies - robot ones controlled by light"
     excerpt: "Researchers at Tampere University in Finland have made fairies real - by creating a robot that flies and sparkles just like Peter Pan's pal Tinkerbell."
     publishedDateTime: 2023-02-01T17:30:00Z

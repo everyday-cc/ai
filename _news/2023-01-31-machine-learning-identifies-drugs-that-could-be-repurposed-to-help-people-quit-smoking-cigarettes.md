@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning identifies drugs that could potentially help smokers quit"
-    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a new study. Researchers developed a novel machine learning method,"
-    publishedDateTime: 2023-01-30T19:26:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130517.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "Existing Drugs That May Help People Quit Smoking Identified by Machine Learning"
     excerpt: "Researchers have used machine learning to identify genes related to smoking behaviors and find existing medications that may be able to be repurposed to help people quit smoking."
     publishedDateTime: 2023-02-01T10:11:00Z

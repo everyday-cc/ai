@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Google invests $300 million in San Francisco AI startup Anthropic"
-excerpt: "Google has invested $300 million in the generative AI startup Anthropic, according to the Financial Times. Based in San Francisco, Anthropic describes itself on its website as an AI safety and research organization working to \"build reliable,"
-publishedDateTime: 2023-02-03T18:32:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/02/03/anthropic-raises-300-million-from-google.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/02/03/anthropic-raises-300-million-from-google.html"
+title: "Google invests $400 mn in AI start-up Anthropic: Can it be a gamechanger for the search giant?"
+excerpt: "Google partnering with San Francisco-based start-up Anthropic, a rival to OpenAI’s ChatGPT, seems to be a clarion call for a fresh wave of changes in the search engine."
+publishedDateTime: 2023-02-04T12:16:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/lite/"
 type: article
-quality: 17
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AI
+
+images:
+  - url: "https://images.indianexpress.com/2023/02/Google-and-Anthropic.jpg"
+    width: 1200
+    height: 667
+    isCached: true
 
 related:
   - title: "Top AI startup news of the week: Anthropic hits the Google jackpot"
@@ -33,22 +41,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/taking_off.jpg?w=1200&strip=all"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Google invests $400 mn in AI start-up Anthropic: Can it be a gamechanger for the search giant?"
-    excerpt: "Google partnering with San Francisco-based start-up Anthropic, a rival to OpenAI’s ChatGPT, seems to be a clarion call for a fresh wave of changes in the search engine."
-    publishedDateTime: 2023-02-04T12:16:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/google-invests-in-chatgpts-rival-anthropic-8424123/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 45
-    images:
-      - url: "https://images.indianexpress.com/2023/02/Google-and-Anthropic.jpg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "Google invested $300m in AI firm Anthropic, gains it as cloud customer"
     excerpt: "For the investment, Google got a 10 percent stake in the company - and an exclusive cloud contract. \"We're thrilled to be able to partner with Google Cloud on training and deploying useful AI systems,"
@@ -101,7 +93,16 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Google invests $300 million in San Francisco AI startup Anthropic"
+    excerpt: "Google has invested $300 million in the generative AI startup Anthropic, according to the Financial Times. Based in San Francisco, Anthropic describes itself on its website as an AI safety and research organization working to \"build reliable,"
+    publishedDateTime: 2023-02-03T18:32:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/02/03/anthropic-raises-300-million-from-google.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "vTC5DHnielP/IOnAujM8ZHVSJ02IM4DlFjUdszSyGq5Fn4qQH4avWEuYxFxWQcDBUfnIvLdIh59dVuttTJJqQSGk42q4cZ+KSIMTp9gUm1kZ02UScdSBs8n0vf9usuick9mCsr4aVS4bkT79gTI0L3Wzs9CbkpjZvjBcYnWPcgADPxab6Mv0O7Mc76UT4pGn5CBJq6p3pvbxLf8eQoXw0cBe4WvDM3beB5ix5vUoSNU7ap3uvyjBHyjvF7P7B3FXSaqavyyObKEYQNOvxuEJilkRjHuAey6pEvK+Y4yJ+yBKY26mv9oL3XLDbjKurXGk8LZGaHsr1G3dsdx8EIxz1UufGbcpEyZYZFQXEHV24iU3Mr5Kl9He67ZWb3tbiYaWiv2PO9GG7VQdaSRbVTNoJop+Dint5q5K9QxQxF5rNffYkf9nqfDnqhVgynoEDEZjspjKxfhcfunFrPbaAcpWB5bIih/tXthS5fIs2i/qUs35hIZXxBO7yL44aNbDjY4Ot/N8tYzIRHhu+IaGtg8Gng==;OpybdylaqTEvBgc7ybAdwA=="
+secured: "UlpY7hdxz+Ju8/HIY74YY+n1SHtfxMVgrvrU13bENfLICrvWarLcG5brV4OMTkRFNiHMeVBMo71YBsAhzYh2f4gn4X2/SOaES9mlg8k8rpFYSGr11cq62X/CeZ54AeMdjLKsvzhpMEPOCnsRQUPvQwBSu1+xCy3bUQ4jJjDzzVskAfmLj8L0dCwNtUtz2WIJAtDfTM+BCYHdVB6G52m05rIC+ZXH9CAJ1jitSuR6RWPUlMb2hNYv5YAx/9qt7191OGA1V12D6JHfZG4inSJUsASdspUVI1oBXfCqxfhTDeEXEULQbKHevQ+we5g3dcdu4nP5Pw5eMaTbOdMrC183v6LFp0ReAQEx3MZjC8B9zhs=;DTyzrYk9yr/+tIlyC95oug=="
 ---
 

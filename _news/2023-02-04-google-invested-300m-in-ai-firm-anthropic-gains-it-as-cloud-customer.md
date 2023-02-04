@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Google invests $300 million in San Francisco AI startup Anthropic"
-excerpt: "Google has invested $300 million in the generative AI startup Anthropic, according to the Financial Times. Based in San Francisco, Anthropic describes itself on its website as an AI safety and research organization working to \"build reliable,"
-publishedDateTime: 2023-02-03T18:32:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/02/03/anthropic-raises-300-million-from-google.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/02/03/anthropic-raises-300-million-from-google.html"
+title: "Google invested $300m in AI firm Anthropic, gains it as cloud customer"
+excerpt: "For the investment, Google got a 10 percent stake in the company - and an exclusive cloud contract. \"We're thrilled to be able to partner with Google Cloud on training and deploying useful AI systems,"
+publishedDateTime: 2023-02-04T11:12:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/google-invested-300m-in-ai-firm-anthropic-gains-it-as-cloud-customer/"
+webUrl: "https://www.datacenterdynamics.com/en/news/google-invested-300m-in-ai-firm-anthropic-gains-it-as-cloud-customer/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
+  - Microsoft AI
   - AI
+
+images:
+  - url: "https://media.datacenterdynamics.com/media/images/Google-server_1.width-358.width-358.jpg"
+    width: 358
+    height: 208
+    isCached: true
 
 related:
   - title: "Top AI startup news of the week: Anthropic hits the Google jackpot"
@@ -49,20 +56,6 @@ related:
       - url: "https://images.indianexpress.com/2023/02/Google-and-Anthropic.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "Google invested $300m in AI firm Anthropic, gains it as cloud customer"
-    excerpt: "For the investment, Google got a 10 percent stake in the company - and an exclusive cloud contract. \"We're thrilled to be able to partner with Google Cloud on training and deploying useful AI systems,"
-    publishedDateTime: 2023-02-04T11:12:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/google-invested-300m-in-ai-firm-anthropic-gains-it-as-cloud-customer/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Google-server_1.width-358.width-358.jpg"
-        width: 358
-        height: 208
         isCached: true
   - title: "Google Invests $300M In Anthropic As Tech’s AI Arms Race Heats Up"
     excerpt: "Unwilling to let competitors win the battle for AI supremacy, Google invests $300 million in Anthropic, a rival to ChatGPT."
@@ -101,7 +94,16 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "Google invests $300 million in San Francisco AI startup Anthropic"
+    excerpt: "Google has invested $300 million in the generative AI startup Anthropic, according to the Financial Times. Based in San Francisco, Anthropic describes itself on its website as an AI safety and research organization working to \"build reliable,"
+    publishedDateTime: 2023-02-03T18:32:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/02/03/anthropic-raises-300-million-from-google.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "vTC5DHnielP/IOnAujM8ZHVSJ02IM4DlFjUdszSyGq5Fn4qQH4avWEuYxFxWQcDBUfnIvLdIh59dVuttTJJqQSGk42q4cZ+KSIMTp9gUm1kZ02UScdSBs8n0vf9usuick9mCsr4aVS4bkT79gTI0L3Wzs9CbkpjZvjBcYnWPcgADPxab6Mv0O7Mc76UT4pGn5CBJq6p3pvbxLf8eQoXw0cBe4WvDM3beB5ix5vUoSNU7ap3uvyjBHyjvF7P7B3FXSaqavyyObKEYQNOvxuEJilkRjHuAey6pEvK+Y4yJ+yBKY26mv9oL3XLDbjKurXGk8LZGaHsr1G3dsdx8EIxz1UufGbcpEyZYZFQXEHV24iU3Mr5Kl9He67ZWb3tbiYaWiv2PO9GG7VQdaSRbVTNoJop+Dint5q5K9QxQxF5rNffYkf9nqfDnqhVgynoEDEZjspjKxfhcfunFrPbaAcpWB5bIih/tXthS5fIs2i/qUs35hIZXxBO7yL44aNbDjY4Ot/N8tYzIRHhu+IaGtg8Gng==;OpybdylaqTEvBgc7ybAdwA=="
+secured: "92vTg7QptwbsBaLQHr25FqBz9sGH8ocW3xXUagj95Etm4BAyHBotrveWEd6AiABCuR+zWhLUtt+NE/cvY6MSKGh/l1ZyJBoAG8z7IJt7V5qPP7lCNKVuY5Z8h4/Y72kF2IXK8Gx+x9egWRUppM3wMkNofrn6Ylu3rgWwX9yuNezbCn1Ip6FNP0XJsXNc35xB2vF3tpyX8HUfspLCRnEBYw+TnN23WL5VXy8spBNv+DgsHyMVZ7oJLVVlI1tNYqD1lyN0Ozo2g15NQ5CBWDRA7aier7Yz8sgvS8gj++nfUqjwgML7WDMjKlG4U+kq3fcxDKuRz++SWhn7QrDmhhHyA3nJs94M4+TyYcD+ikd7c8M=;DcpZzlIHnTrFdyq7Ta/Geg=="
 ---
 

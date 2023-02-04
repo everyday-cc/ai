@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraphindia.com/amp/world/quad-to-leverage-machine-le
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/quad-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/cid/1913976"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Telegraph
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Quad agrees to leverage machine learning to enhance cyber security"
+    excerpt: "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced technologies to enhance cyber security, the White House has said."
+    publishedDateTime: 2023-02-03T03:46:00Z
+    webUrl: "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 78
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/24/full/1632506444-4684.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Quad agrees to leverage machine learning, related advanced technologies to enhance cybersecurity"
     excerpt: "In the longer term, the Group committed to leverage machine learning and related advanced technologies to enhance cybersecurity and establish secure channels for Computer Emergency Response Teams and"
     publishedDateTime: 2023-02-03T03:27:00Z

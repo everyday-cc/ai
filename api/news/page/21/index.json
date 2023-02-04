@@ -2,58 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2023-01-16-chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot.md",
-      "title": "ChatGBT Shows Scary Implications Of AI: Sports Owners And The Robot",
-      "excerpt": "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
-      "originalUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c454a3ecbcbced56a44bb3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
-      "publishedDateTime": "2023-01-15T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-01-16-dhc-talking-therapies-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
       "title": "DHC Talking Therapies - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
       "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
@@ -1186,6 +1134,60 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-why-ai-and-creativity-are-not-at-war.md",
+      "title": "Why AI and creativity are not at war",
+      "excerpt": "Why AI won't steal your job, and why The field of strategic creative analysis will become important as generative AI becomes ubiquitous.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_507812257.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/amp/",
+      "publishedDateTime": "2023-01-13T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI",
+        "AI in Autos"
       ]
     }
   ],

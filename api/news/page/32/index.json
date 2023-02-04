@@ -2,58 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2023-01-07-microsoft-partners-with-india-space-agency-to-work-with-startups.md",
-      "title": "Microsoft partners with India space agency to work with startups",
-      "excerpt": "Microsoft plans to collaborate with the Indian Space Research Organization (ISRO) to give Indian space tech startups free access to cloud tools.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/04/microsoft-partners-with-india-space-agency-to-work-with-startups/",
-      "originalUrl": "https://techcrunch.com/2023/01/04/microsoft-partners-with-india-space-agency-to-work-with-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-605772798.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/04/microsoft-partners-with-india-space-agency-to-work-with-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/04/microsoft-partners-with-india-space-agency-to-work-with-startups/amp/",
-      "publishedDateTime": "2023-01-06T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-07-artificial-intelligence-you-advances-are-breathtaking-a-need-to-know-guide-to-today-future.md",
       "title": "Artificial Intelligence & you: Advances are breathtaking – a need-to-know guide to today, future",
       "excerpt": "Twenty years from now, humanity will look back at 2022 as a seminal year for AI, a year when a tectonic shift began in AI capabilities. And it is quite likely that the pace of change will only accelerate from here.",
@@ -1058,6 +1006,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-deep-learning-algorithm-can-hear-alcohol-in-voice.md",
+      "title": "Deep learning algorithm can hear alcohol in voice",
+      "excerpt": "More information: Abraham Albert Bonela et al, Audio-based Deep Learning Algorithm to Identify Alcohol Inebriation (ADLAIA), Alcohol (2022). DOI: 10.1016/j.alcohol.2022.12.002",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-deep-algorithm-alcohol-voice.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-deep-algorithm-alcohol-voice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

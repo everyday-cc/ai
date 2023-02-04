@@ -2,57 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-01-27-european-banks-struggle-with-ai-while-us-banks-lead-the-field-according-to-a-new-index.md",
-      "title": "European banks struggle with AI, while US banks lead the field, according to a new index",
-      "excerpt": "“As the real-world application of AI accelerates at astonishing speed ... Over a call she added: “Setting our methodology onto the banks felt like the right place to start because this is a sector that has been really focused on this for a number ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/",
-      "originalUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/EVIDENT_INSIGHTS_COL_HR-1-1.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/26/european-banks-ai/amp/",
-      "publishedDateTime": "2023-01-26T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-27-deep-learning-reconstruction-enables-accelerated-knee-mri.md",
       "title": "Deep Learning Reconstruction Enables Accelerated Knee MRI",
       "excerpt": "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ...",
@@ -751,6 +700,40 @@
       ]
     },
     {
+      "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
+      "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
+      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
+      "originalUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/press-releases/article271678367.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/press-releases/article271678367.html",
+      "publishedDateTime": "2023-01-26T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-how-to-build-a-neural-network-in-java.md",
       "title": "How to build a neural network in Java",
       "excerpt": "Artificial neural networks are a form of deep learning and one of the pillars of modern-day AI. The best way to really get a grip on how these things work is to build one. This article will be a ...",
@@ -842,40 +825,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
-      "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
-      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE / / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/press-releases/article271678367.html",
-      "originalUrl": "https://www.sacbee.com/press-releases/article271678367.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.sacbee.com/press-releases/article271678367.html",
-      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/press-releases/article271678367.html",
-      "publishedDateTime": "2023-01-26T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1225,6 +1174,49 @@
         "IBM AI",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-protecting-the-hidden-layer-in-neural-networks.md",
+      "title": "Protecting the Hidden Layer in Neural Networks",
+      "excerpt": "In this episode of \"Cybersecurity Unplugged,\" Chris \"Tito\" Sestito discusses technology to protect neural networks and artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
+      "originalUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://0267f973c7f511eda6a4-193e28812cee85d6e20ea22afb83e185.ssl.cf1.rackcdn.com/protecting-neural-networks-showcase_image-6-i-5228.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcareinfosecurity.com",
+        "domain": "healthcareinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

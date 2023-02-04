@@ -39,15 +39,6 @@ related:
         width: 1108
         height: 570
         isCached: true
-  - title: "Cascadeo IT Guru On AWS Charge, Tech Layoffs, ChatGPT And Why ‘Old IT World’ Hasn’t Died Off Yet"
-    excerpt: "AWS partner Cascadeo is betting big on cloud computing growth, AI technology, OpenAI ChatGPT, while not being worried about tech layoffs at cloud market leaders Amazon, Microsoft and Google, says president Jared Reimer."
-    publishedDateTime: 2023-01-30T20:08:00Z
-    webUrl: "https://www.crn.com/news/cloud/cascadeo-it-guru-on-aws-charge-tech-layoffs-chatgpt-and-why-old-it-world-hasn-t-died-off-yet"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 6
 
 secured: "J1MOrBB82UtXchpadPfKU+t6GDDyhgFU8g0fulW7moRr9Nl3959pFufRXHoJS2OJ0n7qA3khkn5uQZHkSsGFrp9U9VcA936JfkcFtq+3JZV5zxrQXHDbPEx1uyXbvr3GOSvoNznxTtdbotJ+SVqxTk+hvu1EyDZpdUYFxQLWf5VY9DWoBlEZhJ6MaSo8NEi3ZjPJHwQUctW9iPxTooHw5BOeXWG2jQV+piJ/VUyuiKk4gmFZGCaRnq7D9QnxELxLLkRhB52yC4xrP5AKGEFCCnnS3/RXWauk4JxW6FbEKvz6w1lIpoUggC08q9OM1FmRNGq8MPVvhjVFsp30y0PmhjLmmvQes7cQf4CII7iFEhqWI3UThq21IhdcXAZmtHWaRVRbV5zS0midXB90iSiW3yzna03Nw1Oz/hUK20YOX/SlEDoUklLrRmjBNkkaWIhE56KUILcP7kcRU/MejH6Iv4U+LVu82AnuzM1V4YphsdhTZY95vR5uZz6AWKAlWuNCPyEONLm3RZqANyAa7nNtuQ==;n5ChH4GPLNJaGxo6PqS2Iw=="
 ---

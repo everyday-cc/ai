@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/advisory-panel-rules-connecticut-ne
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/advisory-panel-rules-connecticut-needs-further-regulate-state-used-ai.amp"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
     quality: 39
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/custom/image/29c67f80-6b81-11e5-9882-1ba0e94cc00f.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Lawmakers seek rules for artificial intelligence"
+    excerpt: "BOSTON — Artificial intelligence tools are being used by companies to produce a range of documents from term papers to home mortgages, but the technology has raised concerns about plagiarism,"
+    publishedDateTime: 2023-02-04T10:00:00Z
+    webUrl: "https://www.gloucestertimes.com/news/local_news/lawmakers-seek-rules-for-artificial-intelligence/article_d81ed187-6dea-5fd9-a14a-a17eb1910acd.html"
+    type: article
+    provider:
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
         width: 600
         height: 315
         isCached: true

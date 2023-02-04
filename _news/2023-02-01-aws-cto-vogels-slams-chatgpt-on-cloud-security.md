@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-
 webUrl: "https://www.crn.com.au/news/aws-cto-vogels-slams-chatgpt-on-cloud-security-590376"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: CRN Australia
@@ -40,15 +40,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Cascadeo IT Guru On AWS Charge, Tech Layoffs, ChatGPT And Why ‘Old IT World’ Hasn’t Died Off Yet"
-    excerpt: "AWS partner Cascadeo is betting big on cloud computing growth, AI technology, OpenAI ChatGPT, while not being worried about tech layoffs at cloud market leaders Amazon, Microsoft and Google, says president Jared Reimer."
-    publishedDateTime: 2023-01-30T20:08:00Z
-    webUrl: "https://www.crn.com/news/cloud/cascadeo-it-guru-on-aws-charge-tech-layoffs-chatgpt-and-why-old-it-world-hasn-t-died-off-yet"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 6
 
 secured: "fhfT7rcXd15JQMV+/nAFhpsjNxl5sd6xiKDFH/ioISuNKl/sE02+c/Lnv75xraxDOcUUYIoZN9sMghMs6j/3Kl8t/aqHy021L3Wknz9bn/SjjeTlkhEUC6dv5vPrGsWmkb794VgFflC/QvLRPIbTqZBmKMd/+WMQ13lbeBH9ICYkebNuIvdo0P4wJSkaEhV0HRlKnUG/bCLGiKOiVddLWkS3fKM6rPv6IEuPOB3M7YSbqigVJc+Qpjqr0udB1wW6xFp1cI+uptWEI0NzNhDpz4JiyNs3L8s4uCN+reKs5lyUsm8PxGtKyhPY9y03ywmKekuqcQNbddMhN0qyMDAiCtableDbic2iwyaW4dOrW69cdgXwoLwzKe72jorgQdrFFUte51VkGcfHq08SAncFAzf36OuqOHnhx7TzTnVhPJBmT4ZXosgx2C0dSnHMVtbSPir6Exoj/Lxo00hci5C9VZIDmaUUnxQQDqFv+tXRYmuveN0SXWLGVYcmmtSS0tX6LGaAFkJ1uXJntdL3kwYONA==;amlBZ377Da01/XpgfjpTgg=="
 ---

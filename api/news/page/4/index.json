@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-02-01-why-are-ai-generated-hands-so-messed-up.md",
-      "title": "Why Are AI-Generated Hands So Messed Up?",
-      "excerpt": "It all comes down to the images AI is learning from. Earlier this month, Miles Zimmerman, a 31-year-old programmer from San Francisco, was messing around with Midjourney, the AI-powered tool that generates images with a simple text prompt,",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-generated-art-hands-fingers-messed-up",
-      "originalUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-generated-art-hands-fingers-messed-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/26/20/campaign_images/9df61c241700/why-am-i-sp-bad-at-typign-2-398-1619469865-17_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/pranavdixit/ai-generated-art-hands-fingers-messed-up",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pranavdixit/ai-generated-art-hands-fingers-messed-up",
-      "publishedDateTime": "2023-01-31T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-01-ai-tool-used-to-spot-child-abuse-allegedly-targets-parents-with-disabilities.md",
       "title": "AI tool used to spot child abuse allegedly targets parents with disabilities",
       "excerpt": "Since 2016, social workers in a Pennsylvania county have relied on an algorithm to help them determine which child welfare calls warrant further investigation. Now, the Justice Department is reportedly scrutinizing the controversial family-screening tool over concerns that using the algorithm may be violating the Americans with Disabilities Act by allegedly discriminating against families with disabilities,",
@@ -1083,7 +1032,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1227,6 +1176,49 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-buzzfeed-to-use-artificial-intelligence-for-content.md",
+      "title": "BuzzFeed to use artificial intelligence for content",
+      "excerpt": "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "originalUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "publishedDateTime": "2023-01-30T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox17online",
+        "domain": "fox17online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

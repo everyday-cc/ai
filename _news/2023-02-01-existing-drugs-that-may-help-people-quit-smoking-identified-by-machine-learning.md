@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/drug-discovery/news/existing-dr
 webUrl: "https://www.technologynetworks.com/drug-discovery/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning identifies drugs that could potentially help smokers quit"
-    excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a new study. Researchers developed a novel machine learning method,"
-    publishedDateTime: 2023-01-30T19:26:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130517.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "Machine learning identifies drugs that could be repurposed to help people quit smoking cigarettes"
     excerpt: "Medications like dextromethorphan, used to treat coughs caused by cold and flu, could potentially be repurposed to help people quit smoking cigarettes, according to a study by Penn State College of Medicine and University of Minnesota researchers."
     publishedDateTime: 2023-01-30T22:58:00Z

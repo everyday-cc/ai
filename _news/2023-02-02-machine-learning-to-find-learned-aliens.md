@@ -24,17 +24,6 @@ images:
     height: 768
     isCached: true
 
-related:
-  - title: "Yandex scrapes Google and other SEO learnings from the source code leak"
-    excerpt: "Yandex isn't Google, but there is a lot SEOs can learn about how a modern search engine is built from reviewing this codebase."
-    publishedDateTime: 2023-01-30T20:03:00Z
-    webUrl: "https://searchengineland.com/yandex-leak-learnings-392393"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 4
-
 secured: "90stYBikskAZym8r5lEHCbhSX2r0bQVPbCTuttOaJSzkbar81xKOSQr+FE3EZIZft7RNhP7brz5NGPj/k0TLnUYXa4kIIJjPQD4iEtla2+S0it8FDA42YUienn+wOBG9WyyJX+aI5sAiWXd4/luKK+M0ql08iXn5dOYNXacNAXmAOm2GAPdYZkNmytl9GRfnNcDeIjeefnRkkepgVTLJik9i0dRSAFaLh/k8BlTf8dh+P98VLtTGdVialyxIk59zbnKXLqHMjdWlfO7npnaU6DQswdrb489vlpD4pYIh4JsqM1obJ0R/sYzRmJFzlrtIWl9LW074vGqmly+IKv2sUxIajp2CoHBwblitcJXVr675Aq4HTxlUGNtqTMRecDfjdoYksHYXRobuY/TM38Diy1TJsM2dt+WNMUzc8LLZ3fO+6YuYYSYB0PKExXyPn8B1LOt0AmsKXHqR+eifM8iiQIK7PqR5XCE3kr3YVaHvGxa+RayMNGqruIBu1AptjwTXkyRvJtrBqKLT28YO2eBIeA==;uH7Bmftjny4sjL6XR/JdQA=="
 ---
 
