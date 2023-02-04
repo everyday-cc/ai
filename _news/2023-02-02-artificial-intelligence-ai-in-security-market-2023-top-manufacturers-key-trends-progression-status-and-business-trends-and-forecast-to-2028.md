@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02"
 type: article
 quality: 62
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979102"
         width: 356
         height: 250
-        isCached: true
-  - title: "Synthetic Data Software Market Share 2023 Research by Growth Developments, Emerging Demand, Future Trends and Business Statistics Forecast to 2028"
-    excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Synthetic Data Software"
-    publishedDateTime: 2023-01-30T17:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/synthetic-data-software-market-share-2023-research-by-growth-developments-emerging-demand-future-trends-and-business-statistics-forecast-to-2028-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "7HjoKSdHqlnPHLrLoTo16erNkdX72qodEFNx3KDYF1Wiwd0UYsRq4HiVykMLxJUaR/O+8lLMf+sSoRK9CtPb4aK8B3+xeN6X8HK614lb6if41Z/siNDTR6wh6mqnyeyod/oEGNw93AAzbeHJ/Ce2ajOrru6HU4KOc+PkfUiVyN2o96F0vAp7z2FyKlPKRWvb505mDAU0p9Q/aJdtqHxzRpS6kbsvwovvSzQBwsqTje8XiAV2aU2ByL2CXJN1GwPExIFaRz/CrP+yoU1NH+Za0c3b0MSg7/+mCBcKKIYYSocZuJTLSUfQgEY2hiCEU5EHxoXE+APhTwQmf5vUN82E7ZmNZA5rQZKya1nemZrlL8U=;HANYB1wmeD8caW9sVbzS8g=="

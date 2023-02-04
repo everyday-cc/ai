@@ -76,7 +76,7 @@ related:
   - title: "Humanoid Robots To Take Centre Stage At UN Meet On AI"
     excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday."
     publishedDateTime: 2023-02-01T16:00:00Z
-    webUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
+    webUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
     ampWebUrl: "https://www.barrons.com/amp/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
     type: article

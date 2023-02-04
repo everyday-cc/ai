@@ -126,20 +126,6 @@ related:
         width: 356
         height: 250
         isCached: true
-  - title: "Synthetic Data Software Market Share 2023 Research by Growth Developments, Emerging Demand, Future Trends and Business Statistics Forecast to 2028"
-    excerpt: "Jan (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Synthetic Data Software"
-    publishedDateTime: 2023-01-30T17:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/synthetic-data-software-market-share-2023-research-by-growth-developments-emerging-demand-future-trends-and-business-statistics-forecast-to-2028-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4MucCV+Ig0n3Lzvp7k4Iyu8svcGQXhYpuhV611s2bSafz6TFoWTZGpJZF5kCeHxqKeHHL80on8zuV6JUu1JdYaOSWuw10Y1Y+oFqD+/vwRde2kuC0Zu1pDy0yDuo3wbSbRo3pU/4z1T3Dv7n0d/dRmnS8WLHECSQqXkPlnWGKkzKDRJe8hJzMP2DOzhIUISPM9zUVPfCtT1cpMZydASz6rZm3iVBau9VL6rtu87bQhqQ3l+iv4ajYiZIWNsPwmjcsWE74SF+HHgPi/loH+925zDBKp4ZVfcFkSu+EiM/C6AOziI/bIiuvZG9k3sKS4lL7c+ujtsfu5N98u/NRjE7NcvAOlhYFG3UZ07luwk57v0=;OeifDImB6sN+8SPvAzJQcA=="
 ---

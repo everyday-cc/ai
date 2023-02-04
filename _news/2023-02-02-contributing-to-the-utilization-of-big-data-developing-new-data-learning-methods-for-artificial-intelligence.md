@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging Data Management Solutions for Successful Machine Learning Projects"
-    excerpt: "Innovation is not without complexity; to address the ongoing obstacles preventing effective machine learning adoption-including data quality, integration, and governance-DBTA hosted a webinar, 'Data Management Best Practices for Effective Machine Learning Projects,"
-    publishedDateTime: 2023-01-30T18:22:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Leveraging-Data-Management-Solutions-for-Successful-Machine-Learning-Projects-156904.aspx"
+  - title: "Researchers explore use of machine learning to predict bulk metallic glass formation"
+    excerpt: "Researchers from the Yale School of Engineering and Applied Science are analyzing the effectiveness of a machine learning tool in predicting bulk metallic glass formability."
+    publishedDateTime: 2023-02-02T07:38:00Z
+    webUrl: "https://yaledailynews.com/blog/2023/02/02/researchers-explore-use-of-machine-learning-to-predict-bulk-metallic-glass-formation/"
     type: article
     provider:
-      name: dbta
-      domain: dbta.com
-    quality: 36
+      name: Yale Daily News
+      domain: yaledailynews.com
+    quality: 32
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://yaledailynews.com/wp-content/uploads/2023/02/Screen_Shot_2023-02-01_at_10.39.41_AM-1024x602.png"
+        width: 1024
+        height: 602
         isCached: true
 
 secured: "fh3HcoMu/FYzmQnulpBGcEGFMHbNW/DvQ+D/wHubEEygFA3mwlflMyoPRGNWL7AK3eVab6dmz8bi8FpI6VGRfbRMdUQcXHQOK509Hq2wlQoK+p0h0oN+22R6ff1/5YLfS6cfoNNDCEbobuZpf9m8yaOgCXgRv8sS6qB+lV8ywUlJcp1tcTZr4mVeGC2xpTPSr3eW8SCeTUnigVId3d05GEQ+v3wVtK7tDr94j1A1HCO9+rWB2I+8XJSteDySxyitqsK50tcxyTVbktGP63NGKpW2jGolNW83V4USaZggLVzJQhO8bQw6WHO5GGBvt8v5mzSD6aaxTmPrIbCWRYUyaBwFksz74reecfwEbkLiDtkeIZ4Psa0ldLw5NdMijDl/cXnmqFeOibjAnKMkiIUSsReNWi/W1IUpJoqNfJBGVOG0+tfhEFynp3mam/AcQ8rL249XdnsN9HNMy0Op3XcXGW7mbD4sqk0x/8cVXWLxxP/xMU/qdA1vjAdiEnQW6wY1X3hvSncX+WO79WfhmZNIdQ==;WLJoR2yfG8SGgKq/z0HOVw=="

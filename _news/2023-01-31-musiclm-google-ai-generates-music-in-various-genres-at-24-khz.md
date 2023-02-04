@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/01/googles-new-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
     provider:
       name: Discover Magazine
       domain: discovermagazine.com
-    quality: 17
-  - title: "Listen To The Google AI That Can Create Any Genre Of Music From Simple Text"
-    excerpt: "Google's MusicLM builds on earlier work and is, according to its creators, 'a model generating high-fidelity music from text descriptions.'"
-    publishedDateTime: 2023-01-30T18:53:00Z
-    webUrl: "https://hothardware.com/news/musiclm-google-ai-create-music-from-text"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
     quality: 17
 
 secured: "KAYXtE8tE0AeX+b1RGYDKwGnYqsMn80JXycfTOa0vJSLS55h2Z25Yo1Yol33Hr1Gg4WTNsackZBwUoHlTUpW0Skf8EPh/4xtXjCewUsRccR70uT8e/Nxb1mZo3i68Q/yDunMpWq6epoPDXGb7qfEIqyBCw+9v0NY2Hq6Em2+OTSsOUkdMxm/dSYe4CMZEY12hm2/kuczZmmjmFtn27xHLU2uwNqB+3P+CDMmnbgXqzXKyEavASR4lPkGvEwYVIsFKhYGgycSmwFrE0EMtT8sdh1EjMsFzPBIvMwThEAsN+O8JXTUYb+u/PZGe+RaeOjN4thQ8aEBgGF0PPyvQFJLTgETqpQ5VogUvAmaDYv74DXR1QHAJlPxWwwRX1022/WO2fFG75E9JCKQGTTI4ggwklA8slIkBoeRKLu7iyps22W2TOoYLRReE+zqNVIV+QAcqOZRoLBuEvOLOxA20YQELtOkWgTXXaFak6abEcNDSDQWqT3VWnQUUKnvCx2rXc/rRiQwCXCEtJt7l6DhOKBwWg==;VmX0DMG761eQcX7po2JzRA=="

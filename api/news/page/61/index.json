@@ -2,6 +2,153 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-12-07-chess-study-shows-masks-can-put-cognitive-performance-in-check.md",
+      "title": "Chess study shows masks can put cognitive performance in check",
+      "excerpt": "Dr. Smerdon, an Australian chess Grandmaster, said while mask mandates had helped to curb the spread of COVID-19, almost nothing was known about their impact on cognitive performance. \"At the ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.html",
+      "originalUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/chess.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-chess-masks-cognitive.amp",
+      "publishedDateTime": "2022-12-06T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-does-chatgpt-mean-robots-are-coming-for-the-skilled-jobs.md",
+      "title": "Does ChatGPT Mean Robots Are Coming For the Skilled Jobs?",
+      "excerpt": "Will robots take away our jobs? People have been asking that question for an astonishingly long time. The Regency-era British economist David Ricardo added to the third edition of his classic “Principles of Political Economy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
+      "originalUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/06/opinion/06krugman-newsletter-image/06krugman-newsletter-image-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html",
+      "publishedDateTime": "2022-12-06T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-tsa-is-ready-for-nationwide-deployment-of-its-facial-recognition-system.md",
+      "title": "TSA is ready for nationwide deployment of its facial recognition system",
+      "excerpt": "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
+      "originalUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-13.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-carahsoft-announces-availability-of-adobe-in-aws-marketplace.md",
       "title": "Carahsoft Announces Availability of Adobe in AWS Marketplace",
       "excerpt": "Provides Public Sector With Access to FedRAMP Authorized Adobe Experience Manager via AWS Marketplace. RESTON, Va., Dec. 06, 2022 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., T",
@@ -973,134 +1120,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation.md",
-      "title": "CoreWeave Secures $100M to Expand NVIDIA HGX H100 GPU Offering, Usher in New Era of AI Innovation",
-      "excerpt": "NVIDIA HGX H100 supercomputing - joining Amazon, Google, Microsoft and Oracle as the initial cloud providers to supply the trailblazing AI platform. CoreWeave is on pace to grow year-over-year revenue by over 450%,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors.md",
-      "title": "Invea Therapeutics Appoints Mr. Jason Fenton to Its Board of Directors",
-      "excerpt": "Mr. Fenton augments board expertise as the Company readies for Phase 1b/2 execution of lead program targeting mast cell biology",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors/article_a33bea0c-d4c9-53e7-8cb8-e2a008487595.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors/article_a33bea0c-d4c9-53e7-8cb8-e2a008487595.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-responsible-ai-is-a-data-protection-necessity-protopia-ai-raises-6m-in-funding.md",
-      "title": "Responsible AI is a data protection necessity, Protopia AI raises $6M in funding",
-      "excerpt": "Protopia AI announces it has raised $6 million in seed funding for a responsible AI solution designed to anonymize personal data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/responsible-ai-security/",
-      "originalUrl": "https://venturebeat.com/security/responsible-ai-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-privacy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/responsible-ai-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/responsible-ai-security/amp/",
-      "publishedDateTime": "2022-12-06T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

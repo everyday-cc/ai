@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-14-7-ways-a-recession-could-impact-ai-and-ml-in-2023.md",
+      "title": "7 ways a recession could impact AI and ML in 2023",
+      "excerpt": "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-emergent-color-categorization-in-a-neural-network-trained-for-object-recognition.md",
       "title": "Emergent color categorization in a neural network trained for object recognition",
       "excerpt": "Color is a prime example of categorical perception, yet it is unclear why and how color categories emerge. On the one hand, prelinguistic infants and several animals treat color categorically. On the other hand,",
@@ -1363,49 +1406,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-391-from-2021-to-2030-douglas-insights.md",
-      "title": "Deep Learning Market - Worldwide Market is Growing at a CAGR of 39.1% from 2021 to 2030 | Douglas Insights",
-      "excerpt": "Market Overview The global deep learning market is projected to expand exponentially in the coming years, with a whopping estimated compound annual growth rate (CAGR) of 39.1% from 2021 to 2030 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g29986689/deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-39-1-from-2021-to-2030-douglas-insig",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g29986689/deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-39-1-from-2021-to-2030-douglas-insig",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29986689",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29986689",
-      "publishedDateTime": "2022-12-06T23:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

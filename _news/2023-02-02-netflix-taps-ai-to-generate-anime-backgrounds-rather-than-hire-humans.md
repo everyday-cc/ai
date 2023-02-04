@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/netflix-taps-ai-to-generate-anime-backg
 webUrl: "https://www.pcmag.com/news/netflix-taps-ai-to-generate-anime-backgrounds-rather-than-hire-humans"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: PC Magazine
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Netflix stirs fears by using AI-assisted background art in short anime film"
-    excerpt: "In the announcement tweet, Netflix cited an industry labor shortage as the reason for using the image synthesis technology: As an experimental effort to help the anime industry, w"
-    publishedDateTime: 2023-02-01T21:00:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/amp/"
+  - title: "Oracle is on a mission to become the ‘Netflix of AI’"
+    excerpt: "Netflix brought shows in ‘as is,’ and they gave them the Netflix value,” said Elad Ziklik (pictured), vice president of AI and data science services at Oracle Corp. “I want to bring the best AI software and hardware to Oracle Cloud Infrastructure and do a fulfillment by Oracle on that."
+    publishedDateTime: 2023-02-01T20:01:00Z
+    webUrl: "https://siliconangle.com/2023/02/01/oracle-is-on-a-mission-to-become-the-netflix-of-ai-cubeconversations/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 85
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/02/dog_and_boy_hero_1-800x448.jpg"
-        width: 800
-        height: 448
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/Elad-Ziklik-CUBE-Conversation-Jan-2023.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Netflix has found an exciting new way to piss everyone off with AI art"
     excerpt: "Netflix released a new anime short that uses AI-generated art for its backgrounds, and it has started a firestorm online."

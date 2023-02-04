@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Instagram Co-Founders Launch AI-Curated News App, Artifact"
+    excerpt: "Following their departure from Facebook in 2018, Instagram’s co-founders have returned with their latest venture. Kevin Systrom and Mike Krieger’s Artifact is an app that uses AI to curate and personalize a user’s news feed."
+    publishedDateTime: 2023-02-02T16:29:00Z
+    webUrl: "https://hypebeast.com/2023/2/instagram-co-founders-artifact-news-app"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2FInstagram-Co-Founders-Launch-AI-Curated-News-App-Artifact-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "JlMVK+O0OD7KaUp1Fblo16SvptmK74usA5V0E5rqpXzZzakwg1yX6IlD9VRsSf2aIg5BB0Oa1+9fAHBU3xv6h3AjdD0mml6Lg9b7lZgmIJFhr91kizQFoVl69Wj7XtogDSHkCwxJDuEVKP9jh9MoY6NACgRZxok9lQapvJfuueQ1jvamY9ooYJLsjtuCT2r2UgW4C+bJCdTbcZTf0+cB4A2OH0v3XtXw9p7qwF45jaMcy+vgtxCiYWwI5PMGybrsmcwiKieIrxkCm8C88uQRVdaTaIDhDGzfdWFo2FGX5hVRyQrEaUxYL8pu256Y3SLRva/2EKRvUb/I41+mOV4R50w/AMQVNmUZMUioFBN+taeUp1/scRFE7csraQnkqnLB3GOz0HbXtje8G8qIUaF9IMdMoo0pJ23E/huxBc3FCHbBss+TeTmP5Af36sXW1MEQ3NFaw0VRqXOc0+sI/sj7YavE0OLAa3pghbhiGGjgo4/umkhNugGysRmbeQ61+BLPEA0l1w6sPIN7V0Yagqu2dw==;8j8owab0B7lwiMFL8u6gCQ=="
 ---

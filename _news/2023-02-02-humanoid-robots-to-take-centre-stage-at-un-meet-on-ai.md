@@ -3,8 +3,8 @@ category: news
 title: "Humanoid Robots To Take Centre Stage At UN Meet On AI"
 excerpt: "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday."
 publishedDateTime: 2023-02-01T16:00:00Z
-originalUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
-webUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108?refsec=topics_afp-news"
+originalUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
+webUrl: "https://www.barrons.com/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
 ampWebUrl: "https://www.barrons.com/amp/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/humanoid-robots-to-take-centre-stage-at-un-meet-on-ai-01675253108"
 type: article
@@ -98,6 +98,6 @@ related:
         height: 826
         isCached: true
 
-secured: "WmndFd44C2cNi2kpBIkbkIu3HOt/5fBiEPX36IqoXw3DoOT80z9gUX0eiytXAioAZgOXSB6hSTGpCYw7XWRmv/uCraJbQ5NuNHriZYOxg9nPDWdt/j4nq+gYz2b/UMEpceb65hQB/nABNU3zvHeQ3vsWPokLW+LFDvN7TSKTKdCortxFOgbQkr48rasC1c6xchbhNgChYjz3NnJcf2XXXDvOAH7UQ5CNFg459YwQJOeiQDM8jmyGDwKHnNeAOr+5zKzcS7OM6OFNId8JQ5CCIvtGHC8CnxB2AaJGquCYkH0etAuB+RWvttt24vAGOyLQ+Eaqk+NYjzhoNlO5Ky5U9GTxdFGy3K0N+0w8Q3loQ4U=;MI026FLPMx0yOXdDiLWemQ=="
+secured: "eavYfLizqU0+zBcYIMNmLVhR5snpXH59His2/eGFakj5eznirscbAA2MHYN3jeH+ozGlF8wb7khdNNDDPAb5VuteFA40U4ejW/m7CcgSvHu2N5ye7khYkQ4EenAaJjv9aazyFlrISIG3X92UvIwb5De3XBAPHJQOYM2D2wBidXuu1zxF6uyJymQ2MM8o2Bdqu7gNyQzDlQHiSEHhAlp1veBpIKGmY/KAygON6j81sBYpglBbIc8yZ6eSmJn/q9FRfU05fl3TfYB5k8mY+1fqX4TgmwjGt+WqNiQFU+6oFTVZXPWVKDytMjwuhw3phzle9nUlXLoJIs/zSoJ4nek15k1U6McimAkYcZHdUVsHf80=;temxJi7aLUvHxW0jp1bR3A=="
 ---
 

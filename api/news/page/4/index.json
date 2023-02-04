@@ -2,6 +2,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-01-why-are-ai-generated-hands-so-messed-up.md",
+      "title": "Why Are AI-Generated Hands So Messed Up?",
+      "excerpt": "It all comes down to the images AI is learning from. Earlier this month, Miles Zimmerman, a 31-year-old programmer from San Francisco, was messing around with Midjourney, the AI-powered tool that generates images with a simple text prompt,",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-generated-art-hands-fingers-messed-up",
+      "originalUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-generated-art-hands-fingers-messed-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/26/20/campaign_images/9df61c241700/why-am-i-sp-bad-at-typign-2-398-1619469865-17_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/pranavdixit/ai-generated-art-hands-fingers-messed-up",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pranavdixit/ai-generated-art-hands-fingers-messed-up",
+      "publishedDateTime": "2023-01-31T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-ai-tool-used-to-spot-child-abuse-allegedly-targets-parents-with-disabilities.md",
+      "title": "AI tool used to spot child abuse allegedly targets parents with disabilities",
+      "excerpt": "Since 2016, social workers in a Pennsylvania county have relied on an algorithm to help them determine which child welfare calls warrant further investigation. Now, the Justice Department is reportedly scrutinizing the controversial family-screening tool over concerns that using the algorithm may be violating the Americans with Disabilities Act by allegedly discriminating against families with disabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1339965935-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/01/doj-probes-ai-tool-thats-allegedly-biased-against-families-with-disabilities/amp/",
+      "publishedDateTime": "2023-01-31T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-tesla-faces-justice-department-probe-over-self-driving-tech.md",
       "title": "Tesla Faces Justice Department Probe Over Self-Driving Tech",
       "excerpt": "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,",
@@ -773,49 +875,6 @@
       ]
     },
     {
-      "path": "_news/2023-01-31-buzzfeed-to-use-artificial-intelligence-for-content.md",
-      "title": "BuzzFeed to use artificial intelligence for content",
-      "excerpt": "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
-      "originalUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
-      "publishedDateTime": "2023-01-30T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wtvr",
-        "domain": "wtvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-31-make-sure-your-midjourney-ai-image-prompts-have-this-parameter.md",
       "title": "Make Sure Your Midjourney AI Image Prompts Have This Parameter",
       "excerpt": "Welcome to Midjourney AI Monday with tips and advanced prompts to help you get the most out of the image AI tool. In this post, we are going to explore what it means to use the “seed” parameter as a way to keep the Midjourney bot",
@@ -1024,7 +1083,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/01/googles-new-ai-model-creates-songs-from-text-descriptions-of-moods-sounds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1168,58 +1227,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask.md",
-      "title": "Amazon SageMaker built-in LightGBM now offers distributed training using Dask",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/30/sagemaker-lightgbm.jpg",
-          "width": 1564,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T10:10:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

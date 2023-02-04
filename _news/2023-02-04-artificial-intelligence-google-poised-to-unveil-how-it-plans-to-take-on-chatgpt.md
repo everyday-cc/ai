@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Google tries to reassure investors on AI progress as ChatGPT breathes down its neck"
-excerpt: "Google worked to reassure investors and analysts on Thursday during its quarterly earnings call that it’s still a leader in developing AI."
-publishedDateTime: 2023-02-03T21:35:00Z
-originalUrl: "https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/"
-webUrl: "https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/"
-ampWebUrl: "https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/amp/"
+title: "Artificial intelligence: Google poised to unveil how it plans to take on ChatGPT"
+excerpt: "The launch of ChatGPT from OpenAI appears to have kicked off an AI arms race, with Google and Microsoft seemingly leading the charge as tech giants look to change the way we engage with their products and services - including searching the web."
+publishedDateTime: 2023-02-04T10:45:00Z
+originalUrl: "https://news.sky.com/story/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
+webUrl: "https://news.sky.com/story/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
+ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
+cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
 type: article
-quality: 83
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!News
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sky
+  domain: sky.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1246745535.jpg?resize=1200,809"
-    width: 1200
-    height: 809
+  - url: "https://e3.365dm.com/23/01/1600x900/skynews-google-london-office_6030563.jpg?20230120143926"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -142,6 +137,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/02/Untitled-design-13.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Google tries to reassure investors on AI progress as ChatGPT breathes down its neck"
+    excerpt: "Google worked to reassure investors and analysts on Thursday during its quarterly earnings call that it’s still a leader in developing AI."
+    publishedDateTime: 2023-02-03T21:35:00Z
+    webUrl: "https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/"
+    ampWebUrl: "https://techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/03/google-best-yet-to-come-ai-journey-faces-potential-disruption-openai-chatgpt/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1246745535.jpg?resize=1200,809"
+        width: 1200
+        height: 809
         isCached: true
   - title: "The ChatGPT and generative AI 'gold rush' has founders flocking to San Francisco's 'Cerebral Valley'"
     excerpt: "Generative AI is breathing new life into San Francisco after two years of ​Silicon Valley tech companies shuttering offices because of the pandemic."
@@ -427,22 +438,6 @@ related:
       - url: "https://images.barrons.com/im-705334/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Artificial intelligence: Google poised to unveil how it plans to take on ChatGPT"
-    excerpt: "The launch of ChatGPT from OpenAI appears to have kicked off an AI arms race, with Google and Microsoft seemingly leading the charge as tech giants look to change the way we engage with their products and services - including searching the web."
-    publishedDateTime: 2023-02-04T10:45:00Z
-    webUrl: "https://news.sky.com/story/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
-    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 52
-    images:
-      - url: "https://e3.365dm.com/23/01/1600x900/skynews-google-london-office_6030563.jpg?20230120143926"
-        width: 1600
-        height: 900
         isCached: true
   - title: "ChatGPT maker releases AI detection tool after school districts complain of cheating"
     excerpt: "The makers of ChatGPT have introduced a new tool that may help educators distinguish between a text written by AI and a text written by humans."
@@ -934,6 +929,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "pBtOJzFxJNx4b167UbV9HR8YQnDZzRn3+WUKaLh7OvnqpMfKq2x9jkWI0f7GByNUb++zfN6bOacGlr7+q3aARJdbu3xlPIPFtgfIJ0cHOSbZXdQLAIix7vDD9TKJrggcAXFW+HpNX/7C2mRbW6rLeTrGVVEQvfNsaHWqTkK6WxtY5rrsl9k6rOvyhB8NEwzFqqm0OrCEpwAaAMwJjR5gBmxEvjqxV9z1Du6dCvgsFeV+sjkOqSj8l5BFNUQxgIxVDy5IpIEL0nV8sYr6GcShTYVetyvvKvcOv358VXLIJY0p6aOH7n1FmeFfKArnP+1atEa2R6pfeFvOhg9u0m0sf/Lrg2rqMoJnLbNkUO4U1O5F/kCejXDd64Mt2nqvEokiJE7DBrLm0EgqRfI3IrjdD7VNZ8NQjDRCzJR7wed7YPPM8oCzh8d+8fzVy+191ls3kj1Wv9aXhHg8lcM7LadHLOHABX6DaJWSBPMuls1NKy2q38AT8nkpr40tA3k1nxKgsSrsei6SqKTQv3q3ygc9NA==;ynLqhiF+y6zDUeV0AAC+dA=="
+secured: "Az8WVPaTHlPz8+VBF/0XGuI96klkScOMz+a7zng44pOHq+9r4GHvYcAUKe8MbrVXNkL33pLMPZy+uJQsvP93fJr0bqApOlgXWcgdN++CKdK8ieF/KJ+uovvVuvRs3TMqlCE4rIulUTYx1ga0SzeqEc1Sj5PfN/tb/RuY+YcOyvmZTDZh22ZDldO7x1jgB+5ETuLH71n9WrJ4nkcbDkeIKb1E7yQpVo30ZWihUDxCbTcm+2C4B8fUac+S/zx+MkANK2Wm2IbIhmm4Iay+h+fKLcbRrn+FTFE0Y4+bmGbJglWRm4rt6vUeX4yvAF2vC502a1UcLcU/p3lXrNCl0QgERWIFGnh5aIDMgMRK3tzZYZk=;dTxrePwBNuzkIdXFzT2cWA=="
 ---
 

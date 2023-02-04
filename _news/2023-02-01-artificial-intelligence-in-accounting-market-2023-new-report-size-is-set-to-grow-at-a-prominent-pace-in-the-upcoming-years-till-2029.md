@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Accelerator Chip Market 2023 : Research Report, Industry Growth, Competitors Analysis and Forecast 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI Accelerator Chip"
-    publishedDateTime: 2023-01-30T18:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-research-report-industry-growth-competitors-analysis-and-forecast-2028-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Entertainment Robots Market 2023 (New Report) Revenue Growth is Making Marketplace Explosive During 2028 | 117 Pages Report"
     excerpt: "Data from a variety of sources, including closed-circuit television cameras (CCTV), commercial off-the-shelf cameras, and first- and third-party consumer data, is processed using powerful artificial intelligence ... with a head start in planning and ..."
     publishedDateTime: 2023-02-03T11:20:00Z

@@ -2,6 +2,145 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-01-12-data-science-vs-artificial-intelligence-ai-key-comparisons.md",
+      "title": "Data science vs. artificial intelligence (AI): Key comparisons",
+      "excerpt": "Data science and artificial intelligence (AI) are two complementary technologies in the modern tech environment. Data science organizes and crunches the large, often variably structured ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/",
+      "originalUrl": "https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1-e1668621183469.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-science-vs-artificial-intelligence-ai-key-comparisons/amp/",
+      "publishedDateTime": "2023-01-12T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal.md",
+      "title": "AMD proved that Apple skipping 4nm chips isn't a big deal",
+      "excerpt": "AMD said at CES that its use of a 4nm process helps its new chips beat two-year old Apple Silicon, but in doing so, it revealed that a jump to 4nm was not a big deal for Apple's future chip releases.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal",
+      "originalUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/52360-104443-449911-Ryzen-3-Key-Art_01_0003_5K-xl.jpg",
+          "width": 1312,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal/amp/",
+      "publishedDateTime": "2023-01-12T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-scientists-weigh-in-on-the-ethics-of-next-generation-ai.md",
+      "title": "Scientists Weigh in on the Ethics of Next-Generation AI",
+      "excerpt": "The release of a powerful and publicly available AI has raised questions about the technology's potential and points of concern.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2023/01/scientists-weigh-ethics-next-generation-ai/381617/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2023/01/scientists-weigh-ethics-next-generation-ai/381617/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2023/01/09/010923AING/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-exploring-ai-for-tech-marketing.md",
       "title": "Exploring AI for Tech Marketing",
       "excerpt": "Can AI improve your marketing and help grow your business? Contributor Nick Wassenberg whips up some prompts and explores.",
@@ -985,153 +1124,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-ai-powered-robot-lawyer-heads-to-court-in-first-test-to-disrupt-the-legal-system.md",
-      "title": "AI-powered robot lawyer heads to court in first test to disrupt the legal system",
-      "excerpt": "The so-called \"world's first robot lawyer\" powered by artificial intelligence will soon help a defendant fight a traffic ticket in court next month, though its creator aspires to one day bring it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/policy/courts/worlds-first-robot-lawyer-traffic-court-ai",
-      "originalUrl": "https://www.washingtonexaminer.com/policy/courts/worlds-first-robot-lawyer-traffic-court-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/efcb4aa/2147483647/strip/true/crop/4121x2164+0+292/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F7b%2Ff6%2Fc2d9d72a4b3c8d5267ff85a2edb8%2Fap23006584552936.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing.md",
-      "title": "Imagination unveils IMG DXT GPU for mobile games with ray tracing",
-      "excerpt": "Imagination Technologies has unveiled its new IMG DXT graphics processing unit (GPU) for mobile games with ray-tracing features.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/",
-      "originalUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/imag.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/imagination-unveils-img-dxt-gpu-for-mobile-games-with-ray-tracing/amp/",
-      "publishedDateTime": "2023-01-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-large-language-models-will-define-artificial-intelligence.md",
-      "title": "Large Language Models Will Define Artificial Intelligence",
-      "excerpt": "In recent months, the Internet has been set ablaze with the introduction for the public beta of ChatGPT. People across the world shared their thoughts on such an incredible development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bdffc05989c30c33964a41/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/01/11/large-language-models-will-define-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

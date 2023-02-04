@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-02-predict-football-punt-and-kickoff-return-yards-with-fat-tailed-distribution-using-gluonts.md",
+      "title": "Predict football punt and kickoff return yards with fat-tailed distribution using GluonTS",
+      "excerpt": "Today, the NFL is continuing their journey to increase the number of statistics provided by the Next Gen Stats Platform to all 32 teams and fans alike. With advanced analytics derived from machine learning (ML), the NFL is creating new ways to quantify football, and to provide fans with the tools needed",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-football-punt-and-kickoff-return-yards-with-fat-tailed-distribution-using-gluonts/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-football-punt-and-kickoff-return-yards-with-fat-tailed-distribution-using-gluonts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/02/predict-football-punt.jpg",
+          "width": 1564,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T13:48:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-analyze-and-visualize-multi-camera-events-using-amazon-sagemaker-studio-lab.md",
+      "title": "Analyze and visualize multi-camera events using Amazon SageMaker Studio Lab",
+      "excerpt": "The National Football League (NFL) is one of the most popular sports leagues in the United States and is the most valuable sports league in the world. The NFL, BioCore, and AWS are committed to advancing human understanding around the diagnosis, prevention, and treatment of sports-related injuries to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-visualize-multi-camera-events-using-amazon-sagemaker-studio-lab/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-visualize-multi-camera-events-using-amazon-sagemaker-studio-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/02/analyze-visualize-multi-camera-events.jpg",
+          "width": 1565,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T13:42:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-advisory-panel-rules-connecticut-needs-to-further-regulate-state-used-ai.md",
       "title": "Advisory panel rules Connecticut needs to further regulate state-used AI",
       "excerpt": "Concerns about such use of artificial intelligence, or AI, led the Biden administration in October to issue its Blueprint for an AI Bill of Rights urging government action to safeguard digital and civil rights. An investigation by The Associated Press last ...",
@@ -357,7 +461,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -899,7 +1003,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -996,6 +1100,57 @@
       ]
     },
     {
+      "path": "_news/2023-02-02-netflix-taps-ai-to-generate-anime-backgrounds-rather-than-hire-humans.md",
+      "title": "Netflix Taps AI to Generate Anime Backgrounds Rather Than Hire Humans",
+      "excerpt": "The clip represents an experimental attempt to help the anime industry address its labor shortage. However, critics say there wouldn't be a shortage if human animators were paid more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/netflix-taps-ai-to-generate-anime-backgrounds-rather-than-hire-humans",
+      "originalUrl": "https://www.pcmag.com/news/netflix-taps-ai-to-generate-anime-backgrounds-rather-than-hire-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03T2h4pGHIgF1DGEv0pQZKY-1.fit_lim.size_1200x630.v1675283309.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-ai-company-co-founder-addresses-ethics-of-tom-cruise-deepfake-videos.md",
       "title": "AI Company Co-Founder Addresses Ethics of Tom Cruise 'Deepfake' Videos",
       "excerpt": "It started as an art project, then the Tom Cruise 'deepfake' videos went viral on TikTok. Now a co-founder of an artificial intelligence (AI)",
@@ -1048,57 +1203,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-02-netflix-stirs-fears-by-using-ai-assisted-background-art-in-short-anime-film.md",
-      "title": "Netflix stirs fears by using AI-assisted background art in short anime film",
-      "excerpt": "In the announcement tweet, Netflix cited an industry labor shortage as the reason for using the image synthesis technology: As an experimental effort to help the anime industry, w",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/dog_and_boy_hero_1-800x448.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/amp/",
-      "publishedDateTime": "2023-02-01T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-01-how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation.md",
       "title": "How to decide between Amazon Rekognition image and video API for video moderation",
       "excerpt": "Almost 80% of today’s web content is user-generated, creating a deluge of content that organizations struggle to analyze with human-only processes. The availability of consumer information helps them make decisions, from buying a new pair of jeans to securing home loans. In a recent survey, 79% of consumers",
@@ -1140,110 +1244,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden.md",
-      "title": "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden",
-      "excerpt": "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing",
-      "originalUrl": "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-239699/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T10:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-scaling-distributed-training-with-aws-trainium-and-amazon-eks.md",
-      "title": "Scaling distributed training with AWS Trainium and Amazon EKS",
-      "excerpt": "Recent developments in deep learning have led to increasingly large models such as GPT-3, BLOOM, and OPT, some of which are already in excess of 100 billion parameters. Although larger models tend to be more powerful, training such models requires significant computational resources. Even with the use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-distributed-training-with-aws-trainium-and-amazon-eks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-distributed-training-with-aws-trainium-and-amazon-eks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/01/trainium-eks.jpg",
-          "width": 1568,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T09:52:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -34,15 +34,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Listen To The Google AI That Can Create Any Genre Of Music From Simple Text"
-    excerpt: "Google's MusicLM builds on earlier work and is, according to its creators, 'a model generating high-fidelity music from text descriptions.'"
-    publishedDateTime: 2023-01-30T18:53:00Z
-    webUrl: "https://hothardware.com/news/musiclm-google-ai-create-music-from-text"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 17
 
 secured: "yC0FZ0IZ8+6QxXFc6leZoI0TNecns3bxnmZlMtg+Guug55rOUMQXGS/Y4MnQ2PsowlPGE5t4u7blAcGJllT1fbVV+h3eqK+WqBel1EvxawLR9YQJUwb0TzFAU0EUqTakr3DMclPQlbEVjY+8xrRoPsgKIByiBcwHi5Q1//cTphXLfnEW1hzH9ic1TdT1KCsoQKYatlDpTfe4tQ7qjbVprZAOBec9ilN1fSJHfIy7AJDAwMNy3daPVa0P9cDYAHwkmmIuL960E8T2PFoBQWK3ZmUGLV92kdhZ2RQRayMeAV8kPLBOX0MuI08+BQerOBF9UEMPpuLbCYE/zYfhycY3BdVFefdAWkkUP1nCwTlzkaxMUO1OfN2OhyhPQ+JmE4ZsYJkhM/cdOTL9swKfXa6xzH+OiO932LLeW9o+OEK+byreXAZWUZ3A1a1KG3f2GE22FiHTfIv/gYwVXsrc38tZzqmc936X02/8ZfBp2g126FxAHjqZuhd6dvIswxaSqszJSMK9oOGUpdzG+67KCpgh2w==;kD8xELso6NNzY7niogBpsQ=="
 ---

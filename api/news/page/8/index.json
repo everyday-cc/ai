@@ -2,6 +2,144 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-27-european-banks-struggle-with-ai-while-us-banks-lead-the-field-according-to-a-new-index.md",
+      "title": "European banks struggle with AI, while US banks lead the field, according to a new index",
+      "excerpt": "“As the real-world application of AI accelerates at astonishing speed ... Over a call she added: “Setting our methodology onto the banks felt like the right place to start because this is a sector that has been really focused on this for a number ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/",
+      "originalUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/EVIDENT_INSIGHTS_COL_HR-1-1.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/26/european-banks-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/26/european-banks-ai/amp/",
+      "publishedDateTime": "2023-01-26T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-deep-learning-reconstruction-enables-accelerated-knee-mri.md",
+      "title": "Deep Learning Reconstruction Enables Accelerated Knee MRI",
+      "excerpt": "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ...",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
+      "originalUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/89/a89d37bd-9579-50c1-b5d9-7aedd499602e/63d2ae37698fb.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-new-artificial-intelligence-program-may-speed-development-of-gene-therapy.md",
+      "title": "New artificial intelligence program may speed development of gene therapy",
+      "excerpt": "RELATED Gene therapy may help children born with 'bubble boy' disease To address this, researchers came up with ZFDesign, an artificial intelligence that uses a database of nearly 50 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
+      "originalUrl": "https://www.upi.com/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/3961674750373/2023/1/9e2e53d727c8ce5cb398145eebcff87c/v1.5/New-artificial-intelligence-program-may-speed-development-of-gene-therapy.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/01/26/artificial-intelligence-improve-gene-therapy/3961674750373/",
+      "publishedDateTime": "2023-01-26T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-accelerating-ai-for-growth-the-key-role-of-infrastructure.md",
       "title": "Accelerating AI for growth: The key role of infrastructure",
       "excerpt": "High-performance AI infrastructure offers CIOs and enterprises a way to cost-effectively manage and accelerate growth of production AI.",
@@ -1087,127 +1225,6 @@
         "IBM AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-protecting-the-hidden-layer-in-neural-networks.md",
-      "title": "Protecting the Hidden Layer in Neural Networks",
-      "excerpt": "In this episode of \"Cybersecurity Unplugged,\" Chris \"Tito\" Sestito discusses technology to protect neural networks and artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
-      "originalUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://0267f973c7f511eda6a4-193e28812cee85d6e20ea22afb83e185.ssl.cf1.rackcdn.com/protecting-neural-networks-showcase_image-6-i-5228.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthcareinfosecurity.com",
-        "domain": "healthcareinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-recent-study-shows-cognitive-benefits-of-hearing-aids.md",
-      "title": "Recent study shows cognitive benefits of hearing aids",
-      "excerpt": "PHOENIX (3TV/CBS 5) — A recent study shows hearing aids are a preventative tool against dementia and cognitive decline. Done by National University of Singapore researchers, the study found the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azfamily.com/2023/01/27/recent-study-shows-cognitive-benefits-hearing-aids/",
-      "originalUrl": "https://www.azfamily.com/2023/01/27/recent-study-shows-cognitive-benefits-hearing-aids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-news-literacy-week-algorithms-artificial-intelligence.md",
-      "title": "News Literacy Week: Algorithms & Artificial Intelligence",
-      "excerpt": "As News Literacy Week continues, it is our effort at 7 News along with our parent company Scripps, to highlight the important role the media play in our community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
-      "originalUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/450/1020d6d1597347248f5d62c059a4c7e3/4504425ed4874366be1a7029d04b4565/poster_05b48026cd744c8f9658f4990ece8563.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2023-01-25T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBW",
-        "domain": "wkbw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

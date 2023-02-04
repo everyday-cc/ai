@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "ChatGPT can't make music, but Google's new AI model can"
-    excerpt: "Google is sharing information about a new, experimental AI model, MusicLM, which can create a song from a simple text input."
-    publishedDateTime: 2023-01-30T18:53:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-cant-make-music-but-googles-ai-model-can/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-cant-make-music-but-googles-ai-model-can/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-cant-make-music-but-googles-ai-model-can/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/339aedd46d1b22dd19cf31e5ea1e22db1b1fa3a9/2023/01/30/2aa2b77b-5ae0-4106-b6cc-8cf9655acce8/screen-shot-2023-01-30-at-11-59-15-am.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Does ChatGPT Pose A Cybersecurity Threat? Here’s The AI Bot’s Answer"
     excerpt: "Newly published research from BlackBerry suggests that the AI-powered ChatGPT bot could pose a cybersecurity threat. \"It’s been well documented that people with malicious intent are testing the waters,"
     publishedDateTime: 2023-02-03T11:21:00Z
@@ -443,21 +427,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Did ChatGPT write this article? Faculty look at AI challenges and opportunities"
-    excerpt: "The academic landscape shifted dramatically in November 2022 with the launch of ChatGPT, a chatbot developed by OpenAI. ChatGPT is artificial intelligence software that can write essays, poems, code and perform other tasks traditionally done by humans."
-    publishedDateTime: 2023-01-30T17:41:00Z
-    webUrl: "https://phys.org/news/2023-01-chatgpt-article-faculty-ai-opportunities.html"
-    ampWebUrl: "https://phys.org/news/2023-01-chatgpt-article-faculty-ai-opportunities.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-chatgpt-article-faculty-ai-opportunities.amp"
+  - title: "Artificial intelligence: Google poised to unveil how it plans to take on ChatGPT"
+    excerpt: "The launch of ChatGPT from OpenAI appears to have kicked off an AI arms race, with Google and Microsoft seemingly leading the charge as tech giants look to change the way we engage with their products and services - including searching the web."
+    publishedDateTime: 2023-02-04T10:45:00Z
+    webUrl: "https://news.sky.com/story/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
+    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-google-poised-to-unveil-how-it-plans-to-take-on-chatgpt-12802689"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 53
+      name: Sky
+      domain: sky.com
+    quality: 52
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/did-chatgpt-write-this.jpg"
-        width: 2412
-        height: 1544
+      - url: "https://e3.365dm.com/23/01/1600x900/skynews-google-london-office_6030563.jpg?20230120143926"
+        width: 1600
+        height: 900
         isCached: true
   - title: "ChatGPT maker releases AI detection tool after school districts complain of cheating"
     excerpt: "The makers of ChatGPT have introduced a new tool that may help educators distinguish between a text written by AI and a text written by humans."
@@ -930,15 +914,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 11
-  - title: "How Will ChatGPT Impact the Tech Sector?"
-    excerpt: "ChatGPT has officially reached maximum capacity these days, as it broke the internet just a couple of weeks earlier with its impeccable ability to mimic human language. We''ve all seen so far what AI can do - from smart assistants that are capable of recognizing your voice inputs and sending messages and completing any other command on your behalf to AI robots that are well-equipped to replace human workers in certain professions."
-    publishedDateTime: 2023-01-30T18:38:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2023/01/30/454787-how-will-chatgpt-impact-tech-sector.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "ChatGPT might change advertising — but it won’t revolutionize it"
     excerpt: "Even though its unlikely to upend the ad world any time soon, the buzzy conversational AI model could prove useful for savvy marketers."
     publishedDateTime: 2023-01-31T20:25:00Z

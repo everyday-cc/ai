@@ -7,7 +7,7 @@ originalUrl: "https://gulfbusiness.com/sony-announces-4k-ip-based-pan-tilt-zoom-
 webUrl: "https://gulfbusiness.com/sony-announces-4k-ip-based-pan-tilt-zoom-cameras/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sony Unveils Two 4K PTZ Cameras With AI Analytics"
-    excerpt: "The auto-framing technology driving the PTZ cameras enables automatic operation for quick object tracking and rediscovery. Various auto-framing options are available. The cameras offer quality images with automation,"
-    publishedDateTime: 2023-01-30T18:20:00Z
-    webUrl: "https://www.tvtechnology.com/news/sony-unveils-two-4k-ptz-cameras-with-ai-analytics"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Ub7pQ3axe8b5FMkpkpfQYY-1200-80.png"
-        width: 937
-        height: 594
-        isCached: true
-  - title: "Sony Electronics Announces Two 4K IP-Based Pan-Tilt-Zoom Cameras Featuring PTZ Auto Framing with AI Analytics"
-    excerpt: "Sony Electronics is expanding its lineup of pan-tilt-zoom (PTZ) cameras with the addition of two 4K models with built-in AI analytics. The SRG-A40 and SRG-A12 cameras automatically and consistently track,"
-    publishedDateTime: 2023-01-30T18:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/01/30/9751297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1992006/SRG_A_Series.jpg"
-        width: 400
-        height: 254
-        isCached: true
   - title: "Sony Electronics Launches Two 4K IP-Based PTZ Cameras with Built-in AI Analytics"
     excerpt: "Sony's SRG-A40 and SRG-A12 PTZ cameras provide excellent image quality and enable remote control for seamless capture."
     publishedDateTime: 2023-01-30T20:51:00Z

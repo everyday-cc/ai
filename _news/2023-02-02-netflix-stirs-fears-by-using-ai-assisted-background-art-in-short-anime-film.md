@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/02/netflix-taps-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/netflix-taps-ai-image-synthesis-for-background-art-in-the-dog-and-the-boy/amp/"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -30,33 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Netflix Taps AI to Generate Anime Backgrounds Rather Than Hire Humans"
-    excerpt: "The clip represents an experimental attempt to help the anime industry address its labor shortage. However, critics say there wouldn't be a shortage if human animators were paid more."
-    publishedDateTime: 2023-02-01T21:44:00Z
-    webUrl: "https://www.pcmag.com/news/netflix-taps-ai-to-generate-anime-backgrounds-rather-than-hire-humans"
+  - title: "Netflix's Labour Shortage Claim For Using AI Raises Age-Old Questions About Industry's Declining Ethics"
+    excerpt: "It did not take long for the clip to spread like wildfire and for more people to call out the studio for using AI tools when artists in the industry already have been suffering in the industry. In the tweet,"
+    publishedDateTime: 2023-02-03T12:51:00Z
+    webUrl: "https://in.mashable.com/tech/46558/netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethic"
+    ampWebUrl: "https://in.mashable.com/tech/46558/netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethic?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/46558/netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethic?amp=1"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: in.mashable
+      domain: mashable.com
+    quality: 88
     images:
-      - url: "https://i.pcmag.com/imagery/articles/03T2h4pGHIgF1DGEv0pQZKY-1.fit_lim.size_1200x630.v1675283309.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Netflix has found an exciting new way to piss everyone off with AI art"
-    excerpt: "Netflix released a new anime short that uses AI-generated art for its backgrounds, and it has started a firestorm online."
-    publishedDateTime: 2023-02-02T22:17:00Z
-    webUrl: "https://bgr.com/entertainment/netflix-has-found-an-exciting-new-way-to-piss-everyone-off/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/The-Dog-and-The-Boy.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/netflix-ai-copy_wshk.620.jpg"
+        width: 619
+        height: 374
         isCached: true
 
 secured: "qd1moB9UyVZMOwpg2Xqg5lhaR10fILxUiVw1C938M2ZR1JSP5nSaMqv9luyuwWI6Qi7S0NABl9TGW7tgnCh5daSNpxj/XapXR6M9BBV2CjK3TcI7FwV//ViZf0fBDLoRZpCyMZS8tWNpgrZhL3UNbNTaAnWMO6XPs/V54zbcAv/x8ArHFLJc/e0+H4PyjlaU7IUwAK6MoHWx8swoQdSXK57X7kmBgIcOrjx22oQTLwAwhyXZfCzeoJn3+TlvzSyec7juZvST2IoZi2nDEooXF3KP7pAtKTMZGDSPupT71r79eTTd5XRqGL7Xmlxl8fGc7DixdVQLXgkgR4wyxqU0RL1zPSc0UVuE55djtWSccgt5wpUAC5e13Fk/xrueNKB4LNPH88kKfu4g2emgi844RWpydrHdizL7oU5dARLtde4oLaqAGt2bf1Vmkz0s9GRFnmVFfMPEiaQtmaynFQx/wBth+80BLRrC3Srl75WEHrd3SRUVy8UV6DqgdOgrb+W76/Nt/L4QK/mj1r9pd0U4VA==;9shLd47yzagjNuMzlwPSsg=="

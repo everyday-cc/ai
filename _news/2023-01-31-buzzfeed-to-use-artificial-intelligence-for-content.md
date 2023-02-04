@@ -2,19 +2,19 @@
 category: news
 title: "BuzzFeed to use artificial intelligence for content"
 excerpt: "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ..."
-publishedDateTime: 2023-01-31T05:50:00Z
-originalUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-webUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-ampWebUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+publishedDateTime: 2023-01-30T19:34:00Z
+originalUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+webUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+ampWebUrl: "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
 quality: 59
 heat: 89
 published: true
 
 provider:
-  name: wtvr
-  domain: wtvr.com
+  name: fox17online
+  domain: fox17online.com
 
 topics:
   - AI in Autos
@@ -67,6 +67,6 @@ related:
       domain: businessinsider.com
     quality: 20
 
-secured: "18M4iAId/SdT0lw6rl7M2Dyi0Zm9S4eImgx4zpScI4rI/HIU2yOBZlZAkOIxLb+NvIz00iyCc+iqelxptnNsiivjlnGLP6eT8WGIE8GhfMBVh1xy8gsWbjVOBqJxm84EgqmYLb0+cqRnBVr5ayjHsTec2x7MZ0+tr0XXAWRuUjuVgk/V39lgbanNVJriI1S+O6taq4OL7Z1K9yEWYb11DSrCogMXP47d9MOgE+KFf+Uw6xOPvsLiP84zNYtCPaOV/E4+hUaZcv9gnfiDeC3tkZLsNfdtCq3uOG8NfUgbKApdp+K7tQ6MZ0Mv8pme10GGp97LnUzrX1R6zCp9yUi6aHxrvqnZPSfQI1EAfaJ2AYM=;cIMVW0fr9dXqn6U++es36w=="
+secured: "TKIfEcVfytdkZLSBbCwP+EG57T9kdnS7Ol1jzbTfYJWVmy5VrTRAsmoz1NsIvU/YJb1EMgplEiODRZfxbuK3J3gkU6RtN4v9mDWmOzfbKvjuJND6105BOmD2gOb+CmKJRz9XWLBCzfY+zEI3rxGD2WhLnMxr/EfCba9BvwpAPizVqH9a7Jq+zJ6gPNjjcoKy4GclCELO4KGSA43kyAQWtwxe/kttBy/PF7tJWr8J3sG1cp1bg6tFhMqhZB3wXpcqVnIui8PJLuYtzCiQymCcrqd8MLPtXG5sHAcD/UEU29HMpu/0qzo25n+/oZr2Ur04mX1P4yckW2MoJB3zkiSrwL3e07xQGZFQHwAC4lL0wNA=;jkmIrJDJbV/MFgtJLarngA=="
 ---
 

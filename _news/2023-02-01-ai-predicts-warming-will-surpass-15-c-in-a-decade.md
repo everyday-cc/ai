@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Earth is on track to exceed 1.5C warming in the next decade, study using AI finds"
-    excerpt: "Researchers found that exceeding the 2C increase has a 50% chance of happening by mid-century"
-    publishedDateTime: 2023-01-30T19:00:00Z
-    webUrl: "https://www.theguardian.com/environment/2023/jan/30/climate-crisis-global-heating-artificial-intelligence"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 12
-
 secured: "YEpu1+kuq20vmfdkrteJCGXoKtdnGhFX8C0bffXgzxpZXItkQP9oLq0Qj14q2n6f26LDEiy/u5RET0YEfRzhT75huzsTMdGWk7bUur7S/jEgGww09tzNGPVGDQmgrUkhybiM0RRjqYkyNcrqh/RQ7goUIMXZnFrI0jFMGjddQwNvUE8EGuHAG5+vkAUSxnWTLeEJRxZtnrazJnRHNZMM+fqQ5QHD/ti0L0GMfq5ZhD3wBaI3YSwcYjkdYkiU1rmcKbTvVtEjUoUZWQTbI6fjswdX1wlB7axZZ06RSKjjwOocHHFQyHSJGWBVfyT0nRgs6KnyMq4EagP5kXBJVAGLdXcMycOrJ2fKXfz+WPfAFhHGbapYGYsNrgOL0F8FaISxZ4rUdp5e59IHy8WT9Kf4YLXteos0hWC/AgvHsF3aErSUPh9Y8vZ/xNw3mcNosy3NVrHVuUPNG531xKnYuQr9snTcpmuUN193NU2V4Tcdni6HUGF2HUEJG602ukTnU9uI5suWDDqe26pnliBerf4mSg==;2GTRP2kuDn0aTdxH7/fRwQ=="
 ---
 

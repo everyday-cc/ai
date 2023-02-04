@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/instagram-co-founders-introduce
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/instagram-co-founders-introduce-ai-powered-news-app-artifact/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-97510951,width-1070,height-580,imgsize-25086,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
+        isCached: true
+  - title: "Instagram Co-Founders Launch AI-Curated News App, Artifact"
+    excerpt: "Following their departure from Facebook in 2018, Instagram’s co-founders have returned with their latest venture. Kevin Systrom and Mike Krieger’s Artifact is an app that uses AI to curate and personalize a user’s news feed."
+    publishedDateTime: 2023-02-02T16:29:00Z
+    webUrl: "https://hypebeast.com/2023/2/instagram-co-founders-artifact-news-app"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2FInstagram-Co-Founders-Launch-AI-Curated-News-App-Artifact-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "pImTWtyIvwbnWP/irM5xiAvQ4RNBArFagK9vRywvv0TjS7EE7QR+EzJd+kfXdVhomhHaenuBZAxAqpRaePLiNk6VtZkpkEOL/e050QpLE0u2qwyJxgkjyDseO+mmuHMnojhKCQqkEKhk/Kezjz0PTRRNK7et3l1/Vk8TuQuq7bW63uEjvzxo2AUlqUG+CxK/tVn47AMJkIobcn532Y6OzihuoGkHFLOJpVWTAmxDrBZt2hBk+IfYy9KW2FFJ7op1kNyIQk+2LIDkoj76e6QCt46YTidmELTv5zHuaxBgubRhvVa2uuPTX/+cdztDqgYc8OwlcrUq58+X4SDD9tEMNtFSbqsovY/pJZYLUyAJMoFfkx3EceviITXyGJE+jg0+GJ0tuEjMr7kLyx/LqJoswLVHRaT65g9XqMAlrLAQ0kmi5P/ZOara6d+X6R2gSFz+rfHA1qiYipqLQBIh0edFu5ROsizLUz3D0xxXdsPrse5HgnCvNMshJ/A9S6dXu/E3gZO6UdepLnndt0CMfWkf6A==;m47bM2dAOP6jRDmLJ7+4bA=="
