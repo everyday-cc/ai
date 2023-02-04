@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-03T13:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market Size in 2023 Industry Demand, Industry News, Business Growth, Top Key Players Update till 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Natural Language Processing (NLP) Market Qualified Report is spread across 112 Pages and provides exclusive data, information, vital statistics, trends, and competitive ..."
     publishedDateTime: 2023-02-03T05:37:00Z

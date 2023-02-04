@@ -135,20 +135,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 29
-  - title: "Analysis of Self-Driving Cars and Light Trucks Market, Including Recent Developments, Potential Opportunities, and Predictions for 2029"
-    excerpt: "Self-Driving Cars and Light Trucks Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
-    publishedDateTime: 2023-01-31T03:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/analysis-of-self-driving-cars-and-light-trucks-market-including-recent-developments-potential-opportunities-and-predictions-for-2029-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hybrid Voice Recognition System Market Size with Global Industry Analysis, Revenue, Future Growth, Business Prospects and Forecast 2023 to 2028"
     excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,"
     publishedDateTime: 2023-02-03T03:01:00Z

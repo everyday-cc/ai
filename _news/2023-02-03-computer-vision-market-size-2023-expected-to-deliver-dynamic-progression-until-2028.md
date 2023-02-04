@@ -1,27 +1,31 @@
 ---
 category: news
-title: "AI In Fintech Market Size Share, Trends, Segmentation, Top Key Players, Growth And Forecast To 2023-2033"
-excerpt: "The global AI in Fintech market was estimated at USD 6.67 billion<br />and is expected to reach USD 22.60 billion. The market is also expected to"
-publishedDateTime: 2023-02-02T12:27:00Z
-originalUrl: "https://menafn.com/1105514730/AI-In-Fintech-Market-Size-Share-Trends-Segmentation-Top-Key-Players-Growth-And-Forecast-To-2023-2033"
-webUrl: "https://menafn.com/1105514730/AI-In-Fintech-Market-Size-Share-Trends-Segmentation-Top-Key-Players-Growth-And-Forecast-To-2023-2033"
+title: "Computer Vision Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028"
+excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+publishedDateTime: 2023-02-03T13:34:00Z
+originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-03"
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-03"
 type: article
-quality: 22
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979102"
-    width: 356
-    height: 250
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -29,20 +33,6 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Artificial Intelligence (AI) in Security Market” report provides an in-depth analysis of the size of the global market. It also ..."
     publishedDateTime: 2023-02-02T15:50:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-03T13:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-03"
     type: article
     provider:
       name: MarketWatch
@@ -151,7 +141,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Fintech Market Size Share, Trends, Segmentation, Top Key Players, Growth And Forecast To 2023-2033"
+    excerpt: "The global AI in Fintech market was estimated at USD 6.67 billion<br />and is expected to reach USD 22.60 billion. The market is also expected to"
+    publishedDateTime: 2023-02-02T12:27:00Z
+    webUrl: "https://menafn.com/1105514730/AI-In-Fintech-Market-Size-Share-Trends-Segmentation-Top-Key-Players-Growth-And-Forecast-To-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979102"
+        width: 356
+        height: 250
+        isCached: true
 
-secured: "lSYBObSdWJJoWhBWnxy4nXhjgFiBv040lrMl/thFhfrdh164haHv3fl2v71DeS8k+ewZkPoyGeks6gg6L490yKW5Kceeq8JzBjSLCYSaSdKI5FE7l2Rzo77iTfM0KY5qLtGw79wYe3/9QUKChwnJFeReJLbX9KwVTMPcd6WBzx+1sM6Ye7zhG6FG16P8cKODsmZ0L6VKhNHxtZhuIKWonCx1A2BlFbQ7MZCvpKaC7LlrxCZmQaxGHFo7PZ4NhD51SXt3oacwjgVY19c6rc/CFSM+MqJTbBX28RH/pwCPMIM3VdLZ6FLVt8JPUn8khwnvf73RdIrFkGZLL2KT2mArbc32TuIH7hKVoYtOI8OMnzk=;CB58nU6RH0NkCstvr0HDuQ=="
+secured: "7Qa0oX/8B7zHpwsfumwa1sZnebll9eulyg2698cvzL7+FEIWJLxS55uilvikqybA0XVpZJ7Rmid+W2PnK/Tjr+SXQCyvwAZsEZdxsFMvv6Bp2NHoa5wp6kuXVNB9ATwQxABXnSh31rKv+1Tb65ZW1Sfm3VD/9c9ywmtRBAUVgGwcXjK/hQpkQjARVGtpOkOzjeUV/YyRYEbhMhrGDrl/02V1pCJJEeceoedKJ+/GKLSV80v5k9R7hB9hPWfBLLt05oxvgNgtvO+tPXMwAU43feukv9F/DOk4Q4XYI7XIPbvxH1cJitfxeuzD9DMcDyqp3bjRoV98XsWUNASTfalMt3xIyR2QiZuf2uHxvj7+XhE=;UEP1WJjOjmuTYg+4TtrtPA=="
 ---
 

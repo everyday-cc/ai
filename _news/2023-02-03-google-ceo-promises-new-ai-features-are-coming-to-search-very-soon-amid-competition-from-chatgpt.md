@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnin
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html"
 type: article
 quality: 73
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google CEO Pichai Says AI Machine Learning Is Coming To Its Search Engine Very Soon"
+    excerpt: "Google CEO Sundar Pichai made it clear, during Alphabet's Q4 '22 earnings call, that the tech giant is still a AI-first with a healthy disregard for the impossible."
+    publishedDateTime: 2023-02-04T18:50:00Z
+    webUrl: "https://hothardware.com/news/google-ceo-pichai-says-ai-machine-learning-is-coming-to-its-search-engine-very-soon"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 28
 
 secured: "oEPSdeVZxTBaIVuiq9kubkU11jCzzXMIvaJthfkSW15eIZgbF8l4U5Mm51G+l6WzSXNO8riSBaUa3rPDHxDILcmwIukPwVHgpdMy01v2uD1pZnh7znuqaCdYziYBLzjSh8d4IEuHDYVIyKTudUkjF9Tw2EGkbBObykAZ7J3khX3MHDlgRrRE3mOS+PzejenOT9xjn6XPi+THrIUObPYf1B/IS1QuGa+BFyv+5hq0RWMpXRDmOMOZ1FvfnooEi7FFsIC0df1kRpX5xMv2FqmFZNiie+yRxVNZMK+7NDqMrFZJErKGRzcrv4tXUfvn9Kno+qSDN4VBNiVPfwbRTUZTbbOLcJPH41VfiRsoBIuGPrHYak+JU/vFbSe581xhNq7lYjXr0qlhuAA+V67iRudW8oEp6SS25VSQ5//Xc47HbP13yvkKBuFRx3ghbeC1vS+DZtcGAc2FAAXSqeRFxAydgTclLZnQ0tsoTGy+i4lyPo0TovagdszvQTceSO0aCdRoc4NQcFiW+LpCybM+YLJvTw==;0UpyGOjDvPEqh6Taa0mBkw=="
 ---

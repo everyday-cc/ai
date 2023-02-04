@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T00:00:00Z
 originalUrl: "https://www.thefastmode.com/technology-solutions/30193-ericsson-ooredoo-qatar-offer-ai-solutions-for-cx-leveraging-microsoft-cloud-datacenter"
 webUrl: "https://www.thefastmode.com/technology-solutions/30193-ericsson-ooredoo-qatar-offer-ai-solutions-for-cx-leveraging-microsoft-cloud-datacenter"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Deep

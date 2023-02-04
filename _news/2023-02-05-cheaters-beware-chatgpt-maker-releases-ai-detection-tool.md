@@ -1,22 +1,27 @@
 ---
 category: news
-title: "ChatGPT and AI tools can replace jobs in many industries; Know details here"
-excerpt: "Artificial Intelligence and chatbots such as the now viral ChatGPT can impact jobs in a range of industries as they have the ability to write specific content."
-publishedDateTime: 2023-01-31T13:49:00Z
-originalUrl: "https://economictimes.indiatimes.com/news/international/us/chatgpt-and-ai-tools-can-replace-jobs-in-many-industries-know-details-here/articleshow/97496727.cms"
-webUrl: "https://economictimes.indiatimes.com/news/international/us/chatgpt-and-ai-tools-can-replace-jobs-in-many-industries-know-details-here/articleshow/97496727.cms"
+title: "Cheaters beware: ChatGPT maker releases AI detection tool"
+excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework."
+publishedDateTime: 2023-02-04T20:30:00Z
+originalUrl: "https://fredericksburg.com/news/national/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/article_8b9ee35f-8857-5c1d-a49c-7df75c54e420.html"
+webUrl: "https://fredericksburg.com/news/national/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/article_8b9ee35f-8857-5c1d-a49c-7df75c54e420.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: Fredericksburg.com
+  domain: fredericksburg.com
 
 topics:
-  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/8/b9/8b9ee35f-8857-5c1d-a49c-7df75c54e420/63dc0ad11e6bf.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How Brands Can Use ChatGPT And Other Generative AI For Content Marketing"
@@ -774,20 +779,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 37
-  - title: "Cheaters beware: ChatGPT maker releases AI detection tool"
-    excerpt: "The maker of ChatGPT is trying to curb its reputation as a freewheeling cheating machine with a new tool that can help teachers detect if a student or artificial intelligence wrote that homework."
-    publishedDateTime: 2023-02-04T20:30:00Z
-    webUrl: "https://fredericksburg.com/news/national/cheaters-beware-chatgpt-maker-releases-ai-detection-tool/article_8b9ee35f-8857-5c1d-a49c-7df75c54e420.html"
-    type: article
-    provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/8/b9/8b9ee35f-8857-5c1d-a49c-7df75c54e420/63dc0ad11e6bf.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The massive ChatGPT craze has reached Asia, lifting some Chinese AI stocks up to 60% in just a few weeks"
     excerpt: "Hanwang Technology Co., a manufacturer of pattern recognition technology, jumped more than 10% Wednesday, taking year-to-date gains above 43%. Facial recognition software firm CloudWalk Technology Co. rose more than 8%, with a 2023 gain of nearly 49%."
     publishedDateTime: 2023-02-01T12:35:00Z
@@ -893,6 +884,15 @@ related:
       name: Law
       domain: law.com
     quality: 19
+  - title: "ChatGPT and AI tools can replace jobs in many industries; Know details here"
+    excerpt: "Artificial Intelligence and chatbots such as the now viral ChatGPT can impact jobs in a range of industries as they have the ability to write specific content."
+    publishedDateTime: 2023-01-31T13:49:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/us/chatgpt-and-ai-tools-can-replace-jobs-in-many-industries-know-details-here/articleshow/97496727.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
   - title: "More debate needed over generative AI's health care impacts: ChatGPT"
     excerpt: "So-called generative AI—algorithms that can be used to create content using machine learning—has been much in the news of late. In particular, the tool ChatGPT, created by Open AI, has attracted considerable attention."
     publishedDateTime: 2023-01-31T14:05:00Z
@@ -993,6 +993,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "83+ySXXAbv9BJIrsEfOmsPTjxonk6sOqYuf4TCrwOltzBqSDWkDaI/UtDZOjmLDoKSHJCcWBYJbiSSPGGXvGRyPM+T2dRrfSUSTTNNUl9u1lNxhrrJgVqlqCrOuMj0uevZAkpwRs0WRJ8KrL3r7cQUoFfK6WHpJxf9zcMSchBXPew+JX1FBi/hydx32kmp/fzdA9PAgrUuMsg9dbTvflFusA9bcyclCGBLcp43c6xwL/V9MM34nKxBGqldAw1V/vJKs68nu+RhPupeLqmIypSrXlQPyeBrH1P1bIafacrA+92CoTlj7MBBzGqMYPonk7bSh+yCbKsTjzIk497+eUx4rKkes3o1nOY1oQRiIr0DyIUmrJOemdTA6Y5Fc2wcLiU20UiSh1ZPOTfp6rTD7KsGSbeKYqqeq6hFGJubYTMHIuaaM/ob1PtJyU2HR3ea92GCy09plFOcpy4RYLsPY0MZELO2zi3A1IS1kWOj4Iqf0Of8cgH9s+A5RfYqwJnEFgh48SZ5khqk52ny4pdrILYQ==;koVMQwWLKA53mEs8+cenpw=="
+secured: "Cy6E0wXSt6qsfps688FNcADCL3txNGDiX4/CORmrcrfidWusCxevU59LYdGL/Vk42ipki+45jfEqhFhEmNEPRGD3jA8k4zlztU+68JUbz4VunhsjrExIxaSANjS7L89/22l7SHaD5gcHaWgtjS4ehc8Rzpq2buOLwIKxjUXkz7PtLAfwn3QWd2wrS0rf5ksrs8lsCfq0oKxqXN8ZQzdv8bmD0YJyor3TIqciJNVx1MEpRZIXtGOkzkMKvSS2kMEbbTczfRjoIUAcx8hAP/zpbS00EGu8IoR+WmRCFUUUlI7uz2FK2Oawo5IlBpVm27QMb0NTYlxPE192hAQRcT4MXalH/NHDtUi8+GhfGtvH02w=;Uom56LbaT0kZah10Fb/Lew=="
 ---
 

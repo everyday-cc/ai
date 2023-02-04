@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-03T13:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Chip Market Global Analysis Of Key Manufacturers, Dynamics & Forecast 2030"
     excerpt: "Regionally, the AI chip market is segmented into five major regions including North America, Europe, Asia Pacific, Latin America and the Middle East & Africa. Asia Pacific is projected to witness ..."
     publishedDateTime: 2023-01-31T09:15:00Z

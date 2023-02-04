@@ -46,6 +46,15 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Google CEO Pichai Says AI Machine Learning Is Coming To Its Search Engine Very Soon"
+    excerpt: "Google CEO Sundar Pichai made it clear, during Alphabet's Q4 '22 earnings call, that the tech giant is still a AI-first with a healthy disregard for the impossible."
+    publishedDateTime: 2023-02-04T18:50:00Z
+    webUrl: "https://hothardware.com/news/google-ceo-pichai-says-ai-machine-learning-is-coming-to-its-search-engine-very-soon"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 28
 
 secured: "VivQUUBpiFaTV7K8z9aZXHvHJK/G7qHHi4yskKmMcxIrlfZbZr/j+TTqkRNYV85otJUc0iiJfGKgAKBcNzCC71bOLk5UzDyPuCIMp3t3q44ifCtx+/kj5MNeNZ/zpdYPlK5DIJxIiJVWXabtJwVR9NaSDcdHVE9u9H4B8axoqgmoUYLevE+GVA6//4H7Hxf7CAzYiatwjZ4xvIq7h+925A70rYko9PfM8nDw0bq1H6LXguCgOEtyYliEaFEE3raoJvd6VxzLxjNXXO2DyUZZkK790NTxqMofuUjo2sJpDdnirLPNh9OJ4BZcEsAf/dLoSyUqwn5wvAOJ9n29Rckpsh3i2d8HLtj5fjbrWylp0+1LuaUyUFA1U9dJMp+rth0F/6M1LnxQJtPd9b+7zZ80aXaoOU2MGfYbIWm74t/hNJboW3XmiFLC73FPn5qSfGcccz+E5QtJGmonEx69JgerfZjk4p+MTvXiq4mX5FIxehfEz0fzvpkx3VsfV3KutVJt8gKB/gK1la8h8FfYzifk1Q==;0wAh9OSnb9xSeP4I0gNLgg=="
 ---

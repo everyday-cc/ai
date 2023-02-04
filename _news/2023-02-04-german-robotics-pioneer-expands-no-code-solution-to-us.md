@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-04T10:53:00Z
 originalUrl: "https://www.woodworkingnetwork.com/technology/german-robotics-pioneer-expands-no-code-solution-us"
 webUrl: "https://www.woodworkingnetwork.com/technology/german-robotics-pioneer-expands-no-code-solution-us"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Woodworking Network

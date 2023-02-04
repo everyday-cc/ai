@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-03T15:09:00Z
 originalUrl: "https://www.restaurantbusinessonline.com/technology/why-newks-eatery-using-robots-answer-phone"
 webUrl: "https://www.restaurantbusinessonline.com/technology/why-newks-eatery-using-robots-answer-phone"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Restaurant Business

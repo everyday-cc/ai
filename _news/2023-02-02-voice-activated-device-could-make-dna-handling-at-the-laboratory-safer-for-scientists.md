@@ -27,19 +27,17 @@ images:
 related:
   - title: "Voice-activated system for hands-free, safer DNA handling"
     excerpt: "Smart voice assistants are a popular way for people to get quick answers or play their favorite music. That same technology could make the laboratory safer for scientists and technicians who handle potentially infectious samples."
-    publishedDateTime: 2023-02-01T13:00:00Z
-    webUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.html"
-    ampWebUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-voice-activated-hands-free-safer-dna.amp"
+    publishedDateTime: 2023-02-01T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/977599"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/voice-activated-system.jpg"
-        width: 2604
-        height: 2238
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ac5486b-03b6-491a-93f9-1bcc56490156/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 258
         isCached: true
 
 secured: "yclOkgJ5JUdvHHJCJeBd8KXidS8fJnrlhnDPDc//m7UBc4AwIUFEITOh9J6T866c8KiFi0s8HkYrEPpM6nqK/7/OspCvy9vzG5Lk+597s87U6yjJW95mjWNxXUh3mCtBBsBjaYRMbwpzoo+Qiz2CYzgwOGglP90x1UaTHFuuXzsw0c1D1sWYKEhW04fIe207Mns7dxwDS8PMNFE5vfGtdn1o9vOzaV6kOsjK+FvvkEfpLvdG+MJ48sI24xEEdXLuDujwPJgG3Rj2/Deq+igG0Oa32Vow8mJerMrVu9z5EhrhOpYF8UREdRI0gP2j+cUkwUCdNma5oj4jdZLEJ1It479ip9ULfc8tECRw3/FUzyw=;+vtkiVc5cDDNYP9bkoS4nA=="

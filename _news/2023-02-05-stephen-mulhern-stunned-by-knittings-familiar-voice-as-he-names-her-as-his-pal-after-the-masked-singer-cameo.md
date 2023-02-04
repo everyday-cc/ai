@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-04T19:37:00Z
 originalUrl: "https://www.thesun.ie/tv/10173224/stephen-mulhern-stunned-by-knitting-performance-claire-richards/"
 webUrl: "https://www.thesun.ie/tv/10173224/stephen-mulhern-stunned-by-knitting-performance-claire-richards/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Irish Sun

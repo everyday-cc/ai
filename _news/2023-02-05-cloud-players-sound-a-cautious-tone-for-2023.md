@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-04T19:43:00Z
 originalUrl: "https://siliconangle.com/2023/02/04/cloud-players-sound-cautious-tone-2023/"
 webUrl: "https://siliconangle.com/2023/02/04/cloud-players-sound-cautious-tone-2023/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: SiliconANGLE
@@ -14,7 +17,14 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
-secured: "0HTw2y4r51W/yu7VlzlRLBz0A6a9Btiax+EOtoKchrkFs80ypM1jA5JWWkrdqafDJAIzQZT9isgoPTdLhgIO53a0IdmnWKL6TaPGV7muoiMHVly9NJR9E2Xj2c+/Z1//cLOhMHMcqsMkosm0DLt/28skRmxHKLVioT/8HzPvrX0h+nFfKsENX/HInrd4QCxrsCpdnAJYilpfyN9EEe5Bgd22nPELb+mkZGzchUiaRDcI2tvzpixXQE54vmuu+NzLoEchtqiDDr6gSYl6hKnL/QtiNU/gdp2CGj6jD8ymtXVwo5ZjGyW/0cbxy4Fs4MCdr3LVtaMh3dYUdu6mdmrOlM59vbc8QMJ5E/dVEYbHezE3D6oV0mho50BG0O9PLR4JLYF7Z3GMfs9drsdwXCIGsWo4au0vkSbrvf/f7OQ7MSK2i6A4DpJcAJqruZQWZb3RpyBu+rvmBf02nO7H3f7v1zABNNYI+Z6H4dlC4NR0K7VoWZt/760nSNSPuXnY/7MPn6C8W17aPj5W+dhgqRNokw==;13LkJGa9oU8+52izYsTgyg=="
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/2208_w018_n002_1201b_p15_1201.jpg"
+    width: 3733
+    height: 2466
+    isCached: true
+
+secured: "FXY0e61Xr1Uoc37GxCjAgVXtzhD33W2k9qaCRTvd3V8ld+g7L8PgEiIWnuLZGRJehcy53Yi+njGX6nt1bGYSPg01CspCO7CpekqkAJZvncqZcoAnS4hVsvpjEmOfF42aENlbWJGpC662yiuM1nL38KErHJ79sUxZXuwzNYZmOzChSP9sXSv5vlnocxE8qXrtVdpWAxb/26YfRQwhKvXjjhGAVlnasprGSmmcPWl6WlubrImIgndqD5Etrr1bYlcfZY/Ab58LFoxlZcUz/T1gMy0xKIobdh2of7br8wzqzFXMwH82JaMBPyeCGKagZ/bYJZwKCc8r3qaEo2O3R0nvOMrR7u8UpqhwaUoCBhv5kdk=;Wq537Y1m+Ec6gNTCeYQzVw=="
 ---
 

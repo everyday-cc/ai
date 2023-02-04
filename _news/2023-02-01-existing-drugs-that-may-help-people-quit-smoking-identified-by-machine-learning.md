@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Existing Drugs That May Help People Quit Smoking Identified by Machine Learning"
-excerpt: "Researchers have used machine learning to identify genes related to smoking behaviors and find existing medications that may be able to be repurposed to help people quit smoking."
-publishedDateTime: 2023-02-01T10:11:00Z
-originalUrl: "https://www.technologynetworks.com/drug-discovery/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
-webUrl: "https://www.technologynetworks.com/drug-discovery/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
+excerpt: "They developed a novel machine learning method, where computer programs analyze data sets for patterns and trends, to identify the drugs and said that some of them are already being tested in clinical trials. Cigarette smoking is a risk factor for ..."
+publishedDateTime: 2023-02-01T10:17:00Z
+originalUrl: "https://www.technologynetworks.com/tn/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
+webUrl: "https://www.technologynetworks.com/tn/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
 type: article
 quality: 35
 heat: 35
@@ -35,6 +35,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "yJ3szoIaE/5h/xbzz28g2zUDZurmmR9zzaCq165pI6LjTOxGtnJiIORN4jsJ3/+VEgh6Yaq2/RbteCisl1uvyE9a828m2GHt0u14H2TtQ22MWMU0lZHiqH2zrQcvNokNuJQhckTFcUEF5jhtvYU2NLF0uKjAIG/ZF/rdXakdDfmwdOvLj9J+ioOsFWYoDNh5bDifyccUa4r/cul0TZqm8RzG/g5wTDfwar3XpBxmPbvN4Kd7baaPf6ZwPJoymAfCt/o3wxnaVPanTxyH8DMSToXjV4vdBty5uO7RwRWHDZ/v+UIqyM9/tTlv3HUZMQjbyUkthVta7WqjTiOlz6PsJSsZ3GTCA0Bu3Np3BIuQ3wagkp+ZfjpB7uS9CmXCVmUjoL/1L3Ryi/7JzIBrqeBsZ52av0SIPdx6U053OopyP+P6O3EVuRCTPtDIVaWphH6v2l+l8F5RnI/9regOVpY5aUHfJoSBzfS191V7lZoRSpvvJv6emMCOe/pUpGZxULikNjsgnQw0yTS8jQb0/KGlyg==;cFKz4HuTC1v1WUWfJJQwPA=="
+secured: "2I78g7Beaq69ufukQsIH4KwjpaNNPuIhPSY/wnymvwoZ4pIQMTMBCEucxXg2gvp0btEKmus/OHSQsqBV8HeRo/DGQNXuPrEvznrPvetaYbCgO+zIy3d22+qSKRXSqF2LxQ2bVxtVATEVBiEvBUdlfXg8Ws2HHuw5ztUzj14lcZgAC2AeM73Vkw8xSRdmR9TJY4yiVH9VyTJ3cguRG6tPAeA17MtLIdqFP0YM/K2kGwF707o7unBxAKFIiZh1zftaDX56df450vnz5KDmph/cJAaVN9IzuHJuowsnECiDx/ES/ARVfYxlixcao9MbRwX3S1g07OeyuwgtvbW3uWfR+R7q5J1yV9/hTIgow8jGvSQ=;bDmLkeBnoqmg/XsrtWjsTw=="
 ---
 

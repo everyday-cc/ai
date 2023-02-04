@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-04T19:07:00Z
 originalUrl: "https://www.theaustralian.com.au/nation/politics/politics-now-voice-vote-is-principle-not-culture-war-pm/live-coverage/cdd786f190a1621710af59f6cd8b1b24"
 webUrl: "https://www.theaustralian.com.au/nation/politics/politics-now-voice-vote-is-principle-not-culture-war-pm/live-coverage/cdd786f190a1621710af59f6cd8b1b24"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

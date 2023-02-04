@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "eiWXp25i9AWUT+O95MTsAlu6aAJ4lGqiY/12yopWyjDFBoyeTzAISn1fQsvbQsVTJj/NF8gpvXtR0ZtZBilJVmfLH3bWqRC216OjaqdnY1SShqMvLQKJhSPeH1I4/qNaduaE36ht8aUGxKJT2GT1FlDj4H3TEjT6sBAxwZF29+IRigbXogfNglV058MDxhh67mUwh9TUsEsSgbo928TVIHxENn+XS210+RNWQK6A0Zux7i1RHrucMKuXKdZsrvlvhh7A1p4YoIW9eTUCPL/07ieLrDe5l4e70ouBJBy+V+MRBX1pw5nqBgXFV3e2aTj3ejar/i9Gz84Ly9NPrr3hWKIBwXFjHmOjkomASghlCxQ=;R1PucoYVr4zi89jOqSMERA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/89/a89d37bd-9579-50c1-b5d9-7aedd499602e/63d2ae37698fb.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "osCL9J0hAy2rYbeIbvjLLFM7GP9pjg806A8Ms6Ao8sLoMM6vsRvEsC+B3d9B6VkcD1ooPYVyJP/bppVXCwF4LX/xq1ef37grfNKft7vdoM2lBAL/EeyTLy6N6dqIVUjDlEetyb0SV60g2nuryqrmSYYTiuD0gJVrm3Bwbh/xyeP2lFqZaPX7olXUdbl5+pzMvr1k3tF93D/MjwvpIOP2sF0H9lw3AfSiAsfxI5d09UM05zTWJA2C4FHPRrA5kZCY87dKUkHffITG+YwhwGXP/4kStMk8J9fqXqKj1d9NcJR5m9/dMII0xEC6rrwkak3HyFQq1yVfNauXnKxgRtTbYl27E7rP6RHUJAU2gXIP0rE=;y1ZLjsn4NqXgNKFn8ePk/w=="
 ---
 

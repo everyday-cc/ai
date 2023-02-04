@@ -3,8 +3,8 @@ category: news
 title: "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden"
 excerpt: "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City"
 publishedDateTime: 2023-02-01T18:21:00Z
-originalUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing"
-webUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing"
+originalUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=mw_latestnews"
+webUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=mw_latestnews"
 type: article
 quality: 67
 heat: 87
@@ -53,6 +53,6 @@ related:
       domain: sportsbusinessdaily.com
     quality: 19
 
-secured: "wxeLJ07zlFsLdZC+NwlOmChWnSDIE7xyK+Z/pNaJxRY6Uly2jgd4W6ImDPmSCUPzAED9h7FEQzxXiMLiloQAJsOJcbUcaGsJk+4GIBQ0lV3JoAUHcaUt//dpwKicji5L13HycjED7QSjnwPiMp+qpXa0kYm9KoLMmmEhD5Zn5XGLj7QYSOYkwh5HfP3XzooGq6qtq4T0jIPiVmMm3N8t9NhNi3Ou6aQOIdbdornjNg0YhhERBvkH/0z5qwJyWqbGsy0V9eqIVCIIwKtlo1o0wpGnQvwdJ+woohDiWj/0h8VwMYkdEGQcBeS0NDqxLNeLtlVLG74ZebCY1YNPIYXO0Hy8W/sawwGv8deCJS2/Sia9fmH8Sw+EmiEATZx1Y8qgHwRFpeONhrAoGB46SsW8nJ6+Yr1OikEqPGm3X9pC0v8AvB2IGIQkoATpbDgd5KrAn8q9pmk0Fb67K0PovuxLUrkGelOYg6x6XWimO4Kj8wIhnchcACTKcUoA+KEOmICJN1xVqklArDFsyNi1ZWzjiQ==;SSk9649rpBzPkA2NJ4rj+w=="
+secured: "PBKi4490NfGmYs2Uzv5dvPRIf8kwyuwa5Jiq12Z/WI2c4p7OqIEVwX7/8/A/vy4A//zi37Yy3zL3Qd+oVp0bxxkuw3+LSY0mBkRXEp7+9JlHElbB3B5yrIZ/9eX2aTDiPmL2ZXurIUOrWq1cfcAJ2uIzwwdZHh1fHu8TSYL1b21w/U6p/ppVzdS/lohD7/Uzi2sr3o/VR76DTANOoGpOs7/rLZiW40aLbq+kM0m0gVsgUT0xWzE+DlF9eLhv0IY7XgDlAce6OV0eu/mEovbILaiZsGxR/ZABLiqLnw9KhpHoeMd69+ov+FRbx+iT4BLZdNBaAQSQrHYimM3URTO8KusDfLrogTK6Ap3V7qOpr8M=;HSeDGcb9GudHPFEici0VbA=="
 ---
 
