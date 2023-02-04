@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-04T04:00:00Z
 originalUrl: "https://www.wsj.com/articles/ai-chatgpt-dall-e-microsoft-rutkowski-github-artificial-intelligence-11675466857"
 webUrl: "https://www.wsj.com/articles/ai-chatgpt-dall-e-microsoft-rutkowski-github-artificial-intelligence-11675466857"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Wall Street Journal

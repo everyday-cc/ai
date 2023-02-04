@@ -9,8 +9,8 @@ ampWebUrl: "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.amp.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: RealClearPolitics
@@ -42,6 +42,29 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Can AI deliver the future of wellness at work?"
+    excerpt: "That is according to recent data compiled by IBM which identified that building trust in AI will require collective effort from scientists, industry and governments. The report also identified that using AI for social good is a key component in changing mass perception of the technology."
+    publishedDateTime: 2023-02-03T10:05:00Z
+    webUrl: "https://www.finextra.com/the-long-read/599/can-ai-deliver-the-future-of-wellness-at-work"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/599.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "The Race of the AI Labs Heats Up"
+    excerpt: "Regardless of the extent to which the generative AI models that underpin ChatGPT and its rivals actually transform business, culture and society, however, it is already transforming how the tech industry thinks about innovation and its engines—the corporate research labs which,"
+    publishedDateTime: 2023-01-31T15:20:00Z
+    webUrl: "https://cacm.acm.org/news/269343-the-race-of-the-ai-labs-heats-up"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "B2bM2hweaUQ/KNtIC1BQOy7Z10PtEMDypQqSiLvYihGaWLfm7Lb0sL86wtYBwZ4b0zBd3Xp6wS9FWOUvUNeJdjFsPLpGBhfMOF5bCzm4Cvi9vR+d1/PlaTRaUXQbKpj8xl3G9mrxQYPd6lkJu9aHgoMjQZMJjg/CVT7968dh6tcYfmUEGehitSzE8TPxCE5fiOkZvb8pRQhTK+yurNBaA63fhaYA9dxT3f56yyn19GhQeoBuL5XnLhOfFMz0nL4WTAnwQSqk0k8CReCAP+yolw3R8uA+tpkSZw1iQ0TfCw1UNtbhfgO8piT3oKN30iiRMqZyS30bM8oMKGpyJUNNGcoPg/RQvEjEzK55mJRJN23wYWOlZKVmAag3dYSe9DPD2Zzutp8FRiRLoIi0sSeczAIYbqh/f38Jdu2oo95tW7dPQmK1O3/vqxJfJxsMDH/j1v/RA6FzUFgc6Uw7poNMz/640b2p6zisC0L7wk0En9ckQ388aFfAVsz7o3Ma/aexsvravLwxChRBb200ZJOOxw==;RhInNddnZC/GUXqoKWuCsg=="
 ---

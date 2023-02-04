@@ -44,22 +44,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 61
-  - title: "Researchers develop AI-based strategy for discovering high-affinity antibody drugs"
-    excerpt: "Scientists at University of California San Diego School of Medicine have developed an artificial intelligence (AI)-based strategy for discovering high-affinity antibody drugs."
-    publishedDateTime: 2023-01-31T00:21:00Z
-    webUrl: "https://www.news-medical.net/news/20230130/Researchers-develop-AI-based-strategy-for-discovering-high-affinity-antibody-drugs.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20230130/Researchers-develop-AI-based-strategy-for-discovering-high-affinity-antibody-drugs.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230130/Researchers-develop-AI-based-strategy-for-discovering-high-affinity-antibody-drugs.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "WZY+XjLidr9SMIEqpTZOCDz+XUZfPQeSYRENgoy+/Gjy84BBIvFqmRnDgec05BSWL0JKw2UGCrH2cR1XJiA+haaioJaz9doHqS+WnYaqLndH+1lMk0XiuGxLRXhiD8oY3aBQpQRpOZxoOGq4hWs2CrptHz+wPstL7zuN50pXzyRaHUUr4x+hldpAiF8ChgJukoSsw5V+UvAgtHWnHhFU0waqj6LFwYyVbjBC2/FlsYKIoYtTpIkCyRoyZT1qz6dLbB1srrDHe95Qy3ioeccHYmKSWZygsUH9ysOP0N/whZVqMIJJ115sYqnHUZ72vz4n1NZQp+a0JSqK9FMQTT3Aej7coE73qv0Ms/cKZLPqr/Xe6FJHS/HLhUICa7tk8OCqi2HoBDIgbOpIoRWmSYLsNe+My2EKXGT50rej3b0TKOFRN31MLnwCnYOaFpiWinvHI2saPN1bLiIIbsETZkIa8y+m7iP5N3xDUf3xLG3legef7SrrKCThlu2GGiC0Pk6+LJID2JM5Cgkc6sF/5WPCqg==;dKjK44oC5icZPFsyZy3NUw=="
 ---

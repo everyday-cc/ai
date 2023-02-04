@@ -46,6 +46,29 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Can AI deliver the future of wellness at work?"
+    excerpt: "That is according to recent data compiled by IBM which identified that building trust in AI will require collective effort from scientists, industry and governments. The report also identified that using AI for social good is a key component in changing mass perception of the technology."
+    publishedDateTime: 2023-02-03T10:05:00Z
+    webUrl: "https://www.finextra.com/the-long-read/599/can-ai-deliver-the-future-of-wellness-at-work"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/599.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "The Race of the AI Labs Heats Up"
+    excerpt: "Regardless of the extent to which the generative AI models that underpin ChatGPT and its rivals actually transform business, culture and society, however, it is already transforming how the tech industry thinks about innovation and its engines—the corporate research labs which,"
+    publishedDateTime: 2023-01-31T15:20:00Z
+    webUrl: "https://cacm.acm.org/news/269343-the-race-of-the-ai-labs-heats-up"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "RvZGYvK5CA8XNxN7Ta+YEc1vw/Mg6uWuRZUOxEj/7ZeHjssdDsRCiNQbrbr8SwoSqBOf5v/O4EX97v5QccXpayu5wTmB2Sqkxw457LGI5eo6OjDuPOuhWCz5qNqjHxBjb/HottM7d7lypqzOJRDaeXWcVAPRJmYadNeliRDIVeotGKuLiAc66u8AmGGfqJ0w1RW8WF1WsGXDQ423VsEkei0lBgqyd7TSaPZr/HWDoLGo+MG3Lgju/TBh+5AcsBdJd6po67Yt24abvZqILIyNeLlT8J8BuZTX/tyacYUwRibxcCPvGVaL5Mu/VaUVTFzcdCr+es+hMb6lhEfXybVbgyxfYIJo9uOo75Ker14XPTJJtSJ72LPNLJZQy3JIibYeYLwj86nsrssqGzZ1ke5KnypabP4YucKGSqfifvM94rTu0bEhTTyCuEHkCeZjgQuvQSB7xrruwOlOKMS2LARgrYpVwM8g9+12RtUJLWGClI2yYFmVuC5gIJLustO7z5uYX2zj/640bhR0y7QhHGpXuA==;KdIHJc19ZkZXj/hf7qOe+w=="
 ---

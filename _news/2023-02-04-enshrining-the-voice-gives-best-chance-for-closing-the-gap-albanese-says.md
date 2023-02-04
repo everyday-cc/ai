@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Enshrining The Voice Gives Best Chance For Closing The Gap, Albanese Says"
-excerpt: "Enshrining a constitutional Voice to parliament will bring better practical outcomes and give the best chance for Closing the Gap, Prime Minister"
-publishedDateTime: 2023-02-04T12:41:00Z
-originalUrl: "https://menafn.com/1105524169/Enshrining-The-Voice-Gives-Best-Chance-For-Closing-The-Gap-Albanese-Says"
-webUrl: "https://menafn.com/1105524169/Enshrining-The-Voice-Gives-Best-Chance-For-Closing-The-Gap-Albanese-Says"
+title: "Enshrining the Voice gives best chance for Closing the Gap, Albanese says"
+excerpt: "The government will introduce the legislation for the referendum, with the wording of the question, before the end of March. This will be followed by a parliamentary inquiry lasting at least six weeks."
+publishedDateTime: 2023-02-04T11:51:00Z
+originalUrl: "https://theconversation.com/enshrining-the-voice-gives-best-chance-for-closing-the-gap-albanese-says-199259"
+webUrl: "https://theconversation.com/enshrining-the-voice-gives-best-chance-for-closing-the-gap-albanese-says-199259"
+ampWebUrl: "https://theconversation.com/amp/enshrining-the-voice-gives-best-chance-for-closing-the-gap-albanese-says-199259"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/enshrining-the-voice-gives-best-chance-for-closing-the-gap-albanese-says-199259"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-02/04/TC_29e39image_story.jpg"
-    width: 1333
-    height: 887
+  - url: "https://images.theconversation.com/files/508157/original/file-20230204-7520-e3xoli.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
     isCached: true
 
-secured: "ZWfAGUnSwFH5mUgLDqDjerNIAxg4Xx9cOFg9cqZYLFVnvGkchnQU1EZsc9Cvwm9VaCFWcWCMFPWmORnXhGVapFYV0v66B8OBGMKHo1gHDxTcUnCqrZZ3MC7+YAAVxcONDH9kAooSDIsI14WlH2w8WNtn24Uo/h7WNTTZuKmlvsFmdBTBLOcV258UEZfiQEEhLcKygtP7ltiglAGYvGVq8h9RLDbTXYGVG1cKwdKHj4kRdxFKC58AC6dqV6ePGz41Ddo044swdTEi88p4Kna/djMM6OjyA4sIjniBEwdJdF6SsVSL8n+HFdATcY8JDOPFstzk8o4qfoSQC0ZvMLEr7JKl3CGkY2OyIMVE9LKCajdoBNGWMa/7tkQWYvK7PrSK71BvIaPhVA+xSHn2gIur3Wbf3ZYez2QlhyRwxRKAAfkSI/5dalFe29TfVEP4ZV7qrmj+4PntiEelXZp1g1NEYlBbztB2YZOIjbO7IzZxQRbAPB+OyW3SOQ/wgw34mm5IfrVQRGU29FT2FwUGiHiBhA==;Xv579Fxrz99pratd7bqJ6Q=="
+secured: "RmDjsQdkEraR0idVaJYfWtesQh+lZLXbHDYdItfWUyfyE8KKVUm6w23Z0wgWlRsJ1hLT651iqkii2+L5xjxhuBlFIFvTJ8d305T1YzMsIzP1UEQ+hUEv3Dq4k1BS4YOJPqalzDd9U1lwFOb2KenC6gdFmpkFkNAYnqvJQgihUq6/7EIfGvzCOl8DqS1DSVABpjUq3UXtqXiNCo+Zca1VjBodxxa8WeQ9SjSao+Z6KK8S56nrTZkO4jI0FxWsWPDrKyku5bwJhh1SYaJMMdBNoBl/vBcZwleJplpWw3A4y00TjayCZIy5icb+eYgyNyK0+rcri5LB7kFTeXHL55gsHHLRww/r9aS9APykit0OpUA=;OIOktP0TeOVH5xZsRHWJew=="
 ---
 

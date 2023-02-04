@@ -71,6 +71,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Union Budget 2023-24 takes AI-forward approach to technology and fintech development"
+    excerpt: "The Budget initiatives will shift the trajectory of growth and innovation for the tech, start-up and SaaS platforms on an upward slope"
+    publishedDateTime: 2023-02-04T13:15:00Z
+    webUrl: "https://www.firstpost.com/opinion/union-budget-2023-24-takes-ai-forward-approach-to-technology-and-fintech-development-12104102.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 12
   - title: "Praxent Experiences High Growth in 2022, Accelerating Fintech Design and Development"
     excerpt: "Fintech product agency reports internal and external growth, gains industry recognition AUSTIN, Texas--(BUSINESS WIRE)--Praxent, a fintech product agency"
     publishedDateTime: 2023-01-31T12:21:00Z

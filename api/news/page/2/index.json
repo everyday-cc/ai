@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-03-apple-ceo-tim-cook-says-ai-will-eventually-affect-every-product-and-service-we-have.md",
+      "title": "Apple CEO Tim Cook says AI will eventually 'affect every product and service we have'",
+      "excerpt": "Cook pointed to Apple's crash detection feature as an example of the tech giant using AI, but the company is ramping up its investment in the space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-tim-cook-ai-artificial-intelligence-affect-products-services-2023-2",
+      "originalUrl": "https://www.businessinsider.com/apple-tim-cook-ai-artificial-intelligence-affect-products-services-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63580094df4492001944eaff?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-tim-cook-ai-artificial-intelligence-affect-products-services-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-tim-cook-ai-artificial-intelligence-affect-products-services-2023-2?amp",
+      "publishedDateTime": "2023-02-02T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-predict-football-punt-and-kickoff-return-yards-with-fat-tailed-distribution-using-gluonts.md",
       "title": "Predict football punt and kickoff return yards with fat-tailed distribution using GluonTS",
       "excerpt": "Today, the NFL is continuing their journey to increase the number of statistics provided by the Next Gen Stats Platform to all 32 teams and fans alike. With advanced analytics derived from machine learning (ML), the NFL is creating new ways to quantify football, and to provide fans with the tools needed",
@@ -145,48 +196,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-more-business-owners-turning-to-artificial-intelligence-to-stay-competitive.md",
-      "title": "More business owners turning to artificial intelligence to stay competitive",
-      "excerpt": "WEST PALM BEACH, Fla. — It's becoming their smartest most efficient employee. More business owners are using artificial intelligence or AI assistants. WPTV looked at why entrepreneurs said it's changing the playing field in their industries. Coined the W ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive",
-      "originalUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f172a20/2147483647/strip/true/crop/1211x681+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F6e%2F0c%2F41b6fb60485dbbba26341a62515f%2Fai.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true",
-      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true",
-      "publishedDateTime": "2023-02-02T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPTV-TV",
-        "domain": "wptv.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -461,7 +470,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -513,7 +522,7 @@
       "originalUrl": "https://www.wired.com/story/get-used-to-face-recognition-in-stadiums/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -763,7 +772,7 @@
       "originalUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -849,7 +858,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {

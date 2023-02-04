@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Operations (MLOps) Market Size 2023 With Presentation Outlook, Horizontal Viewpoint, Global View"
-    excerpt: "Machine Learning Operations (MLOps) Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties"
-    publishedDateTime: 2023-01-31T00:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) As a Service Market Size 2023 with New Report by Driving Players and Top Selling Cost till 2027"
     excerpt: "Artificial Intelligence (AI) As a Service market size report with 108 pages and enriched with self-explained Tables and charts in ... As a Service Market and outlines the factors that are and will be driving the growth of the industry taking into ..."
     publishedDateTime: 2023-02-03T04:55:00Z

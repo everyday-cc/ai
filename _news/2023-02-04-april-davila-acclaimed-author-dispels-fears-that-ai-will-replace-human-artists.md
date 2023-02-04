@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-04T14:38:00Z
 originalUrl: "https://menafn.com/1105522801/April-Dávila-Acclaimed-Author-Dispels-Fears-That-AI-Will-Replace-Human-Artists"
 webUrl: "https://menafn.com/1105522801/April-Dávila-Acclaimed-Author-Dispels-Fears-That-AI-Will-Replace-Human-Artists"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Mena FN

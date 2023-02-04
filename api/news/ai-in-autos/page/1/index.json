@@ -408,7 +408,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -554,33 +554,24 @@
     {
       "path": "_news/2023-01-31-buzzfeed-to-use-artificial-intelligence-for-content.md",
       "title": "BuzzFeed to use artificial intelligence for content",
-      "excerpt": "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ...",
+      "excerpt": "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
-      "originalUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "webUrl": "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "originalUrl": "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
-      "publishedDateTime": "2023-01-30T11:34:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T09:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "fox17online",
-        "domain": "fox17online.com",
+        "name": "WTKR",
+        "domain": "wtkr.com",
         "images": null,
         "publishers": null,
         "authors": null

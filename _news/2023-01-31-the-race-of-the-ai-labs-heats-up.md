@@ -18,37 +18,37 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of Payments In An AI-Enabled Future"
-    excerpt: "Unless you’ve been in a cave or on a beach over the past month (cue revenge travel meme), you’ll no doubt have heard of ChatGPT, the chatbot on steroids from the company OpenAI that is now fielding tender investment offers at a valuation of US$29 billion."
-    publishedDateTime: 2023-01-31T00:08:00Z
-    webUrl: "https://www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-payments-in-an-ai-enabled-future/"
-    ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-payments-in-an-ai-enabled-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-payments-in-an-ai-enabled-future/amp/"
+  - title: "The Brave New World of Artificial Intelligence"
+    excerpt: "As a journalist and commentator, I have closely followed the development of OpenAI, the artificial intelligence research lab founded by Elon Musk, Sam"
+    publishedDateTime: 2023-02-01T03:23:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d86891f90365afc42e8c66/0x0.jpg?format=jpg&width=1200"
-        width: 1022
-        height: 429
+      - url: "https://assets.realclear.com/images/60/600942_5_.jpeg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Real-time data and AI thrust manufacturing into the future"
-    excerpt: "With a growing need for real-time situational awareness and insights, artificial intelligence architectures are becoming increasingly important to make sense of the acquired information."
-    publishedDateTime: 2023-02-04T02:15:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/"
-    ampWebUrl: "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/"
+  - title: "Artists must be protected from piracy in the new world of AI"
+    excerpt: "Letter: We must recognise the critical importance of strong copyright law and fair remuneration, writes Christian Zimmermann"
+    publishedDateTime: 2023-02-03T16:12:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2023/feb/03/artists-must-be-protected-from-piracy-in-the-new-world-of-ai"
+    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/feb/03/artists-must-be-protected-from-piracy-in-the-new-world-of-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/feb/03/artists-must-be-protected-from-piracy-in-the-new-world-of-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1326464894-e1653670614862.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
+      - url: "https://i.guim.co.uk/img/media/127a35380e77238d41aa621c8b7abfbcba7de89e/1449_640_1704_1022/master/1704.jpg?width=620&quality=85&auto=format&fit=max&s=6aa05fc73c783bc125adbd17ae8e23c6"
+        width: 620
+        height: 372
         isCached: true
   - title: "Can AI deliver the future of wellness at work?"
     excerpt: "That is according to recent data compiled by IBM which identified that building trust in AI will require collective effort from scientists, industry and governments. The report also identified that using AI for social good is a key component in changing mass perception of the technology."

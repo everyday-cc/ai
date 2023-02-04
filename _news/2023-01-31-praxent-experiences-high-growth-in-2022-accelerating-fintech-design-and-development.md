@@ -79,6 +79,15 @@ related:
         width: 799
         height: 449
         isCached: true
+  - title: "Union Budget 2023-24 takes AI-forward approach to technology and fintech development"
+    excerpt: "The Budget initiatives will shift the trajectory of growth and innovation for the tech, start-up and SaaS platforms on an upward slope"
+    publishedDateTime: 2023-02-04T13:15:00Z
+    webUrl: "https://www.firstpost.com/opinion/union-budget-2023-24-takes-ai-forward-approach-to-technology-and-fintech-development-12104102.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 12
   - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
     excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
     publishedDateTime: 2023-02-02T18:36:00Z

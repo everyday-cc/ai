@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Changing the conversation around AI"
-    excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
-    publishedDateTime: 2023-01-31T00:15:00Z
-    webUrl: "https://www.digitalhealth.net/2023/01/changing-the-conversation-around-ai/"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 39
-    images:
-      - url: "https://www.digitalhealth.net/wp-content/uploads/2022/08/Somerset-AI-lung-cancer.jpg"
-        width: 555
-        height: 330
-        isCached: true
 
 secured: "T8h5kLR038zW9zmM9TbObKwNUPH+gTyKriLEkuIeIDs2xwHyEStGm8jcNMA5k9IcL6dp1HWjdjcNn2hNvSdbdv37orQSpdxLoLdlSfS2qLk4jcYPhvR5Pk1tBsQ4vojhftndw0PDHVfqQDVqaOlK9WjYLSYrmzUNFlmtbQpILW/vP4hxuIDCuEz77XB/Ga2EfhqbC8QhSIAtmRbJJLdo6xY/ieYFWRJcW/gQFdYzAM4zCEm8u87NnluKSZG5VoFrQqPYT0iTcyF+0YpgmmtpRyE5mkHa9C7sruYrQcc20uItnsuYkKJHG/ql6L1XZMPfL2IoBaVxPBEXAgprwtYyOYCHZHdJGM+rrJmu/7V6VCQ=;jELu4ifs4tgObkLSFa70HQ=="
 ---

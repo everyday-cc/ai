@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/get-used-to-face-recognition-in-stadiums
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/get-used-to-face-recognition-in-stadiums/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 2400
     height: 1600
     isCached: true
-
-related:
-  - title: "Migrant leaders reject push for recognition in Constitution"
-    excerpt: "A push by referendum opponents to recognise migrants to Australia in the Constitution has been described as offensive."
-    publishedDateTime: 2023-01-30T21:55:00Z
-    webUrl: "https://www.afr.com/politics/federal/migrant-leaders-reject-push-for-recognition-in-constitution-20230130-p5cglk"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_697%2C$y_80/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/deb3a1b0bd8a88bc0b4d68e272b37653acf3ec5c"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "FTgrXQpvk75MhXy7UHAvp96OyTGTvfawlWTOLQHQRL5qnTzcNQqwS4+KLi7tKwHc/sen+PAfOV25dRdN+4Hc61Urol8yRBilSPJbOHbsBVMivUnrrwf1w9CkwqKl15nm21tgHBkoTIogVL53ZtQZJrN8YaT90gxCW4DiCzyR/fJJcpJun86F4k9XpfrQwRkbXCZTcZ7oKHD9rTdCZGoPnft3oeWszN+d0hn1dhhZcZH5U0LLzkym4W3VubouzE9Guph/o66Q1eiw5BlLUM3suTpyuy4MwZ30+NHmw606so+XcFs4Gu7XS25nnoKdLfMjT1ZFimLR2OWNlmuQtUsWoROzegAXAfvLG1gIXUqOw8VtDd0kFJApSBQRGujqVxRkb3aOOdNDY8Hs59cIa15uoSWGxh1gK5dXvitkzHWs7oi3ljdu5KSyl86Jbc61mfQ1ow9nGKm6632Kk3pmIjJxZESdm8rX6X5tBRSeIs3nltcASBRGOGtm3jrUwcqWPdhL8JAd/5sWhBfdZErCONqBow==;/CyjSsLY8ydaXpZCDnpqqA=="
 ---

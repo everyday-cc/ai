@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Indigenous voice has migrant community backing: PM"
-    excerpt: "Prime Minister Anthony Albanese has rejected claims that ethnic groups are gearing up to campaign against a narrowly focused Indigenous voice."
-    publishedDateTime: 2023-01-31T00:46:00Z
-    webUrl: "https://thewest.com.au/politics/indigenous-voice-has-migrant-community-backing-pm-c-9606989"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 24
-    images:
-      - url: "https://images.thewest.com.au/publication/C-9606989/2a8fe7d8a72775d718d561c166f91d52718b794a-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "Ij3NK0OrUDORFBrEJs5Yh1LC+d7Hj7+Sv0orh1jrzGYszd1dgzNHXpDbVA4tgbUwTovOk2ivIrJpcDZoW+z6gPt81+raHyLrlzJNW+EHxGQNsZNqby/VAIdHY5tX4CwpZX4DPtgEl6ZkooAVWCF0BoUgAV4G3Hd8oOOWU+1Ik98wzAjgDFD6PrWyEHA6rWtAR+7oGWTwE9y30c4hbLe6omnMtqSThVbwlNx9imujeFq+1uS20uKV7F8enQ0ujSR68EVIBZZ5t1cXmjP/HgRVuFO5EDszegCPn8pAo8dMb0Ce/Tm/h+fWt8ZjrcTzVA0sObrZEUcBZD79ZnHaPCEbziqh8YGaavGnoNW/CY+6Evc=;gHpGEUN9LSkSsOYKR30qbQ=="
 ---
 

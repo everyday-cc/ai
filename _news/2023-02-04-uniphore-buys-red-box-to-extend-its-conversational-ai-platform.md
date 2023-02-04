@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/networking/uniphore-buys-red-box-to-extend-i
 webUrl: "https://www.eweek.com/networking/uniphore-buys-red-box-to-extend-its-conversational-ai-platform/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "The profound danger of conversational AI"
+    excerpt: "Conversational AI and large language models are not just buzzworthy or novelty. Why they pose a huge threat, and how we can protect ourselves."
+    publishedDateTime: 2023-02-04T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/the-profound-danger-of-conversational-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "E5XcIGW+kxBySZBvotFtTBmRMZ28aipxrGSWjOnYZJPWIrXfYC9obNOYHdYzi30QNiL903EP8eJqh1bIQolIJ4FVxrehFTwKKXwpBB7hZuBv5OPDJ+gnwXJgxseWlD4zbEh/Pwsp67kUF37fXNM2U/Uq0iHgqhcpAevp33Na2+BadcGyGNrb3pNB9WKVToxbWnM5bUi37wDHhI4RQe/MM/DNjm/Yu5y/BRBLj4Y8PS7z902VhfDuB8HrkTWl+BXM/zE8MinpotqfQUzOsqiS3D14YSeg3cjrWCCQi16RdpRjTPhs7xEtRb9GDy9ZLIokwDuOa8iAf5atx+qTv342wOMqNsUTVEaY1s/5yR5TFLw=;bZyDT/KMdzQrZ+uoz8xP9Q=="
 ---

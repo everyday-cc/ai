@@ -184,6 +184,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In RegTech Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029"
+    excerpt: "Artificial Intelligence In RegTech Market Size 2023-2029 | New Report (120 Pages) | In This Reports Artificial"
+    publishedDateTime: 2023-02-04T09:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
   - title: "Deep Learning Camera Market by Type, by Technology, by End User: Global Opportunity Analysis and Industry Forecast, 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- The “Deep Learning Camera Market” report provides an in-depth analysis of the size of the global market. It also discusses market size ..."
     publishedDateTime: 2023-02-02T14:48:00Z
@@ -193,15 +202,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
-    excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030."
-    publishedDateTime: 2023-01-31T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-smart-retail-global-market-report-2023-advent-computer-/2023/01/31/9752597.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
   - title: "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities"
     excerpt: "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, r"
     publishedDateTime: 2023-01-31T22:37:00Z

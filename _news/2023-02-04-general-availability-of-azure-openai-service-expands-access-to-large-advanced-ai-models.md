@@ -128,20 +128,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 58
-  - title: "CEO of OpenAI says misuse of artificial intelligence could be 'lights out for all'"
-    excerpt: "OpenAI CEO and co-founder Sam Altman spoke about the future of AI, good and bad, in the vaguest way possible—which scares me a bit. Altman answered questions about OpenAI, the makers of the wildly popular AI chatbot ChatGPT,"
-    publishedDateTime: 2023-01-30T21:59:00Z
-    webUrl: "https://www.pcgamer.com/ceo-of-openai-says-misuse-of-artificial-intelligence-could-be-lights-out-for-all/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 46
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/p2nwRUMdJmYewXiBbibeLK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "OpenAI launches AI classifier tool to detect AI generated text"
     excerpt: "OpenAI, the company behind ChatGPT has launched a new AI classifier tool to determine if a text has been written by a person or by Artificial"
     publishedDateTime: 2023-02-01T09:01:00Z

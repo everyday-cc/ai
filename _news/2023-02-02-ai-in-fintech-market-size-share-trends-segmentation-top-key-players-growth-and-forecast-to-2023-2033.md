@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning in CT Scanners Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Deep Learning in CT Scanners Market Size 2023-2029 | New Report (121 Pages) | In This Reports Deep Learning in CT"
+    publishedDateTime: 2023-02-04T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-02-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platform Market Size 2023 With Economical Benchmarking, Old Statistics & Forecasts, Company Returns Shares"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 02, 2023 (The Expresswire) -- [In 2023] The Global Artificial Intelligence Platform Market Size (122 Report Pages) is estimated to be worth USD million in 2021 and is ..."
     publishedDateTime: 2023-02-03T07:36:00Z

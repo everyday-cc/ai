@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-04T09:34:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-04"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-04"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: MarketWatch

@@ -297,6 +297,38 @@ related:
         width: 1200
         height: 597
         isCached: true
+  - title: "Google vs Open AI: How the search giant will take on ChatGPT"
+    excerpt: "In the wake of ChatGPT, Google has invested nearly $400 million in Anthropic, which is currently testing a rival to OpenAi’s chatbot."
+    publishedDateTime: 2023-02-04T09:10:00Z
+    webUrl: "https://indianexpress.com/article/technology/google-openai-chatgpt-artificial-intelligence-plans-8423656/"
+    ampWebUrl: "https://indianexpress.com/article/technology/google-openai-chatgpt-artificial-intelligence-plans-8423656/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/google-openai-chatgpt-artificial-intelligence-plans-8423656/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/01/Google-reuters-2.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "AI ChatGPT gave man advice on how to smuggle cocaine into Europe"
+    excerpt: "The individual got the drug trade advice from the AI writing tool, ChatGPT. With quick and seemingly accurate responses, the bot gave some pretty interesting answers to the various questions it was posed."
+    publishedDateTime: 2023-02-04T16:14:00Z
+    webUrl: "https://www.ladbible.com/news/chatgpt-advice-cocaine-smuggle-europe-807284-20230204"
+    ampWebUrl: "https://www.ladbible.com/news/chatgpt-advice-cocaine-smuggle-europe-807284-20230204.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/chatgpt-advice-cocaine-smuggle-europe-807284-20230204.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 59
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/bltc6bb0794a7716f20/63de8464f7d2d40ebf76148c/LAD_AI_DRUGS.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ChatGPT maker fields tool for spotting AI-written text"
     excerpt: "Creators of a ChatGPT bot causing a stir for its ability to mimic human writing on Tuesday released a tool designed to detect when written works are authored by artificial intelligence."
     publishedDateTime: 2023-02-01T09:03:00Z

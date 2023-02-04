@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ten steps to help your business master AI adoption"
-    excerpt: "To get substantial value from AI, your business must fundamentally rethink the way that humans and machines interact in work environments."
-    publishedDateTime: 2023-01-30T22:39:00Z
-    webUrl: "https://www.smartcompany.com.au/plus/help-your-business-master-ai-adoption/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 39
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/01/arseny-togulev-ai-artificial-intelligence.jpg"
-        width: 733
-        height: 355
-        isCached: true
 
 secured: "SlluZI93gjFD85jiaQoZBas4Fw/99f8OZWFm3ba1H5CGpjlrwrFhIGR1boGotrkH7gNRKvptsE+4sL6iRpQTJNg6bMVGxvXlMeZ4M8azOu3YVbwdeI93dMZ10CboXylFiYX+P7E40IqPzP/V29DPIgjiWDO+lNq/S/m4NlEATVomx9IO7IKCmfQ3A3oe7EsNXsgCTvL7Wtok95d0zi3SUTrWYqsll8OwUAJqnlrBwjzH58VusZ2NiPfA75w499oFtBFFzAz3zC+yqluFnIHAUqwN94S08OQlfLns9C1B0ggL0R5WHJQzFLcjFnQ/txyGoBzmVuV/HaTQs/Owl0UjtN3OxJ9I3N79qhsygNFm3TI=;quCrKukG5JXq29LVrEzl5Q=="
 ---

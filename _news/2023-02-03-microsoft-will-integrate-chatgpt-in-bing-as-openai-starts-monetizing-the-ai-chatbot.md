@@ -117,20 +117,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CEO of OpenAI says misuse of artificial intelligence could be 'lights out for all'"
-    excerpt: "OpenAI CEO and co-founder Sam Altman spoke about the future of AI, good and bad, in the vaguest way possible—which scares me a bit. Altman answered questions about OpenAI, the makers of the wildly popular AI chatbot ChatGPT,"
-    publishedDateTime: 2023-01-30T21:59:00Z
-    webUrl: "https://www.pcgamer.com/ceo-of-openai-says-misuse-of-artificial-intelligence-could-be-lights-out-for-all/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 46
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/p2nwRUMdJmYewXiBbibeLK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "General availability of Azure OpenAI Service expands access to large, advanced AI models"
     excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what is possible. As part of a continued commitment to democratizing AI, and the ongoing partnership with OpenAI, Microsoft announced the general availability of Azure OpenAI Service. With Azure OpenAI Service now generally available, more businesses can […]"
     publishedDateTime: 2023-02-04T00:31:00Z

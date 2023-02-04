@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wptv.com/news/technology/more-business-owners-turning-to
 cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: WPTV-TV
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ten steps to help your business master AI adoption"
-    excerpt: "To get substantial value from AI, your business must fundamentally rethink the way that humans and machines interact in work environments."
-    publishedDateTime: 2023-01-30T22:39:00Z
-    webUrl: "https://www.smartcompany.com.au/plus/help-your-business-master-ai-adoption/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 39
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/01/arseny-togulev-ai-artificial-intelligence.jpg"
-        width: 733
-        height: 355
-        isCached: true
   - title: "Levr.ai Secures $1 Million of Pre-Seed Funding to Change the Way Businesses Access and Manage Loans, Building a Better Experience for Business Owners"
     excerpt: "Levr.ai is a B2B fintech software company transforming the way businesses access and manage loans. Levr's pre-seed round of one million is co-led by Sprout.vc and MAVAN Capital Partners. Levr.ai's add"
     publishedDateTime: 2023-02-01T17:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Changing the conversation around AI"
-    excerpt: "Ahead of his keynote session on the AI and Data Stage at Digital Health Rewired in March 2023, Dominic Cushman, director of AI, imaging and deployment at the NHS Transformation Directorate, explains the need to focus on supporting NHS organisations to deploy AI technologies."
-    publishedDateTime: 2023-01-31T00:15:00Z
-    webUrl: "https://www.digitalhealth.net/2023/01/changing-the-conversation-around-ai/"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 39
-    images:
-      - url: "https://www.digitalhealth.net/wp-content/uploads/2022/08/Somerset-AI-lung-cancer.jpg"
-        width: 555
-        height: 330
-        isCached: true
   - title: "Further funding for AI company"
     excerpt: "A Sheffield-based artificial intelligence (AI) company which has launched a new platform to help social landlords manage rent arrears has raised further funding."
     publishedDateTime: 2023-02-02T10:55:00Z

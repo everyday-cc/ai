@@ -35,15 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Self-Driving Semis Focus of California Rules, Legislation"
-    excerpt: "SACRAMENTO, Calif. (AP) — As California regulators explore new rules to put self-driving semitrucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say ..."
-    publishedDateTime: 2023-01-31T00:40:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2023-01-30/self-driving-semis-focus-of-california-rules-legislation"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Self-driving semis focus of California rules, legislation"
     excerpt: "As California regulators explore new rules to put self-driving semitrucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will protect their jobs ..."
     publishedDateTime: 2023-01-31T19:23:00Z

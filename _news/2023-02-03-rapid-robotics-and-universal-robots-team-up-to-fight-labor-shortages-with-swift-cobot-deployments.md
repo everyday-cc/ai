@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-02T16:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20230202005391/en/Rapid-Robotics-and-Universal-Robots-Team-up-to-Fight-Labor-Shortages-With-Swift-Cobot-Deployments"
 webUrl: "https://www.businesswire.com/news/home/20230202005391/en/Rapid-Robotics-and-Universal-Robots-Team-up-to-Fight-Labor-Shortages-With-Swift-Cobot-Deployments"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: newsroom.businesswire.com
