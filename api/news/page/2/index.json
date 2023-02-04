@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-03-advisory-panel-rules-connecticut-needs-to-further-regulate-state-used-ai.md",
+      "title": "Advisory panel rules Connecticut needs to further regulate state-used AI",
+      "excerpt": "Concerns about such use of artificial intelligence, or AI, led the Biden administration in October to issue its Blueprint for an AI Bill of Rights urging government action to safeguard digital and civil rights. An investigation by The Associated Press last ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/advisory-panel-rules-connecticut-needs-further-regulate-state-used-ai",
+      "originalUrl": "https://www.foxnews.com/politics/advisory-panel-rules-connecticut-needs-further-regulate-state-used-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2c9c84f-a40c-48e5-885e-6484c5d1dd2b/ca5c8b2d-300b-492a-a4d2-deeaafdd3f9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/advisory-panel-rules-connecticut-needs-further-regulate-state-used-ai.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/advisory-panel-rules-connecticut-needs-further-regulate-state-used-ai.amp",
+      "publishedDateTime": "2023-02-02T13:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-more-business-owners-turning-to-artificial-intelligence-to-stay-competitive.md",
       "title": "More business owners turning to artificial intelligence to stay competitive",
       "excerpt": "WEST PALM BEACH, Fla. — It's becoming their smartest most efficient employee. More business owners are using artificial intelligence or AI assistants. WPTV looked at why entrepreneurs said it's changing the playing field in their industries. Coined the W ...",
@@ -209,7 +260,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -347,48 +398,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-buzzfeed-stock-jumps-92-as-employees-fret-that-ai-will-replace-them.md",
-      "title": "BuzzFeed Stock Jumps 92% As Employees Fret That AI Will Replace Them",
-      "excerpt": "Shares of the digital media company BuzzFeed Inc. (NASDAQ: BZFD) jumped 92% in one trading day after The Wall Street Journal broke the news of the company’s plans to use artificial intelligence (AI) programs to create quizzes and other content for readers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/02/30692433/buzzfeed-stock-jumps-92-as-employees-fret-that-ai-will-replace-them",
-      "originalUrl": "https://www.benzinga.com/news/23/02/30692433/buzzfeed-stock-jumps-92-as-employees-fret-that-ai-will-replace-them",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/02/02/nicole-angelova-417kabtpfeu-unsplash.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30692433",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30692433",
-      "publishedDateTime": "2023-02-02T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -736,7 +745,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -788,7 +797,7 @@
       "originalUrl": "https://gizmodo.com/ai-art-generators-ai-copyright-stable-diffusion-1850060656",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -890,7 +899,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -1142,7 +1151,7 @@
       "originalUrl": "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {

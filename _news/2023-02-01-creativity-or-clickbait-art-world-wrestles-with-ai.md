@@ -104,6 +104,20 @@ related:
         width: 1000
         height: 664
         isCached: true
+  - title: "Clickbait or creativity? The art world wrestles with AI"
+    excerpt: "Tech companies tout their inventions as a liberating force of art for all, but purists argue that the artist is still the central cog in the machine. Art historian and AI expert Emily L. Spratt, whose forthcoming book tackles the ethics and regulation of AI art,"
+    publishedDateTime: 2023-02-04T07:00:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/culture/2023/02/04/clickbait-or-creativity-the-art-world-wrestles-with-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/02/04/1923540.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "6nydks2l/IP8MKqhuTUn1atTT/PRvc4WP1dl8GD4U58Ohg/430P3GmbijrBpJrdxiTqyFp5alu0VbcP5ro+gWDbQ6TT0mHopMOHjxX9kjjWZelh64jK63D6VXGYBSptn1xPyqS/P2xx8bDCjMQy1jZxQWag4CE4i/LLx8nMzvNZQkOgS23re5/frLg3krAm9voW0uYTRGPjWeeBY+m/JDr1Ws9uzwmbsF9zmONfaHWu18F5KRZ2mu2Ti3icJ+K/ncIlEBXfMOK7FbM8PlNdHopBtuVapkRaouwinUcmEO+9hRJaUfZyurQWAXPcrAd3Mdm4Io+sFR27pQR38gdTkpxVtyyAXGpdkUrh1/pyfIUQ/NvFRGIWaG2u8QxaNfGGhawivYCqDwG5b/LVBIGa5FfoiRtqkGZDa8sYMp6VNrIBdDA42ZOTeXPehz0196hinKHlu29V4Gw4UFApPPbfaHowgZeamI9uou0dtlQWbU17fs4o0aLX9p5F6SE8nmCMu2NHXdQwKg5mpzIt1jP9+sw==;iNkriKFNzPjrhGHyHOXO9g=="
 ---

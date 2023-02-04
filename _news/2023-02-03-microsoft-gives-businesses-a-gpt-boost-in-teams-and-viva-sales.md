@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/amp/"
 type: article
 quality: 106
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -174,15 +174,6 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 36
-  - title: "Microsoft Research project helps languages survive — and thrive"
-    excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
-    publishedDateTime: 2023-01-30T16:40:00Z
-    webUrl: "https://news.microsoft.com/en-in/features/microsoft-research-project-helps-languages-survive-and-thrive/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
 
 secured: "nT541g/B4fvm09znchV1844xhWtT5QqISEEJVWaQCW68CSJNaMoatBf33F8Dvermg3NpIePfmC08aBdUt1lCKFdCxDnVYO1Ech9+6qvojSh0zSzztDWQnqrgeFiVRUX4Jq84dfhd6mTTSgxWXMhOFfC4UyxY2JU6cj7TgupQ9RAb8yz1i6c2S3xSaxyA8wltjFhsAbcH/lxi9Hhg0MLJOIPOcQ/Wek2kicXHOsLlTljyaHmrAzPx6IDS3jYv+vQ8lmeJdiJUFYMgj9D5N5VQJ12YNktHUhEK/SGRmDFuUSixAmel/+IEeJf/qeW4qhGEwBIHhFE4w99Ya4El14L7x2b4C1EceETU8mHOE2pI+wKeYzV/MThxgQDYUsQ9vTC/Wkrb22MjjZU3Oph5QtYdOier69g6lXbsePdpiMA2/RZbxPGRXFCJVznELU+eutUwuuGZsyTxG9p+rUcDfXXQxrxVSpkrTbzL/NTKGxDxR4bFfSubIO1MuQ+NSoJJMn/wJwizPjPKPcDSax5htNUFOg==;QJLB7qpbVaCVHmlN3WvPVg=="
 ---

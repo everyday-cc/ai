@@ -168,15 +168,6 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 36
-  - title: "Microsoft Research project helps languages survive — and thrive"
-    excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
-    publishedDateTime: 2023-01-30T16:40:00Z
-    webUrl: "https://news.microsoft.com/en-in/features/microsoft-research-project-helps-languages-survive-and-thrive/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
 
 secured: "r+Z1j6h08b5SlGZZReIXtax8tnyJHdgSl5Rr8Ye68rsWPKmhO6QSpASGghKKLE1gVuD3uSxODRCThip6zDkgKhyHTg3yNlEZlPg7EkJ1LYqWVFMTRuK2G4E8VgB/12yIPv4y03iCS6kLzWNXpArSHdFTWq1CkZR3juBX+cKC8P3lBkNpufiYQ7w5C2N8MZBatsA4cUNPyzclx+Kk7PVsJAgKk7IUSQLtq87tuSCxJL9fY+mASmRsUSdf4kRETdECyUw9VQPzf/d2o+hZ9IN9s9RAfMvb/ZqI3qALKnWAFKgGPtLCdUy1ZpTdTAhkIMqDQlm8au/Qtl9QdlzsJh23zRtl7cRp1knG8LMEYf5FD2M=;Qgn3og7fuOI63yw7qmdI7g=="
 ---

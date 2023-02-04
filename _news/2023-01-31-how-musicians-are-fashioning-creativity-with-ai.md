@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreazarczynski/2023/01/31/how-musicians-are-fashioning-creativity-with-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://thepeninsulaqatar.com/get/maximage/20230202_1675325500-30.jpg?1675325500"
         width: 1000
         height: 664
+        isCached: true
+  - title: "Clickbait or creativity? The art world wrestles with AI"
+    excerpt: "Tech companies tout their inventions as a liberating force of art for all, but purists argue that the artist is still the central cog in the machine. Art historian and AI expert Emily L. Spratt, whose forthcoming book tackles the ethics and regulation of AI art,"
+    publishedDateTime: 2023-02-04T07:00:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/culture/2023/02/04/clickbait-or-creativity-the-art-world-wrestles-with-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/02/04/1923540.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Creativity or clickbait? Art world wrestles with AI"
     excerpt: "Tech companies tout their inventions as a liberating force of art for all, but purists argue that the artist is still the central cog in the machine."

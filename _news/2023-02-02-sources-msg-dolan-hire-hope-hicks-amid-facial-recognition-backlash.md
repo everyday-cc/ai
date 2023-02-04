@@ -33,15 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "James Dolan defends MSG’s use of facial recognition"
-    excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
-    publishedDateTime: 2023-01-30T16:43:00Z
-    webUrl: "https://www.sportspromedia.com/news/msg-new-york-madison-square-garden-dolan-facial-recognition-liquor/"
-    type: article
-    provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 19
 
 secured: "Tk8aPJ7FfJt9Up6w2C84EuxAYUusX/qS9bFl3QmIrqp5vWU/A47eZIoYTj/PbXgDar2g00M3f+7J7I1DigbzPz6t09yO5JdLOg/K69x6STm/YQIOfIxGZO/eh1KWbFLlMtxDypKnvkd/ZG3mDSrXhLk2UbjBC0yz2c3s4jmNYZ8YAwk2GzuTvm3xDAI0UGrc+p7YZnYq1DShkZhooE1PgkJr7Q2zMecA4/STIyYBUeqkEfpqccdWgx2UlMcffZRQXAVn/G33jJZXjMsBWgHpQICIcGzxZJucMGbm0+MnLtBl4HKbMZOdJa7azjcSCnHrSWklvNJ0i7x9bHimLMXF7/8Kyj9H3hyRS//q9Jb53Uc=;I7jEjhTznPCws7Ask2y82Q=="
 ---

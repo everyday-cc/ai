@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SignDesk and Microsoft partner to drive the next phase of document automation, powered by Azure"
+    excerpt: "SignDesk, a global leader in digital documentation & contract lifecycle solutions, announces its partnership with Microsoft & G7 CR Technologies to augment the former's cloud deployment"
+    publishedDateTime: 2023-02-04T07:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/signdesk-and-microsoft-partner-to-drive-the-next-phase-of-document-automation-powered-by-azure-123020400525_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/signdesk-and-microsoft-partner-to-drive-the-next-phase-of-document-automation-powered-by-azure-123020400525_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/signdesk-and-microsoft-partner-to-drive-the-next-phase-of-document-automation-powered-by-azure-123020400525_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 62
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-02/04/full/20230204123512.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "Su6HinoHy8l8/HP+v2mNJVwsZdF9VUOUV+vaqjoaUsz1asHDdzbu5nrpCMTPBhLZUysLYMTUtQCB3iDPJQkQgcDlEBFJSiX3JpWQRIvrFfHDGw0tWjlQjr1wpyhcPO78ShNlZlZ1QtpI/7xLJjLTm4XENlSsf16ubgIW/4pT6BGOUF3WDUPOucI57P/U35/bjLhAlu+Bxi7UzSnrwubQO92z/844MxEUyByGM0aHle6fFVNL7k/9LM7kToQhh7A1MgOnUPoI5fWj+jQ0CZbtYe0K1Gb8eMExlwwo/T/vBRBCupS4sw+6Tw7PQaWvw3tuASGIcs1EsdHcsntMUkVyzNgm+mfolcpAQrl6VY0EOAE=;GGOPhsjs3DyKLp6DytW8Qg=="
 ---

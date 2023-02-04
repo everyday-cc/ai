@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dola
 webUrl: "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "James Dolan defends MSG’s use of facial recognition"
-    excerpt: "The policy banning lawyers from entering its venues has come under criticism from New York's attorney general."
-    publishedDateTime: 2023-01-30T16:43:00Z
-    webUrl: "https://www.sportspromedia.com/news/msg-new-york-madison-square-garden-dolan-facial-recognition-liquor/"
-    type: article
-    provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 19
   - title: "Sources: MSG, Dolan hire Hope Hicks amid facial recognition backlash"
     excerpt: "The decision to hire Hope Hicks comes after it was revealed James Dolan used the controversial technology to boot fans critical of him from games and events at MSG-owned properties."
     publishedDateTime: 2023-02-01T17:29:00Z

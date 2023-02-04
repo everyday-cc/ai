@@ -30,117 +30,66 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is improving agriculture sustainability in India"
-    excerpt: "A look at how AI can help agriculture and sustainable farming in India."
-    publishedDateTime: 2023-01-30T17:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/"
+  - title: "AI Ethical Risks In the Music Industry Are Accelerating And We Are Not Ready For What Is Coming Our Way"
+    excerpt: "This article reinforces that the AI Ethical Risks in the music industry are accelerating and we are not ready for what is coming our way."
+    publishedDateTime: 2023-02-01T00:48:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ak_2_qhJiQ80.max-1300x1300.png"
-        width: 1300
-        height: 902
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63d84b38429f596655787f4f/0x0.jpg?format=jpg&width=1200"
+        width: 842
+        height: 596
         isCached: true
-  - title: "U.S., India Partnership Targets Arms And AI To Compete With China"
-    excerpt: "semiconductors and artificial intelligence (AI). Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies Co Ltd, to welcome more Indian computer chip specialists to the United States and to ..."
-    publishedDateTime: 2023-02-01T01:29:00Z
-    webUrl: "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085"
-    ampWebUrl: "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1"
+  - title: "How Does Artificial Intelligence Work? And How Is It Disrupting The Tech Industry?"
+    excerpt: "Artificial intelligence allows machines to perform tasks that require human input quickly and more efficiently. We look at how AI is disrupting the tech industry right now, with major companies pouring billions of dollars into AI research."
+    publishedDateTime: 2023-02-01T17:26:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/01/how-does-artificial-intelligence-work-and-how-is-it-disrupting-the-tech-industry/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://d.ibtimes.com/en/full/4413820/g20-summit-bali.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63daae61aa317d4bfd3e9f12/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "US-India partnership targets arms, semiconductors, AI to compete with China"
-    excerpt: "Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies, to welcome more Indian computer chip specialists to the United States and to encourage companies from both countries to collaborate on ..."
-    publishedDateTime: 2023-02-01T02:10:00Z
-    webUrl: "https://www.business-standard.com/article/international/us-india-partnership-targets-arms-semiconductors-ai-to-compete-with-china-123020100012_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/us-india-partnership-targets-arms-semiconductors-ai-to-compete-with-china-123020100012_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/us-india-partnership-targets-arms-semiconductors-ai-to-compete-with-china-123020100012_1.html"
+  - title: "Academics also at ethical risk from using AI, regulator warns"
+    excerpt: "Universities have been put on notice that they must address risks of student cheating posed by new forms of artificial intelligence but also be alert to academics taking shortcuts through using AI."
+    publishedDateTime: 2023-02-01T06:38:00Z
+    webUrl: "https://www.afr.com/policy/health-and-education/academics-also-at-ethical-risk-from-using-ai-regulator-warns-20230201-p5ch2x"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 56
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/16/full/1660646326-2135.jpg?im=Resize,width=480"
-        width: 480
-        height: 359
+      - url: "https://static.ffx.io/images/$zoom_0.4347%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_162/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/42001c7ef58313c2e2b3acc744c962d40b7c79f5"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "US, India Partnership Aimed At Competing China In Arms And AI"
-    excerpt: "The United States is launching a new partnership with India aimed at helping both countries to compete against China on military equipme"
-    publishedDateTime: 2023-02-01T12:04:00Z
-    webUrl: "https://menafn.com/1105508271/US-India-Partnership-Aimed-At-Competing-China-In-Arms-And-AI"
+  - title: "Five Sensible Ways for Using Generative AI in Doing Legal Work"
+    excerpt: "Forewarns AI Ethics And AI Law”, January 27, 2023. Lawyers of course should be exercising special care when using these AI apps. This is another example of needing to keep your guard up. I highly recommend that you make use of generative AI so that you ..."
+    publishedDateTime: 2023-02-02T14:27:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/02/02/five-sensible-ways-for-using-generative-ai-in-doing-legal-work/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2023-02/01/KP_a60d6image_story.jpeg"
-        width: 960
-        height: 540
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Legal-Robot-01-767x633.jpg"
+        width: 768
+        height: 633
         isCached: true
-  - title: "U.S., India partnership targets arms, AI to compete with China"
-    excerpt: "The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against China on military equipment, semiconductors and artificial intelligence."
-    publishedDateTime: 2023-02-01T01:10:00Z
-    webUrl: "https://asia.nikkei.com/Politics/International-relations/U.S.-India-partnership-targets-arms-AI-to-compete-with-China"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F5%252F3%252F5%252F44175357-1-eng-GB%252F2023-01-19T191532Z_2055329384_RC2WRW96Z15E_RTRMADP_3_USA-ISRAEL-UKRAINE.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
-  - title: "U.S., India partnership targets arms, AI to compete with China"
-    excerpt: "The White House is launching a partnership with India on Tuesday that President Joe Biden hopes will help the countries compete against China on military equipment, semiconductors and artificial intelligence."
-    publishedDateTime: 2023-02-02T05:58:00Z
-    webUrl: "https://za.investing.com/news/us-india-partnership-targets-arms-and-ai-to-compete-with-china-2688028"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEJ0U0W8_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "US, India target arms, AI to compete with China"
-    excerpt: "The White House on Tuesday launched a partnership with India that US President Joe Biden said he hopes would help the countries compete against China on military equipment, semiconductors and artificial intelligence (AI)."
-    publishedDateTime: 2023-02-01T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/02/02/2003793528"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/02/02/p11-230202-345.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Artificial Intelligence Aids Providers in Maintaining Colonoscopy Quality"
-    excerpt: "A recent study found that an artificial intelligence system helped to reduce the time-related decline in colonoscopy quality while supporting endoscopist performance and adenoma detection."
-    publishedDateTime: 2023-02-02T17:31:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-aids-providers-in-maintaining-colonoscopy-quality"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 31
 
 secured: "Jr7T/E1+bo/L7C5p1SXrcXyIsCOQHeUWJcXo/5TJeFfQw63wJFF1ROrk/qJ7xFWXu01i4SW1jD3PUJbutvGNYhczmcTn9x+3dxQXoYt50bQVgwu/Jn06Dr0vBz/kZuW94xgvP2JrRoxJ0MxNaKfhVP+9z4kQ6wRRZiqQFxe4PjyEhJ5BOeeqbDhr/ao/ZILBzaZVqsmnCnQdtG6xFuSYu3NPhNyyicLysyFxC2vV92cG4IzBUHNFhxftiNTpSoJpGlitJclbpfM2wnMsdWxcFtdS6mp2bryvZrzu0ERbsPlxXCbp1sJXqr31pMFM/A/sNovYAFi/+mXyM0080WQ6xt4Jq4bCb8/hYTKLlaZXEkJrcxOj5dKIbQlgCPfb8Zbu6beBYMyvLxPOvRVNMrXtgy04dnk8CEFw5O4USGfs2bCgvMoEfSqkQn9Hd9gkj7t/RwmfYZPYeJLr5SBrnIPM948t9VUZiE1Q9K/P4k0LijLNA26jRcsvH7X+N55DkNU9zJQofgdSXHGxgtvn6rMivg==;io3lf3ADiP5oQtoryOzgMg=="
 ---

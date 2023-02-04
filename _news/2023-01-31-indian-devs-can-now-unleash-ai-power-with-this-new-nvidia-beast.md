@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/indian-devs-can-now-unleash-ai-power
 webUrl: "https://analyticsindiamag.com/indian-devs-can-now-unleash-ai-power-with-this-new-nvidia-beast/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Altimeter's Brad Gerstner builds a new position in Nvidia, betting on its central role in AI"
-    excerpt: "\"We've long admired Nvidia, its leader Jensen and the central role that they play in AI,\" Gerstner said Thursday on CNBC's ... Nvidia position in December and added to it in January. The chip stock sold off 50% in 2022 as rising rates hit growth tech ..."
-    publishedDateTime: 2023-02-02T18:21:00Z
-    webUrl: "https://www.cnbc.com/2023/02/02/altimeters-brad-gerstner-builds-a-new-position-in-nvidia-betting-on-its-central-role-in-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 58
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106962766-1634667563234-gettyimages-1235981911-AFP_9PZ3C2.jpeg?v=1675361355&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "emRz2s2NnrZRYU6tH9cw3RDEHfY20o0YUIr+kRZGB8puuI/FedBfQobnww+bshCV+1x8tda6ERXnE5yubFL5KejjZhrkIcQhZ/qCp60bdx/RRc4L2aQXGRAfyrkfgeQOS2WvN+LQGXD76CVokrnNbzcOU27BVWjDfNr7NEF3aZCxxYnlm7dFjA/FjCfUA9IrjU00iCcb3C5oh5EnaIxXNIbQq+hdkPw+EPeS6T1S3pT9HqE+ZdBBQG5xdd4aArb8pku10J2p9Q22dCiEemzajnLRalE2m/kKduLhbqH/uY+pT4jCXsUQ/45m1zLwlhmsXE8nM1al9Mr3lr+iWPb8c5xXpH6Ops1wQfsM/rEC1RMtkz7OYMpPZzoGTKLA2rt8mSZFz2gNs9/NMSzUXHaYQclJytFf34t9hhtqUH5ZqldJjKeR1frLM5R1miMcfp2m1NOUdPcxJb06V1fWJLR3cY8QRg6m0o8eRHDPAvhPu8DN2XKQj9/rBe4JKrOY9NWVCmcmNZ+j2IBhwQtrrJCfUw==;L0UG98eQ5DzbSC1fd18htw=="
 ---

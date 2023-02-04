@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Inscribe Secures $25M in Funding to Combat Financial Fraud with AI"
-    excerpt: "Inscribe recently announced a $25 million funding round in order to combat financial fraud by leveraging the latest AI technology."
-    publishedDateTime: 2023-01-30T16:03:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201807-inscribe-secures-25m-in-funding-to-combat-financial-fraud-with-ai/amp/"
+  - title: "Phantom AI, a startup building advanced driver assistance systems, raises $36.5M in funding"
+    excerpt: "Phantom AI, a startup developing advanced driver assistance systems for automobiles, said today it has closed on a $36.5 million round of funding. The Series C round was led by Intervest and saw participation from existing investors KT Investment and Renaissance Asset Management,"
+    publishedDateTime: 2023-02-01T16:01:00Z
+    webUrl: "https://siliconangle.com/2023/02/01/phantom-ai-startup-building-advanced-driver-assistance-systems-raises-36-5m-funding/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/01/Stop-Fraud-600.png"
-        width: 600
-        height: 558
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/phantomai.jpg"
+        width: 2048
+        height: 1149
         isCached: true
 
 secured: "axxENCnjxHMMrWBWN2meeYGtUhbEbwbjIemvvHLMUgxbkJ6M/uYtxGz4Vuc7oB/MTPyh8QIHQGjXm9BU9ZUEtxZG7AKR5SLlskuMzEqhj1LOabrENI40aDtFmndGvPgBgOjy7JlZFhfnrLngZf7eVxAj/2o5rZ+8ntsWoyYSoSLeCG68JyvqY16N+fkhjgXbqSYPmKHJn0Z49lVohDS0Mz5ZGVurHTg5MNajqllhh/r83sVKs3QmHVTkqajlAVzEW8sS0vvPg/Q58ueZLXJxBMgy7xKJghXLPL1TZSHaRRCScsys9LYgDD4tbo7w68/oGlRkM9w+WswQdxBASf9ONpgGyhtlIVaZK/2WIbBkRVA=;39KqFSjqBVEzb5HTyZ6iuw=="

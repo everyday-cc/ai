@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/31/ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Is Cropping Up In The Agriculture Industry"
+    excerpt: "For decision-makers in agriculture, properly utilizing AI can help increase productivity while decreasing waste amid increasing costs."
+    publishedDateTime: 2023-02-02T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fd288f278fb3ba430ef35db/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Does Artificial Intelligence Work? And How Is It Disrupting The Tech Industry?"
     excerpt: "Artificial intelligence allows machines to perform tasks that require human input quickly and more efficiently. We look at how AI is disrupting the tech industry right now, with major companies pouring billions of dollars into AI research."
     publishedDateTime: 2023-02-01T17:26:00Z

@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Who will compete with ChatGPT? Meet the contenders | The AI Beat"
-    excerpt: "ChatGPT turns two years old today. But competitors are hot on its heels. Meet the contenders for the chatbot crown."
-    publishedDateTime: 2023-01-30T16:23:00Z
-    webUrl: "https://venturebeat.com/ai/who-will-compete-with-chatgpt-meet-the-contenders-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/who-will-compete-with-chatgpt-meet-the-contenders-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/who-will-compete-with-chatgpt-meet-the-contenders-the-ai-beat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/pexels-mikhail-nilov-6739946.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Does ChatGPT Pose A Cybersecurity Threat? Here’s The AI Bot’s Answer"
     excerpt: "Newly published research from BlackBerry suggests that the AI-powered ChatGPT bot could pose a cybersecurity threat. \"It’s been well documented that people with malicious intent are testing the waters,"
     publishedDateTime: 2023-02-03T11:21:00Z
@@ -266,20 +250,6 @@ related:
         width: 1023
         height: 682
         isCached: true
-  - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
-    excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
-    publishedDateTime: 2023-01-30T15:05:00Z
-    webUrl: "https://www.wsj.com/articles/baidu-is-developing-its-own-chatgpt-aiming-to-integrate-it-into-search-11675065601?mod=Searchresults_pos1&page=1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-712805/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "ETF Seizes on ChatGPT Buzz With a Focus on ‘Conversational’ AI"
     excerpt: "Wall Street’s $6 trillion ETF machine rarely lets a viral trend pass it by. OpenAI’s chatbot is no exception. Enter the Conversational AI, AI and Innovation ETF, which would trade under the ticker CHAT."
     publishedDateTime: 2023-02-03T16:02:00Z
@@ -330,54 +300,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63db0033d01da33f8fe6ed8a/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 597
-        isCached: true
-  - title: "ChatGPT — the ultimate AI innovation"
-    excerpt: "The first interface with ChatGPT enthrals every user. It is proving charismatic, well-groomed in communication, and well-structured. Let us take a quick peek into the beginning stages of ChatGPT and what it offers."
-    publishedDateTime: 2023-01-30T15:27:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/chatgpt-the-ultimate-ai-innovation/article66451425.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/chatgpt-the-ultimate-ai-innovation/article66451425.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/chatgpt-the-ultimate-ai-innovation/article66451425.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/4xza53/article66451386.ece/alternates/FREE_1200/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
-        width: 1200
-        height: 580
-        isCached: true
-  - title: "BuzzFeed to use artificial intelligence for content"
-    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-    publishedDateTime: 2023-01-30T17:41:00Z
-    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "A top UK private school is changing its approach to homework amid the rise of ChatGPT, as educators around the world adapt to AI"
-    excerpt: "Jane Lunnon, the head teacher of the $28,000-a-year Alleyn's School, told Insider: \"Everyone is talking about it in education.\""
-    publishedDateTime: 2023-01-30T16:16:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-helps-move-top-uk-private-school-to-ditch-homework-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-helps-move-top-uk-private-school-to-ditch-homework-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-helps-move-top-uk-private-school-to-ditch-homework-2023-1?amp"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/63d7d5914589790018e5b1ff?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "ChatGPT maker fields tool for spotting AI-written text"
     excerpt: "Creators of a ChatGPT bot causing a stir for its ability to mimic human writing on Tuesday released a tool designed to detect when written works are authored by artificial intelligence."
@@ -585,15 +507,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China’s Baidu Developing Its Own ChatGPT, Joining Global AI Race"
-    excerpt: "Baidu plans to integrate the AI-powered chatbot it is developing into its main search engine in March, people familiar with the matter said."
-    publishedDateTime: 2023-01-30T16:14:00Z
-    webUrl: "https://www.wsj.com/articles/baidu-is-developing-its-own-chatgpt-aiming-to-integrate-it-into-search-11675065601"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "ChatGPT introduced AI to the masses and it's already affecting us"
     excerpt: "Since OpenAI released it in November 2022, millions of people have been using the AI chatbot for things like fixing coding errors and writing papers."
     publishedDateTime: 2023-02-02T11:00:00Z
@@ -662,20 +575,6 @@ related:
       - url: "https://nbcpalmsprings.com/wp-content/uploads/sites/8/2023/02/ChatGPT-App.jpg"
         width: 1600
         height: 1067
-        isCached: true
-  - title: "Baidu to introduce ChatGPT-like chatbot in March: report"
-    excerpt: "Baidu is developing a ChatGPT-like application, and has plans to launch the conversational artificial intelligence assistant in March in a move aimed at to accelerating AI adoption and drive business growth, Bloomberg reported on Monday. The Chinese search ..."
-    publishedDateTime: 2023-01-30T16:36:00Z
-    webUrl: "https://technode.com/2023/01/30/baidu-to-introduce-chatgpt-like-chatbot-in-march-report/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."

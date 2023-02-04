@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswireindia.com/sima-ai-delivers-on-the-promise-
 webUrl: "https://www.businesswireindia.com/sima-ai-delivers-on-the-promise-of-any-10x-and-pushbutton-with-palette-changing-the-game-for-how-developers-scale-ml-at-the-embedded-edge-82822.html"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "SiMa.ai to Release Palette Software to Help Developers Scale ML at the Embedded Edge"
+    excerpt: "SiMa.ai, the machine learning company enabling effortless ML deployment and scaling at the embedded edge, today"
+    publishedDateTime: 2023-01-31T15:48:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sima-ai-to-release-palette-software-to-help-developers-scale-ml-at-the-embedded-edge/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 49
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/sima-ai-300x209.png"
+        width: 300
+        height: 209
+        isCached: true
+  - title: "SiMa.ai Releases Production Boards Designed to Meet the Challenges of Integrating ML Into Next Generation Embedded Edge Applications"
+    excerpt: "San Jose, Calif., United States: SiMa.ai, the machine learning company enabling effortless ML deployment and scaling at the embedded edge, today announced availability of two new PCIe-based production boards that scales embedded edge ML deployments for key ..."
+    publishedDateTime: 2023-02-01T06:35:00Z
+    webUrl: "https://www.businesswireindia.com/simaai-releases-production-boards-designed-to-meet-the-challenges-of-integrating-ml-into-next-generation-embedded-edge-applications-82824.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 23
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82824.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NkWRoHMk3yNQzPsbkuWCpLgGsKLd266U2jaEqLiYifJELAmMXigzcyh3S/+xjeymf37LMdMnFyIq2RnJqAhCRBBWlWXJOQHxqJceIyzc53m63W8cjp179VFMKVo8rbJfFtJB+J+pfJgmuzt6ZOCd6ZFH+GtYgv38kuDyfzKSIpSh6U3L5Qx7yN3V72EvQK4VsXagXatOUmh7oGA+n6XSU3doC4+8jr20Sao91Dh4+Nkp92Hf5EVYqEY0sV69EFfV494RT3tAv0XFXquYB+8q52BKd3QZbPCfLU+fXcGmkMAXFH/Zhen6fqM6UwVvy0i5m9dBnQSu4hKvAHjIsAcXB6DdSZV7v/6ulFIbZyDjBsk=;+FCKMaInmFPy/d231Ej1gw=="
 ---

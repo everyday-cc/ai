@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is improving agriculture sustainability in India"
-    excerpt: "A look at how AI can help agriculture and sustainable farming in India."
-    publishedDateTime: 2023-01-30T17:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ak_2_qhJiQ80.max-1300x1300.png"
-        width: 1300
-        height: 902
-        isCached: true
-  - title: "How AI Is Cropping Up In The Agriculture Industry"
-    excerpt: "For decision-makers in agriculture, properly utilizing AI can help increase productivity while decreasing waste amid increasing costs."
-    publishedDateTime: 2023-02-02T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fd288f278fb3ba430ef35db/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "U.S., India Partnership Targets Arms And AI To Compete With China"
     excerpt: "semiconductors and artificial intelligence (AI). Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies Co Ltd, to welcome more Indian computer chip specialists to the United States and to ..."
     publishedDateTime: 2023-02-01T01:29:00Z
@@ -70,6 +40,22 @@ related:
       - url: "https://d.ibtimes.com/en/full/4413820/g20-summit-bali.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "India, US Partnership To Target China's AI, Military Equipment: White House"
+    excerpt: "Biden's national security adviser, Jake Sullivan, and his Indian counterpart, Ajit Doval, are meeting with senior officials from both countries at the White House on Tuesday to launch the U.S.-India Initiative on Critical and Emerging Technologies."
+    publishedDateTime: 2023-02-01T02:30:00Z
+    webUrl: "https://www.ndtv.com/india-news/india-us-partnership-to-target-chinas-ai-military-equipment-white-house-3741518"
+    ampWebUrl: "https://www.ndtv.com/india-news/india-us-partnership-to-target-chinas-ai-military-equipment-white-house-3741518/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/india-us-partnership-to-target-chinas-ai-military-equipment-white-house-3741518/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
+    images:
+      - url: "https://c.ndtvimg.com/2023-02/fcrmnm2_modi-biden_625x300_01_February_23.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "US-India partnership targets arms, semiconductors, AI to compete with China"
     excerpt: "Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies, to welcome more Indian computer chip specialists to the United States and to encourage companies from both countries to collaborate on ..."
@@ -129,15 +115,15 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Artificial Intelligence Aids Providers in Maintaining Colonoscopy Quality"
-    excerpt: "A recent study found that an artificial intelligence system helped to reduce the time-related decline in colonoscopy quality while supporting endoscopist performance and adenoma detection."
-    publishedDateTime: 2023-02-02T17:31:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-aids-providers-in-maintaining-colonoscopy-quality"
+  - title: "The Arena Group Announces Strategic Partnerships With Artificial Intelligence Firms"
+    excerpt: "The Arena Group Holdings, Inc. (NYSE American: AREN), (the \"Company\" or \"The Arena Group\") today announced strategic development partnerships with two Artificial Intelligence (AI) firms - Jasper and Nota - to speed and broaden its AI-assisted efforts in content workflows,"
+    publishedDateTime: 2023-02-03T14:42:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/03/9754746.htm"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 31
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "ZpUmuMNr9oBqplNWetAMqDxdOroroSzOCw4jFwIZ0dKxfVZ3fapW09avh0hF92JMt2VWH2PMj9PyJyru557xv5VK4GWEiy2iNwfTLAy/WcoO5hHaAJ8tH1yfc6rE2GVaYMrgNXS/aqgVvDtq+35OQ2rJsTUQsvyQBJ0bW+KiUK1SK97NTqLB2JhRZC0l8UU37mQvSxb+q1pe7DKLY2n5K88cfkkvZ56nj8IS91us/wuEXbhcoZaev010ZzdZUvSs/2diGKBTN1Pizcsm7/iwcQvdwhipYnlVKbvZUnoYNDaSDdxbRMRGQtBs6SGxPI24y7IuDJalyRhPXv5Udq1OZtGWa5qVBDjXXUCNzFlrpyI=;GXacfGYWzTYXtuKico3UUw=="
 ---

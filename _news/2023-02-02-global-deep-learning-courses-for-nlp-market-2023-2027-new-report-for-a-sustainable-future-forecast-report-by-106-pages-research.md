@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-cou
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01"
 type: article
 quality: 71
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -123,20 +123,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market [New 117 Pages Report]: Foretelling Strategy to bear Anticipated Growth by 2026"
-    excerpt: "Artificial Intelligence Market Size [2023 to 2026] Research Report is spread across 117 Pages and provides private data, statistics, vital statistics, Exclusive trends, and competitive landscape details in this which position sector."
-    publishedDateTime: 2023-01-30T16:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-new-117-pages-report-foretelling-strategy-to-bear-anticipated-growth-by-2026-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: International Business Times
@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is improving agriculture sustainability in India"
-    excerpt: "A look at how AI can help agriculture and sustainable farming in India."
-    publishedDateTime: 2023-01-30T17:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/"
+  - title: "India, US Partnership To Target China's AI, Military Equipment: White House"
+    excerpt: "Biden's national security adviser, Jake Sullivan, and his Indian counterpart, Ajit Doval, are meeting with senior officials from both countries at the White House on Tuesday to launch the U.S.-India Initiative on Critical and Emerging Technologies."
+    publishedDateTime: 2023-02-01T02:30:00Z
+    webUrl: "https://www.ndtv.com/india-news/india-us-partnership-to-target-chinas-ai-military-equipment-white-house-3741518"
+    ampWebUrl: "https://www.ndtv.com/india-news/india-us-partnership-to-target-chinas-ai-military-equipment-white-house-3741518/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/india-us-partnership-to-target-chinas-ai-military-equipment-white-house-3741518/amp/1"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 89
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ak_2_qhJiQ80.max-1300x1300.png"
-        width: 1300
-        height: 902
-        isCached: true
-  - title: "How AI Is Cropping Up In The Agriculture Industry"
-    excerpt: "For decision-makers in agriculture, properly utilizing AI can help increase productivity while decreasing waste amid increasing costs."
-    publishedDateTime: 2023-02-02T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/02/02/how-ai-is-cropping-up-in-the-agriculture-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fd288f278fb3ba430ef35db/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://c.ndtvimg.com/2023-02/fcrmnm2_modi-biden_625x300_01_February_23.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "US-India partnership targets arms, semiconductors, AI to compete with China"
     excerpt: "Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies, to welcome more Indian computer chip specialists to the United States and to encourage companies from both countries to collaborate on ..."
@@ -129,15 +115,15 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Artificial Intelligence Aids Providers in Maintaining Colonoscopy Quality"
-    excerpt: "A recent study found that an artificial intelligence system helped to reduce the time-related decline in colonoscopy quality while supporting endoscopist performance and adenoma detection."
-    publishedDateTime: 2023-02-02T17:31:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-aids-providers-in-maintaining-colonoscopy-quality"
+  - title: "The Arena Group Announces Strategic Partnerships With Artificial Intelligence Firms"
+    excerpt: "The Arena Group Holdings, Inc. (NYSE American: AREN), (the \"Company\" or \"The Arena Group\") today announced strategic development partnerships with two Artificial Intelligence (AI) firms - Jasper and Nota - to speed and broaden its AI-assisted efforts in content workflows,"
+    publishedDateTime: 2023-02-03T14:42:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/03/9754746.htm"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 31
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "CMc5BxCivEkL3v6kMnoD3CuvOQ98xHPf7CDXECwN6R0N1edpq2USgBmWMWHvRmzh4fxb8qTfe8vHQQBZ1GxDNi9BaxNak7FPwiUpKn4QTcG12m7ea6u/WMeZxMhzma5ou0nW/1erXeknRrW/e/7td9NAVVd9P0TpFt6pNMezXRFpXyzfuzvmZ2h+5jyd+UR/wCqZsizXO85rL0U61PpTYpXuiSlSfkhinjYi5zCLVOn/6KrvcGUsKsl8ebkcem6eju1/dVqwOucGkuZgo4dpRsd5Ekl7NXFIMK6KOPHqQaj7+wwFXIIObaBkIGMUCYzFH6bStEa8smWetyWl6eJCqU8iIzvXvAMRXPPYDFsaLOo=;EH033zF8qdWAcT2VlbeTpQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-art-generators-ai-copyright-stable-diffusio
 webUrl: "https://gizmodo.com/ai-art-generators-ai-copyright-stable-diffusion-1850060656"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1740
         height: 1920
         isCached: true
+  - title: "Artificial Intelligence Aids Providers in Maintaining Colonoscopy Quality"
+    excerpt: "A recent study found that an artificial intelligence system helped to reduce the time-related decline in colonoscopy quality while supporting endoscopist performance and adenoma detection."
+    publishedDateTime: 2023-02-02T17:31:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-aids-providers-in-maintaining-colonoscopy-quality"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 31
 
 secured: "O1klDDEw8MU/Eh1gChyfvyFNT1CbHsbwvvZ0toyd5yMLmbygQeCtR/SzUlRVbLuN+T3b6m8xoe/UUcsWm9rtDU5iRuKdpDNid+6Jin7cvBhHwcqiiyDruC7cODyHFbX5LPbSV0ykmEOol2CxBYq4HnxAmadhD7Q83PvR9/bv7zBoupT0wpZMX9ThJo0fT7W80z8/j6mifxbl8Tz5sB0YsTsHwLTVBQt71Syj+ipH+yJW0IswoeMxQ6dP3OETtMVO0bRwdkq5ZaYuKI+t47He9q/h83GtI/psx/H9bTByA9gZPkVM859tlqz3a3AN3/hdWDYkvjIFarrWlHS8AECCOcoMdqjSld3jbp0SUDmoprYrbZRF+zCUClwdcMu3nBoe5cXY7TSKpCoUKKk7ovtlh6D81wcB++OYBL6K2ef7Ac+B6KHQy4PLRX4cQ7Fac9ikcWauRGEsZYJuvcO3giRRNHHpPsZIoVODjEFiwfRGsETlPs5QZnnF64RChUPinxJ5WqPysUk2nNgownn1Yf3cwQ==;9wfJhMEcwa9SAfwgRvE/sQ=="
 ---
