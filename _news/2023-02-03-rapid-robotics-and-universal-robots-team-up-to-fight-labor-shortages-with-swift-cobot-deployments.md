@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Rapid Robotics and Universal Robots Team up to Fight Labor Shortages With Swift Cobot Deployments"
-excerpt: "Rapid Robotics today announced a new partnership with Universal Robots (UR) in which the Danish collaborative robot (cobot) producer will be supplying collaborative robot arms for Rapid Robotics’ deployment of cobot work cells across North America."
-publishedDateTime: 2023-02-02T16:01:00Z
-originalUrl: "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb"
-webUrl: "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb"
+excerpt: "Rapid Robotics & Universal Robots team up to provide North American manufacturers with fast, flexible automation and help solve labor shortages."
+publishedDateTime: 2023-02-02T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230202005391/en/Rapid-Robotics-and-Universal-Robots-Team-up-to-Fight-Labor-Shortages-With-Swift-Cobot-Deployments"
+webUrl: "https://www.businesswire.com/news/home/20230202005391/en/Rapid-Robotics-and-Universal-Robots-Team-up-to-Fight-Labor-Shortages-With-Swift-Cobot-Deployments"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "DpgzTiLi41j7izF+rRSTyxg7JFhLyEI5vUEn79xKlAl+tgnNoa6EfJM79FCrJp7VTS9+dG6v8aUpUmUqrjTZbXh27VGTo4ZYCXa4nDvVFa95kp7ROsmowH2t96ZSREHbdlNF0/lygps+XtMxQ4iYFw7iGt+Ex7DJ2h1F2Yh+jF8IQfprqcqrZSdwpb3tuOyRZZ93FkAc3Q1ajA8k0BGodjlquNP4F/goYvlUZGH29gimrUe+7sTONfQj+GXMScG3ZhKWMCwiaky0qJVzERUU1EDqX5Sz3Y7K8viTXypEusFUsej9B+EU1dewBaz+eXKJDHrg2k86/YqDNd4wPgxH3U8UkwnO2buVDKAWZkYi6Ak=;M55EecwGQYoqC8scgkZXuw=="
+secured: "+FAnJDuqsCNNcqZvJ5O2Kt0sLfo2aC2J0iOx+GXAz9cCI5Y89bGz3Q26gfQvJZ5BWfhtapt38I7hRlAzBb7cbzsrJWOoDocngk0GxHUe/ibnqH5QW7AmeYj1EqyF6P4GDBHRWQeS+kOE0oGtnXXjAIRgnwk3qVfMZF46dXS23TX3xxn8U/cDWVzCiX1wHG62geWHQ+gRleG0BTGGPjIm/7OTgJLEshWOtbJ0e6TAfnabU0AV2iX1PD1VWbK6Hi2yTVYM9Cbq+9rMd8FmxpMmxP0K6S1jK7xpTxU+y2rcyeXGoRQpzryaRG9tKK8bVLwMm4K3ytfWUQQLQ97vld8e5BS7AnPwjPoVQWhkW8GgadZ8pJhNeOg3N/XUm59eYp+wZEIxLNJAn1otthsRU716wwhJ0jIPkgGnygRF7Rln7OfBm4hiEnDsMe55bE77GpiVmlEj6Okt3JZT2wPLbYSB6vV46Nug2jA/XbHOGlpnE7HEjvWx+EHEXHwpr6WHqqYmjdBfFSXEoszF1Fpf+DebTQ==;ygbm3btuw8YNhMWijCu5Gw=="
 ---
 
