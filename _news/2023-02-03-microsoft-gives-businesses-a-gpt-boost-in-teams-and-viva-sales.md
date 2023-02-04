@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/amp/"
 type: article
 quality: 106
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -132,22 +132,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
         width: 1500
         height: 1500
-        isCached: true
-  - title: "Microsoft-backed ChatGPT may soon get a Chinese rival"
-    excerpt: "Since November, OpenAI’s ChatGPT has been the hot topic for every conversation on the internet for its “chatty” mastery. It has Google worried, while"
-    publishedDateTime: 2023-01-30T08:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/articleshow/97439184.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-backed-chatgpt-may-soon-get-a-chinese-rival/amp_articleshow/97439184.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-97439180,width-1070,height-580,imgsize-93524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1068
-        height: 580
         isCached: true
   - title: "Microsoft Teams Premium: Cut costs and add AI-powered productivity"
     excerpt: "Unlock new experiences with Microsoft Teams Premium for customers looking to make meetings more intelligent, personalized, and protected."

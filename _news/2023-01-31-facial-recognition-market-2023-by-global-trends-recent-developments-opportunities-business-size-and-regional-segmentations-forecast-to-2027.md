@@ -53,20 +53,6 @@ related:
         width: 860
         height: 522
         isCached: true
-  - title: "More taking sides in NYC facial recognition discrimination saga"
-    excerpt: "The slap fight in New York between the owner of globally known entertainment venues and his enemies is pulling more participants in for maximum schadenfreude."
-    publishedDateTime: 2023-02-03T22:28:00Z
-    webUrl: "https://www.biometricupdate.com/202302/more-taking-sides-in-nyc-facial-recognition-discrimination-saga"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/03145243/DHS-PII-access-management.jpg"
-        width: 1280
-        height: 854
-        isCached: true
 
 secured: "JVPbjgyfdpFoj7ptQArRwCJ4qj0nBHlySJd6IRKvUEZ72OIb0lyQ2PFyDVumArL+Ga0JFdJs3YIbj+FGVAJzbN89a80wrAHXLArAgw+y2YqvDhCGajteeoOO+gXRZf9m6MqJr++XVcyJxXzQg1Q+VMVFwsXRCfPDqLRwnwhq2ZGlZAO7cl6UpUUknPEbNna7XE19zV97F7mLYMLSZoqa9kKtCe3rc+4Y/kCltgp6W2bPfSUay8qJB60xvmFiIaA+yQDS85Shj6A9ZpIMGlR56jOmupP6GkcUWcCy/aRojqR+WdceTeZM+mFnaXRmqHfX7OBsj6MxG6Lp0ng9WnQB57znHQpNCs04rJ847qaOoM0=;7CztHIE1m9zXeLXvlr+4ZA=="
 ---

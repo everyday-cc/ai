@@ -64,20 +64,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "China’s Internet giant Baidu to launch AI chatbot service in March"
-    excerpt: "Chinese search giant Baidu is planning to launch an artificial intelligence (AI) chatbot similar to OpenAI's ChatGPT."
-    publishedDateTime: 2023-01-30T07:55:00Z
-    webUrl: "https://www.lifestyleasia.com/hk/gear/tech/chinese-internet-giant-baidu-to-debut-ai-chatbot-service-in-march/"
-    type: article
-    provider:
-      name: LifestyleAsia
-      domain: lifestyleasia.com
-    quality: 39
-    images:
-      - url: "https://images.lifestyleasia.com/wp-content/uploads/sites/2/2023/01/30125506/Untitled-design-70.jpg"
-        width: 800
-        height: 800
-        isCached: true
 
 secured: "VV0wZYWEfgeb4lTOc4OyWpsoo5gvA/wI+mfSfxHQKTsilWHOU+MsxOS4zm9P+CxGGTDD8wQY5iHnJCdwZCKXR3T/UdURRZO58dnUWH85ZSaN+4yLwHYh8ixFsc8vJ6+khqY+GvOJUZ8TTPXSpB9IMTNscfJdW4soANjphxrCUWSE7D8N7061v1ErpwGviF0TxwxxEIRy26Ew1cO77PuswtZEyhJUWBfieXc5DnDNR6M3ww5geWToMtIUpcqAktaJoF4Ts6z4So/Ar3Ih0bBLESxBpmZGf1o3QzFFphV6ZD8fq/EdDpeZ56+neVa4x578d4HnPNlBebWz0tx+dvUD3Z71vRFAHJFils/V2lJQOMM=;deNEkYMV25pueZU3HjIopg=="
 ---

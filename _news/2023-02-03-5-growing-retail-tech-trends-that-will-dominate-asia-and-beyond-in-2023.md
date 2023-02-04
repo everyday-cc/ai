@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiffanylung/2023/02/03/5-growing-retail
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiffanylung/2023/02/03/5-growing-retail-tech-trends-that-will-dominate-asia-and-beyond-in-2023/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 34
-  - title: "5 tech trends that will change the fintech industry in 2023"
-    excerpt: "A recent report by Bain and Co. recognized India as one of the first leaders to uplift the exposure of the country’s fintech industry globally. Further, the report states the boom in smartphone adoption"
-    publishedDateTime: 2023-01-30T08:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/5-tech-trends-that-will-change-the-fintech-industry-in-2023/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 24
 
 secured: "6SU4Sb6NF7AqP6G7NO2M9AVZdnD8X4QTJES4JZG5CmiHe8/7MiTJyFu+NQ2lAhiFFyvGGmFn3NeZY2B6hsmSv0zMt5wTfv8R/3gi869VydWbrb9/exp5e9kbmov33ZhOMPRG/g5aPboe9HK5LW4HMaezBo/sBqpAD2UJpOn4hfzobxeWzUOYbswssi3s3ofV74i36x84xAUmUEL+9K6BYlEm7+MNwwAeO5IbTmAvD5JdIBVDeGy0puArqsrOuDYgS5PFeYtvOtcNAsDFaCKbVfGPm7RqMOy+cSmsn1J5drfIMVAtmT3Nv3DpD1uEJv18Gc1GJlyH7J4yokOaWKCkLPnTi0kd+T3F2rxN960bk0KDq+J1sJamyyOy8bZ/gbz70sXhLMEW89byTMBkYjUremT0R+ofWK+9SO5fPNQmvO0HXBQl8g3NNDqGhyTeKyX2kNofzHQwa0JjFOzx9MZ2XAG17qNkwpz0IbrNqhTQz7P6oZ5hF3TuwlDatb9pRJRdUr/P4PRMhUCmv4tw5SrA/g==;cJ1CTrzJ4B1JSKBk+NIUfw=="
 ---

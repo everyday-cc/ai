@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/content/news/brainchip-achieves-t
 webUrl: "https://www.newelectronics.co.uk/content/news/brainchip-achieves-tape-out-of-akd1500-chip"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process"
-    excerpt: "“The AKD1500 reference chip using GlobalFoundries’ very low-leakage FD SOI platform, showcases the possibilities for intelligent sensors in edge AI.” About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader ..."
-    publishedDateTime: 2023-01-30T08:08:00Z
-    webUrl: "https://www.design-reuse.com/news/53394/brainchip-neural-processor-for-edge-ai-globalfoundries-22nm-fd-soi.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 54
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage53394/BrainChip-general.jpg"
-        width: 704
-        height: 417
-        isCached: true
   - title: "BrainChip achieves tapes out AKD1500 chip"
     excerpt: "“The AKD1500 reference chip using GlobalFoundries’ very low-leakage FD SOI platform, showcases the possibilities for intelligent sensors in edge AI.”"
     publishedDateTime: 2023-01-31T08:45:00Z

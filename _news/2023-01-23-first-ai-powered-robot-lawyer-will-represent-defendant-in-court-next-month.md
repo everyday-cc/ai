@@ -2,9 +2,11 @@
 category: news
 title: "First AI-powered \"robot\" lawyer will represent defendant in court next month"
 excerpt: "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month."
-publishedDateTime: 2023-01-23T12:53:00Z
-originalUrl: "https://www.cbsnews.com/colorado/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
-webUrl: "https://www.cbsnews.com/colorado/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+publishedDateTime: 2023-01-23T14:52:00Z
+originalUrl: "https://www.cbsnews.com/philadelphia/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+webUrl: "https://www.cbsnews.com/philadelphia/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/"
+ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "GvyCLfYy0pcUh2V6zC6wDHCsvJm8nTXiNpVJr1D0RGxba3jM0/yml1uRtgnruIx0e75txtbJMK4S/K2NM9b8mniUWMr2b9rNgTny/bASLThXA4/ZkfNgATGwP7ZYexYkj/tzLUs24E3Bv++3uLRUH9VIsfpqZuDyVYGQRlipeyQIqtQ6BWr3DZMUPJZZ/kTmSuVL7YV5sQf7hFDlEXnVMyAn2R+Cw0e4M9TLQkfHa1p6Hdt8wIRxzTPhysaMyR4lzGh/oN2H5Eyg835vMEElFpJDLonbR6DeCF3rO0eVpqME1sLfUz8rqI7PzKpN6DDwNE5WsVDehDfOCe2q51aQZpPjWy2CzpScYUEOI+iUEsUgtCbw9/2jYtxY3/DAL6cfR1XRdDluIq8OR5fcp4HxaAgnUIjvvSc7fD9o0Q1+KqKKIAGley4WfYkXpAJNymDk/3eDYIu0/LHJ5o29kvk5Rk2iEHuXJp/KHWsR/R6eEt5KCzh9Uu8hJGj1uQ2eLzxbrw4czyO8QD6XhgZ2T5m9Cw==;t0pKkWZlcliRhGuXDP8KZA=="
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "KlOuElNIKR8wpOuGTxC895IfmgHmISC0rEeeh8WWLQdvhR97VXf/1wb/D6nCH6oiSmIkkv39tg7Ee7kdDqeRk8bOlymfimwttson5dRz4KDV2fEl1+JIpwLE3gzSOCZCnrxDNgf474xrYqQ/xhyngaRyNzS5KpEODMY0nW8xQLeDWa4azKJAipkuianSfiK32WiytEe7yBFlfJk+s7pWdVopjWsxKWoNevVXRV98eCOilhUBJ2+9RH/qgSAcYJ62q2g11i5jlq3IFX/nOd17UldtP4eWmHNO/hRZnun+3UsT2kZTo61a9GEgXHptA9XRtr51RbXrQycxwVSlSLbWygR/bCXwP9SzcwIIqiJJWs4=;qg/HBwk/55BNwECRijCYqQ=="
 ---
 

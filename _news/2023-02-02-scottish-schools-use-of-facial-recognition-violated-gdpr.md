@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "More taking sides in NYC facial recognition discrimination saga"
-    excerpt: "The slap fight in New York between the owner of globally known entertainment venues and his enemies is pulling more participants in for maximum schadenfreude."
-    publishedDateTime: 2023-02-03T22:28:00Z
-    webUrl: "https://www.biometricupdate.com/202302/more-taking-sides-in-nyc-facial-recognition-discrimination-saga"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/03145243/DHS-PII-access-management.jpg"
-        width: 1280
-        height: 854
-        isCached: true
   - title: "Facial Recognition Market 2023 by Global Trends, Recent Developments, Opportunities, Business Size, and Regional Segmentations Forecast to 2027"
     excerpt: "Facial Recognition Market” [105 Pages] | Report 2023 aims to deliver precise top-bottom and strategic analysis of"
     publishedDateTime: 2023-01-31T09:47:00Z

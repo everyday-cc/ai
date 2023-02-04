@@ -191,20 +191,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Dynamic Face Recognition Systems Market 2023 Research Report including Drivers, Emerging Trends, CAGR Values, Regions and Forecast to 2028"
-    excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Dynamic Face Recognition"
-    publishedDateTime: 2023-01-30T08:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-dynamic-face-recognition-systems-market-2023-research-report-including-drivers-emerging-trends-cagr-values-regions-and-forecast-to-2028-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market 2023 (New Report) Shaping Ahead to Long Term Value Realization | Forecast (2027) and 119 Pages Research"
     excerpt: "A new Research study on GlobalCloud Natural Language Processing Market2023 |New Report published across the globewith"
     publishedDateTime: 2023-02-03T04:57:00Z

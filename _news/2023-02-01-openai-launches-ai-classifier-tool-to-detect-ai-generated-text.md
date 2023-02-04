@@ -142,6 +142,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "General availability of Azure OpenAI Service expands access to large, advanced AI models"
+    excerpt: "Large language models are quickly becoming an essential platform for people to innovate, apply AI to solve big problems, and imagine what is possible. As part of a continued commitment to democratizing AI, and the ongoing partnership with OpenAI, Microsoft announced the general availability of Azure OpenAI Service. With Azure OpenAI Service now generally available, more businesses can […]"
+    publishedDateTime: 2023-02-04T00:31:00Z
+    webUrl: "https://island.lk/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models/"
+    type: article
+    provider:
+      name: Island
+      domain: island.lk
+    quality: 45
+    images:
+      - url: "http://island.lk/wp-content/uploads/2023/02/AZURE.jpg"
+        width: 675
+        height: 450
+        isCached: true
   - title: "OpenAI launches tool for detecting AI-generated text"
     excerpt: "OpenAI LLC today introduced a cloud-based tool that can help users determine whether a piece of text was written by artificial intelligence. The tool, which is available at no charge, is itself based on an AI model."
     publishedDateTime: 2023-01-31T21:55:00Z

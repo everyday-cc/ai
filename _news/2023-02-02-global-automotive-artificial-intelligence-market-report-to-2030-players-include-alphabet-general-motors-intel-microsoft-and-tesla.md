@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment"
-    excerpt: "I am thrilled to announce that Microsoft has been recognized as a Leader in the IDC MarketScape: Worldwide General-purpose Computer Vision AI Software Platform 2022 Vendor Assessment."
-    publishedDateTime: 2023-01-30T08:00:12Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/"
+  - title: "Friday’s top tech news: Google and Microsoft prepare to do battle over AI"
+    excerpt: "Plus fresh details on Meta’s next AI headset, and another smart home company begins its Matter transition. It’s funny, Google has been promoting its AI efforts for years, but something about the mainstream attention ChatGPT has been getting,"
+    publishedDateTime: 2023-02-03T11:39:00Z
+    webUrl: "https://www.theverge.com/2023/2/3/23584222/february-3-2022-tech-news-liveblog"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
+      name: The Verge
+      domain: theverge.com
+    quality: 83
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cb6d9b82-2d04-4aaa-82cd-3aa9d78dfb23.png"
-        width: 773
-        height: 768
+      - url: "https://cdn.vox-cdn.com/thumbor/pfq0TWl_P9f0DjxCbWmQk184U34=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16019274/acastro_181017_1777_brain_ai_0003.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Artificial Intelligence Software Market Major Segments, Size Parameters and Topmost Key Players - Google, Baidu, IBM, Microsoft"
     excerpt: "With the aid of this study, it is possible to effectively determine the current situation of the Artificial Intelligence Software market and the trends that will influence it between 2023 and 2029. The solutions presented in this study will assist market participants in formulating plans for seizing any opportunities that may arise in the future."
@@ -53,20 +53,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "TurboHire now available in the Microsoft Azure Marketplace"
-    excerpt: "TurboHire now available in the Microsoft Azure Marketplace - Recruitment automation platform TurboHire announced its availabilityin the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2023-01-31T09:37:00Z
-    webUrl: "https://www.siliconindia.com/news/general/turbohire-now-available-in-the-microsoft-azure-marketplace-nid-221162-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 69
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/lu6SWt4r.jpg"
-        width: 570
-        height: 367
         isCached: true
 
 secured: "Su6HinoHy8l8/HP+v2mNJVwsZdF9VUOUV+vaqjoaUsz1asHDdzbu5nrpCMTPBhLZUysLYMTUtQCB3iDPJQkQgcDlEBFJSiX3JpWQRIvrFfHDGw0tWjlQjr1wpyhcPO78ShNlZlZ1QtpI/7xLJjLTm4XENlSsf16ubgIW/4pT6BGOUF3WDUPOucI57P/U35/bjLhAlu+Bxi7UzSnrwubQO92z/844MxEUyByGM0aHle6fFVNL7k/9LM7kToQhh7A1MgOnUPoI5fWj+jQ0CZbtYe0K1Gb8eMExlwwo/T/vBRBCupS4sw+6Tw7PQaWvw3tuASGIcs1EsdHcsntMUkVyzNgm+mfolcpAQrl6VY0EOAE=;GGOPhsjs3DyKLp6DytW8Qg=="

@@ -197,20 +197,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Dynamic Face Recognition Systems Market 2023 Research Report including Drivers, Emerging Trends, CAGR Values, Regions and Forecast to 2028"
-    excerpt: "Jan 30, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Dynamic Face Recognition"
-    publishedDateTime: 2023-01-30T08:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-dynamic-face-recognition-systems-market-2023-research-report-including-drivers-emerging-trends-cagr-values-regions-and-forecast-to-2028-2023-01-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Platform Market Latest Trends 2023, Drivers, and Projections Report from 2023-2029| 99 Pages Report with a Splendid Growth"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 01, 2023 (The Expresswire) -- \"Artificial Intelligence Platform Market\" Report New Research Updated Report 2023 | Latest Report Spread Across| 99 Pages | Global Industry ..."
     publishedDateTime: 2023-02-01T16:31:00Z

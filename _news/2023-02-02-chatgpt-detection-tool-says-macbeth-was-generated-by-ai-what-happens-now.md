@@ -126,6 +126,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Testing Its Own AI Chatbot to Rival ChatGPT"
+    excerpt: "Google has begun testing an AI chatbot called Apprentice Bard that's similar to ChatGPT, an online service that in many ways is more useful than Google search, CNBC reported this week. And we might see it soon."
+    publishedDateTime: 2023-02-03T22:59:00Z
+    webUrl: "https://www.cnet.com/tech/computing/google-testing-its-own-ai-chatbot-to-rival-chatgpt/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-testing-its-own-ai-chatbot-to-rival-chatgpt/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-testing-its-own-ai-chatbot-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/36e42e648b20e5f727d8cd99ea8209c4719e9676/hub/2018/08/23/06b8c640-486b-48b8-a708-1e88206b69b5/20180813-google-campus-mountain-view-headquarters-4sts-03.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "C3ai has soared 86% year-to-date as investor frenzy for artificial intelligence builds amid ChatGPT success"
     excerpt: "C3.ai soared as much as 28% on Tuesday after the company said it would integrate ChatGPT into its product suite of artificial intelligence tools."
     publishedDateTime: 2023-01-31T17:39:00Z

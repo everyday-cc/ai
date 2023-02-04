@@ -35,9 +35,9 @@ related:
       domain: sciencedaily.com
     quality: 47
   - title: "Existing Drugs That May Help People Quit Smoking Identified by Machine Learning"
-    excerpt: "Researchers have used machine learning to identify genes related to smoking behaviors and find existing medications that may be able to be repurposed to help people quit smoking."
-    publishedDateTime: 2023-02-01T10:11:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
+    excerpt: "They developed a novel machine learning method, where computer programs analyze data sets for patterns and trends, to identify the drugs and said that some of them are already being tested in clinical trials. Cigarette smoking is a risk factor for ..."
+    publishedDateTime: 2023-02-01T10:17:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/existing-drugs-that-may-help-people-quit-smoking-identified-by-machine-learning-369733"
     type: article
     provider:
       name: technologynetworks
