@@ -42,6 +42,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "AI in healthcare gets Budget push"
+    excerpt: "Hyderabad: Private healthcare majors feel that the Budget has given artificial intelligence (AI) in healthcare a major thrust and this would be of immense help in improving the sector and also create opportunities for research and innovation across the ..."
+    publishedDateTime: 2023-02-02T00:42:00Z
+    webUrl: "https://www.thehansindia.com/business/ai-in-healthcare-gets-budget-push-780539"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/02/01/1333200-pradeep.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "3C0NFqPtbybRF5axX3iyuJmodlianE+kLOuwHZTEz3XGI1fVQDfUGFw2UcNTFaT81tPZe6TwqvNqrwRuod919UH6D5G1qSDuJiTqBRRsUAOlmzFbn4eFVd8C10TKFhjs0rs3/yO1oSfSMfif7ApQY4QthKSTanxd7uTeXmM5t7UyGkim1vNTa+l7o9duUQcqtfOF9R3f5ANnrDGUcoLhnMJtjuuZQ1YtuzMWZADdx0OjK9JJU/cb0cnt06yVWGSmV3GZ27FSsHIGnSkbXE7vqBGt43Izjupngi6ShhV1+WAH0hGoPBxr9jKWgJwAjc353TvZANsy/FfbZ0IfbRcmdTk6vMgxjFGrCUesfxyuuMQ=;pA8WTcnp4gv8cvrvD8d7oA=="
 ---

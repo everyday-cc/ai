@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Oil & Gas Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2028"
+    excerpt: "“AI in Oil and Gas market size was valued at USD 2295.29 million ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source for gaining the market reports ..."
+    publishedDateTime: 2023-02-04T06:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-gas-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2028-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Data Catalog Software Market Trends, Business Overview, Industry Growth, and Forecast 2023 To 2028"
     excerpt: "Machine Learning Data Catalog Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
     publishedDateTime: 2023-01-30T17:05:00Z
@@ -173,15 +187,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 9
-  - title: "Global Artificial Intelligence Services Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
-    excerpt: "Artificial Intelligence Services Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Com"
-    publishedDateTime: 2023-01-30T13:47:00Z
-    webUrl: "https://menafn.com/1105495391/Global-Artificial-Intelligence-Services-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "JqK39Pu7791zlopDTNJjsQhK01Wl9AsxPq2omYlR+wPB8kJGtdaOw5Vsqlw+a5DKfU5Qn/lR7L/wQI/7vZZoCmesZPrbmu1TGYDFhnqat8iYKgGItZCFnLatoPI+bGKinDqNcz1pGq38Llx6pG5fVYSz9/N6WgCCAnoURHyF6qXpSzqKboTDSuFZi5fb9O/aH3liH40n7ivD8XCOiAAd5jWqy3OGA53df0wc5SHKdr9wODrag+rtUKaMEG6N0wu+fbWuO9knimLh8zwIGjjOZbVjlrT6tDLEs3QwE3ln9T3YT0e2PzLnf5+Dn44mO37lZ+jnKm7Lga4qYEBos1eeUg7L/6cspEdxU68zIsSmIoE=;5EY0XIHwIf7PYdzWqe4DIA=="
 ---

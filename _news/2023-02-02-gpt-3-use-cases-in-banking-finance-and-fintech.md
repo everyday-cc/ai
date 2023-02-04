@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-financ
 webUrl: "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Fintech focus on ESG, digitization, AI in 2023"
-    excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
-    publishedDateTime: 2023-01-30T13:03:00Z
-    webUrl: "https://www.theasset.com/article/48527/fintech-focus-on-esg-digitization-ai-in-2023"
-    type: article
-    provider:
-      name: The Asset
-      domain: theasset.com
-    quality: 19
   - title: "Open Banking and NeoBanking - Fintech Trends For 2023"
     excerpt: "Two of the most important trends will be popularized services in neo-banking and open banking services. You will get more information about  these and other new fintech trends down below. Fintech Industry in 2022 - What Has Changed and What Were The Main Trends As investments in fintech significantly increased in 2021,"
     publishedDateTime: 2023-01-31T11:19:00Z

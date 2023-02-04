@@ -169,20 +169,6 @@ related:
       name: FT
       domain: www.ft.lk
     quality: 49
-  - title: "Buy Seagate, Microsoft, Sell IBM"
-    excerpt: "The tech sector is a mixed bag. It will only reward selective investors who anticipate the demand recovery. In the storage market, Seagate (STX) could potentially stage a recovery. Seagate posted revenue of $1."
-    publishedDateTime: 2023-01-30T14:40:00Z
-    webUrl: "https://baystreet.ca/articles/stockstowatch/84468/Buy-Seagate-Microsoft-Sell-IBM"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 41
-    images:
-      - url: "http://baystreet.ca/images/articlegroups/original/7/stockstowatch5.jpg"
-        width: 1024
-        height: 400
-        isCached: true
   - title: "Microsoft Research project helps languages survive — and thrive"
     excerpt: "With Project ELLORA, researchers at Microsoft Research India are building digital resources and AI models for underrepresented languages."
     publishedDateTime: 2023-01-30T16:40:00Z

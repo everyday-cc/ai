@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Something for the weekend: Understanding AI"
+    excerpt: "To introduce the series, we asked John Thornhill, the FT’s Innovation Editor, to bring us up to speed on the latest generative AI programs like ChatGPT. “The age of AI is upon us,” Microsoft’s chief executive Satya Nadella declared last week."
+    publishedDateTime: 2023-02-04T04:59:00Z
+    webUrl: "https://www.ft.com/content/b64d1291-e088-4dc5-a7ed-7bcb91b36a59"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "6xRZqnfbYnaXYSaCuJ3l0bgcXlWLfPxI55G1zk90XHGBcEWgkwD8yt8ghYKszPVn/0pKk0auCKqRM9/K5dOISIfBjVVJwJO0oyr10QvuAlQ107rYCBr/3Yvo++bHJ2lNTWEmB4wciW+Sbacre1IcRwGJb/RsSnK2ZlZ6CHrNTBGre7IefNoFbAtYOPuQ67/dyz5M6SG1DZrEKCe/inojd07uR1TsVd4iFhvMxpggTELO+dCUc31mjVIMfBR8fqcpXimf57UpVqwh7VvToviBUCF/xKACQMXSWp272h4W+Z8OlgOfWcuF9WXxZ6ydoRhu9NR34TJpxas4juyjQUoJczLbsnN3ZVG9YLgssMrKGyc=;+wzLKHHWonmn/zD24q8hbQ=="
 ---

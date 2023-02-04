@@ -28,17 +28,17 @@ images:
 related:
   - title: "Experts say artificial intelligence will take jobs but also create new ones"
     excerpt: "By 2025, the World Economic Forum predicts that 85 million jobs will be displaced by automation and technology, but it will also create 97 million new roles."
-    publishedDateTime: 2023-02-02T15:17:00Z
-    webUrl: "https://www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
-    ampWebUrl: "https://www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsaz-com.cdn.ampproject.org/c/s/www.wsaz.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
+    publishedDateTime: 2023-02-02T14:18:00Z
+    webUrl: "https://www.kold.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/"
+    ampWebUrl: "https://www.kold.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kold-com.cdn.ampproject.org/c/s/www.kold.com/2023/02/02/experts-say-artificial-intelligence-will-take-jobs-also-create-new-ones/?outputType=amp"
     type: article
     provider:
-      name: WSAZ
-      domain: wsaz.com
+      name: TUCSON News Now Kold
+      domain: kold.com
     quality: 55
     images:
-      - url: "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/HUMUYXpLMkrYUDJpNR5huXZp53k=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4UTX4ZPCMJFNRHZVPHKIBBJUDU.jpg"
+      - url: "https://gray-kold-prod.cdn.arcpublishing.com/resizer/yP7NaxOqs4Ja8G4F3kLR8FIwCvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/SH2M2BJEURBETAWL5GRDNLOOSA.JPG"
         width: 800
         height: 450
         isCached: true

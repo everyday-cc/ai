@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/business/budget-2023-big-push-for-artificial-in
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/budget-2023-big-push-for-artificial-intelligence-new-5g-app-labs-3742553/amp/1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: NDTV
@@ -42,6 +42,20 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/2/w600X390/ai.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "AI in healthcare gets Budget push"
+    excerpt: "Hyderabad: Private healthcare majors feel that the Budget has given artificial intelligence (AI) in healthcare a major thrust and this would be of immense help in improving the sector and also create opportunities for research and innovation across the ..."
+    publishedDateTime: 2023-02-02T00:42:00Z
+    webUrl: "https://www.thehansindia.com/business/ai-in-healthcare-gets-budget-push-780539"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/02/01/1333200-pradeep.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "qIP7SlyFCBDYKaFeRD6pKlE6ElP9H/RwqY5MSMyj0PIUs7a/PT/oBvZGsQryYOU7gBc2puQvFRYSyG2mh25fBFCOFxc54losdY1wAq6Yu483CzBEx6K81CgNxQsZd7FGCaA8c+DoceGUBm//5rn4pg/gcfERjAjw7isnfGpsR05+8Hv0ozA6IyMOQt7/DYaESt16toRPRPXgNuJDRx/bw5wEwMsaFByXvCddQXp5/dnYeIrg+NqyYcnNRzAydp3k8Q3YhFips5drgYEgDdtMY9mtFcnnobc/8ZcQqJ2y3aN08udbz5e+CnS9BWhQEBU48wuN0CdovGd1C7UEA6vFNOMBsr58DFn3F+NvRq5iDngWfg6sGkYwLsc6zEWQ54D4WpcH/ZGj3gB2XLulmBX5dQIGsEXoPvG2nPWltm4Ae1/BiWJLqZ0LKnWI72in7aZQcEHgaFbwQCyK7CucS+PqMVbvfh05fgRHoLVm/5POWOctInsZF6ORE55CR7ZYMyFtb4n1FooiZJeWZ21laHNXHw==;C2sYTiIMMUPTqpXjAAasjw=="

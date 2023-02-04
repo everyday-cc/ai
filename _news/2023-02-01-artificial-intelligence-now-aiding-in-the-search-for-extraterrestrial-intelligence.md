@@ -70,15 +70,6 @@ related:
         width: 1280
         height: 768
         isCached: true
-  - title: "The Pentagon’s Quest for Academic Intelligence: (AI)"
-    excerpt: "But now, to obtain expertise in cutting-edge fields such as artificial intelligence (AI), robotics, and hypersonics, the military services seek a renewed presence back on campus, where their personnel can work alongside leading academic innovators."
-    publishedDateTime: 2023-01-30T14:25:00Z
-    webUrl: "https://www.thenation.com/article/world/the-pentagons-quest-for-academic-intelligence-ai/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 25
 
 secured: "Ii6Y9X6+xqdRvzl3bf6Ns2qZE4dB1yWpKvkwqnHQnateu0IZlM7xJ91FqZQczcRLVkqBa+T4Z+PRVMeyZAwgxYqlplrAAIH/QG7ARXUs6aKiILuXFD9vXXtcup9yRh/KisID564lHOOvZz84taqZZzkKosBDmTMDkojp3c1XGy6mwS6gaZyn2vpo8oOcCrw1fQpgOQwW1rC7OyQVGKSeA/CXUyw9KV/rBq6IdiPFKQLbEt4z5wpz1+I+FhxKrMf7ViqveUlNY4rM/Uscq8v1xG+Wwgo6x5taqKSjg2TNNm25ujPksv2dSbnP4jKZEbYVQxhyqldfM0N9QzGTwSiyPAGL2kxw6kRQk4nmp6wQGv0=;8sovtLrx0PNL5pNBnZniRQ=="
 ---

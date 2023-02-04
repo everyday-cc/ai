@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/03/should-you-invest-in-art
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/03/should-you-invest-in-artificial-liquid-intelligence-exploring-the-marriage-between-nfts-and-ai/amp/"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Pentagon’s Quest for Academic Intelligence: (AI)"
-    excerpt: "But now, to obtain expertise in cutting-edge fields such as artificial intelligence (AI), robotics, and hypersonics, the military services seek a renewed presence back on campus, where their personnel can work alongside leading academic innovators."
-    publishedDateTime: 2023-01-30T14:25:00Z
-    webUrl: "https://www.thenation.com/article/world/the-pentagons-quest-for-academic-intelligence-ai/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 25
 
 secured: "3bTc7NnbmjJF9crRiOmiX6OFZNGr2sIvVt7pT8Oz5RNC75akYCP32/SdM0Ijb13r1zQmTTKBzsSPxzM+qtQYJH2jlKEHj/Vhpn7WJZ5HCuHwqZbuMpFqOivBtVpiSi3l3zuirLs8IZmvHTTmetSXxQbfiNisEhQU2udWPqxzrYaIWqJ69/S7nAOOzvW23h5WUeeBkC4O73ZkZXvZBQzbVV3U1wFxHKA/EeyWSYAHY0XoWU5gaKt38jaLqYkaSx7P+MfrnMsgyfjT3V9ukMoeRq10zRMomCCsV6QBPTRtOyvftdIi9BCXcrNhDDDRkBRl5+sBQm1dKcNTeKZiZqgvSLV7uX+/TRf/U7rrGprYmBg=;80hxuFamPDBoToVWaboUow=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/01/30/the-future-of-payments-in-an-ai-enabled-future/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The Race of the AI Labs Heats Up"
+    excerpt: "Regardless of the extent to which the generative AI models that underpin ChatGPT and its rivals actually transform business, culture and society, however, it is already transforming how the tech industry thinks about innovation and its engines—the corporate research labs which,"
+    publishedDateTime: 2023-01-31T15:20:00Z
+    webUrl: "https://cacm.acm.org/news/269343-the-race-of-the-ai-labs-heats-up"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "VUTYNb14nsT/MeMFAJGIPwc0CvMhIV3qU0yomQwF/F0fXe8yFWcZWrFEfFtzRfqV4u2pcJWBb2dphePPhuLW2hkQhDx2mnJlkOEaWAiYkQIVqBZ0HMiGHF6DrMGHhvA1S8cBmloCPtg8AfraR2lIpdW37e2/cvcpBlwjfk3Y2mtvjTeb4ezPKxA/1FTnkbKtxXsi+RnhJv1vZdIttt7WNlCJyLaw0RIBhCy99Yun+Dz54+fYeVlp9I74i/mbdL4zEAygZiESOwEoQ1NnTDiI6MU/wmLnaXQzWwJCPzVXa/bn+ZSOxRF13gYIXwBio8aIV+URhPRm1cGYNsmn57Ag2irg7C5/cec2c+58bX3wScHS5Xuepr/RcfDbck5nJTiV/GNAGVzZ083cmA/mgzN/4KxN2oNUaVE3DoJ29XE7Xy52Pqq2m8+u4fGpa7M02h3H/kAbSGRT12GHPJNlKYj2MnXpQVPp1TXBA+DNnIx/NDZLT074ubM0jMugEcVGemL1an813jCNuJ2jwimsyyCeGQ==;lTykBYSRi4aGBUlY0ZqqHA=="
 ---

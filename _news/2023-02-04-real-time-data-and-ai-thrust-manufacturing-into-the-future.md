@@ -60,6 +60,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The Race of the AI Labs Heats Up"
+    excerpt: "Regardless of the extent to which the generative AI models that underpin ChatGPT and its rivals actually transform business, culture and society, however, it is already transforming how the tech industry thinks about innovation and its engines—the corporate research labs which,"
+    publishedDateTime: 2023-01-31T15:20:00Z
+    webUrl: "https://cacm.acm.org/news/269343-the-race-of-the-ai-labs-heats-up"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "Oo5WpN9C4P3dKfdKAXvo/A93PagXm6vRLPAx8dEbMYUgQtL9+RizFstc6yEgDznQG6Cotn5q8CESpfIaczz2jEYODhRIALFR+GS5fM84cgNQvksDSRIqmdw8jiV1JZoT/d/ypTAFPfWvra06NW8lqQgKUPG7JwopN5vWD7D8D1qZtD/FBJsfcGcVdh7w+gnFjGjXBBVB6Yo374lwp1KZH1f3L36vc7Dk7JhHJaYjfneISjTNA87L7vmh3lUwdFG4nJHIBaehqSvCmkapo/g425Ph5ox0dCUhn2qA41fqsok6QwXzGeDswW9ZWbme1YifJxjDzQ4SSkFBh/BweRJ4LQoStOP5k8QAklwcRJQoynM=;6ZcSjszAjelWFy0aCdJ9aA=="
 ---

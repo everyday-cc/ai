@@ -41,22 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "A fairy-like robot flies by the power of wind and light"
-    excerpt: "The development of stimuli-responsive polymers has brought about a wealth of material-related opportunities for next-generation small-scale, wirelessly controlled soft-bodied robots. For some time now,"
-    publishedDateTime: 2023-01-30T14:57:00Z
-    webUrl: "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html"
-    ampWebUrl: "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-fairy-like-robot-flies-power.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/a-fairy-like-robot-fli.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Scientists believe in fairies - robot ones controlled by light"
     excerpt: "Researchers at Tampere University in Finland have made fairies real - by creating a robot that flies and sparkles just like Peter Pan's pal Tinkerbell."
     publishedDateTime: 2023-02-01T17:30:00Z

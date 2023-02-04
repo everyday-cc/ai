@@ -357,6 +357,22 @@ related:
         width: 1200
         height: 580
         isCached: true
+  - title: "BuzzFeed to use artificial intelligence for content"
+    excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+    publishedDateTime: 2023-01-30T17:41:00Z
+    webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+    ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+    type: article
+    provider:
+      name: WTKR
+      domain: wtkr.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A top UK private school is changing its approach to homework amid the rise of ChatGPT, as educators around the world adapt to AI"
     excerpt: "Jane Lunnon, the head teacher of the $28,000-a-year Alleyn's School, told Insider: \"Everyone is talking about it in education.\""
     publishedDateTime: 2023-01-30T16:16:00Z
@@ -800,6 +816,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "ChatGPT and the dark side of AI"
+    excerpt: "AI like ChatGPT can show you the what, but it is not very good at finding the why, writes Mary Faulkner of IA."
+    publishedDateTime: 2023-01-31T16:01:00Z
+    webUrl: "https://hrexecutive.com/chatgpt-and-the-dark-side-of-ai/"
+    type: article
+    provider:
+      name: hrexecutive
+      domain: hrexecutive.com
+    quality: 37
+    images:
+      - url: "https://hrexecutive.com/wp-content/uploads/2018/07/GettyImages-AIfightagainstbias700.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Can ChatGPT help me at the office? We put the AI chatbot to the test."
     excerpt: "The AI chatbot ChatGPT can generate conversational responses to questions, but how well does it do with workplace tasks?"
     publishedDateTime: 2023-02-02T10:04:00Z
@@ -825,20 +855,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 37
-  - title: "The Rise of ChatGPT: How Artificial Intelligence Is Transforming the Legal Profession"
-    excerpt: "OpenAI has made the model available to the public, and anyone can access and use the technology at no cost for the time being. This presents a great opportunity for lawyers to familiarize themselves with the technology that may soon play a significant role in their profession."
-    publishedDateTime: 2023-01-30T14:07:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/01/30/the-rise-of-chatgpt-how-artificial-intelligence-is-transforming-the-legal-profession/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/404/2022/10/Matthew-Wetherington-01-767x633-2.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "ChatGPT creator’s new feature can show you if text has been written by AI or human"
     excerpt: "OpenAI, which released the viral ChatGPT chatbot last year, unveiled a tool that's intended to help show if text has been authored by an artificial intelligence program and passed off as human."
     publishedDateTime: 2023-02-01T00:11:00Z
@@ -980,6 +996,15 @@ related:
       name: globes.co.il
       domain: globes.co.il
     quality: 17
+  - title: "Is ChatGPT HIPAA Compliant, and What Does it Mean for the Future of Healthcare?"
+    excerpt: "Chat GPT, Healthcare, and HIPAA Compliance, includes an assessment of ChatGPT in relation to HIPAA Compliance, as well as currently known shortcomings with the program, and a legal analysis by Compliancy Group's Lead Compliance Attorney of policies and procedures created in the application."
+    publishedDateTime: 2023-01-31T08:06:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9751503.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "HourOne launches new AI script-writing feature with Open AI’s viral ChatGPT chatbot"
     excerpt: "Hour One's new Script Wizard feature allows for scripts to be automatically written by GPT3. Users can also select prompts such as “make longer” or “make professional” for Script Writer to make changes to their original written scripts or change the tone of an existing script."
     publishedDateTime: 2023-01-31T14:31:00Z

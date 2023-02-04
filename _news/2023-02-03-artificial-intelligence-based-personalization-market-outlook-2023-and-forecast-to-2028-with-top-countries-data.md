@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Oil & Gas Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2028"
+    excerpt: "“AI in Oil and Gas market size was valued at USD 2295.29 million ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source for gaining the market reports ..."
+    publishedDateTime: 2023-02-04T06:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-oil-gas-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2028-2023-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Software Market Detailed Analysis of Current Scenario with Growth Forecasts to 2028"
     excerpt: "Voice Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022, at"
     publishedDateTime: 2023-02-01T06:32:00Z
@@ -172,15 +186,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 9
-  - title: "Global Artificial Intelligence Services Market Forecast 2023-2032 Market Size, Drivers, Trends, And Competitors"
-    excerpt: "Artificial Intelligence Services Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 The Business Research Com"
-    publishedDateTime: 2023-01-30T13:47:00Z
-    webUrl: "https://menafn.com/1105495391/Global-Artificial-Intelligence-Services-Market-Forecast-2023-2032-Market-Size-Drivers-Trends-And-Competitors"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "G1zaHaIAEwpj/XxcTXPJ6/UZ+aZAhiiCv+2+aPGBTCKakBpA0K0/p+YREBPIhoaCJLbFkTEzkIneBjCZNSbgTWrf7dMx8hYu7m3qD90FO+iExvsLuC84jJPyRkWZxOYkiBiq+c3HeIrAmP+nLE08UN1RQq58NmkvoaMv0yjAQGdFpyPSV3Hh8sI6peFrgL9jRT1PA2Ad7q+W4rqFMDzrtE/qMWKeBLudvV7RoZDzKuRJMBfO5YyVDyhGarCExNWwXwgYbuTDJ0FbucND+XLT+9sjbA02e3I9gQwCujQawLQwqllyszGt3BJhZ1vaG45wPn2V3IvhMUZA3JnTFpd3kZFwCoVW4tHJYoxlFF1R2cM=;6r/4r+9xEEJepidfBlESdA=="
 ---

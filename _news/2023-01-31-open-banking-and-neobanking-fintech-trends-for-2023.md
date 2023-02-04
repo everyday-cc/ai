@@ -56,15 +56,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Fintech focus on ESG, digitization, AI in 2023"
-    excerpt: "While Singapore fintechs focus on the established mature Singapore market, they could also add much more value by putting underdeveloped sectors in Southeast Asia at the top of their agenda.” “There is a lot of exploitation at times in developing economies in terms of extending credit to SMEs or individuals,"
-    publishedDateTime: 2023-01-30T13:03:00Z
-    webUrl: "https://www.theasset.com/article/48527/fintech-focus-on-esg-digitization-ai-in-2023"
-    type: article
-    provider:
-      name: The Asset
-      domain: theasset.com
-    quality: 19
   - title: "The fintech sentiment: Data Privacy Day 2023 and the policies protecting financial services"
     excerpt: "Data Privacy Day – also referred to as Data Protection Day in Europe, is an international event that occurs every year on 28th January and promotes privacy best ..."
     publishedDateTime: 2023-01-31T09:03:00Z

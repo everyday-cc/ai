@@ -53,15 +53,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "Has Progress on Data, Analytics, and AI Stalled at Your Company?"
-    excerpt: "Companies need to rethink how they’re investing in data, analytics, and AI — and whether these investments are creating real business value. Based on a recent survey of senior data and analytics leaders of Fortune 1000 companies,"
-    publishedDateTime: 2023-01-30T13:15:00Z
-    webUrl: "https://hbr.org/2023/01/has-progress-on-data-analytics-and-ai-stalled-at-your-company"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 19
   - title: "Sony Electronics Launches Two 4K IP-Based PTZ Cameras with Built-in AI Analytics"
     excerpt: "Sony's SRG-A40 and SRG-A12 PTZ cameras provide excellent image quality and enable remote control for seamless capture."
     publishedDateTime: 2023-01-30T20:51:00Z
