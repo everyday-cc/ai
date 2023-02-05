@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recogniti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/scottish-schools-use-facial-recognition-violated-gdpr-showcase_image-5-a-21097.jpg"
         width: 860
         height: 522
+        isCached: true
+  - title: "Scottish schools’ canteen facial recognition ‘likely infringed’ GDPR: ICO"
+    excerpt: "The use of facial recognition for lunch payments in nine schools is likely to have infringed data protection law under Articles of the UK GDPR."
+    publishedDateTime: 2023-02-03T19:02:00Z
+    webUrl: "https://www.biometricupdate.com/202302/scottish-schools-canteen-facial-recognition-likely-infringed-gdpr-ico"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/03135910/cafeteria-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Facial Recognition Market 2023 by Global Trends, Recent Developments, Opportunities, Business Size, and Regional Segmentations Forecast to 2027"
     excerpt: "Facial Recognition Market” [105 Pages] | Report 2023 aims to deliver precise top-bottom and strategic analysis of"

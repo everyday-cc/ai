@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -120,15 +120,6 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 19
-  - title: "Tesla gets Justice Department subpoena for self-driving cars"
-    excerpt: "The U.S. Justice Department has requested documents from Tesla Inc. related to its Autopilot and “Full Self-Driving” features, according to a regulatory filing"
-    publishedDateTime: 2023-01-31T07:42:00Z
-    webUrl: "https://www.washingtonpost.com/business/tesla-gets-justice-department-subpoena-for-self-driving-cars/2023/01/31/0d62397c-a16d-11ed-8b47-9863fda8e494_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
     quality: 19
   - title: "Tesla subpoenaed by Justice Department for full self-driving"
     excerpt: "In the filing, Tesla confirmed that the Justice Department had requested documents, but it indicated it wasn't anticipating prosecution."

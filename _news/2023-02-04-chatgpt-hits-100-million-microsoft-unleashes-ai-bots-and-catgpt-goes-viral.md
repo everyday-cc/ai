@@ -116,6 +116,20 @@ related:
         width: 934
         height: 522
         isCached: true
+  - title: "Microsoft Introduces AI GPT-Generated Email Replies In Its Viva Sales Product"
+    excerpt: "Microsoft today introduced AI capabilities product Viva Sales, the company's app that captures Office 365 and Microsoft Teams data into any CRM tool."
+    publishedDateTime: 2023-02-02T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/382162/microsoft-introduces-ai-gpt-generated-email-replie.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 68
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/02/02/viva_yp7TwqR.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Hashtag Trending Feb.3rd- Microsoft Azure’s tracking and notifications broken; Twitter paid API; Microsoft Teams incorporates AI"
     excerpt: "Real-time tracking and notifications of spending on Microsoft Azure broken, Twitter API no longer free to access and Microsoft Teams injects AI into its service. That’s all the tech news that’s trending right now."
     publishedDateTime: 2023-02-03T08:59:00Z

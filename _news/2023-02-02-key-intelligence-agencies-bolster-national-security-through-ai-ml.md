@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Can AI Help Researchers Find Intelligent Alien Life?"
-    excerpt: "A team of radio astronomers has been using AI to broaden the search for extraterrestrial life, and the results are promising."
-    publishedDateTime: 2023-01-31T08:00:00Z
-    webUrl: "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897"
-    ampWebUrl: "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
-    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
-    type: article
-    provider:
-      name: BOOM
-      domain: boomlive.in
-    quality: 59
-    images:
-      - url: "https://www.boomlive.in/h-upload/2023/01/31/997739-dish-space-signal.jpg"
-        width: 1280
-        height: 768
-        isCached: true
   - title: "Artificial intelligence now aiding in the search for extraterrestrial intelligence"
     excerpt: "Scientists are hoping to apply machine learning to the search for extraterrestrial life. Get up-to-the-minute news sent straight to your device."
     publishedDateTime: 2023-01-31T17:30:00Z

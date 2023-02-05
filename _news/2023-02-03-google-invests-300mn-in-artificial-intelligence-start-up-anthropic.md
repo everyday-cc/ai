@@ -3,8 +3,8 @@ category: news
 title: "Google invests $300mn in artificial intelligence start-up Anthropic"
 excerpt: "Cash-for-computing deal shows how large tech groups are investing in companies at the vanguard of generative AI"
 publishedDateTime: 2023-02-03T15:55:00Z
-originalUrl: "https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c?shareType=nongift"
-webUrl: "https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c?shareType=nongift"
+originalUrl: "https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c"
+webUrl: "https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c"
 type: article
 quality: 17
 heat: -1
@@ -102,6 +102,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "kj5SKMLIB7/w0Hi9DuC5ffWUFjpZR8Y/fXybRnYLVH8c+pPJkszwaSxhZ317jZgbAmFOT/+r5H3fnuKQe4xiOrByOTsLEBc7lCOxh87AnstNgAZhofSmUsqnb0IfBr8y/7TS2/J/e6/qXkAvRHjJKZh8q84VxV894w8fNoVKDRiITgT/3Neld5MZRYoLOvd3bYS/fjyuQidRllxK5rMnkwHcl3KP/HMtolQ9RlVyVpAH4C/o3im+G25wumdj7sa+qmWCPKtxFyb8Enjxxvvnn32G4qvGZ20KrG1ij+oBiVMJqGyIjLWB4t14/84q+DJL92gFN7k8rgis16OqSyazEW08fLMd1NAWq5wsqdjIs/ieCZedQdkUBA+Dy6FMsbJJ7JKft77Yr5pjxe6njeLlFby8CbkXM+4EnRSwvZGBomKXvHJw1ArvOddjeLG7X/BNJCUcyq/ROJNL1l/BiKRPpk8WnWotwbpKTvyXQkbndYrBdl4q8GexFGy1RuG/6GbVvR/9Nw9eT3dGTKN3ewac1A==;RW7cc3BMkIMbtsS6OfilDw=="
+secured: "abM6HmwoceDVM33805MNk7eGMIZFME5awdKPzNOel1+MkjbnDFoChnT6mMsj0yIaO7xt8JrWcGatQtWpcRdQ1tmssqDLwkDvbnahTbls8yC4Bc1Ah3UR2bVGuWSQAxsMMb16q6nVv8ndOK7e5FMJ3JGXuwHogsY9qj2qHP0bosPioZ8NoGneJ3H44ezVcIB5RRVZzhsaViYY4xf+4yGVy4nlEjbea8NEt+XXLR6NnVAAge4bADjdzGM8/uaedTQa4kY2KOZjc8q01M9zL4th0jxMXv0xHt5vFMcclkxCqg07aDq4uSCDVWN8l2hhHlWX94dT2d4kjdiUBKHYeK+qWLue3rrrhrc04r1DGOPMx7Pqc0n9/vP9q+cqoVyJR45cw4iACpNptAbICALlv5MuqYgaJl8eIT+aPsl0zl05kCSjFxPq043Doxil0ZR0X+5d3/0fsCgE4N6qeOJ1Xzuni1F6h54BnjCeHb0qdMu7Rnq1ByJJbw35NILVNVT0FTcEeENPWG72+904EMGszHhkYA==;1FRYy+0cv1JZEh7MNdsOJQ=="
 ---
 

@@ -104,6 +104,20 @@ related:
         width: 934
         height: 522
         isCached: true
+  - title: "Microsoft Introduces AI GPT-Generated Email Replies In Its Viva Sales Product"
+    excerpt: "Microsoft today introduced AI capabilities product Viva Sales, the company's app that captures Office 365 and Microsoft Teams data into any CRM tool."
+    publishedDateTime: 2023-02-02T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/382162/microsoft-introduces-ai-gpt-generated-email-replie.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 68
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/02/02/viva_yp7TwqR.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "ChatGPT Hits 100 Million, Microsoft Unleashes AI Bots And CatGPT Goes Viral"
     excerpt: "ChatGPT hits an estimated 100 million monthly active users making it the fastest growing consumer internet application in history. Meanwhile, Microsoft has started to unleash AI chatbots across its products. Google announces a Feb. 8 event for a big AI reveal and mock website CatGPT goes wild."
     publishedDateTime: 2023-02-03T18:16:00Z

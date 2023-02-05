@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/japanese-chip-venture-rapidus-n
 webUrl: "https://www.reuters.com/technology/japanese-chip-venture-rapidus-needs-54-bln-begin-production-says-chairman-2023-02-02/"
 type: article
 quality: 80
-heat: 82
+heat: 80
 published: true
 
 provider:

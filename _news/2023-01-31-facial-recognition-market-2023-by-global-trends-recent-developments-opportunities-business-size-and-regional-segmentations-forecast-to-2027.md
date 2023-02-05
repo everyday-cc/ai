@@ -53,6 +53,20 @@ related:
         width: 860
         height: 522
         isCached: true
+  - title: "Scottish schools’ canteen facial recognition ‘likely infringed’ GDPR: ICO"
+    excerpt: "The use of facial recognition for lunch payments in nine schools is likely to have infringed data protection law under Articles of the UK GDPR."
+    publishedDateTime: 2023-02-03T19:02:00Z
+    webUrl: "https://www.biometricupdate.com/202302/scottish-schools-canteen-facial-recognition-likely-infringed-gdpr-ico"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/03135910/cafeteria-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "JVPbjgyfdpFoj7ptQArRwCJ4qj0nBHlySJd6IRKvUEZ72OIb0lyQ2PFyDVumArL+Ga0JFdJs3YIbj+FGVAJzbN89a80wrAHXLArAgw+y2YqvDhCGajteeoOO+gXRZf9m6MqJr++XVcyJxXzQg1Q+VMVFwsXRCfPDqLRwnwhq2ZGlZAO7cl6UpUUknPEbNna7XE19zV97F7mLYMLSZoqa9kKtCe3rc+4Y/kCltgp6W2bPfSUay8qJB60xvmFiIaA+yQDS85Shj6A9ZpIMGlR56jOmupP6GkcUWcCy/aRojqR+WdceTeZM+mFnaXRmqHfX7OBsj6MxG6Lp0ng9WnQB57znHQpNCs04rJ847qaOoM0=;7CztHIE1m9zXeLXvlr+4ZA=="
 ---

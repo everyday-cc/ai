@@ -2,26 +2,28 @@
 category: news
 title: "Voice-activated system for hands-free, safer DNA handling"
 excerpt: "Smart voice assistants are a popular way for people to get quick answers or play their favorite music. That same technology could make the laboratory safer for scientists and technicians who handle potentially infectious samples."
-publishedDateTime: 2023-02-01T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/977599"
-webUrl: "https://www.eurekalert.org/news-releases/977599"
+publishedDateTime: 2023-02-01T13:00:00Z
+originalUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.html"
+webUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.html"
+ampWebUrl: "https://phys.org/news/2023-02-voice-activated-hands-free-safer-dna.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-voice-activated-hands-free-safer-dna.amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ac5486b-03b6-491a-93f9-1bcc56490156/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 258
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/voice-activated-system.jpg"
+    width: 2604
+    height: 2238
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "h6D/ZQQzuqo3EdnS94CG2v2eDh6RxTXnlIGXP83FTe+EM2vZUsG1umIfQjmWuU/R4QRwle4/1KPHgZnDeInKvv708zNplYSUyKsTV7naIWJf3uY5ZilBPXc21IL/r33/832yKd6QtttyNmFSagzwOImAjt3hsNPoAooZ6vXGdABsIx/42NwsFboUwLV+hNIW817IDr+0c6+cleBHRLyA4hseZHb7ylt61Vc3ycV6myE/suo8j0/+jQA3cuQscDcpmR68e+ApwxTU3vqeV+nCzf8JT9PFV2zBbYMVNp0tlpAYRrT+v60eFivCgHvrgvdIPT+E1toj1pr6hlA3orLicipIIIhA/OKnrj+64lUEdJA=;fpOsB3ReCgrQEDTBeFSJFg=="
+secured: "HPK70l8wLZr60qZDog4oIlVgqqpmT/lQPR2TxHHXtPAir32dvQFKc+CMnmSr8zqOEFZ3ou/PqBGa0dDjqX65gXUDiZXZM4qAw0s4qdm0o/3H+6x8X4goDTTHFCMmXmJ+cRDX2VAkl+waeq4Exm8r9fGgRkaTCIti3AQw6tWyZEC10vY8BVlYPzpWtFPBoy8lRprrjWBPxxjMXToI5A1GgA5Jpvo8l43EQAAnw3cw3ZZq2foRyZT6x7r7hTb9/TXa3mfnQQM2Tch75rzSGdghlx0IRILBjWF+abj+eR8SwzAEmO4z+eNR5LKGMhSlYJLxExZcqzWn73mfUZasG8S0z3kPrnUFi4uFfhEO8bc/ffg=;I5oiBrdTEURfdqOkEbiMNg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/03/should-you-invest-in-art
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/03/should-you-invest-in-artificial-liquid-intelligence-exploring-the-marriage-between-nfts-and-ai/amp/"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/g4KcXc61B56zlqgRrS-rU.jpg"
         width: 272
         height: 270
-        isCached: true
-  - title: "Can AI Help Researchers Find Intelligent Alien Life?"
-    excerpt: "A team of radio astronomers has been using AI to broaden the search for extraterrestrial life, and the results are promising."
-    publishedDateTime: 2023-01-31T08:00:00Z
-    webUrl: "https://www.boomlive.in/explainers/al-search-for-new-alien-life-20897"
-    ampWebUrl: "https://www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
-    cdnAmpWebUrl: "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/al-search-for-new-alien-life-20897"
-    type: article
-    provider:
-      name: BOOM
-      domain: boomlive.in
-    quality: 59
-    images:
-      - url: "https://www.boomlive.in/h-upload/2023/01/31/997739-dish-space-signal.jpg"
-        width: 1280
-        height: 768
         isCached: true
   - title: "Artificial intelligence now aiding in the search for extraterrestrial intelligence"
     excerpt: "Scientists are hoping to apply machine learning to the search for extraterrestrial life. Get up-to-the-minute news sent straight to your device."

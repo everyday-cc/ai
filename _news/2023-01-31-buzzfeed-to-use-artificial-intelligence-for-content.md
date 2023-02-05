@@ -1,17 +1,17 @@
 ---
 category: news
 title: "BuzzFeed to use artificial intelligence for content"
-excerpt: "BuzzFeed announced last week that it will begin using artificial intelligence for some of its content, including its personality quizzes. “The creative process will increasingly become AI ..."
-publishedDateTime: 2023-01-31T05:50:00Z
-originalUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-webUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-ampWebUrl: "https://www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
+publishedDateTime: 2023-01-30T17:41:00Z
+originalUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
 
 provider:
-  name: wtvr
-  domain: wtvr.com
+  name: WTKR
+  domain: wtkr.com
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "d16cDxDxBDcSN3499Gf79UzjCAntNdM3clpGjK4EtygKP2RpQ9ET95FNeOuYTmxEvrbCtYIeUQpNNNfEtRkS7olKxmqZKOWWYhltj5ntQ5U1k9tJ/1SXb6JO1agI/TY3yqwGUoZyAS8UjsxM114pPAuVVb3uOpVvw9tpMqkYNrdlV0t30giP5pZw1ke3bwC3M0VPQfM6gE9MWo046VrL0EEBGoB5CdVqfbCHTi3lKW+SIVkeTPC5JuWTfgRkIdcLDVB8tWNWAGX8KuXbdSaKwLWhq4H4QihkOhaKPBbEq00BBkZnwUlyhbUZA/tQcZKTf/EtNSxNryOAzuyUTVxzw/RS837WA5fxBFzxoNEuNJw=;pZL/oSsAIyeWKdsol+6QPg=="
+secured: "aLU8qonasQYTnP8Cc5jzQnFxOQoQ5l/DEfT6vPNKvZ+oNrl/PQOXS89n+w3RI0jd/F2nRJx2KV++o8cbW30uvUt7l+layExvxZVL6wowCiASvNO74z5vSMbnrAoruvPVqq06OM4VIvFPhSoyPVNFo4v8V/cDRbxFhQg5hra1lmyKNpcv0KgE8VnY/i9jLQoA6xkHDRRpsWO6xiZPtZgS3Hyl8+h3JYjy1Q5qiDP2Tgjza0SSkmVrrJCf8wkj9zmbRy2ec3DTp3VynJq1/rLJ/zLMFbYH3UrTNKxbJsDJ95Y/7DeNmKghN5VC+a6R6QM9EOFqluSRFWqfsTXm0MDQ1N5lqhjVTCrIdKb2+LAoEPc=;b+UESIerTeAT047IFXUXaQ=="
 ---
 

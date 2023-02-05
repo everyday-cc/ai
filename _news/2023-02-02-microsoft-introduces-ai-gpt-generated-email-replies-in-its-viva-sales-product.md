@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Microsoft Teams Premium: Cut costs and add AI-powered productivity"
-excerpt: "Unlock new experiences with Microsoft Teams Premium for customers looking to make meetings more intelligent, personalized, and protected."
-publishedDateTime: 2023-02-01T21:00:00Z
-originalUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/"
-webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/"
+title: "Microsoft Introduces AI GPT-Generated Email Replies In Its Viva Sales Product"
+excerpt: "Microsoft today introduced AI capabilities product Viva Sales, the company's app that captures Office 365 and Microsoft Teams data into any CRM tool."
+publishedDateTime: 2023-02-02T04:00:00Z
+originalUrl: "https://www.mediapost.com/publications/article/382162/microsoft-introduces-ai-gpt-generated-email-replie.html"
+webUrl: "https://www.mediapost.com/publications/article/382162/microsoft-introduces-ai-gpt-generated-email-replie.html"
 type: article
-quality: 56
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MediaPost
+  domain: mediapost.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
+  - AI in Sales
 
 images:
-  - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/02/M365CO22_Rally_003.jpg"
-    width: 800
-    height: 533
+  - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/02/02/viva_yp7TwqR.jpg"
+    width: 600
+    height: 375
     isCached: true
 
 related:
@@ -122,20 +118,6 @@ related:
         width: 934
         height: 522
         isCached: true
-  - title: "Microsoft Introduces AI GPT-Generated Email Replies In Its Viva Sales Product"
-    excerpt: "Microsoft today introduced AI capabilities product Viva Sales, the company's app that captures Office 365 and Microsoft Teams data into any CRM tool."
-    publishedDateTime: 2023-02-02T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/382162/microsoft-introduces-ai-gpt-generated-email-replie.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 68
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/02/02/viva_yp7TwqR.jpg"
-        width: 600
-        height: 375
-        isCached: true
   - title: "ChatGPT Hits 100 Million, Microsoft Unleashes AI Bots And CatGPT Goes Viral"
     excerpt: "ChatGPT hits an estimated 100 million monthly active users making it the fastest growing consumer internet application in history. Meanwhile, Microsoft has started to unleash AI chatbots across its products. Google announces a Feb. 8 event for a big AI reveal and mock website CatGPT goes wild."
     publishedDateTime: 2023-02-03T18:16:00Z
@@ -160,6 +142,20 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
         width: 1500
         height: 1500
+        isCached: true
+  - title: "Microsoft Teams Premium: Cut costs and add AI-powered productivity"
+    excerpt: "Unlock new experiences with Microsoft Teams Premium for customers looking to make meetings more intelligent, personalized, and protected."
+    publishedDateTime: 2023-02-01T21:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/01/microsoft-teams-premium-cut-costs-and-add-ai-powered-productivity/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/02/M365CO22_Rally_003.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Microsoft to develop AI-based healthcare services"
     excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
@@ -189,6 +185,6 @@ related:
       domain: tech.co
     quality: 36
 
-secured: "CMLEJqlklBb4B0DL4DNToc24o2rcf4PJ6TOCzLLyyJ+PdxDCHSnrtcDY/FVSzqIn5K7tjj/WkItJq4WgGMub6gjrmjc7I3dDFtAeoh3lxVrgvPE4A2qYrca6vMpuec9mbAtBO0MUv2AZKavDkgbfrxecxl+Z/U2h8xfJfItn4sktcULIPXAgzb0gNE2384hIik5G6RAcDo04GTJVIHr7rgniqVirIcLs0Jv+at4Py64U1BgfGmInMfXLhTH5SplmSU55CHw4qcxjURlfqtDxbNKZgXa+bHsFrRI6cDaALy4QlqcLwznGfLIyIPfNyE8BmWqDB1gSth5Q/iNFltmbFX7gPELjusAYHBTrL8CsoSPGHav89iCTfd3KZaXzsHaQHwZ6I7DVGNQbUD4mHc6a/c3h3+bYVc7ZE6Yh2ogNSEkTa9BHrO7BD2582UCKFUD778R8jcFNEIaispntIrFzEmH7YS3hUWEUG8DXY0y7PdZwtQxr4cMGbYMsnvmEMfnN0e7sErjdZRzhe6HoRNrDDQ==;Fqvq2lu0x7ZKzBTRZixMCw=="
+secured: "hshwu9Z+6HS9Vrerp13YXwY+0KWU93Ibw7Dp77mQgPj3nNt4tzMtaDtaT02XVX9FnoSomhpkaeulMYax3394v+TenPvlbZOPowinygHNbDLoh8SVsd68/J6rImjrGnEK2dEHuLFtsm7BRe1M3Q3iHtvG0NmVwDBkVjCnd6SgBlkJns3yNc9d02nG9HzLP4OJ00ZFBBb644iq4kp4U95QBEhlXjKpSucrD94zdW7AJCktTWa/X5/alb3rx0qcbHqdlCzI3tg7scKHIRcM7uF3/DS44Xo886Bvxdo7BsaekIqNS59gaYWQUmPvvtOH4hfC3pBI2XoCZYrdTzOD872/rZPurrf9M1hEZcnpyWm4AxU=;MW7j98o+haJQl3lRCUOX3g=="
 ---
 

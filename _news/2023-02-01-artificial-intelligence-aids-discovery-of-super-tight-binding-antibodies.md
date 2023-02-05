@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/01/230130213953.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/01/230130213953.htm"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Science Daily
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence aids discovery of super tight-binding antibodies"
-    excerpt: "Scientists at University of California San Diego School of Medicine have developed an artificial intelligence (AI)-based strategy for discovering high-affinity antibody drugs."
-    publishedDateTime: 2023-01-31T08:33:00Z
-    webUrl: "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.html"
-    ampWebUrl: "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 73
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-10.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Massive Dying Light 2 update improves biter AI and adds DLSS 3"
     excerpt: "The latest Dying Light 2 patch makes major improvements to Techland's zombie-infested adventure, with tons of quality of life enhancements and technical fixes."
     publishedDateTime: 2023-01-31T17:48:00Z

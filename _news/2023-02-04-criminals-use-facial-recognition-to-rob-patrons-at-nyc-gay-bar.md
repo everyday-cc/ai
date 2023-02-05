@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo162603077918"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo162603077918"
 type: article
 quality: 89
-heat: 110
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,22 @@ related:
     excerpt: "Three men visiting The Eagle NYC were incapacitated and then robbed of $1,000 to $5,000, the NYPD said Thursday."
     publishedDateTime: 2023-02-02T21:46:00Z
     webUrl: "https://www.nbcnews.com/nbc-out/out-news/patrons-nyc-gay-bar-incapacitated-robbed-thousands-facial-recognition-rcna68842"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna68842"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna68842"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 75
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230202-eagle-nyc-mjf-1455-de381b.jpg"
+        width: 2500
+        height: 1588
+        isCached: true
+  - title: "Patrons of NYC gay bar incapacitated and robbed of thousands via facial recognition on their phones"
+    excerpt: "Three men visiting The Eagle NYC were incapacitated and then robbed of $1,000 to $5,000, the NYPD said Thursday."
+    publishedDateTime: 2023-02-03T23:12:00Z
+    webUrl: "https://www.nbcnews.com/nbc-out/out-news/patrons-nyc-gay-bar-incapacitated-robbed-thousands-facial-recognition-rcna68842?ref=upstract.com"
     ampWebUrl: "https://www.nbcnews.com/news/amp/rcna68842"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna68842"
     type: article

@@ -95,7 +95,7 @@ related:
   - title: "Google invests $300mn in artificial intelligence start-up Anthropic"
     excerpt: "Cash-for-computing deal shows how large tech groups are investing in companies at the vanguard of generative AI"
     publishedDateTime: 2023-02-03T15:55:00Z
-    webUrl: "https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c?shareType=nongift"
+    webUrl: "https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c"
     type: article
     provider:
       name: The Financial Times

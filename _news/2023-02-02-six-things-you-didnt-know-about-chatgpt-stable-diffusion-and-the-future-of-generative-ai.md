@@ -935,15 +935,6 @@ related:
       name: globes.co.il
       domain: globes.co.il
     quality: 17
-  - title: "Is ChatGPT HIPAA Compliant, and What Does it Mean for the Future of Healthcare?"
-    excerpt: "Chat GPT, Healthcare, and HIPAA Compliance, includes an assessment of ChatGPT in relation to HIPAA Compliance, as well as currently known shortcomings with the program, and a legal analysis by Compliancy Group's Lead Compliance Attorney of policies and procedures created in the application."
-    publishedDateTime: 2023-01-31T08:06:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9751503.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
   - title: "HourOne launches new AI script-writing feature with Open AI’s viral ChatGPT chatbot"
     excerpt: "Hour One's new Script Wizard feature allows for scripts to be automatically written by GPT3. Users can also select prompts such as “make longer” or “make professional” for Script Writer to make changes to their original written scripts or change the tone of an existing script."
     publishedDateTime: 2023-01-31T14:31:00Z
