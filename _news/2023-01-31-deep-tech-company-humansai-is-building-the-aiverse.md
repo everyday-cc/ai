@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The AI immune system that's changing our understanding of human health"
-    excerpt: "Artificial immune systems are intelligent algorithms based on how the immune system learns and remembers and could transform our ability to protect ourselves from biological – and technological - inva"
-    publishedDateTime: 2023-01-31T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25734243-700-the-ai-immune-system-thats-changing-our-understanding-of-human-health/"
+  - title: "Further funding for AI company"
+    excerpt: "A Sheffield-based artificial intelligence (AI) company which has launched a new platform to help social landlords manage rent arrears has raised further funding."
+    publishedDateTime: 2023-02-02T10:55:00Z
+    webUrl: "https://www.insidermedia.com/news/yorkshire/further-funding-for-ai-company"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: Insider
+      domain: insidermedia.com
+    quality: 39
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/01/31114705/SEI_142264558.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.insidermedia.com/uploads/news/resized/Pivigo-CEO-Alex-Willard-82336-1675166620.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Something for the weekend: Understanding AI"
     excerpt: "To introduce the series, we asked John Thornhill, the FT’s Innovation Editor, to bring us up to speed on the latest generative AI programs like ChatGPT. “The age of AI is upon us,” Microsoft’s chief executive Satya Nadella declared last week."

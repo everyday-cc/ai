@@ -65,20 +65,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "The fintech sentiment: Data Privacy Day 2023 and the policies protecting financial services"
-    excerpt: "Data Privacy Day – also referred to as Data Protection Day in Europe, is an international event that occurs every year on 28th January and promotes privacy best ..."
-    publishedDateTime: 2023-01-31T09:03:00Z
-    webUrl: "https://www.finextra.com/the-long-read/597/the-fintech-sentiment-data-privacy-day-2023-and-the-policies-protecting-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 14
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/597.jpg"
-        width: 799
-        height: 449
-        isCached: true
   - title: "Union Budget 2023-24 takes AI-forward approach to technology and fintech development"
     excerpt: "The Budget initiatives will shift the trajectory of growth and innovation for the tech, start-up and SaaS platforms on an upward slope"
     publishedDateTime: 2023-02-04T13:15:00Z

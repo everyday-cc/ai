@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-security-market-2023-top-manufacturers-key-trends-progression-status-and-business-trends-and-forecast-to-2028-2023-02-02"
 type: article
 quality: 62
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI Chip Market Global Analysis Of Key Manufacturers, Dynamics & Forecast 2030"
-    excerpt: "Regionally, the AI chip market is segmented into five major regions including North America, Europe, Asia Pacific, Latin America and the Middle East & Africa. Asia Pacific is projected to witness ..."
-    publishedDateTime: 2023-01-31T09:15:00Z
-    webUrl: "https://menafn.com/1105500186/AI-Chip-Market-Global-Analysis-Of-Key-Manufacturers-Dynamics-Forecast-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206347"
-        width: 349
-        height: 250
         isCached: true
   - title: "Natural Language Processing Market 2023-2028 by Key Dynamics, Sales Revenue, Major Developments and Leading Players Analysis with Industry Segments"
     excerpt: "Global “Natural Language Processing Market” 2023-2028 gives wide-ranging and qualitative perceptions on innovative business growth strategies, macro and micro economic factors, appraising trends, and economic statement of top key players. This report ..."

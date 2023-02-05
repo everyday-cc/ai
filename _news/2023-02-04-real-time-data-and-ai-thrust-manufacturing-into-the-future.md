@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-th
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Rise of Artificial Intelligence: Navigating the Future with AI"
+    excerpt: "Artificial Intelligence (AI) is rapidly becoming a crucial aspect of modern life, transforming the way we live, work, and interact with each other. The rise of AI brings exciting opportunities, such as improved efficiency and accuracy in various industries,"
+    publishedDateTime: 2023-02-01T10:46:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2338982-the-rise-of-artificial-intelligence-navigating-the-future-with-ai"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2338982-the-rise-of-artificial-intelligence-navigating-the-future-with-ai?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2338982-the-rise-of-artificial-intelligence-navigating-the-future-with-ai?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/01_02_2023_16_10_50_4040532.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Seeing into the Future: Artificial Intelligence for Personalized Cancer Treatment"
     excerpt: "Artificial intelligence prediction algorithm is used to identify targets that guide oncologists to personalize cancer patient treatments."
     publishedDateTime: 2023-02-04T18:23:00Z

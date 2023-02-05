@@ -157,6 +157,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Microsoft’s Latest AI Race"
+    excerpt: "Regulated industries like medicine and finance are prime examples where customized AI might be not only desired but required,” he says. In 2022, he says investors channeled at least $1.37 billion into generative AI companies in 78 deals,"
+    publishedDateTime: 2023-02-04T00:00:00Z
+    webUrl: "https://www.gfmag.com/magazine/february-2023/microsoft-ai-investment"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 54
+    images:
+      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/microsoft-ai-1200-1675559711/5ec4a7b128f25fd1f803e1a76609dd65.png"
+        width: 500
+        height: 262
+        isCached: true
   - title: "Microsoft to develop AI-based healthcare services"
     excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
     publishedDateTime: 2023-02-01T15:23:00Z
@@ -185,6 +199,6 @@ related:
       domain: tech.co
     quality: 36
 
-secured: "hshwu9Z+6HS9Vrerp13YXwY+0KWU93Ibw7Dp77mQgPj3nNt4tzMtaDtaT02XVX9FnoSomhpkaeulMYax3394v+TenPvlbZOPowinygHNbDLoh8SVsd68/J6rImjrGnEK2dEHuLFtsm7BRe1M3Q3iHtvG0NmVwDBkVjCnd6SgBlkJns3yNc9d02nG9HzLP4OJ00ZFBBb644iq4kp4U95QBEhlXjKpSucrD94zdW7AJCktTWa/X5/alb3rx0qcbHqdlCzI3tg7scKHIRcM7uF3/DS44Xo886Bvxdo7BsaekIqNS59gaYWQUmPvvtOH4hfC3pBI2XoCZYrdTzOD872/rZPurrf9M1hEZcnpyWm4AxU=;MW7j98o+haJQl3lRCUOX3g=="
+secured: "+lkYeKZ2susgIkS3F0TBnoMeFwZHVi4wLF/coN0C2OH6LmnLgCEzujpUM3cTCMYiiLCmllcJYQ44XY3THZtin4rpJnmg150xXzck2bGcn4NQDRGAYl4ws6tXScaX/4lJTE9DFVZ9YzNePEmd87AooiIsmy+aSk/jSMjnKqe1wbRoz5Ax16XMAr6YYIioL/8iNGt4iN3WPnpS0htePuuFavOng0aK46NJo8JkVVibOMWqnMFHGUGPWmrFfSQANLWXSbnYGlBFhoC9QJDtwQ7J8ljbigNGYIgQIerOBCkXj58bJpfrZL+OkLbEg5twd531DoS1ltGZQIPfLewM5iT3xTLQpZdaDmpVdhN/xWrZDG0jdo+hRJlGFnkGq3cYx5g924Cx9Xv4WKpF1to6rbCfeXeIzSXLf2VIDL4EI0c8bFizG9UKX7SXzdxF8G2nFqwh8j3nFZLgsMtCTEjgJzj6vowwUeK4ZzYtLJKyex345DkHQbDb2ioNuFw8FfBtqB7pOXvKfsxoGMaHhButc6+IMw==;zGQ4+CE3oYwSbhpGW/nSYA=="
 ---
 

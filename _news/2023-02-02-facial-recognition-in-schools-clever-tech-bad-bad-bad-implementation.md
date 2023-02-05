@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stewartroom/2023/02/02/facial-recogniti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stewartroom/2023/02/02/facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Facial Recognition Market 2023 by Global Trends, Recent Developments, Opportunities, Business Size, and Regional Segmentations Forecast to 2027"
-    excerpt: "Facial Recognition Market” [105 Pages] | Report 2023 aims to deliver precise top-bottom and strategic analysis of"
-    publishedDateTime: 2023-01-31T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-by-global-trends-recent-developments-opportunities-business-size-and-regional-segmentations-forecast-to-2027-2023-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
 
 secured: "Y5NtSzR1uYRV9iXjnGjvE4riCj2uOddEc0+MviCw5piwKRLD7QT02tCjHmBAVlwHbq/cyaWRjhzYLCnxHJELhVaakKPkc4nxLemvYoVakNR35HvRj7czigjFLKbOLtHaCnkUXVaIZdDafFZlk2nIqftaDJueiF/q3+rTbC3g1q68o4VIjgpkS0VtD/r8LPKDBXJWAYGgxEzxpCWj5SOMw8HHg8wI+pt4YCKL183xSuum8NJBU12Vx3yNsrBi6Z1m1vkxxoan8kYRcQUdEE4Nn8V86JomIWAMi4eyVLhcAOSybtpfJMDP2gr/ePTZReyuWgHjOHDZ4Msv2uxRdkj5HKtMAGKbXKXTbffda0w12GlgpAXyAfjzBaCX6qbv+KrCHoUY1YE/bHgA1mqi3zf5aJeZH7cYY/EtgQj/14pq1POjRHweSaX0X8AeMDYMADfC+oz7BMx/U/8mAtpBkt/7f7hqwDd7F7q1rHLpaMbZYWDQrj4d39gXzDUTPOuZBKqNDN9HG8EqwNXi2bG6bnuSRA==;hK2oExmjJv6RBZz4IXIwVw=="
 ---

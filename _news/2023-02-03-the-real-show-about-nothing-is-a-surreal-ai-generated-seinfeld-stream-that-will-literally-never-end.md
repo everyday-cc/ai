@@ -38,6 +38,36 @@ related:
         width: 1200
         height: 760
         isCached: true
+  - title: "‘Nothing, Forever,’ an AI ‘Seinfeld’ spoof, is the next ‘Twitch Plays Pokémon’"
+    excerpt: "The constant deluge of gimmicky AI art is exhausting, but \"Nothing, Forever\" is so absurd that it actually works."
+    publishedDateTime: 2023-02-03T17:07:00Z
+    webUrl: "https://techcrunch.com/2023/02/03/nothing-forever-ai-generated-seinfeld-twitch/"
+    ampWebUrl: "https://techcrunch.com/2023/02/03/nothing-forever-ai-generated-seinfeld-twitch/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/03/nothing-forever-ai-generated-seinfeld-twitch/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-02-at-1.46.55-PM.png?resize=1200,738"
+        width: 1200
+        height: 738
+        isCached: true
+  - title: "This AI-Generated Animated ‘Seinfeld’ Stream Has Gone Viral On Twitch"
+    excerpt: "Few sitcoms have held up as well over time as Seinfeld, and the show is now being memorialized in a never-ending AI-generated animated adaptation streaming on Twitch that has recently gone viral. The stream: Nothing,"
+    publishedDateTime: 2023-02-03T12:40:00Z
+    webUrl: "https://www.cartoonbrew.com/tech/nothing-forever-seinfeld-ai-twitch-stream-225682.html"
+    type: article
+    provider:
+      name: Cartoon Brew
+      domain: cartoonbrew.com
+    quality: 39
+    images:
+      - url: "https://www.cartoonbrew.com/wp-content/uploads/2023/02/nothing_forever.jpg"
+        width: 1280
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence Creates ‘Seinfeld’ Streaming Spinoff ‘Nothing, Forever’ On Twitch"
     excerpt: "The show about nothing now has a spinoff about nothing. The audience is rapidly increasing for “Nothing, Forever,” described as an AI-generated and nonsensical version of “Seinfeld” that streams on Twitch. Motherboard reported on the show on ..."
     publishedDateTime: 2023-02-03T03:36:00Z

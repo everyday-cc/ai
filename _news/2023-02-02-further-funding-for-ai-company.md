@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermedia.com/news/yorkshire/further-funding-for-ai
 webUrl: "https://www.insidermedia.com/news/yorkshire/further-funding-for-ai-company"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Across The Lending Life Cycle"
-    excerpt: "When AI augments rather than replaces good lending practices, it can support fairer outcomes and improve financial well-being."
-    publishedDateTime: 2023-01-31T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/amp/"
+  - title: "Deep-tech company Humans.ai is building the AIVERSE"
+    excerpt: "European deep-tech company Humans.ai announces the upcoming launch of the AIVERSE, a multifaceted ecosystem that fuses artificial intelligence and blockchain technology to set the foundation which will unite AI developers,"
+    publishedDateTime: 2023-01-31T11:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9751574.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63d7c999764a5279f9a89c47/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Something for the weekend: Understanding AI"
+    excerpt: "To introduce the series, we asked John Thornhill, the FT’s Innovation Editor, to bring us up to speed on the latest generative AI programs like ChatGPT. “The age of AI is upon us,” Microsoft’s chief executive Satya Nadella declared last week."
+    publishedDateTime: 2023-02-04T04:59:00Z
+    webUrl: "https://www.ft.com/content/b64d1291-e088-4dc5-a7ed-7bcb91b36a59"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "T8h5kLR038zW9zmM9TbObKwNUPH+gTyKriLEkuIeIDs2xwHyEStGm8jcNMA5k9IcL6dp1HWjdjcNn2hNvSdbdv37orQSpdxLoLdlSfS2qLk4jcYPhvR5Pk1tBsQ4vojhftndw0PDHVfqQDVqaOlK9WjYLSYrmzUNFlmtbQpILW/vP4hxuIDCuEz77XB/Ga2EfhqbC8QhSIAtmRbJJLdo6xY/ieYFWRJcW/gQFdYzAM4zCEm8u87NnluKSZG5VoFrQqPYT0iTcyF+0YpgmmtpRyE5mkHa9C7sruYrQcc20uItnsuYkKJHG/ql6L1XZMPfL2IoBaVxPBEXAgprwtYyOYCHZHdJGM+rrJmu/7V6VCQ=;jELu4ifs4tgObkLSFa70HQ=="
 ---

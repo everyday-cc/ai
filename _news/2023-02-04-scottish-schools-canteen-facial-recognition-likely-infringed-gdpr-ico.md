@@ -55,15 +55,6 @@ related:
         width: 860
         height: 522
         isCached: true
-  - title: "Facial Recognition Market 2023 by Global Trends, Recent Developments, Opportunities, Business Size, and Regional Segmentations Forecast to 2027"
-    excerpt: "Facial Recognition Market” [105 Pages] | Report 2023 aims to deliver precise top-bottom and strategic analysis of"
-    publishedDateTime: 2023-01-31T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-by-global-trends-recent-developments-opportunities-business-size-and-regional-segmentations-forecast-to-2027-2023-01-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
 
 secured: "JTu/jN1bR8c+QDUzsFqFL838D3YF5DQtVrX3jFyzF+vIstatRThIdUSWAYpRNw7kQYflSCh6XSF9umPw2TFBTptTFhw1PD06/MRmV5O+UZd/1/zgvwECEfO86obl4YrnArPbpJBlYzzMUPoXtsnhMO9OlRVlmZWxGwPpMBN6VzA22JG2erKTv5Ecf0vrNdSAmj7bstaFuiFDo2fCFATPNsw0fHoLzIeboHLD6Bw3O4wmbuzbIjlycH8Bf/D8pAo2+3GQ81HkZBfPLbIaoQ/TVg/gMKSd0r0ghE8W43mIfs3ltdnTBXHcXqf9FhuEaTBz21xC1tb/0gFoU1HSHW68d5Ea6gKsy8aux+1r01ZAKrs=;e4d6Xt1nJAvMbMxcO7ZqQA=="
 ---

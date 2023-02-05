@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/01/31/how-brands-can-use-chatgpt-and-other-generative-ai-for-content-marketing/amp/"
 type: article
 quality: 103
-heat: 843
+heat: 833
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1246745535.jpg?resize=1200,809"
         width: 1200
         height: 809
-        isCached: true
-  - title: "The ChatGPT and generative AI 'gold rush' has founders flocking to San Francisco's 'Cerebral Valley'"
-    excerpt: "Generative AI is breathing new life into San Francisco after two years of ​Silicon Valley tech companies shuttering offices because of the pandemic."
-    publishedDateTime: 2023-01-31T10:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-generative-ai-san-francisco-hayes-silicon-cerebral-valley-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/63d8165e4589790018e5c0a6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Teachers rejoice! ChatGPT creators have released a tool to help detect AI-generated writing"
     excerpt: "Amid concerns that ChatGPT makes it easier for students to cheat, the company behind the buzzy AI bot released a way to detect its writing."

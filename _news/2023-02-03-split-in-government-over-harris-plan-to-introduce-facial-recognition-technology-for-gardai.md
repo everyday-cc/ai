@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Greens to block Simon Harris’s bid to permit garda use of face recognition technology"
+    excerpt: "The Green Party is set to block Justice Minister Simon Harris’s efforts to give An Garda Síochána powers to use Facial Recognition Technology (FRT) before the summer."
+    publishedDateTime: 2023-02-05T02:30:00Z
+    webUrl: "https://www.independent.ie/irish-news/politics/greens-to-block-simon-harriss-bid-to-permit-garda-use-of-face-recognition-technology-42328198.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 32
+    images:
+      - url: "https://www.independent.ie/irish-news/politics/e748e/42328197.ece/AUTOCROP/w620/SN%20Simon%20Harris%202"
+        width: 620
+        height: 469
+        isCached: true
 
 secured: "vuVzUoZeH9P5XyS1MBgVSqRsF5h3kxSirbbgA4ZGGm+mje1LgpRy6/XF7rtX0y2gcVXmtMjq76NEU86VUaAROOUk5Vv4vG9ZtnnYYippadHz4+cE5RnuuK91x359fymPrSiQLrgUDimJLjd4EetPvgV6Ch5aNhzuAFNaLWQyxTFcLdQFoDll/2ta21bSO+Hu+pmYhdEjLxp2e1wXG8/TDKkQgf0SEjxsN/PED9yhDDKNFECvyy7u30U+cnmok1NWk0dzImbRhTmohCEafs2LX50FAEAPgUyS7OSTOHkwC1Jr+h6OmiQoEam5UEIFZejgS0U0bh9qTm7TRC0gmTz14fB1Mar+Sdbi5Q3XtnRcxjM=;p7xl7w6N5uLWNU3zWpEAxw=="
 ---

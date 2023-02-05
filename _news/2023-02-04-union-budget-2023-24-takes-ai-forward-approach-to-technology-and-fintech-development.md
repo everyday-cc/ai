@@ -65,20 +65,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "The fintech sentiment: Data Privacy Day 2023 and the policies protecting financial services"
-    excerpt: "Data Privacy Day – also referred to as Data Protection Day in Europe, is an international event that occurs every year on 28th January and promotes privacy best ..."
-    publishedDateTime: 2023-01-31T09:03:00Z
-    webUrl: "https://www.finextra.com/the-long-read/597/the-fintech-sentiment-data-privacy-day-2023-and-the-policies-protecting-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 14
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/597.jpg"
-        width: 799
-        height: 449
-        isCached: true
   - title: "Praxent Experiences High Growth in 2022, Accelerating Fintech Design and Development"
     excerpt: "Fintech product agency reports internal and external growth, gains industry recognition AUSTIN, Texas--(BUSINESS WIRE)--Praxent, a fintech product agency"
     publishedDateTime: 2023-01-31T12:21:00Z

@@ -165,6 +165,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Microsoft’s Latest AI Race"
+    excerpt: "Regulated industries like medicine and finance are prime examples where customized AI might be not only desired but required,” he says. In 2022, he says investors channeled at least $1.37 billion into generative AI companies in 78 deals,"
+    publishedDateTime: 2023-02-04T00:00:00Z
+    webUrl: "https://www.gfmag.com/magazine/february-2023/microsoft-ai-investment"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 54
+    images:
+      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/microsoft-ai-1200-1675559711/5ec4a7b128f25fd1f803e1a76609dd65.png"
+        width: 500
+        height: 262
+        isCached: true
   - title: "Microsoft announces general availability of Azure OpenAI Service"
     excerpt: "As part of a continued commitment to democratising AI, and the ongoing partnership with OpenAI, Microsoft has announced the general availability of Azure OpenAI Service. .."
     publishedDateTime: 2023-02-01T20:08:00Z

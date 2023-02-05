@@ -160,6 +160,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Microsoft’s Latest AI Race"
+    excerpt: "Regulated industries like medicine and finance are prime examples where customized AI might be not only desired but required,” he says. In 2022, he says investors channeled at least $1.37 billion into generative AI companies in 78 deals,"
+    publishedDateTime: 2023-02-04T00:00:00Z
+    webUrl: "https://www.gfmag.com/magazine/february-2023/microsoft-ai-investment"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 54
+    images:
+      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/microsoft-ai-1200-1675559711/5ec4a7b128f25fd1f803e1a76609dd65.png"
+        width: 500
+        height: 262
+        isCached: true
   - title: "Microsoft to develop AI-based healthcare services"
     excerpt: "Microsoft is partnering with Vietnam-based tech company VinBrain to develop artificial intelligence-based healthcare services. Under the collaboration, the two companies will work together to work on three areas of healthcare AI — data sharing,"
     publishedDateTime: 2023-02-01T15:23:00Z
