@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics and Automation to drive economic growth in Dubai"
-    excerpt: "With the opportunities in the global robotics and automation market expected to grow significantly over the next decade, Dubai is setting its sights on becoming a key global player in the industry."
-    publishedDateTime: 2023-01-31T12:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/articleshow/97494513.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 89
-    images:
-      - url: "https://m.economictimes.com/thumb/msid-97494507,width-640,height-480,resizemode-7/hamdan-bin-mohammed-launches-the-dubai-robotics-and-automation-program-900x510.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Uncertain Economy Spurs Growth in AI-Powered Office Automation"
     excerpt: "Companies are striving to fuel growth without adding to payrolls, corporate technology chiefs say."
     publishedDateTime: 2023-02-02T11:00:00Z
@@ -62,6 +46,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "2 Artificial Intelligence-Powered Growth Stocks to Buy Right Now"
+    excerpt: "Artificial intelligence (AI) is a fascinating technology whose potential hasn't been fully discovered. Incredible programs like ChatGPT have already passed the bar and U.S. medical licensing exam, but other,"
+    publishedDateTime: 2023-02-03T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-powered-growth-stocks-to-buy-right-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "9rYd68if2ITBmXHis7VB45jw88BbVBz4iATlrYG+29IVc4Fp9CJwZ7TWlPUvm68FSvqxW4njGGGfDib3PZLn5a567b2ApydNd7XP9cJ82jnhhJFufZYlrO59PHvUKztS7RXNGKlwJ8Ys15HpWpIX/xTQPUblUceRzcM0HBXz2KMBWZoG5Jl2IAXPEvQVE7eNq5Jeblsbbo+LRS7rJ9/1YA1GqdmlluT8kGNkfFKoWfZoOPEpoCYoGZJZLwOiLgbX5kgDs7ER4u+mJ+zsg5aye8eVAtm/DxSdy48uQm38ltnYwhCWISUiIxa+bCRp4RJpYXm3ZTNWDum1KsktXE1/cE1+ua/j3B+XfX7b4Y+B+ek=;vYILgrwt7rnD6qX/iAoQsQ=="
 ---

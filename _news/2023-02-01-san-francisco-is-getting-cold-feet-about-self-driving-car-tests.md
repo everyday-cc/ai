@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The generative AI boom is bringing San Francisco’s tech scene roaring back to life"
-    excerpt: "Welcome to 'Cerebral Valley.' Hayes Valley in San Francisco is the current hot spot for developing generative AI."
-    publishedDateTime: 2023-01-31T11:45:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/63d869070a08ae0018a61e12?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Self-Driving Car Services Want to Expand in San Francisco Despite Recent Hiccups"
     excerpt: "Waymo and Cruise hope to widen their projects to include more of the city. But local officials are increasingly concerned about breakdowns causing congestion."
     publishedDateTime: 2023-02-01T17:04:00Z

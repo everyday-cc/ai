@@ -48,15 +48,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Open Banking and NeoBanking - Fintech Trends For 2023"
-    excerpt: "Two of the most important trends will be popularized services in neo-banking and open banking services. You will get more information about  these and other new fintech trends down below. Fintech Industry in 2022 - What Has Changed and What Were The Main Trends As investments in fintech significantly increased in 2021,"
-    publishedDateTime: 2023-01-31T11:19:00Z
-    webUrl: "https://www.finextra.com/blogposting/23653/open-banking-and-neobanking---fintech-trends-for-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "Union Budget 2023-24 takes AI-forward approach to technology and fintech development"
     excerpt: "The Budget initiatives will shift the trajectory of growth and innovation for the tech, start-up and SaaS platforms on an upward slope"
     publishedDateTime: 2023-02-04T13:15:00Z
@@ -66,15 +57,6 @@ related:
       name: Firstpost
       domain: firstpost.com
     quality: 12
-  - title: "Praxent Experiences High Growth in 2022, Accelerating Fintech Design and Development"
-    excerpt: "Fintech product agency reports internal and external growth, gains industry recognition AUSTIN, Texas--(BUSINESS WIRE)--Praxent, a fintech product agency"
-    publishedDateTime: 2023-01-31T12:21:00Z
-    webUrl: "https://www.01net.it/praxent-experiences-high-growth-in-2022-accelerating-fintech-design-and-development/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 0
   - title: "Encora Announces the Acquisition of Excellarate, Strengthening Its Capabilities in HealthTech, FinTech and InsurTech"
     excerpt: "The acquisition enhances Encora's capabilities in AI, Analytics and Automation, and deepens Encora's industry expertise in HealthTech, FinTech and InsurTech. With Excellarate's 1,300+ engineers, Encora expands its global talent pool to over 9,000 engineers."
     publishedDateTime: 2023-02-02T18:36:00Z

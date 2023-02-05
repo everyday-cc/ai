@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.amp.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The New York Times
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The generative AI boom is bringing San Francisco’s tech scene roaring back to life"
-    excerpt: "Welcome to 'Cerebral Valley.' Hayes Valley in San Francisco is the current hot spot for developing generative AI."
-    publishedDateTime: 2023-01-31T11:45:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1"
-    ampWebUrl: "https://www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-bringing-san-franciscos-tech-scene-back-to-life-2023-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/63d869070a08ae0018a61e12?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "San Francisco is getting cold feet about self-driving car tests"
     excerpt: "San Francisco officials have called for a slower, more considered expansion of the use of autonomous vehicles, which have blocked traffic and hampered emergency services"
     publishedDateTime: 2023-01-31T18:11:00Z

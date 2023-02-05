@@ -187,15 +187,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
-  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
-    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
-    publishedDateTime: 2023-01-31T12:50:00Z
-    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 36
 
 secured: "r+Z1j6h08b5SlGZZReIXtax8tnyJHdgSl5Rr8Ye68rsWPKmhO6QSpASGghKKLE1gVuD3uSxODRCThip6zDkgKhyHTg3yNlEZlPg7EkJ1LYqWVFMTRuK2G4E8VgB/12yIPv4y03iCS6kLzWNXpArSHdFTWq1CkZR3juBX+cKC8P3lBkNpufiYQ7w5C2N8MZBatsA4cUNPyzclx+Kk7PVsJAgKk7IUSQLtq87tuSCxJL9fY+mASmRsUSdf4kRETdECyUw9VQPzf/d2o+hZ9IN9s9RAfMvb/ZqI3qALKnWAFKgGPtLCdUy1ZpTdTAhkIMqDQlm8au/Qtl9QdlzsJh23zRtl7cRp1knG8LMEYf5FD2M=;Qgn3og7fuOI63yw7qmdI7g=="
 ---

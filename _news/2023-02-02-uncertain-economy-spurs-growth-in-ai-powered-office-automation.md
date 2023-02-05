@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/uncertain-economy-spurs-growth-in-a
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Wall Street Journal
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics and Automation to drive economic growth in Dubai"
-    excerpt: "With the opportunities in the global robotics and automation market expected to grow significantly over the next decade, Dubai is setting its sights on becoming a key global player in the industry."
-    publishedDateTime: 2023-01-31T12:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/articleshow/97494513.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 89
-    images:
-      - url: "https://m.economictimes.com/thumb/msid-97494507,width-640,height-480,resizemode-7/hamdan-bin-mohammed-launches-the-dubai-robotics-and-automation-program-900x510.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "2023 Business Predictions As AI And Automation Rise In Popularity"
     excerpt: "A survey of Global 500 companies found that leaders choosing to invest in AI and automation business tools and software solutions expect to see significant growth within the next few years."
     publishedDateTime: 2023-02-02T10:00:00Z
@@ -63,6 +47,15 @@ related:
         width: 1200
         height: 639
         isCached: true
+  - title: "2 Artificial Intelligence-Powered Growth Stocks to Buy Right Now"
+    excerpt: "Artificial intelligence (AI) is a fascinating technology whose potential hasn't been fully discovered. Incredible programs like ChatGPT have already passed the bar and U.S. medical licensing exam, but other,"
+    publishedDateTime: 2023-02-03T11:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-powered-growth-stocks-to-buy-right-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "inmsnaBp6UPpRQLzAC/0yT+E9SwBs+p8HVjz2JVE2SdGJv17GTXeJoG0Dp//IcpFq1C8sTYf698hQHXF/irPkjRE70+7nSJPhQwCvRsI8z2nEEb4LSczumkVxcEq3ISgcIxCX4i/nOqPe+7yqN3S2EFjPvW8w1w0ZQJP0ENB6ZUXs16HbkDj9aZUCCmHOtSPwEKviSOiTIDuncgHW5iD8e9qBQVADr6t/3mEZIWYpZet2ZuXQDgZu4f1/VzKQjm5PsD1aEzV1JyHXPunkgltCG+1Un/Bu/v/ZyW8FmN4xZLBqCul8/ji4kRdWVoZcKmacTP0Uh1tK70l5m0dYkgUiJgBqDFPpGekwgV8xs4DSG+HW4dvPa5w/xuUIM3THPl2zvrHUHQT1qLUUnB/IM68CjMoFaq1Rkc/HRXNtQJq0Y1T/0fekOn3BSGs7kI6BGJcu2gPViKFo5KQYJBDBo8dqWEI8N3Z51AeeXusIgT3Tm93Kv1w0ObeFqJ/VfFd/4pEmPISwGl7+V22nqbSbHdbMw==;39BLaiYUZWtj85CxWUjJ9g=="
 ---

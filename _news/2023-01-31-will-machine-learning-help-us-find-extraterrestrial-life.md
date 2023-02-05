@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Will machine learning help us find extraterrestrial life?"
-excerpt: "Researchers have applied a deep learning technique to a previously studied dataset of nearby stars and uncovered eight previously unidentified signals of interest. When pondering the probability ..."
-publishedDateTime: 2023-01-30T18:42:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/01/230130130512.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/01/230130130512.htm"
+excerpt: "When pondering the probability of discovering technologically advanced extraterrestrial life, the question that often arises is, \"if they're out there, why haven't we found them yet?\" And often, the response is that we have only searched a tiny portion of the galaxy."
+publishedDateTime: 2023-01-30T17:57:00Z
+originalUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.html"
+webUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.html"
+ampWebUrl: "https://phys.org/news/2023-01-machine-extraterrestrial-life.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-machine-extraterrestrial-life.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "LydA2jdIuZpjJjaUcPzyQTtBWqR3zZKgkMHTS+y1DBKeuBFXxZ6y5Y7O/hzpOCMcZvasliERePslzDnB6FJ9fYMhl+zwyukAS78pQOXTvgQmAb4ztCy5ENurYPIyc22FTCtEvgQhCL5BXMjV5Kr53S4pdQc524bGN4MDShi8VASjcPOGEEO7KFa4FTXUcrbjnskrmJ8vZDWOOrsXTo1IfmlWAt9QAOkFclkYWGzfUBq7KoYtnumJLAAiwMv2x2ekGn8kY0FPXTSnUcQev84V4PWYnKax78uATbc9j3TT/+Qp0noMKHNvBA0vpi2NFxhvgTvLC53G5EqUv+tT1jLRA2fePl/S9FqyL2tn3Meg6Qo=;qI6AefLo90o2oKz5JcM9tw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/will-machine-learning.jpg"
+    width: 685
+    height: 594
+    isCached: true
+
+secured: "NNLXFsB/DUG3tsTGxOuB9ooT+k94r81otRBpit+ijQKL6dC9GEmP9hAVjJ7BvSGyHnSc4bFnzz+5H/MX3kvMe+NBn8Hw0izJoPrPZc2jGDhsfxxy88ewWo1gQuf4ICX5T0pC7Yirc2KtI5BBgSijgwhw05g11ebSYlD6yDEaLJhTCHLol8dzUdqaDBDb7Ku+vvdXB2rtNblfjx8ijdgL471S86AIjRHk1hRa9RHUrvHg2EoHoUqpcgmOkIoaXiD7r/58qN//JRaDehNe22qHXCYDcJl3tyTsP2k+plOkZuuPkNV4+0fXF1trTaZqafm0obDjoRaSRnuawH79WoN8EY3FGXU7i2jSkakt/Ns6Q7o=;7g1fQKo8RHjqxEnEhpQsEw=="
 ---
 

@@ -18,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "phsy5zUllKihqo2xz8hjoed1bYGxPd7FmWHORaITOQ4qnXNO9wY73piZvd9u4ueXPNqdLHGc8O5qiC56bzItfENTEv4GTzkTAHOMTZ6EnwmCmQM+GUcgqkq7pyaALf+y9f8PtTCQKwFsriK1IM/nhYyFXZyqEl9KSsOpFCFXcnrHV4fFLm3RwRyxtTF7X9o6hx3pwO2xBJvnR/cFUVqvEcP7IuistcUUBW8nHTBp0zRQuXlHAVQzV06YQJi+sgwY4rZhrnipR/2rqa0JHtar2Xva7LUcafDQFuIt7r0KzJSAsNG7riddrWhe8eyXJMZ5GAtXsPKnTVxXER4QARhuhT9ZdxEpX1z2eRbRxurT5RU=;0XjJcXeucqgtPpnh/EmeAg=="
+images:
+  - url: "https://www.retailtouchpoints.com/wp-content/uploads/2023/01/Smart-speaker-numbers-600x541.png"
+    width: 600
+    height: 541
+    isCached: true
+
+secured: "Y34VXOio0O9QFJX1hrPzx02Gtdp5AJMWQOod4dinVhb3ACcMIUAVwI9rka73TARg4ikaltIvKOnFLa8T6nP3W34v4i/d/s0QEx7Iaj0hA7ZeAffW9ZTqbVBUX/LFGOUmNyp4YxktO/lpQXM74bGLEIHqpw5vWrC0TY6t6UWFW+jii65YkqHT33+euJQxZx+bpWF11S9xDE43DGu5OTh+qmWLs8nPBpk+jLqVq+g5R4posHiuASyVtTSWzD1gYdJGxzHDTWEK3tOo55FxZmhUTatBZWG38f89ONgHpxz4lrBzNezp/88uEmzEaWr0K3KMwiE7v/Y3xjVHZ78S+g40GHVqxqUM8GHQxEPjuT+G2M4=;A5rMUel3ZPt1ZcnOl1mIEA=="
 ---
 

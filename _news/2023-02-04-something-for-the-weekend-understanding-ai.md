@@ -32,15 +32,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Deep-tech company Humans.ai is building the AIVERSE"
-    excerpt: "European deep-tech company Humans.ai announces the upcoming launch of the AIVERSE, a multifaceted ecosystem that fuses artificial intelligence and blockchain technology to set the foundation which will unite AI developers,"
-    publishedDateTime: 2023-01-31T11:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9751574.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "uDAhKqPzp8TsZSQBfYo59cLeeJCOXf3o/So9fIvIaFv9FZBqAvWWkjH46hziJdCvS5Fmc+hnQiFQe8vqXxiYw29lyooB2Z2zwbyahVmePtNy1d6czN2RnB9NAJMQyqYOCIUKzj1VqtWKIFpmovjT5i2G2am3Qlk28Jou9hxlV/Z98+0r3NzC8pso4QjSqIWGVHmrzGdzaKNqMIGNG3pkASQ7ePcATHwhRZLy0cC3bCZj6Z9tRJEdWDhEx4yYBMmRIgkp2L50btmbyYE/LENFqvCRyzRKjXu78TcFVHUVgltUO0yQdyRsal69rcrpQqBQ2rJ6l19BLtsChNcNX5k4YmFYAIt/oTLKXsQHcvrkeUy0xpmuJvz0Wepdk1z2O6NfKYr7Qi4AZPyDoPPrMv5VMEEY1wncN9u2eKenkWEE8IIZdfbOna3UxJGEHWm5rLDuH3nAT4Onus2oInM0P/ZqAmLY6darcnKGaiTorsnXHaqmuP4MgF5QhdE0yLnC576Kh7PwjLRvJ7dvkTTbCajkLw==;OlvsFpYpzRCuM/KE/svyqg=="
 ---

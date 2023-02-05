@@ -2,16 +2,16 @@
 category: news
 title: "BuzzFeed to use artificial intelligence for content"
 excerpt: "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology."
-publishedDateTime: 2023-01-30T17:41:00Z
-originalUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-webUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
-ampWebUrl: "https://www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+publishedDateTime: 2023-01-30T17:33:00Z
+originalUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+webUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content"
+ampWebUrl: "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
+cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true"
 type: article
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Q1Fc9O561s36uFIbk/G+CoYJvSLCvyMwIojcN2cGRfusaCdq02pB0o7DIxMHHVpDMy3eR7qae/1ym9wvR9NYxxs58EQR0bbsY2DlFB2jG/trIeEtgbPWjhBNaOJTmqCgJavVvMK0cLYCEZ4HwzlyZOYHJjhZo9qY3IuobLXwMQP/FVp/pK+Orvb6Yzf0K++5i0zT6vKC27r3nbKpfGedgSigLamnUBLjuPzGeXM6mvKaCVST0OQ4C6FT5Qb9ddm87O8iSm2mbO6DqLLzOwNKmwoP6D7I0owofdkN3VVC1CTJF8Z2MUXDCWXpXVEOrpPhYasVPXKfCu9PiR/3NJJyn870EofS73TAIRWEiq6mQPg6Y0rFZmK/rcKJ04CP1yG/WUaM+KUpA+O3M1yEWEQ4YiftpBocpw2ARvG6xCi8FfCyznDC98sPcHrPS7puYorUGTcmcyuOQj1rxKabu20sdXcdMSzFJvu1QTMd/IBIYC/kl1S95JdRZae9RG9pAG4FbDxF/7hBOGyJvtL7CQI+Zg==;nTU6EcDh3Rnzwe9qsJCNdA=="
+secured: "K4LBDwolbBDb3qPlawDKoWjjTYo1F0ENuMGRfn884+sulJ0ewlQqlD6QCGb2uxhJspzX81IMWCeuxTuPr2c/cuh10ihHwMcUPi/R8O9lgWdkrsA0fKFwxF4W/Qtx60BxNfp1ScZyIqJ2W1zMKwLavpF/EaB3ihZT6YWv6UPQ3AKS8ov/Vb72VZoD4Sd8qVoNXRoIxEPw/NWm/7ZkGsjNVQy7llSJ/kGET+yd5sfjKCWcGG9Dz3d5KeYKLy5lpCfqtGg70UVHURqH8pcc3ymEPOFowqcOhOsAZUbsOF3affULTW6suY6IdmeNOPoDKOUpqORQixIO1qj6xhFfBENgFL6GSkGw++FTlcndPII4tpQ=;X5iVlLz+R0dNwj8ieoqwHQ=="
 ---
 

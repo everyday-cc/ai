@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep-tech company Humans.ai is building the AIVERSE"
-    excerpt: "European deep-tech company Humans.ai announces the upcoming launch of the AIVERSE, a multifaceted ecosystem that fuses artificial intelligence and blockchain technology to set the foundation which will unite AI developers,"
-    publishedDateTime: 2023-01-31T11:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/01/31/9751574.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Something for the weekend: Understanding AI"
     excerpt: "To introduce the series, we asked John Thornhill, the FT’s Innovation Editor, to bring us up to speed on the latest generative AI programs like ChatGPT. “The age of AI is upon us,” Microsoft’s chief executive Satya Nadella declared last week."
     publishedDateTime: 2023-02-04T04:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales/amp/"
 type: article
 quality: 106
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -193,15 +193,6 @@ related:
       name: FT
       domain: www.ft.lk
     quality: 49
-  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
-    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
-    publishedDateTime: 2023-01-31T12:50:00Z
-    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 36
 
 secured: "nT541g/B4fvm09znchV1844xhWtT5QqISEEJVWaQCW68CSJNaMoatBf33F8Dvermg3NpIePfmC08aBdUt1lCKFdCxDnVYO1Ech9+6qvojSh0zSzztDWQnqrgeFiVRUX4Jq84dfhd6mTTSgxWXMhOFfC4UyxY2JU6cj7TgupQ9RAb8yz1i6c2S3xSaxyA8wltjFhsAbcH/lxi9Hhg0MLJOIPOcQ/Wek2kicXHOsLlTljyaHmrAzPx6IDS3jYv+vQ8lmeJdiJUFYMgj9D5N5VQJ12YNktHUhEK/SGRmDFuUSixAmel/+IEeJf/qeW4qhGEwBIHhFE4w99Ya4El14L7x2b4C1EceETU8mHOE2pI+wKeYzV/MThxgQDYUsQ9vTC/Wkrb22MjjZU3Oph5QtYdOier69g6lXbsePdpiMA2/RZbxPGRXFCJVznELU+eutUwuuGZsyTxG9p+rUcDfXXQxrxVSpkrTbzL/NTKGxDxR4bFfSubIO1MuQ+NSoJJMn/wJwizPjPKPcDSax5htNUFOg==;QJLB7qpbVaCVHmlN3WvPVg=="
 ---

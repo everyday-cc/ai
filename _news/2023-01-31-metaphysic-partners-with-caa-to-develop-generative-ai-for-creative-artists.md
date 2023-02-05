@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Metaphysic Partners With CAA; Named Sole AI Provider For Robert Zemeckis Film ‘Here’"
-    excerpt: "Metaphysic, which captured attention in 2022 by using artificial intelligence to create avatars of Elvis Presley on America’s Got Talent, has formed a strategic partnership with CAA to develop"
-    publishedDateTime: 2023-01-31T13:00:00Z
-    webUrl: "https://deadline.com/2023/01/metaphysic-partners-caa-artificial-intelligence-deep-tom-cruise-1235244943/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 12
   - title: "Versus Systems to partner with Resolve Debt to bring generative AI and gamification to customer payments and credit management"
     excerpt: "Versus Systems Inc. (NASDAQ:VS, CSE:VS) has announced that it will partner with automated debt collection and artificial intelligence (AI) company"
     publishedDateTime: 2023-02-01T12:22:00Z

@@ -192,15 +192,6 @@ related:
       name: FT
       domain: www.ft.lk
     quality: 49
-  - title: "Microsoft Finds That 90% of Businesses Want To Use AI"
-    excerpt: "However, the latest round of investment will turbocharge Microsoft's use of AI even further, helping the company to make major changes to its ‘Bing' search engine, its cloud provider Azure, and Microsoft Office, and remaining ahead of Google, Apple ..."
-    publishedDateTime: 2023-01-31T12:50:00Z
-    webUrl: "https://tech.co/news/microsoft-90-percent-businesses-want-ai"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 36
 
 secured: "BXgtEMVIzv0AUf9B3NEd3ryWmdedhWufTvwYkASccN9OpPZXGjpvxpUpIzuqXQ3hSML5GMiu0f9ASJs9PRQYUqH4mUBUsLdn3FTmzOrDNzxhS/0YbRjEXWxvUWhiCxZScKBKdNyXtuwwqcVG1Jij+vt3MsxAc9kEOjGwB1+daYbN+U5VUuLmaF1wyvyS5JS68L1acYmQ0hRgxlkl72G9ESSZ6OqpJQKmMCtdy4bBAvAb+GrnSDsax/gweGelC2tD2xpJvyvMk1njiJoVDRdAzFwfuI1EiVNU+t1soBZJYmY3PojvBvFRdJwmp1NJnpANE9MJ8QP4x4OqG/bpHsnBj/SNuL8GKSdx3R3CIjkZbjc=;fhpnYczv2gcnuOhmfT9s+w=="
 ---

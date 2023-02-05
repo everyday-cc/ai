@@ -26,6 +26,22 @@ images:
     height: 213
     isCached: true
 
+related:
+  - title: "Albanese goes for broke on the Voice"
+    excerpt: "Anthony Albanese is doubling down on the Voice, insisting the principles of recognition and consultation are simple and sensible, and that Australians will vote yes in the referendum,"
+    publishedDateTime: 2023-02-05T04:09:00Z
+    webUrl: "https://www.afr.com/politics/federal/albanese-goes-for-broke-on-the-voice-20230205-p5chzy"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1711%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_9/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/6195dadc9573a1fd9e26a2f01f7c41c01fc8d5ec"
+        width: 1200
+        height: 628
+        isCached: true
+
 secured: "eGy2ulybuFMBSeCjdhFfWxxcESM1m41jTfNmGnZRpOraq7OirkCrWV21iYgPriKgIKoqm7rZTqxsoOJoE5gR5M3EGFZ8ohJmN5U7eUMFfLOXFHvfzji6vzPU4k9ZfmSQZPuItGg7QGzdpVx4kinTUkFiUDSwkcUAIpxHm33B1f9S7yR9K38Zryk9pOnp4E9oik9KssdLzYUemEtW5DmhPgyRYHINrV+ig2IM+NrfHRodqfOmZEMrjvp/8uoH/Ur9YU66HDgKkLxD/J4Si94u2UB5rfeq4ScwLk7FOd/v8u+h4lZlHfxyCwkszJkL27yDZuKOraHEQaAELKvOmq+NZrT4Fi5gND1UXAlXnHDtnQfGLMdq+tA2XBJFLEeGKOeqmWYFBY0ZFe3fiJypYDyjtboGxcJAy+5KIAPcrwU/c3EbRuzafPRsNTu/Yx8iP9Ihv1Ei/iZ8A8tIUemwOT5zbaWAK7bnJxeI0RC8vVrqduh8BP31oRoRtv2aZkCmsW0qsj1AQFDmJcxS5HJMk4/RPw==;0tQnDOxnGma8/BqPNvE+2w=="
 ---
 
