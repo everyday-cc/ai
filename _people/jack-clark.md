@@ -10,7 +10,7 @@ website: https://jack-clark.net/
 twitter:
   username: jackclarksf
   url: https://twitter.com/jackclarksf
-  followers: 55439
+  followers: 55459
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Jack Clark"
 
-secured: "abrmAk5VDAA/s79sJKM1z9ESk/evOV5+LspcvNzdXbsw2Ubz9+XlExtPhlBqTimhV3JAvKIRSBPqjYr5m1TfQmCtpZDpb8RKw4LUHXfuCmNtUkbgWmrncJ7E2ksIUu3E92MRl7tzB0AnHMDBqCdNNekEMUq4LB9eOGKJAeSRI2ePwun/nukO7+4pmIO+Cm03KSm6vpO9XUGKA6j3wo8/4fA9AvADfd+T03Hn1+7h0yYj0sl49ewAlKMfy/MpFCHM7Z4BuhwuiTMsHAlx5Yprv9CVM5Br97UZR7sNzHUwPAPclDqE6m2n9XfAl8O6z3CfAhEWcrRQBGh78jYRoZJ67vq858JOQEdriM+kUoqWKDqUpi/xKMX2FZ1b3ZcvJ+4b2F/LMndtkoZkqNiki625mxzzSlqubsUv+X4J8j/d86I=;qXzFVFH1UDItOvYjS7Qotg=="
+secured: "D4yfpyrboueB52gF1Xhi2Rlz1Osf5X4uZNRAyprIzXPni9GxwPP/4hgtqQzLExCy9LLVYAH1WPVQi7ZdGfl55SnbucW+KWABPk7CuIZDYFPpUM2LEUaNT6DF/XBeliIzyw4RV5ZaWCA2x8L5XObcXtF1xwVXotsvd6Ae+b9quNbXMp4BqSaSzwGbsLIzC5yGlTZVuWl9YS7f+htPUYyaE3unCzCdbePcm3sG3AOANu3qs8YsCMbJh6ZC9ZDsbr7qOQxEbVyOuZ/mzVxlc+AN1c+g5d+dfqsHdhQjGsG2fCS4dG/8QtiF7PB7tY/HthdihGe0oGwIUCWI1F+4/XgOZaSDr7SpqzuuFDEN2yXK9PaiTitbx3wlL1D7CKHkImxolVA+6OS+7rOegHp0frMwVC05Z9kOqLw1YmVEEDjWRFk=;S4G7zGc5qFnjWFYpry+O7g=="
 ---
 

@@ -17,12 +17,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-a-step-clo.jpg"
-    width: 1500
-    height: 1584
-    isCached: true
-
-secured: "or27Dl42LepDoofHfTvIKh5AH3YpjIm1V/6lnbeQ6nxsjb9t7VNxuLa1ewtQIQGtKsbwm7T0e5n9i4XHvplN08G5tG0RddH5mp7WdhVVGy3LGP/wvFnuhe1nwe4k//jeDyDpBw+coW8Z4fM112DU63qSjQTJR5J8ogzg7JwMjikiLaYRIpro+R53VjqvM2WZrgI58x1X3QqBSid/MxSQdH7bx2iUkoj7Dzw9eZiXeJzsyoFiWC4bxfoxGQOQCrDML0b2jYTiEhXfIJ6H+wbvFOrST9dcrSQli+AeQp6Z5oPVT3egh4bOI6KJ0H8WbGxL7HQ5DGqZgLsw/J+W0v8FFOLEwn3fQi5OowKn5PwNTK8=;WIhPM9OJ9UUHxqwS71Yz/A=="
+secured: "u4mW6HWjf9rGR+nezHPfK7prB2TpboGHNAhUIi5okfTCPMkrqJXUqXBMkHmejzuj9ipQJHvw6MLIYtvDAuOh8bIMrUUONslINr5a5GkuRXz0ZL+eZ8OABKNl5dzBH4Zagf83LVrqfgMmL0zW9LpCzE3KW7IBF44d2yet5i4NJXx+txM2T09TuH52vhwuZDWxEPsFq3aesL+HXKwWyL1Vbr8rPKpQFgiOKYAdhbGdBV1b2Wcl52oZV4Ye5wNf+Y2adveClBd7zG/ouSEX6lirAprUSvcEU/J2mu9Sqy/5NOBeDUqgegOQS6QfDEUC10+AiwXZiXvYhbuu9YcjqiZ6m+UMmbYgxcbaImWBuV6BJwM=;1p2VIWWDsCUCHydlTADAkQ=="
 ---
 

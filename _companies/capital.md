@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "capitalcom"
   url: "https://twitter.com/capitalcom"
-  followers: 226755
+  followers: 226752
 
 size: 51-200 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "/dVXS9InoZwwlZKGwOL5avbUhsjraPlWqZ4jUj1RM3hPdTjC5+9nAwWmiLJbHcfBSL7/lP8zDISoSVOdk4VISfiBp16TEjaSjBwtGmwOSYeWhGTH2OKWMJzWkDsFezFFfDU7cWjz65ZmLSn1PpoVuY3obAOpKcpfjlRR+dHU5JPDP2Uj5ZorPGgPOedWaYjW8+B9bMsmUJc3s3valtO/sApmSUBjtQ1J64GAUv6h8LbGssQhs+bQ6qAzSfjbC2teNlUiLWCgVwLjWaq29AwpIMypJLahQeq0PzNaecUlG/zg01BX0wWpuDldQtEagM6h34nPtQzUwXdsVFQeQbTYLvuuVnElMQTi/7mf0Ejd9ckSko5K3llF7FEX5aYfuk9ePejdgBAOoq4BX3vTKUi15HbuXqTklhxabtVbyMekQr4=;a6pbu9Mg/KX10nBoOsj2IQ=="
+secured: "vJ4i8aHszGbqJlSfZL/9wFOYYKAPbRuBVdIK3mjpZKBpJnAodM32bNrmeqjHwhOIlRARBaperB/bjg0eNEaW+yatW3sTv5owUeAJZDK+2t7fS38BBszNPRY9yxiTm2yf8B90W6WM2rhpzIkji0otA7EmF6qM3u7QKlkYGNpHrN2oVyYqb5JYLDcZjCzXZqksJBJv8ge9CtxQ0TvGutBeLpjsCCxRVJIA1/Ub+D/iGXuQtygSzUrqL2CYvAOdqvPoI9LSpw2dzGwIVVxPIVlEUse/7tpKBzR67fJNVU1QJY4yX+2gp9JUtBcKY+6tBxofeEGCIpayvJiZGjjQsauPgD28NoCkJBpUrOuCnBEbVPNe/P+5D1puK+IjiQ9wP19/6IY0RdLLis+GKLCx7yztEQDkgD/U6pMUg4047P3qmk8=;2nmNvImsqGjuwHfNePIxaw=="
 ---
 

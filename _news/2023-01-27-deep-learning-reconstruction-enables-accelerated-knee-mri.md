@@ -2,25 +2,25 @@
 category: news
 title: "Deep Learning Reconstruction Enables Accelerated Knee MRI"
 excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ..."
-publishedDateTime: 2023-01-26T17:10:00Z
-originalUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
-webUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
+publishedDateTime: 2023-01-26T16:44:00Z
+originalUrl: "https://www.wfmz.com/health/deep-learning-reconstruction-enables-accelerated-knee-mri/article_f9a945fd-cfb6-511a-9c87-cf8f043a5648.html"
+webUrl: "https://www.wfmz.com/health/deep-learning-reconstruction-enables-accelerated-knee-mri/article_f9a945fd-cfb6-511a-9c87-cf8f043a5648.html"
 type: article
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/89/a89d37bd-9579-50c1-b5d9-7aedd499602e/63d2ae37698fb.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/af/6affb0ce-7982-5b98-9296-7a1edf29a1a8/63d2aacdcf96d.image.jpg?resize=400%2C267"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "z39vzTE6Tr1SO0p9TxzPf1LxIjJHUzcoLmVKV76AM+SJ21J2oZAHWGzsjrBUeI42iHU++ef+V8zfjFR9XP6zVb1qmRAXDKXaoCBp4hWoIq+rnHQrCYXnwt0fh+/RRjfK2ojqWXviv20MvIS0WI3IcHpK4DdGpRSUnO+VCEv4FTqTC+qz3Up+ludU9BOd3F9A1/p5iVOhZ6HSHE6KFNybBCs8LBxIEnz8ORRkRz4zOx2txu25pgrkYO4ZaFDR/+yxHbc6wVx1o2erUYYRiA2iFBEdiHucba5V/n+oWuvGVA7iwRQ4kz2QLGDJadvFoqN/NyxgMTLTh5eoLBWScPS4Qt/6ldIm+cHyUosgvSBJO8A=;9x0wE6EryqpkYiPfAdmuJw=="
+secured: "x3/2E610LPfh1JMGlOWyw+fHEpN663BjEAKUeoUyKpxPSHBYvTKxYVO2TMJBnMCWt4BFKbEitjRYgy9K0d8LimX+yNeDOKmvhSY5TZ2Icf8BhPfaRmx0g+zzwhi+4/dwvKKRXjXLbkpWRNVIcfw3DGnZfsnbeeKA7XpULMQIGesgSM9uqHmELqkhvCKjud/4Kr+DVrwNq/BmkYxTgyC7vEpqxRaZgP/T1Ci1dekPzn5OhscVO+ursb8z4xW6dhvSX1Xx6ApXYcZ201tIe3S45MVkS6qaH8/4koFSc0f9FpHN0L6/aGrldrV6ws1LFmXqxmxTyx3J2BYd0QvZdqqF005cTCGyk3IOEvXwuKlRpY4=;ZXrmvpVs4UE/i5IgH7/zBA=="
 ---
 

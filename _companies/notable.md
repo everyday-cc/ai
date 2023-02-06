@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "notablehealth"
   url: "https://twitter.com/notablehealth"
-  followers: 375
+  followers: 376
 
 size: 11-50 employees
 yearFounded: 2017
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "GZkYT8G6zIanUTXbeuSlGO6ykbnFa2miuuUi4uzmdjbjNVJKlDTxioUpGFsmgBzy2lQgVmfU1FbzVktK4hPgoX6CckOIWl+jlgYYBtUd49F3+/LkCjjmT0Lh4sPymeqS4ssYBSIqY0k03gnhWbmuk+gepmb5uJBDvDiUeBHQ6Ev/gKFITsa/g999uul+JmkyYwl20gAMq777nu3/xUCBpdoSUB1sxI/fnakKp5wTAsWjU/IhUGnpzWzDDJyKSTRgm1LeUfWLLRX02sOKpvLqpBmX8Jieaeeo1Pn4Q9eAicAhx7DFTtk9NGNxVxrO+b1Zamw9iTELrRArI21KdPncsScNq71+BLSWVM6YepT6ouoZj2E6FNMFRIv4wRU8CFc8TX0PPU7c7b/hlAwxSSvvpg==;q4hOp6Pm2N+2e0QtoTLD/w=="
+secured: "oR+x732iHE3pXqfw4+wdMT8DqpcfVfZoDFjk8qzhABldCKxRKDdLnoW63JGNe7V2MqWSCOLORfyYQheLi/O3dMl62XVBv5Y0Lm9zxEEKABQVo0HLnjXfN6tdVzO9Yl4XKM/qW8ZnQXAwVDFgXG0VAJh4N67BPw8ESxn1comYruAaM+7gwZyazrfSciPWczQMKPlBQZ2UFsNeFobsc7IT3MRQdn8Ixn8f7YwoErbO5LZTG6FgedCqKC2vneC5w7FK/lva+vo3p6l5cpxOlMIB2j8CJFlMS+VpaVA8NBQfvD+qEh+Cfx3X0FipnJ0uA2SMeDLzb/Mz5+AQ7wrPjPl4ATi+y1KLUKO1KVcofsjyltRFc52VN5Ycv1kDs5S/NqKMhyh6lCcwMHThin2i0LHUfg==;EVYId3vfsNEuQ1BBIQj2+A=="
 ---
 

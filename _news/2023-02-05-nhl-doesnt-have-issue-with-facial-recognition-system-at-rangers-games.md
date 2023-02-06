@@ -3,14 +3,11 @@ category: news
 title: "NHL doesn't have issue with facial recognition system at Rangers games"
 excerpt: "Rangers owner James Dolan is said to use the technology to bar certain ticket holders from the facility that are in business or legal battles with Dolan's companies."
 publishedDateTime: 2023-02-05T01:36:00Z
-originalUrl: "https://www.newsday.com/sports/hockey/rangers/madison-square-garden-facial-recognition-system-rangers-gary-bettman-c8lvuvfi"
-webUrl: "https://www.newsday.com/sports/hockey/rangers/madison-square-garden-facial-recognition-system-rangers-gary-bettman-c8lvuvfi"
-ampWebUrl: "https://www.newsday.com/amp/sports/hockey/rangers/madison-square-garden-facial-recognition-system-rangers-gary-bettman-c8lvuvfi"
-cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/hockey/rangers/madison-square-garden-facial-recognition-system-rangers-gary-bettman-c8lvuvfi"
+originalUrl: "https://www.newsday.com/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi"
+webUrl: "https://www.newsday.com/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi"
+ampWebUrl: "https://www.newsday.com/amp/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi"
+cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
   name: Newsday
@@ -20,30 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://cdn.newsday.com/ace/c:MTI5ODE4ZjItNTVlMi00:ZWE0ZDhm/landscape/1280"
-    width: 1280
-    height: 718
-    isCached: true
-
-related:
-  - title: "NHL doesn't have issue with facial recognition system at Ranger games"
-    excerpt: "Rangers owner James Dolan is said to use the technology to bar certain ticket holders from the facility that are in business or legal battles with Dolan's companies."
-    publishedDateTime: 2023-02-04T22:56:00Z
-    webUrl: "https://www.newsday.com/sports/hockey/islanders/nhl-all-star-game-c8lvuvfi"
-    ampWebUrl: "https://www.newsday.com/amp/sports/hockey/islanders/nhl-all-star-game-c8lvuvfi"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/hockey/islanders/nhl-all-star-game-c8lvuvfi"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 59
-    images:
-      - url: "https://cdn.newsday.com/ace/c:MTI5ODE4ZjItNTVlMi00:ZWE0ZDhm/landscape/1280"
-        width: 1280
-        height: 718
-        isCached: true
-
-secured: "TOwDdd0N64I2vmi4wb9g7hra+cEGBA5Of46y2ROyHzixARoAk1e3ITqLESSKQ5oF96gIP6w6GvW7nUyzGguz3BQp1t7zKL/AJ0FN5rla3gnbgorfEl6QcMuJNGyugirZ/nPL+oy82La9Y/UoLX+/MQDdBYBGWuB8eyzjErdMxb0z+3AsOJN9OoBwkud04Jk9lhVwZzyvy+n+cBIx4F48ulceiJbaixTlFfsQY2ZfC4esH6YhRvKsVYS/QD1tt1yP464VLWTavF8gjgtl+qi5NDPt6ENqgzA87RVUvwv3JK6OAQ4x4JPGZP8LW8h9j2Rz+jTC57MKGtP1c70h6s7bLDEb5AkhhOUivn2Mhtn/DfA=;D8nemXb6SQcIWxYOGNPJWA=="
+secured: "q/g8VwB28U/p4JfFM3uh6PgDjNkHr/KE4u6UhD41TjNMDKr+tOT/qmJ4vvFc/DFvlmzOvYtOfNAEWVVwPz3uN/V6FuqwGwmDVkJCKMsYc1GLkxAzKzcPypt/8QqPXXPTFNd7qvpWUc/ImSr3GFKmn69vjH9reSzuKKDbHb5PgPWWvqiVlCYmnvZhV+ZpiOJ5c6jbc5AdjSiHUjvyOfHIcRpbxCnSZkKezIV3u/MDQWReQ++YEWGTp2ePgkKX799A62BDnMaCscj9289FGK3VUc9rXF7FRjfmtD8prD9EH7wTIEekMH68MYRsML9wDRHw7Ax1wuKR47QYWAuG9Y/52I6hgins6G7vpzAs8SNuSUzCt/LKfWp5oOXyKqs0zBttNPDxs/EDT3nF6qjBZbuuVfCOiFAEg9y+6iwTzIYod2gXGU7fd2tDy1CA40KKpD5LYrAzO1yyVnDDrTzf5z0TL/eIPPwL6lXUzFdq//WfB5u7uDTk9Fosjio5w0zm/D85TPy4zms2N/Jbr8cw23tXmA==;WnLQbhF+rJboWIoLcI9GkA=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "arterysinc"
   url: "https://twitter.com/arterysinc"
-  followers: 2205
+  followers: 2206
 
 size: 51-200 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "SZZKSaeyhFdVcoRxOcRgCw69GB6thjEtTTfv3z+eF20mq7ippTpHqyIiLcmAADFZehQh3vbY21zvwr7ccSfE3hnUpl61vnV5vV/JvlIGJyTADLucTBhYmUp1kiSPG3kedADqRb8HB6F9MQPNXIYTekeHiR0kh6rTYo5WmEv1cTxEc/j71A3YvN3eH0TBp/Jb+Sg7OAq8q/mCcLOCoQxiTpAXpyBQt/7ucfzgMSolZL4wOGKpCp9z4Jx9xWi4Y9EKxINkMOO77cPGttqRgO0akW2tXS9FL3nY0mkhneqIsWfUnKe+mpeqnkwO4uPtymVVYcCUidMnHc3Aj5eGlh60bHvvLptqyxHML88RaWzzJBI7x0mGHWoIJUurKJDT3JLOHTNxfYFqGjutQgcJDZxxz0njvXLdyIUeodUgdN2CSR8=;Bm4q1xpNck1quUnV4rmOQA=="
+secured: "Xwko1G2nSa59Umps4lOXYsL4BoWUeb1fwb4spqaX8E5VeDJeKa9ycQbDjZ3cav5ox3gFPkdpXKV89Plntqv4naik6q8GpCKIGiIjM9l1TRA8Cu/D1Md8eoeSgUkONEKJlkHsNz8pYrFjR2FBOtjEHJHGhlS+MTuM+nmxCzHmnsVzZp6YW9pa0vWJyXY6dMWgks0LUsx4SSdK/HfKeoXgb0FD5bGDAmUVjx2xMNzafIth6UjOBkGbXsfvZT1bhX60qOph+cBDKNvAnVGoC6b9BbUy8auS10A6P5KPQqHOcPWp+IgHymTwZIJ7PQa47eB3Z2uKgfqzWBK5dVf7ZxcjYzz/J2uQDjtE6OBwI9z7tsqUr4ggcHi6dAX4sQSjhBp47tgefIgI8SVtj3FcagdL/XbhCmsnfijeXvXAR3t2HLw=;oWQXZa308GAFxeJKTXFnTA=="
 ---
 
