@@ -3,10 +3,10 @@ category: news
 title: "NHL doesn't have issue with facial recognition system at Rangers games"
 excerpt: "Rangers owner James Dolan is said to use the technology to bar certain ticket holders from the facility that are in business or legal battles with Dolan's companies."
 publishedDateTime: 2023-02-05T01:36:00Z
-originalUrl: "https://www.newsday.com/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi"
-webUrl: "https://www.newsday.com/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi"
-ampWebUrl: "https://www.newsday.com/amp/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi"
-cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi"
+originalUrl: "https://www.newsday.com/sports/hockey/rangers/madison-square-garden-facial-recognition-system-rangers-gary-bettman-c8lvuvfi"
+webUrl: "https://www.newsday.com/sports/hockey/rangers/madison-square-garden-facial-recognition-system-rangers-gary-bettman-c8lvuvfi"
+ampWebUrl: "https://www.newsday.com/amp/sports/hockey/rangers/madison-square-garden-facial-recognition-system-rangers-gary-bettman-c8lvuvfi"
+cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/hockey/rangers/madison-square-garden-facial-recognition-system-rangers-gary-bettman-c8lvuvfi"
 type: article
 
 provider:
@@ -17,6 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "q/g8VwB28U/p4JfFM3uh6PgDjNkHr/KE4u6UhD41TjNMDKr+tOT/qmJ4vvFc/DFvlmzOvYtOfNAEWVVwPz3uN/V6FuqwGwmDVkJCKMsYc1GLkxAzKzcPypt/8QqPXXPTFNd7qvpWUc/ImSr3GFKmn69vjH9reSzuKKDbHb5PgPWWvqiVlCYmnvZhV+ZpiOJ5c6jbc5AdjSiHUjvyOfHIcRpbxCnSZkKezIV3u/MDQWReQ++YEWGTp2ePgkKX799A62BDnMaCscj9289FGK3VUc9rXF7FRjfmtD8prD9EH7wTIEekMH68MYRsML9wDRHw7Ax1wuKR47QYWAuG9Y/52I6hgins6G7vpzAs8SNuSUzCt/LKfWp5oOXyKqs0zBttNPDxs/EDT3nF6qjBZbuuVfCOiFAEg9y+6iwTzIYod2gXGU7fd2tDy1CA40KKpD5LYrAzO1yyVnDDrTzf5z0TL/eIPPwL6lXUzFdq//WfB5u7uDTk9Fosjio5w0zm/D85TPy4zms2N/Jbr8cw23tXmA==;WnLQbhF+rJboWIoLcI9GkA=="
+secured: "RZtp0teCrX3W0efUjQV87ywnHbTkU/HYueYO/0Z5/g8Unpna/rS+i2eDnu+eaGKDyUdpvstTeMNqdr0ilEdFvwS19kW1XeHAr9kA8/9yY9g/wIm2hc7MYfMKiJzHNm/5PhAj4wxAroy4UPW1w5xU6DsuEEQJp2t1PgddXeSVWtVZAHdTBQWJEiRJJ/sHRZXc1FtohR95qp6aslXYexLzto171JiG41HyPYaTMhkBQP8fpbD2MTL9FNySSPmtnhfyo90az9FaU8UYFbaNqki8ky+fdzX7s/WiQzZPn4fQkf1Ihs9EiRaSjjgUK6xkt7sA8DvGencDqNG3vHE9aJN00V+nSLPTIvbCzfZDzEGef6+9aBhFWDe8q56XZyu+28SXuDmnbcz2GNbFOtD8cXGoB0lu0vvc8Mvj9TW+7mr1kH2Nto7ybwuVVR1vhgde9P4HYmQwVq8xViKMYVNEEnSieSvpkOelSb65TV/WMZenRsAnBw8LmQ/B4uv+etYZBLL1Cm18ppNmIU41s95gMX2SQg==;4ML/ApJqjCiQ4TK22DuN9Q=="
 ---
 
