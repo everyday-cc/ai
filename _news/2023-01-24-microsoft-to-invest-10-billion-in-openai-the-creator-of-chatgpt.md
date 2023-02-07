@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT"
-excerpt: "The tech giant aims to remain at the forefront of generative artificial intelligence with its partnership with OpenAI. Send any friend a story As a subscriber, you have 10 gift articles to give ..."
-publishedDateTime: 2023-01-23T17:45:00Z
-originalUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html"
-webUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html"
-ampWebUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
+excerpt: "He covers artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas. @cademetz Karen Weise is a technology correspondent based in Seattle, covering Amazon and ..."
+publishedDateTime: 2023-01-24T10:08:00Z
+originalUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
+webUrl: "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html"
 type: article
 
 provider:
@@ -18,17 +16,10 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
   - Microsoft AI
-  - AI in Autos
 
-images:
-  - url: "https://static01.nyt.com/images/2023/01/23/multimedia/23microsoft-pkhc/23microsoft-pkhc-facebookJumbo.jpg"
-    width: 1050
-    height: 549
-    isCached: true
-
-secured: "ltjiPWpJvefp1+XtOmh1UlbkDVOiKzjmH7HaqrXzvZKiVe0ZSCSll94rbi7k9ixV5wt+p79sMKSNY6o4davkEfcglY1BetnvSBJt1dTHJSl0/3aFBBV+2csbVKkHBlgZ6H+I/0kWJNJMuMq9p1weyZhcsEHvQvN1qjLnFep+wzwBRWIIPN+YU6R6NC7R4OwvVYy/Sh1QSjQEpYxq2iqURUsFYDWGWYMi5tz28XDBjkeqnXYW6nnKw990dJk1wRgnQp2gUAUJu8n2DqcMgHNLxomgYSIPrHLYbVWZkeTX+L0BlAikwrxb1tcPYbR/Le+47hLA9WuQxv5k4K/3NaCdLqxvpSDQpxboVKMK5LdW2Rw=;t8wtLDlHlv8mB8YNXPzQ9A=="
+secured: "UJzaebNiOCa30A4g1/pLwzt5OAehFI5u+BzxkulrGmEqC1YpMc0oSXEx912hfusndUjo4Es6NYi5ffbLLGxFPXT6EKWTwQhuFeCnYAbuu8NlvJePj9LYaSn+n5R8CQM7qbrd3WGp40y/yvsRZD5Ulq60PUy5Zp2onTdx1QiNqP5palO4Ef5Gbl+KOGnqG8aSA/VvZUlpo32sdJKeHpbyH50cPMpXGgK+5VsDAFV0dzR59M4yN4wgsWm/dglslVsvQh0l5BT+xafbLR5yvmAur2vqOOnyzW9PnPjXX7qjO+g4NQqxJYDDQ1KUJIK98/kTpgGjwCFeOXOVRloIKQXhYh8P4GCc7gzC/WjJj3NzW6w=;CbxdR7Tg7tLXNmd79qhZNw=="
 ---
 

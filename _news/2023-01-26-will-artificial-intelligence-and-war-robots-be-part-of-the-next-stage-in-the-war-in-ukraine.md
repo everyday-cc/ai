@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://static.euronews.com/articles/stories/07/34/07/90/1000x563_cmsv2_16ae27bf-841e-5bdf-bfea-8537a7e65ab3-7340790.jpg"

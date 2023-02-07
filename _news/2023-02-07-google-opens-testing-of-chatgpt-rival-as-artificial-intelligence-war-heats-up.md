@@ -1,23 +1,19 @@
 ---
 category: news
-title: "Google Opens Testing of ChatGPT Rival, as Artificial Intelligence War Heats Up"
-excerpt: "CEO says the Alphabet unit will launch the service, called Bard, more broadly to the public in coming weeks."
-publishedDateTime: 2023-02-06T18:20:00Z
-originalUrl: "https://www.wsj.com/articles/google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up-11675711198"
-webUrl: "https://www.wsj.com/articles/google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up-11675711198"
+title: "Google opens testing of ChatGPT rival, as artificial intelligence war heats up"
+excerpt: "Google says its Bard service is based on its experimental artificial-intelligence program called LaMDA, which stands for Language Model for Dialogue Applications."
+publishedDateTime: 2023-02-06T20:30:00Z
+originalUrl: "https://www.foxbusiness.com/technology/google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up"
+webUrl: "https://www.foxbusiness.com/technology/google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up"
 type: article
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - AI
 
-secured: "fP9fpvwiqYIwLomefc5YjhtJgTrEt14nhvaSYbtIQdzgdX94/0dRpF+qSCKROMYDmmiVZRPV0i6e0XwfSUKnpsk1e5ZPWUqFl/YOkBkTWtHYgli9s0rwAwFhNf6Auuod4NDXsfcCFuVpjbMWRpQxuCNox5dOxg/1BjShfXjy5wRGEfkb/D9m9/w8LlubyRkaZxBDTkZh57nVesTRY2vwvHqIiFxShYctBhEik7qtDJz6lI+XXl/yohOwSQE6rf+VJ9jAP4YiRNG9d/6jbuViCez4NoqdD0jX7A7qIwNB9UHGBi2RUUuxDZxdcZrUUQjbLH/eMswLWINiU5bxpkShFDULs0mW48shDp2mG8qPGzg4/mh7ljO9BIoOQi/j0RuW83fkn7OR/BZjL8a97hnZLTTGRadqeMSXGrRjfArMNuzHJ0tLaSbjjIcg6ldG8e25oBFWELSmbaOQTsS0GUQiW9RODg7ObIMyflQmAOzxWM6rfT5vz5S2qANHIizCTyDSPdHgK4HcifaOZbAjPgWi5w==;6YqheEjJ46kdGt0PFT9mDA=="
+secured: "3CqLofc66xVeZv6PtxydsIfO32RE+eYM1udoqjFb8tzxcvFLzu31Qn8/XZ3WRDIpLneFDms9V3/0GTtC4e3nkN0LvoWOGdhDkDNODiA8taiz3lQ6xRoFKpkyo24mJZLdITLwCZMMLQNBrMHbUMBW8Wt1QZOoC45Zpon06ccnOiKjXvFc12lcVZUoiTgfNZBEaHi7hKbIR02LsHESToa6CJsHikihE9hSdtm31LNb4pGR1t/JVQlM7vldwImYQ4Wk0R9P5CwEeYqgbbgqjKZV070ggbekjNl6cIFUoR9JzCuqpFFHoukaKZV0UHqz+jv02hSO/rUQIQfLwjVJ00tP07wHjdp6c2h66rzlqhQpwE0w0N1PTcoxiY/WCtH6mkR2VEJCg2Sva7i/kijprBeFSHAQOzgBsOTdO+MJ0WJ4HWwuTof8lMnhzTuof4Nz1grTT96fME9EHfUvtBAlC0f48IXRFOaQWdk4JyPmzLhDEkehfG56aUg16Qf6/rA8Ol39CVY/vU6pbucRc7JJkdhHKg==;kDhNI6kecKve5JF+lFgsRg=="
 ---
 

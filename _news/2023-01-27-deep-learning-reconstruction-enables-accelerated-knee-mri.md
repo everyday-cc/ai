@@ -2,19 +2,19 @@
 category: news
 title: "Deep Learning Reconstruction Enables Accelerated Knee MRI"
 excerpt: "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ..."
-publishedDateTime: 2023-01-26T16:44:00Z
-originalUrl: "https://www.wfmz.com/health/deep-learning-reconstruction-enables-accelerated-knee-mri/article_f9a945fd-cfb6-511a-9c87-cf8f043a5648.html"
-webUrl: "https://www.wfmz.com/health/deep-learning-reconstruction-enables-accelerated-knee-mri/article_f9a945fd-cfb6-511a-9c87-cf8f043a5648.html"
+publishedDateTime: 2023-01-26T17:10:00Z
+originalUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
+webUrl: "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "pyaNtRBzcZ9JD6SkYZzJb1U85/P0FmkO2OWYTDLxHgRoe39NtGrIzqX0cYUofYt756OcJV1EUH7J6/oHO7nXEGfqSSzxkGUXzX3zFb3aDFC0ZatgDhOb6LHZNohfRzpuTaBugD7oLPY0GIiNvj2cUr1kdmsp3GNcDExISan5QrsrI4Kjr3Zpm6VlwMvT/XlrELjM125gljZ0rOlAt+uWREbhp2UqL0Sq8VyOs9zAgr6o6qqE3jYgOfj38r+CRa2xkRap5CxZfjPz09+rC0kTXG5NufDVBgzGP7l/XjQAynkPSOd4tYH7vTfGXCrp15rphs1/r8s7j9gfM729iPxIAU00yE5iSHKIQd4flfcOHZE=;N1VlEDOv5Yis4uyQfFsBrA=="
+secured: "q4/uHynMUhBes0Z538X0mMus+vaRih+qeE0QAsaH6DQZjz/+YjD0GqENQcvSFu2Q1hcJe05j2Xzsrcx0Plqyb7J88EtTG2i8KF4jJ/Dab6aKCu+HJ/4uMfqeLeOCYqgYouljDxLbDST2V5rorcF7h09+5CXAAlLEfgzfvTzpInsoHXUSRTEJh8YpElAVa32L7pZUxsGmQlrKqcRTahly3Ff5L9IY04DanajAJ/kkFy5QGef1GJcrllfrq9AqcSj72zKVbFALVXvU2nB7MY76r6/xS8QtDE5PEyLYUUsQ8oVlrq++wDLgLv/Z8TGTEAScDns8DV7cQQknCyA7t+azrFoxiUpVO7uKaZcMCf/S2rE=;tiOndNWXw6nh9BD2YtyZaw=="
 ---
 

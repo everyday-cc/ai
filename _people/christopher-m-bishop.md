@@ -17,7 +17,7 @@ website: https://t.co/qaAoprog1k
 
 googleScholar:
   url: https://scholar.google.com/citations?user=gsr-K3ADUvAC
-  citations: 128442
+  citations: 128542
 
 topics:
   - AI
