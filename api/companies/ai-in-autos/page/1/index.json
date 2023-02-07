@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 19274408
+        "followers": 19282053
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 109699
+        "followers": 109753
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -139,7 +139,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 37658
+        "followers": 37670
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -198,7 +198,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1089391
+        "followers": 1089456
       },
       "yearFounded": 0,
       "locations": [
@@ -244,7 +244,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 78359
+        "followers": 78374
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -258,7 +258,7 @@
         "AI in Autos",
         "Google AI"
       ],
-      "heat": 177,
+      "heat": 178,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
@@ -399,7 +399,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 21543
+        "followers": 21544
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -457,7 +457,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 12784
+        "followers": 12783
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -618,7 +618,7 @@
       "twitter": {
         "username": "StarskyRobotics",
         "url": "https://twitter.com/StarskyRobotics",
-        "followers": 919
+        "followers": 920
       },
       "size": "11-50 employees",
       "yearFounded": 0,
@@ -947,7 +947,7 @@
       "twitter": {
         "username": "NautoInc",
         "url": "https://twitter.com/NautoInc",
-        "followers": 3710
+        "followers": 3708
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1330,7 +1330,7 @@
       "twitter": {
         "username": "AEyeInc",
         "url": "https://twitter.com/AEyeInc",
-        "followers": 1814
+        "followers": 1815
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1378,7 +1378,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 18365
+        "followers": 18367
       },
       "yearFounded": 0,
       "locations": [
