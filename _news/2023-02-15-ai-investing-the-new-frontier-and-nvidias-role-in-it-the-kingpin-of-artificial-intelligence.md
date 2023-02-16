@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://cdn.benzinga.com/files/boliviainteligente--zs3s9a3jeq-unsplash_1.jpg?width=1200&height=800&fit=crop"

@@ -1,0 +1,20 @@
+---
+category: news
+title: "The History of the GPU: From Inception to AI"
+excerpt: "These are the first and only books to cover the entire history leading up to the GPU, from the origins of concepts in the 1950s to the supercomputers and smartphones it powers today. The books show how companies started,"
+publishedDateTime: 2023-02-16T13:04:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/02/16/9761684.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/02/16/9761684.htm"
+type: article
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - AI Hardware
+  - AI
+
+secured: "TmrafGRBQlTMrOlluqoin1wcbGb0vl65hiG9mQpaTAWtqT9h6YnQkxZAllLh4EMSyUddC6a9x+5hXTHPimNh/FamCachfPgkU5+uWpNSpTQtw/jfVkyIdoc35N/wENNq8reRm6wRzsadQ6vsOqP7bc3xSGIyp4fGgXLKX/ADsyCHtL8Scp5X5rT6krSjwS+APqGa2EEAmtg+4NlD0TrXLQgbc3zRTXHWRrN1AocoE/ctTsmNCP9OIirobSq5gnAIn9oerF9yjS+ZwptenaOQDuwUx+CSXkl6cQO3Q+dzggpT3G9fWvSqEs/j/QtVTuJlMl7JzioOyH6T+wJPlBgk7GLtZnv0pMyKxV9wZpABR+TYCDvrRKzJEUyP8c7E23vUbL/nZFUS1eqODNPvljHNtZxf9BKDXrd0hJMjak8kZ11fzV9PsrWnWV7StMRApXplVccTNG7C1XfGOe6NoP5LnFkgM8lfEHO/wFcRNy3sIV6td60IUB21GsPkzGa8qYs+P7LQXe1XtupD8CwGNTvcjw==;HHka+rc6EZ5RBbcwj1xzxw=="
+---
+

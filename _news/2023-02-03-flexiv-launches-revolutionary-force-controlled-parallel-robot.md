@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "dTgJkySOTcuYli5bg+Dz/wCpUT5VH4PtRAjysvkp1w0tIbaZRs8S7iawL6uBBz9XNU0Vl3dxBFIWI0cKEgNYirmGRbmwTzYW5a2FjhAl55Z4E1dM0FgOkZR0dX81xtHOHkjUNYcapneSUf82MFDsCDgROuECYBIdWv/bt1abtm2I4gJrTPkdon10baHbfXNjM52wk37xrUSfOgnMMJyLRbdFpwKyeyvZBYA4+c0orIjGEs4TxUJK1Yv717yWZ9hMmFC/AFiQ00wpumwOnExJjVDHPVSNWB2/VAx+Q0IMV71ayVPyuO4ZLpi+19eSGT2tws26+GaISkKd4feFRtpKDLCDdng/tZ6MzjfV8jToHMw=;BovR8lLIAm5Zs1rxTSLCyg=="
+secured: "8kiUEUOMegCM5/Jd9oMTbHMh7qQvJ8yrc8ydhQvt7ekp1Vn5RyiKwh5F0zyXP3Z2ob6LLkB4+62KHz6Xdr9wZG5JtbzLP/bLe72SLzTjfe4gEQIyvzWAzso+p67sSTT55Pw13gK9eJtbWY7Anh5ppl+4EDM+KWF7bOBdNaRpAq5qrRC1qQMiLPph2bKcmLUTYlkLMfVSHIDyJeIR2T9gfKxY8x5AqfDbnjX9FKhUktlqBUBSrUFR5mwW1aMr7HVrwBw1RgVa/Uf4YGX5froSTDZx5mk6/k09y4cmUlf9MUH1e5Bnncg9mlem+wlY5kJKJxm5UTdVzhnPXpmgB6JG/C0Bfa01y/QBqO7hEDKXIbE=;Y25UI9J1Vh5K+Glxm9h40A=="
 ---
 

@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://www.pewresearch.org/science/wp-content/uploads/sites/16/2023/02/PS_23.02.15_AIawarenessReport_featured.png?w=1200&h=628&crop=1"
