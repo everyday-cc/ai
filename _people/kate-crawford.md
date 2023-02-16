@@ -10,18 +10,18 @@ website: https://www.katecrawford.net/
 twitter:
   username: katecrawford
   url: https://twitter.com/katecrawford
-  followers: 77505
+  followers: 77594
 
 topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/844013024809631744/tvoeKcfV_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1624827613490323462/DHkPQagW_400x400.jpg
     width: 400
     height: 400
     isCached: true
     title: "Kate Crawford"
 
-secured: "x6I+c9K04NwUKBJHy3o7+BPV3D9Pwnax2SmyPamL8l9woJrP8sSmZFRYZWoHoGCauuib/kkGkfdnhcgHe1s+LnQs+i28HH3YoocoRL/lcerqoAVB9hOW3XvwpZkviy3v/h/P576Ll7t4ZkWr83aWXtqzJtsS9SZRkjRsKU/DZXQz5EzKDi4IsSamfv0UyRUFyT4qxwKmUo+P1LGvDCKTbWxYnTZS+wL0cVv8nPvr7rqG8Hnj7HttSqle490Zsso2b15Pl+q7XTzTilRPDrbfEc0l3hKYSVq06rJac15m6fdrjRjsmxaII2G/oAFZ3c3egiZnnSgN9jpjXaaRA/jJwx8BrNJ4DSoyHDoHMjaGeLaymI6g1KRNxJvJ7ezyU3BQnRhrc635j4AZFpCj8M256GqdU/RUr+tyznTxbROhNXk=;xGrr2wXfbw71wb0Cfa+DKw=="
+secured: "CqB40n46yKENvbJ9QcC4QQ2vIM9SDoMb2RTguk55oF+VZn3SOWUqYTeHKujY3vHYYT8C6MZIjee+qFh6AJGDVPJdhrk1yvC8qymSRsEwnOHJC1USpCw/TkqMtR4ZQ/a7Nw79aRV42XfEpGcuvvgXljUf5BPAX+xvhLyhizoBPeNfK1KaK0xJcbISxzHw6emwUun509JEa3UMgDpFaCTFpYl4zCS17dBWqLusPKJyb4bocY6P2Li2MJsv47zUhlmeqpgwTDwu9I3N7HQeWllEH8zQE/q1l1U+KbuRfagA5/QmXn0bHnQ4jNVunH6xCxYMN/y3RGaXGzpq61wehSoqxQ3YmxLE8zaZH3W9O4hWnPhuX/mkS+8ifhKr4C+PIBmbNZ4k24NIKtpP3pgbELUDQNkh3KqXoDhHvQojDnkXGSA=;UvEZUepDi2/dMolSRZ5IDw=="
 ---
 

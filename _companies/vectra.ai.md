@@ -2,7 +2,7 @@
 name: "Vectra"
 overview: "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations."
 type: "profile"
-heat: 59
+heat: 55
 
 website: https://vectra.ai
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Vectra_AI"
   url: "https://twitter.com/Vectra_AI"
-  followers: 2894
+  followers: 2898
 
 locations:
   - San Jose, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Vectra"
 
-secured: "x1JLn0T9KNJfeOg3a8yfFpJ5T2cdbIaN0Ah+TZKEl2WA25plPXaRVGwlhy1R4a0eE3fj2MPLjIPwZ1etKKjwikMJuw3232qmZ4EEVO+yOrI/xIDNPZKC6zmo466Ce82aMY67F+u34/+HEBTSBWWVVcV29/GB+VLUIuLVadRi1MhhqhFAhUnk0Zqk2loSHMBG7QVl+r535Fr1yOsLepfh00eeMlpWyAmmp1/iiqK3Xu0D/5Jw6XRBtpgbwXj9kLwPXL9RwFN6WtjIlRcIGOk4KPRxT7Huq1CS+X1zpmL3TNbPbfGiGqnd2BO9nfmCMCMItSK0KeN6p09okFI3l1UOsJqJ2UpqCnPVfEfX+Wh9Z2u0w5q8N707Vic5MDwTH3zxah8o3Cjt5RdP131B/eoqBYHI6EuqCLNl7GacC5tEHAE=;y9uHKCWeyRduE8XZFMyZ1g=="
+secured: "QQa7KyuqH0iISeZLJCs7ShyXB16PCp7l0bbhOIZuAiatpz72vjIp6DNBI/S2CfFMSYHEBFh9hOVVF8WFQt2UqlwE9cf0go5LyhsWTl5kqotPZCtdrwqy7g8ttM4oS3uL8V3/WGv/JDXvF6uw97asof5gLAZcgCGGm6eN3uRmmo3m/L1asiekE0u8iU8+iDfKDKVZN03bEJ8W1UJNJ7u9GDhHQRLQRi3EBzQXEbNf8Clc1h02LjSSnagfq4/cGh85MGcTY++7JgSheYcimhw2woG/O07O4i/n9Oks8KGI624ecJxSTi6MBK/OVKjDopDv+4GV3GSuCv5m6HEvmc5pzEk4xkuEYm1Zy7LYm0jFhac56KMKoJJ4x1mSougPPSY2jU4Mk1VhTCUD0bAMUPe3cmy9o3oqJ55P0HWXLkgnlPM=;zZiqsNHkpUopOYgSP8gXvQ=="
 ---
 

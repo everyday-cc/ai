@@ -2,7 +2,7 @@
 name: "Robin Healthcare"
 overview: "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies."
 type: "profile"
-heat: 50
+heat: 49
 
 website: https://www.robinhealthcare.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "robinhealthco"
   url: "https://twitter.com/robinhealthco"
-  followers: 118
+  followers: 117
 
 size: 51-200 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
 
-secured: "pHb+qBwuCvnfT/4ipccBPUE9rwALKAFybwJ0c9h3uPPtqbhb2Wud36dRlIhoy160WMk8VYMaqmrHiBtOXsIBcYUUbFYNfphX+P92GaQ7rQ1TitO10JuuHyUNQqb9cq3pnr8S0411NiQq6b7kNaU6R4w6FW6U9+q7qBnImhxHoCXCJbfzuV05BP6RGHIelCtoPFyUgvzlqfYb+ZKZ5oSMi6Ox3JUg6EJ3i2FydPonystqYbYakjDgapV6q1ZzlC2+j+jlDH2n5nDLnKHIjdgJSTbtMsJZSwafr2hhnVqr+fkVOxEy3LFxzwicu/mknncriLAZat0weMf2MNLXCwMPxz8umYi55+HBJATBiK0rlu2FMNJSZn7tC91Vdqur8fmTyApMt/xirUq2hL8M90qe3A==;7mxrPygXTXF6j3MYmORwMQ=="
+secured: "647yhpkm39LESVgkjHbCQn0K4bYBFriw54hGJ/+vGo9Jh5nG4J5KKL3FT001DjI3xOlqANDik2w+Pr43gzn2xBTio7kREjvjiqb5wugqR9Ta0Nx7LrGkQxEoB/TBUSRuxJ+Xhq0ot/bQ4SGDcDOmndh+rytPYytUegVOo08n8ZLyFaYtHhpCOYvOgfFLCqXKZdPKTZXgDhlYcltEeNoJFxMwECxY3m6m3Iks05l+Pq4miWjzkc9n3b/9djZZUB1q2CHumOmNrmLmU6zsMHbirt4TSOgN9mKH9Nb6VD/5HgBxzetzfA7hVuxD9BY/WrQgAPSgSCE7zr7ZAx4TFvTSgEDpDWjNo+p1cTIwvQGSO5a/3TMAwkkFG8XJIoi62c5ggyY8M0TXtq/v58DpYz1POQ==;NjIa8rxNZYcO6Xj7JbGWXg=="
 ---
 

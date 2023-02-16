@@ -1,6 +1,6 @@
 ---
 name: "John Krafcik"
-bio: "We're building the world's most experienced driver."
+bio: "Lately, but never all at once: airports, trucks, cars, coffee, autonomy, batteries, democracy, education 🇺🇲 🇩🇪 🇧🇷"
 location: Mountain View, CA
 type: "profile"
 heat: 25
@@ -10,7 +10,7 @@ website: https://t.co/i1uBCCpct5
 twitter:
   username: johnkrafcik
   url: https://twitter.com/johnkrafcik
-  followers: 15388
+  followers: 15378
 
 linkedin:
   url: https://www.linkedin.com/in/johnkrafcik/
@@ -23,12 +23,12 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1536876629091295238/bJYw0phe_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1626011511318511616/GDQ3_U-t_400x400.jpg
     width: 400
     height: 400
     isCached: true
     title: "John Krafcik"
 
-secured: "tnZ4KGpXtoADi+LTb6h+0X9P9ylNQ6x1yq323RdOQpVvs03NSOYocxKs05fwDSz3HmuiQj7g6yeXntY/ATtiFLJGV9YDML8Ttng89GfCthkvM4VHV4v3H8WR9+r+ulgRRFfK0banIa3PkOOoLXbgweicE0UwT1uuIdRhs8rAP8c7uohljSDFAEppyhqZjOL6Jq6NLRqXgxs1O8AgaSwHz3rOGxtCnjQpFUszEFNWt43eHofv3EQoQWP+fO3MwkwcEOLutdrB4uqhoD+IL2wQReVHZFg9tyOun0x0ghJfA4hMNmvmCxNEQpKd8rISG04jfQ2z+tTAb5qS8mvSFABd2geyDWBvcYX8dmQN9N1kfrpRUgH46H96VlBWepiLFiXtMAQwiBHMqiaoW22Y3o3EXxf1rJ9YrwULAoRQYASpZgA=;l/SCexAyVhHw588oCVMv3w=="
+secured: "dlDlpVlwbvZwK3JtIHMNWSF57vr22AeA43OgmQzA2UynEAZ3Hl+tSrpJKCuW0GWTWDPUN8twH1QBf8q7GLr9hmMEbkfK61HcI7HvQHL57EI8FXbzmkf+2c6y22Vhd9TAFxb34iMxyMBS1/Om6d1mZv+EWY/RvsXcj68uTsJKdyOawGElAu/1AP9Q31IavIWHMmNotfH1uD9vkUlWeOhQtIU2G/tI+cCX3LZESHwahmcjilcwG8vSS99vspcriwSufX4jT5rE20XzV0XoSqOzVwok9lU6dQFwJA8JQSKQDBTu6L0xKsKVRR8TMJfsF82OohuKKxFxShEnGSQHs//BjuF06QjoqIEOz0t1eTJJwtqJ7IZv1lNgrWvDrxRFWR8PwXce8vkwmPP6kkF8zOtRl+VLYJr70DNMkISL+6jD2yQ=;XaJGZn2xFoGwAtqTazwnBw=="
 ---
 

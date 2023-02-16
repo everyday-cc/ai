@@ -2,7 +2,7 @@
 name: "DataRobot"
 overview: "DataRobot powers the AI-driven enterprise. Its breakthrough invention of automated machine learning empowers users throughout the organization to consistently make business decisions unmatched in simplicity, speed, and accuracy. The DataRobot platform evaluates hundreds of cutting-edge machine learning algorithms to discover, deploy, and customize the best machine learning models for every situation. DataRobot delivers the most accurate insights at scale, providing the fastest path to data science success for organizations of all sizes."
 type: "profile"
-heat: 33
+heat: 44
 
 website: https://datarobot.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DataRobot"
   url: "https://twitter.com/DataRobot"
-  followers: 19614
+  followers: 19612
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -32,7 +32,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1620826123033788423/Mmj2OJAt_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1624111609819062277/PsOB0YCF_400x400.jpg"
     width: 400
     height: 400
     isCached: true
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "ovSZfasfdDMKY7zpobeyRa7umXteGGPghicE/2uYNN6hp/u0PZaN7HKqhim4FXHh5e+AKw++6HXKMiHjXWHQvu1fny11Imt86rEevXEIVeWKkWwXGjSRkaPAbkor+MNrWIRrr+j2f6EUlJ94JyGcJRwC3Em7CBfuMYasI/W75zXzAsCiJHGbh15eajd8vedDxJbgEK9la9IfsbbVE9DTuqTD0cER6G/lrTAs602UmeOC1BMKGNvRVdXsVcnpD/fRdlp2XKK6D7ZaLLJEwbfukAwxAgbfO8mkznE/SJzvUppEV0FWNifrlcynwc5mjiszAmm87K02evrgvBzM39+nfmW8MSQffqCFUPuxKQXjw00d5rp8XWXAb9l1Az+H/IKNfGBwixWU/2jGOE0gHV4Io7UOqOkQzXQPHRHhPhQeMWA=;6H7/GXlaZSNjfhQjgwDriw=="
+secured: "uePs+2uyJmv50tJtczVdp+YgEPiRDQe3s60sGs4vdoR/vzIlb2uITyfM4T9X4O7NMgE954FkTGBApjTcN3rCdS8P57g6+o9uXD9e3ytFSHM1DRm9EeHsN9bVovQnh+saOfy0r/H0brY77OdIXR5oUl9Y8mazh2DE4nXXjJXavOzaq9xyyCuyiqooSk7Lc9lc+FafWtgbZQDQONct7RwrMiVpRjudqLPsRk3Vhh8qdwGwv6SPvlI/Y+0fRbcvQTd8eq4pNVLZbjNZDtI46TfXyXROVIjnfKxnK7CEJEzq1MmJRRxX1Dct42rs07XwOAuvBj6T8QFUbVyUrKFbHXWgAcZTD374W0wMqA7sES8d09bB7YNQl24ABOdR/kMSToY2MWUMDOo4NK9GpZWZbUR0S+LzLWGaJido2/QTh0qEYec=;BfORLJb9LIdk76o9m0XXKQ=="
 ---
 

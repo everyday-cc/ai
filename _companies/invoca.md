@@ -2,7 +2,7 @@
 name: "Invoca"
 overview: "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com."
 type: "profile"
-heat: 59
+heat: 46
 
 website: https://www.invoca.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Invoca"
   url: "https://twitter.com/Invoca"
-  followers: 4473
+  followers: 4471
 
 size: 201-500 employees
 yearFounded: 2008
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=NLLaC8pNKY8"
 
-secured: "mrzdC6ig0VCeTJc9igGytSIIX7IgorgBPoitQpLWr8lpaedeVwjRc6M2tszDt2Zx/3beRF6eZkTPWxOW8nDEnzan2OX8lAmkYk+JMrNFa0SdBvdemvqC2opW/FqUPKxzuSIx975kZXMTFmk/TxBqlFP1PEDuXlBM4VKYTEtl0uD4J7vWp2yUwZngnjwd+JtugE+I76Wu4MUgTbQmyQFjTPJWdgmDt9FFyiUOft+snmWkDC2f/k9vMlReCShKFWvZU+/7DaS6gBwT1nfcyhkWlV/D4bCY+iEXLZ2x3taWAOYBkQtrtHMorW/E3tCGbMHbe6IH6cG20MLaq/XJsHTYVsyAeIgebXmf56EdzUVrnic9YbL3L1dleTg9JjkC4+5sx0tOrGE1MLf/fJbkEBLC0C4q9n1Rq6ESn9no/lFMGsM=;tU1xIo/+BIgEKp/TFZcpgw=="
+secured: "4UnM7D58baZf5Wxkv6+TKgX7XKLCt01JpMlTi0AwmTaNJpzfUw1ODmHeXhfovxViGsMaWVkI/6SzgMV6aokiNVjXsWG3JhoaeNQKrFTz+38IbXUqD8gOo7uA9WAHBBsddajJF7YMFn4HSUAafvU5vs1YRC/LBKXrQvfL/d2GnqVYRrEWbQwVXo32byC0Nib6Ugjbgkz2gi4nmqtCmFQhZW+butS3D4HpMqljHXtv0ng3mpnsj5nNGYqe1l8xKxaNei0K1wZBFYUksGTCUwR5msErY4XJYCrbFboH7+M0sYqVhgqYQ1BnLtUHk53AgGm4Nxrp3UC4cuDhc6sduqRCceja9KIXtNx4OSXg6vvd8dKfyddrJXOF0fy++88+w/7zGQdCZJfiwTSWkbuURy9SHid+BdsTg98CRD7Q413vjDI=;ayH2Xd9oz7oOrOu14tkZkg=="
 ---
 

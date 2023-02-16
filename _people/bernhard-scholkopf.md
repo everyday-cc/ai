@@ -11,11 +11,11 @@ affiliation:
 twitter:
   username: bschoelkopf
   url: https://twitter.com/bschoelkopf
-  followers: 10512
+  followers: 10533
 
 googleScholar:
   url: https://scholar.google.com/citations?user=DZ-fHPgAAAAJ
-  citations: 197249
+  citations: 197944
 
 topics:
   - AI
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Bernhard Schölkopf"
 
-secured: "cktreJdSRRi0NauaTzCCP7ZjPWQPWIdzBcAqVX1mLLGJ5V+11zk7hF5sT5j/S7iYwEsp7KkpY1OzegFJP8+n0gTrGk5t7CBCKLxg7wc77ulEbe0Tfnk/Az4lASBLJDzdqdxglUVeFUrSy60z9k3++3y9Uaxq7jhY5tMrI06bJY9kubywTklBVLRdYL9fMdJ0Y23JG85kU2KQ9Kt8u6A7UGL6KTYZ5ZKA/ktDGmbwfwxoqa9xAr4PbnkPZ0DGmSoAMWe1XtxUPBVQe7Fmc004Aci7l7uBPgu7YSu2wQTqXgaIvqleWqYqIymYwNthhWdSPCQKe5NNebmyfbf47RqgEDFPhLtwjXz0AYp8PLPQJ7dgmgYrOwr4qymUMEPj/rRR+wMy1IKhmGs0fB1WKLCPctOO32CJ/+xtg7F47ofNJTY=;nM4Vimj9tNw0ymIuhdlC9A=="
+secured: "0Yf4KZ1jQahLm8hYVnIo5sskrzrHzfalvcBXyXurqlnQY0o1FivWCaxOF6th81oa/+4iaswTGdzQlkW4wS2rOT6hrm8rDF1XTAhhcq6lPFhaf7FD52QKQHJ+b6csjd7+SRAlDz2sei0w6R2l5zU/Fxj71ODEom4dcwopUhQAJvHnv3ReiHdaDVfSJ0qBexUSG34ZMEwtwrAlGZqvexzOnrjPtAL8pelNFwILjmyuCdjxgbz2LPxfOqvb1wixBoNq2ewNknpihVghh0V9VAs4y7+vcEOeFiEkpiMthIOHz0pP5XiCHY8VHEn0BdUwDtAGtCUDsztOpr1xFNb37ERNUSUKEGaZPqTTKuWY+9Bf6gM7mApeqbd8PIIL7n/eCY4FMOBwpNsQvgQcjEsmwAa1VicIx1H20QEt0hAkJyEmVvs=;LrNzyNBXkLjN3br2lLzGgg=="
 ---
 

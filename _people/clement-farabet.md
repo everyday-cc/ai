@@ -14,14 +14,14 @@ website: http://www.clement.farabet.net/
 twitter:
   username: clmt
   url: https://twitter.com/clmt
-  followers: 11156
+  followers: 11166
 
 linkedin:
   url: https://www.linkedin.com/in/clementfarabet
 
 googleScholar:
   url: https://scholar.google.com/citations?user=u3u16tgAAAAJ
-  citations: 10624
+  citations: 10652
 
 topics:
   - AI
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Clément Farabet"
 
-secured: "Jmd8OWNfFkPD/+B0HoxUkuzseHUV2O67aCBhLeF4id6h2pTBsPWl5B1aiJruAEvo/DI3YJJ2g9uENbKu5Dk+obsUKhgSJAr5GKRQ9cFqjBPEHzjH3O8M8ReJQdNEe5rXalraLdOR6BAReTBaSDZ+P8WKggt8um3V7/h506uBAv5yJxFDCAVo5K2nOh8otJ7EyqVnYxRh6xicwrE5O+veWBP0iabIjx5Y++Ok0PvvdSdXgigmdyq1yXODEA8v4hNb+Q6yojIIBKzKEx9A77jmHE+MxtFIZFy7xvC7blVQp3sNVdvp/4FY8GqAE6cLcXKCfEE3SAau5Ls7QAb7SP+u9lyhauwnM6O6GhRl9GZruDJJo/YL1OvlCl3floyW4kBNOmiel384a1vr8Wt5fbWH8HNhaPZcbuHU+Aq7Dz7NuzE=;Z6XPVVfGQx5TTRCqhafgfA=="
+secured: "3FKtXl0Rvp34Ek6rqV/2CjCiXSh4xDu9z9PvcVY4LJyZ1KpuBea8AGpF/v9Expe8Mcwqn6+wJso/BsNknkMn3YwvVZ5ybPoK3MZEeC1XCJK1LDud1x7wFCC7WQvRcVR/cIoNhb5AlGfND/ss7rhGmLsdRt4a2HXYTzh2rssSsd6iqRE2WeJaEZ/8W6lnH2yo4F4LFa9p1njIk0V4UzrX7mXhmVyCP4lS+2119K2ZV/lm3L1KTkGGBCoJWJ7Bqj+H0YFbIDbbFNvXFhyySHHiwntwtB4AvgLUqX+limwOwsPuNvKu/5/WG+jnQM0XKvWphFOvvihBHG5eC3EUTlXvawX2IBLElsT46gVEzDEectLk0pVtjPGezUyU0ILAPvRYU57MpmQgp8eI6s+vaXcQckadMJ3n6XoTArr5H838RLc=;INI+1x/nsMr/kcXC4I5rhw=="
 ---
 

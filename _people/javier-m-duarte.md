@@ -15,11 +15,11 @@ website: https://t.co/Z06UY9gVRv
 twitter:
   username: jmgduarte
   url: https://twitter.com/jmgduarte
-  followers: 531
+  followers: 549
 
 googleScholar:
   url: https://scholar.google.com/citations?user=GTtW9H0AAAAJ
-  citations: 165401
+  citations: 166404
 
 topics:
   - AI
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Javier M. Duarte"
 
-secured: "jU5/nX69ATNEjD20F9Z8ELjOq4Ixw3R0TOphdxnN5aznWf2qvdSL2NQvJib6PwO+KfX+zEAGPrvupK2PgIA56OUUtRlYeJlWt2w8ejlSDXjRfdBz0iTfOtX+qQ7jndejUSfAaCiEKlYtAxcgug0qfBAGNh1KWPBWpPBy7TgcDNNuHJ73NmGx2uOVImYmcQ6uk5YPaONbCw+/QzObJqWsw901DE6QSBv0nor4BDw1qapSG8u93UBJLZwpU09ZLJ69Vysym9o1LK/xQ2Ix8AHvGEaPz8qmytikCG6UJRiuUYzJwMtzBJhTrxCZKmHgQzQscBk75Ndl2R5G5RGxNIQJRnJqH+mV7TiNn9DgCY4yA/6CDphce78JR2nuCi8Fw22tqU8X7S5cXal8nVAqJvQ4z4MM9P/XqLPOcUKBvIRXLoE=;eaqxhT+pdyworbLDeFmviQ=="
+secured: "OFjwfEYRqJ311PSoclWfNHoi2CfBSe8xX2T8VDAeoQ218zddmFcoVX7EmLwwuAA214uCJB8YoaevVzWX17F1hEAOupzGMwlAtxSrTQsu0ktC9s/h61dCqOZvTR9RpWCgEqCttpk8mlhV1CxQ4ZCoLH7pZOs4ehWTeI84QW68b7gfmX7ttpDjFESQstxQ0f63kVYL9aN3jAVGUDqq0bX1M1S1A920YuR2OM+dZqv6WqGY4PNAKtGTAAIMfwJmQ+lOb4IcVKIzJuuahsD/lvDnobLexZxy1yqNjcSB+MF6oA2GzfXMDcwJUQSLrmUzOy2OlAvpFvXaPL/rrvt2FqG2WIlLqVieWYFgw52ufXc0ZqNSiDjdLNGdBxcVJisKY0X1EhCIbE9+bT9al6XQeVcd2fSDCO1n1Ooe8L/PenfYbTo=;m/BvzGe/yz6e1EMVlSKEsw=="
 ---
 

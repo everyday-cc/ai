@@ -14,7 +14,7 @@ website: https://t.co/uy8OBWPHze
 twitter:
   username: NandoDF
   url: https://twitter.com/NandoDF
-  followers: 92628
+  followers: 92815
 
 googleScholar:
   url: https://scholar.google.com/citations?user=nzEluBwAAAAJ
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Nando de Freitas"
 
-secured: "yv55UmetJyCOpht5bcrpHTuidp+OpDB2uZ4sJLQUMjBheFCzme37bD05WzMu56NIimPyrNVTktehc1TS9+qmpq6mo5IJFZBJlBM/H8IAcuDDHie1SCTMbad2ZzMrbYnykgcXioDhn5AvO3lARQiIbXJ9N9mR29n2SBWAMJq2jqQVGxGowCFfo/9P4n/fSO2d5RR1YOaYbrl3dQbz+xhXIsV20e9C/PhlQ54fRm4OVUqOOcRIL+ALpULbF+EqwVW5joakeHyHVUa6FyoR3QBLWRblT4UbDW6s2J3qf4g9PXSSHraI88IqzETlOhc0UQ1v++TgohMy6HV+rLNbB0g2oAAeAbtODVz22KJikxMGKukWmmsL18FPEubIH07f9iCUF1Sy9dgzTwSgjeHv9dQPfuFW6up+Xxs8swO1ghz05Dk=;nfIGVb5pQRN/sWf9O9g1YQ=="
+secured: "5UQ2HFh6S3c6VJL+P4Vm5+zNRICc+H9tXFN/JERhHxaWyEdkBhrV2x+fqUyKI3yR3Y9euBUZbiZirJif1na/BMGnT2XGVJHkuBN8ePTZdLKq5K8O2SIxEsu58VWWDlLYCBiwtCLqVRfvfycHM0HZ8w2czujtXgGkzMlkcfq1lCnpynU7gc9cg/WuCKhhD6iKGthJn2Dr84x/XuRNOKqRhSex4gbTkpG8CdQ+RVEB3LJBUQ+n8vGIMcPcVw4tA6LQ8r1P+Cg0DEQvFroeoF51VnZEtcS9Xs9dinxMg5y2wsAHaRl8ss3BbZZqiyRUjLSUi2IIMmFQuPrVD2tnnj8VYdHaCKFXAjEmu7OH0fqyCUCXFQAj9F9JisXfXBYjhqy42GzcvU7cDdIL9Qt89Dwk6ucwGmvlMp92D8GrMf7uKwg=;BuVoGne/NAnRaAMJfdqloA=="
 ---
 

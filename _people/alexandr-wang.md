@@ -14,7 +14,7 @@ website: https://scale.com/
 twitter:
   username: alexandr_wang
   url: https://twitter.com/alexandr_wang
-  followers: 58791
+  followers: 61429
 
 linkedin:
   url: https://www.linkedin.com/in/alexandrwang/
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Alexandr Wang"
 
-secured: "Gib+Ph6/kuMMQE06clVMzexHYEOR+7vtzIWQlU9E2KP1ygrcoSYf4vh8CdhAaDyrH8r4DIqkSsiw/na8MkLCYbUHffyh7ly2Fq9ER+lmtBjF9zXW1VBGkvyM7GbU/xdHIRhQBB0dR+7l8LxFyKnWfyG88NZuyl2TNtprRxTHFlpM1WwoIqQMxh9gF2CLcVSbOb74i4K8/b7o4BSo3znQigZMKpjMdCa4Svo+vxn4MypfRBrL1670jhRa8PeTRT3XLZu0rNK7LpuTPAVB0UFXFddQHrZ/u685AN6DvQJx0KcWy4he+0EXK3zUbPOkfXq4dXt4SRzlpQiHn7Dz5sTZIXBrJOSfNiE2R1NTfMZuvyzMvuSIHdeiSmKH5mi0dDJQHck4MmyKJcmlNbUpR16cNRXhcX/SyU1KJc4TWjNhIRs=;1w+ts9WUxCNOQkNax6yuKA=="
+secured: "TRKUd279pu42BqWaA9oFSQbniN4Li4kj0W/m3IWBGozpkEXspR30EYWN8ZDQQCTk3JkULKeMzj3OW7WEbMlEQpeqhvau6B2L3A9CFyNpjMosH9nTj5S4f5PrTIbpxViBwK8G5JVjVE9xZxAt62DwTaBaf9MsGor8S6M3jkdiAu4HgdiRXWglqKNY3NRKhqt/YkDXjgmtEt6ClcrL6tC7olB6oaknoR0lECYx0T5wH+pIqGqov7yIYz4UDcNfWBo4dXaW4nfjqJqasxpLOE1hq/nOszByI/GwqpGina186jt4XKpxoQMCtLpdgENEuCg87/nGR2IF3YwkOu7SE9o0C/WeQHX1bRPo2H7U/QIYTdP7xzJ0QwFkiaLPXr5seYL/Ota8qLwvYFsw6t6bHpeP2Lbj6A3CVbrE/Mcr2rweU+Y=;CjzmQXx0eMnHGs1d+cCKlg=="
 ---
 

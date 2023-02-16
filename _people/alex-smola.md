@@ -18,11 +18,11 @@ website: http://alex.smola.org/
 twitter:
   username: smolix
   url: https://twitter.com/smolix
-  followers: 19914
+  followers: 19915
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ
-  citations: 158945
+  citations: 159414
 
 topics:
   - AI
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Alex Smola"
 
-secured: "FACeJr6w0S8t8yg67RonTT4qCDt9eom9YYdro/COgXBLek3NMHeuYUH++nF/+8GoWfXhhwTIpq8hEujweFQJgQ5+/WTzb4HLjlmiwAuihwsyj+RvGq/9J8iZymx0sHnXQacWvBdPiRHxDZnzjYaBYvzVdHJKUTmsKMRweAAkw59ci4iIl+trh0wCFCs8LI+KBg3zXSkwV/LsJUshQ/eos0u32m8H6Y3qiZCTyKTsNOeBTqQwYKWgqBdQm3/YsQUBaoYbC6nqf1cnxI3KelI6pzxsbR/j5R1l+Rz+27ryFrMTjrcu+ltDK3oUbVRze7jAI/a6+Enxd7bECN2rXTd6R/D4syW/EOgkp36lN4DGottwHhABW/bUny7tzlAjhB8BQmLbFBifU1b6gTQ7kR87qok7MrHOMdX7cyzZGQMGw4c=;yLe7JWqRRatF5BrAtVHG2g=="
+secured: "Z8CvjsrXXYYJ434myZtm7Mc2KF3GC+Qjfs/oh8VArQxvY2yFiK/8n9aeRVzuENJyqAE4/20j1sgDky9b82fhvMN02oDgTi31ZXD3SzadW+kYr+cW5DW0vnhwXsT2wNWoeeSo59VjpAmqcnDfkTPo6yNSrqcJYCuPr3SvQnRDGxjXuGFxPZgPcu4fulu2B+5jqoOBnwaKpLXoi3WljNryQFWOA8JckDcpQFuH5522hd+bEwhxn8Ylm4sUxYl1EVWHQiNNIdy/dtaRg0RJhnEo6DgtU5t23F1wIBaNFGEs7C8kxm7lRsmnFC3zfJkXMKzxZmp/ffzJZfYLAgRMJTNC+vBVVjptUKun3US5y8vtGJAtNqm7HTvXJWQLnttJ5cSeztWS1pNdXSlePYhe40X8uc5BRkTUQJyNdgB8yFKsdFo=;JVNQWEdih9gbDD8sweizNg=="
 ---
 

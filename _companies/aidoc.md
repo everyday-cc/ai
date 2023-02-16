@@ -2,7 +2,7 @@
 name: "Aidoc"
 overview: "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist"
 type: "profile"
-heat: 63
+heat: 60
 
 website: http://aidoc.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aidocmed"
   url: "https://twitter.com/aidocmed"
-  followers: 2678
+  followers: 2683
 
 size: 11-50 employees
 yearFounded: 2008
@@ -32,7 +32,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1623766516033265667/d5hkFQw5_400x400.png"
     width: 400
     height: 400
     isCached: true
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=r3g_VCI2B4U"
 
-secured: "x85Zg+rxi+U2Selb2G+Io/wEsm24Yac0Sicvg8CLZrT6larSQd7OEvTQhsDzx8mX9ZS/XnS3ulIciWW1RYsLI66mENazT6h/BVksO9WXUw4HScL0Znoc96RcJD4Z0q/LR/61kpp5lrFHzF7RoGldbkh7IBGlf0HciYngO6u1zqmIGJK3tF1Fl9IDvBfFXdTgpfK+kV6hT6xZyGvmTLp8gGT5Fjt4EvVT9hwFyvtQlbIAJiQuRy47pVz0tvItXNVuOoLcoUs8JPAxN6FaY1SmPnv9ujdhZ892VvCeaxOR0hE6VIh5srzCCHLaiIK65Y7RWRgnQuLGSOh8EOHx2huWmYJRjo/HF5VJBfWWkjv9ZzWI9O11JqWuxAkiHAXXEva6aCKZdpobsX9n35iSpBGh2Ul4ITXPXXqYrChsp1LJStc=;fUqkrh3oHeIVbSs0LM10SA=="
+secured: "gnIJPSPczv1U/K+mdSPoHE2z/S3zE8Lh1V6ONPjKPhCa9tahNZhl5sjfy40oTaEoOAofYeiR5Zd7yvvU8Ddbnf7fu5Cm6HXoVRwQ8Kk6KkD+AaL5+N8V1xUgttaRT1a9BK8OsHjfhOUifIGBm3r2raHpb0WcgSspLE8gxnQbNCJQmB0ejZ++eNoxLEO4usbebKNOqmAqNEUoIbkR8nd1nGNb0FizOToA+hyuHneBTublQUnxAhUS7dDaNOX3nqT+16WaHKFC+2jQiEKTl75Wd93zTo6cDQ6W4txcLR5DHfhpRUmShkRCgqgEKYOfDKztc43LK6hFGb8HFde7g/47N/Fn1WsRATYD4O5jMnPuUqB74i3JFD4jLfDrQjY/RhX2sCBhS92PDh0Bfi77mBVaEHFmyqOJEd4YJwjkfbWOhGQ=;wBVE/a89/fXdME9qGCj9Vw=="
 ---
 
