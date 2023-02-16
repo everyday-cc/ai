@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Efficient technique improves machine-learning models' reliability"
+    excerpt: "Powerful machine-learning models are being used to help people tackle tough problems such as identifying disease in medical images or detecting road obstacles for autonomous vehicles. But machine-learning models can make mistakes,"
+    publishedDateTime: 2023-02-13T16:48:00Z
+    webUrl: "https://techxplore.com/news/2023-02-efficient-technique-machine-learning-reliability.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-efficient-technique-machine-learning-reliability.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-efficient-technique-machine-learning-reliability.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/efficient-technique-im.jpg"
+        width: 637
+        height: 281
+        isCached: true
   - title: "New Method Improves Machine Learning Models’ Reliability, With Less Computing Resources (MIT, U. of Florida, IBM Watson)"
     excerpt: "A new technical paper titled “Post-hoc Uncertainty Learning using a Dirichlet Meta-Model” was published (preprint) by researchers at MIT, University of Florida, and MIT-IBM Watson AI Lab (IBM Research). The work demonstrates how to quantify the level ..."
     publishedDateTime: 2023-02-13T17:47:00Z

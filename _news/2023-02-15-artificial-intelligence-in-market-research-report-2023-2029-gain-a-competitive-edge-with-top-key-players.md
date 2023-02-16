@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-15"
 type: article
 quality: 65
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
+    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | In This Reports Face Recognition Systems"
+    publishedDateTime: 2023-02-16T04:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -7,7 +7,7 @@ originalUrl: "https://www.azorobotics.com/News.aspx?newsID=13618"
 webUrl: "https://www.azorobotics.com/News.aspx?newsID=13618"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 804
     height: 536
     isCached: true
+
+related:
+  - title: "Study finds how artificial intelligence with infrared imaging improve colon cancer therapy"
+    excerpt: "Over the last several years tremendous progress in the field of therapy alternatives has substantially enhanced the prospects of cure for individuals with colo"
+    publishedDateTime: 2023-02-14T18:56:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273523609/study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 44
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1676398295.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "qZkT+BQTWzgbP7fflRncRQNO4zEvAXMav+U+p4k+g5x5cN9C+OmkBVgDbV/u8DAq7IY5xnrdg/soeMA3zPhr3ckyyUcu2mA+aMQ83dDEDxVnMAMCnIIa/irMao5u0wtBrdOPlRhOsu3T2k1RBERUVv+2L4tHdW+ZoIYYTJhQYWKPXkDwg2D7ZhCCWBMTx2KhyNW4EM9ulYTQFDXVmdVsOUq/5l2ZO4SllwF+rxVjAFMHN2dN8Ktas8trhgAwJv1nLmPlJsjnS2aRzxI4rd0nZxXfP2FewIIHzA9kBLqCYI+QbmIJ+qnvPAXcthpco75JxJvPMtQH4NSBKHKNLdv3+j3r7XcL/o7iwibmG7LsRTo=;/y957nJlUbr0JEQzWyvroA=="
 ---

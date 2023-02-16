@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robotics Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
+    excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence Robotics industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
+    publishedDateTime: 2023-02-16T03:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market 2023 Size with SWOT Analysis by Top Players till 2027 | 129 Pages"
     excerpt: "Feb 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision Market” Report which is spread over [129] pages provides In-depth analysis on the market size, share, new ..."
     publishedDateTime: 2023-02-13T23:16:00Z
@@ -127,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Device Market In 2023 By In-depth Analysis of Revenue Forecast and Competitive Landscape 2028"
+    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-16T02:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-in-2023-by-in-depth-analysis-of-revenue-forecast-and-competitive-landscape-2028-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In-Car Speech Recognition Market Size and Share 2023-2028 with Emerging Treads and New Updates| Says Absolute Reports"
     excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"In-Car Speech Recognition"
     publishedDateTime: 2023-02-14T06:11:00Z
@@ -136,6 +164,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Social Media Market 2023 Top Companies, Industry Outlook | In-depth Analysis Business Opportunities and Demand to 2029"
+    excerpt: "The major players covered in the AI in Social Media market report are: North America is expected to have the largest market size in the AI in social media market, while APAC is expected to grow at the highest CAGR during the forecast period."
+    publishedDateTime: 2023-02-16T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2023-top-companies-industry-outlook-in-depth-analysis-business-opportunities-and-demand-to-2029-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

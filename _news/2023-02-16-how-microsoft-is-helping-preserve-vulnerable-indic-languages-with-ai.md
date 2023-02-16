@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
-    excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
-    publishedDateTime: 2023-02-15T20:38:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-    ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+  - title: "You.com challenges Google, Microsoft with launch of ‘multimodal conversational AI’ in search"
+    excerpt: "AI search engine You.com promises to advance internet search with YouChat 2.0, combining conversational AI with community-built apps."
+    publishedDateTime: 2023-02-15T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/you-com-challenges-google-microsoft-launch-multimodal-conversational-ai-search/"
+    ampWebUrl: "https://venturebeat.com/ai/you-com-challenges-google-microsoft-launch-multimodal-conversational-ai-search/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/you-com-challenges-google-microsoft-launch-multimodal-conversational-ai-search/amp/"
     type: article
     provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 95
     images:
-      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
-        width: 1440
-        height: 500
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/you-dot-com.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "ChatGPT-led AI buzz unlikely to fuel near-term software growth"
-    excerpt: "The hype around AI fueled by ChatGPT is a positive development for the software industry, but we don't see any sizable near-term sales gains."
-    publishedDateTime: 2023-02-13T18:08:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/"
+  - title: "Microsoft’s AI Chatbot Finds Early Success in Bing Searches"
+    excerpt: "AI-powered answers have earned the approval of 71% of testers and chat has proven a popular addition that’s deepened engagement, the Redmond, Washington-based company said in a blog post Wednesday. People are also using the chat-capable Bing beyond ..."
+    publishedDateTime: 2023-02-16T06:17:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-02-16/microsoft-s-ai-chatbot-finds-early-success-in-bing-searches"
     type: article
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 71
+    quality: 84
     images:
-      - url: "https://assets.bbhub.io/professional/sites/10/man.png"
-        width: 426
-        height: 288
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOcryCQbXkX0/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft will help the Google of China take its self-driving car platform global"
     excerpt: "The biggest stories of the day delivered to your inbox."
@@ -70,39 +70,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How enterprises can use ChatGPT and GPT-3"
-    excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
-    publishedDateTime: 2023-02-14T12:43:00Z
-    webUrl: "https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.html"
-    ampWebUrl: "https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Inside the ChatGPT race in China"
-    excerpt: "Maybe it was because of the holiday season, or maybe it was because ChatGPT is not currently available in China, but it took more than two months for the natural-language-processing chatbot to finally blow up in the country. (OpenAI, the company behind ..."
-    publishedDateTime: 2023-02-15T11:01:00Z
-    webUrl: "https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/02/LLM_sprouts.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
-secured: "T4rpn6QxuBH9y7pCJFIBHHboselrrdX5IAAG/OfzYsgMlHZmkBkHb/L/l4tDICU7fQg4TIN4WSrnfBJAMsam/+V9pTEa94OocdpXqzy936H+TXMLbfOoUw6JNidOnsZ7gszk6GE/lecEuESwb0sIiVaI9TNE65qYN/93L6oj5N7aXoIj+KcGEd6Z1mCGzlwoa4nsX/+RJuUt36fWPdo1nxXobtDToVBlIujYPxNOMmLV83ypckyWGQIEtkGddpqOeraFapbTBNneZwFoEn2jHrv11L53pLTGNh76zA+FBLljkdOVlDNlHDpTCsnVqfGmu2omo2f1nXFzOjTCSd1elHdm2XKkl5S3sI5YKBOT1y4=;MJB5jf+ER519MmMm+dtbUg=="
+secured: "gcrWsR3gaV4H2fKHCarnWzO1my/CJSoF5ZcVKacdvUImrOpJyeP/RwEd8Pf0tDnO1UKogEEi6MakqtJQHZq4yE5ReoYJeT10AOoSL75+OOf4plLXprdO5/e0VSbvDYD9J48ZRbNHne9PqZrMZM3mpwOMlLG7t9aoOaeo4L6yuoVzLXuFvlU4bUrGfLXn4SkobudOKUR/6fAwJM9e9iJ/ZQp/czXCv4k3CD0PuLrFbiKNE/0SKJTLZ3PA7U8Xks2gpsC1p4E8tQJy1zgJOlCaXuyMmRTwI00rQmBCfXr5Aq2dq012PRtkJoIpAnzSaT2kMs/BUfU5F5l+LaeIJAiWyoTbCYw99hwaoQMBtEAiWR1MdJHjeJ1JRhTHWQEI53oUFRZ/9VYODtHAF5rY5U26m+88MV63vdhJAuB/UPwpvxcUdzKMHYZKRiNWFv9+1WfDoTLQOr5+z+ij7+RF8cNSClFnxuvozP4A+jQeSqdKwhIxWIK7bcq+uLtgDnYInyBufPeOwTZreAjW9qtm0jgwNw==;bXivdlGzDrpn/bC8zetfPw=="
 ---
 

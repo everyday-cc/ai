@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-02-intuitive-machine-speech-recogni
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-intuitive-machine-speech-recognition.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 1080
     isCached: true
 
-secured: "JANNN22fdnt928TB743L422vgQmKYDUeCKnLP43OC/Da7txoK45OjytvyM9wW74CF45yOQiQ/TB+YiUWRyks9cXFzOJcAFGRKkXNTinHDRJBewDNg1NyNjOtvm8hIQhgNkK0IcEThEB5Gg/aG+NrIO0b5JyRI4Ba23jvBWvpEPUpbamX8Dlcql43umCgbs//wYaVqcXHzBYEBOw7/pExkOMUDnZbm1Xw1k3i+v1H2jRtdByY5NlXQU6jJ1wAfNEZ1/ZYbm5XSU+lHoCJ26ti7iL7xVZYUOVvZAEedxjkiVA+3C/VZYi7ac1VZGcQTxRNzvY4QGf15mpG7PWo8tNXPirLj7rOjZKPFiRS7qnucm4=;pt8wOXSYAzZIQPGwHeZD2w=="
+related:
+  - title: "Speech Recognition Market Position And Company Are Improving And Sharing Worldwide With Great Growth Opportunities"
+    excerpt: "The major players covered in the Speech Recognition market report are: Speech recognition technology is a high technology that enables machines to transform speech signals into corresponding text or commands through the recognition and understanding process."
+    publishedDateTime: 2023-02-16T04:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-position-and-company-are-improving-and-sharing-worldwide-with-great-growth-opportunities-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "dHrBFZRJTLTJzyYHt3cGtsnomA/2hJYs5Jyc2K4GNZeeikKR18H+KiFKTwyVfjzstfvv2Hxzq9QBdczy3KzEbmV6bhIKE1ZP0i3B/vIt1UxqmycR/afcNlSyRr/4fW8+vcDNZsTb3mxh/jdFDWoVyl41eMrxmVDk+FCSPR6Ho2UZj9gIut3LS8P7RJwzj6z9K3XuKmh8jzadQaluoqryk1ZQzcZcrWFVsoXzmlkmNemKEYBTf6Qp7HgfMyyskEXrYBwA2MQjR5hdJbhyRSR5npc/K0swnlrLFOvJAjgdfDM70KXQ4RZhhH+7u1zI4YEEP8UFCv0huIuHR5gtvcZRKlh3D5a01duyIznoxRwNxWOHDx7IWH3mpzQ6nGArWphebfA7JMx5K4tKHpWTzgnLRip4+LyfW0LWgivsMfEXuHJsThKqh5n4oMoFF6zqqPfMLUOqyMSE31WlNSENMVcC1aG3P3qghEu2Nbn8TL1IgVE3lBpIvTGtct5Set5ocxmTuJrc22100FCBbXLU3zrdwg==;Q05XnoQnuf3BOPSoUZxEHQ=="
 ---
 

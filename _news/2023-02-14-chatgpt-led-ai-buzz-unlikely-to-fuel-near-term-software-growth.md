@@ -46,34 +46,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Microsoft will help the Google of China take its self-driving car platform global"
-    excerpt: "The biggest stories of the day delivered to your inbox."
-    publishedDateTime: 2023-02-13T00:01:00Z
-    webUrl: "https://mashable.com/article/baidu-microsoft-azure-self-driving-partnership"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 66
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Microsoft is Helping Preserve Vulnerable Indic Languages with AI"
-    excerpt: "Microsoft—through Project ELLORA—wants to leverage the power of AI and help preserve these languages, which have limited written resources, let alone any digital presence."
-    publishedDateTime: 2023-02-16T03:55:00Z
-    webUrl: "https://analyticsindiamag.com/how-microsoft-is-helping-preserve-vulnerable-indic-languages-with-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/indie-micro.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How enterprises can use ChatGPT and GPT-3"
     excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
     publishedDateTime: 2023-02-14T12:43:00Z
@@ -107,6 +79,6 @@ related:
         height: 1688
         isCached: true
 
-secured: "e0oYJrlJGa30dNuOY/I5GHRJIZzurQvzIVl4wAiVnyHk4J4hWhmgE22qmX54wgptUcAdNdNxhkBWABqtnuLSA9VkxPJojRI8ns4wdea4EEgUg1ua/jI4MfvVhO9E0KaO/45GiV4G10epS91Ty+L/VqcpCb0FzAILRNOCkdpA+jWyuB7xCHAppXARmfuH7J15CgUKn1O6esxySLVg6k4plw0Piw7rzYjFGqKkU6h8f2WSZdUFiQA33ysAdJ3jlo3Eo8FOmHnWD6bx51oxlNm8CkY5zDbabuGj+9NyDx6P9tRTcGKUiOay03JMAC8+o25B+BBDaaSZ6poRowynO1QHT93fG9/hfYrAy8VP5/KUfSQ=;pj9r3IpByIeX3t0BIXGDXw=="
+secured: "UMfT7IBxBt182u10omYe0VcUOSR8DjSInIZqIPFtTEbbwI+JYYAv2rfW6aS0XWqSTJx9wFU1DyPo0FUsSfvoGnE1uJ32nD9rdaJyzGMesqoFUoQJdDFqYV8ymxtsXNWw/ZyicDmsZq7HcwvCSG6PsJ/Inq/usihNUgbjHXnhtFR/yR5FaIvuu8tT9mwCASFYuEsz7OaaQ65a+v9XPlOK7tau6nlZEnMyBAoXFMGsrzNB2exzhAEfTtR1KqATdMjzlDPgsZr/CZLdkH9M4AJIGQLAbYi4kWMP9AgfthqDG2ts8E8VpuCpJQBdWe2dld6rpoLBVzXbMUlY1VG0WFsm1/Q8GLOSYNizhp0eZClKsW2AqTgzMYT2xdV/o8OUOG4QGm+3up8JuXBTcnVARFArH0y2H8cSUEIFQL8Lin3bSp6fZUQsiAsqtpCfVrC16ooUV5LmcE4iMzpv5AEEZYYZBCQsnErlxUz7NsN3navKoaHveSB6badmQXTiDQzXakBglNeYo9eni3Gd+6ixczyKFw==;ZZ7DBBqfNii9WAmISOun8g=="
 ---
 

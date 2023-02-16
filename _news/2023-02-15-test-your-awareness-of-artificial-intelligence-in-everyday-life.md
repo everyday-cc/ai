@@ -32,13 +32,13 @@ related:
     provider:
       name: Pew Research Center
       domain: pewresearch.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.pewresearch.org/science/wp-content/uploads/sites/16/2023/02/PS_23.02.15_AIawarenessReport_featured.png?w=1200&h=628&crop=1"
         width: 1200
         height: 628
         isCached: true
 
-secured: "hVCNzXNjVhBWN3YrPd2pHosxsfEPlk0dFUpZBGENV8GULjpzosSLvBkCntM7EaVS61Xh0b97G/pOj6MtdcV5fXvCAVqMmgLqdox6EErWD2EUfu3M4Nk/xEY/OeqxnRee7g2yLJICHIls5lYPKJ4rkHEgjExdE/KSWs4tcOLC0CTu0q/p1JaW7utEZb0Mh44A8Jze9fUJhFQdLmTubYuzXXXRefqdVujYdOwuytitaI9la3Vq14p2SpxWA8MeerPcwB/O2Z1tJTAs39iqR48Dsds2UM/3N0HkkyZGERn0p+EryOxqPXj14dB3y15CHms8+wTdliYDvBKLNNRtqGDq3cU9dgnE05abTfPk4SVVUNI=;wqQvcp0gsXvIHdfZSFoB8w=="
+secured: "aZJ+IlelhbZduwTMY4fuYzm/HQAHZ7sAfUnKH57sx29qmz7zwaHZHuFPJAHVepATimh0nQnYTCfD1BzMxifoz/p99as626ZpzJCUuXM3C13fN61hSzZQlGb4VqjoxV8WGLLE0BTl0kfH8lZtymIwaNxaDnaWme5SBJpF/kCDh8TH3btX9sO3oIQ38s4ZdWqfSkKDMqmtmfnEpVCH6fWKOuAXoY+2Ge8ktumCYBAEzSBDucd0OM/w45q2gdSipS4Q7JDEOXE1UJMHgkKtjraGvWzqMoraSKzynIOmmqvU1sMwnmKd69JGVAIqyGpTeDGe3NHCzizbF15Ad7h4VBQ63Hg/s7HMwY2oCKCCzky0yb2s0KhGauPb1VWeGJCCF0lH0b67y9LwyqUTwRoBHff/wPBsNyCIZwvgYWZxL+qpMV7eV3Wx+xIowkfAfZdPa/VvBSiRo49/hy4Z7GU9Q0LTLFCbkgSCcDPIzvE6u4RcbN0gmiQ5vnX0DY1AEt/lW8LxetuqcjphkNuyieicIz2XHA==;q/YZFO4iQGcOl2uMPWTAvw=="
 ---
 

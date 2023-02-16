@@ -39,7 +39,16 @@ related:
         width: 352
         height: 202
         isCached: true
+  - title: "Top 5 Robot Trends 2023 - International Federation of Robotics Reports"
+    excerpt: "The stock of operational robots around the globe hit a new record of about 3.5 million units - the value of installations reached an estimated 15.7 billion USD. The International Federation of Robotics analyzes the top 5 trends shaping robotics and automation in 2023."
+    publishedDateTime: 2023-02-16T07:36:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/02/16/9761521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
-secured: "/p52ojPz7ra5Mdnhw0Y0xV61OO4KMPfEQvsDdnU/0elK+mJlx9xITqI4gLQ2nHEV2tHXyMGph3gTjamnng86cRLQx1Bwi9cUdCJCyhElfZXawlmswOIejba1B1xK4AknfTY1nSlYaH/XlrLirLtchnOyC05bwOySxRplgEukk1lYbgRBGnL4imaCPsreRw9P3KyFLW+wRSUefQ1khCR6Ecx5FgTnlbZEN71Kx1qPxtx5eXFKptphM06JHm/9HccTIPHnfPoQ5wFCj7bzYTl3eRLbqMjgM5nBw7oyg8ZcZjc7EeDqF5+2zzTy/dEu9ia5iqI1Yib50DP9WXHLT/2chpmTECGosxXUrTexm1pQ/o4=;bsHSDHIcTYL/IpDiMs9+VQ=="
+secured: "GomMIU5dIxJUOnwEn8Nv1XKVxsLmQolHeCrFDjQUYHvU+Q0DsEwPTWoLfsj7LTxZabzzzktpPk0MdASfw4TSAtH1Nks7Jx9rUmrClmYbud4cCFy2oyZWHCWIkmWXmuSW1B6SMvh8tDwLedIv1mBP45xgfPJN4UPRUUNOR56C4Crl13/VJ15aMFiDkr/qneF9bOHFrdc5TxvvkQtlC/detgdSkQmiaHMcVEGM6bqfTy5BGtWyaTT0a/6Aw/5a5Qbgfrxnr+3wVVb0ZRtsO0YsM33Hd4jkjs0r79LHv7rxO/nZBIvsf5cu8M7Xd+kR1lPlvHFJRr7yuHbaU656WzcIVUraCFyJnl1ig4fkFhCc0hVqq9Jl+WRiy64WI/In3w2VNDbkeLdFR3gf3Ym64maweZrnOfEfvTSx0RSwqBCwc03iUn3QPgosblAoes3aF5jp5MGTrnZJfVuddpQD9GP8I4h2SGvxswAzyFplaFLLjIulnRg8CqVsVWt8PY3+EbQAQeV4Iu1O2dXg3pPAthAlVg==;g4BoXc3fVWDF/pUnBHChdg=="
 ---
 

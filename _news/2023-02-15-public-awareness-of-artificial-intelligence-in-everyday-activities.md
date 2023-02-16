@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-15T14:57:00Z
 originalUrl: "https://www.pewresearch.org/science/2023/02/15/public-awareness-of-artificial-intelligence-in-everyday-activities/"
 webUrl: "https://www.pewresearch.org/science/2023/02/15/public-awareness-of-artificial-intelligence-in-everyday-activities/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.pewresearch.org/science/wp-content/uploads/sites/16/2023/02/PS_23.02.15_AIawarenessReport_featured.png?w=1200&h=628&crop=1"

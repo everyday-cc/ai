@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence For IT Operations Platform Market Size 2023 : Emerging Technologies, Opportunity and Forecast to 2028"
+    excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence For IT Operations Platform Market\" Research Report 2023 Provides a Basic overview of the"
+    publishedDateTime: 2023-02-16T02:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-it-operations-platform-market-size-2023-emerging-technologies-opportunity-and-forecast-to-2028-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "l0m+FCtUZNbmFtACPQPjMKEAgAVQOzYniz8VHvh7ndMc5o1wo7MVIsgH2kXWzLy7nR5QKHtX4ZlcGaH8BToKSDKncmyGcNCuKuNHmwQGZS04V6pDbbGV3QhpjyLA4tmyPj/hoomOUY4t8ERHOH25WP+/RoDIjOc8FFv3ggNMcrKt3O7DMYO/TW4C9WW7Ly6JbPrq+z6dFy4lkEtF1nsdBV8zlh4AhiBu3tqyClFdMLUVqnJ5X/bHavFkr5cRXedW7foj7Naje2bwbqq6IKfhJcqFgO9DPqmAiJ/7Oe+HRu/Txg9LvU6q64yb01mCAvfT5Dt4TvLmzcCM+J+SvbW1EabsFNOwLC8zVyLT+KIT9tU=;FjxxcHNeTvGnd9EyYj7dRA=="
 ---

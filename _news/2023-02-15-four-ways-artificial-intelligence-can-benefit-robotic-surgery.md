@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "pTYSOj8w+6yFjcm47UapeDFf531ZU8Ic/2IW62Nt0wH7f0RdA2Nby/lRuJxxvoR7AI0taZpgcEZVsxpYAGfm9DEpNnDy/ywdFHzycNukrrBslzSVJXEnhzF5v6+Q5X76MUhgIsfYfqYuJ/gSYlwzLNz4Di+Ba8mghRhwSX4mvyvCsPn3eUq1AatasbI8uJNHRA/lErNc5kZHEHh8pnLCYHfYkPeakvObtU64oM0XWt+XRd8RToC/Ia8gL+RVhHTNeg+Hr61OQcJcX0FwYJZUKN7z/Z7DgTsFsCZaW6+9O0mbdDruxIZpDvdPXy1YYXp6Z2eAbIgz73it6HH5v8kTIa5kPkMINE/slWWG4a/uwro=;MiPTZG32pP0THRak5eKhAQ=="
+secured: "RW7bXMCGfzwihKOc8Fg3QaVP8nTQKgLK+0Tvi44td3qg9fAX3zRz5LuIMDwDrkyv7u2yjtfY4ghAxKy8801cgogjV0mHLtENRxly+ab/h61WENj54fIXfselpWPPc6IRPD+3t3/70hG39VnDloCJCa0HI18DxP3V5ZEQ/+hTHNUd4a5QEL0c7vMjqxTPAu8otm7D5PqoT0Rq2Hjii6SNk8rsVfQfzTS0p8TADzD+vssakXxXktVjSCT9FTrWGbRT7tV2bQewO/HHFzloehycpUsibS0xy89S3DtoPZSmsTjUV2vQR5KJh4mKiVUg9kSn7XO5vp0rQ6uKJ1WI2ceAtqpETE+epP/OT3PISnRI9ERZSZ0itYr3p9OffKnse3r8WmY/UmRS+dKenJrFjFH3rT3ZUiOisq38vd6+jYtzAacD8Y/Fe0JCxeP1N3hcFW1Dq0RBSsxN3mxBb7dd/LypIvP94UIShkpNu7kR/RM7BxupTVx4+0bR7AVcxx/JGmd8HWuMKoFuqQmBf4ZdzTiKGw==;rNOqc6aVTc7tf/jPo0hkiQ=="
 ---
 

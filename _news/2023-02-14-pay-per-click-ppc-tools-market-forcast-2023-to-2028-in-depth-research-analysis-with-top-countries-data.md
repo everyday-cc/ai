@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
+    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | In This Reports Face Recognition Systems"
+    publishedDateTime: 2023-02-16T04:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Medical Imaging Market Forcast 2023 To 2028 : In-depth Research Analysis with Top Countries Data"
     excerpt: "Feb (The Expresswire) -- \"Machine Learning in Medical Imaging Market\" Report covers specified competitive outlook consisting of the"
     publishedDateTime: 2023-02-14T03:22:00Z

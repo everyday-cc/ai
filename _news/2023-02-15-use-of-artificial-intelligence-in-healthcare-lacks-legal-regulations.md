@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/delhi/use-of-artificial-intelligence
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/use-of-artificial-intelligence-in-healthcare-lacks-legal-regulations/amp_articleshow/97937942.cms"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 580
     isCached: true
 
-secured: "Pnia1aUuIz8Wypehu8yIwQIjxpTFXuVeypdEg8yF9rd2j4XLvcfxE0/VlID5mCbKChZPpgoV09UvfbwMI82AHjtT3WTcLKSi4ggHoK+mghGYdJUOYRrYtK4C+AF7LlKA2LBdQrDmxDexT4d6P9/o+/12GD7Ol0wjfO/4xr3qTWVwVRISpluhy//Z3sZfWNTUliX89jQKYS1oOGLMCShDZgAtaWttKuTFlIOF9iZbVtu3qWdTF5nJx2nTJL16LapuIe/Zv1P8UMzsXX7aU8Y19t0wFK3JjrcVn8yIrnsoMI9utBdobktGywxyRN9qNRZkESNrk2O8YkaaPDuZKQnlWbH2jAWlRy9s3KiTj1BrflI=;EYLDuIXq+V8EyR8JuDbTBw=="
+related:
+  - title: "GSA launches healthcare AI competition"
+    excerpt: "The U.S. General Services Administration has launched a healthcare artificial intelligence competition focused on startups that can create practical solutions that can help federal agencies provide medical care."
+    publishedDateTime: 2023-02-13T17:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/gsa-launches-healthcare-ai-competition.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "UeL9GWZ9R7ndPpZ8ZWhouem1ysY13B9nJjXDGfb+wU/Yqk3BeFgeXsORFDJ9GbZeGv1y22WOUnbzz5VK7knDsmjMJIX9HyoksgNO1apu4mzBToftWkfj9j0PAWgmMuttYMTatc9TJ3YLi7FGFH3PYT4IE6bmuv1eGScBhXm6JuqB9yZrAHwl7H4e3jjLLpBxcW/xxImrRX/kCcgds5LEj9P3u/W85z54x3ERko3un29ofUn0KB/QHu8ebBdRpRfxmy+AGh4/pnIyiEoJrskVG/cxxFGcLStjuTqbk2E/dxDBW90O1+hl0Ix+qv3jECF3RJpMmd9+JK95SOkzpumluD/Fr57Yp6bQVBUizs541eI0FguylvUijX0UFBAjzq6oirLBMfzW4ilv67NSuM66ZMjvT1kx2LAJTV1qsPltU5/CboZVxYzTWd4FTs7yPJOWZ3UKE8MZTgshrIJS5RhZp8tiyWVXOyyKCoWK9pMuaeI9ufJfyJHrYpZ1PzVKf5bdTKGVNfBolnetgrBhSsKbUw==;d8HlEKgTzzH0Pgba21QqbA=="
 ---
 

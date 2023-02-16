@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorp
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -40,34 +40,6 @@ related:
       - url: "https://assets.bbhub.io/professional/sites/10/man.png"
         width: 426
         height: 288
-        isCached: true
-  - title: "Microsoft will help the Google of China take its self-driving car platform global"
-    excerpt: "The biggest stories of the day delivered to your inbox."
-    publishedDateTime: 2023-02-13T00:01:00Z
-    webUrl: "https://mashable.com/article/baidu-microsoft-azure-self-driving-partnership"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 66
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Microsoft is Helping Preserve Vulnerable Indic Languages with AI"
-    excerpt: "Microsoft—through Project ELLORA—wants to leverage the power of AI and help preserve these languages, which have limited written resources, let alone any digital presence."
-    publishedDateTime: 2023-02-16T03:55:00Z
-    webUrl: "https://analyticsindiamag.com/how-microsoft-is-helping-preserve-vulnerable-indic-languages-with-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/indie-micro.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "How enterprises can use ChatGPT and GPT-3"
     excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
@@ -102,6 +74,6 @@ related:
         height: 1688
         isCached: true
 
-secured: "bd+kFk2pln9zvurQCIIWpHmUP4NXx8XDYdlwzBR3JqT7VL3NUVoG0b8gxhoJK6l1WTQtHlrv2r6MTuNWpz8IjgmhPUcaHJYiNjMbBILgE3ZuLgL3PBFZXL5S8b7OzuoWMtNiMrB1HU2fatyuDWDJKuoaHAGCcUnB/VnpE+8EP0xddPq42dujTN+qWHY0WQ4Zpg7l9k+ND9KDp9i65KykPb1v6+goWUGWJDSwObQSBaOc8oyNFhQ3TfNxgHhuoX1cUvekE0B3LGVemA/Ggb6HTMHG9zUj6Y1YWAlnbUDxnF5XPKHT1ITj/XRvw/2ULkBpeL0YFfdbsnsj9nuh6xMrTqK9nd4RRyW8pQqPLuAx/e4=;VncZ2SZqJ8Fw5n3W57CEgA=="
+secured: "9GqJVQY8MM8XigXJLlgxL4/yUC9MbJD0ArExxFqsak+lAVCIq0pVK4Kpsx8FjXqHZFWXVCfPnk9PUh6+cFyL8sQnsR7AN8zbJDJk1yAUzi9vR7ArfwzAEkTYXYgtpDHoqYrG8z5XUoe9YaRbmlm6lRvM5Gqjbl1WCR09LMz7ZYC9+fG1nO7N0Y1RE5cMk3BJoZH8vGMowipOC70v5hf4oakVqFsS6VLS4Ak1F7Cild9CYJOfpr92h6cLDa/Y8mOnz6OhbO0WEeZUlDT2xL/1RH67be2QC3es4d0AgiUbUghwzw8XJ+2iqbQ68y4dCs1B7IMJaNm6OWqKNcfM5HDeDsGIzyaBdOSKd2ShaXu7r66/16H9htL7yINgS0SX4wLKxJb6wZFJCt/xIkQw8Yks9cqfhUr7Tst/ajjdsFusNdzEfXrU5GBbaakK7EnSGTNpHKQW9uWmZevnPL6pEfydmRxlr5BCCj4sNjTDlQnfUci33NYbT9LRl7/Cs3mosbudU4rr1G8KXX/sWhpUibju+A==;EQUxX6sb/ZEGB2gk1Ig+8A=="
 ---
 
