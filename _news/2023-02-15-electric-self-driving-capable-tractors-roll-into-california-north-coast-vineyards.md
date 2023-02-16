@@ -55,17 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Amazon’s self-driving unit Zoox puts driverless taxi on the road"
-    excerpt: "Zoox, Amazon’s self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the ridesharing population. Just like a customer could call an ..."
-    publishedDateTime: 2023-02-15T23:22:00Z
-    webUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "htxwGpyySIUpSIZctoaIvewTXNZsCP6dJ+E3jZXWwYIT5x0cXYWkw4r9sexzn1H+CQTByiv9YUsV+qaY0ND2UzKE9J9pRYnWz5zB2zH8JChfkakI8uxkeVjn5zq1+QmTXdGi5wSwFJbh2cZ2No7gUISq5pE6zbGbRqR0tq8O0+/xZk3RctdRKhsrJbroFP1lrUj1EEDzMFwDtTN+LC9wUP3UXgnHhXXw5ftTwrTC8wWucsVZ9DDm24KwFnn9GHbi4XMqn+g5BMJCvSwJoI626tQLTS/2QGwAxK1HqUqQIXToc9oldtQHQfB9DsHS9aDppnfo/3Cn5efivMxHuxMRL4ILabXyEjH7LYVbRU/l8M+H1I8bptnZWB1hoB7cSDUyPEYuJ+slSbeBIsIajKBSXa0FAzkkUD2izmP8UCTxdh6l6WB1K21lkDZqyPKxxsnoH+nfxzuHFfl1r0YpzqoGTvnK7p0oK6eb5jirbf8+eldd5dGqrd6mLvn+7off3yizszFS05kPF/ijmIrwWwJ9kQ==;ZelyMz9XemgQK70QZho2QA=="
 ---

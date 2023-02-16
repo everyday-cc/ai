@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-02-intuitive-machine-speech-recogni
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-intuitive-machine-speech-recognition.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore
@@ -40,6 +40,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Speech recognition system controls machines in noisy factory environments"
+    excerpt: "Today, we are used to controlling smartphones and home appliances using speech recognition software, but similar voice control systems have yet to break into noisy industrial workplaces. That could soon change thanks to a new speech recognition solution for manufacturing machines,"
+    publishedDateTime: 2023-02-15T16:33:00Z
+    webUrl: "https://www.imeche.org/news/news-article/speech-recognition-system-controls-machines-in-noisy-factory-environments"
+    type: article
+    provider:
+      name: Institution of Mechanical Engineers
+      domain: imeche.org
+    quality: 38
+    images:
+      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "dHrBFZRJTLTJzyYHt3cGtsnomA/2hJYs5Jyc2K4GNZeeikKR18H+KiFKTwyVfjzstfvv2Hxzq9QBdczy3KzEbmV6bhIKE1ZP0i3B/vIt1UxqmycR/afcNlSyRr/4fW8+vcDNZsTb3mxh/jdFDWoVyl41eMrxmVDk+FCSPR6Ho2UZj9gIut3LS8P7RJwzj6z9K3XuKmh8jzadQaluoqryk1ZQzcZcrWFVsoXzmlkmNemKEYBTf6Qp7HgfMyyskEXrYBwA2MQjR5hdJbhyRSR5npc/K0swnlrLFOvJAjgdfDM70KXQ4RZhhH+7u1zI4YEEP8UFCv0huIuHR5gtvcZRKlh3D5a01duyIznoxRwNxWOHDx7IWH3mpzQ6nGArWphebfA7JMx5K4tKHpWTzgnLRip4+LyfW0LWgivsMfEXuHJsThKqh5n4oMoFF6zqqPfMLUOqyMSE31WlNSENMVcC1aG3P3qghEu2Nbn8TL1IgVE3lBpIvTGtct5Set5ocxmTuJrc22100FCBbXLU3zrdwg==;Q05XnoQnuf3BOPSoUZxEHQ=="

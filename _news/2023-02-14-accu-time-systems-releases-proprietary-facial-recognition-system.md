@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30900482"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30900482"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Speech recognition system controls machines in noisy factory environments"
-    excerpt: "Today, we are used to controlling smartphones and home appliances using speech recognition software, but similar voice control systems have yet to break into noisy industrial workplaces. That could soon change thanks to a new speech recognition solution for manufacturing machines,"
-    publishedDateTime: 2023-02-15T16:33:00Z
-    webUrl: "https://www.imeche.org/news/news-article/speech-recognition-system-controls-machines-in-noisy-factory-environments"
+  - title: "Vietnam to try out facial recognition system for airport procedures"
+    excerpt: "The Civil Aviation Authority of Vietnam (CAAV) will do a trial with the use of biometrics, specifically facial recognition, for passengers doing procedures to go on flights."
+    publishedDateTime: 2023-02-16T09:01:00Z
+    webUrl: "https://e.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html"
+    ampWebUrl: "https://ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html"
+    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html"
     type: article
     provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 38
+      name: VN Express
+      domain: vnexpress.net
+    quality: 74
     images:
-      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
-        width: 400
-        height: 300
+      - url: "https://i1-english.vnecdn.net/2023/02/16/l1200283jpg50381676517083-1676-3421-5299-1676535042.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=gqcpfAmAj3mn0ltFp1fc7A"
+        width: 1360
+        height: 816
         isCached: true
 
 secured: "IgwxGxg0WptdOKYkgeHZJcmyP8stUFJp6CSMV9R6nw8s4viWfykDMkkpIMfBXefTStRwltWPf3Ke4RfkTUABY+I3qkIFrYx273b4LUwJKRFBcdMStYdSblkaGt/Qlhf08T2cAuFINGpo4UKXamYOtWm6TP142ZAvGWO6ivvNhgvyXCnt5tUTnTYptAGoejzNcXXIZtZOpz/Gdv3GhWCh6LFle4dT4lIVVmoDV1AopGmBQDbymU5DI6Du+K8EBAYrqrRGcwVA6bWORr/uW480+LlVsGLuIGWFfc29C1UdWYHTFDjUPtmu8sLI3dXRKVsA51PaEhSGEn/Lb7kDZWxh9AXkm1vnzdvDqekAqGSgdDU=;kujgsd8NS8mM5MqEklyY6g=="

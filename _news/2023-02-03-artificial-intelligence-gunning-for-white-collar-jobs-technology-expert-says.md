@@ -5,6 +5,8 @@ excerpt: "WEST PALM BEACH, Fla. — It's becoming their smartest most efficient 
 publishedDateTime: 2023-02-02T21:19:00Z
 originalUrl: "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive"
 webUrl: "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive"
+ampWebUrl: "https://www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true"
+cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/technology/more-business-owners-turning-to-artificial-intelligence-to-stay-competitive?_amp=true"
 type: article
 quality: 13
 heat: 13
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "H/loT8P5+BbWYULn6mZThhDwstYyYaTmaymYzqj3R8POXCOI4I+X6oZ83ipML6F8bk4CjmiRZw3JdeE31E/uj1aBItiFzJB1VMvhPbUMCPu3Gsmz6H5ugY7KgZ664FZZVIZUNK7c3QkrezOc7hyVDhLG72Q8U/YsdIRIGrE364fBivADlOGCn4QMcTu0BkOnbHYEbXcLbxEyAvZ5AIJaMbzTMqHdEfODsX71/6MbVMpCEXpfjRY4ocUcGL2GFRWlR6NnzD8f62yPe4pr3GFQlz/P49D9Cl0Ev0gnUNDLRX+S8Wp9g/oi9Uc8v6rcMO044y0Cm4F3PoWSTh5oEWrwoR6g4sXmm3VM4XueN7JlUdCHuc/UGtrMWXxkmQdsXwKCXlNXftmXsrRVVg5MrWKxf+ZLTetF7x7+OpgwcjYp7PEJea+zszLJIzCvrwIpX1hNwbdLRoxEKy1nkd9Zp3X1qreMtdf6u2khLlqtJOpeWjMcCuXgqA/MjJTWSUIu3ZyTcmnGmggSsFNIDuUSksLSlQ==;nBjtFRLgczncK3KEfV+S0Q=="
+images:
+  - url: "https://x-default-stgec.uplynk.com/ausw/slices/e21/2fbf8a5e953e4a01960f2f5161cc4953/e21c18d95c93420f9889284db878e5c7/poster_f962b54908694511967031ba75b0799c.jpeg"
+    width: 1264
+    height: 700
+    isCached: true
+
+secured: "RP3+J3itPX0olElHNloX4rh5XT+nljky2NjP/VfjjcgCpZLcGxcLNS+/cX2FmgICCA9olgqbuWGy+/71/SiQc3NApcT1Y9CW+rYjCk4utk8Q2WtF7nptsqAHM7ujtdmuaTeZV7szR+424fAp9QGOHHgFEqHvbRv+Hr3Q9IiGSQ8X+K4r7XsKxwnk+38RmHJuLblZ9jtMOUT0Scp++iEL1TaTFzWzE+1pZKpISFF7KgG3aYKLfmgOUIXs9g7ji9qgpthMpcG5BmY/H+fjtTz387zyFokGW1zKhwf9KeZlimuy0qDG77P41msDvdnjU4RoowaQE3YDdKXiZwvNUJ1R9I0tMmNicv2sDXNcO1meJkY=;8Ovddtx2x6FxuXBURuGyLw=="
 ---
 

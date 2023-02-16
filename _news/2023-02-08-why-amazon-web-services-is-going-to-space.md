@@ -14,6 +14,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2023-02/aws-1_d-orbit_promo.jpg?itok=DJnXFHYI"

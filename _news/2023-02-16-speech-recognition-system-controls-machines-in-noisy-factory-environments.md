@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Accu-Time Systems Releases Proprietary Facial Recognition System"
-    excerpt: "a proprietary facial recognition system. Only|You Face can be used with ATS' stride®80 time clock using TimeCollect™, ATS' proprietary Android time collection application. It can also easily integrate with a value-added reseller's existing Android-based ..."
-    publishedDateTime: 2023-02-14T15:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/g30900482/accu-time-systems-releases-proprietary-facial-recognition-system"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30900482"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30900482"
+  - title: "Intuitive machine control using speech recognition"
+    excerpt: "Researchers at the Fraunhofer Institute for Digital Media Technology IDMT in Oldenburg have developed a speech recognition solution for use in industrial manufacturing."
+    publishedDateTime: 2023-02-15T17:45:00Z
+    webUrl: "https://techxplore.com/news/2023-02-intuitive-machine-speech-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-intuitive-machine-speech-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-intuitive-machine-speech-recognition.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: techxplore
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/intuitive-machine-cont.jpg"
+        width: 1440
+        height: 1080
+        isCached: true
+  - title: "Speech Recognition Market Position And Company Are Improving And Sharing Worldwide With Great Growth Opportunities"
+    excerpt: "The major players covered in the Speech Recognition market report are: Speech recognition technology is a high technology that enables machines to transform speech signals into corresponding text or commands through the recognition and understanding process."
+    publishedDateTime: 2023-02-16T04:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-position-and-company-are-improving-and-sharing-worldwide-with-great-growth-opportunities-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "HUAn54rBTY+5Nv5g1hTJvHz5rtaAB+CaaP7lCBzsmwMSiGsR/dsbiQApBG4/V3nPGa5LISG6u2DAvM3e0T/0rP8YRelMYMGse04MkB/u5QERPikWq2DV5MoYuuHPGFik8/NOg20b3sw5HcUbmJ91yZQHiFmI3H2RM+LqPu0JaFMEqnU/M+m4ZKvrpbS6nWD254plK2yLtl6JnmmD8YIVPQr8LgaLQUDnvst1vjbVpBUK5EEkQ2pVlB1B1uKnK+27CV60J6+h7IMwSNWTGb1TjrVMd+UQm2p2ON+kfiVS46NRGJc5Xr5edzcmuSPnAyvZ5y+Jfa0DOuBwSEbADGR4g+6J1o+2prb+WRZsDQ2Ocjo=;bAwsaCYl5MCNfrcUGkV1ww=="

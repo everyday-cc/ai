@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-16-convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales.md",
+      "title": "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales",
+      "excerpt": "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
+      "originalUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
+      "publishedDateTime": "2023-02-16T02:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-artificial-intelligence-in-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players.md",
       "title": "Artificial Intelligence in Market Research Report (2023-2029) | Gain a Competitive Edge with Top Key Players",
       "excerpt": "Artificial Intelligence in Market Size 2023-2029 | New Report (97 Pages) | In This Reports Artificial Intelligence",
@@ -1323,58 +1367,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-why-does-ai-art-look-like-a-70s-prog-rock-album-cover.md",
-      "title": "Why Does AI Art Look Like a ’70s Prog-Rock Album Cover?",
-      "excerpt": "Like a 1970s prog rock album cover” is a perfectly pithy way to convey what this new generative AI art scene frequently mimics. Allen’s winning entry resembles a French neoclassical painting with a sci-fi twist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/generative-ai-style-movement-throwback/",
-      "originalUrl": "https://www.wired.com/story/generative-ai-style-movement-throwback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63c8932c1628debb3e3ed5fe/master/pass/collage-02.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/generative-ai-style-movement-throwback/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-style-movement-throwback/amp",
-      "publishedDateTime": "2023-01-20T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

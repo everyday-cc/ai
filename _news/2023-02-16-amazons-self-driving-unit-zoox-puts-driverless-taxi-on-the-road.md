@@ -21,49 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Amazon's Zoox Begins Testing Self-Driving Taxi on Public Roads in California"
-    excerpt: "In the spring, full-time employees will be able to ride in the self-driving taxi between offices during business hours, Zoox said. \"Getting to be the world's first passenger in a robotaxi with no manual controls on open public roads ... was one of the ..."
-    publishedDateTime: 2023-02-14T18:39:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-self-driving-taxi-on-public-roads-in-california/"
+  - title: "KITS-W invents driverless automated tractor"
+    excerpt: "HANAMKONDA: The Department of Computer Science and Engineering, Kakatiya Institute of Technology & Science, Warangal (KITS-W), has invented a driverless automated tractor for farmers. According to ..."
+    publishedDateTime: 2023-02-12T09:55:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2023/feb/12/kits-w-invents-driverless-automated-tractor-2546692.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2023/feb/12/kits-w-invents-driverless-automated-tractor-2546692.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2023/feb/12/kits-w-invents-driverless-automated-tractor-2546692.amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: "https://www.cnet.com/a/img/resize/86255af21a5efdc87e64881b0c03354d979331e2/hub/2020/12/14/ed965842-f0e3-4dd5-86d4-583dd57991ca/ogi-zoox.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/New_Project.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Amazon's new self-driving robotaxis may soon be hitting public roads"
-    excerpt: "Robots already deliver us packages and pizzas. Now, Amazon is ready to take the concept to another level. Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers. The robotaxi ..."
-    publishedDateTime: 2023-02-14T04:06:00Z
-    webUrl: "https://abc7.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
-    ampWebUrl: "https://abc7.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
+  - title: "Driverless Buses Take To The Road In Scotland"
+    excerpt: "It’s also ground zero for the first trial of full-sized driverless buses in the United Kingdom. It’s not just automakers developing driverless technologies. Transit companies are desperate to ..."
+    publishedDateTime: 2023-02-13T00:01:00Z
+    webUrl: "https://hackaday.com/2023/01/31/driverless-buses-take-to-the-road-in-scotland/"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 44
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png"
+      - url: "https://hackaday.com/wp-content/uploads/2023/01/bus.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
-    excerpt: "Some dairy farmers and vineyard operators in Napa, Sonoma and other California counties are bringing in electric tractors capable of operating without drivers. Here are the pros and cons."
-    publishedDateTime: 2023-02-14T17:06:00Z
-    webUrl: "https://www.pressdemocrat.com/article/industrynews/electric-self-driving-tractors-roll-into-california-north-coast-vineyards/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 18
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=2ee348d3-69fc-55df-83d9-cd0de72f37dc&type=primary&q=72&width=1200"
-        width: 1199
-        height: 780
         isCached: true
 
 secured: "1yIqKvQqnSBnm9T3bGwlfcg1Y0G9EfiYSMCdAlKsFnPuvUv4b8V3robl33JH1FJzvfn9Dr2tiyFdhmJOxhcSnvpyTGYw/mCdjGqVAdu6jKJo65h8vnhv4fYQu+Xm4rr/6qxCpR5pxHWUKCAg0Iz/eYRViEfEaDimnrfO7cgCXlhWCzoMW8VaJgVRBOhVRqZyz3nzOoq6F8dfOt4zm7q3YwMAwDlwJvZQNrqbtSSOZkuSqFq9NLd27tCVY2Ekz3Pn+PqC7V25UbpMcxeyrXLpZOG0IF2XgfHTLMZFtf3WDVGcRiJJ0kUTpgE6Y3mVOLJPUkF9+2S1fqqiIdvMDuE8wVnJWLIfN6iRCwDAnQ7mDwY=;ej1o0sxodu0qRJOj65MRcg=="

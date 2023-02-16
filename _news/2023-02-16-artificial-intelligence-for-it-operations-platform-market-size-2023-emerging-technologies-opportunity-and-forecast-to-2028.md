@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in the Telecommunication Market Insights-Industry changing aspects, New Technologies and Forecast to 2028"
+    excerpt: "Artificial Intelligence in the Telecommunication Market Size 2023-2028 | New Report (79 Pages) | In This Reports"
+    publishedDateTime: 2023-02-16T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zM62hUZ00Pof1Oa0ebr1vgKJZbQEoG6ovEOlKgx1ER6yusaSXyPwbV7nylrzNHsE2p6+n/8nZRU9cxt81FI6dbPMYSWfX8QCTBB0tjRlE9EwnP/+oEXC6FUTa+Lgo9jZj4aIuxhH0Qw10FsIfDOsG0Q9L/GOpM4B32XcVnOComrX28kmkQrXNcCH1LNg6ALszeRzv19YpjPo3cN2FCC3pNKZq/BnL8VlKtA2+czZ8YUA+jy9YQSygkx8sNi3r+xBXXVqeGHJRn9LpRQku6qrYbt/Q5MjoO6maTfCJU+Bw0H1co4h8GpiXQx1ooiwzUeeM4nz4la5svXR+5Vs0AvBvYhx9TdZxOB7cVjTZhJIDVw=;WEH2A2Nxk4VE9Zun5Nkk3g=="
 ---

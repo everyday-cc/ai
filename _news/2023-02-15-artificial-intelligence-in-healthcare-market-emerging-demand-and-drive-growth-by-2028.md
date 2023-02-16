@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Research Report (2023-2029) | Gain a Competitive Edge with Top Key Players"
+    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (113 Pages) | In This Reports Data and AI Ethics Market and"
+    publishedDateTime: 2023-02-16T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Robotics Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
     excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence Robotics industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
     publishedDateTime: 2023-02-16T03:48:00Z

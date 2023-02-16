@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-pa
 ampWebUrl: "https://www.benzinga.com/amp/content/30929603"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30929603"
 type: article
-quality: 70
-heat: 70
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI in Healthcare
   - Natural Language Processing
+  - AI in Finance
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
