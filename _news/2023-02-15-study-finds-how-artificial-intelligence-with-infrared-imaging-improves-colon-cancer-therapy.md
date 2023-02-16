@@ -154,6 +154,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 19
+  - title: "This little-known AI fintech stock could more than double after 'proving its mettle' in economic uncertainty, Canaccord Genuity says"
+    excerpt: "It's time to buy AI-powered fintech stock Pagaya Technologies based on its path to growth, according to Canaccord Genuity. Analyst Joseph Vafi upgraded shares of the Israeli-based technology company to buy from hold, and doubled his price target ..."
+    publishedDateTime: 2023-02-16T18:18:00Z
+    webUrl: "https://www.cnbc.com/2023/02/16/a-little-known-ai-fintech-stock-could-more-than-double-canaccord-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 18
 
 secured: "5IzQbpH9aGfTEPyUFJKViKXqha2YLWqbxjWyLvt3MukNfhXlOY1FqoS8/kF8uZRrFURrDxwz9cHgcFZ3Jm97xtze4c+XhSgsMari1mqG+SQstmcDadqOHbgVzm3cMAVnzyc8BK9MO/ZB2VV3hi2+CwbawTqPM0OExneNfNhyGl+FdE2LT717VpG1xSQAlif5PYDLRXh7MODvo5LyUV0WDwM69dUk49cp+7Didsi+C9o8rleieWvLW2/VDBDqQDxE0l809kXZ6EfP9swcUFkWXA1Ee5PalAZeWgq29y3xDVuwWf0D805fiLRAI1TApSnfEZp0BfJYDE+Fh8tsfyMRGdLGcqjckIumBqCPP+pdO6Ge77EzLGXktvgWZv+c+S0/w7xjT78vf6FJcPXNTabEFkNeD+lEhcouiwmwrfpYvuQURfbEj8Sv0ms7nbZofPRk+6My3/bQ29fDRvTREhi/8e5s2cZhCDfcljjP5vJNv7FBhKnh2GkneEgMdqOpqtOW7+VSsy4wtQqMVXKhpizhKQ==;iL8SraQxuYAO8jJPPCxCuw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T20:46:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-introducing-bluemail-gem-ai-advanced-ai-powered-email-/2023/02/16/9762199.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-introducing-bluemail-gem-ai-advanced-ai-powered-email-/2023/02/16/9762199.htm"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: TMCnet

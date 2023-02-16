@@ -155,6 +155,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition (ASR) Software Market Size and Trends [2023-2029] | Grow Rate, Top Countries Data | Expert Report by Absolute Reports"
+    excerpt: "Global “Automatic Speech Recognition (ASR) Software Market” research gives data of drive consolidations and securing procedures to grow market share and size for forecast period of 2023-2029. Report additionally furnishing industrial business with ..."
+    publishedDateTime: 2023-02-16T18:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-size-and-trends-2023-2029-grow-rate-top-countries-data-expert-report-by-absolute-reports-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
 secured: "zR1uPLDxLa4ZZG5FF7wAgoeZR4DjPwKxW9+w/daJM2x/TAL2fSVkR6YjcDulV7WD3q6gOmEy4NFwX9hyl3Kz/vikPjlUXwauZLjh1Sx+NM8qZASCUQTrwUxoTP9bvMfovyJq1UCKh1vAkWe9SyHNGM6fXTQDzHC4c+2tCQ+8+OpJm4Pz8zgTa8BrmSNoQV584Fpf9Luj3s/2m/3M4QSTtmpf++0XCZZTl5xSHCWxh73ca4q9vhmLT9dVaciJFf7AdePjftq+8Vyzk9T7C8SGvDwQ/HYaZs2GZNUdiQy+lJnYjBNhaRZvV9gVmegKXziG9Hq6ELZ7x02KsCVGqY2NuFah8icQzBataftRDPuZBpA=;ibKSst4/Ha2JTR/pVIQv1Q=="
 ---

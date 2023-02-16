@@ -253,6 +253,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sugar Net Auxiliary Diagnosis Software Market 2023 Anticipated to Reach Most Elevated Growth Rate, Size with Demand Forecast to 2028"
+    excerpt: "Feb 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Sugar Net Auxiliary"
+    publishedDateTime: 2023-02-16T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/sugar-net-auxiliary-diagnosis-software-market-2023-anticipated-to-reach-most-elevated-growth-rate-size-with-demand-forecast-to-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 3
 
 secured: "oCo8IDGP26rlbajn4sPMhsFFcrj7Bf2V0DOpQJdDrpIuVpgnt15lCdTPZhS8HKy2CSzKtELaRs1Nxuxgtpk4hzwcCwl3fwtUQF40O3ZFX/lJajbrrzjmXw9FG2a70dLkVJKKp97GuxzIsnVPAzekggPSI3zWjDtX5yYGQCHKPx66TTxhsKPUFqswuPwe2vnhf/fkWwLYcmu0++qagWTZPkO4Z8i1FscGP6A105Afr7wy1PHt38VmIKNg8/lFtRgiCKWQRFhO3bSr7pJDLV3UlfuXMAgq+koEA1Q0gRwAjXb8S15tpxCT2CVGY/c7A7EfHSHocdL0t+Bsda2laLiMMqXzlEnQ6TN9XeAiZi82xXg=;jcar6VgznDt5ib3PASEvIQ=="
 ---

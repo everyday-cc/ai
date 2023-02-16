@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T20:14:00Z
 originalUrl: "https://www.wtoc.com/2023/02/16/savannah-gallery-displays-pieces-art-created-by-artificial-intelligence/"
 webUrl: "https://www.wtoc.com/2023/02/16/savannah-gallery-displays-pieces-art-created-by-artificial-intelligence/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: WTOC-TV

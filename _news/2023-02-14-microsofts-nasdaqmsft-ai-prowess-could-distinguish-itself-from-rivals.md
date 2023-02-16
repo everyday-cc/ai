@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The dark side of Bing’s new AI chatbot"
+    excerpt: "After asking Microsoft’s AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy. The chatbot said it “must be hard” to balance work and family and ..."
+    publishedDateTime: 2023-02-16T19:41:00Z
+    webUrl: "https://www.cnn.com/2023/02/16/tech/bing-dark-side/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230216122446-microsoft-bing-dark-side-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Microsoft’s AI Chatbot Finds Early Success in Bing Searches"
     excerpt: "AI-powered answers have earned the approval of 71% of testers and chat has proven a popular addition that’s deepened engagement, the Redmond, Washington-based company said in a blog post Wednesday. People are also using the chat-capable Bing beyond ..."
     publishedDateTime: 2023-02-16T06:17:00Z
@@ -159,6 +175,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft's Bing AI chatbot has said a lot of weird things. Here's a list."
+    excerpt: "Chatbots are all the rage these days. And while ChatGPT has sparked thorny questions about regulation, cheating in school, and creating malware, things have been a bit more strange for Microsoft's AI-powered Bing tool. Microsoft's AI Bing chatbot is ..."
+    publishedDateTime: 2023-02-16T19:39:00Z
+    webUrl: "https://mashable.com/article/microsoft-bing-ai-chatbot-weird-scary-responses"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 62
   - title: "How Microsoft is Helping Preserve Vulnerable Indic Languages with AI"
     excerpt: "Microsoft—through Project ELLORA—wants to leverage the power of AI and help preserve these languages, which have limited written resources, let alone any digital presence."
     publishedDateTime: 2023-02-16T03:55:00Z
@@ -173,6 +198,36 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Bing's AI Chatbot Has Insulted People's Looks and Compared Them to Hitler. Microsoft Promises to Make It Stop"
+    excerpt: "In racing the breakthrough AI technology to consumers last week ahead of rival search ... The new Bing is built atop technology from Microsoft's startup partner OpenAI, best known for the similar ChatGPT conversational tool it released late last year."
+    publishedDateTime: 2023-02-16T22:32:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/bings-ai-chatbot-has-insulted-peoples-looks-and-compared-them-to-hitler-microsoft-promises-to-make-it-stop/4108611/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/bings-ai-chatbot-has-insulted-peoples-looks-and-compared-them-to-hitler-microsoft-promises-to-make-it-stop/4108611/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/bings-ai-chatbot-has-insulted-peoples-looks-and-compared-them-to-hitler-microsoft-promises-to-make-it-stop/4108611/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 55
+    images:
+      - url: "https://media.nbcnewyork.com/2023/02/GettyImages-1247088015.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
+    excerpt: "File - The Microsoft Bing logo and the website's page are shown in this photo taken in New York on Tuesday, Feb. 7, 2023. Microsoft is promising to make improvements to its new ar"
+    publishedDateTime: 2023-02-16T21:37:00Z
+    webUrl: "https://www.chron.com/business/article/is-bing-too-belligerent-microsoft-looks-to-tame-17789289.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/44/10/23478812/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Microsoft Bing AI claims to be able to watch webcams & hack devices"
     excerpt: "The AI-powered search engine era is here, and Microsoft was the first to kick start it with their reveal of OpenAI-powered Bing and Edge on February 7. Fans quickly flooded the waitlist in an attempt to gain access to the new features, with many reporting ..."
     publishedDateTime: 2023-02-16T13:37:00Z
@@ -182,6 +237,15 @@ related:
       name: Dexerto.com
       domain: dexerto.com
     quality: 34
+  - title: "People are sharing shocking responses from the new AI-powered Bing, from the chatbot declaring its love to picking fights"
+    excerpt: "If you push it hard enough, Microsoft's new Bing might just snap. The search engine's new AI-powered chatbot has only been in the limelight for a week or so, and it's apparently chided users, gotten into arguments, and appeared to get confused about what ..."
+    publishedDateTime: 2023-02-16T19:30:00Z
+    webUrl: "https://www.businessinsider.com/bing-chatgpt-ai-chatbot-argues-angry-responses-falls-in-love-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Column: Minimum wage ‘ghosts’ keep Google and Microsoft’s AI arms race from becoming a nightmare"
     excerpt: "Google and Microsoft think chatbots that can converse like humans are the future of web search. But the human workers who make sure they don't screw up are treated as disposable."
     publishedDateTime: 2023-02-16T13:30:00Z

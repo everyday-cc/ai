@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T17:50:00Z
 originalUrl: "https://baltimorefishbowl.com/stories/city-schools-ai-and-facial-recognition-pilot-program-draws-concerns-from-student-union/"
 webUrl: "https://baltimorefishbowl.com/stories/city-schools-ai-and-facial-recognition-pilot-program-draws-concerns-from-student-union/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Baltimore Fishbowl

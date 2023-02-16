@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T19:32:00Z
 originalUrl: "https://menafn.com/1105586733/Artificial-Intelligence-And-Morality-SOOP-Seeks-Thought-Leaders-To-Contribute-On-A-New-Anthology-By-CEO-Gilbert-Hakim"
 webUrl: "https://menafn.com/1105586733/Artificial-Intelligence-And-Morality-SOOP-Seeks-Thought-Leaders-To-Contribute-On-A-New-Anthology-By-CEO-Gilbert-Hakim"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mena FN

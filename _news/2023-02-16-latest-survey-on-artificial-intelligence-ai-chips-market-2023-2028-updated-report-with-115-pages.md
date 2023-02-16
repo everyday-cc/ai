@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artific
 webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages-2023-02-16"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest Survey on \"Artificial Intelligence Software Market\" Trend 2023-2028, Updated Report With 126 Pages"
+    excerpt: "Report Highlights:- \"The global Artificial Intelligence Software market size was valued at USD 16978.67 million in 2022"
+    publishedDateTime: 2023-02-16T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-software-market-trend-2023-2028-updated-report-with-126-pages-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "SBAiTBbs0izU9iyC9Rjhux/Ubwzp/P2KWVaWYjtT3O1qV/EV8CoXO9v+kmCDUATac8ikhy8c/tdalnB+SOnSN7HSOjHe5UHyAyC7+kdvQ3Yi/kmB+inWLIj6Fb9k/7CCjAKAlOIA9MXVga+FEmiHIK/ilZ2YG4UPdkLlHZYACxvXg7eHyjoqY77YuH0HpMJerrhz5v+9HC7fKOtsKiClQGxcbd/qdEFusUKYqsy4wowxBRz/3+yhVmf01Tk2en7mD2yCITWunjJoTdAmj6N4c4N63Ue/2C1+qvG0FjMPBcWdX9SIK9sEoMkH5GPGlW7/A255LOl5Y15k/8f2nHn4R9QsQzbC7Dr1Tex5eVftQ84=;OHp5eedg5Pf+i6EUKdgF2A=="
 ---

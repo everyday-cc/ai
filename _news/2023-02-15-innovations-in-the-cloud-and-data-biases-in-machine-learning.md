@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "It’s Always Sunny Inside a Generative AI Conference"
+    excerpt: "AI-powered chatbots will only make us more efficient, according to the companies selling said AI-powered chatbots."
+    publishedDateTime: 2023-02-16T22:04:00Z
+    webUrl: "https://www.wired.com/story/jasper-generative-ai-conference-2023/"
+    ampWebUrl: "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/63ee93cc1b87b32b35988c95/master/pass/Gear_Gen-AI-attendees-take-part-in-Jasper-Art-immersive-experience-at-Gen-AI-at-Pier-27-in-San-Francisco.-Photo-courtesy-of-Jasper.jpg"
+        width: 2400
+        height: 1597
+        isCached: true
   - title: "The Problematic Nature Of Generative AI"
     excerpt: "We’re the only species capable of synthesizing ideas, forming opinions and making decisions based on ethical principles. Let’s use this moment in history to embrace the future while investing in our humanity."
     publishedDateTime: 2023-02-16T10:45:00Z
@@ -118,6 +134,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/02/Open-AI-Timon-via-Adobe-Stock-web.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "FedML announces partnership with Theta Network to empower Collaborative Machine Learning for Generative AI and Ad Recommendation"
+    excerpt: "FedML enables open and collaborative AI by the community for the community Federated Learning is a solution to the data-sharing concern that the public and enterprises have (due to privacy, security,"
+    publishedDateTime: 2023-02-16T22:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fedml-announces-partnership-with-theta-network-empower-collaborative-/2023/02/16/9762222.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/cfd6c404-a827-41d7-9c9f-df6696fdf3d5"
+        width: 600
+        height: 289
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."

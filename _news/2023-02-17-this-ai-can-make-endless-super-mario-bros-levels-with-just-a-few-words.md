@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T20:15:00Z
 originalUrl: "https://kotaku.com/super-mario-bros-mariogpt-ai-text-to-level-generator-1850124134"
 webUrl: "https://kotaku.com/super-mario-bros-mariogpt-ai-text-to-level-generator-1850124134"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Kotaku

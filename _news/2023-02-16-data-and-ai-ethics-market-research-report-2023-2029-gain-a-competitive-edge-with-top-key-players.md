@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16"
 type: article
 quality: 71
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -156,6 +156,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition (ASR) Software Market Size and Trends [2023-2029] | Grow Rate, Top Countries Data | Expert Report by Absolute Reports"
+    excerpt: "Global “Automatic Speech Recognition (ASR) Software Market” research gives data of drive consolidations and securing procedures to grow market share and size for forecast period of 2023-2029. Report additionally furnishing industrial business with ..."
+    publishedDateTime: 2023-02-16T18:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-size-and-trends-2023-2029-grow-rate-top-countries-data-expert-report-by-absolute-reports-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
 secured: "BMrVqgE6x5VknLJHY9XY03awnm62VgX6EP1CeoZoJQL2GpN8MZaBPIOILr+/z/ZQkyppaDKdPv0hMij3FL6Zr+To8HVihSPnU/YSQlqzXOzmpJKYWTwp3faPqifZb9/EnmMvNBIrABsIvLPMBa9E43WO9VzdPq9HkziMTtj+5MsH2ZmEfLeOTVkFUDfBVFtJYwkv1edgLIT5JB0WkHFnlIUV8ON2brGf7HzgfqdaA6Z6O81kmTm4t+l8+sNADqF/qIsttCDD61rVqbuM4Rn3rGwsFXE7MSP9Uk9RFL9tJd571YK4/zqdoRQ+dz/GSezOwJQ6Tylpk+w3O+mGubuuYh0TcLPCtkpZgf+TWRZkI2M=;pnO7ln4SxALzYJ5HGAAzfw=="
 ---

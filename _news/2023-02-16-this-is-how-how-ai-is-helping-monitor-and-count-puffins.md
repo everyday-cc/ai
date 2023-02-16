@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 790
     height: 527
     isCached: true
+
+related:
+  - title: "This Is How AI Is Helping Monitor And Count Puffins"
+    excerpt: "Puffins on the Isle of May, a nature preserve off the coast of Scotland. SSE Renewables is trialing ... [+] a new way to count puffins using artificial intelligence. The project is supported by Microsoft, Avanade and NatureScot. The Isle of May is a 140 ..."
+    publishedDateTime: 2023-02-15T19:44:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "ezerZdqKtN3lASUDHsWcfZiLYxdRfaQURA/dJO/LlV1+opZxCVytflS2daHHl91SgQmzfIjLdxr0+tn3lhj/q4Q/uEmToyEiRXJ2Qa3yEK92eaELu3AOomFLgOao2dSu37WMWF0qPNhNKbtAbrFaWSmVU4uzbdBaySoUBBzXCxkNHKssmlnVMT9nscUesm9p8pqXAl4e1hFQXhcYf6REaE/LPzVw9R1R8ij6Byo0QDviJkAPYS6dDegUvdiGXtHbcxMF34lapNwfJ/RrUgFP/tW4vkfOqC4gIRC/Q9YDU4pcnjUHWx/By7EYV48qZMdpkUPEWnJUYIeOiziTq3AGVx5y8Y14eqAzAHcs66RWkf49lQwLdwdiB7YE3YceoRMHKJBmbqP/rto5wdDzRb+JNS0XDBwGE4DzYWDw9w36qLMgyxafpqnzJ2+o/GofOAzb4gbFAZWV331npaALDbHE9xq984b6kXcOavvA0Df/Ste21dSPNRCWMtA6UylPN0jWxF922fjngd6QHunQAILtkg==;PQSvFzybwrUtcb4IwDNxMA=="
 ---

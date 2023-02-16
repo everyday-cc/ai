@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T19:00:00Z
 originalUrl: "https://www.popsci.com/science/neural-network-fourier-mathematics/"
 webUrl: "https://www.popsci.com/science/neural-network-fourier-mathematics/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Popular Science

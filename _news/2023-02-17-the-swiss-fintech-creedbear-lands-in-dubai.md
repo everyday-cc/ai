@@ -1,20 +1,31 @@
 ---
 category: news
-title: "The Swiss Fintech Creed&Bear Lands In Dubai"
-excerpt: "How? Creating software for asset management. A Revolutionary FinTech Software for Asset Management Creed&Bear's incorporation of their Intellectual property software utilizing AI and ML allows them to collocate vast amounts of data both historical data and ..."
-publishedDateTime: 2023-02-16T19:00:00Z
-originalUrl: "https://menafn.com/1105586844/The-Swiss-Fintech-CreedBear-Lands-In-Dubai"
-webUrl: "https://menafn.com/1105586844/The-Swiss-Fintech-CreedBear-Lands-In-Dubai"
+title: "The Swiss FinTech Creed&Bear Lands in Dubai"
+excerpt: "Creed&Bear, a leading FinTech company based in Switzerland, has announced its expansion into the Dubai market. The company specializes in FinTech tech for asset"
+publishedDateTime: 2023-02-16T17:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/g30948237/the-swiss-fintech-creed-bear-lands-in-dubai"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/g30948237/the-swiss-fintech-creed-bear-lands-in-dubai"
+ampWebUrl: "https://www.benzinga.com/amp/content/30948237"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30948237"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "vz89HuYODjiN9EL5/puxnkiIGnyKb98a5fjERqfHMA868LwzLAgVSWPYkztb2iSWseu2ozigpNu5Ky21RAyx+cXvm+rWEIKIs7lePHR1tvFUkSTdx9cTDsUV6T7TS2NU4GUkfPJAW+PqduHUCH0grWGmoygp8DUPA7VLl7mtnbL7fsG20Rlf/DGNordmRuwOCGOGkec3m9xvUC3sewnERakkljE402RcjRGv08yVXZOdgw1oA9gwHKk0c2LFma3R8kL6SiILarwlsV80fpWncg9hWpt0VHe1r12D29GAlf4IGbUMWZx3/Fg7OQnpw7YYqpJybDPUVSVmEnMHh4Mp8tU1Ekc6pt7O9BHNZtUPFx0=;3anPZo/1GZo4u63gnEh+fQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "awD4XTf5Ra8GdgGyvhOUhpeOJogHCFWfvmqr+p1AA8HGWLz+48pE6UOXeKqDoOrMNJELYkNLVRx01FucFtBjVmFLYhLmx/Fr7ZcGRMm8mscOiIlgCWelRsSLtqM9vh4ZV5cXsa1rn7+O2rsHzK5Im897fWKU+pkFLVT7CUQgVxsJbgp1FKcWH5mM6pIKhtn2MEZxr6l4C1k8z3wLue2t73S2P7sUd9hmFOGJmj4vhoWbuvgrhMml4753zp1mUsAJ3tqQekibpYD2TzLrz1x3I3Rvfofw8er2XIg3LTD5V0mniaxiv7H1Hzu7bEPko84vm+Uyzy0b/l2HlzHczm1WnDlxLwbBNlVnQ0pJ/MomoeE=;x+a38N8CyVxZgSCSk485gQ=="
 ---
 

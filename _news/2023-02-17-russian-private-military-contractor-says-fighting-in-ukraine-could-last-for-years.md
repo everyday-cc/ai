@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T20:20:00Z
 originalUrl: "https://www.fox6now.com/news/russian-private-military-contractor-says-fighting-in-ukraine-could-last-for-years"
 webUrl: "https://www.fox6now.com/news/russian-private-military-contractor-says-fighting-in-ukraine-could-last-for-years"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: fox6now

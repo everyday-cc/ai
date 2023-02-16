@@ -135,6 +135,24 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "People are using AI bots like ChatGPT to work side hustles and earn thousands of dollars — check out these 6 hot freelancing gigs"
+    excerpt: "Her book \"Show Me What AI Can Do!\" is available on Amazon for $2.99. Overdubbing videos in other languages Streaming companies like Netflix and content creators on YouTube and TikTok are turning to voice dubbers to translate their videos into more ..."
+    publishedDateTime: 2023-02-16T11:40:00Z
+    webUrl: "https://www.businessinsider.com/list-6-generative-ai-side-hustles-to-boost-your-income-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
+  - title: "How AI chatbots could change online search"
+    excerpt: "ChatGPT and chatbots like it do not work like conventional online search. Today, Google and Bing work by sending out web crawlers, a type of bot (autonomous programme), to roam the internet and collect information,"
+    publishedDateTime: 2023-02-16T19:46:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2023/02/16/how-ai-chatbots-could-change-online-search"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 17
 
 secured: "pgtkPFvzv5s50IQwQMTMFnTdWPvjo/EZH0qrCUYgWX98swkJ2PeIcoBkirIaJLF9wbCVHqEpWveHVCUXOURqMAfgVIDihvn0S7klR0a131m0MXeDd8ip7VZkDEGu98JqO8pyfBf/bxKvb/n7IgXUJdGUtpVxy6lwQtf+6IXjGFNJuqAaXDhwX35K2bb7IzFAemCJMalGBzIQyuzjEGJbXR8d3PUghLFoF7rTo8b+rRUeseHUVag73Rzem6NDkFy4e3nXK3NqQjRgTkeTcFuhS7Q7TQ3nTlHWKeREOy+g1AlR4AWqe6iKDsmF/4WNMnUpfu7799pS8fIxEJItn8rZ3JGvCfvaFGWOPJGLZMtI53Tr3mmSyJFrl5MrmPjk+5Jg2lzsQGg1e+fXdHXqtdIibiL6t7OYnqnMrXPK3WP4aXAJ+qFyJzoam5CQg7vzXHMlphpMMqJ6Z57zxBkN+BSO+Jds13bS8vzQ7P/VH66+0+TGpSJhFXaum1G+yeMd4LOynCYjIC3gSoOJC9yqu0dgKw==;itvNZGpKKv6hjnl3FwaF2Q=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T18:09:00Z
 originalUrl: "https://www.benzinga.com/news/23/02/30949299/it-gaslights-me-the-first-reviews-on-the-new-ai-powered-bing"
 webUrl: "https://www.benzinga.com/news/23/02/30949299/it-gaslights-me-the-first-reviews-on-the-new-ai-powered-bing"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-15T23:44:00Z
 originalUrl: "https://www.biometricupdate.com/202302/consultants-see-small-roll-now-for-emotion-recognition-but-skeptics-remain"
 webUrl: "https://www.biometricupdate.com/202302/consultants-see-small-roll-now-for-emotion-recognition-but-skeptics-remain"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Biometric Companies

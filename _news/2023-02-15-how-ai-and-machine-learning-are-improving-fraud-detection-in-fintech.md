@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-machine
 webUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -159,6 +159,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 19
+  - title: "This little-known AI fintech stock could more than double after 'proving its mettle' in economic uncertainty, Canaccord Genuity says"
+    excerpt: "It's time to buy AI-powered fintech stock Pagaya Technologies based on its path to growth, according to Canaccord Genuity. Analyst Joseph Vafi upgraded shares of the Israeli-based technology company to buy from hold, and doubled his price target ..."
+    publishedDateTime: 2023-02-16T18:18:00Z
+    webUrl: "https://www.cnbc.com/2023/02/16/a-little-known-ai-fintech-stock-could-more-than-double-canaccord-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 18
 
 secured: "xLyFboiOs+ugO7vjcIk9dhJtTFtxFmNA7HjLHu/rUm75YQu/CnaeQWJuBE0qQurGzLoiDehfGl0x2xrmyyyU0eqVSJ74dB5nRo+DaVuZ3TueV+EDU0CmZ43iNBfVD9tuuqycQJaY7kyLzzd7CDPpyoRbpeP//2mdfdJ0zREAlHia9NVaoOPKQpFstaE2t39Fu/OT1ewgGgDgXgF8kBqvbY022oaSppJUzfU0gdNgmBVJg71DH6LkwuSEDSom+VP3PaNNandcfDKpwJQnml/A4M7qvU0VLhb+LkW5pYqN30Z3ZQEgre7CGMyQRQoCkhVFe839jMr3RnNls/giiYdTMIya2ItuIl5D3sZZ0A2xOCZkmp64v2KyZdGHnTkdN27pdPO84X8UJvGPni9aXjszJdnueUPZsc3GFp+CYYzn087pVJT/Gf2OuvoGjFtEz8mgXc0ZYCxzlUJTOyzsTnUodyiyv0llJFJgvt8lpVj1AtKHSB1OQkdmBbxMyEecwZ+E6Elx1jVKFQF8bLnUw/F4PQ==;wo7wWyESZ74vj7oKD6tbeQ=="
 ---

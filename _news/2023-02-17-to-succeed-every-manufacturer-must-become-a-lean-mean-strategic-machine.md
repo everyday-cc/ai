@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T18:55:00Z
 originalUrl: "https://www.forbes.com/sites/lisacaldwell/2023/02/16/to-succeed-every-manufacturer-must-become-a-lean-mean-strategic-machine/"
 webUrl: "https://www.forbes.com/sites/lisacaldwell/2023/02/16/to-succeed-every-manufacturer-must-become-a-lean-mean-strategic-machine/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Forbes

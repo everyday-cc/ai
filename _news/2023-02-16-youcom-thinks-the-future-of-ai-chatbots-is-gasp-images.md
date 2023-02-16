@@ -139,6 +139,24 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
+  - title: "People are using AI bots like ChatGPT to work side hustles and earn thousands of dollars — check out these 6 hot freelancing gigs"
+    excerpt: "Her book \"Show Me What AI Can Do!\" is available on Amazon for $2.99. Overdubbing videos in other languages Streaming companies like Netflix and content creators on YouTube and TikTok are turning to voice dubbers to translate their videos into more ..."
+    publishedDateTime: 2023-02-16T11:40:00Z
+    webUrl: "https://www.businessinsider.com/list-6-generative-ai-side-hustles-to-boost-your-income-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
+  - title: "How AI chatbots could change online search"
+    excerpt: "ChatGPT and chatbots like it do not work like conventional online search. Today, Google and Bing work by sending out web crawlers, a type of bot (autonomous programme), to roam the internet and collect information,"
+    publishedDateTime: 2023-02-16T19:46:00Z
+    webUrl: "https://www.economist.com/the-economist-explains/2023/02/16/how-ai-chatbots-could-change-online-search"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 17
 
 secured: "/CV1LfEOJF5FCp3UEHBldIVkTsJ+7VxxTmMNyqDwUhqyMiJEr9c6nqu8Kbn4v0kC3fO3GvbRhbMBoO9HXisrVtYUjk/A4EnujGCujoLz/vhxxhbDWmOtBRMs1FflPwiNy/g+Rp5rN6yDEaqd/7mn5O7mqVPaA24cNJ9ziNR0orWXX/LMp+MgPrcGYUOB+pZd52vipBxjy9vZ7VLYJUhT6GOv/VOJefyB5OmtlztOEOLv4UcrbofvIS3IvbiyvXRNBY9phQbmLWDexBaWaDGsloeLFB/19OcEGWOUiJan41ZN8MJDvjObCKaLPOQ4rMiXbUmV6QRk9y6skHNAjSxX5oU+CpInxuhiinvMeWVIrrY=;MhVbvV/uUIZRRsu0OCqgzw=="
 ---

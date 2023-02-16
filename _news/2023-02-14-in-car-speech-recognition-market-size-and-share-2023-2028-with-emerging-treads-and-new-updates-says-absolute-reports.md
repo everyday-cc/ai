@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest Survey on \"Artificial Intelligence Software Market\" Trend 2023-2028, Updated Report With 126 Pages"
+    excerpt: "Report Highlights:- \"The global Artificial Intelligence Software market size was valued at USD 16978.67 million in 2022"
+    publishedDateTime: 2023-02-16T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-software-market-trend-2023-2028-updated-report-with-126-pages-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "8xKz2OSNFmLb3BueiC6ekFaKSW9MFbaPUy1YmasNCrUwBlgL6zC3FiWR46hKYmR2U5e5qoFe4R/zLHen6Be/u/xkjYwuQ9R0O3l1/+wiAAhyZ3vE3b9VJwJzbxKvZuylKCNeEEiUZ0JpdginI/BcwhVhHAmZBJScRYlMW/4RcoxwR+OnsxkQzrJQIkqFka+hY71uNcItY5Z2yh9m4PdKoAjL1nh6BPfgoMGiDliOx8AEyz0DV+RPvKOU/szRF7qFITbSyZ3Y/1saYM8Eqlf/vIGKuy7PEO2ne/fOEq9UZGEM3lg2JashANzMThqazFp0kf7HorPWRqwuyx0pzuKqpSimoRIaHsegqVzlDkqOhIQ=;6IY3FYFOPic5sJUfApKZfA=="
 ---

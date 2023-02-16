@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T20:47:00Z
 originalUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2023/asco-gu-2023-prostate-cancer/142447-asco-gu-2023-discussant-arteraai-prostate-and-formula-509.html"
 webUrl: "https://www.urotoday.com/conference-highlights/asco-gu-2023/asco-gu-2023-prostate-cancer/142447-asco-gu-2023-discussant-arteraai-prostate-and-formula-509.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: UroToday

@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2023/02/16/heres-the-bear-case-for-artificial
 webUrl: "https://www.cnbc.com/2023/02/16/heres-the-bear-case-for-artificial-intelligence.html/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CNBC
@@ -27,6 +27,17 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Keeping humans in the loop is not enough to make AI safe for nuclear weapons"
+    excerpt: "Artificial Intelligence (AI) systems suffer from a myriad of unique ... This ability has made it possible to create driverless cars, virtual assistants, and fraud-detection services. While no state is openly attempting to fully automate its nuclear weapons ..."
+    publishedDateTime: 2023-02-16T11:00:00Z
+    webUrl: "https://thebulletin.org/2023/02/keeping-humans-in-the-loop-is-not-enough-to-make-ai-safe-for-nuclear-weapons/"
+    type: article
+    provider:
+      name: Bulletin of the Atomic Scientists
+      domain: thebulletin.org
+    quality: 16
 
 secured: "xf5s+6k1IDdZwuQxRHSOvxAfLgNlcB1asJWhHUIuq8BSTJ0vRfmRG7TDd71cQzM/ItWYA7T3/NR/E3wN4QEb1ni9YHVwiJeM7L9sshPr2VXOyEEKbSAPeo0nPvgRM+oXnxXdoAhk7BcVEUF2gG/0fU0UU+zhNiSRFFpUnJFuwiwKZkrpVOCcwCy51aHNbApQ30Si7CLYinzbzJKiCOSFpEyotFWUpomXdIZisazkMKF8nBQC5xZf0b14iyQXULnZTVeEetu6+kAGodnRZkM/thd13FkGDW/18yyO6gljgYE1I6iBPMA1mwoRRIK5gfUbONXqYevLibRkUTGfZ26/dlRRjJ7A+AwMsXi7dFtl0OWN2HRtI3WksSQjQCSEjIg0c3zCpvUuww9qfXHeEDJLCmy9oDFn+C8TIx+D7b9SZi1BgQwHHciYYLUqO7mY37D6FUmcO8OC5/dnMl25UPPDVbmoLbQ6s+V5nrvJBpzovZbsINnTPY3aXt2TNSKNsT0vRSGBaPS2l0zimm6wvVI0TA==;Uo4d0k57CSRXm3bxPwioNw=="
 ---
