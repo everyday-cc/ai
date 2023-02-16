@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "6senseInc"
   url: "https://twitter.com/6senseInc"
-  followers: 18549
+  followers: 18551
 
 locations:
   - San Francisco
