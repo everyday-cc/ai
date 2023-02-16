@@ -17,7 +17,14 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
-secured: "eIAxONDC4p4HbEH35XU90DD1JiN+10EOBrrsNZY0kWprEJKXqmzxIZi1XVrL6aHJlQDKRUbPVL5IcSjPDT+KRZLDeru8awkisuai7ISh+6Co27L5YR/lB4eOXufQunsn4mCtjsztsMT/Bmen0u36JyE1WVgor45KTJYJ4MV6pF7rSWOSXsx9bwbAtntV5qA73Ofii07aMEt8TBc42ZEiQse3kbMn71iWY0u+Ms1qJWHcLVVAiwC1MNDCYoScogz+HBsqe/O+c9vc/16l0teXU4VMa0RGHih8/Zyx1t4lV4Q8oZDNF20NUSfi5MDjVjpctA6Owd279B6d7su0+uHwGhX/qVywWBtsoSU5yiASd32hlj0TaEPUXZ7A0meRS5Xi2C6aaUv+DpHnWx4VqFl6QWMpsN1hVa+f+8pX/Zquck7ahoSjvEKkq4nhBXBRpcbNng6ChfTsV4RVJEjCJznJcpF0Mh1OXvr1uiJTkRE4AGLmSElac/knXborOYtTuL76h/qkZ7np3u4g6QNhE1iJPA==;w2UQMlJ5YYOOhk1UiPgdUA=="
+images:
+  - url: "https://www.popsci.com/uploads/2023/02/02/Depositphotos_191578900_L.jpg?auto=webp"
+    width: 2000
+    height: 1125
+    isCached: true
+
+secured: "ddXjHWayip2eg3+fhzamJenzMvY1BWNTnLu4LzUTTG6GtSRb8ETiD1NreiMpEnPN4h2kqHPaOILzr6MBxDeUNog9KyTBEssRtpTegUZDx78QRSAfZ5zRkFo8LL7Oq1q3i0hxUaOT00jV9uy4+XJlF0tjH6bi3b/DSM1S9TuzmejB4zR1UewhEoNxJ9dQ8BwBq7AM8bVCPBMGVCKM959yhngdWeBqngik0KhO6GCG+215DtsRvUEiIabQq/EZV1Uu+cvUzlu4kexxmWKiDsJlCwJZBLelX6X0Lf7SLlKxm/P4W3VBbWRv+RVd6AYj7ZD+MbhBRPI3lSb/VFcbpOKJsLYhI3CfAuMglUBVPzp5rW4=;cy2k66Ydcp/kNcmvZehhGg=="
 ---
 

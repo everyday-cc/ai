@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Is C3.ai Artificial Intelligence Product Suite a Gamechanger?"
-excerpt: "Every day has ushered in more and more headlines covering the AI platform ChatGPT as it becomes more and more mainstream. Artificial intelligence (AI)"
-publishedDateTime: 2023-02-06T07:00:00Z
-originalUrl: "https://www.entrepreneur.com/finance/is-c3ai-artificial-intelligence-product-suite-a/444447"
-webUrl: "https://www.entrepreneur.com/finance/is-c3ai-artificial-intelligence-product-suite-a/444447"
+excerpt: "IBM) AI platform Watson which launched in 2011. However, it’s finally becoming useful in everyday applications for everyday people, and the general public is eating it up. The key has been the ..."
+publishedDateTime: 2023-02-06T07:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/is-c3.ai-artificial-intelligence-product-suite-a-gamechanger"
+webUrl: "https://www.nasdaq.com/articles/is-c3.ai-artificial-intelligence-product-suite-a-gamechanger"
 type: article
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "7GR1ITGG7CMgOQYfi2BJ3cXQJKCmnOofVPjqym0R0Dp9thMXOfI0QZoe5izrJ7j8fShog4xaj8rYy1I5bVcCSS4ceDb3XzgEGDZH4CGsK/C5pkhX8MZGNdNEyX7VV6E8lQxaZ+65iAYqpOlOlEZXI4kXIbk+/7vzH+XSgMDTO+DKbl7DElLWibaWg9MraOSjG9T3+oyjsLYKPg7dTFf05ARvbX/WWa7ubhZLfYg4GOT2kSJerFM0LHQka5kG7YhQI4kSzyDLS2uaL6/CZUBpvA2U/2fj63edZU/P2c29IWBqyy5cHehpIkgdNo7FgK24huUxeLkaGi+EYfJVfACJ4R5H/vFRf2tMen22RJUrivA=;xd+glJaLoSHvKGD6Abk9Rw=="
+secured: "ylw2styneAbAwiAj/G9c4gdXxg9XsCGgvWtLA2BjqiCNCySjmoDNMIYYfJMkdVZWLz6W+X3xF8eqMCncXY5XDLrZjTKx0WAdgLqYO3m+Sjb7ehirkrzJXWUn77OG6Gu7zwmiv5N5EVOLdgGRJWNMxSLFjDhX0w1gwlzJSTKgbDsMZdyBdWFW5x9IKx3f3Eyh2Dg0HPIP72ChRMpBMtr+dejv4qV/5sbdaLseqbBf9w7FHBE+wTjtlCyb9RkQz1Sx9NXTmTXFkCmU+lQ4LkOKxFtfaDOMwFai84/K7La7sc23P5wEofc7oM/fsDwcEJou0piB/LTaFAiBn0w2b+FqoYis/pd+lAJgPVI7JSqla0U=;xRYBxNAYqDUAjQYhCoDKzQ=="
 ---
 

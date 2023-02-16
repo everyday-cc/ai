@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "wM4FUeikLT61/HjnpYoeTZg+3LR0jvtBxnCIWAwJnx7WKc75GaIMyN6z59+9MFrIE+Tt75nPAeYtkQx069S4oG68eYlK4T0BKEFP07dJntJ81MJtsvO0+xuwzK/gO+iqnVkQvTcbp9D0Pqc2b4cCBHInegCxBetAWcz9k+Hj0KwmQVcffvFEbUXoL/3Aj08VDAdwGyj5gQXIRxrg1i6Ee2fqGqwBV6z3fOYxete1RNDj+7oJ47a7a02ngucjQ267IFrrN4hcVRZ10PUuvkUDJ0z7dvdy7FHtElwKDvZgLPgts0/+QQvLvqiEhcTgaIgKYJALnXrtXlwpeI0TQ3A4iqUWTLEYaIkGlloAEtHNsIg=;ZJ7tltOVIo5phiFhQqZeQA=="
+images:
+  - url: "https://live-wwn-files.s3.us-east-2.amazonaws.com/s3fs-public/2023-02/Wandelbots_Teaching_demonstration_on_a_Yaskawa_robot.jpg"
+    width: 2700
+    height: 1800
+    isCached: true
+
+secured: "MVnurKKUTyWr+txJEXPbAISgPbuoHn06PH38UbkC+QXI9PNXzjCmC/OTS0L2DmrqZbY0i3KZTRHsn84qdVThV2G/lVPc/1CzM6HRawvJXAikmAxlNAdZ6k6rhyS3aOzXccWG7r61gR3gBxA6Rvq6sMnb+mL2kjPziHxEst/a6p7GTC9ZS2+NFAliCXNeDt912xEJ6GlsTHWNPewp75y5r+7D58EGbYM32+ZXhH2LGntKnhkETdLlpwoaL2zWFla3LrfaZb887gMWD+SXNXNxe9yXiDLF1ZNPnta6iLUldwAPNlsMk2Dd/tdXJVzc5xEn8RGFtDGLKq6HYyR8KvEPI5zMEqzfcJRFvqceA6W1Amw=;h9w5D/E65gKjA8T98argzQ=="
 ---
 

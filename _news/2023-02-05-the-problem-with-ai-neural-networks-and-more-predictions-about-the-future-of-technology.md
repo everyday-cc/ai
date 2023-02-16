@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/podcast-anderson.png"

@@ -14,6 +14,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
+    width: 973
+    height: 514
+    isCached: true
 
 secured: "rI5Nqu3aeDEBvDqbAW+m5xf26fQom6zm/SD3Y6g1zdbKjVlZrXS00EGjR1oii5LvO30YGhaEKyNOuqv7IzySl/QCMFK+x0T1zc3lth4HKjHFbPnZQfYSUe/sm+CjdYTYd8w3Hlnv+P/sVPjbwMyyrw7HJxBUJ/S5BIvXwVkf5z5JRbo92EEgAmcWofeYF61m7Go0QLfh1QjcwXdHeGphBQ68EQkpwm/Ury+uBQ6tVpZi8r7Lj8m8y+pL/Mudh2twnwwGeezXoOcFrRhdEtJeaQ49duDRTT55f5MkQZskbcLU8QweeBb7LCsWYNDsOmU+rTYq7NTV4+OOQgWo7tHNl7C05xrJBScsSgb2NBV2VVs=;yyYPZ4cI4x4wWVRamWJjeg=="
 ---
