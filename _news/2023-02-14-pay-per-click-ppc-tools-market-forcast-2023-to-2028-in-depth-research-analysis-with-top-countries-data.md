@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Data and AI Ethics Market Research Report (2023-2029) | Gain a Competitive Edge with Top Key Players"
+    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (113 Pages) | In This Reports Data and AI Ethics Market and"
+    publishedDateTime: 2023-02-16T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market 2023-2029 With Highly Productive Segment To Expand Outstandingly"
+    excerpt: "Artificial Intelligence and Robotics in Aerospace and Defense Market Size 2023-2029 | New Report (114 Pages) | In"
+    publishedDateTime: 2023-02-14T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2023-2029-with-highly-productive-segment-to-expand-outstandingly-2023-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Market Research Report (2023-2029) | Gain a Competitive Edge with Top Key Players"
     excerpt: "Artificial Intelligence in Market Size 2023-2029 | New Report (97 Pages) | In This Reports Artificial Intelligence"
     publishedDateTime: 2023-02-15T05:11:00Z
@@ -43,15 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Complete Overview of Artificial Intelligence in Healthcare Market 2023 Along with Prominent Market Players by 2026"
-    excerpt: "Marketresearchguru.com has recently conducted a study on Artificial Intelligence in Healthcare Market 2023 to 2028"
-    publishedDateTime: 2023-02-13T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/complete-overview-of-artificial-intelligence-in-healthcare-market-2023-along-with-prominent-market-players-by-2026-2023-02-13"
+  - title: "Machine Learning & Big Data Analytics Education Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029"
+    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023-2029 | New Report (115 Pages) | In This Reports"
+    publishedDateTime: 2023-02-14T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,15 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Medical Imaging Market Forcast 2023 To 2028 : In-depth Research Analysis with Top Countries Data"
-    excerpt: "Feb (The Expresswire) -- \"Machine Learning in Medical Imaging Market\" Report covers specified competitive outlook consisting of the"
-    publishedDateTime: 2023-02-14T03:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-medical-imaging-market-forcast-2023-to-2028-in-depth-research-analysis-with-top-countries-data-2023-02-13"
+  - title: "Face Recognition Device Market In 2023 By In-depth Analysis of Revenue Forecast and Competitive Landscape 2028"
+    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-16T02:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-in-2023-by-in-depth-analysis-of-revenue-forecast-and-competitive-landscape-2028-2023-02-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

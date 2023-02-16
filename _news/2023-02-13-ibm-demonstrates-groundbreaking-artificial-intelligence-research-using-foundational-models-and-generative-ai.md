@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Problematic Nature Of Generative AI"
+    excerpt: "We’re the only species capable of synthesizing ideas, forming opinions and making decisions based on ethical principles. Let’s use this moment in history to embrace the future while investing in our humanity."
+    publishedDateTime: 2023-02-16T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63eceeda75188ac6692ed0f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Outthinking Generative AI ChatGPT To Straighten Out Those Vexing AI Hallucinations, Advises AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
     publishedDateTime: 2023-02-15T12:00:00Z

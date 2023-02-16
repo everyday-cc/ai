@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Problematic Nature Of Generative AI"
+    excerpt: "We’re the only species capable of synthesizing ideas, forming opinions and making decisions based on ethical principles. Let’s use this moment in history to embrace the future while investing in our humanity."
+    publishedDateTime: 2023-02-16T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63eceeda75188ac6692ed0f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM Demonstrates Groundbreaking Artificial Intelligence Research Using Foundational Models And Generative AI"
     excerpt: "From simple algorithms to breakthrough advances Artificial intelligence (AI ... The first AI models utilized feedforward neural networks, which were effective in modeling non-sequential data. However, they were not equipped to handle sequential data."
     publishedDateTime: 2023-02-13T13:29:00Z

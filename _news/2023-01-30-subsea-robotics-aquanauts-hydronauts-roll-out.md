@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Subsea Robotics: Aquanauts, Hydronauts, Roll Out"
-excerpt: "It now has three of its second-generation Aquanauts in build in Vancouver, which will be used on trials in the Gulf of Mexico and offshore Norway, and two Hydronaut uncrewed surface vessels (USVs), which will act as launch and recovery systems and surface gateways to Aquanauts,"
-publishedDateTime: 2023-01-30T14:18:00Z
-originalUrl: "https://www.oedigital.com/news/502542-subsea-robotics-aquanauts-hydronauts-roll-out"
-webUrl: "https://www.oedigital.com/news/502542-subsea-robotics-aquanauts-hydronauts-roll-out"
+excerpt: "Houston-based Nauticus Robotics’ first production Aquanauts and Hydronauts will head into the wild and closer to full commercialization this"
+publishedDateTime: 2023-01-30T14:22:00Z
+originalUrl: "https://www.marinetechnologynews.com/news/subsea-robotics-aquanauts-hydronauts-625606"
+webUrl: "https://www.marinetechnologynews.com/news/subsea-robotics-aquanauts-hydronauts-625606"
+ampWebUrl: "https://www.marinetechnologynews.com/amp/news/subsea-robotics-aquanauts-hydronauts-625606"
+cdnAmpWebUrl: "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/subsea-robotics-aquanauts-hydronauts-625606"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: oedigital.com
-  domain: oedigital.com
+  name: marinetechnologynews.com
+  domain: marinetechnologynews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "jAr+KRMA2h6d10ILLUlAKp3pUDYCHiqny/hIxaock/wIk8wg8MSdrbennJ/vfsNB2UZsX32bWY2dxNxDJz+Yq99wDYEHXzdmTFMnxIf6UCcrZUf2sbZ/fGOGnUnBjqnI0ef5odrCOk/6PPXpE3el7XTLe4cUO+prmQfRE4zACN/uA7B+K4bDR5/Le3LnNEbqJbj0vRW7WecQaQsTEfsQfDjuJ7sp1avLRGXCrG8qaih/rYf7NG8wtBIE3nUjIfIuLEislx1uIWGlRu4GTCBFoyAJVo1WMrlruVFlhVVUEKJiIjDUl5B8/u0YSZdrpK/qGWKVUrB/ynXQHtVx8JyEPDq5yFDeZZC1BAImp9xYRFHm8cGOgQf+qBkPMsKlSRMpL6xzKokUxXh/X2Yyz4j1aLxQHiADvNQP1a/r9MU18wlPl0Y5iZQEG/VLEuDJMW//wORymdaGuYrhhYew3EiARfBbnjmljpWzqCg0OfvEVcjvZ6forKK2gW7NCVjwqbDjfR/S7yIEMyV6epdgOGeTLw==;gsp2bKlBiAJymwrhUMU5Iw=="
+images:
+  - url: "https://images.marinetechnologynews.com/images/maritime/w800h600pad/image-courtesy-nauticus-138341.jpg"
+    width: 800
+    height: 453
+    isCached: true
+
+secured: "De6VGAiOaP20dZB5Y+1jE5YG2MY+pKAlPX4CP7SvxBLOyLtNcvx5ig2K9kcl5LvkzNxwL4M856zIxMaEr9MENaXWL0/7nqnsceC/8ZPJC1N1Yi0n5WlMK0UIg/N+9XySGjRq/3cnHExW0Gi8ZGyopyIckCgwtom9DUiz0zuPXGmv1SjxNUMuGEIAVegxUXTYMp8pKsf95o9LLR8B+jcIAWx8GJegx42XP+EWTjR4x3p+VKjylyS0fbyglAVXZutnuegIjfvfToCv0RgeyA9kK980deerQ5wtmEZTyRA/XYIdU/IN/w91wCxXUVHJPLV+eylC8QhcIf1LS/x4xx+vclDH4VaYsFu2eYAbxcEwRYc=;DUj+SIHPf4XdTszvAX7PzQ=="
 ---
 

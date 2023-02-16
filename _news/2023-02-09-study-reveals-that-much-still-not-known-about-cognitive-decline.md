@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Study reveals that much still not known about cognitive decline"
-excerpt: "Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change. PLOS ONE , 2023; 18 (2): e0281139 DOI ..."
-publishedDateTime: 2023-02-08T21:16:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/02/230208155700.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/02/230208155700.htm"
+excerpt: "The risk factors linked to cognitive decline in older adults explain a surprisingly modest amount about the large variation in mental abilities between older people, according to a new national study."
+publishedDateTime: 2023-02-08T19:00:00Z
+originalUrl: "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html"
+webUrl: "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "U4v2+ulw43i9MrS1I5aUoMuykAX62WZpTGNHpvSE32710Ygvri/J2gNxMXD/csrQMp3PovAGSr1AOrKgFK/DpWWMzQvQ/BgFjZQw4lnO6CRfhhZxcREu6lBN4aZFgO4xTVamAEzAnQ015KLOlwwWR8cxAGEF3nZd91zyLupOlZb45lzuRYrOwfLZUPsAyz+AIfaoYwISuvTL3QkAY+VkYIwfYRLs3E/acgh/r6bjXF671wJUb4U8EeJEfVRI/68hgpNkYznoLDQ4cvymhyMRV3d4kVUIXv/Tjhk0CpNjix42DWZEfNgXhPqoJaB6QoG7UBHMdPO6Avosl7Ccyyix/2QdVfOIDhrF+ko8h4WXfl4=;ZvlvM3jBy2N6iHTJMVFysQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/we-still-dont-know-whi.jpg"
+    width: 1280
+    height: 914
+    isCached: true
+
+secured: "bKnFP+1Rw3LbTdMOk9JnV+JP7H7sx6o8OcFpOQb0ir1tEKQ/CxT1YO9qO9mN0sjUcwaVw0ae6QYVaLndDNuV67I5gyidZaA5ReqfKQfVIdzSQnGy0pemIUwHRakcaOVZV6+wxubyJVrHLMLauiY2SfsGasi/tyjEdE5omQvutR4AFtCTWOZXuNuqGbQwvQ95JzvrZdthn1EkbbPEb9COmbRx52/9IV8AzfgDJZaXbyUCPbv6YKppIeppc2CFGDcp6cYlxlJ/UsWS2fkkr09s2+/gcG+PDPibBO4sXC2EilxPnj5yNqQsrzonB1s4QlakPyksA+Az89McZd6BQSofBRFOy/m/NhhUnj74MuX+O6Q=;7/1iFAEtipruBoTUptRW8g=="
 ---
 

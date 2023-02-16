@@ -27,21 +27,81 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia and Intel team up on chips for metaverse workstations"
-    excerpt: "Intel’s latest Xeon chips have anywhere from 24 to 56 cores. Metaverse applications and the rise of generative AI require a new level of computing power from the underlying hardware. “These are purpose-built for things like Nvidia Omniverse and Nvidia ..."
-    publishedDateTime: 2023-02-15T23:59:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/"
-    ampWebUrl: "https://venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/amp/"
+  - title: "‘I want to be human.’ My intense, unnerving chat with Microsoft’s AI chatbot"
+    excerpt: "It’s important to understand what makes Bing Chat special in the first place, though. Unlike ChatGPT and other AI chatbots, Bing Chat takes context into account. It can understand your previous conversation fully, synthesize information from multiple ..."
+    publishedDateTime: 2023-02-15T20:39:00Z
+    webUrl: "https://www.digitaltrends.com/computing/chatgpt-bing-hands-on/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/chatgpt-bing-hands-on/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/chatgpt-bing-hands-on/?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 101
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/02/NVIDIA-INTEL-1.jpg?w=1200&strip=all"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/bing-chat-want-human.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft’s AI Chatbot Finds Early Success in Bing Searches"
+    excerpt: "AI-powered answers have earned the approval of 71% of testers and chat has proven a popular addition that’s deepened engagement, the Redmond, Washington-based company said in a blog post Wednesday. People are also using the chat-capable Bing beyond ..."
+    publishedDateTime: 2023-02-16T06:17:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-02-16/microsoft-s-ai-chatbot-finds-early-success-in-bing-searches"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOcryCQbXkX0/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales"
+    excerpt: "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website."
+    publishedDateTime: 2023-02-16T10:24:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655"
+    ampWebUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
+    excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
+    publishedDateTime: 2023-02-15T20:38:00Z
+    webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+    ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 74
+    images:
+      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "How Microsoft is Helping Preserve Vulnerable Indic Languages with AI"
+    excerpt: "Microsoft—through Project ELLORA—wants to leverage the power of AI and help preserve these languages, which have limited written resources, let alone any digital presence."
+    publishedDateTime: 2023-02-16T03:55:00Z
+    webUrl: "https://analyticsindiamag.com/how-microsoft-is-helping-preserve-vulnerable-indic-languages-with-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/indie-micro.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "DPfxL9PmJyyccycQlPDDTsOup4ZbrDtwSs03EENQ9qqg41RcAUOLrYP2P16Y1miamgBH7JLYs48tiog6Zcf3H6uYjbRM8J7uiFbzp3MNnm/ammhw4lo63708vosk0Vm3XOHIelBybJs+fynXnMJ4f+MgquLPtbsri6rPx3BqPi+ikLKCUHzHO7akhYR1VnobbCnqOhuD65iNR/PUq8MuQmtEde56hAlIF6Wqd6Fkti7IsHE8aZ/BzaXijVZ/JIkNDK7rQvQHLbYl2Z13eDKHVHTtugfCQH1s2nsY8wjk1qL2LOXTj/3PyBvuGnGnhfdWUE+dJx9SUkGsPvBlR0InPnMCeBBM68EdEyCWFgdbU4wWRrd1uNajqBOvLn1bKGX3/ZpJEEqg4H+eDOfuVCWeTnXZ2+OieE4NRWuD/B8rXSNsjHHZYxho2TpwKn9Xl6YOez4CmjquB14YQCbzCUYR5OfNhl0MP9NhT5CqxM0Gzm9C5ceSM3dafrJr8NS1NdP2Ggqx27KVyrHvKHfVbeKxjA==;NEI1cDZsg3u0IIf3pTRgZw=="

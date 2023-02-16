@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
-    excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
-    publishedDateTime: 2023-02-15T20:38:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-    ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 74
-    images:
-      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "ChatGPT-led AI buzz unlikely to fuel near-term software growth"
     excerpt: "The hype around AI fueled by ChatGPT is a positive development for the software industry, but we don't see any sizable near-term sales gains."
     publishedDateTime: 2023-02-13T18:08:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://assets.bbhub.io/professional/sites/10/man.png"
         width: 426
         height: 288
+        isCached: true
+  - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
+    excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
+    publishedDateTime: 2023-02-14T18:38:00Z
+    webUrl: "https://www.tweaktown.com/news/90331/the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90331_01_the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt.jpg"
+        width: 620
+        height: 348
         isCached: true
   - title: "Inside the ChatGPT race in China"
     excerpt: "Maybe it was because of the holiday season, or maybe it was because ChatGPT is not currently available in China, but it took more than two months for the natural-language-processing chatbot to finally blow up in the country. (OpenAI, the company behind ..."
@@ -73,6 +71,29 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "AI on AI: Cardio Journal Editor Interviews ChatGPT"
+    excerpt: "The artificial intelligence chatbot ChatGPT is creeping into medicine, so the editor-in-chief of a cardiology journal takes it out for a test drive, speculating on the role of AI translational medicine."
+    publishedDateTime: 2023-02-15T23:37:00Z
+    webUrl: "https://www.medscape.com/viewarticle/988341"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 41
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/ht_230215_chatgpt_translational_scientist_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "‘ChatGPT, tell me a story’: AI gets literary"
+    excerpt: "Big Tech is spurring the momentum behind a wave of user-friendly AI tools. OpenAI, the parent company behind ChatGPT, previously made DALL-E, an AI that generates digital images from written queries."
+    publishedDateTime: 2023-02-15T17:56:00Z
+    webUrl: "https://www.csmonitor.com/text_edition/Technology/2023/0215/ChatGPT-tell-me-a-story-AI-gets-literary"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 19
 
 secured: "SAWq/KPUKW1E1fAUGjX/YA5LsUKjDHHa84xEDGwD20nclGq1TYQ3dlOUHPBIc9KKxI1o6ccO2+CLh8d5JLr/dPe36IbZhBzeNcpXsvS5fevUi1MY9iVW/3kDtOPxBStafLNy4IpmrKw2o4UdSYmj4zmkkCIiA48wHXu8kfmdYx16W+vYjFQ2JOrm+PYlgpdzJutuAdaasT5G25/qzwcHkYGOV4Mczb/7QfXk4hQTsSyrwFjH985Q/CaqOSNsa88o26VlN4Vy4e1dIMXfGHkUoF5wyAlmomjBQ1XxdDgDPu8qvNzMkrHvIMLptNbCPPGMUKx/IwqO4Ogc+SI1Ic1bhis8sdkLuv3mZkZ+VMAvWt/UN/+8QDKvEJn5RFAsZpfRdU3X8BcgmvH8UaRtfMi08Hslq9nUJTQ20An4A4ZRl7FUGFd+nhLcE+S7/8d8l/wuqfdTtY+Q8h0slgOZnLACLhq0WNfv7DAFhwsDkZHoaFSdxDYlZuAb8JWYQYOhbIi8PSG6tNiRUeqZEOWO7KBkyw==;6Q+31U4WCjT+0s+NY84dyw=="
 ---

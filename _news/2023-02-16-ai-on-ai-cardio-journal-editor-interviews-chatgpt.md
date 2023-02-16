@@ -26,20 +26,75 @@ images:
     isCached: true
 
 related:
-  - title: "Charlie Munger weighs in on ChatGPT3: Artificial intelligence is not going to cure cancer"
-    excerpt: "Billionaire investor and Berkshire Hathaway Vice Chairman Charlie Munger speaks at the Annual Shareholders Meeting of the Daily Journal Corporation. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC ..."
-    publishedDateTime: 2023-02-15T16:33:00Z
-    webUrl: "https://www.cnbc.com/video/2023/02/15/charlie-munger-weighs-in-on-chatgpt3-artificial-intelligence-is-not-going-to-cure-cancer.html"
+  - title: "ChatGPT-led AI buzz unlikely to fuel near-term software growth"
+    excerpt: "The hype around AI fueled by ChatGPT is a positive development for the software industry, but we don't see any sizable near-term sales gains."
+    publishedDateTime: 2023-02-13T18:08:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 58
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 71
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107195197-16764857721676485769-28210071138-1080pnbcnews.jpg?v=1676486025&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://assets.bbhub.io/professional/sites/10/man.png"
+        width: 426
+        height: 288
         isCached: true
+  - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
+    excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
+    publishedDateTime: 2023-02-14T18:38:00Z
+    webUrl: "https://www.tweaktown.com/news/90331/the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90331_01_the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt.jpg"
+        width: 620
+        height: 348
+        isCached: true
+  - title: "How enterprises can use ChatGPT and GPT-3"
+    excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
+    publishedDateTime: 2023-02-14T12:43:00Z
+    webUrl: "https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.html"
+    ampWebUrl: "https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Inside the ChatGPT race in China"
+    excerpt: "Maybe it was because of the holiday season, or maybe it was because ChatGPT is not currently available in China, but it took more than two months for the natural-language-processing chatbot to finally blow up in the country. (OpenAI, the company behind ..."
+    publishedDateTime: 2023-02-15T11:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/02/LLM_sprouts.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "‘ChatGPT, tell me a story’: AI gets literary"
+    excerpt: "Big Tech is spurring the momentum behind a wave of user-friendly AI tools. OpenAI, the parent company behind ChatGPT, previously made DALL-E, an AI that generates digital images from written queries."
+    publishedDateTime: 2023-02-15T17:56:00Z
+    webUrl: "https://www.csmonitor.com/text_edition/Technology/2023/0215/ChatGPT-tell-me-a-story-AI-gets-literary"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 19
 
 secured: "wYkn4tU2EZvo1b6PIxOQaOyhNo07gsXvNE5rJQlv9Rbp9PzuSwYq6NE3L3DfY7d7NUGhbS+jQZGoksVzU0s7AkxjDjYjhbsaLW19xyI6TdlrFjszqddOY1mWyjixdfB+GkW9UuyBBY0LbQFID8fehFSkxFU2M3C8obFJyTDbrhJSaC352SXokvEfBqnC8StV5E1ZYVu4YIsrZXdaaPOCOgSKWW7Wj/PiWnaHCejFknZ7M66CViUaeD5iYRYuceTMmR9CbcnU9K1uN9s6m82NZDXvklALFm3iirYCJZmx9mrsbPQSkj4PXu+Sin+2hV2ZRUFrkJU/89WY5dubRLLbgr2MSQOyu+8rof4AO1PNBw9FJt1g6dwn301i6SpmId4ZA1E4TivfJrFvwNDAs1vE5Zg2tDePA7TS2pMRmkDa7OArmjWQ0N5EP78OR8osNBAR5/RlGATZOq8El2zY5QUzc3pPde/48MZ+skMfvqHBsnW4RqjRkKXtDACFRDYmHf5v1WFwl/YKZNd/JqVRjhEWkw==;Q0u0vf8lCyw02oxaHiesuQ=="
 ---

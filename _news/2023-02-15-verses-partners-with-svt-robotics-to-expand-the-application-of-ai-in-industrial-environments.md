@@ -1,0 +1,68 @@
+---
+category: news
+title: "VERSES partners with SVT Robotics to Expand the Application of AI in Industrial Environments"
+excerpt: "A SOFTBOT connector for KOSM services will be available in SVT Robotics’ AppDirectory for quick and reliable integration with any of the other automation and robotics technology connectors in the SVT ecosystem."
+publishedDateTime: 2023-02-15T00:00:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/02/15/9760769.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/02/15/9760769.htm"
+type: article
+quality: 58
+heat: -1
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://ml.globenewswire.com/Resource/Download/2c758c02-55a7-416d-aabf-58744d44ef2a"
+    width: 1032
+    height: 735
+    isCached: true
+
+related:
+  - title: "VERSES partners with SVT Robotics to expand application of AI in industrial environments"
+    excerpt: "SVT’s integration with VERSES’ network operating system, KOSM, is expected to accelerate deployments of AI powered robots into warehouses and distribution centers https://www.verses.ai/"
+    publishedDateTime: 2023-02-15T20:40:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/verses_partners_with_svt_robotics_to_expand_application_of_ai_in_industrial"
+    type: article
+    provider:
+      name: Logistics Management
+      domain: logisticsmgmt.com
+    quality: 60
+    images:
+      - url: "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2302_F_Ex_Global-Main800px_350_200_bor1_b9b3be_s_c1.jpg"
+        width: 352
+        height: 202
+        isCached: true
+  - title: "Rapid Robotics Partners With Yaskawa Motoman, Expands Solutions"
+    excerpt: "Through a new partnership with Yaskawa Motoman, Rapid Robotics is bringing its rapid deployment speeds and next-gen service to industrial applications."
+    publishedDateTime: 2023-02-16T06:04:00Z
+    webUrl: "https://www.mmsonline.com/news/rapid-robotic-partners-with-yaskawa-motoman-expands-solutions"
+    type: article
+    provider:
+      name: Modern Machine Shop
+      domain: mmsonline.com
+    quality: 54
+    images:
+      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/MMS/2023-MMS/0423-mms-news-rapid-robotics-yaskawa-partnership.jpg;maxWidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Top 5 Robot Trends 2023 - International Federation of Robotics Reports"
+    excerpt: "The stock of operational robots around the globe hit a new record of about 3.5 million units - the value of installations reached an estimated 15.7 billion USD. The International Federation of Robotics analyzes the top 5 trends shaping robotics and automation in 2023."
+    publishedDateTime: 2023-02-16T07:36:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/02/16/9761521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+
+secured: "Ht80aULzju5Az10MudBhc11o3WyY4+F3S0VgHB+F9xISGHzxjqm53lwQeAD02SsQzMG4jkdT0oTh24WojbOz/xX/w2L/zu3blIg7mLTbuORrXMcM7CYxqbw+YBMhsbqBLy7Q4oe+zOyypGEf90p5HsOPodfd1Op1jxGAmgcxYdOOM+ipgWDJIHcf6Z2O/PFiJJMGGBwtIXYEDISe+MGTV4L5R7asobSoW2frx3T2l4XDDOkbhNujH3WQp1pTb8m11gvw3JOw/Up+OEIwOKi6b0edwOdDEq3OUFaS1tflKX2RYHcQtZvSy8Uft47Vx/v9IkvwE8Pq/WER8ibaMn+cuzOTjbeYves5SWjAFvtL7ho=;p7c86T/s+1+CkcK+dsahBA=="
+---
+

@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-un
 webUrl: "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
-    excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
-    publishedDateTime: 2023-02-15T20:38:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-    ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+  - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
+    excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
+    publishedDateTime: 2023-02-14T18:38:00Z
+    webUrl: "https://www.tweaktown.com/news/90331/the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt/index.html"
     type: article
     provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 74
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
     images:
-      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
-        width: 1440
-        height: 500
+      - url: "https://static.tweaktown.com/news/9/0/90331_01_the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt.jpg"
+        width: 620
+        height: 348
         isCached: true
   - title: "How enterprises can use ChatGPT and GPT-3"
     excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
@@ -78,6 +76,29 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "AI on AI: Cardio Journal Editor Interviews ChatGPT"
+    excerpt: "The artificial intelligence chatbot ChatGPT is creeping into medicine, so the editor-in-chief of a cardiology journal takes it out for a test drive, speculating on the role of AI translational medicine."
+    publishedDateTime: 2023-02-15T23:37:00Z
+    webUrl: "https://www.medscape.com/viewarticle/988341"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 41
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/ht_230215_chatgpt_translational_scientist_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "‘ChatGPT, tell me a story’: AI gets literary"
+    excerpt: "Big Tech is spurring the momentum behind a wave of user-friendly AI tools. OpenAI, the parent company behind ChatGPT, previously made DALL-E, an AI that generates digital images from written queries."
+    publishedDateTime: 2023-02-15T17:56:00Z
+    webUrl: "https://www.csmonitor.com/text_edition/Technology/2023/0215/ChatGPT-tell-me-a-story-AI-gets-literary"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 19
 
 secured: "UMfT7IBxBt182u10omYe0VcUOSR8DjSInIZqIPFtTEbbwI+JYYAv2rfW6aS0XWqSTJx9wFU1DyPo0FUsSfvoGnE1uJ32nD9rdaJyzGMesqoFUoQJdDFqYV8ymxtsXNWw/ZyicDmsZq7HcwvCSG6PsJ/Inq/usihNUgbjHXnhtFR/yR5FaIvuu8tT9mwCASFYuEsz7OaaQ65a+v9XPlOK7tau6nlZEnMyBAoXFMGsrzNB2exzhAEfTtR1KqATdMjzlDPgsZr/CZLdkH9M4AJIGQLAbYi4kWMP9AgfthqDG2ts8E8VpuCpJQBdWe2dld6rpoLBVzXbMUlY1VG0WFsm1/Q8GLOSYNizhp0eZClKsW2AqTgzMYT2xdV/o8OUOG4QGm+3up8JuXBTcnVARFArH0y2H8cSUEIFQL8Lin3bSp6fZUQsiAsqtpCfVrC16ooUV5LmcE4iMzpv5AEEZYYZBCQsnErlxUz7NsN3navKoaHveSB6badmQXTiDQzXakBglNeYo9eni3Gd+6ixczyKFw==;ZZ7DBBqfNii9WAmISOun8g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: Business Insider
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales"
-    excerpt: "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website."
-    publishedDateTime: 2023-02-16T10:24:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
+  - title: "Google boss slags off AI mirage"
+    excerpt: "Raghavan said the huge language models behind this technology make ... Raghavan had been saying all this sort of thing when Google’s own AI-based products had been released. Google Translate for example is passable but about as accurate and reliable ..."
+    publishedDateTime: 2023-02-14T09:33:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56327-google-boss-slags-off-ai-mirage"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.fudzilla.com/media/k2/items/cache/54013ba622f269f30e01ae0006e2794d_L.jpg"
+        width: 620
+        height: 466
         isCached: true
 
 secured: "fGIOs6c5SFadLUHzJ0NBISBYAC4uhY/3h95CHol30gbN/3/nXvS5m5QQTvp8lFTAQDo5tRnOmnYI5aWRqcVyYhnZRMT9RY5DJrbuxTT0qcF102e2pCfSzfbrRMzpuUV+UxaIlOp7o6zOJA9LhLnSM0Kon1hRlVVQPRWp6FozzIZK8Idw16AHEm1oTJ9eMSHuwTLZ96/9SxXcWKLTa//cVUsSkkFUpvEfWZ94TqLrSCQODTeJUlzI1K5HvwSehMO2KkE+PGYEyor67BkMgwzn4kUjHHN+lGgHF/Kcqo693/7vtESJyNdFzVmZVJeGnQzBQR3BT2o+PWMdqjOtt+/SUNEGLonJRmX7BZq5e8wAymA=;GahSn62Ey4nYCoq2boHuYg=="

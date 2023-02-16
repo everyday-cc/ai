@@ -42,34 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft’s AI Chatbot Finds Early Success in Bing Searches"
-    excerpt: "AI-powered answers have earned the approval of 71% of testers and chat has proven a popular addition that’s deepened engagement, the Redmond, Washington-based company said in a blog post Wednesday. People are also using the chat-capable Bing beyond ..."
-    publishedDateTime: 2023-02-16T06:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-02-16/microsoft-s-ai-chatbot-finds-early-success-in-bing-searches"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOcryCQbXkX0/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Microsoft is Helping Preserve Vulnerable Indic Languages with AI"
-    excerpt: "Microsoft—through Project ELLORA—wants to leverage the power of AI and help preserve these languages, which have limited written resources, let alone any digital presence."
-    publishedDateTime: 2023-02-16T03:55:00Z
-    webUrl: "https://analyticsindiamag.com/how-microsoft-is-helping-preserve-vulnerable-indic-languages-with-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/indie-micro.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "tAfU8QBGwZbjdnjQrbTNHzTr5U6yzl1m6ygFXCTCh/ZJqhqD4ku8Ktxg8c2tEvEpYvawcnEg+wPZWhOOfiv46YFG5+4m0WZkXUsk6lNWdrRH0LNd/dp0PEAi7jiyVB9IHzCbvBVsHl93iadwD1yRWzyGWRxgVa/7JAABGJQmhnlBP/HnLg0EjTz/HmGHrxTp/r2dXWJs8XCnZqO9W0lijjBR07vFd1Aeayv5kGZ1RtWak4ihORv8AJAGt36v4/ubvcrM2f4H1xQFO4JNSqSFrnTW7aqCqX7bFUZoarFKLyRUmW+K9+JVJ9AGkbHeDTzRvzZDfY9nyNZsHNUetLYmL1bRfxHuQvnQkQoYmxsPL60=;N16iGD028TK5BmD8IxP9Og=="
 ---

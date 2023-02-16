@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/02/STRADVISION_The-present-and-future-of-ADAS-1.png?resize=1200,660"

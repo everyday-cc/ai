@@ -39,6 +39,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tech Trends That Will Define Fintech In 2023"
+    excerpt: "The first trend that will undoubtedly shape fintech's future is AI technology. AI and ML can revolutionize banking, payments, investments, risk management and more. AI is a broad term used to describe machines with the ability to perceive their environment ..."
+    publishedDateTime: 2023-02-16T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ecef5f4ad1eeb2e6ed2985/0x0.jpg?format=jpg&width=1200"
+        width: 1197
+        height: 798
+        isCached: true
   - title: "Study finds how artificial intelligence with infrared imaging improves colon cancer therapy"
     excerpt: "Researchers at Ruhr University Bochum's Centre for Protein Diagnostics PRODI are utilising artificial intelligence in conjunction with infrared imaging to optimise colon cancer therapy for individual patients. The label-free, automated technology can be ..."
     publishedDateTime: 2023-02-15T08:07:00Z
@@ -70,6 +86,34 @@ related:
       - url: "https://images.globest.com/contrib/content/uploads/sites/296/2022/09/Deal-Handshake-2.jpg"
         width: 620
         height: 372
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2028"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence (AI) in Fintech Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-16T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "These 2 Fintech Stocks Are Back in the Money"
+    excerpt: "Yet CEO Dave Girouard believes that Upstart's advanced technology, improved modeling to take advantage of AI, and more-diverse data set that now incorporates some periods of economic slowdown have put it in a better position for 2023 and beyond."
+    publishedDateTime: 2023-02-15T23:35:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/15/these-2-fintech-stocks-are-back-in-the-money/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/720997/loan-discussion-gettyimages-482134861.jpg"
+        width: 2121
+        height: 1414
         isCached: true
   - title: "UK saw fintech investment collapse in 2022, but is still a world leader"
     excerpt: "Investment in UK fintech from private equity and venture capitalist firms fell 56% in 2022, reaching $17.4bn compared with $39bn the previous year, according to KPMG. In its latest Pulse of fintech report,"

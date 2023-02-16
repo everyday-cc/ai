@@ -56,10 +56,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Growth, Business Overview and Forecast to 2028"
-    excerpt: "Feb 14, 2023 (The Expresswire) -- \"Automotive Artificial Intelligence Market\" Report provides a Detailed ... Inc., IBM Corporation, Audi AG, Waymo Llc (A Part of Alphabet, Inc.)] and others, value chain optimization, trade regulations, recent developments ..."
-    publishedDateTime: 2023-02-15T02:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-business-overview-and-forecast-to-2028-2023-02-14"
+  - title: "Computer Vision Software Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- \"Computer Vision Software Market\" Report covers specified competitive outlook consisting of the market proportion and company profiles of ..."
+    publishedDateTime: 2023-02-13T12:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-13"
     type: article
     provider:
       name: MarketWatch
@@ -70,15 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence For IT Operations Platform Market Size 2023 : Emerging Technologies, Opportunity and Forecast to 2028"
-    excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence For IT Operations Platform Market\" Research Report 2023 Provides a Basic overview of the"
-    publishedDateTime: 2023-02-16T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-it-operations-platform-market-size-2023-emerging-technologies-opportunity-and-forecast-to-2028-2023-02-15"
+  - title: "AI in Social Media Market 2023 Top Companies, Industry Outlook | In-depth Analysis Business Opportunities and Demand to 2029"
+    excerpt: "The major players covered in the AI in Social Media market report are: North America is expected to have the largest market size in the AI in social media market, while APAC is expected to grow at the highest CAGR during the forecast period."
+    publishedDateTime: 2023-02-16T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2023-top-companies-industry-outlook-in-depth-analysis-business-opportunities-and-demand-to-2029-2023-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

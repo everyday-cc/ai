@@ -41,6 +41,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tech Trends That Will Define Fintech In 2023"
+    excerpt: "The first trend that will undoubtedly shape fintech's future is AI technology. AI and ML can revolutionize banking, payments, investments, risk management and more. AI is a broad term used to describe machines with the ability to perceive their environment ..."
+    publishedDateTime: 2023-02-16T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ecef5f4ad1eeb2e6ed2985/0x0.jpg?format=jpg&width=1200"
+        width: 1197
+        height: 798
+        isCached: true
   - title: "Study finds how artificial intelligence with infrared imaging improves colon cancer therapy"
     excerpt: "Researchers at Ruhr University Bochum's Centre for Protein Diagnostics PRODI are utilising artificial intelligence in conjunction with infrared imaging to optimise colon cancer therapy for individual patients. The label-free, automated technology can be ..."
     publishedDateTime: 2023-02-15T08:07:00Z
@@ -72,6 +88,34 @@ related:
       - url: "https://images.globest.com/contrib/content/uploads/sites/296/2022/09/Deal-Handshake-2.jpg"
         width: 620
         height: 372
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2028"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence (AI) in Fintech Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-16T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "These 2 Fintech Stocks Are Back in the Money"
+    excerpt: "Yet CEO Dave Girouard believes that Upstart's advanced technology, improved modeling to take advantage of AI, and more-diverse data set that now incorporates some periods of economic slowdown have put it in a better position for 2023 and beyond."
+    publishedDateTime: 2023-02-15T23:35:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/15/these-2-fintech-stocks-are-back-in-the-money/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/720997/loan-discussion-gettyimages-482134861.jpg"
+        width: 2121
+        height: 1414
         isCached: true
   - title: "Integrating AI with infrared imaging to improve colon cancer diagnosis"
     excerpt: "Artificial intelligence and infrared imaging automatically classify tumors and are faster than previous methods. The immense progress in the field of therapy options over the past years has significantly improved the chances of cure for patients with colon ..."
@@ -111,6 +155,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "mtLEfikmYXGbZ9SPpTzS4NzDUIVOR37zBIpiN4y0Gi+jeehbDhNTkQ3BgVQ94bMBQMoC+WpIFI+ObkdKPQggRWV7Q8Ml2aK88VB2y5BYNxAUUvdLWPtmwQBUqIpPuBC2kLquJu7PWFiyLaPl9qs/WDhlF9+88/QxkGgu/SIWWIzrYTw2VSCxwn6y+2yT99dvmqzphH4TFPlR8Fix3ids4YfZy2a3jZZnZ9JrjG5Qi3TTibueaB2J+dBTYFRxtEUCKcTBTsFJ9M1N3vrH8zjxU4FIbaTM62ki0q0goXkxGsd+Pld5FjGc6N2Gk861J/nns7uvmILz6Wf4hgCTNiF33YvIlUsdS2W1hFkohgvtnXY=;dzNISTLyF2924OWqTXBM2g=="
+secured: "wt48TzVmEwlh7AWoE/JpoiVZJ+bqXrxkApv+bLZNTzhOoyw+32UqIFWLTKeFKWgCCGxhfatLtoO+9/NeydvngJsM3ZXvKgLfynnj61zdKGpojRaxaPrfStRMNHj0hzptJKyh9kPcvoC271n7/WOCHkAl6KXqiYWVr2zGkKyM8jaTSpg+KMaugngLy/v3L82DgGVEybnpPs8ST4b6rI+0Vf+UwYLqXepUbm4I6O8tGphyu05H56V0zXEEWT3bfdmfHAFcOUT0vwFQY71B9CTnvYE3fg/ZGR/6At1+gFRXR3BSC0228AyzrfS8L/Ohu1i/8+Mcr1eSlQnI57K7nYjESnwtnkAyail5PluNcD2osqHAGuO9nFq/jNk7mBEyVo/m6gNmq35VYkh/89vGwhuXrwweiisSClgLiFBaoQkVbGwWSh0fut+H93Ikjf0PY5kcqtEHPxuXa63lZuqi6r33fKR549kIpl9B3UKiEiLdmNBThZadBUP7YH7vGXhKnhT3KyXXgNXgFUBvLE6tovt3MQ==;vc/G81nhz37nGgimuxyPyw=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/clouds-2329680_1920-Dimitris-Vetsikas-Pixabay.jpeg"
@@ -40,6 +41,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "I5GTRcYY4leoRA8SQRuPXpSowrajv8LF5fiSURn4YW177s22y3h5gEqI+CzQ+37KGbFuMVh2x0KukYW4k7iwy/SvWYUS+IWvAkElOHHzHZPnc9wAewhkt1LHPhfk0Da940XmGtMO1kQZ/loTN5953/Ig8ljdCWWnTXFbqP1dzvACWiPK//8oZZDygdQyUfS9/fnZzXCF1Zy5TirxiZZoH1F6wf+PhCEbxC4xu9WzvJvGeF1jrZqhx3E9bjVvLfqO/N7G/it1lLtWZk+nU3HicVwl6UXDZEvfEm/S8RLe/97bNg4A/XRSllHnBByaPZ5upOtxQ7CT2JSZozB3HfsMwRcB0hZfkA0s4Dfz6Y1eqPs=;XBtFfaV06n3k3xd9MpZA/w=="
+secured: "TUq/1U2SjVVtxee3L52VBvgIu/kwHqbePlnobkOmVvEvaR555rCu2Tyb8/oXZg/BERzyfbaLRC/LuY/0J8wkvfFR7v3vSq95/qpftuTDpL+OxVyYUgm17S/O6rJ0gkSnLAMmWpYGJhggjNAK/YwGuh7C3xS8Z2M5aRzyYxrkvt9eNzii5+Z7EJzqQsmLz8yHqTHGk+45NzKmweU9MaDO7eqAVvaQVM4ApGUPjqtIWM1a3tZlXy9XkjT504BlQsPAYaa5N3YPhfzVqAbIKjPVIVuD3XzSrKKtnyDKMD7DUNZ+eHI3aIYUFcyEq7tpNwoeki3HdL9xn+Xb7u/Kfo17UoopbvAUTyt5WiZYDAPyiGBZ3wdrIfHJf3tmByax+RE/JDX7e9G8qRplt5FCDspMyIsyGD74KZDwMscOsZGu7JzS6cVaJFTcer+9ehhdqQRSTdDsdxgungkYj+fgybIuESiqHU9/4n+t3YbEzYdG4PGoBhp4rG7RaCKA+xuyAru0DsrobVRS5pb3Lz2tYMm1dw==;UsPOltYYWyUeVmh6mLKImw=="
 ---
 
