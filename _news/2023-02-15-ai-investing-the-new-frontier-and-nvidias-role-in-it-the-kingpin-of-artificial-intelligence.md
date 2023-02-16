@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/23/02/30907988/ai-investing-the-new-frontier-a
 ampWebUrl: "https://www.benzinga.com/amp/content/30907988"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30907988"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:

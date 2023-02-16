@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/what-will-indian-he
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms"
 type: article
 quality: 96
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 2448
     height: 1224
     isCached: true
+
+related:
+  - title: "10 emerging technologies in computer science that will shape the future"
+    excerpt: "Emerging technologies such as artificial intelligence, blockchain and robotics could impact industries ranging from healthcare and finance to agriculture and beyond."
+    publishedDateTime: 2023-02-16T14:00:00Z
+    webUrl: "https://cointelegraph.com/news/10-emerging-technologies-in-computer-science-that-will-shape-the-future"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 4
 
 secured: "lMUxC/BU17CGSwufavzemrzke/ZKr/zB8xAW14Uvdxdo30YFOmvmqXFDTjHCxchOuqCWvLA1T1gfvQoeojRapoNQRHxfVEpAZwsSPEl2TzSBoqyJgq2a5ygkbDBn7eLBnJXZ2awr4YDYtNop/zIlh0AldGdHK5FxN5sB+4OPXtUCdmLqvnf6mokiwpifsHTLoE01yO5cNN1qr7gKYf/bi0SxTR6VLnfLKstHumEXw+UtIFr+Nvk8USykenGPnOZcMtDvlE+jTUA0ofjp0b7igbpI0mY3/yERoepoRbeJpbxmJWTtjJZEGk6bu6Lz9mj2B7jQWOYaZXz8O/OPsuDE8Dm8LKZifLllpWidOrX7JWqz8QeSZrpkn/AOUGquuWWXDqJWYUIaC1/cdfr+PL1WmQtaVtJbqaNZpUyzyjI9NiIFub5Knn2GqZbmSLWsNPsFzar1lbkqt3sxEsMHEfTdYTMHW93ylCtgvY05udGl8+AC4Qwkv508VeC7EaFn29J+sM9dUjonhM0InR00Qd3E8Q==;OWv8f/8JgFFWbBBHRx1H7A=="
 ---

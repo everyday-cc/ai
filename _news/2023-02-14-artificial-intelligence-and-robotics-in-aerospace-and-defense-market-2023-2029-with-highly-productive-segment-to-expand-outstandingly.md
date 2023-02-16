@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Turnstile Market Forecast Report 2023 | Industry Booming in Next Upcoming Years by 2027 | Research Reports World"
+    excerpt: "The Face Recognition Turnstile Market (2023-2027) Research | Updated New Report | Market is including in Various"
+    publishedDateTime: 2023-02-16T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-forecast-report-2023-industry-booming-in-next-upcoming-years-by-2027-research-reports-world-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pay-Per-Click (PPC) Tools Market Forcast 2023 To 2028 : In-depth Research Analysis with Top Countries Data"
     excerpt: "What is the projected market size and growth rate of the Pay-Per-Click (PPC) Tools Market? Pay-Per-Click (PPC) Tools Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
     publishedDateTime: 2023-02-14T01:42:00Z

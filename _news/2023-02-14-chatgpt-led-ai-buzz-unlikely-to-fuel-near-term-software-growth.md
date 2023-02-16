@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-un
 webUrl: "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/"
 type: article
 quality: 71
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy"
+    excerpt: "South Korea hopes to be a key player in fulfilling the new global demand for next-generation AI chips, and today the government put some money where its mouth is: the country’s Ministry of Science and ICT said it would earmark $642.5 million (826.2 ..."
+    publishedDateTime: 2023-02-16T10:16:00Z
+    webUrl: "https://techcrunch.com/2023/02/16/south-korea-boosts-its-ai-chip-industry-with-642m-amid-chatgpt-frenzy/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
     excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
     publishedDateTime: 2023-02-14T18:38:00Z
@@ -99,6 +108,15 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 19
+  - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
+    excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
+    publishedDateTime: 2023-02-16T13:42:00Z
+    webUrl: "https://tech.co/news/best-chatgpt-alternatives"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 17
 
 secured: "UMfT7IBxBt182u10omYe0VcUOSR8DjSInIZqIPFtTEbbwI+JYYAv2rfW6aS0XWqSTJx9wFU1DyPo0FUsSfvoGnE1uJ32nD9rdaJyzGMesqoFUoQJdDFqYV8ymxtsXNWw/ZyicDmsZq7HcwvCSG6PsJ/Inq/usihNUgbjHXnhtFR/yR5FaIvuu8tT9mwCASFYuEsz7OaaQ65a+v9XPlOK7tau6nlZEnMyBAoXFMGsrzNB2exzhAEfTtR1KqATdMjzlDPgsZr/CZLdkH9M4AJIGQLAbYi4kWMP9AgfthqDG2ts8E8VpuCpJQBdWe2dld6rpoLBVzXbMUlY1VG0WFsm1/Q8GLOSYNizhp0eZClKsW2AqTgzMYT2xdV/o8OUOG4QGm+3up8JuXBTcnVARFArH0y2H8cSUEIFQL8Lin3bSp6fZUQsiAsqtpCfVrC16ooUV5LmcE4iMzpv5AEEZYYZBCQsnErlxUz7NsN3navKoaHveSB6badmQXTiDQzXakBglNeYo9eni3Gd+6ixczyKFw==;ZZ7DBBqfNii9WAmISOun8g=="
 ---

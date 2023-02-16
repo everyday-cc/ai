@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft explains Bing's bizarre AI chat behavior"
+    excerpt: "Microsoft launched its Bing AI chat product for the Edge browser last week, and it's been in the news ever since — but not always for the right reasons. Our initial impressions were strong, as it offered up workout routines, travel itineraries and more ..."
+    publishedDateTime: 2023-02-16T13:52:00Z
+    webUrl: "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/rmtgqK.dkZnoRLcvyngjAQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/31782c40-adf7-11ed-9dcf-98e346252060.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘I want to be human.’ My intense, unnerving chat with Microsoft’s AI chatbot"
     excerpt: "It’s important to understand what makes Bing Chat special in the first place, though. Unlike ChatGPT and other AI chatbots, Bing Chat takes context into account. It can understand your previous conversation fully, synthesize information from multiple ..."
     publishedDateTime: 2023-02-15T20:39:00Z
@@ -57,22 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales"
-    excerpt: "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website."
-    publishedDateTime: 2023-02-16T10:24:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
     excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
     publishedDateTime: 2023-02-15T20:38:00Z
@@ -89,6 +89,29 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Microsoft will help the Google of China take its self-driving car platform global"
+    excerpt: "The biggest stories of the day delivered to your inbox."
+    publishedDateTime: 2023-02-13T00:01:00Z
+    webUrl: "https://mashable.com/article/baidu-microsoft-azure-self-driving-partnership"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 66
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft’s (NASDAQ:MSFT) AI Prowess Could Distinguish Itself from Rivals"
+    excerpt: "Takeaway: MSFT Looks Like a Buy I think AI could more than offset slowed growth in Microsoft’s Azure and evolve to become the reason to own Microsoft stock. Further, I believe shares can continue to deliver above-average results for investors as it ..."
+    publishedDateTime: 2023-02-13T19:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-nasdaq-msft-ai-prowess-could-distinguish-itself-from-rivals-1032092083"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "How Microsoft is Helping Preserve Vulnerable Indic Languages with AI"
     excerpt: "Microsoft—through Project ELLORA—wants to leverage the power of AI and help preserve these languages, which have limited written resources, let alone any digital presence."
     publishedDateTime: 2023-02-16T03:55:00Z
@@ -103,6 +126,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Bing AI claims to be able to watch webcams & hack devices"
+    excerpt: "The AI-powered search engine era is here, and Microsoft was the first to kick start it with their reveal of OpenAI-powered Bing and Edge on February 7. Fans quickly flooded the waitlist in an attempt to gain access to the new features, with many reporting ..."
+    publishedDateTime: 2023-02-16T13:37:00Z
+    webUrl: "https://www.dexerto.com/tech/microsoft-bing-ai-claims-to-be-able-to-watch-webcams-hack-devices-2062594/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 34
+  - title: "Column: Minimum wage ‘ghosts’ keep Google and Microsoft’s AI arms race from becoming a nightmare"
+    excerpt: "Google and Microsoft think chatbots that can converse like humans are the future of web search. But the human workers who make sure they don't screw up are treated as disposable."
+    publishedDateTime: 2023-02-16T13:30:00Z
+    webUrl: "https://www.latimes.com/business/technology/story/2023-02-16/column-google-microsoft-chatgpt-bard-raters"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 21
 
 secured: "DPfxL9PmJyyccycQlPDDTsOup4ZbrDtwSs03EENQ9qqg41RcAUOLrYP2P16Y1miamgBH7JLYs48tiog6Zcf3H6uYjbRM8J7uiFbzp3MNnm/ammhw4lo63708vosk0Vm3XOHIelBybJs+fynXnMJ4f+MgquLPtbsri6rPx3BqPi+ikLKCUHzHO7akhYR1VnobbCnqOhuD65iNR/PUq8MuQmtEde56hAlIF6Wqd6Fkti7IsHE8aZ/BzaXijVZ/JIkNDK7rQvQHLbYl2Z13eDKHVHTtugfCQH1s2nsY8wjk1qL2LOXTj/3PyBvuGnGnhfdWUE+dJx9SUkGsPvBlR0InPnMCeBBM68EdEyCWFgdbU4wWRrd1uNajqBOvLn1bKGX3/ZpJEEqg4H+eDOfuVCWeTnXZ2+OieE4NRWuD/B8rXSNsjHHZYxho2TpwKn9Xl6YOez4CmjquB14YQCbzCUYR5OfNhl0MP9NhT5CqxM0Gzm9C5ceSM3dafrJr8NS1NdP2Ggqx27KVyrHvKHfVbeKxjA==;NEI1cDZsg3u0IIf3pTRgZw=="
 ---

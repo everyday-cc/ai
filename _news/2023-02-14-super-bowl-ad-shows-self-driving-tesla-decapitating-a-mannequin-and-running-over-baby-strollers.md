@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Super Bowl ad calls for NHTSA to ban Tesla Full-Self Driving"
+    excerpt: "Tesla has come under fire again for its controversially named Full Self-Driving driver-assist feature, this time in an ad that aired on Sunday in Washington, D.C., as well as in a number of state capitals during Super Bowl LVII. The spot shows a number of ..."
+    publishedDateTime: 2023-02-13T19:26:00Z
+    webUrl: "https://www.motorauthority.com/news/1138751_super-bowl-ad-calls-for-nhtsa-to-ban-tesla-full-self-driving"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 34
 
 secured: "JkCIuFn4txNT7h4zNAW2d9OQBkHii/I7pHEPz1kJxEGRJvHS3ZnuxFJTFQBrah+Au1Mhi/SxPXBhYFwkQ6yE8HshN5A5Pot7dk0+aFTyN6vqXZM3+SM2fGDu/qDoCj4mAYHEzZlVIXEGojr8w5JVW7cnGix1UmD34VFNBFlnpaXN5MXDjwpRR665MOBvsw/y9pI7RkbsiEGOXfJFe9Jp1M8Sa30wE4VLnocYQ1pA1U2DPzqUIYG1+RY0Q5ZbFzgoMmEKDYl7hczTTh2rptvDTI8WR2HX/5i3WXToKZW1bmpuA9hF/p7xBTE+q01IzC0LhRBR0+wgPiCdhEIlr117Jf4qq9vSBwpkwYGg5ztrmBY=;aN7JpfH/wtGy2swPQ3K+NQ=="
 ---

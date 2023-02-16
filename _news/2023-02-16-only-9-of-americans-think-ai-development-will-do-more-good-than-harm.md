@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/02/15/only-9percent-of-americans-think
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "ChatGPT created a lesson plan on the American Civil War, but educators who looked at it warned the subject might be more than AI can handle"
+    excerpt: "Although schools in the UK and the US are hesitant to integrate AI into their learning models, OpenAI executives have asserted the program could be a tool for growth and teaching in the classroom, rather than academic dishonesty, Insider reported."
+    publishedDateTime: 2023-02-16T10:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-history-lesson-beats-ai-detection-experts-thoughts-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "2BOuMLRZFdFLPL3y5MYKXQ6WSFNCOYaQNT6IbVhF+dfkExuJLb6k03pDEwln+mavGCGsio/DB3mg8L/N3QMSAQ81oz5vhjNYupc5B77H66aNllMQ8l/PuOp7hu6FhngXwgjbYs2NaPLg2WXD7PHfYXFpgamo9y/+A0vv11qTAaotX2WT3wEMp/JO5j+5dn7hRZgfdy/oomCrjj3O4UsTKXTJYRGVmbbJ5cFSu0VbyWLL188JSTV06ciG0i07jI/eRGan8Bs/nOnRmZeTTQxm52lCdY0gCUe9OnIFpAQsaWOWDU2pODMD1Nj+7pBDUrz73P6/dsu7VK8NHlSFjhMJWvznBCtX+nULE0/sh0YOn9jWf9YQisv4+PjiBsetpTqO2hvyT3dyuSMPC+ASlqsePVZrxoc93h60ZJzi4CgNMziIK7WrOlM8MLdudkUqGppQ7MtJWN8AcOl+NbrdIcHam6ZYXZEIOI2xhU3Bsx7s5B0xHNlt+0cf3s0svh+gHWhwWm3Pe39PP6CshwHYePUW3Q==;RTwkmWPSbFJ2Oh1ocyecrg=="
 ---

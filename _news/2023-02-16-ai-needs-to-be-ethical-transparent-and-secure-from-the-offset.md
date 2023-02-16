@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T12:59:00Z
 originalUrl: "https://www.siliconrepublic.com/machines/ai-ethics-programming-kyndryl"
 webUrl: "https://www.siliconrepublic.com/machines/ai-ethics-programming-kyndryl"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: SiliconRepublic

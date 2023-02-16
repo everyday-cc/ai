@@ -32,7 +32,7 @@ related:
     provider:
       name: Pew Research Center
       domain: pewresearch.org
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.pewresearch.org/science/wp-content/uploads/sites/16/2023/02/PS_23.02.15_AIawarenessReport_featured.png?w=1200&h=628&crop=1"
         width: 1200

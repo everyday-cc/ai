@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T11:49:00Z
 originalUrl: "https://www.reuters.com/technology/eus-ai-act-faces-delay-with-lawmakers-deadlocked-after-crunch-meeting-2023-02-16/"
 webUrl: "https://www.reuters.com/technology/eus-ai-act-faces-delay-with-lawmakers-deadlocked-after-crunch-meeting-2023-02-16/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Reuters

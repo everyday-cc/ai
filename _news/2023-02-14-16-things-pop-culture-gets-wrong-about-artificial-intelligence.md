@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "What People Get Wrong When They Think About Video Game AI"
+    excerpt: "AI has been making headlines lately for the wrong reasons. Netflix Japan was blasted by professional artists for using AI to make background art—while leaving the human painter uncredited. Around mid-February,"
+    publishedDateTime: 2023-02-16T14:30:00Z
+    webUrl: "https://kotaku.com/ai-game-dev-procgen-watchdogs-legion-no-mans-sky-1850120151"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 17
 
 secured: "bzEItTg04ky7VfAi4wq1CtcnDPeJE9C2YQkwKedCV0mFBlldlCuZxcr2Vll78HG47xIc32GbhbFic0+ancUCHj0leaXWZ05VbrDW5KZrFJcykJcriFd9uZTXyqRQWkSSEvb5E/BqhY39HEqW+fMf2rOjA9m6p2ZjRAMcJP6SFylyY1YaFZdgazKUhTWnLG/ORY39Lf2drSWnDESUzQ3ZMVqiFJwOtqH5ZnNXs48RG55OBmfuveoBj7u1GtCwLQ1gSQ+HmO2jjyCCHce1rf9BOw4+EB1xCtUzStKzrjVhhZOh15dC/f3LdD42pTS5GHvraX9WNrSYcsopARCaE1OAypYRZrMYojBe5RnU/CrpuZ3FTRXZrYk5nDdHu2VQxqFt4ocY55QjRyR2Ij7QPX4gA73kGIazuQfc4l4jKyO3QyaHVIq70WMwTOaoDFSV3TiChMaHAgkDB8MfTOaT2WhVVejMLe/C6Ov4Lx5Hmb7Jk9i0phWpWQ/48vLXHDLE9X0s3wphfwNnwSlIhdHIxatoyw==;yDdArb7hA0d7CvCGSK81Dg=="
 ---

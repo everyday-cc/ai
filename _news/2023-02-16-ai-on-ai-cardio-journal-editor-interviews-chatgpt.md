@@ -40,6 +40,15 @@ related:
         width: 426
         height: 288
         isCached: true
+  - title: "South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy"
+    excerpt: "South Korea hopes to be a key player in fulfilling the new global demand for next-generation AI chips, and today the government put some money where its mouth is: the country’s Ministry of Science and ICT said it would earmark $642.5 million (826.2 ..."
+    publishedDateTime: 2023-02-16T10:16:00Z
+    webUrl: "https://techcrunch.com/2023/02/16/south-korea-boosts-its-ai-chip-industry-with-642m-amid-chatgpt-frenzy/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
     excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
     publishedDateTime: 2023-02-14T18:38:00Z
@@ -95,6 +104,15 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 19
+  - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
+    excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
+    publishedDateTime: 2023-02-16T13:42:00Z
+    webUrl: "https://tech.co/news/best-chatgpt-alternatives"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 17
 
 secured: "wYkn4tU2EZvo1b6PIxOQaOyhNo07gsXvNE5rJQlv9Rbp9PzuSwYq6NE3L3DfY7d7NUGhbS+jQZGoksVzU0s7AkxjDjYjhbsaLW19xyI6TdlrFjszqddOY1mWyjixdfB+GkW9UuyBBY0LbQFID8fehFSkxFU2M3C8obFJyTDbrhJSaC352SXokvEfBqnC8StV5E1ZYVu4YIsrZXdaaPOCOgSKWW7Wj/PiWnaHCejFknZ7M66CViUaeD5iYRYuceTMmR9CbcnU9K1uN9s6m82NZDXvklALFm3iirYCJZmx9mrsbPQSkj4PXu+Sin+2hV2ZRUFrkJU/89WY5dubRLLbgr2MSQOyu+8rof4AO1PNBw9FJt1g6dwn301i6SpmId4ZA1E4TivfJrFvwNDAs1vE5Zg2tDePA7TS2pMRmkDa7OArmjWQ0N5EP78OR8osNBAR5/RlGATZOq8El2zY5QUzc3pPde/48MZ+skMfvqHBsnW4RqjRkKXtDACFRDYmHf5v1WFwl/YKZNd/JqVRjhEWkw==;Q0u0vf8lCyw02oxaHiesuQ=="
 ---

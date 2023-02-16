@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Super Bowl ad calls for NHTSA to ban Tesla Full-Self Driving"
+    excerpt: "Tesla has come under fire again for its controversially named Full Self-Driving driver-assist feature, this time in an ad that aired on Sunday in Washington, D.C., as well as in a number of state capitals during Super Bowl LVII. The spot shows a number of ..."
+    publishedDateTime: 2023-02-13T19:26:00Z
+    webUrl: "https://www.motorauthority.com/news/1138751_super-bowl-ad-calls-for-nhtsa-to-ban-tesla-full-self-driving"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 34
 
 secured: "P8RhEIHWLaKTKZe4O8jnSKBkuR7Tq+v8sCNcIqygGLC0eipLNq/oHXdrk01M5m7MvUutI8KDJywLl5oIetZhmQZYXpjJE0eGAJB/JX0esI9uOC6DswE5AwzLxBnchlWy4NOoJtYkTy6YznElxPNJohNnDxoCsnPpAh+xZrq7is+mKRiDR3SXxgguZQgS1bqlAVIPjM9+x9ILmjM8fY9Y5kQHSs90t2d0nLdODvAS65bUsEIC/Tx+qhn8XcJQua90gSPA1kU0TlpQfV59Px4mVpdJ2JRRRrPwu3hpcZezkgf8FJAItaS9l3v3rMTpzAD6dzTHpM0zgZqJwkFNLXmoDF36jCQYUwnGgCfoXc7ygSM6bme0pNGkfmr1QSKRxd4dDDI1P9ZME7NUtQL0dFd1zenKMPOztA09STjBYG29noVXB1ZqcoXIkLIoYOUf7iQWrVq/yq6scpjLmgZjyftp/jPq2hmHF2QVjgAkVmah8wSQIsxPHhopTiXzvY0ckaVAeujCwntr4liQUD3uLnUe9Q==;91/JjhAsmdz652nnmsw9oQ=="
 ---

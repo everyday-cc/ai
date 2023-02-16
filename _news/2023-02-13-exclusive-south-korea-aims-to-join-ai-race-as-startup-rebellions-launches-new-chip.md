@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "South Korea aims to join AI race as startup Rebellions launches new chip"
+    excerpt: "South Korea competes in global AI race with an AI chip that will directly challenge Nvidia Corp in hardware AI tech South Korean startup Rebellions Inc launches an artificial intelligence (AI ..."
+    publishedDateTime: 2023-02-13T07:03:00Z
+    webUrl: "https://tribune.com.pk/story/2400906/south-korea-aims-to-join-ai-race-as-startup-rebellions-launches-new-chip"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 33
 
 secured: "xVRDHrxY4/fBWcYcwrdW+jQPJgX5L4PnDiByoGM9S88TWcGrE9lXGpbBtt/h32rIMXrhKdh3nZYbUUj9eWiQFRVU3659h3m0VQ7Bl03KFNJEjB6pSfmEhO1NP8bl5c+xCBOU6BqWUvyvhPahJ6wd7EvpwJL7lBjykPuOity14pi9XSYJcWWhHm9gKvzsjhK9fibd8mIsl1iGLfoMhrrf9SJmc73vDwg8M3MqE2h1QzzFv4wp8Dp5Ej7LTbZzGKxkBLSbzlw0Lql+Qc6WfQ4cHWE6Jzt8BGrxZZ5h+o4sLNccr1t90yjyYgGFgHBrfwiKm5IbuSEAu+MnTMwidVGRuQER3vyUxE4ucJatvoqcYTg=;wDSFZ+5M7aLSU7lG7qwDxQ=="
 ---

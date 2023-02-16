@@ -42,6 +42,15 @@ related:
         width: 5054
         height: 3675
         isCached: true
+  - title: "ChatGPT created a lesson plan on the American Civil War, but educators who looked at it warned the subject might be more than AI can handle"
+    excerpt: "Although schools in the UK and the US are hesitant to integrate AI into their learning models, OpenAI executives have asserted the program could be a tool for growth and teaching in the classroom, rather than academic dishonesty, Insider reported."
+    publishedDateTime: 2023-02-16T10:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-history-lesson-beats-ai-detection-experts-thoughts-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "gBuIO9SXieeqmtjsfoOhnDUBS781ib0gFMlVYgwfmhHuOdEfMhauVWYDwj9NxTRZeGJ7WzewJj2GjG7yHsf3b8/KWfpdthKfex5KbDhRr32RMahcmD6yXa3BuM8n48AO+eVAvltAsC9YPMrL0ODgs4N63OEhwIiUGlzjOsyvrgBLz7m77w+lCJKGnpCfSj7/S5Wveofu/JvqxUAepy1LVQVGUAwlCQZzhpPXRW7dr+V8R5XsGKU7finzSVxnBAZM7FshcxSAM8lbp1nhigfFswfhyeI67xTHcMDe8Qdb7ZKELo1474sGc4pVPPRYkYCRckXf0aZ6Yr/pfc+cwC7htaTCJ0A2gF2Cd8URPYmLybiaylfln5WR9b+BYr0kgWPbxYQSmp4LaxciYMPi15sePGEl3G/+JX9I6ZM3I3nPHB+9w2/4MmgEDYpnrh4xfPRPiVFd7PAaxWzBAnNd0+I/4gw3UUifvx1VfDexaOgOGDpbARm9VhFsYE1V3pmw2bHcTwgZtUYmxRpk5Odn/Hueaw==;nxUu+HwJ7kfllAFrC2ksyg=="
 ---

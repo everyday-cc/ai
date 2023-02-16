@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T14:20:00Z
 originalUrl: "https://channelbuzz.ca/2023/02/weka-launches-new-weka-x-partner-program-to-drive-focus-and-profitability-around-ai-and-machine-learning-40603/"
 webUrl: "https://channelbuzz.ca/2023/02/weka-launches-new-weka-x-partner-program-to-drive-focus-and-profitability-around-ai-and-machine-learning-40603/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Channel Buzz

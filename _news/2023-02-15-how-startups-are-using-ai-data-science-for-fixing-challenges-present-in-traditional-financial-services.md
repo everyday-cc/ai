@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "What People Get Wrong When They Think About Video Game AI"
+    excerpt: "AI has been making headlines lately for the wrong reasons. Netflix Japan was blasted by professional artists for using AI to make background art—while leaving the human painter uncredited. Around mid-February,"
+    publishedDateTime: 2023-02-16T14:30:00Z
+    webUrl: "https://kotaku.com/ai-game-dev-procgen-watchdogs-legion-no-mans-sky-1850120151"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 17
 
 secured: "ZIIWLLT9/JbzKlfBqddsKUQmB9S+YGpbSDssr67R20A1RwA/8EfO2ELW3l4ZlLAaLgEel5adxSkGX/BmzOg9kMwA+6Gy9YXBQmNsDJYU080K9YxIFQLDrScEx82/gaQ3zT84667lwUe0j64x1OKEmTbI476IrHg2zfNqNnq9R6DVU+fbi1hitnRogDRvJRyyMmCCSpmN4/bZwTkLGzGk2OBJw3IcLdK/rpVKm0fZpDT42iRVyzomHCIbwL39pbuYCN++xnM8bLLxhoIaBXWvXsBD9kZITt6JHRkl0doVJx2IcmDzxRifmih0nfsXhpxA863C1kXC4i6Oje0M1CeKAPQZpvnf4obJ9aj6oVamtfAOIlb5EfGXyCNKjeWyTJdSGgP6dy3hdLNbe2HaTuEUn8r6DbkiKDk52PJuRc5CGHUUl/1chwpZCo/e2GViqVsGcOpskjuLGGLq+yYLBA/ySdN5zRYekVhLwuKJWJdABjb5uJP0JJ09t/5we0s+qB3ymWX40n2Q0jZuK5yPKCeRBg==;p5ThSaRN+X1sKBwTfDN5cA=="
 ---

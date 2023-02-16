@@ -33,6 +33,15 @@ related:
         width: 426
         height: 288
         isCached: true
+  - title: "South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy"
+    excerpt: "South Korea hopes to be a key player in fulfilling the new global demand for next-generation AI chips, and today the government put some money where its mouth is: the country’s Ministry of Science and ICT said it would earmark $642.5 million (826.2 ..."
+    publishedDateTime: 2023-02-16T10:16:00Z
+    webUrl: "https://techcrunch.com/2023/02/16/south-korea-boosts-its-ai-chip-industry-with-642m-amid-chatgpt-frenzy/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
     excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
     publishedDateTime: 2023-02-14T18:38:00Z
@@ -93,6 +102,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
+    excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
+    publishedDateTime: 2023-02-16T13:42:00Z
+    webUrl: "https://tech.co/news/best-chatgpt-alternatives"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 17
 
 secured: "h8ilrFN8U2zCw/JNTNRLNDpXBiBOVETDEJgPq9HCplbUVROezS7o//VhYHShNfPQn4cBqbX3jzeTPh29XTovNUqWV9XzBnDIM7oNZHOp6095SW7ncC/Ng2XgLM+dF/kTXg9+f2luHWlCFHP9+hUZIfFiA0mRhUq1ETQ+2wlvfeIbYzmpZAlBH595fUFHftXyL+4X5wmcg0kMslwrKnEdH1Fxr/YKc/oVSb3pXSLssTvelkG0Tpt2QD34FW4pwDJRTdqhRBTCOR5e441lPtORI6JehjHZwhWuq5Ta6EGTHeS/oIzZXGHNg3E2cgH7oXsrwuE1STgJyecUZKtdUwnEyIPoRNpvn7Gty/zThS/CORQ=;7oobdNMW9F2MnZXg7vy/bQ=="
 ---

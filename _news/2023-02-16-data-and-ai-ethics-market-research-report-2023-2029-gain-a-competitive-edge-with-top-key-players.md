@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16"
 type: article
 quality: 71
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Turnstile Market Forecast Report 2023 | Industry Booming in Next Upcoming Years by 2027 | Research Reports World"
+    excerpt: "The Face Recognition Turnstile Market (2023-2027) Research | Updated New Report | Market is including in Various"
+    publishedDateTime: 2023-02-16T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-forecast-report-2023-industry-booming-in-next-upcoming-years-by-2027-research-reports-world-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

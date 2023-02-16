@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T13:32:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-scale-ai-port-ponce-partner-transform-fema-designated-/2023/02/16/9761667.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-scale-ai-port-ponce-partner-transform-fema-designated-/2023/02/16/9761667.htm"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: TMCnet

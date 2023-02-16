@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Best electric dryer deals ahead of Presidents' Day"
+    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
+    publishedDateTime: 2023-02-14T21:31:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-electric-dryer-deals-ahead-of-presidents-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 4
 
 secured: "bDxr2OqMB2s4r6N5DDrSQOXWIK1YW3iQ/G0KzLh/dj+iddjO9Vh+4FhA23drj7xjjBfPej0HZMpclphmLIAocF4vNACRYr3IJHXq3UceoHXYzbIUEwA4Ou7zHOHgGmAmB8oIN0nm1+gChAblxucvq1JfsiZjc3rR0WZxC0ZiXMW4VDSLbJxpQP1+BQYklIcsKDIeFOSMpH2zWJRBHLdjDpb2SINMp/1A32+v5b3I/TT6fQD1WtwVSMDmqLjQrS0THkLiF5Xg+fiOnixLtBZ4sVfs2KWKEF4wuxiUhJxGxM2MxpJYVbygrGYch3EMPf2gBxnhNJkLnDSZk967O+QMbwCf/ZsCtUR+w5Au9jA2t5SQJ1Ty708f1qk3+i2yGc9NrBdfglGB/EIXdSRFjFw75E6PaOt6RvAO9/gyBKRbH6gix3b3N1slp83STGxLRYyxmtC9Q6n/Cm0ZloYdvHQbT32G1p5ZOj3oNdN0+tEoPfL2lEQAP5v94GwbIwDaFmxyYf3IRJ1+4ZI3afrHfnRKrw==;ski2s6Rm1E5mOSxlgVdOnw=="
 ---

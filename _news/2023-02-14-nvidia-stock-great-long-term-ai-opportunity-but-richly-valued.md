@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-13T21:33:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-great-long-term-ai-opportunity-but-richly-valued-1032092330"
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-great-long-term-ai-opportunity-but-richly-valued-1032092330"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

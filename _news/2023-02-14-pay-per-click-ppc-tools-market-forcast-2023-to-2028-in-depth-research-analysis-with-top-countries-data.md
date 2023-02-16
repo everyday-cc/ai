@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Turnstile Market Forecast Report 2023 | Industry Booming in Next Upcoming Years by 2027 | Research Reports World"
+    excerpt: "The Face Recognition Turnstile Market (2023-2027) Research | Updated New Report | Market is including in Various"
+    publishedDateTime: 2023-02-16T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-forecast-report-2023-industry-booming-in-next-upcoming-years-by-2027-research-reports-world-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FijVtvK9pIkAsgWDJLfo47NXDSSYt6xBZ5ZM72HalSdR6hTWLRbT1ZY5ML9t6wSxmcjnH1FTC+pfUiaIxoAObFa4m5B67zolJjPxxwCrc4fWrRukTaI7D++0WRzJA3oJ/2HhS5UZgbEvxg/+TTPtDwxaWR7FOFRZmJ8hocNZdigpHIV5IyB3kok8Bf6JLFoEqHxelDEQgBVu8pg1rvMEv1lolpuCwxZYWQ05rWZKvZcB+z1ZO1BMZzW/roVdqbFzfK5QzRD6LFOsLLEmOi0dhXIhH/KnuPOFqkmBcWQP3Egsc2154JyrUOFiQ0yA0wjw/MhQGJ41uBy8PpWd3UAQDFP0AgVAIXhjoA3lfqgrptg=;fQgjjN3tWOzZ5Zj3+pVouQ=="
 ---

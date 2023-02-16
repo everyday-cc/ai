@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T13:41:00Z
 originalUrl: "https://healthitanalytics.com/news/researchers-to-propose-framework-to-address-federated-learning-challenges"
 webUrl: "https://healthitanalytics.com/news/researchers-to-propose-framework-to-address-federated-learning-challenges"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Analytics

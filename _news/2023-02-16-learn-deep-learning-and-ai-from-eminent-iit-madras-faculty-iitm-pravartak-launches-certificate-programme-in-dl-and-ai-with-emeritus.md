@@ -26,6 +26,17 @@ images:
     height: 723
     isCached: true
 
+related:
+  - title: "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty"
+    excerpt: "Taught by distinguished IIT-Madras faculty, this programme, offered in collaboration with Emeritus, aims to enhance the tech skills of early and mid-level professionals"
+    publishedDateTime: 2023-02-16T13:10:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-101676549896779.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 30
+
 secured: "D/pjfVIsHaMu2UMOJs/pUT/Xphr1+r9QJsYUCQo94WFdS2p1/pUMLVNw13UfDCPp6TgXdxp9kgnTQU1OyqX4eu1hCvItijStBBYIoSr8QBaj/FSbL1HQvNZReoc915knGFPcFleMQqlsdY7X0Ex5HGkCVDe0S3z8fp3DE/Bj2UXG+Qzy5yaqvJlTQ+jptRKBYVu6TNepADg5/ZnJmBCHK5mzgaGQC7FBLTZcl0XwVVS5m3a+2NdfquS5PUni/AnRU/eLDGho29E1LVz6U1HMEyVW+DJrJB8lS/mTc2UkF6szwxu5pDAqImjz1JtQ3+U5odtMhXSy4YC4VOGQdbIbRs6Upkzl3Y7ZzXwA2yshVec=;7kIxwPzFnO2C9Kol1CH4ug=="
 ---
 

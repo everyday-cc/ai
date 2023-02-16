@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T12:59:00Z
 originalUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/02/16/an-open-approach-to-hybrid-data-clouds/"
 webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/02/16/an-open-approach-to-hybrid-data-clouds/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/qai/2023/02/15/artificial-intelligence-job
 ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/15/artificial-intelligence-jobs-how-will-ai-change-the-job-market/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/15/artificial-intelligence-jobs-how-will-ai-change-the-job-market/amp/"
 type: article
-quality: 106
-heat: 106
+quality: 108
+heat: 108
 published: true
 
 provider:

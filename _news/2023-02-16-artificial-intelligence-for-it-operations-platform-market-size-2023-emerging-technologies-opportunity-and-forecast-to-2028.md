@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Share, Report Analysis & Forecast [2023-2028] with Top Countries Data"
+    excerpt: "According to Precision Reports, the “Artificial Intelligence and Robotics in Aerospace and Defense Market\" 2023 by"
+    publishedDateTime: 2023-02-14T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-share-report-analysis-forecast-2023-2028-with-top-countries-data-2023-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market 2023 Size with SWOT Analysis by Top Players till 2027 | 129 Pages"
     excerpt: "Feb 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision Market” Report which is spread over [129] pages provides In-depth analysis on the market size, share, new ..."
     publishedDateTime: 2023-02-13T23:16:00Z

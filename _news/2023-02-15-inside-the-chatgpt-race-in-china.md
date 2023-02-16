@@ -41,6 +41,15 @@ related:
         width: 426
         height: 288
         isCached: true
+  - title: "South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy"
+    excerpt: "South Korea hopes to be a key player in fulfilling the new global demand for next-generation AI chips, and today the government put some money where its mouth is: the country’s Ministry of Science and ICT said it would earmark $642.5 million (826.2 ..."
+    publishedDateTime: 2023-02-16T10:16:00Z
+    webUrl: "https://techcrunch.com/2023/02/16/south-korea-boosts-its-ai-chip-industry-with-642m-amid-chatgpt-frenzy/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
     excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
     publishedDateTime: 2023-02-14T18:38:00Z
@@ -94,6 +103,15 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 19
+  - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
+    excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
+    publishedDateTime: 2023-02-16T13:42:00Z
+    webUrl: "https://tech.co/news/best-chatgpt-alternatives"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 17
 
 secured: "oTakN7mEOI+mUfYhXLyrgP+nU9MNrUzC3+XEjHkU65b3JMdWB9oBR0A2Uyh6WidD4mtjaSNkBjGMBHFYSWqbH6pxC4vJgUqFZCOT0AOG8wXm1AKfAxH5OrzvUfuko2egYDaIWH1oLedCo8llGqmiEOC4vjBP6S7B9ALwK/0Dpxse0ehneRGcathVrrkkbJUQo1q7Oh0TA6Ddc+M65E/8PgVP8AZ4C+1IzsHJnRTnDpUpf5Yfi0w41oqLf93iX9D5d0Kx7dVmKu+W9PmCO3fYbZu+jSQGWH8G+0nJYes/w7tWlWEBPsclrFJozDEfP6rcbNUA26Vu8+xa+hHISwcjIHMy0n4/f9eWEVjKgFdtueJ4ug97IxsBG8pVoUQFKKwr+OT4B3XKNBKe3oO4QXP8YwO1BksSrCm9yF43hWL2R6YycO9Xxm8Syo/5akw8nnMceIe0fL1BaCcAMcXCElmu0PisKpMedgAXeron+ab7wMlu0IhrxAu9SPSync6UIj9IHf5ExkY69FBJjbxZkou7SQ==;ISzsVLCotNFGghKY8/GdWg=="
 ---

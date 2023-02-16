@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Fintech Company Wisor AI Secures $8 Million in Seed Funding to Modernize Global Supply Chain"
-excerpt: "Wisor's innovative AI-powered technology helps move global freight in a click, with a mission to digitize the freight industry, lower costs, and increase efficiency; Funding round led by Team8 ..."
-publishedDateTime: 2023-02-07T13:07:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/02/b30760403/fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain"
-webUrl: "https://www.benzinga.com/pressreleases/23/02/b30760403/fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain"
+excerpt: "Wisor AI, an advanced freight booking software solution, has raised $8 million in a seed funding round led by Team8. The funding will expedite Wisor’s mission to digitize the global supply chain industry and empower freight forwarders to plan,"
+publishedDateTime: 2023-02-07T12:03:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain/article_2917eb51-4430-5796-9cab-cb37f2efd5ee.html"
+webUrl: "https://www.bakersfield.com/ap/news/fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain/article_2917eb51-4430-5796-9cab-cb37f2efd5ee.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "+mYhWt1is4iywCOTwsbGqdfsJ/YAzE9xbnF6L4Ap2mfs5QBWtiCYGnBMyVoYqwfSLHEW8Dnmd1fzLjNnMQsjO4ta+eUHyy17JTRhlC6j4tgtNVG0PpPA84QDGzElLkoDdLl69JKjxqfW0is0uQNecDj0rJa1z9D/xlG2k4DZqMizxiLmwGFgyoOmpbGyh/ENvPD2tIDW+EpXdZ7LaucZ+yTTSx7kXq95O9sURwHl3zvMCwoA6TPW3NadNuJYELW3uvJtU2+I/UrX/X43b2Jt35jT26PbUTBP3/AcC7uWaph7iizzCB8dL7Bhv1fX7WRCeb7piQFsAmOr7fUNPoBHvZeEin/YszvoUOxi2qsVHEg=;Rvx7oodHxmvpfEtJP/Y+Cg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/a/af/aafe7ebf-7d2b-5524-969e-a8684df6e064/63e24f2d68dd3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "m1al6WWVwMKMt1xlVPIhLM/123f3jcxh550GCHMGGJncKHa2jZhuyvvOMY/23qL/o1JKg/Hb6g1vFN+StMQVL6soP4l0JU92/h2jRmzaXbDh2Bzl8JGtrztBiYHFjdkIEHUCICz4n+7zH3iOXfGyoLBf+JbjVl7/4k0MVDTpZFEPP004vTiQ9UEMjVzkb1wKigdsA8uPj/riRrMZIrbkBzX1kon7G+tC2hrNhtZe+cMWzTsb++Cl36jNXtZe0ZxWKcna7wM2NfhzF9WqnaCF7gWJaIIqFEzsaR2RBF0OrVUpWjEzZkQkxABUV+OMRX2FWiNGTWp6T7GjoqYD5VIMj+BNIBzj+nOTLtjRa673b7A=;UW4Z8eH0LKD/BfTZT5noMQ=="
 ---
 
