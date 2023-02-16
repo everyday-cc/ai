@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market is Booming in Near Future 2023-2028"
+    excerpt: "Feb 16, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Construction Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-16T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-is-booming-in-near-future-2023-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest Survey on \"Artificial Intelligence in Medicine Market\" Analysis 2023-2028, Updated Report With 109 Pages"
+    excerpt: "Report Highlights:- \"The global Artificial Intelligence in Medicine market size was valued at USD 2312.61 million in"
+    publishedDateTime: 2023-02-16T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-medicine-market-analysis-2023-2028-updated-report-with-109-pages-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In-Car Speech Recognition Market Size and Share 2023-2028 with Emerging Treads and New Updates| Says Absolute Reports"
     excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"In-Car Speech Recognition"
     publishedDateTime: 2023-02-14T06:11:00Z

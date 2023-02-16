@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Growth, Business Overview and Forecast to 2028"
+    excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
+    publishedDateTime: 2023-02-16T03:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-business-overview-and-forecast-to-2028-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Complete Overview of Artificial Intelligence in Healthcare Market 2023 Along with Prominent Market Players by 2026"
     excerpt: "Marketresearchguru.com has recently conducted a study on Artificial Intelligence in Healthcare Market 2023 to 2028"
     publishedDateTime: 2023-02-13T05:39:00Z
@@ -122,6 +136,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Service Market Trends and Opportunities and Forecast to 2028 with Top Countries Data"
+    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Report covers specified competitive outlook consisting of the"
+    publishedDateTime: 2023-02-16T02:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-trends-and-opportunities-and-forecast-to-2028-with-top-countries-data-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

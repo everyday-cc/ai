@@ -24,6 +24,54 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "What Chatbot Bloopers Reveal About the Future of AI"
+    excerpt: "Microsoft’s new chatbot for Bing has displayed some strange behavior, proving that AI is more fallible than tech companies let on."
+    publishedDateTime: 2023-02-16T17:00:00Z
+    webUrl: "https://www.wired.com/story/bing-chatbot-errors-ai-future"
+    ampWebUrl: "https://www.wired.com/story/bing-chatbot-errors-ai-future/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bing-chatbot-errors-ai-future/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5f0fb43a92cb35f94cf6a0ed/master/w_450,h_400,c_limit/Carve_Fast%20Forward%20newsletter.jpg"
+        width: 450
+        height: 400
+        isCached: true
+  - title: "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales"
+    excerpt: "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website."
+    publishedDateTime: 2023-02-16T10:24:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655"
+    ampWebUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Leaked memo shows Google CEO Sundar Pichai is asking staffers for help testing its Bard AI chatbot"
+    excerpt: "Google began internal testing of its Bard chatbot on Tuesday. Sundar Pichai is asking all employees to contribute hours of their time improving it."
+    publishedDateTime: 2023-02-15T17:25:00Z
+    webUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/63ed1235eeb52e001886a1fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "You.com thinks the future of AI chatbots is (gasp) images"
     excerpt: "You.com's futuristic YouChat 2.0 AI chatbot has migrated to adding charts, graphs, code, and more inside of its AI-powered search engine."
     publishedDateTime: 2023-02-16T09:45:00Z
@@ -38,6 +86,59 @@ related:
         width: 1023
         height: 562
         isCached: true
+  - title: "ChatGPT's 100 Millionth User Means the Age of AI Is Here"
+    excerpt: "It took Facebook 4½ years to reach 100 million users ... be going into funding the next-generation of silicon development, AI, 5G innovations across the United States and building research communities across the country. To stay updated with top ..."
+    publishedDateTime: 2023-02-14T13:43:00Z
+    webUrl: "https://www.benzinga.com/news/23/02/30908169/chatgpts-100-millionth-user-means-the-age-of-ai-is-here"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30908169"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30908169"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/14/mathew-schwartz-c5stal8lqyo-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Chatbots Are Coming to Search Engines. Can You Trust Them?"
+    excerpt: "Google, Microsoft and Baidu are using tools similar to ChatGPT to turn Internet searches into a conversation. How will this change humanity’s relationship with machines?"
+    publishedDateTime: 2023-02-16T17:26:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-chatbots-are-coming-to-search-engines-can-you-trust-them/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/3422100C-5B37-4D27-9059451B6DF67DCF.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "Bing chatbot's freakouts show AI's wild side"
+    excerpt: "As users test-drive Microsoft Bing's new AI-powered chat mode, they're finding example after ... we may need to add a tool so you can more easily refresh the context or start from scratch.\" \"The model at times tries to respond or reflect in the tone ..."
+    publishedDateTime: 2023-02-16T16:26:00Z
+    webUrl: "https://www.axios.com/2023/02/16/bing-artificial-intelligence-chatbot-issues"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/HUP8vVz8mYQ2srpHH9XbuAuvOZI=/0x0:1920x1080/1366x768/2023/02/16/1676562747786.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "From chatbots to facial recognition, here's how AI impacts your daily life"
+    excerpt: "Artificial intelligence has changed many aspects of our lives already, but how, where, and should you be worried? Let's find out."
+    publishedDateTime: 2023-02-16T12:30:00Z
+    webUrl: "https://interestingengineering.com/innovation/how-ai-impacts-your-life"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
 
 secured: "5Y528ILRg4ubxjRdhPQ5OtvJ5/S1swTdqiB9yeRKqZrlL9DI9/+NBRq0flgoTKo5tIz3qCj0PAHrXnTIKDIET0rUJvzTsehrCnZqp0s+FmI1tCcUauRADUf3ArXdlnVoZPmExjCmnEM/w7odtX+beQeT8jCafXOxWPpvHwiSPBi85rVq+0gVGRYIGbVBvUmaL3TXlFAz3194P8xH1PLhcV1/3bAPbvlXgDbV0xy1KlznDIs/M9yKoUyN4U4IAwoGI2b6v6mdQJ8g4NmFEkWuxjHU1vBlJIN4Xjx91OlTj44E6wXX6NkQ8VxYZt1epHRyipkQwViLcprfTYN/qkgCLahqbYtQlSf0Q/z1WbfqGjS4L1SzitBD7tGxUrJ4Xtgf9ZjMDDxEDpVZkWExEaapuj6eMQnqYjMRWHjHp4Gixk0rNOCCqzAAg4N3oCpMQDzSzMnxHcGtjUoKjE051gZJRRa1/iEt7jVb7yAd9LR3jVJnjfW/zVfr6MYFLckK1RNDt5l1BXxtjg7qeGGmKGyARA==;UBPtSMf/0ImfsY6xSYH1kg=="
 ---

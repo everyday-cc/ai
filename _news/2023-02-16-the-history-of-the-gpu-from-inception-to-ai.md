@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "The History of the GPU: From Inception to AI"
+    excerpt: "These are the first and only books to cover the entire history leading up to the GPU, from the origins of concepts in the 1950s to the supercomputers and smartphones it powers today. The books show how companies started,"
+    publishedDateTime: 2023-02-16T17:10:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/16/9761684.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Expert.ai Announces Integration of GPT into Its Platform"
     excerpt: "According to Forrester*, this use of “hybrid AI delivers the best results for NLP (natural language processing) applications.” Expert.ai CTO Marco Varone noted: “The excitement around ChatGPT is part of the growing recognition that language is ..."
     publishedDateTime: 2023-02-15T16:52:00Z

@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-16-verses-partners-with-svt-robotics-to-expand-application-of-ai-in-industrial-environments.md",
+      "title": "VERSES partners with SVT Robotics to expand application of AI in industrial environments",
+      "excerpt": "SVT’s integration with VERSES’ network operating system, KOSM, is expected to accelerate deployments of AI powered robots into warehouses and distribution centers https://www.verses.ai/",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/verses_partners_with_svt_robotics_to_expand_application_of_ai_in_industrial",
+      "originalUrl": "https://www.logisticsmgmt.com/article/verses_partners_with_svt_robotics_to_expand_application_of_ai_in_industrial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2302_F_Ex_Global-Main800px_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-this-is-how-how-ai-is-helping-monitor-and-count-puffins.md",
+      "title": "This Is How How AI Is Helping Monitor And Count Puffins",
+      "excerpt": "Puffins on the Isle of May, a nature preserve off the coast of Scotland. SSE Renewables is trialing ... [+] a new way to count puffins using artificial intelligence. The project is supported by Microsoft, Avanade and NatureScot. The Isle of May is a 140 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ed146a88afcdec4e171308/0x0.jpg?format=jpg&width=1200",
+          "width": 790,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/amp/",
+      "publishedDateTime": "2023-02-15T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models.md",
+      "title": "Implementing MLOps practices with Amazon SageMaker JumpStart pre-trained models",
+      "excerpt": "Amazon SageMaker JumpStart is the machine learning (ML) hub of SageMaker that offers over 350 built-in algorithms, pre-trained models, and pre-built solution templates to help you get started with ML fast. JumpStart provides one-click access to a wide variety of pre-trained models for common ML tasks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/15/implementing-mlops-practices-sagemaker.jpg",
+          "width": 1563,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T11:12:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-intuitive-machine-control-using-speech-recognition.md",
       "title": "Intuitive machine control using speech recognition",
       "excerpt": "Researchers at the Fraunhofer Institute for Digital Media Technology IDMT in Oldenburg have developed a speech recognition solution for use in industrial manufacturing.",
@@ -602,7 +749,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -906,7 +1053,7 @@
       "originalUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1102,164 +1249,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-ai-is-speeding-us-toward-intelligent-computers-and-the-singularity-pioneer-says.md",
-      "title": "AI Is Speeding Us Toward Intelligent Computers and the Singularity, Pioneer Says",
-      "excerpt": "and other dee ChatGPT and other AI systems are propelling us faster toward the long-term technology dream of artificial general intelligence and the radical transformation called the \"singularity,\" Silicon Valley chip luminary and former Stanford ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-is-speeding-us-toward-intelligent-computers-and-the-singularity-pioneer-says/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-is-speeding-us-toward-intelligent-computers-and-the-singularity-pioneer-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/05c02d44038df309a3fc99947c774741658f37c2/hub/2023/02/13/ac5604c8-e7c3-4e55-b864-b6d7e27df8cb/20230213-john-hennessy-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-is-speeding-us-toward-intelligent-computers-and-the-singularity-pioneer-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-is-speeding-us-toward-intelligent-computers-and-the-singularity-pioneer-says/",
-      "publishedDateTime": "2023-02-13T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk.md",
-      "title": "Configure an AWS DeepRacer environment for training and log analysis using the AWS CDK",
-      "excerpt": "This post is co-written by Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, DeepRacer SME at Accenture. With the increasing use of artificial intelligence (AI) and machine learning (ML) for a vast majority of industries (ranging from healthcare to insurance, from manufacturing to marketing),",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/13/configure-an-aws-deepracer-environment.jpg",
-          "width": 1567,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T10:23:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth.md",
-      "title": "ChatGPT-led AI buzz unlikely to fuel near-term software growth",
-      "excerpt": "The hype around AI fueled by ChatGPT is a positive development for the software industry, but we don't see any sizable near-term sales gains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/professional/sites/10/man.png",
-          "width": 426,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

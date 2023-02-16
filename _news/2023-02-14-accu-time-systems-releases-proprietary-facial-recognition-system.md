@@ -43,6 +43,20 @@ related:
         width: 1360
         height: 816
         isCached: true
+  - title: "Vietnam to implement face biometrics system for passenger check-ins at airports"
+    excerpt: "Details of the plan to implement face biometrics were recently unveiled by the government and a pilot to that effect is programed for this quarter."
+    publishedDateTime: 2023-02-16T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202302/vietnam-to-implement-face-biometrics-system-for-passenger-check-ins-at-airports"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/16123111/airport-facial-recognition-vietnam-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "IgwxGxg0WptdOKYkgeHZJcmyP8stUFJp6CSMV9R6nw8s4viWfykDMkkpIMfBXefTStRwltWPf3Ke4RfkTUABY+I3qkIFrYx273b4LUwJKRFBcdMStYdSblkaGt/Qlhf08T2cAuFINGpo4UKXamYOtWm6TP142ZAvGWO6ivvNhgvyXCnt5tUTnTYptAGoejzNcXXIZtZOpz/Gdv3GhWCh6LFle4dT4lIVVmoDV1AopGmBQDbymU5DI6Du+K8EBAYrqrRGcwVA6bWORr/uW480+LlVsGLuIGWFfc29C1UdWYHTFDjUPtmu8sLI3dXRKVsA51PaEhSGEn/Lb7kDZWxh9AXkm1vnzdvDqekAqGSgdDU=;kujgsd8NS8mM5MqEklyY6g=="
 ---

@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-22-10-databases-supporting-in-database-machine-learning.md",
+      "title": "10 databases supporting in-database machine learning",
+      "excerpt": "After AutoML training, Redshift ML compiles the best model and registers it as a prediction SQL function in your Redshift cluster. You can then invoke the model for inference by calling the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.amp.html",
+      "publishedDateTime": "2022-12-21T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction.md",
       "title": "­­Speed ML development using SageMaker Feature Store and Apache Iceberg offline store compaction",
       "excerpt": "Today, companies are establishing feature stores to provide a central repository to scale ML development across business units and data science teams. As feature data grows in size and complexity, data scientists need to be able to efficiently query these feature stores to extract datasets for experimentation,",
@@ -1389,59 +1442,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more.md",
-      "title": "Top 5 stories of the week: ML meets Google Sheets, AWS eyes trends, dangers of ChatGPT and more",
-      "excerpt": "This week brought new twists on established products as Google rolled out a beta version of Simple ML for Sheets, its cloud-based spreadsheet -- and much more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/number_5.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/",
-      "publishedDateTime": "2022-12-10T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]

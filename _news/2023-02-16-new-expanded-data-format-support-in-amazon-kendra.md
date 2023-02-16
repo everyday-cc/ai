@@ -43,15 +43,6 @@ related:
         width: 1557
         height: 780
         isCached: true
-  - title: "From chatbots to facial recognition, here's how AI impacts your daily life"
-    excerpt: "Artificial intelligence has changed many aspects of our lives already, but how, where, and should you be worried? Let's find out."
-    publishedDateTime: 2023-02-16T12:30:00Z
-    webUrl: "https://interestingengineering.com/innovation/how-ai-impacts-your-life"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
 
 secured: "1njJKc0zQXfbvQNokYdX2K8SCohgVs+m94CI0fIwd9SpElxgQclYwPw24DPqXZlDuIx1DMEk+ZbdRFpuO3TgttPvLN2hVsN26s1clDXI4Vslvvdl3pPr6oukTr1YpHGSz1WRsDAgZ9Ez8WRuIxrP7RWnUoa0jQbyvbZK8zh+k3UqVEuIGtW/dGA1pcw8IKZOweWZ1gANYO0AhOQWO4VPXatf46f2gkPjOB5AMiaUqNPVDX1lRT+uEMqLRzfHjTNMPOe8QJtizJjVBHb6qJSkTxxZNJ28MuTIElsEX5DO6sKGbJ+0GjCRhFdaInERNJinYeLko/xQdf3YYm1HxGBBCxPmWXa3CcmtUXbNYkXJRz8=;dY3fP3+C5iBhgItyTc8ENg=="
 ---

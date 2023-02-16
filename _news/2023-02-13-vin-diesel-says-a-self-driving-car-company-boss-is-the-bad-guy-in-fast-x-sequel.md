@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-bos
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Don’t Fear the Self-Driving Car"
+    excerpt: "However easy it is to forecast a self-driving dystopia, it would be deeply unwise to dismiss the unknown and unknowable benefits of new automotive technologies. After all, with technological ..."
+    publishedDateTime: 2023-02-14T00:00:00Z
+    webUrl: "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 24
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2018/01/self-driving-car-nutonomy-boston-2_0-1.jpg?resize=300%2C300"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Amazon’s Self-Driving Car Shuttles People on Public Roads for First Time"
     excerpt: "Zoox Inc., the self-driving startup owned by Amazon.com Inc., carried passengers in its fully autonomous vehicle on public roads for the first time."
     publishedDateTime: 2023-02-13T18:08:00Z

@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-01-05-amd-announces-ryzen-7040-series-processors-with-on-chip-ai.md",
-      "title": "AMD announces Ryzen 7040 series processors with on-chip AI",
-      "excerpt": "AMD has announced the Ryzen 7040 series processor for laptops. The Ryzen 7040 series features on-chip AI. The first devices utilizing Ryzen 7040 series processors will be available in March.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/amd-ryzen-7040-series-processors-3262821/",
-      "originalUrl": "https://www.androidauthority.com/amd-ryzen-7040-series-processors-3262821/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/01/AMD-Ryzen-7040-Series-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T00:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-05-6-takeaways-from-amds-ces-consumer-chip-announcements.md",
       "title": "6 Takeaways from AMD's CES Consumer Chip Announcements",
       "excerpt": "AMD claims that it's up to 50% more efficient than the Apple M2 neural engine. Intel uses a separate chip for AI acceleration, dubbed Movidius, which means its presence in a laptop will depend on ...",
@@ -1398,6 +1346,58 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-encharge-ai-emerges-from-stealth-with-217m-to-develop-ai-accelerator-hardware.md",
+      "title": "EnCharge AI emerges from stealth with $21.7M to develop AI accelerator hardware",
+      "excerpt": "Axelera and GigaSpaces are both developing in-memory hardware to accelerate AI workloads. NeuroBlade last October raised $83 million for its in-memory inference chip for data centers and edge devices.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/",
+      "originalUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-85757679.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/amp/",
+      "publishedDateTime": "2022-12-14T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

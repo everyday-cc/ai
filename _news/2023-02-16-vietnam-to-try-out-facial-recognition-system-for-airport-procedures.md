@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recogni
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Vietnam to implement face biometrics system for passenger check-ins at airports"
+    excerpt: "Details of the plan to implement face biometrics were recently unveiled by the government and a pilot to that effect is programed for this quarter."
+    publishedDateTime: 2023-02-16T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202302/vietnam-to-implement-face-biometrics-system-for-passenger-check-ins-at-airports"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/16123111/airport-facial-recognition-vietnam-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "ZXWxRVyoLiu1So2R4PchA0ktyjAyDQ+ptenRDMLseeG5gI0ji/EREDGIXbN0GyOdMLUcH/1quEwETwnfwktO04tFwdFY4KR6Hej/VunO/XBzaulQJeKS/Nhw5jwm0kAcVlniw58eOGjwlpnpE36fgrNlaVlqJO4LEhQ/dz1W8+ZP+UaOTdclbKwbSYDT+mdz9e65gwSambHukR342NJWZROLlbmv8/rqp0ftkgWYxLJkE78zmoedl3YhSkN49PMLfAW9vCQXVyI8nm8FrTkI7jbc6S7aNqJsjrsupgUPsn0tIdHRBzAUD0FIkMGy6j1Y6wxdhib00nhCldD5hCkGYO+6qjFh7z7BFx0zpbGPrhU=;keSnqNhMnkFFtY64b6qvTA=="

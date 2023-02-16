@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-02-16-convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales.md",
-      "title": "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales",
-      "excerpt": "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website.",
+      "path": "_news/2023-02-17-what-chatbot-bloopers-reveal-about-the-future-of-ai.md",
+      "title": "What Chatbot Bloopers Reveal About the Future of AI",
+      "excerpt": "Microsoft’s new chatbot for Bing has displayed some strange behavior, proving that AI is more fallible than tech companies let on.",
       "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
-      "originalUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
+      "webUrl": "https://www.wired.com/story/bing-chatbot-errors-ai-future",
+      "originalUrl": "https://www.wired.com/story/bing-chatbot-errors-ai-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://media.wired.com/photos/5f0fb43a92cb35f94cf6a0ed/master/w_450,h_400,c_limit/Carve_Fast%20Forward%20newsletter.jpg",
+          "width": 450,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
-      "publishedDateTime": "2023-02-16T02:24:00-08:00",
+      "ampWebUrl": "https://www.wired.com/story/bing-chatbot-errors-ai-future/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bing-chatbot-errors-ai-future/amp",
+      "publishedDateTime": "2023-02-16T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +50,7 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "AI in Sales"
+        "AI"
       ]
     },
     {
@@ -255,6 +263,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-10-ai-needs-a-set-of-rules-for-its-own-good-and-for-ours.md",
+      "title": "AI needs a set of rules — for its own good, and for ours",
+      "excerpt": "\"AI's most common use case is in public service allocation and for business purposes in deciding who gets home loans, employment opportunities, and health care,\" said Alex Hanna, director of research at ... companies like Facebook and Twitter wouldn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2",
+      "originalUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63e56e2796242f0019e83c45?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2?amp",
+      "publishedDateTime": "2023-02-10T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-meta-platforms-a-top-artificial-intelligence-stock-that-no-one-talks-about.md",
       "title": "Meta Platforms: A Top Artificial Intelligence Stock That No One Talks About",
       "excerpt": "There are plenty of AI research companies in the market ... Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors.",
@@ -336,6 +396,49 @@
       "provider": {
         "name": "USA Today",
         "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-former-salesforce-co-ceo-bret-taylor-to-launch-new-ai-startup-with-google-veteran-clay-bavor.md",
+      "title": "Former Salesforce co-CEO Bret Taylor to launch new AI startup with Google veteran Clay Bavor",
+      "excerpt": "Former Salesforce Inc. co-Chief Executive Officer Bret Taylor (pictured) is teaming up with outgoing Google LLC Vice President Clay Bavor to create a new artificial intelligence startup. The unnamed company will seek to apply AI to “some of the most important problems in business,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/08/bret-taylor-former-salesforce-co-ceo-launch-new-ai-startup-google-veteran-clay-bavor/",
+      "originalUrl": "https://siliconangle.com/2023/02/08/bret-taylor-former-salesforce-co-ceo-launch-new-ai-startup-google-veteran-clay-bavor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/brettaylor.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -675,6 +778,58 @@
         "Facebook AI",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-04-real-time-data-and-ai-thrust-manufacturing-into-the-future.md",
+      "title": "Real-time data and AI thrust manufacturing into the future",
+      "excerpt": "With a growing need for real-time situational awareness and insights, artificial intelligence architectures are becoming increasingly important to make sense of the acquired information.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1326464894-e1653670614862.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/",
+      "publishedDateTime": "2023-02-03T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1236,135 +1391,6 @@
       "provider": {
         "name": "Business.com",
         "domain": "business.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-how-to-differentiate-chatbots-from-practical-ai.md",
-      "title": "How to Differentiate Chatbots From Practical AI",
-      "excerpt": "“The machines are taking over!” For years, humans have been fascinated and repulsed in equal measure by artificial intelligence, or AI. Hollywood has capitalized on this intrigue by making movies showing the general devastation that might occur if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business.com/articles/chabots-practical-ai/",
-      "originalUrl": "https://www.business.com/articles/chabots-practical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.business.com/app/uploads/2022/03/23030209/shutterstock_674027740-3.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business.com",
-        "domain": "business.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-why-you-should-care-about-ai-political-bias.md",
-      "title": "Why You Should Care about AI Political Bias",
-      "excerpt": "Over the past couple of weeks, I’ve written a bit about the troubling left-wing biases encoded into the widely discussed new AI technology ChatGPT. The new chatbot is happy to pen long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalreview.com/2023/01/why-you-should-care-about-ai-political-bias/",
-      "originalUrl": "https://www.nationalreview.com/2023/01/why-you-should-care-about-ai-political-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2020/12/keyboard-hands.jpg?fit=2057%2C1200",
-          "width": 2057,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-21T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Review",
-        "domain": "nationalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-interactive-quiz-how-does-ai-generate-images.md",
-      "title": "Interactive quiz: How does AI generate images?",
-      "excerpt": "TOKYO -- Image generative artificial intelligence (AI), which creates elaborate images based on text input, has garnered attention recently. Elaborate AIs, such as the Stable Diffusion model ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Technology/Interactive-quiz-How-does-AI-generate-images",
-      "originalUrl": "https://asia.nikkei.com/Business/Technology/Interactive-quiz-How-does-AI-generate-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F7%252F3%252F6%252F43986378-1-eng-GB%252FMicrosoftTeams-image%2520%252830%2529.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-21T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -30,10 +30,10 @@ images:
 related:
   - title: "US launches artificial intelligence military use initiative"
     excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
-    publishedDateTime: 2023-02-16T16:15:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
+    publishedDateTime: 2023-02-16T16:14:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
     type: article
     provider:
       name: ABC
@@ -84,6 +84,6 @@ related:
       domain: defenseone.com
     quality: 19
 
-secured: "iDHAG886+oyh0BKcqeHRuJn+yEePw1gk0NosN5kDkOj/b/eJ2JEKtrbtghKnCDz8BBqZiHyGR+kQKXrd3mHJcl7XkBnCPvnJL1Pe04eRbBEG+AAbmemei1Ezij33f5ZLZg0AOqSlXIympFPxfZzngmVlIpPbH/H0XD1s4LTKZF1Guzl8yf4PG6u7bJ4XRXntopJLJupzJVQ6zpZIAT8vBRLvoouOHFdF3HywIaPRpVuSrzsNsZTROgXmFP0IQUgsYgYY7zQY5NGaQ3LQTZbcH/PRlrfVpPNP8wkC51hC9EvBYRm3QNHHOC5tZEevpP5jhkfGiRvjTxHdBx2NqpcFhhjyeqMz82G6g0Ax06Pa49g=;87y3xvmiYplUwYEJQMKYnQ=="
+secured: "QZZqcnVEdaUs3XlUt4BxuB4zJ44QnqZj9qkgv6aB516yQJmJl+lABnUCH4Cl8ZQFXmfClEfjp97cY9tSNQvAdIQq7NVUIvTct8M4hCfKwgVoc+ZH/Zc2CP6JyDhUQeplkEp4XSHmbQslRt7ulGU8Q537YOOXIgWdXxdl6/T44VVZgcMlZXCMka3BnzR5fMftkXkFhCWbTtqU+ZV8yiwrDMxqJT4YHTyVB+OciMbKNTIzDhdZ9y2PEY8wE8/AZteDnRbMMYTShf8YKoNK2gPyaUmpU2XcLg1+v8QmkrZnRV2jOU1n+f6TLP1J+3yfx7FLKGlpB9nTZOzxJXa84oTx0YR17NTXIkLGrmbjZmCaInVBNIuNIfSXEjwe+Iiyu97pIL9XfdHik/xIswNqAW0YDIhY6kwqQ1jWAc5At2cmwXhBsJb5AjO3s3gFg7V8UUy9Od0Lf6vKgZybexJadJtkyAWbziAg7TT+3P/AHlTFalbA71q/nHi1MwwQYxncUENwGCPsrHdU7QjHmnWQaK+cyA==;dQQIRKCe+wdv6TKt0PTrYw=="
 ---
 

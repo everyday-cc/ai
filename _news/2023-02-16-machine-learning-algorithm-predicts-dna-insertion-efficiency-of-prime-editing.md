@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Accelerating Prime Editing: Machine Learning Helps Design the Best Fix for a Given Genetic Flaw"
-    excerpt: "Researchers at the Wellcome Sanger Institute have developed a new tool to predict the chances of successfully inserting a gene-edited sequence of DNA into the genome of a cell, using a technique known as prime editing."
-    publishedDateTime: 2023-02-16T16:00:00Z
-    webUrl: "https://scitechdaily.com/accelerating-prime-editing-machine-learning-helps-design-the-best-fix-for-a-given-genetic-flaw/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 7
-
 secured: "W0KFu+2oc7OK+hJooO7w90sMx3vmm6pdkv/4n/wveVJ+N7fddGZ5Y/KlTyZ7xG6UzDm6DceMQgUDiAbGT6zeTmCwEs2eXFvh5V4l8LwwTuY3QqhIZQrlwfOg1058nRS8x4hiWheeiI8HDsftVoAmdFS4AjLyIVk5kTn0T2NwRuH/XgYM7qO+CXl7czNNWK/wTnP+zHIVVO1+MkG4kniOkvsFkockkrmFKiBXNZr2aV7F/OUFbdFLss/RettYgrETewb0+YmMpiCVLTCnpG7jzBN+/tQ9IKiM80iws+Pb6ZFDOgQM1E456YW+0yYC9nLdtKHiYnRN6KguOYOkk6Aa1qAnlZPagMtlUrTLd8msIDs=;S0ZohCyCXfATLwPnm49oQQ=="
 ---
 

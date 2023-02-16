@@ -37,7 +37,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/08/171cd740-e8f4-4e45-941d-e76fb98a8e92/thumbnail/620x349/483eb8427782426a40ac4f3db203056f/appliance-presidents-day-deals.jpg#"
         width: 620

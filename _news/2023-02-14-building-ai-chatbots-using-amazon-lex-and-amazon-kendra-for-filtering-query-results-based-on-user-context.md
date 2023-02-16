@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1561
         height: 780
         isCached: true
-  - title: "From chatbots to facial recognition, here's how AI impacts your daily life"
-    excerpt: "Artificial intelligence has changed many aspects of our lives already, but how, where, and should you be worried? Let's find out."
-    publishedDateTime: 2023-02-16T12:30:00Z
-    webUrl: "https://interestingengineering.com/innovation/how-ai-impacts-your-life"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
 
 secured: "+47H1VDYI+5FQTnc/mcwMI1RkOeIyjbWl//5A+Ita2qPSc0CsazOU+HCwyYWfWQp7PJjXKZCby6KKRaQA9/DKVKwLIdTvzdZPo4uZqPW43hvsyHCWGZW8eariZk3MjPU5bNMzQ1obvY7D1ZZJbuuYOB2QK4XT3fFVUqc6ugbigsGyQJY6hSiFlubxeT7oXOrbqBrxVj396Kof14JiUpOBAez7a6FpD/s+oiZocFPbjDoDbVwbVHF33qIp/GCGQWIvh3kazde9g705TGjmR1QRqeuTlD9GVt2YSgsz55JChC8Vl7zSaTBssORAcm7WA39M0SrXqJUAVZ5G+oXhmg0wBcnfG3ly+Hkn7ymtGdXeIY=;30oVjFkK5MbSXZZ9a/9oZg=="
 ---

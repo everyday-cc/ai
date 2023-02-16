@@ -26,6 +26,17 @@ images:
     height: 853
     isCached: true
 
+related:
+  - title: "Moveworks Leverages Generative AI to Provide Customers with Real-Time Translation in Over 100 Languages"
+    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it now provides on-the-fly translation in over 100 different languages for its employee support virtual agent."
+    publishedDateTime: 2023-02-16T17:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/16/9761878.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+
 secured: "fiCacwAnPMHBJXASliw77z2plF1vjXjK5Ov4oWoQ+RUAarpx0KOCF4mhABh+lNSlYf4WMAJ22HpuMaitH9dq414kXs0lKykzSx9wGGvcKt4YhJvDcJ70nnGHjvkUZB8+IOBWOLGX043TzZc37jxKZwMR3w2aR4Wu9sDxUZShotBkBS52vk5Gh/K1bu4DYGZJJn5AedMTDA79ZU8qi7/rLxo0RALB+3R56AyfOmmhDqrFpt7QJmElJKMV2fp0j7SuFdigT5PCZUVA6AS1m9l1d1niCb9bgWm68vjkk6attaIwUT/c9Q/3MguyLNxZ0+muINyKAhjUne5fhqYHI1gj/Q9Wl6QNJxk1sGE1oNoHKYM=;y4rKAm6Qbw5L665SXbhXKw=="
 ---
 

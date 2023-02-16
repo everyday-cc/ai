@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-cha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
 type: article
 quality: 104
-heat: 194
+heat: 224
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Will Try to Fix Bing AI's Errors and Bizarre Chats"
+    excerpt: "The company says longer chats can send Bing around the bend when it tries to reflect the tone of the human side of the conversation."
+    publishedDateTime: 2023-02-16T18:23:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-will-try-to-fix-bing-ais-errors-and-bizarre-chats/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-will-try-to-fix-bing-ais-errors-and-bizarre-chats/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-will-try-to-fix-bing-ais-errors-and-bizarre-chats/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/resize/e64f1370809f3c93e637428c8252249094251a97/hub/2023/02/08/307365ea-a0d5-4602-87ec-9ed022d826ea/r5a-7348-web.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘I want to be human.’ My intense, unnerving chat with Microsoft’s AI chatbot"
     excerpt: "It’s important to understand what makes Bing Chat special in the first place, though. Unlike ChatGPT and other AI chatbots, Bing Chat takes context into account. It can understand your previous conversation fully, synthesize information from multiple ..."
     publishedDateTime: 2023-02-15T20:39:00Z
@@ -60,6 +76,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOcryCQbXkX0/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Long Conversations Can Make Microsoft's AI-Powered Bing Cranky"
+    excerpt: "Is the new Bing getting a little hostile or morose under repeated questioning? Apparently, extended chat sessions with the AI-powered Bing can confuse the program, Microsoft says. I've been with PCMag since October 2017, covering a wide range of topics ..."
+    publishedDateTime: 2023-02-16T16:46:00Z
+    webUrl: "https://www.pcmag.com/news/long-conversations-can-make-microsofts-ai-powered-bing-cranky"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00Guvjt5xjOV6SxPuhnYsL6-1.fit_lim.size_1200x630.v1676558891.jpg"
+        width: 938
+        height: 528
         isCached: true
   - title: "Microsoft Shifts Focus to AI, Terminates Metaverse Division"
     excerpt: "Thanks to Azure cloud computing, Microsoft Mesh and OpenAI can scale back-end services. More importantly, Microsoft can still generate shared virtual experiences (metaverse) with its Inception and Character.ai. On the one hand, Inception allows startups to ..."
@@ -92,6 +122,20 @@ related:
       - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
         width: 1440
         height: 500
+        isCached: true
+  - title: "Microsoft now says AI-powered Bing chatbot is ‘not a replacement or substitute for the search engine’"
+    excerpt: "Microsoft was clear from the start that its limited preview of the new technology ... strengths and surprising weaknesses in a lengthy exchange last week, when the AI chatbot made complex inferences and proactively conducted advanced research, while ..."
+    publishedDateTime: 2023-02-16T16:18:00Z
+    webUrl: "https://www.geekwire.com/2023/microsoft-now-says-ai-powered-bing-chatbot-is-not-a-replacement-or-substitute-for-the-search-engine/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 69
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/bing2.jpeg"
+        width: 2481
+        height: 1659
         isCached: true
   - title: "Microsoft will help the Google of China take its self-driving car platform global"
     excerpt: "The biggest stories of the day delivered to your inbox."

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-17-german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform.md",
+      "title": "German startup Kern AI nabs seed funding for modular NLP development platform",
+      "excerpt": "German startup Kern AI has raised a $2.9M seed funding round for a platform that helps NLP developers and data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/",
+      "originalUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/team_picture-1-e1676299586848.png?resize=1200,810",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/amp/",
+      "publishedDateTime": "2023-02-16T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-artificial-intelligence-jobs-how-will-ai-change-the-job-market.md",
       "title": "Artificial Intelligence Jobs: How Will AI Change The Job Market?",
       "excerpt": "Artificial intelligence (AI) has the potential to streamline and make many jobs more efficient, but some improvements might make certain jobs unnecessary. Here’s a look at the different tasks artificial intelligence in on track to handle, if not already ...",
@@ -1264,40 +1316,6 @@
       "provider": {
         "name": "Afro",
         "domain": "afro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-askvet-launches-vera-the-worlds-first-answer-engine-for-animal-health-based-on-chatgpt.md",
-      "title": "AskVet™ Launches VERA, the World's First \"Answer Engine for Animal Health\" Based on ChatGPT",
-      "excerpt": "VERA is powered by AI, ChatGPT and AskVet's vast database of over 1.5 million digitized conversations between veterinarians and pet parents. In addition, VERA has been educated using expert articles,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9755839.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9755839.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

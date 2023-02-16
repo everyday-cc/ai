@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-12-14-encharge-ai-emerges-from-stealth-with-217m-to-develop-ai-accelerator-hardware.md",
-      "title": "EnCharge AI emerges from stealth with $21.7M to develop AI accelerator hardware",
-      "excerpt": "Axelera and GigaSpaces are both developing in-memory hardware to accelerate AI workloads. NeuroBlade last October raised $83 million for its in-memory inference chip for data centers and edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/",
-      "originalUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-85757679.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/amp/",
-      "publishedDateTime": "2022-12-14T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-14-oppo-claims-its-bluetooth-audio-chip-delivers-wired-quality.md",
       "title": "Oppo claims its Bluetooth audio chip delivers wired quality",
       "excerpt": "The first day of Inno Day 2022 was filled with announcements including Oppo's new Bluetooth audio SoC, health monitor, and AR glasses.",
@@ -1402,6 +1350,58 @@
         "name": "TweakTown",
         "domain": "tweaktown.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-gpu-prices-and-availability-december-2022-how-much-are-gpus-today.md",
+      "title": "GPU prices and availability (December 2022): How much are GPUs today?",
+      "excerpt": "The GPU shortage is over, and gamers around the world can breathe a sigh of relief. For those in the market for one of the best graphics cards, we closely looked at graphics card prices and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/02/amd-radeon-rx-6500-xt-review-10.jpg?p=1",
+          "width": 1500,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "publishedDateTime": "2022-12-06T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

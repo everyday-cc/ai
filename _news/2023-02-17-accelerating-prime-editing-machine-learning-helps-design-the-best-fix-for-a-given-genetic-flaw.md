@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning algorithm predicts DNA insertion efficiency of prime editing"
-    excerpt: "A new tool to predict the chances of successfully inserting a gene-edited sequence of DNA into the genome of a cell, using a technique known as prime editing, has been developed by researchers at the Wellcome Sanger Institute."
-    publishedDateTime: 2023-02-16T04:58:00Z
-    webUrl: "https://www.news-medical.net/news/20230215/Machine-learning-algorithm-predicts-DNA-insertion-efficiency-of-prime-editing.aspx"
+  - title: "Machine learning helps determine success of advanced genome editing"
+    excerpt: "These data were then used to train a machine learning algorithm to help researchers design the best fix for a given genetic flaw, which promises to speed up efforts to bring prime editing into the clinic. Base editors were an innovation expanding on CRISPR ..."
+    publishedDateTime: 2023-02-16T16:00:00Z
+    webUrl: "https://phys.org/news/2023-02-machine-success-advanced-genome.html"
+    ampWebUrl: "https://phys.org/news/2023-02-machine-success-advanced-genome.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-machine-success-advanced-genome.amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 36
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/78486183-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/crispr-1.jpg"
+        width: 1915
+        height: 1920
         isCached: true
 
 secured: "3eG1JR/qvUPt88Z6MboYr0o1lVI95NCWmKnWz5L+rtB+Qs3640Wl+Rt4hDiY9Bat3KhS/4EhqP+ANRbWQPqd864cYHlrKx1GdqmGPnCpi1iojHRnX/6Pw4uxiBIdor4kbroh35vnqmTHVGdydW8IE+mp2lnpc/e4KIAvAZV5KkU8FPewyHUkbOrvMV8DBeH02tjHB9E3k1SMl2zfVngetczSPKDR4oc1hXSi5WdY+iW7Wkm/LzxUaoFbECdbiJ3Nz9cLEMNlO0u7E6ETx37Wm8WOiQ81Uk9r+6gmlnx1U4MFb6u0BJZe0PLXM2uJaF5KPEyG9lFA8+WckYnEa0xsTYvADp7EU4V5TDyay2zza8s=;RmMWFdMlx2R5pGtxaG6CJA=="

@@ -20,33 +20,120 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Building AI chatbots using Amazon Lex and Amazon Kendra for filtering query results based on user context"
-    excerpt: "Amazon Kendra is an intelligent search service powered by machine learning (ML). It indexes the documents stored in a wide range of repositories and finds the most relevant document based on the keywords or natural language questions the user has searched for. In some scenarios, you need the search results"
-    publishedDateTime: 2023-02-14T20:40:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/"
+  - title: "What Chatbot Bloopers Reveal About the Future of AI"
+    excerpt: "Microsoft’s new chatbot for Bing has displayed some strange behavior, proving that AI is more fallible than tech companies let on."
+    publishedDateTime: 2023-02-16T17:00:00Z
+    webUrl: "https://www.wired.com/story/bing-chatbot-errors-ai-future"
+    ampWebUrl: "https://www.wired.com/story/bing-chatbot-errors-ai-future/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bing-chatbot-errors-ai-future/amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/14/building-ai-chatbots-lex-kendra.jpg"
-        width: 1557
-        height: 780
+      - url: "https://media.wired.com/photos/5f0fb43a92cb35f94cf6a0ed/master/w_450,h_400,c_limit/Carve_Fast%20Forward%20newsletter.jpg"
+        width: 450
+        height: 400
         isCached: true
-  - title: "New expanded data format support in Amazon Kendra"
-    excerpt: "Enterprises across the globe are looking to utilize multiple data sources to implement a unified search experience for their employees and end customers. Considering the large volume of data that needs to be examined and indexed, the retrieval speed, solution scalability, and search performance become"
-    publishedDateTime: 2023-02-16T16:43:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-expanded-data-format-support-in-amazon-kendra/"
+  - title: "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales"
+    excerpt: "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website."
+    publishedDateTime: 2023-02-16T10:24:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655"
+    ampWebUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
+      name: Outlookindia
+      domain: outlookindia.com
     quality: 74
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/16/expanded-data-support-kendra.jpg"
-        width: 1561
-        height: 780
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Leaked memo shows Google CEO Sundar Pichai is asking staffers for help testing its Bard AI chatbot"
+    excerpt: "Google began internal testing of its Bard chatbot on Tuesday. Sundar Pichai is asking all employees to contribute hours of their time improving it."
+    publishedDateTime: 2023-02-15T17:25:00Z
+    webUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/63ed1235eeb52e001886a1fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "You.com thinks the future of AI chatbots is (gasp) images"
+    excerpt: "You.com's futuristic YouChat 2.0 AI chatbot has migrated to adding charts, graphs, code, and more inside of its AI-powered search engine."
+    publishedDateTime: 2023-02-16T09:45:00Z
+    webUrl: "https://www.pcworld.com/article/1513995/the-future-of-ai-chatbots-is-gasp-images.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 69
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/02/Youchat-1.png?w=1024"
+        width: 1023
+        height: 562
+        isCached: true
+  - title: "ChatGPT's 100 Millionth User Means the Age of AI Is Here"
+    excerpt: "It took Facebook 4½ years to reach 100 million users ... be going into funding the next-generation of silicon development, AI, 5G innovations across the United States and building research communities across the country. To stay updated with top ..."
+    publishedDateTime: 2023-02-14T13:43:00Z
+    webUrl: "https://www.benzinga.com/news/23/02/30908169/chatgpts-100-millionth-user-means-the-age-of-ai-is-here"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30908169"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30908169"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/14/mathew-schwartz-c5stal8lqyo-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "3 Stocks to Buy for the Future of Artificial Intelligence"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s been a lot of talk about artificial intelligence stocks. Grand"
+    publishedDateTime: 2023-02-13T17:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-the-future-of-artificial-intelligence-1032091976"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "AI Chatbots Are Coming to Search Engines. Can You Trust Them?"
+    excerpt: "Google, Microsoft and Baidu are using tools similar to ChatGPT to turn Internet searches into a conversation. How will this change humanity’s relationship with machines?"
+    publishedDateTime: 2023-02-16T17:26:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-chatbots-are-coming-to-search-engines-can-you-trust-them/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/3422100C-5B37-4D27-9059451B6DF67DCF.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "Bing chatbot's freakouts show AI's wild side"
+    excerpt: "As users test-drive Microsoft Bing's new AI-powered chat mode, they're finding example after ... we may need to add a tool so you can more easily refresh the context or start from scratch.\" \"The model at times tries to respond or reflect in the tone ..."
+    publishedDateTime: 2023-02-16T16:26:00Z
+    webUrl: "https://www.axios.com/2023/02/16/bing-artificial-intelligence-chatbot-issues"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/HUP8vVz8mYQ2srpHH9XbuAuvOZI=/0x0:1920x1080/1366x768/2023/02/16/1676562747786.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "pgtkPFvzv5s50IQwQMTMFnTdWPvjo/EZH0qrCUYgWX98swkJ2PeIcoBkirIaJLF9wbCVHqEpWveHVCUXOURqMAfgVIDihvn0S7klR0a131m0MXeDd8ip7VZkDEGu98JqO8pyfBf/bxKvb/n7IgXUJdGUtpVxy6lwQtf+6IXjGFNJuqAaXDhwX35K2bb7IzFAemCJMalGBzIQyuzjEGJbXR8d3PUghLFoF7rTo8b+rRUeseHUVag73Rzem6NDkFy4e3nXK3NqQjRgTkeTcFuhS7Q7TQ3nTlHWKeREOy+g1AlR4AWqe6iKDsmF/4WNMnUpfu7799pS8fIxEJItn8rZ3JGvCfvaFGWOPJGLZMtI53Tr3mmSyJFrl5MrmPjk+5Jg2lzsQGg1e+fXdHXqtdIibiL6t7OYnqnMrXPK3WP4aXAJ+qFyJzoam5CQg7vzXHMlphpMMqJ6Z57zxBkN+BSO+Jds13bS8vzQ7P/VH66+0+TGpSJhFXaum1G+yeMd4LOynCYjIC3gSoOJC9yqu0dgKw==;itvNZGpKKv6hjnl3FwaF2Q=="

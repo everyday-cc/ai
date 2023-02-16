@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1326464894-e1653670614862.jpg?fit=800%2C533&strip=all"

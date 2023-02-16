@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-02-uncertain-economy-spurs-growth-in-ai-powered-office-automation.md",
+      "title": "Uncertain Economy Spurs Growth in AI-Powered Office Automation",
+      "excerpt": "Companies are striving to fuel growth without adding to payrolls, corporate technology chiefs say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
+      "originalUrl": "https://www.wsj.com/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-714963/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
+      "publishedDateTime": "2023-02-02T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research.md",
       "title": "Global Deep Learning Courses for NLP Market 2023-2027 (New Report) for a Sustainable Future | Forecast Report by 106 Pages Research",
       "excerpt": "Deep Learning Courses for NLP market report investigates new project feasibility with the purpose of enlightening new entrants about the possibilities in this market. In this report, thorough SWOT analysis and investment analysis are provided which ...",
@@ -1312,59 +1364,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing.md",
-      "title": "How Will ChatGPT Affect Your Job If You Work In Advertising And Marketing?",
-      "excerpt": "ChatGPT is a tools that is enabling anyone to see the power of artificial intelligence and machine learning. It is also forcing people to think about the implications of such powerful technology on jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c64c5d2085183335766ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1034,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/amp/",
-      "publishedDateTime": "2023-01-16T22:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

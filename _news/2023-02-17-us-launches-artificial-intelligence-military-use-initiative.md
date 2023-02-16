@@ -2,11 +2,11 @@
 category: news
 title: "US launches artificial intelligence military use initiative"
 excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
-publishedDateTime: 2023-02-16T16:15:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
-webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
+publishedDateTime: 2023-02-16T16:14:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
 type: article
 quality: 59
 heat: -1
@@ -83,6 +83,6 @@ related:
       domain: defenseone.com
     quality: 19
 
-secured: "jZX80dUqWYSJrfZ69taWk93ff47fplZn6r7Zpuk/JI/0/NuYU8n16Hdz6d01yAm7t2dr4TjEHrNOR7Cd+lOBfhtXejN/+khRy+FziwAFsqY7o1784EGnEwuuiIsQno8nIOlDYwY1r2f48s5n8qX09d3L2W7RkfatKbx1Q1vFtwKfFAtdwM0jEvnaSvYAZsYfH/NkttjZ94+K27VnW1nVeQxZKQjcucW6h8pU/koot5eSa4XS/Bi9KwnQPc9VCbir5eR3XWdgrBTLS8BpQ7I4oWMbqDoRpASAxEreHzS2tUi0liRqxeyqo4kcWDnsBDLyGO1jCEMrf8/Ck8tv4siApxaYnJTPPeysWL0s8EwGrig=;+m8qPmRF1r3Z//YJBlJHaA=="
+secured: "KqwcEpa0NPt6z/rcp0k+ny9a6DCnoXhmKhSPkUfEgwhcNAjnogFGiyvf7UXzbvfqUPKkzX1jEfdsESzgZxgCb4HJC1BEReHtjh2lDRYdyKNXKqZyOrxfFjkIiWusiVqQ+Z7HIBQKgCIwwtzrzXEOWFmyCcJDHQftTksW2nPz3XtOhEtq9Yo3EPwhQqQAB05qcVbIt7NfgYWTHj+HoJBEPbizya6dps/fQOM/0lYWO4LOmfTy0l9+6bJoNmMDsUzqACLwxRG1vz5SjazoZOY2OnyKQqqKSrNc5QcpaNQx/v2ed5qy+5vjyJpFJKhZIbuXABmE1aMM80yNJV2fOZ/h+cezXRsyNwQ7GMWKHZW9jiY=;7XEvlEADWfK0PQpJ7nNK9w=="
 ---
 
