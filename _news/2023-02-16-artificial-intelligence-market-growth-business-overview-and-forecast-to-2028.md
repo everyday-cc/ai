@@ -238,10 +238,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning System Market 2023: A Status of Top Regions and Companies with Growth Prospects By 2028,"
+    excerpt: "Feb 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Deep Learning System Market” research"
+    publishedDateTime: 2023-02-17T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-2023-a-status-of-top-regions-and-companies-with-growth-prospects-by-2028-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing Market 2023 Size with SWOT Analysis by Top Players till 2028 | 125 Pages"
     excerpt: "Global “Cloud Natural Language Processing Market” Report which is spread over [125] pages provides In-depth analysis on the market size, share, new developments, industrial trends, market status of the top manufacturers with best facts and figures ..."
     publishedDateTime: 2023-02-15T14:44:00Z
     webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-size-with-swot-analysis-by-top-players-till-2028-125-pages-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market CAGR Status with Top Manufacturing Players by Upcoming Years 2028"
+    excerpt: "Cloud Natural Language Processing Market Research Report provides a thorough overview of industry size, share, and"
+    publishedDateTime: 2023-02-17T08:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-cagr-status-with-top-manufacturing-players-by-upcoming-years-2028-2023-02-17"
     type: article
     provider:
       name: MarketWatch

@@ -253,6 +253,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning System Market 2023: A Status of Top Regions and Companies with Growth Prospects By 2028,"
+    excerpt: "Feb 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Deep Learning System Market” research"
+    publishedDateTime: 2023-02-17T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-2023-a-status-of-top-regions-and-companies-with-growth-prospects-by-2028-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market CAGR Status with Top Manufacturing Players by Upcoming Years 2028"
+    excerpt: "Cloud Natural Language Processing Market Research Report provides a thorough overview of industry size, share, and"
+    publishedDateTime: 2023-02-17T08:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-cagr-status-with-top-manufacturing-players-by-upcoming-years-2028-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Medical Imaging Market Forcast 2023 To 2028 : In-depth Research Analysis with Top Countries Data"
     excerpt: "Feb (The Expresswire) -- \"Machine Learning in Medical Imaging Market\" Report covers specified competitive outlook consisting of the"
     publishedDateTime: 2023-02-14T03:22:00Z

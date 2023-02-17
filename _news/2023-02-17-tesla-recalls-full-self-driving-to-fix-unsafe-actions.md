@@ -514,6 +514,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 34
+  - title: "Tesla Recalls 360,000 Vehicles Over ‘Full-Self Driving’ Problems"
+    excerpt: "Tesla is voluntarily recalling 362,758 of its vehicles equipped with its so-called ‘Full Self Driving’ software over safety concerns."
+    publishedDateTime: 2023-02-17T17:50:00Z
+    webUrl: "https://www.thestreet.com/video/tesla-recalls-360000-vehicles-over-full-self-driving-problems"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
   - title: "Tesla recalls 362,000 vehicles with self-driving software over intersection safety concerns"
     excerpt: "Tesla is issuing a software upgrade to over 362,000 versions of its Model S, Model X, Model 3 and Model Y vehicles because those with its full self-driving beta software may be \"unsafe around intersections,\" according to a National Highway Traffic Safety ..."
     publishedDateTime: 2023-02-16T18:13:00Z
@@ -597,6 +606,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "Jy8S35iAwzc+Zxr7e1Eh66xUS29AxBVzAjy6+VhaU6VxFOUK3JDtODLFMzOvDeUAkIT/n6hlfkPqMtIBAASDDdKWYa58ldl7DxgJhH4dTIkBkfWFsGzKUU1x73FL6rMW2RVMhxTeDkItnHQS9YnT9whREVM+BwXU/Kb2MrcnEDeW2+1tDZNVeM/nDkhFbPm7hMKpX8RQ2h0DG/Kl11i7V0SGcGYR4PmF7FjVdR6FcxT7RWWF1pP8OYWFYRD4dEgyTrwTTvcln7CXngjmPGeudeKA1WFFu2KOnnBN4QwnuuGfie29GKnwn66vfIYkKqh5tVmoI0NlMKFG1G7b9m7Q4pYUP1J1Ng4kHsB+q9VfiT0=;+QXCQ6Eh4w7PSKCbttHFaA=="
+secured: "RuQWjYU6WJFO029A0zzrftsyIVdZCyRv7JQ+4bZwUhNp68iOzfJg2SQ6usiL3hHEslhNLRvqEHwgQvogvK3tamqGkX6q1clEnfHKuo4IsjJXPMhMLtbL9OA0BtF4aLb9NGEIRKUMRBBc5XZJQkalJB+d2iAmXTiOYPtAntLl86KZuZpC6sE49R6aFkpGUq6WTz0Ry6xPhecWtR/7y2rKYhqseL8QR3PfO7N9+rV6oFegwwJoR3fy5qhntLviF8/QNiBPKvZV/o6/giez+DwZXtz2IymujQe469mCT0gj7sEAsQDcJzV2ws17LjzgUHDeRtz9nir6GHlKtcqWxoNflYPDHVQlrrJ0vfPIc3anx9YJAkRIpL03C0wTFDYuz3EKwo0fw8rCvE+drjvEVd+4mqHpfDS/gZUOi/hELM5gI2Cv9rfcvwSOdfQpXMIxldTmtX5mk9UBDVjKeIhNUoGZlURduwY/qkVeq386jgshpACnBAOaN9d+UOatLQc4WhNDHeb7Trhgl34henpdiZKVgw==;7gvYTVUIwjYnXVlKMsfLyQ=="
 ---
 

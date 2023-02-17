@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's Zoox robotaxi now giving rides to employees on public roads in California"
+    excerpt: "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters."
+    publishedDateTime: 2023-02-14T06:51:00Z
+    webUrl: "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425"
+        width: 2800
+        height: 1867
+        isCached: true
   - title: "Amazon's Zoox Begins Testing Self-Driving Taxi on Public Roads in California"
     excerpt: "In the spring, full-time employees will be able to ride in the self-driving taxi between offices during business hours, Zoox said. \"Getting to be the world's first passenger in a robotaxi with no manual controls on open public roads ... was one of the ..."
     publishedDateTime: 2023-02-14T18:39:00Z

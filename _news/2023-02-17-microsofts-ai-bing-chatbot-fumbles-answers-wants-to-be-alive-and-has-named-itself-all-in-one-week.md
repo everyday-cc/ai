@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
+    excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
+    publishedDateTime: 2023-02-17T17:42:00Z
+    webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 98
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The dark side of Bing’s new AI chatbot"
     excerpt: "After asking Microsoft’s AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy. The chatbot said it “must be hard” to balance work and family and ..."
     publishedDateTime: 2023-02-16T19:41:00Z

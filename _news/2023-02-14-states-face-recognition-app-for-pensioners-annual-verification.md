@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-f
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
         width: 2048
         height: 1333
-        isCached: true
-  - title: "Review launched into rules governing facial recognition data"
-    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
-    publishedDateTime: 2023-02-15T23:59:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14508024"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
-        width: 660
-        height: 437
         isCached: true
   - title: "Humanity Communications Collective Receives International Recognition for Human & Civil Rights Work"
     excerpt: "Affirming its commitment to amplifying social justice issues through strategic and creative communications, Humanity Communications Collective announc"

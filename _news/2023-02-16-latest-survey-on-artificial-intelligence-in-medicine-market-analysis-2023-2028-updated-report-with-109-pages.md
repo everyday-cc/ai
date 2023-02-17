@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
+    excerpt: "Insights] Top “Artificial Intelligence (AI) in Insurance Market” Size 2023 Key players Profiled in the Report are"
+    publishedDateTime: 2023-02-17T14:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-insurance-market-360-market-updates-reports-development-expenditure-and-financial-insights-2028-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In-Car Speech Recognition Market Size and Share 2023-2028 with Emerging Treads and New Updates| Says Absolute Reports"
     excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"In-Car Speech Recognition"
     publishedDateTime: 2023-02-14T06:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artific
 webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages-2023-02-16"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
+    excerpt: "Insights] Top “Artificial Intelligence (AI) in Insurance Market” Size 2023 Key players Profiled in the Report are"
+    publishedDateTime: 2023-02-17T14:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-insurance-market-360-market-updates-reports-development-expenditure-and-financial-insights-2028-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

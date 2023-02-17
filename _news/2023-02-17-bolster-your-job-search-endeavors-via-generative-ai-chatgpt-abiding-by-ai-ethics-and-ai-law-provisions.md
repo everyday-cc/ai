@@ -131,6 +131,15 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 17
+  - title: "Elon Musk Sounds the Alarm on AI and ChatGPT"
+    excerpt: "The Silicon Valley luminaries say that the AI era is about to begin as the technology takes a major leap forward in utility. For the general public, AI was limited to Siri and Alexa, respectively Apple's and Amazon's virtual assistants; the ..."
+    publishedDateTime: 2023-02-17T15:17:00Z
+    webUrl: "https://www.thestreet.com/technology/elon-musk-sounds-the-alarm-on-ai-chatgpt"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "36uh69ZBFKdP1Ep+NN6M+buf42ny65hYUQIyeZdgWhBYwDlWrxDqR+b/oQxy2ASCn4d07FV1b/k5Wd5Q42Gt5VCnOIXntghaQFxyMj2XKaI/w3f1NfQOxGVpCE1V/zr06Y4sS7L3sAapxMYGonc+BmJ66Jez6vxRXg1CwsDFdh4UxrPLCWa3/6KCZLoCwMzTYyPUIGulIr5c9Why31vC5KTqjjJw99dLJmczJTdILQp0B/LM3b08sYNm+2EBDQ0FhJha4UZR7wpDw61a8TEeNhnzl93N0XR08usdhM5Z1Xlz0a4WN48ACleLa71HwP+mUw/s0gikVmsFbLHzwgqsLlbw84Jw8DiPtn0iK3khVeP6o60NFtUNwWktWR4+p7vvvaDiXRUFvm2Dm/xdpGN29G6SpZYB/fSJIsJrWUjcfSbpx4A6en0BxXTiO5+NAZy/3AU95koAr3t+hFslC2cSvf/M8zZUwOrBVYvrUiJPq2oIHe5wU2vGJwkG9v4ev6gysVxFBZcGuE3fjPDrYwxwng==;eXvf/AXk+3KJO89Q9AvvNw=="
 ---

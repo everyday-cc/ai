@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
+    excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
+    publishedDateTime: 2023-02-17T17:42:00Z
+    webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 98
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Microsoft’s AI Bing Chatbot Fumbles Answers, Wants To ‘Be Alive’ And Has Named Itself - All In One Week"
     excerpt: "Microsoft’s Bing chatbot has been in early testing for a week, revealing several issues with the technology Testers have been subjected to insults, surly attitudes and disturbing answers from the Big Tech giant’s flagship AI,"
     publishedDateTime: 2023-02-17T10:07:00Z
@@ -354,6 +370,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "orxZcLMr3lSCm3gJzXInKO3GYGaKCHZgEbjrQUjRnNczI0AAOtJiQytdYh7PgVxew+qvPNI/mJSEKsVE0qkljXIZV2lmCrXIOQjDLv4XQMb5k8IgGatRow3R3we8IWalj6rNl7Z4ZrVDnJ7O/9qqamjIKJul5HMvlBG9nql1BduG01xKRdjD3KuhGy4uS7YhTrreVgtzCY1HknLpfEkDPWc9/t6WDNiBPuAGTg5qFfH4WvlvOybBOCKhZTmh2RgUELHAwLg+TlgL7cRLVFC/BZPIC/i9dDgWJRuYUZ1q53O2nqWtIv9DF0Y+eyxRuIXtDmwfxcM7mmtfAuGysrXwWMErRvEIxPU7p7iSspMShWA=;by6XQUJ1nGkIZpFD0D2AKg=="
+secured: "ei+MCcIm5+UeH/BA2Gv+QIPYTHA39ntgfP0RkH9bSx5QbSGNyQEhtGh09Dt1Et+DK34SYrQghHSl5X4o8JjggQRHQ6zuFmqrnjBYNlfwoXdrxbn0IgYaimrCu5zpoeCsOVmAKVmbZ/Mkx0Wlw2Cd+KFwiKtHcEojaMennhSSLdjTG2KgepLWIJyVi+oO0kOSBJuLzse96XYXjAfb4eX5mq+PhttWGgrRVA2J+lnAQo0cJpGShzI2uSlLlkvPlZlIHn+oiPC5gh95CGhmtHdyDQjVgf9Uy/wgJEjy4c9m1JI9BaiuSSOhkgFmXAM1LVVnOKO1tlfxuDWwd5RafiP3pOzomRSeMzvnNvYTxXo5jWReSVbZ0qwjAfNfhXd7zypPx2PWmSEzPXyT/WZLu+7zr33cjzGOKr0CzuO/hGw+sC2pMjuszTk5nwc6mIyfDTCGHbuJMVze0GxHO8SuUgvK6bVu6oNyBrnmda+6KD7/N4LmcQJiavv69wqenWW0jDXrRMAHT/QAisONJIBlaly/hQ==;fwGiSvqH+0mUxi/CZjjiDQ=="
 ---
 

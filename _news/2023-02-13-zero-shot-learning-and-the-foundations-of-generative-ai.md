@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 199
+heat: 219
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media.wired.com/photos/63ee93cc1b87b32b35988c95/master/pass/Gear_Gen-AI-attendees-take-part-in-Jasper-Art-immersive-experience-at-Gen-AI-at-Pier-27-in-San-Francisco.-Photo-courtesy-of-Jasper.jpg"
         width: 2400
         height: 1597
+        isCached: true
+  - title: "Roblox Is Bringing Generative AI to Its Gaming Universe"
+    excerpt: "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable."
+    publishedDateTime: 2023-02-17T17:42:00Z
+    webUrl: "https://www.wired.com/story/roblox-generative-ai-gaming-universe/"
+    ampWebUrl: "https://www.wired.com/story/roblox-generative-ai-gaming-universe/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roblox-generative-ai-gaming-universe/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/63ef9162ec9575838d5299ab/master/pass/Roblox-Generative-AI-Materials_science.jpg"
+        width: 1728
+        height: 1152
         isCached: true
   - title: "The Problematic Nature Of Generative AI"
     excerpt: "We’re the only species capable of synthesizing ideas, forming opinions and making decisions based on ethical principles. Let’s use this moment in history to embrace the future while investing in our humanity."
@@ -110,6 +126,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63ec652cea9d35758ecaa5d9/0x0.jpg?format=jpg&crop=1067,712,x2,y94,safe&width=1200"
         width: 1067
         height: 712
+        isCached: true
+  - title: "Gaming’s renewal of vows with Hollywood and more on UGC/generative AI | The DeanBeat"
+    excerpt: "It’s vibrant because we’ve seen gaming and Hollywood get married again, thanks to the huge success of The Last of Us television show on HBO, which continues to see millions of people watching every week and boosting sales of the game series."
+    publishedDateTime: 2023-02-17T18:00:00Z
+    webUrl: "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/"
+    ampWebUrl: "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/hbo-last-of-us.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Inside Generative AI’s Promise for Travel Booking"
     excerpt: "Online travel agencies are beginning to make moves toward implementing generative AI into their tech products."

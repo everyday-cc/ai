@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -130,6 +130,15 @@ related:
     provider:
       name: Tech.co
       domain: tech.co
+    quality: 17
+  - title: "Elon Musk Sounds the Alarm on AI and ChatGPT"
+    excerpt: "The Silicon Valley luminaries say that the AI era is about to begin as the technology takes a major leap forward in utility. For the general public, AI was limited to Siri and Alexa, respectively Apple's and Amazon's virtual assistants; the ..."
+    publishedDateTime: 2023-02-17T15:17:00Z
+    webUrl: "https://www.thestreet.com/technology/elon-musk-sounds-the-alarm-on-ai-chatgpt"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 17
 
 secured: "TMKPBAEKXeP7/1CSV63UsxlQOKBBLDGpJOmPnYpWSoITIKGIyJqFthNmttMNJPa/YyHo974QvoMPkEwPfe1UAsRWMLfF5X966ZVCyEM+/6JSaZHYFHbunMBo9jxMFHD7KYc6UodlkJbbR2dRWJUHRnZuJDnXWOw86zkhGsFmEbmOGYYXaVsY7TMPXEgL423MgOsxyqI18g0nxrCtjG37CTk29NZr9YUNG+vbEguU/etsfks1ryHMSSsk5wrE5GYgi0GJ0qwKcoBSY0uYnCjhU5mvm1bfck2Du65ih6nTO4kW23cSGVoQLI54eIf4osOOvRNCwZuQ0PLUbIrMtnSHGPG2Fcst/q54aHQt+dU3RW084vz7pWrl4B0fectx45nDPI5xxbGARGTwdlSAfdHHbL1Nu7AGUVdL7o7gd8iuo7I1cYgtcQqIt264VxV3gqk0mUvrFQeYQyHxS9L5dfEQTZgEOI5vnA6fvMdWov168cPQthXZobvCKUu0r2u/RICzuPDE0A0PVcJernWCGjFvxA==;vPPOWhnODvxUDia3vteLNw=="

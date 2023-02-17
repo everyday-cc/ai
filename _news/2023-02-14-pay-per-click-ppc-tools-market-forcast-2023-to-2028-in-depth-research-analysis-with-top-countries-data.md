@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market | Current Scenario and Future Aspect Analysis with Top Countries Data"
-    excerpt: "Face Recognition Software Market\" is expected to grow at a steady growth during the forecast period 2023-2028,"
-    publishedDateTime: 2023-02-13T01:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-current-scenario-and-future-aspect-analysis-with-top-countries-data-2023-02-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Device Market Size 2023: Reliable Business Demand, and New Strategies Forecast with Top Countries Data"
     excerpt: "Latest Face Recognition Device Market [122 Pages with 227 No. of Tables and Figures] Research Report provides qualitative and quantitative information on CAGR status and industry"
     publishedDateTime: 2023-02-14T15:28:00Z

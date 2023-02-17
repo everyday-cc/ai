@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230216PD201/7nm-ai-chatgpt-china
 webUrl: "https://www.digitimes.com/news/a20230216PD201/7nm-ai-chatgpt-china.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "AI startup using satellite imagery to trace the path of Chinese balloon"
+    excerpt: "Days after the Chinese spy balloon was shot down by the U.S. military off the coast of South Carolina, AI startup Synthetaic backtracked the balloon’s trajectory across the continental United States using Earth imaging data from Planet satellites."
+    publishedDateTime: 2023-02-17T17:15:00Z
+    webUrl: "https://spacenews.com/ai-startup-using-satellite-imagery-to-trace-the-path-of-chinese-balloon/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 37
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2023/02/Synthetaic-RAIC-Chinese-Balloon-4-3.jpg"
+        width: 2488
+        height: 1535
+        isCached: true
 
 secured: "bJ9TKzc+BoH9Bzsp59QHEC9AVLolg8s/4+a9HLyzi9E5WJg5tw4Xb8qDU0eapxHayk33zlv6FhUqOxsXpexxDzSRqhPMXq54o9nXOILP2ov4qoulPksnNBvjktmqAcT/fwEBO5L4Nm6x0TPVcuuU7tcnihDuVyN/F5ChrQaoHlfSs/EtnVsY1LXQS3oAxaY9U+CRmCKG3AEa3kGoWaZEmIxURKGtyM7pNpkmWSZti1bdGGwJQAsIWZO1EK93fZnW2pGiDMEnjhUkeIct8oTnohqMs9Bw8fVByyWyYsx1Q2fPZ48FNbXfeYFnoRn+5MH4eXdbWsrSqu6vN+B4rBIQwGMypu/2nT5uCd2/KYRbWtKUj7E/iYDLQPbcAqKw8OdWlyWTnyZAC2wbDsxk94IWiZewrsayFfbUy4RHG6Ja3sZsd5MZuWH/Zd5r9+Yb/L+ritwUtBdt12vjx8J6YTmKZXSJARVDIr0V2K68FKZ0IYPRNDf2L0kMNUjfmh+p2K3UzXTfm4mBya1S8h9ChUL8dA==;fJOs2DK3Sc8Jl8JoLQqBYQ=="
 ---

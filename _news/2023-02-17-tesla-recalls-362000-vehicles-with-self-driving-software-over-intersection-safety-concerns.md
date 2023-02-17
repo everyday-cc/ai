@@ -528,6 +528,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 34
+  - title: "Tesla Recalls 360,000 Vehicles Over ‘Full-Self Driving’ Problems"
+    excerpt: "Tesla is voluntarily recalling 362,758 of its vehicles equipped with its so-called ‘Full Self Driving’ software over safety concerns."
+    publishedDateTime: 2023-02-17T17:50:00Z
+    webUrl: "https://www.thestreet.com/video/tesla-recalls-360000-vehicles-over-full-self-driving-problems"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
   - title: "Tesla recalls 362,000 vehicles with self-driving software, citing intersection safety concerns"
     excerpt: "Tesla is issuing a software upgrade to over 362,000 versions of its Model S, Model X, Model 3 and Model Y vehicles because those with its full self-driving beta software may be \"unsafe around intersections,\" according to a National Highway Traffic Safety ..."
     publishedDateTime: 2023-02-16T18:13:00Z

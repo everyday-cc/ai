@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-cha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
 type: article
 quality: 104
-heat: 345
+heat: 355
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/bing-chat-want-human.jpg?resize=1200%2C630&p=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
+    excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
+    publishedDateTime: 2023-02-17T17:42:00Z
+    webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 98
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Microsoft’s AI Bing Chatbot Fumbles Answers, Wants To ‘Be Alive’ And Has Named Itself - All In One Week"
     excerpt: "Microsoft’s Bing chatbot has been in early testing for a week, revealing several issues with the technology Testers have been subjected to insults, surly attitudes and disturbing answers from the Big Tech giant’s flagship AI,"

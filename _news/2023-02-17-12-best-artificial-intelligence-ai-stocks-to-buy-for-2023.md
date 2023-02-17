@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-16T21:46:00Z
 originalUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
 webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
 type: article
-quality: 90
-heat: 160
+quality: 92
+heat: 162
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - AI in Autos
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"

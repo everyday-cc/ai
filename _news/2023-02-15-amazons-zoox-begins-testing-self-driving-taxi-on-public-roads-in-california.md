@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-sel
 webUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-self-driving-taxi-on-public-roads-in-california/"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon's Zoox robotaxi now giving rides to employees on public roads in California"
+    excerpt: "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters."
+    publishedDateTime: 2023-02-14T06:51:00Z
+    webUrl: "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425"
+        width: 2800
+        height: 1867
+        isCached: true
   - title: "Amazon's new self-driving robotaxis may soon be hitting public roads"
     excerpt: "Robots already deliver us packages and pizzas. Now, Amazon is ready to take the concept to another level. Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers. The robotaxi ..."
     publishedDateTime: 2023-02-14T04:06:00Z
