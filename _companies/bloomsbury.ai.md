@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bloomsburyai"
   url: "https://twitter.com/bloomsburyai"
-  followers: 511
+  followers: 510
 
 size: 2-10 employees
 yearFounded: 2015
