@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-09-image-24.jpg"
