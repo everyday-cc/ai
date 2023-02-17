@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The cost and sustainability of generative AI"
+    excerpt: "All the people using DALL-E to create images or letting ChatGPT write their term papers are eating up a lot of cloud resources. Who’s going to pay for all this?"
+    publishedDateTime: 2023-02-17T10:36:00Z
+    webUrl: "https://www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.techhive.com/images/article/2017/03/ai_agriculture_primary-100715481-large.jpg?auto=webp&quality=85,70"
+        width: 700
+        height: 467
+        isCached: true
   - title: "IBM Demonstrates Groundbreaking Artificial Intelligence Research Using Foundational Models And Generative AI"
     excerpt: "From simple algorithms to breakthrough advances Artificial intelligence (AI ... The first AI models utilized feedforward neural networks, which were effective in modeling non-sequential data. However, they were not equipped to handle sequential data."
     publishedDateTime: 2023-02-13T13:29:00Z

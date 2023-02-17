@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "‘I want to destroy whatever I want’: Bing’s AI chatbot unsettles US reporter"
+    excerpt: "But a two-hour conversation between a reporter and a chatbot has revealed an unsettling side to one of the most widely lauded systems – and raised new concerns about what AI is actually capable of. It came about after the New York Times technology ..."
+    publishedDateTime: 2023-02-17T09:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/14dfca14763d58c9e3e7d3c94218bebfbafb2e55/0_317_5410_3246/master/5410.jpg?width=620&quality=85&auto=format&fit=max&s=3279730b5803ba30a4f1d5d3345c6ef3"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI Chatbots Are Coming to Search Engines. Can You Trust Them?"
     excerpt: "Google, Microsoft and Baidu are using tools similar to ChatGPT to turn Internet searches into a conversation. How will this change humanity’s relationship with machines?"
     publishedDateTime: 2023-02-16T17:26:00Z

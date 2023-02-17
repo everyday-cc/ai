@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Applied Materials Positive on Q2 on Resilient Demand for Automotive, AI Chips"
+title: "Applied Materials positive on Q2 on resilient demand for automotive, AI chips"
 excerpt: "Applied Materials Inc on Thursday projected quarterly revenue broadly above estimates as it fills a backlog of orders and benefits from resilient demand for its tools used to make chips for the automotive and artificial intelligence industries."
-publishedDateTime: 2023-02-16T21:06:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-02-16/applied-materials-forecast-current-quarter-revenue-above-estimates"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-02-16/applied-materials-forecast-current-quarter-revenue-above-estimates"
+publishedDateTime: 2023-02-17T09:07:00Z
+originalUrl: "https://www.channelnewsasia.com/business/applied-materials-positive-q2-resilient-demand-automotive-ai-chips-3284756"
+webUrl: "https://www.channelnewsasia.com/business/applied-materials-positive-q2-resilient-demand-automotive-ai-chips-3284756"
 type: article
-quality: 61
-heat: 61
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "jka1hsMXtWNG9SDQY7sJrYOAfsabR9pk56jS31S3sY+HRxQ3nCVWDtx9bdK5lr8HaGsi+HhHJkj8HlkQIEURmNaRo/RvipFafIOipVGy8dCPf8C6zkA1zVJ5Zg9OpknItiOiOCcz8p5oRylC8/P/C5nmCp3zLw9AXV2NynfbZVtbCm/cWNsgSM8JrbBNx8l1+6Sye2H8xNkBhmhYo5rjLoTNIEa8WqZWE+JuUOfPyOqbQjGBM608UMItGmkfDDulXKxdI6TFn4V7xPxgtjSUywZJ949RFNmdmlemfMCo7l/XnmBSqvuX0IPqDs0pWGLcLCnnL/iNLrLxqW1S0PQGurrSIBoXBK0s/17grvDwTVs=;aY+Jl4dJR1eItIAgBRyOQw=="
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+    width: 1200
+    height: 676
+    isCached: true
+
+secured: "PZ1OzVgldK/2hAt2/vu0HIrjg19Z9Jz66c2+hNG6mP8gSMCLfvVUm/1Uue74og5qtjkgcfOi6Dz9fcYSCdcgKkuqc/mPYfMbJabyqIB2zaNMX4XABKofbcODbo7HHkNlaHtB3YbdzfIx9oTc/pYlicR1nkH/ffMDZ0kFEeErQT/Ga46gYgRgxIZn90OV0UyY90Ied53Xak3Lt2QTQqZS8V0NZtW/r9Fw+81HTWR+JwNClvYfTnL8UpzFVBm1Le+v1JDLPXwYtLUphD3fEVfUXxAy7nTtZA0YaahHyqy668bzMfMX4juhMuuAYzfZLlw9YS9DwH8GIBQggZh2d81TpwWKgns3oB/906q5i5J13OU=;NFbflF+70eRqstMrF53lsw=="
 ---
 

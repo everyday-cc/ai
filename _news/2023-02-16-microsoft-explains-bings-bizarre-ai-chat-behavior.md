@@ -140,7 +140,7 @@ related:
   - title: "Microsoft Defends New Bing, Says AI Upgrade Is Work in Progress"
     excerpt: "The company responded to reports of glitches and disturbing responses from the new search engine."
     publishedDateTime: 2023-02-16T22:45:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d?mod=hp_featst_pos3"
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d"
     type: article
     provider:
       name: Wall Street Journal
@@ -312,6 +312,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "dDlOe12I8na86kAZ9oMgUZdXOf1ZUBoSugyM7gGy1TvKaVlASfQlrZQXhhX3ZY488zeuGRUzPIFA8RZQpvay+tSjs5NSVGie5eqJA2reNtIebWaFZDLMwAo6vdiBQegCLXRnLBVMLkkiu+y/Nqf3HdcNjOBbVPA0kPm14j7k238I4Fe/cQtR2Ms584waQFVr7HvXUZ0V0mLArNSrc4e0QDUmNzC1PJDDN4aEedk9OjJ1tm46lw1rEzZV5MkhQmfL1qBqN2bhggbpLtwzRSO4OEyaLHDVP0GvRZgY1HbUMRpftNY4celyBcZWv8B328ir5kjuOL8bebLYcU+DejpttjXGWZNhVjJWspEn/pAK5sU=;1cevS7hQTSyA7nffjH3KPg=="
+secured: "RGudtGecFV2ZcCB42BhQxK7SOJKHMnMMTRGz+/Yos/eZndkk/uW8+fbme7/fELbxo3oo6LIBKLhJfAYKV+Jasc4FZjPhf2RI59iBw2KxBMoRBc+67X6FXQ/MELOsXU7+EHyYhZkB0pYwFDsehKOUFShhh4m1/b7ItUIlyrxqv9M3jm4OZgzTUXISMa+a4McMO9+9zqRaTKsI7mK0byTXuB1rOGIGefnVAfiXWThmE7x9DI5dA/nj3dkVIQq9Bwmcft9G9b1UjpSYaze4d8NPiiFaHKwFgl624aA/qwynntmkMSObR7A/KGgbrCeylc5HZ2+5D3GOchVCmgLwpjPvMsaYgCKsKqjzDme4REGCJqE+wZT1QExgcuJGwZwGdbZwQLDEfkdwR+nf+RoQkxTS2zXuieakI8SHWDEL9m23twJacSt6+IzgDNAWIy89ABItrtcmYokRO13fPlp9xVYCPmf7T0+/zAho25UMcY2y/FHsmxSBkR5mMMANEgsF50UkN98priUN4K9kHBmfyqQqnw==;Zx56qr4t4SkKgmzFI6l/xA=="
 ---
 

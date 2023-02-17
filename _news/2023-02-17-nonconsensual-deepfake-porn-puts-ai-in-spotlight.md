@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/tech/nonconsensual-deepfake-porn/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/tech/nonconsensual-deepfake-porn/index.html"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

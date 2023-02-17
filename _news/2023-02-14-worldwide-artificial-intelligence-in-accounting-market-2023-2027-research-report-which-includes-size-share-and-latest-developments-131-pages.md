@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip for Data Centers Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "AI Chip for Data Centers Market\" is expected to grow at a steady growth during the forecast period 2023-2028, AI Chip"
+    publishedDateTime: 2023-02-17T03:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Robotics Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
     excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence Robotics industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
     publishedDateTime: 2023-02-16T03:48:00Z
@@ -183,6 +197,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chipset Market : Future Scope, Demand, Perceptive and Comprehensive Analysis By 2028"
+    excerpt: "Feb (The Expresswire) -- \"Deep Learning Chipset Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2023-02-17T03:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-scope-demand-perceptive-and-comprehensive-analysis-by-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning in Machine Vision Market 2023 : Global Industry Share, Key Dynamics and Forecast to 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- \"Deep Learning in Machine Vision Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions, Company ..."
     publishedDateTime: 2023-02-13T12:34:00Z
@@ -248,6 +276,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market Demand To Be Driven By Technological Advancements In The Forecast Period Of 2023-2028"
+    excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence in Accounting Market\" 2023 which has"
+    publishedDateTime: 2023-02-17T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-demand-to-be-driven-by-technological-advancements-in-the-forecast-period-of-2023-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

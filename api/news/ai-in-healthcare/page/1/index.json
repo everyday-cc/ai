@@ -55,50 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-16-us-launches-artificial-intelligence-military-use-initiative.md",
-      "title": "U.S. launches artificial intelligence military use initiative",
-      "excerpt": "The United States launched an initiative Thursday promoting international cooperation on the responsible use of artificial intelligence and autonomous ... With the possibility of more self-driving cars sharing the roads with non-automated vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/u-s-launches-artificial-intelligence-military-use-initiative-1.6276651",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/u-s-launches-artificial-intelligence-military-use-initiative-1.6276651",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/1/3/1_6215439.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/2/16/1_6276651.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/2/16/1_6276651.amp.html",
-      "publishedDateTime": "2023-02-16T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-02-16-artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today.md",
       "title": "Artificial intelligence, robots and blockchain deliver next-generation healthcare, today",
       "excerpt": "Artificial intelligence, for example, is doing the “dirty work” of drug discovery by running simulations of drug efficacy instead of timely trial-and-error testing. Blockchain secures healthcare records and connects patients with new clinical trials.",
@@ -1292,6 +1248,51 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-the-13-top-vc-firms-dedicated-to-investing-in-artificial-intelligence-and-machine-learning-that-founders-should-know.md",
+      "title": "The 13 top VC firms dedicated to investing in artificial intelligence and machine learning that founders should know",
+      "excerpt": "Here are the 13 top VC firms dedicated to AI and ML investing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
+      "originalUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Healthcare"
       ]
     }
   ],

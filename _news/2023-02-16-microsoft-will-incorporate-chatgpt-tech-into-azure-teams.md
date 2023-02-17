@@ -152,7 +152,7 @@ related:
   - title: "Microsoft Defends New Bing, Says AI Upgrade Is Work in Progress"
     excerpt: "The company responded to reports of glitches and disturbing responses from the new search engine."
     publishedDateTime: 2023-02-16T22:45:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d?mod=hp_featst_pos3"
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d"
     type: article
     provider:
       name: Wall Street Journal

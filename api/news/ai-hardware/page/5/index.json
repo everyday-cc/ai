@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-05-amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai.md",
+      "title": "AMD Blitzes CES With Cache-Fueled Zen 4 CPUs, A Ryzen And Radeon 7000 Mobile Arsenal And AI",
+      "excerpt": "There’s one thing for sure and its that this company isn’t taking its foot off the gas in any of its core technologies and market segments anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b6f6814ba88ddd701fbbc9/0x0.jpg?format=jpg&width=1200",
+          "width": 1158,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
+      "publishedDateTime": "2023-01-05T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-continental-partners-with-ai-chip-firm-ambarella-on-autonomous-driving.md",
       "title": "Continental partners with AI chip firm Ambarella on autonomous driving",
       "excerpt": "BERLIN, Jan 5 (Reuters) - Germany's Continental (CONG.DE) and California-based artificial intelligence chip firm Ambarella (AMBA.O) announced a partnership on Thursday to make software and ...",
@@ -1364,58 +1416,6 @@
         "name": "Game Rant",
         "domain": "gamerant.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot.md",
-      "title": "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot",
-      "excerpt": "This artificial intelligence bot can chat and write essays, poems and computer programs. Careful how much you trust it, though.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
-      "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
-      "publishedDateTime": "2022-12-14T10:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

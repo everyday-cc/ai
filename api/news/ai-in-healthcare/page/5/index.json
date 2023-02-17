@@ -2,40 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-01-06-yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform.md",
-      "title": "Yoomi and Rutgers Partner to Improve Physical Therapy Adherence Through Digital Health Platform",
-      "excerpt": "Yoomi, a digital health company focused on improving the standard of care in physical therapy, announced today it is partnering with Rutgers Robert Wood Johnson Medical School to explore how technology can mobilize patients effectively in physical therapy programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-06-applications-of-artificial-intelligence-across-various-industries.md",
       "title": "Applications of Artificial Intelligence Across Various Industries",
       "excerpt": "Potential applications of artificial intelligence continue to expand as more people adopt the technology AI usage is particularly prominent in finance, digital spaces (like social media ...",
@@ -1399,6 +1365,41 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care.md",
+      "title": "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care",
+      "excerpt": "NLITE addresses key technological issues that to-date have hindered the widespread adoption of natural language processing (NLP) for prior authorization. NLITE aggregates similar clinical concepts ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

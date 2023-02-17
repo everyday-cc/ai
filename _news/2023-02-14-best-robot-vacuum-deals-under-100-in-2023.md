@@ -3,8 +3,8 @@ category: news
 title: "Best robot vacuum deals under $100 in 2023"
 excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
 publishedDateTime: 2023-02-13T20:05:00Z
-originalUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
-webUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
+originalUrl: "https://www.cbsnews.com/miami/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
+webUrl: "https://www.cbsnews.com/miami/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 349
         isCached: true
 
-secured: "2hOsI6M7namVWY8sPm7KIgzooExYLJi7gsiXKAvIl1JHG4sc6H0RlbfZ1Aq2ir4LoonVsH3F4LV//rdDN4TrU9CpIMlJoFMsr+fALjDsjmNz14UxIajXTkQsbNQqZZhz6CGJ64yWJSETHk3qI/Kc101yljBmgAxL5P0WROfuaSZfXXOK5tPz6fQhObi0UD/afappjtYe5MoOyWZ3yOglLH0Xz03D5tMxtWySGMmkHIYrkL4sSBbjZeTUYHYeZIxCh3kDzwf1CNltlHYrkp6Jb52aQpokIgY8PITDkziONWMe/A7qFRgkoYC9pGAQ3lsVVGgnX2N6pn2Da8JE4YQ5oQ++ljxWbWv4CLm9LNn/Auk=;7twr/YGFZH4PacztNQPsag=="
+secured: "HcW00UUaFtJc/nAoJY2gWRs6NGaNfxbKOEFwGCe4k9HkEFIehyFus6xbTTV+m8clv5xyOAZ5IeFujDOCeoNBWFWUbblC9qYOMszst35KqRrKgGOpwNheaNgB6HyI+1De+knOCKsUkHEE611F8mI6w+iOCR+zTJOGLpWxUalML0pYxjOggnfphHPZ0bjh79TMPdOXPCRgeeov5cc6GAGP4IzLmk9XWhR/3nD6e0A2+fWunjT6denTb2/urF1Hak53YnYpd1qp6cIDSDb/peLAX9fcih5YWF4/8LEZAqiWV7DE3FX2aYVtiU/rvsP3pv9Ur9XtcGY5++iZoGT2TrXCjIA0hMy+58NsQwqwxm+K5Yg=;IOwGyp4aTl9jnhZokCuxNw=="
 ---
 

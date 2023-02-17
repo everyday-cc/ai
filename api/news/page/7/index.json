@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-10-ticked-off-self-driving-cars.md",
+      "title": "Ticked off! @self-driving cars",
+      "excerpt": "I am ticked off that even the school buses speed on North Econ Trail between Watermill and University Boulevard. Not to single him out because there are many others; but there is a motorcyclist who comes through there at least 50 miles an hour in the 25 mile an hour zone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandosentinel.com/opinion/os-op-ticked-off-021023-20230209-xzklr67b2rgovo7asjvfufv5ai-story.html",
+      "originalUrl": "https://www.orlandosentinel.com/opinion/os-op-ticked-off-021023-20230209-xzklr67b2rgovo7asjvfufv5ai-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/BrBidJCJU-VBedIKYn2IQSt-D3w=/1200x630/filters:format(jpg):quality(70):focal(734x361:744x371)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UHRITRDPRMCIVH67CT3PRX3O34.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-automated-machine-learning-automl-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029.md",
+      "title": "Automated Machine Learning (AutoML) Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2029",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum.md",
+      "title": "Disruption and opportunity: How hyperscalers are transforming telecoms (Reader Forum)",
+      "excerpt": "The telecom landscape is changing fast, and hyperscalers like Google Cloud and Amazon Web Services are now driving the agenda.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20230209/telco-cloud/disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum",
+      "originalUrl": "https://www.rcrwireless.com/20230209/telco-cloud/disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/02/194928210_l-scaled.jpg",
+          "width": 2560,
+          "height": 1446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-hd-map-market-2023-new-report-increasing-demand-growth-and-future-insights-forecast-to-2028.md",
       "title": "HD Map Market 2023: [New Report] Increasing Demand, Growth and Future Insights Forecast to 2028",
       "excerpt": "Feb 09, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “HD Map Market” 2023-2028",
@@ -971,135 +1109,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-driverless-cars-available-for-rides-around-the-site-of-super-bowl-57-in-glendale.md",
-      "title": "Driverless cars available for rides around the site of Super Bowl 57 in Glendale",
-      "excerpt": "One unique option: driverless cars! The alternative is growing in popularity, and also highlights the big tech industry in the Phoenix region. Action News' Christie Ileto takes us along for a ride.",
-      "sourceUrl": null,
-      "webUrl": "https://6abc.com/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
-      "originalUrl": "https://6abc.com/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12787908_020823-wpvi-self-driving-cars-super-bowl-430pm-video-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://6abc.com/amp/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
-      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
-      "publishedDateTime": "2023-02-08T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "6abc News",
-        "domain": "6abc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-waymo-provides-driverless-rides-for-super-bowl-visitors.md",
-      "title": "Waymo provides driverless rides for Super Bowl visitors",
-      "excerpt": "But there’s another option if they need a ride around Phoenix. Waymo has been offering driverless rides around the city for a few years. But thousands of people will be in town this week seeing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/",
-      "originalUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/9I89BgMQniIZb6zM7Vz5ltjHhiY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HAIM3WSFBZGXRD2TH34GE47PR4.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/?outputType=amp",
-      "publishedDateTime": "2023-02-08T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu.md",
-      "title": "Asus ROG Strix SCAR 18 redefines portable gaming with RTX 4000 series GPU",
-      "excerpt": "Hi-Res audio support ensures you hear music in the same quality it was recorded whereas Two-Way AI Noise Cancellation ... on a gaming laptop with the latest GPU in the market that gives you ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/consumer-electronics/asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu-1.1675847187461",
-      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu-1.1675847187461",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2023/02/08/-_1863040ab7b_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T19:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

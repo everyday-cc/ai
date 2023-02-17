@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-01-20-hc3-warns-healthcare-of-ais-use-in-malware-development.md",
-      "title": "HC3 Warns Healthcare of AI’s Use in Malware Development",
-      "excerpt": "In its latest brief, HC3 details how artificial intelligence (AI) can be used by threat actors to aid in malware development, forming a serious threat to healthcare cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
-      "originalUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitsecurity.com/images/sized/datasecurityGettyImages-1319188207-39a26234983c4eca9381530cb872a66d.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
-      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
-      "publishedDateTime": "2023-01-19T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Security",
-        "domain": "healthitsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-18-arrayus-technologies-awarded-funding-to-advance-focused-ultrasound-therapy-through-ai.md",
       "title": "Arrayus Technologies Awarded Funding to Advance Focused Ultrasound Therapy through AI",
       "excerpt": "CNW/ - Arrayus Technologies Inc., an innovator in focused ultrasound therapy for oncology, announced today it has been awarded funding of up to $1.9 million from INOVAIT and the Government of",
@@ -1281,6 +1238,40 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform.md",
+      "title": "Yoomi and Rutgers Partner to Improve Physical Therapy Adherence Through Digital Health Platform",
+      "excerpt": "Yoomi, a digital health company focused on improving the standard of care in physical therapy, announced today it is partnering with Rutgers Robert Wood Johnson Medical School to explore how technology can mobilize patients effectively in physical therapy programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

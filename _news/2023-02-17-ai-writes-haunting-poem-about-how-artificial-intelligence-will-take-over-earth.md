@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-17T06:37:00Z
 originalUrl: "https://www.tweaktown.com/news/90391/ai-writes-haunting-poem-about-how-artificial-intelligence-will-take-over-earth/index.html"
 webUrl: "https://www.tweaktown.com/news/90391/ai-writes-haunting-poem-about-how-artificial-intelligence-will-take-over-earth/index.html"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.tweaktown.com/news/9/0/90391_66_microsofts-ai-bing-chat-writes-haunting-poem-about-how-will-take-over-earth.jpg"
@@ -23,6 +24,6 @@ images:
     height: 412
     isCached: true
 
-secured: "wtrlxzWjcy9kdw2UC8rfCngmCbAYaf51G5M7aghW9SgMz/U/BJDOWkZyB9oDBgFx6LXDUcqgw7VPpllVnEn1WfUl4FsvgdzPWI3aJYAjNFf/+FZjgh8C/lDJerK6mysKOM77t2NIWESjuwcJcFVRtP7Da6r0CVq+ZRzjjSqkcQYisPHOblsFkXbHpHywZ6FcDAZ3pT+b2yAtz/4XxSquA3DcRi2x1KVp7tgah1kBaiYyIyjSGwK6gBEyaYEGncPsrl+GMmccGXGxkd0m0kHrUV3s/dNUN4fwoD69AukfQuitG28m+O5qv+IyYOA9K3j6f/Kkg2eU/bchzVEdBwAZYfaoyE6y4sYmFEipE1og5zY=;olUwrRmwSiRkVjowZDcMqg=="
+secured: "3THkR+I4TsNlv2rhy2ROPw0Qd+/wJLkUleWGJhi5jK8XjFdyRpGAvSJz78feGJt2cizRKFKpDEK1QcmuLQ7DzNHhO6GEkWGk931VXB7nocZ24+XjHY9P8Jcne1ft/GZVGTNWkv8uSJ85V1A5SbqDOvjzpYla+ERWOTAaeL1vr0DJdu6EJcznvHkjTw/117ZwkqfgvFnXFd5yMfRwOP7UJRVMLzCMH6mGuuRG8hs6kUm8fq0MLMEG42YjjlVQG2hgsVgzakmhZ7cKBoa/9Gwnc8uVOONOUNNiiPNNd4iLzPe1+Ka1cSXWx1LOlzx3fg/OceHkIuwde+F+eJZT6Vv9AlBY0J/Tm0qcgZ1eo4xfNVijPVchW1laKEuJhD+uKiEoAb95PJlMYfYt/8NvzMMgR1dpi3tLsxIJqQQGou0CBd8s5x84Rb5s/hOjU+0UGHAZNZUL/qkOT/UWnC3OndShz4oxFoe0nwZyi9b22SHuwlQfNJcF26Y9z/FFxLymeDxs9Ip8ZwFeyPzBE8uzIJWzcQ==;UN9G4hRBg10NQgJPUayo7g=="
 ---
 

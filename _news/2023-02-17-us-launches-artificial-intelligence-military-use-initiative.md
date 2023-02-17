@@ -3,22 +3,22 @@ category: news
 title: "US launches artificial intelligence military use initiative"
 excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
 publishedDateTime: 2023-02-16T16:14:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
-webUrl: "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
+originalUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: ABC
   domain: abcnews.go.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. launches artificial intelligence military use initiative"
-    excerpt: "The United States launched an initiative Thursday promoting international cooperation on the responsible use of artificial intelligence and autonomous ... With the possibility of more self-driving cars sharing the roads with non-automated vehicles ..."
-    publishedDateTime: 2023-02-16T15:23:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/u-s-launches-artificial-intelligence-military-use-initiative-1.6276651"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/2/16/1_6276651.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/2/16/1_6276651.amp.html"
+  - title: "Biden administration backs curbs on military artificial intelligence uses"
+    excerpt: "The Biden administration on Thursday announced a proposed arms control agreement to limit the use of artificial intelligence and autonomy for the world’s military forces and weapons systems."
+    publishedDateTime: 2023-02-16T23:13:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/feb/16/biden-administration-backs-curbs-military-artifici/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2023/feb/16/biden-administration-backs-curbs-military-artifici/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/feb/16/biden-administration-backs-curbs-military-artifici/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 61
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 58
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/1/3/1_6215439.jpg"
-        width: 1020
-        height: 574
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/05/iran_persian_gulf_tensions_75265_c0-77-2500-1535_s1200x700.jpg?002b885fbb8b82d30101467d1fa9c19b37f293f2"
+        width: 1200
+        height: 700
         isCached: true
   - title: "US Woos Other Nations for Military-AI Ethics Pact"
     excerpt: "The U.S. will spell out ethics, principles, and practices for the use of artificial intelligence in military contexts in a new declaration Thursday, with the hope of adding cosigners from around the world. The announcement is intended to highlight a ..."
@@ -57,6 +57,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries."
+    publishedDateTime: 2023-02-16T15:03:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "US Looking to Build Alliances for Responsible Military AI Use"
     excerpt: "State Department and Pentagon officials hope to illuminate a contrast between the United States and China on AI"
     publishedDateTime: 2023-02-16T14:00:00Z
@@ -67,6 +78,6 @@ related:
       domain: defenseone.com
     quality: 19
 
-secured: "p8b7do7kJhe8s6K348t5Rub5SuLmhev28NlRD2ed7F9RkXKtC6fMnJJgd8IYMLtX+z1doS/WqZQzmpOBQ/VsvZ+bW16zrrj7TECWluMXmMtWWy15iaNy401jefBzZJFPYztkH2d5/xc7WNO3NKBzadDTEKjxe5jbcaFqyvu4j9fyDn/fLPIQtPeoPyrj87mWzaqtsRnvP4Yky3Wf3Jn9u9En8Y8meXCgUmmpkuhywdfrmbXcwSBynzEMB6ag2Yri6NFrbwreEJTZ6emDZJB0FFyrqI/DgiNK7z74gRMFghuJ9YBgPlTbh9MXotK06Q7jLJPlHk7El8sGgcXnDmWYzfu4+1540/C0zUaxYhyscWZ7+ajH4aoZPa1HuoEh/CpeZyaouXrGFKHXT+iu7RMuq0JWtFnMNosjvpq8qD5d0OYXk1DPzu5Wvzw78V3PYY5FlzdZeRQl/Ixl6ZWq4i69VKFDXsDCSO36r2qxrVH5rcXvkmAgJUjOlPgYfcpwS/gc+jswsAB6yTITs/hNXx6JYg==;N7XMitXQjnKLP/uxcZYB+w=="
+secured: "1W76MaE2gVPTG++6BDbGsgQP9xfSPwDu0257gfliKVDiLLjMRPciVC6uccgClh4EaxrkzVhfJFQgTydtwIiAGnlb0fhqp8UWk7zLwi281tv5OWEr3g5mS5/Hp1n5El1+yLb1vQDoRGjzVrhChf863yHThokpyBbY3E2RbD30MMxVDMdWncs2obBRUBMYIedsPdgOTLaYAL4IosuRLWLnaF2USBPVEXZYRvCU79cStEw6NuTfZKBobpdt70Ok8Qai3iVf8CaiQXIBhwIpNoPwdNJYhwNaxbNKpUOU2fuxmDUyiDmcALG0yaob2pSiHwxHHQnjGpNp1R5XqQnbHmLzSijExrEbPw5hSxE1hevs/c0=;syTfAbtpPUGe5p566Krj2Q=="
 ---
 
