@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-16T15:54:00Z
 originalUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-in-fintech-market-trend-2023-2028-updated-report-with-116-pages-2023-02-16"
 webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-in-fintech-market-trend-2023-2028-updated-report-with-116-pages-2023-02-16"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

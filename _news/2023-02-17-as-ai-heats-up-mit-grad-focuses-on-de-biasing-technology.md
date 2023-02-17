@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T13:06:00Z
 originalUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2023/02/17/themis-ai-debiasing-ethical.html"
 webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2023/02/17/themis-ai-debiasing-ethical.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Business Journals

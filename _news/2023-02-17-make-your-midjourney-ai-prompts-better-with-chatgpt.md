@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "Bolster Your Job Search Endeavors Via Generative AI ChatGPT, Abiding By AI Ethics And AI Law Provisions"
+    excerpt: "Few seem to realize that they can prudently use generative AI such as ChatGPT to aid in their job searches. It is easy, if you know what to do and what to watch out for. Read this to find out."
+    publishedDateTime: 2023-02-17T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/17/bolster-your-job-search-endeavors-via-generative-ai-chatgpt-abiding-by-ai-ethics-and-ai-law-provisions/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
   - title: "How enterprises can use ChatGPT and GPT-3"
     excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
     publishedDateTime: 2023-02-14T12:43:00Z

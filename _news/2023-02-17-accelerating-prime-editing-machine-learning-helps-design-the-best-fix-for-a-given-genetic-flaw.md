@@ -35,6 +35,20 @@ related:
         width: 1915
         height: 1920
         isCached: true
+  - title: "Prime Editing and Machine Learning Aid Researchers in Determining the Best Fix for Genetic Flaws"
+    excerpt: "These data were then used to train a machine learning algorithm to help researchers design the best fix for a given genetic flaw, which promises to speed up efforts to bring prime editing into the clinic. Components of prime editing [Ldinatto/Wiki Commons ..."
+    publishedDateTime: 2023-02-17T13:05:00Z
+    webUrl: "https://www.genengnews.com/topics/omics/prime-editing-and-machine-learning-aid-researchers-in-determining-the-best-fix-for-genetic-flaws/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 41
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2023/02/GettyImages-1393593249-scaled.jpg"
+        width: 2560
+        height: 1549
+        isCached: true
 
 secured: "3eG1JR/qvUPt88Z6MboYr0o1lVI95NCWmKnWz5L+rtB+Qs3640Wl+Rt4hDiY9Bat3KhS/4EhqP+ANRbWQPqd864cYHlrKx1GdqmGPnCpi1iojHRnX/6Pw4uxiBIdor4kbroh35vnqmTHVGdydW8IE+mp2lnpc/e4KIAvAZV5KkU8FPewyHUkbOrvMV8DBeH02tjHB9E3k1SMl2zfVngetczSPKDR4oc1hXSi5WdY+iW7Wkm/LzxUaoFbECdbiJ3Nz9cLEMNlO0u7E6ETx37Wm8WOiQ81Uk9r+6gmlnx1U4MFb6u0BJZe0PLXM2uJaF5KPEyG9lFA8+WckYnEa0xsTYvADp7EU4V5TDyay2zza8s=;RmMWFdMlx2R5pGtxaG6CJA=="
 ---

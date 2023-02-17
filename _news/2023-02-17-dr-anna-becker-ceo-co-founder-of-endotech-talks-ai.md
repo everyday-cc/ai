@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T13:01:00Z
 originalUrl: "https://fintechmagazine.com/financial-services-finserv/dr-anna-becker-ceo-co-founder-of-endotech-talks-ai"
 webUrl: "https://fintechmagazine.com/financial-services-finserv/dr-anna-becker-ceo-co-founder-of-endotech-talks-ai"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: fintechmagazine

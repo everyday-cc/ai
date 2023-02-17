@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Exclusive: South Korea Aims To Join AI Race As Startup Rebellions Launches New Chip"
-    excerpt: "AI chip startup Rebellions co-founder and chief executive Park Sunghyun shows off an printed circuit board including the latest ATOM chip at the company headquarters in Seongnam, South Korea ..."
-    publishedDateTime: 2023-02-12T23:46:00Z
-    webUrl: "https://www.ibtimes.com/exclusive-south-korea-aims-join-ai-race-startup-rebellions-launches-new-chip-3667046"
-    ampWebUrl: "https://www.ibtimes.com/exclusive-south-korea-aims-join-ai-race-startup-rebellions-launches-new-chip-3667046?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/exclusive-south-korea-aims-join-ai-race-startup-rebellions-launches-new-chip-3667046?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 68
-    images:
-      - url: "https://d.ibtimes.com/en/full/4418939/ai-chip-startup-rebellions-seongnam.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "vPdjgYTJdny3ox6TmaVxqV7fZA6svRRahC+6avuJRVHW+pkZqLIT2nTmx0NdzWR8Hnp2LBhT/U/p3fdCHly45+1O/pC+jWL8MBvu5nLBNs32dMrRLjRAWJ7HrxKYXFvLM5YXkPXOaBabIvtfgNZRa+KFBDp9nRO3JLF4IT+jd+ydghqqkJjWNFprfBOvcdb5Z/3DyndUqVMSU17DrYM3GeaqX+scYDhAvS5AHYZ+zwtbJTjmf8MWn+P+8RCalBCSFdx2MSUvxVfoee2TD1EzckTn/BJFpMuqFYtxLeMtan04akgwg6E1Db4+S1P3SW6J4XDkjag82NgZvUTRKk1Hrql2USHd3meQ2OBZ44e/fkc=;7KNDQAvH3I/0CXnSdpQ4lA=="
 ---

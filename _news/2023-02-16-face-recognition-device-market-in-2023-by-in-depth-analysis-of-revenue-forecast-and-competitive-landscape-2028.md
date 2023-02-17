@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Software Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- \"Computer Vision Software Market\" Report covers specified competitive outlook consisting of the market proportion and company profiles of ..."
+    publishedDateTime: 2023-02-13T12:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A Closer Look at the Machine Learning in Communication Market (2023 to 2029)-Opportunities and Challenges"
     excerpt: "Machine Learning in Communication Market Size 2023-2029 | New Report (113 Pages) | In This Reports Machine Learning"
     publishedDateTime: 2023-02-15T05:11:00Z
@@ -80,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Social Media Market 2023 Top Companies, Industry Outlook | In-depth Analysis Business Opportunities and Demand to 2029"
+    excerpt: "The major players covered in the AI in Social Media market report are: North America is expected to have the largest market size in the AI in social media market, while APAC is expected to grow at the highest CAGR during the forecast period."
+    publishedDateTime: 2023-02-16T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2023-top-companies-industry-outlook-in-depth-analysis-business-opportunities-and-demand-to-2029-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,6 +127,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in the Telecommunication Market Insights-Industry changing aspects, New Technologies and Forecast to 2028"
+    excerpt: "Artificial Intelligence in the Telecommunication Market Size 2023-2028 | New Report (79 Pages) | In This Reports"
+    publishedDateTime: 2023-02-16T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Communication Market Demand To Be Driven By Technological Advancements In The Forecast Period Of 2023-2029"
+    excerpt: "Feb (The Expresswire) -- \"Machine Learning in Communication Market\" Report covers specified competitive outlook consisting of the market"
+    publishedDateTime: 2023-02-17T02:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-demand-to-be-driven-by-technological-advancements-in-the-forecast-period-of-2023-2029-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
   - title: "Automatic Speech Recognition (ASR) Software Market Size and Trends [2023-2029] | Grow Rate, Top Countries Data | Expert Report by Absolute Reports"
     excerpt: "Global “Automatic Speech Recognition (ASR) Software Market” research gives data of drive consolidations and securing procedures to grow market share and size for forecast period of 2023-2029. Report additionally furnishing industrial business with ..."
     publishedDateTime: 2023-02-16T18:25:00Z

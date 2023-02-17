@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Size Global Research Report, 2023 - 2028"
+    excerpt: "Top “ Artificial Intelligence in Drug Discovery Market ” Size 2023 Key players Profiled in the Report are [, IBM, Microsoft, Google, NVIDIA Corporation, Atomwise, Inc., Deep Genomics, Cloud Pharmaceuticals,"
+    publishedDateTime: 2023-02-17T14:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-global-research-report-2023---2028-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

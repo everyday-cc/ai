@@ -33,6 +33,15 @@ related:
         width: 400
         height: 238
         isCached: true
+  - title: "DeepBrain AI Joins the AWS Partner Network"
+    excerpt: "DeepBrain AI plans to actively expand its footprint to global market by working with a leading cloud services provider. PALO ALTO, Calif., /PRNewswire/ -- DeepBrain AI, a deep-learning based video synthesis startup company,"
+    publishedDateTime: 2023-02-17T16:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/02/17/9762609.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "fNbfvQWzOS1QLo0JY72bllo/g2On5910knrr5p5G4ObT1LI5js5VajWq3XyblJmZZCswXIDiVbIUz5TQjsx32tOGy9cpOJpzEMQFXQv7ywq6lEWpylMpjjZiJVRbl+wK7uf7NJmV+UzUSGAQ8F+9vE/sJUlk26wojAHJvYvzNfUm1f0hmrUxAcFS1GhLcpqmojjoYXcZuHQO3a4x/9vpCz5yvR8tn0Nq3ZK92Oubu4IMyNxC4jOjuhT+gXlGuyUzdsQ32sTcZrWSbHf0t+Uv6szeV0/5XT1ZhwPn5QJ2e2OTT/5ykAWUl0apaIzDnH/NY7E7ISF9KexQpXH+f1xStj1e/D9PUtVj+QbHNdSpDs0iqpDIbqQnm9r7tfxZ9qHoB+rZxZINOoZdFbPQXn+W6hUZyjEaGYecR2zmJ4d7SaowN43grZ7q0rmpblsa1wx5+GC4oti9mvPs87eL7naKRzRl9vZ9Ak4X8ePxAPyg/x7DEuUdhEn4afT9LEkjC4TxDoBOtsqJHfmZXmVtuWZmeg==;aVJRjL7cwKdACFCEfqSgGg=="
 ---

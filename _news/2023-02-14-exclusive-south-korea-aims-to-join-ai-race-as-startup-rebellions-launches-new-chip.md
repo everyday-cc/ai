@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/skorea-aims-join-ai-race-startu
 webUrl: "https://www.reuters.com/technology/skorea-aims-join-ai-race-startup-rebellions-launches-new-chip-2023-02-12/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
     quality: 74
     images:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/27/11/circuit-board_silhouette_with_mind_gears_machine_learning_artificial_intelligence_automation_by_thinkstock_1200x800-100819410-large-100930676-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Exclusive: South Korea Aims To Join AI Race As Startup Rebellions Launches New Chip"
-    excerpt: "AI chip startup Rebellions co-founder and chief executive Park Sunghyun shows off an printed circuit board including the latest ATOM chip at the company headquarters in Seongnam, South Korea ..."
-    publishedDateTime: 2023-02-12T23:46:00Z
-    webUrl: "https://www.ibtimes.com/exclusive-south-korea-aims-join-ai-race-startup-rebellions-launches-new-chip-3667046"
-    ampWebUrl: "https://www.ibtimes.com/exclusive-south-korea-aims-join-ai-race-startup-rebellions-launches-new-chip-3667046?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/exclusive-south-korea-aims-join-ai-race-startup-rebellions-launches-new-chip-3667046?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 68
-    images:
-      - url: "https://d.ibtimes.com/en/full/4418939/ai-chip-startup-rebellions-seongnam.jpg"
         width: 1200
         height: 800
         isCached: true

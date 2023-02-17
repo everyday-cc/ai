@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T13:15:00Z
 originalUrl: "https://www.bizjournals.com/sanjose/news/2023/02/17/arm-ceo-rene-haas-thinks-it-will-benefit-from-ai.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2023/02/17/arm-ceo-rene-haas-thinks-it-will-benefit-from-ai.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Business Journals

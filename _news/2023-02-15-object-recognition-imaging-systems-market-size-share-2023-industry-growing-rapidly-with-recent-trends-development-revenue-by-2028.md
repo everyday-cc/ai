@@ -29,34 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market 2023 | Proven Strategies for Significant Growth in Global Industry till 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- The Computer Vision Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Hardware, Software ..."
-    publishedDateTime: 2023-02-13T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13"
+  - title: "Artificial Intelligence in Education Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
+    excerpt: "Complete Overview of the Global Artificial Intelligence in Education Market: - Providing a complete overview of the global Artificial Intelligence in Education market is a complex task, as there are many different markets and industries around the world."
+    publishedDateTime: 2023-02-17T14:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-360-market-updates-reports-development-expenditure-and-financial-insights-2028-2023-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition in Retail Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
-    excerpt: "Facial Recognition, Object Recognition, Others]that held the largest Image Recognition in Retail market share In 2022. Short Description About Image Recognition in Retail Market: The Global Image Recognition in Retail market is anticipated to rise at a ..."
-    publishedDateTime: 2023-02-16T01:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15"
+  - title: "In-Car Speech Recognition Market by 360 Market Updates Reports Development Expenditure and Financial Insights 2026"
+    excerpt: "Complete Overview of the Global In-Car Speech Recognition Market: - Providing a complete overview of the global In-Car Speech Recognition market is a complex task, as there are many different markets and industries around the world."
+    publishedDateTime: 2023-02-16T16:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/in-car-speech-recognition-market-by-360-market-updates-reports-development-expenditure-and-financial-insights-2026-2023-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 27
 
 secured: "+aFoIKhkJpVraf4/TOIaUa5p4x9xixSPEZrWX5D/O2KwICcY/lMM6iDdT5yRwGcXrrDOGafLXaV+tr7v88Y1FIrW9QH8v3t6RKoATcFyi/pOQaoRLCTGOx6GjPGe05XIBOCclODqkCdFWIP/xejdkCTeAzbW0KeCbEIOsxCTfkoJf/Ie+7c1p60pzuPf5guaX00DVzwF58XliQOHrBNEaV+ap8mSNW06YtvPkEVETzklVSNQV/6EfmgHty5ixyQuQRR5Zdl5KHn5IdMbWM+Eg3bxW12bLpi8FRSOEPqVU6idVeV18AjkeLcsFLuHsiMacHtMhVJb+6G7L67OLt8Lndh0t/AHuhur89TLd1kbnKc=;WRN7J5+A/VzF0Bm7nWOPdg=="
 ---

@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon AI researcher joins clinical documentation startup"
-    excerpt: "Zachary Lipton, PhD, research scientist at Amazon AI, was named chief scientific officer of artificial intelligence-powered medical documentation company Abridge."
-    publishedDateTime: 2023-02-14T19:10:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/amazon-ai-researcher-joins-clinical-documentation-startup.html"
+  - title: "Consumer Apps Are Using This Startup To Power Their Audio AI"
+    excerpt: "AI has been the centerpiece of conversation around technology as we’ve entered a new year. There’s lots of buzz and hype around the space and where the industry is headed."
+    publishedDateTime: 2023-02-17T14:02:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/amp/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Medtech starts cutting jobs, Amazon AI researcher jumps to startup, & predicting newborn illness"
-    excerpt: "In the latest edition of STAT Health Tech: layoffs hit medical device companies, an Amazon AI researcher jumps to a startup, and a new model predicts newborn illnesses."
-    publishedDateTime: 2023-02-16T17:52:00Z
-    webUrl: "https://www.statnews.com/2023/02/16/medical-device-layoffs-health-tech/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 24
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/04/AdobeStock_198832173-1024x576.jpeg"
-        width: 1024
-        height: 576
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63e259c919d9f74be1414461/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 388
         isCached: true
 
 secured: "uFDrrKgNA0AxKTRPSnFDyoqMSfW80jTnSLNmc97bU3NKwTCR0zAJD5YJGnC5KFISieiAFERaOIOgKeNbV1n6BQ6oS4vlftSxxM3kytUgREql3/DKXzB+LUTOCJkp5zTxqHV+AKYX7LlUkIMScD2b49ikWOFJ/NM/mY8S/qHpIS6xF9DKT3uCiwFX33Py587FDooXXZPp/o6nkoguLKB58eZWOa1276i87to1xtEL15YDYYxH2pcKXZDxuM4BM6tU41ugvYW/5GM3sJE3A8zgC0XQsCv4UjuXPL4Pgsgj3ANed7o/41E2a0JDalyGhhDt98CFiS9N+ymhynPr/QHmTPAeClE/YTPcaYFBiPAosuuMPhfL+vSBuRvsGHxa1Zp6DOLftDLBQ23OomebQK+YYBdRqyIMM80nq1hVjVz6Cn7n5vrUwVym8/EMshWKbKZUPyH1FfjSZLbZbBUB/gTZlvK1/QmKZH8/ORLan7LwCM3UN0LmvOSGlG+BvNcQpyPZrMJBXNsHbAVknCpSTVG++Q==;wQ3uCSPhV5NGpEHnyJltyA=="

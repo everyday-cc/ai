@@ -41,15 +41,6 @@ related:
         width: 699
         height: 499
         isCached: true
-  - title: "Efficient technique improves machine-learning models’ reliability"
-    excerpt: "Powerful machine-learning models are being used to help people tackle tough problems such as identifying disease in medical images or detecting road obstacles for autonomous vehicles. But machine-learning models can make mistakes, so in high-stakes ..."
-    publishedDateTime: 2023-02-13T00:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/979607"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "29XiXMDaXNM16oVqFsPa9j/AObzyBUYkZayM/BdWapMbQKMLBanTAHh7t8uCWLl3P9U277dvfkwBCtpokw/PZELZaCU7mJpMQjrDGIfKV/oULjehcNcQAXuvo1JT+Hhf6wGyq/lAWB/L+DppF4Ywpto3MLqKYLF0pI0D/vdVxegIV6vCLMRjGWUccVvsB3tjN7yr1ZxiTQLUy6SHwXof05ypYQa9zkkPgbUgm7xSSiFIB21afyAkLq928KjIOoWO+HMIGOE/l4ryn945pB+ljdhq1BGOpL69MabkS4ln9LecCGrOG+kQ+LzzbL8sfmuJEsQjgu8ppbK7cQGUi0rYD0tGZEt/2AQNWx+LWEX8agUw9x7zC3kA811+0NCsJ863TXbSgdkNv9fIO2MlEDFMv6XsHJeFxs6pmg8qExL1YKxsN6pqKXzTSE2/ConmzpTJsZREUbpiio+aWWVdWrf0qGyBfskmeOvod3VfLVy7w1aGX/MxUr0TmPCX6FDqhFkS+9/JW0k1cYEnrY94gRisVA==;qtlXB0+PUW4Wcu1rqMVImg=="
 ---

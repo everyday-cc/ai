@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How will AI change mathematics? Rise of chatbots highlights discussion"
+    excerpt: "Machine learning tools already help mathematicians to formulate new theories and solve tough problems. But they’re set to shake up the field even more."
+    publishedDateTime: 2023-02-17T15:41:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-00487-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 71
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00487-2/d41586-023-00487-2_24034960.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "You.com thinks the future of AI chatbots is (gasp) images"
     excerpt: "You.com's futuristic YouChat 2.0 AI chatbot has migrated to adding charts, graphs, code, and more inside of its AI-powered search engine."
     publishedDateTime: 2023-02-16T09:45:00Z
@@ -102,6 +116,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/02/14/mathew-schwartz-c5stal8lqyo-unsplash.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "No, the AI chatbots (still) aren’t sentient"
+    excerpt: "Experts say that personification and projections of sentience on Microsoft and Google chatbots distract from the real issues."
+    publishedDateTime: 2023-02-17T16:30:00Z
+    webUrl: "https://www.popsci.com/technology/chatgpt-google-chatbot-sentient/"
+    ampWebUrl: "https://www.popsci.com/technology/chatgpt-google-chatbot-sentient/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/chatgpt-google-chatbot-sentient/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/02/17/chatbots-alive.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "‘I want to destroy whatever I want’: Bing’s AI chatbot unsettles US reporter"
     excerpt: "But a two-hour conversation between a reporter and a chatbot has revealed an unsettling side to one of the most widely lauded systems – and raised new concerns about what AI is actually capable of. It came about after the New York Times technology ..."
@@ -146,6 +176,20 @@ related:
       - url: "https://images.axios.com/HUP8vVz8mYQ2srpHH9XbuAuvOZI=/0x0:1920x1080/1366x768/2023/02/16/1676562747786.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "How AI chatbots in search engines will completely change the internet"
+    excerpt: "The progress of artificial intelligence models over the past few years has been faster than almost anyone expected. Some advances have left society scrabbling to adapt. Teachers are struggling to stop students using chatbots to write their essays, artists ..."
+    publishedDateTime: 2023-02-17T14:49:00Z
+    webUrl: "https://www.newscientist.com/article/2360135-how-ai-chatbots-in-search-engines-will-completely-change-the-internet/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/02/17133154/SEI_144311959.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "From chatbots to facial recognition, here's how AI impacts your daily life"
     excerpt: "Artificial intelligence has changed many aspects of our lives already, but how, where, and should you be worried? Let's find out."

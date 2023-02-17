@@ -233,22 +233,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla recalls 362,000 US vehicles over Full Self-Driving software"
-    excerpt: "Tesla Inc will recall more than 362,000 US vehicles to update its Full Self-Driving (FSD) Beta software after US regulators said the driver assistance system did not adequately adhere to traffic safety laws and could cause crashes."
-    publishedDateTime: 2023-02-17T04:45:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/articleshow/97999878.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/amp_articleshow/97999878.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/amp_articleshow/97999878.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-97999878,imgsize-39750,width-800/97999878.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Tesla Recalls Cars Over Full Self-Driving Flaw"
     excerpt: "Tesla is recalling 362,758 cars, according to the National Highway Traffic Safety Administration, over its Full Self-Driving Beta, which may have trouble navigating intersections. Unlike many recalls."
     publishedDateTime: 2023-02-16T22:33:00Z
@@ -282,20 +266,20 @@ related:
         height: 558
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
-    excerpt: "DETROIT (AP) — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits. The recall, part of part of ..."
-    publishedDateTime: 2023-02-17T11:03:00Z
-    webUrl: "https://www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html"
-    ampWebUrl: "https://www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html?outputType=amp"
+    excerpt: "DETROIT — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits. The recall, part of part of a ..."
+    publishedDateTime: 2023-02-17T14:51:00Z
+    webUrl: "https://www.tampabay.com/news/business/2023/02/17/tesla-recalls-full-self-driving-fix-unsafe-actions/"
+    ampWebUrl: "https://www.tampabay.com/news/business/2023/02/17/tesla-recalls-full-self-driving-fix-unsafe-actions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/02/17/tesla-recalls-full-self-driving-fix-unsafe-actions/?outputType=amp"
     type: article
     provider:
-      name: syracuse.com
-      domain: syracuse.com
+      name: Tampa Bay Times
+      domain: tampabay.com
     quality: 59
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S5VDBOEHUNHI5LK4H57YNWPXWE.jpeg"
-        width: 5472
-        height: 3648
+      - url: "https://www.tampabay.com/resizer/YtBp89HoFmqiK65kDMjcT0SyFUU=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/7SOQ4BN4UMDPTYCQ6JZHJMYE5A.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' system"
     excerpt: "DETROIT - Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U."
@@ -437,6 +421,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
+    excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."
+    publishedDateTime: 2023-02-16T17:02:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/tesla-recalls-362000-us-vehicles-over-full-self-driving-software-2023-02-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "Tesla Recalls 362,758 Cars Due to Full Self-Driving Crash Risk"
     excerpt: "Tesla Inc. is recalling more than 362,758 vehicles due to a crash risk associated with its so-called Full Self-Driving Beta software, according to US authorities. The system “may allow the vehicle to act unsafe around intersections,” including ..."
     publishedDateTime: 2023-02-16T17:54:00Z
@@ -462,6 +455,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tesla recalls 362,758 EVs, says self-driving software ‘may cause’ crashes"
+    excerpt: "Tesla Inc. on Thursday launched a recall of 362,758 vehicles in connection with the EV maker’s self-driving software, saying it can increase the risk of crashes. Tesla TSLA, -0.39% stock turned lower on the news,"
+    publishedDateTime: 2023-02-17T12:16:00Z
+    webUrl: "https://www.marketwatch.com/story/tesla-stock-turns-lower-after-recall-news-ce50a45a"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
   - title: "Tesla Recalls 362,758 Cars Over Potentially Dangerous Full Self-Driving Update"
     excerpt: "Tesla's latest FSD software update may cause vehicles drive through yellow lights, not obey stop signs, and proceed straight when in a turn-only lane, increasing the risk of a crash."
     publishedDateTime: 2023-02-16T20:54:00Z
@@ -485,6 +487,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Tesla Recalls Roughly 362,800 Vehicles Equipped With ‘Full Self-Driving’ Beta Over Crash Risk"
+    excerpt: "Tesla Inc. is recalling 362,800 vehicles equipped with its high-profile advanced-driver assistance feature, a technology marketed as Full Self-Driving Beta, in response to regulatory pressure, the U.S. top car-safety agency said. In a notice published ..."
+    publishedDateTime: 2023-02-17T12:13:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-recalls-roughly-362-800-vehicles-to-fix-full-self-driving-beta-software-487eb6?mod=business_lead_pos12"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 38
   - title: "Super Bowl ad calls for NHTSA to ban Tesla Full-Self Driving"
     excerpt: "Tesla has come under fire again for its controversially named Full Self-Driving driver-assist feature, this time in an ad that aired on Sunday in Washington, D.C., as well as in a number of state capitals during Super Bowl LVII. The spot shows a number of ..."
     publishedDateTime: 2023-02-13T19:26:00Z

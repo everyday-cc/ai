@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘This is the moment’: Why an Amazon AI researcher is jumping to a medical scribe startup"
-    excerpt: "As companies seek a technological solution to physician burnout, competitors to Nuance’s DAX have been popping up: Suki, Augmedix, and DeepScribe, to name a few. These companies use artificial intelligence to listen to patient-provider conversations and ..."
-    publishedDateTime: 2023-02-15T09:40:00Z
-    webUrl: "https://www.statnews.com/2023/02/15/amazon-abridge-artificial-intelligence-zachary-lipton/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 28
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/02/Zack_Lipton_website-1-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Medtech starts cutting jobs, Amazon AI researcher jumps to startup, & predicting newborn illness"
     excerpt: "In the latest edition of STAT Health Tech: layoffs hit medical device companies, an Amazon AI researcher jumps to a startup, and a new model predicts newborn illnesses."
     publishedDateTime: 2023-02-16T17:52:00Z

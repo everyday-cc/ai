@@ -29,29 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Top Healthcare AI Companies (Koninklijke Philips N.V, NVIDIA Corporation, General Vision, Next IT Corp, CloudMedx Inc, IBM Watson Health, GENERAL ELECTRIC, Stryker, DEEP GENOMICS, Intel Corporation, Google, Microsoft Corporation) with the best facts and ..."
-    publishedDateTime: 2023-02-15T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15"
+  - title: "2023 Machine Learning Chip Market: Maximize Growth Potential and Increasing Demand Forecast to 2029"
+    excerpt: "The “Machine Learning Chip Market” Research Report 2023-2029 | Latest 111 Pages Report | It throws light on competitive"
+    publishedDateTime: 2023-02-17T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market 2023 : Global Industry Share, Key Dynamics and Forecast to 2028"
-    excerpt: "Machine Learning as a Service (MLaaS) Market Size is projected to Reach Multimillion ... as well as end-users.Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc."
-    publishedDateTime: 2023-02-14T15:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-global-industry-share-key-dynamics-and-forecast-to-2028-2023-02-14"
+  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market 2023-2029 With Highly Productive Segment To Expand Outstandingly"
+    excerpt: "Artificial Intelligence and Robotics in Aerospace and Defense Market Size 2023-2029 | New Report (114 Pages) | In"
+    publishedDateTime: 2023-02-14T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2023-2029-with-highly-productive-segment-to-expand-outstandingly-2023-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning & Big Data Analytics Education Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029"
+    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023-2029 | New Report (115 Pages) | In This Reports"
+    publishedDateTime: 2023-02-14T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A Closer Look at the Machine Learning in Communication Market (2023 to 2029)-Opportunities and Challenges"
+    excerpt: "Machine Learning in Communication Market Size 2023-2029 | New Report (113 Pages) | In This Reports Machine Learning"
+    publishedDateTime: 2023-02-15T05:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-closer-look-at-the-machine-learning-in-communication-market-2023-to-2029-opportunities-and-challenges-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market In 2023 By In-depth Analysis of Revenue Forecast and Competitive Landscape 2028"
+    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-16T02:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-in-2023-by-in-depth-analysis-of-revenue-forecast-and-competitive-landscape-2028-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self Driving Agricultural Machinery Market 2023: An In-Depth Analysis of the Fastest Growing Regions and Business Outlook By 2028"
+    excerpt: "Modern Research - “Self Driving Agricultural Machinery Market” Forecast by Growth, Size and Share 2023-2028 Self"
+    publishedDateTime: 2023-02-13T05:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-agricultural-machinery-market-2023-an-in-depth-analysis-of-the-fastest-growing-regions-and-business-outlook-by-2028-2023-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Telecommunication Market Insights-Industry changing aspects, New Technologies and Forecast to 2028"
     excerpt: "Artificial Intelligence in the Telecommunication Market Size 2023-2028 | New Report (79 Pages) | In This Reports"
     publishedDateTime: 2023-02-16T04:47:00Z
@@ -85,6 +141,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Communication Market Demand To Be Driven By Technological Advancements In The Forecast Period Of 2023-2029"
+    excerpt: "Feb (The Expresswire) -- \"Machine Learning in Communication Market\" Report covers specified competitive outlook consisting of the market"
+    publishedDateTime: 2023-02-17T02:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-demand-to-be-driven-by-technological-advancements-in-the-forecast-period-of-2023-2029-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+  - title: "Automatic Speech Recognition (ASR) Software Market Size and Trends [2023-2029] | Grow Rate, Top Countries Data | Expert Report by Absolute Reports"
+    excerpt: "Global “Automatic Speech Recognition (ASR) Software Market” research gives data of drive consolidations and securing procedures to grow market share and size for forecast period of 2023-2029. Report additionally furnishing industrial business with ..."
+    publishedDateTime: 2023-02-16T18:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-size-and-trends-2023-2029-grow-rate-top-countries-data-expert-report-by-absolute-reports-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
 secured: "VW7VXrC9xAp25LakSQNCP/Z2bg8jqwCMuJnUI1Ef+WO5QSYXwkawvg138vrt3WOP6/IicJ4JfTZGWnloHWzZXN3MyGZ7Sy3fI9aBp0OXcbfp5vcAaJSIfAFNP7DWSvlk+FShXKNI2Bqo9TSuknGOlWU50f2Xu22pLIV9mW3pxVf64uLE1hoTuheazRsMASRhsC+mDKRGXGdBSnfa0xL62U0W5fK2sW1xXTTuYqLcQPPt4J2wMs2C/AyMhux139NJB4w8eqLXRN3n70hc7vYBd2DR//OeVgtBtN2PygmLLuJLbmluJBLMgJtBt08rAp43M+lNV+ci8ikE5xfemHKk0TnYA1ExhM+xEhVw388zWXQ=;JfzA3kyRe3y66GP0kgGeNw=="
 ---

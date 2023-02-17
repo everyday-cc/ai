@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-17T03:44:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-demand-to-be-driven-by-technological-advancements-in-the-forecast-period-of-2023-2028-2023-02-16"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-demand-to-be-driven-by-technological-advancements-in-the-forecast-period-of-2023-2028-2023-02-16"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 

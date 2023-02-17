@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T14:00:00Z
 originalUrl: "https://www.sciencenews.org/article/robot-limbs-ants-locomotion"
 webUrl: "https://www.sciencenews.org/article/robot-limbs-ants-locomotion"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Science News

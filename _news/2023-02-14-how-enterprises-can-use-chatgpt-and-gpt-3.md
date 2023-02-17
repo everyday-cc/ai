@@ -66,6 +66,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "Bolster Your Job Search Endeavors Via Generative AI ChatGPT, Abiding By AI Ethics And AI Law Provisions"
+    excerpt: "Few seem to realize that they can prudently use generative AI such as ChatGPT to aid in their job searches. It is easy, if you know what to do and what to watch out for. Read this to find out."
+    publishedDateTime: 2023-02-17T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/17/bolster-your-job-search-endeavors-via-generative-ai-chatgpt-abiding-by-ai-ethics-and-ai-law-provisions/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
   - title: "Inside the ChatGPT race in China"
     excerpt: "Maybe it was because of the holiday season, or maybe it was because ChatGPT is not currently available in China, but it took more than two months for the natural-language-processing chatbot to finally blow up in the country. (OpenAI, the company behind ..."
     publishedDateTime: 2023-02-15T11:01:00Z

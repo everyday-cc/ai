@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/art
 ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/amp/"
 type: article
-quality: 110
-heat: 110
+quality: 112
+heat: 112
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Marketing
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200"

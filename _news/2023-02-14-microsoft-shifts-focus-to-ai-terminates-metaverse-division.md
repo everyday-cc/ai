@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
+    excerpt: "The tech company said this week it is promising to make improvements to its AI-enhanced search engine after a growing number of people are reporting being disparaged by Bing. In racing the breakthrough AI technology to consumers last week ahead of rival ..."
+    publishedDateTime: 2023-02-17T15:36:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/bing-belligerent-microsoft-looks-tame-ai-chatbot-rcna71175"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna71175"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna71175"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230217-stock-solo-computer-ew-954a-6e6d27.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Microsoft Will Try to Fix Bing AI's Errors and Bizarre Chats"
     excerpt: "The company says longer chats can send Bing around the bend when it tries to reflect the tone of the human side of the conversation."
     publishedDateTime: 2023-02-16T18:23:00Z
@@ -179,6 +195,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "You can jump the waitlist for Microsoft's AI Bing chat. Here's how."
+    excerpt: "Microsoft made a big splash last week by unveiling an AI enhanced Bing. Its search site has long been the butt of jokes, with Google dominating the space, but people took notice of this new flavor of web search from Microsoft, which can do research for you ..."
+    publishedDateTime: 2023-02-17T14:13:00Z
+    webUrl: "https://mashable.com/article/ai-bing-chat-waitlist-how-to-get-access-sooner"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 84
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/00ASEooR1nZXZYIE2MknvtU/hero-image.fill.size_1200x675.v1676496650.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft is 'leading the pack' in artificial intelligence with ChatGPT and shares could jump 15%, Wedbush's Dan Ives says"
+    excerpt: "Microsoft is \"leading the pack\" in the artificial intelligence race with the company's latest AI integration into Bing, according to Wedbush's Dan Ives. In a Friday note, he maintained an outperform rating and a $280 price target on the stock but also sees ..."
+    publishedDateTime: 2023-02-17T14:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-race-microsoft-stock-outlook-google-bard-2023-2"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-race-microsoft-stock-outlook-google-bard-2023-2?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-race-microsoft-stock-outlook-google-bard-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/63ef90640b940100196f591a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
     excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
     publishedDateTime: 2023-02-15T20:38:00Z
@@ -195,22 +241,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
-    excerpt: "Microsoft’s newly revamped Bing search engine can write recipes and songs and quickly explain just about anything it can find on the internet"
-    publishedDateTime: 2023-02-16T21:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/bing-belligerent-microsoft-tame-ai-chatbot-97269000"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/bing-belligerent-microsoft-tame-ai-chatbot-97269000"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/bing-belligerent-microsoft-tame-ai-chatbot-97269000"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 74
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Microsoft now says AI-powered Bing chatbot is ‘not a replacement or substitute for the search engine’"
     excerpt: "Microsoft was clear from the start that its limited preview of the new technology ... strengths and surprising weaknesses in a lengthy exchange last week, when the AI chatbot made complex inferences and proactively conducted advanced research, while ..."
     publishedDateTime: 2023-02-16T16:18:00Z
@@ -224,20 +254,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/bing2.jpeg"
         width: 2481
         height: 1659
-        isCached: true
-  - title: "Microsoft will help the Google of China take its self-driving car platform global"
-    excerpt: "The biggest stories of the day delivered to your inbox."
-    publishedDateTime: 2023-02-13T00:01:00Z
-    webUrl: "https://mashable.com/article/baidu-microsoft-azure-self-driving-partnership"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 66
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/051FNRrNs5FSwcuuEQHxqHq/hero-image.fill.size_1200x675.v1623364472.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft’s (NASDAQ:MSFT) AI Prowess Could Distinguish Itself from Rivals"
     excerpt: "Takeaway: MSFT Looks Like a Buy I think AI could more than offset slowed growth in Microsoft’s Azure and evolve to become the reason to own Microsoft stock. Further, I believe shares can continue to deliver above-average results for investors as it ..."
@@ -309,6 +325,15 @@ related:
     provider:
       name: Dexerto.com
       domain: dexerto.com
+    quality: 34
+  - title: "Microsoft's AI chatbot is going off the rails"
+    excerpt: "The bot seems to have a bizarre, dark and combative alter-ego, a stark departure from its benign sales pitch - one that raises questions about whether it's ready for public use."
+    publishedDateTime: 2023-02-17T15:07:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2023/02/17/bing-microsoft-ai-chatbot-off-the-rails/69914851007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
     quality: 34
   - title: "People are sharing shocking responses from the new AI-powered Bing, from the chatbot declaring its love to picking fights"
     excerpt: "If you push it hard enough, Microsoft's new Bing might just snap. The search engine's new AI-powered chatbot has only been in the limelight for a week or so, and it's apparently chided users, gotten into arguments, and appeared to get confused about what ..."
