@@ -38,7 +38,7 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
         width: 992

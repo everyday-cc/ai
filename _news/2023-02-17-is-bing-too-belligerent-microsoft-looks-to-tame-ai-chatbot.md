@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
-excerpt: "File - The Microsoft Bing logo and the website's page are shown in this photo taken in New York on Tuesday, Feb. 7, 2023. Microsoft is promising to make improvements to its new ar"
-publishedDateTime: 2023-02-16T21:37:00Z
-originalUrl: "https://www.chron.com/business/article/is-bing-too-belligerent-microsoft-looks-to-tame-17789289.php"
-webUrl: "https://www.chron.com/business/article/is-bing-too-belligerent-microsoft-looks-to-tame-17789289.php"
+excerpt: "The tech company said this week it is promising to make improvements to its AI-enhanced search engine after a growing number of people are reporting being disparaged by Bing. In racing the breakthrough AI technology to consumers last week ahead of rival ..."
+publishedDateTime: 2023-02-17T04:41:00Z
+originalUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/"
+webUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/?amp=1"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/31/44/10/23478812/3/rawImage.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
 
 related:
   - title: "Microsoft explains Bing's bizarre AI chat behavior"
@@ -74,9 +70,9 @@ related:
         height: 630
         isCached: true
   - title: "The dark side of Bing’s new AI chatbot"
-    excerpt: "After asking Microsoft’s AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy. The chatbot said it “must be hard” to balance work and family and ..."
+    excerpt: "After asking Microsoft's AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy."
     publishedDateTime: 2023-02-16T19:41:00Z
-    webUrl: "https://www.cnn.com/2023/02/16/tech/bing-dark-side/index.html"
+    webUrl: "https://us.cnn.com/2023/02/16/tech/bing-dark-side"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
     type: article
@@ -311,6 +307,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "6Ffns5t3AwsOcWc3bkpneFuA5m7KdZNFPLaJZknzevbTRl7os3ZumkoNpMOYk81dhjK8XqBpg++kPx4NP84eEaiIJ4pxY/ytyOYIGG609atmsFngfUsT0e2pCKTYvw/pkjspDoBiHLNYhOjGHrAO3f1z68EYjsYSSnl0Jhito5uSpeUuojTwh/NvdKNOz3Pb2Y71XaygEmD2PZRuTzh1hHm+StxIZPUww2/+KU+/Mx6YUbMI9FyWakLDEFYeQZaJW95oURF/bru5MUZTIceQZc9Kp7HoAI+3NMCTTi0ZZn/5pcwbta9QKlavs1M48pyQg+Y6Awe2GBlNYwvj420WtfuCCEpAiGpQDpDf6xCtAJuM/HLpbh4x5vZLbLEiaO0P6KvAXECVPy5UB+yNk1VYVyIAeCu9dy9ncaBEINzTRszOmN++iRsjsUJAIR+23dpxSjQ+wcPkCGZOttnDKtXrieym3/Ps8GJ1yT6tIi4jHJRTN8ADHzWIA8trKSr0bHlDsbgO0NqN1XGkJVoRw5jUZw==;darvcdERb4t3bCMkccUb6Q=="
+secured: "Q3UbgrGR+OTGp/XrnCY7KkE9RvxQ6KPbvuLY7ThGr+HySriLXok7nnzQ8+/iQehd0kbKM3i4AWNL6wrs0w68+EMGUbtiF+UB8ktYpbvK8oH4V4U+fT64He+agh6nqVmnjyZ+unYYHpbRu/z2XYYA+eGl5dT2S6JTkzklcOLtP1EhRCOf/ccZYnuAXefsYlhOCqA6yuGqTv1VmfNe0ovU/Xm/6cIeg9Px09yMgK3oC88ATzcNeOJv83VXfaMKQCW5hUzWUi4oxcNNrJ5f7boVMKXVSKwOSH78KjgeXprNuh47gUjUu2GlRcUm2hNMJCdKQEbF6g6vO+qMvOkDHzJj0aH8q1s7DDhCx9KSeMSqLqfHMVGbMxC+0TpWJnIgfzZ7saG7TF+P+YwAut+mI7FYdKmKUlXOOpn9bSV854FJiP0sc4lLizg1Vo/E0pQC5NUtbFPC/yRbSrzCGwU687yZebLuUlut8eiLlFSXgpOwNGAFOC54027AYtw2sCzutnpOVcIZXVQlzsWBuUETrt9/qA==;t6jVmSDZROZIzdzr5ZvQuw=="
 ---
 

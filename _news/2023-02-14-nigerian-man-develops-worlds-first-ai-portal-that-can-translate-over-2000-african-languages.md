@@ -57,6 +57,20 @@ related:
         width: 753
         height: 435
         isCached: true
+  - title: "Toolformer: The Language Model by Meta That Can Teach Itself To Use External Tools"
+    excerpt: "Toolformer can use APIs to access information from a variety of external software tools, including language translators"
+    publishedDateTime: 2023-02-17T06:26:00Z
+    webUrl: "https://www.gizmochina.com/2023/02/17/toolformer-language-model-by-meta/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 48
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/charlesdeluvio-pjAH2Ax4uWk-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "wVYHf3wqCs/aIl6dZzHdq+iHmYDXdVp31C2p1lIKv1HWB9PFMWZP1bnw6ZjkFTd+RFEEui77zvME86eGxeIVIwf5tGo1UoszKh/FAHNPRyWjDDuFCl1L+Rxvku4G0J06MC6KIP7GzNFxu+ambS0IoM2BK8Qiii5W/sRmdtJ/amg3LvhH5DaV6vUL8k2/CPDiiWGT3sO+m53DXVgjxeOBRklR2CCIXoDOV2saotYqLDMoS5PFhvdDLB8GfjCSSxOxaRF+uEs6+a+/VWQutH/JE2z+SCyqntyvfrRg/7VfMf+6+fB8Aim3wp103g5JcVVeTGQvm1PBu1ttqpV2G5CgI+2BNwuxxRexWotcFRmmhoR8hjbWAP1HApPVc6MawfLkaI/3vbJYRMIAqHFATmHKGiJ3Ewkn8TLwL89P5/0Z47H24gPskioJTqtR7TKZAcHmpuSpfar6ap2gnUjnAgry7fCF3opLEI5zEn/ItfK4mLzKdMf40cItJJedWr7R1t+1REAS968nL5774VLX1dNl1w==;m5QCrI9bJDFKSCgQaboqqA=="
 ---

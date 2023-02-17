@@ -1,46 +1,32 @@
 ---
 category: news
-title: "Tesla recalls 'Full Self-Driving' to fix unsafe actions"
-excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn't always follow speed limits."
-publishedDateTime: 2023-02-16T22:54:00Z
-originalUrl: "https://www.chron.com/business/article/tesla-recalls-full-self-driving-to-fix-flaws-in-17789490.php"
-webUrl: "https://www.chron.com/business/article/tesla-recalls-full-self-driving-to-fix-flaws-in-17789490.php"
+title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
+excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t"
+publishedDateTime: 2023-02-17T04:49:00Z
+originalUrl: "https://www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/"
+webUrl: "https://www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/"
+ampWebUrl: "https://www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/amp/"
+cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Boston Herald
+  domain: bostonherald.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/31/43/72/23477916/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://www.bostonherald.com/wp-content/uploads/2023/02/Tesla_Recall_97725-1.jpg?w=1024&h=683"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
-  - title: "Super Bowl ad slams Tesla’s ‘Full Self-Driving’ tech"
-    excerpt: "The ad cost $598,000, a Dawn Project spokesperson told CNN. It shows a Tesla Model 3, which allegedly has the Full Self-Driving mode turned on, running over a child-sized dummy on a school crosswalk, and then a fake baby in a stroller, in a series of tests ..."
-    publishedDateTime: 2023-02-12T13:16:00Z
-    webUrl: "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230125081548-telsa-logo-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue"
     excerpt: "Zach's grandparents Tesla recalled over 362,000 vehicles because the Full Self-Driving software on these vehicles may cause accidents, the National Highway Traffic Safety Administration announced Thursday. The recall affects certain 2016-2023 Model S ..."
     publishedDateTime: 2023-02-16T18:57:00Z
@@ -137,20 +123,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Tesla’s new self-driving (HW4) computer leaks: Here’s a teardown"
-    excerpt: "Tesla’s new self-driving computer, Hardware 4.0 (HW4), has leaked as the automaker appears to be already building some cars with the upgraded system. Here’s a first teardown. We have known that Tesla has been preparing an upgrade to its Autopilot/self ..."
-    publishedDateTime: 2023-02-15T17:29:00Z
-    webUrl: "https://electrek.co/2023/02/15/tesla-self-driving-hw4-computer-leaks-teardown/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 69
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Hardware-4-self-driving-computer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
     excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."
     publishedDateTime: 2023-02-16T17:02:00Z
@@ -164,6 +136,20 @@ related:
       - url: "https://www.reuters.com/resizer/oK-Sw2a-lwcl-2fMhqk7iBZxTZM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MRYGHHGI65LUVFK3LSSAQ77CCI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla Recalls More Than 300,000 Vehicles Over ‘Self-Driving’ Safety Concerns"
+    excerpt: "DETROIT — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits. The recall, part of part of a ..."
+    publishedDateTime: 2023-02-17T05:00:00Z
+    webUrl: "https://time.com/6256478/tesla-recall-self-driving-safety-concerns/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 66
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Tesla admits full self-driving beta may cause crashes, recalls 363,000 vehicles"
     excerpt: "The National Highway Traffic Safety Administration announced on Thursday that Tesla is recalling nearly 363,000 of its vehicles because the Full Self-Driving software may cause a crash. Specifically, the NHTSA cites a risk to \"exceed speed limits or travel ..."
@@ -212,6 +198,22 @@ related:
       - url: "https://www.popsci.com/uploads/2023/02/16/Depositphotos_61615751_L.jpg?auto=webp"
         width: 2000
         height: 1114
+        isCached: true
+  - title: "Self-driving software problems prompt recall of some Tesla vehicles"
+    excerpt: "Alex Wagner reports on a recall of some Tesla vehicles after it was determined that the Full Self-Driving Beta software could cause the vehicles to \"act unsafe.\""
+    publishedDateTime: 2023-02-17T05:07:00Z
+    webUrl: "https://www.msnbc.com/alex-wagner-tonight/watch/self-driving-software-problems-prompt-recall-of-some-tesla-vehicles-163536453546"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo163536453546"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo163536453546"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 59
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676610400917_x_wagner_tesla_230216_1920x1080-mwr3uu.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla recalls 363,000 vehicles equipped with \"Full Self-Driving\" tech"
     excerpt: "Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it ignores posted speed limits and behaves around street intersections. Tesla's recall covers some 2016-2023 Model S and Model X vehicles ..."
@@ -292,6 +294,22 @@ related:
       - url: "https://media.wtsp.com/assets/CCT/images/b3d09246-bf53-49a1-8d32-776c3b4babc4/b3d09246-bf53-49a1-8d32-776c3b4babc4_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Tesla recalls some of its cars with self-driving software"
+    excerpt: "The most recent recall affects Tesla model S and X which started being made in 2016, which have the full self-driving beta software installed. It also affects model 3 cars which s"
+    publishedDateTime: 2023-02-16T19:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-64665913"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-64665913.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-64665913.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1789/production/_128652060_gettyimages-956049418.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Tesla recalling 363,000 ‘Full Self-Driving’ cars to fix flaws in behavior"
     excerpt: "The National Highway Traffic Safety Administration says in documents posted Thursday on its website that Tesla will fix the concerns with an online software update in the coming weeks. The documents say Tesla is doing the recall but does not agree with an agency analysis of the problem."
@@ -550,6 +568,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "cy8LQI/mxFnB4bqBLzCbIho4dW4yjAxVg5rE+gILCZLDhBbds1JWKbnGU90o8TAM0qIyj5ynrFkyRFn3ZFfZYAFLOc0iYdYrI6XXPm5HkufO5Yk+WhpKM5WNVfoecea4ZSflYCAxBwBm5BFCO8vWAKR9QXKsmP35VfAC8pYbltm8JY2OTqwK7P+7zTAkqjZN5fv++8usQIGUaQi/wnHYFdRTlHAl3MbciZzrZjBi4bzNbzLo3zKboxCtFt9h/Zyf/s/G9VA6O+ptftxT/uhG5znOKV2kkXayCXXc2OJDZ38dsE9nsQKBz7wZ1U5dsANo1WtZ0JcDyCJ/YFmIx4wHQrYk52Pe5ByLq5ln//06lnLWgmDvNVF8iKVU6tRV/GSj3IYuc238WvQNpopqX760NODVIg5Hc2E+vYVcm4Ys3PeHxOOlHC8fkv0zYAD/VULmw26yMmnZikOBCXm7ri8Ke1T6nL1Zixj57aoK3+ltbUqJmT2AaX0eQeDw+UCE9bURwQe3R53pdfg79+oeKrajgg==;Zk5FtLONK4k4PYLPUiAUww=="
+secured: "mG4WTQbOh1LTXYdQy8T5UA/GpRizT787YIch8Pqp+n0pYpn8uXVU9rnRfETumLTxE6iGVOnecAu+Ye/3fOboxrUJWdoXYbORRIqBo5ttYy9Sb/MT75MB2sz/KVumpFjI3fQujTsMJ++YkeXPSMkW5wVliFjqlBMv5lic/F51xmikeqQHcyCtb7NKdPBZSblfuNF14lDAKyTj3k/cIuq+8qoeio+hgJylYMLapcAa0QucIEjWT5tRSFmELDMk3H9lCiLJ06gtPj5INnpN5Kt9etyOImZW/gE+6qukfCAgpGroyoKs31ZSJT7wKossYAyVQ7gJ226e15Vut1//k4h/MTB2xEWnI2X21xBxKVAVhYU=;elRXN6l+VD8JJeBk/puCbw=="
 ---
 

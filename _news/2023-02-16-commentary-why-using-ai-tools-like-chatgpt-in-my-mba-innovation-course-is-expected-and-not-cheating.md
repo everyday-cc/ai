@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Filling in a few blanks on ChatGPT and digital intelligence | READER COMMENTARY"
-    excerpt: "OpenAI, the creator of ChatGPT, is a nonprofit research company that aims to develop and direct artificial intelligence (AI ... the same evolutionary sequence from a horse and buggy to a driverless car. We have to be patient because this type of digital ..."
-    publishedDateTime: 2023-02-12T14:41:00Z
-    webUrl: "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-chatgpt-letter-20230212-mno6z6xfprblbolve6qxaiqcni-story.html"
+  - title: "NVIDIA CEO Jensen Huang comments on ChatGPT and artificial intelligence"
+    excerpt: "The NVIDIA CEO spoke at Berkeley Haas University's Dean's Speaker series, where he said that the adoption of artificial intelligence speaks for itself, as OpenAI's ChatGPT has already amassed 100 ..."
+    publishedDateTime: 2023-02-16T14:20:00Z
+    webUrl: "https://www.tweaktown.com/news/90347/nvidia-ceo-jensen-huang-comments-on-chatgpt-and-artificial-intelligence/index.html"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 20
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
     images:
-      - url: "https://www.baltimoresun.com/resizer//PhK_5U9Pa63A74wucAYeuIKN7XQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/AGVB4WVLDIPFLLN42TJYT6LHYQ.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.tweaktown.com/news/9/0/90347_25_nvidia-ceo-jensen-huang-comments-on-openais-chatgpt.png"
+        width: 620
+        height: 368
         isCached: true
 
 secured: "PNHM46x0g1neU6vMUZYjk8AiwzZpLjLIdWWq5qVZZIh53D8lZPOkniohlzxKGTYjE/DGR1XJg7QXJmP7ep6tPm6Sm+ioR2jeW8PVMYx+AybVi3VLae+hP8EQrmMgdQtIoEtld+bgtnlj8CZmNXPU3WqPrQg7JwOkR4+LG1ojA5a8xoa2M4ezkhf5O6BbfcnUy4gP+QD14xt/TI/rPX9XsBglaE5zWxCnU/w1hAd8nxbVn/0nOH2x+Y/VQPW6KMbGkBL3XdaVay9ytSYIzmAXVL0a+7iKw1/L78fE87tSoZ27MFnU6Tm5JNlXj6RWgFmgEKROPWb+RdK5ANB/nBnuCqdaWbxctX4TteMLSr7XFfru/ahpKPhZxZ2eGZPr7yhh7OPKM8jVGz3PEZszNxAJAApfhY9KYWUQ2mRHhbqETb3wbmkt61CFVb83uqKtJtqKsLdPd1Pl83dHvg1QkbCOdJHLSmCPWUAfWqJ6PYazhaBBdHOLMbn98o2nmG6fRkQ9u8GO59IMfzdrH3BkRjee0A==;zbMIZlWbMomYidqIcfBgcg=="

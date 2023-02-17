@@ -25,22 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Retailers busting thieves with facial-recognition tech used by MSG’s James Dolan"
-    excerpt: "James Dolan has lately stirred controversy over his use of facial-recognition technology to keep his enemies out of Madison Square Garden — but supermarkets and other retailers say they’ve begun using it for a legitimate purpose: to bust shoplifters."
-    publishedDateTime: 2023-02-12T19:27:00Z
-    webUrl: "https://nypost.com/2023/02/12/retailers-busting-thieves-with-facial-recognition-tech-used-at-msg/"
-    ampWebUrl: "https://nypost.com/2023/02/12/retailers-busting-thieves-with-facial-recognition-tech-used-at-msg/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/12/retailers-busting-thieves-with-facial-recognition-tech-used-at-msg/amp/"
+  - title: "State’s face recognition app for pensioners’ annual verification"
+    excerpt: "Meanwhile, a meeting of the Pradhan Mantri Adarsh Gram Yojana convergence committee, constituted for successful operation, effective implementation and monitoring of the scheme was organised at ..."
+    publishedDateTime: 2023-02-14T03:07:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 54
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/brooklyn-fare-theft-prevention-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://static.toiimg.com/thumb/msid-97907398,width-1070,height-580,imgsize-1288749,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
+  - title: "Review launched into rules governing facial recognition data"
+    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
+    publishedDateTime: 2023-02-15T23:59:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14508024"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 39
+    images:
+      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
+        width: 660
+        height: 437
+        isCached: true
+  - title: "Humanity Communications Collective Receives International Recognition for Human & Civil Rights Work"
+    excerpt: "Affirming its commitment to amplifying social justice issues through strategic and creative communications, Humanity Communications Collective announc"
+    publishedDateTime: 2023-02-15T17:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230215005684/en/Humanity-Communications-Collective-Receives-International-Recognition-for-Human-Civil-Rights-Work"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "Q6XWWpFLn3SFKWBCTEC/RNwusGp1vS/gxKijpuYnVbr92uCC8HpfDlvnDQ1s0WY1OKfWM4sYHRlAxcp5efVFFElEhTK4kQGVZ3KUpO3oesEEEU78ozFYmQt8KmAJ9ieD9gaDDRrTcXolVxaT36OOQeANl3XfyUH/ApEZjryDN99mP3gN2CHE00Do7WCH+Wzv3t8bPPYhBvmeds8LJkUhkSE39k2bTJWj9G/9YWjw0RmgEsst22pEB7UxF/QaMbGSFKYcU9fNcpu8D6SUh9gS3VT6vTRXwhr46Q9T3yZRk4jqCYE9yyKlGcI7NQITo+qLUjRicfPxL3LSr1bWozNryQJALy3bMJRy8zjDVorYmqXfFwYnLGXS+a6WxFFgqCJoaGINxJi+oLkoxUBGfyUuMYwk445XWhq/HQ7f0Xdqu3ok7ev2kc+7Bm81gN/qDQJtWQTta9hhPmnavYejHCIftFDoJOQ33ZiVgLhjJRdVtu/F0aN8nXXoxI2CcLycQGba4yLeFv+VoP87vMyQan3SCg==;FxrV8dpjHVC3sxXiAMQ6Cg=="
 ---

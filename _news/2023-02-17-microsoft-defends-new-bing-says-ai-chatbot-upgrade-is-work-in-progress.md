@@ -78,9 +78,9 @@ related:
         height: 630
         isCached: true
   - title: "The dark side of Bing’s new AI chatbot"
-    excerpt: "After asking Microsoft’s AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy. The chatbot said it “must be hard” to balance work and family and ..."
+    excerpt: "After asking Microsoft's AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy."
     publishedDateTime: 2023-02-16T19:41:00Z
-    webUrl: "https://www.cnn.com/2023/02/16/tech/bing-dark-side/index.html"
+    webUrl: "https://us.cnn.com/2023/02/16/tech/bing-dark-side"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
     type: article
@@ -260,19 +260,16 @@ related:
         height: 675
         isCached: true
   - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
-    excerpt: "File - The Microsoft Bing logo and the website's page are shown in this photo taken in New York on Tuesday, Feb. 7, 2023. Microsoft is promising to make improvements to its new ar"
-    publishedDateTime: 2023-02-16T21:37:00Z
-    webUrl: "https://www.chron.com/business/article/is-bing-too-belligerent-microsoft-looks-to-tame-17789289.php"
+    excerpt: "The tech company said this week it is promising to make improvements to its AI-enhanced search engine after a growing number of people are reporting being disparaged by Bing. In racing the breakthrough AI technology to consumers last week ahead of rival ..."
+    publishedDateTime: 2023-02-17T04:41:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/31/44/10/23478812/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Threats, mistakes and ‘Sydney’ — Microsoft’s new AI is acting unhinged"
     excerpt: "When Marvin von Hagen, a 23-year-old studying technology in Germany, asked Microsoft’s new AI-powered search chatbot if it knew anything about him, the answer was a lot more surprising and menacing than he expected. Tech is not your friend. We are."
     publishedDateTime: 2023-02-17T01:42:00Z
@@ -315,6 +312,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "7iKBOUwOPocBFLf6Yl2sYV9WbMD13q1c82k6wQjEsBdfDoU1HtVWePwwQAjn2BKukrRkIjeXYmLNketn+IBMjo4c5u2p/rW+ZEnVld07ee1DpDbm1iGsAQDtZV56iWLZqevxBrJmIdZjTY3ql7du7O5CDVoHNwwQ73KRv0Ba7iuVH5a5MxrkPK4Xr2/pgT1okeu5oEfAKmafDOXvK7FGnpvi4hJUUgRfEEnbFXfekw2UbAJ9XNGyvXRHwds2D51ZGkcfi1mm5OIssNo8lN5hCnwnjcFqMBHULlrAjD2V1n8dg9L7+BHv1rBXK31LOlbmB34DScQ4PyyeU49+/hAk43t2uldT9gsYshnLohAKrAs=;OwNpGSJDYBvIsPpeYuePRQ=="
+secured: "4+d3Eb0gVlkNh8hH2Z2nTWuHN+JDicGE9cmRhtvn7NsI0eh+rhFFJri91UCIxA/E9yJwto3nCx8Dt7Vwun1/PYEgSe/qeTM1l90MWxzsSLqaZ+HOeUIeiaHOCGvFRNI1p2XOQgUMwJSWYCc96nfOcJBy0mPC3Gxha7YfxnSNJZlfNTX59v9AGYSvB5HZLHgkZFCano80fDdwMHsQohf1H4oA2sNeA4MdgU8NYlChzCJ+MyrnX4k/6eHerRln1BSthXvKSwQTN4QDhcsZhY0VEk0Qc7HJPLwKTHdueYGtLW+ZzlLphXj4zvLxro0KxVIfTc+J0pqxn4/hfmUmqCEnkUxA7ZvRJTU6NX2Dnx06jjgnZSBKFnXjm/7crz84xJgiHXpuMZz/PrdlV3cXk5O7kdHEMpoAK6PYz/rhUVyyI3sHTNEIZA0ws8ASjcXHrvkT2sORyRW/kQIMFw/8uMpJYUwBqbAFfOi6PyFhX/CGpmRsGxsMtOh//xCm4jO5w/kJyIPRkk+gGgpVNEtHI1WJeA==;z2ObshuuMSXCR7MmrOJtSA=="
 ---
 

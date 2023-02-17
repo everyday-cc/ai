@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/02/meta-develops
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg"
         width: 753
         height: 435
+        isCached: true
+  - title: "Toolformer: The Language Model by Meta That Can Teach Itself To Use External Tools"
+    excerpt: "Toolformer can use APIs to access information from a variety of external software tools, including language translators"
+    publishedDateTime: 2023-02-17T06:26:00Z
+    webUrl: "https://www.gizmochina.com/2023/02/17/toolformer-language-model-by-meta/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 48
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/charlesdeluvio-pjAH2Ax4uWk-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Nigerian man develops world’s first AI portal that can translate over 2,000 African languages"
     excerpt: "Africa has thousands of ethnic groups, each speaking different languages and dialects, but this rich cultural diversity has caused communication barriers that hinder socio-economic development."

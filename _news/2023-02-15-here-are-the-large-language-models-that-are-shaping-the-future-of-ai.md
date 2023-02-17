@@ -43,6 +43,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Toolformer: The Language Model by Meta That Can Teach Itself To Use External Tools"
+    excerpt: "Toolformer can use APIs to access information from a variety of external software tools, including language translators"
+    publishedDateTime: 2023-02-17T06:26:00Z
+    webUrl: "https://www.gizmochina.com/2023/02/17/toolformer-language-model-by-meta/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 48
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/charlesdeluvio-pjAH2Ax4uWk-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Nigerian man develops world’s first AI portal that can translate over 2,000 African languages"
     excerpt: "Africa has thousands of ethnic groups, each speaking different languages and dialects, but this rich cultural diversity has caused communication barriers that hinder socio-economic development."
     publishedDateTime: 2023-02-14T15:49:00Z

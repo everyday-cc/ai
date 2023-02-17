@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intell
 ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
@@ -66,6 +67,6 @@ related:
       domain: defenseone.com
     quality: 19
 
-secured: "ncwsXbZ4ZoXnPuG1Kk/8FnetBh9nUziayT350e5VK3r/a8N8rrZaupkiJZumK8WVy1GhNkOhOYOhMpW7pC9LYgJ7ZQ7bVMrgHBem/TFRGFUbzgltrBqbZrHTL3780HDcMvhOix4Kllrb5GZlH2IhBQDNc8UMbgxwy97W0XBAw7XwPbbrfbpavWdl3uTTxrTO4betcP92wSKowcZoXdT9CiiXfaA5qNusuPwOb2CRO/OQ3jsLk4MChU07rszw66PZrFpFkzknc13Bn5viwl/keWZviGSRw96tDi8tyVZEWFhNUiSqdUHC8dnkIPyEFehD9stKADE6U8Dkw8pOFB4Su9yIzctDCv0Syu9ENohicrA=;xoLTGqhG3eBtr825dI168w=="
+secured: "p8b7do7kJhe8s6K348t5Rub5SuLmhev28NlRD2ed7F9RkXKtC6fMnJJgd8IYMLtX+z1doS/WqZQzmpOBQ/VsvZ+bW16zrrj7TECWluMXmMtWWy15iaNy401jefBzZJFPYztkH2d5/xc7WNO3NKBzadDTEKjxe5jbcaFqyvu4j9fyDn/fLPIQtPeoPyrj87mWzaqtsRnvP4Yky3Wf3Jn9u9En8Y8meXCgUmmpkuhywdfrmbXcwSBynzEMB6ag2Yri6NFrbwreEJTZ6emDZJB0FFyrqI/DgiNK7z74gRMFghuJ9YBgPlTbh9MXotK06Q7jLJPlHk7El8sGgcXnDmWYzfu4+1540/C0zUaxYhyscWZ7+ajH4aoZPa1HuoEh/CpeZyaouXrGFKHXT+iu7RMuq0JWtFnMNosjvpq8qD5d0OYXk1DPzu5Wvzw78V3PYY5FlzdZeRQl/Ixl6ZWq4i69VKFDXsDCSO36r2qxrVH5rcXvkmAgJUjOlPgYfcpwS/gc+jswsAB6yTITs/hNXx6JYg==;N7XMitXQjnKLP/uxcZYB+w=="
 ---
 
