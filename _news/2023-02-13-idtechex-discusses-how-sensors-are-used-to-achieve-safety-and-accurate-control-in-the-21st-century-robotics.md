@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-13T12:54:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58296212-idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58296212-idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics-008.htm"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Finanznachrichten
@@ -15,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "tlK13FJlLDQvegFU8mA0sV/w6B3KvXIjpj/6/UMVtHpSXu1SrP4JTXhs/cA7S+1aeczme2uRZ1mxQBNDnlg9B6Uzsy5TgFGQJSUdcX56ozeGow+iyHdlHud76+LZ5P6lfxUq94Jt3zTNO6DrMeaE+ibAeg0TvQ4BmwimRMt67dKVGxYb5KJu5Bf4voY57js7vqbXpDxXhB4A8ZNXShS+LnD7EbT7gTtR259CKPo+ivZc7VsEWxuqzT1EPAYnK116Teywxt+HskTGU0pModd2GodDrBl8Go6hNsTkCHyRb7Q2fR+pDw9oXRo7tOIqvP5P4DedLsqeOp+Fe3jqXCxWhtj1NJv/Bwa2lQ2tAyuJgZA=;98+rh1chwcOgagCdJbeFQA=="
+images:
+  - url: "https://mma.prnewswire.com/media/2000246/Sensors_in_robots.jpg"
+    width: 400
+    height: 210
+    isCached: true
+
+secured: "Ekl24xYWIeUzHoLpus66y3mgfjZyHeMl/ehHWfLKJWg2v0GW1+YSGapuv2RnUbJ8duz8E8bpSZV8Y5h+Ituk6MJq98NsB2jziSezA9lGqmVh1kliGw0m9hpJjNOTmSou3hfy3+dAZIrCujjMhQ7S6xAzWdFMyjzt4P2OfWVj3RmlgaHch2Vpk0nLij45fUk+t4A00hDmUQMBCAtKM+b7oUUMwU0EbF900iIJuVzB/4uAM2TPe8fgOlaImiTqyf41dsuEBKHARsPeWpvnnEPZGJXnniy+trkxSUsZtR+sUoIug0qRidIc4Qwc6f3IetE01Hz96nYv7S0f5XWgKd24jseBgwEu9sD7igOMiwJwLz4=;BtiTs7pKKDZX4n1Rx19Zig=="
 ---
 

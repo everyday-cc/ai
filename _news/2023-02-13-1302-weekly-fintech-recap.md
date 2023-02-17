@@ -161,6 +161,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI-wielding tech firms are giving a new shape to modern warfare"
+    excerpt: "Behind this new form of warfare are some of the most unconventional minds in American tech. Everyone knows about Elon Musk, whose rocket company SpaceX put Starlink satellites at the service of Ukraine (though he has now restricted access from the battlefield)."
+    publishedDateTime: 2023-02-16T15:33:00Z
+    webUrl: "https://www.economist.com/business/2023/02/16/ai-wielding-tech-firms-are-giving-a-new-shape-to-modern-warfare"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230218_WBD000.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tech : Artificial Intelligence"
     excerpt: "Plagiarism-prone chatbots and self-driving auto wrecks show that AI still has quite a few kinks to iron out. As generative AI becomes increasingly popular in the mainstream, here’s a behind-the ..."
     publishedDateTime: 2023-02-14T08:15:00Z

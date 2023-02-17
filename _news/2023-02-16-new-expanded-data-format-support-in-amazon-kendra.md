@@ -43,6 +43,22 @@ related:
         width: 1557
         height: 780
         isCached: true
+  - title: "ChatGPT AI robots writing church sermons causing hell for pastors"
+    excerpt: "‘I can’t do everything I’m supposed to do,’ and start passing ideas off as their own.” Hershael York, the Kentucky pastor and professor, said some of the greatest sermons contain elements of anguish. “Artificial intelligence can imitate that to ..."
+    publishedDateTime: 2023-02-17T21:55:00Z
+    webUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/"
+    ampWebUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/ai-preaching.gif?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "1njJKc0zQXfbvQNokYdX2K8SCohgVs+m94CI0fIwd9SpElxgQclYwPw24DPqXZlDuIx1DMEk+ZbdRFpuO3TgttPvLN2hVsN26s1clDXI4Vslvvdl3pPr6oukTr1YpHGSz1WRsDAgZ9Ez8WRuIxrP7RWnUoa0jQbyvbZK8zh+k3UqVEuIGtW/dGA1pcw8IKZOweWZ1gANYO0AhOQWO4VPXatf46f2gkPjOB5AMiaUqNPVDX1lRT+uEMqLRzfHjTNMPOe8QJtizJjVBHb6qJSkTxxZNJ28MuTIElsEX5DO6sKGbJ+0GjCRhFdaInERNJinYeLko/xQdf3YYm1HxGBBCxPmWXa3CcmtUXbNYkXJRz8=;dY3fP3+C5iBhgItyTc8ENg=="
 ---

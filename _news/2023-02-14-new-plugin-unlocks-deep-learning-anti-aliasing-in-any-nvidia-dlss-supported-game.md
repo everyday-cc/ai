@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia Bulls See AI Boost Offsetting PC Slump"
+    excerpt: "Nvidia is expected to post fourth-quarter earnings of 81 cents per share late Wednesday, down from $1.32 a year earlier. Analysts expected revenue to drop 21% year-over-year, in l"
+    publishedDateTime: 2023-02-17T22:15:00Z
+    webUrl: "https://www.investopedia.com/nvidia-earnings-preview-7108863"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 39
+    images:
+      - url: "https://www.investopedia.com/thmb/yAkrBndRKpIyN1NYXIsPXConOa8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_Nvidia_Erns_GettyImages-836661582-1ac976dd7835401a9ca6027bfe2d2506.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "+MpiDP+jNY6kJlAX2H3wgiqyOXsIrcNnZ8jyE518nv13C6E/ozpQnvJr9wOyZmmIbSnL+KsZVNqd/ncX+NEpNTNZdXm+8Iy3Urusd1ZQDdiRLoi1CKj8BeDH1nSAJryJeDtYiEjFOSLgX8EvSjMeFu/S/Xe0Hk+kGYCAm22e/Bb5wwugaTogXsTCQyxR5FIKcBatL1hFyauOw+2hLYLWBLVTp+oGDFN3lphVSdlQJaBX5jt/uK0AbT5Qbq83+zCzLGcJt59o+g49CLbrrFmtWJW7aI1UvCURmelt8A0jsDg4esAzszV4XTZ6rTiw7e5jcHlElaowhEvzHb9GR7lBtzbKYTPw03CzJq95f/u/y3o=;HJOWccf11WF3utWsmzmnEQ=="
 ---

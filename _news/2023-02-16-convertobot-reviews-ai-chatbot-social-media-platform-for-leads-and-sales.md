@@ -136,6 +136,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "ChatGPT: how to use the viral AI chatbot that everyone’s talking about"
+    excerpt: "Can ChatGPT be used for essay writing? The use of ChatGPT has been full of controversy, with many onlookers considering how the power of AI will change everything from search engines to novel writing. Essay writing for students is one of the most obvious ..."
+    publishedDateTime: 2023-02-17T19:20:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 47
   - title: "China ushers in golden era of AI, chatbots"
     excerpt: "Chinese tech companies are ramping up efforts to make a foray into the fast-growing artificial intelligence-generated content sector and roll out AI-powered chatbots or products similar to ChatGPT, which has taken the world by storm since its launch in November due to its advanced conversational capabilities."
     publishedDateTime: 2023-02-16T23:49:00Z
@@ -192,6 +201,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Chatbot Spontaneously Develops A Theory of Mind"
+    excerpt: "The GPT-3 large language model performs at the level of a nine year old human in standard Theory of Mind tests, says psychologist."
+    publishedDateTime: 2023-02-17T22:01:00Z
+    webUrl: "https://www.discovermagazine.com/mind/ai-chatbot-spontaneously-develops-a-theory-of-mind"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 37
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/2Ukq3G1YoWvId1IKyl1IMk/d786b8c5753797fb9cddbb5763e5cc99/shutterstock_670374046.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "From chatbots to facial recognition, here's how AI impacts your daily life"
     excerpt: "Artificial intelligence has changed many aspects of our lives already, but how, where, and should you be worried? Let's find out."
     publishedDateTime: 2023-02-16T12:30:00Z
@@ -233,6 +256,15 @@ related:
       name: The Economist
       domain: economist.com
     quality: 17
+  - title: "What Alphabet Chart Is Saying As Big Tech Turns Its Attention to AI Chatbots"
+    excerpt: "As big tech increasingly turns its attention to the next chapter of artificial intelligence, out top technical and fundamental analysts take a deeper look at the potential impact on Alphabet and Microsoft."
+    publishedDateTime: 2023-02-17T20:08:00Z
+    webUrl: "https://www.thestreet.com/video/what-googl-chart-is-saying-as-msft-big-tech-focus-in-on-ai-chatbots"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 14
 
 secured: "cZ329KuxU97jTlr6j0ymFhRE8IEurf9y0Ax/S2L/9omP3yRH5rJt01fqH6EGtQGpI+eggLfa0MaTGVpIgMKXuuql8pG2JLTn3aGaZ64okJgkC9kxkBzCylfcoPGSeicDOG5k2FfqHxzlXCx0XM8DIpEormMyre73I7N1LIlVjeAKQFvuXBfaTsVCn/N006unrDXahfL3UYVLn0N6C2MpYWKAT5G1cm3lsTYagh6FpqB7EqIVTdkjFFjspK1ySAMEbE3J5uSVeoJ4ZRvRwkd85H0jEgmU01K9scQv7fVoCehxubXSv6a7aKZ8EG7DlO+fBN3eVfCsMVBYsWT/NwAri7H34jy5zhzE5etPlgtaNwictZZ6Ffo/QZsytPjyZBFgwpfCcYoipC38OPKEt8o2tbbKC9/ZmkuLoI6zvMcHLsQpxLb0nW4WSF+5+IV1QYtutUp2CoEQ4WYYT+3aSfrumvj0nK4TP0JkpeYR51HjwTMasrd6jrcsinBAS2MdOMSwFRmyzpY66wpWHvxSLiBKUA==;bg8p8+gmNlX7yQ2TguTyJA=="
 ---

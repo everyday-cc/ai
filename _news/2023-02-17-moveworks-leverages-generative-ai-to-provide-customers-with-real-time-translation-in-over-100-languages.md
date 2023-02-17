@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Yellow.ai addresses conversational AI developers’ pain points with conversation design tool"
+    excerpt: "New conversational AI tool from Yellow.AI looks to improve the design process for chat and voice conversational workflows using generative AI"
+    publishedDateTime: 2023-02-17T20:07:00Z
+    webUrl: "https://venturebeat.com/ai/yellow-ai-addresses-conversational-ai-developers-pain-points-with-conversation-design-tool/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 37
 
 secured: "jN00i9U8p6C25A/ikpni5I8iNHOjwPGoX6nh6bXuPgV9bc43TNHLs6sX/9wPluLEQjJfcxa9Cri3KLAP49Q3qassY3gS2BkKovkkdOASkTw+rEN4Uj9WankLWDs+707w5lMUdLGpELzee48rlCoQNfnqV1/AnMK6qAeAFe9fg8FxYGijXBBzOPfeR4tfydbOQkTNsV2ROaAdZbbuMkjAnDoGLX1OhyonVE58tjIxRp7i/R1CDSzT7ZBSYWaLHJawjeWaXFRQNgPp1b8tZRhLx0xnOHszIQ/c9n6eQ3fxInfBkVDBEVdPWQ3OSAVq+hQeapDwE1HHUSbilcRj75Qi+gAksPTrOEnWh4FbcPfjQwI=;Fi0RUNR5jXm+mz6gGHl4eA=="
 ---

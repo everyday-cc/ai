@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-Powered Risk Decisioning Provider Provenir Achieves Significant Revenue and Customer Growth and Global Expansion in 2022"
+    excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced strong growth in 2022, achieving 35 percent growth in revenue and expanding its customer base by 24 percent,"
+    publishedDateTime: 2023-02-14T18:25:00Z
+    webUrl: "https://financialit.net/news/risk-management/ai-powered-risk-decisioning-provider-provenir-achieves-significant-revenue-and"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 13
+    images:
+      - url: "https://financialit.net/sites/default/files/provenir_18.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "E2aX3SSGiIYBuamNaqQ+JnU/RfbG//euZBHqQGeOP48V12vLk5isnTowDWrASX49Dzw8c5ewYIeZP1WjxqNJqXT4z9wmOBeIv6mKBa65vmfUOw3hpBMLdXlw0TT15HjwJnCdGbN18ZwuMDgCbqi6NipdN6t9xwK5OO/zfCZR7mcWoVlDgFYym9nejTlup+dQhfDc4ulgozncNlt87TzjU6tZ1IyStN+PTqSpZfGuKqZKasGLnvRTK5efGAa5clLD49ObdS0hcko1TeXzwQsmBO+FiyOv0e2Ehw+YZY8IcVXb/rSVAp3pRMkSeXuJlSZf8HgWegCZot6C5I9eBpWWEtm/bkkEP5jZwn5tG2RUcQI=;Q57RycMzlhITSEHCwXWRcQ=="
 ---

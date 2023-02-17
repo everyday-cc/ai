@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30907988"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30907988"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Bulls See AI Boost Offsetting PC Slump"
+    excerpt: "Nvidia is expected to post fourth-quarter earnings of 81 cents per share late Wednesday, down from $1.32 a year earlier. Analysts expected revenue to drop 21% year-over-year, in l"
+    publishedDateTime: 2023-02-17T22:15:00Z
+    webUrl: "https://www.investopedia.com/nvidia-earnings-preview-7108863"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 39
+    images:
+      - url: "https://www.investopedia.com/thmb/yAkrBndRKpIyN1NYXIsPXConOa8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_Nvidia_Erns_GettyImages-836661582-1ac976dd7835401a9ca6027bfe2d2506.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "New Plugin Unlocks Deep Learning Anti-Aliasing in Any Nvidia DLSS-Supported Game"
     excerpt: "A modder has created a special Nvidia DLSS plugin that replaces a game's Deep Learning Super Sampling implementation with one of the best anti-aliasing features available, DLAA. Deep Learning Anti-Aliasing is the aforementioned GPU manufacturer's ..."
     publishedDateTime: 2023-02-14T14:35:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T20:36:00Z
 originalUrl: "https://www.natlawreview.com/article/5-things-whistleblowers-should-know-about-reporting-accounting-fraud-to-sec"
 webUrl: "https://www.natlawreview.com/article/5-things-whistleblowers-should-know-about-reporting-accounting-fraud-to-sec"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The National Law Review

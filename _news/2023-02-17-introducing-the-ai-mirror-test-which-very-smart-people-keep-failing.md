@@ -132,6 +132,15 @@ related:
         width: 1440
         height: 781
         isCached: true
+  - title: "Why promoting AI is actually hurting accounting"
+    excerpt: "At the same time, our profession's seemingly blind acceptance of AI as a fix-all is actually hurting our ability to attract and keep talented young professionals. As smart as it is, AI can't replace the judgment of individual accountants."
+    publishedDateTime: 2023-02-16T20:15:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/why-promoting-ai-is-actually-hurting-the-accounting-profession"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 19
 
 secured: "SgBmJPd43c/G5PeE3m6BCHtCegsGdN2igD5RIy8Ae2oefnYewDrKM4WryyoDw/Z3mvUXTZcfIhmJhBloy6BXt6vUrdysQ17eT6eshQxGjONR0iWoSPjT6ezWRHgp5T8pYCdoNjSaUmwaDrhNe6rYWsiD65EW0Xjd0iZNdC20LwWE34Ud1jxiCypll7OxPz5L5L7+vkJjIxjN5WDKkwSdRBK1zjyYqRclaDCih5KU46EgDImwlCRxNXLFSV3VOdS10R8dj75RSQYHPXyRp0yyVFKBYQ5cQuqj4A0qBL2y+1nA6qVHK5ZEpsTgmwgm+3nKGh45Dp8Ulgl4RYniRrnALDVyVmkpwlbd2bA0WyslSc3OKbW0zklsuqYnlzWZN4UYmg7p1aPaNrEAkLr2Tlu8rAP+h9Wfxq25EVaBS3cFXI9MPH2VEjdEvCQH0RZ/HnVk9VI0KXiKzuVVdJB4x43UG4pN2EHlE69/5Oa15quGf5WwTajBgkA0joQAKg0d/PHoSPJGXMjoGsQMds+cKL9dHg==;sGcVsbzkZtgOHgcto2+Kzw=="
 ---

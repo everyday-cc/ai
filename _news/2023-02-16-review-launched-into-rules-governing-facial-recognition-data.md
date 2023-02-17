@@ -35,7 +35,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/535bd83c-c540-49fc-9cfd-df5e8a6d92f6/b96391e6-71e0-41b9-b57b-5eafc906e24d/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200

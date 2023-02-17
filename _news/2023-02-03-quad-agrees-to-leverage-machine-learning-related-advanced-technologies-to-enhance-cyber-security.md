@@ -5,6 +5,8 @@ excerpt: "In the longer term, the Group committed to leverage machine learning a
 publishedDateTime: 2023-02-03T02:11:00Z
 originalUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
 webUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
 type: article
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - Machine Learning
   - AI in Security
 
-secured: "yQCEQqoptW975QIEZbJMpLpi+1C7mlrfQHrUBBLxu5WaVQntUvXQj3nXgABFsycs2058MZT/YQhtAh+d+u9FivVQV4R9uzghpIiSu9Ef/66s7+Zs/bgZc9bV0TaEUCd5H039AKD3ANHqm1FOhFFrEmEcK9fdRwfV6/i8j1s0c58gaOlZ4AFkw4Gx9CTHZy5pZ+PPhkSDJQ91NxHDpww+VO924vg01WtfgsCKz57/mLHGGaaylNluTsJOMv5TcIkl5pUKWC0TBS9MuJdZHcE+Q1iaQomg/SNT3LyJ7mL7fP0bMiHYdMUK1F09fu6u78u2Ahl7UkEMEysMmTRnaQSwPQ+Vfivk7djmuYLRfE/risI=;AfENet4xTDDBkHxZXYPSww=="
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "JJx0MkauuHiUGukAojIkR5dr5FNrUXzRfhSGR9G05Q1a9qou/UB7GWvKaNB71FyyV0yjTrNBKQsF4sEJ6+DzeKA00WBTJhZKE84zmuF5akecggGxv0ornWeZVV88welIj9dQI1TCoSVTA0bneImaDPzuRp3ZVVzbRYnGHvfFISOsYibE9vnrAzXoIoF/K0bylYHqs6oZhAqsja1XZ+kiXAjUa762tFM7GUrrVh1TDoXqGnaIPnGOwRY5F+elQoN1wsgE/SixQmS7Yt/vEPeWKBxrHiWakdLDyU+yr3d5KOiVCiOS5D7MHN2DqU+XfXtkRsK6o2zaN1MU16Fg9AC4aZXd/RetFI9dI9ZbpzkwWV0=;qfC5KvpfHuwQPP9w0LuMIQ=="
 ---
 

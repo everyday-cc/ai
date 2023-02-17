@@ -113,15 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Agricultural Machinery Market 2023: An In-Depth Analysis of the Fastest Growing Regions and Business Outlook By 2028"
-    excerpt: "Modern Research - “Self Driving Agricultural Machinery Market” Forecast by Growth, Size and Share 2023-2028 Self"
-    publishedDateTime: 2023-02-13T05:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-agricultural-machinery-market-2023-an-in-depth-analysis-of-the-fastest-growing-regions-and-business-outlook-by-2028-2023-02-13"
+  - title: "Artificial Intelligence in Video Games Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-17T15:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2026-2023-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

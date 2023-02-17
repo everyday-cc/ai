@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/16/expanded-data-support-kendra.jpg"
         width: 1561
         height: 780
+        isCached: true
+  - title: "ChatGPT AI robots writing church sermons causing hell for pastors"
+    excerpt: "‘I can’t do everything I’m supposed to do,’ and start passing ideas off as their own.” Hershael York, the Kentucky pastor and professor, said some of the greatest sermons contain elements of anguish. “Artificial intelligence can imitate that to ..."
+    publishedDateTime: 2023-02-17T21:55:00Z
+    webUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/"
+    ampWebUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/ai-preaching.gif?w=1024"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "+47H1VDYI+5FQTnc/mcwMI1RkOeIyjbWl//5A+Ita2qPSc0CsazOU+HCwyYWfWQp7PJjXKZCby6KKRaQA9/DKVKwLIdTvzdZPo4uZqPW43hvsyHCWGZW8eariZk3MjPU5bNMzQ1obvY7D1ZZJbuuYOB2QK4XT3fFVUqc6ugbigsGyQJY6hSiFlubxeT7oXOrbqBrxVj396Kof14JiUpOBAez7a6FpD/s+oiZocFPbjDoDbVwbVHF33qIp/GCGQWIvh3kazde9g705TGjmR1QRqeuTlD9GVt2YSgsz55JChC8Vl7zSaTBssORAcm7WA39M0SrXqJUAVZ5G+oXhmg0wBcnfG3ly+Hkn7ymtGdXeIY=;30oVjFkK5MbSXZZ9a/9oZg=="

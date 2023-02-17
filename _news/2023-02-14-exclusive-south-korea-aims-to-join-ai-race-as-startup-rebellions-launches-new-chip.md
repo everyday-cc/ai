@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/skorea-aims-join-ai-race-startu
 webUrl: "https://www.reuters.com/technology/skorea-aims-join-ai-race-startup-rebellions-launches-new-chip-2023-02-12/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "South Korea aims to join AI race as startup Rebellions launches new chip"
-    excerpt: "South Korea competes in global AI race with an AI chip that will directly challenge Nvidia Corp in hardware AI tech South Korean startup Rebellions Inc launches an artificial intelligence (AI ..."
-    publishedDateTime: 2023-02-13T07:03:00Z
-    webUrl: "https://tribune.com.pk/story/2400906/south-korea-aims-to-join-ai-race-as-startup-rebellions-launches-new-chip"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 33
 
 secured: "eTrY4eHPfltm9yIlPK8nujtOTQ33ixN01ILOQavadcsmyex2gAM7sMOpoT/r0MHntxfdDt0Z25ijUAkFBAUG0JWSM3EG36W/fo4VYF9HEwZO6IDnEskjl4GBQTVV9BXxkDob5YFHtUDpOw1IRImINl12162oR5wG/q59FnVtwM2X/yPNiL41xXRzJORgcoI2jAdyx7LueO8DHTx7AozZwPtEh9L+bKoKScLZ70ifr8lqlqbk54atwrt/GH+6Kier23oSbqMA9fo2C25NkY/MX/aFp9l/W3qvtVwM84qhFUBlOet296cXljD2z8JYyXBFIilHWGhvmozSRkyrGRLKAkp3W2pf/TDBHoQEzmvOnDo=;w5blVQuBQes9SXMyGo+aQQ=="
 ---

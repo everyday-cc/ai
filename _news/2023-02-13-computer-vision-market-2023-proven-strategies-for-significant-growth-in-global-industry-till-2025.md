@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -42,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI-Powered Risk Decisioning Provider Provenir Achieves Significant Revenue and Customer Growth and Global Expansion in 2022"
+    excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced strong growth in 2022, achieving 35 percent growth in revenue and expanding its customer base by 24 percent,"
+    publishedDateTime: 2023-02-14T18:25:00Z
+    webUrl: "https://financialit.net/news/risk-management/ai-powered-risk-decisioning-provider-provenir-achieves-significant-revenue-and"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 13
+    images:
+      - url: "https://financialit.net/sites/default/files/provenir_18.png"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "GBvCkYWcD+p3avk9JpjYVmdY8qhiF7FAUGRz1ogQdtFUtCzrYSwEmQDpCJ+p7gJcZrISwPjtq3ItTijyg65vJkcEp/2TFLAe7wLVn3Za8yRrZhOLbS8Hps87Lfwtb0DZb+lMmGGMMI0KRNRPK+dbRC7I6JgxFn+7A+Zmn+asvscXv5UvZV3k382BnCdBHcEAUFVpirwS8CUIILgy8XrEgSgLVxy0qqitW7ttmLuiHuuT+ubZT7QHMh8TOmVyLILrqwXQLBHSbKbMvxAtfcquQLSnlrv4APYqBp09sNgHj7UgxV+vmCF2Qj4CfqlxJddG/eN3kJJJc0UCBeYsLVb2Ilr9DPYt0cTudqm4//N0JzM=;Bpc9I5DiopRBvlFvv1052g=="

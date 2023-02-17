@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-17T03:38:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-02-16"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-02-16"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 

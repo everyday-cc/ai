@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/"
 webUrl: "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
         width: 1440
         height: 781
         isCached: true
+  - title: "Why promoting AI is actually hurting accounting"
+    excerpt: "At the same time, our profession's seemingly blind acceptance of AI as a fix-all is actually hurting our ability to attract and keep talented young professionals. As smart as it is, AI can't replace the judgment of individual accountants."
+    publishedDateTime: 2023-02-16T20:15:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/why-promoting-ai-is-actually-hurting-the-accounting-profession"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 19
 
 secured: "oXKwawW/O0BQ21QKfkgr16GzJXatq3isoiWnGmjsec/RqaUS+MEFmN/c8w/pI4Ffsq3XohVXgyIQiGdOdiKDSsqJZZVSPhx+NdTCC16tDIKApxeqJ8xxXheZq5JropGSH5pTRA/Dei09OeFtGBBpauIxKkGWL2pWHnCiXN8VDgLLGcc8IdOsjoknpwFO22B3gVtC1BHExyhWOtetfQ9lX327Q1veJpw13qyysTL7zq/jUYg0aL0PBecW5y9nNE1AYzqa5SpD3SlJf/NFn82aG83gGd2rpZVoWisiWFus9+6aK1mr6IO7kfr4O481/kwwOvubEEp0X7PX2KisEXxWAF94DCrJX4kLRmxyVpfI9qM/NrTpa3XNCiXDqDv2r+rYcam8qokZj6x++0ogbxT8xoTA0QVJlzqZ6n7a0/V8bkgo3AYKpIRDol0IeQE5qhPY99QsInuNnieCPf/b5G3gDuQ3YLcyjiizdsYesSwcwc4dvVQpd/5Zd1E8EnMYFEb3QcYyL98vBvuY0wJkT7NBHA==;9TE8ZzCNLo699AMdtID8fQ=="
 ---

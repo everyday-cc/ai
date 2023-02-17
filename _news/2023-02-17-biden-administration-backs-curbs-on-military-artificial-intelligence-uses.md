@@ -58,6 +58,29 @@ related:
         height: 400
         isCached: true
   - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States launched an initiative Thursday promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries, seeking to impose order on an emerging technology that has the potential to change the way war is waged."
+    publishedDateTime: 2023-02-17T18:29:00Z
+    webUrl: "https://www.militarytimes.com/news/2023/02/17/us-launches-artificial-intelligence-military-use-initiative/"
+    type: article
+    provider:
+      name: Military Times
+      domain: militarytimes.com
+    quality: 41
+    images:
+      - url: "https://www.militarytimes.com/resizer/jy4v5JCOLT7nEoE9lSOYNFB17Qg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/6S4UYCVZFVEAXHWSAO5WDPHKJI.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Responsible use of AI in the military? US publishes declaration outlining principles"
+    excerpt: "The declaration coincides with the US taking part in an international summit on responsible use of military AI in The Hague, Netherlands. Reuters called the conference \"the first of its kind.\" At the summit,"
+    publishedDateTime: 2023-02-17T20:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/responsible-use-of-ai-in-the-military-us-publishes-declaration-outlining-principles/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 40
+  - title: "US launches artificial intelligence military use initiative"
     excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries."
     publishedDateTime: 2023-02-16T15:03:00Z
     webUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/"

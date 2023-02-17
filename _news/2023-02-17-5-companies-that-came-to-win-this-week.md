@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T15:34:00Z
 originalUrl: "https://www.crn.com/news/channel-news/5-companies-that-came-to-win-this-week-feb-17"
 webUrl: "https://www.crn.com/news/channel-news/5-companies-that-came-to-win-this-week-feb-17"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CRN

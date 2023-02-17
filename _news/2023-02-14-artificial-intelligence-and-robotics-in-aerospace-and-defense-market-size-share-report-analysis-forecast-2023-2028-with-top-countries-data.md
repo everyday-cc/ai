@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Complete Overview of Artificial Intelligence in Healthcare Market 2023 Along with Prominent Market Players by 2026"
-    excerpt: "Marketresearchguru.com has recently conducted a study on Artificial Intelligence in Healthcare Market 2023 to 2028"
-    publishedDateTime: 2023-02-13T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/complete-overview-of-artificial-intelligence-in-healthcare-market-2023-along-with-prominent-market-players-by-2026-2023-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Market 2023 Size with SWOT Analysis by Top Players till 2027 | 129 Pages"
     excerpt: "Feb 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision Market” Report which is spread over [129] pages provides In-depth analysis on the market size, share, new ..."
     publishedDateTime: 2023-02-13T23:16:00Z
@@ -187,6 +173,20 @@ related:
     excerpt: "Feb 15, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Report covers specified competitive outlook consisting of the"
     publishedDateTime: 2023-02-16T02:56:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-trends-and-opportunities-and-forecast-to-2028-with-top-countries-data-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud AI Developer Services Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "Feb (The Expresswire) -- \"Cloud AI Developer Services Market\" Report provides a Detailed analysis of global market size, regional and"
+    publishedDateTime: 2023-02-17T15:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-17"
     type: article
     provider:
       name: MarketWatch

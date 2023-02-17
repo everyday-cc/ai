@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T19:26:00Z
 originalUrl: "https://www.investmentnews.com/fintech-bytes-crypto-winter-continues-234154"
 webUrl: "https://www.investmentnews.com/fintech-bytes-crypto-winter-continues-234154"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: InvestmentNews

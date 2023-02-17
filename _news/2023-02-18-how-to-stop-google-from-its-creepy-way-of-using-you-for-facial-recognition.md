@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/tech/how-stop-google-creepy-way-using-you-facia
 ampWebUrl: "https://www.foxnews.com/tech/how-stop-google-creepy-way-using-you-facial-recognition.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-google-creepy-way-using-you-facial-recognition.amp"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:

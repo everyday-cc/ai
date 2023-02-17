@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-machine
 webUrl: "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Colon_cancer_-_Sebastian_Kaulitzki_277dbee2959349bbbd2680e383db4864-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "AI-wielding tech firms are giving a new shape to modern warfare"
+    excerpt: "Behind this new form of warfare are some of the most unconventional minds in American tech. Everyone knows about Elon Musk, whose rocket company SpaceX put Starlink satellites at the service of Ukraine (though he has now restricted access from the battlefield)."
+    publishedDateTime: 2023-02-16T15:33:00Z
+    webUrl: "https://www.economist.com/business/2023/02/16/ai-wielding-tech-firms-are-giving-a-new-shape-to-modern-warfare"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230218_WBD000.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "13/02 – Weekly Fintech Recap"
     excerpt: "Partnerships American Express Taps Microsoft AI for New Expenses Tool American Express is expanding its decades-long relationship with Microsoft to develop a suite of solutions built on Microsoft Cloud and AI technologies focused on reducing business travel friction for employees and businesses."

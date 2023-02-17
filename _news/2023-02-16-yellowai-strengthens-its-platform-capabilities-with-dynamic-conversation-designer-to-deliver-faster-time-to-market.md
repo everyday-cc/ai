@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Yellow.ai addresses conversational AI developers’ pain points with conversation design tool"
+    excerpt: "New conversational AI tool from Yellow.AI looks to improve the design process for chat and voice conversational workflows using generative AI"
+    publishedDateTime: 2023-02-17T20:07:00Z
+    webUrl: "https://venturebeat.com/ai/yellow-ai-addresses-conversational-ai-developers-pain-points-with-conversation-design-tool/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 37
   - title: "Moveworks Leverages Generative AI to Provide Customers with Real-Time Translation in Over 100 Languages"
     excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it now provides on-the-fly translation in over 100 different languages for its employee support virtual agent."
     publishedDateTime: 2023-02-16T17:01:00Z

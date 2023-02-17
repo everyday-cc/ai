@@ -8,7 +8,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-artifici
 ampWebUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-race-microsoft-stock-outlook-google-bard-2023-2?amp"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-race-microsoft-stock-outlook-google-bard-2023-2?amp"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Healthcare
 
 images:
   - url: "https://i.insider.com/63ef90640b940100196f591a?width=1200&format=jpeg"
@@ -229,6 +230,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Microsoft Bing AI chatbot doesn't have human thoughts. Neither does your dog."
+    excerpt: "This is a non-trivial scenario that requires a lot of prompting.\" In other words, if you start repeatedly urging AI to consider its \"shadow self,\" as New York Times reporter Kevin Roose did in his giant, multi-part, overtime-triggering conversation with ..."
+    publishedDateTime: 2023-02-17T20:18:00Z
+    webUrl: "https://mashable.com/article/ai-chatbot-microsoft-bing-not-human"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 81
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/07CoXtyhyIFmbUDr422Z8GD/images-1.fill.size_2000x1654.v1676624946.jpg"
+        width: 1999
+        height: 1654
+        isCached: true
   - title: "Microsoft Shifts Focus to AI, Terminates Metaverse Division"
     excerpt: "Thanks to Azure cloud computing, Microsoft Mesh and OpenAI can scale back-end services. More importantly, Microsoft can still generate shared virtual experiences (metaverse) with its Inception and Character.ai. On the one hand, Inception allows startups to ..."
     publishedDateTime: 2023-02-14T06:39:00Z
@@ -354,6 +369,15 @@ related:
     provider:
       name: Detroit News
       domain: detroitnews.com
+    quality: 34
+  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
+    excerpt: "In racing the breakthrough AI technology to consumers last week ahead of rival search ... The new Bing is built atop technology from Microsoft's startup partner OpenAI, best known for the similar ChatGPT conversational tool it released late last year."
+    publishedDateTime: 2023-02-17T20:29:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/bing-ai-chatbot-microsoft-looks-to-improve-software/507-ea5b9e3d-ac2a-411f-8077-3e5fee7ae745"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
     quality: 34
   - title: "People are sharing shocking responses from the new AI-powered Bing, from the chatbot declaring its love to picking fights"
     excerpt: "If you push it hard enough, Microsoft's new Bing might just snap. The search engine's new AI-powered chatbot has only been in the limelight for a week or so, and it's apparently chided users, gotten into arguments, and appeared to get confused about what ..."

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T19:41:00Z
 originalUrl: "https://www.forbes.com/sites/charliefink/2023/02/17/this-week-in-ai-too-much-like-us/"
 webUrl: "https://www.forbes.com/sites/charliefink/2023/02/17/this-week-in-ai-too-much-like-us/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

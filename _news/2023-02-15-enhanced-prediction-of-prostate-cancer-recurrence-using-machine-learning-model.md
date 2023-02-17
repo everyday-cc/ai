@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
-    excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the Feb. 15 issue of Science Translational Medicine. Davide De ..."
-    publishedDateTime: 2023-02-17T18:18:00Z
-    webUrl: "https://journaltimes.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_0a94204f-4313-5bb4-a253-1d213c9f0fcc.html"
-    type: article
-    provider:
-      name: The Journal Times
-      domain: journaltimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/1/07/1071cbc1-b78f-57da-8493-f6fe6ac14137/63efc1ccc8a8a.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
-        isCached: true
   - title: "New machine learning model improves prediction of prostate cancer recurrence"
     excerpt: "The investigators first developed a training model using the UPMC data. Several machine learning algorithms were applied to the fusion gene profiling data to determine the best parameters of 14 fusion gene combinations for predicting prostate cancer ..."
     publishedDateTime: 2023-02-14T20:52:00Z
@@ -53,20 +39,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Machine learning model helps doctors predict opioid prescription risk for patients"
-    excerpt: "Researchers at the University of Alberta are using a form of artificial intelligence to help doctors better predict which patients are at risk of adverse outcomes from opioid prescriptions."
-    publishedDateTime: 2023-02-16T15:17:00Z
-    webUrl: "https://medicalxpress.com/news/2023-02-machine-doctors-opioid-prescription-patients.html"
+  - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
+    excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the Feb. 15 issue of Science Translational Medicine. Davide De ..."
+    publishedDateTime: 2023-02-17T20:43:00Z
+    webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_8cea174c-c901-5f62-97ab-6528bacee66e.html"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 33
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-model.jpg"
-        width: 810
-        height: 877
-        isCached: true
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 19
 
 secured: "126LDkP79zBMvfnEGBsSTgWlRhjUZW92UCLcTuCid41cqLK/gwCrVmC2emG9rr07VMqSYLeoNbfSjxQ/calUAdwmzYwOf0jo+jCpDAB2sns51uDr1hmfDgQV3QKKxN2VVesJWGWbYqlLSWrNtlOcrWHp9aXJ9cO7JGoq5ujIgMz7A+IwEQ6EYH5XrNs867vjkwtZ0KzC9dFSYAWL7JRxHhLo+QMYQlI3YGkeD7pDfBmvZnmZBeOwdOuqPGCcQef9Q9g+gliNBJuaOnWq4xEy9OpBweNau6zadDDeSq/FU1hZgMmH5+grbaMorwELtla5ryAMOPmPv4+IlM+8BGEyORgTHrlec+q8yJCIMydxCuzxEwjOVeevsUy4yGs+GzCbkERCy1iTKSpsvQi3TrhdZLSm6wkVa+xyOUh7hbH8156BG+M209kR0ActIP9CE/jzF6Eaayxj/yvrB3+r0I8JNDUaihfHa17Ql1PCiTFFuYOIcvTpFr/ImaayLNNAXX/fphmMGroVvV+mIAyo44xLqQ==;o3Rg9/LsGgniyY8d4rS4Lw=="
 ---
