@@ -103,15 +103,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "3 Stocks to Buy for the Future of Artificial Intelligence"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s been a lot of talk about artificial intelligence stocks. Grand"
-    publishedDateTime: 2023-02-13T17:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-the-future-of-artificial-intelligence-1032091976"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "AI Chatbots Are Coming to Search Engines. Can You Trust Them?"
     excerpt: "Google, Microsoft and Baidu are using tools similar to ChatGPT to turn Internet searches into a conversation. How will this change humanity’s relationship with machines?"
     publishedDateTime: 2023-02-16T17:26:00Z
@@ -149,6 +140,20 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
+  - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
+    excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
+    publishedDateTime: 2023-02-15T02:22:00Z
+    webUrl: "https://www.indystar.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/"
+    type: article
+    provider:
+      name: The Indianapolis Star
+      domain: indystar.com
+    quality: 29
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "People are using AI bots like ChatGPT to work side hustles and earn thousands of dollars — check out these 6 hot freelancing gigs"
     excerpt: "Her book \"Show Me What AI Can Do!\" is available on Amazon for $2.99. Overdubbing videos in other languages Streaming companies like Netflix and content creators on YouTube and TikTok are turning to voice dubbers to translate their videos into more ..."
     publishedDateTime: 2023-02-16T11:40:00Z
@@ -168,6 +173,6 @@ related:
       domain: economist.com
     quality: 17
 
-secured: "XB4l5IB1Q4G5WOHexpl5Otm/1DJZtyf4jYrpa1t+SNTl2BgHXqvTOV9Lk5N4r+9HCJCr1YQamSgWTckeOdZGiIg3XXnz//3i0RsCRr9J74GwxOLDBpFLbmMjS/4bWfvzwQyQCI+dadPzaEmXYG2LaRUKzoMVe/Wjr+SZjnGAiqW7Mp2/JZbH3MWPJxkm/t9Nc6Osrqw+gh9tYcnrnCMtpGlvfX/3Fz+lms/jHvUl/8JGAPmKW+BM8YYqcIZozvjorusxAuIxNUfSE3WiB9JasexI06uz3xdSRH8OaehfszBvpHljNAzr3Bej8MGeyfk/MCcqFJbHxXAqLyiAZMb+IFUGld4R+45TyC4zYVYBheA=;BywRZk4+lljk0KExB9uSDQ=="
+secured: "Xxsn7dFv+TGx3y94XPsf5/IvH2TUbBgc4mJIUvarT8416+UWQEC9a39p9fROj4vFZS98ul6yanEzDE9GrNA+Z08gy9F4XX09j3UiyQjQcxB3PK6jglko1xrTYYwsQW6JrTgh18uK9iBDUfrPwIaOEP7ySX3aHv+zxpwFJWs5yIFwFymjtcV7ggCZ4SIuWJQYwP7ZQZ3GRIavZp3gvfhl7AuyIg+bmMueGUQRZfL/c2wY0qENtFzsMG9g/gDjZzN14DOgwv6SPa1vGzSoKvl6l11It4MNM76waF9RECOcwK2RnXfw0EgIK895TRrdY3x/6dDIJQl8l3dq47EILzIXLKZ7IldtImnX4Fw97b1lCRhI+Jig4Eb8qDpCcNTy8qMuvX4X7ON449zKdXbWRjSEl+tYDRJlc4a9q/tcEmkcJW+rRc+iCNGVeufpdf7UOe7Q35bEC5arNOR1Q/FXYNR+PELDNM2PnW7C5Z39zYByTjuEg1UQpt3FByn/MjN/LpwrbufWA17/zBK1ZIAo0L1yBQ==;0Q/6PbnxP+OLouSYRXXQzQ=="
 ---
 

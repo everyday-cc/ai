@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tesla recalls 363,000 cars over self-driving software"
-excerpt: "Tesla said it was not aware of any injuries or deaths related to the issues. US authorities have been investigating the firm's autopilot system. Officials from the National Highway Traffic Safety Administration (NHTSA) met with Tesla in January to raise concerns about the \"full self-driving beta\" software,"
+excerpt: "Tesla is updating its self-driving software after US safety officials raised concerns that it could allow drivers to exceed speed limits or travel through intersections unsafely. The recall affects nearly 363,000 vehicles in the US, according to filings ..."
 publishedDateTime: 2023-02-16T20:34:00Z
-originalUrl: "https://www.bbc.com/news/business-64665913.amp"
-webUrl: "https://www.bbc.com/news/business-64665913.amp"
+originalUrl: "https://www.bbc.com/news/business-64665913"
+webUrl: "https://www.bbc.com/news/business-64665913"
 ampWebUrl: "https://www.bbc.com/news/business-64665913.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64665913.amp"
 type: article
@@ -522,6 +522,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "EJjYgkOw5eP2Hd9nTVVmJB4z1QyM91gANHDffxfdznkm8j6AFAJbeCd+mJJVJgud+DsDJwsWD5wj8VJo2edKlg0kqssIkjRUqWBvympLTLSZIdHMT/+GO3uoriOzCL9yeg74ghcHc/Z1+KMXX6GOmb1h66ZvW2D9P3FV8Da1EGGzdG/eri2kjKHxq/ZFYexlHuKISBZRLNVfapFNc6/LMPgX0lL81bjt7l2CnHgKvgBHmvK6wniRE814V9nV9G/V8/YHtMHmUBVvH+gydUOjCTsCNwHbfbQP18r/5ePXGStDmuJWUTipJRue84WE5nogSQoy/BN8kN78z2lvmfcQaSzQF0yV6wzPXZIJ+CussEg=;Vvi1NvpmTMI1pT9bIemLLg=="
+secured: "YswqolUKJByqbFF2GofGKy4icipt7j3Fq32X422xs1uV3Nao8vb3EGlbb2g7AGhfgViS7P36GfSfPcjr7F5ubpPg+L5o7a0vngf8ZeNM779EQ9YC8uATz17i+jQzG6K0CocTZ9oarxtMgTbxy5OepYBxOWUa/iCDJnd89gf1iTu4tFHYKUGihGMtnPJCNHMixGYHPij7W9vEeIBZxPhiv+ZYL3ZusriMKBJNAdS5iiOwg9HFXrW8CbC10khIQU44DOYM08NOLi87wRkhL7WWu2xKjdu1CpZQwH9XQ6ahT+DKGupgiTEPJ9ttjfRWMce11gqFUtJJODVw0hvMzgFlvbpkWyaEpKq+dOU3K4XxST4=;Ielk5/kePxzTJvpW93hsKQ=="
 ---
 

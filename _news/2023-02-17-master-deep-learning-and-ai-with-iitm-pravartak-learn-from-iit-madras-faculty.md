@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-w
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -52,7 +52,16 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 30
+  - title: "Learn Deep Learning and AI from Eminent IIT Madras Faculty: IITM Pravartak launches Certificate Programme in DL and AI with Emeritus"
+    excerpt: "IITM Pravartak and the Centre of Outreach and Digital Education, IIT-Madras, have announced the launch of the first batch of the Certificate Programme in Deep Learning and AI on March 30, 2023. Positioned as a high-intensity course,"
+    publishedDateTime: 2023-02-17T01:33:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230216/4039816.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 3
 
-secured: "ifJAzahInR4NvytL82NulA5BTiSB2O7nxTK2r6oIzJeOw5CnlVEqI/m3WTooO4y5nrbqfe/IdcCsjNQNhRzh9crsk5+AnVJ419SumQMATczr4MYaswtvRDASOz6hsAI5Y8SGQY04Q0zKBIExqG2QIHKjuAFzBGibF2EnRrF+TK68lQWx+ZQQeFU2RjULQPU/eg9hZ6XuZJs5ipj21yz5WU7gBD2aAQNyrue+0rkQ1g58musKn/oCq8HZZwPtZwn93YCSViZ5E/zKuy9bwBNqxNHPD7/VcKbwOf9yavBEbz1Rj+0HTGdKcUjzvhcMK99fwlMqZzfUSh789F0ij2r4HaWnpF07ubnLq1F3DGV1Rw0=;NAI1rcGqVCk7CDQqOMHc5w=="
+secured: "cLH6vszr5GEshmJbKtxR6txZ0fUH54Y8u4IiFkzSc9kg9B69ag9CnhkHz53ztLyAV/u7mZs/1AeJ3HwLMNAQZjqpvc61bgjZ/D45liLKeEHDZoT6mosMWcLn3KTFua2g+vJUc7S5IGEYB4oL2mtHt7CvsfVyQK/UCz27VeGgTTjGT/aMto2SI4tg9mCsabzbK5LzdFsdtgyUiaMM01gekUeNpAnBT/+V0SdSw1r29f55ipf3bez7mpR9Fcev7F+5It4pxjl9Ipz+XfygeZGq1lMx1aCFe6BGtgR5+wdnA0X0toEuB0POJOv4ud+62fcFiI8SxIJFGD8yhMRYLarYY7/TgDEkGy6AIECju5FzRvO7ZlgznhlzIZqsJbOy1T1FmNJhlmHjWU5TWHOEoYcTmEBSvk+NsGsQK8xb2D2NLMAP3RGSI1Jh07SIV0a5Hjh8rqc+zdlAO5NIm5KIp5yugtDl3DlQbU5Fxhcdox8Z+/dymhjEcmf9ZKa7fAiz0xF/k1noEMTy9Z/16uiZGkuCCg==;jlFgPU9yDnD/VBpJFQx8CQ=="
 ---
 

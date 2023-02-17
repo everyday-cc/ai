@@ -48,9 +48,9 @@ related:
         height: 619
         isCached: true
   - title: "Tesla recalls 363,000 cars over self-driving software"
-    excerpt: "Tesla said it was not aware of any injuries or deaths related to the issues. US authorities have been investigating the firm's autopilot system. Officials from the National Highway Traffic Safety Administration (NHTSA) met with Tesla in January to raise concerns about the \"full self-driving beta\" software,"
+    excerpt: "Tesla is updating its self-driving software after US safety officials raised concerns that it could allow drivers to exceed speed limits or travel through intersections unsafely. The recall affects nearly 363,000 vehicles in the US, according to filings ..."
     publishedDateTime: 2023-02-16T20:34:00Z
-    webUrl: "https://www.bbc.com/news/business-64665913.amp"
+    webUrl: "https://www.bbc.com/news/business-64665913"
     ampWebUrl: "https://www.bbc.com/news/business-64665913.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64665913.amp"
     type: article

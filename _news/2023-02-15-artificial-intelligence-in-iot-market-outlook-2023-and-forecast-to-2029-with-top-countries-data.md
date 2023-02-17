@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-15T01:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-02-14"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-02-14"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

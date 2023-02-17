@@ -93,6 +93,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "I tried Bing's AI chatbot, and it solved my biggest problems with ChatGPT"
+    excerpt: "ChatGPT has taken the world by storm, and since its launch, I have been closely interacting with the chatbot. Although I have always been impressed with its advanced skills and its human-like conversation capabilities, I have had a couple of recurring ..."
+    publishedDateTime: 2023-02-16T23:13:00Z
+    webUrl: "https://www.zdnet.com/article/i-tried-bings-ai-chatbot-and-it-solved-my-biggest-problems-with-chatgpt/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tried-bings-ai-chatbot-and-it-solved-my-biggest-problems-with-chatgpt/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tried-bings-ai-chatbot-and-it-solved-my-biggest-problems-with-chatgpt/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/34a4905934b8725406b3f13bef0c2222826bc561/2023/02/16/2fcdd0e0-2d65-4422-840a-c23bc6d094cc/gettyimages-1246873718-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft’s AI Chatbot Finds Early Success in Bing Searches"
     excerpt: "AI-powered answers have earned the approval of 71% of testers and chat has proven a popular addition that’s deepened engagement, the Redmond, Washington-based company said in a blog post Wednesday. People are also using the chat-capable Bing beyond ..."
     publishedDateTime: 2023-02-16T06:17:00Z
@@ -120,6 +136,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/00Guvjt5xjOV6SxPuhnYsL6-1.fit_lim.size_1200x630.v1676558891.jpg"
         width: 938
         height: 528
+        isCached: true
+  - title: "Microsoft Defends New Bing, Says AI Chatbot Upgrade Is Work in Progress"
+    excerpt: "The company responded to reports of glitches and disturbing responses from the new search engine."
+    publishedDateTime: 2023-02-17T00:21:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d?mod=flipboard"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-727151/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft Shifts Focus to AI, Terminates Metaverse Division"
     excerpt: "Thanks to Azure cloud computing, Microsoft Mesh and OpenAI can scale back-end services. More importantly, Microsoft can still generate shared virtual experiences (metaverse) with its Inception and Character.ai. On the one hand, Inception allows startups to ..."
@@ -242,6 +272,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/31/44/10/23478812/3/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Threats, mistakes and ‘Sydney’ — Microsoft’s new AI is acting unhinged"
+    excerpt: "When Marvin von Hagen, a 23-year-old studying technology in Germany, asked Microsoft’s new AI-powered search chatbot if it knew anything about him, the answer was a lot more surprising and menacing than he expected. Tech is not your friend. We are."
+    publishedDateTime: 2023-02-17T01:42:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/02/16/microsoft-bing-ai-chatbot-sydney/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X6VOIEJ6RJFGLNM4234OFDGD4Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Microsoft Bing AI claims to be able to watch webcams & hack devices"
     excerpt: "The AI-powered search engine era is here, and Microsoft was the first to kick start it with their reveal of OpenAI-powered Bing and Edge on February 7. Fans quickly flooded the waitlist in an attempt to gain access to the new features, with many reporting ..."

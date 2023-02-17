@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/openai-funded-startup-l
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/openai-funded-startup-launches-harvey-ai-for-law-firms-10098561.html/amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Unleashing Harvey AI: ChatGPT-powered tech transforming legal industry"
-    excerpt: "Allen & Overy (A&O), one of the world's largest law firms, has partnered with OpenAI-backed artificial intelligence (AI) start-up Harvey AI to automate legal document drafting and research."
-    publishedDateTime: 2023-02-16T12:53:00Z
-    webUrl: "https://interestingengineering.com/innovation/unleashing-power-of-generative-ai-chatgpt"
+  - title: "BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI"
+    excerpt: "Although the startup has really caught the eye ... henceforth dubbed ‘Buzzy The Robot,’ (official title: BuzzFeed’s AI Creative Assistant)” and quiz-takers themselves. “"
+    publishedDateTime: 2023-02-14T15:35:00Z
+    webUrl: "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/"
+    ampWebUrl: "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/amp/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 17
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-4805167311.jpg?resize=1200,812"
+        width: 1200
+        height: 812
+        isCached: true
 
 secured: "RFwDoFJshjcCxqEAoc4QJ/0raR4RgwoCe9rzZ06fGueuchU8JnMVRviuZ5XqeES3cWVJIdb1lmaULRE/1DhSLZjPrPSNcPiHzVmr6Ugy8y6gumNQDVRHGnMWia6lhlndaq7Y3PGND6l8hq5RGx0diPrMJmLyfzdMhBYcqW9n9eqeUroBR3gC3Ni18gjNHN2gB2LaGMwXBklIcNp/UzWJcWHM0thTnASJi2/DUu775PtQnrfbfaVYskfmIDjShTqNi/8IAsD3jnWIq8FtriXhKxzHytduGPG/5i/dBDYxYvRCRJvL9x6zGmNBzH4NitHrE41w7OhDd1/+JMpvK5zPDsC2+avPAyS+tXsO+UDrlmStTBaUZvtQ1U0UK3ZTHVfBbea+eAcEndBxz5B/R5jBqvOitruci4WgjvWQ4pF33C9iX9vXQn3JR6SP738JKKwzdk+dpPbu5x6hEsv6/cwBTLapMSUoNu3MQ26SRJ8IhcJ/vUj1cIB1IWE8YNTJLKhRkQE29IFWYkD8ZQeoMEL7xg==;pQ2wFer0Y88bb2/+uwtIgg=="
 ---

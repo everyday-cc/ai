@@ -167,6 +167,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "How Medicine, Batteries and Carbon Capture Benefit from Generative AI"
+    excerpt: "Generative AI is a type of machine learning (ML) framework consisting of several architecture models. The common model is a generative adversarial network (GAN)"
+    publishedDateTime: 2023-02-17T02:53:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/30501-how-medicine-batteries-and-carbon-capture-benefit-from-generative-ai"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/de651b253633fc26574b502a194448a7.jpg?t=20230217_020957"
+        width: 1126
+        height: 550
+        isCached: true
 
 secured: "Y2QiItq0l5IYZHkK6P6d/N989uKLA9jgiWUTsgG3NbZvSfy3swJ5rwPKHpNvE9+f0x8mH+eFxGBOS/O0kes3H9Tv7c8zL2tonWJnthoBgOHVTCx1G0zD4+mlggfcswGGPCRlQMiL749qMDZQovU2Sfmh+73QsNEGoaF3Z75urxfI9woPoPgV6PQ7k4p2gy7sqwMp9Kv0hEwdnIIqBwSG3Z5hW/dvKZBoq2uylRpCiUrmW8JF+WhLX1hsU+mzNxh0Yuox5Se3w6X+wYJ/XfEe/9jXdwd0CxJbtBb1s9WvpwbVYBN3RBZY3z+nyyFxnRv+OEt6Eu5mklxsxj8+Qg8wrfkkZnWiTeTWGXJKH8zb1RGV8XgtRaY6myIQMsJ+8uVj8gr2PdmM8kmSl1ltmLxUj1nbosGydm6lcnjHMiW7SkpP921kHVnc6fyPTxDD5+tHZLem27TiHTBYIUj1tP0n1hI+YyDQ95Wxq0Z084/xb0DO+wP0zlfMJF9BN0UiPMxSuh72nOix4pv9alh14zpatg==;GXPLgpIagcTFutihPuagmA=="
 ---

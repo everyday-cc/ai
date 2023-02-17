@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Fintech Investing In Q4 And Beyond – What To Look For"
+    excerpt: "For the first time since the beginning of 2021, Fintech is no longer the leading industry by investment as it has been surpassed by Healthcare ($16.7B). Despite a 64% downturn in global investments since Q4 2021,"
+    publishedDateTime: 2023-02-15T18:36:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/02/30931113/fintech-investing-in-q4-and-beyond-what-to-look-for"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30931113"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30931113"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/15/joshua-mayo-bmj1vl77zwm-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "13/02 – Weekly Fintech Recap"
     excerpt: "Partnerships American Express Taps Microsoft AI for New Expenses Tool American Express is expanding its decades-long relationship with Microsoft to develop a suite of solutions built on Microsoft Cloud and AI technologies focused on reducing business travel friction for employees and businesses."
     publishedDateTime: 2023-02-13T12:33:00Z

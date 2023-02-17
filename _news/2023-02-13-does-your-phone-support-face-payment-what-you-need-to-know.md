@@ -8,8 +8,8 @@ webUrl: "https://gulfnews.com/special-reports/does-your-phone-support-face-payme
 ampWebUrl: "https://gulfnews.com/amp/special-reports/does-your-phone-support-face-payment-what-you-need-to-know-1.1676273813578"
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/special-reports/does-your-phone-support-face-payment-what-you-need-to-know-1.1676273813578"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://imagevars.gulfnews.com/2023/02/13/Face-Pay_1864b2d5972_medium.jpg"

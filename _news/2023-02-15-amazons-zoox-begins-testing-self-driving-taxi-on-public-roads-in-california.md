@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-sel
 webUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-self-driving-taxi-on-public-roads-in-california/"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Amazon’s self-driving unit Zoox puts driverless taxi on the road"
+    excerpt: "Zoox, Amazon’s self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the ridesharing population. Just like a customer could call an ..."
+    publishedDateTime: 2023-02-15T23:22:00Z
+    webUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
     excerpt: "Some dairy farmers and vineyard operators in Napa, Sonoma and other California counties are bringing in electric tractors capable of operating without drivers. Here are the pros and cons."
     publishedDateTime: 2023-02-14T17:06:00Z

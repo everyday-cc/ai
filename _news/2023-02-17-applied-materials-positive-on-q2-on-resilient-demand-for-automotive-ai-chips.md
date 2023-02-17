@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Applied Materials positive on Q2 on resilient demand for automotive, AI chips"
+title: "Applied Materials Positive on Q2 on Resilient Demand for Automotive, AI Chips"
 excerpt: "Applied Materials Inc on Thursday projected quarterly revenue broadly above estimates as it fills a backlog of orders and benefits from resilient demand for its tools used to make chips for the automotive and artificial intelligence industries."
-publishedDateTime: 2023-02-16T23:56:00Z
-originalUrl: "https://www.channelnewsasia.com/business/applied-materials-positive-q2-resilient-demand-automotive-ai-chips-3284756"
-webUrl: "https://www.channelnewsasia.com/business/applied-materials-positive-q2-resilient-demand-automotive-ai-chips-3284756"
+publishedDateTime: 2023-02-16T21:06:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-02-16/applied-materials-forecast-current-quarter-revenue-above-estimates"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-02-16/applied-materials-forecast-current-quarter-revenue-above-estimates"
 type: article
-quality: 51
-heat: 51
+quality: 61
+heat: 61
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-    width: 1200
-    height: 676
-    isCached: true
-
-secured: "6DutlF/LiUQ9JqQ0eRghoBDcEnB2YI51zE58Vn5RjGZgQNT3GgrAELsao2OZiqdCiARMmtvfvnEpFCfBPa6J8DSa19B7tMHDhaS6/DVj8XVogfhEgM2jFq9vV6dY1BuSMFJURWuCd6Ou4LABtKbVojlsavukAsI3a6Jg5gKCkz3nHWRskNxKhhYb/7v+TxvSE/AQTvsNLxGFmhnakf3b0QWkBu3Gz9qxqczwq75o4jQwCkMroccJgkZHw/f533A3kCYaofM4gzcXr26n0x/oqLnCodamFQIMGZ3ATeR3gXyXfNLvrbtXdEMPDFZzk3MCluKo+Cfi6LzA2Ncj3xJSGnGyu0C4lUQRUvV3f+e1+uU=;lFcFSG9Xep3DpUajJIJIZw=="
+secured: "jka1hsMXtWNG9SDQY7sJrYOAfsabR9pk56jS31S3sY+HRxQ3nCVWDtx9bdK5lr8HaGsi+HhHJkj8HlkQIEURmNaRo/RvipFafIOipVGy8dCPf8C6zkA1zVJ5Zg9OpknItiOiOCcz8p5oRylC8/P/C5nmCp3zLw9AXV2NynfbZVtbCm/cWNsgSM8JrbBNx8l1+6Sye2H8xNkBhmhYo5rjLoTNIEa8WqZWE+JuUOfPyOqbQjGBM608UMItGmkfDDulXKxdI6TFn4V7xPxgtjSUywZJ949RFNmdmlemfMCo7l/XnmBSqvuX0IPqDs0pWGLcLCnnL/iNLrLxqW1S0PQGurrSIBoXBK0s/17grvDwTVs=;aY+Jl4dJR1eItIAgBRyOQw=="
 ---
 

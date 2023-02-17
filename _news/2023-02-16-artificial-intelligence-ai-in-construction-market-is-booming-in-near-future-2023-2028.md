@@ -37,7 +37,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 90
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3 Stocks to Buy for the Future of Artificial Intelligence"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s been a lot of talk about artificial intelligence stocks. Grand"
+    publishedDateTime: 2023-02-13T17:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-buy-for-the-future-of-artificial-intelligence-1032091976"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
 secured: "7h6F6nzCpkMyb+vLgDLHfY8xYhiFuzfaRUN6C/XNBfcfEhEnt0+XLdR/1whNQPMWKhd4miczYcNN4W/Ng5eQn8Ew/qdgcxS9HE372ELYr9/aJPDmnzB8lGzmPKN6bIUVik61yexmml/tdhpmJPcXdINV6zcdvqQcwOcDaB+tds1w97lhKpr+zqIRhgXJQLzoWLEmyKjcpJjGMMhsaRQKlkU9ExUPkLkt8GoOw0/J4yAkLCOefChfWdhBd0Lbvxy5J/FexmbWF6g4DKJe4uiY9mzv6F4L5oH0y/86U9X7tixCHPmM3vObsQxplTlEkK/Why0QRPcrskU2KpVdD9FJdT3WnIQpkfFad3mV+incTZs=;G824cEIkvFV4Zb7aJ+Aedw=="
 ---

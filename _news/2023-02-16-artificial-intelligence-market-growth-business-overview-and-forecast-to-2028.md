@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in IoT Market Outlook 2023 and Forecast to 2029 with Top Countries Data"
+    excerpt: "Feb 14, 2023 (The Expresswire) -- \"Artificial Intelligence in IoT Market\" Report covers specified competitive outlook consisting of the market proportion"
+    publishedDateTime: 2023-02-15T01:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Service Market Trends and Opportunities and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb 15, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Report covers specified competitive outlook consisting of the"
     publishedDateTime: 2023-02-16T02:56:00Z
@@ -149,20 +163,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in IoT Market Outlook 2023 and Forecast to 2029 with Top Countries Data"
-    excerpt: "Feb 14, 2023 (The Expresswire) -- \"Artificial Intelligence in IoT Market\" Report covers specified competitive outlook consisting of the market proportion"
-    publishedDateTime: 2023-02-15T01:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

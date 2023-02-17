@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Finding the right path for federated learning"
+    excerpt: "It contrasts with the traditional approach to machine learning in which data is collected from a lot of sources then used in training the algorithms within the central repository. “With federated learning,"
+    publishedDateTime: 2023-02-14T12:01:00Z
+    webUrl: "https://www.ukauthority.com/articles/finding-the-right-path-for-federated-learning/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 24
+    images:
+      - url: "https://www.ukauthority.com/media/12289/calum-inverarity-from-open-data-institute.jpeg"
+        width: 701
+        height: 400
+        isCached: true
 
 secured: "5GQJZ5NeNmgfGXDwf7qf+IxPlYkfVr6xn8czumqrNq3j2Wh0ltgCwR0CykNK3OEL6VGDoY4QCfzUjE8UcOUHNzYiumajqsh3RUmS7EwuklRBTWZ7zpYfvtJXvAax5gUAxSlntEpMSEKznECp+i3xtEtV2M7Vjs9eV9PVuvlBN4AVdwOO1CxebBhsb5bUc0JwHO2qY4aFBitZzZgox7BIeHIMKP4xZKeOvQ4mJSwekUOwZagrzQB4YDkHhoSShotUj954dlzoaOVHdHeZXUMwdtwi0e9ui3c2/Ns7t6zQlWf5BrWJkJb9SiL1R7L7ybSQb3cZriA41/g+VdS0Dr4iaG3QS3j2ILogiI2IkbzUociiIG6pIN6k9dzBMpv0ozspyAPtIxB3sUs7XsTWxCoFHI1zA/xsntPEcADRlJURnwNFIDurq7HOz2lsgwEzJcqFRMj88y5MAAo/XXkS642Y3FZu+rHfYJf9OfkNyJD8fb8C/DoPhtzSCY1OdPQKXHWfaP/LLOQRwkJaEDB5EHrS4g==;Y7kciUHvaguZa8515GX9ig=="
 ---

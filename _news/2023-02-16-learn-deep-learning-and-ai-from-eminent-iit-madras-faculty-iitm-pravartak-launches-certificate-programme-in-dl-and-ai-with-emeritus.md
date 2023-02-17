@@ -52,6 +52,15 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 30
+  - title: "Learn Deep Learning and AI from Eminent IIT Madras Faculty: IITM Pravartak launches Certificate Programme in DL and AI with Emeritus"
+    excerpt: "IITM Pravartak and the Centre of Outreach and Digital Education, IIT-Madras, have announced the launch of the first batch of the Certificate Programme in Deep Learning and AI on March 30, 2023. Positioned as a high-intensity course,"
+    publishedDateTime: 2023-02-17T01:33:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230216/4039816.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 3
 
 secured: "D/pjfVIsHaMu2UMOJs/pUT/Xphr1+r9QJsYUCQo94WFdS2p1/pUMLVNw13UfDCPp6TgXdxp9kgnTQU1OyqX4eu1hCvItijStBBYIoSr8QBaj/FSbL1HQvNZReoc915knGFPcFleMQqlsdY7X0Ex5HGkCVDe0S3z8fp3DE/Bj2UXG+Qzy5yaqvJlTQ+jptRKBYVu6TNepADg5/ZnJmBCHK5mzgaGQC7FBLTZcl0XwVVS5m3a+2NdfquS5PUni/AnRU/eLDGho29E1LVz6U1HMEyVW+DJrJB8lS/mTc2UkF6szwxu5pDAqImjz1JtQ3+U5odtMhXSy4YC4VOGQdbIbRs6Upkzl3Y7ZzXwA2yshVec=;7kIxwPzFnO2C9Kol1CH4ug=="
 ---

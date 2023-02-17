@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Fintech Investing In Q4 And Beyond – What To Look For"
+    excerpt: "For the first time since the beginning of 2021, Fintech is no longer the leading industry by investment as it has been surpassed by Healthcare ($16.7B). Despite a 64% downturn in global investments since Q4 2021,"
+    publishedDateTime: 2023-02-15T18:36:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/02/30931113/fintech-investing-in-q4-and-beyond-what-to-look-for"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30931113"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30931113"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/15/joshua-mayo-bmj1vl77zwm-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Integrating AI with infrared imaging to improve colon cancer diagnosis"
     excerpt: "Artificial intelligence and infrared imaging automatically classify tumors and are faster than previous methods. The immense progress in the field of therapy options over the past years has significantly improved the chances of cure for patients with colon ..."
     publishedDateTime: 2023-02-15T00:12:00Z

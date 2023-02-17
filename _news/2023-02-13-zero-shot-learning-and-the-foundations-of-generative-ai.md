@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "How Medicine, Batteries and Carbon Capture Benefit from Generative AI"
+    excerpt: "Generative AI is a type of machine learning (ML) framework consisting of several architecture models. The common model is a generative adversarial network (GAN)"
+    publishedDateTime: 2023-02-17T02:53:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/30501-how-medicine-batteries-and-carbon-capture-benefit-from-generative-ai"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/de651b253633fc26574b502a194448a7.jpg?t=20230217_020957"
+        width: 1126
+        height: 550
         isCached: true
 
 secured: "Y+pgzaZcD3VFkD/r1tj/KUUnAi4ue8l08XSYv1zSeyASJ208tybiijX+lTBPVfV/EEE4D2FvZcqptlwbk6Ia0xMeGjYXappOtr4viVp/Xrg2cSTQ8D2fLMrk9GUcNG95ObzVkTI7ohbJaxAJI/WvjHW2SLIwZVIsOZ02omm+B4kFl655O4TOlPCEcfAvjMXp6T0DGTmKeTjt9XWPG0glwjslkRAePVq1H82o16KByUknH1AIvxPVAI9o57lCdptNL7WMAObG8DqaRD8lqHvbJCVWdQaTr5p9o0EfoleIn80baH+ul5PnWF3uCgYqBcrTYpiqJn2NadSDie49F3ymuTlEd9MlI2ibDJX4kIjeDHDyEDA0D0k6tcfC3dCKo1ypyP0/XuIOmjiuumbi9BI0kPyaUI27LcBIJHQjKB5wnOuLXILNKa8qqc+bUOeCReKFgMYhej7TTlCcVRiwUCDk8T61ykKDpOOVuiB2O/SITjrc6k3Sj7EdP7juj8yteENkdZAEeeA+I+7PxRHSAxCkDQ==;+iQwsh4iXmtFtzueqUIVYA=="

@@ -60,9 +60,9 @@ related:
         height: 630
         isCached: true
   - title: "Tesla recalls 363,000 cars over self-driving software"
-    excerpt: "Tesla said it was not aware of any injuries or deaths related to the issues. US authorities have been investigating the firm's autopilot system. Officials from the National Highway Traffic Safety Administration (NHTSA) met with Tesla in January to raise concerns about the \"full self-driving beta\" software,"
+    excerpt: "Tesla is updating its self-driving software after US safety officials raised concerns that it could allow drivers to exceed speed limits or travel through intersections unsafely. The recall affects nearly 363,000 vehicles in the US, according to filings ..."
     publishedDateTime: 2023-02-16T20:34:00Z
-    webUrl: "https://www.bbc.com/news/business-64665913.amp"
+    webUrl: "https://www.bbc.com/news/business-64665913"
     ampWebUrl: "https://www.bbc.com/news/business-64665913.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64665913.amp"
     type: article
@@ -518,6 +518,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "kIhxj262T022THL+idvlbST+F74YTAu/PLpKYLFU+4dWAskk8ani8mKSSkpVtcoGff9mkPYBqk8P0HGBd4lG8JEyWtMSoUnSsYGC88jN9JHeX9IsF+dxwXNm6r6pLBkZI3vmNKKYrshvCvhy0fJ2DeLTNF8A3gPgFwBoS+Kz6UVGxYKE+yVl/hnG2y+jhmn5/x+FsAkWWs9W/S4POrb/QTS7UnAUEfwmJe+4kuSouzoyFl46byIHeBfS7CagKzaV8d0p7pn05mfzeb7GOT6G5V1GG3fDJxMEBLh9SHU6haPwh7lBQzf+cSyg12PmVM+fayZ2h2ldKI9+Wnkx/X7CYlAM+hE1772QDxmyIV4R8c0=;oo94LO67v+vvOBOIKzqdgA=="
+secured: "iUIY3h8oGIA8eZyM5cltPVNwzXE0cj0WpMKKRhg2KkaX0hd5VV7x2BOCNSVaEZOPyNFP4SEADi+LMfxJLTpNnOOWlHSH+1+XTf7Ebduh0pLBLWVQqxJGoZCpIJt+vrVB1YsDgf2TCfMi77i2lTWIJdrNkjHTkkCaHehnAXiCg96TSrsnZdqfAIaDSID6+dyH6AOx1vKg9KQ7Qz6poqbyOBfJaBkjGoBLpIwpBRZbyrg84K3xWS+XQjnhgsZFm7n+jZaVwEfeUrwj7KgbhtM87ZgTTMWtTdY/QSwNdmMcSdpVYZVbPjBA4maZJG9GnTMoIgUJ4bVC+GfqtjTyus+z3Bn3Tm01J+f9G1X/p7iOVo/8jBkoMVJYuwpovsxIrH4LSU+8GNEHWPSvhdel3VSdrsrkMnYajRgYqB+LN/WFEn1S0od2QcIIFyvxBWs5ZD7h5SMCBbpMN+/uUkC6YSx0Nb/CrnSZvxUCEBsgjMv6xtQ90TCrH5hphXeyr332JUr+v1u1vQxn5xFgVyTwBipnIg==;TzHjScF5jASSAPeuNTGMOQ=="
 ---
 

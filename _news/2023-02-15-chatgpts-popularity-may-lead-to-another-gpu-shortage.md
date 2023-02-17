@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-
 webUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Gizmochina
@@ -27,6 +27,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "ChatGPT might bring about another GPU shortage - sooner than you might expect"
+    excerpt: "We won’t know just how far the demand could crawl and the number of GPUs that’ll be needed to train the AI models. As mentioned above, we already had to deal with a massive GPU shortage not ..."
+    publishedDateTime: 2023-02-14T02:18:00Z
+    webUrl: "https://www.techradar.com/news/chatgpt-might-bring-about-another-gpu-shortage-sooner-than-you-might-expect"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 66
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/X5WWcZocrGofWm5TT7bWq8-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Be6+aKlKt83pz/01eAfYdnfiC/HK/5KniIaDhiRGINfmrod0LvqX6gl94vJlXEQCNCHBA9M9wvwnUecaVOGESHjNy+tA6rEnvcvI6CTNO5xWS3Hs1FbLZVBE2OzU07BQYoG2E6jdClHnF3vp90XcnFmibkymQc6IRtqUFuUPQUj/iix/P+Q3+4LrkKdJM5FUpSPROHfTZNPiVGq4tT3kmoXoQor9FRM7kCRo8bet0PXJ8tzaVYQcYN4f9Wd8fk4gwZx7ST4LbNuPVQMqZyxeUsivjrVfPG5U00nB+hxB3/ouE9CmxeWbs5MSEXo2As9vQVtIh1M+bwZUl45Y3tebZoVxrwkEsoZVWYeJxd778HiXCKbPosIU4WmiJAN36sVWxcmF1889jIrYfzH5by50KouB1YOu6CMclyO8SP7BaKF9MPxZSzNX4/SB+fbcvRIM0z30o+qSNsePHMmJN7tEHKGVRnGgnrQOtdN6O2AGG5Z9PKsgIfPCcsj6tfQj8fru2/KHUTSjfhUuiZMhRCZC7Q==;cgyza8LfnL3LU+PWJV+HiA=="
 ---
