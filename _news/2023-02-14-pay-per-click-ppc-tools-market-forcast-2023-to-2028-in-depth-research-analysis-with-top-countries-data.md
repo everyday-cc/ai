@@ -29,85 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Data and AI Ethics Market Research Report (2023-2029) | Gain a Competitive Edge with Top Key Players"
-    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (113 Pages) | In This Reports Data and AI Ethics Market and"
-    publishedDateTime: 2023-02-16T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16"
+  - title: "Machine Learning-as-a-Service (MLaaS) Market Size, Share and Forecast 2028 with Top Countries Data"
+    excerpt: "Machine Learning-as-a-Service (MLaaS) Market Size is projected to Reach Multimillion ... as well as end-users.Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc."
+    publishedDateTime: 2023-02-17T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Market Research Report (2023-2029) | Gain a Competitive Edge with Top Key Players"
-    excerpt: "Artificial Intelligence in Market Size 2023-2029 | New Report (97 Pages) | In This Reports Artificial Intelligence"
-    publishedDateTime: 2023-02-15T05:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-15"
+  - title: "Face Recognition Software Market | Current Scenario and Future Aspect Analysis with Top Countries Data"
+    excerpt: "Face Recognition Software Market\" is expected to grow at a steady growth during the forecast period 2023-2028,"
+    publishedDateTime: 2023-02-13T01:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-current-scenario-and-future-aspect-analysis-with-top-countries-data-2023-02-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning (ML) Platforms Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Machine Learning (ML) Platforms Market Report includes data on research and development,"
-    publishedDateTime: 2023-02-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-15"
+  - title: "Face Recognition Device Market Size 2023: Reliable Business Demand, and New Strategies Forecast with Top Countries Data"
+    excerpt: "Latest Face Recognition Device Market [122 Pages with 227 No. of Tables and Figures] Research Report provides qualitative and quantitative information on CAGR status and industry"
+    publishedDateTime: 2023-02-14T15:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-reliable-business-demand-and-new-strategies-forecast-with-top-countries-data-2023-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Forecast [2023-2029] | CAGR 23.7%"
-    excerpt: "The global “Speech and Voice Recognition Market Size in 2023” is expected to rise with an impressive CAGR and generate"
-    publishedDateTime: 2023-02-15T17:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-forecast-2023-2029-cagr-237-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
-    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | In This Reports Face Recognition Systems"
-    publishedDateTime: 2023-02-16T04:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Turnstile Market Forecast Report 2023 | Industry Booming in Next Upcoming Years by 2027 | Research Reports World"
-    excerpt: "The Face Recognition Turnstile Market (2023-2027) Research | Updated New Report | Market is including in Various"
-    publishedDateTime: 2023-02-16T04:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-forecast-report-2023-industry-booming-in-next-upcoming-years-by-2027-research-reports-world-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-mark
 webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-15"
 type: article
 quality: 79
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -145,6 +145,20 @@ related:
     excerpt: "Feb 14, 2023 (The Expresswire) -- \"Automotive Artificial Intelligence Market\" Report provides a Detailed ... Inc., IBM Corporation, Audi AG, Waymo Llc (A Part of Alphabet, Inc.)] and others, value chain optimization, trade regulations, recent developments ..."
     publishedDateTime: 2023-02-15T02:17:00Z
     webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-business-overview-and-forecast-to-2028-2023-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Report 2023: Acute Analysis of Global Demand and Supply by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 17, 2023 (The Expresswire) -- Global Facial Recognition Market offers an [Industry Insight Report 2023] and is expected to witness remarkable growth in the coming years."
+    publishedDateTime: 2023-02-17T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-2023-acute-analysis-of-global-demand-and-supply-by-2028-2023-02-17"
     type: article
     provider:
       name: MarketWatch

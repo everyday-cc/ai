@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft’s AI Bing Chatbot Fumbles Answers, Wants To ‘Be Alive’ And Has Named Itself - All In One Week"
+    excerpt: "Microsoft’s Bing chatbot has been in early testing for a week, revealing several issues with the technology Testers have been subjected to insults, surly attitudes and disturbing answers from the Big Tech giant’s flagship AI,"
+    publishedDateTime: 2023-02-17T10:07:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/02/17/microsofts-ai-bing-chatbot-fumbles-answers-wants-to-be-alive-and-has-named-itselfall-in-one-week/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/17/microsofts-ai-bing-chatbot-fumbles-answers-wants-to-be-alive-and-has-named-itselfall-in-one-week/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/17/microsofts-ai-bing-chatbot-fumbles-answers-wants-to-be-alive-and-has-named-itselfall-in-one-week/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ef5fc81dcff2b548ed2985/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The dark side of Bing’s new AI chatbot"
     excerpt: "After asking Microsoft’s AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy. The chatbot said it “must be hard” to balance work and family and ..."
     publishedDateTime: 2023-02-16T19:41:00Z
@@ -138,7 +154,7 @@ related:
   - title: "Microsoft Defends New Bing, Says AI Chatbot Upgrade Is Work in Progress"
     excerpt: "The company responded to reports of glitches and disturbing responses from the new search engine."
     publishedDateTime: 2023-02-17T00:21:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d?mod=flipboard"
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d?mod=business_lead_pos3"
     type: article
     provider:
       name: Wall Street Journal
@@ -194,6 +210,22 @@ related:
       - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
         width: 1440
         height: 500
+        isCached: true
+  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
+    excerpt: "Microsoft’s newly revamped Bing search engine can write recipes and songs and quickly explain just about anything it can find on the internet"
+    publishedDateTime: 2023-02-16T21:38:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/bing-belligerent-microsoft-tame-ai-chatbot-97269000"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/bing-belligerent-microsoft-tame-ai-chatbot-97269000"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/bing-belligerent-microsoft-tame-ai-chatbot-97269000"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Microsoft now says AI-powered Bing chatbot is ‘not a replacement or substitute for the search engine’"
     excerpt: "Microsoft was clear from the start that its limited preview of the new technology ... strengths and surprising weaknesses in a lengthy exchange last week, when the AI chatbot made complex inferences and proactively conducted advanced research, while ..."
@@ -255,17 +287,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
-    excerpt: "The tech company said this week it is promising to make improvements to its AI-enhanced search engine after a growing number of people are reporting being disparaged by Bing. In racing the breakthrough AI technology to consumers last week ahead of rival ..."
-    publishedDateTime: 2023-02-17T04:41:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Threats, mistakes and ‘Sydney’ — Microsoft’s new AI is acting unhinged"
     excerpt: "When Marvin von Hagen, a 23-year-old studying technology in Germany, asked Microsoft’s new AI-powered search chatbot if it knew anything about him, the answer was a lot more surprising and menacing than he expected. Tech is not your friend. We are."
     publishedDateTime: 2023-02-17T01:42:00Z

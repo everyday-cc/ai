@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence (AI) in Oil and Gas Market\" 2023 which"
+    publishedDateTime: 2023-02-17T03:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest Survey on \"Artificial Intelligence in Healthcare Market\" Analysis 2023-2028, Updated Report With 110 Pages"
     excerpt: "Report Highlights:- \"The global Artificial Intelligence in Healthcare market size was valued at USD 4127.87 million in"
     publishedDateTime: 2023-02-16T04:15:00Z

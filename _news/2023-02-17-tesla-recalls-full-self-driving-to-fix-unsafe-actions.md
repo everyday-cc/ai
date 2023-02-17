@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
-excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t"
-publishedDateTime: 2023-02-17T04:49:00Z
-originalUrl: "https://www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/"
-webUrl: "https://www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/"
-ampWebUrl: "https://www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/amp/"
-cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/amp/"
+excerpt: "DETROIT (AP) — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits. The recall, part of part of ..."
+publishedDateTime: 2023-02-17T11:03:00Z
+originalUrl: "https://www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html"
+webUrl: "https://www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html"
+ampWebUrl: "https://www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html?outputType=amp"
+cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Boston Herald
-  domain: bostonherald.com
+  name: syracuse.com
+  domain: syracuse.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.bostonherald.com/wp-content/uploads/2023/02/Tesla_Recall_97725-1.jpg?w=1024&h=683"
-    width: 1024
-    height: 682
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S5VDBOEHUNHI5LK4H57YNWPXWE.jpeg"
+    width: 5472
+    height: 3648
     isCached: true
 
 related:
@@ -122,6 +122,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/c4fc1a96e1c5c28d34aab8c25d0d564c1b18f24f/2023/01/19/811fe712-f4b2-428f-831a-26c7ff53cb16/0x0-model3-01.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Elon Musk said Tesla's AI could 'really crush' Google's reCAPTCHA robot test, just hours before news of a recall involving 363,000 self-driving cars"
+    excerpt: "Tesla recalled nearly 363,000 cars after the NHTSA warned it could act \"unsafe around intersections.\""
+    publishedDateTime: 2023-02-17T11:43:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-tesla-ai-recall-could-really-crush-google-recaptcha-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-ai-recall-could-really-crush-google-recaptcha-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-ai-recall-could-really-crush-google-recaptcha-2023-2?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/63ee13a1dd6fcf00194a9fed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla recalls 362,758 vehicles, says Full Self-Driving Beta software may cause crashes"
     excerpt: "Tesla is recalling 362,758 vehicles and warns that its experimental driver-assistance software, marketed as Full Self-Driving Beta, may cause crashes. The recall notice was posted on the on the website of the National Highway Traffic Safety Administration ..."
@@ -570,6 +586,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "mG4WTQbOh1LTXYdQy8T5UA/GpRizT787YIch8Pqp+n0pYpn8uXVU9rnRfETumLTxE6iGVOnecAu+Ye/3fOboxrUJWdoXYbORRIqBo5ttYy9Sb/MT75MB2sz/KVumpFjI3fQujTsMJ++YkeXPSMkW5wVliFjqlBMv5lic/F51xmikeqQHcyCtb7NKdPBZSblfuNF14lDAKyTj3k/cIuq+8qoeio+hgJylYMLapcAa0QucIEjWT5tRSFmELDMk3H9lCiLJ06gtPj5INnpN5Kt9etyOImZW/gE+6qukfCAgpGroyoKs31ZSJT7wKossYAyVQ7gJ226e15Vut1//k4h/MTB2xEWnI2X21xBxKVAVhYU=;elRXN6l+VD8JJeBk/puCbw=="
+secured: "bUtkpLiyicijYoRQg7mo213hChJQ3nEk1VJjTsXELfTE9DphQH9EH3xv798slG5CEPe8jEfdWIDs/pep9G4aPB2VMTov8PDWZ5N7t3RE0DX3hSOM64tIZiNadpR2EzXbuNeV2bw8nQGyDWPnxu3WMpI8ePxN6xawBK0ToU0NX3kKMmB+7lZAZcQy+PGhoEuudS69jwd19nUvFeGvj2vk6MCgc9wCk5zasKIr3vaw9f2KWI1cc63tKkSF3AcuZ09JA81XUoRF60wIUUeqqptteDP/lhnlvEn+YKHPppFOL3sYCnch7Fld4OBgDWr+JhB7sspvVxPG8QKgHplrOX7GYqFDDtJ0TDqEnGREDxFqR94=;reImCl0fYfhtL/yavUHsNw=="
 ---
 

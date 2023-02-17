@@ -38,6 +38,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Medtech starts cutting jobs, Amazon AI researcher jumps to startup, & predicting newborn illness"
+    excerpt: "In the latest edition of STAT Health Tech: layoffs hit medical device companies, an Amazon AI researcher jumps to a startup, and a new model predicts newborn illnesses."
+    publishedDateTime: 2023-02-16T17:52:00Z
+    webUrl: "https://www.statnews.com/2023/02/16/medical-device-layoffs-health-tech/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 24
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2018/04/AdobeStock_198832173-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "dPwbC+XJEdv5cGNMTdvryFmb+bFD1aZEZFT71G7yoUTqZtRm/jo7CLpS6eCPJdUyuArCdJfWzRr6JSzvArEoxeV+uEVP7zxq2+E8cNqcwManfU7OAifoScYLJjWqjmhITFJONM8MRaEtMKqnlaAGEfYHnLzCmH3s5NHfb0KST1X2sElSmfMUObJm1x+scHpEKRecZnUj3tD5+xMx3iiHk1L9ClUwUYq55aq3qoiOtPfUWoW2Ynt69wAKP4RggHG5ibh2YVBrEZvtBy8qdVAuo8uFqqaup0fS2YwyWB+LfFq0cDfnnArepzr78Tgkp3+3bm6XtnHkbYz00uhOOEc6U5YpoQndfuPLCLzxAJQhZUKPoTRvvBFi6E+JG29+icl9KarKm1zUoUd7kYHCNPAawAF2Ra94RJyelT/q0SVTPOqPA1rKOkbOOo5evNwB5hfZY9ojw3pWO/ykfD8lK+0Ovedz319I81IaJVoAyX3/brXS9cTR1OCz4LHq0KTmczDvNTlQBxAMNR5ubrdHjmm45Q==;oMxH4EX+/RvCnpbBM1BhUQ=="
 ---

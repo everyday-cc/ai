@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Flexiv Launches Revolutionary Force-Controlled Parallel Robot"
-excerpt: "Moonlight is the world’s first force-controlled parallel robot and is ideal for applications that require precise motion and force control, such as screw fastening, ultra-accurate loading ..."
-publishedDateTime: 2023-02-03T12:40:00Z
-originalUrl: "https://www.enidnews.com/region/flexiv-launches-revolutionary-force-controlled-parallel-robot/article_9066bc24-5267-5b45-85bc-726c0b3d3dbd.html"
-webUrl: "https://www.enidnews.com/region/flexiv-launches-revolutionary-force-controlled-parallel-robot/article_9066bc24-5267-5b45-85bc-726c0b3d3dbd.html"
+excerpt: "Flexiv's ‘Moonlight' parallel robot is the latest addition to Flexiv's line of adaptive robots and is the world's first-ever force-controlled parallel robot. Flexiv, a world leader in general ..."
+publishedDateTime: 2023-02-03T11:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/b30703808/flexiv-launches-revolutionary-force-controlled-parallel-robot"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/b30703808/flexiv-launches-revolutionary-force-controlled-parallel-robot"
+ampWebUrl: "https://www.benzinga.com/amp/content/30703808"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30703808"
 type: article
 
 provider:
-  name: Enid News & Eagle
-  domain: enidnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "rHB8oI2eRm3VORJHckoi6mpAShFsx9NpDDbce2YlJm0hVJ6Zbp+QzYDaCV+rsAjfN62LAOfcUU3vr9gFqnHCmGpchjhLh/NNURe/t1EpPLsquEy8Bb6mLSlD99SKXW/i7tsdURVEDGD8jWmUw0cOAgdo0wYazJH4C8bHCdcCA42kLu56AbiZvaKol8QcKyJE6xh2GIqYeKI7iBWiEBsoS0slzrVZ1GGPZ0ouT/3pLJkmIBRi9ljfkQMFPtG9S8akvHFXZZ6/0UhGYQnysMOfqFhts5yVqc2qourVICigi1IABlAeXEziHbAqi4jKJ4sRo2AebMNXN5O8BvXX1uMkNe7AtSChRM8J4EYWserwqO0=;PENa8vn40JGNoxBzEDJQ9g=="
+secured: "lYZ5oqw83l7zFWGdCd8bVmpwxUFxm8NJ6tKZhrxlnyCcPOTEL306L7w54WbZTsPT4v5nT2VDeHLw8KeMPCJKWxYWIwxrcdJDkzAhlde4EfZLBJmRgL2vNtm3r6lzc8NVDqYac54cTLnUrwQtZ2BUxy1w1I8AeYtdGa0zcPou1Il63JkEtvV9yQtjcv2m6ek9RY4s9xhWZvlxVZY6ynxZPu53+QwE2J8we6prYn87i946/DvyL2yXK7/awOktGGhqFATpZ4epfLf8wfgwAzHjQOh45Q8E8MC2PW2pOKz1l2dL/z9R53cNfUiergERSm+n98Gi7oMljNbkgcuIHDk0RkgO4IrxkAj6c/gQfYrSUlQ=;IvYc3ETgf9o2oExdEGIS6A=="
 ---
 

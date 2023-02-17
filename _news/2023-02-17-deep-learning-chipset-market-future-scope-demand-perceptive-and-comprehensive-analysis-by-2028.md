@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Report 2023: Acute Analysis of Global Demand and Supply by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 17, 2023 (The Expresswire) -- Global Facial Recognition Market offers an [Industry Insight Report 2023] and is expected to witness remarkable growth in the coming years."
+    publishedDateTime: 2023-02-17T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-2023-acute-analysis-of-global-demand-and-supply-by-2028-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in IoT Market Outlook 2023 and Forecast to 2029 with Top Countries Data"
     excerpt: "Feb 14, 2023 (The Expresswire) -- \"Artificial Intelligence in IoT Market\" Report covers specified competitive outlook consisting of the market proportion"
     publishedDateTime: 2023-02-15T01:11:00Z

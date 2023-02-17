@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk said Tesla's AI could 'really crush' Google's reCAPTCHA robot test, just hours before news of a recall involving 363,000 self-driving cars"
+    excerpt: "Tesla recalled nearly 363,000 cars after the NHTSA warned it could act \"unsafe around intersections.\""
+    publishedDateTime: 2023-02-17T11:43:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-tesla-ai-recall-could-really-crush-google-recaptcha-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-ai-recall-could-really-crush-google-recaptcha-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-ai-recall-could-really-crush-google-recaptcha-2023-2?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/63ee13a1dd6fcf00194a9fed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla recalls 362,758 vehicles, says Full Self-Driving Beta software may cause crashes"
     excerpt: "Tesla is recalling 362,758 vehicles and warns that its experimental driver-assistance software, marketed as Full Self-Driving Beta, may cause crashes. The recall notice was posted on the on the website of the National Highway Traffic Safety Administration ..."
     publishedDateTime: 2023-02-16T16:14:00Z
@@ -266,20 +282,20 @@ related:
         height: 558
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
-    excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t"
-    publishedDateTime: 2023-02-17T04:49:00Z
-    webUrl: "https://www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/"
-    ampWebUrl: "https://www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/amp/"
+    excerpt: "DETROIT (AP) — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits. The recall, part of part of ..."
+    publishedDateTime: 2023-02-17T11:03:00Z
+    webUrl: "https://www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html"
+    ampWebUrl: "https://www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/product-recalls/2023/02/tesla-recalls-full-self-driving-to-fix-unsafe-actions.html?outputType=amp"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
+      name: syracuse.com
+      domain: syracuse.com
     quality: 59
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/02/Tesla_Recall_97725-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S5VDBOEHUNHI5LK4H57YNWPXWE.jpeg"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' system"
     excerpt: "DETROIT - Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U."

@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pay-Per-Click (PPC) Tools Market Forcast 2023 To 2028 : In-depth Research Analysis with Top Countries Data"
-    excerpt: "What is the projected market size and growth rate of the Pay-Per-Click (PPC) Tools Market? Pay-Per-Click (PPC) Tools Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
-    publishedDateTime: 2023-02-14T01:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/pay-per-click-ppc-tools-market-forcast-2023-to-2028-in-depth-research-analysis-with-top-countries-data-2023-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "v4WKrlTTmtwR5w6MODdvjDbOAuurBjXtwOdYVi0sC2ikuXivQBwvA2ffMRSI1/r60IblnlxpbAV0K72OAn9VMOx6+AFOE2URUYp54L0lW+RccksuyOIQsZMwO5BE2oGMAYV4D3i92RUmwPKL6hVoLp+vrfJN6Cgb4HOPqdxde1wkpQfvQx24vmSYuXSiwnJEomvPt7whXhXWr/VLren9bV7b4XE8lgVOqH7cGUHWS5W2jarjGuZN52r2t/fdzfvXOAh+S9BrDMEjv2WhjwzNz9zZCSZdzLvMopO5laHIFlxuJyjChQWKAMBuu21nnaVo/l1M9EQGlU0J3q6kRNCYrCiJosU5s00f1HcH/0acGUo=;sWSXeHtY6HzSvnCuqTsr7g=="
 ---
