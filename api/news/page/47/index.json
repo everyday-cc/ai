@@ -2,6 +2,239 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-01-13-datastax-acquires-machine-learning-services-firm-kaskada.md",
+      "title": "DataStax acquires machine learning services firm Kaskada",
+      "excerpt": "Seattle-based Kaskada claims to be the first company to train machines using event-based data and real-time data being fed from streaming sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html",
+      "originalUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/21/14/handshake_deal_partnership_teamwork_contract_merger_network_by_metamorworks_gettyimages-933315234_2400x1600-100788512-large-100922376-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html",
+      "publishedDateTime": "2023-01-12T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-internet-shudders-at-ai-designed-to-sext-users-with-roleplaying-and-pictures.md",
+      "title": "Internet shudders at AI designed to sext users with roleplaying and pictures",
+      "excerpt": "The team behind the artificial intelligence chatbot named Replika is copping some backlash from social media and Replika users for their recent advertisements attempting to sell the chatbot to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/89998/internet-shudders-at-ai-designed-to-sext-users-with-roleplaying-and-pictures/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/89998/internet-shudders-at-ai-designed-to-sext-users-with-roleplaying-and-pictures/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-the-year-ahead-in-autonomous-responsibility.md",
+      "title": "The Year Ahead in Autonomous Responsibility",
+      "excerpt": "But what if the technology is doing more harm than good? As increasing numbers of companies rely on artificial intelligence to power their tech, we see more cases of dangerous AI dysfunction ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/autonomy-artificial-intelligence-predictions-2023-1849914786",
+      "originalUrl": "https://gizmodo.com/autonomy-artificial-intelligence-predictions-2023-1849914786",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dedc7c6fda52d16de9b1f876ee0e2416.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market.md",
+      "title": "Pittsburgh’s AI expertise may give rise to an already growing startup market",
+      "excerpt": "Pittsburgh is an AI powerhouse. Now that seemingly every VC is interested in the category, the Steel City's startup scene could see a boost.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/12/pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market/",
+      "originalUrl": "https://techcrunch.com/2023/01/12/pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1351881393.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-security-technology-startup-awarded-over-4000000-for-humanitarian-support.md",
+      "title": "Security Technology Startup Awarded Over $4,000,000 for Humanitarian Support",
+      "excerpt": "Secured™, a service-disabled veteran owned small business security technology firm, is revolutionizing the field of drone surveillance with the first commercially-available automated AI Object Recognition & Change Detection software designed to merge sensor data in near real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/science-pr-newswire-drones-business-ea798c837083b6e25c7ff06f122f1b04",
+      "originalUrl": "https://apnews.com/article/science-pr-newswire-drones-business-ea798c837083b6e25c7ff06f122f1b04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-using-machine-learning-to-help-monitor-climate-induced-hazards.md",
       "title": "Using machine learning to help monitor climate-induced hazards",
       "excerpt": "Combining satellite technology with machine learning may allow scientists to better track and prepare for climate-induced natural hazards, according to research presented last month at the annual meeting of the American Geophysical Union.",
@@ -882,212 +1115,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-opinion-ryan-murphys-golden-globes-speech-was-more-than-words.md",
-      "title": "Opinion: Ryan Murphy’s Golden Globes speech was more than words",
-      "excerpt": "It's clear that culture is -- perhaps by necessity -- carrying the weight of progress right now for LGBTQ Americans, writes Allison Hope. Ryan Murphy's speech at the Golden Globes, for instance, was a particular bright spot in an increasingly dark political moment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
-      "originalUrl": "https://www.cnn.com/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230106142618-billy-porter-ryan-murphy-230110-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
-      "publishedDateTime": "2023-01-11T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-driverless-revolution-isnt-coming-ever-1.md",
-      "title": "Driverless revolution isn't coming... ever (1)",
-      "excerpt": "Matthew Sparkes correctly assesses the total failure of developing anything like a truly driverless car, yet he still feels compelled to end his piece on a relatively optimistic note(17/24 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/letter/mg25734211-200-driverless-revolution-isnt-coming-ever-1/",
-      "originalUrl": "https://www.newscientist.com/letter/mg25734211-200-driverless-revolution-isnt-coming-ever-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-whats-the-relationship-between-crypto-and-ai-is-there-any.md",
-      "title": "What’s the Relationship Between Crypto and AI? Is There Any?",
-      "excerpt": "The past six months has been a banner stretch for the development of artificial intelligence (AI). Image processors such as Midjourney and text generators including ChatGPT have sparked immense ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/consensus-magazine/2023/01/11/whats-the-relationship-between-crypto-and-ai-is-there-any/",
-      "originalUrl": "https://www.coindesk.com/consensus-magazine/2023/01/11/whats-the-relationship-between-crypto-and-ai-is-there-any/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/amiuMShgM0avGXPypOji5I06bDQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JGHSSBNHUJAWNMSS7LUDESRYOA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/consensus-magazine/2023/01/11/whats-the-relationship-between-crypto-and-ai-is-there-any/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/consensus-magazine/2023/01/11/whats-the-relationship-between-crypto-and-ai-is-there-any/?outputType=amp",
-      "publishedDateTime": "2023-01-11T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-artificial-intelligence-in-healthcare-market-2023-future-demand-with-emerging-trends-key-dynamics-till-to-2028.md",
-      "title": "Artificial Intelligence in Healthcare Market 2023 Future Demand with Emerging Trends, Key Dynamics till to 2028",
-      "excerpt": "Jan (The Expresswire) -- \"\"Artificial Intelligence in Healthcare Market\"\" Insights 2023 | New Updated Report [ No of Pages 128 ] The [ Medical",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-future-demand-with-emerging-trends-key-dynamics-till-to-2028-2023-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-future-demand-with-emerging-trends-key-dynamics-till-to-2028-2023-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-robot-pals-and-ai-tools-whats-ahead-for-tech-in-the-classroom.md",
-      "title": "Robot pals and AI tools: What’s ahead for tech in the classroom?",
-      "excerpt": "The robot smiles, frowns, blinks, and even tears up – digitally, of course. His Paris-based creator, Blue Frog Robotics, bills him as an “emotional companion” that can solve problems faced by education systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csmonitor.com/text_edition/USA/Education/2023/0110/Robot-pals-and-AI-tools-What-s-ahead-for-tech-in-the-classroom",
-      "originalUrl": "https://www.csmonitor.com/text_edition/USA/Education/2023/0110/Robot-pals-and-AI-tools-What-s-ahead-for-tech-in-the-classroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Christian Science Monitor",
-        "domain": "csmonitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,125 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-02-06-digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces.md",
+      "title": "DigiYatra’s facial recognition algorithm has been trained for Indian demography using 6 lakh faces",
+      "excerpt": "Avinash Komireddy, Founder and CEO of Dataevolve, the start-up that designed the DigiYatra ecosystem, claims the facial recognition algorithm has a success rate of 99%",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/startup/digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces-10016211.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/startup/digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces-10016211.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces-10016211.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces-10016211.html/amp",
+      "publishedDateTime": "2023-02-06T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-artificial-intelligence-in-aviation-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028.md",
+      "title": "Artificial Intelligence in Aviation Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2028",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-facial-recognition-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028.md",
+      "title": "Facial Recognition Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2028",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-south-africa-sa-startup-wise-move-revolutionises-moving-industry-with-artificial-intelligence-ai-powered-chatgpt-integration.md",
       "title": "South Africa (SA) Startup Wise Move Revolutionises Moving Industry with Artificial Intelligence (AI)-Powered ChatGPT Integration",
       "excerpt": "Wise Move is revolutionising the South African moving industry by becoming the first online platform to harness the power of OpenAI's ChatGPT through Artificial Intelligence (AI) integration. The company's cutting-edge technology provides users with an unmatched customer experience,",
@@ -807,109 +926,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-robots-revolutionising-chemistry.md",
-      "title": "The robots revolutionising chemistry",
-      "excerpt": "Researchers working with automated systems are pushing the boundaries of what chemists can achieve in the lab, reports James Mitchell Crow",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
-      "originalUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-hmt-advises-on-translation-firm-acquisition.md",
-      "title": "HMT advises on translation firm acquisition",
-      "excerpt": "South East law firm HMT LLP has advised an AI-powered language operations platform on its acquisition of an international translation company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermedia.com/news/south-east/hmt-advises-on-translation-firm-acquisition",
-      "originalUrl": "https://www.insidermedia.com/news/south-east/hmt-advises-on-translation-firm-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider",
-        "domain": "insidermedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-segway-launches-navimow-robotic-lawnmower-in-uk.md",
-      "title": "Segway launches Navimow robotic lawnmower in UK",
-      "excerpt": "Segway has launched its award-winning smart robotic lawnmower, Navimow in the UK, along with the innovative new AI-powered VisionFence Sensor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekamagazine.co.uk/content/news/segway-launches-navimow-robotic-lawnmower-in-uk",
-      "originalUrl": "https://www.eurekamagazine.co.uk/content/news/segway-launches-navimow-robotic-lawnmower-in-uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eureka Magazine",
-        "domain": "eurekamagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

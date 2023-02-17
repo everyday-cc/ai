@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radicall
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://media.newscentermaine.com/assets/NCM/images/fafd73df-950a-44e2-af00-7608999292b2/fafd73df-950a-44e2-af00-7608999292b2_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "ChatGPT AI passes test designed to show theory of mind in children"
-    excerpt: "Its ability – which seems to have spontaneously emerged rather than being something the AI was trained to do – is comparable to that of a 9-year-old child. However, whether this shows that the AI is using theory of mind … Ohio train derailment ..."
-    publishedDateTime: 2023-02-15T10:00:00Z
-    webUrl: "https://www.newscientist.com/article/2359418-chatgpt-ai-passes-test-designed-to-show-theory-of-mind-in-children/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "HMvS9deW5tt33l4XKPQGfmn5w1D8jxkfloWQGw4fTqOSZhYNtmZDlWLii8DKYhQtoqqbbr0fNW4Tb7UdqYmusScg0VFBCPJra1q94E5LrtAln/09Rb8pOssprGUBBXQHQQCo1NBUex+63uYEBFTxoHfoTrFMTfI7m53kdwIDIb7evTm0Yh/f2JD5yxUMdAdI/yvylcbrGeBWSCBSiNMPpJzJqBFRRxvD6Flc9A3TsK0F8MXDiUlgkt2v6G+SFb1jRE18MvsNw9bDCPclgw7Wx2DA+y6G02h695CNP08tiWhoo2H09zAdM2voJrwgzHXjTgln39vtd4mN5KLqMT8OjsSLtadc+k0ZKR1VNohS1KwS8c0VnOnDG1VWdRJlT+29sjxDf6bBdM9EKzVzKrOTjTTMPMsM23th36t5BGpnADxeWyCtO93pvb+PfeT+y59y3rsV//Lq3prPom1W7ICZAN2Wyh6q+AOh5WZKvcMaAzCsEJvAILL4Mundhx/e6IEyrEZFQrLkj6M59bo8meTlzg==;seeWqB8JFBeQrxexCy7THA=="

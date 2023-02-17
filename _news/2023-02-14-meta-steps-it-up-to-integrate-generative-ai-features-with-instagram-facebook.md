@@ -30,7 +30,7 @@ related:
   - title: "Meta to integrate generative AI features on Instagram and Facebook"
     excerpt: "Generative AI refers to technology that can generate text, images, sounds and other media formats in response to short commands or prompts from users. OpenAI's ChatGPT is the most popular example of Generative AI tool in recent months."
     publishedDateTime: 2023-02-14T19:51:00Z
-    webUrl: "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
+    webUrl: "https://www.moneycontrol.com/storyboard18/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
     type: article
     provider:
       name: moneycontrol.com

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -109,7 +109,7 @@
       "originalUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -302,59 +302,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth.md",
-      "title": "ChatGPT-led AI buzz unlikely to fuel near-term software growth",
-      "excerpt": "The hype around AI fueled by ChatGPT is a positive development for the software industry, but we don't see any sizable near-term sales gains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/professional/sites/10/man.png",
-          "width": 426,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1284,6 +1231,49 @@
       ]
     },
     {
+      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
+      "title": "Study reveals that much still not known about cognitive decline",
+      "excerpt": "Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change. PLOS ONE , 2023; 18 (2): e0281139 DOI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/02/230208155700.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/02/230208155700.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T13:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-dont-roll-your-eyes-ai-isnt-just-another-doomed-tech-fad.md",
       "title": "Don’t roll your eyes — AI isn’t just another doomed tech fad",
       "excerpt": "Companies like Google and Microsoft are simply pulling back the curtain on the AI that’s been powering their services for several years ... a professor and researcher of cognitive computer science at UC Berkely, revealed half a dozen inputs that would ...",
@@ -1389,21 +1379,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
-      "title": "Study reveals that much still not known about cognitive decline",
-      "excerpt": "The risk factors linked to cognitive decline in older adults explain a surprisingly modest amount about the large variation in mental abilities between older people, according to a new national study.",
+      "path": "_news/2023-02-09-oracle-cloud-made-all-the-right-moves-in-2022.md",
+      "title": "Oracle Cloud Made All The Right Moves In 2022",
+      "excerpt": "For example, Adept AI, a machine learning research and product lab ... Last year, Oracle Database Service for Microsoft Azure launched, enabling customers like Marriott to integrate the capabilities of two major cloud providers for better performance ...",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/we-still-dont-know-whi.jpg",
-          "width": 1280,
-          "height": 914,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e40d812bc3941fcb78da04/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1411,14 +1401,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T11:00:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/amp/",
+      "publishedDateTime": "2023-02-08T09:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

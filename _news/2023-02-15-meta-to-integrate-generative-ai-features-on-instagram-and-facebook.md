@@ -3,8 +3,8 @@ category: news
 title: "Meta to integrate generative AI features on Instagram and Facebook"
 excerpt: "Generative AI refers to technology that can generate text, images, sounds and other media formats in response to short commands or prompts from users. OpenAI's ChatGPT is the most popular example of Generative AI tool in recent months."
 publishedDateTime: 2023-02-14T19:51:00Z
-originalUrl: "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
-webUrl: "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
+originalUrl: "https://www.moneycontrol.com/storyboard18/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
+webUrl: "https://www.moneycontrol.com/storyboard18/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
 type: article
 quality: 39
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 435
         isCached: true
 
-secured: "UZS1+KtdYdwJlaiJvGyipDJlF/BtJNmqesB+ijIdMR/Pt9afSNv+rkvdAVJnsi5lVUUyniWd41SD51L98dd5cGoXNG6ATvnTitd+GEbsMpiDNpRUTPVVXi54nJSLfpBmBUd8YcLZKu+nrh5yW05HNY21x2S4NSO2RzJOJ/F6WzazMOVgIOj+6NbImVTHu5nOfaRDppA1wLlKLue3IiadbOMTvHSrK7wzZrA8kJwHj2Ntvj1vE476tQ8u9EvHCCD3L0rpcIGVZLTAh4HJ9DwUVuw+1LzXwCfJ8Zu1gZLtTdsKSITOtBaVgnuW9sa5JJGMNDY79cUpsQWvkBkxFAlzAiBfVj/uzch5e3NamUqVqRhEbLKi64QfQp7DfA1jPu1qlq10vHpXDAPqAqK1p6pcRO3dpTPuZ9g7Sb7SX1SmFPOUG3wWOC7tG7GEEWZCBO8PDuC0TRlhHPsjT8gxKFQwrjCDF7EghfaUAzSZg71K3JM8mPqgqYMDF1o8FqSmjY0cvv+sjYXWcHhI8mD5IBcLFA==;wwUfL2QguiJ7NFM4tKaFaw=="
+secured: "kFglJgTlYQbChL0axn6GCnMp5e0ni41WbnAe34yoHKhX1En9wV3eLh29fS58V0CDvFWappIA/2uLJnL2Xx2VPrKDuvSeQT2QzFGw56DIV+pur0qhow98pUYOr2SycLCqV2cyE30Vbu3S7i71OM5tnKz9O2yOitRKzoszJ8Rdro4Cx/keyPWq2GFgVp6gTSOlTPsmqOnLkgri8mMRlelHJ7IJW7ePy9LTv7BYriHZkq7DUz78RoKWmlARzbsdS1Fsd1//AlIyfQFPTqzhNQ49K8rqOk3VMmoo7hwQ5l/z7GndWQ7w+D/bOJRsBKm6AbEdTF3v7ReECPpBidgYWXc2e7VqgqWNp8AtLFIN19whk1M=;/bi2xBn2ysIic6hcfiG9QA=="
 ---
 

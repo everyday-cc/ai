@@ -148,9 +148,9 @@ related:
         height: 640
         isCached: true
   - title: "Microsoft Defends New Bing, Says AI Upgrade Is Work in Progress"
-    excerpt: "In an interview, WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about the new tools and how AI is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft described the past week as a ..."
+    excerpt: "The company responded to reports of glitches and disturbing responses from the new search engine."
     publishedDateTime: 2023-02-16T22:45:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d"
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d?mod=hp_featst_pos3"
     type: article
     provider:
       name: Wall Street Journal
@@ -311,6 +311,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "jzNpKDc6SBh48WuK7GoDKpIMnROdCMhaju/r0iIRNgvYWFn5gdJC6gMR1aiwG3EINAXpYImyfTPK3RIrjF+4v6Rq9JzOeEctwVRkPum7EKe2VMbGOy8SUdspNeqhLnqN0/uByRnijPac3Wy8YZN6jrMT3oithfvJr7B2f6bGznPhjto0WhC9Rd0GtU4VwtR7TsjM/oTMacq2YsqFrtYwXDtduChsE9TAlKAURoqdKc9g+sNMXeWFhCLNQ8u22wy/VVtEvzzd1IOn50Wl6jvmThezbd9rz4j61E2sZvM3R3t6udZFWOvBsm7DLDpXpJ06AaEhMB6mvq3wUJCxHn7c+ln35hQ/oYUCBOdWM8BlvpI=;BGgQX+dhQUoQ53VrP8L5Qg=="
+secured: "8Z9SfU3RhXSsLOWDbQFPUEZzKVsMaZ7/r6pV7n23tFPMAZJv+ix62P6XLV2sJVJoiuG86Ro5p2qB3J5PRQ4t2QqpDdtePf9U2d2r+BNIF5UNEvqKmuE8C83G8VaFiBxd8XbIOYuoKSDe2sKmugi/jMAQNZWxplEL7oGlsHZMqnzohKZ5DaDE6lidzbG/GXW9fxS68YgK1UGaW5RSWSvuQP8vNT0+pF4Dh8OLHVi5as8vG17vG4VA8Q6M95VEapSGsGL1acxzaICivjkNZM6GEU5qlL2Pj7A+eSF/T4FK10roPvnDkd6XRYUGP7tn1OdCGIrCddPe4U0nTPQ4pknm0/9ngqyE2ZzQ3Ab5MzDnzTanqSMMGRYQb3XnLmtNtiztXauHW58Ild81TRmGOIXM5A8Lsf8VrnzyXtX7/roC2AcRg9xOccP6V88l/L4QV+BLVF4cyeUKtMbqwAG/0qebd5PcC4fL9Y51xu2jnA08JrC51GmJ5lhmmGnmY2WFI3HrSYC1d2Cc1oJ28jt7oLXzfw==;OhJr8nb1A0v6RpHiBWLr1g=="
 ---
 

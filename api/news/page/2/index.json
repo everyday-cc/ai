@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-16-what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future.md",
+      "title": "What will Indian healthcare look like in 2047? Robotics, AI, biotech will shape the future",
+      "excerpt": "Healthcare of 2047 will be substantially different from today. All ecosystem players will be impacted by these changes and will need to be prepared to embrace emerging trends and pivot their business models as appropriate.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/photo/96164744.cms",
+          "width": 2448,
+          "height": 1224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
+      "publishedDateTime": "2023-02-15T21:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages.md",
       "title": "Latest Survey on \"Artificial Intelligence (AI) Chips Market\" 2023-2028, Updated Report With 115 Pages",
       "excerpt": "Report Highlights:- \"The global Artificial Intelligence (AI) Chips market size was valued at USD 13131.9 million in",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages-2023-02-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -769,7 +813,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -821,7 +865,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1208,58 +1252,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance.md",
-      "title": "Why Colorado draft AI insurance rules are a “major leap forward” for AI governance",
-      "excerpt": "Colorado's draft rules for life insurance companies using AI for coverage decisions are game-changing, says Debevoise & Plimpton's Avi Gesser.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
-      "originalUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Untitled-design-16.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
-      "publishedDateTime": "2023-02-14T15:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

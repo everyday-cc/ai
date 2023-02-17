@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-
 webUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/"
 type: article
 quality: 69
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,34 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/X5WWcZocrGofWm5TT7bWq8-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
+    excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
+    publishedDateTime: 2023-02-14T18:38:00Z
+    webUrl: "https://www.tweaktown.com/news/90331/the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90331_01_the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt.jpg"
+        width: 620
+        height: 348
+        isCached: true
+  - title: "Chinese chipmakers to advance GPU development for ChatGPT"
+    excerpt: "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development."
+    publishedDateTime: 2023-02-17T02:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg"
+        width: 336
+        height: 224
         isCached: true
 
 secured: "Be6+aKlKt83pz/01eAfYdnfiC/HK/5KniIaDhiRGINfmrod0LvqX6gl94vJlXEQCNCHBA9M9wvwnUecaVOGESHjNy+tA6rEnvcvI6CTNO5xWS3Hs1FbLZVBE2OzU07BQYoG2E6jdClHnF3vp90XcnFmibkymQc6IRtqUFuUPQUj/iix/P+Q3+4LrkKdJM5FUpSPROHfTZNPiVGq4tT3kmoXoQor9FRM7kCRo8bet0PXJ8tzaVYQcYN4f9Wd8fk4gwZx7ST4LbNuPVQMqZyxeUsivjrVfPG5U00nB+hxB3/ouE9CmxeWbs5MSEXo2As9vQVtIh1M+bwZUl45Y3tebZoVxrwkEsoZVWYeJxd778HiXCKbPosIU4WmiJAN36sVWxcmF1889jIrYfzH5by50KouB1YOu6CMclyO8SP7BaKF9MPxZSzNX4/SB+fbcvRIM0z30o+qSNsePHMmJN7tEHKGVRnGgnrQOtdN6O2AGG5Z9PKsgIfPCcsj6tfQj8fru2/KHUTSjfhUuiZMhRCZC7Q==;cgyza8LfnL3LU+PWJV+HiA=="

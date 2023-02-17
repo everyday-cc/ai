@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest Survey on \"Artificial Intelligence (AI) in Fintech Market\" Trend 2023-2028, Updated Report With 116 Pages"
+    excerpt: "Report Highlights:- \"The global Artificial Intelligence (AI) in Fintech market size was valued at USD 10204.78 million"
+    publishedDateTime: 2023-02-16T15:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-in-fintech-market-trend-2023-2028-updated-report-with-116-pages-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest Survey on \"Artificial Intelligence in Healthcare Market\" Analysis 2023-2028, Updated Report With 110 Pages"
     excerpt: "Report Highlights:- \"The global Artificial Intelligence in Healthcare market size was valued at USD 4127.87 million in"
     publishedDateTime: 2023-02-16T04:15:00Z

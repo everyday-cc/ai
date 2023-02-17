@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30907988"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30907988"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "New Plugin Unlocks Deep Learning Anti-Aliasing in Any Nvidia DLSS-Supported Game"
+    excerpt: "A modder has created a special Nvidia DLSS plugin that replaces a game's Deep Learning Super Sampling implementation with one of the best anti-aliasing features available, DLAA. Deep Learning Anti-Aliasing is the aforementioned GPU manufacturer's ..."
+    publishedDateTime: 2023-02-14T14:35:00Z
+    webUrl: "https://gamerant.com/pc-mod-deep-learning-anti-aliasing-nvidia-dlss-supported-game/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 34
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/02/vrkdq8um_2x.jpg"
+        width: 1800
+        height: 900
+        isCached: true
 
 secured: "u1kUOtLxi1EAx7e2qvfUfzvZh0GKPq/PSR4JP2obZ/fP+uDtwoXReVNBY7vzSqeR6IGVE+gqC5J3U7gXF3gt2kjq4E68EcKN5StBCdJ1LS46uO9oDUXcaxJMmPR0AER3A6chVjChHN3Fn5V1Fzgtw4EvPbWhtGvQpFYwWcy2KMP6tCQVCZV6mqjQSwrs0wFdVZGsT1NNl9S4jCknIHwbGFVNfiofQ4fca5dwK2BcMEumRmtPAJxex4TGmCjX11sTaZnA4FrNiFP/qEDcWjwN+cdzLgR86GfZY1hU1HvCbbGu/9OP3ZT5BH2oqX5MQx2JnTC8RQxIfwnpYOxTne9zCxw9Um6lFQdPlcGyKDM/FNQ=;6Mg9zOVM1D/vx1uySSIrxQ=="
 ---

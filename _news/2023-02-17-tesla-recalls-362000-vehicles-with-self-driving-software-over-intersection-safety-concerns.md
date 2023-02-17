@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla recalls 362,758 vehicles over Full Self-Driving software safety concerns"
+    excerpt: "Tesla issued a recall of its Full Self-Driving software after regulators said it could allow a vehicle to act unsafe around intersections."
+    publishedDateTime: 2023-02-17T01:33:00Z
+    webUrl: "https://techcrunch.com/2023/02/16/tesla-recalls-362758-vehicles-over-fsd-beta-software-safety-concerns/"
+    ampWebUrl: "https://techcrunch.com/2023/02/16/tesla-recalls-362758-vehicles-over-fsd-beta-software-safety-concerns/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/16/tesla-recalls-362758-vehicles-over-fsd-beta-software-safety-concerns/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla to recall more than 360,000 vehicles due to self-driving software problems"
     excerpt: "Tesla's Full Self-Driving Beta software increases the risk of a crash at intersections, and it allows vehicles to exceed speed limits, a federal agency says."
     publishedDateTime: 2023-02-16T20:20:00Z
@@ -244,6 +260,22 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_875b54d4b71e97d43a17e968d7b856ae_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' system"
+    excerpt: "DETROIT - Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U."
+    publishedDateTime: 2023-02-16T18:07:00Z
+    webUrl: "https://www.cbsnews.com/boston/news/tesla-recall-full-self-driving/"
+    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/tesla-recall-full-self-driving/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/tesla-recall-full-self-driving/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/16/4fca7c37-563c-4177-accb-c07ba333bb93/thumbnail/1200x630/ed6d0c821ec9d69935824b6b959b9df6/tesla-cars.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla recalls nearly 363,000 vehicles over 'Full Self-Driving' software"
     excerpt: "DETROIT — Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U.S. safety ..."
@@ -518,6 +550,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "qoNGxTxNTXBsw5KXq+nVaK5Djw5Po54GwzGkuDyKd+OVCsB2zHSv8Xg92qxMWcCqU2iCOtylctwmLvN1sCRX1SFi9TWwC9CIY+KCPA6E9HpQOf82rQvVQD7+KbhtQoTKdjaQ3NfQswq3WCGC24lY/sEAr0nwxN0aeo51FLRHlikDF0LZ2OisjCi1KMDq3OJW+touMKkmPDS36iYtZ8e4QNlPiQrWxWUJ9u4DB+yPwJ1fNNSZCgkMYtL38yC62Mp/M6XTGilgr0wgs6sY32vv3Ppunz9nEWHAFOBti4ktpwHwocqXlUh7AoegmvVwINWwtY4aA707QLzrGXCyqGPuLDEcg0X3TR87RF1Z+faFeCI=;6q0DawTrUjzT/uHuNGjPzg=="
+secured: "lj7Y+Y3pT0CWAcq3LM0v6dSxljGOxJ0oqIP7uSSNxGOOSCtguJuzsnmiYwr/PDuyoAlUKBXttzYk2KiHyTQ6WkCVX0AM4PUJQheTiy0fkGXEpJcRMbB+fACcVhykon9zvCyqsOeONJ1BfTeDz4H4wtw/9Ysb2F/Q/tw7SnY7RyFfeeDIZwbeP66G1UNzRamVVqgaHiRF+Q+vpHyQ1fj0LCXOTZ16ZsF8929DIZ9/xwO4Zzbmnm0mjeMWeS5IWHpwwZ+W/kVFN61EkUDRVaHzq82pCYnHZiuNAZ24VwYof6kbNZnizgiutmx+s/ZsK7F3P0QJHPcrFH96qDPeRjgYA1SiHkxPkSfgwfmtoJXZFj5IAesr33wL3f3d9Sf5JU8XT5F+zy/WFM3tvyHP555WkmbAm2PDr2HpadFd3DpEJ1fPM+9woqB6biD8yVRBBlSFMJ3gA7vCTOAldU1+gahcMU8zw3ad8wRCVRt80+SyY6bNksfS6qAVa7r2hzQ0aCATcd4ASoHZ3fXjxospyule+A==;+4n5Dv1+Y20WH60okzr6pw=="
 ---
 

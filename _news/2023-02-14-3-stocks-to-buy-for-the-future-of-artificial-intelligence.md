@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Bull Market Is Coming: 3 Great AI Stocks to Buy Today and Hold Forever"
-    excerpt: "With new chips like the Instinct MI300 (an \"accelerated computing\" processor that combines a CPU and a GPU) coming out later in 2023 to address advanced computing and AI needs, the future looks bright for AMD's top moneymaking segment. Data center ..."
-    publishedDateTime: 2023-02-12T11:40:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/12/a-bull-market-is-coming-3-great-ai-stocks-to-buy/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/720057/artificial-intelligence-getty-62817.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Food & Beverages Market to Acquire Growth of more than million by 2023"
     excerpt: "Final Report will add an analysis of the impact of the Russia-Ukraine War and COVID-19 on theArtificial Intelligence"
     publishedDateTime: 2023-02-16T05:27:00Z

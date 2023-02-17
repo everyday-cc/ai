@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/02/14/1068498/why-you-shouldnt
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/14/1068498/why-you-shouldnt-trust-ai-search-engines/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 3000
     height: 1688
     isCached: true
+
+related:
+  - title: "What You Didn’t Know About Artificial Intelligence and Race"
+    excerpt: "As the world approaches a critical inflection point for artificial intelligence’s integration into everyday life, experts must fully interrogate the “racial hauntings” embedded in the technology itself. Such was the focus of this year’s Annual ..."
+    publishedDateTime: 2023-02-14T02:57:00Z
+    webUrl: "https://www.tc.columbia.edu/articles/2023/february/what-you-didnt-know-about-artificial-intelligence-and-race/"
+    ampWebUrl: "https://www.tc.columbia.edu/articles/2023/february/what-you-didnt-know-about-artificial-intelligence-and-race/?format=amp"
+    cdnAmpWebUrl: "https://www-tc-columbia-edu.cdn.ampproject.org/c/s/www.tc.columbia.edu/articles/2023/february/what-you-didnt-know-about-artificial-intelligence-and-race/?format=amp"
+    type: article
+    provider:
+      name: tc.columbia.edu
+      domain: columbia.edu
+    quality: 59
+    images:
+      - url: "https://www.tc.columbia.edu/media/news/images/2023/february/Sachs-lecture-2023-social-card.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "KcglZsNL3Y6n7sc4cXGdV3lX0v48KybmCallSMVhOhwXaOkfJ0eXDXvKZvU2PxInDvaAgFssEMGY5EvR4GLKmWTcJtq+0YaUF6zExaS6SmHN1+TVggVDdY2+n4qMrdHd/oIVhskniVYzxWit3zpHqAgh6wlyD55VAc1s+oPG8l4T4HfuA6D4aXzgph/M1YBxVXeIVQsdPwNbi5uXphLuuAYhU8Hhz6u4m4OSlf/pIbX84QrpW1ovW8DRR61jjxa7mzJIpsdoE3hmAMLOcbZ1sXf2RVdDRuWsrPTuEiANOphGxxhEOrUo2jEMR43nt8SC5g9tZeJqSt9b1Vqo/o8DhDW4XfXW4sv+OrX3Z+Y2Jp5apAqMf1NYl8ErcVtF1keHCT5t5ZLDSL1hCfDNkiZgcl4d36FqFt7/zpNF4hrhEm7sjzYp5qp1nKdumva3aYM/uNB2vdoMnwhpku5U9fgu0x4SimIC9YB8JkODP1LUixcBFYlg/+MV1BVdO5ouAMyzNjVpq6GjyMLMp3yDFLIO/w==;YKv8C7MO9tL9Jz037pltYQ=="
 ---

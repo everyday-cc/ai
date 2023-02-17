@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-cha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
 type: article
 quality: 104
-heat: 314
+heat: 315
 published: true
 
 provider:
@@ -138,9 +138,9 @@ related:
         height: 640
         isCached: true
   - title: "Microsoft Defends New Bing, Says AI Upgrade Is Work in Progress"
-    excerpt: "In an interview, WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about the new tools and how AI is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft described the past week as a ..."
+    excerpt: "The company responded to reports of glitches and disturbing responses from the new search engine."
     publishedDateTime: 2023-02-16T22:45:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d"
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d?mod=hp_featst_pos3"
     type: article
     provider:
       name: Wall Street Journal

@@ -2,6 +2,135 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-02-08-intellect-design-arena-gains-on-collaborating-with-aws.md",
+      "title": "Intellect Design Arena gains on collaborating with AWS",
+      "excerpt": "AWS will accelerate Intellect's go-to-market strategy around co-build, co-market, and co-sell for IntellectAI, the insurance and wealth line of business, with Artificial Intelligence products designed for commercial underwriting, wealth and capital markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "originalUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "publishedDateTime": "2023-02-08T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-appsquadz-takes-the-stage-as-a-proud-sponsor-at-the-aws-empower-india-summit-in-hyderabad.md",
+      "title": "Appsquadz Takes The Stage As A Proud Sponsor At The AWS Empower India Summit In Hyderabad",
+      "excerpt": "AppSquadz is a leading technology solutions provider that offers a range of services, including cloud computing and web & mobile app development",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105541702/Appsquadz-Takes-The-Stage-As-A-Proud-Sponsor-At-The-AWS-Empower-India-Summit-In-Hyderabad",
+      "originalUrl": "https://menafn.com/1105541702/Appsquadz-Takes-The-Stage-As-A-Proud-Sponsor-At-The-AWS-Empower-India-Summit-In-Hyderabad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?892040",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-smartphone-vision-syndrome-hyderabad-woman-suffers-blindness-after-spending-hours-on-phone.md",
+      "title": "Smartphone vision syndrome: Hyderabad woman suffers blindness after spending hours on phone",
+      "excerpt": "Long-term use of devices such as computers, smartphones, or tablets can cause various eye-related disabling symptoms, referred to as computer vision syndrome (CVS) or digital vision syndrome ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-08-Feb-2023-01.34-PM-770x435.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
+      "publishedDateTime": "2023-02-08T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability.md",
       "title": "AWS announces AWS Space Accelerator 2023 to promote global space sustainability",
       "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
@@ -971,144 +1100,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023.md",
-      "title": "US Hyperscalers Cloud CAPEX to Prioritize AI in 2023",
-      "excerpt": "According to a newly released report issued by founding analysts of 650 Group, US Hyperscaler Cloud IaaS market revenue will grow nearly 30% Y/Y in 2022 before",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30774891/us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30774891/us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30774891",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30774891",
-      "publishedDateTime": "2023-02-07T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-global-artificial-intelligenceaichips-market-recent-report-2023-is-anticipated-to-expand-by-50180-million-at-a-cagr-of-366-during-2028.md",
-      "title": "Global Artificial Intelligence(AI)Chips Market (Recent Report) 2023 is Anticipated to expand by 50180 Million, at a CAGR of 36.6% During 2028",
-      "excerpt": "Feb 07, 2023 (The Expresswire) -- \"Artificial Intelligence(AI)Chips Market\" Report New Research Outlook Report 2023 | [The global",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligenceaichips-market-recent-report-2023-is-anticipated-to-expand-by-50180-million-at-a-cagr-of-366-during-2028-2023-02-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligenceaichips-market-recent-report-2023-is-anticipated-to-expand-by-50180-million-at-a-cagr-of-366-during-2028-2023-02-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-this-tiny-flying-robot-could-work-as-an-artificial-pollinator.md",
-      "title": "This tiny flying robot could work as an artificial pollinator",
-      "excerpt": "“[It] can be powered and controlled by a light source ... With this goal in mind, the team’s planning to improve the material sensitivity that would allow the robot to operate in sunlight, and is looking to upscale the structure so it could be equipped ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/tiny-flying-robot-could-work-as-artificial-pollinator",
-      "originalUrl": "https://thenextweb.com/news/tiny-flying-robot-could-work-as-artificial-pollinator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F02%2FUntitled-design-2023-02-07T141819.709.jpg&signature=3e18eb83e96922a94f25ac993f80c306",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

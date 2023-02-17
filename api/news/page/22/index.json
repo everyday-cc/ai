@@ -2,6 +2,125 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-02-05-coming-ai-regulation-may-not-protect-us-from-dangerous-ai.md",
+      "title": "Coming AI regulation may not protect us from dangerous AI",
+      "excerpt": "Until we have adequately responsible AI, here's how we can protect ourselves from opaque and thus dangerous AI already affecting our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/",
+      "originalUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/amp/",
+      "publishedDateTime": "2023-02-04T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-high-tech-hospital-uses-artificial-intelligence-in-patient-care.md",
+      "title": "High-tech hospital uses artificial intelligence in patient care",
+      "excerpt": "Doctors at the University of Florida Health Center are using artificial intelligence to help monitor their patients. The findings will help them develop algorithms that will soon provide real-time health care recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/high-tech-hospital-uses-artificial-intelligence-in-patient-care-162645573527",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/high-tech-hospital-uses-artificial-intelligence-in-patient-care-162645573527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1675554878286_nn_jto_hospitals_using_ai_230204_1920x1080-g4e58v.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo162645573527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo162645573527",
+      "publishedDateTime": "2023-02-04T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-artificial-intelligence-a-technological-revolution-that-is-changing-our-lives.md",
+      "title": "Artificial intelligence, a technological revolution that is changing our lives",
+      "excerpt": "Artificial Intelligence (AI) is changing our lives significantly. Machine learning algorithms and robots can now perform tasks that were once considered only for humans. Businesses are rapidly adopting this technology to improve their productivity and market competitiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://237online.com/en/lintelligence-artificielle-une-revolution-technologique-qui-change-notre-vie/",
+      "originalUrl": "https://237online.com/en/lintelligence-artificielle-une-revolution-technologique-qui-change-notre-vie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-04T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "237online",
+        "domain": "237online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-05-alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs.md",
       "title": "Alphabet's DeepMind forms AI drug discovery unit Isomorphic Labs",
       "excerpt": "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that it calls Isomorphic Labs. The UK-registered company will be able to tap into ...",
@@ -936,40 +1055,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-03-flexiv-launches-revolutionary-force-controlled-parallel-robot.md",
-      "title": "Flexiv Launches Revolutionary Force-Controlled Parallel Robot",
-      "excerpt": "Flexiv’s ‘Moonlight’ parallel robot is the latest addition to Flexiv’s line of adaptive robots and is the world’s first-ever force-controlled parallel robot. SAN JOSE, Calif.–(BUSINESS WIRE)–#adaptiverobots–Flexiv, a world leader in general ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/flexiv-launches-revolutionary-force-controlled-parallel-robot/",
-      "originalUrl": "https://www.01net.it/flexiv-launches-revolutionary-force-controlled-parallel-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-03-netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethics.md",
       "title": "Netflix's Labour Shortage Claim For Using AI Raises Age-Old Questions About Industry's Declining Ethics",
       "excerpt": "It did not take long for the clip to spread like wildfire and for more people to call out the studio for using AI tools when artists in the industry already have been suffering in the industry. In the tweet,",
@@ -1013,26 +1098,35 @@
       ]
     },
     {
-      "path": "_news/2023-02-03-driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety.md",
-      "title": "Driverless buses may sound like the future, but I can't see them taking off – Susan Dalgety",
-      "excerpt": "I don’t drive. No, let me amend that, I can’t drive. I have never had the inclination to learn, and given my impatient and sometimes reckless personality, it’s probably a good thing that I have been a passenger all my life.",
+      "path": "_news/2023-02-03-flexiv-launches-revolutionary-force-controlled-parallel-robot.md",
+      "title": "Flexiv Launches Revolutionary Force-Controlled Parallel Robot",
+      "excerpt": "Moonlight is the world’s first force-controlled parallel robot and is ideal for applications that require precise motion and force control, such as screw fastening, ultra-accurate loading ...",
       "sourceUrl": null,
-      "webUrl": "https://www.edinburghnews.scotsman.com/news/opinion/columnists/driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety-4013181",
-      "originalUrl": "https://www.edinburghnews.scotsman.com/news/opinion/columnists/driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety-4013181",
+      "webUrl": "https://www.enidnews.com/region/flexiv-launches-revolutionary-force-controlled-parallel-robot/article_9066bc24-5267-5b45-85bc-726c0b3d3dbd.html",
+      "originalUrl": "https://www.enidnews.com/region/flexiv-launches-revolutionary-force-controlled-parallel-robot/article_9066bc24-5267-5b45-85bc-726c0b3d3dbd.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T04:34:00-08:00",
+      "publishedDateTime": "2023-02-03T04:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "edinburghnews.scotsman.com",
-        "domain": "scotsman.com",
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1042,102 +1136,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-mystery-portrait-may-be-a-raphael-artificial-intelligence-suggests.md",
-      "title": "Mystery Portrait May Be a Raphael, Artificial Intelligence Suggests",
-      "excerpt": "A mysterious portrait of the Virgin Mary and Jesus may have been painted by the master Raphael, facial recognition finds. But many art historians reject the claim",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/mystery-portrait-is-likely-raphael-masterpiece-according-to-artificial-intelligence/",
-      "originalUrl": "https://www.scientificamerican.com/article/mystery-portrait-is-likely-raphael-masterpiece-according-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/7CB65A67-DC9C-445A-9506CBCD7703B968.jpeg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/mystery-portrait-is-likely-raphael-masterpiece-according-to-artificial-intelligence/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/mystery-portrait-is-likely-raphael-masterpiece-according-to-artificial-intelligence/?amp=true",
-      "publishedDateTime": "2023-02-03T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-chatgpt-just-became-the-fastest-growing-app-of-all-time.md",
-      "title": "ChatGPT just became the fastest-growing 'app' of all time",
-      "excerpt": "\"No, OpenAI's GPT-3 language model, which powers ChatGPT, is not an app, it's a machine learning model designed to generate human ... Microsoft has also launched: the Azure OpenAI Service to provide developers access to GPT-3.5; DALL•E 2, the AI that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ea66b908cc583f45fc75034683d42807a63cc563/2023/02/03/105ba195-9733-419a-85be-d90a2aeb898f/ai-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "publishedDateTime": "2023-02-03T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 1163
     isCached: true
+
+related:
+  - title: "With AI, accurate demand forecasting is possible"
+    excerpt: "How artificial intelligence is making accurate demand forecasting possible — finally — for companies willing to leave legacy systems behind."
+    publishedDateTime: 2023-02-17T04:06:00Z
+    webUrl: "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/"
+    ampWebUrl: "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_708536860-e1622819708357.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "turcr4HpmQI2N8effV5txLzg7hSvv60ch5dPhlVhABnQDlc4SmDjufcepNH/G9Z2AWyJFbdjHM7sVJTVasDgKQD+p7GodcaukB06+oDFZJ9RLEUqISUoNaxtH+AO72uwpJ1ehPLIsqF4BGYgWq1qnJ3E//w0oOGr9MH28nw7IiIlTeDgLAPTLVV9euVi7rhjx8xeFumTFFgenkWUJf4OXrUWcrFk6KrvqrNijyR+fPcewWh8R+fD3yOUJi+X3iYis/W71uatJVbyYJh5qEBTfPYyOAKKcG8xUyU6izKSmUoTZGvcg35FtBK3GODx8VmEJJoHPvk3lMcUQvhDbIj2eaxLqqyWF7wJKYUl5+uzKO0=;vxawSJy7fUjwWKbRbAhhYg=="
 ---

@@ -31,7 +31,7 @@ related:
   - title: "Best robot vacuum deals under $100 in 2023"
     excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
     publishedDateTime: 2023-02-13T20:05:00Z
-    webUrl: "https://www.cbsnews.com/miami/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
+    webUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
     ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-13/"
     type: article

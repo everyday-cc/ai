@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Make Your Midjourney AI Prompts Better With ChatGPT"
+    excerpt: "ChatGPT can help you prompts for the Midjourney AI platform. It can generate fresh ideas, expands on existing prompts, and creates multiple prompts efficiently. Sometimes they are too wordy and you have to keep whittling it down."
+    publishedDateTime: 2023-02-17T03:53:00Z
+    webUrl: "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ef079a42311a1b18171308/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "ChatGPT-led AI buzz unlikely to fuel near-term software growth"
     excerpt: "The hype around AI fueled by ChatGPT is a positive development for the software industry, but we don't see any sizable near-term sales gains."
     publishedDateTime: 2023-02-13T18:08:00Z
@@ -49,20 +65,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
-  - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
-    excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
-    publishedDateTime: 2023-02-14T18:38:00Z
-    webUrl: "https://www.tweaktown.com/news/90331/the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 54
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90331_01_the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt.jpg"
-        width: 620
-        height: 348
-        isCached: true
   - title: "How enterprises can use ChatGPT and GPT-3"
     excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
     publishedDateTime: 2023-02-14T12:43:00Z
@@ -95,15 +97,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "‘ChatGPT, tell me a story’: AI gets literary"
-    excerpt: "Big Tech is spurring the momentum behind a wave of user-friendly AI tools. OpenAI, the parent company behind ChatGPT, previously made DALL-E, an AI that generates digital images from written queries."
-    publishedDateTime: 2023-02-15T17:56:00Z
-    webUrl: "https://www.csmonitor.com/text_edition/Technology/2023/0215/ChatGPT-tell-me-a-story-AI-gets-literary"
+  - title: "ChatGPT AI passes test designed to show theory of mind in children"
+    excerpt: "Its ability – which seems to have spontaneously emerged rather than being something the AI was trained to do – is comparable to that of a 9-year-old child. However, whether this shows that the AI is using theory of mind … Ohio train derailment ..."
+    publishedDateTime: 2023-02-15T10:00:00Z
+    webUrl: "https://www.newscientist.com/article/2359418-chatgpt-ai-passes-test-designed-to-show-theory-of-mind-in-children/"
     type: article
     provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 19
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
     excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
     publishedDateTime: 2023-02-16T13:42:00Z

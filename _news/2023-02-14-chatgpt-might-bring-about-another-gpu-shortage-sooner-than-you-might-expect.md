@@ -43,6 +43,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
+    excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
+    publishedDateTime: 2023-02-14T18:38:00Z
+    webUrl: "https://www.tweaktown.com/news/90331/the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90331_01_the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt.jpg"
+        width: 620
+        height: 348
+        isCached: true
+  - title: "Chinese chipmakers to advance GPU development for ChatGPT"
+    excerpt: "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development."
+    publishedDateTime: 2023-02-17T02:54:00Z
+    webUrl: "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
 
 secured: "5nMrDKatU/CQBAgm7i6hFD4C66x9Gk6ezY+WuSxBy76XKT5kzmXKQxhDMZBdOpM4fqestfuG3hgJYNwfk6CO53GB3SDeTLgxFuz4MupCwAF5TkuFxNa1IW6LKPK9i0onVdqk1TeUFKYHnTAJOdlVPXNMJqQTMJX8nw4K4Z2bmbsz+W2HGvGWQOm6Jjr3OfkAz/ug8Iu8fxu01tZIXMW5M5CfSDhyoyoNj2hEk/c6POKZbD1PVusNmCP7RYxZxBJt7hP9PO3EktdNCdgwohnJeHXWqsUhFLmXKjhJ1JKm4kIskt5FvMhhbodnw1jqZKDgYunk1L6asGILaMjgBNY8p+brpX/0xZ6NT2LXXRBmUxg=;Gl6Xl0EtXGGreiXlxGBpZQ=="
 ---

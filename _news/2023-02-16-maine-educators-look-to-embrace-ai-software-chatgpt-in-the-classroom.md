@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT AI passes test designed to show theory of mind in children"
-    excerpt: "Its ability – which seems to have spontaneously emerged rather than being something the AI was trained to do – is comparable to that of a 9-year-old child. However, whether this shows that the AI is using theory of mind … Ohio train derailment ..."
-    publishedDateTime: 2023-02-15T10:00:00Z
-    webUrl: "https://www.newscientist.com/article/2359418-chatgpt-ai-passes-test-designed-to-show-theory-of-mind-in-children/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "RJBhX3anjpAiXAfATt9l9+he8o5lXPXNAgAMxSYtAZWazJ/u8ISRR67IhIL+errruYhEdmXUhi5pOBo5rvTHxWSArl51Ko7AHlGCuTSKkBKW+SWsCbCJXs358gqGdMNGDXwkHfnqeQaPFEyd/hrwvJZrEcbA2SsCelVdEe+db11Jv4N4pf9XvHufyLfDDVNInAGPfTIBvq55QcdUWW2lx9eVoU9tOBvAiYXn8lGG7Cppmf0J0lsAy8bysjBjJtGEhkCBaQkZEZ8qI+M8uUR8+cNZ0uZSro/IedTfuNF6wSTfV+yqAJ1N/TwYZGAWYPf3eAfqtQyVpA8cNeyDlfZSVpcC80zLMluJep18IgwVIwH27gYpREEKa6AC4RpFjCvUJNbWWgxNaRmYjt9yuYrZ+AgYJc6ZeXcYbZxJVUVU62ztxIsSwgopCBjhK9/OtAARusmN3pjRwsXD/z8b0U/z+LYm344buV8DCJG+LWpI8XkeHdlfeF8q5gXpT7FOJBS3gYFPlleQE8Yzu9sOVgyVEQ==;dNCGPUj7tImBIzvZ2oo+eQ=="
 ---
