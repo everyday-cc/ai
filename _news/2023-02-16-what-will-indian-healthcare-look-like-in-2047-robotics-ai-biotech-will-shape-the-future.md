@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/what-will-indian-he
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indian IT firms start training employees in ChatGPT, other AI-related tech"
+    excerpt: "AI models are expected to disrupt Indian IT firms and their access to talent, as they make some jobs redundant"
+    publishedDateTime: 2023-02-17T07:55:00Z
+    webUrl: "https://www.business-standard.com/article/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 55
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "10 emerging technologies in computer science that will shape the future"
     excerpt: "Emerging technologies such as artificial intelligence, blockchain and robotics could impact industries ranging from healthcare and finance to agriculture and beyond."
     publishedDateTime: 2023-02-16T14:00:00Z

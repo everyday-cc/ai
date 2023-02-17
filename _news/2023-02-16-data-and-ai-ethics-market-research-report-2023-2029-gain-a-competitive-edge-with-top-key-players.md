@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16"
 type: article
 quality: 71
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning (ML) Platforms Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Machine Learning (ML) Platforms Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-15T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

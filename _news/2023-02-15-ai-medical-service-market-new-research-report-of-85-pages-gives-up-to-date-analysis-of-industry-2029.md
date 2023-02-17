@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-medical-service-marke
 webUrl: "https://www.marketwatch.com/press-release/ai-medical-service-market-new-research-report-of-85-pages-gives-up-to-date-analysis-of-industry-2029-2023-02-15"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Cognitive Computing Market 2023 (Newest 91 Pages Report) is Booming Worldwide 2029"
+    excerpt: "Cognitive Computing is completely changing the way organization use their big data in each verticals, especially in industries pke Healthcare, BFSI and Customer services. This is big revolution in global information technology market and holds very strong ..."
+    publishedDateTime: 2023-02-17T07:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2023-newest-91-pages-report-is-booming-worldwide-2029-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Gmp+jfNce1fCu9b0X9eWoB1u7RDhJbBrEwNjnWFktLZS2LEe0P+Mf0y+HznY/mGZEoOtTCNKGbniUo94utWXSm0VB7PDa5SYF08nCd6C8sPgZ+FzRb+vCshZWdOO6HvxhpPUMcUC93w1jTeeVmJOM+c0loorL295zRordQEPC/I7WGvMmfKUbzjpXsLhcg1/p3lnsPOi7BMQQ7Dtj9fTvf5JQGQd8Z7/6OfaHQaJCRWrP0cnRcShOJTBUqeZoJLZHoSzXNhzzUv/dz56ky6uR8voZzt1x9C0eozqouR+yTqpfYTBhg7awccyV5nTLGmnK31y+OiDPn/rTyFU8SotBuceulMDuVSD6Ly/n7lYHbE=;3YW989DLy3Oi+JaHrUVB1A=="
 ---

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
-excerpt: "Tesla is recalling nearly 363,000 vehicles with its so-called “Full Self Driving” feature due to risks it can pose at intersections, even"
-publishedDateTime: 2023-02-16T18:45:00Z
-originalUrl: "https://wsvn.com/news/us-world/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/"
-webUrl: "https://wsvn.com/news/us-world/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/"
-ampWebUrl: "https://wsvn.com/news/us-world/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
-cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
+excerpt: "Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s business model. “Full self-driving,” as it currently ..."
+publishedDateTime: 2023-02-16T21:49:00Z
+originalUrl: "https://edition.cnn.com/2023/02/16/business/tesla-fsd-recall"
+webUrl: "https://edition.cnn.com/2023/02/16/business/tesla-fsd-recall"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html"
 type: article
-quality: 58
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: 7News Miami
-  domain: wsvn.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wsvn.com/wp-content/uploads/sites/2/2023/02/hypatia-h_bebde75c81b65923d7fa9a58c5192cc6-h_b6baf53a58d45c63f98d1f0922980fdc.jpg?quality=60&strip=color&w=1024"
-    width: 1024
-    height: 682
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/230109114804-tesla-car-steering-wheel-autopilot-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -123,20 +127,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
-    excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."
-    publishedDateTime: 2023-02-16T17:02:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/tesla-recalls-362000-us-vehicles-over-full-self-driving-software-2023-02-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/oK-Sw2a-lwcl-2fMhqk7iBZxTZM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MRYGHHGI65LUVFK3LSSAQ77CCI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Recalls More Than 300,000 Vehicles Over ‘Self-Driving’ Safety Concerns"
     excerpt: "DETROIT — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits. The recall, part of part of a ..."
     publishedDateTime: 2023-02-17T05:00:00Z
@@ -214,6 +204,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676610400917_x_wagner_tesla_230216_1920x1080-mwr3uu.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla recalls 362,000 US vehicles over Full Self-Driving software"
+    excerpt: "Tesla Inc will recall more than 362,000 US vehicles to update its Full Self-Driving (FSD) Beta software after US regulators said the driver assistance system did not adequately adhere to traffic safety laws and could cause crashes."
+    publishedDateTime: 2023-02-17T04:45:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/articleshow/97999878.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/amp_articleshow/97999878.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/amp_articleshow/97999878.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-97999878,imgsize-39750,width-800/97999878.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Tesla recalls 363,000 vehicles equipped with \"Full Self-Driving\" tech"
     excerpt: "Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it ignores posted speed limits and behaves around street intersections. Tesla's recall covers some 2016-2023 Model S and Model X vehicles ..."
@@ -568,6 +574,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "wNRsdMwnAqkq7Z/CDcpV/qOYAHnXGz0KcOyh5ETeuk8lDoReG10onpvj+l6uvl+CQvJerKHWg3+pY/YaqsgYmtLeWYH4qewp7GMUHT2ZZXZr3wiiKaXZMTVXoYvldE4C8BwcJeQScyDirNbQOslHTwyWoSaZ6J0a6SRhSO16IUnAj48/VrfTtM+HeprYPNaNU71F6SYx2/TYY6xlSNeVX7lA4lnoijLMHxPWizb+C9qnFOa1UmCtvaF/aTEh+Uk1q/LlaJsmA5wzKfDVoPMqu9hWM9VUX5nUWsZevxGbqNXwnLBiMn4qOJP+4FXYUe0PiWuhG4odVYx6SftQBcNuO74x4k+CoTZSrLEXjngL/rw=;iov2TtANtIhapqRgypS9vw=="
+secured: "KKVfYPS0URLN+N5/I/uBLZVWJsSgHo+K/00MzAAjRiooa7qY3m/Qzh745I+oaXm4kksRWaVhziEQEhp9XWlMz7Bzdzp4CumooghbeTOLTX2FGN7wOvLQXUJzhgaanra1qam+fpe1OdvHFcfbnajA/14ng4HY9mV74YGA4ZgHN9SEzdbXCd71Y29lYryhq6Jx02k92TCp12Ed5xym2ZtgTxj16uPc89S5v8RIN1LbeUhKLtkcM2eTyoFg5bdgG3AJPa6Mc0p0vcE0vOB4YAKT+oKEHy1hpKvyfW3hKxgfJgRYZImWwDDu7KD1Rd4C8970TrpiD5JOJkufonHBe9pXky4hjHeL9LZvqVCTYk7YMbQ=;mEDvwwmWnJIXS6YP5t9iMA=="
 ---
 

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -876,6 +876,49 @@
       ]
     },
     {
+      "path": "_news/2023-02-03-ai-generated-seinfeld-episodes-are-streaming-on-twitch.md",
+      "title": "AI-Generated Seinfeld Episodes Are Streaming on Twitch",
+      "excerpt": "AI-generated tech has been booming in recent months as internet denizens flock to programs for art, text prompts, and more created entirely by machine-learning programs. Two Seinfeld fans have ...",
+      "sourceUrl": null,
+      "webUrl": "https://comicbook.com/tv-shows/news/ai-generated-seinfeld-episodes-streaming-twitch/",
+      "originalUrl": "https://comicbook.com/tv-shows/news/ai-generated-seinfeld-episodes-streaming-twitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sportshub.cbsistatic.com/i/2023/02/13/26853ab8-d2a7-4c21-8a8b-a8ad708e6d1e/the-last-of-us-twitter-3.jpg?width=568&height=320",
+          "width": 568,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://comicbook.com/tv-shows/amp/news/ai-generated-seinfeld-episodes-streaming-twitch/",
+      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/tv-shows/amp/news/ai-generated-seinfeld-episodes-streaming-twitch/",
+      "publishedDateTime": "2023-02-03T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-facebook-posts-more-than-2-billion-daily-users-for-the-first-time.md",
       "title": "Facebook posts more than 2 billion daily users for the first time",
       "excerpt": "When you talk about Facebook, it’s generally appropriate to use the word ‘billions’ in conversation. The company bought VR company Oculus for $2 billion. It passed 2 billion monthly users some time in 2017.",
@@ -1359,58 +1402,6 @@
         "IBM AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-this-startup-is-using-ai-to-unearth-new-smells.md",
-      "title": "This Startup Is Using AI to Unearth New Smells",
-      "excerpt": "Google Research spinout Osmo wants to find substitutes for hard-to-source aromas. The tech could inspire new perfumes—and help combat mosquito-borne diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/",
-      "originalUrl": "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63cf16193e88ab88db98da03/master/pass/osmo_science_GettyImages-815059888.jpg",
-          "width": 1840,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-startup-is-using-ai-to-unearth-new-smells/amp",
-      "publishedDateTime": "2023-01-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares"
+    excerpt: "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. The potential opportunity created by this high-growth ..."
+    publishedDateTime: 2023-02-14T10:36:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market is Booming in Near Future 2023-2028"
     excerpt: "Feb 16, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Construction Market\" Report provides a Detailed analysis of global market size,"
     publishedDateTime: 2023-02-16T13:14:00Z
@@ -66,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence(AI) Market Size 2023 Will Touch New Level in Upcoming Year"
+    excerpt: "Market Size 2023-2028 | New Report (80 Pages) | In This Reports Automotive Artificial Intelligence(AI) Market and its business scene, significant issues, answers for relieving the upgrading risk, methodologies,"
+    publishedDateTime: 2023-02-17T04:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligenceai-market-size-2023-will-touch-new-level-in-upcoming-year-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

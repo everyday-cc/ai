@@ -35,6 +35,22 @@ related:
         width: 2448
         height: 1224
         isCached: true
+  - title: "Indian IT firms start training employees in ChatGPT, other AI-related tech"
+    excerpt: "AI models are expected to disrupt Indian IT firms and their access to talent, as they make some jobs redundant"
+    publishedDateTime: 2023-02-17T07:55:00Z
+    webUrl: "https://www.business-standard.com/article/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 55
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg"
+        width: 620
+        height: 464
+        isCached: true
 
 secured: "Olaw8TtooiN4pvbnmf7Tx1gcKlNe9Sz5NY5tAvVhiwjEp6hOMYYPFYvLQCUAwotNacpqOzL2KZ+48Ju0xKlZ3YGU2hBh/jD7GaXwrfEUQUZv9LOKDxUSedqgjqkVC95r+vtmgTeJfDR3V4lqRSwTkNi7ETFgmrAPM2O0Dm71ZMWeibhhLM3K5+vb+xzKqxV2tubmDk3Slut9AlZim+wlDhA7anyhOYhwn6SJz/TS1v+2fUF4ZgfQTwssEGXyQ8J4MrSwfB3ySvM3/Amd1GzgojcLgb1Lyr5VqCiaAyUbGys/zxyoXBXLU2pWS9TgSTc4NvtkfKkqdn4Msx5fpdpenEVifVjDyIRMtRZOlaYgKz8jKvnvzKCpCZWdmY1KmxyqfpoVuPJyP4PEJ8bcULyLWvcJONCMxwN4/CxpUxSfew71oB8oMazMNbQci2z+hpYVAQpwoQNVxjO/GZtNynmv7RRxqWWxRiw0TwhS0hDEA748CxzpAthCuZhkHvopLSVMNgXzNZcgwuMP88l+vUw54Q==;EUZsu1u7GjFhn81InGpvlA=="
 ---

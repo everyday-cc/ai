@@ -75,9 +75,9 @@ related:
         height: 630
         isCached: true
   - title: "The dark side of Bing’s new AI chatbot"
-    excerpt: "After asking Microsoft's AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy."
+    excerpt: "After asking Microsoft’s AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy. The chatbot said it “must be hard” to balance work and family and ..."
     publishedDateTime: 2023-02-16T19:41:00Z
-    webUrl: "https://us.cnn.com/2023/02/16/tech/bing-dark-side"
+    webUrl: "https://www.cnn.com/2023/02/16/tech/bing-dark-side/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
     type: article

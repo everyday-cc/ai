@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning (ML) Platforms Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Machine Learning (ML) Platforms Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-15T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Forecast [2023-2029] | CAGR 23.7%"
     excerpt: "The global “Speech and Voice Recognition Market Size in 2023” is expected to rise with an impressive CAGR and generate"
     publishedDateTime: 2023-02-15T17:43:00Z

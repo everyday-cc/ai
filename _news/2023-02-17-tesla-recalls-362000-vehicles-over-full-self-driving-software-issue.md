@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
+    excerpt: "Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s business model. “Full self-driving,” as it currently ..."
+    publishedDateTime: 2023-02-16T21:49:00Z
+    webUrl: "https://edition.cnn.com/2023/02/16/business/tesla-fsd-recall"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 88
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230109114804-tesla-car-steering-wheel-autopilot-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla recalls 362,758 vehicles over Full Self-Driving software safety concerns"
     excerpt: "Tesla issued a recall of its Full Self-Driving software after regulators said it could allow a vehicle to act unsafe around intersections."
     publishedDateTime: 2023-02-17T01:33:00Z
@@ -110,20 +126,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/105060149-_sites_default_files_images_105060149-GettyImages-930443290.jpg?v=1676570001"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
-    excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."
-    publishedDateTime: 2023-02-16T17:02:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/tesla-recalls-362000-us-vehicles-over-full-self-driving-software-2023-02-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/oK-Sw2a-lwcl-2fMhqk7iBZxTZM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MRYGHHGI65LUVFK3LSSAQ77CCI.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tesla Recalls More Than 300,000 Vehicles Over ‘Self-Driving’ Safety Concerns"
     excerpt: "DETROIT — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits. The recall, part of part of a ..."
@@ -202,6 +204,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676610400917_x_wagner_tesla_230216_1920x1080-mwr3uu.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla recalls 362,000 US vehicles over Full Self-Driving software"
+    excerpt: "Tesla Inc will recall more than 362,000 US vehicles to update its Full Self-Driving (FSD) Beta software after US regulators said the driver assistance system did not adequately adhere to traffic safety laws and could cause crashes."
+    publishedDateTime: 2023-02-17T04:45:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/articleshow/97999878.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/amp_articleshow/97999878.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/tesla-recalls-362000-us-vehicles-over-full-self-driving-software/amp_articleshow/97999878.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-97999878,imgsize-39750,width-800/97999878.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Tesla recalls 363,000 vehicles equipped with \"Full Self-Driving\" tech"
     excerpt: "Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it ignores posted speed limits and behaves around street intersections. Tesla's recall covers some 2016-2023 Model S and Model X vehicles ..."
@@ -330,22 +348,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/02/OCR-Z-TESLA-RECALL.jpg?w=1024&h=656"
         width: 1024
         height: 656
-        isCached: true
-  - title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
-    excerpt: "Tesla is recalling nearly 363,000 vehicles with its so-called “Full Self Driving” feature due to risks it can pose at intersections, even"
-    publishedDateTime: 2023-02-16T18:45:00Z
-    webUrl: "https://wsvn.com/news/us-world/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/"
-    ampWebUrl: "https://wsvn.com/news/us-world/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 58
-    images:
-      - url: "https://wsvn.com/wp-content/uploads/sites/2/2023/02/hypatia-h_bebde75c81b65923d7fa9a58c5192cc6-h_b6baf53a58d45c63f98d1f0922980fdc.jpg?quality=60&strip=color&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Tesla recalls more than 300K vehicles due to self-driving software issues"
     excerpt: "Tesla is recalling more than 300,000 vehicles that are equipped with Full Self-Driving Beta software. The recall includes certain 2016-2023 Model S and Model X vehicles as well as 2017-2023 Model 3 and 2020-2023 Model Y vehicles."

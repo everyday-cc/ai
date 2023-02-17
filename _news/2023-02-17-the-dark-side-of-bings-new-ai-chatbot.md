@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The dark side of Bing’s new AI chatbot"
-excerpt: "After asking Microsoft's AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy."
+excerpt: "After asking Microsoft’s AI-powered Bing chatbot for help in coming up with activities for my kids while juggling work, the tool started by offering something unexpected: empathy. The chatbot said it “must be hard” to balance work and family and ..."
 publishedDateTime: 2023-02-16T19:41:00Z
-originalUrl: "https://us.cnn.com/2023/02/16/tech/bing-dark-side"
-webUrl: "https://us.cnn.com/2023/02/16/tech/bing-dark-side"
+originalUrl: "https://www.cnn.com/2023/02/16/tech/bing-dark-side/index.html"
+webUrl: "https://www.cnn.com/2023/02/16/tech/bing-dark-side/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/tech/bing-dark-side/index.html"
 type: article
@@ -311,6 +311,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "NKx/3BHL3Jel70kjuLhh0SiTOF1cNKqeLXPol9YCIf+E3jtb8v+DXwhlhciou3ljwSC9nZI1gT5uk3OqN92ITtxgiSvU9JLkMsew5mqDNG18+7Sk7W21NZVLNLZoyVeNAwV4mv/2ZEKK+XEjqy9h7JqmchAwMOOMUK1UObJOZQv/d/FlL2V+zwzSJhPz7s58QI4q8/HOCJ6A/BouQsHA8MAKT+u6flHOFU8DuQM8uHy611gf/RHYVR3EB5XqpXK7nmk5K4fi9nhQTaAkywTEUV/qYGwc9bpzXiRoT5nqj7g6lno/wnSoW3pU+nAQxu28GZFYUQmwz4BgiLaUXL0aRsMAyb/imQ6S7rE33tm0vYk=;btosfwteGcHQiaGRKC0wkg=="
+secured: "YlsClrvSqRtuenvF8YfM17hZ3eQc/mM/YBGhaBlNkNxM+ZO00uOhMtIBzRYpzANSvr0yo+dkJlpxKvLUwHkjh4o2BG8tC1TRJRhWMBtsQFLIegrJAcTWMZPkYZLcqX709G1lCaOiEBFkXHUsG5vopMtqvouGuC//KbujJiH1yCpBVEA/OiEVUznftp/7mglDHMCOMzsi66S63LrbmV+FuNv6O7uwit0znZoZ44IBUajA89xEgLxTlQ3nf0V45GlL0I7xn25/JAfOw1QSelEf7/0abUF6Wk1bJ1ZJroxsfofybGt0AizuQto6b2b+6D1nKmTpwf00Gen9TPebxF0ambyHxSGtIOwWQMpDV5Q2GX0=;rsF2pUaePM0bWJU9BJwwsg=="
 ---
 
