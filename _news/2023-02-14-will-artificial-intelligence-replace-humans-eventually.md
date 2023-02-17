@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-13T16:55:00Z
 originalUrl: "https://www.laweekly.com/will-artificial-intelligence-replace-humans-eventually/"
 webUrl: "https://www.laweekly.com/will-artificial-intelligence-replace-humans-eventually/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.laweekly.com/wp-content/uploads/2023/02/AdobeStock_227994414.jpeg"

@@ -110,6 +110,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "China ushers in golden era of AI, chatbots"
+    excerpt: "Chinese tech companies are ramping up efforts to make a foray into the fast-growing artificial intelligence-generated content sector and roll out AI-powered chatbots or products similar to ChatGPT, which has taken the world by storm since its launch in November due to its advanced conversational capabilities."
+    publishedDateTime: 2023-02-16T23:49:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202302/17/WS63eeb668a31057c47ebaf430.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202302/17/63eeb668a31057c4b4b5451f.jpeg"
+        width: 721
+        height: 480
+        isCached: true
   - title: "AI Chatbots Are Coming to Search Engines. Can You Trust Them?"
     excerpt: "Google, Microsoft and Baidu are using tools similar to ChatGPT to turn Internet searches into a conversation. How will this change humanity’s relationship with machines?"
     publishedDateTime: 2023-02-16T17:26:00Z

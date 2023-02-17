@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2356901-learn-deep-l
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2356901-learn-deep-learning-and-ai-from-eminent-iit-madras-faculty-iitm-pravartak-launches-certificate-programme-in-dl-and-ai-with?amp"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty"
+    excerpt: "Taught by distinguished IIT-Madras faculty, this programme, offered in collaboration with Emeritus, aims to enhance the tech skills of early and mid-level professionals"
+    publishedDateTime: 2023-02-17T00:39:00Z
+    webUrl: "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 70
+    images:
+      - url: "https://images.livemint.com/img/2023/02/16/600x338/EMRT_1676550476050_1676550481097_1676550481097.png"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty"
     excerpt: "Taught by distinguished IIT-Madras faculty, this programme, offered in collaboration with Emeritus, aims to enhance the tech skills of early and mid-level professionals"
     publishedDateTime: 2023-02-16T13:10:00Z

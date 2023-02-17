@@ -119,6 +119,20 @@ related:
         width: 938
         height: 528
         isCached: true
+  - title: "Microsoft Defends New Bing, Says AI Upgrade Is Work in Progress"
+    excerpt: "In an interview, WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about the new tools and how AI is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft described the past week as a ..."
+    publishedDateTime: 2023-02-16T22:45:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-727151/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
     excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
     publishedDateTime: 2023-02-15T20:38:00Z

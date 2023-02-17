@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-cha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/00Guvjt5xjOV6SxPuhnYsL6-1.fit_lim.size_1200x630.v1676558891.jpg"
         width: 938
         height: 528
+        isCached: true
+  - title: "Microsoft Defends New Bing, Says AI Upgrade Is Work in Progress"
+    excerpt: "In an interview, WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about the new tools and how AI is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft described the past week as a ..."
+    publishedDateTime: 2023-02-16T22:45:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-727151/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft Shifts Focus to AI, Terminates Metaverse Division"
     excerpt: "Thanks to Azure cloud computing, Microsoft Mesh and OpenAI can scale back-end services. More importantly, Microsoft can still generate shared virtual experiences (metaverse) with its Inception and Character.ai. On the one hand, Inception allows startups to ..."

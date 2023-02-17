@@ -106,6 +106,20 @@ related:
         width: 938
         height: 528
         isCached: true
+  - title: "Microsoft Defends New Bing, Says AI Upgrade Is Work in Progress"
+    excerpt: "In an interview, WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about the new tools and how AI is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft described the past week as a ..."
+    publishedDateTime: 2023-02-16T22:45:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-defends-new-bing-says-ai-upgrade-is-work-in-progress-3447074d"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-727151/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft Shifts Focus to AI, Terminates Metaverse Division"
     excerpt: "Thanks to Azure cloud computing, Microsoft Mesh and OpenAI can scale back-end services. More importantly, Microsoft can still generate shared virtual experiences (metaverse) with its Inception and Character.ai. On the one hand, Inception allows startups to ..."
     publishedDateTime: 2023-02-14T06:39:00Z
@@ -256,6 +270,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "PLJwciaYMI5DajTcA+37pcocpW+crtWDmOMtKpZjfwz/KQK9NnJGwaZEJACzoWr0IzDPb5+Y6pl+QrgR5IcT8I8cKhvdAYBihRx2c8WfdJYYkTyr9YyELQjoZF0BTGlPu6kOKJsPq/Hd5AhvgDHkLrxEP7DjYR/rMyWSsVt8yAUx5laEcFXXN5bHzDmZWNku3kDa98XoSQklQ1eOI6SFtifI3GiFbljw1jytNUPlqLkuwx5WHiB67RszOpDKGwix8mGkH4tQn/rw1q8AIfdksleIXTaKCdPGw0md/j/w/qpuIE8uIaNshIXrPwt5z6rP8Jrxw39bBs65dK+mU7nribWZVvxC81ZGcP8YTvV4s7k=;2mi4wNjQS1bu7SEm1UBqNg=="
+secured: "Z2dC+bPpLbgLcVSxfDKOZXkXzf2Zu/VV8EBW+2F+U9oxDMiSGlg+6auzyLzsAmDxD/gZgsRNnwM5hqPDlILiysXpuLJ/KRbQL28IqIHVgTExMjg01xuB9HUzcxgxNWmWbSw/SS94l9THm6Ge73RGhfImYkaG7WuNueTVV6wRcfbYpaDJ8d8dC6qDky/3bSeyuwfjB5f9Kvmunqn8ai3Lq/DtsNMPvKjVNDshGpTQc+xX3yy0gZU4462Yj0GYnNpoEWXRTzNlk3fe/FGibqtVeep8j5HZrmIRiW/G6o2YsZz7imlCCXSjm7WDx1DKivVzyz/f2lI2/W815EamPqO0NQ/FE8CGYvP19rJq33+v1u0uPpO4LrbDtbiMssBEKLKJkRiuoXT23MU6zv4zd4L3uDpEu7TizAQz/qRWxggLnx11z8zR4iIXoGf08ax3V7yzEfbeabw0K7wdOtDMHkvNdq2DkvHreqGhuBFFt3PwhxpMoKD3f2rqQjJTA9b6H8ghZK92ipTn2CHETfCUI/ftSg==;DK0+qyNoHKSuyBh4u3RxTg=="
 ---
 

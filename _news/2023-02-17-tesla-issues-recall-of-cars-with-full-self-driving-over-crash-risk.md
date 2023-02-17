@@ -181,6 +181,38 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 60
+  - title: "Massive new Tesla recall focuses on dangers of self-driving software"
+    excerpt: "NHTSA says that Tesla is recalling as many as 362,758 vehicles due to the hazards of its self-driving tech. A fix will come via OTA update."
+    publishedDateTime: 2023-02-16T22:59:00Z
+    webUrl: "https://www.popsci.com/technology/tesla-recalls-vehicles-due-to-full-self-driving-danger/"
+    ampWebUrl: "https://www.popsci.com/technology/tesla-recalls-vehicles-due-to-full-self-driving-danger/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/tesla-recalls-vehicles-due-to-full-self-driving-danger/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2023/02/16/Depositphotos_61615751_L.jpg?auto=webp"
+        width: 2000
+        height: 1114
+        isCached: true
+  - title: "Tesla recalls 363,000 vehicles equipped with \"Full Self-Driving\" tech"
+    excerpt: "Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it ignores posted speed limits and behaves around street intersections. Tesla's recall covers some 2016-2023 Model S and Model X vehicles ..."
+    publishedDateTime: 2023-02-16T23:01:00Z
+    webUrl: "https://www.cbsnews.com/news/tesla-recall-363000-self-driving-vehicle-electric/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-recall-363000-self-driving-vehicle-electric/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-recall-363000-self-driving-vehicle-electric/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/06/09/100d5ddf-553a-4180-88b9-530db8c1d119/thumbnail/1200x630/41289b60d7b8b33542f188ced330660f/download.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Recalls Cars Over Full Self-Driving Flaw"
     excerpt: "Tesla is recalling 362,758 cars, according to the National Highway Traffic Safety Administration, over its Full Self-Driving Beta, which may have trouble navigating intersections. Unlike many recalls."
     publishedDateTime: 2023-02-16T22:33:00Z
@@ -372,18 +404,18 @@ related:
       domain: pcmag.com
     quality: 45
   - title: "Tesla recalls 'Full Self-Driving' to fix unsafe actions"
-    excerpt: "U.S. safety regulators pressured Tesla into recalling almost 363,000 vehicles with its \"Full Self-Driving\" system because it is unsafe around intersections and doesn't always follow speed limits, according to notices posted Thursday."
-    publishedDateTime: 2023-02-16T21:11:00Z
-    webUrl: "https://www.stltoday.com/news/national/tesla-recalls-full-self-driving-to-fix-unsafe-actions/article_f7dcabec-5d02-5c38-aade-5a5735c14a01.html"
+    excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn't always follow speed limits."
+    publishedDateTime: 2023-02-16T22:54:00Z
+    webUrl: "https://www.chron.com/business/article/tesla-recalls-full-self-driving-to-fix-flaws-in-17789490.php"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/7d/f7dcabec-5d02-5c38-aade-5a5735c14a01/63eeafaa657ee.preview.jpg?crop=1932%2C1014%2C0%2C29&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://s.hdnux.com/photos/01/31/43/72/23477916/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Super Bowl ad calls for NHTSA to ban Tesla Full-Self Driving"
     excerpt: "Tesla has come under fire again for its controversially named Full Self-Driving driver-assist feature, this time in an ad that aired on Sunday in Washington, D.C., as well as in a number of state capitals during Super Bowl LVII. The spot shows a number of ..."
@@ -403,6 +435,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 34
+  - title: "Tesla recalls 362,000 vehicles with self-driving software over intersection safety concerns"
+    excerpt: "Tesla is issuing a software upgrade to over 362,000 versions of its Model S, Model X, Model 3 and Model Y vehicles because those with its full self-driving beta software may be \"unsafe around intersections,\" according to a National Highway Traffic Safety ..."
+    publishedDateTime: 2023-02-16T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2023/02/16/tesla-recall-self-driving-software-cars/11273253002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 29
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/09/23/USAT/271b70f9-2362-4065-8bae-992266085348-0x0-ModelSPlaid-2.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla recalls 362,000 vehicles with self-driving software, citing intersection safety concerns"
     excerpt: "Tesla is issuing a software upgrade to over 362,000 versions of its Model S, Model X, Model 3 and Model Y vehicles because those with its full self-driving beta software may be \"unsafe around intersections,\" according to a National Highway Traffic Safety ..."
     publishedDateTime: 2023-02-16T18:13:00Z
@@ -472,6 +518,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "YOjwVC6Q2INaiJkTT5igbGW/dvK/44lzfWOIzauYqqDzf4/oYMAxDKHj1tTIQpNzZAqY0CXYmwlv0ESotJis+P9TdtU362w5Z0RYSlp2H8iO2qNfJ7LEyDBeSWmRKOLRplZ9nWRRZGdjOst8+oozd3BagnsFFpNVMRMEoTZwa/J3+Dvc7uuj/+ycz9/FP9Rb3VkwwMaYFEj3ml/w8m80Pa54CQEGEu6ne70AwLgc7H1ZLISmp1m7A437LxUZvuUhRTrYaMHDcFMuM93TPwz6r88kw+wbnXIDA6lj+UwkcYCpWiLLD/y3LfRGdCDKzAojYnQpNbI+zZC0LG/xgzber9YfSTTUZ2zHCELdeJvByVY=;NJ1UPPpD1vn02mrzkSIcpA=="
+secured: "eaAjAnyBX5AWABJgm91/EsGrO/4dlKmmm7Ikx97fKlrYDSUikx7J+EwuthAGvAMPIdU4z/g7i75a/AryQsLtP/lmqwJOd10qvPzQtQJWMWLACZjGrQzPcfXUUBRSotkGlKYe6GgbkeuEMknF2k7jj5ebleaxzmiqOs04oi4INBiDV4Tz17hllG+VHFvd909ckCnf1nZRL7Gve0Egibu7WM2Wp5WhP7cL3Qn8er0aJax6elsUQsIVH9puVOxsz9cyz/UyKTM1GbD64FARQFlHr4RpJ38m3q1nWgNay2AB78EnM6Z3mVOMd4AKt93EsXEwCKYEy13mxkmCVzjM8kS2HrZHDzDhYZ2J7DXlFSyNd5GeZIgF3GckGfrRf7APAOF0dqTQGj8EFgoZzv0b6Fo+ldVeJVCwdTrrKGzG8MlHE82IlgfiaH33oOfW4CZ69WBqnCdfeTJ+ECIbTRIl/6bgTRuA5won/RJkdB2HLgTTED7lPxaKJO09ugtcmHFznETIrQCFta6MWRY5tOqGhpls+Q==;in0yV3VUZ9FcJ4/RNFVTeg=="
 ---
 

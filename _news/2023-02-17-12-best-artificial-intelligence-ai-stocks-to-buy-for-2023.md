@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-16T21:46:00Z
 originalUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
 webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
 type: article
-quality: 84
-heat: 104
+quality: 86
+heat: 136
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,48 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Chips Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Chips Market? Artificial Intelligence (AI) Chips Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
+    publishedDateTime: 2023-02-14T23:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market is Booming in Near Future 2023-2028"
+    excerpt: "Feb 16, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Construction Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-16T13:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-is-booming-in-near-future-2023-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Current Status and Future Prospects Of Artificial Intelligence (AI) Software Market"
+    excerpt: "Feb 14, 2023 (The Expresswire) -- Artificial Intelligence (AI) Software Market Size 2023-2029 | New Report (117 Pages) | In This Reports Artificial Intelligence (AI) Software Market and its ..."
+    publishedDateTime: 2023-02-14T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-artificial-intelligence-ai-software-market-2023-02-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A Bull Market Is Coming: 3 Great AI Stocks to Buy Today and Hold Forever"
     excerpt: "With new chips like the Instinct MI300 (an \"accelerated computing\" processor that combines a CPU and a GPU) coming out later in 2023 to address advanced computing and AI needs, the future looks bright for AMD's top moneymaking segment. Data center ..."
     publishedDateTime: 2023-02-12T11:40:00Z
@@ -58,6 +101,6 @@ related:
         height: 630
         isCached: true
 
-secured: "o7w80nyqUIgY9sKkgtuoMO8WZ2uQje44UYagJBZj9+8Qa/j7kWeu3NlZv6JHlw5gkRdjHfEA8OsdOJXd9Two6fMjRVnoIespRXlok8YilxTJXlKJzygzb8OgTBi0S/s2Kyjd9Azq0hqM3wPnbLS1I4Bj3DZ3QcQhNMyfnm5fH8a4mUtTOFE+mSzZucj/VUwpyUDJRHoeAXu9IldXgnb8htetenO9vI4UyBGPom8JRcHtxe6i8nsUv84tjyMGFdaHMcUEFsyWrmjBZo6t4eMIgWdyNkvQg/Ra8U+F4iGiV803sRB3MiZZ2sn93oNW4e+taJcD8weFPhWYbHNHfsjzv63QAkyG1+Gj4vvrqHT/bCE=;4cO/XqeViDNMotz5ztaHuA=="
+secured: "6EF3mFGNfziyiX4U6fJPSGLGml9lUMY8GWlHsaDC5ShfV9CB0MGyN3UCX1BxguDNSZp6/8hjFgNeAgMXDVZoY/U3bdHuzHKOWAcPFP/Dyb8Vh+7/lmAJpOApPuEr+qtddem5A0SQCUXJ5/pQaRayZc9d/sE2Ue+vQY3Hq/VhO6tIm6dp5lEx3HGYtk+/5yvkQV85Cqr/dJmsdZdfZGsVuAFOeSA59tWMKIBWxtKVL4Z4hS/uctI1/NigsOK2KO1WPIuu4e3cDqqIRt0s6J6ISipTJFZCAqFTSvbhc2XRt+wGSEgb6ST937YYe5D1xxsWwuE7voSdOB/NXOYVRSrwQqL9VwvY/OzHW8ofoStBUGWwzLGqpLDxMbbzvqYsLDZCXx7M1f1mL+/RU6jr9eQc/w6EzG88mHEmowDnHL+p+sDwc2Ph1fZZuFJ1ldZwwNe/s1+b/cS8oDW5Ad2jI22VO38p3subxEWF5wTntoi4ynEBfMsaq9AOZm06cp70TKfPK2377NiMZuIR8RnSj6bsiA==;Sq0DHbRyfdlzWXUHhYa1zw=="
 ---
 

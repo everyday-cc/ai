@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-
 ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63ee9ef21fd62838a9ed2985/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Wc27OK0v7j8MK+R0TrsC1+MCJI6jLu7aSRwvgRsY2fE8uHeYBcaUv+29498jxuh9JOB6hHytl/+uJI9nLmTc9qI4aezGDAoZErjQF/DAmzlxNZMgpXe1ID+zIUG90wMPOT26a75WVbFvT9vpY0GKClYe+n4scEwFwcH8NTJHjztTxdoBTcx5Zezob0lIDiR7PaiBv7Xc7ldwaL2L7M/3NAYk7i4jl0BZ3DsVWEh7FdgOnePAaceNMDXTcMESEyWIbzUM9g6O7zkEeMcfA2sAN7q99dOqf5qHJSLTkbBfZV2MROHoPwOKiqkRSMGmjJhF3iDaWoKAmHeqhzFiK91MRS4EdAkarZ2uwCAt55bmL2k=;BLzC0CSPQ5nIlcQJhq7fBg=="
+secured: "JRxyBRvqEg50q8IitsBROmujLeTCBInujHYFhC1lvIKmL3B3LYodxo943cOM+Ru9HABjPcnpwwdNI5VXaw76v4fwIwHJxlNDMaUFqqkssh3V6Bp9BLnUPE1cMPeo053T4X/2cLxPXDgNubv/xzM6l6NtqVD+Qp/I/2uBUZlDrw80vVBbsu62Im09Nn0QRpeGoPUr9OXsy8MpS6Mi/kl6h5WdhD9kHRWKLEnQtSsYT2gWvTNFQD1sViLDrFEZLSs7bkrDsY/2LaYM5LnUpTTTNB3dRAx8Rslj3MuG/f6r/wXzOv/PvwxrrY1mva4GHbK6dY9efgQqvg4SYstFvF8K4ebQehhomXro395w+i0rJTIY0kpLO7POl25iku+ZT+zdRGXYhV8MEaXvnbnFJb1G+QVXg3DTXcCO+0pu8Wp2PiY+kZUxstAYQ4qRXh8pNFdmcWUqkNT0Q6GcwFg0UhYbZqcv9DeEoAOAujzjPBB+kvl5QJNBCY0w/OVvhST2VgHSma/V7TBnMrPqqj7w6n5Zxw==;htdneApjnM7X823ywnZj8w=="
 ---
 
