@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-18T14:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/new-competitors-and-hurdles-emerge-in-the-ai-race-1032107202"
 webUrl: "https://markets.businessinsider.com/news/stocks/new-competitors-and-hurdles-emerge-in-the-ai-race-1032107202"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

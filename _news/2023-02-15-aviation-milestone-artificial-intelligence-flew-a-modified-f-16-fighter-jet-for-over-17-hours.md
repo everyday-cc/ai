@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/science/aviation-milestone-artificial-intellige
 ampWebUrl: "https://www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours.amp"
 type: article
-quality: 77
-heat: 87
+quality: 79
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4fcfcfe-799c-4cea-bbc5-9bfdc780e1b3/388ca3a4-1bcf-4315-bfda-8df14b078210/1280x720/match/1200/675/image.jpg?ve=1&tl=1"

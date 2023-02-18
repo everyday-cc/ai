@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Don’t Fear the Self-Driving Car"
-    excerpt: "However easy it is to forecast a self-driving dystopia, it would be deeply unwise to dismiss the unknown and unknowable benefits of new automotive technologies. After all, with technological ..."
-    publishedDateTime: 2023-02-14T00:00:00Z
-    webUrl: "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 24
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2018/01/self-driving-car-nutonomy-boston-2_0-1.jpg?resize=300%2C300"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "16UOMSGu2P/Vm1aQwq+jO9Zzgtdg24hv15kbmWUJzMh+q198bKOgTCOs/JJrC8VvOgXnPrT8TmXER7xaviUiI3b2MVB8B8EGEpQDNe1mwd00mjnz+Li4EZ1CyZCJnGtGiKn3hCWFMPS5hhyyzJ0+eQL8+1//JK3aeqAcOvaykkLSvrdTqYj/x07nYnBXT/cmXbyRsyVFOfrf5pXDslKNDLP9d0w0oC3co/hzawxk2LWG3p6aGyKzOpBE55VYuOL1I/+Bx2R7AjcNPEC9taWptO8ZcYa08T/u9PDF8y8cg9BdE48AC2HRQ4yITQ7dvqNjwWO8y+7xTYIkHxdyItFPDnJkvWX/aA9kNcjXV7uOILYZWCFHvslJ+5glk3RhN9Jgtd73/AmUH93wN78vDnaImOZlteIaLvAuFQ4vBE+PD4IN36e4gDrH/IVf5qNaSM621YUdfL39VzVX3s4MsQNg604GLo8jcCkPyDW2skU5rc4slRAmVlWjSdjtgHKhp4DfB5gmORfLsrs6tafTUHoByA==;5HSZkcau2IFNnmDjaKED2A=="
 ---

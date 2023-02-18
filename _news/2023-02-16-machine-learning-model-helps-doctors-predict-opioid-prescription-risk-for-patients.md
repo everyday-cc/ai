@@ -25,57 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
-    excerpt: "A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in"
-    publishedDateTime: 2023-02-17T15:06:00Z
-    webUrl: "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
+  - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
+    excerpt: "EDMONTON - Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug"
+    publishedDateTime: 2023-02-18T15:05:00Z
+    webUrl: "https://www.thestar.com/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
+    ampWebUrl: "https://www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
+      name: Toronto Star
+      domain: thestar.com
+    quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/b4/bb444ce3-4236-5f5a-9211-27c6b970387b/63efc485459b2.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
+      - url: "https://www.thestar.com/content/dam/thestar/life/health_wellness/2023/02/10/celebs-tout-ice-baths-but-science-on-benefits-is-lukewarm/20230210000212-63e5d2a6f4f61b813a06223fjpeg.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "New machine learning model improves prediction of prostate cancer recurrence"
-    excerpt: "The investigators first developed a training model using the UPMC data. Several machine learning algorithms were applied to the fusion gene profiling data to determine the best parameters of 14 fusion gene combinations for predicting prostate cancer ..."
-    publishedDateTime: 2023-02-14T20:52:00Z
-    webUrl: "https://medicalxpress.com/news/2023-02-machine-prostate-cancer-recurrence.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-4.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Enhanced prediction of prostate cancer recurrence using machine learning model"
-    excerpt: "Predicting the course of prostate cancer is challenging because only a fraction of prostate cancer patients experience recurrence after radical prostatectomy or radiation therapy."
-    publishedDateTime: 2023-02-15T05:15:00Z
-    webUrl: "https://www.news-medical.net/news/20230214/Enhanced-prediction-of-prostate-cancer-recurrence-using-machine-learning-model.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
-    excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the Feb. 15 issue of Science Translational Medicine. Davide De ..."
-    publishedDateTime: 2023-02-17T20:43:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_8cea174c-c901-5f62-97ab-6528bacee66e.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 19
 
 secured: "0QOZDtr+D0h8OToDWvMQZAFeiqVU7FypzwdISEvsGdV/N/yHKyHpMdy3p0iQ+81az5C6gs0NfDaq7gNo/wwJcjMLym+sjVnMJWaIzw/oWfss/Pl+oFe1XULI1oEe+qxMMBOq5hdasxlEIcuSJFRZkf5cKKm/rHIlyPGI4gA5u1mmzII8/bkiuwAdP7ni2CR4YCz4n0EjoGspMUUNJSkHxYOxhmA6y1w4Y+z17IyBICUvjuI+GVyLKl1FCoq8QxZfMfPoqjI42NGMjqGxbw/ZGvD6QVkR9zPLXp/wKS71GUxrBhTQhWMCD0yLbuYrp18Ps12B8tN/fLqPyL3iZ9F/NQluAY69GiQa+/lSuPoHMbuUaImBDRx7BDkPfg70G/W/aKh1kPzaTF9GIwTS7hQgciPMgM7qlExtF+00ydmyTJMre1OUIVYVmYIR0TPBZK/jr62G2Rp+x/2RQSPtAS0+7q71rdjx36/48O6z9u1WMZ0KFpidGIeyUMUVG1T+021eQ8m8Kv/AjAX2qV4eEueGIw==;WfhDakOy885zcrpis65XJg=="
 ---

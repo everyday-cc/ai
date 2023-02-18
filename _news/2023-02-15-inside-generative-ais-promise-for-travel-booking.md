@@ -74,6 +74,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Generative AI is here, along with critical legal implications"
+    excerpt: "AI is in its relative infancy. As AI and generative AI evolves, regulators and litigants will increasingly reckon with the technologies."
+    publishedDateTime: 2023-02-18T16:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1142653244.jpg?fit=800%2C423&strip=all"
+        width: 800
+        height: 423
+        isCached: true
   - title: "Local startups dive into generative AI"
     excerpt: "deputy chief executive of Swedish AI company Smart Eye (and cofounder of Boston AI startup Affectiva). “I think every company is trying to figure out how to adopt these technologies now.”"
     publishedDateTime: 2023-02-15T01:12:00Z

@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-01-sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop.md",
+      "title": "SK Hynix posts first loss in 10 years from memory chip price drop",
+      "excerpt": "South Korean memory chipmaker SK Hynix recorded its first operating loss in ten years during the fourth quarter last year from sluggish demand and the steep drop in the price of memory chips. The company said on Wednesday that it recorded 7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
+      "originalUrl": "https://www.zdnet.com/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1957bb0a8c3e7d31547ba8cbd2687325ff7976f0/2021/07/12/fe6f3bca-c7f0-4093-90bf-6b7c74d4b3a9/figure-1-sk-hynix-starts-mass-production-of-1anm-dram-using-euv-equipment.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
+      "publishedDateTime": "2023-01-31T19:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-us-india-partnership-targets-arms-and-ai-to-compete-with-china.md",
+      "title": "U.S., India Partnership Targets Arms And AI To Compete With China",
+      "excerpt": "semiconductors and artificial intelligence (AI). Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies Co Ltd, to welcome more Indian computer chip specialists to the United States and to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085",
+      "originalUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4413820/g20-summit-bali.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1",
+      "publishedDateTime": "2023-01-31T17:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-laptops-get-ai-chips-smart-software-engines-to-boost-efficacy.md",
       "title": "Laptops get AI chips, smart software engines to boost efficacy",
       "excerpt": "NEW DELHI: Earlier this year, Chinese laptop maker Lenovo unveiled four gaming laptops with an embedded artificial intelligence (AI) -powered chip called Lenovo LA AI. Combined with Lenovo AI Engine+, the chip will allow the laptop to automatically tune ...",
@@ -1244,110 +1339,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-dell-integrates-more-ai-power-into-updated-server-portfolio.md",
-      "title": "Dell integrates more AI power into updated server portfolio",
-      "excerpt": "Today's Dell PowerEdge event introduced a new server lineup with hardware for general purpose workloads and purpose-built systems for AI/ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/",
-      "originalUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Dell_poweredge_R760_011723-e1673966368373.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dell-integrates-more-ai-power-into-updated-server-portfolio/amp/",
-      "publishedDateTime": "2023-01-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023.md",
-      "title": "AMD Brings Zen 4 Architecture And AI To Its Mobile Processors At CES 2023",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead gives his coverage of AMD's newly announced mobile and desktop processors, mobile graphics, AI products, and adaptive solutions at CES 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c6b974f0d56574eae9af4b/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/amp/",
-      "publishedDateTime": "2023-01-17T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

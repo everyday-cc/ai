@@ -91,6 +91,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "Computing Pioneer Criticizes ChatGPT AI Tech for Making Things Up"
+    excerpt: "Vint Cerf, who helped create the internet's core network technology, hopes engineers can fix the flaws of artificial intelligence language processing."
+    publishedDateTime: 2023-02-18T13:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Inside the ChatGPT race in China"
     excerpt: "Maybe it was because of the holiday season, or maybe it was because ChatGPT is not currently available in China, but it took more than two months for the natural-language-processing chatbot to finally blow up in the country. (OpenAI, the company behind ..."
     publishedDateTime: 2023-02-15T11:01:00Z

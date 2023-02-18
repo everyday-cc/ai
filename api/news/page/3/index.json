@@ -2,6 +2,164 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-16-microsoft-explains-bings-bizarre-ai-chat-behavior.md",
+      "title": "Microsoft explains Bing's bizarre AI chat behavior",
+      "excerpt": "Microsoft launched its Bing AI chat product for the Edge browser last week, and it's been in the news ever since — but not always for the right reasons. Our initial impressions were strong, as it offered up workout routines, travel itineraries and more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "originalUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 476,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/rmtgqK.dkZnoRLcvyngjAQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/31782c40-adf7-11ed-9dcf-98e346252060.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "publishedDateTime": "2023-02-16T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-ge-healthcare-makes-push-into-artificial-intelligence.md",
+      "title": "GE HealthCare Makes Push Into Artificial Intelligence",
+      "excerpt": "The company is developing a software platform that helps hospitals guide care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4",
+      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-718151/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools.md",
+      "title": "Artificial Intelligence Content: Marketing Friend Or Foe? Three Ways To Use AI Content Tools",
+      "excerpt": "Here are three benefits of getting into the AI content-generation game. Leverage AI as a starting point. If you’re like me, the worst part of writing is getting started. You aga",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/amp/",
+      "publishedDateTime": "2023-02-16T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-nigerian-ai-artist-creates-a-fashion-show-for-elderly-people.md",
       "title": "Nigerian AI artist creates a fashion show for elderly people",
       "excerpt": "they were entirely generated by artificial intelligence (AI). Twelve years ago, Afegbua was an amateur photographer and visual artist when he received a Canon camera as a gift. He says it gave him the opportunity to start producing videos, and as a self ...",
@@ -444,58 +602,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost.md",
-      "title": "Image Recognition in Retail Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost",
-      "excerpt": "Facial Recognition, Object Recognition, Others]that held the largest Image Recognition in Retail market share In 2022. Short Description About Image Recognition in Retail Market: The Global Image Recognition in Retail market is anticipated to rise at a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1003,7 +1109,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1148,111 +1254,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-solaris-setback-spells-trouble-for-european-fintech-scene.md",
-      "title": "Solaris Setback Spells Trouble For European Fintech Scene",
-      "excerpt": "For European fintech startups seeking to launch with a BaaS model ... Combining the increased competition with growing trends of AI and Web3, and the rise of Embedded Finance, B2C /SME fintechs and neobanks looking to be the next Lunar, Qonto, or PayHawk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/",
-      "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ecfebd2e820a093fed2987/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 845,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/amp/",
-      "publishedDateTime": "2023-02-15T03:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-four-ways-artificial-intelligence-can-benefit-robotic-surgery.md",
-      "title": "Four Ways Artificial Intelligence Can Benefit Robotic Surgery",
-      "excerpt": "Artificial intelligence (AI) meets us in our everyday lives ... care in a process that would significantly benefit both surgeons and patients. Surgical robotics is one of the next frontiers for optimizing AI. Following are four ways robotic surgery ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63eb81852fd74647f9226ab7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/amp/",
-      "publishedDateTime": "2023-02-15T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

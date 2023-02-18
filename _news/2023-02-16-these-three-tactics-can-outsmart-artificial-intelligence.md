@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/us/blog/motivate/202302/these-three-tac
 ampWebUrl: "https://www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

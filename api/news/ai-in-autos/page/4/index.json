@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-01-tech-tuesday-samsung-smartphones-google-ai-liquid-robots.md",
+      "title": "Tech Tuesday: Samsung smartphones, Google AI, ‘liquid’ robots",
+      "excerpt": "From a sneak peek of the latest smartphones and artificial intelligence to “liquid” robots, technology expert Greg Nibler joined KOIN 6 News’ AM Extra to share the latest tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
+      "originalUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/01/Liquid-robot-Carnegie-Mellon-University-1312023.png?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
+      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
+      "publishedDateTime": "2023-01-31T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOIN 6",
+        "domain": "koin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-cyber-insights-2023-artificial-intelligence.md",
+      "title": "Cyber Insights 2023: Artificial Intelligence",
+      "excerpt": "What is still unknown is the degree of danger that may be introduced when adversaries start to use artificial intelligence (AI) as an effective weapon of attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/",
+      "originalUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cyber_Insights-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.securityweek.com/cyber-insights-2023-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/cyber-insights-2023-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-31T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecurityWeek",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-chinese-search-giant-baidu-set-to-take-on-chatgpt-with-its-own-ai-chatbot.md",
       "title": "Chinese search giant Baidu set to take on ChatGPT with its own AI Chatbot",
       "excerpt": "Just two months after OpenAI’s ChatGPT took the world by storm, the Chinese search giant, Baidu, is set to announce its own conversational AI in March, which will be based on Baidu’s Ernie system.",
@@ -1353,111 +1442,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-can-you-flirt-better-than-artificial-intelligence.md",
-      "title": "Can You Flirt Better Than Artificial Intelligence?",
-      "excerpt": "Chatting on dating apps is awkward. With new AI-driven apps, entrepreneurs are looking to cut the small talk and get more people on actual dates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-704289/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-7-eleven-is-quietly-testing-self-driving-robots-to-deliver-slurpees-and-big-bite-hot-dogs-in-los-angeles-heres-how-it-works.md",
-      "title": "7-Eleven is quietly testing self-driving robots to deliver Slurpees and Big Bite Hot Dogs in Los Angeles. Here's how it works.",
-      "excerpt": "All they have to do is hail a robot. 7-Eleven has been testing self-driving robots to deliver some of the convenience store chain's most iconic foods and snacks – from Slurpees to Big Bite Hot Dogs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/7-eleven-rolls-out-self-driving-robots-for-deliveries-in-los-angeles-2023-1",
-      "originalUrl": "https://www.businessinsider.com/7-eleven-rolls-out-self-driving-robots-for-deliveries-in-los-angeles-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63d0655940fbb600192b5190?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/7-eleven-rolls-out-self-driving-robots-for-deliveries-in-los-angeles-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/7-eleven-rolls-out-self-driving-robots-for-deliveries-in-los-angeles-2023-1?amp",
-      "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

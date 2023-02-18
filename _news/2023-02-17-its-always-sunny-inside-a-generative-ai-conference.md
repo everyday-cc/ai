@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.techhive.com/images/article/2017/03/ai_agriculture_primary-100715481-large.jpg?auto=webp&quality=85,70"
         width: 700
         height: 467
+        isCached: true
+  - title: "Generative AI is here, along with critical legal implications"
+    excerpt: "AI is in its relative infancy. As AI and generative AI evolves, regulators and litigants will increasingly reckon with the technologies."
+    publishedDateTime: 2023-02-18T16:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1142653244.jpg?fit=800%2C423&strip=all"
+        width: 800
+        height: 423
         isCached: true
   - title: "Inside Generative AI’s Promise for Travel Booking"
     excerpt: "Online travel agencies are beginning to make moves toward implementing generative AI into their tech products."

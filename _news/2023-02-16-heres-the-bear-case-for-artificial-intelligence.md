@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-16T14:19:00Z
 originalUrl: "https://www.cnbc.com/2023/02/16/heres-the-bear-case-for-artificial-intelligence.html/"
 webUrl: "https://www.cnbc.com/2023/02/16/heres-the-bear-case-for-artificial-intelligence.html/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 

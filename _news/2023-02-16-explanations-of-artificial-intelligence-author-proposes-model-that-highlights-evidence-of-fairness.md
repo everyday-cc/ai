@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2023-02-explanations-artificial-intelligenc
 ampWebUrl: "https://techxplore.com/news/2023-02-explanations-artificial-intelligence-author-highlights.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-explanations-artificial-intelligence-author-highlights.amp"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-and-business.jpg"

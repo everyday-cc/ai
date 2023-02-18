@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-
 webUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/X5WWcZocrGofWm5TT7bWq8-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
-    excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
-    publishedDateTime: 2023-02-14T18:38:00Z
-    webUrl: "https://www.tweaktown.com/news/90331/the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 54
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90331_01_the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt.jpg"
-        width: 620
-        height: 348
         isCached: true
   - title: "Chinese chipmakers to advance GPU development for ChatGPT"
     excerpt: "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development."

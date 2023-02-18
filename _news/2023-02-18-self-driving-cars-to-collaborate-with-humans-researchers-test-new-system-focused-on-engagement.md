@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-18T14:29:00Z
 originalUrl: "https://indianexpress.com/article/technology/science/self-driving-cars-to-collaborate-with-humans-researchers-test-new-system-focused-on-engagement-8453009/"
 webUrl: "https://indianexpress.com/article/technology/science/self-driving-cars-to-collaborate-with-humans-researchers-test-new-system-focused-on-engagement-8453009/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Indian Express

@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-18-as-interest-in-ai-surges-check-out-this-etf.md",
+      "title": "As Interest in AI Surges, Check Out This ETF",
+      "excerpt": "Investor interest in artificial intelligence (AI) is surging this year. Just as previously hot segments of tech like social media and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-480.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 777,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips.md",
       "title": "The Future Of U.S. Semiconductor Manufacturing Requires More Than Just Chips",
       "excerpt": "New models of collaboration that encourage increased cooperation across this electronics manufacturing innovation ecosystem are exactly what is needed to solve a multitude of semiconductor supply-chain problems.",
@@ -167,7 +221,7 @@
       "originalUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -431,7 +485,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -844,6 +898,49 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-is-apple-letting-another-ai-opportunity-slip-away.md",
+      "title": "Is Apple letting another AI opportunity slip away?",
+      "excerpt": "AI that lets you select the text in any image. Apple does all this stuff. It’s so important to the company that they build a Neural Engine into all their chips, specialized hardware that accelerates machine learning tasks like these. Apple’s even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html",
+      "originalUrl": "https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1312,92 +1409,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-chip-startup-cerebras-systems-announces-pioneering-simulation-of-computational-fluid-dynamics.md",
-      "title": "AI chip startup Cerebras Systems announces pioneering simulation of computational fluid dynamics",
-      "excerpt": "It could run several hundred times faster than what is possible using traditional distributed computers. A single WSE-2 AI chip is said to contain 2.6 trillion transistors, or 2.55 trillion more than the most advanced graphics processing unit on the market.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/02/07/ai-chip-startup-cerebras-systems-announces-pioneering-simulation-computational-fluid-dynamics/",
-      "originalUrl": "https://siliconangle.com/2023/02/07/ai-chip-startup-cerebras-systems-announces-pioneering-simulation-computational-fluid-dynamics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/photo.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot.md",
-      "title": "First Tests! The GeForce RTX 4090 Laptop GPU Is a Scorcher (But DLSS Helps a Lot)",
-      "excerpt": "Our initial tests on two gaming laptops with Nvidia's GeForce RTX 4090 inside reveal some rocket-liftoff frame rates—if you're playing one of the few games with DLSS 3. (It's still fast without it, mind you.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/laptops/98634/first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot",
-      "originalUrl": "https://au.pcmag.com/laptops/98634/first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

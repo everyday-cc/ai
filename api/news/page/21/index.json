@@ -2,6 +2,176 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-02-06-how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy.md",
+      "title": "How facial authentication promises the automated future techies seek without compromising user privacy",
+      "excerpt": "Facial recognition technology can compromise PII, but facial authentication promise to deliver the security society seeks without compromising privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/perspective/emerging-technology/how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy",
+      "originalUrl": "https://www.scmagazine.com/perspective/emerging-technology/how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-insurance-it-leaders-herald-new-era-for-digital-customer-experience.md",
+      "title": "Insurance IT leaders herald new era for digital customer experience",
+      "excerpt": "With operating models upended by COVID-19 shutdowns, insurance CIOs pivoted to digital services for agents and policyholders and haven’t looked back since, making digital CX priority No. 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/432457/insurance-it-leaders-herald-new-era-for-digital-customer-experience.html",
+      "originalUrl": "https://www.cio.com/article/432457/insurance-it-leaders-herald-new-era-for-digital-customer-experience.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/432457/insurance-it-leaders-herald-new-era-for-digital-customer-experience.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/432457/insurance-it-leaders-herald-new-era-for-digital-customer-experience.html/amp/",
+      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-moonstake-partners-with-humansai-to-help-advance-artificial-intelligence-on-the-blockchain-and-support-the-ai-startups-expansion-in-asia.md",
+      "title": "Moonstake Partners with Humans.ai to Help Advance Artificial Intelligence on the Blockchain and Support the AI Startup's Expansion in Asia",
+      "excerpt": "SINGAPORE, Feb 6, 2023 - (ACN Newswire) - Moonstake, a leading provider of staking services for blockchain networks, partners with Humans.ai, AI and blockchain startup focused on harnessing the power of artificial intelligence in an ethical...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/moonstake-partners-humansai-help-advance-artificial-intelligence-blockchain-and-support-ai",
+      "originalUrl": "https://www.asiaone.com/business/moonstake-partners-humansai-help-advance-artificial-intelligence-blockchain-and-support-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-smartchemistry-brings-the-power-of-ai-and-machine-learning-into-your-lab.md",
+      "title": "SmartChemistry brings the power of AI and machine learning into your lab",
+      "excerpt": "Artificial intelligence and machine learning are changing chemistry. Today, the chemical literature contains such a huge volume of information that it is impossible for chemists to know everything that’s been done before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chemistryworld.com/sponsored-content/smartchemistry-brings-the-power-of-ai-and-machine-learning-into-your-lab/4016902.article",
+      "originalUrl": "https://www.chemistryworld.com/sponsored-content/smartchemistry-brings-the-power-of-ai-and-machine-learning-into-your-lab/4016902.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chemistry World",
+        "domain": "chemistryworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-the-robots-revolutionising-chemistry.md",
+      "title": "The robots revolutionising chemistry",
+      "excerpt": "Researchers working with automated systems are pushing the boundaries of what chemists can achieve in the lab, reports James Mitchell Crow",
+      "sourceUrl": null,
+      "webUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
+      "originalUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chemistry World",
+        "domain": "chemistryworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-hmt-advises-on-translation-firm-acquisition.md",
       "title": "HMT advises on translation firm acquisition",
       "excerpt": "South East law firm HMT LLP has advised an AI-powered language operations platform on its acquisition of an international translation company.",
@@ -745,183 +915,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-how-to-invest-in-ai-as-chatgpt-takes-tech-by-storm.md",
-      "title": "How to Invest in AI as ChatGPT Takes Tech by Storm",
-      "excerpt": "From the classroom to the boardroom, the artificial intelligence-powered chatbot ChatGPT is being billed as a game changer in how work is done. It can write a term paper, organize",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/money/investing-in-ai-stocks/",
-      "originalUrl": "https://www.sacbee.com/money/investing-in-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-how-artificial-intelligence-is-playing-a-role-in-insect-farming.md",
-      "title": "How artificial intelligence is playing a role in insect farming",
-      "excerpt": "An AI engine developed by Singapore startup EntoVerse is helping cricket farmers improve yield by optimising environmental and other conditions",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming",
-      "originalUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming?amp=1",
-      "publishedDateTime": "2023-02-05T21:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-startup-funding-acquisition-report-2023.md",
-      "title": "AI Startup Funding & Acquisition Report 2023",
-      "excerpt": "Funding has increased marginally from $1,108 Million in 2021 to $1,109.62 Million in 2022. Moreover, funding rounds have decreased sharply from 135 in 2021 to 47 in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/ai-startup-funding-acquisition-report-2023/",
-      "originalUrl": "https://analyticsindiamag.com/ai-startup-funding-acquisition-report-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-preempting-a-generative-ai-monopoly.md",
-      "title": "Preempting A Generative AI Monopoly",
-      "excerpt": "CAMBRIDGE - ChatGPT, the new artificial-intelligence chatbot developed by the San Francisco-based research laboratory OpenAI, has taken the world",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105527696/Preempting-A-Generative-AI-Monopoly",
-      "originalUrl": "https://menafn.com/1105527696/Preempting-A-Generative-AI-Monopoly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T21:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-mp-tells-australias-parliament-ai-could-be-used-for-mass-destruction-in-speech-part-written-by-chatgpt.md",
-      "title": "MP tells Australia’s parliament AI could be used for ‘mass destruction’ in speech part-written by ChatGPT",
-      "excerpt": "Julian Hill has called for an inquiry or white paper to look into the risks and benefits of artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2023/feb/06/labor-mp-julian-hill-australia-parliament-speech-ai-part-written-by-chatgpt",
-      "originalUrl": "https://www.theguardian.com/australia-news/2023/feb/06/labor-mp-julian-hill-australia-parliament-speech-ai-part-written-by-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/feb/06/labor-mp-julian-hill-australia-parliament-speech-ai-part-written-by-chatgpt",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/feb/06/labor-mp-julian-hill-australia-parliament-speech-ai-part-written-by-chatgpt",
-      "publishedDateTime": "2023-02-05T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

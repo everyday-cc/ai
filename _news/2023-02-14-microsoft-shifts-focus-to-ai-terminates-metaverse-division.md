@@ -139,6 +139,22 @@ related:
         width: 831
         height: 645
         isCached: true
+  - title: "Microsoft Puts New Limits On Bing’s AI Chatbot After It Expressed Desire To Steal Nuclear Secrets"
+    excerpt: "(PHoto by Galerie Bilderwelt/Getty Images) Microsoft announced it was placing new limits on its Bing chatbot following a week of users reporting some extremely disturbing conversations with the new AI tool ... the San Francisco startup OpenAI and also ..."
+    publishedDateTime: 2023-02-18T15:40:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/02/18/microsoft-puts-new-limits-on-bings-ai-chatbot-after-it-expressed-desire-to-steal-nuclear-secrets/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/02/18/microsoft-puts-new-limits-on-bings-ai-chatbot-after-it-expressed-desire-to-steal-nuclear-secrets/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/02/18/microsoft-puts-new-limits-on-bings-ai-chatbot-after-it-expressed-desire-to-steal-nuclear-secrets/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f0feeddf3e33323a36e6db/0x0.jpg?format=jpg&crop=2344,1318,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft’s AI Bing Chatbot Fumbles Answers, Wants To ‘Be Alive’ And Has Named Itself - All In One Week"
     excerpt: "Microsoft’s Bing chatbot has been in early testing for a week, revealing several issues with the technology Testers have been subjected to insults, surly attitudes and disturbing answers from the Big Tech giant’s flagship AI,"
     publishedDateTime: 2023-02-17T10:07:00Z
@@ -257,6 +273,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Is Experimenting With AI That Plays Minecraft For You"
+    excerpt: "It's just an internal demo at the moment, but the AI could potentially allow players to ask the game to build castles, forts, or cars."
+    publishedDateTime: 2023-02-18T15:29:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-is-experimenting-with-ai-that-plays-minecraft-for-you"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03qawVO1B11KqnU24XriKfk-1.fit_lim.size_1200x630.v1676733807.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Microsoft Muzzles the New Bing, Restricts AI Chats to 50 Per Day"
     excerpt: "I've been with PCMag since October 2017, covering a wide range of topics, including consumer electronics, cybersecurity, social media, networking, and gaming. Prior to working at PCMag, I was a foreign correspondent in Beijing for over five years, covering ..."
     publishedDateTime: 2023-02-17T23:08:00Z
@@ -348,15 +378,15 @@ related:
         height: 641
         isCached: true
   - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-    excerpt: "We talked about, remember when it's the idea of AI and education definitely understand the concern ... Microsoft is also weighing the need for a tool to \"refresh the context or start from scratch\" to avoid having very long user exchanges that \"confuse ..."
-    publishedDateTime: 2023-02-18T00:00:00Z
-    webUrl: "https://www.kcra.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-    ampWebUrl: "https://www.kcra.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
+    publishedDateTime: 2023-02-17T21:58:00Z
+    webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
     type: article
     provider:
-      name: kcra.com
-      domain: kcra.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 70
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-136bfc3d0e45cf05ebcbdaebda8967e0-h-8b1298d1ec7960ff76910faf0490b305-jpg-1676675679.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
@@ -444,6 +474,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Microsoft's AI chatbot might love you or hate you"
+    excerpt: "When Marvin von Hagen, a 23-year-old studying technology in Germany, asked Microsoft's new AI-powered search chatbot if it knew anything about him, the answer was a lot more surprising and menacing"
+    publishedDateTime: 2023-02-18T16:56:00Z
+    webUrl: "https://www.theday.com/business/20230218/microsofts-ai-chatbot-might-love-you-or-hate-you/"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 54
+    images:
+      - url: "https://imengine.public.prod.day.navigacloud.com?uuid=6c14f255-2b8d-5c87-955d-d4b256fa6cd1&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.93361&width=753&height=424&x=1.0E-5&y=1.0E-5"
+        width: 753
+        height: 424
+        isCached: true
   - title: "Microsoft limits Bing AI chatbot to just 5 messages per topic in effort to reduce rampancy"
     excerpt: "Almost like rampancy! Now, when the user attempts to continue a conversation past the 5th chat turn, Bing AI will prompt the user to reset the conversation and start again. After the 50th chat turn in a day, the chat bot will stop functioning altogether ..."
     publishedDateTime: 2023-02-18T02:58:00Z
@@ -458,6 +502,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Minimum wage ‘ghosts’ keep Google and Microsoft’s AI arms race from becoming a nightmare | Brian Merchant"
+    excerpt: "Commentary: There's a certain cruel irony in the fact that as the highest-profile technology in years makes its debut, the ones best suited to keep it on the rails are also the most precarious at the companies that need them."
+    publishedDateTime: 2023-02-18T15:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/minimum-wage-ghosts-keep-google-and-microsofts-ai-arms-race-from-becoming-a-nightmare-brian-merchant/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/minimum-wage-ghosts-keep-google-and-microsofts-ai-arms-race-from-becoming-a-nightmare-brian-merchant/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/minimum-wage-ghosts-keep-google-and-microsofts-ai-arms-race-from-becoming-a-nightmare-brian-merchant/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Microsoft Bing AI claims to be able to watch webcams & hack devices"
     excerpt: "The AI-powered search engine era is here, and Microsoft was the first to kick start it with their reveal of OpenAI-powered Bing and Edge on February 7. Fans quickly flooded the waitlist in an attempt to gain access to the new features, with many reporting ..."
     publishedDateTime: 2023-02-16T13:37:00Z

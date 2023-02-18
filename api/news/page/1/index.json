@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-18-how-to-run-stable-diffusion-to-make-awesome-ai-generated-art.md",
+      "title": "How to run Stable Diffusion to make awesome AI-generated art",
+      "excerpt": "Stable Diffusion is one of the most impressive generative AI art tools available today. Here's how to run Stable Diffusion online and on your PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/10/dt_logo_lockup_blue.jpg?p=1",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-run-stable-diffusion/?amp",
+      "publishedDateTime": "2023-02-18T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-7-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
       "title": "7 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
       "excerpt": "It also addresses the professional and business opportunities that come with the metaverse and is taught by experts from Meta ... and the influence of AI-driven technology on workers. \"The course introduces you to cutting-edge research in the economics ...",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -51,7 +102,60 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know.md",
+      "title": "Generative AI Tools Like ChatGPT and Dall-E Are Everywhere: What You Need to Know",
+      "excerpt": "Even crazier: The illustrations created by CNET artists and others for our crowdsourced novella back then could be done today by AI tools like Dall-E 2 in minutes ... The platforms are based on what are called large language models (LLMs) or sometimes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
+      "originalUrl": "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
+      "publishedDateTime": "2023-02-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -231,6 +335,60 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-as-interest-in-ai-surges-check-out-this-etf.md",
+      "title": "As Interest in AI Surges, Check Out This ETF",
+      "excerpt": "Investor interest in artificial intelligence (AI) is surging this year. Just as previously hot segments of tech like social media and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-480.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 777,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -651,7 +809,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-360-market-updates-reports-development-expenditure-and-financial-insights-2028-2023-02-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1110,144 +1268,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-artificial-intelligence-causing-ethics-controversy-among-artists.md",
-      "title": "Artificial intelligence causing ethics controversy among artists",
-      "excerpt": "CHARLOTTE — You may have tried one of the new websites that allow you to create your own art simply by typing words into an artificial intelligence art creator. Breathtaking images have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsoctv.com/news/local/artificial-intelligence-causing-ethics-controversy-among-artists/OF5YD5JMLFHY5OZS2HS5NFP4SQ/",
-      "originalUrl": "https://www.wsoctv.com/news/local/artificial-intelligence-causing-ethics-controversy-among-artists/OF5YD5JMLFHY5OZS2HS5NFP4SQ/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/EVtqjs-5u6CnBUQnRlag-dmBOmc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/O7FUXQNP3BBRHMIP4AH7USFFQU.jpeg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsoctv.com/news/local/artificial-intelligence-causing-ethics-controversy-among-artists/OF5YD5JMLFHY5OZS2HS5NFP4SQ/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/local/artificial-intelligence-causing-ethics-controversy-among-artists/OF5YD5JMLFHY5OZS2HS5NFP4SQ/?outputType=amp",
-      "publishedDateTime": "2023-02-16T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSOC-TV",
-        "domain": "wsoctv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-make-your-midjourney-ai-prompts-better-with-chatgpt.md",
-      "title": "Make Your Midjourney AI Prompts Better With ChatGPT",
-      "excerpt": "ChatGPT can help you prompts for the Midjourney AI platform. It can generate fresh ideas, expands on existing prompts, and creates multiple prompts efficiently. Sometimes they are too wordy and you have to keep whittling it down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ef079a42311a1b18171308/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/amp/",
-      "publishedDateTime": "2023-02-16T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty.md",
-      "title": "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty",
-      "excerpt": "Taught by distinguished IIT-Madras faculty, this programme, offered in collaboration with Emeritus, aims to enhance the tech skills of early and mid-level professionals",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/02/16/600x338/EMRT_1676550476050_1676550481097_1676550481097.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html",
-      "publishedDateTime": "2023-02-16T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

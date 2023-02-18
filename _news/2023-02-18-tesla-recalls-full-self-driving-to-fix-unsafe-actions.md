@@ -2,19 +2,19 @@
 category: news
 title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
 excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
-publishedDateTime: 2023-02-18T02:28:00Z
-originalUrl: "https://www.star-telegram.com/latest-news/article272526846.html"
-webUrl: "https://www.star-telegram.com/latest-news/article272526846.html"
-ampWebUrl: "https://amp.star-telegram.com/latest-news/article272526846.html"
-cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/latest-news/article272526846.html"
+publishedDateTime: 2023-02-18T13:36:00Z
+originalUrl: "https://www.sacbee.com/news/business/article272526846.html"
+webUrl: "https://www.sacbee.com/news/business/article272526846.html"
+ampWebUrl: "https://amp.sacbee.com/news/business/article272526846.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article272526846.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Fort Worth Star-Telegram
-  domain: star-telegram.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI in Autos
@@ -419,20 +419,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Super Bowl Ad Shows Self-Driving Tesla Decapitating a Mannequin and Running Over Baby Strollers"
-    excerpt: "In case you missed it on Sunday, an ad broadcast during the Super Bowl attacked Tesla 's Full Self-Driving technology as dangerous and deadly. The 30-second spot depicts brutal scenes of self-driving Teslas running over child mannequins and baby strollers,"
-    publishedDateTime: 2023-02-14T00:14:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/super-bowl-ad-shows-self-driving-tesla-decapitating-a/444963"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 57
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1676333128-ScreenShot2023-02-13at40241PM.png"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tesla recalls nearly 363,000 'Full Self-Driving' vehicles to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system because it misbehaves around intersections and doesn't always follow speed limits."
     publishedDateTime: 2023-02-16T19:57:00Z
@@ -723,6 +709,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "Tesla is recalling vehicles over 'full self-driving' safety concerns"
+    excerpt: "Tesla Inc. is recalling 362,758 vehicles because its \"full self-driving\" software may cause crashes. The National Highway Traffic Safety Administration issued the recall after launching an investigation into the technology last year,"
+    publishedDateTime: 2023-02-18T12:37:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2023/02/18/tesla-recall-fsd-full-self-driving.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Tesla is recalling 362,758 vehicles over 'full self-driving' safety concerns"
     excerpt: "Tesla Inc. is recalling 362,758 vehicles because its \"full self-driving\" software may cause crashes. The National Highway Traffic Safety Administration issued the recall after launching an investigation into the technology last year,"
     publishedDateTime: 2023-02-17T20:02:00Z
@@ -778,6 +773,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "8MH3EypscsgWbQnEmMmOGdg+Mi8X7nxwWLtYUn1GGWCA53dcTcP+wMhCLQ5ICpqYt5uaNb4wfl/Pyu0RUsGoENREw4ajo9D324N83Lp/5N0ggJc1Fe2WdUePmhplxOk2xipZiBRVne64axBkZBU8gTwQSPw+ieBbvksO8zBL4ZSlpok2Zd/VIaIKleQV+lSG2YU7ONvNpSQiSzBspBrP/jIC2r2YUqiMwFNFbBOtsDTtcMZ1hhvSMv/Qqg4Lv8F3FCxKyW+k0k/WauDkXC4Pmp9PVwR/x5Ar52+Kjl8LSC8JpiRg4KJhBsS9Jg9e/Ha5PDIWEwPHcJY2glmsTexl+aI0wynvnLkru+gamOI+mMNK+OrvsFM8EzYfuCMjlkv1HTVXpeAGT/57RQS6rLTRp9h2ADohnAk9afzP0ftxUFh3gXXGxWK2EaonjlAKIgixuCG/vHhGdZ5woWErDy2xkHU2ZDRRtnMOs1VI0pupNasWgIVnFASdv6AbfKCA4Krf8Whi36eT8n8gsDJnnX3bhA==;t5k7tEas5J19pv6mEfr/Mw=="
+secured: "qQlMm3aeOGIjbUNZpir9/h48sefzFeZ82qQ9UU5k1cSB11ND1utHXt4mlQHuA5sQsb9zf5/xPmLN61xsxwTnZvZRqGcfOme0OV5DY8eHwBAtsSaQoHACoD2vXmw7LbzbEwkbLsRmOVJZDS0rXXhutQKSeqq27jMQPImR8nfyfFMowmHIWghR4MKRol+jCMVwHuX9E0PKU4eN/C305TxKoxboQJOMCNI5euUvFDSaE9ayCd+bLSrPWTxBKf5yyk8bFcTFj9VyrlFMt48ZvU9mPDSjueg4HXLuTMRZscA0seqDT1cgOfiUgRazk/DJYVLbQ2PH0+mMYXO+24FM3AFXoUX1GWR8ZJ5/eDgFUHnrdUEKi4g/n6D+dtQR50ciuJMx/DAimcw3BlNgFbE8yuetRuVA9I6iIuAyKpmqBV5Oyo7Mi2Ptt43+nTx+RvVYr9ih8bG9YtoE6QvYgaNC+5H9Pf711KaD+W/uvgbAwVYJ6Hj6Y3apbB0amZHpKMQbahGyNVqo5O0MnLPP4UK6RIgMNQ==;CUuriXdjTRhfCl+SY4pO5g=="
 ---
 

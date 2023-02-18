@@ -414,20 +414,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Super Bowl Ad Shows Self-Driving Tesla Decapitating a Mannequin and Running Over Baby Strollers"
-    excerpt: "In case you missed it on Sunday, an ad broadcast during the Super Bowl attacked Tesla 's Full Self-Driving technology as dangerous and deadly. The 30-second spot depicts brutal scenes of self-driving Teslas running over child mannequins and baby strollers,"
-    publishedDateTime: 2023-02-14T00:14:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/super-bowl-ad-shows-self-driving-tesla-decapitating-a/444963"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 57
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1676333128-ScreenShot2023-02-13at40241PM.png"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tesla recalls nearly 363,000 'Full Self-Driving' vehicles to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system because it misbehaves around intersections and doesn't always follow speed limits."
     publishedDateTime: 2023-02-16T19:57:00Z
@@ -555,14 +541,14 @@ related:
     quality: 39
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
-    publishedDateTime: 2023-02-18T02:28:00Z
-    webUrl: "https://www.star-telegram.com/latest-news/article272526846.html"
-    ampWebUrl: "https://amp.star-telegram.com/latest-news/article272526846.html"
-    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/latest-news/article272526846.html"
+    publishedDateTime: 2023-02-18T13:36:00Z
+    webUrl: "https://www.sacbee.com/news/business/article272526846.html"
+    ampWebUrl: "https://amp.sacbee.com/news/business/article272526846.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article272526846.html"
     type: article
     provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 39
   - title: "USA: Tesla To Recall 'Full Self-Driving' Vehicles To Fix Flaws"
     excerpt: "Tesla is recalling nearly 363,000 vehicles with its“Full Self-Driving” system to fix problems with the way it behaves around intersections and follo"
@@ -728,6 +714,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 19
+  - title: "Tesla is recalling vehicles over 'full self-driving' safety concerns"
+    excerpt: "Tesla Inc. is recalling 362,758 vehicles because its \"full self-driving\" software may cause crashes. The National Highway Traffic Safety Administration issued the recall after launching an investigation into the technology last year,"
+    publishedDateTime: 2023-02-18T12:37:00Z
+    webUrl: "https://www.bizjournals.com/dallas/news/2023/02/18/tesla-recall-fsd-full-self-driving.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 19
   - title: "Tesla is recalling 362,758 vehicles over 'full self-driving' safety concerns"
     excerpt: "Tesla Inc. is recalling 362,758 vehicles because its \"full self-driving\" software may cause crashes. The National Highway Traffic Safety Administration issued the recall after launching an investigation into the technology last year,"

@@ -63,7 +63,7 @@
       "originalUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -95,7 +95,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -548,6 +549,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-aviation-milestone-artificial-intelligence-flew-a-modified-f-16-fighter-jet-for-over-17-hours.md",
+      "title": "Aviation milestone: artificial intelligence flew a modified F-16 fighter jet for over 17 hours",
+      "excerpt": "An artificial intelligence algorithm developed by the U.S. military flew a modified F-16 fighter jet for over 17 hours in December, officials announced this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours",
+      "originalUrl": "https://www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4fcfcfe-799c-4cea-bbc5-9bfdc780e1b3/388ca3a4-1bcf-4315-bfda-8df14b078210/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours.amp",
+      "publishedDateTime": "2023-02-14T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1276,41 +1330,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-3-etfs-for-the-artificial-intelligence-boom.md",
-      "title": "3 ETFs for the Artificial Intelligence Boom",
-      "excerpt": "Enthusiasm for ChatGPT is having a positive effect on a slew of other AI equities as highlighted by the fact that the Nasdaq CTA Artificial Intelligence and Robotics Index is higher by 19.60% year-to-date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
-      "originalUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
-      "publishedDateTime": "2023-02-06T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

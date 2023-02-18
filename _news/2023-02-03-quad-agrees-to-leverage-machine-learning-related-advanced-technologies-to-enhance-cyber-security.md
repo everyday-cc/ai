@@ -5,6 +5,8 @@ excerpt: "In the longer term, the Group committed to leverage machine learning a
 publishedDateTime: 2023-02-03T02:11:00Z
 originalUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
 webUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
 type: article
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - Machine Learning
   - AI in Security
 
-secured: "upO7mhLAjfvQ3lG9mSs95mSutS8PwLqyDqPRpDSerZwMzlLljQpHedFCdByYC7C/1nXZ5ZdudNr1UHg+O9hfPxnW8HGbdQ1xKuVG3IxEBqMiu7phv0tq70UiavmI7yKOf1dNJG+L8kt5rEM+LXw7l05zySwbwONff3aDF8ADR3XKghrpOjAizRuuqNgLWJW8H3WQRcB+0flUxpLgXf1kIt3gMf0ON3Bmbd32Qs6BsBJnIUtLUGqqepMiXLAa7UBspOozaR8MF8b8DGy8H+Eg0/EwEUtxqpT5fwPpioGyfod693SV36Hl63VwzhnJz9Kyh7jEqj+vtDNz8NsLONG6bGP+j3F7XEuc6HOrJFJyn9A=;1Tz9jv3JbFmJ7IC3sEcWCg=="
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "9gV2StUkNLHJC1BIjhMLVrz/dtibhCG8uAOYKWCuJ5sr5o4AhpNXx4ejC/faBw/plusaslrKLpbpokg0bLenDEHv/Dx+33b5B1f6lkD1vhJByLKx+BZvtiLujrY54MOl1GCea0th/02A2AsFcRUs6xUmNIEhYtEUzOWeTq8K7eFPzqi2XTGOu68+kYem3WOpPogsaEvltA6mSm+36qnvN7aCnixta7QMMXTTV5B2i/b6yQC662aNwwuv7nIRgWKGSbaRKdoxlm+5/MlX/MfXqWIdvJ3Tdc9FDf5ZO0YGKnqB7d4IQgKwpquXTBfxYfaHN6dp4gy8qmZSeraxAvjHKb0cewEpMRdaViZ7CmdUKQE=;qibIf5Mvzc432o5B6TuAsQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-17T11:34:00Z
 originalUrl: "https://www.insidermonkey.com/blog/10-high-growth-ai-stocks-to-buy-1121465/"
 webUrl: "https://www.insidermonkey.com/blog/10-high-growth-ai-stocks-to-buy-1121465/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

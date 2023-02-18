@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-18-7-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
+      "title": "7 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
+      "excerpt": "It also addresses the professional and business opportunities that come with the metaverse and is taught by experts from Meta ... and the influence of AI-driven technology on workers. \"The course introduces you to cutting-edge research in the economics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
+      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
+      "publishedDateTime": "2023-02-18T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know.md",
+      "title": "Generative AI Tools Like ChatGPT and Dall-E Are Everywhere: What You Need to Know",
+      "excerpt": "Even crazier: The illustrations created by CNET artists and others for our crowdsourced novella back then could be done today by AI tools like Dall-E 2 in minutes ... The platforms are based on what are called large language models (LLMs) or sometimes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
+      "originalUrl": "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
+      "publishedDateTime": "2023-02-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-top-ai-startup-news-of-the-week-jasper-youcom-otter-and-more.md",
       "title": "Top AI startup news of the week: Jasper, You.com, Otter and more",
       "excerpt": "Buzzy startups like Jasper, You.com and Otter made headlines this week, but so did smaller video and translation AI startups.",
@@ -1361,76 +1467,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-microsoft-and-5-other-ai-pick-and-shovel-plays.md",
-      "title": "Microsoft and 5 other AI pick-and-shovel plays",
-      "excerpt": "So, what is the best way to play the AI trend and benefit from companies succeeding in the sector? We think a prudent strategy is to invest in companies building the tools to sustain the industry’s growth – the ‘pick-and-shovel’ plays of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livewiremarkets.com/wires/microsoft-and-5-other-ai-pick-and-shovel-plays",
-      "originalUrl": "https://www.livewiremarkets.com/wires/microsoft-and-5-other-ai-pick-and-shovel-plays",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Livewire Markets",
-        "domain": "livewiremarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-banks-accelerate-move-to-the-cloud-with-new-oracle-banking-services.md",
-      "title": "Banks Accelerate Move to the Cloud with New Oracle Banking Services",
-      "excerpt": "With transaction volumes, customer expectations, and competitive threats at an all-time high, banks must adapt quickly to keep pace. To address these challenges, Oracle today launched Oracle Banking Cloud Services,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

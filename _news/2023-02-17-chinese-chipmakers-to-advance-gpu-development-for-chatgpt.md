@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The next NVIDIA GPU shortage might arrive due to AI models like ChatGPT"
-    excerpt: "AI tools like ChatGPT currently rely on AI processing - a key part of NVIDIA's portfolio, even in the consumer and enthusiast GPU space. This is where GeForce RTX graphics cards, like the new ..."
-    publishedDateTime: 2023-02-14T18:38:00Z
-    webUrl: "https://www.tweaktown.com/news/90331/the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 54
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90331_01_the-next-nvidia-gpu-shortage-might-arrive-due-to-ai-models-like-chatgpt.jpg"
-        width: 620
-        height: 348
-        isCached: true
 
 secured: "44PnV1DomIU9bmTiogysW9zxlVqKU8DQ9JiVVwM0QYfEW0qxM6oDKgPDvbchUEW+JeLU7+kL39nnOukxmAzezbECat8hsa90SBTuassbATwZOpC9U/+Xrda7RbfP+yRJp5GGCr+ClRbb3ZIZghkqG6FirB4bsmRvUiZHY9ILlUfjWaQBwvadxxai1vlqmFXWkkhdz0z84J4KWw/TIlfiYkIxnMYj4m4A3Mi4Krh11faEAiQyb6HPEXfMD3kF2+se1DakXMAiowiC+wkejWeBrkqedR30uI/7r39lPOEUfrxrdc8bqyzm6ubWRd0Mzb4eR/vB+iYk51//M1lBQL9MVF7ljwIxZtcux8IkMp7kjMXD0udDMgpQwu/LJGXQ4XYUkTErw2m4wb6W6Sq1TdRrVs2DE6v8XEEPGsXHfg7rhw9RzhMcC1o9peRrGMoPhu9WJBzJTyriVOZ5HRdwRfW3d6cxFJ4h/mwX9fShavWFTDUec/zWkqtlNnCzQlGj/uqmjmxx/xjiYdN14ftaWD+TTA==;iUj3ImjlMQ5Wrh/dIErEYA=="
 ---

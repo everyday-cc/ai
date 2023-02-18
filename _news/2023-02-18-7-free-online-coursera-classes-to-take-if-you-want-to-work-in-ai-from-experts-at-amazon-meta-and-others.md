@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/artificial-intelligence-free-online-cla
 ampWebUrl: "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:

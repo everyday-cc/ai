@@ -25,61 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT’s Popularity May Lead to Another GPU Shortage"
-    excerpt: "This high demand for GPUs to train AI models could lead to a shortage of graphics cards. Th last one caused by high demand from crypto-mining. The GPU shortage will probably only affect Nvidia card sales since they have the most advanced AI cores on the market."
-    publishedDateTime: 2023-02-15T15:25:00Z
-    webUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/"
+  - title: "Generative AI Tools Like ChatGPT and Dall-E Are Everywhere: What You Need to Know"
+    excerpt: "Even crazier: The illustrations created by CNET artists and others for our crowdsourced novella back then could be done today by AI tools like Dall-E 2 in minutes ... The platforms are based on what are called large language models (LLMs) or sometimes ..."
+    publishedDateTime: 2023-02-18T12:00:00Z
+    webUrl: "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
+      name: CNET
+      domain: cnet.com
+    quality: 84
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/chatgpt-popularity-may-lead-to-another-gpu-shortage.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Meet the Nvidia GPU that makes ChatGPT come alive"
-    excerpt: "Nvidia is the biggest winner when it comes to hardware; its share price has almost doubled since mid-October 2022 as chatter around OpenAI and ChatGPT picked up; this fueled a massive growth in demand to access ChatGPT and in the specialized hardware that makes the technology tick and that doesn’t come cheap."
-    publishedDateTime: 2023-02-17T18:07:00Z
-    webUrl: "https://www.techradar.com/best/heres-the-dollar13k-nvidia-gpu-that-makes-chatgpt-come-alive"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gnSFwwzzF5RHZSAvkwVNDc-1200-80.jpg"
+      - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "ChatGPT might bring about another GPU shortage - sooner than you might expect"
-    excerpt: "We won’t know just how far the demand could crawl and the number of GPUs that’ll be needed to train the AI models. As mentioned above, we already had to deal with a massive GPU shortage not ..."
-    publishedDateTime: 2023-02-14T02:18:00Z
-    webUrl: "https://www.techradar.com/news/chatgpt-might-bring-about-another-gpu-shortage-sooner-than-you-might-expect"
+  - title: "Commentary: Why using AI tools like ChatGPT in my MBA innovation course is expected and not cheating"
+    excerpt: "I teach managing technological innovation in Simon Fraser University's Management of Technology MBA program. Thanks to the explosion of generative artificial intelligence, I'm rewriting my 2023 syllabus and assignments."
+    publishedDateTime: 2023-02-15T17:34:00Z
+    webUrl: "https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.html"
+    ampWebUrl: "https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 66
+      name: Phys.org
+      domain: phys.org
+    quality: 42
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/X5WWcZocrGofWm5TT7bWq8-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Chinese chipmakers to advance GPU development for ChatGPT"
-    excerpt: "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development."
-    publishedDateTime: 2023-02-17T02:54:00Z
-    webUrl: "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg"
-        width: 336
-        height: 224
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/why-using-ai-tools-lik.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "/RePuk0xr0MD5JRhsOzVGFHbBaG5UXsp4qDDU/0biAW7ab7uzJqMQz4r5SMk6bogqW4LLXt7hhEAkJ+VwAHaeOe99hXHKOGMYZakXRB/UeSWhaTZU+jOFcsFOcKrLQee+tIWC4A1sILJ5jCNDBfj07DZnXI1HIpsmIAPqXTk4WD4DK/soeF+TyPNUvsGHN2wYeojQpCHAyYv7ZcMYmfhy0yJNzU68mQblMzCgURYoCVJI1FO3z2XapO+AwXBbeA/cU5FCYNVwPUbixzhi3C3HdJbmf/c1gYu4jheE8wpNDALr1n/SDz5MLm3q9E2ZfvVlDYjQw+hRRtkS0fINnbszKe4Z4PimsUaWl3VkH1cABX6I3p0Vcaf92A2CsNPLq8K1hTJ64yMV31KlbI+euI5asmWWblsqL+wVh2YjC83hy5lNZEK9bq8dHLmKmOrPN3eZmI0kYxbv6H833lCHDw0VwiNWspwbFt0mwZZW5NWGgW966XrTNNjJn+1Uku9RYNZGkl0sDy1xudZ2wg4yzBujg==;uSsPOcRQqKegxwIpCvjcRQ=="

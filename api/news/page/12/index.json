@@ -2,6 +2,240 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-02-08-google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month.md",
+      "title": "Google is notifying Canadian employees impacted by 12,000 job cuts announced last month",
+      "excerpt": "According to a report in CRN, Autodesk, which had more than 12,600 employees (as last reported) with $4.39 billion in revenue in its last fiscal year, \"continues to DeepMind AI to shut Canada ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month/articleshow/97698898.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month/articleshow/97698898.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97699080,width-1070,height-580,imgsize-49409,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month/amp_articleshow/97698898.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month/amp_articleshow/97698898.cms",
+      "publishedDateTime": "2023-02-07T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023.md",
+      "title": "US Hyperscalers Cloud CAPEX to Prioritize AI in 2023",
+      "excerpt": "According to a newly released report issued by founding analysts of 650 Group, US Hyperscaler Cloud IaaS market revenue will grow nearly 30% Y/Y in 2022 before",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30774891/us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30774891/us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30774891",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30774891",
+      "publishedDateTime": "2023-02-07T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-global-artificial-intelligenceaichips-market-recent-report-2023-is-anticipated-to-expand-by-50180-million-at-a-cagr-of-366-during-2028.md",
+      "title": "Global Artificial Intelligence(AI)Chips Market (Recent Report) 2023 is Anticipated to expand by 50180 Million, at a CAGR of 36.6% During 2028",
+      "excerpt": "Feb 07, 2023 (The Expresswire) -- \"Artificial Intelligence(AI)Chips Market\" Report New Research Outlook Report 2023 | [The global",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligenceaichips-market-recent-report-2023-is-anticipated-to-expand-by-50180-million-at-a-cagr-of-366-during-2028-2023-02-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligenceaichips-market-recent-report-2023-is-anticipated-to-expand-by-50180-million-at-a-cagr-of-366-during-2028-2023-02-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-this-tiny-flying-robot-could-work-as-an-artificial-pollinator.md",
+      "title": "This tiny flying robot could work as an artificial pollinator",
+      "excerpt": "“[It] can be powered and controlled by a light source ... With this goal in mind, the team’s planning to improve the material sensitivity that would allow the robot to operate in sunlight, and is looking to upscale the structure so it could be equipped ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/tiny-flying-robot-could-work-as-artificial-pollinator",
+      "originalUrl": "https://thenextweb.com/news/tiny-flying-robot-could-work-as-artificial-pollinator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F02%2FUntitled-design-2023-02-07T141819.709.jpg&signature=3e18eb83e96922a94f25ac993f80c306",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-this-company-is-beating-google-to-chat-based-search-and-its-not-microsoft.md",
+      "title": "This Company Is Beating Google to Chat-Based Search, and It's Not Microsoft",
+      "excerpt": "Baidu is best known for its search engine, but it has been investing in artificial intelligence for several years, and those efforts are beginning to bear fruit. Baidu has launched fully driverless robotaxis in Wuhan and Chongqing, and it plans to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/07/baidu-beating-google-chat-based-search/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/07/baidu-beating-google-chat-based-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/719430/china-e-commerce.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-ai-experts-weigh-dangers-benefits-of-chatgpt-on-humans-jobs-and-information-dystopian-world.md",
       "title": "AI experts weigh dangers, benefits of ChatGPT on humans, jobs and information: ‘Dystopian world’",
       "excerpt": "Generative artificial intelligence (AI) algorithms like ChatGPT pose substantial ... today that outperform humans on tests like vision, listening and translation between various languages. In December, ChatGPT outperformed some Ivy League students at ...",
@@ -762,183 +996,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-future-toyota-cars-to-be-powerd-by-robosense-lidar-for-safer-self-driving.md",
-      "title": "Future Toyota Cars to be Powerd by RoboSense LiDAR for Safer Self-Driving",
-      "excerpt": "RoboSense, a world-leading provider of Smart LiDAR Sensor Systems, officially announced its partnership with Toyota, the world's best-selling carmaker, on large-scale production with nominated orders for multiple models.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756105.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756105.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag.md",
-      "title": "Artificial Intelligence to be a game changer in govt audit space: CAG",
-      "excerpt": "Artificial Intelligence (AI) is going to be a game changer in the public audit space as it will help in quicker and more detailed analysis during both planning and execution stages, Comptroller and Auditor General of India (CAG) G C Murmu said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2346508-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2346508-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-download-generative-ai-for-video-and-detecting-ai-text.md",
-      "title": "The Download: generative AI for video, and detecting AI text",
-      "excerpt": "Runway, the generative AI startup that co-created last year’s breakout text-to-image model Stable Diffusion, has released an AI model that can transform existing videos into new ones by applying styles from a text prompt or reference image.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/02/07/1067934/download-generative-ai-video-detecting-ai-text/",
-      "originalUrl": "https://www.technologyreview.com/2023/02/07/1067934/download-generative-ai-video-detecting-ai-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-this-industry-will-add-200-trillion-to-the-economy-by-2030-says-ark-invest-heres-1-stock-to-buy-if-it-does.md",
-      "title": "This Industry Will Add $200 Trillion to the Economy by 2030, Says Ark Invest -- Here's 1 Stock to Buy if It Does",
-      "excerpt": "C3.ai pioneered enterprise artificial intelligence, and its stock could see monumental ... ran a test to see how much C3.ai could improve application development time on AWS, and the results were remarkable. By using C3.ai in conjunction with AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/07/industry-200-trillion-2030-ark-invest-1-stock-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/07/industry-200-trillion-2030-ark-invest-1-stock-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-apac-region-projected-to-lead-the-personal-ai-and-robotics-market-through-2028.md",
-      "title": "APAC Region Projected to Lead the Personal AI and Robotics Market Through 2028",
-      "excerpt": "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Feb. 7, 2023 /PRNewswire/ -- The relatively recent marriage of AI and Robotics, appears that it will be a successful and long-lasting relationship. A recent report",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30764211/apac-region-projected-to-lead-the-personal-ai-and-robotics-market-through-2028",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30764211/apac-region-projected-to-lead-the-personal-ai-and-robotics-market-through-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

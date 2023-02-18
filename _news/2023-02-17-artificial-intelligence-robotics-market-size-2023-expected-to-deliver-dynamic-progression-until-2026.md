@@ -86,10 +86,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2023 Size with SWOT Analysis by Top Players till 2027 | 129 Pages"
-    excerpt: "Feb 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision Market” Report which is spread over [129] pages provides In-depth analysis on the market size, share, new ..."
-    publishedDateTime: 2023-02-13T23:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-with-swot-analysis-by-top-players-till-2027-129-pages-2023-02-13"
+  - title: "Facial Recognition Market Report 2023: Acute Analysis of Global Demand and Supply by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 17, 2023 (The Expresswire) -- Global Facial Recognition Market offers an [Industry Insight Report 2023] and is expected to witness remarkable growth in the coming years."
+    publishedDateTime: 2023-02-17T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-2023-acute-analysis-of-global-demand-and-supply-by-2028-2023-02-17"
     type: article
     provider:
       name: MarketWatch
@@ -100,15 +100,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Report 2023: Acute Analysis of Global Demand and Supply by 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 17, 2023 (The Expresswire) -- Global Facial Recognition Market offers an [Industry Insight Report 2023] and is expected to witness remarkable growth in the coming years."
-    publishedDateTime: 2023-02-17T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-2023-acute-analysis-of-global-demand-and-supply-by-2028-2023-02-17"
+  - title: "2023 Driverless Tractors Market: Consumer Trends and Preferences in the Industry till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2023 (The Expresswire) -- Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the ..."
+    publishedDateTime: 2023-02-15T11:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-driverless-tractors-market-consumer-trends-and-preferences-in-the-industry-till-2028-2023-02-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

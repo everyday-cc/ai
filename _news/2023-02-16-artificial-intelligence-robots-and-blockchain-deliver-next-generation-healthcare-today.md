@@ -8,8 +8,8 @@ webUrl: "https://cointelegraph.com/news/artificial-intelligence-robots-and-block
 ampWebUrl: "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp"
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:

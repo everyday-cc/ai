@@ -8,7 +8,7 @@ webUrl: "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes
 ampWebUrl: "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 

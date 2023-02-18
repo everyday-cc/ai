@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Solutions Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
+    excerpt: "Top “ Artificial Intelligence Solutions Market ” Size 2023 Key players Profiled in the Report are [, Google, Baidu, IBM, Microsoft, SAP, Intel, Salesforce, Brighterion, KITT.AI, IFlyTek, Megvii Technology,"
+    publishedDateTime: 2023-02-18T13:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-360-market-updates-reports-development-expenditure-and-financial-insights-2028-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Object Recognition Imaging Systems Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 14, 2023 (The Expresswire) -- \"Object Recognition Imaging Systems Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions ..."
     publishedDateTime: 2023-02-15T07:48:00Z

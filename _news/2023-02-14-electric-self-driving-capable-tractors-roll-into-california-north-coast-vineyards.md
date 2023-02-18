@@ -82,6 +82,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
+    excerpt: "Zoox, Amazon's self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the"
+    publishedDateTime: 2023-02-18T16:56:00Z
+    webUrl: "https://www.theday.com/business/20230218/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.day.navigacloud.com?uuid=6c14f255-2b8d-5c87-955d-d4b256fa6cd1&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.93361&width=753&height=424&x=1.0E-5&y=1.0E-5"
+        width: 753
+        height: 424
+        isCached: true
   - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
     excerpt: "Some dairy farmers and vineyard operators in Napa, Sonoma and other California counties are bringing in electric tractors capable of operating without drivers. Here are the pros and cons."
     publishedDateTime: 2023-02-14T17:06:00Z

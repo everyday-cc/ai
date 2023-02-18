@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Solutions Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
+    excerpt: "Top “ Artificial Intelligence Solutions Market ” Size 2023 Key players Profiled in the Report are [, Google, Baidu, IBM, Microsoft, SAP, Intel, Salesforce, Brighterion, KITT.AI, IFlyTek, Megvii Technology,"
+    publishedDateTime: 2023-02-18T13:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-360-market-updates-reports-development-expenditure-and-financial-insights-2028-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In-Car Speech Recognition Market by 360 Market Updates Reports Development Expenditure and Financial Insights 2026"
     excerpt: "Complete Overview of the Global In-Car Speech Recognition Market: - Providing a complete overview of the global In-Car Speech Recognition market is a complex task, as there are many different markets and industries around the world."
     publishedDateTime: 2023-02-16T16:11:00Z

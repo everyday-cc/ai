@@ -120,7 +120,7 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/12/06063837/caspar-camille-rubin-0qvBNep1Y04-unsplash.jpg"
         width: 1920

@@ -443,6 +443,51 @@
       ]
     },
     {
+      "path": "_news/2023-02-16-artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today.md",
+      "title": "Artificial intelligence, robots and blockchain deliver next-generation healthcare, today",
+      "excerpt": "Artificial intelligence, for example, is doing the “dirty work” of drug discovery by running simulations of drug efficacy instead of timely trial-and-error testing. Blockchain secures healthcare records and connects patients with new clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
+      "originalUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjJlMjMwZDE4YTZhZmQ1N2E4MjEyM2NkMWMwNjU4Ni5qcGc=.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
+      "publishedDateTime": "2023-02-16T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools.md",
       "title": "Artificial Intelligence Content: Marketing Friend Or Foe? Three Ways To Use AI Content Tools",
       "excerpt": "Here are three benefits of getting into the AI content-generation game. Leverage AI as a starting point. If you’re like me, the worst part of writing is getting started. You aga",
@@ -603,7 +648,7 @@
       "originalUrl": "https://www.foxnews.com/science/aviation-milestone-artificial-intelligence-flew-modified-f-16-fighter-jet-17-hours",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -643,7 +688,60 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.md",
+      "title": "Agricultural technology, including driverless tractors, on full display at World Ag Expo",
+      "excerpt": "CNBC's Jane Wells joins 'Power Lunch' to report on a driverless tractor and other agricultural technology from the World Ag Expo. Got a confidential news tip? We want to hear from you. Sign up for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/02/14/agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/02/14/agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107194515-16764043121676404310-28196778325-1080pnbcnews.jpg?v=1676407179&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -700,7 +798,7 @@
       "originalUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1355,101 +1453,6 @@
         "name": "The New Indian Express",
         "domain": "newindianexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-new-artificial-intelligence-being-used-to-plagiarize-upstate-professor-says.md",
-      "title": "New artificial intelligence being used to plagiarize, Upstate professor says",
-      "excerpt": "WHO COULD POSSIBLY SEE THAT SNOW FLYING AROUND? CHRIS, THANKS. NEW ARTIFICIAL INTELLIGENCE IS MAKING CHEATING EVEN EASIER, BUT MAKING IT HARDER TO DETECT, ACCORDING TO EXPERTS AND UPSTATE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wyff4.com/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "originalUrl": "https://www.wyff4.com/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/121c8786-db3e-449b-9f20-83aaa6f5cf3c/121c8786-db3e-449b-9f20-83aaa6f5cf3c_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wyff4.com/amp/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "cdnAmpWebUrl": "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "publishedDateTime": "2023-02-10T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WYFF",
-        "domain": "wyff4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes.md",
-      "title": "China’s Hesai Group Climbs In Nasdaq Debut On Autonomous Transport Hopes",
-      "excerpt": "Hesai Group, a supplier of sensors for self-driving vehicles whose investors include Baidu and smartphone maker Xiaomi, rose by 10.8% on its debut on the Nasdaq today on hopes for growth in autonomous transport. Hesai said in a statement today it raised $ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes/",
-      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5b38cfac48b2c1df721e7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/02/09/chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes/amp/",
-      "publishedDateTime": "2023-02-09T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

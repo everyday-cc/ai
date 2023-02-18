@@ -65,22 +65,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Columbia University Opens Center for AI in Real Estate and Fintech"
-    excerpt: "Director of the Center for AI in Business Analytics and FinTech and Director of Financial Engineering at SEAS. “This brings significant value to their operations through better efficiency and new capabilities. Our goal is to bring the more sophisticated ..."
-    publishedDateTime: 2023-02-13T21:09:00Z
-    webUrl: "https://www.globest.com/2023/02/13/columbia-university-opens-center-for-ai-in-real-estate-and-fintech/"
-    ampWebUrl: "https://www.globest.com/2023/02/13/columbia-university-opens-center-for-ai-in-real-estate-and-fintech/?amp=1"
-    cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2023/02/13/columbia-university-opens-center-for-ai-in-real-estate-and-fintech/?amp=1"
-    type: article
-    provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 59
-    images:
-      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2022/09/Deal-Handshake-2.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2028"
     excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence (AI) in Fintech Market Report includes data on research and development,"
     publishedDateTime: 2023-02-16T04:47:00Z
@@ -168,6 +152,20 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230218_WBD000.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Interactive Intelligence: Investigating the intersection between neuroscience, machine learning, and AI"
+    excerpt: "Recent advancements in artificial intelligence (AI) have raised concerns about the impact of AI softwares, such as ChatGPT, on the global education system."
+    publishedDateTime: 2023-02-15T07:00:00Z
+    webUrl: "https://www.dailyuw.com/arts_and_culture/community/interactive-intelligence-investigating-the-intersection-between-neuroscience-machine-learning-and-ai/article_17ae7c0c-ace8-11ed-8841-a7e222c80b9a.html"
+    type: article
+    provider:
+      name: dailyUW.com
+      domain: dailyuw.com
+    quality: 38
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/7/07/707fa4fa-ace8-11ed-8abf-8b252f076067/63ec5e4dd7f03.image.jpg?crop=950%2C499%2C3%2C309&resize=950%2C499&order=crop%2Cresize"
+        width: 950
+        height: 499
         isCached: true
   - title: "This little-known AI fintech stock could more than double after 'proving its mettle' in economic uncertainty, Canaccord Genuity says"
     excerpt: "It's time to buy AI-powered fintech stock Pagaya Technologies based on its path to growth, according to Canaccord Genuity. Analyst Joseph Vafi upgraded shares of the Israeli-based technology company to buy from hold, and doubled his price target ..."

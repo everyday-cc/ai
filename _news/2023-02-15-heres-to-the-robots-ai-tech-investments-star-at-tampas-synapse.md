@@ -35,7 +35,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106894882-1623302500315-gettyimages-1224253590-ai-robot-frame10.jpeg?v=1676564364&w=1920&h=1080"
         width: 1920

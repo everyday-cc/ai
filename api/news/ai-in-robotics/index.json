@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-18-as-interest-in-ai-surges-check-out-this-etf.md",
+      "title": "As Interest in AI Surges, Check Out This ETF",
+      "excerpt": "Investor interest in artificial intelligence (AI) is surging this year. Just as previously hot segments of tech like social media and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-480.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 777,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-inside-the-studio-with-an-ai-guided-painting-robot.md",
       "title": "Inside the Studio With an AI-Guided Painting Robot",
       "excerpt": "To help illustrate our cover story on how the AI arms race is changing the world, we reached out to award-winning AI artist Pindar Van Arman, who uses artificial intelligence to create his art. Van Arman, who built his first “painting robot” 15 years ...",
@@ -302,7 +356,7 @@
       "originalUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -334,7 +388,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -1331,50 +1386,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-6-jobs-artificial-intelligence-is-already-replacing-and-how-investors-can-capitalize-on-it.md",
-      "title": "6 Jobs Artificial Intelligence Is Already Replacing and How Investors Can Capitalize on It",
-      "excerpt": "It’s no secret artificial intelligence (AI ... but business is likely to pick up the pace in the future. From a self-driving Tesla Semi to Starship’s Food Delivery robot fleet, robots powered by AI are beginning to dominate the delivery sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
-      "originalUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/02/07/arseny-togulev-meckpokjyjm-unsplash.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30766478",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30766478",
-      "publishedDateTime": "2023-02-07T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-17T00:16:00Z
 originalUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/artificial-intelligence-control-nuclear-weapons"
 webUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/artificial-intelligence-control-nuclear-weapons"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:

@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Don’t Fear the Self-Driving Car"
-    excerpt: "However easy it is to forecast a self-driving dystopia, it would be deeply unwise to dismiss the unknown and unknowable benefits of new automotive technologies. After all, with technological ..."
-    publishedDateTime: 2023-02-14T00:00:00Z
-    webUrl: "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 24
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2018/01/self-driving-car-nutonomy-boston-2_0-1.jpg?resize=300%2C300"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Self-Driving Cars Are Doing More Harm Than Good"
     excerpt: "Apple has long been known for marrying hardware and software to create tech products that bring delight to millions of people around the world, so when rumors started spreading nearly a decade ago that it,"
     publishedDateTime: 2023-02-14T17:00:00Z

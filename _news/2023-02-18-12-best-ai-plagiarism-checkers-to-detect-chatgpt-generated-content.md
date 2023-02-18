@@ -74,6 +74,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "Computing Pioneer Criticizes ChatGPT AI Tech for Making Things Up"
+    excerpt: "Vint Cerf, who helped create the internet's core network technology, hopes engineers can fix the flaws of artificial intelligence language processing."
+    publishedDateTime: 2023-02-18T13:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "How enterprises can use ChatGPT and GPT-3"
     excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
     publishedDateTime: 2023-02-14T12:43:00Z
