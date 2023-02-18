@@ -6,9 +6,6 @@ publishedDateTime: 2023-02-13T11:52:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics-301744817.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics-301744817.html"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
   name: PR Newswire
@@ -24,6 +21,6 @@ images:
     height: 884
     isCached: true
 
-secured: "3cRNE6dOHCJJSfP9owDSKy3A4LnilEL3H10E78yp8yNoG8B9Ih1EmjMWdb/t4xVPuReBtQP1l+fmwoHqpu5Cl+mGf5y0R8MwQKF6S/ZiI+f4pE42oUPv7HhvJ8dCqxxj6tf6Cqv7E2b0Cmxw/0VGhZ5dfvFm/BB9p9tlbtxF8EgB6VaWLhfIAQCNFAAN45I6iCP5tO19Rh2HRK5PV4kSK8eiv5UzLwIpvyL5xEQu2jlBMyLjmU+Pws5zOk8LkyDYqMMCuuH+mv+l8s84q1wITlzIcTNAKUz2GorXL6QKBymKga6lZJUcRVE3Dzhzct5RkB6zh7HNSGF4qqwzQw5AXWrAnDvyseob8DBp/U5Qwl4=;fDZUWTySgni4aJbAvtcTIg=="
+secured: "1P1XD8jumTK/WgHyThQhdfGqlTYJNhrLo1AAbzqw3Hd8MH3Jz/N8jIm5XYMNEodioCWTBI+qPyWwnL+IkRUAuQJRCidQ1XWZc4LP+s2FZFFxCuASe3n7mVvGYO/ZQhNslf3LJFMIcnfT6kezLe33Ng9YQJhW4Jwj2jt4zqy7DBbQcgZ75qKL+zJxpN9lf3225KtqfrrZm1eR4LGJMLULnJ335pUOzb9vBF4kZn41fn4a3/UuGQflhdQRYnNuCNJvOvmIQCPCHFw0iR61lmmg86Xwewid17pB8U1k+TBoQHGCsvwLbYtZq83REMClBhYq9mdsQ0F9pp4UnUMwEqpWmpnFci5cbKNdGNeckxwP5sA=;jcWcF2jaZYEKFsOIThHB0g=="
 ---
 

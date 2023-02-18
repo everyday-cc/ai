@@ -57,15 +57,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Global Deep Learning Market Report 2023:-2027: Rise in the Adoption of Cloud Technology & Applications in Automotive Industry Fueling Demand"
-    excerpt: "The global deep learning market is expected to grow at an impressive CAGR in the forecast period, 2023-2027 Reduction in hardware costs, improvement of computational power, and rise in adoption of cloud-based technology are the primary factors driving the demand for the global deep learning market for the next five years."
-    publishedDateTime: 2023-02-17T13:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "E2aX3SSGiIYBuamNaqQ+JnU/RfbG//euZBHqQGeOP48V12vLk5isnTowDWrASX49Dzw8c5ewYIeZP1WjxqNJqXT4z9wmOBeIv6mKBa65vmfUOw3hpBMLdXlw0TT15HjwJnCdGbN18ZwuMDgCbqi6NipdN6t9xwK5OO/zfCZR7mcWoVlDgFYym9nejTlup+dQhfDc4ulgozncNlt87TzjU6tZ1IyStN+PTqSpZfGuKqZKasGLnvRTK5efGAa5clLD49ObdS0hcko1TeXzwQsmBO+FiyOv0e2Ehw+YZY8IcVXb/rSVAp3pRMkSeXuJlSZf8HgWegCZot6C5I9eBpWWEtm/bkkEP5jZwn5tG2RUcQI=;Q57RycMzlhITSEHCwXWRcQ=="
 ---

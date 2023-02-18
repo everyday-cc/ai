@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
+    excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
+    publishedDateTime: 2023-02-17T17:42:00Z
+    webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 98
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Microsoft limits Bing AI chats after the chatbot had some unsettling conversations"
     excerpt: "Microsoft's Bing AI chatbot will be capped at 50 questions per day and five question-and-answers per individual session, the company said on Friday. The change comes after early beta testers of the chatbot, which is designed to enhance the Bing search ..."
     publishedDateTime: 2023-02-17T21:55:00Z
@@ -289,6 +305,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Puts Caps on New Bing Usage After AI Chatbot Offered Unhinged Responses"
+    excerpt: "Microsoft Corp. is putting caps on the usage of its new Bing search engine which uses the technology behind the viral chatbot ChatGPT after testers discovered it sometimes generates glaring mistakes and disturbing responses. The software giant launched the ..."
+    publishedDateTime: 2023-02-18T03:12:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-puts-caps-on-new-bing-usage-after-ai-chatbot-offered-unhinged-responses-39c3252f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 79
+    images:
+      - url: "https://images.wsj.net/im-728157/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft Shifts Focus to AI, Terminates Metaverse Division"
     excerpt: "Thanks to Azure cloud computing, Microsoft Mesh and OpenAI can scale back-end services. More importantly, Microsoft can still generate shared virtual experiences (metaverse) with its Inception and Character.ai. On the one hand, Inception allows startups to ..."
     publishedDateTime: 2023-02-14T06:39:00Z
@@ -336,22 +366,6 @@ related:
       - url: "https://media.whas11.com/assets/CCT/images/d77c07bb-fd26-4a67-a11e-32df22938b45/d77c07bb-fd26-4a67-a11e-32df22938b45_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-    excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
-    publishedDateTime: 2023-02-17T21:58:00Z
-    webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-    ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-    type: article
-    provider:
-      name: KCCI Des Moines
-      domain: kcci.com
-    quality: 70
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-136bfc3d0e45cf05ebcbdaebda8967e0-h-8b1298d1ec7960ff76910faf0490b305-jpg-1676675679.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Microsoft now says AI-powered Bing chatbot is ‘not a replacement or substitute for the search engine’"
     excerpt: "Microsoft was clear from the start that its limited preview of the new technology ... strengths and surprising weaknesses in a lengthy exchange last week, when the AI chatbot made complex inferences and proactively conducted advanced research, while ..."
@@ -480,6 +494,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "q5p2SytEvr9MgWEIwNh1Dcxf/RSxKm/5mOMZarcCoQWkcvqgXB8hxvc/HL0u8ocXPGsSJ/jLanjS3PzLvOJslqDl69fBq47b2jHhv73kwhScGdFCwuie9cK2tWK2WlLwXCw0ls4L6Wb20J3HWadRDXSz0d7t2Z+hhCi8bIGHswXTLTgyh7xDOg6XI5hPA3H2gY47XkV+t2Qt6SCUiNAH4RY4YiGiRvwSIZ0KVa57a6pl8v+zKSnT1B6cFF1DlpgQrrJgScAygBssyrSkKvQkrrnhq9sOmJGsCPVAHXo9PUZYN6N18XFAyjFtO2nUXOmtHOkLcRlcqTiK9qb67Fr6eyvXI6qYdoXmQmhKNfiraag=;gNP8+qrtqiZw1VnwlbX+yg=="
+secured: "CgSucTEK+qsW+tA1DkRKN8iMpogd2DhffjqXqYkkyY+9zg3HXBMVQajpVhgukc/5OWC5aDejqRdEDC2Z6vrrbAHVzZU2IXrISTAHaxqKjn+iCPTl9JJuKZk2/bFHlm7zXBSJkkZUjsNbpKPRLoaW5fDL46yzGjtJhdX8bkm0dvgLQlmgOe2TDgn32vHx9WFIGCYaGNlslPW+oE/0m6MkWPj91xRUMSB6FRkPqp3jkH44twNNJNeTLb471T8EjFQbMtuikxSFsmvY8QWudRGc+aeAOHya5lZLzFjAJi+KqLBZEqrsQGZBMZWEVIho2R3mbkYsldIP3qnClgB0onZ28AwHGjqY65dpLQzw3hk5AQ5fOvtvqkchiKDd42H4ixlSKFLJtm9RFMAsJTqrWENpW8C5atcfmuMmhhbNL7TRqOrY6BcgrpfLpLrj/slObqHw/YcgJt5RuRhSYML4HcCFLwMYqL3ppK7gNmoEN81GGe/RArQFlChVm4DkIJaK3y+OxPyjcg3sDvrzufN2WRX20A==;GWn69tY8NlrMOg0yydqbQA=="
 ---
 

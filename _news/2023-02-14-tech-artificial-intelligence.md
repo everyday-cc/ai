@@ -169,20 +169,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "13/02 – Weekly Fintech Recap"
-    excerpt: "Partnerships American Express Taps Microsoft AI for New Expenses Tool American Express is expanding its decades-long relationship with Microsoft to develop a suite of solutions built on Microsoft Cloud and AI technologies focused on reducing business travel friction for employees and businesses."
-    publishedDateTime: 2023-02-13T12:33:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/1302-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_11.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "This little-known AI fintech stock could more than double after 'proving its mettle' in economic uncertainty, Canaccord Genuity says"
     excerpt: "It's time to buy AI-powered fintech stock Pagaya Technologies based on its path to growth, according to Canaccord Genuity. Analyst Joseph Vafi upgraded shares of the Israeli-based technology company to buy from hold, and doubled his price target ..."
     publishedDateTime: 2023-02-16T18:18:00Z

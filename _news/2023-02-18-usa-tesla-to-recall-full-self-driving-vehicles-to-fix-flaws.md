@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Recalls Over 360,000 Cars Due To Self-Driving Crash Risk"
+    excerpt: "A defect in Tesla’s Full-Self Driving system could cause cars to blow through stop signs and drive through intersections using the wrong lane, according to a recall report."
+    publishedDateTime: 2023-02-17T17:13:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2023/02/16/tesla-recalls-over-360000-cars-due-to-self-driving-crash-risk/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2023/02/16/tesla-recalls-over-360000-cars-due-to-self-driving-crash-risk/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2023/02/16/tesla-recalls-over-360000-cars-due-to-self-driving-crash-risk/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ee7ad0e8808538e417130e/0x0.jpg?format=jpg&crop=1754,987,x0,y86,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
     excerpt: "Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s business model. “Full self-driving,” as it currently ..."
     publishedDateTime: 2023-02-16T21:49:00Z
@@ -421,6 +437,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla recalls 362K cars with ‘Full Self-Driving’ software that can cause a crash"
+    excerpt: "K Tesla cars equipped with the Full Self-Driving software are being recalled for crash concerns. Here are the affected models and the fix."
+    publishedDateTime: 2023-02-18T03:00:00Z
+    webUrl: "https://www.komando.com/safety-security-reviews/tesla-self-driving-recall/877185/"
+    ampWebUrl: "https://www.komando.com/safety-security-reviews/tesla-self-driving-recall/877185/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/safety-security-reviews/tesla-self-driving-recall/877185/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 54
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2023/02/kk-article-20230218-tesla-issues-recall-update-over-air-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' to fix flaws in behavior"
     excerpt: "DETROIT — Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U.S. safety regulators ..."
     publishedDateTime: 2023-02-16T18:58:00Z
@@ -527,6 +559,17 @@ related:
     provider:
       name: Idaho Statesman
       domain: idahostatesman.com
+    quality: 39
+  - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
+    excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
+    publishedDateTime: 2023-02-18T02:28:00Z
+    webUrl: "https://www.star-telegram.com/latest-news/article272526846.html"
+    ampWebUrl: "https://amp.star-telegram.com/latest-news/article272526846.html"
+    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/latest-news/article272526846.html"
+    type: article
+    provider:
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
     quality: 39
   - title: "Tesla Recalls Roughly 362,800 Vehicles Equipped With ‘Full Self-Driving’ Beta Over Crash Risk"
     excerpt: "Tesla Inc. is recalling 362,800 vehicles equipped with its high-profile advanced-driver assistance feature, a technology marketed as Full Self-Driving Beta, in response to regulatory pressure, the U.S. top car-safety agency said. In a notice published ..."

@@ -161,20 +161,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "13/02 – Weekly Fintech Recap"
-    excerpt: "Partnerships American Express Taps Microsoft AI for New Expenses Tool American Express is expanding its decades-long relationship with Microsoft to develop a suite of solutions built on Microsoft Cloud and AI technologies focused on reducing business travel friction for employees and businesses."
-    publishedDateTime: 2023-02-13T12:33:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/1302-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_11.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tech : Artificial Intelligence"
     excerpt: "Plagiarism-prone chatbots and self-driving auto wrecks show that AI still has quite a few kinks to iron out. As generative AI becomes increasingly popular in the mainstream, here’s a behind-the ..."
     publishedDateTime: 2023-02-14T08:15:00Z

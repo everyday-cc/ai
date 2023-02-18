@@ -29,66 +29,94 @@ images:
     isCached: true
 
 related:
-  - title: "Latest Survey on \"Artificial Intelligence (AI) Chips Market\" 2023-2028, Updated Report With 115 Pages"
-    excerpt: "Report Highlights:- \"The global Artificial Intelligence (AI) Chips market size was valued at USD 13131.9 million in"
-    publishedDateTime: 2023-02-16T05:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages-2023-02-16"
+  - title: "Artificial Intelligence Robotics Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-17T15:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 85
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence (AI) in Oil and Gas Market\" 2023 which"
-    publishedDateTime: 2023-02-17T03:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-02-16"
+  - title: "Natural Language Processing (NLP) Software Market To Eyewitness Steady Growth Throughout 2023-2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-17T15:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-to-eyewitness-steady-growth-throughout-2023-2026-2023-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Survey on \"Artificial Intelligence (AI) in Fintech Market\" Trend 2023-2028, Updated Report With 116 Pages"
-    excerpt: "Report Highlights:- \"The global Artificial Intelligence (AI) in Fintech market size was valued at USD 10204.78 million"
-    publishedDateTime: 2023-02-16T15:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-in-fintech-market-trend-2023-2028-updated-report-with-116-pages-2023-02-16"
+  - title: "Artificial Intelligence Robotics Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
+    excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence Robotics industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
+    publishedDateTime: 2023-02-16T03:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-02-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Survey on \"Artificial Intelligence in Healthcare Market\" Analysis 2023-2028, Updated Report With 110 Pages"
-    excerpt: "Report Highlights:- \"The global Artificial Intelligence in Healthcare market size was valued at USD 4127.87 million in"
-    publishedDateTime: 2023-02-16T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-healthcare-market-analysis-2023-2028-updated-report-with-110-pages-2023-02-16"
+  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Share, Report Analysis & Forecast [2023-2028] with Top Countries Data"
+    excerpt: "According to Precision Reports, the “Artificial Intelligence and Robotics in Aerospace and Defense Market\" 2023 by"
+    publishedDateTime: 2023-02-14T04:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-share-report-analysis-forecast-2023-2028-with-top-countries-data-2023-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
-    excerpt: "Insights] Top “Artificial Intelligence (AI) in Insurance Market” Size 2023 Key players Profiled in the Report are"
-    publishedDateTime: 2023-02-17T14:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-insurance-market-360-market-updates-reports-development-expenditure-and-financial-insights-2028-2023-02-17"
+  - title: "Computer Vision Market 2023 Size with SWOT Analysis by Top Players till 2027 | 129 Pages"
+    excerpt: "Feb 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision Market” Report which is spread over [129] pages provides In-depth analysis on the market size, share, new ..."
+    publishedDateTime: 2023-02-13T23:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-size-with-swot-analysis-by-top-players-till-2027-129-pages-2023-02-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Report 2023: Acute Analysis of Global Demand and Supply by 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 17, 2023 (The Expresswire) -- Global Facial Recognition Market offers an [Industry Insight Report 2023] and is expected to witness remarkable growth in the coming years."
+    publishedDateTime: 2023-02-17T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-2023-acute-analysis-of-global-demand-and-supply-by-2028-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning System Market 2023: A Status of Top Regions and Companies with Growth Prospects By 2028,"
+    excerpt: "Feb 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Deep Learning System Market” research"
+    publishedDateTime: 2023-02-17T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-2023-a-status-of-top-regions-and-companies-with-growth-prospects-by-2028-2023-02-17"
     type: article
     provider:
       name: MarketWatch
@@ -99,43 +127,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Survey on \"Artificial Intelligence in Medicine Market\" Analysis 2023-2028, Updated Report With 109 Pages"
-    excerpt: "Report Highlights:- \"The global Artificial Intelligence in Medicine market size was valued at USD 2312.61 million in"
-    publishedDateTime: 2023-02-16T15:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-medicine-market-analysis-2023-2028-updated-report-with-109-pages-2023-02-16"
+  - title: "Artificial Intelligence in Video Games Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-17T15:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2026-2023-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "In-Car Speech Recognition Market Size and Share 2023-2028 with Emerging Treads and New Updates| Says Absolute Reports"
-    excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"In-Car Speech Recognition"
-    publishedDateTime: 2023-02-14T06:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/in-car-speech-recognition-market-size-and-share-2023-2028-with-emerging-treads-and-new-updates-says-absolute-reports-2023-02-14"
+  - title: "Sugar Net Auxiliary Diagnosis Software Market 2023 Anticipated to Reach Most Elevated Growth Rate, Size with Demand Forecast to 2028"
+    excerpt: "Feb 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Sugar Net Auxiliary"
+    publishedDateTime: 2023-02-16T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/sugar-net-auxiliary-diagnosis-software-market-2023-anticipated-to-reach-most-elevated-growth-rate-size-with-demand-forecast-to-2028-2023-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest Survey on \"Artificial Intelligence Software Market\" Trend 2023-2028, Updated Report With 126 Pages"
-    excerpt: "Report Highlights:- \"The global Artificial Intelligence Software market size was valued at USD 16978.67 million in 2022"
-    publishedDateTime: 2023-02-16T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-software-market-trend-2023-2028-updated-report-with-126-pages-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+    quality: 3
 
 secured: "8xAf9EaOlzzuOT713GokxUsSzQ4AbLzTWoC42JFNQaCFtjRtNfH5NX/9+FtSjX4DHVREE12TKwAjNKTxRUVOQmZR+Hh0REhJWwil2hfZsn1BetuwBEo6Ex/1nQwVbC+yUyRaP6Gu35gWileO6BIH8V+egz65hqEVJ5akXTi45SkG4lXO7p6Q2xjpvX7AdwVFSCcklxeG628NlwTKf87FKUco7aPLrj8LRq+s3DWFXqZswjfoh9digWYLsI3NEMUTwdNhMPLfgSp8WitDh4Q6uoU4W1YiWWBAg7+Bz/btREe5pFI2y6R9ulGF5ExmIbxhG46/J/9Kkqtveo+djJFETG6OYEa9/GbIA+H6PJ3Nfik=;Cn6bsUmdyzZjiwhibtKk+w=="
 ---

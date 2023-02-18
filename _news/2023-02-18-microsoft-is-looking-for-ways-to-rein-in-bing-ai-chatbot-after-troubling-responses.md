@@ -1,30 +1,33 @@
 ---
 category: news
 title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
-publishedDateTime: 2023-02-17T21:58:00Z
-originalUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
+publishedDateTime: 2023-02-17T17:42:00Z
+originalUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
 type: article
-quality: 70
+quality: 98
 heat: -1
 published: false
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-136bfc3d0e45cf05ebcbdaebda8967e0-h-8b1298d1ec7960ff76910faf0490b305-jpg-1676675679.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
-    width: 1200
-    height: 676
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -302,6 +305,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Puts Caps on New Bing Usage After AI Chatbot Offered Unhinged Responses"
+    excerpt: "Microsoft Corp. is putting caps on the usage of its new Bing search engine which uses the technology behind the viral chatbot ChatGPT after testers discovered it sometimes generates glaring mistakes and disturbing responses. The software giant launched the ..."
+    publishedDateTime: 2023-02-18T03:12:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-puts-caps-on-new-bing-usage-after-ai-chatbot-offered-unhinged-responses-39c3252f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 79
+    images:
+      - url: "https://images.wsj.net/im-728157/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft Shifts Focus to AI, Terminates Metaverse Division"
     excerpt: "Thanks to Azure cloud computing, Microsoft Mesh and OpenAI can scale back-end services. More importantly, Microsoft can still generate shared virtual experiences (metaverse) with its Inception and Character.ai. On the one hand, Inception allows startups to ..."
     publishedDateTime: 2023-02-14T06:39:00Z
@@ -477,6 +494,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "2Vhx4AW0V/sIvJh+Kd26TbTwn+haxClLxe0wueqCMG5GROqgMr9HiGAdl4djmG4nnW5C0p8qy8ikPjcMtcoqQdm9yamnhYmJy6v6sFDvPB0MLXMGvEvyhEiVGhXLyfhmB5/0xbuJNN2QNvT3NBG/ZqQHbcymSfPLSqk4fcEkcjkV9H3cIHeWH9FEUhioXywIqkO/fZK4CzN9mYqbSVQ4/ubtkJ7jQiARxLwqEhL2WmrChsCTViZ0W3LqxwOb3GWTWIk+a0DjT1cOdQrixWzVXzyEYHqqQqMWXq4f4wuxPPhcyM0RbB8NYXMSdVumbnZgdeiSQn83pP+y7tPkk5fllyzL0qpUe5nGuwyLx/zne+Y=;7M0cpcvAffgAHSle0nFq7Q=="
+secured: "9SJmfhoF8AT2wG/PPZZqsc07xGbw2vA2ZWOa94cvWmH1nOR1TaxvdI+5cGutE2SjfN9oVuKWrwd9QHE/hPf6u5epyAQO7kmSCIqrNS+Qn2bJGvAD220rO2XWi5euQvM2qLv+YgufsalFXnvd6uULndxFxJEPFSr5PlYMvxNgn84g3tCmQj5gTIodvRqzLVy1RQLt5Rjj0BtxcKhLaH6jjV2FcAUwFAFzk9xJADigh8R6BzYE9IDvbwbxeNJPrUeYpy0cHpWvN2ex+4zt9Nc7jOXgBhI8c+glPC1R7zWyHKOvf4hA9yxuXXyVnLKmucdYa8l5b2ZTkfQ2+qNbjb2h9+Bpl+R0vVZIVRRDMAALxh8=;JBom7opP1AT+sX915xIt6g=="
 ---
 

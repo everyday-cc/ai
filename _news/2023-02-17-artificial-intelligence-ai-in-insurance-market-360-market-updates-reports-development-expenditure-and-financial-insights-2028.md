@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market 2023: Competitive Landscape and Market Share Analysis till 2028"
-    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Artificial Intelligence (AI)"
-    publishedDateTime: 2023-02-15T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-competitive-landscape-and-market-share-analysis-till-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence (AI) in Oil and Gas Market\" 2023 which"
     publishedDateTime: 2023-02-17T03:38:00Z
@@ -121,6 +107,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market 2023: Excellent Analysis Report for Massive Growth by 2027 | Updated Report with 131 Pages"
+    excerpt: "The “ Cloud Natural Language Processing Market ” Research Report 2023: incorporates a thorough qualitative and quantitative analysis along with several market dynamics. Global Cloud Natural Language Processing Market size value was USD 1680."
+    publishedDateTime: 2023-02-17T15:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-excellent-analysis-report-for-massive-growth-by-2027-updated-report-with-131-pages-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
