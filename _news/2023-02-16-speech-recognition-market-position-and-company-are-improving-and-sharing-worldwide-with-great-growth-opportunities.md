@@ -45,6 +45,20 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Intuitive machine control using speech recognition"
+    excerpt: "Fraunhofer researchers at the Fraunhofer Institute for Digital Media Technology IDMT in Oldenburg have developed a speech recognition solution for use in industrial manufacturing. The system works ..."
+    publishedDateTime: 2023-02-15T14:40:00Z
+    webUrl: "https://idw-online.de/en/news809401"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 39
+    images:
+      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
+        width: 498
+        height: 259
+        isCached: true
   - title: "Speech recognition system controls machines in noisy factory environments"
     excerpt: "Today, we are used to controlling smartphones and home appliances using speech recognition software, but similar voice control systems have yet to break into noisy industrial workplaces. That could soon change thanks to a new speech recognition solution for manufacturing machines,"
     publishedDateTime: 2023-02-15T16:33:00Z

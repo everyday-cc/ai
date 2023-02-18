@@ -28,7 +28,7 @@ related:
   - title: "GE HealthCare Makes Push Into Artificial Intelligence"
     excerpt: "The company is developing a software platform that helps hospitals guide care."
     publishedDateTime: 2023-02-16T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4"
+    webUrl: "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509"
     type: article
     provider:
       name: Wall Street Journal

@@ -377,6 +377,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Tesla recalls nearly 363,000 vehicles over 'Full Self-Driving' software"
+    excerpt: "U.S. safety regulators expressed concerns about the way Tesla’s \"Full Self-Driving\" system responds in four areas along roads and \"increases the risk of a crash.\""
+    publishedDateTime: 2023-02-17T23:33:00Z
+    webUrl: "https://www.wfaa.com/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 59
+    images:
+      - url: "https://media.wfaa.com/assets/CCT/images/b3d09246-bf53-49a1-8d32-776c3b4babc4/b3d09246-bf53-49a1-8d32-776c3b4babc4_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Tesla recalls more than 300K vehicles due to self-driving software issues"
     excerpt: "Tesla is recalling more than 300,000 vehicles that are equipped with Full Self-Driving Beta software. The recall includes certain 2016-2023 Model S and Model X vehicles as well as 2017-2023 Model 3 and 2020-2023 Model Y vehicles."
     publishedDateTime: 2023-02-16T18:51:00Z
@@ -702,15 +718,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 19
-  - title: "Tesla recalls nearly 363,000 vehicles over 'Full Self-Driving' software"
-    excerpt: "U.S. safety regulators expressed concerns about the way Tesla’s \"Full Self-Driving\" system responds in four areas along roads and \"increases the risk of a crash.\""
-    publishedDateTime: 2023-02-17T18:38:00Z
-    webUrl: "https://www.9news.com/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
-    type: article
-    provider:
-      name: 9NEWS
-      domain: 9news.com
     quality: 19
   - title: "Tesla is recalling 362,758 vehicles over 'full self-driving' safety concerns"
     excerpt: "Tesla Inc. is recalling 362,758 vehicles because its \"full self-driving\" software may cause crashes. The National Highway Traffic Safety Administration issued the recall after launching an investigation into the technology last year,"

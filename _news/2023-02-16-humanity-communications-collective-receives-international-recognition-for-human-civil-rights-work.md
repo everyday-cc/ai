@@ -49,6 +49,20 @@ related:
         width: 2048
         height: 1333
         isCached: true
+  - title: "Unsupervised Object Detection and Semantic Segmentation Using Deep Learning"
+    excerpt: "In addition, performance-wise it gets closer to state-of-the-art supervised methods such as Mask R-CNN, getting closer to learning image representation as humans do."
+    publishedDateTime: 2023-02-14T07:02:00Z
+    webUrl: "https://www.infoq.com/news/2023/02/unsupervised-object-detection/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2023/02/unsupervised-object-detection/en/headerimage/unsupervised-object-detection-semantic-segmentation-deep-learning-header-1676292560237.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LcZtf7WWXyqwQOXfkH57FXTVK5L5oeDo86aCt34W0JehONNDII1Pms9KT+YChHlaze0dMhFaANc3fJAWignZJUEULlqv6Mjr15AtEboj+8tQzvOIilfxK8ugYmPUV6qgyMOMX77Dl1U9HmdO9ckMUUBzC1LHpAw8CHjUEG6zimomZ7skeZ/KoC4KjpJ6sRKPVNweXM46EctRsn1imv96dTS02kEqnMwg8nKCO2+KrwQYrvf/UpBL1MyV2fNEl3/IzCaQw8Eskp0cbXi8KeNdQ1I+3TUyqlbHhT/6Z2mdvHcehveZJd8TfqtvMsYo3alxWh4hVrmiXLtlsl3+luuOEgQxC2Ikry//PHiJKkfAxV1WDMdhkm/H9yzbOD/cK3ANa0qLUmj0Dzx/65ECYRaYkFChI+8rTm7/zqvIDJsLrUPOEvwTnwetwgp8tpiilkF1nkqmQhYDN6/YnSOeTbEarAiX/xDxvGtd9DrecCLQeZwfskTXF/X70OYBPFlTIJxrGZsZBTwL86FlNsX1yKP1ig==;8UJpRBKez9AKsJPS+sluKQ=="
 ---

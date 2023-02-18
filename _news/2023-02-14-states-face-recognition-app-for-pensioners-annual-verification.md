@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-f
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
         width: 2048
         height: 1333
+        isCached: true
+  - title: "Unsupervised Object Detection and Semantic Segmentation Using Deep Learning"
+    excerpt: "In addition, performance-wise it gets closer to state-of-the-art supervised methods such as Mask R-CNN, getting closer to learning image representation as humans do."
+    publishedDateTime: 2023-02-14T07:02:00Z
+    webUrl: "https://www.infoq.com/news/2023/02/unsupervised-object-detection/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2023/02/unsupervised-object-detection/en/headerimage/unsupervised-object-detection-semantic-segmentation-deep-learning-header-1676292560237.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Humanity Communications Collective Receives International Recognition for Human & Civil Rights Work"
     excerpt: "Affirming its commitment to amplifying social justice issues through strategic and creative communications, Humanity Communications Collective announc"

@@ -8,8 +8,8 @@ webUrl: "https://www.devdiscourse.com/article/science-environment/2356770-artifi
 ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2356770-artificial-intelligence-examines-cell-movement-under-microscope?amp"
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2356770-artificial-intelligence-examines-cell-movement-under-microscope?amp"
 type: article
-quality: 57
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_02_2023_10_55_33_6992607.jpg?width=1280"

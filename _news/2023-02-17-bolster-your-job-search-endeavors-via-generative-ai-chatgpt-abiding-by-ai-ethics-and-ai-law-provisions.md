@@ -62,6 +62,22 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "12 Best AI Plagiarism Checkers to Detect ChatGPT-Generated Content"
+    excerpt: "We start with a recently released AI plagiarism checker by OpenAI, the company behind ChatGPT itself. Called the AI Text Classifier, the app is a finely tuned GPT model made by the company. The classifier is responsible for predicting how likely it is that ..."
+    publishedDateTime: 2023-02-18T07:51:00Z
+    webUrl: "https://beebom.com/best-ai-plagiarism-checkers/"
+    ampWebUrl: "https://beebom.com/best-ai-plagiarism-checkers/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/best-ai-plagiarism-checkers/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 57
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/02/Featured-Content-Detector.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "How enterprises can use ChatGPT and GPT-3"
     excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
     publishedDateTime: 2023-02-14T12:43:00Z
@@ -93,6 +109,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/02/LLM_sprouts.jpeg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "10 ways ChatGPT can boost your business, create awareness"
+    excerpt: "After it was launched in November last year, ChatGPT emerged as a handy tool for professionals from a variety of industries."
+    publishedDateTime: 2023-02-18T08:52:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/10-ways-chatgpt-can-boost-your-business-8452796/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/10-ways-chatgpt-can-boost-your-business-8452796/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/10-ways-chatgpt-can-boost-your-business-8452796/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.indianexpress.com/2023/02/How-ChatGPT-can-help-you-boost-your-business.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "AI on AI: Cardio Journal Editor Interviews ChatGPT"
     excerpt: "The artificial intelligence chatbot ChatGPT is creeping into medicine, so the editor-in-chief of a cardiology journal takes it out for a test drive, speculating on the role of AI translational medicine."

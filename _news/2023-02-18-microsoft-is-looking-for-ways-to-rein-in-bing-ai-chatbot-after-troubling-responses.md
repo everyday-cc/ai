@@ -336,18 +336,18 @@ related:
         height: 224
         isCached: true
   - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
-    excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
+    excerpt: "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ..."
     publishedDateTime: 2023-02-15T20:38:00Z
-    webUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-    ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+    webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+    ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
     type: article
     provider:
       name: EdTech
       domain: edtechmagazine.com
     quality: 74
     images:
-      - url: "https://edtechmagazine.com/k12/k12/higher/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
+      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
         width: 1440
         height: 500
         isCached: true
@@ -508,6 +508,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "mnLx0mADkxbmt0hLcQ3chu0zzd/3MGtNI+e5CPq/xR9EMVHMlYxVBImwUT92llsbikM3/v7THooH4Q0IokstERdwF0l/DBI9uuaoADtUaZdBL3S3NnoTFqzhJ7cPwibLiG3YOMZpOGDJnuB0qjnzI6G6s5xMWiA/y1RD3E0Evv8ZPJI7O4w/mFut2A2H5iVokpJV9DGa2tAetqNnpJeMWOWiUy+gwn0a2TkIDPp5Zn6C1hRqQtUMPIw9a+xPfNpTW4tPuphkCKYp527XhbAKStk/kjX5fJV6FSftZCRaWepMk5d8e9HBOj36oFBcv8S0XkV3Xa8KQa+xpWtHYNJb6b7AP58xWzdxZkUdCRgpSF4=;uinKSBs7YKdvdgjG6ce5Tw=="
+secured: "hDQeSUIkjgRiDkdJM3FISiiMam5fCWMIU94gtdskc/mH+Bp0mrb0jQ4UvU/nMl5Soq/+nlxKaluDgks4BFvTO4WumX996ItAqNIHeS5STrjUkzEEpyOMel+bfZ8cWBN4ZT2CIcGE8kFmo0RIhVBFO2+hvNfFGhMed/nMi4y+MBOR8oBx9NaU2EIaeJvT/g1Su95ra9ZTpqF+6Y1SzQSxk0e7vDIFzwuCcmCynQ9vG0ilO/gHXkGvyGcmLhRmYMdIyqBy3PmW2pKIxUeR4tZshwirPMHmC1hOcZd5uuFwmR4WgSMhZcH73hGq6laf+gkuEW48tAoF2iRrwiiHP/6VVHvRLAFkFKatfywMwfL0qCU=;IzSStPM/RukFXcB/XwBeQA=="
 ---
 

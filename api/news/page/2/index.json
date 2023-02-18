@@ -762,8 +762,8 @@
       "title": "US launches artificial intelligence military use initiative",
       "excerpt": "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
+      "webUrl": "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625",
       "featuredContent": null,
       "highlight": null,
       "heat": 119,
@@ -780,8 +780,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625",
       "publishedDateTime": "2023-02-16T08:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1100,8 +1100,8 @@
       "title": "GE HealthCare Makes Push Into Artificial Intelligence",
       "excerpt": "The company is developing a software platform that helps hospitals guide care.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4",
-      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4",
+      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509",
+      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -1143,8 +1143,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

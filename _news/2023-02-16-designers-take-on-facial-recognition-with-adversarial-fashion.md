@@ -41,6 +41,20 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Unsupervised Object Detection and Semantic Segmentation Using Deep Learning"
+    excerpt: "In addition, performance-wise it gets closer to state-of-the-art supervised methods such as Mask R-CNN, getting closer to learning image representation as humans do."
+    publishedDateTime: 2023-02-14T07:02:00Z
+    webUrl: "https://www.infoq.com/news/2023/02/unsupervised-object-detection/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2023/02/unsupervised-object-detection/en/headerimage/unsupervised-object-detection-semantic-segmentation-deep-learning-header-1676292560237.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Humanity Communications Collective Receives International Recognition for Human & Civil Rights Work"
     excerpt: "Affirming its commitment to amplifying social justice issues through strategic and creative communications, Humanity Communications Collective announc"
     publishedDateTime: 2023-02-15T17:56:00Z

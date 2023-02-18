@@ -2,21 +2,29 @@
 category: news
 title: "Tesla recalls nearly 363,000 vehicles over 'Full Self-Driving' software"
 excerpt: "U.S. safety regulators expressed concerns about the way Tesla’s \"Full Self-Driving\" system responds in four areas along roads and \"increases the risk of a crash.\""
-publishedDateTime: 2023-02-17T18:38:00Z
-originalUrl: "https://www.9news.com/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
-webUrl: "https://www.9news.com/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
+publishedDateTime: 2023-02-17T23:33:00Z
+originalUrl: "https://www.wfaa.com/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
+webUrl: "https://www.wfaa.com/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
+ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
+cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: 9NEWS
-  domain: 9news.com
+  name: WFAA8
+  domain: wfaa.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.wfaa.com/assets/CCT/images/b3d09246-bf53-49a1-8d32-776c3b4babc4/b3d09246-bf53-49a1-8d32-776c3b4babc4_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
 
 related:
   - title: "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue"
@@ -766,6 +774,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "1fBmqqhYgeKzhgs5e9FW/tZLJraztjzSzAgo9nkdS6wFbmPoUJwESrOshIXfmbzZbwyxHAbE50Rbd+XJvVM0Hsk+2UrMCmqgW2uYm7DM5o+JSc1rYMMYVVyQm2NEvfgXXGXZXp2EAI07lrK/CW12Ggjx0eQ0MJBc33fmwohTYJZqU+533rhqHTYyHcT1/fnSvKR6oDd475o4QexEHW4gYoOKXLPA3TIZdd+ouomkOk09DuSfxNaQktXuhAOhkHW1paNDD0xZ6aOPiM05QWv0ZpyZ54/doe8fbwYFXy0jEnvbnz10t4T4gPOS8FHMtoGN0nkjseqMAJgvvlotGu3+BLvJRl9CatGd6/C2H57U11D4MzMA/lkTb9aRU/mNfmtyaX07mAB3X3twWyMtsBbSQWJUqi9ET3KZLqlcIMlo0TybrYbm5yr+fy4RmdkL4l13t8Dif0bijDrnVD8IxhbJVpo1kWNrB4Rp2k5Bb+kHcBuvI+Q4kZM930606ECrewSWSSTWIbxM5MgOsaYGosTpGg==;svacO03dUP3ac77XsTWEEA=="
+secured: "5OvxtbvdS4Auuy5uTOJcrpbgAcc1uxmzjCYTuOGbAXMdC2Zc5a99r3MoITPi6yIP81qvfRzygB7wD4nMkifEwczEkOjnbWWodihN0QvOY88DxxrbzJ8hJsKeC+4sXssn6ZtespD/KpFqWw/Ose6soCqKro+AxidS7EiZ8VWLSYjMofN3pS2WvfRFVRwvNPeOmmQez56qJHLhZG+NRZLOLrvZ5gjNw7Oy9eV5JFjEKlhW1R+GXozIdFu4PDybEfFCBNUvqPVdk7WnzbOV3WInFHK4h9/pHB+lu0Wk0kg2z+P18t4upQYAs7jXG3PVAO1hVPLXgaUgwqc6oqgDjh1HwyCqnDhGgdH5Zb4zZhW4pmw=;P9kvwNrjXzHLkfzH9Rbl8Q=="
 ---
 

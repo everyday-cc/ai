@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-02-ai-cell-movement-microscope.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-ai-cell-movement-microscope.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: devdiscourse
       domain: devdiscourse.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_02_2023_10_55_33_6992607.jpg?width=1280"
         width: 1280

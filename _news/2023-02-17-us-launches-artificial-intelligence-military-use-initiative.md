@@ -3,10 +3,10 @@ category: news
 title: "US launches artificial intelligence military use initiative"
 excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
 publishedDateTime: 2023-02-16T16:14:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
-webUrl: "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669"
+originalUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
 type: article
 quality: 59
 heat: 119
@@ -101,6 +101,6 @@ related:
       domain: defenseone.com
     quality: 19
 
-secured: "Jr++A5RBF+Dm36ZO22arFdvdqlhL+tMcRDEHvbWE9oNkHDvaln+rBbrgzwg3eT7JfNklNlX33+oI3FSabtO4rTgP6Vwt+TUQ/mbri7KHoIJH/OFYGjzqpFZkkhn3XIdh7nA3eX6H+MGaeSObm8JJj3Uqjjq3I4nzrPaqdqnhCSJ4PclewYdESyyPvWnAPXz+NwIigP803dZVAXo+FBjsLrU/T0wm8AZP3uJDyZMFvAxNo03/Hrzu5t0v+8JarDnMdNT0hecLnd0mnSyY9fsiob/3BLIyBD3qfdAepM+TgGB6tYwacTlWvsnvIdvqB8U1Bwyw21qx9HcNNGxMv2suHxT8TKGFJmR4LPp+2gXFBQeZHpx//SLCx1IWZkoMlS+ajgbVVKMr1KFBM0eVUnuDl2l70xVamJLmeBIYtiCO6yvwKNdeljc/N7GRSuqaY/YLybpWwyUbmZg9KdHEZadIzCNMc2DDyX/3X9TnFMfWLhOYQ2KHt2/qOClfi53rOkOxXciYyn46QmgdkdRW6TwHBQ==;0FnY63Ojt6qOKAcKItZdyA=="
+secured: "1nwEXCUuf4sNqLm/nRQpOeQTAYcf0hcadOvdibR1SCRGh0OtdlPGwXBIBeucGXivMIT61uJkBY2j+T7sbKz1vJeFriyyA4f3Hy4PTJmitgPvEH27a7FyqdY7kMiPYcZNrsvS1DDjvvQ9BR1PmyKx0EDkUbwlCsFZyOstqAvpLbnTVhMYiBA3mgfD1ltbgRbQm9WsgFJPJvdA91vAlkwSQ/Pf42ovnlIoeM9Admf74rPasa+SDNRyNAZMc4y0qZ3kEgMd5JkvfqKnKNL4YB39uqleQEPNjQ0/rDGTUaATGUaKPEPem2aYWW9jMwVsClYpdvDLacYBx038bZl9QzshvevbsYMhBNW2Is+TScJwalA=;NiTg5NKGlQFQh+EwXJAnbw=="
 ---
 

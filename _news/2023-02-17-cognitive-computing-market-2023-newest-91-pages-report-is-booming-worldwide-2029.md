@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Medical Service Market (New Research Report of 85+ Pages) Gives Up to Date Analysis of Industry 2029"
-    excerpt: "The major players covered in the AI Medical Service market report are: Market Analysis and Insights: Global AI Medical Service Market Artificial intelligence medical services are services that help humans treat diseases and improve health through the use of artificial intelligence technology."
-    publishedDateTime: 2023-02-15T05:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-medical-service-market-new-research-report-of-85-pages-gives-up-to-date-analysis-of-industry-2029-2023-02-15"
+  - title: "Global Deep Learning Market Size Is Booming Worldwide with Share, Top Key Players 2030 By VMReports"
+    excerpt: "Competition is an important issue in any market research analysis. With the help of the competitive analysis provided in the report, players can easily study the key strategies employed by leading players in the Global Deep Learning market."
+    publishedDateTime: 2023-02-17T19:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-is-booming-worldwide-with-share-top-key-players-2030-by-vmreports-2023-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
