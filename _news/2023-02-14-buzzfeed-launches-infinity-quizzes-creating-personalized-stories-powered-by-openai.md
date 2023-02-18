@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Allen-Overy.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sam Bankman-Fried Using a VPN, McDonald’s AI Drive Thru Fails, Buzzfeed AI Quizzes Suck | Editor Picks"
+    excerpt: "Gizmodo’s Deputy Editor highlights some stories this week you might have missed."
+    publishedDateTime: 2023-02-18T00:30:00Z
+    webUrl: "https://gizmodo.com/sbf-vpn-mcdonald-s-ai-drive-thru-buzzfeed-ai-1850129205"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 51
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/65ec112d79a2a14b375e399e750a0eb1.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "6HOnGl8KJUKBGBdO60tNgareKAgHtIzF9d6DGtuCvjHf35V2ZeMBD/EoJZPPmYZJn2XKCNXOJZfslKLVRBJJTh8j42TXJk6ha5xq1Yh2bUrRm2tyH0utaoUIVyw30I3DOYd53h0jKJuUMlwotoszeKjU/EnU6p/zVhW0NOjtXVxPWpENlLtC4BdKasZTJWbAGQxZP3dtUO2cMOgYcu68SKIN/hJz7HKvn4TIWlKDlQAOM3w29EhNx9EHMA3m9fhI5IHk52Yv75IFaj5sMkNPJoC4+AzsWYnh3VOGGSTr4AO2u2/DRU9aH6CvI5n79ofoaUP//ymV11I6MRD1EYx8NYlgx9no4ubXC6K9OqLU0uA=;ozSoZFZPfAuc14j3OrZiYg=="

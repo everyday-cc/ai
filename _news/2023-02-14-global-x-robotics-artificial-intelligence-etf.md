@@ -37,7 +37,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://blog.tipranks.com/wp-content/uploads/2023/02/image-480.png?utm_source=markets.businessinsider.com&utm_medium=referral"
         width: 777

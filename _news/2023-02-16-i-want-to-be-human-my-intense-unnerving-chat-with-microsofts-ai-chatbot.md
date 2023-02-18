@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft “lobotomized” AI-powered Bing Chat, and its fans aren’t happy"
+    excerpt: "Microsoft's new AI-powered Bing Chat service, still in private testing, has been in the headlines for its wild and erratic outputs. But that era has apparently come to an end. At some point during the past two days, Microsoft has significantly curtailed ..."
+    publishedDateTime: 2023-02-17T23:11:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/microsoft-lobotomized-ai-powered-bing-chat-and-its-fans-arent-happy/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/02/microsoft-lobotomized-ai-powered-bing-chat-and-its-fans-arent-happy/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/microsoft-lobotomized-ai-powered-bing-chat-and-its-fans-arent-happy/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 104
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/02/silenced-AI-tape-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
     excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
     publishedDateTime: 2023-02-17T17:42:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Microsoft limits Bing AI chats after the chatbot had some unsettling conversations"
+    excerpt: "Microsoft's Bing AI chatbot will be capped at 50 questions per day and five question-and-answers per individual session, the company said on Friday. The change comes after early beta testers of the chatbot, which is designed to enhance the Bing search ..."
+    publishedDateTime: 2023-02-17T21:55:00Z
+    webUrl: "https://www.cnbc.com/2023/02/17/microsoft-limits-bing-ai-chats-after-the-chatbot-had-some-unsettling-conversations.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/02/17/microsoft-limits-bing-ai-chats-after-the-chatbot-had-some-unsettling-conversations.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/17/microsoft-limits-bing-ai-chats-after-the-chatbot-had-some-unsettling-conversations.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 98
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107190377-1675796187369-bing-edge-launch.PNG?v=1676678091"
+        width: 831
+        height: 645
         isCached: true
   - title: "Microsoft’s AI Bing Chatbot Fumbles Answers, Wants To ‘Be Alive’ And Has Named Itself - All In One Week"
     excerpt: "Microsoft’s Bing chatbot has been in early testing for a week, revealing several issues with the technology Testers have been subjected to insults, surly attitudes and disturbing answers from the Big Tech giant’s flagship AI,"
@@ -213,6 +245,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Muzzles the New Bing, Restricts AI Chats to 50 Per Day"
+    excerpt: "I've been with PCMag since October 2017, covering a wide range of topics, including consumer electronics, cybersecurity, social media, networking, and gaming. Prior to working at PCMag, I was a foreign correspondent in Beijing for over five years, covering ..."
+    publishedDateTime: 2023-02-17T23:08:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-muzzles-the-new-bing-restricts-ai-chats-to-50-per-day"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/001t5z7JRY6TuUOSkqEvMdH-1.fit_lim.size_1200x630.v1676672725.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "The Microsoft Bing AI chatbot doesn't have human thoughts. Neither does your dog."
     excerpt: "This is a non-trivial scenario that requires a lot of prompting.\" In other words, if you start repeatedly urging AI to consider its \"shadow self,\" as New York Times reporter Kevin Roose did in his giant, multi-part, overtime-triggering conversation with ..."
     publishedDateTime: 2023-02-17T20:18:00Z
@@ -274,6 +320,22 @@ related:
       - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
         width: 1440
         height: 500
+        isCached: true
+  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
+    excerpt: "In racing the breakthrough AI technology to consumers last week ahead of rival search ... The new Bing is built atop technology from Microsoft's startup partner OpenAI, best known for the similar ChatGPT conversational tool it released late last year."
+    publishedDateTime: 2023-02-18T00:30:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/bing-ai-chatbot-microsoft-looks-to-improve-software/507-ea5b9e3d-ac2a-411f-8077-3e5fee7ae745"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/bing-ai-chatbot-microsoft-looks-to-improve-software/507-ea5b9e3d-ac2a-411f-8077-3e5fee7ae745"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/bing-ai-chatbot-microsoft-looks-to-improve-software/507-ea5b9e3d-ac2a-411f-8077-3e5fee7ae745"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 74
+    images:
+      - url: "https://media.whas11.com/assets/CCT/images/d77c07bb-fd26-4a67-a11e-32df22938b45/d77c07bb-fd26-4a67-a11e-32df22938b45_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Microsoft now says AI-powered Bing chatbot is ‘not a replacement or substitute for the search engine’"
     excerpt: "Microsoft was clear from the start that its limited preview of the new technology ... strengths and surprising weaknesses in a lengthy exchange last week, when the AI chatbot made complex inferences and proactively conducted advanced research, while ..."
@@ -368,15 +430,6 @@ related:
     provider:
       name: Detroit News
       domain: detroitnews.com
-    quality: 34
-  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
-    excerpt: "In racing the breakthrough AI technology to consumers last week ahead of rival search ... The new Bing is built atop technology from Microsoft's startup partner OpenAI, best known for the similar ChatGPT conversational tool it released late last year."
-    publishedDateTime: 2023-02-17T20:29:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/bing-ai-chatbot-microsoft-looks-to-improve-software/507-ea5b9e3d-ac2a-411f-8077-3e5fee7ae745"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
     quality: 34
   - title: "People are sharing shocking responses from the new AI-powered Bing, from the chatbot declaring its love to picking fights"
     excerpt: "If you push it hard enough, Microsoft's new Bing might just snap. The search engine's new AI-powered chatbot has only been in the limelight for a week or so, and it's apparently chided users, gotten into arguments, and appeared to get confused about what ..."

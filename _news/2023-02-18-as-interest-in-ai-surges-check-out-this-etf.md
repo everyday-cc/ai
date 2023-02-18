@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-17T20:43:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962"
 webUrl: "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI Hardware
   - AI
   - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://blog.tipranks.com/wp-content/uploads/2023/02/image-480.png?utm_source=markets.businessinsider.com&utm_medium=referral"

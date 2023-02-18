@@ -556,6 +556,20 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 34
+  - title: "Despite a Massive Recall, Elon Musk Continues to Downplay Tesla’s Self-Driving Flaws"
+    excerpt: "A 2021 Tesla Model Y equipped with FSD system. Mark Leong for The Washington Post via Getty Images Tesla’s driver-assistance software, Full Self-Driving (FSD) Beta, is drawing the attention of the National Highway Traffic Safety Administration (NHTSA ..."
+    publishedDateTime: 2023-02-17T23:52:00Z
+    webUrl: "https://observer.com/2023/02/tesla-recall-fsd-software-crash-risk/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 32
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/02/GettyImages-1242700724.jpg?quality=80&#038;strip"
+        width: 7360
+        height: 4912
+        isCached: true
   - title: "Tesla recalls 362,000 vehicles with self-driving software over intersection safety concerns"
     excerpt: "Tesla is issuing a software upgrade to over 362,000 versions of its Model S, Model X, Model 3 and Model Y vehicles because those with its full self-driving beta software may be \"unsafe around intersections,\" according to a National Highway Traffic Safety ..."
     publishedDateTime: 2023-02-16T18:13:00Z

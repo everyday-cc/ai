@@ -53,7 +53,7 @@ related:
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/ai-preaching.gif?w=1024"
         width: 1024

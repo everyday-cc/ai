@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-with-prominent-players-in-various-ragions-forecast-2028-2023-02-14"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Natural Language Processing (NLP) Software Market To Eyewitness Steady Growth Throughout 2023-2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-17T15:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-to-eyewitness-steady-growth-throughout-2023-2026-2023-02-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KfwihvGrDCv/epgm29MTndezgMt3pFm1BUSVoKoL9tr+rh8wmPcjAKRzP1eEhH7v9lGQIjCNHmh48ym3IBFnWfVV0CM38eLoXj5H5MQOzv4wyF0QQgy1rIrNc5xHDz655ZyJAM8QBXMLKkJA0imMr7pw4vxZXYrS/YYelhGwKzDHIY3NALrsoV6tb21oQ1n+uC6c9OpH4ZXvJEAJDq0IqANQ4Ppu5ITshvSf2KHxlmjWif+jmvCSVt5NObdXmkOLzINqkvklrkZc3Ovv4tcHzMa2S07JR0IoOV2bXbyeEMphXq+WRu1k61VLskmVuUZepJ1VvohAQbxyBJ90a/2aHC7I03QHYcCsd9IFBho2OGE=;XvOWkEpWrl7qSxIuVBWDwg=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 812
         isCached: true
+  - title: "Sam Bankman-Fried Using a VPN, McDonald’s AI Drive Thru Fails, Buzzfeed AI Quizzes Suck | Editor Picks"
+    excerpt: "Gizmodo’s Deputy Editor highlights some stories this week you might have missed."
+    publishedDateTime: 2023-02-18T00:30:00Z
+    webUrl: "https://gizmodo.com/sbf-vpn-mcdonald-s-ai-drive-thru-buzzfeed-ai-1850129205"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 51
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/65ec112d79a2a14b375e399e750a0eb1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RFwDoFJshjcCxqEAoc4QJ/0raR4RgwoCe9rzZ06fGueuchU8JnMVRviuZ5XqeES3cWVJIdb1lmaULRE/1DhSLZjPrPSNcPiHzVmr6Ugy8y6gumNQDVRHGnMWia6lhlndaq7Y3PGND6l8hq5RGx0diPrMJmLyfzdMhBYcqW9n9eqeUroBR3gC3Ni18gjNHN2gB2LaGMwXBklIcNp/UzWJcWHM0thTnASJi2/DUu775PtQnrfbfaVYskfmIDjShTqNi/8IAsD3jnWIq8FtriXhKxzHytduGPG/5i/dBDYxYvRCRJvL9x6zGmNBzH4NitHrE41w7OhDd1/+JMpvK5zPDsC2+avPAyS+tXsO+UDrlmStTBaUZvtQ1U0UK3ZTHVfBbea+eAcEndBxz5B/R5jBqvOitruci4WgjvWQ4pF33C9iX9vXQn3JR6SP738JKKwzdk+dpPbu5x6hEsv6/cwBTLapMSUoNu3MQ26SRJ8IhcJ/vUj1cIB1IWE8YNTJLKhRkQE29IFWYkD8ZQeoMEL7xg==;pQ2wFer0Y88bb2/+uwtIgg=="
 ---

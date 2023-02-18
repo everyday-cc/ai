@@ -8,7 +8,7 @@ webUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing
 ampWebUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/ai-preaching.gif?w=1024"
@@ -56,6 +57,6 @@ related:
         height: 780
         isCached: true
 
-secured: "wsWMZG9gChpm525a14evXb26Oq4SmLDAuDqN72KzCsHIjQY60J5zVS1nF5bGQi9HTSK5zfUTCX1EiU3UiC6RcBdRv6/Ww7CuYX57KavHEd81GT8QhrsQAzzFUA0/PPr4JkjE2LSjrXdDX38KXXOirpnLSPMeN9tBulmMOlALuwcxgUuUm04QXFvBUBfHGYJQpTYjTfVbzzhM9Pg81SJ1vPGyZd/a1isfHhjxiBscraVm/DyW5Wlb79bcbCwDcUuheTgr2+McZbFagY+QkAmD+W8YPGAUgyNg4arLMpdG+2AKn6xM5dqQkF7rqo2TbdQHxx8fhsic3geqV6ZJYkUWAGV08Ci3J350V+zHZb74MDk=;EHEMIiPKxyFPUproF66frQ=="
+secured: "HDRLgfxiHtJ7loMKh+w1yDar6jijsh29aeUQuA24W7SUDDqE28mD0TmKwjQAqrhduqhycKCABFh4ZlhMzbufoUkgAigVfIY1yK12fpwS4yUUQozmZVV6RO3+TkQyKGTMx1r0xJJj+E8gFiMJo8kRlsJjqHVFnyHivDjxr0WESn8OPBTi/6EBlGnNNnyg1skb8IHLCn6HzKaGOdndDletT186AkWjAsWdHZADBwqucP/EGNGGvXNZJgMp+jOQB95Tn9k53xpcVoY2FLrG37EVZ1XvgeORPWsCQug+WugaJivZ4HwKxPFj5Rs0D7xpvYUBTOe3ygcwZSrSabMC1RKdEihj9U4vB6qJjTHV9Ex1jL6FnaSj2fWdEoF79DnrTOjjDA6aNzjL5NegcwVqnXw5t5yQ2pj68SuWokSHrUFbXrBfzu/OLYYo5H2mONuw8890TlsvXcAsDI1ORmUuu24F6XdnPSu9O5XJXgmOvww4uvhWQ5N/wGfliAhnBs7XN+jjSMFIwHOlDTZb8/SsqCbKRw==;5md0jTsngkDHF7w9WhS3fA=="
 ---
 
