@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Demonstrates Groundbreaking Artificial Intelligence Research Using Foundational Models And Generative AI"
-    excerpt: "From simple algorithms to breakthrough advances Artificial intelligence (AI ... The first AI models utilized feedforward neural networks, which were effective in modeling non-sequential data. However, they were not equipped to handle sequential data."
-    publishedDateTime: 2023-02-13T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/02/13/ibm-demonstrates-groundbreaking-artificial-intelligence-research-using-foundational-models-and-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/02/13/ibm-demonstrates-groundbreaking-artificial-intelligence-research-using-foundational-models-and-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/13/ibm-demonstrates-groundbreaking-artificial-intelligence-research-using-foundational-models-and-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ea468cea908ddb25e3c457/0x0.jpg?format=jpg&width=1200"
-        width: 936
-        height: 624
-        isCached: true
   - title: "Innovations in the cloud and data biases in machine learning"
     excerpt: "One of the things that we’re trying to address, even in the [diversity, equity and inclusion] space is making sure that our job descriptions are not introducing any biases so that people will eliminate themselves immediately,"
     publishedDateTime: 2023-02-14T22:20:00Z

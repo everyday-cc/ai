@@ -74,6 +74,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Local startups dive into generative AI"
+    excerpt: "deputy chief executive of Swedish AI company Smart Eye (and cofounder of Boston AI startup Affectiva). “I think every company is trying to figure out how to adopt these technologies now.”"
+    publishedDateTime: 2023-02-15T01:12:00Z
+    webUrl: "https://www.bostonglobe.com/2023/02/14/business/local-startups-dive-into-generative-ai/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 37
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/azL7Cbz7Et-aOHw6ElMyQylDG6A=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/YY3FPFECE2PIQVBYXTT5QA3SA4.jpg"
+        width: 506
+        height: 405
+        isCached: true
   - title: "Veritone Continues to Innovate and Make AI More Accessible, Deploying Generative AI Across Its Leading aiWARE Platform"
     excerpt: "With this major advancement, Veritone is empowering enterprises to create and extend content and data at an unprecedented scale beyond the power of human capabilities. Veritone Ge"
     publishedDateTime: 2023-02-16T13:56:00Z

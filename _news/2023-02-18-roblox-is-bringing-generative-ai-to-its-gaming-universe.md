@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/roblox-generative-ai-gaming-universe/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roblox-generative-ai-gaming-universe/amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/Xwnhp58EJouIm27Zxde6bA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/87e37de0-ae16-11ed-bf3f-4920fca01694.cf.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Roblox shows its vision for UGC and generative AI"
+    excerpt: "Roblox showed off its vision for the combination of user-generated content and generative AI. Dan Sturman, CTO of Roblox, said in a blog post that the company sees an opportunity to use generative AI techniques to revolutionize creation on its platform."
+    publishedDateTime: 2023-02-18T02:00:00Z
+    webUrl: "https://venturebeat.com/games/roblox-shows-its-vision-for-ugc-and-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/games/roblox-shows-its-vision-for-ugc-and-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/roblox-shows-its-vision-for-ugc-and-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/roblox-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 734
         isCached: true
   - title: "The AI Arms Race Is Changing Everything"
     excerpt: "Now we have company. While you’re reading this sentence, artificial intelligence (AI) programs are painting cosmic portraits, responding to emails, preparing tax returns, and recording metal songs. They’re writing pitch decks, debugging code ..."

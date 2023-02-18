@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Investing in ChatGPT's AI Revolution: Where to Begin"
-excerpt: "These chips were in high demand last fall, as cloud-scale computing platforms expanded their AI processing services. \"We are all hands on deck to help the cloud service providers stand up the supercomputers,\" CEO Jensen Huang said in November's third ..."
-publishedDateTime: 2023-02-08T17:47:00Z
-originalUrl: "https://www.nasdaq.com/articles/investing-in-chatgpts-ai-revolution:-where-to-begin"
-webUrl: "https://www.nasdaq.com/articles/investing-in-chatgpts-ai-revolution:-where-to-begin"
+title: "Investing in ChatGPT's AI revolution: Where to begin"
+excerpt: "IBM has provided AI solutions for large businesses for many years under the Watson brand. In particular, management is excited about the long-term prospects of large language models for AI -- exactly the type of artificial intelligence that ChatGPT uses."
+publishedDateTime: 2023-02-09T14:04:00Z
+originalUrl: "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/"
+webUrl: "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
-  - AI Hardware
+  - IBM AI
   - AI
 
-secured: "rDekJPNFxLqvhhDefL/UGi/yXMkpzk+KsXqWNamLga9UTwo6MqZkVvNRyxxwGvl4Png3JzFm+R4UotlvVit0iPXfKCQRH1nzpuRnPoe9PUjhjvoNKYIm1rSAjiMsIPl02rmZ+rqy49wBBW5jvjRJS85xIE0D2T64a2XRJMgAsefS2De57wCcjdyRnflsueMsqTtSRpdu7su70MeVMCWAG1HqYrUhnpCipvQ12NdffdRGDI9IdMJ1pOcP/hkFXG90W2QDkVoSvctzzODQyIcExRYvwhSpEfX/iQs6Z4zhkeatbaTep0k5v7u5mk/I4gvsCTVxb/kBXNdfE898eYbV6XWVemSFG77AvH6kPAsGZZCAGZ29SE8BA93oEDLyCRqTyIAT1EMG6vQP89JwNSupooqB3c45nbK1m2xpoKXl9KeBbYlKooIde47DV259QfZ7t9NLvcKGjlqs5ZiEg5lXhujExizEjaaq+mX62HzINfiDP9JwpzcJsU7XSA6Hw/6k+e2XCmlpknzydiJTH6HB5A==;Gc9tbdojExsW8SAIvBvCgA=="
+images:
+  - url: "https://www.gannett-cdn.com/authoring/images/motleyfool/2023/02/08/USAT/69885703007-2-technicians-and-data-center-racks.jpg?auto=webp&crop=2224,1256,x159,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 678
+    isCached: true
+
+secured: "5U8mDTWPgbKDet9hePgj4O3ejnIhIDgiBEfYVaUwd7F9fnLuYacqWa6wBRa8dKShwWUnk1lv7GpHxi382t1rUMSFqZvjzCV8gar0QCl54+L+M1JVVPMcq/JdXmkoeGtCcazFyXFEmUQYNoKanDzOn7ZT9VIpWKVKHbHlpqDvwjFw63wUBb1WiCs/ELQ6mFniD5tRJh4H3agpJtczFYaUc2Wo7QNWAech2HOLLJQhQN8Iw2qyTW78bACQttuQivG5u1gqApNmbxj6LI4RdUYcSQUe56oo0ZB+rsLS9DknPiQa6AEQsQF5ir2kCgSEvuhByHk+peBAKz89sFy31s/bZyLo8tlhlX95P+m7IKLb8h8=;uE4LdHeG0Dr5ZC/Etq42aA=="
 ---
 

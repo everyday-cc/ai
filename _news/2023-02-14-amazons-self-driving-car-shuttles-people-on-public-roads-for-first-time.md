@@ -25,35 +25,90 @@ images:
     isCached: true
 
 related:
-  - title: "Vin Diesel says a self-driving car company boss is the bad guy in 'Fast X' sequel"
-    excerpt: "Vin Diesel revealed that part of the plot to the \"Fast X\" sequel involves the owner of a company developing artificial intelligence and self-driving cars."
-    publishedDateTime: 2023-02-13T13:16:00Z
-    webUrl: "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel"
-    ampWebUrl: "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp"
+  - title: "Amazon's Zoox robotaxi now giving rides to employees on public roads in California"
+    excerpt: "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters."
+    publishedDateTime: 2023-02-14T06:51:00Z
+    webUrl: "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 69
+      name: CNBC
+      domain: cnbc.com
+    quality: 68
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/02/1200/675/diesel.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425"
+        width: 2800
+        height: 1867
         isCached: true
-  - title: "Don’t Fear the Self-Driving Car"
-    excerpt: "However easy it is to forecast a self-driving dystopia, it would be deeply unwise to dismiss the unknown and unknowable benefits of new automotive technologies. After all, with technological ..."
-    publishedDateTime: 2023-02-14T00:00:00Z
-    webUrl: "https://www.nationalreview.com/2018/01/self-driving-cars-wont-impact-freedom/"
+  - title: "Amazon's Zoox Begins Testing Self-Driving Taxi on Public Roads in California"
+    excerpt: "In the spring, full-time employees will be able to ride in the self-driving taxi between offices during business hours, Zoox said. \"Getting to be the world's first passenger in a robotaxi with no manual controls on open public roads ... was one of the ..."
+    publishedDateTime: 2023-02-14T18:39:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-self-driving-taxi-on-public-roads-in-california/"
     type: article
     provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 24
+      name: CNET
+      domain: cnet.com
+    quality: 51
     images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2018/01/self-driving-car-nutonomy-boston-2_0-1.jpg?resize=300%2C300"
-        width: 300
-        height: 300
+      - url: "https://www.cnet.com/a/img/resize/86255af21a5efdc87e64881b0c03354d979331e2/hub/2020/12/14/ed965842-f0e3-4dd5-86d4-583dd57991ca/ogi-zoox.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon's new self-driving robotaxis may soon be hitting public roads"
+    excerpt: "Robots already deliver us packages and pizzas. Now, Amazon is ready to take the concept to another level. Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers. The robotaxi ..."
+    publishedDateTime: 2023-02-14T04:06:00Z
+    webUrl: "https://abc7.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
+    ampWebUrl: "https://abc7.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Amazon’s self-driving unit Zoox puts driverless taxi on the road"
+    excerpt: "Zoox, Amazon’s self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the ridesharing population. Just like a customer could call an ..."
+    publishedDateTime: 2023-02-15T23:22:00Z
+    webUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
+    excerpt: "Several farm, vineyard and dairy owners in the North Coast are among those employing driverless ... zero-emissions smart tractor with an artificial intelligence (AI) automation package that ..."
+    publishedDateTime: 2023-02-14T10:06:00Z
+    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/electric-driverless-capable-tractors-roll-into-california-north-coast-viney/"
+    type: article
+    provider:
+      name: The North Bay Business Journal
+      domain: northbaybusinessjournal.com
+    quality: 18
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=2ee348d3-69fc-55df-83d9-cd0de72f37dc&type=primary&q=72&width=1200"
+        width: 1199
+        height: 780
+        isCached: true
+  - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
+    excerpt: "Some dairy farmers and vineyard operators in Napa, Sonoma and other California counties are bringing in electric tractors capable of operating without drivers. Here are the pros and cons."
+    publishedDateTime: 2023-02-14T17:06:00Z
+    webUrl: "https://www.pressdemocrat.com/article/industrynews/electric-self-driving-tractors-roll-into-california-north-coast-vineyards/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 18
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=2ee348d3-69fc-55df-83d9-cd0de72f37dc&type=primary&q=72&width=1200"
+        width: 1199
+        height: 780
         isCached: true
 
 secured: "/rzfxHH11F06uk+63m6Q6x8SziDmNqu5frvqRHUdt1NNZ6LUTFk6CI8KZwM7n/TcFUFbYuUcoHqX9jJn23jNcFivjRMxETV1V0PJp9M1RsU+0z6jhL2iYhZlDbYuRGdqP2WZ9C/zT/zXj0HzMjjyBeElUSmhbGBVDUiNEtnr/FKDZvREkSPhoCewWi9nQiIXFGUzThQ8lnqLAAaDLP2if+wFOpuB+dc+wsMB7otY5pkkXpppoDYd1yHYh5TrRKUUIVvtijshTiOke1SuhZIhgVVyPSyxwo0q9L1q//Fv/r+PdhMILXC/snJMX2sl+yBr02eEqHAAhhVkkPDbqxW4hwwYaGaE8EYqoiw6hmrN0VU/kCGm/Cuiv/LsgdXjPzw9CLxswasceTVYkK9IXlX2HZov25eECFlj3+KU3TGUZ/xoiLV2uabYrDbbWprbgZgY0dwbg6r4QaUuwWP0LROzFWt6PWszmYY7sHPCrxzpqazzt2QnIejPlx4jFnLjAv/qYyn3mhZyfw8yItgLjRnSRg==;9Iw8fJ2wUwbpJgDOalM1lA=="

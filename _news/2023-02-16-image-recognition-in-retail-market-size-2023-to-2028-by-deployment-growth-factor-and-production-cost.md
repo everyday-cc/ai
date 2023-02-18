@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/image-recognition-in-ret
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market 2023 | Proven Strategies for Significant Growth in Global Industry till 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- The Computer Vision Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Hardware, Software ..."
-    publishedDateTime: 2023-02-13T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13"
+  - title: "Gesture recognition solution market size to grow by"
+    excerpt: "Gesture recognition solution market - Five Forces The global cloud data warehouse market is fragmented, and the five forces analysis covers– Bargaining Power of Buyers ; The thr"
+    publishedDateTime: 2023-02-18T00:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-gesture-recognition-solution-market-size-grow-usd-3601493-/2023/02/17/9762732.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-Powered Risk Decisioning Provider Provenir Achieves Significant Revenue and Customer Growth and Global Expansion in 2022"
-    excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced strong growth in 2022, achieving 35 percent growth in revenue and expanding its customer base by 24 percent,"
-    publishedDateTime: 2023-02-14T18:25:00Z
-    webUrl: "https://financialit.net/news/risk-management/ai-powered-risk-decisioning-provider-provenir-achieves-significant-revenue-and"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 13
-    images:
-      - url: "https://financialit.net/sites/default/files/provenir_18.png"
-        width: 1366
-        height: 768
+      - url: "https://mma.prnewswire.com/media/2004096/Technavio_Logo_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "E2aX3SSGiIYBuamNaqQ+JnU/RfbG//euZBHqQGeOP48V12vLk5isnTowDWrASX49Dzw8c5ewYIeZP1WjxqNJqXT4z9wmOBeIv6mKBa65vmfUOw3hpBMLdXlw0TT15HjwJnCdGbN18ZwuMDgCbqi6NipdN6t9xwK5OO/zfCZR7mcWoVlDgFYym9nejTlup+dQhfDc4ulgozncNlt87TzjU6tZ1IyStN+PTqSpZfGuKqZKasGLnvRTK5efGAa5clLD49ObdS0hcko1TeXzwQsmBO+FiyOv0e2Ehw+YZY8IcVXb/rSVAp3pRMkSeXuJlSZf8HgWegCZot6C5I9eBpWWEtm/bkkEP5jZwn5tG2RUcQI=;Q57RycMzlhITSEHCwXWRcQ=="

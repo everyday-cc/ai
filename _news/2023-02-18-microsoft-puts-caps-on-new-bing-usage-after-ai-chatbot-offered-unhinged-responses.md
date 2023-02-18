@@ -338,16 +338,16 @@ related:
   - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
     excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
     publishedDateTime: 2023-02-15T20:38:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-    ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+    webUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+    ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
     type: article
     provider:
       name: EdTech
       domain: edtechmagazine.com
     quality: 74
     images:
-      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
+      - url: "https://edtechmagazine.com/k12/k12/higher/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
         width: 1440
         height: 500
         isCached: true
@@ -380,6 +380,20 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/bing2.jpeg"
         width: 2481
         height: 1659
+        isCached: true
+  - title: "The New AI-Powered Bing Is Threatening Users. That’s No Laughing Matter"
+    excerpt: "Shortly after Microsoft released its new AI-powered search tool, Bing, to a select group of users in early February, a 23 year-old student from Germany decided to test its limits. It didn’t take long for Marvin von Hagen, a former intern at Tesla ..."
+    publishedDateTime: 2023-02-17T15:58:00Z
+    webUrl: "https://time.com/6256529/bing-openai-chatgpt-danger-alignment/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Microsoft’s (NASDAQ:MSFT) AI Prowess Could Distinguish Itself from Rivals"
     excerpt: "Takeaway: MSFT Looks Like a Buy I think AI could more than offset slowed growth in Microsoft’s Azure and evolve to become the reason to own Microsoft stock. Further, I believe shares can continue to deliver above-average results for investors as it ..."
@@ -494,6 +508,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "BM/PR4nhy0ujBIKHBAP49Ta3w/AYgFMF5DT8pdFF2j+g1JGR0bPIKHszTTQ8tUKA2/vtRwW0dcJ6pmp2JglmqCsWzloosYs1Sb6Rt/87KdDq1LcNdYWIvWcyD/dU7uWPFYgdUbPGf2jNMOeMJvt4JqwSfxM4+jQnVPGwZM7x7wpTh6bAUXbqh0h0QdvlsZmULYk7ugP784XmTfTOWxGd0fqOwDj9Q4ln6uToRV74vUijwfb7BjqMg4u3hi5NwaLecT7Prt2CQlW5he0o5qAPWSmVHK9zZyxEbGyp9DoyagC7yo2motQ368RvPN+mtHmfpf/SnnvZgVolP6qmDki24klosr16Sme64XZvEue769o=;yA5UA2ny0v6GWPa73oPqDw=="
+secured: "fl0mxoBrnAYtxsHyxzj6C6XcqLBVGtLKxzTp4S3g7B4BZ19FPgipuKrmlz4So3dp2dTS/1c5qoinq7zOfdyQGicbju0/RUi9Bgp7GiSIxSklS8TfRRsJcnHxIPnqUobRburhkbqgzIKtKmsnlMSofTgIlVixDbEIO0KUpxvx6hoUyku10qod6vUafHJgK3h6GrQ5tYx3pLC7BjuviyFUK4DKRZtn9lzjjv8yplzbhZlMbAE3v2uF4ObeqoD8ps2UODsMJ476J5ydIjRz2TcsgbYHwhNCtIhpm2gOVDAD7k6swi8dIymKeVorAnCuxJhJdG4G+VN7yVMCQiU06SQn4BCbz/cHcrggtQ123jIeiHDd2MAwuDPOkAnrRMWVXqZHeG68MCHhx90UU579I50ecAy59U00vB7AId7OVj0mUOuGCz2A9dJlNB0AM6E9rGTsW42UY3QzTa/j9WxnVwEgFE3W+rWHQ9c8GyNs99Oop+syA4iD4Qga+zRGjX+DXHmIk25UavZOuGVdBomo0Cpigw==;joN1hRaUupPoVj6UJInXYA=="
 ---
 

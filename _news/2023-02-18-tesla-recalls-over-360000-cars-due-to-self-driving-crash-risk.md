@@ -459,20 +459,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "Musk rival airs Super Bowl ad calling for ban on Tesla 'self-driving' feature"
-    excerpt: "A California software mogul who has a long-running feud with Tesla Inc. and CEO Elon Musk over the automaker's self-described \"Full Self-Driving\" software took out a targeted ad during the Super Bowl on Sunday calling on regulators to shut down the driver ..."
-    publishedDateTime: 2023-02-13T14:53:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/elon-musk-critic-air-super-bowl-ad-questioning-tesla-fsd"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 51
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/2023superbowl-MAIN_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
     excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."
     publishedDateTime: 2023-02-16T17:02:00Z
@@ -785,6 +771,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "SB8UH9amS+xR0MnwnR8yxmN/4vtthq7fOHOrITm/YrpRj9hjDAjx5Rx7uKqonWsgIFUsvoitLdJfHrsqxbK4j7BGrEC20Wb2/qVHw+9I5sevfnIc31zWkmgRTnYM6R8Kcbl7X5L+fCL5lFL7fU4sr6RjSROB2/9z5LcEIT/W48ni7tuQgAUUYPSNOnUPTlJfmnKJi/IdSPp2VEMwQy4Zy3aUZ/3c8oQH5l/IuUxT0XBM8v6I1gSYMwrJGF8wHvVP7Z3mBpsBmj/gDMRNEue3/c9s5E22lUp93qIGqYUlXveJAdEJ/K2oi5bfPTcxGvTkvtt3YALuYT9bgDJF8AY+4nUCK91I/30H8H8T/i7oZPY=;pEaMom36BKEVvIp8LOwk+Q=="
+secured: "YHIZyNadX7Gtbcg/Lt2wrAdYQ9+/zVG+LG5cROPT/3ejq8QpjZh8Oxw08uoTmL/Z2CQ0fweuZC99kCJw4NwoYYRmkeh5ydYMTTHddXJL/l2ryjIAobBWC0ue89oJ2bwtc1PLlkbExZB07i+N/BHRsKDrcm3FM8jJvhcWHzaI2Qgz55jvufkiKpmq502obMbI3Wxb/J5anFWb+UDJDe4t9T2PsD3bn4kZsDaR9HU5nmen3kccREMar6rieX7ehnITb2Q3dXCsUj6hYcvPbMO9PM1llQCLTzG07bZhGmEw3SIC+Lo5TBUQUv7N7pjC/dEHHKL/rqcpKTtP5OLeNj3bodGOj/TBIICvTMrQ0XhY/azF2BqOu1wmgSTZH5oIXt0o2OjJJRwPXLUPpbW5sevLYhGUfdb17iZam0qWQIiHgIrEx4em3i3Qm7Hw6GqEOKVV7ymceY8kppSLNOWG9GDtauGK0KifwufbRXNQJQmgkDQxxUYi5o6Inri1maTvg0mBTwXgdltsuoyN0O0uLd9oHg==;aQirop6/h8+CIQ0XrVUk5Q=="
 ---
 

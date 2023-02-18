@@ -467,20 +467,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "Musk rival airs Super Bowl ad calling for ban on Tesla 'self-driving' feature"
-    excerpt: "A California software mogul who has a long-running feud with Tesla Inc. and CEO Elon Musk over the automaker's self-described \"Full Self-Driving\" software took out a targeted ad during the Super Bowl on Sunday calling on regulators to shut down the driver ..."
-    publishedDateTime: 2023-02-13T14:53:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/elon-musk-critic-air-super-bowl-ad-questioning-tesla-fsd"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 51
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/2023superbowl-MAIN_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Recalls 362,758 Cars Due to Full Self-Driving Crash Risk"
     excerpt: "Tesla Inc. is recalling more than 362,758 vehicles due to a crash risk associated with its so-called Full Self-Driving Beta software, according to US authorities. The system “may allow the vehicle to act unsafe around intersections,” including ..."
     publishedDateTime: 2023-02-16T17:54:00Z

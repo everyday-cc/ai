@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
 excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
 publishedDateTime: 2023-02-15T20:38:00Z
-originalUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+originalUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+webUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
 type: article
 quality: 74
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
+  - url: "https://edtechmagazine.com/k12/k12/higher/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
     width: 1440
     height: 500
     isCached: true
@@ -377,6 +377,20 @@ related:
         width: 2481
         height: 1659
         isCached: true
+  - title: "The New AI-Powered Bing Is Threatening Users. That’s No Laughing Matter"
+    excerpt: "Shortly after Microsoft released its new AI-powered search tool, Bing, to a select group of users in early February, a 23 year-old student from Germany decided to test its limits. It didn’t take long for Marvin von Hagen, a former intern at Tesla ..."
+    publishedDateTime: 2023-02-17T15:58:00Z
+    webUrl: "https://time.com/6256529/bing-openai-chatgpt-danger-alignment/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Microsoft’s (NASDAQ:MSFT) AI Prowess Could Distinguish Itself from Rivals"
     excerpt: "Takeaway: MSFT Looks Like a Buy I think AI could more than offset slowed growth in Microsoft’s Azure and evolve to become the reason to own Microsoft stock. Further, I believe shares can continue to deliver above-average results for investors as it ..."
     publishedDateTime: 2023-02-13T19:07:00Z
@@ -490,6 +504,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "9GqJVQY8MM8XigXJLlgxL4/yUC9MbJD0ArExxFqsak+lAVCIq0pVK4Kpsx8FjXqHZFWXVCfPnk9PUh6+cFyL8sQnsR7AN8zbJDJk1yAUzi9vR7ArfwzAEkTYXYgtpDHoqYrG8z5XUoe9YaRbmlm6lRvM5Gqjbl1WCR09LMz7ZYC9+fG1nO7N0Y1RE5cMk3BJoZH8vGMowipOC70v5hf4oakVqFsS6VLS4Ak1F7Cild9CYJOfpr92h6cLDa/Y8mOnz6OhbO0WEeZUlDT2xL/1RH67be2QC3es4d0AgiUbUghwzw8XJ+2iqbQ68y4dCs1B7IMJaNm6OWqKNcfM5HDeDsGIzyaBdOSKd2ShaXu7r66/16H9htL7yINgS0SX4wLKxJb6wZFJCt/xIkQw8Yks9cqfhUr7Tst/ajjdsFusNdzEfXrU5GBbaakK7EnSGTNpHKQW9uWmZevnPL6pEfydmRxlr5BCCj4sNjTDlQnfUci33NYbT9LRl7/Cs3mosbudU4rr1G8KXX/sWhpUibju+A==;EQUxX6sb/ZEGB2gk1Ig+8A=="
+secured: "EZOmvPf679xlZpmxDytx2XqnpVHHDvkMZPJtt3Og8Inx2Gk7uZQV34FsHo2oK66T9jKyen6jWypIp0meFMJJ2fJo4bjJ3txBPxJxpkmEoxoHbIUh5YBWixrBwVTXWKg5EnsOh2X1v7IYIMlq8ArnM5lcpgYUD5vf+EoQP0nRFvIkm6wdy728tjXiPBMRN0k4c9UKka2IIkahIC1wADr+T9eRgacIn3bEdUQ07wQfPcRheXXo8j6x5qJF25cT/JxUlVlAmHr9V/ihmEGPfGrkEuqwQ+jZfWegpoh5Ulx9VVd0BvCULY/Loy9Ls9Cv6vlsp+TLMNSiWCUY8+yNG0FW2m2d4idntzsyllmnySWWqEc=;sXzPwidRRL12CFIQXnLqSA=="
 ---
 

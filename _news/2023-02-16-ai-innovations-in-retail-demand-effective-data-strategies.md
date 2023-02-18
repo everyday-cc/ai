@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-innovations-in-retail-demand-effective
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Demonstrates Groundbreaking Artificial Intelligence Research Using Foundational Models And Generative AI"
-    excerpt: "From simple algorithms to breakthrough advances Artificial intelligence (AI ... The first AI models utilized feedforward neural networks, which were effective in modeling non-sequential data. However, they were not equipped to handle sequential data."
-    publishedDateTime: 2023-02-13T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/02/13/ibm-demonstrates-groundbreaking-artificial-intelligence-research-using-foundational-models-and-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/02/13/ibm-demonstrates-groundbreaking-artificial-intelligence-research-using-foundational-models-and-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/13/ibm-demonstrates-groundbreaking-artificial-intelligence-research-using-foundational-models-and-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ea468cea908ddb25e3c457/0x0.jpg?format=jpg&width=1200"
-        width: 936
-        height: 624
-        isCached: true
   - title: "Robotics innovation: Leading companies in autonomous fleet platooning for the automotive industry"
     excerpt: "According to GlobalData’s Technology Foresights, which uses over 619,000 patents to analyse innovation intensity for the automotive industry, there are 290+ innovation areas that will shape the future of the industry."
     publishedDateTime: 2023-02-15T11:27:00Z

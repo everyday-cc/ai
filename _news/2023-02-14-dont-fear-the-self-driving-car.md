@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Vin Diesel says a self-driving car company boss is the bad guy in 'Fast X' sequel"
-    excerpt: "Vin Diesel revealed that part of the plot to the \"Fast X\" sequel involves the owner of a company developing artificial intelligence and self-driving cars."
-    publishedDateTime: 2023-02-13T13:16:00Z
-    webUrl: "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel"
-    ampWebUrl: "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp"
+  - title: "‘It’s a long-term journey we’re on’: taking a ride towards self-driving cars"
+    excerpt: "Nissan’s ServCity project shows how far autonomous vehicles have come and difficulties they still face"
+    publishedDateTime: 2023-02-16T23:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/feb/17/taking-ride-self-driving-car-nissan-servcity-autonomous-vehicles"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/17/taking-ride-self-driving-car-nissan-servcity-autonomous-vehicles"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/17/taking-ride-self-driving-car-nissan-servcity-autonomous-vehicles"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 69
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/02/1200/675/diesel.jpg?ve=1&tl=1"
+      - url: "https://i.guim.co.uk/img/media/2f66e683f5edcb67e86a0d9143ac0bd2e22252f3/122_0_1798_1080/master/1798.jpg?width=620&quality=85&auto=format&fit=max&s=6057e11309d6a4e9aed66e40309b7b77"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Self-Driving Cars Are Doing More Harm Than Good"
+    excerpt: "Apple has long been known for marrying hardware and software to create tech products that bring delight to millions of people around the world, so when rumors started spreading nearly a decade ago that it,"
+    publishedDateTime: 2023-02-14T17:00:00Z
+    webUrl: "https://www.theinformation.com/articles/self-driving-cars-are-doing-more-harm-than-good"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 24
+    images:
+      - url: "https://tii.imgix.net/production/articles/9797/08395424-5f90-4b7a-a97d-8b82e8a6d190.jpg?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Amazon’s Self-Driving Car Shuttles People on Public Roads for First Time"
-    excerpt: "Zoox Inc., the self-driving startup owned by Amazon.com Inc., carried passengers in its fully autonomous vehicle on public roads for the first time."
-    publishedDateTime: 2023-02-13T18:08:00Z
-    webUrl: "https://www.ttnews.com/articles/amazons-self-driving-car-shuttles-people-public-roads-first-time"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 23
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-02/Amazon-Zoox-1200.jpg"
-        width: 470
-        height: 246
         isCached: true
 
 secured: "Ut0TEjhxD6DxpL63/seQMlywrU9inJA6q5A9fQvG1xoN7S60nDoGEwtu0HFAh1dmNxMFRIL0pmLJod1HdhYIgpNwFtAxHQARYuwS9ZWUmhW9KWbIT50RCLVqLmuwehrb72hZljkbSW7/JlUAiXiCpMeb8BJm1P97KkLJEQr/6RyGm4lzbjnvcokq3Bl6TUX2kKWamKiBLdQBuMFWT77wbYkuyjybv10AcaRvgIRjf/6tfxjDvOUx3892Fgf43hjQU12nUGjqEpJ/k2nR/XXTDOpAnD4qdgu8oWuU5s7AeIcqldAuZ9JUvwxRhQisPWMgxX4KSEd1398DLPBPEL4c5V580tvzPARMirW8vELUJoQ=;OPonucdif8M5NfonAvM+ZA=="

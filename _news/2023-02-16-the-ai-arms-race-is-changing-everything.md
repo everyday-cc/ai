@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Roblox shows its vision for UGC and generative AI"
+    excerpt: "Roblox showed off its vision for the combination of user-generated content and generative AI. Dan Sturman, CTO of Roblox, said in a blog post that the company sees an opportunity to use generative AI techniques to revolutionize creation on its platform."
+    publishedDateTime: 2023-02-18T02:00:00Z
+    webUrl: "https://venturebeat.com/games/roblox-shows-its-vision-for-ugc-and-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/games/roblox-shows-its-vision-for-ugc-and-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/roblox-shows-its-vision-for-ugc-and-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/roblox-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 734
+        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
     publishedDateTime: 2023-02-15T15:47:00Z

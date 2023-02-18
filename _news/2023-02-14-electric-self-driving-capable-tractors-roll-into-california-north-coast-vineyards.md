@@ -82,6 +82,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Amazon’s Self-Driving Car Shuttles People on Public Roads for First Time"
+    excerpt: "Zoox Inc., the self-driving startup owned by Amazon.com Inc., carried passengers in its fully autonomous vehicle on public roads for the first time."
+    publishedDateTime: 2023-02-13T18:08:00Z
+    webUrl: "https://www.ttnews.com/articles/amazons-self-driving-car-shuttles-people-public-roads-first-time"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 23
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-02/Amazon-Zoox-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
     excerpt: "Some dairy farmers and vineyard operators in Napa, Sonoma and other California counties are bringing in electric tractors capable of operating without drivers. Here are the pros and cons."
     publishedDateTime: 2023-02-14T17:06:00Z

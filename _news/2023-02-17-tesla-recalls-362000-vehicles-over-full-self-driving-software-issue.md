@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/"
 type: article
 quality: 89
-heat: 679
+heat: 669
 published: true
 
 provider:
@@ -458,20 +458,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/e2c6633/2147483647/strip/true/crop/3213x1979+153+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F16%2Fap23047650422186_wide-c6ace5c0eb42e2593c2eec3e1b8d351d51896223.jpg"
         width: 880
         height: 542
-        isCached: true
-  - title: "Musk rival airs Super Bowl ad calling for ban on Tesla 'self-driving' feature"
-    excerpt: "A California software mogul who has a long-running feud with Tesla Inc. and CEO Elon Musk over the automaker's self-described \"Full Self-Driving\" software took out a targeted ad during the Super Bowl on Sunday calling on regulators to shut down the driver ..."
-    publishedDateTime: 2023-02-13T14:53:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/elon-musk-critic-air-super-bowl-ad-questioning-tesla-fsd"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 51
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/2023superbowl-MAIN_i.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
     excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."

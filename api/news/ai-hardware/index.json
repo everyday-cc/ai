@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -107,6 +107,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-17-applied-materials-positive-on-q2-on-resilient-demand-for-automotive-ai-chips.md",
+      "title": "Applied Materials positive on Q2 on resilient demand for automotive, AI chips",
+      "excerpt": "The results from one of the biggest producers of chip-making equipment are welcome news for an industry ... such as smartphones and personal computers are weaker, demand from AI, automotive and industrial automation industries remains resilient, Applied ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/",
+      "originalUrl": "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=131",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-its-always-sunny-inside-a-generative-ai-conference.md",
       "title": "It’s Always Sunny Inside a Generative AI Conference",
       "excerpt": "AI-powered chatbots will only make us more efficient, according to the companies selling said AI-powered chatbots.",
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -923,40 +975,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-investing-in-chatgpts-ai-revolution-where-to-begin.md",
-      "title": "Investing in ChatGPT's AI Revolution: Where to Begin",
-      "excerpt": "These chips were in high demand last fall, as cloud-scale computing platforms expanded their AI processing services. \"We are all hands on deck to help the cloud service providers stand up the supercomputers,\" CEO Jensen Huang said in November's third ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/investing-in-chatgpts-ai-revolution:-where-to-begin",
-      "originalUrl": "https://www.nasdaq.com/articles/investing-in-chatgpts-ai-revolution:-where-to-begin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
