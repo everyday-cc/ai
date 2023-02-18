@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "US launches artificial intelligence military use initiative"
-    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
-    publishedDateTime: 2023-02-16T16:14:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden administration backs curbs on military artificial intelligence uses"
     excerpt: "The Biden administration on Thursday announced a proposed arms control agreement to limit the use of artificial intelligence and autonomy for the world’s military forces and weapons systems."
     publishedDateTime: 2023-02-16T23:13:00Z
@@ -52,7 +36,7 @@ related:
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/05/iran_persian_gulf_tensions_75265_c0-77-2500-1535_s1200x700.jpg?002b885fbb8b82d30101467d1fa9c19b37f293f2"
         width: 1200
@@ -92,15 +76,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 40
-  - title: "US Looking to Build Alliances for Responsible Military AI Use"
-    excerpt: "State Department and Pentagon officials hope to illuminate a contrast between the United States and China on AI"
-    publishedDateTime: 2023-02-16T14:00:00Z
-    webUrl: "https://www.defenseone.com/technology/2023/02/us-looking-build-alliances-responsible-military-ai-use/383024/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 19
 
 secured: "wErefSFo20JNoVw44+GdF5SE56Sskgt5DqIo1viubakhbWgiYfNnptBJ5kJk5Wczbs+69TC63w8tzFYdmN8aPl7kafidA6SfLz2pBeFOr7asDUGy8WQP39KQO2TQN5mu0qlAIqjAzIxj/rOtMvwNU9eh5fEyagOn5Yx9aZaFQ+qF/H3q0nWqJbTMyQgiyOUkUBiwlL1J70zsOdkM5J6IWNkZ3pjNVVGNbTMvxh8g77VNHfMZqid4YX2oYI2LWz2DlFzZceLf2437nSU4rPJ2W1x1GbejZkMe2niOwgH3ABumQEomM0zvP36WJ6wedFVuX9xJr/uWdal5jg9Kc1yS6iaLTzixjv68rp49twtmUOE=;K8jD5Q8VT8y6BpP+hGTy0Q=="
 ---

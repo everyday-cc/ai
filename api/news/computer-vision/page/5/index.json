@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-03-facial-recognition-tool-led-to-mistaken-arrest-lawyer-says.md",
+      "title": "Facial recognition tool led to mistaken arrest, lawyer says",
+      "excerpt": "An attorney says Louisiana authorities' use of facial recognition technology led to the mistaken-identity arrest of a Georgia man on a fugitive warrant",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-tool-led-mistaken-arrest-lawyer-96085923",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-tool-led-mistaken-arrest-lawyer-96085923",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-26-ai-in-computer-vision-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
       "title": "AI in Computer Vision Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
       "excerpt": "The AI in Computer Vision market Lead players (, QUALCOMM INCORPORATED, Cognex Corporation, General Electric Company, Intel Corporation, NVIDIA CORPORATION, BASLER AG, TELEDYNE TE",
@@ -1310,58 +1344,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-that-mysterious-object-on-a-florida-beach-its-a-shipwreck.md",
-      "title": "That Mysterious Object on a Florida Beach? It’s a Shipwreck.",
-      "excerpt": "Anyone can read what you share. By Christine Hauser and Jesus Jiménez After the discovery last month of a strange 80-foot-long, wood-and-metal object that had emerged from the sand at Daytona ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/09/us/mysterious-object-florida-beach-discovered.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/09/us/mysterious-object-florida-beach-discovered.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/09/multimedia/00xp-daytona-1-dbf7/00xp-daytona-1-dbf7-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/09/us/mysterious-object-florida-beach-discovered.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/09/us/mysterious-object-florida-beach-discovered.amp.html",
-      "publishedDateTime": "2022-12-09T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

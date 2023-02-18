@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-09-bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran.md",
+      "title": "Bret Taylor, Former Co-CEO of Salesforce, to Create AI Startup With Google Veteran",
+      "excerpt": "Bret Taylor, the former co-chief executive of Salesforce Inc., is launching an artificial-intelligence startup with a longtime veteran of Google, becoming the latest big name to dive into the race to try to cash in on AI. Mr. Taylor—who has backed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran-11675898772",
+      "originalUrl": "https://www.wsj.com/articles/bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran-11675898772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-720709/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T14:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-the-plateauing-of-cognitive-ability-among-top-earners.md",
+      "title": "The plateauing of cognitive ability among top earners",
+      "excerpt": "The researchers combine wage data from Swedish population registers with scores from cognitive ability tests taken from military conscripts at age 18-19. \"This data trove permits us to test ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
+      "originalUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/executive.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
+      "publishedDateTime": "2023-02-08T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
       "title": "Researchers review deep learning-based methods to detect time series data anomaly",
       "excerpt": "This is known as \"anomaly detection\" and is performed using data mining techniques. Although deep learning methods have been extensively applied in anomaly detection, there is no one-size-fits-all technique that works for multiple applications across a ...",
@@ -127,6 +221,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
+      "title": "Study reveals that much still not known about cognitive decline",
+      "excerpt": "Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change. PLOS ONE , 2023; 18 (2): e0281139 DOI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/02/230208155700.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/02/230208155700.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T13:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -379,49 +516,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
-      "title": "Study reveals that much still not known about cognitive decline",
-      "excerpt": "The risk factors linked to cognitive decline in older adults explain a surprisingly modest amount about the large variation in mental abilities between older people, according to a new national study.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/we-still-dont-know-whi.jpg",
-          "width": 1280,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1053,92 +1147,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-climbing-robot-performs-leading-edge-blade-repair-in-the-field.md",
-      "title": "Climbing robot performs leading-edge blade repair in the field",
-      "excerpt": "Leading-edge blade damage can compromise the aerodynamic performance of a wind turbine by up to 3%. Following five years of development, and drawing on the experience of a small team of mechanical, electronic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.windtech-international.com/product-news/climbing-robot-performs-leading-edge-blade-repair-in-the-field",
-      "originalUrl": "https://www.windtech-international.com/product-news/climbing-robot-performs-leading-edge-blade-repair-in-the-field",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windtech-international.com/images/stories/Features/2023Features/JanFeb23Images/roperobotics-fig-1.jpg",
-          "width": 450,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windtech International",
-        "domain": "windtech-international.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-intellect-design-arena-gains-on-collaborating-with-aws.md",
-      "title": "Intellect Design Arena gains on collaborating with AWS",
-      "excerpt": "AWS will accelerate Intellect's go-to-market strategy around co-build, co-market, and co-sell for IntellectAI, the insurance and wealth line of business, with Artificial Intelligence products designed for commercial underwriting, wealth and capital markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
-      "originalUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
-      "publishedDateTime": "2023-02-08T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
-excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn’t always follow speed limits."
-publishedDateTime: 2023-02-17T15:13:00Z
-originalUrl: "https://www.idahostatesman.com/news/business/article272526846.html"
-webUrl: "https://www.idahostatesman.com/news/business/article272526846.html"
-ampWebUrl: "https://amp.idahostatesman.com/news/business/article272526846.html"
-cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article272526846.html"
+excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
+publishedDateTime: 2023-02-17T11:28:00Z
+originalUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
+webUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
+ampWebUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/?amp=1"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Idaho Statesman
-  domain: idahostatesman.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
@@ -773,6 +773,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "RoiT//y8RGNEIdLw5iazPFUV+PNvfBZM3a9K6imXKfkVfpiG6ALCVsreCvfSUeyq/FktIPEF/Y9y0acl28rydanWbLQ0dFPUF12ll6UCnZDMFqEL+Q/rhGSFncLkDN/KCuVYu/jZ/aQy0e3XG2daR9LG1SCgek/bEQa+bs6mhBWPu0AVs3V9NQHIYocAh0fdOR8WuPDSr8BceVeTQs+a1s2R6yo3qK7YXgPJLHNOwfnbzWBdYGK3eYqLp5mChkoxugw+3+8YmXV1flA0yu4p3dIlWCAPeeiAOLlT9Ac5q0u2V+hR9Uep/dUqOIzAtTWVMk8xwYqIjfEmhqnw09SCuXywnd+gXA55hVyUVeFKL81ayBy88KLGSwCI/loxUlpOgvFwSQ6iz44layO+vOCTf7lmp+KzNCvvWbg6xe/I2nAMo7PNm8E/sMjWJu6uue5dEIxTc+Ev/2DTnOtz7D4O9IZuugJ3Mf2qu5IPe3szRoQAMn7U9l0sXycQ1k1Nr00Pl8ZaEEhimrhTlkX08w7gJg==;hFCLKEW5KK5sPEEtmIDgMg=="
+secured: "gxiVxCjKH66C52SnNw5XHr5XNUHFCEmMrh8dfUbd6S+nQ4qX0BALA1LY2cQJeTPiMKq0AXW3tFe/EmZRJGlmvDlEDsq2aWzjRF1bhtEjND+8ITvLUjY1fZIWGKnspwlg7GluUISEsf3cVG9bTexc1RhvJPgQgwnsH1exSry3D4MGIcPUsl8BWRSNUDfNNDjUD3UDvGh1W5GqTCHxtQRgHq/YSKQHLfS2krwBzX2+0e3ow8gqlsQnoEBt8xvlc55E9e6vRFpVpBbiLE7EXFkaZMqzxpcfMuQB9WHsPlIXPiTwXZQ8Ii7koT0MVSSQrqQNegruTNbJTNhQO83ojvT3HzcFPmqy4ZqOH1mb0nMw2PwiLYgFo6UZAjZIRYw8JzHenpjs5aYxAthj4BoZxCHYCK2wZGDhTNnzbzrdsfApvLAUkKeKb5G+w13PnieoKsnuyxPR2IfUu2y5frc9Iy3RKI64Fh+GiJTbCrOIRISeM3F8OVcP+bBFo2gkBMOTM3xkhpZ9dQrrMSbvPLv861AGwQ==;YiX2I2ZYQAurtUQEsAc+AQ=="
 ---
 

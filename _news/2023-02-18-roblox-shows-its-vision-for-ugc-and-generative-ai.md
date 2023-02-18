@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI Arms Race Is Changing Everything"
-    excerpt: "Now we have company. While you’re reading this sentence, artificial intelligence (AI) programs are painting cosmic portraits, responding to emails, preparing tax returns, and recording metal songs. They’re writing pitch decks, debugging code ..."
-    publishedDateTime: 2023-02-16T12:00:00Z
-    webUrl: "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
     publishedDateTime: 2023-02-15T15:47:00Z

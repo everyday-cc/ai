@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AMD is losing the AI battle, and it’s time it started to worry"
+    excerpt: "However, even AMD’s best card was miles behind Nvidia in these benchmarks, showing that Nvidia is simply faster and better at tackling AI-related tasks. Nvidia cards are the go-to for professionals in need of a GPU for AI or machine learning workloads."
+    publishedDateTime: 2023-02-18T14:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/12/amd-rx-7900-xtx-review-07.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI’s threat to Google is more about advertising income than being the number one search engine"
     excerpt: "Google’s dominance as the most visited website has been undisputed since it rose to prominence as the leading search engine in the early 2000s. However, that position could now be facing its biggest ever threat,"
     publishedDateTime: 2023-02-17T16:26:00Z

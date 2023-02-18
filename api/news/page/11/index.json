@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-02-08-climbing-robot-performs-leading-edge-blade-repair-in-the-field.md",
+      "title": "Climbing robot performs leading-edge blade repair in the field",
+      "excerpt": "Leading-edge blade damage can compromise the aerodynamic performance of a wind turbine by up to 3%. Following five years of development, and drawing on the experience of a small team of mechanical, electronic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.windtech-international.com/product-news/climbing-robot-performs-leading-edge-blade-repair-in-the-field",
+      "originalUrl": "https://www.windtech-international.com/product-news/climbing-robot-performs-leading-edge-blade-repair-in-the-field",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windtech-international.com/images/stories/Features/2023Features/JanFeb23Images/roperobotics-fig-1.jpg",
+          "width": 450,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windtech International",
+        "domain": "windtech-international.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-intellect-design-arena-gains-on-collaborating-with-aws.md",
+      "title": "Intellect Design Arena gains on collaborating with AWS",
+      "excerpt": "AWS will accelerate Intellect's go-to-market strategy around co-build, co-market, and co-sell for IntellectAI, the insurance and wealth line of business, with Artificial Intelligence products designed for commercial underwriting, wealth and capital markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "originalUrl": "https://www.business-standard.com/article/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/intellect-design-arena-gains-on-collaborating-with-aws-123020801323_1.html",
+      "publishedDateTime": "2023-02-08T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-appsquadz-takes-the-stage-as-a-proud-sponsor-at-the-aws-empower-india-summit-in-hyderabad.md",
       "title": "Appsquadz Takes The Stage As A Proud Sponsor At The AWS Empower India Summit In Hyderabad",
       "excerpt": "AppSquadz is a leading technology solutions provider that offers a range of services, including cloud computing and web & mobile app development",
@@ -996,110 +1082,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-artificial-intelligence-opens-the-door-to-more-effective-antibodies-potential-applications-for-covid-19.md",
-      "title": "Artificial Intelligence Opens The Door To More Effective Antibodies - Potential Applications For Covid-19",
-      "excerpt": "Advances in artificial intelligence antibody modeling may pave the way to reduce time spent during the identification process. Rather than sorting through millions of B-cell receptor sequences ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e27f0c676fbc18e84c9761/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/amp/",
-      "publishedDateTime": "2023-02-07T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.md",
-      "title": "First on CNBC: CNBC Transcript: Microsoft CEO Satya Nadella Speaks with CNBC’s Jon Fortt on “Power Lunch” Today",
-      "excerpt": "Microsoft is a global company ... We wouldn't even have all of the Azure Cognitive Services if it was not for what was applied AI. So I would say of course, I want more pace. And what you're seeing I guess this year in particular, is what we've been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
-      "publishedDateTime": "2023-02-07T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

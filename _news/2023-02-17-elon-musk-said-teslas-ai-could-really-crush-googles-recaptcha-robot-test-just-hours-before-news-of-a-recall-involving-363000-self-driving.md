@@ -529,15 +529,15 @@ related:
         height: 960
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
-    excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn’t always follow speed limits."
-    publishedDateTime: 2023-02-17T15:13:00Z
-    webUrl: "https://www.idahostatesman.com/news/business/article272526846.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/business/article272526846.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article272526846.html"
+    excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
+    publishedDateTime: 2023-02-17T11:28:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/?amp=1"
     type: article
     provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."

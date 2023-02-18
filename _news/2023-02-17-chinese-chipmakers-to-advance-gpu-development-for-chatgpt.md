@@ -39,34 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meet the Nvidia GPU that makes ChatGPT come alive"
-    excerpt: "Nvidia is the biggest winner when it comes to hardware; its share price has almost doubled since mid-October 2022 as chatter around OpenAI and ChatGPT picked up; this fueled a massive growth in demand to access ChatGPT and in the specialized hardware that makes the technology tick and that doesn’t come cheap."
-    publishedDateTime: 2023-02-17T18:07:00Z
-    webUrl: "https://www.techradar.com/best/heres-the-dollar13k-nvidia-gpu-that-makes-chatgpt-come-alive"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gnSFwwzzF5RHZSAvkwVNDc-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT might bring about another GPU shortage - sooner than you might expect"
-    excerpt: "We won’t know just how far the demand could crawl and the number of GPUs that’ll be needed to train the AI models. As mentioned above, we already had to deal with a massive GPU shortage not ..."
-    publishedDateTime: 2023-02-14T02:18:00Z
-    webUrl: "https://www.techradar.com/news/chatgpt-might-bring-about-another-gpu-shortage-sooner-than-you-might-expect"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 66
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/X5WWcZocrGofWm5TT7bWq8-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "44PnV1DomIU9bmTiogysW9zxlVqKU8DQ9JiVVwM0QYfEW0qxM6oDKgPDvbchUEW+JeLU7+kL39nnOukxmAzezbECat8hsa90SBTuassbATwZOpC9U/+Xrda7RbfP+yRJp5GGCr+ClRbb3ZIZghkqG6FirB4bsmRvUiZHY9ILlUfjWaQBwvadxxai1vlqmFXWkkhdz0z84J4KWw/TIlfiYkIxnMYj4m4A3Mi4Krh11faEAiQyb6HPEXfMD3kF2+se1DakXMAiowiC+wkejWeBrkqedR30uI/7r39lPOEUfrxrdc8bqyzm6ubWRd0Mzb4eR/vB+iYk51//M1lBQL9MVF7ljwIxZtcux8IkMp7kjMXD0udDMgpQwu/LJGXQ4XYUkTErw2m4wb6W6Sq1TdRrVs2DE6v8XEEPGsXHfg7rhw9RzhMcC1o9peRrGMoPhu9WJBzJTyriVOZ5HRdwRfW3d6cxFJ4h/mwX9fShavWFTDUec/zWkqtlNnCzQlGj/uqmjmxx/xjiYdN14ftaWD+TTA==;iUj3ImjlMQ5Wrh/dIErEYA=="
 ---

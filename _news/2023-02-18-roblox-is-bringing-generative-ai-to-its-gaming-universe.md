@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/roblox-generative-ai-gaming-universe/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roblox-generative-ai-gaming-universe/amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/02/roblox-2.jpg?w=1200&strip=all"
         width: 1200
         height: 734
-        isCached: true
-  - title: "The AI Arms Race Is Changing Everything"
-    excerpt: "Now we have company. While you’re reading this sentence, artificial intelligence (AI) programs are painting cosmic portraits, responding to emails, preparing tax returns, and recording metal songs. They’re writing pitch decks, debugging code ..."
-    publishedDateTime: 2023-02-16T12:00:00Z
-    webUrl: "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."

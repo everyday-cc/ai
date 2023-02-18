@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/ais-threat-to-google-is-more-about-a
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ais-threat-to-google-is-more-about-advertising-income-than-being-the-number-one-search-engine-200094"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AMD is losing the AI battle, and it’s time it started to worry"
+    excerpt: "However, even AMD’s best card was miles behind Nvidia in these benchmarks, showing that Nvidia is simply faster and better at tackling AI-related tasks. Nvidia cards are the go-to for professionals in need of a GPU for AI or machine learning workloads."
+    publishedDateTime: 2023-02-18T14:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/12/amd-rx-7900-xtx-review-07.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI is no threat to traditional artists. But it is thrilling."
     excerpt: "Relax, everyone. It already is. Artists have been doing amazing things with artificial intelligence (AI) and its various predecessors for decades. The work is only getting better, more interesting, more exciting. Get the full experience.Choose your plan Of ..."
     publishedDateTime: 2023-02-15T17:30:00Z

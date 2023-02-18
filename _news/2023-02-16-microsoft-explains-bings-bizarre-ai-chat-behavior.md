@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-cha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
 type: article
 quality: 104
-heat: 476
+heat: 477
 published: true
 
 provider:

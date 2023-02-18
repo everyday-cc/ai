@@ -1,22 +1,28 @@
 ---
 category: news
 title: "DeepBrain AI Joins the AWS Partner Network"
-excerpt: "DeepBrain AI plans to actively expand its footprint to global market by working with a leading cloud services provider. PALO ALTO, Calif., /PRNewswire/ -- DeepBrain AI, a deep-learning based video synthesis startup company,"
-publishedDateTime: 2023-02-17T17:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-deepbra-ai-joins-aws-partner-network-/2023/02/17/9762609.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-deepbra-ai-joins-aws-partner-network-/2023/02/17/9762609.htm"
+excerpt: "DeepBrain AI completed the AWS Foundational Technical Review (FTR), which allows Amazon Web Services (AWS) Partner Network (APN) members to identify and remediate risks in their solutions based on the"
+publishedDateTime: 2023-02-18T02:00:00Z
+originalUrl: "https://www.asiaone.com/business/deepbrain-ai-joins-aws-partner-network"
+webUrl: "https://www.asiaone.com/business/deepbrain-ai-joins-aws-partner-network"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2023/AWS.jpg?h=bc79a01d&itok=juj6jGEg"
+    width: 600
+    height: 316
+    isCached: true
 
 related:
   - title: "Sway AI Joins The AWS Partner Network To Make Artificial Intelligence Accessible For All"
@@ -43,6 +49,6 @@ related:
       domain: datanami.com
     quality: 34
 
-secured: "cPIUz3LpEQtisfI1HFEDI5POfx22j4y7i860Q2XCaU59wZUePCmhZ9jimzC6xr/mDyxd9Zq8Yjheh1VcRFmwxNiLYyaWwZqrq0EJY+ksyGm6NpwktAXg48cHiKszv0qCX4BfGMdxdyDZM1vOLHaiBZH3jcpSmfQtw5mM9RD3pviqAqNHueMANNODqcZOjMd7qGjLoQ6YrvZlS+w9XntxmjOpbnvhbIlBbIAMXMcSRzCvaq4fogPb7lhf9CtL72W82MawJyXu7dqz0VYXNCo9vmySMM/Wg9teGAWySefi/pRhCaLO3inXOrOS/LKLQssbrramxIX2VhnHJeqdABdBL0AMoDhirgR2aSghr629tAVIJa6tZFtQ/KR0UfdGvamwKh68k2ZmDP0b4DJPqMu8UINoCz6pMil6Ggk4Yqb93ZPQ37GqrGVGBi0JlNVcYA5BvKszoBQEGF622nVMQbpfbYjFnjaauusTfz5jNr2iTn6oqg2mbR7ef0sC9CDFbh4dr1u9vdRDuYr5fgRX0L2a7g==;754xNdvu0+vxtJfoEFNpXQ=="
+secured: "8TTkJ6Vc062rjJnjdFEshaVnAURvzIKtdiBXrxoJfr2Lhu5TyQn6LWlafFgRW0zJVwDFsWHSoY2dRcepsRkh594LkzJtzxb9/GdwoitRauG1oKjzLFEvpZsA3M3GuoOVYK6BFngHg2CC6MxBvlb6ftxxX2w4VTcbO9NJxNB53rrhAQNzaDVs6rFLmVpxhIsTYnWGh992Zv3AkuZf11EWxlYepII7Rt2FW9SGZIAibK2Awz0cQXGtHyKE8age1AuUAuPhxI4uPSoSwL03x1KYKxoAOt8lYHP866JpXhyjJDOl23ny69+DZHy2vdVh1iDUGii8cMrn75jizyoSHW5hsUpZcEuLx5bQxXoX5YRmyVk=;PTgErJ3BISLRKa1yzLd3aQ=="
 ---
 

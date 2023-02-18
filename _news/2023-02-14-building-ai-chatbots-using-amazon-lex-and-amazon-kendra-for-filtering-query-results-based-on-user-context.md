@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT AI robots writing church sermons causing hell for pastors"
-    excerpt: "‘I can’t do everything I’m supposed to do,’ and start passing ideas off as their own.” Hershael York, the Kentucky pastor and professor, said some of the greatest sermons contain elements of anguish. “Artificial intelligence can imitate that to ..."
-    publishedDateTime: 2023-02-17T21:55:00Z
-    webUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/"
-    ampWebUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/ai-preaching.gif?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "New expanded data format support in Amazon Kendra"
     excerpt: "Enterprises across the globe are looking to utilize multiple data sources to implement a unified search experience for their employees and end customers. Considering the large volume of data that needs to be examined and indexed, the retrieval speed, solution scalability, and search performance become"
     publishedDateTime: 2023-02-16T16:43:23Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Commentary: Why using AI tools like ChatGPT in my MBA innovation course is expected and not cheating"
-    excerpt: "I teach managing technological innovation in Simon Fraser University's Management of Technology MBA program. Thanks to the explosion of generative artificial intelligence, I'm rewriting my 2023 syllabus and assignments."
-    publishedDateTime: 2023-02-15T17:34:00Z
-    webUrl: "https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.html"
-    ampWebUrl: "https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/why-using-ai-tools-lik.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "/RePuk0xr0MD5JRhsOzVGFHbBaG5UXsp4qDDU/0biAW7ab7uzJqMQz4r5SMk6bogqW4LLXt7hhEAkJ+VwAHaeOe99hXHKOGMYZakXRB/UeSWhaTZU+jOFcsFOcKrLQee+tIWC4A1sILJ5jCNDBfj07DZnXI1HIpsmIAPqXTk4WD4DK/soeF+TyPNUvsGHN2wYeojQpCHAyYv7ZcMYmfhy0yJNzU68mQblMzCgURYoCVJI1FO3z2XapO+AwXBbeA/cU5FCYNVwPUbixzhi3C3HdJbmf/c1gYu4jheE8wpNDALr1n/SDz5MLm3q9E2ZfvVlDYjQw+hRRtkS0fINnbszKe4Z4PimsUaWl3VkH1cABX6I3p0Vcaf92A2CsNPLq8K1hTJ64yMV31KlbI+euI5asmWWblsqL+wVh2YjC83hy5lNZEK9bq8dHLmKmOrPN3eZmI0kYxbv6H833lCHDw0VwiNWspwbFt0mwZZW5NWGgW966XrTNNjJn+1Uku9RYNZGkl0sDy1xudZ2wg4yzBujg==;uSsPOcRQqKegxwIpCvjcRQ=="
 ---

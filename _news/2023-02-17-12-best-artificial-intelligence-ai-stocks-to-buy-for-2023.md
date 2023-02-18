@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artifici
 webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
 type: article
 quality: 92
-heat: 162
+heat: 163
 published: true
 
 provider:

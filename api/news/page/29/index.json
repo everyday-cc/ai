@@ -2,6 +2,92 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-02-01-is-artificial-intelligence-faster-than-brain-learning-study-finds.md",
+      "title": "Is artificial intelligence faster than brain learning? Study finds",
+      "excerpt": "Artificial intelligence has traditionally been derived from human brain dynamics. However, as compared to deep learning, brain learning has several important limitations (DL). First, efficient DL ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058.html",
+      "originalUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058-amp.html",
+      "publishedDateTime": "2023-01-31T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-tesla-faces-justice-department-probe-over-self-driving-tech.md",
+      "title": "Tesla Faces Justice Department Probe Over Self-Driving Tech",
+      "excerpt": "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/5b05f17d495a4f8a8d52e7118734048460c09c39/hub/2022/09/30/fb452108-55bb-4ac9-a2e2-4ea9f76d929e/20220929-tesla-fsd-beta-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
+      "publishedDateTime": "2023-01-31T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-startup-shocked-when-4chan-immediately-abuses-its-voice-cloning-ai.md",
       "title": "Startup Shocked When 4Chan Immediately Abuses Its Voice-Cloning AI",
       "excerpt": "On January 23, ElevenLabs — an AI startup founded by former Google and Palantir employees — announced two things: a $2 million funding round, and the release of a beta for a AI voice generator ...",
@@ -1036,94 +1122,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-waymos-huge-self-driving-car-dataset-could-help-researchers-toward-level-5.md",
-      "title": "Waymo's Huge Self-Driving Car Dataset Could Help Researchers Toward Level 5",
-      "excerpt": "Data is king in autonomous driving, as it can help teach an artificial intelligence about how to react in new situations based on past experience. Although Waymo’s new dataset covers a thin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5",
-      "originalUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/inverse/9d/18/98/bb/6102/4d67/bc27/2cf0f5917319/waymominivan7-2jpg.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5/amp",
-      "cdnAmpWebUrl": "https://www-inverse-com.cdn.ampproject.org/c/s/www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5/amp",
-      "publishedDateTime": "2023-01-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inverse",
-        "domain": "inverse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-ai-world-likely-to-hit-key-warming-threshold-in-1012-years.md",
-      "title": "AI: World Likely To Hit Key Warming Threshold in 10–12 Years",
-      "excerpt": "Two climate scientists using machine learning calculated that Earth will surpass the 1.5 degree (2.7 degrees Fahrenheit) mark between 2033 and 2035.",
-      "sourceUrl": null,
-      "webUrl": "https://nowthisnews.com/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years",
-      "originalUrl": "https://nowthisnews.com/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.thrillist.com/v1/image/3135257/828x610/flatten;crop;webp=auto;jpeg_quality=60.jpg",
-          "width": 828,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nowthisnews.com/amphtml/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years",
-      "cdnAmpWebUrl": "https://nowthisnews-com.cdn.ampproject.org/c/s/nowthisnews.com/amphtml/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years",
-      "publishedDateTime": "2023-01-30T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NowThis News",
-        "domain": "nowthisnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

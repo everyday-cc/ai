@@ -2,6 +2,74 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-02-06-bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers.md",
+      "title": "BOTS, Inc. is Offering Game-Changing ChatGPT and OpenAI-Powered Services for B2B Customers",
+      "excerpt": "SAN JUAN, Puerto Rico , Feb. 06, 2023 (GLOBE NEWSWIRE) -- via NewMediaWire – BOTS, Inc. (OTC:BTZI) (\"The Company\"), a leading provider of advanced technology solutions announced today new B2B services",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30724789/bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30724789/bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30724789",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30724789",
+      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-hey-chatgpt-what-can-a-i-do-for-radio.md",
+      "title": "Hey ChatGPT! What Can A-I Do for Radio?",
+      "excerpt": "Are you paying attention to AI? Best get moving. Artificial intelligence has been the focus of a number of Radio World articles in the past couple of years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.radioworld.com/tech-and-gear/hey-chatgpt-what-can-you-do-for-radio",
+      "originalUrl": "https://www.radioworld.com/tech-and-gear/hey-chatgpt-what-can-you-do-for-radio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Radio World",
+        "domain": "radioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy.md",
       "title": "How facial authentication promises the automated future techies seek without compromising user privacy",
       "excerpt": "Facial recognition technology can compromise PII, but facial authentication promise to deliver the security society seeks without compromising privacy.",
@@ -846,75 +914,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches.md",
-      "title": "Goa using artificial intelligence-powered robots, technology to save lives on its beaches",
-      "excerpt": "Hyderabad: In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/",
-      "originalUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/amp/",
-      "publishedDateTime": "2023-02-05T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-chatgpt-writing-on-the-wall-for-copywriters.md",
-      "title": "ChatGPT: Writing on the wall for copywriters?",
-      "excerpt": "Today we begin a new series decoding the trends that are shaping the adtech space. In the first edition of TechTalks, we explore if A&M copywriters need to worry about the much talked-about ChatGPT",
-      "sourceUrl": null,
-      "webUrl": "https://www.pitchonnet.com/marketing-moments/chatgpt-writing-on-the-wall-for-copywriters-32608.html",
-      "originalUrl": "https://www.pitchonnet.com/marketing-moments/chatgpt-writing-on-the-wall-for-copywriters-32608.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pitch on Net",
-        "domain": "pitchonnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

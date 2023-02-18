@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-16-github-copilot-expands-market-for-ai-code-generation-with-new-business-plan.md",
+      "title": "GitHub Copilot expands market for AI code generation with new business plan",
+      "excerpt": "A new enterprise plan for GitHub AI-powered Copilot will provide better coding suggestions, code context and code security.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/",
+      "originalUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/amp/",
+      "publishedDateTime": "2023-02-16T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today.md",
+      "title": "Artificial intelligence, robots and blockchain deliver next-generation healthcare, today",
+      "excerpt": "Artificial intelligence, for example, is doing the “dirty work” of drug discovery by running simulations of drug efficacy instead of timely trial-and-error testing. Blockchain secures healthcare records and connects patients with new clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
+      "originalUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjJlMjMwZDE4YTZhZmQ1N2E4MjEyM2NkMWMwNjU4Ni5qcGc=.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
+      "publishedDateTime": "2023-02-16T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-microsoft-explains-bings-bizarre-ai-chat-behavior.md",
       "title": "Microsoft explains Bing's bizarre AI chat behavior",
       "excerpt": "Microsoft launched its Bing AI chat product for the Edge browser last week, and it's been in the news ever since — but not always for the right reasons. Our initial impressions were strong, as it offered up workout routines, travel itineraries and more ...",
@@ -10,7 +106,7 @@
       "originalUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 476,
+      "heat": 477,
       "tags": null,
       "images": [
         {
@@ -58,8 +154,8 @@
       "title": "GE HealthCare Makes Push Into Artificial Intelligence",
       "excerpt": "The company is developing a software platform that helps hospitals guide care.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4",
-      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4",
+      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509",
+      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -101,8 +197,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -605,6 +701,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-16-image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost.md",
+      "title": "Image Recognition in Retail Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost",
+      "excerpt": "Facial Recognition, Object Recognition, Others]that held the largest Image Recognition in Retail market share In 2022. Short Description About Image Recognition in Retail Market: The Global Image Recognition in Retail market is anticipated to rise at a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T17:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-nvidia-and-intel-team-up-on-chips-for-metaverse-workstations.md",
       "title": "Nvidia and Intel team up on chips for metaverse workstations",
       "excerpt": "Intel’s latest Xeon chips have anywhere from 24 to 56 cores. Metaverse applications and the rise of generative AI require a new level of computing power from the underlying hardware. “These are purpose-built for things like Nvidia Omniverse and Nvidia ...",
@@ -1097,162 +1245,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-chatgpts-popularity-may-lead-to-another-gpu-shortage.md",
-      "title": "ChatGPT’s Popularity May Lead to Another GPU Shortage",
-      "excerpt": "This high demand for GPUs to train AI models could lead to a shortage of graphics cards. Th last one caused by high demand from crypto-mining. The GPU shortage will probably only affect Nvidia card sales since they have the most advanced AI cores on the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/",
-      "originalUrl": "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/02/chatgpt-popularity-may-lead-to-another-gpu-shortage.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-waking-up-to-the-art-of-the-possible-in-artificial-intelligence.md",
-      "title": "Waking Up To The “Art Of The Possible” In Artificial Intelligence",
-      "excerpt": "The excitement about Chat GPT is “waking up” a non-technical business leaders to the vast potential of AI and Machine Learning (ML) to fuel new revenue and profit growth. This article profiles 20 financially viable use cases for AI in sales and marketing applications - and 6 keys to deploying them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ece0df87d17dd26b2ed0f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1163,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-15T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law.md",
-      "title": "Outthinking Generative AI ChatGPT To Straighten Out Those Vexing AI Hallucinations, Advises AI Ethics And AI Law",
-      "excerpt": "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ec652cea9d35758ecaa5d9/0x0.jpg?format=jpg&crop=1067,712,x2,y94,safe&width=1200",
-          "width": 1067,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-02-15T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
