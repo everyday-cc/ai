@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/chau-ai-index.jpg?quality=75&strip=all&w=1024"

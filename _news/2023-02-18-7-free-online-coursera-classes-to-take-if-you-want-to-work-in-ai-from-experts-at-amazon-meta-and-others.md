@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg"

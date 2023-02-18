@@ -5,8 +5,6 @@ excerpt: "In the longer term, the Group committed to leverage machine learning a
 publishedDateTime: 2023-02-03T02:11:00Z
 originalUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
 webUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
 type: article
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - Machine Learning
   - AI in Security
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "0b3FxLbZjSncSPrFF8fpbDWMdQt9+1N9Q6W67JjwyZzMi+tMXwPN2zhfrOuX3P8Nk+Jyd/tQ/9Sz7YiqBEjlm3zYQndglIafFCizlkpfUgNcyssdBXma0fSiue4JRc6K0LTZvY90CPa2obzcQlk5LrBkq+V2ured/qHgwT+zVJoUtePp3zyPnO+VbBLTU9t65JHKajktvvEllrvZOWyNzUUhXD1oaZdY1v1akSLnglu9VyrlkV8u+9nc03sUsF1TEuLuVl0Xt5QkInKhMcM/iaUTKas2ZoBEucS/7iR8X6QVWfDkgtOPIq2an0Ub2feoFvh91iQKmQQ64Kwi2dCMvjKaXW43NfRjpDqehpK+UEE=;rBmFLc3tuB5D9iDk5CJ/Kw=="
+secured: "upO7mhLAjfvQ3lG9mSs95mSutS8PwLqyDqPRpDSerZwMzlLljQpHedFCdByYC7C/1nXZ5ZdudNr1UHg+O9hfPxnW8HGbdQ1xKuVG3IxEBqMiu7phv0tq70UiavmI7yKOf1dNJG+L8kt5rEM+LXw7l05zySwbwONff3aDF8ADR3XKghrpOjAizRuuqNgLWJW8H3WQRcB+0flUxpLgXf1kIt3gMf0ON3Bmbd32Qs6BsBJnIUtLUGqqepMiXLAa7UBspOozaR8MF8b8DGy8H+Eg0/EwEUtxqpT5fwPpioGyfod693SV36Hl63VwzhnJz9Kyh7jEqj+vtDNz8NsLONG6bGP+j3F7XEuc6HOrJFJyn9A=;1Tz9jv3JbFmJ7IC3sEcWCg=="
 ---
 

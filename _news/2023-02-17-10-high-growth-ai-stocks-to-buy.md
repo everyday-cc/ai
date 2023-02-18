@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/12/06063837/caspar-camille-rubin-0qvBNep1Y04-unsplash.jpg"
@@ -124,6 +125,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cHJEnIgmcLJtosu/NAz2PHXiCrVUYjTPQpYDC7NtorKAY3q7y1Jn1ikdg+2iLPzSpQqAzM4T+nmFILNnpln0/+2RkuW4hyGuPpB0x3mZkjBErTROfbzcV3hzj0lNQJFa/kAK4+8+Darvu6XpLN/a6OXkv6vvhw665Ib+xa8KMqsgJZPmWzWDB98qQTJd8YzCfMgmXAe/roGC+YJqiKhsGISXuFDF4tVomI8l3nL1AWvdRb5C1pdCTDe/jT3VzMQE0Yfz6CGB9bZ2HH3oRfIJamXD4pcNCXqGCSrnMAyeavy1567hDbwBaJL1zd7n2SCB9aenB0i/TEANtnjIeBaSf1CgoVloYbo8wUhH57vCM5Q=;NH2s2FbCeC+Gx09FcALHjg=="
+secured: "5HYhnv+PcS72NLN9oaJs9c6x8ACIBqjYUUuhDnfPgQ0X8v19Nh0RUk1iuFqPC07Cjw+VAKZW38AJw1+bU7akpkQloaWQpc7VIvnGAstBMpxoN8peSaABzzooNwLDgQYFPfGCHPjZyN3xIB8Numis9XOGHb7F6fZ19g7bIKxpwl6eHazdHyktuxh8EEdsQqjHrxbrDz5R4cEve6CQ/xevAQM7qa7ycnSfFuuFpPFZnn8F3HaiwJSsuCWSoDtqgjzAWw1SQnMiVTvrimfsg2V0AuAwSUDgAyvAuHBtiaFpfDbYkEf5gpACmoN91NVVjBeH7F/k/KrfBVDLz1Cr7uByQemJrgl+0BQomHpdiMOdMHX5xqXjndA5a/bKWmTxfPyfHrYN1ie/8AIdO+XHPcA2FFSFaVk70YONJ+pqvQZlshu67UBVW8KE7TWDWrSrvCuGi6iR0xhg1gF7gJmgscS4S+ueOb+R9P9EzKgvldF5neMaCKpBZAe0tALQVlikTmWbDYHHDCjhDx/KwlPAnUZaJA==;b1MAfiP+uyUaYMW/w+wXlw=="
 ---
 

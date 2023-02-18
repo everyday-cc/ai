@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mediadc.brightspotcdn.com/dims4/default/2e8c4ab/2147483647/strip/true/crop/2286x1200+0+61/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fbe%2Fba%2Fd095e5f645f79663d1fc2b315f92%2Fstanislav-petrov.jpeg"
