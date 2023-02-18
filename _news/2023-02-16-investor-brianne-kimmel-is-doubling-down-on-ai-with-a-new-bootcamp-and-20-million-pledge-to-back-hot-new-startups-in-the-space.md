@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-15T20:14:00Z
 originalUrl: "https://www.businessinsider.com/vc-investor-brianne-kimmel-launches-ai-startup-bootcamp-investment-funding-2023-2"
 webUrl: "https://www.businessinsider.com/vc-investor-brianne-kimmel-launches-ai-startup-bootcamp-investment-funding-2023-2"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Business Insider

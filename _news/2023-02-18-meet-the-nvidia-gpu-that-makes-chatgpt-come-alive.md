@@ -326,6 +326,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Qualcomm is trying to humanize tech in the era of ChatGPT and artificial intelligence"
+    excerpt: "For the last five or so years, Qualcomm has bet big on bringing more artificial intelligence to smartphones, laptops, vehicles, smart infrastructure and other devices in the field — or what the San Diego company calls the “connected intelligent edge.”"
+    publishedDateTime: 2023-02-17T19:00:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2023-02-17/humanizing-tech-in-the-age-of-chatgpt-artificial-intelligence-and-digital-transformation"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 28
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/172c96e/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa1%2F3d%2F4e423efd40ab87efcefc97f25486%2F1246152-sd-fi-qualcom-mcguire-02.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
     excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
     publishedDateTime: 2023-02-16T13:42:00Z

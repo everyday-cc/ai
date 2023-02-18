@@ -77,6 +77,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries. The move seeks to impose order"
+    publishedDateTime: 2023-02-16T16:00:00Z
+    webUrl: "https://tulsaworld.com/lifestyles/technology/us-launches-artificial-intelligence-military-use-initiative/article_ee6b83f6-a978-540e-8c15-7955ca93325b.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 19
 
 secured: "z4GtuC/EHbx5roDXsdLP+wx7wqdlhHA7/kqWZiuwgEEnsNjoEKxLX8LD6YNDWLq+/UmZA7HPAgrIeJDniAQDw07BCzBYGJFksFSZuIG8R/m9LnO1xc8dow4XodMFYYqK5r8P6reNs9dsJEIVvT/HlSRLUInKsbrUQnAQFlOktpX+xutWc6JblD9dXYg092T7666A4bGXMEk1Xlv0UbDkdT1O5ejRzCQCmPS78ou/BfyvxSgKm2CiVesJ5V7V960BpUzAr95XxOhRvO4yeHg9VkKc99cpPTdsdn0iw7j47hpIzGO86L7JO9o3C9Wp0GnRmJ45LpZXxwJl3ojsRe4+SStESNH6qQJllYRm4jNm224paEoL9mC5F6IWw57VJh+xPIQ9k75Gbar2674t/mQyzVcPKhf3NVGN/XqDPJIpvhTvbzcbbRX57oPb2QTpcI8HwHuGlK1kYYjI1OWDt/Zgto3KVJglZ8ZB6d2+dRHdI+IdeSPqZEM/0gsic5hKl61OM/o6N4UtLAMWkpdFJ3TLNg==;PplP0S2HUOABAIeYLwPu6A=="
 ---

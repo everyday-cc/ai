@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In-Car Speech Recognition Market Size and Share 2023-2028 with Emerging Treads and New Updates| Says Absolute Reports"
-    excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"In-Car Speech Recognition"
-    publishedDateTime: 2023-02-14T06:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/in-car-speech-recognition-market-size-and-share-2023-2028-with-emerging-treads-and-new-updates-says-absolute-reports-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Construction Market Size, Share, Report Analysis & Forecast [2023-2028] with Top Countries Data"
     excerpt: "Feb 14, 2023 (The Expresswire) -- Precision Reports has published a detailed report on “Artificial Intelligence in Construction Market\" 2023 which has been categorized by Market size ..."
     publishedDateTime: 2023-02-14T13:08:00Z

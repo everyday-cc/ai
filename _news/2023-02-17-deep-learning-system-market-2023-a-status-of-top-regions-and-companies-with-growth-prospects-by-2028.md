@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Share, Report Analysis & Forecast [2023-2028] with Top Countries Data"
-    excerpt: "According to Precision Reports, the “Artificial Intelligence and Robotics in Aerospace and Defense Market\" 2023 by"
-    publishedDateTime: 2023-02-14T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-share-report-analysis-forecast-2023-2028-with-top-countries-data-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Report 2023: Acute Analysis of Global Demand and Supply by 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 17, 2023 (The Expresswire) -- Global Facial Recognition Market offers an [Industry Insight Report 2023] and is expected to witness remarkable growth in the coming years."
     publishedDateTime: 2023-02-17T12:02:00Z

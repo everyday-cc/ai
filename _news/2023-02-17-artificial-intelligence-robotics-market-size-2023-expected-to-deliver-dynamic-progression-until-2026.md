@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17"
 type: article
 quality: 85
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Size, Share, Report Analysis & Forecast [2023-2028] with Top Countries Data"
-    excerpt: "According to Precision Reports, the “Artificial Intelligence and Robotics in Aerospace and Defense Market\" 2023 by"
-    publishedDateTime: 2023-02-14T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-size-share-report-analysis-forecast-2023-2028-with-top-countries-data-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

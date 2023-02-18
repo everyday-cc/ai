@@ -224,20 +224,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Medical Imaging Market Forcast 2023 To 2028 : In-depth Research Analysis with Top Countries Data"
-    excerpt: "Feb (The Expresswire) -- \"Machine Learning in Medical Imaging Market\" Report covers specified competitive outlook consisting of the"
-    publishedDateTime: 2023-02-14T03:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-medical-imaging-market-forcast-2023-to-2028-in-depth-research-analysis-with-top-countries-data-2023-02-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence For IT Operations Platform Market Size 2023 : Emerging Technologies, Opportunity and Forecast to 2028"
     excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence For IT Operations Platform Market\" Research Report 2023 Provides a Basic overview of the"
     publishedDateTime: 2023-02-16T02:06:00Z
@@ -261,20 +247,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Worldwide Artificial Intelligence in Accounting Market 2023-2027 Research Report which includes Size Share and Latest Developments | 131 Pages"
-    excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
-    publishedDateTime: 2023-02-14T06:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/worldwide-artificial-intelligence-in-accounting-market-2023-2027-research-report-which-includes-size-share-and-latest-developments-131-pages-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

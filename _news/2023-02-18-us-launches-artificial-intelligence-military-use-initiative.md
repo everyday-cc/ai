@@ -76,6 +76,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 40
+  - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries. The move seeks to impose order"
+    publishedDateTime: 2023-02-16T16:00:00Z
+    webUrl: "https://tulsaworld.com/lifestyles/technology/us-launches-artificial-intelligence-military-use-initiative/article_ee6b83f6-a978-540e-8c15-7955ca93325b.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 19
 
 secured: "wErefSFo20JNoVw44+GdF5SE56Sskgt5DqIo1viubakhbWgiYfNnptBJ5kJk5Wczbs+69TC63w8tzFYdmN8aPl7kafidA6SfLz2pBeFOr7asDUGy8WQP39KQO2TQN5mu0qlAIqjAzIxj/rOtMvwNU9eh5fEyagOn5Yx9aZaFQ+qF/H3q0nWqJbTMyQgiyOUkUBiwlL1J70zsOdkM5J6IWNkZ3pjNVVGNbTMvxh8g77VNHfMZqid4YX2oYI2LWz2DlFzZceLf2437nSU4rPJ2W1x1GbejZkMe2niOwgH3ABumQEomM0zvP36WJ6wedFVuX9xJr/uWdal5jg9Kc1yS6iaLTzixjv68rp49twtmUOE=;K8jD5Q8VT8y6BpP+hGTy0Q=="
 ---

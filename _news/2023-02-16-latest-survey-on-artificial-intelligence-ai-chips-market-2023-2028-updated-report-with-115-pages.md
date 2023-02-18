@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artific
 webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages-2023-02-16"
 type: article
 quality: 84
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "In-Car Speech Recognition Market Size and Share 2023-2028 with Emerging Treads and New Updates| Says Absolute Reports"
-    excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"In-Car Speech Recognition"
-    publishedDateTime: 2023-02-14T06:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/in-car-speech-recognition-market-size-and-share-2023-2028-with-emerging-treads-and-new-updates-says-absolute-reports-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

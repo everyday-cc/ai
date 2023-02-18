@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-18T18:01:00Z
 originalUrl: "https://www.theguardian.com/business/2023/feb/19/woolworths-expands-self-checkout-ai-that-critics-say-treats-every-customer-as-a-suspect?amp;amp;amp"
 webUrl: "https://www.theguardian.com/business/2023/feb/19/woolworths-expands-self-checkout-ai-that-critics-say-treats-every-customer-as-a-suspect?amp;amp;amp"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Guardian

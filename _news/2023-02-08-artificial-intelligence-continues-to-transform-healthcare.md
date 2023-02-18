@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png"

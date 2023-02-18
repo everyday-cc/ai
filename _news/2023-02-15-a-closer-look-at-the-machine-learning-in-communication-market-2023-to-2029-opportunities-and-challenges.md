@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market 2023-2029 With Highly Productive Segment To Expand Outstandingly"
-    excerpt: "Artificial Intelligence and Robotics in Aerospace and Defense Market Size 2023-2029 | New Report (114 Pages) | In"
-    publishedDateTime: 2023-02-14T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2023-2029-with-highly-productive-segment-to-expand-outstandingly-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning & Big Data Analytics Education Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029"
-    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023-2029 | New Report (115 Pages) | In This Reports"
-    publishedDateTime: 2023-02-14T04:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Device Market In 2023 By In-depth Analysis of Revenue Forecast and Competitive Landscape 2028"
     excerpt: "Feb 15, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Research Report 2023 Provides a Basic overview of the Industry including"
     publishedDateTime: 2023-02-16T02:03:00Z

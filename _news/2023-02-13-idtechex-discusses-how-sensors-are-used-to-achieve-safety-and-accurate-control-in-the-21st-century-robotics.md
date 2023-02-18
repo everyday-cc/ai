@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "gXbXC2sZHGk8PI2flOZIO5s0zUt1TQS9DDpG1qUPwobs7WX8boFJ0cgh/gNRUeCEtTagCThtNhkfwE7OoGsf0iHoCUvsRUj/lBDs/V3WnVT/xy0xVx6F8NG4kx0tQ7MElr5fmxnj2bS+QGvixUdGNvtIVIRN7eZW06Dq+HJVWYoDLnZtTa6RlbVSzA5h5OCJnQFvH3Bq6zag2M5zy1hzPxUv7xeunPwCsOgL588/UZ2qeb+efSGmU7Wf4reAZs4lr4fxGWl+rs/vGnxYZ1CZIORtH26B+CMMmBwkL9FG+T2hnUQ0MWeJ2bqBTqh9GC5qIv31S6L5E40CIc4krnm0Ide4BtL1CgT1F1MKBC5xnZ4=;dsVqoo2QRAWB2XE74fXigQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/2000246/Sensors_in_robots.jpg?p=facebook"
+    width: 1689
+    height: 884
+    isCached: true
+
+secured: "KHaIHO3TaOrAT11pFtB7sTXEN24sW+v48JDzk9HZeOqEOgxcetRzc2V2S/JbIlztzWkvBRa7H2M9eRc4viFpFJ4TUxJinMx9UfEx7wEEsNZztzsda+T2PH/12eHi8bsfxbstM5JWEfvaqF415PQPEpUh+C+BCRzJrjq3FewOU27QrLG+gTRzmMAi2Lp6FOpHDIinmLg4DvXGjjBVf1/ovKVueUVNhhmm/g9/cFWT/OaZ/V+tSYalUF932h9SFhDPOTYvwHEz71s4gVLzzoYz+6PHgBrKpXswzGRHUmjBQLl3z0GehDvH1DT682n6rIkmrXENKzeC0UPz90+KmTvTjjs4iWJjBzpGcTk8kvTmip8=;MADHFQzd9bO9Xslr6EXHjw=="
 ---
 

@@ -339,22 +339,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft Shifts Focus to AI, Terminates Metaverse Division"
-    excerpt: "Thanks to Azure cloud computing, Microsoft Mesh and OpenAI can scale back-end services. More importantly, Microsoft can still generate shared virtual experiences (metaverse) with its Inception and Character.ai. On the one hand, Inception allows startups to ..."
-    publishedDateTime: 2023-02-14T06:39:00Z
-    webUrl: "https://247wallst.com/investing/2023/02/13/microsoft-shifts-focus-to-ai-terminates-metaverse-division/"
-    ampWebUrl: "https://247wallst.com/investing/2023/02/13/microsoft-shifts-focus-to-ai-terminates-metaverse-division/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/02/13/microsoft-shifts-focus-to-ai-terminates-metaverse-division/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 74
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2021/09/imageForEntry5-dI5.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
   - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
     excerpt: "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ..."
     publishedDateTime: 2023-02-15T20:38:00Z
@@ -370,22 +354,6 @@ related:
       - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
         width: 1440
         height: 500
-        isCached: true
-  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
-    excerpt: "In racing the breakthrough AI technology to consumers last week ahead of rival search ... The new Bing is built atop technology from Microsoft's startup partner OpenAI, best known for the similar ChatGPT conversational tool it released late last year."
-    publishedDateTime: 2023-02-18T00:30:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/bing-ai-chatbot-microsoft-looks-to-improve-software/507-ea5b9e3d-ac2a-411f-8077-3e5fee7ae745"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/bing-ai-chatbot-microsoft-looks-to-improve-software/507-ea5b9e3d-ac2a-411f-8077-3e5fee7ae745"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/bing-ai-chatbot-microsoft-looks-to-improve-software/507-ea5b9e3d-ac2a-411f-8077-3e5fee7ae745"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 74
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/d77c07bb-fd26-4a67-a11e-32df22938b45/d77c07bb-fd26-4a67-a11e-32df22938b45_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
     excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
@@ -431,6 +399,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Why Microsoft Is Limiting Bing AI Conversations"
+    excerpt: "Microsoft announced Friday that it will begin limiting the number of conversations allowed per user with Bing’s new chatbot feature, following growing user reports of unsettling conversations with the early release version of the artificial intelligence powered technology."
+    publishedDateTime: 2023-02-18T20:51:00Z
+    webUrl: "https://time.com/6256851/ai-bing-conversations-limited-microsoft/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 64
   - title: "Microsoft's Bing AI chatbot has said a lot of weird things. Here's a list."
     excerpt: "Chatbots are all the rage these days. And while ChatGPT has sparked thorny questions about regulation, cheating in school, and creating malware, things have been a bit more strange for Microsoft's AI-powered Bing tool. Microsoft's AI Bing chatbot is ..."
     publishedDateTime: 2023-02-16T19:39:00Z
@@ -484,6 +461,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
+    excerpt: "After adding a chatbot, Microsoft acknowledged that its revamped Bing search engine would get some facts wrong. But it wasn't expected to be so belligerent."
+    publishedDateTime: 2023-02-18T01:07:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Microsoft's AI chatbot might love you or hate you"
     excerpt: "When Marvin von Hagen, a 23-year-old studying technology in Germany, asked Microsoft's new AI-powered search chatbot if it knew anything about him, the answer was a lot more surprising and menacing"
     publishedDateTime: 2023-02-18T16:56:00Z
@@ -529,6 +517,15 @@ related:
     provider:
       name: Detroit News
       domain: detroitnews.com
+    quality: 34
+  - title: "After AI chatbot goes a bit loopy, Microsoft tightens its leash"
+    excerpt: "The technology giant released the AI system to a limited group of public testers after a flashy unveiling earlier this month, when chief executive Satya Nadella said that it marked a new chapter of human-machine interaction and that the company had ..."
+    publishedDateTime: 2023-02-18T16:47:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/02/18/microsoft-bing-chatbot/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
     quality: 34
   - title: "People are sharing shocking responses from the new AI-powered Bing, from the chatbot declaring its love to picking fights"
     excerpt: "If you push it hard enough, Microsoft's new Bing might just snap. The search engine's new AI-powered chatbot has only been in the limelight for a week or so, and it's apparently chided users, gotten into arguments, and appeared to get confused about what ..."

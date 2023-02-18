@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2023/feb/16/biden-administratio
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/feb/16/biden-administration-backs-curbs-military-artifici/"
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 40
+  - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries. The move seeks to impose order"
+    publishedDateTime: 2023-02-16T16:00:00Z
+    webUrl: "https://tulsaworld.com/lifestyles/technology/us-launches-artificial-intelligence-military-use-initiative/article_ee6b83f6-a978-540e-8c15-7955ca93325b.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 19
 
 secured: "G1ZkMmFwaNR1NT7jrrE/qvvmwQjLPQNC5umywjwbEYMeT+eRNkPNWEn4pvrihUcCf8AmArj0NB76bNPfGd5s5caEtmjSgc54bcOyQZh54U7KHQZwoM8yk+mhbdHdOV3AGmkRogjakLojOSeSZhGNNM53a7P/mCXQLkjU5Ft1peV8dbaZCXhB+dmzD8GhbfPb3uaqfxoELE5E79YxQEqPuSRWrqVOBKbjiPGGxhPjvxet+rdTx87md3NjxvbDW4QKXCGA6N1m/FfFWctaO+QMz+AWLHx5ym1YYNLFpsSY8uWioBZvt25Bv6Ms1ds5XwoOmKrun/aZ8FYxAh60sQZoWbUBJvE1X2gZZCenbZzpr7JkFb4XGRwrAicZzmtD5fKcD+byr/qEZqMGV86UvZouJuhgm54dsil9M0MQaRTR6QBmvE7J4W/IBtMhTQmgtMcW6p9gc4UpHYBBWd7741iW5EafnlmgzfE28+b1FOlvr4+GmvBMhFD7OBpH75CDduD5m9HHGSm7Pte80EqIgggkEQ==;M9oM5UmN8kELouqpkWa1qw=="
 ---
