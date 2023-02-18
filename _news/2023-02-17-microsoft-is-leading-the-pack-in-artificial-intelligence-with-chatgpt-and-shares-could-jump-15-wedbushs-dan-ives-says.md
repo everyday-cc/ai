@@ -96,6 +96,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft Limits Bing AI Chats to 5 Replies to Keep Conversations Normal"
+    excerpt: "Microsoft is limiting how extensively people can converse with its Bing AI chatbot, following media coverage of the bot going off the rails during long exchanges. Bing Chat will now reply to up to five questions or statements in a row for each conversation,"
+    publishedDateTime: 2023-02-18T02:48:00Z
+    webUrl: "https://www.cnet.com/tech/computing/microsoft-limits-bing-ai-chats-to-5-replies-to-keep-conversations-normal/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-limits-bing-ai-chats-to-5-replies-to-keep-conversations-normal/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-limits-bing-ai-chats-to-5-replies-to-keep-conversations-normal/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 103
+    images:
+      - url: "https://www.cnet.com/a/img/resize/afd59f5abded47d34935013b6a8b77f983a43ec4/hub/2023/02/07/234a11e1-6dc2-46fc-ab89-2f99aa51b0f6/screenshot-2023-02-07-at-1-01-24-pm.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘I want to be human.’ My intense, unnerving chat with Microsoft’s AI chatbot"
     excerpt: "It’s important to understand what makes Bing Chat special in the first place, though. Unlike ChatGPT and other AI chatbots, Bing Chat takes context into account. It can understand your previous conversation fully, synthesize information from multiple ..."
     publishedDateTime: 2023-02-15T20:39:00Z
@@ -111,22 +127,6 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/bing-chat-want-human.jpg?resize=1200%2C630&p=1"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-    excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
-    publishedDateTime: 2023-02-17T17:42:00Z
-    webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 98
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Microsoft limits Bing AI chats after the chatbot had some unsettling conversations"
     excerpt: "Microsoft's Bing AI chatbot will be capped at 50 questions per day and five question-and-answers per individual session, the company said on Friday. The change comes after early beta testers of the chatbot, which is designed to enhance the Bing search ..."
@@ -338,6 +338,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
+    excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
+    publishedDateTime: 2023-02-17T21:58:00Z
+    webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    type: article
+    provider:
+      name: KCCI Des Moines
+      domain: kcci.com
+    quality: 70
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-136bfc3d0e45cf05ebcbdaebda8967e0-h-8b1298d1ec7960ff76910faf0490b305-jpg-1676675679.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft now says AI-powered Bing chatbot is ‘not a replacement or substitute for the search engine’"
     excerpt: "Microsoft was clear from the start that its limited preview of the new technology ... strengths and surprising weaknesses in a lengthy exchange last week, when the AI chatbot made complex inferences and proactively conducted advanced research, while ..."
     publishedDateTime: 2023-02-16T16:18:00Z
@@ -413,6 +429,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X6VOIEJ6RJFGLNM4234OFDGD4Q.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Microsoft limits Bing AI chatbot to just 5 messages per topic in effort to reduce rampancy"
+    excerpt: "Almost like rampancy! Now, when the user attempts to continue a conversation past the 5th chat turn, Bing AI will prompt the user to reset the conversation and start again. After the 50th chat turn in a day, the chat bot will stop functioning altogether ..."
+    publishedDateTime: 2023-02-18T02:58:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/bing/microsoft-limits-bing-ai-chatbot-to-just-5-messages-per-topic-in-effort-to-reduce-rampancy"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/K6pfRjCAxbJ3o8kZtJyAaF-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Bing AI claims to be able to watch webcams & hack devices"
     excerpt: "The AI-powered search engine era is here, and Microsoft was the first to kick start it with their reveal of OpenAI-powered Bing and Edge on February 7. Fans quickly flooded the waitlist in an attempt to gain access to the new features, with many reporting ..."

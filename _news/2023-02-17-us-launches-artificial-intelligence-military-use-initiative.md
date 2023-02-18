@@ -101,6 +101,6 @@ related:
       domain: defenseone.com
     quality: 19
 
-secured: "reVEUql56SgPpwUP2ufE7yHcoAwvJUlXvXWu9EiAynNd0Vs/dq108X3EuDlk7KwLurP/pIN5LEmoGDJ5SjVVULOLj2s/XWZ57+uAnawqyPmOHd8Av11XA4k2FcZq18G3E6yk1LBnsT33tx7wM9+Qw0e+/g8/4JGYljopVkBpR/e+I/RFWrVn6/UYG9KKxPCDeFzHAkXxG0nyxhwtHKFNXmQe4O+TA5qjl+Vqn2uE0+wShRSZHcPbB6PLqUnk3HGEkSqhxiC7nf4CoZgpGacmTrIko/i0DxVganp0rg19Up/B97MvhRO/ogbLegNxo5c85OdpANNqAdzU/ZI7wC2G7+Hr2EaiNsISam4tk2yVjQo=;PlGiqLodR6VsSYhYwOiMgA=="
+secured: "Jr++A5RBF+Dm36ZO22arFdvdqlhL+tMcRDEHvbWE9oNkHDvaln+rBbrgzwg3eT7JfNklNlX33+oI3FSabtO4rTgP6Vwt+TUQ/mbri7KHoIJH/OFYGjzqpFZkkhn3XIdh7nA3eX6H+MGaeSObm8JJj3Uqjjq3I4nzrPaqdqnhCSJ4PclewYdESyyPvWnAPXz+NwIigP803dZVAXo+FBjsLrU/T0wm8AZP3uJDyZMFvAxNo03/Hrzu5t0v+8JarDnMdNT0hecLnd0mnSyY9fsiob/3BLIyBD3qfdAepM+TgGB6tYwacTlWvsnvIdvqB8U1Bwyw21qx9HcNNGxMv2suHxT8TKGFJmR4LPp+2gXFBQeZHpx//SLCx1IWZkoMlS+ajgbVVKMr1KFBM0eVUnuDl2l70xVamJLmeBIYtiCO6yvwKNdeljc/N7GRSuqaY/YLybpWwyUbmZg9KdHEZadIzCNMc2DDyX/3X9TnFMfWLhOYQ2KHt2/qOClfi53rOkOxXciYyn46QmgdkdRW6TwHBQ==;0FnY63Ojt6qOKAcKItZdyA=="
 ---
 

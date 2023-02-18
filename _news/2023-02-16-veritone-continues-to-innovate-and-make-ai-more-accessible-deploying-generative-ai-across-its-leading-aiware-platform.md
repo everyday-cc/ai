@@ -19,21 +19,69 @@ topics:
   - AI
 
 related:
-  - title: "CriticalRiver Partners with Accure.ai to Accelerate Artificial Intelligence and Machine Learning Adoption for Businesses"
-    excerpt: "The multi-year innovation partnership will provide an accelerated AI/ML platform to automate processes. Accelerates the use of AI to improve processes across key industries. PLEASANTON, Calif. (PRWEB)"
-    publishedDateTime: 2023-02-15T16:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30929603"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30929603"
+  - title: "It’s Always Sunny Inside a Generative AI Conference"
+    excerpt: "AI-powered chatbots will only make us more efficient, according to the companies selling said AI-powered chatbots."
+    publishedDateTime: 2023-02-16T22:04:00Z
+    webUrl: "https://www.wired.com/story/jasper-generative-ai-conference-2023/"
+    ampWebUrl: "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 72
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://media.wired.com/photos/63ee93cc1b87b32b35988c95/master/pass/Gear_Gen-AI-attendees-take-part-in-Jasper-Art-immersive-experience-at-Gen-AI-at-Pier-27-in-San-Francisco.-Photo-courtesy-of-Jasper.jpg"
+        width: 2400
+        height: 1597
+        isCached: true
+  - title: "The Problematic Nature Of Generative AI"
+    excerpt: "We’re the only species capable of synthesizing ideas, forming opinions and making decisions based on ethical principles. Let’s use this moment in history to embrace the future while investing in our humanity."
+    publishedDateTime: 2023-02-16T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63eceeda75188ac6692ed0f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The cost and sustainability of generative AI"
+    excerpt: "All the people using DALL-E to create images or letting ChatGPT write their term papers are eating up a lot of cloud resources. Who’s going to pay for all this?"
+    publishedDateTime: 2023-02-17T10:36:00Z
+    webUrl: "https://www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.techhive.com/images/article/2017/03/ai_agriculture_primary-100715481-large.jpg?auto=webp&quality=85,70"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Inside Generative AI’s Promise for Travel Booking"
+    excerpt: "Online travel agencies are beginning to make moves toward implementing generative AI into their tech products."
+    publishedDateTime: 2023-02-14T17:50:00Z
+    webUrl: "https://skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/"
+    ampWebUrl: "https://skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 57
+    images:
+      - url: "https://skift.com/wp-content/uploads/2023/02/AdobeStock_567298094-scaled-e1676400296421.jpeg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "hkTg61542NJZlbsaJ8Ni8QOPJ/0I3I4yEOjrnAixTNffcE3j96Gi0lzR7g84yG8p3ZWqRNB4j3vxYsp02yGPjd54582fi+EM+RXpIl/fONfb5Blgnxacmp3J+mrFjAlnlEDyy0shN4aFtXKgsPOdneZc/VfPdaiRgjTwlpezt8K3zxKljnTzFLEK54t3oeRDl7hWF/+oE8oqslMvZkZBiCd7CHqX7siIJSZOYsInqewI9WqrkfiMcSYqOqzginfTV41xukex/+FF28NqxidC4mgnExWPoMgPTaGzdYQHjmdigsUNvLAyWcXA92UiVNqhT6brkEvFAid3UA/RkDVPgQI+rHzNSNaSdL9XtIQ3aBcElsWmrCM4pLVh6Y4aa1MvuPUS4ozaKvs6v7bFwPmSOyAdtzhj2m1z7azQ/Uhnc35NEOJX1GFKPUQc+BXkUQVLui+tNM9niXpcxpRBvwfuBxXxRiIh3WsPsNuCW/sR4fAsWx5ZzZ66vTxXMV+mGSB2lTy+mM0XlrC7PM0JD8DX0g==;s0GnGGmqou/zvVoaRRq4kw=="

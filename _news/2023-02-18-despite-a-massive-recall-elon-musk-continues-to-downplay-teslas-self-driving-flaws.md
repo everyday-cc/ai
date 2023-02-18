@@ -343,6 +343,22 @@ related:
         width: 705
         height: 720
         isCached: true
+  - title: "Nearly 363,000 cars are recalled by Tesla to fix self-driving flaws"
+    excerpt: "Federal regulators say Tesla software was breaking traffic laws in dangerous ways. The company is updating its \"Full Self-Driving\" software, after pressure from regulators."
+    publishedDateTime: 2023-02-17T16:15:00Z
+    webUrl: "https://www.wlrn.org/npr-breaking-news/2023-02-17/nearly-363-000-cars-are-recalled-by-tesla-to-fix-self-driving-flaws"
+    ampWebUrl: "https://www.wlrn.org/npr-breaking-news/npr-breaking-news/2023-02-17/nearly-363-000-cars-are-recalled-by-tesla-to-fix-self-driving-flaws?_amp=true"
+    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/npr-breaking-news/npr-breaking-news/2023-02-17/nearly-363-000-cars-are-recalled-by-tesla-to-fix-self-driving-flaws?_amp=true"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 59
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/a8b7926/2147483647/strip/true/crop/1920x1080+0+0/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fdf%2Fa18b2d234767a9c18baa9b9d0c76%2Fcharlie-beeco1920.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Tesla recalling 363,000 ‘Full Self-Driving’ cars to fix flaws in behavior"
     excerpt: "The National Highway Traffic Safety Administration says in documents posted Thursday on its website that Tesla will fix the concerns with an online software update in the coming weeks. The documents say Tesla is doing the recall but does not agree with an agency analysis of the problem."
     publishedDateTime: 2023-02-16T18:41:00Z
@@ -599,6 +615,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Recalls 360,000 Self-Driving Cars; Worker Organizers Accuse EV Maker of Retaliatory Firings"
+    excerpt: "Tesla has recalled more than 360,000 electric vehicles over the risks posed by their self-driving software. The recall follows several high-profile accidents, including an eight-car pileup on the San Francisco Bay Bridge last November,"
+    publishedDateTime: 2023-02-17T15:39:00Z
+    webUrl: "https://www.democracynow.org/2023/2/17/headlines/tesla_recalls_360_000_self_driving_cars_worker_organizers_accuse_ev_maker_of_retaliatory_firings"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 26
+    images:
+      - url: "https://www.democracynow.org/images/headlines/92/66292/full_hd/h14-Tesla-woes.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla recalls \"Full Self-Driving\" to fix flaws in behavior"
     excerpt: "Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits."
     publishedDateTime: 2023-02-16T14:32:00Z
@@ -708,6 +738,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "0Qqdw4x4EYFWhVtfWfebCp9ZSYV8U6TJzuOyZOy0Vh3jnAKqn3ecCbK/tqyt1DRLkQ+kTdXmgT9WiNUck3pixgMcON+mg0758HHk6BpN3dedHbBqCfoAPxaDLmB0XpAcIQ0DT8inUH+Guu6ElLMTKAP93+0HQ0ZM3t6cRs0aXIazihzPVBh0bV2Ju9/J4fRuxvkzF2MXZLViWa1DC/GIydvPf6Ro5z8rNiW7PGcIkBxVqqM0nnHSdHFlWWl68FldhfEilFAow041reqnb9SYwnb7KyPEc+FC8Z/T+AvOXCiF0nh+nHWZUAAXJvwh6sBZVC7UVM4h8t9GQDJbFvCVqFOX6LzEHvJZUFvOev+GS6s=;Bj/tKV9J7zURaUWpvuRu9w=="
+secured: "4RurmBk0j1FD/wcWre5CFvPOdRLlPYC8j+++VkyfEINApxfp+p8q+bIOH9NZcSKKU/e/4vdrD2sFF6+TCKvpGBFRAXNwlBX5mU1MEZ8x2CTKtAjGmGvYy+1av/4p7VvEO1bipc8MkBem1S20QLAVtoBg8fgYCpflbHeJQoy8brBMwMtDyrywGc/J/8morExAdkfToHwZYdssNEOf9nPwsEO3woe6rAYe0mGJNVrCY6T2PXnhDrVeUArvFHYPQyY2R5CyfSLQC2Ur3Tjgotm4pTjGEgb5PHwKEFjxaTI+I5nDvQvscjX56ZAk9uxCaXMnJ3i6U3aVT7K/8bwoakfrya07yK4qhDZCDKuXtFBkXXzqaaphYotD0YIS4ekVL76SWDu/gl21aa/2bP2lNkDJl4IPg5+fiyo+ucs0pl+2jFLnBvA6PTdcY+EozwKAel/F2FGvqNbcWuoSX5c87FyB0dHkJN20d3RWikm6NePo+EI7fIc29gFNZxe8hwfA2ypkZPWQHNyeL5gsfgRf81aPCg==;anjx2s7o1xXhKRek3pesDg=="
 ---
 

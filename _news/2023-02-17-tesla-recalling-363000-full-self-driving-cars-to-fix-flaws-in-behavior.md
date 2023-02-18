@@ -345,6 +345,22 @@ related:
         width: 705
         height: 720
         isCached: true
+  - title: "Nearly 363,000 cars are recalled by Tesla to fix self-driving flaws"
+    excerpt: "Federal regulators say Tesla software was breaking traffic laws in dangerous ways. The company is updating its \"Full Self-Driving\" software, after pressure from regulators."
+    publishedDateTime: 2023-02-17T16:15:00Z
+    webUrl: "https://www.wlrn.org/npr-breaking-news/2023-02-17/nearly-363-000-cars-are-recalled-by-tesla-to-fix-self-driving-flaws"
+    ampWebUrl: "https://www.wlrn.org/npr-breaking-news/npr-breaking-news/2023-02-17/nearly-363-000-cars-are-recalled-by-tesla-to-fix-self-driving-flaws?_amp=true"
+    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/npr-breaking-news/npr-breaking-news/2023-02-17/nearly-363-000-cars-are-recalled-by-tesla-to-fix-self-driving-flaws?_amp=true"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 59
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/a8b7926/2147483647/strip/true/crop/1920x1080+0+0/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fdf%2Fa18b2d234767a9c18baa9b9d0c76%2Fcharlie-beeco1920.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Tesla recalls more than 300K vehicles due to self-driving software issues"
     excerpt: "Tesla is recalling more than 300,000 vehicles that are equipped with Full Self-Driving Beta software. The recall includes certain 2016-2023 Model S and Model X vehicles as well as 2017-2023 Model 3 and 2020-2023 Model Y vehicles."
     publishedDateTime: 2023-02-16T18:51:00Z
@@ -598,6 +614,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2022/09/23/USAT/271b70f9-2362-4065-8bae-992266085348-0x0-ModelSPlaid-2.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla Recalls 360,000 Self-Driving Cars; Worker Organizers Accuse EV Maker of Retaliatory Firings"
+    excerpt: "Tesla has recalled more than 360,000 electric vehicles over the risks posed by their self-driving software. The recall follows several high-profile accidents, including an eight-car pileup on the San Francisco Bay Bridge last November,"
+    publishedDateTime: 2023-02-17T15:39:00Z
+    webUrl: "https://www.democracynow.org/2023/2/17/headlines/tesla_recalls_360_000_self_driving_cars_worker_organizers_accuse_ev_maker_of_retaliatory_firings"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 26
+    images:
+      - url: "https://www.democracynow.org/images/headlines/92/66292/full_hd/h14-Tesla-woes.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla recalls \"Full Self-Driving\" to fix flaws in behavior"
     excerpt: "Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits."

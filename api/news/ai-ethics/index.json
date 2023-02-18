@@ -143,58 +143,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-16-the-ai-arms-race-is-changing-everything.md",
-      "title": "The AI Arms Race Is Changing Everything",
-      "excerpt": "Now we have company. While you’re reading this sentence, artificial intelligence (AI) programs are painting cosmic portraits, responding to emails, preparing tax returns, and recording metal songs. They’re writing pitch decks, debugging code ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/",
-      "originalUrl": "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-02-16-data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players.md",
       "title": "Data and AI Ethics Market Research Report (2023-2029) | Gain a Competitive Edge with Top Key Players",
       "excerpt": "Data and AI Ethics Market Size 2023-2029 | New Report (113 Pages) | In This Reports Data and AI Ethics Market and",
@@ -245,6 +193,58 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law.md",
+      "title": "Outthinking Generative AI ChatGPT To Straighten Out Those Vexing AI Hallucinations, Advises AI Ethics And AI Law",
+      "excerpt": "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ec652cea9d35758ecaa5d9/0x0.jpg?format=jpg&crop=1067,712,x2,y94,safe&width=1200",
+          "width": 1067,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-02-15T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {

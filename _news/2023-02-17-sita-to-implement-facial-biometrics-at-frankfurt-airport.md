@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Is Facial Recognition Ethics Important? Yes, Here's Why, Biometrics | Extended Access Technologies - Mid-East.Info"
+    excerpt: "With recent advances in artificial intelligence, facial recognition is emerging as a powerful means of validating identity. People use it all the time to access their mobile phones, but acceptance ..."
+    publishedDateTime: 2023-02-15T13:23:00Z
+    webUrl: "https://menafn.com/1105578520/Is-Facial-Recognition-Ethics-Important-Yes-Heres-Why-Biometrics-Extended-Access-Technologies-Mid-EastInfo"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/updates/pr/2023-02/15/M_9b9afimage_story.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Face biometrics in US schools getting more attention and funding"
     excerpt: "It seems long ago when the prevailing sentiment in the US was that facial recognition surveillance had no place in primary and secondary schools."
     publishedDateTime: 2023-02-17T21:42:00Z

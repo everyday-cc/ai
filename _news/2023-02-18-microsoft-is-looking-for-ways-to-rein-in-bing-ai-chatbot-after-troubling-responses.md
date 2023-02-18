@@ -1,33 +1,30 @@
 ---
 category: news
 title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
-publishedDateTime: 2023-02-17T17:42:00Z
-originalUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
+publishedDateTime: 2023-02-17T21:58:00Z
+originalUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
 type: article
-quality: 98
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
+  - AI in Robotics
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
-    width: 1100
-    height: 619
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-136bfc3d0e45cf05ebcbdaebda8967e0-h-8b1298d1ec7960ff76910faf0490b305-jpg-1676675679.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -94,6 +91,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/02/silenced-AI-tape-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Microsoft Limits Bing AI Chats to 5 Replies to Keep Conversations Normal"
+    excerpt: "Microsoft is limiting how extensively people can converse with its Bing AI chatbot, following media coverage of the bot going off the rails during long exchanges. Bing Chat will now reply to up to five questions or statements in a row for each conversation,"
+    publishedDateTime: 2023-02-18T02:48:00Z
+    webUrl: "https://www.cnet.com/tech/computing/microsoft-limits-bing-ai-chats-to-5-replies-to-keep-conversations-normal/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-limits-bing-ai-chats-to-5-replies-to-keep-conversations-normal/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-limits-bing-ai-chats-to-5-replies-to-keep-conversations-normal/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 103
+    images:
+      - url: "https://www.cnet.com/a/img/resize/afd59f5abded47d34935013b6a8b77f983a43ec4/hub/2023/02/07/234a11e1-6dc2-46fc-ab89-2f99aa51b0f6/screenshot-2023-02-07-at-1-01-24-pm.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "‘I want to be human.’ My intense, unnerving chat with Microsoft’s AI chatbot"
     excerpt: "It’s important to understand what makes Bing Chat special in the first place, though. Unlike ChatGPT and other AI chatbots, Bing Chat takes context into account. It can understand your previous conversation fully, synthesize information from multiple ..."
@@ -413,6 +426,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Microsoft limits Bing AI chatbot to just 5 messages per topic in effort to reduce rampancy"
+    excerpt: "Almost like rampancy! Now, when the user attempts to continue a conversation past the 5th chat turn, Bing AI will prompt the user to reset the conversation and start again. After the 50th chat turn in a day, the chat bot will stop functioning altogether ..."
+    publishedDateTime: 2023-02-18T02:58:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/bing/microsoft-limits-bing-ai-chatbot-to-just-5-messages-per-topic-in-effort-to-reduce-rampancy"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/K6pfRjCAxbJ3o8kZtJyAaF-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Bing AI claims to be able to watch webcams & hack devices"
     excerpt: "The AI-powered search engine era is here, and Microsoft was the first to kick start it with their reveal of OpenAI-powered Bing and Edge on February 7. Fans quickly flooded the waitlist in an attempt to gain access to the new features, with many reporting ..."
     publishedDateTime: 2023-02-16T13:37:00Z
@@ -450,6 +477,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "GktIfFryXlotT49wlkTjfSFK04OUIigjMtfkxplKcDBJC/UyGLUBKkMRsOcSCtjE5RSnkUpJmZ3UOiiepuJc1gzwyCsoW86pDfYh13NglA4/Nj45dFc3uQSbWSgYculjNVUEsArLOuF0cadpAbabuQJTh+LBwpx/yBGNfAA9YzX1qFAtx/XMZIMUjBK9HnYCgOORxvtFNcqfqQdN+u3TqxIY055Bgpl1SclsjFLxqENVscIic9k6Ldr2CEwJyCS4LJlRNHswtY0fUM41jGlIEqE5kFhmGFBFLnsgSfd0qlIcbJ98Ff9L6oWWrWJ3Shk9ZDBpoYrAm5DB5ej4Qkyw+9800EQyz5ekFwewI+C9apE=;c2Wk0HpsTXYRyOd7nwgufw=="
+secured: "2Vhx4AW0V/sIvJh+Kd26TbTwn+haxClLxe0wueqCMG5GROqgMr9HiGAdl4djmG4nnW5C0p8qy8ikPjcMtcoqQdm9yamnhYmJy6v6sFDvPB0MLXMGvEvyhEiVGhXLyfhmB5/0xbuJNN2QNvT3NBG/ZqQHbcymSfPLSqk4fcEkcjkV9H3cIHeWH9FEUhioXywIqkO/fZK4CzN9mYqbSVQ4/ubtkJ7jQiARxLwqEhL2WmrChsCTViZ0W3LqxwOb3GWTWIk+a0DjT1cOdQrixWzVXzyEYHqqQqMWXq4f4wuxPPhcyM0RbB8NYXMSdVumbnZgdeiSQn83pP+y7tPkk5fllyzL0qpUe5nGuwyLx/zne+Y=;7M0cpcvAffgAHSle0nFq7Q=="
 ---
 
