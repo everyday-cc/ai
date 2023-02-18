@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "A Student Used ChatGPT to Cheat in an AI Ethics Class"
+    excerpt: "The worst fears of school administrators are coming true: students are cheating, and they're using ChatGPT to do it. it's spicier than usual when it's in an AI ethics class though. But can we stop for a second and ask whether we really need to panic?"
+    publishedDateTime: 2023-02-18T10:59:00Z
+    webUrl: "https://gizmodo.com/ai-chatgpt-ethics-class-essay-cheating-bing-google-bard-1850129519"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 84
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a2dae933908df8079739cf08dc504da4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "12 Best AI Plagiarism Checkers to Detect ChatGPT-Generated Content"
     excerpt: "We start with a recently released AI plagiarism checker by OpenAI, the company behind ChatGPT itself. Called the AI Text Classifier, the app is a finely tuned GPT model made by the company. The classifier is responsible for predicting how likely it is that ..."
     publishedDateTime: 2023-02-18T07:51:00Z

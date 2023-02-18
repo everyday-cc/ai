@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
-publishedDateTime: 2023-02-17T21:58:00Z
-originalUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+excerpt: "We talked about, remember when it's the idea of AI and education definitely understand the concern ... Microsoft is also weighing the need for a tool to \"refresh the context or start from scratch\" to avoid having very long user exchanges that \"confuse ..."
+publishedDateTime: 2023-02-18T00:00:00Z
+originalUrl: "https://www.kcra.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+webUrl: "https://www.kcra.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+ampWebUrl: "https://www.kcra.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI in Robotics
@@ -392,15 +392,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Microsoft’s (NASDAQ:MSFT) AI Prowess Could Distinguish Itself from Rivals"
-    excerpt: "Takeaway: MSFT Looks Like a Buy I think AI could more than offset slowed growth in Microsoft’s Azure and evolve to become the reason to own Microsoft stock. Further, I believe shares can continue to deliver above-average results for investors as it ..."
-    publishedDateTime: 2023-02-13T19:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-nasdaq-msft-ai-prowess-could-distinguish-itself-from-rivals-1032092083"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Microsoft's Bing AI chatbot has said a lot of weird things. Here's a list."
     excerpt: "Chatbots are all the rage these days. And while ChatGPT has sparked thorny questions about regulation, cheating in school, and creating malware, things have been a bit more strange for Microsoft's AI-powered Bing tool. Microsoft's AI Bing chatbot is ..."
     publishedDateTime: 2023-02-16T19:39:00Z
@@ -505,6 +496,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "UkMcbOWtimLxc3ATkLijh3T5hVvlT+u2TxdpFEvTpUvTQzA+DCih2cnk+M5XIeBgVGqCzlw6We+f2yX/yUi9MqmjEPEK6K45hV8SX4ROQF8dUyFhjIBBSO83IaXs1lfxQD0H7QntjGO3TzoifzIpBzsQyEuQ2QG8ovPkTy28yWlP+uRuzYsiOXjFsXLiaI37hwWmmZP9ZGUuwUfyC1L7KOwOlcnzuDjBq+ZIkTI3WVfyfspelzLMfhYq029RhLQlXd7pbfwOYGqUS81VK/sqtfIBaxGnlTWnFzVtOZpS2rk8kQz4q62fRxZ0ahw8dcf7ZD3qAVxHGDc+yUEH4lE86UdwCcctzkfRv0kEsK71LS4=;at1bTCOecclxj1PGHv7uiw=="
+secured: "tqsjt3pB3i1gw7cieagdkLrCX2/vZOgoWD2J+ANKBJjT0Wm94HUcO7v22StVkggFVh1aOBexm00Iib8VoPDxAWTLV1mzkT605umdDnJG+N0sTWOPbX/H3/tkprzl9Fcv1NsbtVHMjug90zuj7jZKCqVhApf8mfVUlj5vW44Qs21/wlnm37cPBsFS0x7TjiCwfZ0uss/YJq/Hf4MgY2X8R05UpMM+XBZcXOR5BnlNbi08R/yzpKF6OxuCAFuniEphvXsPhVmW5gjqIf7Im7ps5WGf6m/w/7KVYaEbx7dNgfSNohy6/etWCFeKMQH7oNE5xmO0USABL9RC+8ZtLVTlBcsKby1kFKmvLA71mfpm700=;5kUhaa3jL+Lt8XwaogFRvg=="
 ---
 

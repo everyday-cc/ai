@@ -58,6 +58,17 @@ related:
         height: 400
         isCached: true
   - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries."
+    publishedDateTime: 2023-02-16T15:03:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
+  - title: "US launches artificial intelligence military use initiative"
     excerpt: "The United States launched an initiative Thursday promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries, seeking to impose order on an emerging technology that has the potential to change the way war is waged."
     publishedDateTime: 2023-02-17T18:29:00Z
     webUrl: "https://www.militarytimes.com/news/2023/02/17/us-launches-artificial-intelligence-military-use-initiative/"
@@ -80,17 +91,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 40
-  - title: "US launches artificial intelligence military use initiative"
-    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries."
-    publishedDateTime: 2023-02-16T15:03:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "US Looking to Build Alliances for Responsible Military AI Use"
     excerpt: "State Department and Pentagon officials hope to illuminate a contrast between the United States and China on AI"
     publishedDateTime: 2023-02-16T14:00:00Z

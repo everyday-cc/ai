@@ -596,15 +596,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 38
-  - title: "Super Bowl ad calls for NHTSA to ban Tesla Full-Self Driving"
-    excerpt: "Tesla has come under fire again for its controversially named Full Self-Driving driver-assist feature, this time in an ad that aired on Sunday in Washington, D.C., as well as in a number of state capitals during Super Bowl LVII. The spot shows a number of ..."
-    publishedDateTime: 2023-02-13T19:26:00Z
-    webUrl: "https://www.motorauthority.com/news/1138751_super-bowl-ad-calls-for-nhtsa-to-ban-tesla-full-self-driving"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 34
   - title: "Tesla recalling nearly 363,000 vehicles over 'full self-driving' software that could lead to crashes"
     excerpt: "Tesla is recalling 362,758 vehicles because a version of its \"full self-driving\" software may increase the risk of crashes, according to a notice posted Thursday on the National Highway Traffic Safety Administration's website. According to the recall ..."
     publishedDateTime: 2023-02-16T19:50:00Z
@@ -788,6 +779,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "vFWh/OOi4mzDGLurJjFZk+/HAOam3JCvTehhsAnoSuAfVDwQ3EUPdiDMCZEv3WTks7LPtUzO6Q6/+EemrZ4/8ZPbC3KzKabV4ccLZmtqNJ6S9MXMf/bl0aJLQTvOAnf2UNgfjmMKq8dUl5RBqUw40Rqs/8YvX+BX2nOf2Q2x0XDlMihkq82DAUKexpow0vqkAg61U1+e37vVN75Mj0nAjQh9J5YBCXBWdokvy90n6JxoBgHWFxXuRQ6Ho9w0yjCXUl6t3QDeGv3Mz4/6Ieyh2j7S0dt9dhh2BGVox7uNGsw0+I3gFYyF6vQFWX/qS3bV6lncfqMTKIeUjk674JN4vPrP7Tm13sXsQNAfeMWaaKE=;c6zYPuhvsw9JrGLpPYDGsw=="
+secured: "iCCBZZO58j1DJUM9xcFgeCZ/3iCPyA5x+GqeVW1j0SmiBw3qSdiPCH79CHDXk1DFiKCQFWso8cmYZoz6JTLoH1WxQmP6qbfj5bbst+MvkLgPpEE3fZ0EDdiZJoih7l9vK2O1ZrigYEYm8mysSU9GkJMTKSCFnWMBPzrAeqthnz5ZjdH5IWHkB7/OrOB7ATncBt1Nn2Qe86viPvJbc3MU8ylCSjVKV1PuOuH7nMylzGH4LE3Auy16PykKAreANi7dRy8KthKWF+UxriMs+fNakctuHinhWfM976yw5iyDSwImGh9b1YTEn5yovQ6hQBqpTzTgTRUUho55uJb2firyJTSd5vpjqRjJ1JOqaS+dEBbPm95aU5zado4xqinggL9nKfeofoSdAMZAMsweB5R+RCxWrRCLwYTfWl6KAU425AG8todKJXnEo4uw+yC6k8X3tAWEq/FQZRBOB/m1CyPXt1pWzxd/AWqyFhcGNopGF7zJEXw/z9vbzNOBnuQ1CLyF0nSUdVr4xsw288g5T/4jpw==;0SXTBDbuwTCpq3XL5/3lmQ=="
 ---
 

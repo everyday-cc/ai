@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "10 High Growth AI Stocks to Buy"
+    excerpt: "In just five days, the AI chat app reached 1 million users, and in two months since its launch, ChatGPT has gained 100 million users, making it arguably the fastest growing internet consumer app in"
+    publishedDateTime: 2023-02-17T11:34:00Z
+    webUrl: "https://www.insidermonkey.com/blog/10-high-growth-ai-stocks-to-buy-1121465/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/12/06063837/caspar-camille-rubin-0qvBNep1Y04-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "QZY5glJeZFyb8iODf75PRSXc5727M71hFX682eTryqRYjexqsISkQ6KZDHfVE2VYyQdMWHLJigN8id7PHeqKSL5yqB2mfx53ttTaX31+/DeXfhgKaIMuirrz8WyP1Yttq8MitbfRtz+udkVjdgK0RaX2agcR84tZTiS/EURIDKLZCMe3q8ekKvZ2iNIXeBMI9om6qidmXZ1HzrylDY5i+KnzQGlmjDGRk91nOiHIwFvgG+I7xRHJWfQbpitr5jsKQp2X4rcjFaSgdRr/bNIg1fuBoqSi/HlMyvVfR0DaDi8xKqIstHcNPbt7TaKVEYurJuJ41g9fNjo0PmSvD6zIUbDiuod9kWseNoouYm4Ilm8=;EnMmJKhdHZS3z9bSJQ4BxQ=="
 ---

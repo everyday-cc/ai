@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "The best refrigerator deals ahead of Presidents' Day 2023"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2023-02-13T20:41:00Z
-    webUrl: "https://www.cbsnews.com/essentials/the-best-refrigerator-deals-ahead-of-presidents-day-2023/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/the-best-refrigerator-deals-ahead-of-presidents-day-2023/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-refrigerator-deals-ahead-of-presidents-day-2023/"
+  - title: "Best deals on appliances ahead of Presidents Day 2023"
+    excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
+    publishedDateTime: 2023-02-16T15:41:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-deals-on-appliances-ahead-of-presidents-day-2023-02-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-deals-on-appliances-ahead-of-presidents-day-2023-02-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-deals-on-appliances-ahead-of-presidents-day-2023-02-16/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 44
+    quality: 46
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/28/08b7e6c4-d71c-4e1a-81f4-75eb11fb9c8a/thumbnail/1200x630/aa5f8661e1a8d7661ccee9ead88753a6/refrigerator-hero.jpg"
-        width: 1200
-        height: 630
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/08/171cd740-e8f4-4e45-941d-e76fb98a8e92/thumbnail/620x349/483eb8427782426a40ac4f3db203056f/appliance-presidents-day-deals.jpg#"
+        width: 620
+        height: 349
         isCached: true
   - title: "Best deals on appliances ahead of Presidents' Day 2023"
     excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."

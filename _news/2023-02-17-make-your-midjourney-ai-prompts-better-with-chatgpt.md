@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Student Used ChatGPT to Cheat in an AI Ethics Class"
+    excerpt: "The worst fears of school administrators are coming true: students are cheating, and they're using ChatGPT to do it. it's spicier than usual when it's in an AI ethics class though. But can we stop for a second and ask whether we really need to panic?"
+    publishedDateTime: 2023-02-18T10:59:00Z
+    webUrl: "https://gizmodo.com/ai-chatgpt-ethics-class-essay-cheating-bing-google-bard-1850129519"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 84
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a2dae933908df8079739cf08dc504da4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy"
     excerpt: "South Korea hopes to be a key player in fulfilling the new global demand for next-generation AI chips, and today the government put some money where its mouth is: the country’s Ministry of Science and ICT said it would earmark $642.5 million (826.2 ..."
     publishedDateTime: 2023-02-16T10:16:00Z

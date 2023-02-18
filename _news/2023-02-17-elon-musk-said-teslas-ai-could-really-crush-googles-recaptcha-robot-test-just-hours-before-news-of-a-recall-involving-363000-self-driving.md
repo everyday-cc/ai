@@ -601,15 +601,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Super Bowl ad calls for NHTSA to ban Tesla Full-Self Driving"
-    excerpt: "Tesla has come under fire again for its controversially named Full Self-Driving driver-assist feature, this time in an ad that aired on Sunday in Washington, D.C., as well as in a number of state capitals during Super Bowl LVII. The spot shows a number of ..."
-    publishedDateTime: 2023-02-13T19:26:00Z
-    webUrl: "https://www.motorauthority.com/news/1138751_super-bowl-ad-calls-for-nhtsa-to-ban-tesla-full-self-driving"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 34
   - title: "Tesla recalling nearly 363,000 vehicles over 'full self-driving' software that could lead to crashes"
     excerpt: "Tesla is recalling 362,758 vehicles because a version of its \"full self-driving\" software may increase the risk of crashes, according to a notice posted Thursday on the National Highway Traffic Safety Administration's website. According to the recall ..."
     publishedDateTime: 2023-02-16T19:50:00Z

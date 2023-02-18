@@ -72,15 +72,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Responsible use of AI in the military? US publishes declaration outlining principles"
-    excerpt: "The declaration coincides with the US taking part in an international summit on responsible use of military AI in The Hague, Netherlands. Reuters called the conference \"the first of its kind.\" At the summit,"
-    publishedDateTime: 2023-02-17T20:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/02/responsible-use-of-ai-in-the-military-us-publishes-declaration-outlining-principles/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 40
   - title: "US launches artificial intelligence military use initiative"
     excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries."
     publishedDateTime: 2023-02-16T15:03:00Z
@@ -91,7 +82,16 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 39
+    quality: 41
+  - title: "Responsible use of AI in the military? US publishes declaration outlining principles"
+    excerpt: "The declaration coincides with the US taking part in an international summit on responsible use of military AI in The Hague, Netherlands. Reuters called the conference \"the first of its kind.\" At the summit,"
+    publishedDateTime: 2023-02-17T20:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/responsible-use-of-ai-in-the-military-us-publishes-declaration-outlining-principles/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 40
   - title: "US Looking to Build Alliances for Responsible Military AI Use"
     excerpt: "State Department and Pentagon officials hope to illuminate a contrast between the United States and China on AI"
     publishedDateTime: 2023-02-16T14:00:00Z

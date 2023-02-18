@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Artificial intelligence is about to transform the way you browse the internet"
-    excerpt: "But not for much longer. In a major reveal this week, Google announced plans to add its latest artificial intelligence chatbot, LaMDA, to the Google search engine. The chatbot has been called the ..."
-    publishedDateTime: 2023-02-13T21:02:00Z
-    webUrl: "https://scroll.in/article/1043572/artificial-intelligence-is-about-to-transform-the-way-you-browse-the-internet"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 36
-    images:
-      - url: "https://d1u4oo4rb13yy8.cloudfront.net/book/mfdtjhhdiq-1536061669.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "6ZMdoqEUjpWzCj5Se2ZRjX7QEnKD53hT0GJsXg5Yo4K4UupBX/K71V8HLjtblOr/ZGzVmBj37/ustjZbzN3EPGKq6Dzfzg+uHgyDC/5o28D8e6F6bHWkcZGb53ty46dabY5AUKc8gYMbtsP4JzAcPFIB+sEDutAyOWRJvuSZhtAptsBCVK+R7Lqi+L0p7ylZKbF8FId+nmil81HOYoOgPnaCx+HFxK4EMcwroJmnJJEGXld2sJXIM08X+ArhD+hfRFoSmtUoUsqH039BPzK4FJW/OwArmCAVx13VN+2pA59BTp5gNV7cDMfRd+1Fioj+/aLqRxGF9MeA9RHl5Bjf4OH16lx7F7n/7qTHnqP31gV8Zot/C6+qN6RHSqMF+6yyJTgbnPebmSg/SsqZZNZypa9ixQ2H8wJtMle9uz+N+V30Y9FHoYn86NH2xpgiPp11adk2iwXzmsTOoW/tm9+qotLUspxFy8IwZRpsBIKYXhDnzkr6k8GGTV2qsPDXV7O6qcEb5nKUMVFj5uFOc4+7jw==;tnql2j+brVLB7qHx21oIWg=="
 ---
 

@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size In 2023 : Emerging Technologies, Opportunity and Forecast to 2028"
+    excerpt: "Feb 18, 2023 (The Expresswire) -- \"Artificial Intelligence Of Things (AIoT) Solutions Market\" Research Report 2023 Provides a Basic overview of the"
+    publishedDateTime: 2023-02-18T09:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-in-2023-emerging-technologies-opportunity-and-forecast-to-2028-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing Market 2023 Size with SWOT Analysis by Top Players till 2028 | 125 Pages"
     excerpt: "Global “Cloud Natural Language Processing Market” Report which is spread over [125] pages provides In-depth analysis on the market size, share, new developments, industrial trends, market status of the top manufacturers with best facts and figures ..."
     publishedDateTime: 2023-02-15T14:44:00Z
@@ -206,6 +220,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Small And Medium Business Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence In Small And Medium Business Market\" Report provides a Detailed analysis of global market"
+    publishedDateTime: 2023-02-18T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

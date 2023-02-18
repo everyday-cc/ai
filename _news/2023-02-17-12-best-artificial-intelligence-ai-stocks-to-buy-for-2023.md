@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artifici
 webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
 type: article
 quality: 92
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "10 High Growth AI Stocks to Buy"
+    excerpt: "In just five days, the AI chat app reached 1 million users, and in two months since its launch, ChatGPT has gained 100 million users, making it arguably the fastest growing internet consumer app in"
+    publishedDateTime: 2023-02-17T11:34:00Z
+    webUrl: "https://www.insidermonkey.com/blog/10-high-growth-ai-stocks-to-buy-1121465/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/12/06063837/caspar-camille-rubin-0qvBNep1Y04-unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "6EF3mFGNfziyiX4U6fJPSGLGml9lUMY8GWlHsaDC5ShfV9CB0MGyN3UCX1BxguDNSZp6/8hjFgNeAgMXDVZoY/U3bdHuzHKOWAcPFP/Dyb8Vh+7/lmAJpOApPuEr+qtddem5A0SQCUXJ5/pQaRayZc9d/sE2Ue+vQY3Hq/VhO6tIm6dp5lEx3HGYtk+/5yvkQV85Cqr/dJmsdZdfZGsVuAFOeSA59tWMKIBWxtKVL4Z4hS/uctI1/NigsOK2KO1WPIuu4e3cDqqIRt0s6J6ISipTJFZCAqFTSvbhc2XRt+wGSEgb6ST937YYe5D1xxsWwuE7voSdOB/NXOYVRSrwQqL9VwvY/OzHW8ofoStBUGWwzLGqpLDxMbbzvqYsLDZCXx7M1f1mL+/RU6jr9eQc/w6EzG88mHEmowDnHL+p+sDwc2Ph1fZZuFJ1ldZwwNe/s1+b/cS8oDW5Ad2jI22VO38p3subxEWF5wTntoi4ynEBfMsaq9AOZm06cp70TKfPK2377NiMZuIR8RnSj6bsiA==;Sq0DHbRyfdlzWXUHhYa1zw=="
