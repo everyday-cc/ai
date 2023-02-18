@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meta to integrate generative AI features on Instagram and Facebook"
-excerpt: "Generative AI refers to technology that can generate text, images, sounds and other media formats in response to short commands or prompts from users. OpenAI's ChatGPT is the most popular example of Generative AI tool in recent months."
+excerpt: "Facebook parent Meta plans to integrate \"generative artificial ... it hadn't captured the public's imagination until last year when AI research lab OpenAI unveiled products such as Dall-E, which creates realistic digital images from text descriptions ..."
 publishedDateTime: 2023-02-14T19:51:00Z
-originalUrl: "https://www.moneycontrol.com/storyboard18/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
-webUrl: "https://www.moneycontrol.com/storyboard18/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
+originalUrl: "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
+webUrl: "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm"
 type: article
 quality: 39
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 435
         isCached: true
 
-secured: "4aUotmwjxJgVo8orNe3Krnbhu1OYey5ChbxfznQbUblXUM+uZI2Qwfvb6pqivFWWRaKcYCSpMI9lR7xOMBCPxA3B2g8+y3+Pn2OHkktIVROEM8LKU/24o9dOcJlNjA8QX6xPXMTY80tKLetLq5DOfYX2tz3aRvriQdcljKSHvBScTyb6Q3GrTL3+SkGz85iRCOcAz57MAIeNjOJGp70/X1VWHu+rVJwtXTpxAJPsfXAIdUdkSNLpdhjRO9gc9ur+vRbLkGCAjrAFiFPJszlh4gjvwnioBt4zr0lmWqeOTz5neZHE9TxGBaKRcLae67oP64vQnvARTSvHoFhQCRbwhlqJSa+TIEROZf97VpSdoi5X74E8HaDrbg7DxytzFV8fFvnQyLILKbROvfAKeA0svlXorDfRgEmmVetgLwbCrIxKj6JCZl84/cgkJj6+f5lixZmA86XwxyoZWWcucAwOWllkx0YRgkmnzHG3EqsOt+hkQFSeS3JBdp9dXYoDv5vgSw/P5+cHgiTXr30s8J4BjQ==;NUTSAVgvh1noA96JBCl1Cw=="
+secured: "zXgJc67m+aOlhVxZ9woCxVcWSqtWn1A7wP7SYYK7GNBWMu1SHGx8pMEXy2ng9pAhdzbqfWSKiLtp8AxQEy3ysUhiS0/d1mUbX77tYdIXpVXvkQF9dtY06bPe2QEM9KpUK0XE5nz/ICD7j+PTCgHlDnmL/uLlo61Kjlu46MjWWWHxKAPthQOwAoW0gnN6I+Veufjp2072obhDgIXd0dyHz637+vFvhfJDl+s9/5jcVktctF5pfU2XDQnhtH3se7pnUrF1e4PI9oNm0BAXcMeRxWkIIx8wZVHopNBE3s3CJ3tmeyQAQUUVIAB+jX8zloIldtf1N443GX0x8ZcT/fx0yWCGuoeEFeuDC+GgT10qBV8=;4RfbCi3/K4q4wJjtX+KaXw=="
 ---
 

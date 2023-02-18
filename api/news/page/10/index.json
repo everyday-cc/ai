@@ -335,7 +335,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -985,6 +986,40 @@
       ]
     },
     {
+      "path": "_news/2023-02-08-deepfake-news-anchors-in-pro-china-footage-research.md",
+      "title": "Deepfake 'News Anchors' In Pro-China Footage: Research",
+      "excerpt": "The \"news broadcasters\" appear stunningly real, but they are AI-generated deepfakes in first-of-their-kind propaganda videos that a research report published Tuesday attributed to Chinese state-aligned actors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
+      "originalUrl": "https://www.barrons.com/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
+      "publishedDateTime": "2023-02-07T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-satya-nadella-existing-jobs-will-be-more-productive-because-of-ai.md",
       "title": "Satya Nadella: Existing Jobs Will Be More Productive Because Of AI",
       "excerpt": "microsoft ceo satya nadella announces new ai-powered search ... We wouldn't even have all of the Azure Cognitive Services if it was not for what was applied AI. So I would say of course, I want more pace. And what you're seeing I guess this year in ...",
@@ -1067,58 +1102,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029.md",
-      "title": "MLOps Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029",
-      "excerpt": "Amazon SageMaker, H2O.ai, Inc., Pachyderm Inc., HPE, SAS) with the best facts and figures, definitions, SWOT and PESTAL analysis, expert opinions and the latest trends around the world. To know How COVID-19 and Russia-Ukraine War Influence Will Impact This ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

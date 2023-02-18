@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-06-this-chicago-startup-is-making-self-driving-tractors-a-reality.md",
+      "title": "This Chicago startup is making self-driving tractors a reality",
+      "excerpt": "Sabanto, with just 28 employees, is rolling out a hardware-software kit to retrofit most modern tractors. “This is life-changing. It stands to be the biggest advance in agriculture since tractors replaced the horse and plow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagobusiness.com/private-intelligence/sabanto-chicago-making-self-driving-tractors-reality",
+      "originalUrl": "https://www.chicagobusiness.com/private-intelligence/sabanto-chicago-making-self-driving-tractors-reality",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crain's Chicago Business",
+        "domain": "chicagobusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-self-service-shared-coffee-machines-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2028.md",
       "title": "Self-service Shared Coffee Machines Market Size 2023 with New Report by Driving Players and Top Selling Cost till 2028",
       "excerpt": "New research published as the “Self-service Shared Coffee Machines Market” research report provides an in-depth review",
@@ -1255,49 +1289,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-chinese-search-giant-baidu-set-to-take-on-chatgpt-with-its-own-ai-chatbot.md",
-      "title": "Chinese search giant Baidu set to take on ChatGPT with its own AI Chatbot",
-      "excerpt": "Just two months after OpenAI’s ChatGPT took the world by storm, the Chinese search giant, Baidu, is set to announce its own conversational AI in March, which will be based on Baidu’s Ernie system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/01/baidu-chatgpt-ai-chatbot.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/01/baidu-chatgpt-ai-chatbot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg",
-          "width": 1345,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/01/baidu-chatgpt-ai-chatbot.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/01/baidu-chatgpt-ai-chatbot.html?amp",
-      "publishedDateTime": "2023-01-31T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

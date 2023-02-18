@@ -7,8 +7,8 @@ originalUrl: "https://manilastandard.net/tech/314305880/revving-up-talent-globe-
 webUrl: "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: manilastandard
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Configure an AWS DeepRacer environment for training and log analysis using the AWS CDK"
-    excerpt: "This post is co-written by Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, DeepRacer SME at Accenture. With the increasing use of artificial intelligence (AI) and machine learning (ML) for a vast majority of industries (ranging from healthcare to insurance, from manufacturing to marketing),"
-    publishedDateTime: 2023-02-13T18:23:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 128
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/13/configure-an-aws-deepracer-environment.jpg"
-        width: 1567
-        height: 782
-        isCached: true
   - title: "Revving up talent: Globe, AWS collaborate on Inter-University DeepRacer League"
     excerpt: "Inter-university AWS DeepRacer organizers from Globe and AWS with participants and guests. Leading digital solutions platform Globe recently collaborated with"
     publishedDateTime: 2023-02-18T02:07:00Z

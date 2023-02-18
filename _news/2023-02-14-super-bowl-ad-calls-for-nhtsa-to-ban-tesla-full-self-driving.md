@@ -590,6 +590,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 38
+  - title: "Five things to know about Tesla's recall of more than 350K self-driving cars"
+    excerpt: "Texas-based Tesla has issued a recall for more than 350,000 of its cars after federal regulators said certain models with so-called “self-driving” technology could cause traffic accidents, according to the National Highway Traffic Safety Administration."
+    publishedDateTime: 2023-02-17T17:35:00Z
+    webUrl: "https://www.expressnews.com/business/article/tesla-recall-musk-self-driving-autonomous-17790478.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 36
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/44/01/23478379/3/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Tesla recalling nearly 363,000 vehicles over 'full self-driving' software that could lead to crashes"
     excerpt: "Tesla is recalling 362,758 vehicles because a version of its \"full self-driving\" software may increase the risk of crashes, according to a notice posted Thursday on the National Highway Traffic Safety Administration's website. According to the recall ..."
     publishedDateTime: 2023-02-16T19:50:00Z

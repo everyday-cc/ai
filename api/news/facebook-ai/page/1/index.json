@@ -115,7 +115,7 @@
       "originalUrl": "https://www.wired.com/story/bing-chatbot-errors-ai-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -587,6 +587,93 @@
       "provider": {
         "name": "techzine",
         "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-health-care-bias-is-dangerous-but-so-are-fairness-algorithms.md",
+      "title": "Health Care Bias Is Dangerous. But So Are ‘Fairness’ Algorithms",
+      "excerpt": "Likewise, it may reflect underlying social inequalities in health care access and expenditures. Whatever the cause of the performance gap, our motivation for pursuing fairness is to improve the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/",
+      "originalUrl": "https://www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63dd8e4773cac2b11b42eb09/master/pass/ideas-ai-algorithm-healthcare-bias.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/amp",
+      "publishedDateTime": "2023-02-08T06:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-deepfake-news-anchors-in-pro-china-footage-research.md",
+      "title": "Deepfake 'News Anchors' In Pro-China Footage: Research",
+      "excerpt": "The \"news broadcasters\" appear stunningly real, but they are AI-generated deepfakes in first-of-their-kind propaganda videos that a research report published Tuesday attributed to Chinese state-aligned actors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
+      "originalUrl": "https://www.barrons.com/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/deepfake-news-anchors-in-pro-china-footage-research-01675823408",
+      "publishedDateTime": "2023-02-07T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1324,102 +1411,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-doctors-get-ready-for-your-ai-assistants.md",
-      "title": "Doctors, Get Ready for Your AI Assistants",
-      "excerpt": "Hospitals have begun using machine learning to help analyze and collect images, and the medical applications are endless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/doctors-artificial-intelligence-medicine/",
-      "originalUrl": "https://www.wired.com/story/doctors-artificial-intelligence-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ceb6f404fdce858b27a139/master/pass/05_As-AI-health-assistant-at-every-level.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/doctors-artificial-intelligence-medicine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-artificial-intelligence-medicine/amp",
-      "publishedDateTime": "2023-01-28T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-ai-provokes-many-ethical-questions.md",
-      "title": "AI provokes many ethical questions",
-      "excerpt": "How will AI journalistic writing be slanted? From the point of view of the news agencies or owners? Will dissent ever be tolerated? There are many ethical questions for society and education in particular.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/opinion/letters_to_the_editors/2023/01/28/ai-provokes-many-ethical-questions.html",
-      "originalUrl": "https://www.thestar.com/opinion/letters_to_the_editors/2023/01/28/ai-provokes-many-ethical-questions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/opinion/letters_to_the_editors/2023/01/28/ai-provokes-many-ethical-questions.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/letters_to_the_editors/2023/01/28/ai-provokes-many-ethical-questions.html",
-      "publishedDateTime": "2023-01-28T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

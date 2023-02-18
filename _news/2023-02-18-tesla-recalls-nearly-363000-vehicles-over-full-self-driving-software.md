@@ -582,6 +582,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 38
+  - title: "Five things to know about Tesla's recall of more than 350K self-driving cars"
+    excerpt: "Texas-based Tesla has issued a recall for more than 350,000 of its cars after federal regulators said certain models with so-called “self-driving” technology could cause traffic accidents, according to the National Highway Traffic Safety Administration."
+    publishedDateTime: 2023-02-17T17:35:00Z
+    webUrl: "https://www.expressnews.com/business/article/tesla-recall-musk-self-driving-autonomous-17790478.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 36
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/44/01/23478379/3/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Super Bowl ad calls for NHTSA to ban Tesla Full-Self Driving"
     excerpt: "Tesla has come under fire again for its controversially named Full Self-Driving driver-assist feature, this time in an ad that aired on Sunday in Washington, D.C., as well as in a number of state capitals during Super Bowl LVII. The spot shows a number of ..."
     publishedDateTime: 2023-02-13T19:26:00Z
@@ -774,6 +788,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "5OvxtbvdS4Auuy5uTOJcrpbgAcc1uxmzjCYTuOGbAXMdC2Zc5a99r3MoITPi6yIP81qvfRzygB7wD4nMkifEwczEkOjnbWWodihN0QvOY88DxxrbzJ8hJsKeC+4sXssn6ZtespD/KpFqWw/Ose6soCqKro+AxidS7EiZ8VWLSYjMofN3pS2WvfRFVRwvNPeOmmQez56qJHLhZG+NRZLOLrvZ5gjNw7Oy9eV5JFjEKlhW1R+GXozIdFu4PDybEfFCBNUvqPVdk7WnzbOV3WInFHK4h9/pHB+lu0Wk0kg2z+P18t4upQYAs7jXG3PVAO1hVPLXgaUgwqc6oqgDjh1HwyCqnDhGgdH5Zb4zZhW4pmw=;P9kvwNrjXzHLkfzH9Rbl8Q=="
+secured: "KGT4NWBl/YB3HfesS/nwwOFMAWWurMe8d2f6plKjiPEyHfQhUn7PPJQ40NFVhxNrZ3un9YIoj1H1+IWlAsOM3JBNjBBe0F9afTzNPP5G0399PDakyaiG0PF850Hkfx0F+wLSF5SvR+EUj6afXwXp9VNFkmlo4wfCV7BTUgC0h3jc66JVBopXeaUCqhbOfBKx/K1F9QkrV7DfPNhOnIJpjSbm1xziXTuYZZsYXV/AfIDLjw8KSa5glXBB56Etwu1icmoHnZRirf5FN5pC4nVUJAXiwPHAEvrJwtCjsYSHxcEuPODlLLTpXOOdoajMi79XzM5QIFdTp4M8rzjrUerMq4w/JJu4aMxZB67h4fpk3PREpAMu2XzKJ6QfqeZKR+Lp6Ea+zutxAEWS0VGq3aIXpmMzsLTOHVRnFviyqecWmGK6LRBzhgNgBFOLP6l9l0wDPAdt1pSDRxmyrOzd2TYJZLfY7JXGx8FGaO/M1pNAuMEh7dDCgmC5kG8rE59eMGiqROol0CJ9GpIkUG4SeDM15Q==;px2QEta/TN1V0EzCk7h5GA=="
 ---
 

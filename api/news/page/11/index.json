@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-02-08-mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029.md",
+      "title": "MLOps Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029",
+      "excerpt": "Amazon SageMaker, H2O.ai, Inc., Pachyderm Inc., HPE, SAS) with the best facts and figures, definitions, SWOT and PESTAL analysis, expert opinions and the latest trends around the world. To know How COVID-19 and Russia-Ukraine War Influence Will Impact This ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-microsofts-cloud-business-a-key-pillar-of-the-clubs-investment-case-stands-to-gain-from-the-ai-craze.md",
       "title": "Microsoft's cloud business, a key pillar of the Club's investment case, stands to gain from the AI craze",
       "excerpt": "Microsoft (MSFT) CEO Satya Nadella said Tuesday that the technology giant's profitable cloud-computing division, Azure, will help it monetize its burgeoning artificial intelligence (AI) capabilities. While we maintain a healthy skepticism around the ...",
@@ -1086,40 +1138,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-carnegie-mellon-universitys-ai-powered-frida-robot-collaborates-with-humans-to-create-art.md",
-      "title": "Carnegie Mellon University's AI-Powered FRIDA robot collaborates with humans to create art",
-      "excerpt": "FRIDA, a robotic arm with a paintbrush taped to it, uses artificial intelligence to collaborate with humans on works of art. Ask FRIDA to paint a picture, and it gets to work putting brush to canvas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/978829",
-      "originalUrl": "https://www.eurekalert.org/news-releases/978829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

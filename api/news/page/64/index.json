@@ -2,6 +2,58 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-12-30-baidu-ponyai-start-driverless-robotaxi-tests-in-beijing.md",
+      "title": "Baidu, Pony.ai start driverless robotaxi tests in Beijing",
+      "excerpt": "Outside China, self-driving rollout slower than expected Pace slowed by regulation, legal inquiries Baidu, Pony.ai testing without safety drivers in area of Beijing Dec 30 (Reuters) - Baidu Inc ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/baidu-gets-license-driverless-robotaxi-tests-beijing-2022-12-30/",
+      "originalUrl": "https://www.reuters.com/technology/baidu-gets-license-driverless-robotaxi-tests-beijing-2022-12-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xbRM5V-Nf4gfoqonZW7gBy0GeoU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y23KWZ3XPJMGRMZLOORCDOGQTU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-30T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-30-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
       "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
       "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
@@ -968,40 +1020,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know.md",
-      "title": "Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know",
-      "excerpt": "Read more about Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know on Devdiscourse",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T20:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

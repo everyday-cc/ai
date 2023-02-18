@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-10-how-big-data-and-ai-are-driving-the-evolution-of-evidence-based-medicine.md",
+      "title": "How Big Data and AI Are Driving the Evolution of Evidence-Based Medicine",
+      "excerpt": "That is until recently. Today, artificial intelligence and big data are democratizing medical knowledge in ways that were not previously thought possible. Medical knowledge platforms like Pathway Medical are leading the charge by combining these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-32.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-ticked-off-self-driving-cars.md",
       "title": "Ticked off! @self-driving cars",
       "excerpt": "I am ticked off that even the school buses speed on North Econ Trail between Watermill and University Boulevard. Not to single him out because there are many others; but there is a motorcyclist who comes through there at least 50 miles an hour in the 25 mile an hour zone.",
@@ -1248,40 +1291,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-this-chicago-startup-is-making-self-driving-tractors-a-reality.md",
-      "title": "This Chicago startup is making self-driving tractors a reality",
-      "excerpt": "Sabanto, with just 28 employees, is rolling out a hardware-software kit to retrofit most modern tractors. “This is life-changing. It stands to be the biggest advance in agriculture since tractors replaced the horse and plow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagobusiness.com/private-intelligence/sabanto-chicago-making-self-driving-tractors-reality",
-      "originalUrl": "https://www.chicagobusiness.com/private-intelligence/sabanto-chicago-making-self-driving-tractors-reality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crain's Chicago Business",
-        "domain": "chicagobusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

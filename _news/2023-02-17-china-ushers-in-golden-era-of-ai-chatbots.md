@@ -101,6 +101,22 @@ related:
         width: 1023
         height: 562
         isCached: true
+  - title: "ChatGPT Likely Helped Student Cheat in Ethics Course About Artificial Intelligence"
+    excerpt: "He believes one of his students used ChatGPT to produce an essay that he then attempted to pass off as his own in class – essentially using artificial intelligence to cheat in Green’s course on ‘Ethics in Artificial Intelligence.’ “The irony is ..."
+    publishedDateTime: 2023-02-16T23:51:00Z
+    webUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/"
+    ampWebUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 68
+    images:
+      - url: "https://media.nbcbayarea.com/2023/02/Generic-Students.png?resize=1200%2C675&quality=85&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ChatGPT's 100 Millionth User Means the Age of AI Is Here"
     excerpt: "It took Facebook 4½ years to reach 100 million users ... be going into funding the next-generation of silicon development, AI, 5G innovations across the United States and building research communities across the country. To stay updated with top ..."
     publishedDateTime: 2023-02-14T13:43:00Z

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-16-next-generation-amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings-at-scale.md",
+      "title": "Next generation Amazon SageMaker Experiments – Organize, track, and compare your machine learning trainings at scale",
+      "excerpt": "Today, we’re happy to announce updates to our Amazon SageMaker Experiments capability of&nbsp;Amazon SageMaker that lets you organize, track, compare and evaluate machine learning (ML) experiments and model versions from any integrated development environment (IDE) using the SageMaker Python SDK or boto3,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/next-generation-amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings-at-scale/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/next-generation-amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/14/ml-12725-image003-1179x630.png",
+          "width": 1179,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T13:32:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-automatically-identify-languages-in-multi-lingual-audio-using-amazon-transcribe.md",
       "title": "Automatically identify languages in multi-lingual audio using Amazon Transcribe",
       "excerpt": "If you operate in a country with multiple official languages or across multiple regions, your audio files can contain different languages. Participants may be speaking entirely different languages or may switch between languages. Consider a customer service call to report a problem in an area with a",

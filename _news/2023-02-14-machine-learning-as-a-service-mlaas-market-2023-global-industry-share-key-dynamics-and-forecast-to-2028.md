@@ -30,43 +30,43 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Top Healthcare AI Companies (Koninklijke Philips N.V, NVIDIA Corporation, General Vision, Next IT Corp, CloudMedx Inc, IBM Watson Health, GENERAL ELECTRIC, Stryker, DEEP GENOMICS, Intel Corporation, Google, Microsoft Corporation) with the best facts and ..."
-    publishedDateTime: 2023-02-15T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15"
+  - title: "Machine Learning-as-a-Service (MLaaS) Market Size, Share and Forecast 2028 with Top Countries Data"
+    excerpt: "Machine Learning-as-a-Service (MLaaS) Market Size is projected to Reach Multimillion ... as well as end-users.Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc."
+    publishedDateTime: 2023-02-17T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market 2023 Top Companies, Industry Outlook | In-depth Analysis Business Opportunities and Demand to 2029"
-    excerpt: "The major players covered in the AI in Social Media market report are: North America is expected to have the largest market size in the AI in social media market, while APAC is expected to grow at the highest CAGR during the forecast period."
-    publishedDateTime: 2023-02-16T04:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2023-top-companies-industry-outlook-in-depth-analysis-business-opportunities-and-demand-to-2029-2023-02-16"
+  - title: "Face Recognition Device Market Size 2023: Reliable Business Demand, and New Strategies Forecast with Top Countries Data"
+    excerpt: "Latest Face Recognition Device Market [122 Pages with 227 No. of Tables and Figures] Research Report provides qualitative and quantitative information on CAGR status and industry"
+    publishedDateTime: 2023-02-14T15:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-reliable-business-demand-and-new-strategies-forecast-with-top-countries-data-2023-02-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Telecommunication Market Insights-Industry changing aspects, New Technologies and Forecast to 2028"
-    excerpt: "Artificial Intelligence in the Telecommunication Market Size 2023-2028 | New Report (79 Pages) | In This Reports"
-    publishedDateTime: 2023-02-16T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2028-2023-02-16"
+  - title: "Pay-Per-Click (PPC) Tools Market Forcast 2023 To 2028 : In-depth Research Analysis with Top Countries Data"
+    excerpt: "What is the projected market size and growth rate of the Pay-Per-Click (PPC) Tools Market? Pay-Per-Click (PPC) Tools Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
+    publishedDateTime: 2023-02-14T01:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pay-per-click-ppc-tools-market-forcast-2023-to-2028-in-depth-research-analysis-with-top-countries-data-2023-02-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

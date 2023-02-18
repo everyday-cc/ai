@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -219,7 +219,7 @@
       "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -455,6 +455,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-chinese-chip-trade-group-opposes-export-controls-from-us-netherlands-japan.md",
+      "title": "Chinese chip trade group opposes export controls from U.S., Netherlands, Japan",
+      "excerpt": "The initial U.S. sanctions took aim at Chinese purchases of advanced artificial intelligence (AI) computing chips, as well as equipment that chip factories could use to produce leading-edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/chinese-chip-trade-group-opposes-export-controls-us-netherlands-japan-statement-2023-02-15/",
+      "originalUrl": "https://www.reuters.com/technology/chinese-chip-trade-group-opposes-export-controls-us-netherlands-japan-statement-2023-02-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/kuYlpRz_GdHM8MtGnuBMV8MPY2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PEL2SG6CW5L35LQZL6AYO6H4U4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1346,50 +1398,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
-      "title": "Microsoft and Google are about to Open an AI battle",
-      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
-      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

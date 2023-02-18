@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/02/16/make-your-midjourney-ai-prompts-better-with-chatgpt/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT-led AI buzz unlikely to fuel near-term software growth"
-    excerpt: "The hype around AI fueled by ChatGPT is a positive development for the software industry, but we don't see any sizable near-term sales gains."
-    publishedDateTime: 2023-02-13T18:08:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bbhub.io/professional/sites/10/man.png"
-        width: 426
-        height: 288
-        isCached: true
   - title: "South Korea boosts its AI chip industry with $642M amid ChatGPT frenzy"
     excerpt: "South Korea hopes to be a key player in fulfilling the new global demand for next-generation AI chips, and today the government put some money where its mouth is: the country’s Ministry of Science and ICT said it would earmark $642.5 million (826.2 ..."
     publishedDateTime: 2023-02-16T10:16:00Z

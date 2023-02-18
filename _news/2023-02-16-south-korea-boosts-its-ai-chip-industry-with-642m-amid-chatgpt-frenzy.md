@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "ChatGPT-led AI buzz unlikely to fuel near-term software growth"
-    excerpt: "The hype around AI fueled by ChatGPT is a positive development for the software industry, but we don't see any sizable near-term sales gains."
-    publishedDateTime: 2023-02-13T18:08:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/chatgpt-led-ai-buzz-unlikely-to-fuel-near-term-software-growth/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 71
-    images:
-      - url: "https://assets.bbhub.io/professional/sites/10/man.png"
-        width: 426
-        height: 288
-        isCached: true
   - title: "12 Best AI Plagiarism Checkers to Detect ChatGPT-Generated Content"
     excerpt: "We start with a recently released AI plagiarism checker by OpenAI, the company behind ChatGPT itself. Called the AI Text Classifier, the app is a finely tuned GPT model made by the company. The classifier is responsible for predicting how likely it is that ..."
     publishedDateTime: 2023-02-18T07:51:00Z

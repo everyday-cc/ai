@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-02-06-what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare.md",
-      "title": "What ChatGPT And Other AI Tools Mean For The Future Of Healthcare",
-      "excerpt": "In the near future, AI will play an even more significant role in medicine, assisting physicians with clinical and administrative tasks to improve the quality, affordability and accessibility of care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/amp/",
-      "publishedDateTime": "2023-02-06T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-06-artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players.md",
       "title": "Artificial Intelligence Chipset Market Size 2023-2028 Financial Insights, Business Growth Strategies and Top Key Players",
       "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -1319,6 +1276,60 @@
         "Machine Learning",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-what-greek-myths-can-teach-us-about-the-dangers-of-ai.md",
+      "title": "What Greek myths can teach us about the dangers of AI",
+      "excerpt": "How far should we go with AI? And what are the looming implications of this technology? Three Ancient Greek myths help us give an answer.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai",
+      "originalUrl": "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-97-15.jpg&signature=56160b29db2ed4aba13fef25ff153c47",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T04:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
       ]
     }
   ],

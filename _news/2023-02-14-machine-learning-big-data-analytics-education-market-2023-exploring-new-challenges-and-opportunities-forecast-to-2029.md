@@ -86,6 +86,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Social Media Market 2023 Top Companies, Industry Outlook | In-depth Analysis Business Opportunities and Demand to 2029"
+    excerpt: "The major players covered in the AI in Social Media market report are: North America is expected to have the largest market size in the AI in social media market, while APAC is expected to grow at the highest CAGR during the forecast period."
+    publishedDateTime: 2023-02-16T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2023-top-companies-industry-outlook-in-depth-analysis-business-opportunities-and-demand-to-2029-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in the Telecommunication Market Insights-Industry changing aspects, New Technologies and Forecast to 2028"
+    excerpt: "Artificial Intelligence in the Telecommunication Market Size 2023-2028 | New Report (79 Pages) | In This Reports"
+    publishedDateTime: 2023-02-16T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Speech Recognition System Market Size with Significant Growth Rate during Forecast 2023-2029 | New Research Report by Absolute Reports"
     excerpt: "Global “Automotive Speech Recognition System Market” research gives data of drive consolidations and securing procedures to grow market share and size for forecast period of 2023-2029. Report additionally furnishing industrial business with various ..."
     publishedDateTime: 2023-02-18T02:56:00Z

@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/63dd8e4773cac2b11b42eb09/master/pass/ideas-ai-algorithm-healthcare-bias.jpg"

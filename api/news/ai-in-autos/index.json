@@ -247,7 +247,7 @@
       "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -356,7 +356,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 669,
+      "heat": 679,
       "tags": null,
       "images": [
         {
@@ -493,6 +493,50 @@
         "AI in Healthcare",
         "AI",
         "AI in Marketing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.md",
+      "title": "Revving up talent: Globe, AWS collaborate on Inter-University DeepRacer League",
+      "excerpt": "Leading digital solutions platform Globe recently collaborated with Amazon Web Services (AWS) to host the inter-university AWS DeepRacer League for",
+      "sourceUrl": null,
+      "webUrl": "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html",
+      "originalUrl": "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manilastandard.net/wp-content/uploads/2023/02/Photo-2.jpg",
+          "width": 850,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilastandard",
+        "domain": "manilastandard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
         "AI in Autos"
       ]
     },
@@ -656,7 +700,7 @@
       "originalUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1406,49 +1450,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-how-big-data-and-ai-are-driving-the-evolution-of-evidence-based-medicine.md",
-      "title": "How Big Data and AI Are Driving the Evolution of Evidence-Based Medicine",
-      "excerpt": "That is until recently. Today, artificial intelligence and big data are democratizing medical knowledge in ways that were not previously thought possible. Medical knowledge platforms like Pathway Medical are leading the charge by combining these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-32.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

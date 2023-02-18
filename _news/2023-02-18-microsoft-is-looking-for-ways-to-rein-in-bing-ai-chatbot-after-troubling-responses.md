@@ -1,33 +1,30 @@
 ---
 category: news
 title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
-publishedDateTime: 2023-02-17T17:42:00Z
-originalUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
+publishedDateTime: 2023-02-17T21:58:00Z
+originalUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
 type: article
-quality: 98
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
+  - AI in Robotics
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
-    width: 1100
-    height: 619
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-136bfc3d0e45cf05ebcbdaebda8967e0-h-8b1298d1ec7960ff76910faf0490b305-jpg-1676675679.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -508,6 +505,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "hDQeSUIkjgRiDkdJM3FISiiMam5fCWMIU94gtdskc/mH+Bp0mrb0jQ4UvU/nMl5Soq/+nlxKaluDgks4BFvTO4WumX996ItAqNIHeS5STrjUkzEEpyOMel+bfZ8cWBN4ZT2CIcGE8kFmo0RIhVBFO2+hvNfFGhMed/nMi4y+MBOR8oBx9NaU2EIaeJvT/g1Su95ra9ZTpqF+6Y1SzQSxk0e7vDIFzwuCcmCynQ9vG0ilO/gHXkGvyGcmLhRmYMdIyqBy3PmW2pKIxUeR4tZshwirPMHmC1hOcZd5uuFwmR4WgSMhZcH73hGq6laf+gkuEW48tAoF2iRrwiiHP/6VVHvRLAFkFKatfywMwfL0qCU=;IzSStPM/RukFXcB/XwBeQA=="
+secured: "UkMcbOWtimLxc3ATkLijh3T5hVvlT+u2TxdpFEvTpUvTQzA+DCih2cnk+M5XIeBgVGqCzlw6We+f2yX/yUi9MqmjEPEK6K45hV8SX4ROQF8dUyFhjIBBSO83IaXs1lfxQD0H7QntjGO3TzoifzIpBzsQyEuQ2QG8ovPkTy28yWlP+uRuzYsiOXjFsXLiaI37hwWmmZP9ZGUuwUfyC1L7KOwOlcnzuDjBq+ZIkTI3WVfyfspelzLMfhYq029RhLQlXd7pbfwOYGqUS81VK/sqtfIBaxGnlTWnFzVtOZpS2rk8kQz4q62fRxZ0ahw8dcf7ZD3qAVxHGDc+yUEH4lE86UdwCcctzkfRv0kEsK71LS4=;at1bTCOecclxj1PGHv7uiw=="
 ---
 

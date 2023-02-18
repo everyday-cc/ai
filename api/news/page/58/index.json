@@ -2,6 +2,40 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-01-06-artificial-intelligence-market-regional-opportunities-and-future-scope-report-2030.md",
+      "title": "Artificial Intelligence Market Regional Opportunities And Future Scope Report 2030",
+      "excerpt": "Artificial Intelligence Industry Overview The global artificial intelligence market size was valued at USD 93.5 billion in 2021 and is projected to expand at a compound annual growth rate (CAGR) of 38.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vingle.net/posts/5170783",
+      "originalUrl": "https://www.vingle.net/posts/5170783",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Erin1980",
+        "domain": "vingle.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-amd-unveils-monster-instinct-mi300-hybrid-cpu-gpu-ai-accelerator-and-skynet-smiles.md",
       "title": "AMD Unveils Monster Instinct MI300 Hybrid CPU-GPU AI Accelerator And Skynet Smiles",
       "excerpt": "AMD's RDNA 3 GPU architecture found in the Radeon RX 7900 ... CEO Dr. Lisa Su announced the Instinct MI300, the latest in AMD's AI and other compute accelerators with a big focus on sustainability ...",
@@ -1044,49 +1078,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-worx-introduces-new-landroid-vision-robotic-lawn-mower-industrys-first-robotic-mower-with-neural-network-technology.md",
-      "title": "WORX Introduces New LANDROID Vision Robotic Lawn Mower, Industry's First Robotic Mower with Neural Network Technology",
-      "excerpt": "equipped with the top-level neural network – artificial intelligence that is trained to distinguish between grass and non-grass. Through its on-board HDR camera and VISION AI, Worx's new ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/worx-introduces-new-landroid-vision-robotic-lawn-mower-industry-s-first-robotic-mower-with-neural-network-technology-1032002701",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/worx-introduces-new-landroid-vision-robotic-lawn-mower-industry-s-first-robotic-mower-with-neural-network-technology-1032002701",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

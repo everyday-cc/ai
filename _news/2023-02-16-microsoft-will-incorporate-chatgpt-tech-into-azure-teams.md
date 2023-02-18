@@ -123,22 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-    excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
-    publishedDateTime: 2023-02-17T17:42:00Z
-    webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 98
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Microsoft limits Bing AI chats after the chatbot had some unsettling conversations"
     excerpt: "Microsoft's Bing AI chatbot will be capped at 50 questions per day and five question-and-answers per individual session, the company said on Friday. The change comes after early beta testers of the chatbot, which is designed to enhance the Bing search ..."
     publishedDateTime: 2023-02-17T21:55:00Z
@@ -363,6 +347,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
+    excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
+    publishedDateTime: 2023-02-17T21:58:00Z
+    webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+    type: article
+    provider:
+      name: KCCI Des Moines
+      domain: kcci.com
+    quality: 70
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-136bfc3d0e45cf05ebcbdaebda8967e0-h-8b1298d1ec7960ff76910faf0490b305-jpg-1676675679.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft now says AI-powered Bing chatbot is ‘not a replacement or substitute for the search engine’"
     excerpt: "Microsoft was clear from the start that its limited preview of the new technology ... strengths and surprising weaknesses in a lengthy exchange last week, when the AI chatbot made complex inferences and proactively conducted advanced research, while ..."
     publishedDateTime: 2023-02-16T16:18:00Z
@@ -504,6 +504,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "8JQg/8ZWpwjCeArmVluv3Qyehhe/gDeBbzBu/5SXxWnYxtBeZ58kNXYF8EOo96DAKxBLkvvCz0c26PuoRl5iMm+8xaG9PrcaSAXauUVjbWtodPB1nNTOT4UVC26H8/d/yaBZ7OvyzlRjNMwGCKYRDD5p+W28S+eQ13vd3mu1juVnn0YZonLW7JG77faJ2ofHm7o5RjFbHHjhqVFH2eghBp4NDaByIhnA2YMnU6wnd85/0dBRr50Hv/Dn3JXSI8O1LYUfz3lutrrnBwRz15yvFNoXOHlk48cBEkJFQpfT+ALeERX6ccgRFC6UCtPO/ZKnCcn2KRdnOGVvytbzvwg7I+XmT/CyUXobydlkUsBoTzU=;4GTbu9lvrukUnEFbsx8D2w=="
+secured: "KlTdmKNumkuqWwnvnRnMYnfHrUjx+9zM1mMpG1Q7ePNsQxlrMPrGxoUOac8q7le9d2fLL2F0UT+Gl4chR1+q41aQZl+Q7wzgdoKtBr74MkHP0YWk6x9ISQTeoX8anGtZ7GcuPhpwd+oF1TRi5Ea4UXwxemZg7CDyTaZOU53N1wNl4JBmy/n2yMZz+Dwvo/jxJcosOJYUEIleSiL5iWEkSqdv9mMbEnwVNC1gVmppbI39U/TAd2xTtE/TTfO3rbQMYLMsflZIv7VgxnUxO2KkRBCqdBMFCvcEZD/3pqDQd3es9w30dJsY+enQTvd+svj2SWdfTweHbB1EJErW5/r29cpX9LsDW3oOfJBvki1hBpuyE76SA0zugT04FVFtmZ0et9f0E2zlgCYKIomPrOBUJDzsJAeblPNY8ggLUcKajpIPkNoxKp142FuxI4VT7qtTO64jzngtMKsmN/QYEk6NMqTVbEVnhzujdImwAviRycQVHBGpLH1+Yapw1g+tetWnsJpwxz8S2I4rOGWAZdUIzg==;XULJaBBMapTUnnU0KTffVg=="
 ---
 

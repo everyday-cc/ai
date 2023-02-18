@@ -89,6 +89,50 @@
       ]
     },
     {
+      "path": "_news/2023-02-16-revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.md",
+      "title": "Revving up talent: Globe, AWS collaborate on Inter-University DeepRacer League",
+      "excerpt": "Leading digital solutions platform Globe recently collaborated with Amazon Web Services (AWS) to host the inter-university AWS DeepRacer League for",
+      "sourceUrl": null,
+      "webUrl": "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html",
+      "originalUrl": "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manilastandard.net/wp-content/uploads/2023/02/Photo-2.jpg",
+          "width": 850,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilastandard",
+        "domain": "manilastandard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages.md",
       "title": "Latest Survey on \"Artificial Intelligence (AI) Chips Market\" 2023-2028, Updated Report With 115 Pages",
       "excerpt": "Report Highlights:- \"The global Artificial Intelligence (AI) Chips market size was valued at USD 13131.9 million in",
@@ -349,58 +393,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost.md",
-      "title": "Image Recognition in Retail Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost",
-      "excerpt": "Facial Recognition, Object Recognition, Others]that held the largest Image Recognition in Retail market share In 2022. Short Description About Image Recognition in Retail Market: The Global Image Recognition in Retail market is anticipated to rise at a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1161,21 +1153,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-15-healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029.md",
-      "title": "Healthcare AI Market Insights-Industry changing aspects, New Technologies and Forecast to 2029",
-      "excerpt": "Top Healthcare AI Companies (Koninklijke Philips N.V, NVIDIA Corporation, General Vision, Next IT Corp, CloudMedx Inc, IBM Watson Health, GENERAL ELECTRIC, Stryker, DEEP GENOMICS, Intel Corporation, Google, Microsoft Corporation) with the best facts and ...",
+      "path": "_news/2023-02-15-chinese-chip-trade-group-opposes-export-controls-from-us-netherlands-japan.md",
+      "title": "Chinese chip trade group opposes export controls from U.S., Netherlands, Japan",
+      "excerpt": "The initial U.S. sanctions took aim at Chinese purchases of advanced artificial intelligence (AI) computing chips, as well as equipment that chip factories could use to produce leading-edge ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15",
+      "webUrl": "https://www.reuters.com/technology/chinese-chip-trade-group-opposes-export-controls-us-netherlands-japan-statement-2023-02-15/",
+      "originalUrl": "https://www.reuters.com/technology/chinese-chip-trade-group-opposes-export-controls-us-netherlands-japan-statement-2023-02-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://www.reuters.com/resizer/kuYlpRz_GdHM8MtGnuBMV8MPY2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PEL2SG6CW5L35LQZL6AYO6H4U4.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1185,14 +1177,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T23:45:00-08:00",
+      "publishedDateTime": "2023-02-15T00:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1208,9 +1200,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
+        "AI Hardware",
+        "AI"
       ]
     },
     {

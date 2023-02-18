@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2023-02-16-revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.md",
+      "title": "Revving up talent: Globe, AWS collaborate on Inter-University DeepRacer League",
+      "excerpt": "Leading digital solutions platform Globe recently collaborated with Amazon Web Services (AWS) to host the inter-university AWS DeepRacer League for",
+      "sourceUrl": null,
+      "webUrl": "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html",
+      "originalUrl": "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manilastandard.net/wp-content/uploads/2023/02/Photo-2.jpg",
+          "width": 850,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilastandard",
+        "domain": "manilastandard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models.md",
       "title": "Implementing MLOps practices with Amazon SageMaker JumpStart pre-trained models",
       "excerpt": "Amazon SageMaker JumpStart is the machine learning (ML) hub of SageMaker that offers over 350 built-in algorithms, pre-trained models, and pre-built solution templates to help you get started with ML fast. JumpStart provides one-click access to a wide variety of pre-trained models for common ML tasks",
@@ -1255,40 +1299,6 @@
       "provider": {
         "name": "Channel NewsAsia Singapore",
         "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation-sources.md",
-      "title": "AI Startup Cohere In Talks To Raise Funding At $6 Billion Plus Valuation -sources",
-      "excerpt": "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, is in talks to raise hundreds of millions of dollars in a funding round that could value the startup at more than $6 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation-sources-3664907",
-      "originalUrl": "https://www.ibtimes.com/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation-sources-3664907",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation-sources-3664907?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation-sources-3664907?amp=1",
-      "publishedDateTime": "2023-02-06T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

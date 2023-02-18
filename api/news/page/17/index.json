@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-02-07-advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against.md",
+      "title": "Advanced AI in criminals’ hands is a danger we should guard against",
+      "excerpt": "Opinion - Generative AI can write essays, code software, create music and art, and hold conversations. It is exciting, but what happens when they're turned to illegal uses?",
+      "sourceUrl": null,
+      "webUrl": "https://www.rnz.co.nz/news/national/483764/advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against",
+      "originalUrl": "https://www.rnz.co.nz/news/national/483764/advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rnz",
+        "domain": "rnz.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-this-aussie-professor-is-an-ai-legend-chatgpt-shocked-even-him.md",
       "title": "This Aussie professor is an AI legend. ChatGPT shocked even him",
       "excerpt": "Professor Christopher Manning is the most cited natural language processing expert in the world. He says society has to adapt to generative AI technology.",
@@ -903,49 +937,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-an-extension-of-ferminet-to-discover-quantum-phase-transitions.md",
-      "title": "An extension of FermiNet to discover quantum phase transitions",
-      "excerpt": "In 2020, Google's British AI subsidiary DeepMind used a new ANN architecture dubbed the Fermionic neural network (FermiNet) to solve the Schrodinger equation for electrons in molecules, a central problem in the field of chemistry. The Schroedinger equation ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
-      "originalUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-extension-of-fermin.jpg",
-          "width": 2880,
-          "height": 1288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
-      "publishedDateTime": "2023-02-06T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
