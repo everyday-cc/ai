@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Integrating AI with infrared imaging to improve colon cancer diagnosis"
-    excerpt: "Artificial intelligence and infrared imaging automatically classify tumors and are faster than previous methods. The immense progress in the field of therapy options over the past years has significantly improved the chances of cure for patients with colon ..."
-    publishedDateTime: 2023-02-15T00:12:00Z
-    webUrl: "https://www.news-medical.net/news/20230214/Integrating-AI-with-infrared-imaging-to-improve-colon-cancer-diagnosis.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Colon_cancer_-_Sebastian_Kaulitzki_277dbee2959349bbbd2680e383db4864-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "New AI Tool Helps Personalize Breast Cancer Therapy"
     excerpt: "University of Waterloo researchers have created a tool that leverages artificial intelligence (AI) to personalize breast cancer treatment. The development of machine learning and"
     publishedDateTime: 2023-02-17T15:06:00Z

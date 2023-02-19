@@ -261,22 +261,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla recalls 'Full Self-Driving' to fix flaws in behavior"
-    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits DETROIT -- Tesla is recalling nearly 363,000 vehicles with its “Full Self ..."
-    publishedDateTime: 2023-02-16T18:39:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/tesla-recalls-full-driving-fix-flaws-behavior-97260121"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tesla-recalls-full-driving-fix-flaws-behavior-97260121"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tesla-recalls-full-driving-fix-flaws-behavior-97260121"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_875b54d4b71e97d43a17e968d7b856ae_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' system"
     excerpt: "DETROIT - Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U."
     publishedDateTime: 2023-02-16T18:07:00Z
@@ -519,6 +503,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
+    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
+    publishedDateTime: 2023-02-16T18:05:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 39
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
     publishedDateTime: 2023-02-17T11:28:00Z

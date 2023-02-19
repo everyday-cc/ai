@@ -65,17 +65,17 @@ related:
     quality: 41
   - title: "US launches artificial intelligence military use initiative"
     excerpt: "The United States launched an initiative Thursday promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries, seeking to impose order on an emerging technology that has the potential to change the way war is waged."
-    publishedDateTime: 2023-02-17T18:29:00Z
-    webUrl: "https://www.militarytimes.com/news/2023/02/17/us-launches-artificial-intelligence-military-use-initiative/"
+    publishedDateTime: 2023-02-16T20:01:00Z
+    webUrl: "https://www.chron.com/news/world/article/us-launches-artificial-intelligence-military-use-17788415.php"
     type: article
     provider:
-      name: Military Times
-      domain: militarytimes.com
-    quality: 41
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
     images:
-      - url: "https://www.militarytimes.com/resizer/jy4v5JCOLT7nEoE9lSOYNFB17Qg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/6S4UYCVZFVEAXHWSAO5WDPHKJI.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s.hdnux.com/photos/01/31/43/56/23477156/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "z4GtuC/EHbx5roDXsdLP+wx7wqdlhHA7/kqWZiuwgEEnsNjoEKxLX8LD6YNDWLq+/UmZA7HPAgrIeJDniAQDw07BCzBYGJFksFSZuIG8R/m9LnO1xc8dow4XodMFYYqK5r8P6reNs9dsJEIVvT/HlSRLUInKsbrUQnAQFlOktpX+xutWc6JblD9dXYg092T7666A4bGXMEk1Xlv0UbDkdT1O5ejRzCQCmPS78ou/BfyvxSgKm2CiVesJ5V7V960BpUzAr95XxOhRvO4yeHg9VkKc99cpPTdsdn0iw7j47hpIzGO86L7JO9o3C9Wp0GnRmJ45LpZXxwJl3ojsRe4+SStESNH6qQJllYRm4jNm224paEoL9mC5F6IWw57VJh+xPIQ9k75Gbar2674t/mQyzVcPKhf3NVGN/XqDPJIpvhTvbzcbbRX57oPb2QTpcI8HwHuGlK1kYYjI1OWDt/Zgto3KVJglZ8ZB6d2+dRHdI+IdeSPqZEM/0gsic5hKl61OM/o6N4UtLAMWkpdFJ3TLNg==;PplP0S2HUOABAIeYLwPu6A=="

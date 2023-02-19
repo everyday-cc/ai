@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-19T11:19:00Z
 originalUrl: "https://www.cnbc.com/2023/02/19/microsoft-raises-the-stakes-in-the-chatbot-race.html"
 webUrl: "https://www.cnbc.com/2023/02/19/microsoft-raises-the-stakes-in-the-chatbot-race.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: CNBC

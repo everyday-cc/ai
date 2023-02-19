@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artific
 webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages-2023-02-16"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automated Data Science and Machine Learning Platforms Market Size Global Research Report, 2023 - 2029"
+    excerpt: "Insights] Top “Automated Data Science and Machine Learning Platforms Market” Size 2023 Key players Profiled in"
+    publishedDateTime: 2023-02-19T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-data-science-and-machine-learning-platforms-market-size-global-research-report-2023---2029-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

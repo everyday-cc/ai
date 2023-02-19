@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-ch
 webUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17"
 type: article
 quality: 72
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Temperature Measuring and Face Recognition Security Check Gate Market 2023-2029: Innovative Strategies for Business Growth and Development"
+    excerpt: "Global “Temperature Measuring and Face Recognition Security Check Gate Market” Report 2023 by Manufacturers and Forecast"
+    publishedDateTime: 2023-02-19T12:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/temperature-measuring-and-face-recognition-security-check-gate-market-2023-2029-innovative-strategies-for-business-growth-and-development-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Device Market In 2023 By In-depth Analysis of Revenue Forecast and Competitive Landscape 2028"
     excerpt: "Feb 15, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Research Report 2023 Provides a Basic overview of the Industry including"
     publishedDateTime: 2023-02-16T02:03:00Z
@@ -53,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Construction Market Booming With Rising Demands and Massive Opportunities, 2023 - 2027"
+    excerpt: "Top “ Artificial Intelligence in Construction Market ” Size 2023 Key players Profiled in the Report are [SAP, Deepomatic, Coins Global, Autodesk, FuGenX Technologies, Predii, Assignar, Jaroop, Beyond Limits,"
+    publishedDateTime: 2023-02-19T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-booming-with-rising-demands-and-massive-opportunities-2023---2027-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

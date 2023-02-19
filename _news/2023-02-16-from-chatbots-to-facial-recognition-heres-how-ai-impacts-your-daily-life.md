@@ -223,6 +223,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "How open AI chatbots are effective marketing companions?"
+    excerpt: "Marketers have long hoped for a radical technology advance, a game-changing AI intervention that would slickly bring them nearer to their target audience. ChatGPT and Google Bard, an AI chatbot with generative language that was created by OpenAI will completely transform how you communicate with customers."
+    publishedDateTime: 2023-02-19T14:25:00Z
+    webUrl: "https://www.livemint.com/technology/how-open-ai-chatbots-are-effective-marketing-companions-11676816312574.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
   - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
     excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
     publishedDateTime: 2023-02-15T02:22:00Z

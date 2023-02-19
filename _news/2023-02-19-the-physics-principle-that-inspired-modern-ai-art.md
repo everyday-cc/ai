@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-19T13:00:00Z
 originalUrl: "https://www.wired.com/story/the-physics-principle-that-inspired-modern-ai-art/"
 webUrl: "https://www.wired.com/story/the-physics-principle-that-inspired-modern-ai-art/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired

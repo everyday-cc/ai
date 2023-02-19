@@ -201,6 +201,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "Americans are wary of AI tech like ChatGPT, data shows"
+    excerpt: "Nearly 4 in 10 Americans say they are more concerned than excited about an increase in artificial intelligence in their daily lives."
+    publishedDateTime: 2023-02-19T14:54:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/data-download/chatgpt-ai-tech-leaves-americans-concerned-excited-rcna71369"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
   - title: "Inside the ChatGPT race in China"
     excerpt: "Maybe it was because of the holiday season, or maybe it was because ChatGPT is not currently available in China, but it took more than two months for the natural-language-processing chatbot to finally blow up in the country. (OpenAI, the company behind ..."
     publishedDateTime: 2023-02-15T11:01:00Z

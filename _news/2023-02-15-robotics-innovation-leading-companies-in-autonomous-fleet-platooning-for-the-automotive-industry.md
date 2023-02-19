@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Innovations in the cloud and data biases in machine learning"
-    excerpt: "One of the things that we’re trying to address, even in the [diversity, equity and inclusion] space is making sure that our job descriptions are not introducing any biases so that people will eliminate themselves immediately,"
-    publishedDateTime: 2023-02-14T22:20:00Z
-    webUrl: "https://siliconangle.com/2023/02/14/innovations-cloud-data-biases-machine-learning-womenofthecloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/Patricia-Jordan-Women-of-the-Cloud-2023.jpg"
-        width: 3456
-        height: 2178
-        isCached: true
   - title: "Artificial intelligence innovation: Leading companies in autonomous fleet platooning for the automotive industry"
     excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
     publishedDateTime: 2023-02-15T10:58:00Z

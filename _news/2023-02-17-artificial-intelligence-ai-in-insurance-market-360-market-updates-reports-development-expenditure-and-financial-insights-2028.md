@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automated Data Science and Machine Learning Platforms Market Size Global Research Report, 2023 - 2029"
+    excerpt: "Insights] Top “Automated Data Science and Machine Learning Platforms Market” Size 2023 Key players Profiled in"
+    publishedDateTime: 2023-02-19T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-data-science-and-machine-learning-platforms-market-size-global-research-report-2023---2029-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest Survey on \"Artificial Intelligence in Medicine Market\" Analysis 2023-2028, Updated Report With 109 Pages"
     excerpt: "Report Highlights:- \"The global Artificial Intelligence in Medicine market size was valued at USD 2312.61 million in"
     publishedDateTime: 2023-02-16T15:52:00Z

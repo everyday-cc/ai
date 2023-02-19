@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Tesla recalls 'Full Self-Driving' to fix flaws in behavior"
-excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits DETROIT -- Tesla is recalling nearly 363,000 vehicles with its “Full Self ..."
-publishedDateTime: 2023-02-16T18:39:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/tesla-recalls-full-driving-fix-flaws-behavior-97260121"
-webUrl: "https://abcnews.go.com/US/wireStory/tesla-recalls-full-driving-fix-flaws-behavior-97260121"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tesla-recalls-full-driving-fix-flaws-behavior-97260121"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tesla-recalls-full-driving-fix-flaws-behavior-97260121"
+title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
+excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
+publishedDateTime: 2023-02-16T18:05:00Z
+originalUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC News
-  domain: abcnews.go.com
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_875b54d4b71e97d43a17e968d7b856ae_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue"
@@ -781,6 +775,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "biT/rJd9LFoT9K9oV5a2VWVC0warW4Bc5nkj5+Y7ivQcqtuo7cQ12f0sNyWOeTgu0lAoggeJwc4Xeuc+N0TUFS1PV6DCPCl8zKk4iVgZ98RUTAI3Y/Ek3GOKmXrkue6mhFm6fbEBbK+InJsjkgst+7cN4gQWznYI1lOZrQGV2JtgIkqySIwPuF0KXmvFiwN33WuYOgE7oqPwq7JV/C72So2qlRqjSLPRLs+pxDY+Dg7YXUumbkgx20F2B/tKbEEJPHqLi6CVUwruzOEuvAAfYEheTKlMcYeGly6jfscMOV7G/SbMxWhwSekw3Yv+cMmeQ/RzmPz1bYyoR9+lzGYpBHKC5WQuOo9aP1qW88gurL6btjUgEzjfeFBy5fS7dFdciAkhnljgufRqLA1B5wa7mgBbBJ1c5WgjqAII7TA07EmMlE2M8qo8IP5fz29uVi10PLFmGxbqgsexqDmGUtbypjP7qRBNZHT6wnHHgf/U39g0H7XOxDX4Nb7o8nd21dOSKy9rjZOcm74A3IxGoIVKGg==;qps92e1coXxDEMXf0qORZA=="
+secured: "rRvGUEVLQl/6gAYUS8QC9sleLVVzfDLvcr1DmgiMfoPtA7FAyfJWiyXyMyVypz+GWDN3GGNl9iUmNyIcOvEVEa/BZWXje+/2MEAd2akidvQkxRJBEsLPSZ0EBR8R9djtQ6SV7EXuQcWkSkgE60eDQTmicmR27xNfFAi6E/FIv5+L2pCQggh9OeXrbs+p16FMuyOZc70DdGgX5/JbzCNhPL+ky7+4v+58bIWvR9UOa7s6hmd5XmWsqUGQ1QCHlFlgDl7BSvDrhPwOWiRo+ahIFVy4PCNMKRk2Xf+HxxgUGGt74s/RDA+H2MKtfv+mAJJqStxywo8CPjrpnRZwnzRO1Vk76OhxflaUPU4hWKIuL4U=;lSucQKDLrUFtgPMDVKrguA=="
 ---
 

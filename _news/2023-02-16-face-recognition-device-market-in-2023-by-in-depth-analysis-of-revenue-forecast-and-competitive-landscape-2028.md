@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Temperature Measuring and Face Recognition Security Check Gate Market 2023-2029: Innovative Strategies for Business Growth and Development"
+    excerpt: "Global “Temperature Measuring and Face Recognition Security Check Gate Market” Report 2023 by Manufacturers and Forecast"
+    publishedDateTime: 2023-02-19T12:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/temperature-measuring-and-face-recognition-security-check-gate-market-2023-2029-innovative-strategies-for-business-growth-and-development-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Construction Market Booming With Rising Demands and Massive Opportunities, 2023 - 2027"
+    excerpt: "Top “ Artificial Intelligence in Construction Market ” Size 2023 Key players Profiled in the Report are [SAP, Deepomatic, Coins Global, Autodesk, FuGenX Technologies, Predii, Assignar, Jaroop, Beyond Limits,"
+    publishedDateTime: 2023-02-19T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-booming-with-rising-demands-and-massive-opportunities-2023---2027-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Speech Recognition System Market Size with Significant Growth Rate during Forecast 2023-2029 | New Research Report by Absolute Reports"
     excerpt: "Global “Automotive Speech Recognition System Market” research gives data of drive consolidations and securing procedures to grow market share and size for forecast period of 2023-2029. Report additionally furnishing industrial business with various ..."
     publishedDateTime: 2023-02-18T02:56:00Z

@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automated Data Science and Machine Learning Platforms Market Size Global Research Report, 2023 - 2029"
+    excerpt: "Insights] Top “Automated Data Science and Machine Learning Platforms Market” Size 2023 Key players Profiled in"
+    publishedDateTime: 2023-02-19T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-data-science-and-machine-learning-platforms-market-size-global-research-report-2023---2029-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
     excerpt: "Insights] Top “Artificial Intelligence (AI) in Insurance Market” Size 2023 Key players Profiled in the Report are"
     publishedDateTime: 2023-02-17T14:16:00Z

@@ -59,22 +59,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Best deals on appliances ahead of Presidents' Day 2023"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2023-02-14T21:19:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-deals-on-appliances-ahead-of-presidents-day-2023-02-14/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-deals-on-appliances-ahead-of-presidents-day-2023-02-14/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-deals-on-appliances-ahead-of-presidents-day-2023-02-14/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/08/c56e10de-b84a-4056-ab97-7e3a5220b4c7/thumbnail/1200x630/8b9eec39cb10e225b18082ba7956a0c3/appliance-presidents-day-deals.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Best Presidents Day 2023 clothing deals (so far)"
     excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
     publishedDateTime: 2023-02-16T14:54:00Z
@@ -91,15 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best electric dryer deals ahead of Presidents' Day"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2023-02-14T21:31:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-electric-dryer-deals-ahead-of-presidents-day/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 4
 
 secured: "zKsLeEEVE4g5ezly2P2IQSDhrHCp9uEOjTrRQzsUyOQgB3/EuXWONv3e20XbSBGh8K5bPw1/RmYvENMbhK4rgxgZml1G+Vq0OveiGN1cx1bWojHD4fR38xb6VJOtmo379s/k+DPV7MZA1JYy2pTclGazoUIxFvzqPBhSjXcX4i2Wzc4WQDF4u+bthpMBUtaeoK0VjWmZA0JTrbt5zxGNBA8zVsw5kUMOOuwbsCcGmy3+zIshArY7Kip/zaXDtYUcPP70No6kEohEJljvO4ZOJB8huthbc1kyFyuS/EETqmdFExG+5QWWBbm8b/0GAcW8TbMrl/D+5MLiXg+oXofXGRUhRrNQPRV4xv6ZnSyeAlDozk0NVWCPmeTmU2IITEn1yo1My6/uLWKgNsYd1i816Izjb5iynLISulfAtxSmz8RCDkjJ5Qau2dRP/iydbJ2cimGUNjZp3m8z/PF0OYL+bpqxwdxFCBAzFAojO2v1f4FGZh9GZRee/BKWLX1TLNdHFEmcdhs8H+56yqZJsaQLFw==;dkjYx7w+Vkmv/mN3h6Tg6Q=="
 ---

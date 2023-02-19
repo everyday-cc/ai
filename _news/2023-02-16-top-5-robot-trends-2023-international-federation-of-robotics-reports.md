@@ -33,20 +33,6 @@ related:
         width: 352
         height: 202
         isCached: true
-  - title: "VERSES partners with SVT Robotics to Expand the Application of AI in Industrial Environments"
-    excerpt: "A SOFTBOT connector for KOSM services will be available in SVT Robotics’ AppDirectory for quick and reliable integration with any of the other automation and robotics technology connectors in the SVT ecosystem."
-    publishedDateTime: 2023-02-15T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/02/15/9760769.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 58
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/2c758c02-55a7-416d-aabf-58744d44ef2a"
-        width: 1032
-        height: 735
-        isCached: true
   - title: "Rapid Robotics Partners With Yaskawa Motoman, Expands Solutions"
     excerpt: "Through a new partnership with Yaskawa Motoman, Rapid Robotics is bringing its rapid deployment speeds and next-gen service to industrial applications."
     publishedDateTime: 2023-02-16T06:04:00Z

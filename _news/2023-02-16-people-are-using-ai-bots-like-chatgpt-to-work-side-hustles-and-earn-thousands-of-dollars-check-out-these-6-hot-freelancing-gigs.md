@@ -226,6 +226,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "How open AI chatbots are effective marketing companions?"
+    excerpt: "Marketers have long hoped for a radical technology advance, a game-changing AI intervention that would slickly bring them nearer to their target audience. ChatGPT and Google Bard, an AI chatbot with generative language that was created by OpenAI will completely transform how you communicate with customers."
+    publishedDateTime: 2023-02-19T14:25:00Z
+    webUrl: "https://www.livemint.com/technology/how-open-ai-chatbots-are-effective-marketing-companions-11676816312574.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
   - title: "From chatbots to facial recognition, here's how AI impacts your daily life"
     excerpt: "Artificial intelligence has changed many aspects of our lives already, but how, where, and should you be worried? Let's find out."
     publishedDateTime: 2023-02-16T12:30:00Z

@@ -56,20 +56,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Innovations in the cloud and data biases in machine learning"
-    excerpt: "One of the things that we’re trying to address, even in the [diversity, equity and inclusion] space is making sure that our job descriptions are not introducing any biases so that people will eliminate themselves immediately,"
-    publishedDateTime: 2023-02-14T22:20:00Z
-    webUrl: "https://siliconangle.com/2023/02/14/innovations-cloud-data-biases-machine-learning-womenofthecloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/Patricia-Jordan-Women-of-the-Cloud-2023.jpg"
-        width: 3456
-        height: 2178
-        isCached: true
 
 secured: "n3fXZKhzlBB8rGk0H4v3WgwJq6woxqq09EV0JWGcBTqVIT6/ksVpIqTWRHfk2CDGtThK800zOI2CXVJMbMNaPxxNPDt3sQfbY2CN/WBBZ+P1fwqeFBEzg8fPZm+nbNwidE8lkcUcJmjFkG3ELOQQihDQ5qxSP/sIG1hU0zKJC2pTngSSyHlGGYDk2Q+2REb5PtfCAlYEvPA9BtBbpSVaffP/7VUBJgPE4l1LpWQIKStNoxoGXu/c3gIrpx85cfVPekV1zhtun8QXfJ5+LZ2ZVS03DjVXAjoijI3qt8oLBV1IkPGSXerSwnx2lehMOPGM9599QidjkZUkJoJ2bvJ4j/F99dN0AMMD7s69O6fyexHlTjZugmbN1ITYD0yWTFVD9uN5G++AGyBYIhq32kLYUg7k5WbsTugb6MpVD7BXPBN9UezfjRHbCFF/HUAZiYRepRgWJSk2Vpc+G5BJJvPJ/0EohiUgeCCKXZl6lXNzOA2CxSsqfJIVQ0E7K4EppSVLqDZbFoHHzzTrV/iKX6imaA==;P+UPsPB2RIR/7mfgf6JP4Q=="
 ---

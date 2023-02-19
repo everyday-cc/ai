@@ -7,7 +7,7 @@ originalUrl: "https://www.ksl.com/article/50068506/artificial-intelligence-co-pi
 webUrl: "https://www.ksl.com/article/50068506/artificial-intelligence-co-pilots-us-military-aircraft-for-the-first-time"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1228
     height: 690
     isCached: true
+
+related:
+  - title: "US Looking to Build Alliances for Responsible Military AI Use"
+    excerpt: "State Department and Pentagon officials hope to illuminate a contrast between the United States and China on AI"
+    publishedDateTime: 2023-02-16T14:00:00Z
+    webUrl: "https://www.defenseone.com/technology/2023/02/us-looking-build-alliances-responsible-military-ai-use/383024/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 19
 
 secured: "HskIbkgMIH9sayuPOsA+Uy+2xaKF5mHHTIijDWn2nYlUOx8EtzR22loTI6plaxIgiU+cx+EaEZnHb9kRw0EzPeSiI1/gyppu+NpmHQB/VVEtoQX+KfdR9k7sWBlzH3qW0ASKfxuXNOO4H0YNo9SO1zqVnyUkTOl5RdaviQTsfz8KOzO7fZOeZ8z1S6U9twWBJY5NBQEzLBYdbqZyuv6TExC4TxaNXB7HN1MbXueDX4V6/MkLD/2tLlAdmwREiLldM9tX7gmIK3IiFAIh/A0bz5/H5Mk6mzzDFdTJGeYYoQnIWvVSk5jQnHzVnBioksLg/nL8MX0o7JscDxzDGFS7QTU8EmOWMEN699dsORLXV+zWiHGkqlDAnIA43CmbQIOmgjmcgSrG4DtnnvJY7k0lqfk2YkgVqA+fdkxJMQRnocgYPVEHBq4HdTn3EcjOcIvvqv+mNDVGCKAms0rs4V53T93vRXRPsiYIj8M29CjX3m7qwRJhMboBWl63jrxLSdRSdBIviXPiYtHfOZHwucc45w==;pTO1EFLH7Usb6tGhL2q4IA=="
 ---

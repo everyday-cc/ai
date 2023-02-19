@@ -33,15 +33,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
-    excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Chips Market? Artificial Intelligence (AI) Chips Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
-    publishedDateTime: 2023-02-14T23:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-14"
+  - title: "Artificial Intelligence (AI) in Cyber Security Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "Feb 19, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Cyber Security Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-19T10:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 81
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-19T14:01:00Z
 originalUrl: "https://www.pcworld.com/article/1511545/neevas-an-ai-powered-search-engine-that-showcases-its-sources.html"
 webUrl: "https://www.pcworld.com/article/1511545/neevas-an-ai-powered-search-engine-that-showcases-its-sources.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PC World

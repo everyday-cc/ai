@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-18T13:38:00Z
 originalUrl: "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256626"
 webUrl: "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256626"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: ABC News

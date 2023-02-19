@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-18T21:05:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/the-science-of-stuck/202302/harness-the-power-of-your-micro-yes"
 webUrl: "https://www.psychologytoday.com/us/blog/the-science-of-stuck/202302/harness-the-power-of-your-micro-yes"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Psychology Today

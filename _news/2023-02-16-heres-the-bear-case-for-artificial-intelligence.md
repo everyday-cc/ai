@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2023/02/16/heres-the-bear-case-for-artificial
 webUrl: "https://www.cnbc.com/2023/02/16/heres-the-bear-case-for-artificial-intelligence.html/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: CNBC
@@ -30,22 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "‘Here’s to the robots’: AI, tech investments star at Tampa’s Synapse"
-    excerpt: "The conference’s CEO pulled up ChatGPT, the artificial intelligence chatbot ... firm that relocated from New York to St. Petersburg in 2020. Case visited Tampa startup accelerator Embarc Collective as part of a tour of emerging markets in 2019, and ..."
-    publishedDateTime: 2023-02-14T21:40:00Z
-    webUrl: "https://www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/"
-    ampWebUrl: "https://www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/?outputType=amp"
+  - title: "Keeping humans in the loop is not enough to make AI safe for nuclear weapons"
+    excerpt: "Artificial Intelligence (AI) systems suffer from a myriad of unique ... This ability has made it possible to create driverless cars, virtual assistants, and fraud-detection services. While no state is openly attempting to fully automate its nuclear weapons ..."
+    publishedDateTime: 2023-02-16T11:00:00Z
+    webUrl: "https://thebulletin.org/2023/02/keeping-humans-in-the-loop-is-not-enough-to-make-ai-safe-for-nuclear-weapons/"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 74
-    images:
-      - url: "https://www.tampabay.com/resizer/p_vnstg5FGjV-OqBYLmP8gilmAo=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/Z3JGJPC5KNBZHCCDND5R5RYKCM.JPG"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Bulletin of the Atomic Scientists
+      domain: thebulletin.org
+    quality: 16
 
 secured: "xf5s+6k1IDdZwuQxRHSOvxAfLgNlcB1asJWhHUIuq8BSTJ0vRfmRG7TDd71cQzM/ItWYA7T3/NR/E3wN4QEb1ni9YHVwiJeM7L9sshPr2VXOyEEKbSAPeo0nPvgRM+oXnxXdoAhk7BcVEUF2gG/0fU0UU+zhNiSRFFpUnJFuwiwKZkrpVOCcwCy51aHNbApQ30Si7CLYinzbzJKiCOSFpEyotFWUpomXdIZisazkMKF8nBQC5xZf0b14iyQXULnZTVeEetu6+kAGodnRZkM/thd13FkGDW/18yyO6gljgYE1I6iBPMA1mwoRRIK5gfUbONXqYevLibRkUTGfZ26/dlRRjJ7A+AwMsXi7dFtl0OWN2HRtI3WksSQjQCSEjIg0c3zCpvUuww9qfXHeEDJLCmy9oDFn+C8TIx+D7b9SZi1BgQwHHciYYLUqO7mY37D6FUmcO8OC5/dnMl25UPPDVbmoLbQ6s+V5nrvJBpzovZbsINnTPY3aXt2TNSKNsT0vRSGBaPS2l0zimm6wvVI0TA==;Uo4d0k57CSRXm3bxPwioNw=="
 ---
