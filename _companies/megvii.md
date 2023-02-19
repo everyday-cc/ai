@@ -23,7 +23,7 @@ crunchbase:
 twitter:
   username: "faceplusplus"
   url: "https://twitter.com/faceplusplus"
-  followers: 856
+  followers: 855
 
 size: 1,001-5,000 employees
 yearFounded: 2011
@@ -57,6 +57,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sbsCwlkSlp0"
 
-secured: "x2ocGXXK00FSizjDSbqfb5XKGU2w64bYjHsCTJzEk5TFF+FNoH5DmNa+uqussGvbCOnSqNXnWwGsFv5dhQkog8xDoXnwQ8gpJw+ENGrjk4vNbIrPQ6fOrjPeIrnep7nSwr0yg5FdrqReJ3sNyFljZ566gXBXI38nJ0gumJ2gSSbcStfchHm6uo1WmUu7qiFr1DEmiUZUxwA+bym6AbNVtOFY3TDs9UmQ2X1DaJ8oW/oZ2l6lSnUkSEbkZotaByVfetZmdv7IlcjxLcLemVHE3oWEGF1NSsNtWFjGRPl9sBmGGiorReS9wgNsXtHd7hQaSvhTuFiuXGg9KgweEiBltW2Epdya4uPtrOFoliWGZ2M8Zog/0QPatm93BPS7Gd9gkCKy1X8DJjXf6Lag8k0HFXZMlYjEUT6Vtdk0DUienT0=;/v93lgoqzDWIiqEH0E6g+Q=="
+secured: "TWFvHNj4is5Sa8oOKv5mYx/I0XA1rJ11Ad29nKkqLWZg+Su+oopfJjvJO9YX9dIJxSsXzSibPYsZy7d1GtnnYHjcLr4/Co0OyX8Om7p5lSKAyWRzaQYB1jGgR7+FX6B5LWeh98sKJSMwfnsBpF5TSSrI1bIDKRQvb07EjXyHidUR7wGZsKmWJ98IBqCR2WM2aYElwI9KVfNOrPyznWI84pLtAnRF2InYnwZDZJf8enbjUeUIm7Ebx14cEvERQ46/a1T/z71VBp+N04Hl5us5++0Slw020cW+/sRtqC4wSkACjVZ8yUDkAEDai1aoHHpJGqvSqjQofUOfSqBMuNQwOECHnkfxoOhWjAuplMAK/li9KytyxCV+PVXXyX1hHOvWK0LXaMy4wYdqa6oVDa1vUg==;u/lv6MrPpHk+Z0wEkuL3+A=="
 ---
 

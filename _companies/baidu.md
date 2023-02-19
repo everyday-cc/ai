@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "BaiduResearch"
   url: "https://twitter.com/BaiduResearch"
-  followers: 60512
+  followers: 60513
 
 size: 10,001+ employees
 yearFounded: 2000
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "B/jaDppF3Jr/KTXefqnf5isINLgC18rfqGCDo+Dyvr+vP+cS/+JzU+vNEHqhhZa+piCcZoru/FYzCA4wYzzZioHC+CqtEFlrMj7x1PW2KhpZ91JPZoQL5n1qxcONVkLJIlxbHsrclfJvYvLaqRGMuk5G/Pt8LdWG0iFjTuU1rlZ2AJvksZv/1wnRYJdm2Q0JORo9HFYQKghZc67z+ir/uTgLHlCvDkTeR7++Hoh8v7CcrkbtzEp+sAgYlaByGhB6ZubhqPV9f8NdmJyLrTZJX5zuAYTxoFLQpYWy2o2LWgLdBEbmsPL9J6CNIjugwdyL3Ee0b0mcqDl6rPT+X+n9tUnoC6EIL4iTey1fKbIfOENb9Cgp7Jbmi7L/2ze8J3ZNcRA8hvycmthjMOT2qb36lU6/kl21PAPklWFrXEepciw=;YKBZZdbuaCaKkJT056lY1g=="
+secured: "7BEdy/2rLAU+fpOD2lmgdKj8eBbZqQIFiV2mZQ9t59erGh4cR3fLKOMsk85ZklSoYBLPgO5LTjPDyiEYWYqlbkq5efhI9qDNHMe+7htm3XuG5MhLB8Dic3I/b0kmoAWWT4wCA9CV/o76Cxh/SkMK5t30plfCGhRUA86PHiaIYaTsbSBVxLxgWKHfr6xob7Cs149NbBfLG3fRSnQgFxs8fXEQd293FL+agBqaL4oQRM96uS8wE+xzfpxtGb183wV0uFVg0Gn0v6QFBNyC7x3toTl2DcspAs5Enpa9h3HL6kek+imWO53pJBJfBmmkjYP2HQ88goLb0933tcUzhzDVUe+9A5j+nzYNktrVtj8YS18FJrPu+Zj9DgNO9kybABeBiRAukm8YkqWQjPIFRrrzX0s+enJPmIlJWctmTVk8lDA=;kRckuLNPsuMa4lba67hwGA=="
 ---
 

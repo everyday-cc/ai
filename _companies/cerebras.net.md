@@ -2,7 +2,7 @@
 name: "Cerebras Systems"
 overview: "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/"
 type: "profile"
-heat: 109
+heat: 89
 
 website: https://www.cerebras.net/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cerebrassystems"
   url: "https://twitter.com/cerebrassystems"
-  followers: 4050
+  followers: 4051
 
 size: 51-200 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=czfAzRWRjYE"
 
-secured: "NqhJh0CI6V2PvDClnsDRb6HrouVOpYlBI+36BlIy0agIvZFJaKbIPA6fT857Nvt2k1PEj0cJ+VorVsXQ2ShUbM5qauOEHl2XjeIMPu31yghIeHCPuxHoCpJM9ecP6ItTEuSZchS4PvCuVtZQRG6NLpA3Ra+j9RWYZChJ0RDlkvm02aubC1qZi/Nrd+tL0l4qJXMeQGT77CQ9BaArmox/5nLaF8RgjwU/eM1g2lgKUGmA/55oyBBWx3CGPNbqTw0Q6Wv8EmvvNK3wfeWaVr6r9WUPcpRd8SnBlYkVimF3bx/IVVSAcDXpduDRYr/EVRX8HXLqiOrprCdrhCWVvI0WLZuY+ZBQy38d5n93qGVcLium/JLD2n1Q8GKm8+NmuI6tV/bKCpbBzIbsSPLsZrjHhZl4ZNw1qbYyoWlSxiO/sxc=;KBsrND21/1mb6+jrZUQJdQ=="
+secured: "063TVBxQkRtrgDKcvio8zMyg9Ocj7yoynppgpMwpJJ/NRDDLBIUrUaxIGkmKyu0+BipwE8xgr2XBHSHknqsD/w6kB2f+xggmi8cq/rpNwCGSnCYwodDGZwld3jr7VAeux7ixsjH2GxCwq5+/sSYKr7l6xim43iYXm87rCGJvyizHE3iCcdAZUe/ApCy22ypd2hXXisdF3wK8YM2y1rb8wnnW35CalEc86sl4OK9dEOkEeikwJu2E5PsC0fj+d7/Oz8Hy7Kbb5SSFNWtPqWzUX7dMSB7c0+50RaFdxSvytGBhcEaliMcdx4Y2Py4x6b77xaNwpXGcZfQ0V/fgUOGG0eq8t9Rph+tcdeWJ23e/u4zUfxl2F7uAgj8iJWgaXFbLX8y4luhGOK3VK5fuzWdO+2DEHCzYsya1VuOoJjawWdk=;LT17NCnZeX4JfZc1jJ1i/A=="
 ---
 

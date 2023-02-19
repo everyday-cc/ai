@@ -7,7 +7,7 @@ otherNames:
   - "滴滴"
 overview: "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China."
 type: "profile"
-heat: 42
+heat: 41
 
 website: https://www.didiglobal.com/
 
@@ -21,7 +21,7 @@ crunchbase:
 twitter:
   username: "DidiGlobal"
   url: "https://twitter.com/DidiGlobal"
-  followers: 4348
+  followers: 4347
 
 size: 5,001-10,000 employees
 yearFounded: 2012
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Didi Chuxing"
 
-secured: "G/vPwPa1ZcoDsfeA0yNAS3OEWNTcGFp9NoAiXuA365bB3j0FEhXhA89vpN+Qu/nVDytIt2hnSzPeZ8hWLW8rUl9kioZhQT/AFEgiPaql/Eu6Z76ArKUOMSTHSdgjop3/xk7uP2vbW/EXhWTOlhSgB6Q4sBX0rk9Cepo/G0YSIB5dETGPVllvufdE42kuZUFEPqyKoouNA4m3NfYPyt0yNcqasW42hH8hUMIgPWMJYrDPzXmrDUwMuet9ZX68t4TuaIK8dhQf1Urhe38juio9cx5RUEauU8QVS9rkskmMElpX93rawmjOCr57XveIHjwXWOjRNjCI0dstXRBb5ae0dyR82eFVUa0j4tG4q5d2HnD+O99pXi02gANnu95iqYIHNGQbvzdOgw/mW1WtMJKe2Y6SgcR2ssUPamE0K6kE1lk=;okPmy9F5fJfZa0nJVlyARQ=="
+secured: "NLvUVmrd99K/mVOWKn2iziC4Y9ofDApyk6k25QLJLLo5cDFvutf77RYhwlJUhYVLWtPBYjMOqYiSjod9iBtXMOKdLvxLtS4ZyPV/arynYtorXyeKOI5aHDmgAlX5BB9NuxfxmCOatQZP6QOj9Fe7Wu4NT41Ru9vaU5lrsndOct+NC4Vy9JKrMbq6/bnDnaxoXcDKkLQ82FORrkwqhIXR6iBm6YZny4R6Zkf/vgCMLOu6YhN7Z9TJXmVv1ud/5c1JwN8s8Wc9rNi8t2bes1m7dvXrm3BJiotsx0c9PwyykwfH2o3MfvT8JLYLZ8VrEvuqPeSRxhC2hwGBw0PDYmqglw5+u1WNSvQ9IdFnyBZJD5UvRBrgmUy6alQjTV/hDT/cEGj1Hh7nJAqLM8wr3VFPKCrPxFNkwV/rL3L2WRZOCeo=;y+z63cQcUEaJW9mYUB9/kw=="
 ---
 
