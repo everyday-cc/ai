@@ -57,20 +57,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Nigerian man develops world’s first AI portal that can translate over 2,000 African languages"
-    excerpt: "Africa has thousands of ethnic groups, each speaking different languages and dialects, but this rich cultural diversity has caused communication barriers that hinder socio-economic development."
-    publishedDateTime: 2023-02-14T15:49:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/africa/Nigerian-man-develops-world-s-first-AI-portal-that-can-translate-over-2-000-African-languages-1714208"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 43
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/377/37712593.jpg"
-        width: 600
-        height: 384
-        isCached: true
 
 secured: "DHxs1NMC59EwgDMh9WK3gRkH6i4tlZiX8Xihr0jcj9xgwo6HsaPmSfjBS5W9HpliQPcnAwFWM9Q8I5XhYxpIye1nQbL/hPqbFyWJq9W+SO7Tlm8W2WdlCeUAtDG7JzFH9K5AhKXYRPibcUBLex90p2430CMnaXen+HgxsrBhYQJZNFcUd3s1+hvCLhQ3e+Fea+e4TcVQdkCTxmJ18loTMWUSpt4M5Px952N8CqskkBzdGuv2UWb9LhYTPaRKXkbKHVBjCBvmNp8oQMs2Ltc9qDA6hFD1yRpHdfP48FIbhqlp9WkZpn+l9pXAm+szaGgbrcdttx1XUXjLc5EN+ltWGoAYkJ5qMCmSXK9cvkkrDKrbnceo/O8Vt+DHlv1TYNSnADsIaHaQ8N8NSEZex3oC3iJDNXdD3t8bhAnRNOfKpe1mq1pDDyZIPSRO9Majzz9dGZkXtN/VfGYgN51VtW+AY2mplMATgE1lNQGFlN3o2ejVMiK1fqc0/2zn/aiF9HIm/kYzNTO6AuqWNgpgvxVbcQ==;R1bvKZBvDJ08bhm98JuGmw=="
 ---

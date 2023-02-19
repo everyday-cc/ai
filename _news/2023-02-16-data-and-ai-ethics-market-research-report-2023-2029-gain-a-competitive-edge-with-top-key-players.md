@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-report-2023-2029-gain-a-competitive-edge-with-top-key-players-2023-02-16"
 type: article
 quality: 71
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Services Market 2023 Study by Business Opportunities, Top manufacturers Records, Revenue, Price and Gross Margin"
+    excerpt: "Feb 16, 2023 (The Expresswire) -- Cognitive Services Market | Outlook 2023-2029 | Pre and Post-COVID Research is Covered, Report Information | Newest 119 Pages ReportCognitive Services Market ..."
+    publishedDateTime: 2023-02-16T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2023-study-by-business-opportunities-top-manufacturers-records-revenue-price-and-gross-margin-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

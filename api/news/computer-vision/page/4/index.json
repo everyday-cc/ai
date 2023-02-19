@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-14-indian-banks-said-to-soon-use-face-recognition-iris-scan-for-some-transactions.md",
+      "title": "Indian Banks Said to Soon Use Face Recognition, Iris Scan for Some Transactions",
+      "excerpt": "The new measures can be used to verify identities of individuals making deposits and withdrawals exceeding Rs. 2 million in a financial year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867",
+      "originalUrl": "https://www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/indian_banks_facial_recognition_iris_scan_reuters_1673630330807.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/indian-banks-facial-recognition-eye-scan-some-transactions-sources-3690867/amp",
+      "publishedDateTime": "2023-01-13T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-6-types-of-ai-and-what-they-can-do-for-your-business.md",
       "title": "6 Types Of AI And What They Can Do For Your Business",
       "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. AI is slowly taking over the world. Drones are delivering food, vacuums are cleaning homes on auto-pilot, virtual assistants are initiating calls and art is being assembled by bots.",
@@ -1262,50 +1305,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-facial-recognition-using-ai-with-aws.md",
-      "title": "Facial Recognition using AI with AWS",
-      "excerpt": "Facial analysis capabilities, such as those available in Amazon Rekognition, allow users to understand where faces exist in an image or video, as well as what attributes those faces have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/23494/facial-recognition-using-ai-with-aws",
-      "originalUrl": "https://www.finextra.com/blogposting/23494/facial-recognition-using-ai-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
-          "width": 500,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

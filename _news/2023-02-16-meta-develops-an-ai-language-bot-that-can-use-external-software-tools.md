@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/02/meta-develops
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/charlesdeluvio-pjAH2Ax4uWk-unsplash-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Nigerian man develops world’s first AI portal that can translate over 2,000 African languages"
-    excerpt: "Africa has thousands of ethnic groups, each speaking different languages and dialects, but this rich cultural diversity has caused communication barriers that hinder socio-economic development."
-    publishedDateTime: 2023-02-14T15:49:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/africa/Nigerian-man-develops-world-s-first-AI-portal-that-can-translate-over-2-000-African-languages-1714208"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 43
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/377/37712593.jpg"
-        width: 600
-        height: 384
         isCached: true
 
 secured: "pPf73PjQpqU/CcJ9brXqygM+5Q63NY70SU6VMsdITdifit8tECLLmKdq+2JAKQ5j+tiMWioPDeJBYV7KZi3Rth9HOaYajOi/PFR/w6l/adrFKbaKNZSgmO+Anf0lR41ruGkC+qC26kpiBz3bi7Cb3KSPNkV03uevDPZFGj5n2EmbelX/v5KxwAZ8wS+xg4on1tsXVLaprLSn3KAadM//1MPpDr4uOsrkhRbg161gAOVQaL4aOatpTeuvBXh+NZI5gucKIVMX1Gv1sm/a1BgzvpvzITdfEONDQQCBrxAysGr9jcc6EgusvEaSHOCnkE289w+CU4rBY07yHMqx3B63dH02y5w7Qy3CL2UgPkwXTj2kqp8k0plC0WmQSh44vubYWpu/YJyyvW2CgrOzH+vquOxDoRclX5jUKNvZtKhPKYXrh6hrujkglv9yRIlxDrwHKsq8FydtFrmcktJ4qG8z/qM6gDSPBv7ozftoxXmOG9kz1xZuwiZLflDewTNyoDtmipFOVUE6wK9kFeLEEZfYfQ==;2f3CJ/3ZkhX46DExlFnn2Q=="

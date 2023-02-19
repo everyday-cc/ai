@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' to fix flaws in behavior"
-excerpt: "DETROIT — Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U.S. safety regulators ..."
-publishedDateTime: 2023-02-16T18:58:00Z
-originalUrl: "https://www.wamc.org/2023-02-16/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior"
-webUrl: "https://www.wamc.org/2023-02-16/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior"
-ampWebUrl: "https://www.wamc.org/2023-02-16/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior?_amp=true"
-cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2023-02-16/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior?_amp=true"
+excerpt: "Tesla is recalling the vehicles to fix problems with the way the \"Full Self-Driving\" system behaves around intersections and following posted... DETROIT — Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with ..."
+publishedDateTime: 2023-02-16T18:27:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/npr/1157521492/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior"
+webUrl: "https://www.northcountrypublicradio.org/news/npr/1157521492/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WAMC
-  domain: wamc.org
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/e2c6633/2147483647/strip/true/crop/3213x1979+153+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F16%2Fap23047650422186_wide-c6ace5c0eb42e2593c2eec3e1b8d351d51896223.jpg"
-    width: 880
-    height: 542
+  - url: "https://media.npr.org/assets/img/2023/02/16/ap23047650422186-46c7a82a6dea295c11cf3d9dd165d11b76c10afc.jpg?s=6"
+    width: 948
+    height: 710
     isCached: true
 
 related:
@@ -774,6 +772,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "dgfEsi0RxtUt1P1uqAPq4sVs31kOK3mpLvfur2o4UP/ZxA/B/GddAbuWPFR6uoQCzhdJhmo4oJ19KdmQ7fffHRFp471X4K3R2ZAbOv35O9yBqEVnkNlFh0okLo+qIE6Omfl9K3V2PtP0KytaQ6IaHu2SSaFSoeH91w7andI7Z6soweg1ixTWHt3z0XYiQLA6J8u+2zmU0CGwQzQuBoT5F93RViwOzFcLrpy5PlkQ32L53eVD7/8TgpvqD+F4fh2xjDyOAE1U/a4qI2us7DANEFa47biof20CXn+AOzOgj0O0zdJhWmYhGfHFWj7XNVGuD3G9u3VTh5V35AWY4eW1z/8UJt7bZCSPPmXpXL9/nRY=;a+PLO5mhrekChngLPSpc6Q=="
+secured: "aRI2c3hvA31nVyCowLcEr/hBKX62bbQ9Y/ifNmdLxr4zgtzPsed0sp372Ly3cqli3UXaznWvo2WqBiNnJ7yGbVjnfIViCyjYpGDdYvm+ZxvZLz+LcvLRVZ0ZBGDzxOCAvbTTVljyEMxub7sBCcTrfpHNx7KOygQ+dH5x+P7kiC0YykB55LvocmXmdiw2I5/uMkjrhgrXXYgwknktZmhUWFBh2zSUPG5Wsbb7836kb0EwceprTGiCxN2tEHrA1vx2V8lf8ot83aWCGJu9VKWsGXYCzpSQcqxQ9T7eAFCzwlNlucJ/0F7FGxUBEizlaTnGXbiJWSUTa03FJAMGq13Nazw5oxpPAdw0+eehOhTXGBQ=;59cIsJYmqvBWZKJec4+8kA=="
 ---
 

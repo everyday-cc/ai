@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recogni
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accu-Time Systems Releases Proprietary Facial Recognition System"
-    excerpt: "a proprietary facial recognition system. Only|You Face can be used with ATS' stride®80 time clock using TimeCollect™, ATS' proprietary Android time collection application. It can also easily integrate with a value-added reseller's existing Android-based ..."
-    publishedDateTime: 2023-02-14T15:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/g30900482/accu-time-systems-releases-proprietary-facial-recognition-system"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30900482"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30900482"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Vietnam to implement face biometrics system for passenger check-ins at airports"
     excerpt: "Details of the plan to implement face biometrics were recently unveiled by the government and a pilot to that effect is programed for this quarter."
     publishedDateTime: 2023-02-16T17:34:00Z

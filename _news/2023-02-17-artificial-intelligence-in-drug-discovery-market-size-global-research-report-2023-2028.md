@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Services Market 2023 Study by Business Opportunities, Top manufacturers Records, Revenue, Price and Gross Margin"
+    excerpt: "Feb 16, 2023 (The Expresswire) -- Cognitive Services Market | Outlook 2023-2029 | Pre and Post-COVID Research is Covered, Report Information | Newest 119 Pages ReportCognitive Services Market ..."
+    publishedDateTime: 2023-02-16T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2023-study-by-business-opportunities-top-manufacturers-records-revenue-price-and-gross-margin-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Turnstile Market Forecast Report 2023 | Industry Booming in Next Upcoming Years by 2027 | Research Reports World"
     excerpt: "The Face Recognition Turnstile Market (2023-2027) Research | Updated New Report | Market is including in Various"
     publishedDateTime: 2023-02-16T04:43:00Z

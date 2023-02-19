@@ -41,22 +41,6 @@ related:
         width: 1360
         height: 816
         isCached: true
-  - title: "Accu-Time Systems Releases Proprietary Facial Recognition System"
-    excerpt: "a proprietary facial recognition system. Only|You Face can be used with ATS' stride®80 time clock using TimeCollect™, ATS' proprietary Android time collection application. It can also easily integrate with a value-added reseller's existing Android-based ..."
-    publishedDateTime: 2023-02-14T15:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/g30900482/accu-time-systems-releases-proprietary-facial-recognition-system"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30900482"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30900482"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "VQuYylnMrTqqQ0tJ0rv7ZF21cQPy7yHJgJJpTClOXQ5GiYShDgD6PYHhYPwQJOfj5sOkMSvWvrYLCpetlWYcAcqKNh0qrvgIlpWuZAclw9nlSP1ovxd16szrkNGnuaLBNw+q7Ky87WXME+4A/nnAPmaiG2RR9HH+tFe0bq4tnHc2O7WWvSCloI3SPfhfg5H3PTPPhr8cy0+BrCzlw1k960+ucnch+DFUR+5uAovjX7cLV8VmV3UxoXRVgt62MkuQneF2c3JCO1/XMUSti1kNdbA2kDHBslOcigdNDGhsaKJW1gUVzvMksBAJ/be1WpP5biQolsh4CPysPfxyZwofPpu8d4MeFnsTvwiXHy+7IIyBvixkiBDuwMLIWRH9GZzELfGyamyZsTvxhsts6hkX7+EDkz0KunSymdu8HTps241iTplEKGFQ6n0PqjQdptVKnTnfPFJ+cySZiOxfqZ3lKsjdDE5kT3SwJuKvTQotGgnh0oGNnhB5ul3knapyebxh1bw7P9xBqpCCRz6FqTMISg==;HG48tMzLxICYHNIWETkqSw=="
 ---

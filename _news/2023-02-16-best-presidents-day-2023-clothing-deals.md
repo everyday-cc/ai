@@ -37,7 +37,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg"
         width: 1200

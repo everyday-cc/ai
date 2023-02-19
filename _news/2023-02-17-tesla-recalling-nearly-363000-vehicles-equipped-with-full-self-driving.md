@@ -441,22 +441,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' to fix flaws in behavior"
-    excerpt: "DETROIT — Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U.S. safety regulators ..."
-    publishedDateTime: 2023-02-16T18:58:00Z
-    webUrl: "https://www.wamc.org/2023-02-16/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior"
-    ampWebUrl: "https://www.wamc.org/2023-02-16/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior?_amp=true"
-    cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2023-02-16/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior?_amp=true"
-    type: article
-    provider:
-      name: WAMC
-      domain: wamc.org
-    quality: 53
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/e2c6633/2147483647/strip/true/crop/3213x1979+153+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F16%2Fap23047650422186_wide-c6ace5c0eb42e2593c2eec3e1b8d351d51896223.jpg"
-        width: 880
-        height: 542
-        isCached: true
   - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
     excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."
     publishedDateTime: 2023-02-16T17:02:00Z
@@ -609,6 +593,20 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 34
+  - title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' to fix flaws in behavior"
+    excerpt: "Tesla is recalling the vehicles to fix problems with the way the \"Full Self-Driving\" system behaves around intersections and following posted... DETROIT — Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with ..."
+    publishedDateTime: 2023-02-16T18:27:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1157521492/tesla-recalls-nearly-363-000-cars-with-full-self-driving-to-fix-flaws-in-behavior"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2023/02/16/ap23047650422186-46c7a82a6dea295c11cf3d9dd165d11b76c10afc.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "Despite a Massive Recall, Elon Musk Continues to Downplay Tesla’s Self-Driving Flaws"
     excerpt: "A 2021 Tesla Model Y equipped with FSD system. Mark Leong for The Washington Post via Getty Images Tesla’s driver-assistance software, Full Self-Driving (FSD) Beta, is drawing the attention of the National Highway Traffic Safety Administration (NHTSA ..."
     publishedDateTime: 2023-02-17T23:52:00Z

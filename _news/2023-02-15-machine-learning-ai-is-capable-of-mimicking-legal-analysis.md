@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/newyorklawjournal/2023/02/14/machine-learning-
 webUrl: "https://www.law.com/newyorklawjournal/2023/02/14/machine-learning-ai-is-capable-of-mimicking-legal-analysis/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 767
     height: 633
     isCached: true
-
-related:
-  - title: "Why promoting AI is actually hurting accounting"
-    excerpt: "At the same time, our profession's seemingly blind acceptance of AI as a fix-all is actually hurting our ability to attract and keep talented young professionals. As smart as it is, AI can't replace the judgment of individual accountants."
-    publishedDateTime: 2023-02-16T20:15:00Z
-    webUrl: "https://www.accountingtoday.com/opinion/why-promoting-ai-is-actually-hurting-the-accounting-profession"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 19
 
 secured: "EMf42YwvzttSGwjTvlfNoPpNQp4vB1pqU/tE1ObLLYF0YLMTDhrGby/3Ct9cIpn9WsF3/Yx+Z/tenixo468VD0JWu0zoYCqYahhdbJU92alyMrUhojNqhwBif2tGrr4jv1CNaNzaY5k52qdH8tgYwV72g9u/urD7r/Zd+q+YG4vxJrWfK4737StAKU2AbjpWOxweojEDqwLZ0W9HFGZYSN9bVz0k74RZXF1xVy83Lv10Z3Vbzejw4UjyGKGcxgDsTciP4QLbpFSBNbK/Lwc/tJWsVpJ1H1bWB5Nv4tH6Ss4xStTy/BtnIu2xujuELyxANnzTrddsJrhKxcYUCGBR2/PmuGe4J2Am3n6cVrfp1QgyX8Y35HVehXJNZuobSaq7QjEik2zdWuHiGjFqmWFDx68dvYpkCJFEdQsLiLQJpmm/pjdCnJunGALsSf4MpKkCmcpdPF1JzCuCg9Stdwf3kRMVMcJfRJgWHAPJb+HMSdUadZzTjNo5h+zUKsY85KV/b/Z5J5CGIXewGhfDZK8hGQ==;zINFvcX3mlPUYICjaYRsfQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-15-implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models.md",
+      "title": "Implementing MLOps practices with Amazon SageMaker JumpStart pre-trained models",
+      "excerpt": "Amazon SageMaker JumpStart is the machine learning (ML) hub of SageMaker that offers over 350 built-in algorithms, pre-trained models, and pre-built solution templates to help you get started with ML fast. JumpStart provides one-click access to a wide variety of pre-trained models for common ML tasks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-mlops-practices-with-amazon-sagemaker-jumpstart-pre-trained-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/15/implementing-mlops-practices-sagemaker.jpg",
+          "width": 1563,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T11:12:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-intuitive-machine-control-using-speech-recognition.md",
       "title": "Intuitive machine control using speech recognition",
       "excerpt": "Researchers at the Fraunhofer Institute for Digital Media Technology IDMT in Oldenburg have developed a speech recognition solution for use in industrial manufacturing.",
@@ -401,59 +453,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029.md",
-      "title": "Healthcare AI Market Insights-Industry changing aspects, New Technologies and Forecast to 2029",
-      "excerpt": "Top Healthcare AI Companies (Koninklijke Philips N.V, NVIDIA Corporation, General Vision, Next IT Corp, CloudMedx Inc, IBM Watson Health, GENERAL ELECTRIC, Stryker, DEEP GENOMICS, Intel Corporation, Google, Microsoft Corporation) with the best facts and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

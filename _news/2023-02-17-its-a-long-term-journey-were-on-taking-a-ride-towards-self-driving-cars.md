@@ -30,22 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Self-Driving Cars Are Doing More Harm Than Good"
-    excerpt: "Apple has long been known for marrying hardware and software to create tech products that bring delight to millions of people around the world, so when rumors started spreading nearly a decade ago that it,"
-    publishedDateTime: 2023-02-14T17:00:00Z
-    webUrl: "https://www.theinformation.com/articles/self-driving-cars-are-doing-more-harm-than-good"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 24
-    images:
-      - url: "https://tii.imgix.net/production/articles/9797/08395424-5f90-4b7a-a97d-8b82e8a6d190.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "Sr9aLw3+Rh2dKDZ64qBMMbVEdNowiNW76C69DlTuOa4fh0d5JYu0W6qzpmqb/foDRUtUaf5GjPTLhIO7aiOm/puq6oZ8qiwTQBy4DIrysnmY6HZ31ph3aorF79FIxdChXwspPLnTnQUtDm68xkl8LiyDzRga6iWUO3GX443uJ70E5wbucfibnTJZl0Li9iRQra22ZrqScDXV96pZ1VqKDE2z8s6E/JOj0Yuo5uAWE8bxb+VSU6oYK60ZL+0Hcf9E4qguoeLGufZuLTVB/uUPN/vtMW18/HM9yYVxT4yG92Ve9M59EHppUOogPMQnVx1q2mj7+EQuQyv9z5dJ28giMeRaRQP9ZML8QTjcysp2/4pm+bKJNxmN6kayqaM/1LdW4UaG/9tv+apbq6u6KJ5sgQz5QvSR+PxUZGPUBOO1q20KeMiJwQ4B3SSYnOvrrRvbkFIALeU9R4iiGmMk0MyPBbafE+ogAS0sg19JJcLoqdmblKd6X+HurbHLUqEV4CTa9fbw0bNHzCZRUUyVQcy+Hw==;+j4epVL9f7D6Ri6upjD3rg=="
 ---
 

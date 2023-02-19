@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/"
 type: article
-quality: 59
-heat: 109
+quality: 61
+heat: 111
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg"

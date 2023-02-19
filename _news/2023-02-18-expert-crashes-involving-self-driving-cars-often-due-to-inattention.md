@@ -24,6 +24,22 @@ images:
     height: 256
     isCached: true
 
+related:
+  - title: "Expert: Crashes involving self-driving cars often due to inattention"
+    excerpt: "The reason for many crashes involving self-driving technology, says former NHTSA adviser Missy Cummings, is, \"When you encourage people to go hands-free, people will take extended periods of time and"
+    publishedDateTime: 2023-02-19T00:15:00Z
+    webUrl: "https://omaha.com/news/national/expert-crashes-involving-self-driving-cars-often-due-to-inattention/video_5d1219ac-abdf-5973-98d0-0a1394df83d2.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
+        isCached: true
+
 secured: "n0KA/kpv4zO/b0ris8PUth0F0xC4IMdGfnLoFq1EuQIDUVqzCVAJjIKIWXFGlEmdxNd4uvF7A3f9gzN640jsdG71t0KLYMvMWVXv3CBH3hOmf3EW/4uM+RmSpKjMEiU5UtgDv8CMulZ0Hyy/ZjIJhHAx1rZqIZYofaYZZdG3IyaH8yhQtqHFQt4Sik3M2s1DnU8/uxNpoqCy604P9NFWsyKVor7sQyAVJAHpQ2GiO1n32A7SfCVZgoEVbg6cO78inqdAiIN/jakfF4FM0kHNDIxZ0W6bBDkIMvFEh/71Wtn/2hhHo6iFbVdAfZRodKrMO1s33XTr4ZLYOvl5evqOcCWSQYgM49XnyoIA2qIdT+k=;TmyhepFxvfNuanhL/pI6Eg=="
 ---
 

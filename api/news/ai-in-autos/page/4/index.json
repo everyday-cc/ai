@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-01-is-artificial-intelligence-faster-than-brain-learning-study-finds.md",
+      "title": "Is artificial intelligence faster than brain learning? Study finds",
+      "excerpt": "Artificial intelligence has traditionally been derived from human brain dynamics. However, as compared to deep learning, brain learning has several important limitations (DL). First, efficient DL ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058.html",
+      "originalUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058-amp.html",
+      "publishedDateTime": "2023-01-31T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-tesla-faces-justice-department-probe-over-self-driving-tech.md",
       "title": "Tesla Faces Justice Department Probe Over Self-Driving Tech",
       "excerpt": "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,",
@@ -1386,59 +1420,6 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-chatgpt-leads-lawmakers-to-call-for-regulating-artificial-intelligence.md",
-      "title": "ChatGPT leads lawmakers to call for regulating artificial intelligence",
-      "excerpt": "The rise of the chatbot ChatGPT, with its ability to generate informed, sophisticated text, is leading lawmakers to push for government intervention in the realm of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 531,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chatgpt-leads-lawmakers-call-regulating-artificial-intelligence.amp",
-      "publishedDateTime": "2023-01-26T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
         "AI in Autos"
       ]
     }

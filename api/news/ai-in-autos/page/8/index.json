@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-05-chinas-baidu-operates-driverless-taxi-night-service-in-wuhan.md",
+      "title": "China's Baidu operates driverless taxi night service in Wuhan",
+      "excerpt": "Chinese tech giant Baidu announced that it has expanded the commercial operation area and times of its driverless taxi service in central China's Wuhan. This",
+      "sourceUrl": null,
+      "webUrl": "https://ukranews.com/en/news/904800-china-s-baidu-operates-driverless-taxi-night-service-in-wuhan",
+      "originalUrl": "https://ukranews.com/en/news/904800-china-s-baidu-operates-driverless-taxi-night-service-in-wuhan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Новости Украины",
+        "domain": "ukranews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-chryslers-ces-2023-concept-is-an-artificial-intelligence-powered-dashboard.md",
       "title": "Chrysler's CES 2023 Concept Is an Artificial Intelligence-Powered Dashboard",
       "excerpt": "Chrysler claims that STLA AutoDrive will deliver Level 3 autonomous driving and will allow “for hands off the steering wheel and eyes off the road.” The automaker also claimed that its AI can ...",
@@ -1264,58 +1298,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software.md",
-      "title": "Eight-car Thanksgiving pileup blamed on Tesla “Full Self-Driving” software",
-      "excerpt": "An eight-car collision on Thanksgiving Day (Nov. 24) is now being blamed on Tesla's \"Full Self-Driving\" (FSD) assistance system. The crash took place in the Bay Area in California on I-80 and left one person hospitalized and eight others with minor injuries.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/",
-      "originalUrl": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/tesla-warning-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/",
-      "publishedDateTime": "2022-12-22T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556-amp.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "ChatGPT Sparks AI 'Gold Rush' In Silicon Valley"
+    excerpt: "ChatGPT, Silicon Valley's latest app sensation, has investors rushing to find the next big thing in generative AI, the technology that some hail as the beginning of a new era in big tech."
+    publishedDateTime: 2023-02-19T06:04:00Z
+    webUrl: "https://www.barrons.com/news/chatgpt-sparks-ai-gold-rush-in-silicon-valley-78371e21"
+    ampWebUrl: "https://www.barrons.com/amp/news/chatgpt-sparks-ai-gold-rush-in-silicon-valley-78371e21"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chatgpt-sparks-ai-gold-rush-in-silicon-valley-78371e21"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 37
 
 secured: "78/I8ceXNm6sL3QW4Ps4ElZpl5SGtFLyzlJxILb8iPL8izOrq9+nxGGlWiRGOCW7wcdTP0OuoguGT4Z7cfMAUFlqbx2eIL4SRfaKrzbmLiR/lhpCko0aCbpIrMdN9QjXOSKuR3cwAsO3fpym7st46nBxWtX6TVERljuklGMuVxzLLmxDTJRGcnun371YO7exN7ZxasAaSsH4FEF6P5LbV3+k9r3gM4UqJhQl6BO+WgpWg5Z+oY3qO+dUkfOKEDmJUBrER3l6YYkHaTr/Mxb5WINflvA3FmnmqDuCQTHAPwCULTXF2eMg/zUp7+3yO0F8IbOf/UUoRVKf3EDY+trllm7NZsSoD2Rlx69VOFlU0k0=;3bC9yXyMXb+LlEN3+NLHZQ=="
 ---

@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2023-02-17-best-robot-vacuum-deals-under-100-ahead-of-presidents-day.md",
+      "title": "Best robot vacuum deals under $100 ahead of Presidents Day",
+      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "publishedDateTime": "2023-02-17T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-vietnam-to-try-out-facial-recognition-system-for-airport-procedures.md",
       "title": "Vietnam to try out facial recognition system for airport procedures",
       "excerpt": "The Civil Aviation Authority of Vietnam (CAAV) will do a trial with the use of biometrics, specifically facial recognition, for passengers doing procedures to go on flights.",
@@ -63,7 +107,7 @@
       "originalUrl": "https://e.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -106,7 +150,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1228,40 +1272,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-facilities-facial-recognition-staffing-ai-personalization-among-hottest-topics-for-live-events-in-2023.md",
-      "title": "Facilities: Facial recognition, staffing, AI, personalization among hottest topics for live events in 2023",
-      "excerpt": "I fired off a barrage of emails in January to dozens of folks involved with every aspect of the live sports experience to see what topics are: A) front of mind for them as 2023 gets going and, B) most intriguing to them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
         "images": null,
         "publishers": null,
         "authors": null

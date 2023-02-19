@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market Trend, Research, Growth Prediction and Forecast Report Till 2029"
+    excerpt: "Report Highlights:- \"The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is"
+    publishedDateTime: 2023-02-18T15:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trend-research-growth-prediction-and-forecast-report-till-2029-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence (AI) in Oil and Gas Market\" 2023 which"
     publishedDateTime: 2023-02-17T03:38:00Z
@@ -67,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market Scope, Research, Growth Prediction and Forecast Report Till 2029"
+    excerpt: "Report Highlights:- \"The global Machine Learning market size was valued at USD 14304.85 million in 2022 and is expected"
+    publishedDateTime: 2023-02-18T15:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-scope-research-growth-prediction-and-forecast-report-till-2029-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
