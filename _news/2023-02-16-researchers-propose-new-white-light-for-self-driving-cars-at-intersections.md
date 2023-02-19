@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Self-driving cars could make traffic lights obsolete in 20 years – engineer"
+    excerpt: "Thomas Tompkin of Smart Mobility Living Lab told the PA news agency ‘a seismic shift in the way our roads are laid out’ is possible."
+    publishedDateTime: 2023-02-17T09:02:00Z
+    webUrl: "https://www.alloaadvertiser.com/news/national/23327836.self-driving-cars-make-traffic-lights-obsolete-20-years---engineer/"
+    type: article
+    provider:
+      name: Alloa Advertiser
+      domain: alloaadvertiser.com
+    quality: 22
+    images:
+      - url: "https://www.alloaadvertiser.com/resources/images/16465719/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "XUmMD4pg9a/BPmbYIAl8xCUz0UJkQ4cYDpJBr+oB8AMVi9sVlD43UolH1c7C7ETA2OwmsgXMLLrR9c7Gwc4ONQzHeZG2GIJeDD0Z4Y620yamqxb57SRx4neJVuC14Q2y6ug8Pjj9a+eeQm/0NH6qyPqGmKJ/Mq+FLJ4v807wKWParoEBhQOwwuZjjOLKfw8RkrqLWclorioA0NiE44OLyWcRliGVR+nBZBsG7IJzc88gxzPuK6kOqcjSafkm3V3ZnIo/ROD7X7Z4HvX7h/AllKNfu1/v+nm1zRQ4yve8Fsk66UezY8bY+KyfqRnBApEmzIRcRbAGCFVArv0xZ7rZcx4YnlqCZ4v69tjmx67aRtE=;dgSjOrZB6wR4GAl/0xlguQ=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enhanced prediction of prostate cancer recurrence using machine learning model"
-    excerpt: "Predicting the course of prostate cancer is challenging because only a fraction of prostate cancer patients experience recurrence after radical prostatectomy or radiation therapy."
-    publishedDateTime: 2023-02-15T05:15:00Z
-    webUrl: "https://www.news-medical.net/news/20230214/Enhanced-prediction-of-prostate-cancer-recurrence-using-machine-learning-model.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
     excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the Feb. 15 issue of Science Translational Medicine. Davide De ..."
     publishedDateTime: 2023-02-17T20:43:00Z

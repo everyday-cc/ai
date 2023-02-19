@@ -33,20 +33,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Enhanced prediction of prostate cancer recurrence using machine learning model"
-    excerpt: "Predicting the course of prostate cancer is challenging because only a fraction of prostate cancer patients experience recurrence after radical prostatectomy or radiation therapy."
-    publishedDateTime: 2023-02-15T05:15:00Z
-    webUrl: "https://www.news-medical.net/news/20230214/Enhanced-prediction-of-prostate-cancer-recurrence-using-machine-learning-model.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "XLaQC+Hx+TKfeezU0qBoeOzHYAiswx5gkUz1GnjQ61s3Q2ZNSkSjezcVz0xrMVEAyoxXY/gsPAB7WcZngB0vdAVCeIk6BNPXKmE42RRDa7TzPuOO5KH4oCoOLm56nz4G5zhZCbdHbVMIGqd9K+tfcxllY6lVAfNh4vbXVjG1JCC0x4oWHHjDjKXao+pnJV65ypO/CGGbkgocfYM/MUKPT+4tp2BZswcH+H7RUUExZPcmMtxV+N+wqpylFXArv48A02SI+tVW9OY4SEiM6o2rcxka2nkJRz/q2Bv9+3OkjIiAD2kouueXH0+CTl5h0VHzxyOcm/GciwBWPG8qBYftM7T7j2PY3qTKomqFEsCEgV269HDAZxe63Tq4G0LyyazlaCDh0v18Vtm/4Kf9rIorTMvMxdESB6otyF68ri6/4TViDSEcqpseTAMek3/HjIUs7unq/WuqM+6Fquh17TNZv575/L5K73x/vukCAh4PVmNTsm6V5qaMWvjkf3UitMXOde/Nq0ekOUj1lWycAsBGRw==;14MVq2hPU/+Mj7Ers8l/fA=="
 ---

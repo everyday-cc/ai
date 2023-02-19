@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
-    excerpt: "A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in"
-    publishedDateTime: 2023-02-17T15:06:00Z
-    webUrl: "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
+  - title: "Machine Learning Models Improves Prostate Cancer Recurrence"
+    excerpt: "The machine learning model consistently improved the prediction of prostate cancer recurrence by the clinical tests alone or in combination."
+    publishedDateTime: 2023-02-19T18:17:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-models-improves-prostate-cancer-recurrence-210561-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-models-improves-prostate-cancer-recurrence-210561-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-models-improves-prostate-cancer-recurrence-210561-1.htm"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
+      name: Medindia
+      domain: medindia.net
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/b4/bb444ce3-4236-5f5a-9211-27c6b970387b/63efc485459b2.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
-        width: 600
-        height: 315
+      - url: "https://images.medindia.net/amp-images/health-images/gene-tests-could-identify-men-at-risk-for-prostate-cancer.jpg"
+        width: 1200
+        height: 1000
         isCached: true
-  - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
-    excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the Feb. 15 issue of Science Translational Medicine. Davide De ..."
-    publishedDateTime: 2023-02-17T20:43:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_8cea174c-c901-5f62-97ab-6528bacee66e.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 19
 
 secured: "126LDkP79zBMvfnEGBsSTgWlRhjUZW92UCLcTuCid41cqLK/gwCrVmC2emG9rr07VMqSYLeoNbfSjxQ/calUAdwmzYwOf0jo+jCpDAB2sns51uDr1hmfDgQV3QKKxN2VVesJWGWbYqlLSWrNtlOcrWHp9aXJ9cO7JGoq5ujIgMz7A+IwEQ6EYH5XrNs867vjkwtZ0KzC9dFSYAWL7JRxHhLo+QMYQlI3YGkeD7pDfBmvZnmZBeOwdOuqPGCcQef9Q9g+gliNBJuaOnWq4xEy9OpBweNau6zadDDeSq/FU1hZgMmH5+grbaMorwELtla5ryAMOPmPv4+IlM+8BGEyORgTHrlec+q8yJCIMydxCuzxEwjOVeevsUy4yGs+GzCbkERCy1iTKSpsvQi3TrhdZLSm6wkVa+xyOUh7hbH8156BG+M209kR0ActIP9CE/jzF6Eaayxj/yvrB3+r0I8JNDUaihfHa17Ql1PCiTFFuYOIcvTpFr/ImaayLNNAXX/fphmMGroVvV+mIAyo44xLqQ==;o3Rg9/LsGgniyY8d4rS4Lw=="
 ---

@@ -42,6 +42,22 @@ related:
         height: 700
         isCached: true
   - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
+    publishedDateTime: 2023-02-16T16:14:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "US launches artificial intelligence military use initiative"
     excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries."
     publishedDateTime: 2023-02-16T15:03:00Z
     webUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/"
@@ -61,20 +77,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 40
-  - title: "US launches artificial intelligence military use initiative"
-    excerpt: "The United States launched an initiative Thursday promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries, seeking to impose order on an emerging technology that has the potential to change the way war is waged."
-    publishedDateTime: 2023-02-16T20:01:00Z
-    webUrl: "https://www.chron.com/news/world/article/us-launches-artificial-intelligence-military-use-17788415.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/31/43/56/23477156/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "rUTiFVxaFWQWkgAPEqTh7hykAC9WA5spqwwh3nQFoFBbJjY4tE2n4I8gL1rmN+a7GL9RbijSslxXhVhxz6gZeyvv3IzDqPKQRZ86TgwjPSmwmbxToIKeiJh516ekT34jTFMpapvm/i0mKkhoHH+G8yPwXfed6q+w3QqMzF1UH23J55WzbzefPYA3QPo27JX/XGNYnRxdaM/blLkTkeuermTvohrhZJqsl7M2mpJRdtNV194usIDIHFbyoXLU8hPPASOWnqHgHQxMqo9hSl2XyblqpNVQw7iaYFYteocklHh7NJEmzfcoj1q3bi2OLwpGW+B4kseExnLSkyjiPURllRw4oy7eT5bpY/IJmP4QNk8=;tD2s41c9dO0qQfEXUAmk9w=="
 ---
