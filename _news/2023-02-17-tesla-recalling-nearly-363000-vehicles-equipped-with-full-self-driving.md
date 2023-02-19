@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
-excerpt: "Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s business model. “Full self-driving,” as it currently ..."
-publishedDateTime: 2023-02-16T21:49:00Z
-originalUrl: "https://edition.cnn.com/2023/02/16/business/tesla-fsd-recall"
-webUrl: "https://edition.cnn.com/2023/02/16/business/tesla-fsd-recall"
-ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html"
+title: "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'"
+excerpt: "The recall notice said that the problems are present with all cars with the current version of the FSD software, which is available on all four Tesla models."
+publishedDateTime: 2023-02-17T11:01:00Z
+originalUrl: "https://www.wpbf.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+webUrl: "https://www.wpbf.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+ampWebUrl: "https://www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
 type: article
-quality: 88
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WPBF
+  domain: wpbf.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/230109114804-tesla-car-steering-wheel-autopilot-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-bebde75c81b65923d7fa9a58c5192cc6-h-b6baf53a58d45c63f98d1f0922980fdc-jpg-1676589213.jpg?crop=1.00xw:0.846xh;0,0.0433xh&resize=1200:*"
+    width: 1200
+    height: 677
     isCached: true
 
 related:
@@ -778,6 +774,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "KKVfYPS0URLN+N5/I/uBLZVWJsSgHo+K/00MzAAjRiooa7qY3m/Qzh745I+oaXm4kksRWaVhziEQEhp9XWlMz7Bzdzp4CumooghbeTOLTX2FGN7wOvLQXUJzhgaanra1qam+fpe1OdvHFcfbnajA/14ng4HY9mV74YGA4ZgHN9SEzdbXCd71Y29lYryhq6Jx02k92TCp12Ed5xym2ZtgTxj16uPc89S5v8RIN1LbeUhKLtkcM2eTyoFg5bdgG3AJPa6Mc0p0vcE0vOB4YAKT+oKEHy1hpKvyfW3hKxgfJgRYZImWwDDu7KD1Rd4C8970TrpiD5JOJkufonHBe9pXky4hjHeL9LZvqVCTYk7YMbQ=;mEDvwwmWnJIXS6YP5t9iMA=="
+secured: "9iyM8925FdfFrCjpOJA5TCuugvhxYisHt3hTYSPhhkUVjpZ5VUntw4lvP9Hteum5U/tDU8CBA/Mt4/XHLNzbwT7A8RcfUNY5itMUCtOwphOW8ocbfhVZK0/Cf6CAzY4ADjrMFULkAiO8czN9qKv0/UCflIqZAjEI3rL2FfH6ZhI21FSsX6Vjcp/w46+DsTfNJ6kn7KfJxSHKcFG6YALqJNIgjTDJBYAcrvbqMdKMNN2vu1cjVrqi90B6TEK0LTTfj1Ezb93jf+xZyKP7nM3ryFD09bDYND3X39YcnN79BfkbpNaKC5ahH86FCluO37ZlYtxwIbBImTdl3H/cIKAXdFSk/xalC21v4iCC731Jtko=;RlsyrVsV3/dneUqvVF0IKw=="
 ---
 

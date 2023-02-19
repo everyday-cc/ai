@@ -52,15 +52,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 30
-  - title: "Learn Deep Learning and AI from Eminent IIT Madras Faculty: IITM Pravartak launches Certificate Programme in DL and AI with Emeritus"
-    excerpt: "IITM Pravartak and the Centre of Outreach and Digital Education, IIT-Madras, have announced the launch of the first batch of the Certificate Programme in Deep Learning and AI on March 30, 2023. Positioned as a high-intensity course,"
-    publishedDateTime: 2023-02-17T01:33:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230216/4039816.html"
+  - title: "Learn Deep Learning and AI from Eminent IIT Madras Faculty: IITM Pravartak Launches Certificate Programme in DL and AI with Emeritus"
+    excerpt: "Mumbai, Maharashtra, India: IITM Pravartak and the Centre of Outreach and Digital Education, IIT-Madras, has announced the launch of the first batch of the Certificate Programme in Deep Learning ..."
+    publishedDateTime: 2023-02-16T17:15:00Z
+    webUrl: "https://www.businesswireindia.com/learn-deep-learning-and-ai-from-eminent-iit-madras-faculty-iitm-pravartak-launches-certificate-programme-in-dl-and-ai-with-emeritus-83092.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 3
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 23
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_83092.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cLH6vszr5GEshmJbKtxR6txZ0fUH54Y8u4IiFkzSc9kg9B69ag9CnhkHz53ztLyAV/u7mZs/1AeJ3HwLMNAQZjqpvc61bgjZ/D45liLKeEHDZoT6mosMWcLn3KTFua2g+vJUc7S5IGEYB4oL2mtHt7CvsfVyQK/UCz27VeGgTTjGT/aMto2SI4tg9mCsabzbK5LzdFsdtgyUiaMM01gekUeNpAnBT/+V0SdSw1r29f55ipf3bez7mpR9Fcev7F+5It4pxjl9Ipz+XfygeZGq1lMx1aCFe6BGtgR5+wdnA0X0toEuB0POJOv4ud+62fcFiI8SxIJFGD8yhMRYLarYY7/TgDEkGy6AIECju5FzRvO7ZlgznhlzIZqsJbOy1T1FmNJhlmHjWU5TWHOEoYcTmEBSvk+NsGsQK8xb2D2NLMAP3RGSI1Jh07SIV0a5Hjh8rqc+zdlAO5NIm5KIp5yugtDl3DlQbU5Fxhcdox8Z+/dymhjEcmf9ZKa7fAiz0xF/k1noEMTy9Z/16uiZGkuCCg==;jlFgPU9yDnD/VBpJFQx8CQ=="
 ---

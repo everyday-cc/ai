@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/pressure-mounts-on-cios-to-build-mo
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pressure-mounts-on-cios-to-build-more-ai-apps-and-faster-f61c9004"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

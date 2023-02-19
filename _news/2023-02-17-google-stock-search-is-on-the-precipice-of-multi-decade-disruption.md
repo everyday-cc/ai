@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-sear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/amp/"
 type: article
 quality: 76
-heat: 78
+heat: 76
 published: true
 
 provider:

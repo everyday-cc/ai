@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-deep-learning-mar
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-size-is-booming-worldwide-with-share-top-key-players-2030-by-vmreports-2023-02-17"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Computing Market 2023 (Newest 91 Pages Report) is Booming Worldwide 2029"
-    excerpt: "Cognitive Computing is completely changing the way organization use their big data in each verticals, especially in industries pke Healthcare, BFSI and Customer services. This is big revolution in global information technology market and holds very strong ..."
-    publishedDateTime: 2023-02-17T07:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2023-newest-91-pages-report-is-booming-worldwide-2029-2023-02-17"
+  - title: "Global Deep Learning Software Market Size Pegged for Robust Expansion by 2030 By VMReports"
+    excerpt: "Competition is an important issue in any market research analysis. With the help of the competitive analysis provided in the report, players can easily study the key strategies employed by leading players in the Global Deep Learning Software market."
+    publishedDateTime: 2023-02-17T01:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-software-market-size-pegged-for-robust-expansion-by-2030-by-vmreports-2023-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

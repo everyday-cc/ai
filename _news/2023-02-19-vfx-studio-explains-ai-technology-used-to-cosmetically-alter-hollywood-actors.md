@@ -8,8 +8,8 @@ webUrl: "https://en.as.com/entertainment/vfx-studio-explains-ai-technology-used-
 ampWebUrl: "https://en.as.com/entertainment/vfx-studio-explains-ai-technology-used-to-cosmetically-alter-hollywood-actors-n/?outputType=amp"
 cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/entertainment/vfx-studio-explains-ai-technology-used-to-cosmetically-alter-hollywood-actors-n/?outputType=amp"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img.asmedia.epimg.net/resizer/Xq0VybA5okt3_s9FU5O75QBVhgg=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/YU4D662FWBPJXBDV2SZ6BGOPT4.jpg"
@@ -25,6 +26,6 @@ images:
     height: 362
     isCached: true
 
-secured: "YKcg5R5nPGE8+85f6ctdeFPU3lPqtiNGxGc2BbXs5Z9akuPoa9tAJ9WBDiQh/7KBS/TTAGm1PKJndAGAL6NB1tiqi4Yu5sSHXGj479M4KTbZcoHw2BsuetEkQmkkiacTIIg5fouiQGGu/7Jqqs09cpvip3VP75dikIQVv4uCkAML0+q8z3J80Tl7WGzbrhs8ZNmuvIXe72kcq5282/Q4mi2r+0inesdEJPTAG9ahhPgbizzfvO7isYbxhTbUmU/BPtWWggdvrVIHrpwvxHZrXIS86VHIUTogt5TG1AjhBAx8ij1FRluQeW/73wLXjdauzF1Oq7ePVMqez3ZeVKy/waY/CZUB2NokCI6OnEI6M08=;BuLX29cTcqb9TbpVk0p6mw=="
+secured: "vs0+wDctpr0gSnb0qQYC0QRbFtlFr3uIta/34zwMeTijY+Zmwg5jeHgqzJwIGcSYoABumHmHyQP6G5Q9CyUGB/E/W5iC4hf875TZglXWpTF4qxIDMwsenPVK22k7gjPLCO8HqCl2UdjjLg385fFgH1hNxusXAng4HMAZROirLEztVcA5LRJNltzMES5rNoF/KCBwXpWOtTeSrAUD5Hu9ctC2bm9+7Jh4kaJwfdUY1htCh2RoD4FUkCgZWIzoRyngiCCYS28rL+5Ix2PVYcu9ZjyH+mHCg/JMM/OzH7w9RfInA7fmZ5/8pbLs6VpuLrgcpu3hpc0F1rxyA5roX5j7Ib/jZEbjjFd1Cb9m+stlYkifsTzFuktCiEdp/LbBDaNndgm08nF+4stqXe4+W1MW0OeJpzw9HOZXdd91zp8nb7LSTyC2l8NYgctXZel4nQrfzM2NSDXO7OGPLYCd6UFq7nTSgV/rEi6417TPwV/E/5Sc9UAKyfY3+UlRBDAvvRexXjVlPAmCbRC4w/TpEKKo1A==;8n9WilbNjNaMSS+zS7KNsg=="
 ---
 

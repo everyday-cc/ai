@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Learn Deep Learning and AI from Eminent IIT Madras Faculty: IITM Pravartak launches Certificate Programme in DL and AI with Emeritus"
-excerpt: "IITM Pravartak and the Centre of Outreach and Digital Education, IIT-Madras, have announced the launch of the first batch of the Certificate Programme in Deep Learning and AI on March 30, 2023. Positioned as a high-intensity course,"
-publishedDateTime: 2023-02-17T01:33:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20230216/4039816.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20230216/4039816.html"
+title: "Learn Deep Learning and AI from Eminent IIT Madras Faculty: IITM Pravartak Launches Certificate Programme in DL and AI with Emeritus"
+excerpt: "Mumbai, Maharashtra, India: IITM Pravartak and the Centre of Outreach and Digital Education, IIT-Madras, has announced the launch of the first batch of the Certificate Programme in Deep Learning ..."
+publishedDateTime: 2023-02-16T17:15:00Z
+originalUrl: "https://www.businesswireindia.com/learn-deep-learning-and-ai-from-eminent-iit-madras-faculty-iitm-pravartak-launches-certificate-programme-in-dl-and-ai-with-emeritus-83092.html"
+webUrl: "https://www.businesswireindia.com/learn-deep-learning-and-ai-from-eminent-iit-madras-faculty-iitm-pravartak-launches-certificate-programme-in-dl-and-ai-with-emeritus-83092.html"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_83092.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty"
@@ -61,6 +67,6 @@ related:
       domain: hindustantimes.com
     quality: 30
 
-secured: "zT87Znw4raXxMVfmLMkG7UnwqwrMfEMJuPaNuBAExCjyy6+P300P89ai89ZQTq9KdATf4mcvow4XERW1UmvZS0L5xDzePWG+BgaTud4PgvaBMS83Ecp70zLH4xZIp9Suv1PRsbb2CNGNLCNS9ua09PTSocod5qyp42wHAL2xpYkAdAhWfrdinb6BdLQNt3+BEOz5rtiWoTWAYEJbnqQESRQwLk4ROs+wfsqNrbjrHUvWV5wh/c8VM3AmyTMaS2VgOy6/54ryQaJYIaq9ZmaH3WUMNmvzPeKdOEv3uY31md7JPmnKH8hgDX/QPN/dCnaZxBX4egYB4K8yN/8Omfq4rr7ELJTblcs7+XCREyKJw00=;luOhvuGg14PmZGTI2ly02Q=="
+secured: "RFmtw9awwRWEcZeXzMjXTGEyApFmgE3WXZ5Euy1Vs0memRll+0/rvLsBWXBz86WgvWUUTI1wwkdhWsxt05E5h2xxZ8a606nRpcb/hwqqvX86bfCXmy/2m+aO8Kv3OBpd3KvoX7CurO09iy2T3w5g4yVF7VoFmXozY1d2u1HIVOc1Lf4TS+xNgxFQhVSw1Pa9QKOJ5knnoO1I0sfopIuM6rI0C2OJHxgVkmOVjSt4+lQeRGZB7dIcioTcoAALA8eTtWPZ7dCPXnIXB1SV+XLHXOjYb0htNxMJkDIqA7RMi175tHPSLiM982LBecNEk85ksnKasEQMJABU3Pnpe7yG9szc/zjw8yaWn/gUJ8uNcy8=;FqyuWBufPd/z7wiOzV237A=="
 ---
 

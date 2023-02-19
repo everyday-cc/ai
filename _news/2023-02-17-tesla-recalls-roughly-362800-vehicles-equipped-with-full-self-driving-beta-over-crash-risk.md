@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
-    excerpt: "Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s business model. “Full self-driving,” as it currently ..."
-    publishedDateTime: 2023-02-16T21:49:00Z
-    webUrl: "https://edition.cnn.com/2023/02/16/business/tesla-fsd-recall"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 88
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230109114804-tesla-car-steering-wheel-autopilot-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Tesla recalls 362,758 vehicles over Full Self-Driving software safety concerns"
     excerpt: "Tesla issued a recall of its Full Self-Driving software after regulators said it could allow a vehicle to act unsafe around intersections."
     publishedDateTime: 2023-02-17T01:33:00Z
@@ -404,6 +388,22 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/02/OCR-Z-TESLA-RECALL.jpg?w=1024&h=656"
         width: 1024
         height: 656
+        isCached: true
+  - title: "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'"
+    excerpt: "The recall notice said that the problems are present with all cars with the current version of the FSD software, which is available on all four Tesla models."
+    publishedDateTime: 2023-02-17T11:01:00Z
+    webUrl: "https://www.wpbf.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    ampWebUrl: "https://www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    type: article
+    provider:
+      name: WPBF
+      domain: wpbf.com
+    quality: 58
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-bebde75c81b65923d7fa9a58c5192cc6-h-b6baf53a58d45c63f98d1f0922980fdc-jpg-1676589213.jpg?crop=1.00xw:0.846xh;0,0.0433xh&resize=1200:*"
+        width: 1200
+        height: 677
         isCached: true
   - title: "Tesla recalls more than 300K vehicles due to self-driving software issues"
     excerpt: "Tesla is recalling more than 300,000 vehicles that are equipped with Full Self-Driving Beta software. The recall includes certain 2016-2023 Model S and Model X vehicles as well as 2017-2023 Model 3 and 2020-2023 Model Y vehicles."

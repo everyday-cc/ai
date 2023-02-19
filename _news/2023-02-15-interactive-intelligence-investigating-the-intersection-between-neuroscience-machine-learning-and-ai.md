@@ -159,15 +159,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tech : Artificial Intelligence"
-    excerpt: "Plagiarism-prone chatbots and self-driving auto wrecks show that AI still has quite a few kinks to iron out. As generative AI becomes increasingly popular in the mainstream, here’s a behind-the ..."
-    publishedDateTime: 2023-02-14T08:15:00Z
-    webUrl: "https://www.fastcompany.com/technology/artificial-intelligence"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
   - title: "This little-known AI fintech stock could more than double after 'proving its mettle' in economic uncertainty, Canaccord Genuity says"
     excerpt: "It's time to buy AI-powered fintech stock Pagaya Technologies based on its path to growth, according to Canaccord Genuity. Analyst Joseph Vafi upgraded shares of the Israeli-based technology company to buy from hold, and doubled his price target ..."
     publishedDateTime: 2023-02-16T18:18:00Z

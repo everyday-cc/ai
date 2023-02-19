@@ -1,22 +1,29 @@
 ---
 category: news
 title: "US launches artificial intelligence military use initiative"
-excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries. The move seeks to impose order"
-publishedDateTime: 2023-02-16T16:00:00Z
-originalUrl: "https://tulsaworld.com/lifestyles/technology/us-launches-artificial-intelligence-military-use-initiative/article_ee6b83f6-a978-540e-8c15-7955ca93325b.html"
-webUrl: "https://tulsaworld.com/lifestyles/technology/us-launches-artificial-intelligence-military-use-initiative/article_ee6b83f6-a978-540e-8c15-7955ca93325b.html"
+excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
+publishedDateTime: 2023-02-16T16:14:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
 type: article
-quality: 19
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden administration backs curbs on military artificial intelligence uses"
@@ -84,6 +91,6 @@ related:
       domain: arstechnica.com
     quality: 40
 
-secured: "B2OBXsb9ZNpPgp5+qjfNelEuLm/XCy+aHBvmmOH12Pp3mFmyDaBqMxdRjAW+Q5vqTf1Yz4s4Xc50yfDT+UH54Zls8htW88yXg4SH6rynKE1+Vv8V/arpYVFycXNT9S7VgBPdprIxwN0+lNX3UBMy9YMPLt/agWaqwZ3wQSoK7D9sJX9ftmxi+TEc07GiXNuqYYuaDstfQ3o/8TCjkOwEIKh35KtZQxl4OiJTVeTnJTmR0gX9g+nn8PWOf+2mdqZK2OwnIji/WxWJ/hxxuACbu3N6TKArb1ttx3O4bft1Uv5vo9itL+0ZsMCMnqq63zgXu3+CeIMGLmjdRCR27b6KwJRHwhMfb5vk4abty7r3TOhSZQsrxSYO0yWH7vi/ygGFhhVgpHEg0HPQrRgq5BlwIOkKHVkFOf2Z86xPRq2iIyv7ziC1Myk4mViHj/DMtPdS1vUK8Yk/PitfvBS3kQBe+pCgUMpXyPNy9VUubZqErwmb0j9upwyQLtbmG/ZakFOzS0d9xYqL9gkq6Xg5eFqXGw==;JViz/OSPoUnMg9Ooi+Vbig=="
+secured: "Rmj58IdBCazZ7+M7oJfXYdqL4XSoEcguUUaCsgeSYAVugsFPZIwDutQbhQWpsEe0zCl6Q7iDgEcXD0q7Dp1uBxbuWtCq/BaA8QYaT+eJgqgiOP5OvaQIWLcc+TFOFpcXd5JLMZOYqarVyMUHRUVkSeai/6e/DdfwcdqrFtOFFihkLCdOgAPUbgGYdchyVcZUuk1K14toQx6111L5RSnMvvawwK68SYmvqv3oYfe4zxnalhJuVvOsbSaTCZSdYFwOhtKPCQqMhHYqorxCqBXU/zrl6XabHLszjC8Lz7Ww2sa6cdKIzTlvipiDHetIbJholy4mz6h2wS3IOmt2XrFuV7aY7EBfyXnEhNT6mVOfKG4=;3aoAqBoZLLAMYQ1kysSelA=="
 ---
 

@@ -171,15 +171,6 @@ related:
         width: 950
         height: 499
         isCached: true
-  - title: "Tech : Artificial Intelligence"
-    excerpt: "Plagiarism-prone chatbots and self-driving auto wrecks show that AI still has quite a few kinks to iron out. As generative AI becomes increasingly popular in the mainstream, here’s a behind-the ..."
-    publishedDateTime: 2023-02-14T08:15:00Z
-    webUrl: "https://www.fastcompany.com/technology/artificial-intelligence"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
 
 secured: "zxt3UYTjDUKBMtRvoKopWLJu7C+tMRzdKzu0N4CCG1/f7eUTH6o2NQ53DMgdToRR44UVij8qVVHsT2o2epfISA10RZD1KYvb4pfjhK0X+BIJpECHoXz3lt79zrjnm8qscJC/rgLYIpikAfgiPkxk1GGgg4m0P7+25Lb4P5JJJcu7MyuIULMlcC79ttEIrjLwLPk3e/H0CmHG7npd8XF7d9FGn4HGScFVpWOJ8MSGALGnQXPmmw1gLPNViAqRF5aJaP9Mo9GV77a9RlmZC3ri9nHcbt1bfJ+ZSePqVB+4Ll7ouLndQqVwDnA4iLmE6Kc2QHkaSpWrTHMm/yDgkp1eHUMohLK4SnZGvZ6MnH1GfEATKDpA40Lp9GAyS8FFXF662adcOlOobkzO65oZTzW2bsqgyp+0gWO1ciKFijpUkYHZBOXVU5H9udkMc11b9vBHIs+tXCakU4KlgXMbL2C4b2A0Y+JQ9FaSs1t734BDPRCKIR+8jYkp1pwrNrGUWDOqHesrr3xSA4F/oMkuM1preQ==;tABskpvBrmJgBw4KIg8JNQ=="
 ---

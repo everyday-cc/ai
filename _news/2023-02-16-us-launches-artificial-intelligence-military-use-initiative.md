@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
+    publishedDateTime: 2023-02-16T16:14:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "US Woos Other Nations for Military-AI Ethics Pact"
     excerpt: "The U.S. will spell out ethics, principles, and practices for the use of artificial intelligence in military contexts in a new declaration Thursday, with the hope of adding cosigners from around the world. The announcement is intended to highlight a ..."
     publishedDateTime: 2023-02-16T14:00:00Z
@@ -75,15 +91,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 40
-  - title: "US launches artificial intelligence military use initiative"
-    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries. The move seeks to impose order"
-    publishedDateTime: 2023-02-16T16:00:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/technology/us-launches-artificial-intelligence-military-use-initiative/article_ee6b83f6-a978-540e-8c15-7955ca93325b.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 19
 
 secured: "iuQn714pLdeUQPtAHtCZGLfpvji1HCHf+zNJpfbu1LochROOV/uQ54eU4OiJZ03q7UanbxHYalGY2E6Il32L352qq/m2ktH13uJMfEcGk8b8fd8om/U3hfFH9+BKlU7oAEzVgY/5NG2mcbV97BqprEHdtUpQXlya3/yyjqNYLlvfbtNWkwIHlUZkjh8z0vAwej6muW1Nt2m71FGe/V4TSvA+P13979r43gBukO4np7FplPgUZ3XlL5iq3aW8uqsw5KYrkVRTmgZs9wopSTpRmCWcPAtGptxLOEbxhg4A7MnpkZ+FG7r6wPPkhSr1pUtCSijReqEhmksD15lTA2/zoZhQhp8CrIxadx2Sw78Gkh+9cgjSyDOT+jzw3iEc75qnjls4MNsFqWTS068992L7Ru22/mRxwOgG38gAJJVAMSRJq4yueN79NSEsEa1lW8BftPnKDASrKz0dXQDWT18trM5BIL0YX9E1bZ8+/JihVlECa1iFRvlWXtByUizuoAJBAGxq27LJlUIog/3lKnHDAA==;CZELSEy2b5TbWR5CbxPtcA=="
 ---

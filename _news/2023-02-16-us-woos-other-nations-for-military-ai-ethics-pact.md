@@ -42,6 +42,22 @@ related:
         height: 700
         isCached: true
   - title: "US launches artificial intelligence military use initiative"
+    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries"
+    publishedDateTime: 2023-02-16T16:14:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256625"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "US launches artificial intelligence military use initiative"
     excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries."
     publishedDateTime: 2023-02-16T15:03:00Z
     webUrl: "https://www.seattletimes.com/business/technology/us-launches-artificial-intelligence-military-use-initiative/"
@@ -75,15 +91,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 40
-  - title: "US launches artificial intelligence military use initiative"
-    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries. The move seeks to impose order"
-    publishedDateTime: 2023-02-16T16:00:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/technology/us-launches-artificial-intelligence-military-use-initiative/article_ee6b83f6-a978-540e-8c15-7955ca93325b.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 19
 
 secured: "rUTiFVxaFWQWkgAPEqTh7hykAC9WA5spqwwh3nQFoFBbJjY4tE2n4I8gL1rmN+a7GL9RbijSslxXhVhxz6gZeyvv3IzDqPKQRZ86TgwjPSmwmbxToIKeiJh516ekT34jTFMpapvm/i0mKkhoHH+G8yPwXfed6q+w3QqMzF1UH23J55WzbzefPYA3QPo27JX/XGNYnRxdaM/blLkTkeuermTvohrhZJqsl7M2mpJRdtNV194usIDIHFbyoXLU8hPPASOWnqHgHQxMqo9hSl2XyblqpNVQw7iaYFYteocklHh7NJEmzfcoj1q3bi2OLwpGW+B4kseExnLSkyjiPURllRw4oy7eT5bpY/IJmP4QNk8=;tD2s41c9dO0qQfEXUAmk9w=="
 ---
