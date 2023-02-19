@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
+    excerpt: "Feb 18, 2023 (The Expresswire) -- \"AI in Computer Vision Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2023-02-19T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Robotics Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
     excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence Robotics industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
     publishedDateTime: 2023-02-16T03:48:00Z

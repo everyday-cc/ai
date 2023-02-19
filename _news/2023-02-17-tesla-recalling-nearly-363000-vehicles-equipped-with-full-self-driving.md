@@ -3,18 +3,18 @@ category: news
 title: "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'"
 excerpt: "The recall notice said that the problems are present with all cars with the current version of the FSD software, which is available on all four Tesla models."
 publishedDateTime: 2023-02-17T11:01:00Z
-originalUrl: "https://www.wpbf.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-webUrl: "https://www.wpbf.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-ampWebUrl: "https://www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+originalUrl: "https://www.wcvb.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+webUrl: "https://www.wcvb.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+ampWebUrl: "https://www.wcvb.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: WPBF
-  domain: wpbf.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI in Autos
@@ -774,6 +774,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "9iyM8925FdfFrCjpOJA5TCuugvhxYisHt3hTYSPhhkUVjpZ5VUntw4lvP9Hteum5U/tDU8CBA/Mt4/XHLNzbwT7A8RcfUNY5itMUCtOwphOW8ocbfhVZK0/Cf6CAzY4ADjrMFULkAiO8czN9qKv0/UCflIqZAjEI3rL2FfH6ZhI21FSsX6Vjcp/w46+DsTfNJ6kn7KfJxSHKcFG6YALqJNIgjTDJBYAcrvbqMdKMNN2vu1cjVrqi90B6TEK0LTTfj1Ezb93jf+xZyKP7nM3ryFD09bDYND3X39YcnN79BfkbpNaKC5ahH86FCluO37ZlYtxwIbBImTdl3H/cIKAXdFSk/xalC21v4iCC731Jtko=;RlsyrVsV3/dneUqvVF0IKw=="
+secured: "OFJlipx7f1l1BV8QjzmZMomcFJj24dTQS8zjjflVtY+EE29NyYmjnvCn/9CZWtsRfP5i631vjnZEf/i9Mbfp8/4if7B/hZ3igCAxayt/GYhaMEIMKNLbxd7vi5bIT08qcA7SLaeBFlM68i8VKUNsTKvYp7TyDyjzszKsPqXr6UGkBcffnQ89TTlcvUbVUbg+YmaHnGtDTl6+udgbxRfU2ykE29nZYKfquRDXy1cWKffBUa4izMARYLGYsoHIE164vHvlZWf+8KpLxS0r4edMwcx/iqOnCFtKpU4lw6/PXuSPCR03yrZwPQ9vpko1tYebFuyfRSSB7qcrFufnp4wulQ1a1Q+GulSYjthBVPAAfBk=;4pwi3c7AT+wf9vIYUU5dBg=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
-    excerpt: "Several farm, vineyard and dairy owners in the North Coast are among those employing driverless ... zero-emissions smart tractor with an artificial intelligence (AI) automation package that ..."
-    publishedDateTime: 2023-02-14T10:06:00Z
-    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/electric-driverless-capable-tractors-roll-into-california-north-coast-viney/"
-    type: article
-    provider:
-      name: The North Bay Business Journal
-      domain: northbaybusinessjournal.com
-    quality: 18
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=2ee348d3-69fc-55df-83d9-cd0de72f37dc&type=primary&q=72&width=1200"
-        width: 1199
-        height: 780
-        isCached: true
 
 secured: "htxwGpyySIUpSIZctoaIvewTXNZsCP6dJ+E3jZXWwYIT5x0cXYWkw4r9sexzn1H+CQTByiv9YUsV+qaY0ND2UzKE9J9pRYnWz5zB2zH8JChfkakI8uxkeVjn5zq1+QmTXdGi5wSwFJbh2cZ2No7gUISq5pE6zbGbRqR0tq8O0+/xZk3RctdRKhsrJbroFP1lrUj1EEDzMFwDtTN+LC9wUP3UXgnHhXXw5ftTwrTC8wWucsVZ9DDm24KwFnn9GHbi4XMqn+g5BMJCvSwJoI626tQLTS/2QGwAxK1HqUqQIXToc9oldtQHQfB9DsHS9aDppnfo/3Cn5efivMxHuxMRL4ILabXyEjH7LYVbRU/l8M+H1I8bptnZWB1hoB7cSDUyPEYuJ+slSbeBIsIajKBSXa0FAzkkUD2izmP8UCTxdh6l6WB1K21lkDZqyPKxxsnoH+nfxzuHFfl1r0YpzqoGTvnK7p0oK6eb5jirbf8+eldd5dGqrd6mLvn+7off3yizszFS05kPF/ijmIrwWwJ9kQ==;ZelyMz9XemgQK70QZho2QA=="
 ---

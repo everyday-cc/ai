@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Sugar Net Auxiliary Diagnosis Software Market 2023 Anticipated to Reach Most Elevated Growth Rate, Size with Demand Forecast to 2028"
-excerpt: "Feb 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Sugar Net Auxiliary"
-publishedDateTime: 2023-02-16T06:39:00Z
-originalUrl: "https://www.marketwatch.com/press-release/sugar-net-auxiliary-diagnosis-software-market-2023-anticipated-to-reach-most-elevated-growth-rate-size-with-demand-forecast-to-2028-2023-02-16"
-webUrl: "https://www.marketwatch.com/press-release/sugar-net-auxiliary-diagnosis-software-market-2023-anticipated-to-reach-most-elevated-growth-rate-size-with-demand-forecast-to-2028-2023-02-16"
+title: "AI in Computer Vision Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
+excerpt: "Feb 18, 2023 (The Expresswire) -- \"AI in Computer Vision Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+publishedDateTime: 2023-02-19T00:19:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-18"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-18"
 type: article
-quality: 3
+quality: 72
 heat: -1
 published: false
 
@@ -19,8 +19,14 @@ provider:
       height: 50
 
 topics:
-  - Google AI
+  - Computer Vision
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Robotics Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026"
@@ -46,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Computer Vision Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
-    excerpt: "Feb 18, 2023 (The Expresswire) -- \"AI in Computer Vision Market\" Report provides a Detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2023-02-19T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -149,7 +141,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sugar Net Auxiliary Diagnosis Software Market 2023 Anticipated to Reach Most Elevated Growth Rate, Size with Demand Forecast to 2028"
+    excerpt: "Feb 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Sugar Net Auxiliary"
+    publishedDateTime: 2023-02-16T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/sugar-net-auxiliary-diagnosis-software-market-2023-anticipated-to-reach-most-elevated-growth-rate-size-with-demand-forecast-to-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 3
 
-secured: "cVY2fH9aOrjZvdbUIdU1BfmS53iugcsXqM/28YyKPt3vJ8vNiRBCk+ohw4w92uNb/3XZtTuAMJZUIXM5UcHlZH23pPoLbF4jNoO8GrrrBohpRf11I1J7sXKHDhzSK74Mxt5Nn+vtd+c734iY4w9ah3o6g/zfd/Urzk30Ja5W0YkTFEBWzUMedSi6BE3K1WzLHAT7DN8Usb18UpZxULH8kd56Yk0FnABR6a0heIPqGKpsf0urn563n3IjjlPd7KFOxN0OavcpET44VX+EiEAbHz6Zfa8DhIkleqaIVfXY7cJpsfRCiqqwZbPoh+oLHKxMuPVg6zlwcdbv7qHDv0OYREcvQaXNksVs+ycqwhZE20c=;LDe8K0kA1xBJuKPLAPwFew=="
+secured: "zORkBw6TpM0KCPd6rGg3OFq7sfnmuJ7nXMn0xPChS7DjcY378KT3wWydbfHNS1bng7hKNuNYUXli25PKr/e2z13HMrqaD4usxX4kJqBlmcm0Tev5ngwplUPh5fiCgYdBJd9lAVPU1Bz/vpkVPKA9s0ha62ilPTG1Ub1mY41UcIsOJv7nDlDs09xi86NeDyDV0rzJW5fvro4vBsClzfyv6DAaho5h4B00pMqM6n9VzonFRvypotUEWgDrV9fvDVedKKcMlm4TN34jqNXYayQMtx5S01Gs23M+nUmGBS5PL8VdfmMsKqLs62YLyN3FQ0RJg7MeFzeLFYmdxy8O7p95jjQzhpe4rxqenWo17OQgPEs=;cgydlxbj7SbsWnjqTqKPLQ=="
 ---
 

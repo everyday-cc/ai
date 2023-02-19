@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/life/health_wellness/2023/02/18/universi
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Machine learning model helps doctors predict opioid prescription risk for patients"
-    excerpt: "Researchers at the University of Alberta are using a form of artificial intelligence to help doctors better predict which patients are at risk of adverse outcomes from opioid prescriptions."
-    publishedDateTime: 2023-02-16T15:17:00Z
-    webUrl: "https://medicalxpress.com/news/2023-02-machine-doctors-opioid-prescription-patients.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 33
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-model.jpg"
-        width: 810
-        height: 877
-        isCached: true
 
 secured: "M7R4jju7xPdRMdv2Y2WpwGCl0xFcjyHMV9mcVyunG1lmW2AzfppcqkXkCa73+q2rvv/HgEN/RJKcGpbx3C2f5eRb8TP8v+NZf6aAB+my7G9czalEvz26tqJwGq+qOUNb3hFlWTWzwm8scnx0Uggdns6Of/+9zdUt+c7TaRpDr9LoFdc63cXBWdVivavtTcFA9wdcuGXlWPC1/01hL7lKY8WptXDJZNEyMg+X/8wqsX7Y3EKxqJstwmN4rRg/6ZezGlnrYhy9wIxMKLlAu0S8R8yWT0DQsfUpRhHmt8xaNVR29ezF/vd4silAJygJy4PCQI2mCbeIWVvogUadBlu8S3zzMt5Q5ewhaOPn2S5n5pA=;3Dbi/NPQiEGKi0gFJn8KHQ=="
 ---

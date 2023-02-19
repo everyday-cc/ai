@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-sel
 webUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-self-driving-taxi-on-public-roads-in-california/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: CNET
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
-    excerpt: "Several farm, vineyard and dairy owners in the North Coast are among those employing driverless ... zero-emissions smart tractor with an artificial intelligence (AI) automation package that ..."
-    publishedDateTime: 2023-02-14T10:06:00Z
-    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/electric-driverless-capable-tractors-roll-into-california-north-coast-viney/"
-    type: article
-    provider:
-      name: The North Bay Business Journal
-      domain: northbaybusinessjournal.com
-    quality: 18
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=2ee348d3-69fc-55df-83d9-cd0de72f37dc&type=primary&q=72&width=1200"
-        width: 1199
-        height: 780
-        isCached: true
   - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
     excerpt: "Some dairy farmers and vineyard operators in Napa, Sonoma and other California counties are bringing in electric tractors capable of operating without drivers. Here are the pros and cons."
     publishedDateTime: 2023-02-14T17:06:00Z

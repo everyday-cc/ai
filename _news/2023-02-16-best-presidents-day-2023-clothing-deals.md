@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Best Presidents Day 2023 clothing deals (so far)"
+title: "Best Presidents Day 2023 clothing deals"
 excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
 publishedDateTime: 2023-02-16T14:54:00Z
-originalUrl: "https://www.cbsnews.com/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-16/"
-webUrl: "https://www.cbsnews.com/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-16/"
-ampWebUrl: "https://www.cbsnews.com/amp/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-16/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-16/"
+originalUrl: "https://www.cbsnews.com/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-17/"
+webUrl: "https://www.cbsnews.com/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-17/"
+ampWebUrl: "https://www.cbsnews.com/amp/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-17/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-17/"
 type: article
 quality: 44
 heat: -1
@@ -75,12 +75,12 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Presidents Day 2023 clothing deals"
+  - title: "Best Presidents Day 2023 clothing deals (so far)"
     excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
     publishedDateTime: 2023-02-16T14:54:00Z
-    webUrl: "https://www.cbsnews.com/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-17/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-17/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-17/"
+    webUrl: "https://www.cbsnews.com/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/presidents-day-2023-all-the-clothing-deals-to-shop-now-2023-02-16/"
     type: article
     provider:
       name: CBS News
@@ -101,6 +101,6 @@ related:
       domain: cbsnews.com
     quality: 4
 
-secured: "1XZS7zvKOlTHsnl4tTE4O5GZAtEX3ojB5RrjZVeb769q9ucxnZ/zGRxQQle1puUDXcXS9MwNo4tGjR4/DHZFtgMLiBoeeWbomQ7k4r7NgEZ5eqKh7YWgNo6mMJCl/+gdhIRQWbmSOVN+KVpR9fJwRI6zwoXdMEup9K0Xn1lpu2bX74iBcntzYNrR+VI5GaMpOq6ls8bK/+kM8t3tMzK4dBjvn1kJWfebu5i/GiZwn1Kpx7+9QdtmDMd4r8HnGVFGoVMt7m153MtguFK3faAm0bGRJhgFl7YxUqLhq1uQ2jVsbdVr8o3QNeHZgHr/srts+yBzUxVs2MO0NKfrmEtUbRfRFnuhxpNA1XSpX558lPA=;ajr5yfoGLhMHPlKIY4hu7w=="
+secured: "xkIUaRfe7hQQA7GPNTwJoFtwui4Q6/NoFY79rsBxzDcs6e5ndN1XHjwKFZN+iNsE+AFQud/v3pY/l7uzyq9kJtcg/vY5VMTdj/06i5rFNhLXNJ+cY0n5ypgzp7AAoC/88fCQ/Jhg26J9QM4+8YHjNmuKwTlWk962VPZ4Xg/1XXgjMBdzrwCmSRWwxiAC+smMO6ck5lyvGQOk4QY4MoIl00A4hbESTGYsrgngeuEv0ycakOjpmIgrLaWSfR4Yqk71ojTTlXLQlKmGL92REPHOOLIFOkB7JZ7jlf+SKMDP2yB4/2NKCR/1ycOtDmsX1CSUV/7jHW6D5UT+Psuumq4zeCoNSz78x1CGWiqIXM9NnTY=;eGb9jgjcmuutcNgOxjKblw=="
 ---
 

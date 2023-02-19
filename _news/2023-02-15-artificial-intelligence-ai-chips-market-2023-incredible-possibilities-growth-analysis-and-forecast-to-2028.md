@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares"
-    excerpt: "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. The potential opportunity created by this high-growth ..."
-    publishedDateTime: 2023-02-14T10:36:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market is Booming in Near Future 2023-2028"
     excerpt: "Feb 16, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Construction Market\" Report provides a Detailed analysis of global market size,"
     publishedDateTime: 2023-02-16T13:14:00Z

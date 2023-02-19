@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
+    excerpt: "Feb 18, 2023 (The Expresswire) -- \"AI in Computer Vision Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2023-02-19T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Software Market To Eyewitness Steady Growth Throughout 2023-2026"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-17T15:47:00Z
