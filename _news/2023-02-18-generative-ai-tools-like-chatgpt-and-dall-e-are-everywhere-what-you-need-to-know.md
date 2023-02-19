@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgp
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

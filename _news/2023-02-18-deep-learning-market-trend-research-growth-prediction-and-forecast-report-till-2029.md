@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Latest Survey on \"Artificial Intelligence in Medicine Market\" Analysis 2023-2028, Updated Report With 109 Pages"
-excerpt: "Report Highlights:- \"The global Artificial Intelligence in Medicine market size was valued at USD 2312.61 million in"
-publishedDateTime: 2023-02-16T15:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-medicine-market-analysis-2023-2028-updated-report-with-109-pages-2023-02-16"
-webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-medicine-market-analysis-2023-2028-updated-report-with-109-pages-2023-02-16"
+title: "Deep Learning Market Trend, Research, Growth Prediction and Forecast Report Till 2029"
+excerpt: "Report Highlights:- \"The global Deep Learning market size was valued at USD 113685.81 million in 2022 and is expected"
+publishedDateTime: 2023-02-18T14:50:00Z
+originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-trend-research-growth-prediction-and-forecast-report-till-2029-2023-02-18"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-trend-research-growth-prediction-and-forecast-report-till-2029-2023-02-18"
 type: article
-quality: 49
+quality: 62
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
 images:
@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Trend, Research, Growth Prediction and Forecast Report Till 2029"
-    excerpt: "Report Highlights:- \"The global Deep Learning market size was valued at USD 113685.81 million in 2022 and is expected"
-    publishedDateTime: 2023-02-18T14:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-trend-research-growth-prediction-and-forecast-report-till-2029-2023-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market Scope, Research, Growth Prediction and Forecast Report Till 2029"
     excerpt: "Report Highlights:- \"The global Machine Learning market size was valued at USD 14304.85 million in 2022 and is expected"
     publishedDateTime: 2023-02-18T15:12:00Z
@@ -136,6 +122,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest Survey on \"Artificial Intelligence in Medicine Market\" Analysis 2023-2028, Updated Report With 109 Pages"
+    excerpt: "Report Highlights:- \"The global Artificial Intelligence in Medicine market size was valued at USD 2312.61 million in"
+    publishedDateTime: 2023-02-16T15:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-medicine-market-analysis-2023-2028-updated-report-with-109-pages-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -165,6 +165,6 @@ related:
       domain: marketwatch.com
     quality: 30
 
-secured: "qZRMv2p4PrqS+vlhXisvqsmpMlHDL17zhRRPvAHHl40iL+uiQFy0UTp116GdPpsBpKBMAh+5/ndzs42g6Y0sg7OuT3pqtgmajDmRsxW4dxI8h+xHtIsTCdUAIygca5pOry5nwLZNCCZWpgPp/6Gz18XhITI9tCxhsjIvAb0/1AUYHjW9/Bdtg8Fe9sJVXPvU0rl5riZBoPxJupLEp+rGrXDwRfw77Y/pMOLrUTlh2zaY2W8vG0bwSnLfsNRtIOw/CNZlWJykNKCwgYXufKFG9tFfDiUD+4wNshjDeXCb+t/5IQigcB1N+KAYYmo5S6YwbJJdm9SNkzSP6mFP/d9+U2CJlNK5DkLNQByQPp+nC7Q=;Bq3J9+yHuVO+vd3Yv29fpw=="
+secured: "Gs0oV4gvYO0BgdKzVn9BbKtBy4l+nPfZwC0Axev84PYqrAZo6HLkcaMIDCB0gGgO3xgXwrq2Ww5CZjG+b+4OwnYlVbAyF/C65TuPZMMoqWop0U2+aRu3i4mlc/9u1l0zV2s/L8odfBKJmf1gkVQTQVZNxgwmZ011WSfzvANyTxqwUIotFnBKntxEfPgdaju7/42YT9RbsyoSLizSUMQ68TV7+jLX/xgsfK5MZnztrXJ9IHm6uQJriPV+EIgVnWxV19Gu65q+tFh9E1S4bYXGr9DYjgrR0FB6LKR1IVIgeYFZGQjljFjJ+OnKG8qbdcm0aLG5ywqCV+gtA324Z9r5aZViAMGnlnenJ+mrGSHKOGs=;0teZBh7VbE0jLpydPCaZkg=="
 ---
 

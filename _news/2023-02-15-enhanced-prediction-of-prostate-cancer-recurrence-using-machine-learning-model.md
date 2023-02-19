@@ -39,20 +39,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "New machine learning model improves prediction of prostate cancer recurrence"
-    excerpt: "The investigators first developed a training model using the UPMC data. Several machine learning algorithms were applied to the fusion gene profiling data to determine the best parameters of 14 fusion gene combinations for predicting prostate cancer ..."
-    publishedDateTime: 2023-02-14T20:52:00Z
-    webUrl: "https://medicalxpress.com/news/2023-02-machine-prostate-cancer-recurrence.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 36
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-4.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
     excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the Feb. 15 issue of Science Translational Medicine. Davide De ..."
     publishedDateTime: 2023-02-17T20:43:00Z

@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Trend, Research, Growth Prediction and Forecast Report Till 2029"
+    excerpt: "Report Highlights:- \"The global Deep Learning market size was valued at USD 113685.81 million in 2022 and is expected"
+    publishedDateTime: 2023-02-18T14:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-trend-research-growth-prediction-and-forecast-report-till-2029-2023-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
     excerpt: "Insights] Top “Artificial Intelligence (AI) in Insurance Market” Size 2023 Key players Profiled in the Report are"
     publishedDateTime: 2023-02-17T14:16:00Z

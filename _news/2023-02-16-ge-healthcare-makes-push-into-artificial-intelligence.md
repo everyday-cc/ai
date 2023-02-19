@@ -3,8 +3,8 @@ category: news
 title: "GE HealthCare Makes Push Into Artificial Intelligence"
 excerpt: "The company is developing a software platform that helps hospitals guide care."
 publishedDateTime: 2023-02-16T12:00:00Z
-originalUrl: "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4"
-webUrl: "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=business_lead_pos4"
+originalUrl: "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509"
+webUrl: "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509"
 type: article
 quality: 84
 heat: 84
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://images.wsj.net/im-718151/social"
@@ -28,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "ky2AYzbEaYNI9StNdQOU3oNF5EKiUjHpLjcu5P01uxAsSUM7raxzQFxvLVqB4p4hzZE31Z7gxkWGfIvbmVAAIfB8GBUoLyQaeRgLDrvjZjSjoOosUs1pIUWKnJK0+PCvuUMPHyiEmpLvbMuQ8y05HdvtXsCBFThH+QaLaplT8F85tgVlr0LLLdAccpzVwnCTec2HmDv36MzcEsiG/StnoChJwpp2RSJB3TLraDLPqElWqNT3cuoimIRK7Ese5k8iFzRscbPzOpkCb5y9rHQIWuoERnkX5tX51DnQiyic8ldiWWnlMqTMZHgUFezZyO//BSAj6mV4Kilv3RXEp/v5w57ZuNKo7xvSVol80sWw6+I=;rWdbHw2wGX7o1k5R3KSBPg=="
+secured: "8cuUqBvMzF0lP8JL1O2ZwZoY7glD+5H+wdfO4A3kKsdz+r+R+ekFg++TKuT/qrqlhHkf/O9UhSs6rA5yfFgKlIwOkbldvF3UsjxIg/Nv6cbNTgZ6YM+i9Ml85HIAE696tzqXdk27gatoY3yFbGyBRXM9Ja9pIV7NFIQtZNjrQOdz8ktj5D801Y7SdJoUOt2FzqsQsP8YZjrFNGdMESN7r7JFfPukR2GQW6HCAP96SGN26AYG8SA0DLF3w2MP6DtPCna3A9PRW2giHV28DEDf2rr9cglGYOOSG+mXH9WS3U2/RAH0JRxjsbKEdOFggB3XvF3A+hKu9ApaOUcT3ZxGqYF6c3WHg+9pMm+vZq4yXOM=;Rxwu9s4Rm9y0hatQ5ftGXQ=="
 ---
 

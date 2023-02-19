@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Agricultural technology, including driverless tractors, on full display at World Ag Expo"
-    excerpt: "CNBC's Jane Wells joins 'Power Lunch' to report on a driverless tractor and other agricultural technology from the World Ag Expo. Got a confidential news tip? We want to hear from you. Sign up for ..."
-    publishedDateTime: 2023-02-14T20:42:00Z
-    webUrl: "https://www.cnbc.com/video/2023/02/14/agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 60
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107194515-16764043121676404310-28196778325-1080pnbcnews.jpg?v=1676407179&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tech Bytes: Driverless taxi from Amazon"
     excerpt: "Instagram is shutting down live shopping. By mid-March, creators will no longer be able to tag products in livestreams. It follows the decision to remove the shopping tab from Instagram’s home ..."
     publishedDateTime: 2023-02-15T12:20:00Z
