@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/motivate/202302/these-thre
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why promoting AI is actually hurting accounting"
-    excerpt: "At the same time, our profession's seemingly blind acceptance of AI as a fix-all is actually hurting our ability to attract and keep talented young professionals. As smart as it is, AI can't replace the judgment of individual accountants."
-    publishedDateTime: 2023-02-16T20:15:00Z
-    webUrl: "https://www.accountingtoday.com/opinion/why-promoting-ai-is-actually-hurting-the-accounting-profession"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 19
 
 secured: "gKdWbskR3BpYyDhpDNHRepEmIMEIyxiejcLEgj8hg4Jf1e+Ujx5okvWDf/o4EGbRwvcvaj9YOV4F5DzHN4aQ2ltEfxqyb0b5YSlwfnh6NYnV/H47OJbn1JvRMakAQCCQNf+hr3CLIaXpVU9i/axAS95lP7ag7ARLs9imQ7FEFXylPsuJWUuE3C224WEKOjPIkMbC0KDtyG1qw2Mw0LnhUWNRHxHnljCO9EIvzxXhYHMCtYbZD/41aF1RlrZ9GFbeo+Qo5Uotry1Y+QY1dIpJRZq3uJjIT/f3/TKe0V1Z1sVtskgV71ZBloK7bPLwddL0uf1ucJeMYPBDlAMS0MulMu8gQV6NZBnf9vyeSvFsS1U=;vOdLZpL5JV6a/NEtQcMmzw=="
 ---

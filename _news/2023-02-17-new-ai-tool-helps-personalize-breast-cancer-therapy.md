@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Study finds how artificial intelligence with infrared imaging improve colon cancer therapy"
-    excerpt: "Over the last several years, tremendous progress in the field of therapy alternatives has substantially enhanced the prospects of cure for individuals with colon cancer. However, these novel techniques,"
-    publishedDateTime: 2023-02-14T17:28:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2354845-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2354845-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2354845-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy?amp"
+  - title: "Study finds how artificial intelligence with infrared imaging improves colon cancer therapy"
+    excerpt: "Researchers at Ruhr University Bochum's Centre for Protein Diagnostics PRODI are utilising artificial intelligence in conjunction with infrared imaging to optimise colon cancer therapy for individual patients. The label-free, automated technology can be ..."
+    publishedDateTime: 2023-02-15T08:07:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy/97941391"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy/97941391"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy/97941391"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 64
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_02_2023_17_11_56_6005954.jpg?width=1280"
-        width: 1280
-        height: 960
+      - url: "https://etimg.etb2bimg.com/thumb/msid-97941391,imgsize-9412,width-1200,height-628,overlay-ethealthworld/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Integrating AI with infrared imaging to improve colon cancer diagnosis"
+    excerpt: "Artificial intelligence and infrared imaging automatically classify tumors and are faster than previous methods. The immense progress in the field of therapy options over the past years has significantly improved the chances of cure for patients with colon ..."
+    publishedDateTime: 2023-02-15T00:12:00Z
+    webUrl: "https://www.news-medical.net/news/20230214/Integrating-AI-with-infrared-imaging-to-improve-colon-cancer-diagnosis.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Colon_cancer_-_Sebastian_Kaulitzki_277dbee2959349bbbd2680e383db4864-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Using Artificial Intelligence to Improve the Diagnosis of Colon Cancer"
     excerpt: "Klaus Gerwert, Stephanie Schörner, and Frederik Großerüschkamp (from left) want to use artificial intelligence to improve the diagnosis of colon cancer. Image Credit: RUB, Marquard In the field of therapy,"

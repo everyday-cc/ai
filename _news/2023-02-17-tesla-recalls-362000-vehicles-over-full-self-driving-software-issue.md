@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/"
 type: article
 quality: 89
-heat: 669
+heat: 679
 published: true
 
 provider:
@@ -720,6 +720,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 19
+  - title: "Tesla Full Self-Driving is actually conservative"
+    excerpt: "My Model Y is overly cautious and not nearly as aggressive as the one in the Super Bowl ad, writes an Automotive News reader in a letter to the editor."
+    publishedDateTime: 2023-02-19T09:00:00Z
+    webUrl: "https://www.autonews.com/letter-editor/tesla-model-y-not-aggressive-it-appears-super-bowl-ad-says-reader"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
     quality: 19
   - title: "Tesla is recalling 362,758 vehicles over 'full self-driving' safety concerns"
     excerpt: "Tesla Inc. is recalling 362,758 vehicles because its \"full self-driving\" software may cause crashes. The National Highway Traffic Safety Administration issued the recall after launching an investigation into the technology last year,"

@@ -725,6 +725,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Tesla Full Self-Driving is actually conservative"
+    excerpt: "My Model Y is overly cautious and not nearly as aggressive as the one in the Super Bowl ad, writes an Automotive News reader in a letter to the editor."
+    publishedDateTime: 2023-02-19T09:00:00Z
+    webUrl: "https://www.autonews.com/letter-editor/tesla-model-y-not-aggressive-it-appears-super-bowl-ad-says-reader"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
   - title: "NHTSA prompts Tesla to recall 363,000 models over Full Self-Driving crash risk"
     excerpt: "The recall covers certain 2016-23 Model S and Model X vehicles as well as certain 2017-23 Model 3 and 2020-23 Model Y vehicles. Tesla CEO Elon Musk said the word “recall” for a software update is “anachronistic and just flat wrong!"
     publishedDateTime: 2023-02-17T17:28:00Z

@@ -2,6 +2,247 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-01-25-its-time-to-look-harder-at-the-morality-of-ai.md",
+      "title": "It's Time To Look Harder At The Morality Of AI",
+      "excerpt": "Are we giving adequate thought to—and building sufficient guardrails around—AI's impact on the world's workers?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/25/its-time-to-look-harder-at-the-morality-of-ai/amp/",
+      "publishedDateTime": "2023-01-25T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-welcome-back-mr-bond-we-follow-you-on-instagram.md",
+      "title": "Welcome Back, Mr. Bond: We Follow You On Instagram",
+      "excerpt": "The James Bond era is over. It's no fun being a spy these days, what with social media, biometrics and open-source intelligence. But it does give me a business",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d116747a6c1a8e98922d82/0x0.jpg?format=jpg&crop=2830,1591,x0,y50,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/amp/",
+      "publishedDateTime": "2023-01-25T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies.md",
+      "title": "Meet The Ukrainian Startup Using AI To Address Healthcare Emergencies",
+      "excerpt": "A Ukrainian startup is one of a handful of companies in the world using AI to detect a growing complication caused by diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/",
+      "originalUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2023/01/max-kukurudziak-qbc3Zmxw0G8-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/amp/",
+      "publishedDateTime": "2023-01-25T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-mysterious-green-comet-nears-earth-revealing-secrets-of-time-and-space.md",
+      "title": "Mysterious Green Comet Nears Earth, Revealing Secrets of Time and Space",
+      "excerpt": "Then we look to see if there is an object that moves from image to image ... changing the constellation beyond recognition. Earth's rotation will have slowed, adding one second to each day. Niagara Falls will have eroded into a meandering waterway.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html",
+      "originalUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2183677/fe-comets-04.jpg?w=600&q=75&f=e5c8cbdde6947dc81256588e718a2b8f",
+          "width": 600,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html?amp=1",
+      "publishedDateTime": "2023-01-25T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-gas-leak-detection-robot.md",
+      "title": "Gas leak detection robot",
+      "excerpt": "In order enable an early detection of gas leaks, we wanted to build a big remote operated robot (on a low budget) to carry the required equipment.” “It should take advantage of cellular ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/gas-leak-detection-robot-24-01-2023/",
+      "originalUrl": "https://www.geeky-gadgets.com/gas-leak-detection-robot-24-01-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/01/gas-leak-detection-robot.jpg",
+          "width": 700,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies.md",
       "title": "How ‘killer robots’ can help us learn from mistakes made in AI policies",
       "excerpt": "Finally, it is critical to consider oversight mechanisms at the start ... “killer robots,” we should not lose sight of the danger that poor processes create when deploying AI systems.",
@@ -899,256 +1140,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-self-driving-golf-cart-development-why-is-it-in-demand.md",
-      "title": "Self-Driving Golf Cart Development: Why Is It In Demand?",
-      "excerpt": "Golf Carts Push For Autonomy. Faced with the harsh reality that a future of fully autonomous cars is further away than promised, automakers and tech companies are pivoting to alte",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceff7ab891403906766ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
-      "publishedDateTime": "2023-01-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.md",
-      "title": "Artificial intelligence chatbot passes elite business school exam, outperforms some Ivy League students",
-      "excerpt": "Chat GPT3, an artificial intelligence bot, outperformed some Ivy League students at the University of Pennsylvania's Wharton School of Business on a final exam. In a paper titled \"Would Chat GPT3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
-      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
-      "publishedDateTime": "2023-01-24T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-clinical-natural-language-processing-market-research-report-2023-2029-key-suppliers-demand-scope-top-manufacturers-analysis.md",
-      "title": "Clinical Natural Language Processing Market Research Report 2023-2029 | Key Suppliers, Demand Scope, Top Manufacturers Analysis",
-      "excerpt": "Clinical Natural Language Processing Market report gives granular insights into industry dynamics (Key drivers, trends, restraints and opportunities), market segmentation details, regional revenue ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-research-report-2023-2029-key-suppliers-demand-scope-top-manufacturers-analysis",
-      "originalUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-research-report-2023-2029-key-suppliers-demand-scope-top-manufacturers-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/Facebook-Google-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-can-ai-replace-cloud-architects.md",
-      "title": "Can AI replace cloud architects?",
-      "excerpt": "AI systems get more impressive every day. Today’s AI can automate the tasks of many information workers, so those in cloud jobs worry they're next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.html",
-      "originalUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/robot-arm-using-laptop-100714626-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686113/can-ai-replace-cloud-architects.amp.html",
-      "publishedDateTime": "2023-01-24T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-ais-biggest-promise-the-democratization-of-precision-medicine.md",
-      "title": "AI's Biggest Promise: The Democratization Of Precision Medicine",
-      "excerpt": "While AI is making its mark across numerous industries, one of its most significant single impacts will be the democratization of precision (or personalized) medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ced3e6b8203c89aa6e3ae4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 903,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/ais-biggest-promise-the-democratization-of-precision-medicine/amp/",
-      "publishedDateTime": "2023-01-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

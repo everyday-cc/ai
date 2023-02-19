@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "US launches artificial intelligence military use initiative"
-    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries THE HAGUE, Netherlands ..."
-    publishedDateTime: 2023-02-17T08:23:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/us-launches-artificial-intelligence-military-initiative-97256636"
+  - title: "Artificial intelligence co-pilots US military aircraft for the first time"
+    excerpt: "WASHINGTON — Artificial intelligence helped co-pilot a U-2 \"Dragon Lady\" spy plane during a test flight Tuesday, the first time artificial intelligence has been used in such a way aboard a U.S. military aircraft. Mastering artificial intelligence or \"AI ..."
+    publishedDateTime: 2023-02-17T13:39:00Z
+    webUrl: "https://www.ksl.com/article/50068506/artificial-intelligence-co-pilots-us-military-aircraft-for-the-first-time"
     type: article
     provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 59
+      name: KSL
+      domain: ksl.com
+    quality: 53
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://img.ksl.com/slc/2804/280409/28040990.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
 
 secured: "DaJRj5axR9bomlaOAn8M7ONIklp2wtuup2kU/QUi/v7dgp6IgtPPInY/o7fUKwjWbQShsimbSBptD1oaPADLxxydEuxeMN7Fp0FEmJ+xyJ3hhL61cY4fHJFg+T+2MxVdlwopYQSQRBYn/ymGyBRDECoYdK7JJ8qcOG3tLg2GFXJcJcoqT0pKn+EhcyDUldNFCCcqj+yaQsJxghtt2qXMk2YVxikbn/fbLpaPuzwQOCsjCjmIuruKrs42gpnL7xVMjf+cO0uWBxifHX2p2FYYPnNPh4+6b/Ia33Gp983fMF21h30LMcldQRxts+l0BUTdEhp+3DVSfgR/joc99Tm1jD3mlCUbEG4nOE9jcC9DR8s=;bcAEqh03b2q5uPnLI7ZphQ=="

@@ -314,7 +314,7 @@
       "originalUrl": "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -407,6 +407,57 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-this-artificial-intelligence-stock-is-down-94-but-its-mounting-a-comeback.md",
+      "title": "This Artificial Intelligence Stock Is Down 94%, but It's Mounting a Comeback",
+      "excerpt": "By using artificial intelligence, Upstart's algorithm is instead able to analyze 1,600 data points on a potential borrower to produce a more accurate measure of creditworthiness. The model is able to make an instant decision 82% of the time, with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/18/this-artificial-intelligence-stock-94-its-comeback/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/18/this-artificial-intelligence-stock-94-its-comeback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/721044/a-smiling-couple-signing-contracts-for-a-purchase-at-a-car-dealership.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1196,59 +1247,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-one-startups-plan-to-help-africa-lure-back-its-ai-talent.md",
-      "title": "One Startup’s Plan to Help Africa Lure Back Its AI Talent",
-      "excerpt": "Lelapa is building a research lab to serve African businesses and nonprofits, with the hope that locally grown algorithms can better serve communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/",
-      "originalUrl": "https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ed3d75e20576b439b7c7b7/master/pass/business-africa-ai-research-lab.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/amp",
-      "publishedDateTime": "2023-02-17T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

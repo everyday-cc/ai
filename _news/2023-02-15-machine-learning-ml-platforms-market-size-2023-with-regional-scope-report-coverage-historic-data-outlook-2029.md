@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2028"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence (AI) in Fintech Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-16T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Forecast [2023-2029] | CAGR 23.7%"
     excerpt: "The global “Speech and Voice Recognition Market Size in 2023” is expected to rise with an impressive CAGR and generate"
     publishedDateTime: 2023-02-15T17:43:00Z

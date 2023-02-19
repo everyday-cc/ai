@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1142653244.jpg?fit=800%2C423&strip=all"
         width: 800
         height: 423
-        isCached: true
-  - title: "Inside Generative AI’s Promise for Travel Booking"
-    excerpt: "Online travel agencies are beginning to make moves toward implementing generative AI into their tech products."
-    publishedDateTime: 2023-02-14T17:50:00Z
-    webUrl: "https://skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/"
-    ampWebUrl: "https://skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 57
-    images:
-      - url: "https://skift.com/wp-content/uploads/2023/02/AdobeStock_567298094-scaled-e1676400296421.jpeg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Local startups dive into generative AI"
     excerpt: "deputy chief executive of Swedish AI company Smart Eye (and cofounder of Boston AI startup Affectiva). “I think every company is trying to figure out how to adopt these technologies now.”"

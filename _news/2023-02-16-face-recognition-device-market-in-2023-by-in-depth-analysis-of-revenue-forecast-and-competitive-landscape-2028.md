@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning (ML) Platforms Market 2023 : Global Industry Share, Key Dynamics and Forecast to 2028"
-    excerpt: "What is the projected market size and growth rate of the Machine Learning (ML) Platforms Market? Machine Learning (ML) Platforms Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
-    publishedDateTime: 2023-02-18T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-2023-global-industry-share-key-dynamics-and-forecast-to-2028-2023-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A Closer Look at the Machine Learning in Communication Market (2023 to 2029)-Opportunities and Challenges"
     excerpt: "Machine Learning in Communication Market Size 2023-2029 | New Report (113 Pages) | In This Reports Machine Learning"
     publishedDateTime: 2023-02-15T05:11:00Z
@@ -66,34 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Social Media Market 2023 Top Companies, Industry Outlook | In-depth Analysis Business Opportunities and Demand to 2029"
-    excerpt: "The major players covered in the AI in Social Media market report are: North America is expected to have the largest market size in the AI in social media market, while APAC is expected to grow at the highest CAGR during the forecast period."
-    publishedDateTime: 2023-02-16T04:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2023-top-companies-industry-outlook-in-depth-analysis-business-opportunities-and-demand-to-2029-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Telecommunication Market Insights-Industry changing aspects, New Technologies and Forecast to 2028"
-    excerpt: "Artificial Intelligence in the Telecommunication Market Size 2023-2028 | New Report (79 Pages) | In This Reports"
-    publishedDateTime: 2023-02-16T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2028-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

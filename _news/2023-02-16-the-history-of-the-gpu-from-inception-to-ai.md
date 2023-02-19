@@ -1,22 +1,28 @@
 ---
 category: news
 title: "The History of the GPU: From Inception to AI"
-excerpt: "These are the first and only books to cover the entire history leading up to the GPU, from the origins of concepts in the 1950s to the supercomputers and smartphones it powers today. The books show how companies started,"
-publishedDateTime: 2023-02-16T13:04:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/02/16/9761684.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/02/16/9761684.htm"
+excerpt: "The GPU has gone from an esoteric semiconductor of interest to gamers and CAD designers to a part of everyone’s daily life. It powers our smartphones, automobiles, virtual and augmented reality, video games, and AI training. Where did these ubiquitous ..."
+publishedDateTime: 2023-02-16T13:01:00Z
+originalUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/the-history-of-the-gpu-from-inception-to-ai"
+webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/the-history-of-the-gpu-from-inception-to-ai"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/02/bw20230216005383_jpr_books.jpeg"
+    width: 974
+    height: 730
+    isCached: true
 
 related:
   - title: "The History of the GPU: From Inception to AI"
@@ -38,6 +44,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "TmrafGRBQlTMrOlluqoin1wcbGb0vl65hiG9mQpaTAWtqT9h6YnQkxZAllLh4EMSyUddC6a9x+5hXTHPimNh/FamCachfPgkU5+uWpNSpTQtw/jfVkyIdoc35N/wENNq8reRm6wRzsadQ6vsOqP7bc3xSGIyp4fGgXLKX/ADsyCHtL8Scp5X5rT6krSjwS+APqGa2EEAmtg+4NlD0TrXLQgbc3zRTXHWRrN1AocoE/ctTsmNCP9OIirobSq5gnAIn9oerF9yjS+ZwptenaOQDuwUx+CSXkl6cQO3Q+dzggpT3G9fWvSqEs/j/QtVTuJlMl7JzioOyH6T+wJPlBgk7GLtZnv0pMyKxV9wZpABR+TYCDvrRKzJEUyP8c7E23vUbL/nZFUS1eqODNPvljHNtZxf9BKDXrd0hJMjak8kZ11fzV9PsrWnWV7StMRApXplVccTNG7C1XfGOe6NoP5LnFkgM8lfEHO/wFcRNy3sIV6td60IUB21GsPkzGa8qYs+P7LQXe1XtupD8CwGNTvcjw==;HHka+rc6EZ5RBbcwj1xzxw=="
+secured: "vJkKX+Svpu2MI/1ZjCaMrlOwE3UUMAqfZ6rdfW14TRQ25IGwSGow91KPnet00I0sMumr+KQzIrGjL9nzDjT9I2xiTH0DsFZrOOJADSEnn0OIdtAYj7lSuGRRKvTjcfax8fBh5bI8P68Co+CKC6fkMVhqf+AKI16BjU3xhwkvKWrrpUPviRsnve6LwLYcvI1OoJWwrpmCp5KuGVjYEVdYxP39l/aOGWHowIit+N8L1KWqF14Lx/0J1fI0KIW9HLtgji3ojERVoZyF7jkmGsxs7jSImVkAm8h8f2WKCXbtefizHwWy+ttDtTXUhrNmabUyFnHdhN1yM9NifZSAv9NScXFIWyzptCWE6fSFf1+cvQM=;rGM3/5WTxRlQzmDwfRKFAg=="
 ---
 

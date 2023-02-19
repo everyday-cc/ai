@@ -88,22 +88,6 @@ related:
         width: 800
         height: 423
         isCached: true
-  - title: "Inside Generative AI’s Promise for Travel Booking"
-    excerpt: "Online travel agencies are beginning to make moves toward implementing generative AI into their tech products."
-    publishedDateTime: 2023-02-14T17:50:00Z
-    webUrl: "https://skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/"
-    ampWebUrl: "https://skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 57
-    images:
-      - url: "https://skift.com/wp-content/uploads/2023/02/AdobeStock_567298094-scaled-e1676400296421.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Veritone Continues to Innovate and Make AI More Accessible, Deploying Generative AI Across Its Leading aiWARE Platform"
     excerpt: "With this major advancement, Veritone is empowering enterprises to create and extend content and data at an unprecedented scale beyond the power of human capabilities. Veritone Ge"
     publishedDateTime: 2023-02-16T13:56:00Z

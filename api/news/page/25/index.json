@@ -2,6 +2,238 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-02-05-warn-your-children-robots-and-ai-are-coming-for-their-careers.md",
+      "title": "Warn your children: Robots and AI are coming for their careers",
+      "excerpt": "Science is making exponential advancements in the field of robotics and artificial intelligence. Surely, sooner or later, these advancements will impact most careers. The companies that produce or utilize such advancements might not be the sinister ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/",
+      "originalUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/06/CA_robots_workers.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/amp/",
+      "publishedDateTime": "2023-02-04T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-04-a-quicker-return-to-school-may-help-kids-with-concussions-study-says.md",
+      "title": "A quicker return to school may help kids with concussions, study says",
+      "excerpt": "Keeping a child home from school for “cognitive rest” after a concussion may do more harm than good, a study suggests. The analysis, in the journal JAMA Network Open, shows an association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/wellness/2023/02/04/kids-teens-concussion-rest-study/",
+      "originalUrl": "https://www.washingtonpost.com/wellness/2023/02/04/kids-teens-concussion-rest-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5KA7BEY3FS6IAHEYND2J6IC6M.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-04-flexiv-launches-revolutionary-force-controlled-parallel-robot.md",
+      "title": "Flexiv Launches 'Revolutionary' Force-Controlled Parallel Robot",
+      "excerpt": "Flexiv says Moonlight is the world's first force-controlled parallel robot and is ideal for applications that require precise motion and force control, such as screw fastening, ultra-accurate ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105523319/Flexiv-Launches-Revolutionary-Force-Controlled-Parallel-Robot",
+      "originalUrl": "https://menafn.com/1105523319/Flexiv-Launches-Revolutionary-Force-Controlled-Parallel-Robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-02/03/R&AN_b68b1image_story.jpg",
+          "width": 800,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-04-real-time-data-and-ai-thrust-manufacturing-into-the-future.md",
+      "title": "Real-time data and AI thrust manufacturing into the future",
+      "excerpt": "With a growing need for real-time situational awareness and insights, artificial intelligence architectures are becoming increasingly important to make sense of the acquired information.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1326464894-e1653670614862.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/real-time-data-and-ai-thrust-manufacturing-into-the-future/amp/",
+      "publishedDateTime": "2023-02-03T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-04-how-third-generation-ai-powered-digital-twins-can-save-energy.md",
+      "title": "How third-generation AI-powered digital twins can save energy",
+      "excerpt": "How advanced third-generation digital twins using AI algorithms can help producers accomplish their energy-saving goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/",
+      "originalUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/network-infrastructure.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/amp/",
+      "publishedDateTime": "2023-02-03T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-04-how-smart-are-ai-chips-really.md",
       "title": "How Smart Are AI Chips, Really?",
       "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
@@ -906,230 +1138,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-fridays-top-tech-news-google-and-microsoft-prepare-to-do-battle-over-ai.md",
-      "title": "Friday’s top tech news: Google and Microsoft prepare to do battle over AI",
-      "excerpt": "Plus fresh details on Meta’s next AI headset, and another smart home company begins its Matter transition. It’s funny, Google has been promoting its AI efforts for years, but something about the mainstream attention ChatGPT has been getting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/2/3/23584222/february-3-2022-tech-news-liveblog",
-      "originalUrl": "https://www.theverge.com/2023/2/3/23584222/february-3-2022-tech-news-liveblog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/pfq0TWl_P9f0DjxCbWmQk184U34=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16019274/acastro_181017_1777_brain_ai_0003.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-ai-generated-seinfeld-episodes-are-streaming-on-twitch.md",
-      "title": "AI-Generated Seinfeld Episodes Are Streaming on Twitch",
-      "excerpt": "AI-generated tech has been booming in recent months as internet denizens flock to programs for art, text prompts, and more created entirely by machine-learning programs. Two Seinfeld fans have ...",
-      "sourceUrl": null,
-      "webUrl": "https://comicbook.com/tv-shows/news/ai-generated-seinfeld-episodes-streaming-twitch/",
-      "originalUrl": "https://comicbook.com/tv-shows/news/ai-generated-seinfeld-episodes-streaming-twitch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/02/13/26853ab8-d2a7-4c21-8a8b-a8ad708e6d1e/the-last-of-us-twitter-3.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/tv-shows/amp/news/ai-generated-seinfeld-episodes-streaming-twitch/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/tv-shows/amp/news/ai-generated-seinfeld-episodes-streaming-twitch/",
-      "publishedDateTime": "2023-02-03T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-flexiv-launches-revolutionary-force-controlled-parallel-robot.md",
-      "title": "Flexiv Launches Revolutionary Force-Controlled Parallel Robot",
-      "excerpt": "Flexiv's ‘Moonlight' parallel robot is the latest addition to Flexiv's line of adaptive robots and is the world's first-ever force-controlled parallel robot. Flexiv, a world leader in general ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/b30703808/flexiv-launches-revolutionary-force-controlled-parallel-robot",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/b30703808/flexiv-launches-revolutionary-force-controlled-parallel-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30703808",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30703808",
-      "publishedDateTime": "2023-02-03T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-nvidia-rallies-as-investors-bullish-on-chipmakers-ai-business.md",
-      "title": "Nvidia Rallies As Investors Bullish On Chipmaker's AI Business",
-      "excerpt": "Shares of Nvidia advanced 33.69% in January and started February with a gain of 11.12%. The moves come as Wall Street analysts are increasingly bullish on chip stocks, partly because the notorious chip shortages of 2021 and 2022 are easing and partly on robust prospects for AI chips for use in almost every industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia-rallies-as-investors-bullish-on-chipmakers-ai-business",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia-rallies-as-investors-bullish-on-chipmakers-ai-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-see-the-pitch-deck-construction-robotics-firm-kewazo-used-to-raise-a-10-million-series-a.md",
-      "title": "See the pitch deck construction-robotics firm Kewazo used to raise a $10 million Series A",
-      "excerpt": "The artificial-intelligence startup Kewazo is focusing its efforts on the construction ... said the company's next goal was to expand across Europe and into North America, while adding to the robot's functions. Kewazo recently raised a $10 million Series ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2",
-      "originalUrl": "https://www.businessinsider.com/pitch-deck-construction-robotics-company-kewazo-raise-series-a-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63dbe024e33c4000193aacce?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T02:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -115,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -341,6 +341,51 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-the-impact-of-ai-and-machine-learning-on-financial-education.md",
+      "title": "The Impact of AI and Machine Learning on Financial Education",
+      "excerpt": "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help.",
+      "sourceUrl": null,
+      "webUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
+      "originalUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial",
+        "domain": "finchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
       ]
     },
     {
@@ -1358,50 +1403,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-using-deep-learning-to-detect-depression-from-speech.md",
-      "title": "Using deep learning to detect depression from speech",
-      "excerpt": "Artificial intelligence (AI) tools have achieved promising results on numerous tasks and could soon assist professionals in various settings. In recent years, computer scientists have been exploring the potential of these tools for detecting signs of different physical and psychiatric conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-deep-learning-to.jpg",
-          "width": 1142,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deep-depression-speech.amp",
-      "publishedDateTime": "2023-02-07T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

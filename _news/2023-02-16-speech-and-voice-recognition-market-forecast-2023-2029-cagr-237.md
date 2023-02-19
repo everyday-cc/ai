@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2028"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence (AI) in Fintech Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-16T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
     excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | In This Reports Face Recognition Systems"
     publishedDateTime: 2023-02-16T04:34:00Z

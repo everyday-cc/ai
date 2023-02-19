@@ -83,22 +83,6 @@ related:
         width: 800
         height: 423
         isCached: true
-  - title: "Inside Generative AI’s Promise for Travel Booking"
-    excerpt: "Online travel agencies are beginning to make moves toward implementing generative AI into their tech products."
-    publishedDateTime: 2023-02-14T17:50:00Z
-    webUrl: "https://skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/"
-    ampWebUrl: "https://skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/02/14/inside-generative-ais-promise-for-travel-booking/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 57
-    images:
-      - url: "https://skift.com/wp-content/uploads/2023/02/AdobeStock_567298094-scaled-e1676400296421.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Local startups dive into generative AI"
     excerpt: "deputy chief executive of Swedish AI company Smart Eye (and cofounder of Boston AI startup Affectiva). “I think every company is trying to figure out how to adopt these technologies now.”"
     publishedDateTime: 2023-02-15T01:12:00Z
