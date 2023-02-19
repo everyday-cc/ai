@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "pymetrics"
   url: "https://twitter.com/pymetrics"
-  followers: 3460
+  followers: 3459
 
 size: 51-200 employees
 yearFounded: 2012
