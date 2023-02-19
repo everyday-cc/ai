@@ -385,13 +385,13 @@ related:
   - title: "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'"
     excerpt: "The recall notice said that the problems are present with all cars with the current version of the FSD software, which is available on all four Tesla models."
     publishedDateTime: 2023-02-17T11:01:00Z
-    webUrl: "https://www.wpbf.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-    ampWebUrl: "https://www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-    cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    webUrl: "https://www.wlky.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    ampWebUrl: "https://www.wlky.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
     type: article
     provider:
-      name: WPBF
-      domain: wpbf.com
+      name: WLKY
+      domain: wlky.com
     quality: 58
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-bebde75c81b65923d7fa9a58c5192cc6-h-b6baf53a58d45c63f98d1f0922980fdc-jpg-1676589213.jpg?crop=1.00xw:0.846xh;0,0.0433xh&resize=1200:*"

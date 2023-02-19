@@ -41,6 +41,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Study reveals how artificial intelligence can help treat opioid addiction"
+    excerpt: "Mu-opioid receptor activation causes euphoria and pain alleviation as well as physical dependence and slowed breathing, the latter of which can result in drug overdose death. Blocking kappa-opioid receptors may be a promising pharmaceutical strategy for treating opioid dependency,"
+    publishedDateTime: 2023-02-19T06:35:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-reveals-how-artificial-intelligence-can-help-treat-opioid-addiction/98058287"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-how-artificial-intelligence-can-help-treat-opioid-addiction/98058287"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-how-artificial-intelligence-can-help-treat-opioid-addiction/98058287"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-98058287,imgsize-5268,width-1200,height-628,overlay-ethealthworld/study-reveals-how-artificial-intelligence-can-help-treat-opioid-addiction.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "0QOZDtr+D0h8OToDWvMQZAFeiqVU7FypzwdISEvsGdV/N/yHKyHpMdy3p0iQ+81az5C6gs0NfDaq7gNo/wwJcjMLym+sjVnMJWaIzw/oWfss/Pl+oFe1XULI1oEe+qxMMBOq5hdasxlEIcuSJFRZkf5cKKm/rHIlyPGI4gA5u1mmzII8/bkiuwAdP7ni2CR4YCz4n0EjoGspMUUNJSkHxYOxhmA6y1w4Y+z17IyBICUvjuI+GVyLKl1FCoq8QxZfMfPoqjI42NGMjqGxbw/ZGvD6QVkR9zPLXp/wKS71GUxrBhTQhWMCD0yLbuYrp18Ps12B8tN/fLqPyL3iZ9F/NQluAY69GiQa+/lSuPoHMbuUaImBDRx7BDkPfg70G/W/aKh1kPzaTF9GIwTS7hQgciPMgM7qlExtF+00ydmyTJMre1OUIVYVmYIR0TPBZK/jr62G2Rp+x/2RQSPtAS0+7q71rdjx36/48O6z9u1WMZ0KFpidGIeyUMUVG1T+021eQ8m8Kv/AjAX2qV4eEueGIw==;WfhDakOy885zcrpis65XJg=="
 ---

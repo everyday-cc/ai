@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Size, Share, Report Analysis & Forecast [2023-2028] with Top Countries Data"
-    excerpt: "Feb 14, 2023 (The Expresswire) -- Precision Reports has published a detailed report on “Artificial Intelligence in Construction Market\" 2023 which has been categorized by Market size ..."
-    publishedDateTime: 2023-02-14T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-share-report-analysis-forecast-2023-2028-with-top-countries-data-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Latest Survey on \"Artificial Intelligence Software Market\" Trend 2023-2028, Updated Report With 126 Pages"
     excerpt: "Report Highlights:- \"The global Artificial Intelligence Software market size was valued at USD 16978.67 million in 2022"
     publishedDateTime: 2023-02-16T15:48:00Z

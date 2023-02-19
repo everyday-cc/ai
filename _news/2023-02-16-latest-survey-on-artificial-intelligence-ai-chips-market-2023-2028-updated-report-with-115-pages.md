@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artific
 webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-ai-chips-market-2023-2028-updated-report-with-115-pages-2023-02-16"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Construction Market Size, Share, Report Analysis & Forecast [2023-2028] with Top Countries Data"
-    excerpt: "Feb 14, 2023 (The Expresswire) -- Precision Reports has published a detailed report on “Artificial Intelligence in Construction Market\" 2023 which has been categorized by Market size ..."
-    publishedDateTime: 2023-02-14T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-share-report-analysis-forecast-2023-2028-with-top-countries-data-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

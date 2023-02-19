@@ -3,18 +3,18 @@ category: news
 title: "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'"
 excerpt: "The recall notice said that the problems are present with all cars with the current version of the FSD software, which is available on all four Tesla models."
 publishedDateTime: 2023-02-17T11:01:00Z
-originalUrl: "https://www.wpbf.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-webUrl: "https://www.wpbf.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-ampWebUrl: "https://www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+originalUrl: "https://www.wlky.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+webUrl: "https://www.wlky.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+ampWebUrl: "https://www.wlky.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: WPBF
-  domain: wpbf.com
+  name: WLKY
+  domain: wlky.com
 
 topics:
   - AI in Autos
@@ -774,6 +774,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "E+IU+BbFkltvsKKvnfPrCmQuqc5tVHAGtvJ2v7DWRhIA8Q13wO7o0zEoLN27zqnR/8Jh/mccKsoh7cK9O+feAUQvvgdnFwuJD40pBe2fQBehWF7o0Msos1gAp5ZKARwdp2ehH4cUV7yaCHbdYdYZhAWOBBDvBMU3TSf/jmffWaDzlAjAyVJXPJk3xGOyV5NIlON5mg3fu1ERHUM2fTgZsndDMlMsOEIhRDerJqmmTt1l9/WdHQd+0Eg56jThiESXx5iDb90lE7+gF9g1TTLCOltZ5K6XMWvfu2LTLpPzJxwH/ioqf6oBg+dfYMnhkDcEqIcV5wb8M6T5D0djAfupTSfwLoIhQIghe5gSMjvDGLY=;OzFOoAotlcWr+zF3gA2LRg=="
+secured: "vWX0UCtpxUnIAlXhsO30Opt2e1ViufLNkv5A7FpTbeR6JJDXbZnqMfGBNmBEvxWnsxnhmlls866TtXrO7a8olkHt5ftQEyDyEYv/5S7nRlSgpEBS4Hhk0zgi4ewHSqAEIVr1pbhdKIsGzSDPPc8X+Zp3De+ostc4e5J+sqGw3233LUGloyGDjdCbD0jHAekom3S9SCJhdADlP62neBjqelsZ/LjeRpzcYtiZNBf2UpdUu5+p6f4S2XOtVlUfROfJaUpC8taEEipICcLaF1dwVkzVEUCOIl7K4E5wV/v0YckdCudSGlSveKTDrvjSgiKwm+wS4oCGtCRS+7EFpJtxwdBUQcpVK687dChqLre7WhY=;gcVXg/PostI37vEuUQ3ElQ=="
 ---
 

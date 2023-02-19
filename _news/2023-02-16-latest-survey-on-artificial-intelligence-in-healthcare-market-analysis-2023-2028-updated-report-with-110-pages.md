@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Size, Share, Report Analysis & Forecast [2023-2028] with Top Countries Data"
-    excerpt: "Feb 14, 2023 (The Expresswire) -- Precision Reports has published a detailed report on “Artificial Intelligence in Construction Market\" 2023 which has been categorized by Market size ..."
-    publishedDateTime: 2023-02-14T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-share-report-analysis-forecast-2023-2028-with-top-countries-data-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market 2023: Excellent Analysis Report for Massive Growth by 2027 | Updated Report with 131 Pages"
     excerpt: "The “ Cloud Natural Language Processing Market ” Research Report 2023: incorporates a thorough qualitative and quantitative analysis along with several market dynamics. Global Cloud Natural Language Processing Market size value was USD 1680."
     publishedDateTime: 2023-02-17T15:07:00Z

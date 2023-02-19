@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificia
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths/amp-11676770556741.html"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Study reveals how artificial intelligence can help treat opioid addiction"
+    excerpt: "Mu-opioid receptor activation causes euphoria and pain alleviation as well as physical dependence and slowed breathing, the latter of which can result in drug overdose death. Blocking kappa-opioid receptors may be a promising pharmaceutical strategy for treating opioid dependency,"
+    publishedDateTime: 2023-02-19T06:35:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-reveals-how-artificial-intelligence-can-help-treat-opioid-addiction/98058287"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-how-artificial-intelligence-can-help-treat-opioid-addiction/98058287"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-reveals-how-artificial-intelligence-can-help-treat-opioid-addiction/98058287"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-98058287,imgsize-5268,width-1200,height-628,overlay-ethealthworld/study-reveals-how-artificial-intelligence-can-help-treat-opioid-addiction.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Machine learning model helps doctors predict opioid prescription risk for patients"
     excerpt: "Researchers at the University of Alberta are using a form of artificial intelligence to help doctors better predict which patients are at risk of adverse outcomes from opioid prescriptions."
     publishedDateTime: 2023-02-16T15:17:00Z

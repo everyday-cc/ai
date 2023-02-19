@@ -118,22 +118,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT's 100 Millionth User Means the Age of AI Is Here"
-    excerpt: "It took Facebook 4½ years to reach 100 million users ... be going into funding the next-generation of silicon development, AI, 5G innovations across the United States and building research communities across the country. To stay updated with top ..."
-    publishedDateTime: 2023-02-14T13:43:00Z
-    webUrl: "https://www.benzinga.com/news/23/02/30908169/chatgpts-100-millionth-user-means-the-age-of-ai-is-here"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30908169"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30908169"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/02/14/mathew-schwartz-c5stal8lqyo-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "‘I want to destroy whatever I want’: Bing’s AI chatbot unsettles US reporter"
     excerpt: "But a two-hour conversation between a reporter and a chatbot has revealed an unsettling side to one of the most widely lauded systems – and raised new concerns about what AI is actually capable of. It came about after the New York Times technology ..."
     publishedDateTime: 2023-02-17T09:01:00Z

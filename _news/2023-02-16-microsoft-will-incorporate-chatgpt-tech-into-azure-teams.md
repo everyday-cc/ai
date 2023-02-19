@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
-excerpt: "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ..."
+excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
 publishedDateTime: 2023-02-15T20:38:00Z
-originalUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+originalUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+webUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
 type: article
 quality: 74
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
+  - url: "https://edtechmagazine.com/k12/k12/higher/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
     width: 1440
     height: 500
     isCached: true
@@ -547,6 +547,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "KlTdmKNumkuqWwnvnRnMYnfHrUjx+9zM1mMpG1Q7ePNsQxlrMPrGxoUOac8q7le9d2fLL2F0UT+Gl4chR1+q41aQZl+Q7wzgdoKtBr74MkHP0YWk6x9ISQTeoX8anGtZ7GcuPhpwd+oF1TRi5Ea4UXwxemZg7CDyTaZOU53N1wNl4JBmy/n2yMZz+Dwvo/jxJcosOJYUEIleSiL5iWEkSqdv9mMbEnwVNC1gVmppbI39U/TAd2xTtE/TTfO3rbQMYLMsflZIv7VgxnUxO2KkRBCqdBMFCvcEZD/3pqDQd3es9w30dJsY+enQTvd+svj2SWdfTweHbB1EJErW5/r29cpX9LsDW3oOfJBvki1hBpuyE76SA0zugT04FVFtmZ0et9f0E2zlgCYKIomPrOBUJDzsJAeblPNY8ggLUcKajpIPkNoxKp142FuxI4VT7qtTO64jzngtMKsmN/QYEk6NMqTVbEVnhzujdImwAviRycQVHBGpLH1+Yapw1g+tetWnsJpwxz8S2I4rOGWAZdUIzg==;XULJaBBMapTUnnU0KTffVg=="
+secured: "M1EsiLQWjHSs6dcfGUF9ASdTD4COmDZEmOehsO2tm7gdNmyRm1ZALXhDnIEpgZAVl6MqlR2BbN/CM1IV12cZZR6pkfNiO4ki1fj194vJD35DiH4SLd/cNJscHpT8DGpsDMEGvKp8HztLEASNNGOtdLnBBYYxkn3vy6uVYkeW6ignZCa/pnDTVPeqBuhagNlwkZ/BrHOZ7yAzAyspqj3qklxSku0r3nvCMGxSP/rzXsTc4tRl/nE0OXgS3ED7tM4C7u6Pcx7AjQjJ2Szh4rwOZrneWNDsDrlY1UghaSewa30Jmiazggmj+pW+uhmwPacv2OnQPw1pSAjcz0FLoNK6eTO/L6t1ziXwT1bLgmlflrM=;aYuG+XuubxUuPZxQd1I9dA=="
 ---
 

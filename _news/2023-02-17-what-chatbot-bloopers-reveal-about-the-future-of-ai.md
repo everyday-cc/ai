@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/bing-chatbot-errors-ai-future/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bing-chatbot-errors-ai-future/amp"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -106,22 +106,6 @@ related:
       - url: "https://media.nbcbayarea.com/2023/02/Generic-Students.png?resize=1200%2C675&quality=85&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "ChatGPT's 100 Millionth User Means the Age of AI Is Here"
-    excerpt: "It took Facebook 4½ years to reach 100 million users ... be going into funding the next-generation of silicon development, AI, 5G innovations across the United States and building research communities across the country. To stay updated with top ..."
-    publishedDateTime: 2023-02-14T13:43:00Z
-    webUrl: "https://www.benzinga.com/news/23/02/30908169/chatgpts-100-millionth-user-means-the-age-of-ai-is-here"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30908169"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30908169"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/02/14/mathew-schwartz-c5stal8lqyo-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "No, the AI chatbots (still) aren’t sentient"
     excerpt: "Experts say that personification and projections of sentience on Microsoft and Google chatbots distract from the real issues."
