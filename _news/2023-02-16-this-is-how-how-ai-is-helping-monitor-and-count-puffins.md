@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here's how artificial intelligence is helping financial advisors manage portfolios at Raymond James"
+    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Artificial intelligence technology is already in the world of finance and will only become more influential, according to Raymond James CEO Paul Reilly. He told Yahoo ..."
+    publishedDateTime: 2023-02-16T18:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/63ee70dbb66c280019d76c9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "This Is How AI Is Helping Monitor And Count Puffins"
     excerpt: "Puffins on the Isle of May, a nature preserve off the coast of Scotland. SSE Renewables is trialing ... [+] a new way to count puffins using artificial intelligence. The project is supported by Microsoft, Avanade and NatureScot. The Isle of May is a 140 ..."
     publishedDateTime: 2023-02-15T19:44:00Z

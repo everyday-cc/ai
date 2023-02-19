@@ -7,7 +7,7 @@ originalUrl: "https://www.popularmechanics.com/technology/a42828175/what-is-the-
 webUrl: "https://www.popularmechanics.com/technology/a42828175/what-is-the-singularity/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,47 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "16 Things Pop Culture Gets Wrong About Artificial Intelligence"
-    excerpt: "And while they’re optimistic about the future capabilities of artificial intelligence, their projections pale in comparison to the sentient robots and super technologies often depicted on TV and movie screens and predicted in science fiction. In truth ..."
-    publishedDateTime: 2023-02-14T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/"
+  - title: "Solving a machine-learning mystery"
+    excerpt: "Trained using troves of internet data, these machine-learning models take a small bit of input text and then predict the text that is likely to come next. But that's not all these models can do."
+    publishedDateTime: 2023-02-15T13:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/02/230207144238.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63eaba767015a27b1139473b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How startups are using AI, data science for fixing challenges present in traditional financial services"
-    excerpt: "The use of these technologies provides institutions the added advantage of unbiased decision-making, while also enabling borrowers without an extensive credit history to access capital and prove their"
-    publishedDateTime: 2023-02-14T17:42:00Z
-    webUrl: "https://www.livemint.com/ai/how-startups-are-using-ai-data-science-for-fixing-challenges-present-in-traditional-financial-services-11676354598922.html"
-    ampWebUrl: "https://www.livemint.com/ai/how-startups-are-using-ai-data-science-for-fixing-challenges-present-in-traditional-financial-services/amp-11676354598922.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/how-startups-are-using-ai-data-science-for-fixing-challenges-present-in-traditional-financial-services/amp-11676354598922.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 43
-    images:
-      - url: "https://images.livemint.com/img/2023/02/14/600x338/AI_1676354938068_1676354938288_1676354938288.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "What People Get Wrong When They Think About Video Game AI"
-    excerpt: "AI has been making headlines lately for the wrong reasons. Netflix Japan was blasted by professional artists for using AI to make background art—while leaving the human painter uncredited. Around mid-February,"
-    publishedDateTime: 2023-02-16T14:30:00Z
-    webUrl: "https://kotaku.com/ai-game-dev-procgen-watchdogs-legion-no-mans-sky-1850120151"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 17
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 36
 
 secured: "xkI+VDJXdFhLoAJ1ysUQxtXurxcgqhIT5dHBlLktV4LH1EwPYhPBNdl5HSVDcGxSmE9OdzgmI7u48wqghCSToGk1uoFiv0YKHMxIV7NZGNCbs+e3+G7T/s4Xv9hB510YbonfTFmZi/6fGvgwl3I4Q1DEqJY679qJV7Qz1td53fJ2dhht54dNkU5E6w6EpVYPabSYfCU9YwlmlNfWSzeMS7f22RypT5g/ftAQyMa75ghhVSotXkZGljhAmMvb8ZHN5+grlGrCIlhAFkZnjMMgO5jfrvkfU1TR8o27tn9OElr4QjVT52THWLMk0QXt2NzsEpVf59IUEJA7BgSYecbwPt1rGqQHL2dBZbJUbTu168QiZKclsfAIF0qNjGy4+H5TAcudP8a4uAYRLfpkxp+oaVGiO3zPTTqpirOXMMUzwTDV5kQCyAvR7OvPZG1HciNomA81J0HZll3hmsPj/osNt19htEQdv0uyp2tpAuE+k0SSaRXo+4MW2E6ui7u+20DVPMTATRjVSJ5s0IcndlZXFg==;ddZ/cNmxnUd/mI77UyQG3Q=="
 ---

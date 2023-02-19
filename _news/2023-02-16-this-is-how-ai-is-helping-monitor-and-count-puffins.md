@@ -39,6 +39,22 @@ related:
         width: 790
         height: 527
         isCached: true
+  - title: "Here's how artificial intelligence is helping financial advisors manage portfolios at Raymond James"
+    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Artificial intelligence technology is already in the world of finance and will only become more influential, according to Raymond James CEO Paul Reilly. He told Yahoo ..."
+    publishedDateTime: 2023-02-16T18:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-markets-artificial-intelligence-financial-industry-advisors-raymond-james-portfolios-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/63ee70dbb66c280019d76c9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "veRqQ4plNKvf2Tcp+c9m6pZ6F9Al8t9ST7hRdjy+RwKwSM6EjT4yXzPDwrtCu4vXCKKLr56R16gfXcCymI6Y6+zp8X86vw3g5WnJw345XVSOdjp+u/qSuxZe0rpb4NZxapmnfdJpX33TZHei/LQtTf1ZRV63hH/EzLptyTbaS5vCmC2V7sPpNlHn6kzbFl3NfiaEIAcq42Z6wtxfYbhkatUKA9H3aoZ9zfYiSAt3vkdMJtoMMXG9eE66oYReHdVfzgHJP4ovzbuPCKtG0h9bTJAC4aFm62hoX8pEeT7B4+xAsLpSAqRRJWqebemjZoqGu2O3XhtiQcKaji2CJLq925F/MhuKFkIQ/+uGGgZm9cTqXJq+iKJrKocVUejP64PGSaY3M5J3QqKGx0/Cei0TUbFL9r2Yd0LBA5VmSpazi5oBVSWPYJtDyJMppS3M1uGj1Ig46Fflc/FP9rKrEiQQitvhmc2blInFTBkOOQpizps3IUbFzY0v4Ef2xUnQRXZdPu0ROXkkUZLMlbsQe2R6Dw==;rxxjVVQbfHiFQ/Y3KODOQg=="
 ---

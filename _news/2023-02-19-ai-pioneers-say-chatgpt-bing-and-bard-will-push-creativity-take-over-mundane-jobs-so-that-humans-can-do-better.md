@@ -1,21 +1,30 @@
 ---
 category: news
-title: "Unleashing Harvey AI: ChatGPT-powered tech transforming legal industry"
-excerpt: "Allen & Overy (A&O), one of the world's largest law firms, has partnered with OpenAI-backed artificial intelligence (AI) start-up Harvey AI to automate legal document drafting and research."
-publishedDateTime: 2023-02-16T12:53:00Z
-originalUrl: "https://interestingengineering.com/innovation/unleashing-power-of-generative-ai-chatgpt"
-webUrl: "https://interestingengineering.com/innovation/unleashing-power-of-generative-ai-chatgpt"
+title: "AI pioneers say ChatGPT, Bing and Bard will push creativity, take over mundane jobs so that humans can do better"
+excerpt: "“Microsoft has been introducing AI into products like Word and Excel, and then into the cloud computing environments such as Azure for a long time. This edition of ChatGPT into [Bing] is just an extension of that,” the technology pioneer tells ..."
+publishedDateTime: 2023-02-19T04:02:00Z
+originalUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/"
+webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/"
+ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/lite/"
 type: article
-quality: 17
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Interesting Engineering
-  domain: interestingengineering.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
+  - Microsoft AI
   - AI
+
+images:
+  - url: "https://images.indianexpress.com/2023/02/microsoft-new-bing-1.jpg"
+    width: 1200
+    height: 667
+    isCached: true
 
 related:
   - title: "Computing Pioneer Criticizes ChatGPT AI Tech for Making Things Up"
@@ -285,22 +294,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "AI pioneers say ChatGPT, Bing and Bard will push creativity, take over mundane jobs so that humans can do better"
-    excerpt: "“Microsoft has been introducing AI into products like Word and Excel, and then into the cloud computing environments such as Azure for a long time. This edition of ChatGPT into [Bing] is just an extension of that,” the technology pioneer tells ..."
-    publishedDateTime: 2023-02-19T04:02:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 38
-    images:
-      - url: "https://images.indianexpress.com/2023/02/microsoft-new-bing-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "ChatGPT AI passes test designed to show theory of mind in children"
     excerpt: "Its ability – which seems to have spontaneously emerged rather than being something the AI was trained to do – is comparable to that of a 9-year-old child. However, whether this shows that the AI is using theory of mind … Ohio train derailment ..."
     publishedDateTime: 2023-02-15T10:00:00Z
@@ -352,6 +345,15 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 17
+  - title: "Unleashing Harvey AI: ChatGPT-powered tech transforming legal industry"
+    excerpt: "Allen & Overy (A&O), one of the world's largest law firms, has partnered with OpenAI-backed artificial intelligence (AI) start-up Harvey AI to automate legal document drafting and research."
+    publishedDateTime: 2023-02-16T12:53:00Z
+    webUrl: "https://interestingengineering.com/innovation/unleashing-power-of-generative-ai-chatgpt"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 17
   - title: "Elon Musk Sounds the Alarm on AI and ChatGPT"
     excerpt: "The Silicon Valley luminaries say that the AI era is about to begin as the technology takes a major leap forward in utility. For the general public, AI was limited to Siri and Alexa, respectively Apple's and Amazon's virtual assistants; the ..."
     publishedDateTime: 2023-02-17T15:17:00Z
@@ -362,6 +364,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "jfD4YrBrbFXn2ADVMhoBDro21ORjvidy1V2l8sZYAGsHkfX7m+6VwBOvVm7y+b3F5ij8AuwqiQs4XAvPQyGtst/n+a18UqeDiZ643ou4Ge9MPy1KnAB3Sle7hO/pI5XSmSgHC6oy+yc2qo/GGx8oTkmXEqLgQv8ADXD9STNXtoioL1BNjWX65OGuxpCTM4IdXAM0dmyFzguB68STamcPIVCH+pHQV60otpIkIllPB1gTEECgf6ulkGS1siwaEse0qAU0cCZrLlUqAwSw0vEI179c4vqaC2iKCl/Jv9AQQ9futy2xYEc6drncwT00UAu1QBj1siqEzSnJ7tMUfmanKVBXNgm4Xfcl+6f58mWAaR/VKeuI3aTBu82YA1Wu3sQtWyqeTtMucxaC0HwPU/UAWZJXy4i7XkAmQKKhI9sfvwdFTuMpNqHZcN6/SL7R7FlqPQjpJOanHgU05oXdBVJbUeKQoAEReHcmTcE6dPFmUWCG8jL5Gmu2100onEsTu2CQpOiNuHdLLDIWM+q25yEsRA==;lIVKxEUUDrwoJVF5FWKIAg=="
+secured: "ReqJJrKfPc5pOQdfldo56glto8VbXvIA+m3NX0WF9HjGgslUqUuxUsfpk3oKoGt4EEAEk/YgxxBuUNDqNs93ZhnpbBM0UlhrXlA/UF/XKNb72p/icg+EwHCq1JuEUo3hMyNXRq8esJX7yBycXxdbZn7HAoco+Q3ojG/zba0MJKRsTMPzM4/nRkIfWKHbNDI537dsTIVBxhrD92T9LK9JiAKbeNh8LOzez5zw5BIbpCeaPCyu0dOzbaLPH2FwDBF50Ey9Mel4xCWwO5fmdGUXUX04gQtr3dxLc90VDwm8ijbSI49GPohPDzTzl9iObCYo2B1VxKL/7sn7M1RNklhoK/6cofmFb4XpAlXzw+rt0O8=;CYRvCvj4WQsbQSw8Da+vfw=="
 ---
 

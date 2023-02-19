@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Fintech Investing In Q4 And Beyond – What To Look For"
-excerpt: "For the first time since the beginning of 2021, Fintech is no longer the leading industry by investment as it has been surpassed by Healthcare ($16.7B). Despite a 64% downturn in global investments since Q4 2021,"
-publishedDateTime: 2023-02-15T18:36:00Z
-originalUrl: "https://www.benzinga.com/fintech/23/02/30931113/fintech-investing-in-q4-and-beyond-what-to-look-for"
-webUrl: "https://www.benzinga.com/fintech/23/02/30931113/fintech-investing-in-q4-and-beyond-what-to-look-for"
-ampWebUrl: "https://www.benzinga.com/amp/content/30931113"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30931113"
+title: "The Impact of AI and Machine Learning on Financial Education"
+excerpt: "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help."
+publishedDateTime: 2023-02-16T10:32:00Z
+originalUrl: "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/"
+webUrl: "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/"
 type: article
-quality: 44
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Financial
+  domain: finchannel.com
 
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
+  - AI in Education
 
 images:
-  - url: "https://cdn.benzinga.com/files/images/story/2023/02/15/joshua-mayo-bmj1vl77zwm-unsplash.jpg?width=1200&height=800&fit=crop"
-    width: 1200
-    height: 800
+  - url: "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg"
+    width: 900
+    height: 601
     isCached: true
 
 related:
@@ -56,20 +56,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63ecef5f4ad1eeb2e6ed2985/0x0.jpg?format=jpg&width=1200"
         width: 1197
         height: 798
-        isCached: true
-  - title: "The Impact of AI and Machine Learning on Financial Education"
-    excerpt: "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help."
-    publishedDateTime: 2023-02-16T10:32:00Z
-    webUrl: "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 73
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg"
-        width: 900
-        height: 601
         isCached: true
   - title: "Study finds how artificial intelligence with infrared imaging improves colon cancer therapy"
     excerpt: "Researchers at Ruhr University Bochum's Centre for Protein Diagnostics PRODI are utilising artificial intelligence in conjunction with infrared imaging to optimise colon cancer therapy for individual patients. The label-free, automated technology can be ..."
@@ -131,6 +117,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Fintech Investing In Q4 And Beyond – What To Look For"
+    excerpt: "For the first time since the beginning of 2021, Fintech is no longer the leading industry by investment as it has been surpassed by Healthcare ($16.7B). Despite a 64% downturn in global investments since Q4 2021,"
+    publishedDateTime: 2023-02-15T18:36:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/02/30931113/fintech-investing-in-q4-and-beyond-what-to-look-for"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30931113"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30931113"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/15/joshua-mayo-bmj1vl77zwm-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Integrating AI with infrared imaging to improve colon cancer diagnosis"
     excerpt: "Artificial intelligence and infrared imaging automatically classify tumors and are faster than previous methods. The immense progress in the field of therapy options over the past years has significantly improved the chances of cure for patients with colon ..."
     publishedDateTime: 2023-02-15T00:12:00Z
@@ -183,6 +185,6 @@ related:
       domain: cnbc.com
     quality: 18
 
-secured: "6F/P3rD6YPUuvMvAwcvTGuPm/vY79gaoqmoRvwxmSPGNKAnjjK2mPaO0vB7JnXxu46GzLRmVHEkmFWlr9mEtnhuIgSMkxf2lOXuhYQ4T3cWTzXQd4P9evjW4Qzj3lGYBlPCXDH0Jm/Q2wn7MgaDpQ1shx8zDgKTySKl46GeKVnj15unY7EjNTkGTN4BV0YBLqZ0Fyq360++UF8Koh0qUdNY0E3hvKtG6oLOY6EyrMC31PHMm1/I/KdZ2LboXlaR8MDvNhhKXqsYRwI5p9B3XOvGeTGwpKeE9iOX0uzeX3ICzFsDQyWVRmOXIbfffis/ZlbYfytsZK2N6toPwxt6QcADak72VfXgZglKGWjr13okPFyyFwzs8Hk7SpwiZ0mUKdMLx2SiH4pmA71N52JAJLYUfT/c2677CYsKh345i+X3Ma1ilCHiIsgzFlCGFg/4rBTOmXdziC7LIW5sGYlFTLC7Xb0+EYb8ajXpo2UJyVZXxOXGMLR+HLFygRU7yjAuxPAsTcZJY6Nb1kXMh0U11vA==;ehUHPPyy2MYJiKIXF+7dwg=="
+secured: "HOKuReAiLP6C8E5zPMba8izoupD/5RzBqFVZhoRqHIWYcP0ina9B+j4lX0ObwsKrMMF9Rdc3uEK+UAy3h8WhqEBjmZ1lequyhsZuDXcmJOsUp+kq9PbDq1k5b7L+fWtExTCtSiwiOCjBsiQ4Zphrs173MOUujGZ7x15GNvog4QJ9kb5rI6DihE9crc86ADVv2/mmLmOMXYyacQ5GvO6naI8z5QNN5nLsDvRcnX7jEu7E6k4M1cz2DYJPsoSaHfogOiBh0pTx/wpU3xPJ/MJgqb+reMOLMrVpg4fRghe/uaz/yjREQq0esP67bCNO2NlA2t6xsXJibjENhNU6pjx/lrjMLyLSEH3XzIH+TtOH6tA=;pg3xEmiaW0YwI5li6EPTTw=="
 ---
 

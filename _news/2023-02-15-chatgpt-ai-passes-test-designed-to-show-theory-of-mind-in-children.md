@@ -201,22 +201,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
-  - title: "How enterprises can use ChatGPT and GPT-3"
-    excerpt: "LLMs are machine learning applications that can perform a number of natural ... Elliot suggested that users favor Microsoft’s Azure Open Service ChatGPT over the OpenAI ChatGPT for the enterprise, “as Microsoft offers enterprise security and compliance ..."
-    publishedDateTime: 2023-02-14T12:43:00Z
-    webUrl: "https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.html"
-    ampWebUrl: "https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Inside the ChatGPT race in China"
     excerpt: "Maybe it was because of the holiday season, or maybe it was because ChatGPT is not currently available in China, but it took more than two months for the natural-language-processing chatbot to finally blow up in the country. (OpenAI, the company behind ..."
     publishedDateTime: 2023-02-15T11:01:00Z
@@ -306,6 +290,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2023/02/18/1336890-h.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "AI pioneers say ChatGPT, Bing and Bard will push creativity, take over mundane jobs so that humans can do better"
+    excerpt: "“Microsoft has been introducing AI into products like Word and Excel, and then into the cloud computing environments such as Azure for a long time. This edition of ChatGPT into [Bing] is just an extension of that,” the technology pioneer tells ..."
+    publishedDateTime: 2023-02-19T04:02:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/ai-pioneers-say-chatgpt-bing-and-bard-will-push-creativity-take-over-mundane-jobs-so-that-humans-can-do-better-8453549/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 38
+    images:
+      - url: "https://images.indianexpress.com/2023/02/microsoft-new-bing-1.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "AI expert sounds alarm on Bing ChatGPT: ‘We need to issue digital health warnings’"
     excerpt: "ChatGPT’s revolution powered by Bing has just hit a wall. Yesterday, we reported on a litany of instances where the GPT-powered search engine went off the deep end. From stalkerish responses from Bing's alter ego \"Sydney\" to the desire for sentience to advocating for violence,"

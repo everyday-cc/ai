@@ -57,6 +57,20 @@ related:
         width: 1197
         height: 798
         isCached: true
+  - title: "The Impact of AI and Machine Learning on Financial Education"
+    excerpt: "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help."
+    publishedDateTime: 2023-02-16T10:32:00Z
+    webUrl: "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 73
+    images:
+      - url: "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg"
+        width: 900
+        height: 601
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2028"
     excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence (AI) in Fintech Market Report includes data on research and development,"
     publishedDateTime: 2023-02-16T04:47:00Z
