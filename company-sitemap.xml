@@ -313,12 +313,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/pony.ai/</loc>
-    <lastmod>2023-02-13T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/arterys/</loc>
     <lastmod>2023-02-13T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -344,6 +338,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/narrative/</loc>
+    <lastmod>2023-02-13T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/pony.ai/</loc>
     <lastmod>2023-02-13T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
