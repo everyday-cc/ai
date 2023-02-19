@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/news/channel-programs/wekaio-launches-channel-
 webUrl: "https://www.crn.com/news/channel-programs/wekaio-launches-channel-program-enlists-partners-for-expansion-into-ai-ml"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: CRN
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "WekaIO launches global channel program"
+    excerpt: "WekaIO has launched a new partner program as the data platform developer looks to expand its channel reach beyond its core data centre and cloud platform allies to include a broader range of resellers,"
+    publishedDateTime: 2023-02-19T21:11:00Z
+    webUrl: "https://www.crn.com.au/news/wekaio-launches-global-channel-program-591071"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/whichcloud_shutterstock_66520039.jpg"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "WEKA launches new WEKA X partner program to drive focus and profitability around AI and machine learning"
     excerpt: "The new program has been simplified, reducing the number of tiers, and while benefits for top tier partners have been increased, it is also now easier for new partners to enter the program"
     publishedDateTime: 2023-02-16T14:20:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-18T05:26:00Z
 originalUrl: "https://www.popularmechanics.com/technology/robots/a42958546/artificial-intelligence-theory-of-mind-chatgpt/"
 webUrl: "https://www.popularmechanics.com/technology/robots/a42958546/artificial-intelligence-theory-of-mind-chatgpt/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://hips.hearstapps.com/hmg-prod/images/human-figures-covered-in-circuits-struggling-to-royalty-free-image-1676666581.jpg?crop=0.822xw:0.410xh;0.0288xw,0.133xh&resize=1200:*"

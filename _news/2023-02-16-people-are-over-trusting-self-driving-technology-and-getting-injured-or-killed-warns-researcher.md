@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-16T11:50:00Z
 originalUrl: "https://www.autoblog.com/2023/02/16/people-are-over-trusting-self-driving-technology-and-getting-injured-killed-researcher-missy-cummings/"
 webUrl: "https://www.autoblog.com/2023/02/16/people-are-over-trusting-self-driving-technology-and-getting-injured-killed-researcher-missy-cummings/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Autoblog

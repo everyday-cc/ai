@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-19T20:34:00Z
 originalUrl: "https://www.livemint.com/technology/tech-news/ai-in-the-workplace-is-already-here-the-first-battleground-call-centers-11676838469451.html"
 webUrl: "https://www.livemint.com/technology/tech-news/ai-in-the-workplace-is-already-here-the-first-battleground-call-centers-11676838469451.html"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Mint

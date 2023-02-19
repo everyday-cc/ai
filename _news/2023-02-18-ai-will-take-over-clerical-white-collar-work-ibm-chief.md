@@ -22,17 +22,12 @@ related:
   - title: "AI will take over ‘clerical white collar work’: IBM chief"
     excerpt: "Artificial intelligence is on a rapidly aggressive pace to take over “clerical white collar work,” IBM CEO Arvind Krishna says."
     publishedDateTime: 2023-02-18T16:50:00Z
-    webUrl: "https://www.marketwatch.com/story/ai-will-take-over-clerical-white-collar-work-ibm-chief-bf069cb1?mod=mw_latestnews"
+    webUrl: "https://www.marketwatch.com/story/ai-will-take-over-clerical-white-collar-work-ibm-chief-bf069cb1"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://images.mktw.net/im-728211/social"
-        width: 1280
-        height: 640
-        isCached: true
+    quality: 49
 
 secured: "dPAUGG3stZ+wbaNo49STDfXOQigqzTBe9a9i9fhGUU8zybUrm0O3e+czvn9+rT1uczVD+v6JQqxNsJ08O4mfkJzNod/oo+BGG+KrNdt8CJPG4jL/eARgAJAzMsDbtjdd7msNref0hkI0kw3oN8Sxf8zgcmDr7Cuz5KZVa9xIIH35tSMhM2Hs5l8rX+TK9uc8JjMSB3MJqZ8/J8ygpkv6PZYZktTHGUi8tEWxD+RFwSncxhShDx+7isEY4X+3wjH6+CwrmeMWWfJDHOcnd92nX8KmK9EZGkRvqz8fL/SNt3oQkxDtveXOQy8hvBIMDmuC4qbu8ex10t7v7rxeAs7AEWnABQmHhkqkoEtIlAipOMLt6L3wgcGRZpwa1DrYA1kkHzM8ODM++FZx7FEkPwEfJ40YDXlA33d/17Z2faI4CnbaB3qzw/0GXFd9XJYmDF+h0ZzT+B/jUVSIkb13wie8dQTxywuc1MlDz9H9/R3OFV9ovlDKNqbiZxQSbhaDfA0Bi5cDVZPr5y/qhJ+OaFjEqg==;PZsotFGzxHoPuWmo04Mg3w=="
 ---

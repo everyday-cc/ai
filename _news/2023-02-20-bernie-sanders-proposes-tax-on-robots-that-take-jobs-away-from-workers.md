@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-19T18:24:00Z
 originalUrl: "https://www.forbes.com/sites/mattnovak/2023/02/19/bernie-sanders-proposes-tax-on-robots-that-take-jobs-away-from-workers/"
 webUrl: "https://www.forbes.com/sites/mattnovak/2023/02/19/bernie-sanders-proposes-tax-on-robots-that-take-jobs-away-from-workers/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

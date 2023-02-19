@@ -1,20 +1,28 @@
 ---
 category: news
 title: "IDTechEx Discusses How Sensors Are Used to Achieve Safety and Accurate Control in the 21st-Century Robotics"
-excerpt: "Human-robot interaction (HRI), precise control, and safe collaboration between humans and robots are the cornerstones of adopting automation. Safety refers to multiple tasks in the context of ..."
-publishedDateTime: 2023-02-13T11:52:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics-301744817.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics-301744817.html"
+excerpt: "BOSTON, Feb. 13, 2023 /PRNewswire/ -- With an increasing demand for automation in the 21 st century, robots have had rapid and unprecedented growth across many industries, including logistics ..."
+publishedDateTime: 2023-02-13T11:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/n30873410/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/n30873410/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century"
+ampWebUrl: "https://www.benzinga.com/amp/content/30873410"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30873410"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "VQyQNU4aUqsC2a7K8RjSMo21y02kvtOttEEcT+Tl38x9gRw9R/a4C+tpOIb3erEmkaFmO16+n6xVTMRnzxeGn/bQ9GiG5r7Ja/dDYZIGayGk10+emY9NWJM9PwSXZmBfgZRf8uYnwSuZ/txq6NwsXmVHd44TBQ5YdkydfEJHTNfFtszAVI2SGsqAjOEVxjxCG9OLywuyI65etBDX5k3kUJSosM8hirSaZ7xW12dorhs0qlXtHcsmTcc/HjJBD57Fbs+LjZ/xQbOs2aqpUVrPxX8yBH4HqFDxWsSxXw70ucdOvoIWHs1ezuA/KOH6zDNt7STRnZtgR4uqUzJtOubem75SljOPP4bDnVmp9ZCzh/w=;Ufc5shnZ+3UreK7YnP7TOw=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "POa+fzi9jbFeApiw4Lkhd+wqWxXJBN+T/lwwSoCQOvhJbd7C729JIu6Av85CSxallsWku7r4HAU52pS8opTrufqzKifBfErzYr4nvTFAFlEpQ/IEohuUEV/Dw9BSzgCFXiNc3oZ5nYTYrO8zn6L8+1uyLRj1Le7NhculPa8TBRgxWhu68Voxhz/0WLZOYdk8QFYA7tUTd2WDPRbFz4ScW3/m6EpKes/TfuMCUoT87g4rLoR60fWZ5ls1A2eD5rq2dPISn5DWbwOAT34WVuoBF8hPi3SP8piWclUCAuVwUNiVQMp6hKrWaTpAxmNcsqDwi4MgHZol5LRA1eY/IWS0JhbLgKzNYk2F82d89xLNkCs=;n31lhvs84y53Na6WAnrg/w=="
 ---
 

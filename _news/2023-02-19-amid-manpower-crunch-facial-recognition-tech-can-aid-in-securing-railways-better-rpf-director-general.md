@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-19T14:24:00Z
 originalUrl: "https://www.thehindu.com/news/national/amid-manpower-crunch-facial-recognition-tech-can-aid-in-securing-railways-better-rpf-director-general/article66529112.ece"
 webUrl: "https://www.thehindu.com/news/national/amid-manpower-crunch-facial-recognition-tech-can-aid-in-securing-railways-better-rpf-director-general/article66529112.ece"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: The Hindu

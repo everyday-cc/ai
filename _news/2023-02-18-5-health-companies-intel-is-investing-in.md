@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Interactive Intelligence: Investigating the intersection between neuroscience, machine learning, and AI"
-    excerpt: "Recent advancements in artificial intelligence (AI) have raised concerns about the impact of AI softwares, such as ChatGPT, on the global education system."
-    publishedDateTime: 2023-02-15T07:00:00Z
-    webUrl: "https://www.dailyuw.com/arts_and_culture/community/interactive-intelligence-investigating-the-intersection-between-neuroscience-machine-learning-and-ai/article_17ae7c0c-ace8-11ed-8841-a7e222c80b9a.html"
+  - title: "Fintech Investing In Q4 And Beyond – What To Look For"
+    excerpt: "For the first time since the beginning of 2021, Fintech is no longer the leading industry by investment as it has been surpassed by Healthcare ($16.7B). Despite a 64% downturn in global investments since Q4 2021,"
+    publishedDateTime: 2023-02-15T18:36:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/02/30931113/fintech-investing-in-q4-and-beyond-what-to-look-for"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30931113"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30931113"
     type: article
     provider:
-      name: dailyUW.com
-      domain: dailyuw.com
-    quality: 38
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/7/07/707fa4fa-ace8-11ed-8abf-8b252f076067/63ec5e4dd7f03.image.jpg?crop=950%2C499%2C3%2C309&resize=950%2C499&order=crop%2Cresize"
-        width: 950
-        height: 499
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/15/joshua-mayo-bmj1vl77zwm-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Artificial intelligence is akin to crypto in 2021 as the sector is facing investor hype, says founder of tech investment firm"
+    excerpt: "Artificial intelligence is being fueled by a wave of investor hype, according to Bedrock founder Geoff Lewis. In an interview with CNBC on Thursday, he said that investor excitement surrounding AI ..."
+    publishedDateTime: 2023-02-16T16:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-stocks-outlook-trading-investing-hype-fueling-shares-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "xOm3dWBslWCkBmdQ0vPMt9SbPIQ942xt5DLHdb2ulpfUMWOxLKorOHqTNBpFae2FlGW3sHyzegMAIaC6YCfmvH30rlokQSNZvJbjW83H159XBP2DQclVKGyhQrGB4tLbwqMUjnH0F4i4ihV3RnpX1AfKZzanVpyZhnIaxGN9P3SJZiQcHJwqI/IIeu/2RIqjhP4PZs4o6vMdux0WcuUwjbFT8NZkld6TaCyvQoKpPscTotCMePR78E5YSjBfIVBT8+2pvOFYyNEG0MyqOeTt6pAy5P8goJ3l9uY0jEdwSwP67DFR66u6INmcxc6jbyZ3st4MWku700ZrFfNfRVARHOCDPlrbaeyVd97BSkD4pOE=;HRfpq6yJQ4r2iqi3g+DSsw=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Company Is Testing Driverless EVs in Traffic"
-    excerpt: "But they may not be used to seeing driverless shuttles without a steering wheel–or any resemblance to other cars on the road. That's exactly what Amazon-owned autonomous startup Zoox launched ..."
-    publishedDateTime: 2023-02-15T06:52:00Z
-    webUrl: "https://www.autoweek.com/news/green-cars/a42883761/zoox-driverless-autonomous-shuttle/"
-    type: article
-    provider:
-      name: autoweek
-      domain: autoweek.com
-    quality: 39
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/zoox-autonomous-vehicle-single-side-coit-tower-sf-1676384847.jpg?crop=1.00xw:0.756xh;0,0.183xh&resize=1200:*"
-        width: 1200
-        height: 605
-        isCached: true
   - title: "Amazon’s self-driving unit Zoox puts driverless taxi on the road"
     excerpt: "Zoox, Amazon’s self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the ridesharing population. Just like a customer could call an ..."
     publishedDateTime: 2023-02-15T23:22:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestar.com/amp/life/health_wellness/2023/02/18/universi
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Toronto Star
@@ -43,6 +43,15 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
+    excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada."
+    publishedDateTime: 2023-02-19T20:49:00Z
+    webUrl: "https://edmonton.ctvnews.ca/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.6280410"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 13
 
 secured: "M7R4jju7xPdRMdv2Y2WpwGCl0xFcjyHMV9mcVyunG1lmW2AzfppcqkXkCa73+q2rvv/HgEN/RJKcGpbx3C2f5eRb8TP8v+NZf6aAB+my7G9czalEvz26tqJwGq+qOUNb3hFlWTWzwm8scnx0Uggdns6Of/+9zdUt+c7TaRpDr9LoFdc63cXBWdVivavtTcFA9wdcuGXlWPC1/01hL7lKY8WptXDJZNEyMg+X/8wqsX7Y3EKxqJstwmN4rRg/6ZezGlnrYhy9wIxMKLlAu0S8R8yWT0DQsfUpRhHmt8xaNVR29ezF/vd4silAJygJy4PCQI2mCbeIWVvogUadBlu8S3zzMt5Q5ewhaOPn2S5n5pA=;3Dbi/NPQiEGKi0gFJn8KHQ=="
 ---

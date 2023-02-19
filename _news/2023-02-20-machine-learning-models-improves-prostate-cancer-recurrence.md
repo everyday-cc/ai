@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-models-improves-p
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-models-improves-prostate-cancer-recurrence-210561-1.htm"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 1000
     isCached: true
-
-related:
-  - title: "Enhanced prediction of prostate cancer recurrence using machine learning model"
-    excerpt: "Predicting the course of prostate cancer is challenging because only a fraction of prostate cancer patients experience recurrence after radical prostatectomy or radiation therapy."
-    publishedDateTime: 2023-02-15T05:15:00Z
-    webUrl: "https://www.news-medical.net/news/20230214/Enhanced-prediction-of-prostate-cancer-recurrence-using-machine-learning-model.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "rwlTCdFe31FUvuucncV9wUa1HXSAVLnk28v4iSOrTPKvOiRCZN9EAp3Q1MqWQGaCRuw/IQ++tEWocJBX+976nDT+8tFpuoC0CEzqmIE+eiRYXCk2kNDVbmwxw+yECndpnjahH0KQ5lzvIXMtw/hKQ8256JFW2a7ISWd31DYLrnq2pxG66VlQcKWWsztwTISx1w7NLEaPS1GsRkG4+6uelQidoJqeU9EhehcPnKWeWDBePNLXtfIqvNeFbZSt3AEWfnpF2CqCOd/7X+4R4Ojwin0KDczvXQqL/CCFsso4kGeehdXh0qu/+yv0g0fQI4e5KfGPXgLE73XV0X/WITiXexzVxbpvABazZ1IYog7ONh6eAo1o/9btA2GNQuOOghbWQxuFJxcyecseXPeGn3XOu4kEbR7GSiHMMj+rwka6TO96yMUBLti1h7UaB2RyLLLUPPqjTsGJvE2iHj5r51AHCjC5OfB5sXTp9LyONrG0Yhgbzj2rMNKMSn8wtheZczApxYvFlioNfPjE3+vbbcn5Cg==;kzftzkWlOP6jmLXGa2OdAQ=="
 ---

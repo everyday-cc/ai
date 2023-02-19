@@ -1,30 +1,33 @@
 ---
 category: news
 title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
-excerpt: "Microsoft on Thursday said it's looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies."
-publishedDateTime: 2023-02-17T21:58:00Z
-originalUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-webUrl: "https://www.kcci.com/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-ampWebUrl: "https://www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/microsoft-rein-in-bing-ai-chatbot-troubling-responses/42955827"
+excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
+publishedDateTime: 2023-02-17T17:42:00Z
+originalUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+webUrl: "https://www.cnn.com/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/17/tech/microsoft-bing-ai-changes/index.html"
 type: article
-quality: 70
+quality: 98
 heat: -1
 published: false
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-136bfc3d0e45cf05ebcbdaebda8967e0-h-8b1298d1ec7960ff76910faf0490b305-jpg-1676675679.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*"
-    width: 1200
-    height: 676
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221115121253-03-office-worker-laptop-stock-super-tease.jpeg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -578,6 +581,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "+Z04kYaSh1CMXZnuoDA5jo8GcB3nEADcaLgilf/B910GsLj/c+vGOLYjP6UfNsYk1tiuhdGD+hk1E7MrFGqL2ZSD3DlIgqLWkiZiI1E0fkISUOiL+IC55N+gQtsVy+B2rLJEaNNukXU9XO0rRJka9RjuRCd8VrzUMWU9a1zg+9akOvfxEvPjB911nBQvJZmGwNu+8s3LINEXOxxdCDSp1VE8TBKzBXl3Ykq78dk9NOvR+SvVoEDfNG82SHftbjsPwoQMoVBWVIjyWJRdBp/imkp7WsXUoxg4BhViJlqmqvJCRNojZBTJB27KmnNhGArudGX9sJ20ybYbid5J7kL0DPMiRNHaRC62yG0eqjQgw3I=;zIq12ei7SMpy50mF0b0wRA=="
+secured: "aoOqUn8sRVolRKGgtPirRh6+K9B1OqnqS+9tr5NKcF0Xb3+osmUy5GERFJxTKQq7o9ZfBWKT/GhyRXkIfNaSTFowWMyb0GOfy4JYw1UbaWWhv75TIZeQRU41EqZJkb23htlWkA4mz176Er70Op/ER2OHF/fjs6ltC/52y6grwaqWTFJalvlQpdyg3Xik4DgNZv+vZXA4mWNsEAO7rNwOegaDMncRgoqdz2AXJ/hQHXTW2fpEswNIcUy0FswQjSqYj1Wd19szuNSiUwcl8yrXfG/ZQ7lUwuWiZAtJYU315zgeiswCfsndfs6iKAmhluBTgj4u6RUENmQEARc7ie0jNWwmj4CWQfOYUpbSKPC6Iok=;RSnt5mfS37jdxOq9jT1NMg=="
 ---
 

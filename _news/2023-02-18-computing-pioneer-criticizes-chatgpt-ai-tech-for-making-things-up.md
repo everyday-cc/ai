@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/computing-pioneer-criticizes-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/"
 type: article
 quality: 89
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -348,6 +348,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/172c96e/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa1%2F3d%2F4e423efd40ab87efcefc97f25486%2F1246152-sd-fi-qualcom-mcguire-02.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Parents beware, ChatGPT can be used to cheat"
+    excerpt: "ChatGPT is an artificial intelligence-based system that uses natural language processing (NLP) to generate conversations. ChatGPT enables users to ask questions or tell a story, and the bot will respond with relevant,"
+    publishedDateTime: 2023-02-19T18:00:00Z
+    webUrl: "https://www.abqjournal.com/2574312/beware-chatgpt-a-cheat.html"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 24
+    images:
+      - url: "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2022/01/06/socialmedia_safeimage_White.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
     excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."

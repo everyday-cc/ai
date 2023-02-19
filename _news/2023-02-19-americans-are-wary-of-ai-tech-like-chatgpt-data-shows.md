@@ -343,6 +343,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Parents beware, ChatGPT can be used to cheat"
+    excerpt: "ChatGPT is an artificial intelligence-based system that uses natural language processing (NLP) to generate conversations. ChatGPT enables users to ask questions or tell a story, and the bot will respond with relevant,"
+    publishedDateTime: 2023-02-19T18:00:00Z
+    webUrl: "https://www.abqjournal.com/2574312/beware-chatgpt-a-cheat.html"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 24
+    images:
+      - url: "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2022/01/06/socialmedia_safeimage_White.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
     excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
     publishedDateTime: 2023-02-16T13:42:00Z
