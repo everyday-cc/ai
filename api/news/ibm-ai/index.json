@@ -294,20 +294,20 @@
     },
     {
       "path": "_news/2023-02-09-investing-in-chatgpts-ai-revolution-where-to-begin.md",
-      "title": "Investing in ChatGPT's AI Revolution: Where to Begin",
+      "title": "Investing in ChatGPT's AI revolution: Where to begin",
       "excerpt": "IBM has provided AI solutions for large businesses for many years under the Watson brand. In particular, management is excited about the long-term prospects of large language models for AI -- exactly the type of artificial intelligence that ChatGPT uses.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/08/where-to-begin-investing-in-chatgpt-ai-revolution/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/08/where-to-begin-investing-in-chatgpt-ai-revolution/",
+      "webUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
+      "originalUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/719846/2-technicians-and-data-center-racks.jpg",
-          "width": 2384,
-          "height": 1257,
+          "url": "https://www.gannett-cdn.com/authoring/images/motleyfool/2023/02/08/USAT/69885703007-2-technicians-and-data-center-racks.jpg?auto=webp&crop=2224,1256,x159,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -317,21 +317,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T10:48:00-08:00",
+      "publishedDateTime": "2023-02-09T06:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -148,20 +148,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Charlie Munger weighs in on ChatGPT3: Artificial intelligence is not going to cure cancer"
-    excerpt: "Billionaire investor and Berkshire Hathaway Vice Chairman Charlie Munger speaks at the Annual Shareholders Meeting of the Daily Journal Corporation. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC ..."
-    publishedDateTime: 2023-02-15T16:33:00Z
-    webUrl: "https://www.cnbc.com/video/2023/02/15/charlie-munger-weighs-in-on-chatgpt3-artificial-intelligence-is-not-going-to-cure-cancer.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 58
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107195197-16764857721676485769-28210071138-1080pnbcnews.jpg?v=1676486025&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ChatGPT acknowledges bias, ‘real limitations’ in artificial intelligence tool"
     excerpt: "The people behind the groundbreaking ChatGPT acknowledged Thursday that the artificial intelligence tool sometimes delivers results that are “politically biased, offensive or otherwise objectionable.”"
     publishedDateTime: 2023-02-16T21:32:00Z

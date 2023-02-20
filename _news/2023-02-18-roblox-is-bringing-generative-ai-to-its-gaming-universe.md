@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/roblox-generative-ai-gaming-universe/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roblox-generative-ai-gaming-universe/amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/02/roblox-2.jpg?w=1200&strip=all"
         width: 1200
         height: 734
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
-    publishedDateTime: 2023-02-15T15:47:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/02/15/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
 
 secured: "rIF3FGVOhzmXilF06MsTLBMKTWWV7qEk8xXDPZl/9/quXf8KFdzzTc3V66OC4RSAGHHgtGMnXmLyoSm9KGyDnCpikcsL9nVowxjFpfAHV/BvgJ8m5FRNJstcan06un1Uz4MnJLcQmh8uN0rXcPBojLdF4YmB/wD7cbjZK2OSeYqDvbBYnnRgdIW+VNZCVLEfBKj2mWCL1V4QiHR6leURjIuqZ3ubi2QBaZoWWq45sjvW7MUpzKgF2+KoqL2lvqhJoMXGy85tXTQWDLO7OEf04gAEM8KsSlh41JsHqAX32nDIc5qAJfPuN+JY/8uRTI6Hc6ugsXFbxB8+7Tg4JhaKAYOa71lJXWjtgyF2DpSwA4x8bLF3rHz0pbIQH5JwHlEI++SwLLhbnbKRX4XEK4BOBUDv4gGfBs4VWluJ7D18I+dSNUuo44q3lLzOB6Cr+Jy4OHoCw+YikqyB+qA5O5CBo4sFzrlPlg91AnjaBPUrS1bS1WBx16iCG47VoAEh75UCPnSHjfdyIJ8OYR0zQpl3Jg==;0RYnwKfhbAqrdiTp+tS2/g=="

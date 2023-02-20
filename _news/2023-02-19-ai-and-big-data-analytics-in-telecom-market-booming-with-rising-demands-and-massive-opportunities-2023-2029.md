@@ -45,6 +45,22 @@ related:
         width: 846
         height: 423
         isCached: true
+  - title: "Investors and techies gather in San Francisco to bathe in generative A.I. hype sparked by ChatGPT"
+    excerpt: "A generative AI conference in San Francisco hosted by startup Jasper drew an optimistic crowd. The technology is expensive and unpredictable but still exciting to some. The tech industry may seem ..."
+    publishedDateTime: 2023-02-18T05:14:00Z
+    webUrl: "https://www.cnbc.com/2023/02/17/jasper-generative-ai-conference-in-san-francisco-what-was-it-like.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/02/17/jasper-generative-ai-conference-in-san-francisco-what-was-it-like.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/17/jasper-generative-ai-conference-in-san-francisco-what-was-it-like.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107196040-1676578415424-Jasper_Arts_immersive_installation_at_the_Gen_AI_Conference_in_San_Francisco_Photo_courtesy_of_Jasper.jpg?v=1676660430"
+        width: 3600
+        height: 2395
+        isCached: true
 
 secured: "UHd5nkYPLCveBlsfvFeAuGung4nTHqv/K/mBhmS4mc4fgVamlETc9pP6zzpcPmxpmWV4tOoLjQC6ebLtGfv7+jFusvLXZNHXPSSpyJiehvMgH/ar6cdJ9bxWUy4977Tm/mZ5i8Z6m0kFnywuzyjr0wFeoXLOCLNlEZ97mdHqLGBIg4rQTG/MdcZLnkp7XIwaa/Inyu8YPvZ8JA71wFuaqUE/vWkfoc6vnaXS6F01Els/Bz+h3Aq/Qe05xDs3gBuRLC70yTgr993euloaArRrt+4Gc01aLiTWCP7Nn9c0sHy+mK8FSU/oJZMTYFBsv9eQIEI2p1997EaHus9Nn1atrmlSN0FFbe7/Z7L0nnpuEfE=;kb8ME8vy5bnttTztctl1GQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-new
 webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/the-history-of-the-gpu-from-inception-to-ai"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Financial Post
@@ -34,16 +34,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Expert.ai Announces Integration of GPT into Its Platform"
-    excerpt: "According to Forrester*, this use of “hybrid AI delivers the best results for NLP (natural language processing) applications.” Expert.ai CTO Marco Varone noted: “The excitement around ChatGPT is part of the growing recognition that language is ..."
-    publishedDateTime: 2023-02-15T16:52:00Z
-    webUrl: "https://www.datanami.com/this-just-in/expert-ai-announces-integration-of-gpt-into-its-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
-secured: "I0Ww4u43DpBXqvOeeaGEgmG5fm6f6f423I0i06uDnqUsYuAve8jQjVbFEKov8K0aNdZjX8ingpCvxBi0k6NeAp4HxPrge4P0YkB+u9rwFsLwXJUKXRqAyB2pMYZWhAuaKhO2Sh0ELexlUpeXQWRO+AdK6JfM0uPOayKH1UTcNifuHkBd8j0AdN/s/xMdLf75O1iptYHOnVoWrIoJqtR3y2rvql/CmUiQjiiH1Ut+4ROIOmq7//hOtRjHH2cVA7QEauIVZ1N0OfrIUhlqtZOR5Ibq85nRg+/HLxtxvEHMVz7Jhl1LRKAPg/Bnmljj7RkF2Ksn56Mxlj3BzkZXBo40zBgGHwf+xGHBDBXFjNcczLk=;l1rAOS8TXCOPAFHjvvr5Fw=="
+secured: "eYT6jqlXUrUFA0zKtkj2FvZ8n1F+HPga2EdjayDbv6uhb8HQTw8Dw2PA0eLQTq3A2qftnrwJM+CaG3/Ac4nSmRMTENyLDVBYVJXQhf2TKfvLIQ/F7fCduVHeRUiADh31y3CUvTO07SiVmvHli7yRsl9X1K+RPJQS9fsfrrZ6TPJsav4N5qZeHX/sbZwdcf49ewMh7iD9scCZtMe7CZsczBpU3IV66asMgsyiECEDMqkrq1+GnhwIYSNeNbn+SqAskpfrNsYHG20hg7rLJsB1hYSeaGYp6XgMkaRmKvzrJQnZhYbTCk6ElO4NAocZgvkYakBLDv/uPmRfXCzaG1ksvgwzPaTlGCsFlxdmMPo0QII=;U+k8j9zYWwnGbuAZ6XIIKQ=="
 ---
 

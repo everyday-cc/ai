@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7chicago.com/amp/artificial-intelligence-gun-detection-so
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/artificial-intelligence-gun-detection-software-omnilert-bradley-bourbonnais-high-school/12821562/"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "AI could now detect depression from a patient's speech"
+    excerpt: "Faced with the prevalence of this condition, the discovery has the potential to become an effective tool in assessing patient mental health."
+    publishedDateTime: 2023-02-20T07:51:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/ai-could-now-detect-depression-patients-speech-407393"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/ai-could-now-detect-depression-patients-speech-407393?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/ai-could-now-detect-depression-patients-speech-407393?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 59
+    images:
+      - url: "https://img.astroawani.com/2023-02/71676875522_AITech.jpg"
+        width: 590
+        height: 400
+        isCached: true
 
 secured: "sTYXfQwNEjEPLaWJBVd+EKPw3mb9Bf7tKk7gAwPL18Mmz2fJVSNW4EPl6bhB9eH2zyJzqc1aTzm2rGJ1PGsX+Gr8ArLDu+N4tX9ApkdVPyUQRLY+yQ0qksipgiac+vXKSmHU3pIGIlEnSyX0O5vaRb1xKNsFugEDA+deL7pojH5ApJ9Q2MWDFBhWQbTx/uGoCGXiRMJun0qnc/fVT5q1onBboGY4n9hBcuyP2rwIk4h0LJhL+xxk2mv0njOaR6MLDWBU5mnu/f/392Hbg6FgHL3xodjdZY6XNlVJ7oO28msZQSa8j4ZUOTZrqYQEFGssXmNO8fJOtkqcNF/zuAHtZZPNEdHK4TE29IGbWo6HkIA=;hczlUS/2XIuacLAJ69i9hQ=="
 ---

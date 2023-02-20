@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI-backed startup brings chatbot technology to first major law firm"
+    excerpt: "Allen & Overy partners with legal startup Harvey Harvey received $5 million in a funding round led by the OpenAI Startup Fund last year (Reuters) - Harvey AI, an artificial intelligence startup ..."
+    publishedDateTime: 2023-02-17T04:24:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/openai-backed-startup-brings-chatbot-technology-first-major-law-firm-2023-02-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/AVl70PGzw7m2lBe7HPuSJ9gU2qg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FFKKN6ZO3ZOHTJVDJJPHMJZOGU.jpg"
+        width: 728
+        height: 381
+        isCached: true
   - title: "No, the AI chatbots (still) aren’t sentient"
     excerpt: "Experts say that personification and projections of sentience on Microsoft and Google chatbots distract from the real issues."
     publishedDateTime: 2023-02-17T16:30:00Z

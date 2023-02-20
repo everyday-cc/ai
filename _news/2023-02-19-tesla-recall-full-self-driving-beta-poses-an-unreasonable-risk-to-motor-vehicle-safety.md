@@ -506,16 +506,19 @@ related:
         height: 960
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
-    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
-    publishedDateTime: 2023-02-16T18:05:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits."
+    publishedDateTime: 2023-02-16T22:05:00Z
+    webUrl: "https://www.kaaltv.com/news/business-news/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: KAAL TV
+      domain: kaaltv.com
     quality: 39
+    images:
+      - url: "https://www.kaaltv.com/wp-content/uploads/apimg/2023/02/Tesla_Recall_97725.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn’t always follow speed limits."
     publishedDateTime: 2023-02-17T15:13:00Z
@@ -801,6 +804,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "NFivW5ncCsCuIvmbRtRo+o4AR5YWFGOYgrpGsWAfKMiFeAiE5/XnCwmctV7NZY23zqIyejyI8rZaQtqkSR5pHoke2Bt49gETNMo64HhGf+Kn/3hgpnrLNHHjyfuTJ7l4bmlZdx8VuyOU59b5Gucw4gq25mfWXB7SR1Jk9Bq2k8w/hASidap/3P6ZKEZ2UTB11B52vPwHQVs1TVT4VDRCqOnN0hTzPlLZXgws94uXaMJsbi/poETJ0imyOc9KO85Kfmli43kIvG6NFBqQyqp4iGt+1oFLoI1HVnkYNpFsofxeFgDQ2xpKRTe3mSIt2S31HQiIqxIAS0WhImky0GRIjOvDEaJzWHoOr/P9J6WOqCQ=;uRl8piaozv1qMvXyO+VN7Q=="
+secured: "QiF5tO6Tg5/jB0t2uqURor3jWSDLSVzMwfMU+if6DExm6dBKrcu5Gg/lE1hIa5uHqHSRwhxZSGXI48RtFEX3AliTT2ICmesZY7VJeE5QGzUUL/6z/H73biXq149Q2/7T9tswupEWcH8P1YPjc/t1qyHZ0HxvX1hCAyMt1DSRSqn42SldecFndBGC/2/YcB2KQenUQGdN+2NfRMZpgdrcI6CAM+8u3KXtFCSzI2Obqsdk4q/5GzZSXmrmjVzZ3ClMW8dMXsm4pWDZMJYJnWUcpxT3+PVTvaUf6uxmU0hgiwp1n69Dvp9DW0ia4K5HSja24s1Od2/ElJE5puwdZlYlR/KCnhuysIDifCPOogyPr/+M96/d0VL4ajRdA0vsS1PrnavofPPXUYoLWU1qECB3Jgj6PGY5WEhh+KvMtLnGANQBM0pYt4G4TQqpBGNa8z5iv2KgOlZB52iM+knOu64Extqw+YyEMYp6MVO213VaQ+v2easE/NmvC6JfiKbRAb0/iQcJlRSK5ZHHCwLiEitYPQ==;gSyHCais8BhVcErP2/QA4A=="
 ---
 

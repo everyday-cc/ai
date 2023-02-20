@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Amazon’s Self-Driving Robotaxi Is Being Tested In California"
-    excerpt: "Amazon’s self-driving robo-taxi has hit the roads in California, with testing limited to a one-mile public route between Zoox office buildings"
-    publishedDateTime: 2023-02-16T19:30:00Z
-    webUrl: "https://oilprice.com/Latest-Energy-News/World-News/Amazons-Self-Driving-Robotaxi-Is-Being-Tested-In-California.html"
-    ampWebUrl: "https://oilprice.com/Latest-Energy-News/World-News/Amazons-Self-Driving-Robotaxi-Is-Being-Tested-In-California.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Latest-Energy-News/World-News/Amazons-Self-Driving-Robotaxi-Is-Being-Tested-In-California.amp.html"
+  - title: "Driverless Car Market 2028 By Product Type, End User, Capacity and Geography"
+    excerpt: "The driverless car is also known as autonomous car, robotic car or self-driving car. According to our latest research, the global Driverless Car market size will reach USD 15190 million in 2028, growing at a CAGR of 17.9Percent over the analysis period ..."
+    publishedDateTime: 2023-02-19T02:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-market-2028-by-product-type-end-user-capacity-and-geography-2023-02-19"
     type: article
     provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/news/718x300/2023-02-16_1hjbt0lgsq.jpg"
-        width: 718
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
     excerpt: "Zoox, Amazon's self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the"
@@ -50,20 +48,6 @@ related:
       - url: "https://imengine.public.prod.day.navigacloud.com?uuid=6c14f255-2b8d-5c87-955d-d4b256fa6cd1&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.93361&width=753&height=424&x=1.0E-5&y=1.0E-5"
         width: 753
         height: 424
-        isCached: true
-  - title: "Amazon’s self-driving car shuttles people on public roads for the first time"
-    excerpt: "Zoox, the self-driving startup owned by Amazon, carried passengers in its fully autonomous vehicle on public roads for the first time. Last week, the electric vehicle, which does not have a steering wheel,"
-    publishedDateTime: 2023-02-18T04:00:00Z
-    webUrl: "https://www.tbsnews.net/tech/amazons-self-driving-car-shuttles-people-public-roads-first-time-586726"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 21
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/18/636718.jpg"
-        width: 600
-        height: 314
         isCached: true
 
 secured: "1yIqKvQqnSBnm9T3bGwlfcg1Y0G9EfiYSMCdAlKsFnPuvUv4b8V3robl33JH1FJzvfn9Dr2tiyFdhmJOxhcSnvpyTGYw/mCdjGqVAdu6jKJo65h8vnhv4fYQu+Xm4rr/6qxCpR5pxHWUKCAg0Iz/eYRViEfEaDimnrfO7cgCXlhWCzoMW8VaJgVRBOhVRqZyz3nzOoq6F8dfOt4zm7q3YwMAwDlwJvZQNrqbtSSOZkuSqFq9NLd27tCVY2Ekz3Pn+PqC7V25UbpMcxeyrXLpZOG0IF2XgfHTLMZFtf3WDVGcRiJJ0kUTpgE6Y3mVOLJPUkF9+2S1fqqiIdvMDuE8wVnJWLIfN6iRCwDAnQ7mDwY=;ej1o0sxodu0qRJOj65MRcg=="

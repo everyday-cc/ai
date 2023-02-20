@@ -45,22 +45,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Here are the large language models that are shaping the future of AI"
-    excerpt: "Large Language Models are vast deep neural networks that are massive in size and scope. When you interact with a conversational AI chatbot, these models help process your prompts."
-    publishedDateTime: 2023-02-15T15:41:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/here-are-the-large-language-models-that-are-shaping-the-future-of-ai-10090751.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/here-are-the-large-language-models-that-are-shaping-the-future-of-ai-10090751.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/here-are-the-large-language-models-that-are-shaping-the-future-of-ai-10090751.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg"
-        width: 753
-        height: 435
-        isCached: true
 
 secured: "1XQ3IJgzfl30p11jhQ8hqPh7F+JfzqrXkfUtL4DtTETmPesou6zB85kSMdRzyyIOXulTW87XONyU3JsP8gu3Vx3ml5VluplKS6Jk4IstGHLorcbpsFmyGu9a3806FZe2KSWCGs3yi0JQnNJTXbP5/UV5KC/GQE7iCJ9JFMmvvAoohNINv1qVSrVmEFyO7AEbTa5V9jXTqbNv5KjgC+gNvQVdknnypjfwcVda8y8Dh8tn9Rdo40brS3gspnacQHW6Q2/O4o1zOSxZec06qAIfqcSLKp9z0aHqWVOOewNvzB1m3XhDCgp5pRKe19SIBS1fpJuf8ATXnwLaoyW7xdoetDFTxU1nBcFmgcfrPbrxyfvfpBtFULXuoZ9UYRK+POlCmLd3y0h/deAnmJ66RPse+pLhACwHTA/XA9KOJw+3aBerMbwacMAJ7DmbtfCkV+mBvTjXaxRqHwN/HLox77GVuhukCL4L7iGKUQfcBJzdjKFLr1a1KIsqP3neYNr/eU0ggq1xRYPECLQNeX+eafF/4A==;JzKX1HBbU3c3rWrKLl3eGg=="
 ---

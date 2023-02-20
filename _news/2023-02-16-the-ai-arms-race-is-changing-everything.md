@@ -137,20 +137,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Charlie Munger weighs in on ChatGPT3: Artificial intelligence is not going to cure cancer"
-    excerpt: "Billionaire investor and Berkshire Hathaway Vice Chairman Charlie Munger speaks at the Annual Shareholders Meeting of the Daily Journal Corporation. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC ..."
-    publishedDateTime: 2023-02-15T16:33:00Z
-    webUrl: "https://www.cnbc.com/video/2023/02/15/charlie-munger-weighs-in-on-chatgpt3-artificial-intelligence-is-not-going-to-cure-cancer.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 58
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107195197-16764857721676485769-28210071138-1080pnbcnews.jpg?v=1676486025&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "12 Best AI Plagiarism Checkers to Detect ChatGPT-Generated Content"
     excerpt: "We start with a recently released AI plagiarism checker by OpenAI, the company behind ChatGPT itself. Called the AI Text Classifier, the app is a finely tuned GPT model made by the company. The classifier is responsible for predicting how likely it is that ..."
     publishedDateTime: 2023-02-18T07:51:00Z

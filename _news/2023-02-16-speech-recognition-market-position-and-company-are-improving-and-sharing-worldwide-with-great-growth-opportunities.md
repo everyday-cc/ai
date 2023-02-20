@@ -45,20 +45,6 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "Speech recognition system controls machines in noisy factory environments"
-    excerpt: "Today, we are used to controlling smartphones and home appliances using speech recognition software, but similar voice control systems have yet to break into noisy industrial workplaces. That could soon change thanks to a new speech recognition solution for manufacturing machines,"
-    publishedDateTime: 2023-02-15T16:33:00Z
-    webUrl: "https://www.imeche.org/news/news-article/speech-recognition-system-controls-machines-in-noisy-factory-environments"
-    type: article
-    provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 38
-    images:
-      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "vO5Ky14C3KMsjfFsVQxoQ/5KjIzlskII1PWyumwxUCirV38LAw+J5yVvCY1oowuBbyfk+GaqMNJpiQ3T4axYGH0H09sr1NUj7ce7mFkIzMjhg28toDIiqzDkZDtIs69Ho48FVHGCm5O0KiDtZxffvfgu+X2YvN3WOoHqW4wGteaqfTxLjHqUsfVZvmQWm6/EA84JCZPM+63lSpaVN6OF6nL9qR0J30CD7LRlsB8r0xNu32iADr/3oHQ8NpcwQ3ZB2FT2cC0xp6diJWOM3Zo1OQFih0/MtNnXgT9WVukENLHlbK4yYx0hKP0ZpNxaHDEMOFJHPHXFRZqwre46s5mWkwHcyXpQ1vpa9pCG0QPCmbA=;ou1m/+eO+3Kd8Uqkjf3aYQ=="
 ---

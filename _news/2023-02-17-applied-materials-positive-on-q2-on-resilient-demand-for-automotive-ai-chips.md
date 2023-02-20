@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Applied Materials Positive on Q2 on Resilient Demand for Automotive, AI Chips"
-excerpt: "Applied Materials Positive on Q2 on Resilient Demand for Automotive, AI Chips By Tiyashi Datta (Reuters) -Applied Materials Inc on Thursday projected quarterly revenue broadly above estimates as ..."
-publishedDateTime: 2023-02-16T21:16:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-02-16/applied-materials-forecast-current-quarter-revenue-above-estimates"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-02-16/applied-materials-forecast-current-quarter-revenue-above-estimates"
+title: "Applied Materials positive on Q2 on resilient demand for automotive, AI chips"
+excerpt: "Applied Materials Inc on Thursday projected quarterly revenue broadly above estimates as it fills a backlog of orders and benefits from resilient demand for its tools used to make chips for the automotive and artificial intelligence industries."
+publishedDateTime: 2023-02-16T22:56:00Z
+originalUrl: "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/"
+webUrl: "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/"
 type: article
-quality: 61
-heat: 61
-published: false
+quality: 81
+heat: 81
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +22,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "ZCBePZPa0qAzV1Ne61PXPrv/wa7P9Rg89npa4AvVbW01j83YqVAoHmaLqMe+crO/1erB/yr9P/8jMMsP/PwCrZI3o+72rvT1WvM8OTN2txDKj13Kc4cuN3G0h35QoMfxzj525PfMgqpRaEm5gSYFwMvab5dFrzrV1ZrBC7H1ypaqa6aijBa1ImeOqpDq5sZ3dj149ql6ELJ0/nP0oX63Gtxq2Oql0xzC1otJ8AtfMkfwQRJZYmERKf/yb4Vc5XACjzM7E930rwAP+HROGC/YfX9E1+W9YBKNLJ5pWyVDzj90jE/QONF+og6hUYpWFcKPwwj9y6GM6g6wF6QC8UL1t/rUaU8xMqnxdQdvqBOBfWg=;yIPfk8sCxR+oj4x/RO32Pg=="
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=131"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "wq8GhGQoVsvyERhowJjZQeaC0hsstAmvU10k5i2AcKv/1Bfe8T+b+OF0qkKZzCig55UC4QXzjLvJ9myFxxlmBV24FiWcgpoZlq8umlvXtfHJeOMPYZaGYQNGaEnW22u93M+lAHEJ8afzzc+RlK8gHzQCgTH//dFKjqf68GKaFZRfT6A3518HCyOWnCyvApAlTJzzyLpyc0LlbasqfJiaKYTBHLTzEuvQxGCj431odDeWT8vF/HhoyrV1e9e4LyTy8sB/mHO9tmox1IznBocbgbjOy6ZXl3+87PKD3dvpBtLtjPyMM9bR/D2ov3vbbKYhHPxKNoV3iDYS202KtonCPVz6eO3P3N/pM3sfxPB/zjs=;KvBe07Hw75eptw4HWqz4xw=="
 ---
 

@@ -33,15 +33,6 @@ related:
         width: 974
         height: 730
         isCached: true
-  - title: "Expert.ai Announces Integration of GPT into Its Platform"
-    excerpt: "According to Forrester*, this use of “hybrid AI delivers the best results for NLP (natural language processing) applications.” Expert.ai CTO Marco Varone noted: “The excitement around ChatGPT is part of the growing recognition that language is ..."
-    publishedDateTime: 2023-02-15T16:52:00Z
-    webUrl: "https://www.datanami.com/this-just-in/expert-ai-announces-integration-of-gpt-into-its-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "6s2gVyqaNrQbw30jm/G45kkdlHDLT1B9t8z+bBqX/FosiCqIJ6K2ZMzpp4I/eKfwJm8fFwgHPEGqcd3x/RKLJKf4do/6NIhgqSdSd2aFOsSiN7pezRH7jMUl4vq+0LBT2CGjluUt9gW1/PnMpzFdy7epB7txTTZT5w9JvgUI4cWCarGoNYFYMPVuQ+54hNG0lsMhzPKNRSILw3zWiSXJ9dG63Qj4lpsSZXojBFzbQhHho/MNE7wLfUyFesUe+60g1vz1Nn7HuhCbLDapYpSz9o6lHgzCHRMRaWu9Xv6mlFC+TKGaGhWgZ7XSWpByFJC82vk8LCc+HkcdzkqFaH/Aa9iyvlla5dwyXhdKnQSrEx5M3e7oQkgQxay23op2hYEVTDjKVDUBd1cjeix6TlpbaFQ64jq3ileZUQRgKX9xrqEMaQAGy2IZLIs3rzNxcrpYkJeaM+P4tTserjyW2hua7srWXcJ76pc9U9qpUJ72JPeNNLCg7Ced0pUgUmvzQqc46ZmbrWcGg+cahT5uvxW6iw==;LXEL7sj/8sr4I+tVD6YBnQ=="
 ---
