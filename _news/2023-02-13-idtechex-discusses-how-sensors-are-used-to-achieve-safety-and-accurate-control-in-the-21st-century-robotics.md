@@ -1,28 +1,20 @@
 ---
 category: news
 title: "IDTechEx Discusses How Sensors Are Used to Achieve Safety and Accurate Control in the 21st-Century Robotics"
-excerpt: "BOSTON, Feb. 13, 2023 /PRNewswire/ -- With an increasing demand for automation in the 21 st century, robots have had rapid and unprecedented growth across many industries, including logistics ..."
-publishedDateTime: 2023-02-13T11:53:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/02/n30873410/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century"
-webUrl: "https://www.benzinga.com/pressreleases/23/02/n30873410/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century"
-ampWebUrl: "https://www.benzinga.com/amp/content/30873410"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30873410"
+excerpt: "Human-robot interaction (HRI), precise control, and safe collaboration between humans and robots are the cornerstones of adopting automation. Safety refers to multiple tasks in the context of ..."
+publishedDateTime: 2023-02-13T11:52:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics-301744817.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics-301744817.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "cCtQ3L7vc7dwK7S67PlX+v7h+N6YolCfs75NG0VR2wbqvtnUHqH28VtwMHi7cW1zGe+b5dUsahcwgwm/3ZfKOHauceO69MaBtQm+UapY8NBJ9sGPEmHePmlXvQa1uyiO97wIezfbSYqU55JOQ86Oh/0jnEjftnFKIJDvkuzIW/R3sCFh67u4ygYQyf5yAR93dGgx5+ctP3+BROaeQxieTxqj/N+7mfn8CctqoSuyKqHAcq0t4wRpk6KJe6b50WOlV68Loa0fR6ApfjoipXKS0vipEh5WMLAmnBg5eCdisL1jSSGcGJRJO6NktfPNW8MJBzbz6Z6wIIkcULtEwwv0YTXPdbrUqRQQglwqVemH214=;7pBjGxotn2f6ppVWkZDarA=="
+secured: "kLCQRZw5WVA9tchk9tfdnuLoDVmS3hl5ajSWLsdlfdUDIbuN+vl8/pDMlJd8bH/ulTAqjILlgy/L9KVPx0aN5FQYCFVIW2fKk+lShFtmju6UgK+oSj1EY87V2xyvF/ncJFdTJl5Q6Uqwpgqb+qSrEkAKI0cdh8tx+dHlR0jR2UJD7esz85gEx2Rb9ZVv6mOo14RN7r8/nf2B0RjFyVwt5IDAr60Z4vnJ+AXO01BgxuhY6txVkjFX4tv0qoJqyp9EqrXqnKOFj8jAZTzzTx0A6/yoECvLTZ1651xGH82hTEFxB5o725sMHIsTMVUFNUdnllxvn/oLVnsV65YV317I4o3L2q52MC1IkJolTW2qaKs=;r5gkYVRXo4Gjx/Ri5ybVAw=="
 ---
 

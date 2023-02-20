@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Pope Francis asks Pontifical Academy for Life to study ethics of emerging technologies"
-excerpt: "The rapid acceleration of new technologies can produce significant consequences for human life and the environment Pope Francis said Feb. 20."
-publishedDateTime: 2023-02-20T17:00:00Z
-originalUrl: "https://www.catholicnewsagency.com/news/253689/pope-francis-asks-pontifical-academy-for-life-to-study-ethics-of-emerging-technologies"
-webUrl: "https://www.catholicnewsagency.com/news/253689/pope-francis-asks-pontifical-academy-for-life-to-study-ethics-of-emerging-technologies"
+title: "Pope Francis Asks Pontifical Academy for Life to Study Ethics of Emerging Technologies"
+excerpt: "Pope Francis told the Pontifical Academy for Life on Monday that it faces an enormous task in evaluating the ethics of emerging technologies, such as artificial intelligence (AI) and human enhancement. The Pope asked the academy on Feb. 20 to “ensure ..."
+publishedDateTime: 2023-02-20T19:32:00Z
+originalUrl: "https://www.ncregister.com/cna/pope-francis-asks-pontifical-academy-for-life-to-study-ethics-of-emerging-technologies"
+webUrl: "https://www.ncregister.com/cna/pope-francis-asks-pontifical-academy-for-life-to-study-ethics-of-emerging-technologies"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
-  name: Catholic News Agency
-  domain: catholicnewsagency.com
+  name: National Catholic Register
+  domain: ncregister.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://www.catholicnewsagency.com/storage/image/pontificalacademyforlife2.20.23.jpg?jpg"
-    width: 512
-    height: 341
-    isCached: true
-
-secured: "itXWSEqxa4/eIU/AOzkN/9P2ncb/MQAw1wgUboJerUoFYKdedqBlitWPKdvMwuFfmLk9Oa8TpsiQ4hEtEaooCFBl8fbfC7XGvU2DXZcbjgUrzsq7eRHYuA2r2ZgCjX5TpJkC4lGZcDgyPTQOtLkZApwRN5YFc5TEKpz+KPvg4ErQc4h2UcvBfGN2jj0db2dJR0tI1i/hU1lo3XaV22cPmZZfLGx/3+rjjDowQBm5jKXyc2CDrKnnneUYuXzRnndyelnjNc49BzpajHAAfyqgT31bdzalJ2TjcfMym2Te2nhJvbtA/bmKuoaT2dHnoqCjX6Xjm+JpaMpRnCv+fJ48AJPNQYwMyZiO4Pbzd132uEo=;KS/AK+YJSaORyiyQdpcJKg=="
+secured: "+asfqlvAq3R7bBvaI9eC2Gn5AcrA6Yu8OF2cEuFV+Ap4MJFlUJuifSTHBn+EwUfV8J8cfPwBq4+JfQNAbh5esbd9GyHM9Y11GRHUy9OLWR3MJVMAzkw+m6u8eEfkBBK8N6oA7v9/bl7jRukR5OrlrcAQfE1FY0Wjao5j8sfPQCAeBW2iJdWq8V8tYPB90eN9p7Q5bLfLeqds6TmZhgUfyazCsj9I5tWXLC8t8Wi/+JHaXYPMqCjUe+gculO2MZVgUUK7+ld1c9FX/O2CYsit27nYeUBYYtTtHlEydZdz8SDlJY2yurpLtphu+/sqFWWhyhxogmwqpxGIA6/Tl7LSLwcigREJTERxsss8KwuectpXArLg5I44cuC9kxNXSEnC9G4JcxtoQ5fF9i8t3MJSaaqzKjuAuZJXwZAjNmMCFVSOTjg0dQQc1zKiOBgX5Xy+ihbVTnGcTnj1FKozV8iTqWsdNXQJ5/kCQi0qtw8DTHnz/gplGpLskYp2ZYNJgdq5BJpSuNSA7hj3v/4jeCaaqA==;NESQWCRUBtj6alHBYKGd8A=="
 ---
 
