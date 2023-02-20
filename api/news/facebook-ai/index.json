@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-20-you-might-start-seeing-ai-chatbots-everywhere-thanks-to-the-gpt-effect.md",
+      "title": "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'",
+      "excerpt": "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
+      "originalUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
+      "publishedDateTime": "2023-02-20T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-7-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
       "title": "7 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
       "excerpt": "It also addresses the professional and business opportunities that come with the metaverse and is taught by experts from Meta ... and the influence of AI-driven technology on workers. \"The course introduces you to cutting-edge research in the economics ...",
@@ -267,21 +321,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-17-what-chatbot-bloopers-reveal-about-the-future-of-ai.md",
-      "title": "What Chatbot Bloopers Reveal About the Future of AI",
-      "excerpt": "Microsoft’s new chatbot for Bing has displayed some strange behavior, proving that AI is more fallible than tech companies let on.",
+      "path": "_news/2023-02-16-convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales.md",
+      "title": "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales",
+      "excerpt": "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/bing-chatbot-errors-ai-future",
-      "originalUrl": "https://www.wired.com/story/bing-chatbot-errors-ai-future",
+      "webUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
+      "originalUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/5f0fb43a92cb35f94cf6a0ed/master/w_450,h_400,c_limit/Carve_Fast%20Forward%20newsletter.jpg",
-          "width": 450,
-          "height": 400,
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -289,23 +343,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/bing-chatbot-errors-ai-future/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bing-chatbot-errors-ai-future/amp",
-      "publishedDateTime": "2023-02-16T09:00:00-08:00",
+      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
+      "publishedDateTime": "2023-02-16T02:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -315,7 +360,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1343,58 +1389,6 @@
         "name": "stuff.co.za",
         "domain": "stuff.co.za",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-fake-pictures-of-people-of-color-wont-fix-ai-bias.md",
-      "title": "Fake Pictures of People of Color Won’t Fix AI Bias",
-      "excerpt": "Companies claim synthetic images can add diversity to AI data sets, but they carry functional and moral risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/",
-      "originalUrl": "https://www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63d99f9b72a3af5788e6a4fb/master/pass/ideas-ai-bias-people-of-color.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/amp",
-      "publishedDateTime": "2023-02-01T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

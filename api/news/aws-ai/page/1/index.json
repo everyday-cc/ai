@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-20-fine-tune-text-to-image-stable-diffusion-models-with-amazon-sagemaker-jumpstart.md",
+      "title": "Fine-tune text-to-image Stable Diffusion models with Amazon SageMaker JumpStart",
+      "excerpt": "In November 2022, we announced that AWS customers can generate images from text with Stable Diffusion models in Amazon SageMaker JumpStart. Stable Diffusion is a deep learning model that allows you to generate realistic, high-quality images and stunning art in just a few seconds. Although creating impressive",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-text-to-image-stable-diffusion-models-with-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-text-to-image-stable-diffusion-models-with-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/20/Featured-images-for-ML-13389.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-20T07:59:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-20-ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya.md",
       "title": "RingCentral Dials In Strategic Partnerships With AWS And Avaya",
       "excerpt": "Vice President and Principal Analyst, Melody Brue dives in as this week, RingCentral announced two important partnerships—one with AWS, the other with Avaya.",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 402,
+      "heat": 422,
       "tags": null,
       "images": [
         {
@@ -1342,49 +1394,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center.md",
-      "title": "Create powerful self-service experiences with Amazon Lex on Talkdesk CX Cloud contact center",
-      "excerpt": "This blog post is co-written with Bruno Mateus, Jonathan Diedrich and Crispim Tribuna at Talkdesk. Contact centers are using artificial intelligence (AI) and natural language processing (NLP) technologies to build a personalized customer experience and deliver effective self-service support through conversational",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T13:01:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

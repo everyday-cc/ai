@@ -7,7 +7,7 @@ originalUrl: "https://www.labroots.com/webinar/webinar-setting-precedent-artific
 webUrl: "https://www.labroots.com/webinar/webinar-setting-precedent-artificial-intelligence-laboratory-automation"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Announcing A Webinar Dialogue On Security And AI Software"
+    excerpt: "Boston Global Forum Patent Attorney Bao Tran of PowerPatent PowerPatent Logo PowerPatent and Boston Global Forum Announce"
+    publishedDateTime: 2023-02-20T15:45:00Z
+    webUrl: "https://menafn.com/1105602857/Announcing-A-Webinar-Dialogue-On-Security-And-AI-Software"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/pr/2023-02/20/EP_2db77image_story.png"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "gfwvIzUoOUrSua+zscPUk3yFy9iDPtvWiLcbDNlr7IoMNpyiOa6RKMvLGkFkutCA6eIeREDwf4oCs+wwiZtSMtQKllPNDPJ20t8qBVXiERct+tEjN2uC/DHKwSf0Xa3JTWl6pAbkbiON6EKO9adxGSOBwPhvxSJn/uw7U/XEsc3ND13HYguwG3L+FJTIm3J7EYMGeWCGDG3P1vI01ok/X0dmoSToAVtcZKejtzoIxnbD8U7PjGpC4IoBb7Y++Igb+kaFrBMZDFS1JOHihprbrRjK1vrzhj8fQkbrLfipDWmraOrMTW4nCIZYR8OsjVCtp/YSDCIKbjo7/XfYH2DVv1aFBJFb3ijE4EJyqOow56Zl5NkwnX6WnUYMSMWhdGdLUd0SczR+w0WeRdwPKULbmqXI0TI8zce/7HUMzuRDHBEuMBFsroXQOsWVwjpv6cc8+WBW+yaENxaGJ9Lvwnqq4uwS5ChCCJjiMewML6P5o/84Ud3XrOjYE3+7oK6m4wrWnTKKsKOJuEUzWEetkCqVGg==;9/j+qy3iTw/2lE0TR9DCMg=="
 ---

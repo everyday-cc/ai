@@ -3,8 +3,8 @@ category: news
 title: "Deep Learning Model Helps Predict Neonatal Outcomes"
 excerpt: "A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in"
 publishedDateTime: 2023-02-17T15:06:00Z
-originalUrl: "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
-webUrl: "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
+originalUrl: "https://omaha.com/lifestyles/health-med-fit/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
+webUrl: "https://omaha.com/lifestyles/health-med-fit/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
 type: article
 quality: 39
 heat: 39
@@ -40,6 +40,6 @@ related:
         height: 315
         isCached: true
 
-secured: "8a/oMq9cb0hvSM/W4BfZfvKrIk/h8Ugt2SyqLogDMNnTnePSNxu6StSoOytNgXpU7HX9DXNO5oID+YfOvSdYnCDElcnA7gqpckF1+iSAVj36HBWSSLB+Y5KxLZOs5lGBlC4y2u7waew0poJRLtDYz5lRR/t5AYCEP8Ne8S8ALgi43L3UW6vPTaqN8r0CpH8reBc7glwAfCQ6AtzuruIVlYy257WvEf/QHA0hg9MAVN3NplpWn9hED8LNK/iOuRwU34F9AlGLwC/2dOUD23Pnvfl11V5tkfM24mUXJBqU9hdL6BtQxHOV9KhOVEXkVB6+drN38e7h89alfrCMbgoUCMHPY8ANTgoYDeFaoEK84qkkUXsCalogmoum+OZkFcVOhKdH3BTK68go3mj+lVaMzQZgOjPiF2I/k8Jnr1pKBmDWfZTmU8dln0vEvjD9aOOL/RQjWw/CLEaygfqDXP3EPbQJ3AZfl9Ies1dcW5cXyOvOMEgig2t3TYnnY0FoQnyDXf/8Qe+is2zChTmHbyG0nQ==;lJmzJoeLschs2xWpEeuUaw=="
+secured: "Qf+FclJERcoPNlNAoM4L6iDosIqUCQjRX5woR/1Q1sH74xsPjLJTntZ9KETZ4f/gG9J/y8xUmRbdUbmqXRT1FHaeM1EvtA5Aajlv8U2Ky2gRWS0yxadSbVCDJ+v8ZzaT15cY47OQA9k8yJWTGYsIEzGS17WkzWwpj0diKF7gJrJaexB2mKRDFzEvsuKRgu8MglGSKBEJSh3kUAK991X/zZLPB4s9cm3Qzp1AyAYW4+6mcnJM2U9sHlR3ayydMQhYLifi+pembEaBDsRTaU0tnWtAnfrnuTMvK2qblCWU1QiKYWUyGX8eDyOI6P4zIktgwMLumRJ2okOD0y/VTq4m5LgiYBnuUcU5yaWHcZukgmA=;FodLXNeRvBnZDtYZWU+d4A=="
 ---
 

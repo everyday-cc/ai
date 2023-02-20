@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T13:18:00Z
 originalUrl: "https://www.technologyreview.com/2023/02/20/1068866/download-crime-app-concerns-helpful-ai/"
 webUrl: "https://www.technologyreview.com/2023/02/20/1068866/download-crime-app-concerns-helpful-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MIT Technology Review

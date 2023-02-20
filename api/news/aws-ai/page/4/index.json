@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-22-airtel-apollo-hospitals-and-aws-carry-out-indias-first-5g-driven-colonoscopy-trial.md",
+      "title": "Airtel, Apollo Hospitals and AWS carry out India’s first 5G-driven colonoscopy trial",
+      "excerpt": "Proving this fact, Bharti Airtel and Apollo Hospitals, along with HealthNet Global, AWS, and Avesha companies, have conducted India’s first 5G-driven, artificial intelligence (AI)-guided colonoscopy trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html",
+      "originalUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fonearena.com/blog/wp-content/uploads/2022/10/Airtel-5G-Plus.jpg",
+          "width": 574,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html/amp",
+      "cdnAmpWebUrl": "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/381372/airtel-apollo-hospitals-aws-5g-colonoscopy-trial.html/amp",
+      "publishedDateTime": "2022-12-22T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FoneArena",
+        "domain": "fonearena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-22-aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos.md",
       "title": "AWS Re:Invent 2022 Aims To Evolve Telcos Into Tech-Cos",
       "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend. The Amazon Web Services (AWS) re:Invent conference is decidedly back post-pandemic. He would like to share his insights into some of the more exciting telecom news and announcements that emerged from re:Invent.",
@@ -1352,51 +1395,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts.md",
-      "title": "Uber’s facial recognition is locking Indian drivers out of their accounts",
-      "excerpt": "Srikanth is far from the only worker in India who must interact with facial recognition technology. In addition to the country’s 600,000 Uber drivers, many others work for the homegrown ride-sharing platform Ola and for startups such as Swiggy, Zomato, and Urban Company. All ask their platform workers to upload selfies for logins or verifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
-      "originalUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/12/Adnan-Taqi2.jpg?w=3000",
-          "width": 3000,
-          "height": 1832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
-      "publishedDateTime": "2022-12-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AWS AI"
       ]
     }
   ],

@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Size, Share and Forecast 2028 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Fintech Market\" Report covers specified competitive outlook consisting of the market proportion and company ..."
+    publishedDateTime: 2023-02-20T12:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence (AI) in Oil and Gas Market\" 2023 which"
     publishedDateTime: 2023-02-17T03:38:00Z
@@ -418,6 +432,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Devices Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Facial Recognition Devices Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions, Company profiles ..."
+    publishedDateTime: 2023-02-20T09:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2028-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
   - title: "Automatic Speech Recognition (ASR) Software Market Size and Trends [2023-2029] | Grow Rate, Top Countries Data | Expert Report by Absolute Reports"
     excerpt: "Global “Automatic Speech Recognition (ASR) Software Market” research gives data of drive consolidations and securing procedures to grow market share and size for forecast period of 2023-2029. Report additionally furnishing industrial business with ..."
     publishedDateTime: 2023-02-16T18:25:00Z

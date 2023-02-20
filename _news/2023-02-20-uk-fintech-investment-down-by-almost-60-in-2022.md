@@ -57,20 +57,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "These 2 Fintech Stocks Are Back in the Money"
-    excerpt: "Yet CEO Dave Girouard believes that Upstart's advanced technology, improved modeling to take advantage of AI, and more-diverse data set that now incorporates some periods of economic slowdown have put it in a better position for 2023 and beyond."
-    publishedDateTime: 2023-02-15T23:35:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/15/these-2-fintech-stocks-are-back-in-the-money/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/720997/loan-discussion-gettyimages-482134861.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Fintech at Cornell Welcomes Ripple as Newest Sponsor"
     excerpt: "The Cornell SC Johnson College of Business is pleased to announce Ripple, the leading provider of enterprise blockchain and crypto solutions, as the newest sponsor of the"
     publishedDateTime: 2023-02-16T21:05:00Z

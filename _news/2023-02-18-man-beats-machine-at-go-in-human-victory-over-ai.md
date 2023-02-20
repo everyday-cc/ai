@@ -34,6 +34,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "A human has beat an AI in possibly the most complex board game ever"
+    excerpt: "Kellin Pelrine exploited a vulnerability in his opponent's training to win all but one of their games together."
+    publishedDateTime: 2023-02-20T16:12:00Z
+    webUrl: "https://www.pcgamer.com/a-human-has-beat-an-ai-in-possibly-the-most-complex-board-game-ever/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/KiTdFc9Qt6aMnToNMEwZ3D-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZRBzZ2QBX15RiO3THUQNauJNeCJakSURSB7S2LG5FTAvyKFCvZCwcSxPry8JZkkex2XH50HoDm2+8/yJbz0BArwyUlipWBX/2aiFLDcKH7HAP5Sk1GyjTFnoJGAWJ8qy20S9r57yCMyf0ayTIY8dDnrocUEX5CxxRCoGVR6NrU6L4NkB/FTLB2UTb2HtebffJre4AKcRheqdyiOq6JwxodOeshPxg5BscxZusBKsUiNCDcG4X0RC0o38lV5i+mkJO5ZinElTRdXpabDLcZYOv7oR8sgkVyyBfUX+b5sDbp6kHHMdqat3foxd6ksI1FGlr98Q/XvBpt+YctN5ASMF/xWdXMifrj7SRWPcRZeFmxrUHrkKVZXYlGdLTfA/wrcnB052AJUvxIfKjfJxRdLd4LpP+CUbA2MWFnJynuuCTZHCZsjZxMJxQUUBRQs9BqS8KFsy2+46EldglR6W3XbAAuvS9QyZDrktwDEP5NyIKQKNO39xnJbVj3OcaUNbyq4lkJizbwPzJ6Xu2h1bkLblQQ==;NJJLlQMenD6v+prRM+sRwA=="
 ---

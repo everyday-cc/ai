@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T13:52:00Z
 originalUrl: "https://www.medindia.net/news/can-artificial-intelligence-detect-covid-19-by-listening-to-cough-sounds-210567-1.htm"
 webUrl: "https://www.medindia.net/news/can-artificial-intelligence-detect-covid-19-by-listening-to-cough-sounds-210567-1.htm"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Medindia

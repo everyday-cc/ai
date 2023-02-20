@@ -528,6 +528,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "No, I didn’t test the new Bing AI chatbot last week. Here’s why | The AI Beat"
+    excerpt: "I’m not just another journalist writing a column about how I spent last week trying out Microsoft Bing’s AI chatbot. No, really. I’m not another reporter telling the world how Sydney, the internal code name of Bing’s AI chat mode, made me feel all ..."
+    publishedDateTime: 2023-02-20T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/no-i-didnt-test-the-new-bing-ai-chatbot-last-week-heres-why-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
+  - title: "Enterprise hits and misses - Microsoft changes their spin on ChatGPT for search, while enterprise uses for Metaverse and generative AI get real"
+    excerpt: "Microsoft changes their positioning on ChatGPT for search. No surprises here - but the pursuit of enterprise use cases is worthwhile. Plus: time to revisit the enterprise Metaverse. Your whiffs include cheating on AI ethics exams - and data backups for Valentine's day."
+    publishedDateTime: 2023-02-20T15:34:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 40
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess.jpg"
+        width: 425
+        height: 283
+        isCached: true
   - title: "Microsoft Bing AI claims to be able to watch webcams & hack devices"
     excerpt: "The AI-powered search engine era is here, and Microsoft was the first to kick start it with their reveal of OpenAI-powered Bing and Edge on February 7. Fans quickly flooded the waitlist in an attempt to gain access to the new features, with many reporting ..."
     publishedDateTime: 2023-02-16T13:37:00Z

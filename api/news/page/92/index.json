@@ -2,73 +2,64 @@
   "page": 92,
   "value": [
     {
-      "path": "_news/2022-11-02-3-ways-ai-is-scaling-helpful-technologies-worldwide.md",
-      "title": "3 ways AI is scaling helpful technologies worldwide",
-      "excerpt": "I was first introduced to neural networks as an undergraduate in 1990. Back then, many people in the AI community were excited about the potential of neural networks, which were impressive, but couldn’t yet accomplish important, real-world tasks. I was excited, too! I did my senior thesis on using parallel",
+      "path": "_news/2022-12-05-aws-reinvent-2022-round-up-data-management-ai-compute-take-centre-stage.md",
+      "title": "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage",
+      "excerpt": "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake.",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/ways-ai-is-scaling-helpful/",
-      "originalUrl": "https://blog.google/technology/ai/ways-ai-is-scaling-helpful/",
+      "webUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
+      "originalUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T19:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
+      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
+      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_neural_network_hero-02.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-how-ai-brings-the-power-of-concierge-investing-to-the-masses.md",
-      "title": "How AI brings the power of concierge investing to the masses",
-      "excerpt": "Arta Finance, an AI-powered mixture of a concierge service and an active fund manager, launched this week from private beta.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-brings-the-power-concierge-investing-to-the-masses/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-brings-the-power-concierge-investing-to-the-masses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/market-e1667344675502.jpg?w=1200&strip=all",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 801,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,471 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-brings-the-power-concierge-investing-to-the-masses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-brings-the-power-concierge-investing-to-the-masses/amp/",
-      "publishedDateTime": "2022-11-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-has-fetterman-been-tested-for-cognitive-impairment-voters-have-a-right-to-know.md",
-      "title": "Has Fetterman Been Tested for Cognitive Impairment? Voters Have a Right to Know.",
-      "excerpt": "Or did his stroke leave him with serious cognitive impairment? If his stroke damaged his ability to hear and speak but not to think, many voters might not care. After all, if Fetterman were deaf ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aei.org/op-eds/has-fetterman-been-tested-for-cognitive-impairment-voters-have-a-right-to-know/",
-      "originalUrl": "https://www.aei.org/op-eds/has-fetterman-been-tested-for-cognitive-impairment-voters-have-a-right-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Enterprise Institute",
-        "domain": "aei.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-the-next-generation-of-ai-automated-underwriting.md",
-      "title": "Zest AI Secures Growth Capital from Fintech Investors, Strategic Partners, and Customers to Advance the Next Generation of AI-Automated Underwriting",
-      "excerpt": "Zest AI plans to use the new funding to rapidly expand ... To learn more about its Discovery Fund, supporting diversity in fintech, visit here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29521634/zest-ai-secures-growth-capital-from-fintech-investors-strategic-partners-and-customers-to-advance-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29521634",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29521634",
-      "publishedDateTime": "2022-11-02T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-new-onestream-research-finds-economic-disruption-continues-to-pose-the-largest-threat-to-business.md",
-      "title": "New OneStream Research Finds Economic Disruption Continues to Pose the Largest Threat to Business",
-      "excerpt": "This is significantly fewer than predicted both last fall and earlier this year. With AutoML technology poised to reduce the barriers to adoption of machine learning in organizations, half of all financial decision – makers say their organizations plan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/new-onestream-research-finds-economic-disruption-continues-to-pose-the-largest-threat-to-business/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/new-onestream-research-finds-economic-disruption-continues-to-pose-the-largest-threat-to-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-amp-robotics-raises-91-million-in-series-c-financing.md",
-      "title": "AMP Robotics Raises $91 Million in Series C Financing",
-      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing",
-      "originalUrl": "https://www.businesswire.com/news/home/20221102005209/en/AMP-Robotics-Raises-91-Million-in-Series-C-Financing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-openai-will-give-roughly-10-ai-startups-1m-each-and-early-access-to-its-systems.md",
-      "title": "OpenAI will give roughly 10 AI startups $1M each and early access to its systems",
-      "excerpt": "The size of the largest AI startup financing rounds doesn't necessarily correlate with revenue, given the enormous expenses (personnel, compute, etc.) involved in developing state-of-the-art AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/openai-roughly-10-ai-startups-190028423.html",
-      "originalUrl": "https://www.aol.com/news/openai-roughly-10-ai-startups-190028423.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/OhC34B4QrsWD6UYua2z6eA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTI-/https://media.zenfs.com/en/techcrunch_350/440d0f7dd8576d8a2c5c9c8c28c74e52",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics.md",
-      "title": "MIT and MIT-IBM Watson AI Lab help machines see better using spatial acoustics",
-      "excerpt": "Researchers at MIT and MIT-IBM Watson AI Lab have created a technique that allows machines to better perceive their immediate environment. This is done using a machine-learning model that accurately captures the way sound interacts with an environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/11/MIT-Research-Sound.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mit-and-mit-ibm-watson-ai-lab-help-machines-see-better-using-spatial-acoustics-9435971.html/amp",
-      "publishedDateTime": "2022-11-02T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-artificial-intelligence-in-security-market-to-grow-by.md",
-      "title": "Artificial Intelligence in Security Market to grow by",
-      "excerpt": "The artificial intelligence in security market size is expected to grow by USD 16.23 billion during 2021-2026, progressing at a CAGR of 26.84% during the forecast period. 33% of the market growth will originate from Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-security-market-grow-usd-1623-bn-/2022/11/02/9704163.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1933693/Technavio_Global_Artificial_Intelligence.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-tesla-reluctantly-gave-full-self-driving-beta-demo-to-dmv-and-critics.md",
-      "title": "Tesla reluctantly gave Full Self-Driving Beta demo to DMV and critics",
-      "excerpt": "Tesla reluctantly gave a Full Self-Driving Beta demonstration to the California DMV and some critics that the automaker didn't want present.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
-      "originalUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/02/fsd-pole.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/",
-      "publishedDateTime": "2022-11-02T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-singapore-startup-looks-to-shine-light-on-solar-energy-affordability.md",
-      "title": "Singapore startup looks to shine light on solar energy affordability",
-      "excerpt": "Solar AI Technologies hopes its \"rent-to-own\" service will help drive the installation of solar panels amongst households in the country, where adoption of the renewable energy remains low due to hefty upfront costs and lack of confidence it can be an alternative power source.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-startup-looks-to-shine-light-on-solar-energy-affordability/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-startup-looks-to-shine-light-on-solar-energy-affordability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/00a8136dae1619a0e11302a83e00862fcce16f0d/2022/09/07/e997fa0a-1fbb-45cd-b1d3-276d612e3b02/zdnet-footer-background-2022-mobile.png?auto=webp&fit=cover&height=2048&width=750",
-          "width": 750,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-startup-looks-to-shine-light-on-solar-energy-affordability/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-startup-looks-to-shine-light-on-solar-energy-affordability/",
-      "publishedDateTime": "2022-11-02T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry.md",
-      "title": "U.S. Export Control - Impact And Opportunity For China's Semiconductor Industry",
-      "excerpt": "According to its SEC filing, Nvidia (NVDA), the California-based graphics and AI chip leader, will be unable to sell its A100 and H100 AI chips to the fast-growing data center businesses of China.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4551864-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry",
-      "originalUrl": "https://seekingalpha.com/article/4551864-us-export-control-impact-and-opportunity-for-chinas-semiconductor-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1422453682/image_1422453682.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-beyond-dashboards-the-future-of-analytics-and-business-intelligence.md",
-      "title": "Beyond Dashboards: The Future Of Analytics And Business Intelligence?",
-      "excerpt": "We have become accustomed to dashboards and data reports in our modern, data-driven businesses. However, the question is whether there are better ways to connect people with the insights they need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6362212a73ae471fe027c5a2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/11/02/beyond-dashboards-the-future-of-analytics-and-business-intelligence/amp/",
-      "publishedDateTime": "2022-11-02T00:51:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -563,26 +92,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-11-02-retail-technology-gains-intelligence-from-computer-vision.md",
-      "title": "Retail technology gains intelligence from computer vision",
-      "excerpt": "This is where artificial intelligence (AI) and computer vision come into play, enabling cashless checkout and stock management. Cameras and sensors have been used by a number of enterprises in recent years to detect things and ring them up,",
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
       "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/retail-technology-gains-intelligence-from-computer-vision/",
-      "originalUrl": "https://bestgamingpro.com/retail-technology-gains-intelligence-from-computer-vision/",
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/11/Computer-vision-brings-intelligence-to-retail-tech.png",
-          "width": 600,
-          "height": 365,
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -592,278 +121,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T00:33:00-07:00",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-medica-2022-artificial-intelligence-method-allows-personalised-diagnosis-of-back-problems-in-future.md",
-      "title": "Medica 2022: Artificial intelligence method allows personalised diagnosis of back problems in future",
-      "excerpt": "Back problems are generally regarded as a widespread disease Finding the exact cause of these problems is often difficult. A team of researchers from",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/226766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/055ada53-6efa-4e28-a4e9-7fc8860f3760-xpertsvar20logo.jpg",
-          "width": 260,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-02T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport.md",
-      "title": "Waymo's Self-Driving Cars Are Now Taking Riders To The Phoenix Airport",
-      "excerpt": "Waymo, the company that specializes in self-driving car tech and that first existed as an ambitious Google project, has announced yet another major milestone in the world of autonomous driving: paid airport trips. As of November 1, 2022, some people have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/",
-      "originalUrl": "https://www.slashgear.com/1081772/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/waymos-self-driving-cars-are-now-taking-riders-to-the-phoenix-airport/l-intro-1667350825.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-artificial-intelligence-in-healthcare-market-worth-674-billion-global-forecast-2027.md",
-      "title": "Artificial Intelligence in Healthcare Market worth $67.4 Billion – Global Forecast 2027",
-      "excerpt": "[252 Pages Report] The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% The industry participants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29514257/artificial-intelligence-in-healthcare-market-worth-67-4-billion-global-forecast-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-by-Ecosystem.jpg",
-          "width": 606,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29514257",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29514257",
-      "publishedDateTime": "2022-11-01T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-1811-ai-the-metaverse-and-the-documentary-approach-to-photography.md",
-      "title": "18.11 - AI, the metaverse and the documentary approach to photography",
-      "excerpt": "Francesco Anselmi Born in 1984 in Milan, Francesco Anselmi lives between Italy and the United States. He graduated from the International Center of Photography in NYC, receiving the New York Times ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022",
-      "originalUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vogue.com/photos/635991903861f2604c305806/master/pass/GRAFICHE%20ARTICOLI9.jpg",
-          "width": 7555,
-          "height": 8850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022/amp",
-      "cdnAmpWebUrl": "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022/amp",
-      "publishedDateTime": "2022-11-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vogue",
-        "domain": "vogue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-machine-learning-or-automation-whats-the-difference.md",
-      "title": "Machine Learning or Automation: What’s the Difference?",
-      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-researchers-corroborate-the-importance-of-exercise-for-cognitive-function.md",
-      "title": "Researchers corroborate the importance of exercise for cognitive function",
-      "excerpt": "A special issue of Brain Plasticity presents new research and insights on neural plasticity and the role of peripheral factors in cognitive health. At least a dozen peripheral factors have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221102/Researchers-corroborate-the-importance-of-exercise-for-cognitive-function.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221102/Researchers-corroborate-the-importance-of-exercise-for-cognitive-function.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/87802400-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
+        "name": "BGR",
+        "domain": "bgr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -878,64 +140,21 @@
       ]
     },
     {
-      "path": "_news/2022-11-02-argo-ai-a-self-driving-tech-company-with-offices-in-austin-is-shutting-down-operations.md",
-      "title": "Argo AI, a self-driving tech company with offices in Austin, is shutting down operations",
-      "excerpt": "Argo AI, a company that had been testing autonomous vehicles in Austin, is shutting down. According to a report by KVUE's news partners at the Austin American-Stateman, the company is being absorbed by two of its biggest supporters,",
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
-      "originalUrl": "https://www.kvue.com/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kvue.com/assets/KVUE/images/b0f511de-1e3e-488c-8d76-b76f56eecd46/b0f511de-1e3e-488c-8d76-b76f56eecd46_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/argo-ai-self-driving-austin-shut-down/269-b2655e2f-c1b1-4472-943b-448760c9338d",
-      "publishedDateTime": "2022-11-01T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-synthesis-ai-releases-new-products-for-human-centric-computer-vision-models.md",
-      "title": "Synthesis AI Releases New Products for Human-Centric Computer Vision Models",
-      "excerpt": "Synthesis AI, a leading company in synthetic data technologies, has announced the release of two new products for the development of advanced human-centric computer vision models. The two products, called Synthesis Humans and Synthesis Scenarios,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/synthesis-ai-releases-new-products-for-human-centric-computer-vision-models/",
-      "originalUrl": "https://www.unite.ai/synthesis-ai-releases-new-products-for-human-centric-computer-vision-models/",
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/cb:QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/11/get-started-quickly-1440x900-1.jpg.jpg",
-          "width": 1000,
-          "height": 600,
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -943,13 +162,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T15:30:00-07:00",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -959,26 +178,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-11-02-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-on-kxm-body-worn-edge-processor.md",
-      "title": "Tomahawk Robotics Successfully Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor",
-      "excerpt": "Tomahawk Robotics, a leading innovator of common control solutions, is pleased to share we have successfully hosted Microsoft Azure SDK on our KxM edge device, a body-worn Kinesis Ecosystem extension to provide processing and network management at the edge.",
+      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
+      "title": "Sudbury plays host to FIRST robotics competition",
+      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
+      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1935465/Tomahawk_Robotics_KxM.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
+          "width": 1020,
+          "height": 596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -986,13 +205,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T14:33:00-07:00",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "publishedDateTime": "2022-12-04T09:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1003,77 +222,25 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-metas-ai-powered-audio-codec-promises-10x-compression-over-mp3.md",
-      "title": "Meta’s AI-powered audio codec promises 10x compression over MP3",
-      "excerpt": "Meta announced an AI-powered audio compression method called \"EnCodec\" that can reportedly compress audio 10 times smaller than the MP3 format at 64kbps with no loss in quality. Meta says this technique could dramatically improve the sound quality of speech on low-bandwidth connections,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/encodec_hero_2-800x451.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/amp/",
-      "publishedDateTime": "2022-11-01T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2022-11-02-self-driving-truck-firm-tusimple-face-probes-over-china-ties.md",
-      "title": "Self-Driving Truck Firm TuSimple Face Probes Over China Ties",
-      "excerpt": "U.S. government regulators are investigating whether self-driving trucking company, TuSimple, defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. The company has fired its CEO as part of its ...",
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C",
-      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C",
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "http://images.wsj.net/im-656515?width=1280&height=720",
-          "width": 1280,
-          "height": 720,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1081,16 +248,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T13:13:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1106,10 +273,10 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Ethics",
         "AI"
       ]
     }
   ],
-  "nextPage": 93
+  "nextPage": null
 }

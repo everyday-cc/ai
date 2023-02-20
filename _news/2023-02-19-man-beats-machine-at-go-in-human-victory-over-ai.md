@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/02/man-beats-mac
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "A human has beat an AI in possibly the most complex board game ever"
+    excerpt: "Kellin Pelrine exploited a vulnerability in his opponent's training to win all but one of their games together."
+    publishedDateTime: 2023-02-20T16:12:00Z
+    webUrl: "https://www.pcgamer.com/a-human-has-beat-an-ai-in-possibly-the-most-complex-board-game-ever/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/KiTdFc9Qt6aMnToNMEwZ3D-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Man beats machine at Go in human victory over AI"
     excerpt: "A human player has comprehensively defeated a top-ranked AI system at the board game Go, in a surprise reversal of the 2016 computer victory that was seen as a milestone in the rise of artificial intelligence. Kellin Pelrine, an American player who is one ..."
     publishedDateTime: 2023-02-17T21:00:00Z

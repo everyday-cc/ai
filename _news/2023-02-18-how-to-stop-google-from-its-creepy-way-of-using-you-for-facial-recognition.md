@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/how-stop-google-creepy-way-using-you-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-google-creepy-way-using-you-facial-recognition.amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Review launched into rules governing facial recognition data"
-    excerpt: "A government panel is considering whether stricter rules are needed for companies that handle facial recognition data. The Personal Information Protection Commission (PIPC) is mulling new ..."
-    publishedDateTime: 2023-02-15T23:59:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14508024"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/33ad-p/picture/26551601/841e78f590d1ac87d0500ebc876f4573.jpg"
-        width: 660
-        height: 437
-        isCached: true
 
 secured: "1LWCeWv/48El55fY8vFLo5xyciTSJmUmA01jMejAV8h+3uWC3ufoZf8H71mwgn2YWgIejroZkwCR7ZQAaDJGjncHSq+sQEfve8r7W2qZ5l97SsoHHEdDFTtRS9AYZcksaeRO4NQtdrvAUsZIg0OEWya2Gx/f41C4ng3M3m/RnZIVGzwb2ujTWSemMh0ZTEfhW4oWQ509z5zt9CBjSZ3wTnnakOLwRnlb3YfHXs+Lygg1+u4DC94AxWAE9BoX2IoobflBHTH4fcj9DhMpj1nO0xVH7wzWQf9deVZLJXtWl93ZTZDtiAUg0BDa2tozbkznWklxs0rR3VnzPzRhK6aIS7LOvSqr8OypssAqI7tA7ohsPFWaha7jv0fkac5/YQBu5ddpBYG/y2h0sC8soTXaSLUvXAc7QsP/U01f/5GJaca4xC3lD1o3M4rvoyY/j+ktbXzbyV3Gxd18dcbctvAv+k32vNUm3lNPs5XFXlrQ8+Ry3bRDGgUK84v/XYoHIFVQ4I0ecUoIluadiLqx5+XnAw==;y55KCn02+j1hemXEoNMh/w=="
 ---

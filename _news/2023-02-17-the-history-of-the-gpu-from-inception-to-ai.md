@@ -21,7 +21,7 @@ topics:
 related:
   - title: "The History of the GPU: From Inception to AI"
     excerpt: "The GPU has gone from an esoteric semiconductor of interest to gamers and CAD designers to a part of everyone’s daily life. It powers our smartphones, automobiles, virtual and augmented reality, video games, and AI training. Where did these ubiquitous ..."
-    publishedDateTime: 2023-02-16T14:10:00Z
+    publishedDateTime: 2023-02-16T13:01:00Z
     webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/the-history-of-the-gpu-from-inception-to-ai"
     type: article
     provider:

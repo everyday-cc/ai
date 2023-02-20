@@ -91,35 +91,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT AI robots writing church sermons causing hell for pastors"
-    excerpt: "‘I can’t do everything I’m supposed to do,’ and start passing ideas off as their own.” Hershael York, the Kentucky pastor and professor, said some of the greatest sermons contain elements of anguish. “Artificial intelligence can imitate that to ..."
-    publishedDateTime: 2023-02-17T21:55:00Z
-    webUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/"
-    ampWebUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
+  - title: "ChatGPT Likely Helped Student Cheat in Ethics Course About Artificial Intelligence"
+    excerpt: "He believes one of his students used ChatGPT to produce an essay that he then attempted to pass off as his own in class – essentially using artificial intelligence to cheat in Green’s course on ‘Ethics in Artificial Intelligence.’ “The irony is ..."
+    publishedDateTime: 2023-02-16T23:51:00Z
+    webUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/"
+    ampWebUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 70
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/ai-preaching.gif?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "The AI Arms Race Is Changing Everything"
-    excerpt: "Now we have company. While you’re reading this sentence, artificial intelligence (AI) programs are painting cosmic portraits, responding to emails, preparing tax returns, and recording metal songs. They’re writing pitch decks, debugging code ..."
-    publishedDateTime: 2023-02-16T12:00:00Z
-    webUrl: "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
+      - url: "https://media.nbcbayarea.com/2023/02/Generic-Students.png?resize=1200%2C675&quality=85&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Explained: How ChatGPT is sparking AI 'gold rush' in Silicon Valley"
     excerpt: "ChatGPT has become one of the fastest growing apps ever since its secret release in late November, prompting Microsoft and Google to rush out projects that had previously been kept under wraps due to"
@@ -169,6 +155,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Monetizing Generative AI ChatGPT Via Embedded Product Placement Ads, Anguishing AI Ethics And AI Law"
+    excerpt: "Some are proposing that generative AI such as ChatGPT should include embedded product placement ads, thus a seemingly suitable form of monetizing. Others are dismayed and shocked at the idea. Here's the deal."
+    publishedDateTime: 2023-02-20T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/20/monetizing-generative-ai-chatgpt-via-embedded-product-placement-ads-anguishing-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Bolster Your Job Search Endeavors Via Generative AI ChatGPT, Abiding By AI Ethics And AI Law Provisions"
     excerpt: "Few seem to realize that they can prudently use generative AI such as ChatGPT to aid in their job searches. It is easy, if you know what to do and what to watch out for. Read this to find out."
     publishedDateTime: 2023-02-17T13:00:00Z
@@ -202,20 +197,6 @@ related:
       - url: "https://images.indianexpress.com/2023/02/How-ChatGPT-can-help-you-boost-your-business.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "AI on AI: Cardio Journal Editor Interviews ChatGPT"
-    excerpt: "The artificial intelligence chatbot ChatGPT is creeping into medicine, so the editor-in-chief of a cardiology journal takes it out for a test drive, speculating on the role of AI translational medicine."
-    publishedDateTime: 2023-02-15T23:37:00Z
-    webUrl: "https://www.medscape.com/viewarticle/988341"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 41
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/ht_230215_chatgpt_translational_scientist_800x450.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "NVIDIA CEO Jensen Huang comments on ChatGPT and artificial intelligence"
     excerpt: "The NVIDIA CEO spoke at Berkeley Haas University's Dean's Speaker series, where he said that the adoption of artificial intelligence speaks for itself, as OpenAI's ChatGPT has already amassed 100 ..."
@@ -258,6 +239,34 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2023/02/18/1336890-h.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "ChatGPT Can Do What?! 10 Things You Should Try With AI"
+    excerpt: "Artificial intelligence caught the world’s attention with the rise of ChatGPT. It wowed everyone by writing children’s books to scientific journals within minutes. However, this generative"
+    publishedDateTime: 2023-02-20T03:43:00Z
+    webUrl: "https://technology.inquirer.net/121528/chatgpt-can-do-what-10-things-you-should-try-with-ai"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/02/ChatGPT-uses-featured-image-beincrypto.com_-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Rise of AI: Google wrestles OpenAI's ChatGPT in a no holds Bard match"
+    excerpt: "With the release of OpenAI's ChatGPT in November 2022, the development of chatbots using AI has gained prominence in recent years."
+    publishedDateTime: 2023-02-20T14:49:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-google-openai-chatgpt-bard"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/19/image/jpeg/EQsHtM59KSC1bPtE66DFmZkuQZ7lmOP5IiofajTH.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AI pioneers say ChatGPT, Bing and Bard will push creativity, take over mundane jobs so that humans can do better"
     excerpt: "“Microsoft has been introducing AI into products like Word and Excel, and then into the cloud computing environments such as Azure for a long time. This edition of ChatGPT into [Bing] is just an extension of that,” the technology pioneer tells ..."
@@ -345,6 +354,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "People are using AI bots like ChatGPT to work side hustles and earn thousands of dollars — check out these 6 hot freelancing gigs"
+    excerpt: "Her book \"Show Me What AI Can Do!\" is available on Amazon for $2.99. Overdubbing videos in other languages Streaming companies like Netflix and content creators on YouTube and TikTok are turning to voice dubbers to translate their videos into more ..."
+    publishedDateTime: 2023-02-16T11:40:00Z
+    webUrl: "https://www.businessinsider.com/list-6-generative-ai-side-hustles-to-boost-your-income-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
   - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
     excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
     publishedDateTime: 2023-02-16T13:42:00Z

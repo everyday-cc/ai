@@ -2,6 +2,221 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-11-fintech-bytes-investcloud-55ip-and-broadridge.md",
+      "title": "Fintech Bytes: InvestCloud, 55ip and Broadridge",
+      "excerpt": "In this week's fintech news, InvestCloud partners with 55ip, Broadridge partners with Point Local, and Opto partners with Merchant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investmentnews.com/fintech-bytes-investcloud-55ip-and-broadridge-233936",
+      "originalUrl": "https://www.investmentnews.com/fintech-bytes-investcloud-55ip-and-broadridge-233936",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32566.pcdn.co/wp-content/uploads/2023/01/technology-web.jpg.optimal.jpg",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestmentNews",
+        "domain": "investmentnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-tcs-hyderabad-engineers-working-on-3-prototype-driverless-cars.md",
+      "title": "TCS Hyderabad engineers working on 3 prototype driverless cars",
+      "excerpt": "TCS is incorporating special features in these cars which are ideal for Indian roads. Artificial intelligence (AI) is also integrated into self-driving cars to simulate decision-making processes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
+      "originalUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/10/w600X390/driverless.JPG",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
+      "publishedDateTime": "2023-02-10T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-microsoft-has-plans-to-shove-its-bing-ai-into-word-powerpoint-and-more.md",
+      "title": "Microsoft Has Plans to Shove Its Bing AI Into Word, PowerPoint, and More",
+      "excerpt": "as the company demoed its AI-powered Viva Sales system last week. The company said in the demo that the “Azure Open AI” can generate a draft based on the type of response a user requests. Microsoft Viva Sales generative AI experience The new Bing ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/microsoft-bing-ai-powerpoint-word-prometheus-1850098510",
+      "originalUrl": "https://gizmodo.com/microsoft-bing-ai-powerpoint-word-prometheus-1850098510",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/62b32458baf04667c8754071c866f6f3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-ai-robotics-venture-fair-from-carnegie-mellon-university-and-innovation-works-returns-for-2023.md",
+      "title": "AI Robotics Venture Fair from Carnegie Mellon University and Innovation Works returns for 2023",
+      "excerpt": "The annual AI Robotics Venture Fair from Carnegie Mellon University and Innovation Works Inc., the region's largest seed-stage startup investment firm, now has a set date for this year's event, which looks to offer funding opportunities to budding enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/02/10/ai-robotics-venture-fair-returns-cmu-iw.html",
+      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/02/10/ai-robotics-venture-fair-returns-cmu-iw.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-new-artificial-intelligence-being-used-to-plagiarize-upstate-professor-says.md",
+      "title": "New artificial intelligence being used to plagiarize, Upstate professor says",
+      "excerpt": "WHO COULD POSSIBLY SEE THAT SNOW FLYING AROUND? CHRIS, THANKS. NEW ARTIFICIAL INTELLIGENCE IS MAKING CHEATING EVEN EASIER, BUT MAKING IT HARDER TO DETECT, ACCORDING TO EXPERTS AND UPSTATE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wyff4.com/article/south-carolina-artificial-intelligence-plagiarism/42818119",
+      "originalUrl": "https://www.wyff4.com/article/south-carolina-artificial-intelligence-plagiarism/42818119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/121c8786-db3e-449b-9f20-83aaa6f5cf3c/121c8786-db3e-449b-9f20-83aaa6f5cf3c_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wyff4.com/amp/article/south-carolina-artificial-intelligence-plagiarism/42818119",
+      "cdnAmpWebUrl": "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/south-carolina-artificial-intelligence-plagiarism/42818119",
+      "publishedDateTime": "2023-02-10T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WYFF",
+        "domain": "wyff4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-11-understanding-and-debugging-deep-learning-models-exploring-ai-interpretability-methods.md",
       "title": "Understanding and Debugging Deep Learning Models: Exploring AI Interpretability Methods",
       "excerpt": "Subscribe for free. Deep learning models can be very complex and understanding their internals can be challenging There are several methods of providing interpretability in machine learning To ...",
@@ -932,250 +1147,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-microsofts-ai-powered-bing-can-now-write-cover-letters-and-it-shows-how-fast-the-technology-is-evolving.md",
-      "title": "Microsoft's AI-powered Bing can now write cover letters, and it shows how fast the technology is evolving",
-      "excerpt": "Microsoft's new AI-enabled Bing search engine has a new take on the ethics of helping job applicants write cover letters. Microsoft rolled out the souped-up Bing search engine on Tuesday. On Wednesday, I asked Bing to write a cover letter for the position ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-bing-ai-search-job-cover-letter-chatgpt-ethics-tech-2023-2",
-      "originalUrl": "https://www.businessinsider.com/microsoft-bing-ai-search-job-cover-letter-chatgpt-ethics-tech-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63e475cd96242f0019e816ac?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-bing-ai-search-job-cover-letter-chatgpt-ethics-tech-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-bing-ai-search-job-cover-letter-chatgpt-ethics-tech-2023-2?amp",
-      "publishedDateTime": "2023-02-10T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-top-ai-startup-news-of-the-week-theres-more-to-ai-than-just-microsoft-and-google.md",
-      "title": "Top AI startup news of the week: There’s more to AI than just Microsoft and Google",
-      "excerpt": "There are those who might feel as though modern AI is some form of magic. While that’s not the technical truth, there is at least one startup that is hoping to bring a little magic to the world ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-theres-more-to-ai-than-just-microsoft-and-google/",
-      "originalUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-theres-more-to-ai-than-just-microsoft-and-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1203833695-e1676053235658.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-theres-more-to-ai-than-just-microsoft-and-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-theres-more-to-ai-than-just-microsoft-and-google/amp/",
-      "publishedDateTime": "2023-02-10T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
-      "title": "Object Recognition Imaging Systems Market Size 2023 With Presentation Outlook, Horizontal Viewpoint, Global View",
-      "excerpt": "Feb 10, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | In This Reports Object Recognition Imaging Systems Market and its business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-02-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-02-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T00:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-week-in-review-auto-security-pervasive-computing.md",
-      "title": "Week In Review: Auto, Security, Pervasive Computing",
-      "excerpt": "Ansys expanded its simulation offerings and computer-aided engineering (CAE) tools on Microsoft Azure with Ansys Access on Microsoft Azure, a browser-based connection for customers needing to access high-performance computing during design.",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/week-in-review-auto-security-pervasive-computing-154/",
-      "originalUrl": "https://semiengineering.com/week-in-review-auto-security-pervasive-computing-154/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/Blue-Numbers-AdobeStock_87781321-02-25-21-scaled.jpeg",
-          "width": 2560,
-          "height": 1809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T00:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-totogi-launches-innovative-churn-prediction-service.md",
-      "title": "Totogi Launches Innovative Churn Prediction Service",
-      "excerpt": "Totogi, the leading provider of public cloud-based SaaS software for telcos, announced the release of its innovative Churn Prediction Service. This cutting-edge service utilizes machine learning (ML) to accurately predict impending subscriber churn,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/30347-totogi-launches-innovative-churn-prediction-service",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/30347-totogi-launches-innovative-churn-prediction-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/2dab7730abdc754d1f0998eb0fa31a36.jpg?t=20230210_060126",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6256108/artificial-intelligence-artist/"
 webUrl: "https://time.com/6256108/artificial-intelligence-artist/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 256
     height: 256
     isCached: true
+
+related:
+  - title: "Music’s problem with AI training may not be the one you expect"
+    excerpt: "We’ve seen a fair amount of sabre-rattling in the music industry in recent weeks as a follow-on from this, with rightsholders warning creative musical AI startups not to follow suit. “The industry needs to be paid and our artists need to be paid based on the AIs that are learning off their music,"
+    publishedDateTime: 2023-02-20T12:10:00Z
+    webUrl: "https://musically.com/2023/02/20/musics-problem-with-ai-training-may-not-be-the-one-you-expect/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 17
 
 secured: "csuP1r0Eh3iCdIJWqUHwFMoIOI4nCEzxMjv6jXFwbWMH4iHTOsebxAonuiV8ji+SGeyWMrzmEHIZXigUS+IGS+RS1IczMD4EfSBgVZSyfc6Bn5TU4BGfQTTH2LKmY4wWp8/UZUssjLVpSwdhA6BSbOvINRrOP1QDyGN3Y+P/sd0vNWcxz4ft/M0k7dmZNSsZv9F3g9mo/FIf69NStvwcpm/aI69vuITY41XJP6btQv5x9HCgwvDZR1q+xzi5LvjwjldPIWqN7KJDePks1/W1aW35WUhjZ60kbW1FwPvIypPnfC6rIXQw+OoIb6AhGC9LG5R6on+GEcw6FCPB/ejy0L5AF0KqYLi6nqN/z+/aKJp+F1e4eIAAd4GMiUon5WfUcmpjDr8bl3oFl08e2qg+Af7riokdwEizkXQlcoHXkPuUWFo9bHhqnO0garfuwweNqLAONOknKs57Byw5pxYeIWqn11uyp0UXbT2yqppmm8TGdGfDZb2c8i7ivUBUN1/aesOCiDgm0jXY3YfjqLevUA==;wrf/z/IuaQsKitFu6pI0TA=="
 ---

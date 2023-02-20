@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hybrid Voice Recognition System Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
-    excerpt: "Precision Reports has published a detailed report on “ Hybrid Voice Recognition System Market \" 2023 which has been categorized by Market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2023-02-17T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7ChNXvFDRxT0bGzRghT9ZsM+dYgES4FpZ9cronR7JjAc8Lw5R8xd7uz3DA+iaZQFkzNnQ+UtAfJmPyACcVpSD1Cs6qe1VH50Jo48PLQuyuBdjFdztHls6lsbl3IHb40zIZ0V8NN2lQaUqsl4l4egHxnqdXWpZAyvOlDyn/sVsVoXG4fTpMUpTmoKnidTnbbIUpa+S+4ceuZ00r5dKWBxv6rRDmzR+YtEXiWH0pass8HXhpQ9km0l7Sb29+/Y1hP1DnJjd9kL9xIxR4Ks/vVGM2sk7aLE2CrWy5ogoVz8gspY4M4f/dHtWjCUrNZ+JanGDcPXhh58GcJh6RHzm7x+ItPsZsq5X0IXlibnrVis5kg=;lP7Q/M+jIBH4h5tBzwyiFg=="
 ---

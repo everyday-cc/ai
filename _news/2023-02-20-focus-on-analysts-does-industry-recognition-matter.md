@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T09:08:00Z
 originalUrl: "https://www.itweb.co.za/content/Pero3qZ3BNrvQb6m"
 webUrl: "https://www.itweb.co.za/content/Pero3qZ3BNrvQb6m"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: ITWeb

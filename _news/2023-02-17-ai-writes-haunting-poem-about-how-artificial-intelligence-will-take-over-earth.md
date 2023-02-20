@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-17T06:37:00Z
 originalUrl: "https://www.tweaktown.com/news/90391/ai-writes-haunting-poem-about-how-artificial-intelligence-will-take-over-earth/index.html"
 webUrl: "https://www.tweaktown.com/news/90391/ai-writes-haunting-poem-about-how-artificial-intelligence-will-take-over-earth/index.html"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:

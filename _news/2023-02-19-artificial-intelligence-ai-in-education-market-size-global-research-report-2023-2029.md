@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19"
 type: article
 quality: 92
-heat: 402
+heat: 422
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Size, Share and Forecast 2028 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Fintech Market\" Report covers specified competitive outlook consisting of the market proportion and company ..."
+    publishedDateTime: 2023-02-20T12:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -412,6 +426,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Devices Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Facial Recognition Devices Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions, Company profiles ..."
+    publishedDateTime: 2023-02-20T09:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2028-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
   - title: "Latest Survey on \"Artificial Intelligence Software Market\" Trend 2023-2028, Updated Report With 126 Pages"
     excerpt: "Report Highlights:- \"The global Artificial Intelligence Software market size was valued at USD 16978.67 million in 2022"
     publishedDateTime: 2023-02-16T15:48:00Z

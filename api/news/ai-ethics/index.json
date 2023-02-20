@@ -607,6 +607,41 @@
       ]
     },
     {
+      "path": "_news/2023-02-09-report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare.md",
+      "title": "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare",
+      "excerpt": "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029.md",
       "title": "Data and AI Ethics Market Future Trends Demand 2023 and Forecast to 2029",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2023 (The Expresswire) -- Latest \"Data and AI Ethics Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (BFSI, Government and Defense ...",
@@ -1292,49 +1327,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-clickbait-or-creativity-the-art-world-wrestles-with-ai.md",
-      "title": "Clickbait Or Creativity? The Art World Wrestles With AI",
-      "excerpt": "Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in popularity, sparking soul-searching over the nature of art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "originalUrl": "https://www.barrons.com/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP3449580022236755445739987449664002665713-us-art-basel-miami-beach-vip-preview-2021-1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "publishedDateTime": "2023-01-31T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

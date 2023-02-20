@@ -28,7 +28,7 @@ related:
   - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
     excerpt: "A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in"
     publishedDateTime: 2023-02-17T15:06:00Z
-    webUrl: "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
+    webUrl: "https://omaha.com/lifestyles/health-med-fit/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
     type: article
     provider:
       name: Omaha.com

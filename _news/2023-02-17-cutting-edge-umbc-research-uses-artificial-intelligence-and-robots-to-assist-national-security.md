@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/cutting-edge-umbc-researc
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Researchers aim to bring humans back into the loop as AI use and misuse rises"
+    excerpt: "Artificial intelligence is dominating headlines—enabling new innovations that drive business performance—yet the negative implications for society are an afterthought."
+    publishedDateTime: 2023-02-20T15:06:00Z
+    webUrl: "https://techxplore.com/news/2023-02-aim-humans-loop-ai-misuse.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-aim-humans-loop-ai-misuse.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-aim-humans-loop-ai-misuse.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
 
 secured: "erpvgAvIbbaFQGol7h3/JgTPoz4LvLQd/Xiyy1+Gz6J5i4QVHzEyePI70L/ydziq42kdD9mCkwZM7278s/oDrtWo8TAEGax2Qsr2AJ1yIt0MrF7Uwap+wyFT0328pXPtOhPa4kz/fw8axof8p3xAfGftd5Ou/+ajqkXqPnk2hz3vwrFNfuEMSlSxJZ/B0enbf0HlBd0AecHMaIRlac+LEto5nmgrh3nJ62Nn3UiYA1JZGyx/n7ojpuaSUkvJGAjzLdmrU4mAj4BY/XGzm8Tv8sO2tIjWCQfYMIJ48Nfl6zzF9Gjbd5V2MyOnzRuY7IO27by5TIZ/V6vbPkOYUb1ICggopJdZj2P81kRoSKArDRiT1dbdLFXC22Lr3z/K4nth5Ow/DlES5QngjCR7eln07hEUoMX+6WFOJ8yhcO0otwKbwP/oNiPKLckd68yLAmfinB6Et5NhV4tPlxLHLI44o2Tnf/JW+jOx1/2aQiwecCnXq/+Y9LTHPZ+W4Ocgw/P6QR+1HtOmpmo2jInquD2h7A==;eD4EtecoMZ9Aw0UE+on7nw=="
 ---

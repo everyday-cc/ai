@@ -28,14 +28,14 @@ related:
   - title: "Expert: Crashes involving self-driving cars often due to inattention"
     excerpt: "The reason for many crashes involving self-driving technology, says former NHTSA adviser Missy Cummings, is, \"When you encourage people to go hands-free, people will take extended periods of time and"
     publishedDateTime: 2023-02-18T14:07:00Z
-    webUrl: "https://www.stltoday.com/news/national/video_658f6b55-5a3e-56cc-b1d7-f1750ca53114.html"
+    webUrl: "https://madison.com/partners/cnn/expert-crashes-involving-self-driving-cars-often-due-to-inattention/video_9707f047-0262-5d49-b82e-0b0a06f18adc.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Madison.com
+      domain: madison.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
         width: 256
         height: 256
         isCached: true

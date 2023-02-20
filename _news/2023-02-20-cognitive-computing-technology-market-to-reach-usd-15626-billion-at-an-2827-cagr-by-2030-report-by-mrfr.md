@@ -1,0 +1,42 @@
+---
+category: news
+title: "Cognitive Computing Technology Market To Reach USD 156.26 Billion at an 28.27% CAGR by 2030 - Report by MRFR"
+excerpt: "Market Analysis Growing Need for Cognitive Technology based on Cloud Platform to Boost Cognitive Computing Technology Market Growth. The global cognitive computing"
+publishedDateTime: 2023-02-20T13:37:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/g30977023/cognitive-computing-technology-market-to-reach-usd-156-26-billion-at-an-28-27-cagr-by-2030-report-"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/g30977023/cognitive-computing-technology-market-to-reach-usd-156-26-billion-at-an-28-27-cagr-by-2030-report-"
+ampWebUrl: "https://www.benzinga.com/amp/content/30977023"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30977023"
+type: article
+quality: 25
+heat: 25
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+related:
+  - title: "Cognitive Computing Technology Market To Reach USD 156.26"
+    excerpt: "Market Analysis Growing Need for Cognitive Technology based on Cloud Platform to Boost Cognitive Computing Technology Market Growth. The global cognitive computing technology market will touch USD 156."
+    publishedDateTime: 2023-02-20T14:49:00Z
+    webUrl: "https://vietreader.com/business/globe-newswire/76342-cognitive-computing-technology-market-to-reach-usd-15626.html"
+    type: article
+    provider:
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 4
+
+secured: "UwMCap4EmXmH2Je0rLTigDpHecq24ZkxaZMbDeZnluHSOYSyFkHex3IWY/ZyqJwpHa3PH5JgBgJAOeqD6SPGJVFveXoxQ8aoqr2aVJyXBzDundLSkh+E3kwpdKBHCWbuOp0Z57BHcfUh7xUQ2jaN7CZALHNMxX2pmXuH4sSyG/eXPRgC4UR+6AhJ7DGqVsxqIAnMWU5KPT1kvn1RTgK2RmWqEnxOn5PveTR8C7vr1uRFA+dSL+aBH0/zFEzxhAiX4LwBLzXXkCtXhSpqmkU84KUhY/jlte0thRnpQQ1fsRJxgu3fTwCDV28Uj0df3Vg8NNfZo0OAinesuuM1bR2QtbFPlWBJ2xPy1WuuVVbrJlM=;pfu2nucQ8qEbaSmzbuQxYg=="
+---
+

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T10:30:00Z
 originalUrl: "https://www.theguardian.com/crosswords/crossword-blog/2023/feb/20/chatgpt-can-artificial-intelligence-create-crosswords?amp;amp;amp"
 webUrl: "https://www.theguardian.com/crosswords/crossword-blog/2023/feb/20/chatgpt-can-artificial-intelligence-create-crosswords?amp;amp;amp"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Guardian

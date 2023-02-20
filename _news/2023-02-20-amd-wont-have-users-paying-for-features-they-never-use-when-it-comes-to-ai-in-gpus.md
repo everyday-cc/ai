@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T13:19:00Z
 originalUrl: "https://www.pcgamer.com/amd-ai-gpu-acceleration/"
 webUrl: "https://www.pcgamer.com/amd-ai-gpu-acceleration/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: PC Gamer

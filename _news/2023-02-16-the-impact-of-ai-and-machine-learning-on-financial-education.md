@@ -7,7 +7,7 @@ originalUrl: "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-fi
 webUrl: "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 900
     height: 601
     isCached: true
+
+related:
+  - title: "Using AI to unlock the mystery of El Nino's impact on droughts and floods"
+    excerpt: "For centuries, fishermen in Peru have noticed a connection between warmer than usual ocean waters—what is now known as the El Niño phenomenon—and droughts and floods on land."
+    publishedDateTime: 2023-02-20T13:59:00Z
+    webUrl: "https://phys.org/news/2023-02-ai-mystery-el-nino-impact.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 16
 
 secured: "HOKuReAiLP6C8E5zPMba8izoupD/5RzBqFVZhoRqHIWYcP0ina9B+j4lX0ObwsKrMMF9Rdc3uEK+UAy3h8WhqEBjmZ1lequyhsZuDXcmJOsUp+kq9PbDq1k5b7L+fWtExTCtSiwiOCjBsiQ4Zphrs173MOUujGZ7x15GNvog4QJ9kb5rI6DihE9crc86ADVv2/mmLmOMXYyacQ5GvO6naI8z5QNN5nLsDvRcnX7jEu7E6k4M1cz2DYJPsoSaHfogOiBh0pTx/wpU3xPJ/MJgqb+reMOLMrVpg4fRghe/uaz/yjREQq0esP67bCNO2NlA2t6xsXJibjENhNU6pjx/lrjMLyLSEH3XzIH+TtOH6tA=;pg3xEmiaW0YwI5li6EPTTw=="
 ---

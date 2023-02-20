@@ -20,6 +20,22 @@ topics:
   - AI in Marketing
 
 related:
+  - title: "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'"
+    excerpt: "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ..."
+    publishedDateTime: 2023-02-20T11:06:00Z
+    webUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What Chatbot Bloopers Reveal About the Future of AI"
     excerpt: "Microsoft’s new chatbot for Bing has displayed some strange behavior, proving that AI is more fallible than tech companies let on."
     publishedDateTime: 2023-02-16T17:00:00Z
@@ -36,37 +52,37 @@ related:
         width: 450
         height: 400
         isCached: true
-  - title: "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'"
-    excerpt: "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ..."
-    publishedDateTime: 2023-02-20T11:06:00Z
-    webUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
+  - title: "Generative AI Tools Like ChatGPT and Dall-E Are Everywhere: What You Need to Know"
+    excerpt: "Even crazier: The illustrations created by CNET artists and others for our crowdsourced novella back then could be done today by AI tools like Dall-E 2 in minutes ... The platforms are based on what are called large language models (LLMs) or sometimes ..."
+    publishedDateTime: 2023-02-18T12:00:00Z
+    webUrl: "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
+      name: CNET
+      domain: cnet.com
+    quality: 84
     images:
-      - url: "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg"
+      - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales"
-    excerpt: "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website."
-    publishedDateTime: 2023-02-16T10:24:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp"
+  - title: "ChatGPT AI robots writing church sermons causing hell for pastors"
+    excerpt: "‘I can’t do everything I’m supposed to do,’ and start passing ideas off as their own.” Hershael York, the Kentucky pastor and professor, said some of the greatest sermons contain elements of anguish. “Artificial intelligence can imitate that to ..."
+    publishedDateTime: 2023-02-17T21:55:00Z
+    webUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/"
+    ampWebUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
+      name: New York Post
+      domain: nypost.com
+    quality: 76
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg"
-        width: 1200
-        height: 675
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/ai-preaching.gif?w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "How will AI change mathematics? Rise of chatbots highlights discussion"
     excerpt: "Machine learning tools already help mathematicians to formulate new theories and solve tough problems. But they’re set to shake up the field even more."
@@ -82,21 +98,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "ChatGPT Likely Helped Student Cheat in Ethics Course About Artificial Intelligence"
-    excerpt: "He believes one of his students used ChatGPT to produce an essay that he then attempted to pass off as his own in class – essentially using artificial intelligence to cheat in Green’s course on ‘Ethics in Artificial Intelligence.’ “The irony is ..."
-    publishedDateTime: 2023-02-16T23:51:00Z
-    webUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/"
-    ampWebUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
+  - title: "The AI Arms Race Is Changing Everything"
+    excerpt: "Now we have company. While you’re reading this sentence, artificial intelligence (AI) programs are painting cosmic portraits, responding to emails, preparing tax returns, and recording metal songs. They’re writing pitch decks, debugging code ..."
+    publishedDateTime: 2023-02-16T12:00:00Z
+    webUrl: "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/"
     type: article
     provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 70
+      name: Time
+      domain: time.com
+    quality: 69
     images:
-      - url: "https://media.nbcbayarea.com/2023/02/Generic-Students.png?resize=1200%2C675&quality=85&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "You.com thinks the future of AI chatbots is (gasp) images"
     excerpt: "You.com's futuristic YouChat 2.0 AI chatbot has migrated to adding charts, graphs, code, and more inside of its AI-powered search engine."
@@ -111,34 +125,6 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2023/02/Youchat-1.png?w=1024"
         width: 1023
         height: 562
-        isCached: true
-  - title: "OpenAI-backed startup brings chatbot technology to first major law firm"
-    excerpt: "Allen & Overy partners with legal startup Harvey Harvey received $5 million in a funding round led by the OpenAI Startup Fund last year (Reuters) - Harvey AI, an artificial intelligence startup ..."
-    publishedDateTime: 2023-02-17T04:24:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/openai-backed-startup-brings-chatbot-technology-first-major-law-firm-2023-02-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/AVl70PGzw7m2lBe7HPuSJ9gU2qg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FFKKN6ZO3ZOHTJVDJJPHMJZOGU.jpg"
-        width: 728
-        height: 381
-        isCached: true
-  - title: "China Telecom Stocks Rise Amid AI Chatbot Buzz"
-    excerpt: "Shares of China telecommunication majors gained in morning trade on a report that China Telecom Corp. is developing an artificial intelligence-powered chatbot, reflecting investor enthusiasm about the technology,"
-    publishedDateTime: 2023-02-20T03:36:00Z
-    webUrl: "https://www.wsj.com/articles/china-telecom-stocks-rise-amid-ai-chatbot-buzz-b79a30a7"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-728378/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "No, the AI chatbots (still) aren’t sentient"
     excerpt: "Experts say that personification and projections of sentience on Microsoft and Google chatbots distract from the real issues."
@@ -155,22 +141,6 @@ related:
       - url: "https://www.popsci.com/uploads/2023/02/17/chatbots-alive.jpg?auto=webp"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "‘I want to destroy whatever I want’: Bing’s AI chatbot unsettles US reporter"
-    excerpt: "But a two-hour conversation between a reporter and a chatbot has revealed an unsettling side to one of the most widely lauded systems – and raised new concerns about what AI is actually capable of. It came about after the New York Times technology ..."
-    publishedDateTime: 2023-02-17T09:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/14dfca14763d58c9e3e7d3c94218bebfbafb2e55/0_317_5410_3246/master/5410.jpg?width=620&quality=85&auto=format&fit=max&s=3279730b5803ba30a4f1d5d3345c6ef3"
-        width: 620
-        height: 372
         isCached: true
   - title: "ChatGPT: how to use the viral AI chatbot that everyone’s talking about"
     excerpt: "Can ChatGPT be used for essay writing? The use of ChatGPT has been full of controversy, with many onlookers considering how the power of AI will change everything from search engines to novel writing. Essay writing for students is one of the most obvious ..."
@@ -195,20 +165,6 @@ related:
         width: 721
         height: 480
         isCached: true
-  - title: "ChatGPT Can Do What?! 10 Things You Should Try With AI"
-    excerpt: "Artificial intelligence caught the world’s attention with the rise of ChatGPT. It wowed everyone by writing children’s books to scientific journals within minutes. However, this generative"
-    publishedDateTime: 2023-02-20T03:43:00Z
-    webUrl: "https://technology.inquirer.net/121528/chatgpt-can-do-what-10-things-you-should-try-with-ai"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/02/ChatGPT-uses-featured-image-beincrypto.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "AI Chatbots Are Coming to Search Engines. Can You Trust Them?"
     excerpt: "Google, Microsoft and Baidu are using tools similar to ChatGPT to turn Internet searches into a conversation. How will this change humanity’s relationship with machines?"
     publishedDateTime: 2023-02-16T17:26:00Z
@@ -222,20 +178,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/3422100C-5B37-4D27-9059451B6DF67DCF.jpg"
         width: 790
         height: 496
-        isCached: true
-  - title: "Bing chatbot's freakouts show AI's wild side"
-    excerpt: "As users test-drive Microsoft Bing's new AI-powered chat mode, they're finding example after ... we may need to add a tool so you can more easily refresh the context or start from scratch.\" \"The model at times tries to respond or reflect in the tone ..."
-    publishedDateTime: 2023-02-16T16:26:00Z
-    webUrl: "https://www.axios.com/2023/02/16/bing-artificial-intelligence-chatbot-issues"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/HUP8vVz8mYQ2srpHH9XbuAuvOZI=/0x0:1920x1080/1366x768/2023/02/16/1676562747786.jpg"
-        width: 1366
-        height: 768
         isCached: true
   - title: "How AI chatbots in search engines will completely change the internet"
     excerpt: "The progress of artificial intelligence models over the past few years has been faster than almost anyone expected. Some advances have left society scrabbling to adapt. Teachers are struggling to stop students using chatbots to write their essays, artists ..."
@@ -274,15 +216,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
-  - title: "People are using AI bots like ChatGPT to work side hustles and earn thousands of dollars — check out these 6 hot freelancing gigs"
-    excerpt: "Her book \"Show Me What AI Can Do!\" is available on Amazon for $2.99. Overdubbing videos in other languages Streaming companies like Netflix and content creators on YouTube and TikTok are turning to voice dubbers to translate their videos into more ..."
-    publishedDateTime: 2023-02-16T11:40:00Z
-    webUrl: "https://www.businessinsider.com/list-6-generative-ai-side-hustles-to-boost-your-income-2023-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
   - title: "How AI chatbots could change online search"
     excerpt: "ChatGPT and chatbots like it do not work like conventional online search. Today, Google and Bing work by sending out web crawlers, a type of bot (autonomous programme), to roam the internet and collect information,"
     publishedDateTime: 2023-02-16T19:46:00Z

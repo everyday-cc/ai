@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/driverless-car-market-20
 webUrl: "https://www.marketwatch.com/press-release/driverless-car-market-2028-by-product-type-end-user-capacity-and-geography-2023-02-19"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon’s self-driving unit Zoox puts driverless taxi on the road"
-    excerpt: "Zoox, Amazon’s self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the ridesharing population. Just like a customer could call an ..."
-    publishedDateTime: 2023-02-15T23:22:00Z
-    webUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
     excerpt: "Zoox, Amazon's self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the"
     publishedDateTime: 2023-02-18T16:56:00Z
@@ -57,14 +46,14 @@ related:
   - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
     excerpt: "Zoox deployed a fleet of Toyota Highlanders, equipped with the same software and hardware that power its robotaxis. Unlike the robotaxi, the Highlanders have a steering wheel, ped"
     publishedDateTime: 2023-02-20T11:15:00Z
-    webUrl: "https://richmond.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_bafdb78c-b0a3-5527-aa82-f7242d546c06.html"
+    webUrl: "https://omaha.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_1443e73c-b1a1-52e7-920d-992115803e30.html"
     type: article
     provider:
-      name: Richmond
-      domain: richmond.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/b/af/bafdb78c-b0a3-5527-aa82-f7242d546c06/63f1b9d8a4381.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/44/1443e73c-b1a1-52e7-920d-992115803e30/63f1b9d5b6105.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

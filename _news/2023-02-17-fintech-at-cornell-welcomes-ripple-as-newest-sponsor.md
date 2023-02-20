@@ -59,20 +59,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "These 2 Fintech Stocks Are Back in the Money"
-    excerpt: "Yet CEO Dave Girouard believes that Upstart's advanced technology, improved modeling to take advantage of AI, and more-diverse data set that now incorporates some periods of economic slowdown have put it in a better position for 2023 and beyond."
-    publishedDateTime: 2023-02-15T23:35:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/15/these-2-fintech-stocks-are-back-in-the-money/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/720997/loan-discussion-gettyimages-482134861.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "UK FinTech investment down by 'almost 60%' in 2022"
     excerpt: "Investment in the UK’s FinTech sector slumped by almost 60 per cent in 2022, according to new research. <br /> <br /> KPMG’s study found that 593 UK FinTech deals were completed in 2022, down from 724 in 2021,"
     publishedDateTime: 2023-02-20T12:38:00Z

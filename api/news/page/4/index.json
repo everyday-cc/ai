@@ -2,6 +2,216 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-16-microsoft-explains-bings-bizarre-ai-chat-behavior.md",
+      "title": "Microsoft explains Bing's bizarre AI chat behavior",
+      "excerpt": "Microsoft launched its Bing AI chat product for the Edge browser last week, and it's been in the news ever since — but not always for the right reasons. Our initial impressions were strong, as it offered up workout routines, travel itineraries and more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "originalUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 524,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/rmtgqK.dkZnoRLcvyngjAQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/31782c40-adf7-11ed-9dcf-98e346252060.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "publishedDateTime": "2023-02-16T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-ge-healthcare-makes-push-into-artificial-intelligence.md",
+      "title": "GE HealthCare Makes Push Into Artificial Intelligence",
+      "excerpt": "The company is developing a software platform that helps hospitals guide care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509",
+      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-718151/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools.md",
+      "title": "Artificial Intelligence Content: Marketing Friend Or Foe? Three Ways To Use AI Content Tools",
+      "excerpt": "Here are three benefits of getting into the AI content-generation game. Leverage AI as a starting point. If you’re like me, the worst part of writing is getting started. You aga",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/16/artificial-intelligence-content-marketing-friend-or-foe-three-ways-to-use-ai-content-tools/amp/",
+      "publishedDateTime": "2023-02-16T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-tech-trends-that-will-define-fintech-in-2023.md",
+      "title": "Tech Trends That Will Define Fintech In 2023",
+      "excerpt": "The first trend that will undoubtedly shape fintech's future is AI technology. AI and ML can revolutionize banking, payments, investments, risk management and more. AI is a broad term used to describe machines with the ability to perceive their environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ecef5f4ad1eeb2e6ed2985/0x0.jpg?format=jpg&width=1200",
+          "width": 1197,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/",
+      "publishedDateTime": "2023-02-16T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-the-impact-of-ai-and-machine-learning-on-financial-education.md",
       "title": "The Impact of AI and Machine Learning on Financial Education",
       "excerpt": "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help.",
@@ -10,7 +220,7 @@
       "originalUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -44,6 +254,50 @@
         "AI",
         "Machine Learning",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales.md",
+      "title": "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales",
+      "excerpt": "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
+      "originalUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/convertobot-reviews-ai-chatbot-social-media-platform-for-leads-and-sales-news-262655/amp",
+      "publishedDateTime": "2023-02-16T02:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -735,17 +989,17 @@
     {
       "path": "_news/2023-02-16-microsoft-will-incorporate-chatgpt-tech-into-azure-teams.md",
       "title": "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams",
-      "excerpt": "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine.",
+      "excerpt": "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ...",
       "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
-      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
+      "webUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
+      "originalUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://edtechmagazine.com/k12/k12/higher/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02",
+          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02",
           "width": 1440,
           "height": 500,
           "title": null,
@@ -755,8 +1009,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
+      "ampWebUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
       "publishedDateTime": "2023-02-15T12:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -966,257 +1220,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-these-three-tactics-can-outsmart-artificial-intelligence.md",
-      "title": "These Three Tactics Can Outsmart Artificial Intelligence",
-      "excerpt": "Are you excited or agitated by the non-stop artificial intelligence (AI) hype? If you are a student, you may be thinking that AI can be a time saver or an opportunity to gain a competitive academic advantage. If you're an instructor, the advent of AI means ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-02/0fjd125gk87_pixabay%20used%20with%20permission.jpg?itok=OYSqW6qw",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence?amp",
-      "publishedDateTime": "2023-02-15T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-only-9-of-americans-think-ai-development-will-do-more-good-than-harm.md",
-      "title": "Only 9% of Americans think AI development will do more good than harm",
-      "excerpt": "46% of respondents think that AI development will do about the same amount of good and harm, and 41% of people in the sample believe that the technology will ultimately do harm to society overall. Over half of Americans — 55%, according to the poll ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107191176-1675871046625-gettyimages-1246879777-raa-openaich230207_npTfk.jpeg?v=1676484288",
-          "width": 5054,
-          "height": 3675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html",
-      "publishedDateTime": "2023-02-15T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-chatgpts-popularity-may-lead-to-another-gpu-shortage.md",
-      "title": "ChatGPT’s Popularity May Lead to Another GPU Shortage",
-      "excerpt": "This high demand for GPUs to train AI models could lead to a shortage of graphics cards. Th last one caused by high demand from crypto-mining. The GPU shortage will probably only affect Nvidia card sales since they have the most advanced AI cores on the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/",
-      "originalUrl": "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/02/chatgpt-popularity-may-lead-to-another-gpu-shortage.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-waking-up-to-the-art-of-the-possible-in-artificial-intelligence.md",
-      "title": "Waking Up To The “Art Of The Possible” In Artificial Intelligence",
-      "excerpt": "The excitement about Chat GPT is “waking up” a non-technical business leaders to the vast potential of AI and Machine Learning (ML) to fuel new revenue and profit growth. This article profiles 20 financially viable use cases for AI in sales and marketing applications - and 6 keys to deploying them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ece0df87d17dd26b2ed0f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1163,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-15T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-solaris-setback-spells-trouble-for-european-fintech-scene.md",
-      "title": "Solaris Setback Spells Trouble For European Fintech Scene",
-      "excerpt": "For European fintech startups seeking to launch with a BaaS model ... Combining the increased competition with growing trends of AI and Web3, and the rise of Embedded Finance, B2C /SME fintechs and neobanks looking to be the next Lunar, Qonto, or PayHawk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/",
-      "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ecfebd2e820a093fed2987/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 845,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/amp/",
-      "publishedDateTime": "2023-02-15T03:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

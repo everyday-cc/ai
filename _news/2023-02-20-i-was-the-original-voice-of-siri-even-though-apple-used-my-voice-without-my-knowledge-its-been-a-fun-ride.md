@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T13:50:00Z
 originalUrl: "https://www.businessinsider.com/original-voice-of-siri-voice-actor-apple-used-her-voice-2023-2"
 webUrl: "https://www.businessinsider.com/original-voice-of-siri-voice-actor-apple-used-her-voice-2023-2"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Business Insider

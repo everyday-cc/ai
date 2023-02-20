@@ -2,6 +2,83 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-09-amex-microsoft-collaborate-on-expense-automation.md",
+      "title": "Amex, Microsoft Collaborate on Expense Automation",
+      "excerpt": "American Express is working with Microsoft to develop a more automated expense-reporting process built from Microsoft Cloud and AI technologies, the companies announced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
+      "originalUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ik.imgkit.net/3vlqs5axxjf/BTN/uploadedImages/2015_Site_Maintenance/BTN_OGImage.jpg?tr=w-1200%2Cfo-auto",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Travel News",
+        "domain": "businesstravelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-new-cognitive-research-shows-gaining-knowledge-and-achieving-mastery-comes-down-to-the-rule-of-7.md",
+      "title": "New Cognitive Research Shows Gaining Knowledge and Achieving Mastery Comes Down to the Rule of 7",
+      "excerpt": "Think you don't have the talent for entrepreneurship? For leadership? For programming, for design... for whatever pursuit you may want to, um, pursue? According to HubSpot co-founder Dharmesh Shah ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inc.com/jeff-haden/new-cognitive-research-shows-gaining-knowledge-achieving-mastery-comes-down-to-rule-of-7.html",
+      "originalUrl": "https://www.inc.com/jeff-haden/new-cognitive-research-shows-gaining-knowledge-achieving-mastery-comes-down-to-rule-of-7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T19:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inc",
+        "domain": "inc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities.md",
       "title": "Study says kids playing video games doesn’t affect cognitive abilities",
       "excerpt": "While parents might be concerned about the cognitive effects of letting children play video games, a study conducted by researchers at multiple universities indicated that video game play had ...",
@@ -1239,94 +1316,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text.md",
-      "title": "What Companies Are Fueling The Progress In Natural Language Processing? Moving This Branch Of AI Past Translators And Speech-To-Text",
-      "excerpt": "With the recent advancements in artificial intelligence, the natural language processing subset has been getting attention as this field has also seen significant improvements. We look at what companies are fueling the progress in natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/06/what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/06/what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T17:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-study-shows-how-sleep-deprivation-affects-cognitive-performance.md",
-      "title": "Study shows how sleep deprivation affects cognitive performance",
-      "excerpt": "Since brain plasticity and excitability depend on sleep, it could play a role in preventing diseases with cognitive deficits. Examples of such diseases are Alzheimer's disease, which is often ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/sleep-deprivation-affe.jpg",
-          "width": 1500,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deprivation-affects-cognitive.amp",
-      "publishedDateTime": "2023-02-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-11-heisenberg-robotics-debuts-lawnmeister-autonomous-all-in-one-lawn-care-robot-at-ces-2023.md",
+      "title": "Heisenberg Robotics Debuts LawnMeister™ Autonomous All-in-One Lawn Care Robot at CES 2023",
+      "excerpt": "LawnMeister H1 is the first plug and play robotic lawnmower providing multiple lawn care features including autonomous mowing, edge trimming,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/heisenberg-robotics-debuts-lawnmeister-autonomous-all-in-one-lawn-care-robot-at-ces-2023-1032010886",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/heisenberg-robotics-debuts-lawnmeister-autonomous-all-in-one-lawn-care-robot-at-ces-2023-1032010886",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1981120/image1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T18:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-heisenberg-robotics-debuts-lawnmeistertm-autonomous-all-in-one-lawn-care-robot-at-ces-2023.md",
       "title": "Heisenberg Robotics Debuts Lawnmeistertm Autonomous All-In-One Lawn Care Robot At CES 2023'",
       "excerpt": "LawnMeister H1 is the first plug and play robotic lawnmower providing multiple lawn care features including autonomous mowing, edge trimming, lea",
@@ -1242,58 +1294,6 @@
         "name": "AlphaGalileo",
         "domain": "alphagalileo.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies.md",
-      "title": "Artificial Intelligence Robotics Market Growth and Key Dynamics 2023-2027 | Opportunities and Challenges, Top Regions and Emerging Technologies",
-      "excerpt": "New Research on “Artificial Intelligence Robotics Market” Report 2023 provides distinguishes and intelligence analysis on industry growth revenue, size, share and future trends. The report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies-2023-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies-2023-01-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
