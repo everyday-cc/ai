@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19"
 type: article
 quality: 92
-heat: 382
+heat: 392
 published: true
 
 provider:
@@ -230,6 +230,20 @@ related:
     excerpt: "Insights] Top “Automated Data Science and Machine Learning Platforms Market” Size 2023 Key players Profiled in"
     publishedDateTime: 2023-02-19T13:20:00Z
     webUrl: "https://www.marketwatch.com/press-release/automated-data-science-and-machine-learning-platforms-market-size-global-research-report-2023---2029-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Is Booming Worldwide | Including Latest 111 Pages Report"
+    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Marketsize, segment (mainly coveringMajorType (, Artiï¬ cial Neural Networks, Machine Learning, Other, ,),End Users (, Inventory Control and Planning, Transportation Network Design, Purchasing ..."
+    publishedDateTime: 2023-02-20T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2023-is-booming-worldwide-including-latest-111-pages-report-2023-02-19"
     type: article
     provider:
       name: MarketWatch

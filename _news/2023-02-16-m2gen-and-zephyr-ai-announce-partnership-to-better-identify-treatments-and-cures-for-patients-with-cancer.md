@@ -33,6 +33,15 @@ related:
         width: 2080
         height: 1203
         isCached: true
+  - title: "Artificial intelligence is akin to crypto in 2021 as the sector is facing investor hype, says founder of tech investment firm"
+    excerpt: "Artificial intelligence is being fueled by a wave of investor hype, according to Bedrock founder Geoff Lewis. In an interview with CNBC on Thursday, he said that investor excitement surrounding AI ..."
+    publishedDateTime: 2023-02-16T16:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-stocks-outlook-trading-investing-hype-fueling-shares-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "KN09HTnEtXPYZTguL7AUVoedIbKo3OJ6QjR96w28CNkGrwxj46cbIjhwprv5zhf5Tu5wDFCJw0qq98y5R1phKw4UJuiPpN3GfLaZIPBiu46ebEPl08gc0EvT2Y6tzDJgN1yHN5LmS1X5jt7JCjMcFIAl/klyG6xgYvI5WqR1c4sehjtK59+CXmv6IFcX2TKIFDUvADS2FH7y0Am9R3XCTy/sh3rGqHT+GFaGxjMOZNEuRwFjKT9pGwFTZP4Ohzw0n2UDc5nxuZht6S3wyEJ8IUyiV0y8kOpckdACLs6Um1sADoAsHdTl9WLF8IdUMt+CwMSVtJplhmuNOQLbAVxMs9M3MGXG+Swup7DgrkDTJPw=;m9HqTNWIbRGbWgWZR6YysA=="
 ---

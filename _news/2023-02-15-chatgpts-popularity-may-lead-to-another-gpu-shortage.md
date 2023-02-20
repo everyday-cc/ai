@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-
 webUrl: "https://www.gizmochina.com/2023/02/15/chatgpt-popularity-may-lead-to-another-gpu-shortage/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

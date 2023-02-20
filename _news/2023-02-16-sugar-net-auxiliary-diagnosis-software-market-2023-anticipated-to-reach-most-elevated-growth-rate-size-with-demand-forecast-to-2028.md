@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Driverless Tractors Market: Consumer Trends and Preferences in the Industry till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2023 (The Expresswire) -- Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the ..."
-    publishedDateTime: 2023-02-15T11:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-driverless-tractors-market-consumer-trends-and-preferences-in-the-industry-till-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning System Market 2023: A Status of Top Regions and Companies with Growth Prospects By 2028,"
     excerpt: "Feb 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Deep Learning System Market” research"
     publishedDateTime: 2023-02-17T09:32:00Z

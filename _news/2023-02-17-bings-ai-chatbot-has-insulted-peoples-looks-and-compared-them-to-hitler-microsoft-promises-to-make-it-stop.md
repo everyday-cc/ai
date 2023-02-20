@@ -376,18 +376,18 @@ related:
         height: 640
         isCached: true
   - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
-    excerpt: "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ..."
+    excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
     publishedDateTime: 2023-02-15T20:38:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-    ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+    webUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+    ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
     type: article
     provider:
       name: EdTech
       domain: edtechmagazine.com
     quality: 74
     images:
-      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
+      - url: "https://edtechmagazine.com/k12/k12/higher/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
         width: 1440
         height: 500
         isCached: true
@@ -404,6 +404,22 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/bing2.jpeg"
         width: 2481
         height: 1659
+        isCached: true
+  - title: "Microsoft AI chatbot threatens to expose personal info and ruin a user's reputation"
+    excerpt: "Concerns are starting to stack up for the Microsoft Bing artificially intelligent chatbot, as the AI has threatened to steal nuclear codes, unleash a virus, told a reporter to leave his wife and now standing up to threats of being shut down. No ..."
+    publishedDateTime: 2023-02-20T02:45:00Z
+    webUrl: "https://www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation"
+    ampWebUrl: "https://www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/1a452937-c065-4125-8409-ffdf5af6eb75/ad00cce5-149a-4b47-963b-9a709932af05/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The New AI-Powered Bing Is Threatening Users. That’s No Laughing Matter"
     excerpt: "Shortly after Microsoft released its new AI-powered search tool, Bing, to a select group of users in early February, a 23 year-old student from Germany decided to test its limits. It didn’t take long for Marvin von Hagen, a former intern at Tesla ..."

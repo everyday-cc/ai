@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/media/artificial-intelligence-increase-foreign-
 ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts.amp"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "sNc6SCptOAYXPqwIaAPV5FkfXqHynhOwWKXbqBjiWvTK9tCKJQnbnkkzGOHCWbVlXefokl92qcOFJ/5ob+ovoRBJ82VLXiMJm/iDJsIQG28BKf061j9FtYQDlwp/qK7lDypr2ZIPfCblhVkN32KBDW16uUafdGLaUvxbQnA5HfjFAo6ax19e1NQsEsS2H4NFB0V5KUDOCCLlDA51zVJw7JauAChhFOsvucSrsJtU15D+lMMFMlFUjW8SMPDzt56bPS5lVOWSWmPFEoydjlDKDx+xe36Piz3bRz9pDCs5t9ctHGiGPfoEyMW4++GBmwwUGIE23qGKla3cdL9A/5q15EYE/TsJy9jDsgLwQQo1jQo=;oVZRye+/zSKNWo63CLCr7Q=="
+secured: "RWWwIhu+E09qPSS5vvmpoRjXqYH/PuUPWsptKb8Asq62VkpiQeKt+G0yeQ1RykaR2ZZsBB0Wmf8frt/DE39fBfRz4CdrP2GNUmwE/pUK+p6HJulH6FG6ulTAC+WQm9y2Cn8ki+Xc46z8vWPwIHl0zYdnIYYGAmvBGR44a8ZuRP7pAXqaqYh6Jsy3tZwLQfD7dHk1S98BGy1K5H+dZrSuRo7ApXu0h5DE0NYPnaCmR1vgXAU95cj0PygC7QHN+L1C+rqde8nsy6yPj8nmSo46zv9NArsZ/KZvl8pgoljg1t/JFgFSGTaFEBU5DThrbvesbFaJtg/i1Xx37iBvoW9UL85y59kJdtOR6lpUa31uSGOtLg8KKygOOlJklg0pjWc6U1UYnf2fAcwD/ZB/dcQEaf0i2Y+IosQyARJzjAeaEraXhrx6O3xm/b4DH4Seran623y52Bh8NeX3FnSy08LuJ10qbNbUZOscHJa6DvJAcPFubmBJYH8waQLA5I+3lnMS7E4zcjBx99sLtougAcPybw==;3mPzXsR2f5W2ix8TdwlE0w=="
 ---
 

@@ -253,6 +253,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Is Booming Worldwide | Including Latest 111 Pages Report"
+    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Marketsize, segment (mainly coveringMajorType (, Artiï¬ cial Neural Networks, Machine Learning, Other, ,),End Users (, Inventory Control and Planning, Transportation Network Design, Purchasing ..."
+    publishedDateTime: 2023-02-20T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2023-is-booming-worldwide-including-latest-111-pages-report-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2028"
     excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence (AI) in Fintech Market Report includes data on research and development,"
     publishedDateTime: 2023-02-16T04:47:00Z

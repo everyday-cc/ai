@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Outthinking Generative AI ChatGPT To Straighten Out Those Vexing AI Hallucinations, Advises AI Ethics And AI Law"
-    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
-    publishedDateTime: 2023-02-15T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ec652cea9d35758ecaa5d9/0x0.jpg?format=jpg&crop=1067,712,x2,y94,safe&width=1200"
-        width: 1067
-        height: 712
-        isCached: true
   - title: "ChatGPT AI robots writing church sermons causing hell for pastors"
     excerpt: "‘I can’t do everything I’m supposed to do,’ and start passing ideas off as their own.” Hershael York, the Kentucky pastor and professor, said some of the greatest sermons contain elements of anguish. “Artificial intelligence can imitate that to ..."
     publishedDateTime: 2023-02-17T21:55:00Z
@@ -366,6 +350,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "ReqJJrKfPc5pOQdfldo56glto8VbXvIA+m3NX0WF9HjGgslUqUuxUsfpk3oKoGt4EEAEk/YgxxBuUNDqNs93ZhnpbBM0UlhrXlA/UF/XKNb72p/icg+EwHCq1JuEUo3hMyNXRq8esJX7yBycXxdbZn7HAoco+Q3ojG/zba0MJKRsTMPzM4/nRkIfWKHbNDI537dsTIVBxhrD92T9LK9JiAKbeNh8LOzez5zw5BIbpCeaPCyu0dOzbaLPH2FwDBF50Ey9Mel4xCWwO5fmdGUXUX04gQtr3dxLc90VDwm8ijbSI49GPohPDzTzl9iObCYo2B1VxKL/7sn7M1RNklhoK/6cofmFb4XpAlXzw+rt0O8=;CYRvCvj4WQsbQSw8Da+vfw=="
+secured: "TTtoLmaoALy4w9XraQ7JySdWovOXF8c6mYU3J1xue2otEaDOBCQ7NQ0OcUU73eblRj3AXAuVOTJiixs2hrv6K9SOqW/nJeOZAjw5mf8lA7QxIWdzcE3EFrorM6DU8VHsezZsE0/orJ1PdIOB1Z0wlfgam6nXtlaq1//IALnpZGUocrnu3qtS13Sp8cvyGJ4EZ/KhwOHwvRwzTDy5olrbeFJreQr1Ly2mP6MV4YSWaGiRYnptNubjh5b43gfmCOx7OfGt18dg7GGIvocckl8H7hkmB6xCGiaLzGmBZy6kpbsW1slekuf29d+1QoehOVFTLoNDrFtzr4l9IKyNjaA5KTEz/RgPqdHxGhrDgrcUofqMr1+AI2AU2giYn7z+aLUXmdyNwShZNSYfazROCLhdu9QAZ02rTr6BERi2ADbeLPttFmskKRgD4ifM5Y64029Lb6QWcII3ZZv5caAXM0D5CZsCjuaBq4VP2scVRxOOtyr4Eks7oeKfzI2s3CEVaa6zx4yDIDN9E/hobtaD0Thv+w==;TRA4SAz13Nwh8t/Ji0RErQ=="
 ---
 

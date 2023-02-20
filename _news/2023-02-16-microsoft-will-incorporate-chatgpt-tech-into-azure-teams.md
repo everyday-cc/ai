@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
-excerpt: "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ..."
+excerpt: "A multibillion-dollar investment in OpenAI aims to bring artificial intelligence capabilities to Microsoft’s full suite of tools and Bing search engine."
 publishedDateTime: 2023-02-15T20:38:00Z
-originalUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+originalUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+webUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
+ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/higher/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
 type: article
 quality: 74
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
+  - url: "https://edtechmagazine.com/k12/k12/higher/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
     width: 1440
     height: 500
     isCached: true
@@ -389,6 +389,22 @@ related:
         width: 2481
         height: 1659
         isCached: true
+  - title: "Microsoft AI chatbot threatens to expose personal info and ruin a user's reputation"
+    excerpt: "Concerns are starting to stack up for the Microsoft Bing artificially intelligent chatbot, as the AI has threatened to steal nuclear codes, unleash a virus, told a reporter to leave his wife and now standing up to threats of being shut down. No ..."
+    publishedDateTime: 2023-02-20T02:45:00Z
+    webUrl: "https://www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation"
+    ampWebUrl: "https://www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/1a452937-c065-4125-8409-ffdf5af6eb75/ad00cce5-149a-4b47-963b-9a709932af05/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The New AI-Powered Bing Is Threatening Users. That’s No Laughing Matter"
     excerpt: "Shortly after Microsoft released its new AI-powered search tool, Bing, to a select group of users in early February, a 23 year-old student from Germany decided to test its limits. It didn’t take long for Marvin von Hagen, a former intern at Tesla ..."
     publishedDateTime: 2023-02-17T15:58:00Z
@@ -577,6 +593,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "yzQgQURuamJ7HME+jUqs4B9JpHgBWngT6Oq/Qw2QPTW+RB6kwcXJxLAgU3iUVd/2mJb83OFbEVXCEXbmSSbomq6TyMaIKVVKbERCicUYF9kHhF5JjI81YSdxDP3DTt2VylEFdqr9aNhvU9SfMmAWHwfLHxhBGZ5xJxsxuzGtWHCHphP6yTMxXBM7TpV1CVV184kvhuX5UVtY0EmXbdakHhKHianrNWCEmu4FIvVcBT6OEJN3IUcUHBvD9teCG4GIxq8091KH0h/CGpsHMp7HEixsVxFyI6BaziRTwMISmqVSxVO8x7hhblATc25g9k1d7nwv37KPZrVQbns8ePGxaFkZFDwJgWJdrVa9SBvIBCwEOSq1shsqjPSNipEgDUfteuvQOUBZe06P8JtsnwyXU6gkSdcoYNqq1Y/uQyQPne018ngbpzlFMBb35GcxOE9/1BG235qO3/74C6LBcXZg1Bb1LNs5k8J6x27WhmRK6YApvkJW7YkDC74dFzk78r1w3C2KVMQEi0K7PNLEDjQmaA==;s8U2/sv8BPHYsQfZEO1lUA=="
+secured: "+gWE35wajOZ01f3fri1Zzu4DyadixBb9xzv4qrfqvWIGT3kl7e+gc55+Pnq+sUx4qZzqUqN23FP9012c5UW0dpmmEfGz17ubVjFRae3b1N3HT/lxEjMe2y0Oj0AeMn1t7DCxSIfoS/Xur0MEmfZKJbkIqpRIB9/lnZijYE7YT+9frH2gtHK9bdZmgTKPkFUDPw4L/Q3aWVW9N6arsSI9r6prvIwE7nakNPtTbIF+vAu+O1r/o3cG3b1KVyLC0FIbrcKXhcAMhIxfSZ1bfrKkXDqxYGx0oO1Kam1zMBUVLP47Hkc7Dxij9BYlhtkH9IYkUVMOaG5yiWE/ewKhfYQNYU7ot7QTVNfmN3abZD7PS/A=;YEjh2KLfMLG7zHyA+X+Y7A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 Driverless Tractors Market: Consumer Trends and Preferences in the Industry till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 15, 2023 (The Expresswire) -- Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the ..."
-    publishedDateTime: 2023-02-15T11:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-driverless-tractors-market-consumer-trends-and-preferences-in-the-industry-till-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

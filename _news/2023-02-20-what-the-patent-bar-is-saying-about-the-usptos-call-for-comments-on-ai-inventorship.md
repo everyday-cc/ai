@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence is akin to crypto in 2021 as the sector is facing investor hype, says founder of tech investment firm"
+    excerpt: "Artificial intelligence is being fueled by a wave of investor hype, according to Bedrock founder Geoff Lewis. In an interview with CNBC on Thursday, he said that investor excitement surrounding AI ..."
+    publishedDateTime: 2023-02-16T16:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-stocks-outlook-trading-investing-hype-fueling-shares-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "M2GEN and Zephyr AI Announce Partnership to Better Identify Treatments and Cures for Patients with Cancer"
     excerpt: "M2GEN, a bioinformatics company accelerating discoveries in oncology research through industry-leading data and analytics, and Zephyr AI, Inc. (“Zephyr AI”), a company building novel transparent AI to address unmet needs across the full spectrum of precision medicine – from prevention to treatment – to improve patients’ lives,"
     publishedDateTime: 2023-02-16T10:29:00Z

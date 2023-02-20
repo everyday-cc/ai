@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-yo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-you-com-otter-and-more/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

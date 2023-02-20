@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China Telecom Stocks Rise Amid AI Chatbot Buzz"
+    excerpt: "Shares of China telecommunication majors gained in morning trade on a report that China Telecom Corp. is developing an artificial intelligence-powered chatbot, reflecting investor enthusiasm about the technology,"
+    publishedDateTime: 2023-02-20T03:36:00Z
+    webUrl: "https://www.wsj.com/articles/china-telecom-stocks-rise-amid-ai-chatbot-buzz-b79a30a7"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-728378/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "No, the AI chatbots (still) aren’t sentient"
     excerpt: "Experts say that personification and projections of sentience on Microsoft and Google chatbots distract from the real issues."
     publishedDateTime: 2023-02-17T16:30:00Z
@@ -169,6 +183,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202302/17/63eeb668a31057c4b4b5451f.jpeg"
         width: 721
         height: 480
+        isCached: true
+  - title: "ChatGPT Can Do What?! 10 Things You Should Try With AI"
+    excerpt: "Artificial intelligence caught the world’s attention with the rise of ChatGPT. It wowed everyone by writing children’s books to scientific journals within minutes. However, this generative"
+    publishedDateTime: 2023-02-20T03:43:00Z
+    webUrl: "https://technology.inquirer.net/121528/chatgpt-can-do-what-10-things-you-should-try-with-ai"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/02/ChatGPT-uses-featured-image-beincrypto.com_-620x349.png"
+        width: 620
+        height: 349
         isCached: true
   - title: "AI Chatbots Are Coming to Search Engines. Can You Trust Them?"
     excerpt: "Google, Microsoft and Baidu are using tools similar to ChatGPT to turn Internet searches into a conversation. How will this change humanity’s relationship with machines?"

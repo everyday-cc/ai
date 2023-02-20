@@ -1,0 +1,34 @@
+---
+category: news
+title: "Vanderbilt University Staff Apologized For Using AI To Write An Email To Students About The Shooting At Michigan State"
+excerpt: "At the bottom, a line reads “Paraphrase from OpenAI's ChatGPT AI language model, personal communication, February 15, 2023.” Nicole Joseph, the associate dean for the Office of Equity, Diversity, and Inclusion, apologized for using ChatGPT to write the ..."
+publishedDateTime: 2023-02-19T20:48:00Z
+originalUrl: "https://www.buzzfeednews.com/article/pocharaponneammanee/vanderbilt-email-chatgpt-ai-msu-shooting"
+webUrl: "https://www.buzzfeednews.com/article/pocharaponneammanee/vanderbilt-email-chatgpt-ai-msu-shooting"
+ampWebUrl: "https://www.buzzfeednews.com/amphtml/pocharaponneammanee/vanderbilt-email-chatgpt-ai-msu-shooting"
+cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pocharaponneammanee/vanderbilt-email-chatgpt-ai-msu-shooting"
+type: article
+quality: 63
+heat: 63
+published: false
+
+provider:
+  name: buzzfeednews.com
+  domain: buzzfeednews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-12/5/20/campaign_images/39b2fa5592d1/the-superintendent-is-defending-the-guidance-coun-2-11529-1638735794-17_dblbig.jpg"
+    width: 625
+    height: 415
+    isCached: true
+
+secured: "4SqP4nsBS/agjGgGnmyOSzmUjgUfkQtOrw7OdgQpfcstzIDFgQmsTNOOItQ3pwOQuI7cN2Ya0srOljRutoeEO1mAbi8tz7CRxcbmYATb1kz8siGdVz0CWSeLF9N5rkLUfcwMN2P8vIMhMpF809ZQcQHvh/QLrDRv+GQmbRaqRi+Puk7eEEUz+eFtUtzNxQon7os5NKo5K2QzT77UqkM8ZFtFi380QhdSbJ0z9w5uhskSSL/7EPHDuSmwWvTFImgSHpVIEkZennDKL5vt8uUWYSxy9utmtu/o+ruuDACNn4Z4hL5ErHX/Foka4wD3To5d8Vph77MgJkCeg/Jmqn3CLcMl6x6J/s6jmF0QGpzf5lM=;nQYJ1256rWW2edAQ/aA/4Q=="
+---
+

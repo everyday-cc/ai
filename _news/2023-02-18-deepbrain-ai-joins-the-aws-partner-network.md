@@ -1,23 +1,29 @@
 ---
 category: news
 title: "DeepBrain AI Joins the AWS Partner Network"
-excerpt: "DeepBrain AI plans to actively expand its footprint to global market by working with a leading cloud services provider. PALO ALTO, Calif., /PRNewswire/ -- DeepBrain AI, a deep-learning based video synthesis startup company,"
-publishedDateTime: 2023-02-17T17:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-deepbra-ai-joins-aws-partner-network-/2023/02/17/9762609.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-deepbra-ai-joins-aws-partner-network-/2023/02/17/9762609.htm"
+excerpt: "DeepBrain AI completed the AWS Foundational Technical Review (FTR), which allows Amazon Web Services (AWS) Partner Network (APN) members to identify and remediate risks in their solutions based on the"
+publishedDateTime: 2023-02-18T02:00:00Z
+originalUrl: "https://www.asiaone.com/business/deepbrain-ai-joins-aws-partner-network"
+webUrl: "https://www.asiaone.com/business/deepbrain-ai-joins-aws-partner-network"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "IE14ipICgH2yUJ/rSUyoBxLW1IEvKOOyr2eHC6k7JmTJl3QI40ygpyspsXZPIzAEzQrr7Dh1tQxCaf1ySPEhYiSch7/X1+ad64VaQMaBwy7rl7jPn4uxsbWHfWhG1ANNCIWOhLQzYQ8F0jfyiNRzTLVTlxAAg6s7PzwoHlY7K2rBVELIb2OgEB94Lk0e1suPqDysdZMNNlRAuOAL8iXAbN+xY7wEpZs9DXKjnhMCVS8qe4zeCe02vAS+JrHULtUWRK7PTCdaLXvxn5x7VjybqlyQdJIva1IgNDAWBsFQf6MLKCw+5Iwt0ZxTnPkNdwbELO2o/ZUzt56WZ0EyVRVB1ZO2IgcUYV1K2VTSNqF1+GE9YWq312ihf45F42m7FdLIz5SFz13k6rzHHPu7dSM6BTJs1KRTc9sWGKCAv3N9JApBTsKPeY7HvHFMRdwAawrHw6GKeegAmQpXS7BVX6ck7Disii47zZZF6r0kfhJIKa5P3B/7rwTfwNyKlnj6fkzCWyzje5sW1wC5OeXAvx9p+Q==;C3gkwESjRMX20xAh0UfUcg=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2023/AWS.jpg?h=bc79a01d&itok=juj6jGEg"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "TFCdQ6P9bbpDTC9BtTnaATuKjPOmTCbTMO0rk2G+pR3vAn2t4Qu9dre7FpZ2ek1d5LLB6q43mNY3pgXOo2nvDRMTlppdxmbyLUol8wnsTQwxMuwmFMzTp4tpRRxVpcOoQgOeP4gm4qOiXPBakHki611I6BL5H2bGF4xgvd557WuvDws0JcH3yPN40YykvzmFuLSRhMxAlOS7XyatOew+3+nb2rvf5exw2LnQpcxluuSgSqe6AiXDzUL+jY9nskvqHfR2q8oHQQEpG+0+dZ99VMBmCCfvBSK75dxp5DIwC5gbOa+7dl62zE9Hyx1LbUwbnHQ9AseChjJhHfyzYt79/gsT/G1nJUAog6YgKH3mcQM=;nAjx/wqSVJXO9L6KID4z5A=="
 ---
 

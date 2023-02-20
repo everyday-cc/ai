@@ -28,7 +28,7 @@ related:
   - title: "Expert: Crashes involving self-driving cars often due to inattention"
     excerpt: "The reason for many crashes involving self-driving technology, says former NHTSA adviser Missy Cummings, is, \"When you encourage people to go hands-free, people will take extended periods of time and"
     publishedDateTime: 2023-02-18T14:07:00Z
-    webUrl: "https://www.stltoday.com/news/national/expert-crashes-involving-self-driving-cars-often-due-to-inattention/video_658f6b55-5a3e-56cc-b1d7-f1750ca53114.html"
+    webUrl: "https://www.stltoday.com/news/national/video_658f6b55-5a3e-56cc-b1d7-f1750ca53114.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch

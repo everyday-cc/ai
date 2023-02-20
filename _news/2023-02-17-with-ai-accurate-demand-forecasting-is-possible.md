@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-po
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,43 @@ images:
     isCached: true
 
 related:
-  - title: "Waking Up To The “Art Of The Possible” In Artificial Intelligence"
-    excerpt: "The excitement about Chat GPT is “waking up” a non-technical business leaders to the vast potential of AI and Machine Learning (ML) to fuel new revenue and profit growth. This article profiles 20 financially viable use cases for AI in sales and marketing applications - and 6 keys to deploying them."
-    publishedDateTime: 2023-02-15T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/"
+  - title: "AI Chip for Data Centers Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "AI Chip for Data Centers Market\" is expected to grow at a steady growth during the forecast period 2023-2028, AI Chip"
+    publishedDateTime: 2023-02-17T03:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-16"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ece0df87d17dd26b2ed0f8/0x0.jpg?format=jpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 1163
+        height: 630
         isCached: true
+  - title: "Why promoting AI is actually hurting the accounting profession"
+    excerpt: "At the same time, our industry's seemingly blind acceptance of AI as a fix-all is actually hurting our ability to attract and keep talented young professionals. As smart as it is, AI can't replace the judgment of individual accountants."
+    publishedDateTime: 2023-02-16T16:15:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/why-promoting-ai-is-actually-hurting-the-accounting-profession"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/3239a71/2147483647/strip/true/crop/204x107+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb3%2F96%2F24a47d1a4d8ba855754ee804bffc%2Fartificial-intelligence-eight.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why promoting AI is actually hurting accounting"
+    excerpt: "At the same time, our profession's seemingly blind acceptance of AI as a fix-all is actually hurting our ability to attract and keep talented young professionals. As smart as it is, AI can't replace the judgment of individual accountants."
+    publishedDateTime: 2023-02-16T20:15:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/why-promoting-ai-is-actually-hurting-the-accounting-profession"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 19
 
 secured: "mYod4kzfoD75+txvlvGFiBhLR8dG/pj+H/7+zqRbR1/3s9u2G8eiCYsVnar2roipEOSFkpT4yYV4prEMmP9Y/pLza4yg4tSgyuFKybhecr6enrGPDhQPtuJ3e84g3dZbKueH9L0C1BwY4QhRU5AzbxBGUS2S5VQEOXvG1uo8YhNP5uuPpOeWrt3um0rkC243iERWQYPDatNokdvuzTAQElMZKuooWyiF7PrgRD4YPsSdjXfaX/PU5Q25RBSt0FWx3nVPW+jG5LbvR0JoWrWrpDAVIRAQ1J1Ft9NXkdWMMAPkbtTxd40AJaBohNf1tOup2NtWI6dCM0lnDqTc3mjq+4Rh2JkuYfUhwejMHvfQ970GNSRSjb/hyK4wayZs+I4PUX12CSFtIKLDoas+KwMDD4fSH+R+HK+csj3Cez+qeCxkDVorSl/z7yYEm1yP6qasG5CsilsbDWJ4daBPKS+xC3qajiHqIA8hYRSdIpVJS9llEuX6HIw54Njwy0ECFrSLP385U+KvbArkwHbRmfiU8A==;9S2uKGUJOa2AiRJf+5DVJg=="
 ---

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
-excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
-publishedDateTime: 2023-02-17T11:28:00Z
-originalUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
-webUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
-ampWebUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/?amp=1"
+excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn’t always follow speed limits."
+publishedDateTime: 2023-02-17T15:13:00Z
+originalUrl: "https://www.idahostatesman.com/news/business/article272526846.html"
+webUrl: "https://www.idahostatesman.com/news/business/article272526846.html"
+ampWebUrl: "https://amp.idahostatesman.com/news/business/article272526846.html"
+cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article272526846.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Idaho Statesman
+  domain: idahostatesman.com
 
 topics:
   - AI in Autos
@@ -500,16 +500,19 @@ related:
         height: 960
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
-    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
-    publishedDateTime: 2023-02-16T18:05:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits."
+    publishedDateTime: 2023-02-16T22:05:00Z
+    webUrl: "https://www.kaaltv.com/news/business-news/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: KAAL TV
+      domain: kaaltv.com
     quality: 39
+    images:
+      - url: "https://www.kaaltv.com/wp-content/uploads/apimg/2023/02/Tesla_Recall_97725.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
     publishedDateTime: 2023-02-18T13:36:00Z
@@ -784,6 +787,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "mCEYLwfz+B5PnEqYUSn5fEGEGPL6oZ0AGMC8ZsBtSAjkO7w83xepLB4gBxi/o+/cVjr2TO2Dn8MFRI1Jd0qDpZtudVrq/sZBYFFWfg8bmcdKATk49Ko70f+WXKSZP0P77CcWrgvB1I7UZtJ0w6HfSV5wbGL3OggiHKaI2ziBr3I7z1+HunCMCN0anM1fBtyLLj4bVQSTGCuq8K4rtEoq9g2L4O+F5nelC1SwEYLz1GsjMP2uWhv+gGjXVegecAdByC3GymEDBqGg9tntV46dsCOs2A7v2mFLcQts2KbsM5svpJqV0+fKt51qL6Fp2JiKSW70r3BKH5ryGqyYURvapd+vX3eDei1r1/WTxYakXHd61T5KKRcKax2rCfFg23rqSgrsyISQUBm8zMDEO8gCYG//cr3H1ecOcnu/ABxLx5YYdbWou9SJzS9RqmLxRR5wQaCCkHO6K5W2NUXMjWH1iWDgf0i1No4a4XUFP9uYMeKrrlLpsMk0+rRXMRZ3Xbo6MZQ+YUjMcxAfjeu0abKUhQ==;XNpByTYPsP0KNyRdIGzDxA=="
+secured: "a7Vxmi895xk0lr2IgxdRV5cK8gy6hR1U4YfLBWb+JctAPPJJvwdM1Wwo368ME2MbU4XeHvxn7gksVHf9Hnoebw2K+wKK7KrQUSjqMif5rgA7erUOxASxFM/IRARND4VyyAuWuYhguLH2egZgYCg5MdRUC3OQ+VJxq64YnxznLgjYbgP7Bt7ZkWmbYbaRN2b1NhmVBS3Nqw10gmvF2c1H+vHCTVI+Dnu+mSNq/6c8iS37U8XImPtZsrOBYsOgxTTbOTaPv7XXdkofLBDHlm5vaxBEzrbymcDyuLY3o9w0A7k0zTENsYSAYO7qqynMEQ+80e+RlTXl7/kRljaxMC97fgi2kyvgrWfSxBwicdy81qzhw+fjE2a3ZriJGBcjAT037+ykfEGF+DdVU2/MCjyr/cqSDTsddumMNYbvK04qwYmk7ddeDsvXkeXkgv4Y85lrlufOxoJNrTTdqdB9e1hWqkIKopm40oFwK6FFMdCHdqkdziwrhSLVHHOzjsNGbbulQqRuicnoh4ddlvt0jt/uYg==;NLHOqy2whZzsyaAe4Y2MPg=="
 ---
 

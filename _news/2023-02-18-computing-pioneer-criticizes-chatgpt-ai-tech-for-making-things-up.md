@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/computing-pioneer-criticizes-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/"
 type: article
 quality: 89
-heat: 339
+heat: 329
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a2dae933908df8079739cf08dc504da4.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Outthinking Generative AI ChatGPT To Straighten Out Those Vexing AI Hallucinations, Advises AI Ethics And AI Law"
-    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
-    publishedDateTime: 2023-02-15T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/15/outthinking-generative-ai-chatgpt-to-straighten-out-those-vexing-ai-hallucinations-advises-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ec652cea9d35758ecaa5d9/0x0.jpg?format=jpg&crop=1067,712,x2,y94,safe&width=1200"
-        width: 1067
-        height: 712
         isCached: true
   - title: "ChatGPT AI robots writing church sermons causing hell for pastors"
     excerpt: "‘I can’t do everything I’m supposed to do,’ and start passing ideas off as their own.” Hershael York, the Kentucky pastor and professor, said some of the greatest sermons contain elements of anguish. “Artificial intelligence can imitate that to ..."

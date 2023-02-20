@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Tech Bytes: Driverless taxi from Amazon"
-    excerpt: "Instagram is shutting down live shopping. By mid-March, creators will no longer be able to tag products in livestreams. It follows the decision to remove the shopping tab from Instagram’s home ..."
-    publishedDateTime: 2023-02-15T12:20:00Z
-    webUrl: "https://www.wdio.com/good-morning-northland/tech-bytes-driverless-taxi-from-amazon/"
+  - title: "Amazon’s Self-Driving Robotaxi Is Being Tested In California"
+    excerpt: "Amazon’s self-driving robo-taxi has hit the roads in California, with testing limited to a one-mile public route between Zoox office buildings"
+    publishedDateTime: 2023-02-16T19:30:00Z
+    webUrl: "https://oilprice.com/Latest-Energy-News/World-News/Amazons-Self-Driving-Robotaxi-Is-Being-Tested-In-California.html"
+    ampWebUrl: "https://oilprice.com/Latest-Energy-News/World-News/Amazons-Self-Driving-Robotaxi-Is-Being-Tested-In-California.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Latest-Energy-News/World-News/Amazons-Self-Driving-Robotaxi-Is-Being-Tested-In-California.amp.html"
     type: article
     provider:
-      name: WDIO
-      domain: wdio.com
-    quality: 39
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 44
     images:
-      - url: "https://www.wdio.com/wp-content/uploads/akta/D0CCDF6EEFFEA283A8F37F2DA9C0B388.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d32r1sh890xpii.cloudfront.net/news/718x300/2023-02-16_1hjbt0lgsq.jpg"
+        width: 718
+        height: 300
         isCached: true
   - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
     excerpt: "Zoox, Amazon's self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the"
@@ -48,6 +50,20 @@ related:
       - url: "https://imengine.public.prod.day.navigacloud.com?uuid=6c14f255-2b8d-5c87-955d-d4b256fa6cd1&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.93361&width=753&height=424&x=1.0E-5&y=1.0E-5"
         width: 753
         height: 424
+        isCached: true
+  - title: "Amazon’s self-driving car shuttles people on public roads for the first time"
+    excerpt: "Zoox, the self-driving startup owned by Amazon, carried passengers in its fully autonomous vehicle on public roads for the first time. Last week, the electric vehicle, which does not have a steering wheel,"
+    publishedDateTime: 2023-02-18T04:00:00Z
+    webUrl: "https://www.tbsnews.net/tech/amazons-self-driving-car-shuttles-people-public-roads-first-time-586726"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 21
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/02/18/636718.jpg"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "1yIqKvQqnSBnm9T3bGwlfcg1Y0G9EfiYSMCdAlKsFnPuvUv4b8V3robl33JH1FJzvfn9Dr2tiyFdhmJOxhcSnvpyTGYw/mCdjGqVAdu6jKJo65h8vnhv4fYQu+Xm4rr/6qxCpR5pxHWUKCAg0Iz/eYRViEfEaDimnrfO7cgCXlhWCzoMW8VaJgVRBOhVRqZyz3nzOoq6F8dfOt4zm7q3YwMAwDlwJvZQNrqbtSSOZkuSqFq9NLd27tCVY2Ekz3Pn+PqC7V25UbpMcxeyrXLpZOG0IF2XgfHTLMZFtf3WDVGcRiJJ0kUTpgE6Y3mVOLJPUkF9+2S1fqqiIdvMDuE8wVnJWLIfN6iRCwDAnQ7mDwY=;ej1o0sxodu0qRJOj65MRcg=="

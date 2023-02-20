@@ -23,36 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Investing In Q4 And Beyond – What To Look For"
-    excerpt: "For the first time since the beginning of 2021, Fintech is no longer the leading industry by investment as it has been surpassed by Healthcare ($16.7B). Despite a 64% downturn in global investments since Q4 2021,"
-    publishedDateTime: 2023-02-15T18:36:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/02/30931113/fintech-investing-in-q4-and-beyond-what-to-look-for"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30931113"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30931113"
+  - title: "What the Patent Bar is Saying About the USPTO’s Call for Comments on AI Inventorship"
+    excerpt: "The U.S. Patent and Trademark Office’s (USPTO’s) announcement early last week that it is requesting public comments on artificial intelligence (AI) and inventorship indicates that changes may eventually be implemented with respect to how the Office considers inventions created,"
+    publishedDateTime: 2023-02-19T17:15:00Z
+    webUrl: "https://ipwatchdog.com/2023/02/19/patent-bar-saying-usptos-call-comments-ai-inventorship/id=156876/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 32
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/02/15/joshua-mayo-bmj1vl77zwm-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/02/Depositphotos_222069930_XL-scaled-e1676658434882.jpg"
+        width: 2080
+        height: 1203
         isCached: true
-  - title: "5 health companies Intel is investing in"
-    excerpt: "Software giant Intel's investment arm, Intel Capital, has been making some notable investments in healthcare companies. Here are five health companies Intel is investing in: Intel Capital recently led a $20 million funding round for MDI Health,"
-    publishedDateTime: 2023-02-18T00:42:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/5-health-companies-intel-is-investing-in.html"
+  - title: "M2GEN and Zephyr AI Announce Partnership to Better Identify Treatments and Cures for Patients with Cancer"
+    excerpt: "M2GEN, a bioinformatics company accelerating discoveries in oncology research through industry-leading data and analytics, and Zephyr AI, Inc. (“Zephyr AI”), a company building novel transparent AI to address unmet needs across the full spectrum of precision medicine – from prevention to treatment – to improve patients’ lives,"
+    publishedDateTime: 2023-02-16T10:29:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-2-16-m2gen-and-zephyr-ai-announce-partnership-to-better-identify-treatments-and-cures-for-patients-with-cancer"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 24
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 2
 
 secured: "8VPpZfaBrM2HJ2yjIlZh3T3hdoqEBH4BFD0X5zG1D2rLN10TfO8DdBAcZTyv+fkKYIiuv4mNxzulqnnPprZars803fGx8tsXtXFKhwDf1O4vSc16ZyJ9+wJQ1vweTvFKysmeerFgma/XFzlEm1qHWZKWMkl8Dz7fMunqIdGQWt9H6C1UXav5Hpl+FvtXUk8Q7aOZTpZHncV+OiL62mqJKphi4kfHkYATm3jHD7x80QCVX9JFAxWfdKtlgauNzjHyRf0FK3wanO87tVOpOFQW/zDbKCE9VCJMSDlp+UpB5GtzgJ8IGr9c55ttDxpnHLTCepJbaMib3On2PIRbXFlEq2ywOlawapNbR8Pu23+nU7M=;u6xFpeHEVag24/cGi/UFrA=="
 ---

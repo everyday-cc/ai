@@ -500,26 +500,29 @@ related:
         height: 960
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
-    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
-    publishedDateTime: 2023-02-16T18:05:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits."
+    publishedDateTime: 2023-02-16T22:05:00Z
+    webUrl: "https://www.kaaltv.com/news/business-news/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: KAAL TV
+      domain: kaaltv.com
     quality: 39
+    images:
+      - url: "https://www.kaaltv.com/wp-content/uploads/apimg/2023/02/Tesla_Recall_97725.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
-    excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
-    publishedDateTime: 2023-02-17T11:28:00Z
-    webUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
-    ampWebUrl: "https://www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/?amp=1"
+    excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn’t always follow speed limits."
+    publishedDateTime: 2023-02-17T15:13:00Z
+    webUrl: "https://www.idahostatesman.com/news/business/article272526846.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/business/article272526846.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article272526846.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Idaho Statesman
+      domain: idahostatesman.com
     quality: 39
   - title: "USA: Tesla To Recall 'Full Self-Driving' Vehicles To Fix Flaws"
     excerpt: "Tesla is recalling nearly 363,000 vehicles with its“Full Self-Driving” system to fix problems with the way it behaves around intersections and follo"

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/02/meta-develops
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
