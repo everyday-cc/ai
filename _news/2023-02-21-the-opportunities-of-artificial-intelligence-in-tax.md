@@ -40,6 +40,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Cognitive Services Market: Exploration of the Top Regions and Players with Opportunities"
+    excerpt: "Feb 19, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Cognitive Services Market” research is"
+    publishedDateTime: 2023-02-19T11:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-exploration-of-the-top-regions-and-players-with-opportunities-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
   - title: "Hybrid Voice Recognition System Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
     excerpt: "Precision Reports has published a detailed report on “ Hybrid Voice Recognition System Market \" 2023 which has been categorized by Market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North America,"
     publishedDateTime: 2023-02-17T05:06:00Z

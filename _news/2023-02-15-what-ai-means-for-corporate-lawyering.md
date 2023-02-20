@@ -1,14 +1,11 @@
 ---
 category: news
-title: "What AI Means for Corporate Lawyering"
+title: "What AI means for Corporate Lawyering"
 excerpt: "Artificial intelligence and the technology behind tools like ChatGPT change the dynamics of corporate lawyering by enabling fast and relevant insights into two common questions clients ask: what’s missing and what’s market?"
 publishedDateTime: 2023-02-15T13:27:00Z
-originalUrl: "https://www.law.com/corpcounsel/2023/02/15/what-ai-means-for-corporate-lawyering/"
-webUrl: "https://www.law.com/corpcounsel/2023/02/15/what-ai-means-for-corporate-lawyering/"
+originalUrl: "https://www.law.com/legaltechnews/2023/02/15/what-ai-means-for-corporate-lawyering/"
+webUrl: "https://www.law.com/legaltechnews/2023/02/15/what-ai-means-for-corporate-lawyering/"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: Law
@@ -24,17 +21,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "AI Learning Curve Becoming Steeper For Corporate Directors"
-    excerpt: "Corporate directors should temper their excitement for the possibilities of generative AI with the realization that they must significantly “up their game” on the technology in order to effectively monitor its organizational use."
-    publishedDateTime: 2023-02-16T13:21:00Z
-    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/02/16/ai-learning-curve-becoming-steeper-for-corporate-directors/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-
-secured: "5GQJZ5NeNmgfGXDwf7qf+IxPlYkfVr6xn8czumqrNq3j2Wh0ltgCwR0CykNK3OEL6VGDoY4QCfzUjE8UcOUHNzYiumajqsh3RUmS7EwuklRBTWZ7zpYfvtJXvAax5gUAxSlntEpMSEKznECp+i3xtEtV2M7Vjs9eV9PVuvlBN4AVdwOO1CxebBhsb5bUc0JwHO2qY4aFBitZzZgox7BIeHIMKP4xZKeOvQ4mJSwekUOwZagrzQB4YDkHhoSShotUj954dlzoaOVHdHeZXUMwdtwi0e9ui3c2/Ns7t6zQlWf5BrWJkJb9SiL1R7L7ybSQb3cZriA41/g+VdS0Dr4iaG3QS3j2ILogiI2IkbzUociiIG6pIN6k9dzBMpv0ozspyAPtIxB3sUs7XsTWxCoFHI1zA/xsntPEcADRlJURnwNFIDurq7HOz2lsgwEzJcqFRMj88y5MAAo/XXkS642Y3FZu+rHfYJf9OfkNyJD8fb8C/DoPhtzSCY1OdPQKXHWfaP/LLOQRwkJaEDB5EHrS4g==;Y7kciUHvaguZa8515GX9ig=="
+secured: "rhaOzfHhhPvRzyQYZLyHxt3Ez58McZAKztsDkC2uRX6HMvXYN4S6l8QFIu8R+9KbMGnQ7qZF9TOLeuybWiqvheZfaAxdkSQDPMHbHATi5/5teZSR+U6dqhP0cz/6rT8/mpW+SNbx48mKhGGmmuH2SccG2W4ONcjesQ4mcA5lcSBi6BdLEg1T1BrcDTmwxoNjnYDLJHBzhROvNFJTMZDh7/RKumiMX15zrqXbAj1DCxQCyDHS4kfgXAPQjlFzGmN+7gC7jN2JnaglmYdzY/muhfFoDCsAOeUdYBCmbeNbLdj3YWApATu4JcJOZA0fAfzJNL4rXdnHFQOepdHyJz/gyVe2ncNVf4TPzQ7II+5g7XQ=;s7jpj8mUccsAEltkCG4jiQ=="
 ---
 

@@ -229,20 +229,6 @@ related:
         width: 2359
         height: 1270
         isCached: true
-  - title: "Microsoft’s AI Chatbot Finds Early Success in Bing Searches"
-    excerpt: "AI-powered answers have earned the approval of 71% of testers and chat has proven a popular addition that’s deepened engagement, the Redmond, Washington-based company said in a blog post Wednesday. People are also using the chat-capable Bing beyond ..."
-    publishedDateTime: 2023-02-16T06:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-02-16/microsoft-s-ai-chatbot-finds-early-success-in-bing-searches"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOcryCQbXkX0/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Long Conversations Can Make Microsoft's AI-Powered Bing Cranky"
     excerpt: "Is the new Bing getting a little hostile or morose under repeated questioning? Apparently, extended chat sessions with the AI-powered Bing can confuse the program, Microsoft says. I've been with PCMag since October 2017, covering a wide range of topics ..."
     publishedDateTime: 2023-02-16T16:46:00Z
@@ -435,20 +421,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 62
-  - title: "How Microsoft is Helping Preserve Vulnerable Indic Languages with AI"
-    excerpt: "Microsoft—through Project ELLORA—wants to leverage the power of AI and help preserve these languages, which have limited written resources, let alone any digital presence."
-    publishedDateTime: 2023-02-16T03:55:00Z
-    webUrl: "https://analyticsindiamag.com/how-microsoft-is-helping-preserve-vulnerable-indic-languages-with-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/indie-micro.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Bing's AI Chatbot Has Insulted People's Looks and Compared Them to Hitler. Microsoft Promises to Make It Stop"
     excerpt: "In racing the breakthrough AI technology to consumers last week ahead of rival search ... The new Bing is built atop technology from Microsoft's startup partner OpenAI, best known for the similar ChatGPT conversational tool it released late last year."
     publishedDateTime: 2023-02-16T22:32:00Z

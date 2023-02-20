@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-sear
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 798
     isCached: true
+
+related:
+  - title: "Better AI Stock: Nvidia vs. Alphabet"
+    excerpt: "Nvidia took a positive step in AI in November 2022, partnering with Microsoft's Azure to build a massive cloud AI computer. According to a press release from Nvidia, the collaboration will combine Azure with Nvidia's GPUs to \"help enterprises train ..."
+    publishedDateTime: 2023-02-20T12:10:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/20/better-ai-stock-nvidia-vs-alphabet/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 49
 
 secured: "kAW/nHLFCiD8uuytoyzzWSAdGWZfyF76Og9B60UlSYsBa8hcYaD1MuaYbBfLyKTST/MdEdvjhORseZjz5Qpt87FAUs8lS/mGwqsvq8aCcH/Zcsv5z8gQRaktkHK1riZhw98vXqLqNHDfqKImSaAPkFnYYMVwWwL1w61aZa5/Ifq/weStKNdjOKyygFD7HEwjW590V61k4DdomccAVC3c+xJlROVYOsnGz8t732xj4F67XI44chfxcvkCSFlzUq/Bw5v+iX6Ss6lK/OimvbP4bz8UF3WsSDS7C9/6wA83HqnnqWkySR3CXNM78O7QfUxpLJV50kI9T8Cxi3RDzwHq3iaLXgzj8mnhk5Ba9D0WKm0p6UlbVpxZrk8eOeAm23bWDSpom5xJVvYmhNAliS6Pldv1zMTh4/fnBru+EPqjn72OiYXURFUshjRWDuTKo+EO1GOHH2AnU/92Z2b/Ikv2FnNPf5zd9y4WhKhB95OZp4RhwBCKuQFaXhITwqLig95WPlBxZpRWmxwIzIW7KxAsSA==;jqNR4m2suph6aJFZDl4ATg=="
 ---

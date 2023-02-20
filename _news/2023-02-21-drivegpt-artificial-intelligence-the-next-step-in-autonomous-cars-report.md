@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T20:00:00Z
 originalUrl: "https://www.drive.com.au/news/drivegpt-artificial-intelligence-autonomous-cars/"
 webUrl: "https://www.drive.com.au/news/drivegpt-artificial-intelligence-autonomous-cars/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Drive.com.au

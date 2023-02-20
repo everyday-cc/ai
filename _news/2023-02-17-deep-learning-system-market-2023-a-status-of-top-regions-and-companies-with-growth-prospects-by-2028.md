@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robotics Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
-    excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence Robotics industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
-    publishedDateTime: 2023-02-16T03:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Video Games Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2026"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-17T15:46:00Z
@@ -85,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sugar Net Auxiliary Diagnosis Software Market 2023 Anticipated to Reach Most Elevated Growth Rate, Size with Demand Forecast to 2028"
-    excerpt: "Feb 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Sugar Net Auxiliary"
-    publishedDateTime: 2023-02-16T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/sugar-net-auxiliary-diagnosis-software-market-2023-anticipated-to-reach-most-elevated-growth-rate-size-with-demand-forecast-to-2028-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 3
 
 secured: "X9dQgupF63yzn1etvQNJj4QgIC4Frz2i8+DTUiIUyH0JkFrQdt3L9+FD2pl+zvMvmaakr5dpJH+N834L7xczq1RuyUm5yprM3qMob4RmBVBlXfcSJmxuEkTZ0TOZG7jj5wmLqRFGQA14j12Vifu+PxkIEMgyYrCUBAZSD7ustvyjwYbEtKETx26WaXVj7ucHbNbbqJS86dTLdlbuLDX8lQpZfKYVWFTf4Vb7h990jo7rVvCCRJRac2Sha/niLzxxncaFvrXwVEJVuVzr967zJ9MS/Gi8MmyAUeyjUcT5psJkiuLRWCK2nCuv3rGgAaGxJGaGZR5RIiHGkEwSb5ZHiL+YYylWyTfxtL93qhs8TAw=;OFWSp1q3QrmDFCL0RTwosA=="
 ---

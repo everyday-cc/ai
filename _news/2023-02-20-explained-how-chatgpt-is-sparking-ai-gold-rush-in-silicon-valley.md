@@ -151,6 +151,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Indian IT firms start training employees in ChatGPT, other AI-related tech"
+    excerpt: "AI models are expected to disrupt Indian IT firms and their access to talent, as they make some jobs redundant"
+    publishedDateTime: 2023-02-17T07:55:00Z
+    webUrl: "https://www.business-standard.com/article/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/it-companies-introduce-chatgpt-like-ai-related-courses-for-its-employees-123021700402_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 55
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "ChatGPT acknowledges bias, ‘real limitations’ in artificial intelligence tool"
     excerpt: "The people behind the groundbreaking ChatGPT acknowledged Thursday that the artificial intelligence tool sometimes delivers results that are “politically biased, offensive or otherwise objectionable.”"
     publishedDateTime: 2023-02-16T21:32:00Z
@@ -365,6 +381,20 @@ related:
       - url: "https://www.welivesecurity.com/wp-content/uploads/2023/02/chatgpt-malware-machine-learning-abilities.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "OPINION: To ChatGPT, or to not ChatGPT: Is ChatGPT the new Shakespeare?"
+    excerpt: "Now as one of my professors has noted, ChatGPT is going to be able to write as Shakespeare once did. The new chatbot software launched in November 2022 and has turned the world upside down. OpenAI is the company responsible for the creation of the new ChatGPT."
+    publishedDateTime: 2023-02-20T21:57:00Z
+    webUrl: "https://www.tommiemedia.com/opinion-to-chatgpt-or-to-not-chatgpt-is-chatgpt-the-new-shakespeare/"
+    type: article
+    provider:
+      name: Tommie Media
+      domain: tommiemedia.com
+    quality: 24
+    images:
+      - url: "https://www.tommiemedia.com/wp-content/uploads/2023/02/Graham_ChatGTP.png"
+        width: 1080
+        height: 1080
         isCached: true
   - title: "People are using AI bots like ChatGPT to work side hustles and earn thousands of dollars — check out these 6 hot freelancing gigs"
     excerpt: "Her book \"Show Me What AI Can Do!\" is available on Amazon for $2.99. Overdubbing videos in other languages Streaming companies like Netflix and content creators on YouTube and TikTok are turning to voice dubbers to translate their videos into more ..."

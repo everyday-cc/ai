@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Food & Beverages Market to Acquire Growth of more than million by 2023"
-    excerpt: "Final Report will add an analysis of the impact of the Russia-Ukraine War and COVID-19 on theArtificial Intelligence"
-    publishedDateTime: 2023-02-16T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-food-beverages-market-to-acquire-growth-of-more-than-million-by-2023-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5HYhnv+PcS72NLN9oaJs9c6x8ACIBqjYUUuhDnfPgQ0X8v19Nh0RUk1iuFqPC07Cjw+VAKZW38AJw1+bU7akpkQloaWQpc7VIvnGAstBMpxoN8peSaABzzooNwLDgQYFPfGCHPjZyN3xIB8Numis9XOGHb7F6fZ19g7bIKxpwl6eHazdHyktuxh8EEdsQqjHrxbrDz5R4cEve6CQ/xevAQM7qa7ycnSfFuuFpPFZnn8F3HaiwJSsuCWSoDtqgjzAWw1SQnMiVTvrimfsg2V0AuAwSUDgAyvAuHBtiaFpfDbYkEf5gpACmoN91NVVjBeH7F/k/KrfBVDLz1Cr7uByQemJrgl+0BQomHpdiMOdMHX5xqXjndA5a/bKWmTxfPyfHrYN1ie/8AIdO+XHPcA2FFSFaVk70YONJ+pqvQZlshu67UBVW8KE7TWDWrSrvCuGi6iR0xhg1gF7gJmgscS4S+ueOb+R9P9EzKgvldF5neMaCKpBZAe0tALQVlikTmWbDYHHDCjhDx/KwlPAnUZaJA==;b1MAfiP+uyUaYMW/w+wXlw=="
 ---

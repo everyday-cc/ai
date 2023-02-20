@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T19:32:00Z
 originalUrl: "https://www.ncregister.com/cna/pope-francis-asks-pontifical-academy-for-life-to-study-ethics-of-emerging-technologies"
 webUrl: "https://www.ncregister.com/cna/pope-francis-asks-pontifical-academy-for-life-to-study-ethics-of-emerging-technologies"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: National Catholic Register

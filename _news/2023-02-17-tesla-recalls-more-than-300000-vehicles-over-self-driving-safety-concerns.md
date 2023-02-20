@@ -264,6 +264,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
+    excerpt: "DETROIT (AP) — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn ..."
+    publishedDateTime: 2023-02-17T15:35:00Z
+    webUrl: "https://www.dailyfreeman.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/"
+    ampWebUrl: "https://www.dailyfreeman.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/amp/"
+    cdnAmpWebUrl: "https://www-dailyfreeman-com.cdn.ampproject.org/c/s/www.dailyfreeman.com/2023/02/17/tesla-recalls-full-self-driving-to-fix-unsafe-actions/amp/"
+    type: article
+    provider:
+      name: dailyfreeman.com
+      domain: dailyfreeman.com
+    quality: 59
+    images:
+      - url: "https://www.dailyfreeman.com/wp-content/uploads/2023/02/Tesla_Recall_97725-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla recalls nearly 363,000 cars with 'Full Self-Driving' system"
     excerpt: "DETROIT - Tesla is recalling nearly 363,000 vehicles with its \"Full Self-Driving\" system to fix problems with the way it behaves around intersections and following posted speed limits. The recall, part of a larger investigation by U."
     publishedDateTime: 2023-02-16T18:07:00Z
@@ -375,6 +391,22 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/02/OCR-Z-TESLA-RECALL.jpg?w=1024&h=656"
         width: 1024
         height: 656
+        isCached: true
+  - title: "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'"
+    excerpt: "Tesla is recalling all 363,000 U.S. vehicles with its so-called \"Full Self Driving\" driver assist software due to safety risks, another blow to the feature that is central to the automaker's ..."
+    publishedDateTime: 2023-02-17T08:01:00Z
+    webUrl: "https://www.wesh.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    ampWebUrl: "https://www.wesh.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+    type: article
+    provider:
+      name: WESH
+      domain: wesh.com
+    quality: 58
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-bebde75c81b65923d7fa9a58c5192cc6-h-b6baf53a58d45c63f98d1f0922980fdc-jpg-1676589213.jpg?crop=1.00xw:0.846xh;0,0.0433xh&resize=1200:*"
+        width: 1200
+        height: 677
         isCached: true
   - title: "Tesla recalls more than 300K vehicles due to self-driving software issues"
     excerpt: "Tesla is recalling more than 300,000 vehicles that are equipped with Full Self-Driving Beta software. The recall includes certain 2016-2023 Model S and Model X vehicles as well as 2017-2023 Model 3 and 2020-2023 Model Y vehicles."
@@ -521,17 +553,6 @@ related:
         height: 960
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
-    excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn’t always follow speed limits."
-    publishedDateTime: 2023-02-17T15:13:00Z
-    webUrl: "https://www.idahostatesman.com/news/business/article272526846.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/business/article272526846.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article272526846.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 39
-  - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits."
     publishedDateTime: 2023-02-18T13:36:00Z
     webUrl: "https://www.sacbee.com/news/business/article272526846.html"
@@ -556,17 +577,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
-    excerpt: "(CNN) — Tesla is recalling nearly 363,000 vehicles with its so-called “Full Self Driving” driver assist feature due to risks it can pose at intersections, even if the driver is paying attention and ready to take over control of the car."
-    publishedDateTime: 2023-02-16T19:36:00Z
-    webUrl: "https://whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/"
-    ampWebUrl: "https://whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 38
   - title: "Tesla Recalls Roughly 362,800 Vehicles Equipped With ‘Full Self-Driving’ Beta Over Crash Risk"
     excerpt: "Tesla Inc. is recalling 362,800 vehicles equipped with its high-profile advanced-driver assistance feature, a technology marketed as Full Self-Driving Beta, in response to regulatory pressure, the U.S. top car-safety agency said. In a notice published ..."
     publishedDateTime: 2023-02-17T12:13:00Z
@@ -773,6 +783,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 19
+  - title: "Tesla will correct self-driving software which ‘may’ cause crashes"
+    excerpt: "(NTSB via AP, File) (CN) — Electric automaker Tesla agreed to issue a free, over-the-air software update to 362,758 cars in order to correct serious flaws in its experimental self-driving software marketed as \"Full-Self Driving Beta.\" The software ..."
+    publishedDateTime: 2023-02-19T20:10:00Z
+    webUrl: "https://www.courthousenews.com/tesla-will-correct-self-driving-software-which-may-cause-crashes/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 19
   - title: "Tesla is recalling 362,758 vehicles over 'full self-driving' safety concerns"
     excerpt: "Tesla Inc. is recalling 362,758 vehicles because its \"full self-driving\" software may cause crashes. The National Highway Traffic Safety Administration issued the recall after launching an investigation into the technology last year,"
     publishedDateTime: 2023-02-17T20:02:00Z
@@ -826,6 +845,15 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
+    quality: 10
+  - title: "If ‘self-driving’ Teslas are defective, why are regulators letting them stay on the road?"
+    excerpt: "Teslas equipped with Full Self-Driving software were deemed defective enough to warrant a recall because they're prone to crashing. On Friday, all of those defective cars remained on the road, with the unreliable software still available to drivers,"
+    publishedDateTime: 2023-02-20T20:06:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/feb/20/if-self-driving-teslas-are-defective-why-are-regul/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 10
 
 secured: "PV3yrAge2sGUtR3yW2qufQPNEpBoDO77u8JDXTQ+I4idxUYFFOf0NstWr+MYhmASGTkUgRmypbL+wo7AonOf+PMnXZLDfL+8UVVTQbP23N/1QwusyK8teCdJeJaNRFwN5MdPUL1GAE+jjwtu1mzJSvCFfsgeeBIUdqvUtwKQcMFl2w4Swl4ZECZ7QmOZ+0RYapIhfCyJzZnkk2KoZlRUqJXyJmUfQrd7lZHDegwxjZBNax+Gy+hZ2JWC4+kY5b8JEn7YcSNk2FXWL0enBiIOUFWvLBF++KYiEMoeme0qHCWfIN4CuAbNY3XzbGszxrwheKvvCjok6ZOTQW9cu6Aiol4uI80PyKBllc8/nMb95eEOacb4jmf57qqzY+O53gDkKC8qVY9uPpw6qMs0+TvtVxmuwaWIei217sPV6eohdAWs1q0xm0LGWvJnxjiYNcO9qzT2oiUcn8AZTw4WRUgwVV0RbaMerKNSKH2HJVuucMTuec0osm2IFMWbVcD2wtritSPigWDJNFSFmZj64DHM5A==;Ksq/0y45Oh+Yo4pshE+n2w=="

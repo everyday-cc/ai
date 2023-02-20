@@ -44,6 +44,22 @@ related:
         height: 360
         isCached: true
   - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
+    excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada. While doctors have a set protocol to identify patients at risk of opioid addiction,"
+    publishedDateTime: 2023-02-20T16:48:00Z
+    webUrl: "https://www.theglobeandmail.com/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 53
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/PeNMGAK8TsbCOnEz6CqWoZqzeO8=/1200x1088/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/IUOYJSSAI5OJVPD3ESNQWGWM3Q.jpg"
+        width: 1200
+        height: 1088
+        isCached: true
+  - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
     excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada."
     publishedDateTime: 2023-02-20T05:08:00Z
     webUrl: "https://www.iheartradio.ca/ctv-news-content/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.19270674"

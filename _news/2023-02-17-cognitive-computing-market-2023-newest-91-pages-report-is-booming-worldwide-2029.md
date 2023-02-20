@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Speech Recognition Market Position And Company Are Improving And Sharing Worldwide With Great Growth Opportunities"
-    excerpt: "The major players covered in the Speech Recognition market report are: Speech recognition technology is a high technology that enables machines to transform speech signals into corresponding text or commands through the recognition and understanding process."
-    publishedDateTime: 2023-02-16T04:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-position-and-company-are-improving-and-sharing-worldwide-with-great-growth-opportunities-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "z+ljHUePJv26Uv8W19MHVzOBImvONE1tIrLL0eq7J8Hx5EGKt3Cb057H83AWoBWuTTnTpiy2zPr1FnnI8nMgWq7mK1QvjKIP0qXDuSQg64Ug+QS05DwTjpkPgWqWpMuoQBpPTZGMIlAiNr+ItTa3uQCN92Boefjjr7FmBEYmhjr/7LXt6KxC22aeCKo0SD8UFve+opEOXt/LjO0HmzBDyWcIv6848fcQU9XjBAOa9bn2flbqC5ZAFws/AdAYJs2p+pMkD2l6Sh0IH/+NLXKmww2rbDYQT0l74aIVio5/K7x7+M03AK0MsIBf9b33hd2TMTK1FiYFQ93cZOQz+14pQWigwAuCTu9WrVbIhxIepnM=;4Z4cTIJzdvrnUA1nuFKQ3g=="
 ---
 

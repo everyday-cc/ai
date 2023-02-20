@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17"
 type: article
 quality: 85
-heat: 135
+heat: 115
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robotics Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
-    excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence Robotics industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
-    publishedDateTime: 2023-02-16T03:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning System Market 2023: A Status of Top Regions and Companies with Growth Prospects By 2028,"
     excerpt: "Feb 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Deep Learning System Market” research"
     publishedDateTime: 2023-02-17T09:32:00Z
@@ -86,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sugar Net Auxiliary Diagnosis Software Market 2023 Anticipated to Reach Most Elevated Growth Rate, Size with Demand Forecast to 2028"
-    excerpt: "Feb 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Sugar Net Auxiliary"
-    publishedDateTime: 2023-02-16T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/sugar-net-auxiliary-diagnosis-software-market-2023-anticipated-to-reach-most-elevated-growth-rate-size-with-demand-forecast-to-2028-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 3
 
 secured: "gyR0TAoYExP+y54p9G4UiRzPochIEd5JklXL3QDtNUimHCGSJuu5wqk2fAF0sp3NS5Nwghsbl4W9GIgrtAs6z8qIH98LIEbP42cnzJ+u9jOW+1nmymLeWMFGLLbS9yMTxf3JNp4l6wicMQCZ+5rbj9Z9QPZ5D2fjFkGGFdQPEfJtPIAoplmfw9uNZ2UG+jdFS0NUKj0EpEAFbSlkMATVN1e2lDh2GVZEHAQDlnR98oGG95Z+MOVo3hqqxo3tzbXuAcApUTLGhhiDeCZ3iCI2qn8tTTSyjWcAFgsHCYv79euxm2KOvndX6eEPV0/ecBdj3ipQGlZXhM/1r3VkV4qFQirXSl/dm+imsMgnn5+oBtU=;K4+wBvqrpCiwg2fy0gtdyw=="
 ---

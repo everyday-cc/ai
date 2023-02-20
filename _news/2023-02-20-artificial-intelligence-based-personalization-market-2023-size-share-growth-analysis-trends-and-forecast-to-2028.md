@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Growth, Business Overview and Forecast to 2028"
-    excerpt: "In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the global economy and the Artificial Intelligence industry. Chapter 3.7 covers the analysis of the impact of COVID-19 from the perspective of the industry chain."
-    publishedDateTime: 2023-02-16T03:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-business-overview-and-forecast-to-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Temperature Measuring and Face Recognition Security Check Gate Market 2023-2029: Innovative Strategies for Business Growth and Development"
     excerpt: "Global “Temperature Measuring and Face Recognition Security Check Gate Market” Report 2023 by Manufacturers and Forecast"
     publishedDateTime: 2023-02-19T12:29:00Z
@@ -112,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Social Media Market 2023 Top Companies, Industry Outlook | In-depth Analysis Business Opportunities and Demand to 2029"
-    excerpt: "The major players covered in the AI in Social Media market report are: North America is expected to have the largest market size in the AI in social media market, while APAC is expected to grow at the highest CAGR during the forecast period."
-    publishedDateTime: 2023-02-16T04:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2023-top-companies-industry-outlook-in-depth-analysis-business-opportunities-and-demand-to-2029-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Accounting Market Demand To Be Driven By Technological Advancements In The Forecast Period Of 2023-2028"
     excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence in Accounting Market\" 2023 which has"
     publishedDateTime: 2023-02-17T03:44:00Z
@@ -135,20 +107,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Telecommunication Market Insights-Industry changing aspects, New Technologies and Forecast to 2028"
-    excerpt: "Artificial Intelligence in the Telecommunication Market Size 2023-2028 | New Report (79 Pages) | In This Reports"
-    publishedDateTime: 2023-02-16T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2028-2023-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

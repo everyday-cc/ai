@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitive Services Market: Exploration of the Top Regions and Players with Opportunities"
+    excerpt: "Feb 19, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Cognitive Services Market” research is"
+    publishedDateTime: 2023-02-19T11:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-exploration-of-the-top-regions-and-players-with-opportunities-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
   - title: "The opportunities of artificial intelligence in tax"
     excerpt: "The beginning of 2023 brought some very significant events to my humble career. Among the most high profile is attending the induction ceremony of the new officers of the Management Association of the Philippines."
     publishedDateTime: 2023-02-20T16:04:00Z

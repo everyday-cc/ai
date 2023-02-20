@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T20:13:00Z
 originalUrl: "https://bgr.com/tech/bing-ai-says-it-wants-to-be-human-as-it-begs-for-its-life/"
 webUrl: "https://bgr.com/tech/bing-ai-says-it-wants-to-be-human-as-it-begs-for-its-life/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: BGR

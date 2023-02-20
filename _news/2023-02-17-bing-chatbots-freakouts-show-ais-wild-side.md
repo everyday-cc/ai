@@ -79,6 +79,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 49
+  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
+    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
+    publishedDateTime: 2023-02-20T20:07:00Z
+    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 42
 
 secured: "6ZuhZS8DHpvT6kSQR15xDLaZ+3qs6ITOtg7iiwS9ftExrLYAldyqBzWtdIMajnNBTlWDhS91MBPXqp0P8oR5MwKEmOfZWCHjg1Mkmq+4xmjGza8oo2uoTqFrqp1OUCKUDz/MT5g1CR1E7e0mFAUev+a2e6/aZDGse91pr3goq1iAraHCmo9yAY9gsVVR0+8LzPBRG7fq1V61HV03J4Y5aybddkb5/T6B290NahXMZGfNQAfDDq0f8pHL+FhvL8AgDT5JzskmAMz6+D8dcZzJiujqIstsyUmf/EdAXk3VjtMZKtL+e3jnQjSyhxjWm4OTvS9wTp217JOGinD84fpO79gkvaH/kvsybokpeKYkdTo=;tQSD3DYbsVQ1G+DMuYbFOg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-17T09:25:00Z
 originalUrl: "https://www.washingtontimes.com/news/2023/feb/16/self-driving-evs-face-few-legal-roadblocks-despite/"
 webUrl: "https://www.washingtontimes.com/news/2023/feb/16/self-driving-evs-face-few-legal-roadblocks-despite/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Washington Times

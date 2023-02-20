@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T20:45:00Z
 originalUrl: "https://menafn.com/1105605139/Distributed-Cloud-Market-Expected-To-Reach-USD-17-Billion-By-2031Top-Players-Such-As-AWS-Verizon-And-Vmware"
 webUrl: "https://menafn.com/1105605139/Distributed-Cloud-Market-Expected-To-Reach-USD-17-Billion-By-2031Top-Players-Such-As-AWS-Verizon-And-Vmware"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mena FN

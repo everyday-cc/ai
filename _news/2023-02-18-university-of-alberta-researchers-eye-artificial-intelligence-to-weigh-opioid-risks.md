@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/life/health_wellness/2023/02/18/universi
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/10/18/1_6113498.jpg"
         width: 1020
         height: 574
+        isCached: true
+  - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
+    excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada. While doctors have a set protocol to identify patients at risk of opioid addiction,"
+    publishedDateTime: 2023-02-20T16:48:00Z
+    webUrl: "https://www.theglobeandmail.com/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 53
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/PeNMGAK8TsbCOnEz6CqWoZqzeO8=/1200x1088/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/IUOYJSSAI5OJVPD3ESNQWGWM3Q.jpg"
+        width: 1200
+        height: 1088
         isCached: true
   - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
     excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada."
