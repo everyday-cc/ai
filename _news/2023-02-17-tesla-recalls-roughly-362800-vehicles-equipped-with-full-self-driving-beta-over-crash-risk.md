@@ -373,22 +373,6 @@ related:
         width: 1024
         height: 656
         isCached: true
-  - title: "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'"
-    excerpt: "The recall notice said that the problems are present with all cars with the current version of the FSD software, which is available on all four Tesla models."
-    publishedDateTime: 2023-02-17T11:01:00Z
-    webUrl: "https://www.wlky.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-    ampWebUrl: "https://www.wlky.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-    cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-    type: article
-    provider:
-      name: WLKY
-      domain: wlky.com
-    quality: 58
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-bebde75c81b65923d7fa9a58c5192cc6-h-b6baf53a58d45c63f98d1f0922980fdc-jpg-1676589213.jpg?crop=1.00xw:0.846xh;0,0.0433xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Tesla recalls more than 300K vehicles due to self-driving software issues"
     excerpt: "Tesla is recalling more than 300,000 vehicles that are equipped with Full Self-Driving Beta software. The recall includes certain 2016-2023 Model S and Model X vehicles as well as 2017-2023 Model 3 and 2020-2023 Model Y vehicles."
     publishedDateTime: 2023-02-16T18:51:00Z
@@ -550,6 +534,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
+    excerpt: "(CNN) — Tesla is recalling nearly 363,000 vehicles with its so-called “Full Self Driving” driver assist feature due to risks it can pose at intersections, even if the driver is paying attention and ready to take over control of the car."
+    publishedDateTime: 2023-02-16T19:36:00Z
+    webUrl: "https://whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/"
+    ampWebUrl: "https://whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 38
   - title: "Five things to know about Tesla's recall of more than 350K self-driving cars"
     excerpt: "Texas-based Tesla has issued a recall for more than 350,000 of its cars after federal regulators said certain models with so-called “self-driving” technology could cause traffic accidents, according to the National Highway Traffic Safety Administration."
     publishedDateTime: 2023-02-17T17:35:00Z

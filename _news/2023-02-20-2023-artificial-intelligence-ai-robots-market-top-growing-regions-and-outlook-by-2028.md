@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-19T16:09:00Z
 originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-top-growing-regions-and-outlook-by-2028-2023-02-19"
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-top-growing-regions-and-outlook-by-2028-2023-02-19"
 type: article
-quality: 73
+quality: 90
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -51,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market 2023: Competitive Landscape and Market Share Analysis till 2028"
-    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Artificial Intelligence (AI)"
-    publishedDateTime: 2023-02-15T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-competitive-landscape-and-market-share-analysis-till-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-servi
 webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-set-for-huge-industry-growth-by-2026-reports-and-data-2023-02-19"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Object Recognition Imaging Systems Market Size, Share 2023 : Industry Growing Rapidly with Recent Trends, Development, Revenue by 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 14, 2023 (The Expresswire) -- \"Object Recognition Imaging Systems Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions ..."
-    publishedDateTime: 2023-02-15T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-share-2023-industry-growing-rapidly-with-recent-trends-development-revenue-by-2028-2023-02-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

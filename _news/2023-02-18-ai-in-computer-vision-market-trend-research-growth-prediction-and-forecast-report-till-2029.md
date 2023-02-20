@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Artificial Intelligence (AI) Robots Market: Top Growing Regions and Outlook by 2028"
+    excerpt: "Robots Market report first introduced the classifications, market overview, product specifications, manufacturing processes, cost structures, industry chain structure. Then it analyses market size and forecast of Artificial Intelligence (AI) Robots by product types (Service Robots,"
+    publishedDateTime: 2023-02-19T16:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-top-growing-regions-and-outlook-by-2028-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 90
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest Survey on \"Artificial Intelligence (AI) Chips Market\" 2023-2028, Updated Report With 115 Pages"
     excerpt: "Report Highlights:- \"The global Artificial Intelligence (AI) Chips market size was valued at USD 13131.9 million in"
     publishedDateTime: 2023-02-16T05:00:00Z
@@ -57,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market 2023: Competitive Landscape and Market Share Analysis till 2028"
-    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Artificial Intelligence (AI)"
-    publishedDateTime: 2023-02-15T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-competitive-landscape-and-market-share-analysis-till-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Accelerator Chip Market to Grow Significantly by Leading Players 2023 to 2028"
     excerpt: "Feb (The Expresswire) -- \"AI Accelerator Chip Market\" Report provides a Detailed analysis of global market size, regional and country-level"
     publishedDateTime: 2023-02-16T02:47:00Z
@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 Artificial Intelligence (AI) Robots Market: Top Growing Regions and Outlook by 2028"
-    excerpt: "Robots Market report first introduced the classifications, market overview, product specifications, manufacturing processes, cost structures, industry chain structure. Then it analyses market size and forecast of Artificial Intelligence (AI) Robots by product types (Service Robots,"
-    publishedDateTime: 2023-02-19T16:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-top-growing-regions-and-outlook-by-2028-2023-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

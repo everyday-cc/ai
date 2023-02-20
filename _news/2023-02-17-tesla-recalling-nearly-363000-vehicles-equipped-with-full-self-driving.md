@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Tesla recalling nearly 363,000 vehicles equipped with 'Full Self-Driving'"
-excerpt: "The recall notice said that the problems are present with all cars with the current version of the FSD software, which is available on all four Tesla models."
-publishedDateTime: 2023-02-17T11:01:00Z
-originalUrl: "https://www.wlky.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-webUrl: "https://www.wlky.com/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-ampWebUrl: "https://www.wlky.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
-cdnAmpWebUrl: "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/tesla-recall-vehicles-equipped-with-full-self-driving/42941127"
+title: "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’"
+excerpt: "(CNN) — Tesla is recalling nearly 363,000 vehicles with its so-called “Full Self Driving” driver assist feature due to risks it can pose at intersections, even if the driver is paying attention and ready to take over control of the car."
+publishedDateTime: 2023-02-16T19:36:00Z
+originalUrl: "https://whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/"
+webUrl: "https://whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/"
+ampWebUrl: "https://whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
+cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving/amp/"
 type: article
-quality: 58
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: WLKY
-  domain: wlky.com
+  name: WHDH
+  domain: whdh.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-bebde75c81b65923d7fa9a58c5192cc6-h-b6baf53a58d45c63f98d1f0922980fdc-jpg-1676589213.jpg?crop=1.00xw:0.846xh;0,0.0433xh&resize=1200:*"
-    width: 1200
-    height: 677
-    isCached: true
 
 related:
   - title: "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue"
@@ -776,6 +770,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "vWX0UCtpxUnIAlXhsO30Opt2e1ViufLNkv5A7FpTbeR6JJDXbZnqMfGBNmBEvxWnsxnhmlls866TtXrO7a8olkHt5ftQEyDyEYv/5S7nRlSgpEBS4Hhk0zgi4ewHSqAEIVr1pbhdKIsGzSDPPc8X+Zp3De+ostc4e5J+sqGw3233LUGloyGDjdCbD0jHAekom3S9SCJhdADlP62neBjqelsZ/LjeRpzcYtiZNBf2UpdUu5+p6f4S2XOtVlUfROfJaUpC8taEEipICcLaF1dwVkzVEUCOIl7K4E5wV/v0YckdCudSGlSveKTDrvjSgiKwm+wS4oCGtCRS+7EFpJtxwdBUQcpVK687dChqLre7WhY=;gcVXg/PostI37vEuUQ3ElQ=="
+secured: "9ygdQnDB24udcpAAwlrGbwbOqK37mQCZ1DS5g8/1jt5gsK9QWYdJtl6mkllp9C15+qbHTbUeWBb+emfysZc/0zymcDxXvm3Sb9w4raxj1o3xjApRVO88PJ4FZMLEXWa8ezMG9xaoTKMZ1MEqFjNfIBUC4NyKB5rvLInyB8vJeu4iqgWHe/eEMxTn/ANP94R1fzPpr1KT4SsK/lK8bc1R0Do6I4pYdZSL66CPzTLVvEFDPZfbgcOhedfehn4XbcaLz9tGf7/Q7UryIlSfLlTdfMjZSolG96oOVzDsOFTUniM9HZSYJTgfJMRrXXkpKbz1i6UTP3lFLvSDg/F9HVqDZVkZ85VTQZ+NtYJuiWaGxh1ffpGK2rbKdlHSfEYp+RmLRu3Pxe6ePTka+Gzzo0qMFddcYq3iXjNmASBFInET+v6pUwN+cd15Ut15TyEKOw1PeARiRmnas8I7MEzX0M7QDOoCulgocibQk/NmWWE8geJT18LCQfe5PkpxeuabRfV95LOAAMenUCAPVrkXI/Gmpw==;wUEU0SonPdNFPffeNYcfSw=="
 ---
 

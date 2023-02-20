@@ -7,7 +7,7 @@ originalUrl: "https://justthenews.com/government/security/us-proposes-responsibl
 webUrl: "https://justthenews.com/government/security/us-proposes-responsible-military-use-artificial-intelligence-declaration"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "US launches artificial intelligence military use initiative"
-    excerpt: "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries THE HAGUE, Netherlands ..."
-    publishedDateTime: 2023-02-18T13:38:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256626"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 19
 
 secured: "n/ic/2No1vd0CGK3EdAdt7CvofbSomaQwhisTCYBk/Dg17IJpVufbcjwq5Yg4NI6Hki+HSsyqwvdvr1Wf+1FdxrKEFNLKVd4MOOOTPAnAsan+vsb4yrlzdZg0ZRoVffOoWS1fDayKoUcge5ktsj1WTkA4Kv8m82s3eZrj+FETB0ZVROqk3MNAnKQAOtedwtIgkG89gzoXm+PZs56s6BGKm+YsrIvnSWFmVp6q0eEqQFPPdjFFCCBID3jNv/oAiZ2TJVKcDTtP103zrMNeNMcl22SAFTHcXmCOWjYh1fwJzctnZcThiQjx2vSdnFmWeiKZEzyzBQwvxUepxppUCKqXOCtIeQ1x1te+No005kmELYm+9dyqSO+2xpEbCpFy/KSqtiIf8Rjpladl65+xVYfOG2vfoFStJjlOJ1ADjgEahenm5gQQ774zeCyA0X8uDNn0eM/E3E/Yg/kZd7l9MSw9zbZD9LkmSDgIZqWth2aYAGxU6SoRsJuAievjIpJCcf7T3GQ9Yu3N3AujKcob9OFhw==;DGYQOER45oFkY4TKHVl5uw=="
 ---

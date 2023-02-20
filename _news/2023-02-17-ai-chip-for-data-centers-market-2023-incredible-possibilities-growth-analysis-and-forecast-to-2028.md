@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Top Healthcare AI Companies (Koninklijke Philips N.V, NVIDIA Corporation, General Vision, Next IT Corp, CloudMedx Inc, IBM Watson Health, GENERAL ELECTRIC, Stryker, DEEP GENOMICS, Intel Corporation, Google, Microsoft Corporation) with the best facts and ..."
-    publishedDateTime: 2023-02-15T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-02-15"
+  - title: "2023 Machine Learning Chip Market: Maximize Growth Potential and Increasing Demand Forecast to 2029"
+    excerpt: "The “Machine Learning Chip Market” Research Report 2023-2029 | Latest 111 Pages Report | It throws light on competitive"
+    publishedDateTime: 2023-02-17T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,29 +71,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Service Market Trends and Opportunities and Forecast to 2028 with Top Countries Data"
-    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Report covers specified competitive outlook consisting of the"
-    publishedDateTime: 2023-02-16T02:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-trends-and-opportunities-and-forecast-to-2028-with-top-countries-data-2023-02-15"
+  - title: "Temperature Measuring and Face Recognition Security Check Gate Market 2023-2029: Innovative Strategies for Business Growth and Development"
+    excerpt: "Global “Temperature Measuring and Face Recognition Security Check Gate Market” Report 2023 by Manufacturers and Forecast"
+    publishedDateTime: 2023-02-19T12:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/temperature-measuring-and-face-recognition-security-check-gate-market-2023-2029-innovative-strategies-for-business-growth-and-development-2023-02-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud AI Developer Services Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-    excerpt: "Feb (The Expresswire) -- \"Cloud AI Developer Services Market\" Report provides a Detailed analysis of global market size, regional and"
-    publishedDateTime: 2023-02-17T15:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-17"
+  - title: "Face Recognition Device Market In 2023 By In-depth Analysis of Revenue Forecast and Competitive Landscape 2028"
+    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-16T02:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-in-2023-by-in-depth-analysis-of-revenue-forecast-and-competitive-landscape-2028-2023-02-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -169,6 +169,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Communication Market Demand To Be Driven By Technological Advancements In The Forecast Period Of 2023-2029"
+    excerpt: "Feb (The Expresswire) -- \"Machine Learning in Communication Market\" Report covers specified competitive outlook consisting of the market"
+    publishedDateTime: 2023-02-17T02:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-demand-to-be-driven-by-technological-advancements-in-the-forecast-period-of-2023-2029-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
 
 secured: "BifQnsvCbfOpbz5DFJgmeNlCHHeSyGwPKCirrC0Yn0KJtuktD96TkvFFKgmEvH7yrrDH3xmBS1MMzh1ZK85RA7lMJWWjM444UBHX9WVichGO7lcXdku7aK7l7stPLGpZBh2G74s3IE8jpnI6j56xbk5eiYSr2Gyi8nW85BzCPMoKSwwBb9EjfkaVOic4FHLOBfxz8QTxRDcThNDZDEHnL/IR+NMNGg4Rye7LUTPJ5WuWu8yX1shw2GIXh8JMHuEejK+JKUoPkG9rYOI+k1pEsUeML+mZiSEFEkpCfSReXKjZ3gx7dD08y+ynS17zGsYd5VZNP63Mm72QdvBlkp1kAxzx6hiKUCeUe5Y5OswLbmE=;Rh5WMN0k1D4jSFsNMkxgUg=="
 ---
