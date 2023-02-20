@@ -1,27 +1,27 @@
 ---
 category: news
 title: "The History of the GPU: From Inception to AI"
-excerpt: "The GPU has gone from an esoteric semiconductor of interest to gamers and CAD designers to a part of everyone’s daily life. It powers our smartphones, automobiles, virtual and augmented reality, video games, and AI training. Where did these ubiquitous ..."
-publishedDateTime: 2023-02-16T13:01:00Z
-originalUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/the-history-of-the-gpu-from-inception-to-ai"
-webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/the-history-of-the-gpu-from-inception-to-ai"
+excerpt: "The GPU has gone from an esoteric semiconductor of ... It powers our smartphones, automobiles, virtual and augmented reality, video games, and AI training. Where did these ubiquitous and amazing ..."
+publishedDateTime: 2023-02-16T13:15:00Z
+originalUrl: "https://www.eagletribune.com/region/the-history-of-the-gpu-from-inception-to-ai/article_fc7e54dd-4dc4-5f62-ab3b-f7ca082285a2.html"
+webUrl: "https://www.eagletribune.com/region/the-history-of-the-gpu-from-inception-to-ai/article_fc7e54dd-4dc4-5f62-ab3b-f7ca082285a2.html"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/02/bw20230216005383_jpr_books.jpeg"
-    width: 974
-    height: 730
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/22/122457b9-d302-5439-9f2f-09f36db71050/63ee29efd70d3.image.jpg?crop=912%2C479%2C30%2C0&resize=912%2C479&order=crop%2Cresize"
+    width: 912
+    height: 479
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "22i+ML4TEOcJO9stMO9T7P4A2vfil/jeOw6pLF91/Lom+E5ECVeg4klJvJ+s/J9roG51V31zCvFnwnh55+Jy9WmalABLayyG7yKg1dzEu4EnG/XYN46mK3IpHnRdgklDvVx3Oc863XV6Hu0VpqJLFpyzGOjWpk1fJE1HPJmBUEtZK0MIRtrrc1+x9GXYiOt31WHxETVHOfH5cdRF4z0FOOwqycGrz18vlZgr4NWCbThwmX4HvClzc5/KfHoQTyMxfxB+q9dduJawBA2Ir2QVVxtb8hCxf5b2Jgw9NH8Ig7FvxcLR4zVEszg5D5opCt0jq0zM3vR8mXTd5heIMvQreQkda9vxIl6lwVQ/1SbME24=;xS3zy3oYpO4vL5I5Zo0mQw=="
+secured: "+zmN3U2bUbPWANM4kpc7yDHd5VlBwOx//xMT1+2h/2rKEvd9p3zZRjDfFuXZwPZA/rS4cqpVTplirM3ulsiFUB9TjEpDjcfwyM5R9zlqIZ4TlCOeIW2gozbVys8B2LFnPwlWUymZQmUxMbboWcMsKqZ5uC7ujHu8ihQKspQR5nQPchxzYor3tfMoG9cnQV1+53KF2Kc7yksHICPd0RDhrDPsY2PSWD3atCojSsZn2Cej0adUoMNg7al6dLQi04b/q4UbTDxKKRlNCnN8t3PBMk2OA5GQr9hrm76iSN6A2109ENGjeq8IZNql0yfmI9wTntgEHZDZ45iW/XeqY6OHc3fBgS6pwqHD4WAtcTQHr4E=;7jvEoBBLzaEGQS2rtj+SsA=="
 ---
 

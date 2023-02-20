@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "United Kingdom AI in Transportation Markets Report 2023-2027: Self-Driving Vehicles, Road Accidents & High Traffic Problems Fuel Demands"
+    excerpt: "United Kingdom AI in the transportation market is anticipated to register growth with an impressive CAGR in the forecast period, 2023-2027. The market growth can be attributed to"
+    publishedDateTime: 2023-02-20T18:50:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/20/9762975.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+AOepocqSvPhsqhAaRmdKoNYrIi7uM9UTJLrR5BJxn+pX4ib9mHKToxKuXQ0f4Wjyz+KT0n5l7fzlW0qD6/XgWm3tCcdreqgjw82rqlpAiACB6z+0t18nb+Q3X4z5je+fKV4W+4QlCUG89ax1fglDFlkDq/vpU+kc8HF33x1wTfN2UiJ8fDuSKZQKVzxGcj2Ml9Y/+WFJTr8uXmMkQEouhS8jUUVuNU0GBQKVpzMsSk7pftNMXKrooqG434AMy0fjBLElFzzB9pHQ5BFHSvbobpQShQ4/XOryt48NHZu06g7iZCGdQN11PvLlpVYsMVKtjiQM9cRfz2iDgsDnofqdF/Ke9Y9xzxngOoW4LOAzno=;atB+kccAtzajG3jDEL3yWw=="
 ---

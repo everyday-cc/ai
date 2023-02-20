@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 708
         isCached: true
+  - title: "How Blackbird AI is striking back at ChatGPT and AI-based attacks"
+    excerpt: "Blackbird AI announces the launch of an AI assistant for security analysts, which uses generative AI to create mitigation guidance."
+    publishedDateTime: 2023-02-20T17:57:00Z
+    webUrl: "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/"
+    ampWebUrl: "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/image0.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A Student Used ChatGPT to Cheat in an AI Ethics Class"
     excerpt: "The worst fears of school administrators are coming true: students are cheating, and they're using ChatGPT to do it. it's spicier than usual when it's in an AI ethics class though. But can we stop for a second and ask whether we really need to panic?"
     publishedDateTime: 2023-02-18T10:59:00Z
@@ -393,6 +409,15 @@ related:
     excerpt: "The race to match ChatGPT comes as the China tech groups have spent the better part of two years reeling from regulatory attacks and fighting for growth amid the zero-Covid induced slowdown. Baidu is taking the most concrete early steps,"
     publishedDateTime: 2023-02-20T01:16:00Z
     webUrl: "https://www.ft.com/content/a4f6c01e-403f-4d43-9c6a-713d49771a4d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "ChatGPT hype sparks hopes and fears around AI"
+    excerpt: "It follows rapid rises in the shares of Chinese AI groups (mirroring trends in the US), prompting state media to issue a warning about the speculative frenzy. There are, however, several obstacles for the fledgling industry to overcome."
+    publishedDateTime: 2023-02-20T18:15:00Z
+    webUrl: "https://www.ft.com/content/ecda8734-4e3e-4e7e-9c26-ed5cbfde71e5"
     type: article
     provider:
       name: The Financial Times

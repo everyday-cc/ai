@@ -218,6 +218,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
+    excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
+    publishedDateTime: 2023-02-20T10:58:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "Microsoft’s AI Chatbot Finds Early Success in Bing Searches"
     excerpt: "AI-powered answers have earned the approval of 71% of testers and chat has proven a popular addition that’s deepened engagement, the Redmond, Washington-based company said in a blog post Wednesday. People are also using the chat-capable Bing beyond ..."
     publishedDateTime: 2023-02-16T06:17:00Z
@@ -315,20 +329,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/001t5z7JRY6TuUOSkqEvMdH-1.fit_lim.size_1200x630.v1676672725.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
-    excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
-    publishedDateTime: 2023-02-20T10:58:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
-        width: 2359
-        height: 1270
         isCached: true
   - title: "The Microsoft Bing AI chatbot doesn't have human thoughts. Neither does your dog."
     excerpt: "This is a non-trivial scenario that requires a lot of prompting.\" In other words, if you start repeatedly urging AI to consider its \"shadow self,\" as New York Times reporter Kevin Roose did in his giant, multi-part, overtime-triggering conversation with ..."
@@ -601,6 +601,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "JNvpg/Sxe5FaTEn5Erh5ngleReeFdVtIEqJBnS3F/p1TO2GdrpjdkghgHJlVcFtfKegSKPyl6si6MUQNp4VGVAOQdNHIxTneEeQZdjvSREDSJE7XY1CO0Yqc/jsEq+qfBl9W4Bt3a96IQaBMQERj+ijniWDq21bdG3TrOb7PY3sXx4/t+QWMQ6OnnTsvABkR6WIThi950iMjmVm+hUNjcbQUbmZ4YErfTkWyZNCzK41bUgcjZHj3yciCHpczV+eJhmODPYZQbgiK/D1VWOvNGz2ZpaBpV6pWbOIlU9z2KGCWbQc5VX8ZUBSG2T1CTwQCSGevPEN1KDHG0RiN2tqhdkmdsV2TwX4nIj2MuM1X/4k=;xkJaqZfZ2oda5RF+LyC2nA=="
+secured: "luXO/GRfsTV6FV5orRk4WzpAIkqOMH8gJkoPV14ztG8SkK3qlzlyG14r74yjmF9dPHaWXu+4eKNvLe4oW1lX9EtnSt/IzJ8y/gwFCNnzfek0V9PdXX18PLa80PkKyE3SXfs+6SvkRox4cBCbbY8vjgCDCT58sZ5ZTu8RtBud3yJ6uUmev7RU4pIyyU0xvvwGgeVL3dfFihUhF7SKk8rf3Ka3LWidXYBL4Q8gcWCvpt28aYV5YxS+iFqc7+HF7NTj9EBlRvgXqFuODqwuekmJ7y7Euv4vbBodfnw760fH2PC8WXfFLW1yMetyNuiSnUeHAqWxuguKLdK5Mptvoi6Tkdemr7zcRhqfh3lH5qgv3uuWWKZR0Bb/kNDs72G0d3tE3g+xnhFZQZew6/PMP9bSj74SaIYX5b/a7AVNfzT8w85a551gR5gD95wWy0XNrtM1LaPjweEp/8cQ6cjqEYZuw+zv7RUR5tur8u2LdtNk34acYIwjGXPVeD0uqlVFGwFakiz/6Utd0Mtk1MyIiXAdlQ==;LWQC7JzmnlNkpzRpSnDlow=="
 ---
 

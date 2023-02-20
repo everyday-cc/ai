@@ -1,20 +1,17 @@
 ---
 category: news
 title: "Amazon's new self-driving robotaxis may soon be hitting public roads"
-excerpt: "Robots already deliver us packages and pizzas. Now, Amazon is ready to take the concept to another level. Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers. The robotaxi ..."
-publishedDateTime: 2023-02-14T04:06:00Z
-originalUrl: "https://abc7.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
-webUrl: "https://abc7.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
-ampWebUrl: "https://abc7.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
-cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
+excerpt: "Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers."
+publishedDateTime: 2023-02-14T04:14:00Z
+originalUrl: "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
+webUrl: "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
+ampWebUrl: "https://abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
+cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/"
 type: article
-quality: 44
-heat: -1
-published: false
 
 provider:
-  name: ABC7
-  domain: abc7.com
+  name: ABC7 San Francisco
+  domain: abc7news.com
 
 topics:
   - AI in Autos
@@ -26,91 +23,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Amazon's Zoox robotaxi now giving rides to employees on public roads in California"
-    excerpt: "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters."
-    publishedDateTime: 2023-02-14T06:51:00Z
-    webUrl: "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 68
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425"
-        width: 2800
-        height: 1867
-        isCached: true
-  - title: "Amazon's Zoox Begins Testing Self-Driving Taxi on Public Roads in California"
-    excerpt: "In the spring, full-time employees will be able to ride in the self-driving taxi between offices during business hours, Zoox said. \"Getting to be the world's first passenger in a robotaxi with no manual controls on open public roads ... was one of the ..."
-    publishedDateTime: 2023-02-14T18:39:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/amazons-zoox-begins-testing-self-driving-taxi-on-public-roads-in-california/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
-    images:
-      - url: "https://www.cnet.com/a/img/resize/86255af21a5efdc87e64881b0c03354d979331e2/hub/2020/12/14/ed965842-f0e3-4dd5-86d4-583dd57991ca/ogi-zoox.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon’s self-driving unit Zoox puts driverless taxi on the road"
-    excerpt: "Zoox, Amazon’s self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the ridesharing population. Just like a customer could call an ..."
-    publishedDateTime: 2023-02-15T23:22:00Z
-    webUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
-    excerpt: "Zoox, Amazon's self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the"
-    publishedDateTime: 2023-02-18T16:56:00Z
-    webUrl: "https://www.theday.com/business/20230218/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 39
-    images:
-      - url: "https://imengine.public.prod.day.navigacloud.com?uuid=6c14f255-2b8d-5c87-955d-d4b256fa6cd1&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.93361&width=753&height=424&x=1.0E-5&y=1.0E-5"
-        width: 753
-        height: 424
-        isCached: true
-  - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
-    excerpt: "Several farm, vineyard and dairy owners in the North Coast are among those employing driverless ... zero-emissions smart tractor with an artificial intelligence (AI) automation package that ..."
-    publishedDateTime: 2023-02-14T10:06:00Z
-    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/electric-driverless-capable-tractors-roll-into-california-north-coast-viney/"
-    type: article
-    provider:
-      name: The North Bay Business Journal
-      domain: northbaybusinessjournal.com
-    quality: 18
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=2ee348d3-69fc-55df-83d9-cd0de72f37dc&type=primary&q=72&width=1200"
-        width: 1199
-        height: 780
-        isCached: true
-  - title: "Electric, self-driving capable tractors roll into California North Coast vineyards"
-    excerpt: "Some dairy farmers and vineyard operators in Napa, Sonoma and other California counties are bringing in electric tractors capable of operating without drivers. Here are the pros and cons."
-    publishedDateTime: 2023-02-14T17:06:00Z
-    webUrl: "https://www.pressdemocrat.com/article/industrynews/electric-self-driving-tractors-roll-into-california-north-coast-vineyards/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 18
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=2ee348d3-69fc-55df-83d9-cd0de72f37dc&type=primary&q=72&width=1200"
-        width: 1199
-        height: 780
-        isCached: true
-
-secured: "3rW9eFR84CnoHhEyc/DRWVGpdOEOaaAduWiPXmx9QMd7nU8gCvxphO0PO4k0FFOJh9mOYtbzyVGaxMmMzwWVtxKUNlh1mvo+ZmekAl1hjzPav3ywO9Exbn0CNVFkHse1SB2DTsPJVsDw1cz2JF35IQiXrvh1ps+GY5hVayFQ556BAh7n0IN/q48DkaD1MsHm18Vf2aUTDragA45UOPzjp8XnOD1hERCZKDuYd2yd3/hOEw2fEcKTwcA2JAKOXdAQW0ppBYC0xNjapNGZSXbrQP3hwBMER5KuMgeDxyj8euuVK7Zfk3UqcSkKUIJfkrxNpKJeqKqht0DubNziTZsy49Ksvj0F7dxAzwc3nO+PoO6fXuLolObf+oomZ1uEa3zORe4Nj2n6Uu7VlBOEWnHvYmmgUzoGzoV5Bd0xeFoqNkNxWVguyqAuv7d6+hyygEaNJA5MlG2Ij6ZkgE+clXD7rKKd3dXoytCrxlW5hs/0wI3PGV8h6Kr/R+75FYCaqYgTeqt9yETEtZLBrynDINpgpw==;ahgI/GjGRZSeFrZvUjFnNw=="
+secured: "C3y9nGgTR0m00NpOFI9NoIv/8SxvBbmI5UnAWdCvFbk7Hm/OWpkGeRh0nP7CbO1YJ4jksfJrCG4cSRZjwAUmdozfQqzH8kH9NH1PwQGxNPYZRoFzvThVhBQbUb/5++Nm4opYv/Qk1Ul+Q+xMHM+lFTf5wUib8Jg2ImbDfYsvVTUloKZfeZlPkIX0CgeDyM5YakkT/1HxZAF+6yB4Qh5hy79kCF3uYSdr9GZcegQFJYcidPpTivkBd3kqPvbFS23w8Re2fhGCNBD877kTni2WeFOZpu54kpMibapvXEwAtb4UWY7ev5dLgLjXlY0uDEQGUdl+25XRAyvfZa9fLWp6XpAS/W8LgRgQ1jSvMZVRaow=;Grx+4hQbLV1hSQtfTFyNhA=="
 ---
 

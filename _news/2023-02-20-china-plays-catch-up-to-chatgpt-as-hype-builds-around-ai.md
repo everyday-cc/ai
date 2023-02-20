@@ -66,6 +66,22 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "How Blackbird AI is striking back at ChatGPT and AI-based attacks"
+    excerpt: "Blackbird AI announces the launch of an AI assistant for security analysts, which uses generative AI to create mitigation guidance."
+    publishedDateTime: 2023-02-20T17:57:00Z
+    webUrl: "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/"
+    ampWebUrl: "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/image0.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A Student Used ChatGPT to Cheat in an AI Ethics Class"
     excerpt: "The worst fears of school administrators are coming true: students are cheating, and they're using ChatGPT to do it. it's spicier than usual when it's in an AI ethics class though. But can we stop for a second and ask whether we really need to panic?"
     publishedDateTime: 2023-02-18T10:59:00Z
@@ -392,6 +408,15 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
+    quality: 17
+  - title: "ChatGPT hype sparks hopes and fears around AI"
+    excerpt: "It follows rapid rises in the shares of Chinese AI groups (mirroring trends in the US), prompting state media to issue a warning about the speculative frenzy. There are, however, several obstacles for the fledgling industry to overcome."
+    publishedDateTime: 2023-02-20T18:15:00Z
+    webUrl: "https://www.ft.com/content/ecda8734-4e3e-4e7e-9c26-ed5cbfde71e5"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 17
 
 secured: "/SYyhpL+eBO9zAToAt8EwP4ThJB1gI6+oOcUIpy3VFn7dKplNusqB4LHMrUm2k38qZ/gzO8T/zU/f9AMmvfAkg/AFvOMFP6Ku2/snJ4MilH+TUJvnvKw0/bxI6EwGzmorG3OVBTnqa62NHoCTGF5ExG7R1KLMlJH3ZojIsU9jFpA7Bf6QeCRhDrDqXMprp9pJ+TC3lZ/wO9qA5vISVsDekwmzUJ0Nx8uL/JjG0BOJshkAgvTSnCHm1D/p5HqhV/9wWJ00N8CEUq+uh9Ro9tUpL6TdGje3RmQrJgYgJyruye1ARFYBbDAcEMz1irJdWASox4MFLmytTwOZzjk5m1Z22CNUYVAClOrzb1VXGS1V9Q2qiV+yWIAlrkor2Z19KicBmfKgzr3zW+G+rTMGz4vgEP2/ZhxGkxJbOe9Jx1Qz3FKVu85cUv63MCLJCGqIpc0zhLOrXfpoUiWEmzgmvnRCILWXTQIPiLl0jBd0ad7m/6PiAka1soBbhagbnrLzuvTY3dmhsbVyopFlReq1FPl3w==;FeWetoWtxZq/OK7UZuM5/Q=="

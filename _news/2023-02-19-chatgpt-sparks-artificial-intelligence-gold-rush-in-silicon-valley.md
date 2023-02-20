@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556-amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT Sparks AI 'Gold Rush' in Silicon Valley"
+    excerpt: "Artificial intelligence (AI) has been increasingly present in everyday life for decades, but the November launch of the conversational robot from start-up OpenAI marked a turning point in its perception by the general public and investors. \"Every so often ..."
+    publishedDateTime: 2023-02-20T16:40:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21260367/chatgpt-sparks-ai-gold-rush-in-silicon-valley"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2023/02/dreamstime_xxl_107016485.63f3a150b76d3.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT Sparks AI 'Gold Rush' In Silicon Valley"
     excerpt: "ChatGPT, Silicon Valley's latest app sensation, has investors rushing to find the next big thing in generative AI, the technology that some hail as the beginning of a new era in big tech."
     publishedDateTime: 2023-02-19T06:04:00Z

@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market In 2023 By In-depth Analysis of Revenue Forecast and Competitive Landscape 2028"
-    excerpt: "Feb 15, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Research Report 2023 Provides a Basic overview of the Industry including"
-    publishedDateTime: 2023-02-16T02:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-in-2023-by-in-depth-analysis-of-revenue-forecast-and-competitive-landscape-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Small And Medium Business Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence In Small And Medium Business Market\" Report provides a Detailed analysis of global market"
     publishedDateTime: 2023-02-18T10:00:00Z
@@ -137,20 +123,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence For IT Operations Platform Market Size 2023 : Emerging Technologies, Opportunity and Forecast to 2028"
-    excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence For IT Operations Platform Market\" Research Report 2023 Provides a Basic overview of the"
-    publishedDateTime: 2023-02-16T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-it-operations-platform-market-size-2023-emerging-technologies-opportunity-and-forecast-to-2028-2023-02-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

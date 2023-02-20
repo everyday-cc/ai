@@ -3,23 +3,23 @@ category: news
 title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
 excerpt: "Zoox deployed a fleet of Toyota Highlanders, equipped with the same software and hardware that power its robotaxis. Unlike the robotaxi, the Highlanders have a steering wheel, ped"
 publishedDateTime: 2023-02-20T11:15:00Z
-originalUrl: "https://omaha.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_1443e73c-b1a1-52e7-920d-992115803e30.html"
-webUrl: "https://omaha.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_1443e73c-b1a1-52e7-920d-992115803e30.html"
+originalUrl: "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html"
+webUrl: "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/44/1443e73c-b1a1-52e7-920d-992115803e30/63f1b9d5b6105.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless box truck slams into Yukon restaurant"
+    excerpt: "On Saturday morning, one person died after a housefire in Norman. Crews responded just before 7:00 Saturday morning. Officials told KFOR they were able to put the fire out quickly. On ..."
+    publishedDateTime: 2023-02-17T22:37:00Z
+    webUrl: "https://kfor.com/video/driverless-box-truck-slams-into-yukon-restaurant/8401674/"
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 39
+    images:
+      - url: "https://kfor.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
+        isCached: true
   - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
     excerpt: "Zoox, Amazon's self-driving unit, has hit the road with its driverless robotaxi for the first time. Founded in 2014, Zoox has been working to develop a fully autonomous vehicle that caters to the"
     publishedDateTime: 2023-02-18T16:56:00Z
@@ -54,6 +68,6 @@ related:
         height: 424
         isCached: true
 
-secured: "bLpqWSLDGhGj/kvLlEzDGYsxFACHmBHRfWUXdSt8PgMLgLNrmAFEzJp0XmGbWg0TZCNp7I0vcNdJmVNZe+IvJZybNzmOO5O8HvFN1Yo15kD9ofVVpBJ4c7pJ6c0MeE2eCW/C9vYVDg+vx0nOHU/6AxW3LUdEir1ssvfLkK2Fm59p0WEqmm5NuIgY3ajZ6lMh2NhzXEq4KMMOpvDocneHj9RER4oM3cs8tr7LHXY7ySERsxTfP2ZbRkZ+BNNPp/yzhsTlUDpWC+rgT3wnGYAc5TxBilvp/pBLxRqhfkNaVi+34yas2xu5MWd/rrYPRktyV6L20xnsypI5b5x85ys0I3qjm3qhkzUCJoUz2pZijYo=;GR9ijTwJUhfeyO5tGDkIGg=="
+secured: "ER1hSHd2Ov3dJFldHWogzofIEQBJFTVN+/YHaa8fjzZbtOdLG+FSBj6O+bAoC47w2IdX4VE2SIAQwwiWH8sV+qo2NSKLGoc/ZbmZRxT/CQy+pNmFfuwb538RnMVUmY/dYx9MZnA4Oexjm0dBxPHVb+cYdK5JBxIxcWHKcaOSKh57Y5v4NvmDHLX4oW/oSEuL3gKVvOUTg81zLpgrZ/N1F1dGOlxu926INs1Ek7h8xPaCeGn589PoNZSxosMMlJcSLTunQKuxD3f7/ffZYlVOblOnPTmYmh+6Oz+ZAFBjGdeDZGHJzjynDvvTn3dmYKKm7Wi09DSg3wStcs1KwZNElhi3UJ88Gbz0/pkFc6KFqsI=;Fz+ew3ghw8/FUK9K9hwizw=="
 ---
 

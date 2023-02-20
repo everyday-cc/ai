@@ -216,6 +216,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
+    excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
+    publishedDateTime: 2023-02-20T10:58:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "Microsoft’s AI Chatbot Finds Early Success in Bing Searches"
     excerpt: "AI-powered answers have earned the approval of 71% of testers and chat has proven a popular addition that’s deepened engagement, the Redmond, Washington-based company said in a blog post Wednesday. People are also using the chat-capable Bing beyond ..."
     publishedDateTime: 2023-02-16T06:17:00Z
@@ -313,20 +327,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/001t5z7JRY6TuUOSkqEvMdH-1.fit_lim.size_1200x630.v1676672725.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
-    excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
-    publishedDateTime: 2023-02-20T10:58:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
-        width: 2359
-        height: 1270
         isCached: true
   - title: "Microsoft is 'leading the pack' in artificial intelligence with ChatGPT and shares could jump 15%, Wedbush's Dan Ives says"
     excerpt: "Microsoft is \"leading the pack\" in the artificial intelligence race with the company's latest AI integration into Bing, according to Wedbush's Dan Ives. In a Friday note, he maintained an outperform rating and a $280 price target on the stock but also sees ..."

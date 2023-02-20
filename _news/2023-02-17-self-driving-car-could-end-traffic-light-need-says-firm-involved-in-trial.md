@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-64664549.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-64664549.amp"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/9/2/1_6053570.jpg"
         width: 940
         height: 529
+        isCached: true
+  - title: "Why traffic lights could become a thing of the past in 20 years"
+    excerpt: "Driverless cars could lead to a ‘seismic shift in the way our roads are laid out’ after successful two-year trial A self-driving car is driven on public roads in Woolwich as part of a two-year ..."
+    publishedDateTime: 2023-02-18T07:03:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2023/02/17/why-traffic-lights-could-become-thing-past-20-years/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 24
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2023/02/16/TELEMMGLPICT000325623276_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Self-driving cars could make traffic lights obsolete in 20 years – engineer"
     excerpt: "Thomas Tompkin of Smart Mobility Living Lab told the PA news agency ‘a seismic shift in the way our roads are laid out’ is possible."

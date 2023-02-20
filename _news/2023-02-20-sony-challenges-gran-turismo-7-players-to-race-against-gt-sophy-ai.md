@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gran Turismo Sophy devs explain how it taught an AI racer sportsmanlike conduct"
+    excerpt: "As the first significant public release of technology from Sony AI, which was formed in 2020, the upcoming Gran Turismo Sophy Race Together mode for Gran Turismo 7 will be many players’ first exposure to complex AI technology that could have a lasting ..."
+    publishedDateTime: 2023-02-20T13:00:00Z
+    webUrl: "https://www.digitaltrends.com/gaming/gt-sophy-gran-turismo-7-interview/"
+    ampWebUrl: "https://www.digitaltrends.com/gaming/gt-sophy-gran-turismo-7-interview/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/gt-sophy-gran-turismo-7-interview/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 83
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/RaceTogether_replay.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Race the Sony Gran Turismo AI That Beat the Best Human Players"
     excerpt: "Sony will let all Gran Turismo players take on GT Sophy, the AI opponent that defeated the best players of the car racing video game in the world. A test period of what Sony calls GT Sophy Race Together mode begins at 10 p."
     publishedDateTime: 2023-02-20T14:00:00Z
@@ -63,6 +79,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "FmqJf1lCy2r70NcahqhWPYD2QHt0g8AqnDvotzv8CEhgO5HrZ7wjEqmEnhHFr3zif/Jyq68PSdmA3M7rqsMy71zRn7F1EJERWTCJLOSmwTJwZ0QrVMDIFcR+VHdTMWjxfj7VdIYczLhCxTnu0+L+bHMlA62rVGosvyd0QgisbezoyrKCX3TjvWsdDvq/qI0wTgYTkapm7be/06jNDw4hqrzcbtBQCphcT4XB+tFxeMQvUcvjBuZS5wudUW2qjFpRb0AXwEemo0BIEWMk41LLpKmcBNJKRRtDcKqnGFAM/xAq7G8gFXpD0Sdg5T+XUjVMZTfBqZJKLsOzIFvWDx+qGzKAKDNqS2OgV8SQBIQJ/Vo=;P0ZiwTSnJt22BnXghU+jzg=="
+secured: "EC4TJ1ot/Mdcq2unEmILTpLZPU2KBtdwW9P8rE8CStqzVnOdPAl2SFFj3g2Kos+wGEfrHi5RBZ8dvQcMV4qGABwFgz2CPqQ4e/IKfhRGjZR252CgFTOEtAI3fubhXVWjKHxrLea7eK2VbmlOrJ58PvRPVY+CIQZCrCK1SJrpcRwG5jMZwP+C0waSGHtA8D+fQmtUFWDMJSKRDZZfAlcm9oL0NgXAR04q52TEhqunpmcFhaerNo34DK/jNU6hxTaaZ/HkTrOTSPcPKA2kaVBd8YzudvNNCgKomeWysTyE0n7HWiLgQHFbc1QncKfR6qbb3UZ47wMHDb1v+q8hdWYuKZAd5f3jNb8RftjDqYQpy0bsp4ul3XX4BWVfLqvHVq1D/tWcWyEiv8zfAsjVe00YAQsiiqPQfKeaa8iMKxfFxBpmpU+PM4JFe1WpBG4vF5srl0zX6U3vQ8gTu8CHCOJrn6KyjeGNff3TJiFFZeqd6xFIZpz/BwdmLyXRSDPZ1gkfGGUL49GTlfuUcUALEh8r3A==;rbosZSymdJ7sD7RsN7YKTg=="
 ---
 

@@ -39,17 +39,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless box truck slams into Yukon restaurant"
+    excerpt: "On Saturday morning, one person died after a housefire in Norman. Crews responded just before 7:00 Saturday morning. Officials told KFOR they were able to put the fire out quickly. On ..."
+    publishedDateTime: 2023-02-17T22:37:00Z
+    webUrl: "https://kfor.com/video/driverless-box-truck-slams-into-yukon-restaurant/8401674/"
+    type: article
+    provider:
+      name: Oklahoma's News
+      domain: kfor.com
+    quality: 39
+    images:
+      - url: "https://kfor.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
+        isCached: true
   - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
     excerpt: "Zoox deployed a fleet of Toyota Highlanders, equipped with the same software and hardware that power its robotaxis. Unlike the robotaxi, the Highlanders have a steering wheel, ped"
     publishedDateTime: 2023-02-20T11:15:00Z
-    webUrl: "https://omaha.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_1443e73c-b1a1-52e7-920d-992115803e30.html"
+    webUrl: "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/44/1443e73c-b1a1-52e7-920d-992115803e30/63f1b9d5b6105.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

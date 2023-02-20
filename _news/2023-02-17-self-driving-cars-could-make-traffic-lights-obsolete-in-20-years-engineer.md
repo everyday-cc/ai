@@ -57,6 +57,20 @@ related:
         width: 940
         height: 529
         isCached: true
+  - title: "Why traffic lights could become a thing of the past in 20 years"
+    excerpt: "Driverless cars could lead to a ‘seismic shift in the way our roads are laid out’ after successful two-year trial A self-driving car is driven on public roads in Woolwich as part of a two-year ..."
+    publishedDateTime: 2023-02-18T07:03:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2023/02/17/why-traffic-lights-could-become-thing-past-20-years/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 24
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2023/02/16/TELEMMGLPICT000325623276_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "A/Ilk+3/CulTzpQBlPftA3fNr+ab6u5nn6mBCeDVJln5Vhkd7uduyPH370oGFF8M0TC9CKApXFj3W9Gzf3sWAQBW9BEc3aH0rNT/qGSr+9BvuIrR7LmIxglhrelKHylyOEPJ5h+aJwsEtzRaccGNr1UUl+YnoQC5I0OywPz8q6cYyQ0big5SnYds4oPZ5rTrd1vRl3FSKPBoX9KeVrDZTUNQA72wRW+VAAwJToXaA0ofb0MdX6vVj73TRMRSvctwNT3TCD8LYuVC5mE2UOnsgNiPtEDZRDlzDA8Nx03s58xEicmUz6Fxjd6rEgz0aEY2oQUTmFnZAc6iWEDBe1bimwS0kPU2ZSSBF8MjRv6XRgI=;pFrIK81lGNW+QWjAA2eVQQ=="
 ---

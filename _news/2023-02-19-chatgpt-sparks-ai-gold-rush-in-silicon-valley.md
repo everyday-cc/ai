@@ -35,6 +35,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "ChatGPT Sparks AI 'Gold Rush' in Silicon Valley"
+    excerpt: "Artificial intelligence (AI) has been increasingly present in everyday life for decades, but the November launch of the conversational robot from start-up OpenAI marked a turning point in its perception by the general public and investors. \"Every so often ..."
+    publishedDateTime: 2023-02-20T16:40:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21260367/chatgpt-sparks-ai-gold-rush-in-silicon-valley"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2023/02/dreamstime_xxl_107016485.63f3a150b76d3.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yFM3RTxrKC609HdEyaFgHQpEGETN5PyCuarwo1KjsAjvhdV6DtfGy/0dD7c+ycWOLR+O7hCF2ClGHwpGFQC0VeU0ggKNa+6UsSnUiVP6PsLSjV5BKyUNy1uplO05E3tlH71dbQnl4BfuTBjR5tzZUjUl8hpJJKhPwqvmY5U9OLliNARECtZu2L5RUV54XmVdd8lDlMMHWfOy1d7OsWtQebwgnuqmuZ3uZMHrp5OuYyTPBuDWvRxrAE/n0WDnW2X/nlaMU5cKhFZzfNspaHpCnNEOEphBPdzo/7hZqvC4kPDbWAaVJFeI8qtfolmASB8K5VAU5JFX0oT2CQpmbcih/ZHooLOIIgoBpepXVB1hmf0=;etilANZYf6CeeXKJ1ey3mg=="
 ---

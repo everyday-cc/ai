@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-20T10:58:00Z
 originalUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
 webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
@@ -604,6 +605,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "5shLym8DbKHk4xekSd/RPuXWsomuZlOZQiZuh0snIdi4ycpiiE7UnVdV/ENBfhY5Er3JOiFOPmRLyhkeYHI2G+7ze/qun/RUn1S9b/dLJCc2BfEq2Qtb7GwDYOdjeu86xOy8PDkTkx1FWFIeV7IwTd85QLt1RZmpkJLlWgH1Lnw2dLRUsbE8VrnyG83C+DzmseSP7sB+oN6fu/ouu2h0y+Kkc1eGDByRmfIKvj38v8QDv+OG4Lh0ehVj6MZVW1LUll/oRTkTbsTlYttybLDCxAwzF7R8H9f9PK8Kyt02/wRF77d/P7c9Gwz84zuG0ZlxFFJ64jRKpLUq5aEOAREJs98bhe5am3a9FRag2qllFzg=;RknaDMmeP2PvUUfU+JkLWw=="
+secured: "vz+eih0zzj1cHNN1dyQfqpifmDbE1yN5RbNN0BA6n7TZ6ddCMyhgDq1/swMbhp0W2noGOSFddCGQtnymPk0OPKi5IgxABnOTlKkNYlBFNKbmrgDXPge7NxkBEQFZtksx30W5R1yyCGidPJsWwv0EfBJTZpAsr4Y5tQITgrS4RFLo3nCyLNzTJpbwb2IMomVkyRtNVy2GAYZ/H2SrDx0mIb8FhjrUny65aOZMhzgQTYY0rxb4/sf6izidRX97ic/J3g/TN0U6EDY8gq2rL8Ox0r/YyKY4WLv6xJy1U+xp4mrQT1dR+VREqfkaiNEm/oe/kFXXawUSJpgQoBjmReqb8547de4AnAWtnG2MJbsC6hBz/8cAmEbKtZ1suE/5u99pJc2+cCxHwTg51/5W9WaoJKUIBqgkgt2x3NMgR0QPp5euij24dtg99JjFHNuwT/nWUqKJzR3C6eldE0VWJx8lDasQWmUD0gT7qSE1Rq7nMTsjj/+F1yXnBeyIbcFmKVcFsEiIphEeAUVEw9e+tn6kQQ==;4NuijYCQ7UGgk3rbZZyJMQ=="
 ---
 
