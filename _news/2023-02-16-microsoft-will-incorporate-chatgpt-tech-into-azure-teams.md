@@ -331,6 +331,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
+    excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
+    publishedDateTime: 2023-02-20T10:58:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "The Microsoft Bing AI chatbot doesn't have human thoughts. Neither does your dog."
     excerpt: "This is a non-trivial scenario that requires a lot of prompting.\" In other words, if you start repeatedly urging AI to consider its \"shadow self,\" as New York Times reporter Kevin Roose did in his giant, multi-part, overtime-triggering conversation with ..."
     publishedDateTime: 2023-02-17T20:18:00Z
@@ -593,6 +607,6 @@ related:
       domain: latimes.com
     quality: 21
 
-secured: "111JXsHGDrqM4OuGLFJhir81FagIe9qUxmeztypBRRzjK1I5vFWfNlZJ0uwVlaAuEeFi7LdKR9gNji2IVam7/NmKKFbTZYUH/+B67H6WTG9vdICrdYBZIqF31v9jCrFMopPUx1++oaKZC3BT3ON+1YbY5j40kTE2vBXkqs1vXwpLGdPuS651HtLlLkK+8HbZxcYT3EalYQfwqVNJwT7HIwWhxsqq+WE8LAb/OHQc2ajageE3DOJ9Rp98c7BC93/+Zl86yaMaaARsBIigVCiv4IRrvKR9BxHfTfY0YXNRbUtYLCqBgJOXxNsZxKfWvuFCk+Hm9vIL+GofzuSv9aVfUKAVj5L6YaIZJFaD6DT+sqE=;rOUb6ex0pYRlDAtQ5bimtg=="
+secured: "H8Y8dWcli8pMDcYlLRfLUocrLtZglB6UyKijVq80k3NmY4cj6ES2s63vi6SVkMuXf32YxWg+gyD2EtXzkAGwkbvb2CdEHH2zgLZgiQzTopu6hao+JRuBu6+dr5xKUmu2MKIFy36pgVxzHZRCb7wPGtSwCQhzpfPGVpviDxKeobTNCWYFrWF/fmpIRG1DKOF/VAD7NsruQRNpnKbKRxtm2ktCDWw7QzPWTPgYokwOhVVgdZc5uqqOuTGeJmfdS80pJKvy47pADLkSBVvARMntiU2f5AvFkzmEOhLdPMltfD+haZ2vNOjYABOLAKlq7Ur8A12pJ4D5wcHaqDsfyEm/mpB5kUsvrVMUlorDMNLkRrf51XWPMfW8TT2+wMhFx7XpYqjbAfskhtzFt3zJV3vL7Pm7bj8WxoE9qqDV63+IoCLUlqrrxXPj4crdv/T7gTnZ36JwHpUflXIOaKI566YPIsbSjDWzPEAa1ve86WKfoaMVwxSfIwqMU5Aa1g1znT73l+Ujgi2FMx4B7KHkQADcsg==;IzM80paZWIEexK3aBTcr7w=="
 ---
 

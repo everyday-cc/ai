@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Leaked memo shows Google CEO Sundar Pichai is asking staffers for help testing its Bard AI chatbot"
-    excerpt: "Google began internal testing of its Bard chatbot on Tuesday. Sundar Pichai is asking all employees to contribute hours of their time improving it."
-    publishedDateTime: 2023-02-15T17:25:00Z
-    webUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/63ed1235eeb52e001886a1fa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How will AI change mathematics? Rise of chatbots highlights discussion"
     excerpt: "Machine learning tools already help mathematicians to formulate new theories and solve tough problems. But they’re set to shake up the field even more."
     publishedDateTime: 2023-02-17T15:41:00Z

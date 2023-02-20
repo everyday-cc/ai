@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Coforge launches Quasar eBOL for the logistics sector"
-excerpt: "He added, “The toolkit and accelerator use AI technologies such as Computer Vision, Natural Language Processing (NLP), and Natural Language Understanding (NLU), with fully consumable REST API to enable multiple use cases, scenarios and solutions.”"
-publishedDateTime: 2023-02-20T06:09:00Z
-originalUrl: "https://www.siliconindia.com/news/general/coforge-launches-quasar-ebol-for-the-logistics-sector-nid-221403-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/coforge-launches-quasar-ebol-for-the-logistics-sector-nid-221403-cid-1.html"
+excerpt: "BOL, leveraging its document processing engine to address a universal need in the freight movement industry. Coforge’s Quasar eBOL"
+publishedDateTime: 2023-02-20T08:25:00Z
+originalUrl: "https://technuter.com/channel-news/coforge-launches-quasar-ebol-for-the-logistics-sector.html"
+webUrl: "https://technuter.com/channel-news/coforge-launches-quasar-ebol-for-the-logistics-sector.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: technuter.com
+  domain: technuter.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/8.jpg"
-    width: 570
-    height: 367
+  - url: "https://technuter.com/wp-content/uploads/2022/03/Coforge.jpg"
+    width: 450
+    height: 397
     isCached: true
 
-secured: "jzIFcRbo4b/p3x5Pu3Y7vyV1B/kTG00H+3njP8SFODIc55I7IxDmn8plfvVclMbz+/kRI8saXnCDGcXBT5xUX94g5GlRExcF/l8sXLI+KXVOlQY8zyX3Bc/hpwtFXFQU670fM97dk4iI2nrcAnnWuWPCsu6lxRFEhfLUG8hbGOotZt83luc7RCiayrG1qDA0WhjWKM2VZjYuIFQq5iQeOzz0v8fChmhoShnLb42dbZrrLgmC7sy18vlVaR+3ujk9wzGw3VwdHlg0jyGW50EdIXytuu6HQ/RLzaPOjjA+qI+KCivbwqeUihzcTlTHM9Lhde1JToGhSiyTP3LC7lCbQe7WLUk1oXuPCp8wMZBG5xA=;fbrvqHJI7fWcLiUH4baHAg=="
+secured: "UKYOJSfILTUBkbcYmxrg1BE19ZXgTeNwD2KQw88f5uwkN2VTLOMR1Yx2uIGE0sIp8zGkq89G/WnlCFzeWublzabpeivWfTKXPHECP5rO/0RaeZwqF2J8v0OM69IhT8HuCSuWXlN8rRPssv8ZCsB3vytWTNk68PymizQgzFtYdPC7JKvaKpmcAQzFL8PMoNJ/EepFIOQvnkrYlIby5SkgiEfFqI9op4dt0JFAkNrUCV0+22lBFJgl9ivfE0pWzJ8Ej5cDIAe7CRbPZx5HBxRrMgnsTeS9ylB6QKymebfTH1L9sM789tRHUvbp3TF5SHYOdc4AfCl9jacqTuiOd9wnrmg6XfA9oq++wQPx/mGslUY=;2N0SKNFKTcTtGgUoXLlBNg=="
 ---
 

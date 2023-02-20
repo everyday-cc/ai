@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trend
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/tech-trends-that-will-define-fintech-in-2023/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/720997/loan-discussion-gettyimages-482134861.jpg"
         width: 2121
         height: 1414
-        isCached: true
-  - title: "Fintech Investing In Q4 And Beyond – What To Look For"
-    excerpt: "For the first time since the beginning of 2021, Fintech is no longer the leading industry by investment as it has been surpassed by Healthcare ($16.7B). Despite a 64% downturn in global investments since Q4 2021,"
-    publishedDateTime: 2023-02-15T18:36:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/02/30931113/fintech-investing-in-q4-and-beyond-what-to-look-for"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30931113"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30931113"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/02/15/joshua-mayo-bmj1vl77zwm-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Fintech at Cornell Welcomes Ripple as Newest Sponsor"
     excerpt: "The Cornell SC Johnson College of Business is pleased to announce Ripple, the leading provider of enterprise blockchain and crypto solutions, as the newest sponsor of the"

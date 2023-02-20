@@ -192,6 +192,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 21
+  - title: "ADAS Market worth $65.1 billion by 2030 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Software to be the fastest growing segment during the forecast period Increasing demand for accurate and faster object recognition will be a major growth driver for the software segment of the ADAS market. Modern vehicles are equipped with high-resolution ..."
+    publishedDateTime: 2023-02-20T09:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58353496-adas-market-worth-dollar-65-1-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "d6pnGum56C1CqtcBap+3rG1IPqSoWIyo4wOwDNZPRlXwFv409Ff9x7qUgNsKaqXbcYGYUEwv48XvZw265m4yhQOtZ/RD9/tQvNcd/ftLGfN0gded2G6z6GE6hsTHPnlosk4cGR2oWpuEYndRLFmY7C+VquGFVQfiNzufQ7oSF6jCsPWP5vwEhgHq20O4k1IAB0UKIVxXoDIWaVm6e98q1+cYFVqDL2roHa1PLnUSAEB7kle4VYA6v4l6F0/9aS8pvgnzovKoIz7fvLRb0NkZxkMcWdHsNQBmTMLmmSM3KDFfZkg4PEEoB80Ttn8jX4FKWzF4fReuvkgC7kL/eTmIMnOYIAHCY9gywR9s6oZLe7s=;TRTYiYPMRhecr24jz4EVuw=="
 ---

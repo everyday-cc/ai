@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
+    excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence and Cognitive Computing Market\" 2023"
+    publishedDateTime: 2023-02-20T03:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Mrzk7aB/WR/FZif4foAblu8OsRpki2m2jSn3sEgQFpNtJ9Dbzsd9pkR1kPhwFYs9wHPmhT5uy86y+cHkwpKRha6v63KM9e8xugaQVcP38ijHk6l9KoCZr5HhJ+0XZvLtC17vCQhi0KOnWjwBf2rlA3Y3VWc0BfNADV31bIsgskgmzEei+DOTlDaVWUWoEYodHq5NFPqP+ahctAp/gqIbzQu7SlRqaTwJlGwkTag2c3pNK8Rr8hlLuYdJ/DXhVc8mkz1jcL5lDIf+Ug4RiVo0QrvUoLAS0oCtZ7lcvvpw34g6INU5IHdOg+A1NIF/Jgzn3e/9p6tfp0a+REjg6BaUe3CR62xMEaEYtarg6lciMnw=;IDzTyi4MRGVlT64PqCftIw=="
 ---

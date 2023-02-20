@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI is no threat to traditional artists. But it is thrilling."
-    excerpt: "Relax, everyone. It already is. Artists have been doing amazing things with artificial intelligence (AI) and its various predecessors for decades. The work is only getting better, more interesting, more exciting. Get the full experience.Choose your plan Of ..."
-    publishedDateTime: 2023-02-15T17:30:00Z
-    webUrl: "https://www.washingtonpost.com/arts-entertainment/2023/02/15/ai-in-art/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CUKQMYFCMZGVVCCKK7T26KLDVA.jpg&w=1440"
-        width: 1440
-        height: 781
-        isCached: true
 
 secured: "p4pz4T5DQE0GFNX2Cz93XRdpHCrWbUTToDUH94G7vVX4egURHSbBrQ+a4bDtFxkMrLiWsgIeqTgV4pS4MCuMf58qgCN8T2wL3x3FEiALQZPFdZOgDhUtxMxn6Q52/dd+5ZOxGfyCalLDRDkWNgaLBlAhYHSLQREV62Abk+9MLvVfk9lNuCAUXDlNx4b5bKSJ4KjFCjFzbADxuVy6V2PYC1OAygZBQuwLsAcK4yPgZjsXXEXOWh3N6ypABfSyU3X3RMvOgR3kH42sGtESs7ZkhGwqIaRdsqTs08JgZ7PXAMv3uO3zYrJl/S32S2ETh17or/88058vYxoEaQLwdMqtPrbVka0Z5C/IH7jPgwCj/7A=;jfBhtMIUNSKF3wM8pDdHWQ=="
 ---

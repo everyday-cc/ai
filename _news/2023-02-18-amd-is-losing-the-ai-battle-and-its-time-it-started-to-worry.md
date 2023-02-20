@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/why-amd-is-losing-the-ai-bat
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-amd-is-losing-the-ai-battle/?amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.theconversation.com/files/510838/original/file-20230217-433-8bwxxw.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
         width: 320
         height: 213
-        isCached: true
-  - title: "AI is no threat to traditional artists. But it is thrilling."
-    excerpt: "Relax, everyone. It already is. Artists have been doing amazing things with artificial intelligence (AI) and its various predecessors for decades. The work is only getting better, more interesting, more exciting. Get the full experience.Choose your plan Of ..."
-    publishedDateTime: 2023-02-15T17:30:00Z
-    webUrl: "https://www.washingtonpost.com/arts-entertainment/2023/02/15/ai-in-art/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CUKQMYFCMZGVVCCKK7T26KLDVA.jpg&w=1440"
-        width: 1440
-        height: 781
         isCached: true
 
 secured: "LzMz7m/bmmsX+KqzFFAN9PgB6y2B8FRLf6b08pJ2tQxRjm88Agp+Tm+KQs07SROD5mdnqpay2B7X1caoSlmh5pdRXQevqk2StYYuvTRgqXo7iACaWf+INj/7PsmtEA2FBE3LhK9oBOGVB3wpqHD9x3yI6NSIQpWApHM2ZnDI5yQJtJ2O5dr98WxrgmQyi7NrUXGzAP3y5CscFDiJXSJVAg9xNO6oJEQY+jnzED2s3ZRF8+CQmYrdINH3VHvyGMAw66e5QmvwbKAUwmEkqz66+V4c5GRWHj5T+3786WHPxsweheN0082VeH/O4RhAGCNGpkqgE7ZK6WNyXzu2uWjAv41BrnnXc9cPdOVV2VG+uoqn7nyPuY34pX12IgowNS/TAB8GW0W9v5MLeZrzvkh+FZchr2SsALzkWu10m6gY0kHm3i6GPayvgtVYQBQPnRoj3KQ/6Gv9oTI+P4QTns2DIaD/duYgfsBjvWG4SgxxiNrMZthQSRXXugVToZfVDgbFosULD8vnXnIOTMQYwHSqCQ==;aJvF5CZn02EbSEly3gijOQ=="

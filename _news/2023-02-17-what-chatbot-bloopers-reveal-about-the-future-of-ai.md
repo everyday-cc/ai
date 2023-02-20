@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/bing-chatbot-errors-ai-future/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bing-chatbot-errors-ai-future/amp"
 type: article
 quality: 89
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676542576.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Leaked memo shows Google CEO Sundar Pichai is asking staffers for help testing its Bard AI chatbot"
-    excerpt: "Google began internal testing of its Bard chatbot on Tuesday. Sundar Pichai is asking all employees to contribute hours of their time improving it."
-    publishedDateTime: 2023-02-15T17:25:00Z
-    webUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-bard-chatbot-googlers-sundar-pichai-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/63ed1235eeb52e001886a1fa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "How will AI change mathematics? Rise of chatbots highlights discussion"
     excerpt: "Machine learning tools already help mathematicians to formulate new theories and solve tough problems. But they’re set to shake up the field even more."

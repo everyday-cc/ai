@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-cha
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html"
 type: article
 quality: 104
-heat: 514
+heat: 524
 published: true
 
 provider:
@@ -318,6 +318,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/001t5z7JRY6TuUOSkqEvMdH-1.fit_lim.size_1200x630.v1676672725.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
+    excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
+    publishedDateTime: 2023-02-20T10:58:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
+        width: 2359
+        height: 1270
         isCached: true
   - title: "The Microsoft Bing AI chatbot doesn't have human thoughts. Neither does your dog."
     excerpt: "This is a non-trivial scenario that requires a lot of prompting.\" In other words, if you start repeatedly urging AI to consider its \"shadow self,\" as New York Times reporter Kevin Roose did in his giant, multi-part, overtime-triggering conversation with ..."

@@ -191,6 +191,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ADAS Market worth $65.1 billion by 2030 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Software to be the fastest growing segment during the forecast period Increasing demand for accurate and faster object recognition will be a major growth driver for the software segment of the ADAS market. Modern vehicles are equipped with high-resolution ..."
+    publishedDateTime: 2023-02-20T09:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58353496-adas-market-worth-dollar-65-1-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "+LHkQuxAk3rfdNHPjoeUz8uylJ9gKXUJwUI6O0SBZI1/+XW9P8SPXGCjQmYxOQEmqtNBqw7JpAexeVVqVmHb7AEJ9tRKxhwhilawzP3f7JQbm/oA8YNTjzUGmQjAFiPJAEvKh06FPr4C9/OzW623YwBQFVMdEWpPfvnm5qMuLssd5w2GpaWvPClj07fAwTKvExXQ72eGaSAPFDkatxIEP6CXGwvG+V/tvWbdXACV2pNwfl+TuKYdFEun7T0RcihoN/9q75ealQxBudeRhIVjlykUdJkQa3MwYlb16eN6yLrZE/FYfwb78/ZIUZwFjD2y6g3SL7gLizn3vwY1D8QNmegvP93A4MvElGCxKZ2kieU=;CjIL0ih8BWMOPmRKuHFsBw=="
 ---

@@ -213,22 +213,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Commentary: Why using AI tools like ChatGPT in my MBA innovation course is expected and not cheating"
-    excerpt: "I teach managing technological innovation in Simon Fraser University's Management of Technology MBA program. Thanks to the explosion of generative artificial intelligence, I'm rewriting my 2023 syllabus and assignments."
-    publishedDateTime: 2023-02-15T17:34:00Z
-    webUrl: "https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.html"
-    ampWebUrl: "https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/why-using-ai-tools-lik.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "AI on AI: Cardio Journal Editor Interviews ChatGPT"
     excerpt: "The artificial intelligence chatbot ChatGPT is creeping into medicine, so the editor-in-chief of a cardiology journal takes it out for a test drive, speculating on the role of AI translational medicine."
     publishedDateTime: 2023-02-15T23:37:00Z
@@ -380,6 +364,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "WeXwbjvzfOt/CyhjlOWhscWPk51kZLR8KoscmY9N4Gmpc3HCsC4BKCG4G6SQvPDeUFm9gRXD6j2ro9LDoZkpE/KjMoqFlcFcxb9BH0SW3IDtO7TqXQKJ9xlhHoBs912PosUKvCDF0tFgmafMfWRlxMIq8PT1KSx/qn17rdxVkYvMpzSULx7wlttSHtqrLg3FpCPU0j8R99RExtz2wiasXZkhedJByL7Fm0O/vM9oNmZGBi+k7kEKvKVMKVpfn9fYfANbxlw6/DPpEJXYSQvmKBzUO6nxkU+NeNKumvkYPcFMtoo/3649Oqt16K7G4KhlOVCuEbCIKBYJlu0YWe+FYGvGN9aN0OsraIdd1p21ewk=;AcXfMBDX/DXWXlYH+nX2zw=="
+secured: "NzoKDV1g9o/CaWquHME3hHOU4qHOs78rNXnyK4VTBW+/4RZFzv1pFS3AavJheeq5PJ7t8ks248oY0o1lFdaDA4kaXZmR9RcAS5HJFnzJ+npxT6OVnPtRIjFbzoT0HyzJM4JdVFDzwM6/+c4koQH1+6pBLOgx2cu6XXODRfK74mTMXUmMgc53tPCYn4zDvBJDjYwwREvKHS210c8dsWX1GcDf3xF7jm7wyDKQtSs8u9q+ffFMO2v446ANoZHydrg9IdzG3Z506BLhT1warpuWt5HeDrg6h1y8Cy2nUWL6WUMSSwYGYCEda2vC4OI/3MLy3QfP3Dw/5CXbkj9RZCPZrZTFCwnnCwB1jy8JQYJVcyxaggqbqAPkTY6FE4AZpSemnmmG8ht6JKC1glTnCEalhcjf+kneotBT/sMEZgz8v2FGHti1omOZ1/pWeVbptUZBps/+L2OcBP3OD5KAd4CPCXpePKz4dncSH0/DGvfw+4ti8jN8hsW2IQj82+i1xKi/xir0RxiXTA6NxBCH8IBb1Q==;MyEl6j76/C3C6NeBntUvTg=="
 ---
 

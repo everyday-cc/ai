@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-ch
 webUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17"
 type: article
 quality: 72
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -193,6 +193,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 21
+  - title: "ADAS Market worth $65.1 billion by 2030 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Software to be the fastest growing segment during the forecast period Increasing demand for accurate and faster object recognition will be a major growth driver for the software segment of the ADAS market. Modern vehicles are equipped with high-resolution ..."
+    publishedDateTime: 2023-02-20T09:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58353496-adas-market-worth-dollar-65-1-billion-by-2030-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "sywH6QZFSos0HXaz9WDIRoE638cgY7SnXVCooI9EKlutxPlrgiY2xO32vHzNmGCAH0cmJJdBiKa6BGZBgLHMn3xFxG3JsQEXb6CDKLFvJzb61xHEkyhueGZ+VTOrex/rv2GXKxkiOJ6pdIVnUpUpDYoanlqLGvfzSU5jvS7BdHEsaTATYNjklFiORfnAZNuHWRYdxuDAK8kxoJ9aNaDX0adv9TDedKgGGj6sa6YGce5r5V4Lviq6KT718cIcU0hd81V5/u3lduQ9vKmZFK2ARExNYfSyQkE3kHcLj8EAzZdhE4GYSrXsfHmXioKZDj1Hb06BGjFSJVFlECLGV9cLmpD1dwKdWX+PKEGhQK/i/18=;oOExHMfuBWm+o1cVE3yBmQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-beco
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: New York Post
@@ -26,6 +26,22 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "IBM runs an AI based supercomputer"
+    excerpt: "Fortunately it is using it for \"good\"  IBM has unveiled its \"AI supercomputer\" composed of a bunch of virtual machines running within IBM Cloud.\" Dubbed Vela, the AI has been running since May last year,"
+    publishedDateTime: 2023-02-20T10:32:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/56363-ibm-runs-an-ai-based-supercomputer"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3a2bf1b81ed4e1680b672adb9c15aa66_L.jpg"
+        width: 620
+        height: 466
+        isCached: true
 
 secured: "Ae0krePR9Q0EP3bGz5T+tU7lQ8wEqG34odk7SvRNUFUcJZOsXDF9mc/Ch36iGUJueb4LKRRNbIhJhjxvmeLYQXt+2UwZRSBe+zwvj3TNeZvoTXpsusG0qp8bJoI+4eTyGPAJI0PUTXBYju5CrbLe8J4lImUp7Ruj32XwTuTal9W9iuSucbj01hG0X5PfGU3dGD4lwZ38kUo9ehFcZ+jRi6jXJsLt2k1NDLRjupO4PROpdtX/YxJD5a7QZcU9mikkm7dF0Xyx6+9rQ8VFnIYrBThLgFRTchoEx5LJintN9MoE4gwVQn9imzPEDplgK7KUyZUOOs6qowMsj9beygr8bWdvfLnja+i+uvt3cxBD+IO2BwUHFVVR5pLgiLC/4vpdXolGDp5mArOQb2zD/G4f1U86WC7K6YEFHRWkPhSkUtonvZAUqzhvn49CplmQTJqg8jAX3X+C0nA8vACZwkMV1vH0f8j1rAMkuAIccszi70uI7EBoqwZrA5+CT/FhXQhVDeQvSF61mfjJ4+AR6pyNtQ==;FMzqKmzOlW4vAMuoAfEu9w=="
 ---

@@ -200,22 +200,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Commentary: Why using AI tools like ChatGPT in my MBA innovation course is expected and not cheating"
-    excerpt: "I teach managing technological innovation in Simon Fraser University's Management of Technology MBA program. Thanks to the explosion of generative artificial intelligence, I'm rewriting my 2023 syllabus and assignments."
-    publishedDateTime: 2023-02-15T17:34:00Z
-    webUrl: "https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.html"
-    ampWebUrl: "https://phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-commentary-ai-tools-chatgpt-mba.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/why-using-ai-tools-lik.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "AI on AI: Cardio Journal Editor Interviews ChatGPT"
     excerpt: "The artificial intelligence chatbot ChatGPT is creeping into medicine, so the editor-in-chief of a cardiology journal takes it out for a test drive, speculating on the role of AI translational medicine."
     publishedDateTime: 2023-02-15T23:37:00Z

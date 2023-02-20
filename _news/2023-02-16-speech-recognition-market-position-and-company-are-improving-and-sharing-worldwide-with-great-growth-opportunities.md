@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intuitive machine control using speech recognition"
-    excerpt: "Researchers at the Fraunhofer Institute for Digital Media Technology IDMT in Oldenburg have developed a speech recognition solution for use in industrial manufacturing."
-    publishedDateTime: 2023-02-15T17:45:00Z
-    webUrl: "https://techxplore.com/news/2023-02-intuitive-machine-speech-recognition.html"
-    ampWebUrl: "https://techxplore.com/news/2023-02-intuitive-machine-speech-recognition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-intuitive-machine-speech-recognition.amp"
+  - title: "Cognitive Computing Market 2023 (Newest 91 Pages Report) is Booming Worldwide 2029"
+    excerpt: "Cognitive Computing is completely changing the way organization use their big data in each verticals, especially in industries pke Healthcare, BFSI and Customer services. This is big revolution in global information technology market and holds very strong ..."
+    publishedDateTime: 2023-02-17T07:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2023-newest-91-pages-report-is-booming-worldwide-2029-2023-02-17"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/intuitive-machine-cont.jpg"
-        width: 1440
-        height: 1080
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "vO5Ky14C3KMsjfFsVQxoQ/5KjIzlskII1PWyumwxUCirV38LAw+J5yVvCY1oowuBbyfk+GaqMNJpiQ3T4axYGH0H09sr1NUj7ce7mFkIzMjhg28toDIiqzDkZDtIs69Ho48FVHGCm5O0KiDtZxffvfgu+X2YvN3WOoHqW4wGteaqfTxLjHqUsfVZvmQWm6/EA84JCZPM+63lSpaVN6OF6nL9qR0J30CD7LRlsB8r0xNu32iADr/3oHQ8NpcwQ3ZB2FT2cC0xp6diJWOM3Zo1OQFih0/MtNnXgT9WVukENLHlbK4yYx0hKP0ZpNxaHDEMOFJHPHXFRZqwre46s5mWkwHcyXpQ1vpa9pCG0QPCmbA=;ou1m/+eO+3Kd8Uqkjf3aYQ=="

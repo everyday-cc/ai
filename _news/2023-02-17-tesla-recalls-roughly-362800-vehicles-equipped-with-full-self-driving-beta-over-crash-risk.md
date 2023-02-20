@@ -518,19 +518,16 @@ related:
         height: 960
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
-    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits."
-    publishedDateTime: 2023-02-16T22:05:00Z
-    webUrl: "https://www.kaaltv.com/news/business-news/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
+    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
+    publishedDateTime: 2023-02-16T18:05:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
     type: article
     provider:
-      name: KAAL TV
-      domain: kaaltv.com
+      name: The Sun News
+      domain: myrtlebeachonline.com
     quality: 39
-    images:
-      - url: "https://www.kaaltv.com/wp-content/uploads/apimg/2023/02/Tesla_Recall_97725.jpg"
-        width: 512
-        height: 341
-        isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn’t always follow speed limits."
     publishedDateTime: 2023-02-17T15:13:00Z
@@ -591,6 +588,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/31/44/01/23478379/3/rawImage.jpg"
         width: 2048
         height: 1366
+        isCached: true
+  - title: "Tesla recalls 362,000 vehicles due to NHTSA pressure on self-driving software"
+    excerpt: "Tesla announced the recall some weeks after the NTHSA noted that its Full Self-Driving beta could break traffic laws and cause accidents."
+    publishedDateTime: 2023-02-20T10:00:00Z
+    webUrl: "https://www.cbtnews.com/tesla-recalls-362000-vehicles-due-to-nhtsa-pressure-on-self-driving-software/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 36
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/02/Musk-self-driving-tesla.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla recalling nearly 363,000 vehicles over 'full self-driving' software that could lead to crashes"
     excerpt: "Tesla is recalling 362,758 vehicles because a version of its \"full self-driving\" software may increase the risk of crashes, according to a notice posted Thursday on the National Highway Traffic Safety Administration's website. According to the recall ..."

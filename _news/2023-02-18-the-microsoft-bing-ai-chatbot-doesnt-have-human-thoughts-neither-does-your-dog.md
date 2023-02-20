@@ -330,6 +330,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
+    excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
+    publishedDateTime: 2023-02-20T10:58:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "Microsoft is 'leading the pack' in artificial intelligence with ChatGPT and shares could jump 15%, Wedbush's Dan Ives says"
     excerpt: "Microsoft is \"leading the pack\" in the artificial intelligence race with the company's latest AI integration into Bing, according to Wedbush's Dan Ives. In a Friday note, he maintained an outperform rating and a $280 price target on the stock but also sees ..."
     publishedDateTime: 2023-02-17T14:45:00Z

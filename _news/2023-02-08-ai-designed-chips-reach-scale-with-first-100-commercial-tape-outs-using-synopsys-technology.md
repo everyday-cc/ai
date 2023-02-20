@@ -14,7 +14,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
-secured: "XuoGbHRt73GmZKrKmE0Ch8yk8o75iRitiHGtVbTp6Q2Td9S8X7cHzmZRNBnS86P8BgXtqnYPIKpWLSxfuVTzZ86sJ9SuJGq+Wfsm45S1jOMTAS/FqKtQcKsiXRn5xE9GNRrR37Dg0dHUEb+JxTyYtEy9lSQb7r3MMaJGspatXnPZjq0mYJNpoWFy7++LbVk5BMtSHU8cnsfS004kCnbNcdET1YNZhXdtrQLamNdr4SlAMtfw8CRcpehHRQYajZtChyqmSP/WPZEFx3BtMQzJIiAlh73EwjgWInDAZNRXohA3RGiRx9uSAxTOV5sPIw2dLGQ3XurBWHaQ1h4wPJ1wEVFBf6LTkofnFdzlwd1ZfFN1bA1iwlJVWGakBfieRROJzrSR5W+vQ4fZs3UJBaIrNaEYBbvcu3guwL/Lenpwi7Elb2X9CLGLYJjR4egem4NTQBnGHs3/JWMlAtKdYnlwem+KxF0ckj7Ksjt0+UHwbiaq4T8Q/K8aJBKWywKMyuc8W9VqUFvK9Lo3Ggd/EGQpKg==;NfY6ev05WOxG9uTQPbk9fA=="
+images:
+  - url: "https://img.digitimes.com/newsshow/20230208pr200_files/2_b.jpg"
+    width: 640
+    height: 427
+    isCached: true
+
+secured: "GXzUA902ZSOnZ9/dDZOfhurHQkfTblHmWR0gSem1oavPdWVHNeThrvWc/6W5vJ1QCxMz6CCyvUn6iX/m9vRNajj6gDjZnK8C3tOMw8oRRJfpKDx5NCPvu0JFUZ6doCxFnMYr0LPrbm/kYmLQmeV5VlDTtrCFG/7rgzdTQ6ZHKqKwud/cUTIYasrTsFo4bt5dIe8QuGaYn9xML9nhVJCOIXzFI34uGc6m7BGUwe2IFMZrz2oqk2LenFeLzHxUe7aD6hf6awAwNW4ZeKB+ZOwSh9aG++wI5mwMGpYBLNKmnKtdxxKBKdPHYaDDtmrBTb3HetduqIPUGMaHzZLifrJW4gCnI9Uwmro8EoVqZVahIg8=;VhXSVeSTSCBd4aFvQrtu/A=="
 ---
 

@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market Forecast [2023-2029] | CAGR 23.7%"
-    excerpt: "The global “Speech and Voice Recognition Market Size in 2023” is expected to rise with an impressive CAGR and generate"
-    publishedDateTime: 2023-02-15T17:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-forecast-2023-2029-cagr-237-2023-02-15"
+  - title: "Cognitive Services Market 2023 Study by Business Opportunities, Top manufacturers Records, Revenue, Price and Gross Margin"
+    excerpt: "Feb 16, 2023 (The Expresswire) -- Cognitive Services Market | Outlook 2023-2029 | Pre and Post-COVID Research is Covered, Report Information | Newest 119 Pages ReportCognitive Services Market ..."
+    publishedDateTime: 2023-02-16T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2023-study-by-business-opportunities-top-manufacturers-records-revenue-price-and-gross-margin-2023-02-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
