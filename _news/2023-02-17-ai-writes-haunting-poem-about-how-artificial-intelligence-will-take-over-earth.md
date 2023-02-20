@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://static.tweaktown.com/news/9/0/90391_66_microsofts-ai-bing-chat-writes-haunting-poem-about-how-will-take-over-earth.jpg"

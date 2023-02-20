@@ -1,25 +1,20 @@
 ---
 category: news
-title: "Machine learning is helping police work out what people on the run now look like"
-excerpt: "But in recent years there has been a move towards using computer systems that employ machine learning, a much more sophisticated and formalised way of changing people’s faces. We can’t predict with certainty how a person will look years after their last available photo,"
-publishedDateTime: 2023-02-20T06:23:00Z
-originalUrl: "https://theconversation.com/machine-learning-is-helping-police-work-out-what-people-on-the-run-now-look-like-198325"
-webUrl: "https://theconversation.com/machine-learning-is-helping-police-work-out-what-people-on-the-run-now-look-like-198325"
-ampWebUrl: "https://theconversation.com/amp/machine-learning-is-helping-police-work-out-what-people-on-the-run-now-look-like-198325"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/machine-learning-is-helping-police-work-out-what-people-on-the-run-now-look-like-198325"
+title: "Machine Learning Is Helping Police Work Out What People On The Run Now Look Like"
+excerpt: "The Italian police recently arrested matteo messina denaro , the alleged leader of the Sicilian Mafia who has been on the run since 1993. To aid in"
+publishedDateTime: 2023-02-20T07:54:00Z
+originalUrl: "https://menafn.com/1105600149/Machine-Learning-Is-Helping-Police-Work-Out-What-People-On-The-Run-Now-Look-Like"
+webUrl: "https://menafn.com/1105600149/Machine-Learning-Is-Helping-Police-Work-Out-What-People-On-The-Run-Now-Look-Like"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "SpyqX/37UrrDlqPzTpy8a40/RbwqIbl4E10MJHEIlf8SVhHXjpLWXyuzsuiWKt8IJ6KM4pAWIiGfJaPgqlDaiHx5Vh9dMQktEiC/4Ll3e7sqKcPnllivYBbdSX4LYkYRJLefJV+oU+pDt9/YuVR4AZNplrRgDwUoStZeEWZiF8ME3DfE3uT+08B8E0sF1dJ4i9peEm0e5kxLXEPngYvI4yS196SWQ+UWraeDQMqf9llSHh0jy6YJy/y6aZr8JxIbiDAMWD7Dl7vU14H20tIV/prSCHqIwv1cdpVQbBqUHgl6VbLsWw8FI43JboiPZCb4I3xbliNLZUoZ1nWq8rBStTK4Qng7E/YaKRBGHIP2+SFwc17zVNkbibfUKWWdD7yw6jDFnrgfhgc2yUW0odv7+58PT3sT2sGX1EbdU+RdZbk7dMIQ2SG9iqISfzb7xOOYNkGiDyGImr1lEsxAX53PruE8oYnlVkosM37scJn1n5KTBKAmVH7R8NITUhe0bsZXBEPL6s0QbyYnalR0yoT5fQ==;WNLxH4/MZmFfW64EJWMTrw=="
+secured: "IyjdLwebrysFp8rZ5eAAzFSXsCgYOaTffyanun8Ppt6Wy0oKGBHfQyG0TO6aL01eIB0eowk1iuYzWhGR706wlmyXNiAPuvKMtQNkhnLkgSjQD5KyueHPvbIZGw2U/Xh5ny9EH57N2EeB7pEKcf/K1ou5mpovelTo2OPMW8eypzH8+7LXA9RR1gqamVY8/P47VkAKCjeAqCdH22a5C31KoDz3gYmptRF4rDizWZBRk9p8cm2n8bakb1q0pQPDVYOdPfCF7QAziG8w/QfvHfkE3Ekh4M68Z5s1tBriNeYaZs0Kpi3EIz5forsq3r4mQmQhSbr5ggYlIXfyCfqOK8YvapgauKDy4Q6VRc37YJme+mDNjVryM2swQ5D+1U5lIy2T+QIZfnRRbrYv/sdg/YtMH+o7CX8A34zIb6I/ZVXhffDyRVrHyIiVnXmNbD5bLAlY0gapoza+Btpa4UwMRFR7JKp8XdWwU1YHD8+xt210d0WGjb89OmlOU8CghZrYvYkQKMzRfMXG6KEvLGywIdAmLg==;SKKVw8ihxQ8wYxW9P8N6HQ=="
 ---
 
