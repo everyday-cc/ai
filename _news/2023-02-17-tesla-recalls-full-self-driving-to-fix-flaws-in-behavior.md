@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
-excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits."
-publishedDateTime: 2023-02-16T22:05:00Z
-originalUrl: "https://www.kaaltv.com/news/business-news/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
-webUrl: "https://www.kaaltv.com/news/business-news/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
+excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
+publishedDateTime: 2023-02-16T18:05:00Z
+originalUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KAAL TV
-  domain: kaaltv.com
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.kaaltv.com/wp-content/uploads/apimg/2023/02/Tesla_Recall_97725.jpg"
-    width: 512
-    height: 341
-    isCached: true
 
 related:
   - title: "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue"
@@ -423,6 +419,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla recall: Full Self-Driving Beta poses “an unreasonable risk to motor vehicle safety”"
+    excerpt: "Tesla is due to push an update that will restrict the behavior of its most controversial driver-assistance system, labeled Full Self-Driving Beta, because it poses “an unreasonable risk to motor"
+    publishedDateTime: 2023-02-19T14:01:00Z
+    webUrl: "https://wgno.com/automotive/tesla-recall-full-self-driving-beta-poses-an-unreasonable-risk-to-motor-vehicle-safety/"
+    ampWebUrl: "https://wgno.com/automotive/tesla-recall-full-self-driving-beta-poses-an-unreasonable-risk-to-motor-vehicle-safety/amp/"
+    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/automotive/tesla-recall-full-self-driving-beta-poses-an-unreasonable-risk-to-motor-vehicle-safety/amp/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 50
+    images:
+      - url: "https://wgno.com/wp-content/uploads/sites/2/2023/02/2022-tesla-lineup-courtesy-of-tesla-inc.jpg?w=1280"
+        width: 400
+        height: 271
+        isCached: true
   - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
     excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."
     publishedDateTime: 2023-02-16T17:02:00Z
@@ -788,6 +800,6 @@ related:
       domain: latimes.com
     quality: 10
 
-secured: "dIFMUKTX1sBNfd2BkdO2z66gDMjmbXKFNwF9g25m3nGqjFgUc1xWjsz6+0KVvke0AjMjwPrds1wChG7vpkOjjvJ+qEisr/6v2kTXbWK5kyL4MlV6UBVn9gefY5dtPnUcG3nHJBDywdwkgVEkr6f6lVklrvtVHoSOH1mfR61IGIBAWl3/MqSP8bxJm/frWbR00F27l2c5huW69SAXKP7TX1Y5J9CaCtAC5Lhbrcj/dANtXLZFqfqvowYNqi1prg1H83YFvRF0a7E70yTNGqjwa7AEJQTOD3HwASI7l/Dj2TOYuk4mKgWDwfUY87DNNoeGiNu0hPwvCNPN7b2qrM8kJyqdeV7IlORFPCis+F9s6yY=;JFl+/reA0SlL0huOsgFHOw=="
+secured: "0SeOV0l4TXSAL7R+ION3K5EZzWbKtXe/YBObgnRSFNOa6lip6+cEH3TT/wMBZAIPISR985zGwzu1Us5LAvJdXr/5fHkayRiNEqPlwQxwGfXIfPmN4+vy/qLYuh2flMp6LvucePpKFbnL5CfSXYXod2fr3LWp+pcwBHa/MbzDrJLa9cbnFkD+QWZpcYNYHiXchxmg9u07NRmXvH2DMs6TBJBOKShdyn0gqvsqWUzio+27QGkt5hTGjgi1oy2ZBw3ZmXPk/aUsZKN+5UESnWOeihZG2tZ32T9jo85DYWSumXv2uZ8RdGmuUpCXzh1DgIuRB64qpgPYDp/ld1qViDiWt+yyc7m1Htn8htnoqQigDWo=;HrZbP0Cp6M+LobRLAK308Q=="
 ---
 

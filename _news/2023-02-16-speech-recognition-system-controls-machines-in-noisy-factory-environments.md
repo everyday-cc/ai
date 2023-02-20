@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intuitive machine control using speech recognition"
-    excerpt: "Fraunhofer researchers at the Fraunhofer Institute for Digital Media Technology IDMT in Oldenburg have developed a speech recognition solution for use in industrial manufacturing. The system works ..."
-    publishedDateTime: 2023-02-15T14:40:00Z
-    webUrl: "https://idw-online.de/en/news809401"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
-        isCached: true
 
 secured: "HUAn54rBTY+5Nv5g1hTJvHz5rtaAB+CaaP7lCBzsmwMSiGsR/dsbiQApBG4/V3nPGa5LISG6u2DAvM3e0T/0rP8YRelMYMGse04MkB/u5QERPikWq2DV5MoYuuHPGFik8/NOg20b3sw5HcUbmJ91yZQHiFmI3H2RM+LqPu0JaFMEqnU/M+m4ZKvrpbS6nWD254plK2yLtl6JnmmD8YIVPQr8LgaLQUDnvst1vjbVpBUK5EEkQ2pVlB1B1uKnK+27CV60J6+h7IMwSNWTGb1TjrVMd+UQm2p2ON+kfiVS46NRGJc5Xr5edzcmuSPnAyvZ5y+Jfa0DOuBwSEbADGR4g+6J1o+2prb+WRZsDQ2Ocjo=;bAwsaCYl5MCNfrcUGkV1ww=="
 ---

@@ -129,6 +129,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Explained: How ChatGPT is sparking AI 'gold rush' in Silicon Valley"
+    excerpt: "ChatGPT has become one of the fastest growing apps ever since its secret release in late November, prompting Microsoft and Google to rush out projects that had previously been kept under wraps due to"
+    publishedDateTime: 2023-02-20T05:39:00Z
+    webUrl: "https://www.firstpost.com/explainers/explained-how-chatgpt-is-sparking-ai-gold-rush-in-silicon-valley-12178582.html"
+    ampWebUrl: "https://www.firstpost.com/explainers/explained-how-chatgpt-is-sparking-ai-gold-rush-in-silicon-valley-12178582.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/explained-how-chatgpt-is-sparking-ai-gold-rush-in-silicon-valley-12178582.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 59
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/02/000_337P9FE.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Charlie Munger weighs in on ChatGPT3: Artificial intelligence is not going to cure cancer"
     excerpt: "Billionaire investor and Berkshire Hathaway Vice Chairman Charlie Munger speaks at the Annual Shareholders Meeting of the Daily Journal Corporation. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC ..."
     publishedDateTime: 2023-02-15T16:33:00Z
@@ -244,6 +260,20 @@ related:
         width: 620
         height: 368
         isCached: true
+  - title: "We Tried ChatGPT So You Don’t Have To—What it Means for AI Stocks"
+    excerpt: "“The global artificial intelligence (AI) chip market size was evaluated at USD 16.86 billion in 2022 and it is expected to hit around USD 227.48 billion by 2032, expanding at a CAGR of 29.72% ..."
+    publishedDateTime: 2023-02-19T09:31:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/bgs/2023/02/17/we-tried-chatgpt-so-you-dont-have-to-what-it-means-for-ai-stocks"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 39
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/investor/bigstock-pensive-businessman-looking-on-364508071.jpg?sfvrsn=8248dc06_4"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Which AI search engine will triumph? ChatGPT or Bard?"
     excerpt: "The clash of the conversational AI agents on cards now; ChatGPT working on GPT3, whereas Bard focuses on LaMDA language model"
     publishedDateTime: 2023-02-18T18:34:00Z
@@ -301,6 +331,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/172c96e/2147483647/strip/true/crop/8192x4301+0+582/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa1%2F3d%2F4e423efd40ab87efcefc97f25486%2F1246152-sd-fi-qualcom-mcguire-02.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Censorship, language key hurdles in China to create ChatGPT rival"
+    excerpt: "As the world goes gaga over an AI chatbot called ChatGPT, experts believe that developing its Chinese competitor will surely face censorship, cost and data challenges, as in the case of big Internet companies like Alibaba and Tencent,"
+    publishedDateTime: 2023-02-20T05:51:00Z
+    webUrl: "https://www.ummid.com/news/2023/february/20.02.2023/censorship-language-key-hurdles-in-china-to-create-chatgpt-rival.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 24
+    images:
+      - url: "https://ummid.com/news/2023/february/20.02.2023/chinese-ai-chatbot.jpg"
+        width: 790
+        height: 530
         isCached: true
   - title: "Parents beware, ChatGPT can be used to cheat"
     excerpt: "ChatGPT is an artificial intelligence-based system that uses natural language processing (NLP) to generate conversations. ChatGPT enables users to ask questions or tell a story, and the bot will respond with relevant,"

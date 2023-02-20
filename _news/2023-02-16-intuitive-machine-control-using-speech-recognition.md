@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-02-intuitive-machine-speech-recogni
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-intuitive-machine-speech-recognition.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Intuitive machine control using speech recognition"
-    excerpt: "Fraunhofer researchers at the Fraunhofer Institute for Digital Media Technology IDMT in Oldenburg have developed a speech recognition solution for use in industrial manufacturing. The system works ..."
-    publishedDateTime: 2023-02-15T14:40:00Z
-    webUrl: "https://idw-online.de/en/news809401"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
-        width: 498
-        height: 259
         isCached: true
   - title: "Speech recognition system controls machines in noisy factory environments"
     excerpt: "Today, we are used to controlling smartphones and home appliances using speech recognition software, but similar voice control systems have yet to break into noisy industrial workplaces. That could soon change thanks to a new speech recognition solution for manufacturing machines,"

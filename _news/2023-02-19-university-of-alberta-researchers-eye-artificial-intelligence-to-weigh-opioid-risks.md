@@ -45,13 +45,18 @@ related:
         isCached: true
   - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
     excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada."
-    publishedDateTime: 2023-02-19T20:49:00Z
-    webUrl: "https://edmonton.ctvnews.ca/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.6280410"
+    publishedDateTime: 2023-02-20T05:08:00Z
+    webUrl: "https://www.iheartradio.ca/ctv-news-content/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.19270674"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 13
+      name: CKLW
+      domain: iheartradio.ca
+    quality: 33
+    images:
+      - url: "http://www.iheartradio.ca/image/policy:1.19270675:1676836358/image/image.png?a=16%3A9&w=1000&$p$a$w=97c4ea5"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "yj6yC4Ago24A7/Uy0W1UU6wqVLTvvZiTbtzo1Pgxb2LR8R69QHB5R1SLTRBHrpO0huBi4P+0DPu7o8zytN8dkrB0dOagNCH6AjySZ8nKNWsRzobqdzq7C6l2gwpsIJKbXFUNt6/NXNZYh0haJaaDsUM5G1FNy0Wz9Wo1Lk4l94Zt60EJS6cQ+NXp6A4gjx5uc09efivo93rXsycqU2v0gEIrmRBw2P6R9iD6n2bR8VEWd7P865P73PkFPpGaos2D8s3niwOMr9Z10fyM2AX5dnyiJF7bQWSmxwtfuJIAsNCqvH/nIpY23NKatjhExB7cwHpwK5h/wNUsKQsIc82eZ4lZMCYLcspTE0TCSRyneM8S9bprpyOLQaFK92El5Ap+eA9HHMehHWQ8AnF8vAQVV6FMO7M6pkBNaOTTD6bLrRuNHGAh+Nx3dvscvuRPSniHTHeHNJm4A4AG84MZbdVUvHqd0Q5xKC7PXmf2b2o87Fd6DkYiG9STtKAPvBl7yNO4mONg0UJ/0o/tWQH1Tpmb2w==;z/GV4riYL2GhknNPjoeq2g=="
 ---

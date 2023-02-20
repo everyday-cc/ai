@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-ch
 webUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17"
 type: article
 quality: 72
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -94,7 +94,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -160,6 +160,20 @@ related:
     excerpt: "Artificial Intelligence in the Telecommunication Market Size 2023-2028 | New Report (79 Pages) | In This Reports"
     publishedDateTime: 2023-02-16T04:47:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2028-2023-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "Feb (The Expresswire) -- \"Voice Recognition Software Market\" Report covers specified competitive outlook consisting of the market proportion"
+    publishedDateTime: 2023-02-20T01:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-19"
     type: article
     provider:
       name: MarketWatch

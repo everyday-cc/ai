@@ -409,6 +409,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla recall: Full Self-Driving Beta poses “an unreasonable risk to motor vehicle safety”"
+    excerpt: "Tesla is due to push an update that will restrict the behavior of its most controversial driver-assistance system, labeled Full Self-Driving Beta, because it poses “an unreasonable risk to motor"
+    publishedDateTime: 2023-02-19T14:01:00Z
+    webUrl: "https://wgno.com/automotive/tesla-recall-full-self-driving-beta-poses-an-unreasonable-risk-to-motor-vehicle-safety/"
+    ampWebUrl: "https://wgno.com/automotive/tesla-recall-full-self-driving-beta-poses-an-unreasonable-risk-to-motor-vehicle-safety/amp/"
+    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/automotive/tesla-recall-full-self-driving-beta-poses-an-unreasonable-risk-to-motor-vehicle-safety/amp/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 50
+    images:
+      - url: "https://wgno.com/wp-content/uploads/sites/2/2023/02/2022-tesla-lineup-courtesy-of-tesla-inc.jpg?w=1280"
+        width: 400
+        height: 271
+        isCached: true
   - title: "Tesla recalls 362,000 U.S. vehicles over Full Self-Driving software"
     excerpt: "WASHINGTON, Feb 16 (Reuters) - Tesla Inc (TSLA.O) is recalling 362,000 U.S. vehicles because its Full Self-Driving (FSD) Beta software may cause a crash, the National Highway Traffic Safety Administration (NHTSA) said on Thursday. The auto safety regulator ..."
     publishedDateTime: 2023-02-16T17:02:00Z
@@ -490,19 +506,16 @@ related:
         height: 960
         isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
-    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits."
-    publishedDateTime: 2023-02-16T22:05:00Z
-    webUrl: "https://www.kaaltv.com/news/business-news/tesla-recalls-full-self-driving-to-fix-flaws-in-behavior/"
+    excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
+    publishedDateTime: 2023-02-16T18:05:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article272526846.html"
     type: article
     provider:
-      name: KAAL TV
-      domain: kaaltv.com
+      name: The Sun News
+      domain: myrtlebeachonline.com
     quality: 39
-    images:
-      - url: "https://www.kaaltv.com/wp-content/uploads/apimg/2023/02/Tesla_Recall_97725.jpg"
-        width: 512
-        height: 341
-        isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix unsafe actions"
     excerpt: "U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn’t always follow speed limits."
     publishedDateTime: 2023-02-17T15:13:00Z

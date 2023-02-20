@@ -47,6 +47,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Veteran Liberal MP adds to pressure on Dutton over Voice"
+    excerpt: "Russell Broadbent and former party vice president Karina Okotel have argued meaningful consultation with Indigenous Australians is badly needed."
+    publishedDateTime: 2023-02-20T06:00:00Z
+    webUrl: "https://www.afr.com/politics/federal/veteran-liberal-mp-adds-to-pressure-on-dutton-over-voice-20230220-p5clt1"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.6161%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_224%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/62cd2defbf836ac63b8c600d5f01e1c74eae99e5"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "IxAiv1InnK6sFhSjng7zGF6fLdj9ebdE1cBI8mAIywIWwH35K3eNdu4BLDAxJdoANcVjRvE8wZSDaQRftcliOAvdzQa4ZoI2m3hHg+eQSvU8RhBv8z8YXFSBB/GghaFz/SkaBFQcTCigBB1LRmDlhVr6+KqK2RcllC7B9xPMnXJ6Q/92nCOjCLV4DnAr11D+8EOTvMJOMEwuQp7I+TWwznq6BOWk3EcE/ELQtkSYZKKG8HFjeIr+Axmqy8BQir0rSXwTC6h/dbdono47QqxAYTQ0Y5RfSxjt0//y920g4A3jxDXeh5UPLXWZOc/UDWJqci0byt23vTS5R2vWfJJQx2beUNoALD1ijDpPmSMbxe8=;6Ov6QGLi6KZNCsAQNVEKdA=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 866
         isCached: true
-  - title: "Is Facial Recognition Ethics Important? Yes, Here's Why, Biometrics | Extended Access Technologies - Mid-East.Info"
-    excerpt: "With recent advances in artificial intelligence, facial recognition is emerging as a powerful means of validating identity. People use it all the time to access their mobile phones, but acceptance ..."
-    publishedDateTime: 2023-02-15T13:23:00Z
-    webUrl: "https://menafn.com/1105578520/Is-Facial-Recognition-Ethics-Important-Yes-Heres-Why-Biometrics-Extended-Access-Technologies-Mid-EastInfo"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2023-02/15/M_9b9afimage_story.jpg"
-        width: 500
-        height: 500
-        isCached: true
 
 secured: "BfYB8aFytpXc7BgCJlSTdlEcR+6678YPii8Lc4WqqLtIPcmnimSFwp+7XqMMGQOHtc094vHNq4RB1rgGDZLy/VmrAUbUrhDXHX4HLOHGpj2OC6HANy93dFjg3uRyK7HT4xzEpqQj5xG5JhAa2bUIwFNNKENhgquWbpViSFViCtvoOcnrEa420rc/Y5leA54LLnibvDwsGOMdpfsi+oJ6uEHYbOVAvF5ceoE/l+leTmnAQOWTngslI3NxJQOv2a3Y0MXHPvCDJgshY1AeCbLhP1goInnjQ+olE96fX24Z4kErMeDmKRlP5akoiUVTFBseXHZ0YFjkD0DU77q0DH2+8RjkP4bgx6o/d3QBBqQrDT4dQJ/9gQvCV+djWz5WeVDqZGz0OKTV2XTpWjfqNeufZzd4uHxlj8UNTMkOprN1kZcLHK2xN0o6bZ8LNo1FZaEwY0FGg6uElsJY7pBOf3uD9uZPDWQSVVQNepppHxeUTbbK8kBw1/mfhfilb4qDFFclxOwvQg7jU6Luk3/Tyxlamw==;cWZRO46c6OcQaigWoYdk5g=="
 ---

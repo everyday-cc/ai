@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Applied Materials positive on Q2 on resilient demand for automotive, AI chips"
-excerpt: "The results from one of the biggest producers of chip-making equipment are welcome news for an industry ... such as smartphones and personal computers are weaker, demand from AI, automotive and industrial automation industries remains resilient, Applied ..."
-publishedDateTime: 2023-02-16T22:56:00Z
-originalUrl: "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/"
-webUrl: "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/"
+title: "Applied Materials Positive on Q2 on Resilient Demand for Automotive, AI Chips"
+excerpt: "Applied Materials Positive on Q2 on Resilient Demand for Automotive, AI Chips By Tiyashi Datta (Reuters) -Applied Materials Inc on Thursday projected quarterly revenue broadly above estimates as ..."
+publishedDateTime: 2023-02-16T21:16:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-02-16/applied-materials-forecast-current-quarter-revenue-above-estimates"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-02-16/applied-materials-forecast-current-quarter-revenue-above-estimates"
 type: article
-quality: 81
-heat: 81
-published: true
+quality: 61
+heat: 61
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=131"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "i3ew/kWykTbUsR1C587xj5/26XZRBP1vy0URUVdagbg7+bNG1KlPVTjo2f5/dt8KhinexnI9F1LoW7xl3LJIdGByajIjdfZ6W9aCBZmgb8SQ1x4bwPAFtmrB5M3Ompn+XVbaLzi0faIjQP4NyUk21X5Vcb4QKyOrvM+55d8a8JK9X4z/fUN8AQZfU5Avi8HCjKdn+x1CuoS0hJZ4RrpqhoqOj0Nig/BsX4R7xTrXwuf7A39WzzHqSt4bZDKebKPhPsMZchLzUlF5wl+ADhxjSq7rCVV8yXmupPNdiwRCzN/uxnqbvWka8kE9v0aJq/2wFcTktXvzgfkAyjGtnu/NrA68ECDb6VrstttKqF9yXxk=;5qOXOttw+Wd6vggUp3t9vA=="
+secured: "ZCBePZPa0qAzV1Ne61PXPrv/wa7P9Rg89npa4AvVbW01j83YqVAoHmaLqMe+crO/1erB/yr9P/8jMMsP/PwCrZI3o+72rvT1WvM8OTN2txDKj13Kc4cuN3G0h35QoMfxzj525PfMgqpRaEm5gSYFwMvab5dFrzrV1ZrBC7H1ypaqa6aijBa1ImeOqpDq5sZ3dj149ql6ELJ0/nP0oX63Gtxq2Oql0xzC1otJ8AtfMkfwQRJZYmERKf/yb4Vc5XACjzM7E930rwAP+HROGC/YfX9E1+W9YBKNLJ5pWyVDzj90jE/QONF+og6hUYpWFcKPwwj9y6GM6g6wF6QC8UL1t/rUaU8xMqnxdQdvqBOBfWg=;yIPfk8sCxR+oj4x/RO32Pg=="
 ---
 

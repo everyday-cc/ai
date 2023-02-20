@@ -2,21 +2,27 @@
 category: news
 title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
 excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada."
-publishedDateTime: 2023-02-19T20:49:00Z
-originalUrl: "https://edmonton.ctvnews.ca/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.6280410"
-webUrl: "https://edmonton.ctvnews.ca/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.6280410"
+publishedDateTime: 2023-02-20T05:08:00Z
+originalUrl: "https://www.iheartradio.ca/ctv-news-content/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.19270674"
+webUrl: "https://www.iheartradio.ca/ctv-news-content/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.19270674"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: CKLW
+  domain: iheartradio.ca
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "http://www.iheartradio.ca/image/policy:1.19270675:1676836358/image/image.png?a=16%3A9&w=1000&$p$a$w=97c4ea5"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
@@ -52,6 +58,6 @@ related:
         height: 574
         isCached: true
 
-secured: "apmNSwzKO5PzQnAYtYZ55wh0pPPVlKQDBXRtvkwUaTaiG9AKlFAk/DABMn+z0+na5EXNixTWMTWaGCcNQkeLO1ty17Ky4UDes2pntTuowkjqor5KkD/AcW5gQ+1+lxeiv0PxxwsrSCe492U+DXREp42y7NYC2hjWKJVS+8pq92t/OOy8mDuCXOdWtyBOT9nLyAm3BQ+cdteIPaZk37cnmEpk/em+ANlaTRx0ARqzo4+5ySZkNhi1Y+KoKGGAkG51tAp0vgAE5w57gLD5MpfjwrzS3Va0nIjARw+EUHVigCWihkI+E0R8A7QAQl+b9yqYHeon9LGPvw3glxjQfUb1EbfQbcMeDr738aOakdPHwQBcvCipnyi14CmvdKtowvvvXWd9ty479hYV9n0nznUK6tnOtS1CjhbebXNnY3vT2Xg85ldX/O/pXQynQBfOLSApYZ3LgrdRCpl0VpKPWKSsCJQX82nTfX342wzrbAXryjHI9S0KBgHrEzh93p4/6nURIVcNFNB5lQGv2ukNc6z+Lw==;bkci16iMrNrUCcsT04Nxnw=="
+secured: "rgqgv7qqsIpwvBOYAmp/dzxjrLRUcbpCdBO+qjHUmZBkDJYclEmhl0SOAiVAk9MNR5HMvsLrb2OvmXa0ec8Cp0acOty40tdsaIlhjmxWnDVAye2Cui3L92JsvNRNohFfq5y27nfwv+rl/aNVNPL9gRT+XmTVe+kbGKp1lvgGa5B2wFdQ+z7l2bpaqv7NpcNVLeIkSfKwyxdSoO/krntZucaJnDA+5Bu9x4IOgmRubTV4Xd/uPF5adQl3KUJbHffm/qPGqZbX3fXTfVSOGUFAvWoGDI+AUv25jqD3PzlT+ZVzH23ihgmUyTi2TGIkjF1CJGPfeFt9hMcwuKmRBEj2QnCJU5NFvtng8lJ2beJal2Y=;LSoVf9hkQV5kXwIBBwmoeA=="
 ---
 
