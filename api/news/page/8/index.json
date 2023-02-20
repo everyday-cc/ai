@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-10-artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata.md",
+      "title": "Artificial intelligence facilitates low-cost drug repurposing: GlobalData",
+      "excerpt": "(File) GlobalData, a data and analytics company, on Friday said that the contemporary drug repurposing techniques using advanced artificial intelligence (AI) are gaining traction in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/",
+      "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/Pharma.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/lite/",
+      "publishedDateTime": "2023-02-10T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-machine-learning-and-prognostics-in-cancer-programmes.md",
+      "title": "Machine learning and prognostics in cancer programmes",
+      "excerpt": "Tim Simpson, General Manager of Hologic UK & Ireland, discusses how AI, machine learning and prognostics could revolutionise cancer detection and treatment in breast and cervical cancer programmes The cancer challenge in the UK is deepening – in 2020 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openaccessgovernment.org/machine-learning-prognostics-cancer-programmes/152982/",
+      "originalUrl": "https://www.openaccessgovernment.org/machine-learning-prognostics-cancer-programmes/152982/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2023/02/dreamstime_m_132766078-scaled.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openaccessgovernment",
+        "domain": "openaccessgovernment.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-new-hybrid-machine-learning-framework-extends-range-of-accurate-epidemic-forecasting.md",
+      "title": "New Hybrid Machine Learning Framework Extends Range of Accurate Epidemic Forecasting",
+      "excerpt": "Community leaders and public health officials may soon have more time to plan for Covid and flu outbreaks thanks to a new machine learning (ML) framework that is improving the accuracy of long-range epidemic forecasting. That is exactly what researchers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/new-hybrid-machine-learning-framework-extends-range-accurate-epidemic-forecasting",
+      "originalUrl": "https://www.cc.gatech.edu/news/new-hybrid-machine-learning-framework-extends-range-accurate-epidemic-forecasting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/EINNs%20Charts_0.png",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-your-essential-guide-to-generative-ai-chatgpt-via-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights.md",
       "title": "Your Essential Guide To Generative AI ChatGPT Via The Super Bowl, Plus Bonus AI Ethics And AI Law Insights",
       "excerpt": "Those in AI Ethics and AI Law are notably worried about this burgeoning trend of outstretched claims. You might politely say that some people are overstating what today’s AI can actually do. They assume that AI has capabilities that we haven’t yet been ...",
@@ -1020,135 +1149,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-sportradar-launches-computer-vision.md",
-      "title": "Sportradar launches Computer Vision",
-      "excerpt": "Sportradar has launched Computer Vision, a live tracking system for sports that utilises AI software. Computer Vision can analyse a live video feed at 120 frames per second, and collect 100 times ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.broadcastnow.co.uk/tech-innovation/sportradar-launches-computer-vision/5179002.article",
-      "originalUrl": "https://www.broadcastnow.co.uk/tech-innovation/sportradar-launches-computer-vision/5179002.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/2/2/1390522_sportradarcomputervisiontabletennis1_786333.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Broadcast",
-        "domain": "broadcastnow.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-is-chatgpt-woke-ai-chatbot-accused-of-anti-conservative-bias-and-a-grudge-against-trump.md",
-      "title": "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump",
-      "excerpt": "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-a-soft-robotic-tentacle-controlled-via-active-cooling.md",
-      "title": "A soft robotic tentacle controlled via active cooling",
-      "excerpt": "Robotic systems have become increasingly sophisticated over the past decades, improving both in terms of precision and capabilities. This is gradually facilitating the partial automation of some surgical and medical procedures.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
-      "originalUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-soft-robotic-tentacl.jpg",
-          "width": 524,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
-      "publishedDateTime": "2023-02-09T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

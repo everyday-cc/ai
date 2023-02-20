@@ -77,20 +77,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 40
-  - title: "US launches artificial intelligence military use initiative"
-    excerpt: "The United States launched an initiative Thursday promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries, seeking to impose order on an emerging technology that has the potential to change the way war is waged."
-    publishedDateTime: 2023-02-17T18:29:00Z
-    webUrl: "https://www.militarytimes.com/news/2023/02/17/us-launches-artificial-intelligence-military-use-initiative/"
-    type: article
-    provider:
-      name: Military Times
-      domain: militarytimes.com
-    quality: 39
-    images:
-      - url: "https://www.militarytimes.com/resizer/jy4v5JCOLT7nEoE9lSOYNFB17Qg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/6S4UYCVZFVEAXHWSAO5WDPHKJI.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "QFA3JbyeDDZrNenA4nsf/7L1nGS0fRg5+FTQ41pfdA9UyBWFJKlApRuGmsLKLaeiatkrqdPdAKUey58H13JzPnygBe9b0iXE+d4Er+EHeSjVteRD7D/Erja/+ei4BTAcsnd+Pjtl7xQh3eo0ixy3vjaBsmEuKebnBdCCUQVPZH98dh2A+DU2VTuFk+bnqy2wVGcKICUzQ1NHkNuVKR5BlN9wnGSXtonsP8tkc58rx/3QRT54+B//iKRoYE2PaliwVdPBtjQ5Glk7Slb+X7tbaLijpuoeYfjsqRAFIbUK+FLzZS22AnB6Y4pgryA6AvtEizTVqR6COv/389Qy942mEV3VExKnOHxsS8aZB2tumnwuvVLXrJajPrOxTEg7n1lnMV7g9QPqUaMhOgSgNUPps9YalgXGuF6kKzsZ/XDIdaleDbfbMZmjPdL7Cbm4KAbiXhKnIrld+EX6reLpiCjN6xhJcqOsjXfUGOZNAnK/s/US7MNojRZ76htQ7G26/IVVx2HfzDXWr1Qd6Hmn3Rp3jg==;jSEXafecQanUbXG6RwBjFQ=="
 ---

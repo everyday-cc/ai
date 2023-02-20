@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-28-co-bill-that-suggests-using-artificial-intelligence-to-help-detect-wildfires-moves-forward-in-legislature.md",
+      "title": "CO bill that suggests using artificial intelligence to help detect wildfires moves forward in Legislature",
+      "excerpt": "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million wildfire prevention program, which may use artificial intelligence to identify fires early.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature",
+      "originalUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bde9982c-2a76-46f7-b0b5-c18e3df1c055/29e73dbf-bb1f-476b-a5bc-48b588c0eb99/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp",
+      "publishedDateTime": "2023-01-27T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks.md",
       "title": "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks",
       "excerpt": "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa.",
@@ -1345,59 +1397,6 @@
         "name": "GizChina",
         "domain": "gizchina.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-teaching-in-the-age-of-artificial-intelligence-and-chatgpt.md",
-      "title": "Teaching In The Age Of Artificial Intelligence And ChatGPT",
-      "excerpt": "Artificial intelligence empowers increasingly complex interactions between humans and machines. This technology, currently popularized by ChatGPT, provides a potentially enormous opportunity for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63cb84748d623fc3b06e3ae4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
-      "publishedDateTime": "2023-01-21T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

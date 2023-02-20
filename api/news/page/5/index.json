@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-15-innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms.md",
+      "title": "InnovationRx: Artificial Intelligence In Biopharma; Plus, Lingering Covid Symptoms",
+      "excerpt": "The most common use of artificial intelligence in biopharmaceutical ... has raised $30 million in its bid to develop a new therapy for bladder cancer. A fast-acting male birth control drug showed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2023/02/15/innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2023/02/15/innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ed86bef3948162f2ed2983/0x0.jpg?format=jpg&crop=2811,1581,x0,y77,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance.md",
+      "title": "Why Colorado draft AI insurance rules are a “major leap forward” for AI governance",
+      "excerpt": "Colorado's draft rules for life insurance companies using AI for coverage decisions are game-changing, says Debevoise & Plimpton's Avi Gesser.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
+      "originalUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Untitled-design-16.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
+      "publishedDateTime": "2023-02-14T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-heres-to-the-robots-ai-tech-investments-star-at-tampas-synapse.md",
       "title": "‘Here’s to the robots’: AI, tech investments star at Tampa’s Synapse",
       "excerpt": "The conference’s CEO pulled up ChatGPT, the artificial intelligence chatbot ... firm that relocated from New York to St. Petersburg in 2020. Case visited Tampa startup accelerator Embarc Collective as part of a tour of emerging markets in 2019, and ...",
@@ -1043,6 +1147,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-13-mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029.md",
+      "title": "MLOps Market Size Analysis between Top International Players through Business Aspects way 2029",
+      "excerpt": "The Global MLOps market is valued at Multimillion USD 2023 and will reach multimillion USD by the end of 2029, growing at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029-2023-02-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029-2023-02-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025.md",
       "title": "Computer Vision Market 2023 | Proven Strategies for Significant Growth in Global Industry till 2025",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- The Computer Vision Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Hardware, Software ...",
@@ -1091,153 +1247,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-vin-diesel-says-a-self-driving-car-company-boss-is-the-bad-guy-in-fast-x-sequel.md",
-      "title": "Vin Diesel says a self-driving car company boss is the bad guy in 'Fast X' sequel",
-      "excerpt": "Vin Diesel revealed that part of the plot to the \"Fast X\" sequel involves the owner of a company developing artificial intelligence and self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel",
-      "originalUrl": "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/02/1200/675/diesel.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp",
-      "publishedDateTime": "2023-02-13T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-9-jobs-most-and-least-likely-to-be-taken-over-by-robots.md",
-      "title": "9 Jobs Most (and Least) Likely To Be Taken Over by Robots",
-      "excerpt": "According to Technology Review, artificial intelligence and chatbots are already making customers ... \"Humans will gradually be eased out of these roles as regulations allow driverless vehicles on the roads,\" says Rohit Talwar, CEO of Fast Future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/9-jobs-most-least-likely-130007309.html",
-      "originalUrl": "https://www.aol.com/finance/9-jobs-most-least-likely-130007309.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/HgSGudGKE6.64EqVxbQb.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/f474351dcf015f60b6c6baa27443406d",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-eric-schmidt-is-building-the-perfect-ai-war-fighting-machine.md",
-      "title": "Eric Schmidt Is Building the Perfect AI War-Fighting Machine",
-      "excerpt": "And while US military power has long depended on advances in technology, some fear that military AI can create new risks ... will provide $280 billion for research and manufacturing of semiconductor devices in the US. Closer collaboration between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/",
-      "originalUrl": "https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63dc0afa155e185b29dde2d7/master/pass/Biz-vrmilitary-1380808794.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/eric-schmidt-is-building-the-perfect-ai-war-fighting-machine/amp",
-      "publishedDateTime": "2023-02-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

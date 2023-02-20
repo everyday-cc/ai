@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Study reveals that much still not known about cognitive decline"
-excerpt: "The risk factors linked to cognitive decline in older adults explain a surprisingly modest amount about the large variation in mental abilities between older people, according to a new national study."
+excerpt: "More information: Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change, PLoS ONE (2023). DOI ..."
 publishedDateTime: 2023-02-08T19:00:00Z
 originalUrl: "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html"
 webUrl: "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html"
@@ -21,6 +21,6 @@ images:
     height: 914
     isCached: true
 
-secured: "pUveQd2udDwkhyOqn2bnd3jq8I6SIDpoaDpMBVNzIEeI7R/8KTqSUt47sw/c17jcp9edSDOF0Kaz+KHTdOx54+Ve/jjrY8g+fI/pm2ijeVDCguvsnHP1Da1bPpW3wCeOEMn6OJM+PEmr1v5dr6n805UO1X08o5T+eVWsMGxIGQWlyC97uLG0dVdphwUewHXxz5j4K7IoJ3Wut2UOKg6qF9/+Pj/RhVKnu+2DImAqoS0zFTAz/YFl6+Foslvn3QFmC2mgboFXnvlhP/vBPGzheaLZoZTA0q+nZL2a2Nd5kHMHedLkDGK6FJyRq/Q0jk4g/JR6EYTZTaVDZxcYLHZtmNqmCkvPczbCmf0NHp4JyvpxaecRsJf7d+vjaId91WQfoHcbf5nPUi1MhgAMXwErO0AtGYHJ7kFbLUymjDd22Jo3N9ZkOEJu+83ucR+JAeV2KbNwg5Er+oHMlfZzkAMzxp6wBrqHYhU4yp2EeESiAbzJZKQFqafln8WjKdUcAI60DrcOopzgsu3OQdenwc/L2Q==;udgNwuU9r8BtKLTyJ+hX9A=="
+secured: "i59lP5dONYdPc1osDgw9rpUXjjPA5wTeoKdp/yRqR/8K7gMZrQ+h4MJ7qqRKKzNuFRMvr5NrmYmBMXnzHxmSIlUrjtTOuA3bIAgiHvdqiNp2AoSyV+56NKlrKeLXHrJwSBkEac6pYdYU2C09Bd4fI6TamA4T3Rk5Dw2Wtnm+WerCTxGvxPRHRBjoIhBjGnZfHvYzSa68NfjIJKDSSFmdX8ibQsOdxW3UAtMuu7A/mppeyF0ebKdDRATXfYvbgbqgqYKtBFfm+1wrk72uOT7EFRhf2KARgYG8ikbeUCd6BbJEHjsDR7k038Ue0lTXyhi1E5DRUBs7VtNmnlZiownP5fp+cIJM/j73WI4/U8DKO/A=;/RLU4jrK1M4h7+L94YxBXg=="
 ---
 

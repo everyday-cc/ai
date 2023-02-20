@@ -212,22 +212,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
-  - title: "Inside the ChatGPT race in China"
-    excerpt: "Maybe it was because of the holiday season, or maybe it was because ChatGPT is not currently available in China, but it took more than two months for the natural-language-processing chatbot to finally blow up in the country. (OpenAI, the company behind ..."
-    publishedDateTime: 2023-02-15T11:01:00Z
-    webUrl: "https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/02/LLM_sprouts.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "10 ways ChatGPT can boost your business, create awareness"
     excerpt: "After it was launched in November last year, ChatGPT emerged as a handy tool for professionals from a variety of industries."
     publishedDateTime: 2023-02-18T08:52:00Z
@@ -304,20 +288,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "ChatGPT AI passes test designed to show theory of mind in children"
-    excerpt: "Its ability – which seems to have spontaneously emerged rather than being something the AI was trained to do – is comparable to that of a 9-year-old child. However, whether this shows that the AI is using theory of mind … Ohio train derailment ..."
-    publishedDateTime: 2023-02-15T10:00:00Z
-    webUrl: "https://www.newscientist.com/article/2359418-chatgpt-ai-passes-test-designed-to-show-theory-of-mind-in-children/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI expert sounds alarm on Bing ChatGPT: ‘We need to issue digital health warnings’"
     excerpt: "ChatGPT’s revolution powered by Bing has just hit a wall. Yesterday, we reported on a litany of instances where the GPT-powered search engine went off the deep end. From stalkerish responses from Bing's alter ego \"Sydney\" to the desire for sentience to advocating for violence,"
     publishedDateTime: 2023-02-17T18:16:00Z
@@ -386,6 +356,15 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
+    quality: 17
+  - title: "China plays catch-up to ChatGPT as hype builds around AI"
+    excerpt: "The race to match ChatGPT comes as the China tech groups have spent the better part of two years reeling from regulatory attacks and fighting for growth amid the zero-Covid induced slowdown. Baidu is taking the most concrete early steps,"
+    publishedDateTime: 2023-02-20T01:16:00Z
+    webUrl: "https://www.ft.com/content/a4f6c01e-403f-4d43-9c6a-713d49771a4d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 17
 
 secured: "wYkn4tU2EZvo1b6PIxOQaOyhNo07gsXvNE5rJQlv9Rbp9PzuSwYq6NE3L3DfY7d7NUGhbS+jQZGoksVzU0s7AkxjDjYjhbsaLW19xyI6TdlrFjszqddOY1mWyjixdfB+GkW9UuyBBY0LbQFID8fehFSkxFU2M3C8obFJyTDbrhJSaC352SXokvEfBqnC8StV5E1ZYVu4YIsrZXdaaPOCOgSKWW7Wj/PiWnaHCejFknZ7M66CViUaeD5iYRYuceTMmR9CbcnU9K1uN9s6m82NZDXvklALFm3iirYCJZmx9mrsbPQSkj4PXu+Sin+2hV2ZRUFrkJU/89WY5dubRLLbgr2MSQOyu+8rof4AO1PNBw9FJt1g6dwn301i6SpmId4ZA1E4TivfJrFvwNDAs1vE5Zg2tDePA7TS2pMRmkDa7OArmjWQ0N5EP78OR8osNBAR5/RlGATZOq8El2zY5QUzc3pPde/48MZ+skMfvqHBsnW4RqjRkKXtDACFRDYmHf5v1WFwl/YKZNd/JqVRjhEWkw==;Q0u0vf8lCyw02oxaHiesuQ=="

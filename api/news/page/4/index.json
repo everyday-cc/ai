@@ -2,6 +2,112 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-16-artificial-intelligence-jobs-how-will-ai-change-the-job-market.md",
+      "title": "Artificial Intelligence Jobs: How Will AI Change The Job Market?",
+      "excerpt": "Artificial intelligence (AI) has the potential to streamline and make many jobs more efficient, but some improvements might make certain jobs unnecessary. Here’s a look at the different tasks artificial intelligence in on track to handle, if not already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/15/artificial-intelligence-jobs-how-will-ai-change-the-job-market/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/15/artificial-intelligence-jobs-how-will-ai-change-the-job-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eda544912d4567f12ed0f6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/15/artificial-intelligence-jobs-how-will-ai-change-the-job-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/15/artificial-intelligence-jobs-how-will-ai-change-the-job-market/amp/",
+      "publishedDateTime": "2023-02-15T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-nvidia-and-intel-team-up-on-chips-for-metaverse-workstations.md",
+      "title": "Nvidia and Intel team up on chips for metaverse workstations",
+      "excerpt": "Intel’s latest Xeon chips have anywhere from 24 to 56 cores. Metaverse applications and the rise of generative AI require a new level of computing power from the underlying hardware. “These are purpose-built for things like Nvidia Omniverse and Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/",
+      "originalUrl": "https://venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/NVIDIA-INTEL-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/amp/",
+      "publishedDateTime": "2023-02-15T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-meta-develops-an-ai-language-bot-that-can-use-external-software-tools.md",
       "title": "Meta develops an AI language bot that can use external software tools",
       "excerpt": "Language models like ChatGPT have revolutionized the field of natural language processing, but they still struggle with some basic tasks such as arithmetic and fact-checking. Last Thursday, researchers from Meta revealed Toolformer, an AI language model ...",
@@ -1138,110 +1244,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms.md",
-      "title": "InnovationRx: Artificial Intelligence In Biopharma; Plus, Lingering Covid Symptoms",
-      "excerpt": "The most common use of artificial intelligence in biopharmaceutical ... has raised $30 million in its bid to develop a new therapy for bladder cancer. A fast-acting male birth control drug showed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2023/02/15/innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2023/02/15/innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ed86bef3948162f2ed2983/0x0.jpg?format=jpg&crop=2811,1581,x0,y77,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance.md",
-      "title": "Why Colorado draft AI insurance rules are a “major leap forward” for AI governance",
-      "excerpt": "Colorado's draft rules for life insurance companies using AI for coverage decisions are game-changing, says Debevoise & Plimpton's Avi Gesser.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
-      "originalUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Untitled-design-16.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
-      "publishedDateTime": "2023-02-14T15:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

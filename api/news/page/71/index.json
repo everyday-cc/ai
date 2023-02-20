@@ -2,6 +2,154 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-12-18-bispecific-antibodies-in-blood-cancers-exercise-and-cognitive-function.md",
+      "title": "Bispecific Antibodies in Blood Cancers; Exercise and Cognitive Function",
+      "excerpt": "This week's topics include cognitive function, diet and exercise, intermittent vigorous exercise, bispecific antibodies, and weight loss, exercise and osteoarthritis pain. Rick: And a new use of T ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/podcasts/healthwatch/102291",
+      "originalUrl": "https://www.medpagetoday.com/podcasts/healthwatch/102291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102291.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-18-artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
+      "title": "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
+      "excerpt": "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-18-ai-art-death-of-creative-industry-or-its-savior.md",
+      "title": "AI art: Death of creative industry, or its savior?",
+      "excerpt": "The next stage of evolution for AI art will leverage the entirety of inspiration on tap — rather than just creative auto filling.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/",
+      "originalUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-art-death-of-creative-industry-or-its-savior/amp/",
+      "publishedDateTime": "2022-12-17T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-18-chatgpt-is-proof-the-ai-chatbots-are-here-to-stay.md",
       "title": "ChatGPT is proof the AI chatbots are here to stay",
       "excerpt": "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed",
@@ -1025,144 +1173,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-cognitive-behavioural-therapy-services.md",
-      "title": "Cognitive behavioural therapy services",
-      "excerpt": "We'd also like to use analytics cookies. These send information about how our site is used to services called Adobe Analytics, Hotjar and Google Analytics. We use this information to improve our site. Let us know if this is OK. We'll use a cookie to save ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/hospital/priory-hospital-preston/NTN14/departments/SRV0019/cognitive-behavioural-therapy-services",
-      "originalUrl": "https://www.nhs.uk/services/hospital/priory-hospital-preston/NTN14/departments/SRV0019/cognitive-behavioural-therapy-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out.md",
-      "title": "How Safe Do Cities Feel? Machine Learning Techniques Could Help Find Out!",
-      "excerpt": "The career path of Colombian physicist Luisa Fernanda Chaparro Sierra took her from studying the Higgs Boson at CERN, to using similar machine learning techniques to gauge perceptions of crime in the Colombian capital of Bogota.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63996acfe932dea8cf654b17/0x0.jpg?format=jpg&crop=1944,1944,x0,y648,safe&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2022/12/16/how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out/amp/",
-      "publishedDateTime": "2022-12-16T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-zoho-desk-redefining-the-customer-experience-with-ai.md",
-      "title": "Zoho Desk – Redefining The Customer Experience With AI",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he covers new capabilities announced by Zoho, including a new feature called Blended Conversations, which seamlessly combines the capabilities of bot-powered self-service and human-driven conversational service capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639c8275d2a4ad563b8cea7f/0x0.jpg?format=jpg&crop=1080,607,x0,y32,safe&width=1200",
-          "width": 1080,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/12/16/zoho-desk--redefining-the-customer-experience-with-ai/amp/",
-      "publishedDateTime": "2022-12-16T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-07-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation.md",
+      "title": "AI startup Cohere in talks to raise funding at $6-billion plus valuation",
+      "excerpt": "Cohere working on a new dialogue model, that would resemble ChatGPT, to allow enterprise users generate text and refine the output",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/technology/article-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus/",
+      "originalUrl": "https://www.theglobeandmail.com/business/technology/article-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-pinecone-now-available-on-aws-marketplace-and-gcp-marketplace.md",
       "title": "Pinecone now available on AWS Marketplace and GCP Marketplace",
       "excerpt": "The announcement comes as Pinecone has seen tremendous growth in recent months as machine learning models such as GPT-3 have become more widely used. Pinecone provides critical infrastructure to use these models in useful and meaningful ways,",
@@ -1268,41 +1302,6 @@
       "provider": {
         "name": "The Free Press Journal",
         "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-kfintech-drives-digital-transformation-and-innovation-in-the-financial-services-industry-with-aws.md",
-      "title": "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS",
-      "excerpt": "Leveraging the depth and breadth of AWS capabilities, KFintech helps their clients digitally transform, providing the best business, program, and portfolio strategies to build the next generation of solutions in the capital market.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T21:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

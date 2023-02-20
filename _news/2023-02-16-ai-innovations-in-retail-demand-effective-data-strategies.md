@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-innovations-in-retail-demand-effective
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
     quality: 41
     images:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/02/Robotics-Autonomous-fleet-platooning.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in autonomous fleet platooning for the automotive industry"
-    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
-    publishedDateTime: 2023-02-15T10:58:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-autonomous-fleet-platooning-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 20
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/02/AI-autonomous-fleet-platooning.jpg"
         width: 1440
         height: 810
         isCached: true

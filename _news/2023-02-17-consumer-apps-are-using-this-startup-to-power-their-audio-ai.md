@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 640
     height: 388
     isCached: true
-
-related:
-  - title: "‘This is the moment’: Why an Amazon AI researcher is jumping to a medical scribe startup"
-    excerpt: "As companies seek a technological solution to physician burnout, competitors to Nuance’s DAX have been popping up: Suki, Augmedix, and DeepScribe, to name a few. These companies use artificial intelligence to listen to patient-provider conversations and ..."
-    publishedDateTime: 2023-02-15T09:40:00Z
-    webUrl: "https://www.statnews.com/2023/02/15/amazon-abridge-artificial-intelligence-zachary-lipton/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 28
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/02/Zack_Lipton_website-1-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "axkslY8iZsVy8SvMuz7JsTJybUBnXxrDAzlZ9VZ/ATnQblFxr0MZqWOzuDk0bj2qEfSyadvf1KsX2FOBaWYzD9wFX/SFx7/NqYTm7vD39/1NQGSpfsPHQ40fdAMGoLpzfR6ElSy4r8yU+qHhKP0keXZ85VGsT5eT0ocFAPM3POChTz5XyhXXSjiKjh4Aa1MLhcF6jC2nCd8FbbTs+KTsQvUCQ/8Jwp78tQRzNtHHpNgYOyUiGXATeucs4R6zN30j3kU01+MS0Jj2RjTyAHjzHgwYj/NOUUU/jD+74nlUQ3kjAvOoCFIH636GaHO37HGCRUtyRAKxWK7jYzpAMkYJUbp2t893RZNvVwjKPJWeo49X6Ec+JYLApEfxZTNEIT+9NkrSYGhmU9wl5y3LsonNvlI2y2++VMnO5LCTSiiYvegtt1G3fzrtV8bfmhXhcrwQ9oz5Ly5m305+Jggvx29bo1Q6kvCguDxgD/t0RS8PPl3eeOPEwVVcjAyudltUcwPk0AOJVmfawg+ZyAhwdGzKlQ==;jdE+vgwvXeWskThsRQMecQ=="
 ---

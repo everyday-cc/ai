@@ -475,6 +475,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 45
+  - title: "Musk oversaw video that exaggerated Tesla’s self-driving capabilities"
+    excerpt: "In an Oct 19 call with reporters and blog post, Tesla said that all its cars from that day forward would ship with the hardware necessary for full self-driving capability. \"Just want to be absolut ..."
+    publishedDateTime: 2023-02-17T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/01/20/musk-oversaw-video-that-exaggerated-teslas-self-driving-capabilities"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/01/20/1909430.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Tesla recalls ‘Full Self-Driving’ to fix flaws in behavior"
     excerpt: "Tesla is recalling nearly 363,000 vehicles with its “Full Self-Driving” system to fix problems with the way it behaves around intersections and following posted speed limits. The recall came after U.S. safety regulators expressed concerns about the way ..."
     publishedDateTime: 2023-02-16T18:05:00Z

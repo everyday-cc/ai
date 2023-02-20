@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Deep Learning Model Helps Predict Neonatal Outcomes"
-    excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the Feb. 15 issue of Science Translational Medicine. Davide De ..."
-    publishedDateTime: 2023-02-17T20:43:00Z
-    webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_8cea174c-c901-5f62-97ab-6528bacee66e.html"
+    excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the ..."
+    publishedDateTime: 2023-02-17T18:20:00Z
+    webUrl: "https://richmond.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_bc529531-190f-54bf-a518-739effebd6d6.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 19
+      name: Richmond
+      domain: richmond.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/c6/1c620e58-a5f9-5001-b8d2-ab6d9ade8c71/63efc1f1f162e.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "8a/oMq9cb0hvSM/W4BfZfvKrIk/h8Ugt2SyqLogDMNnTnePSNxu6StSoOytNgXpU7HX9DXNO5oID+YfOvSdYnCDElcnA7gqpckF1+iSAVj36HBWSSLB+Y5KxLZOs5lGBlC4y2u7waew0poJRLtDYz5lRR/t5AYCEP8Ne8S8ALgi43L3UW6vPTaqN8r0CpH8reBc7glwAfCQ6AtzuruIVlYy257WvEf/QHA0hg9MAVN3NplpWn9hED8LNK/iOuRwU34F9AlGLwC/2dOUD23Pnvfl11V5tkfM24mUXJBqU9hdL6BtQxHOV9KhOVEXkVB6+drN38e7h89alfrCMbgoUCMHPY8ANTgoYDeFaoEK84qkkUXsCalogmoum+OZkFcVOhKdH3BTK68go3mj+lVaMzQZgOjPiF2I/k8Jnr1pKBmDWfZTmU8dln0vEvjD9aOOL/RQjWw/CLEaygfqDXP3EPbQJ3AZfl9Ies1dcW5cXyOvOMEgig2t3TYnnY0FoQnyDXf/8Qe+is2zChTmHbyG0nQ==;lJmzJoeLschs2xWpEeuUaw=="
 ---
