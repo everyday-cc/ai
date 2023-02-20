@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence based Personalization Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence based Personalization Market\" Report covers specified competitive outlook consisting of the"
+    publishedDateTime: 2023-02-20T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence For IT Operations Platform Market Size 2023 : Emerging Technologies, Opportunity and Forecast to 2028"
     excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence For IT Operations Platform Market\" Research Report 2023 Provides a Basic overview of the"
     publishedDateTime: 2023-02-16T02:06:00Z

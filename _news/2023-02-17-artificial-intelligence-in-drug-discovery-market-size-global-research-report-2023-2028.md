@@ -294,6 +294,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New “Deep Learning System Market” Research Report Reveals Market Dynamics and Growth Factors for 2023"
+    excerpt: "Global Deep Learning System Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions,"
+    publishedDateTime: 2023-02-20T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-deep-learning-system-market-research-report-reveals-market-dynamics-and-growth-factors-for-2023-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market [360 Market Updates] Reports Development Expenditure and Financial Insights 2028"
     excerpt: "Insights] Top “Artificial Intelligence (AI) in Insurance Market” Size 2023 Key players Profiled in the Report are"
     publishedDateTime: 2023-02-17T14:16:00Z

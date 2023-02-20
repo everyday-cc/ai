@@ -330,6 +330,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Will ChatGPT start writing killer malware?"
+    excerpt: "AI-pocalypse soon? As stunning as ChatGPT’s output can be ... Since a wide swath of the nastiest attacks start with someone clicking on a link, expect the related impact to supersize. Ransom negotiation automation Smooth-talking ransomware operators ..."
+    publishedDateTime: 2023-02-20T11:20:00Z
+    webUrl: "https://www.welivesecurity.com/2023/02/20/will-chatgpt-start-writing-killer-malware/"
+    type: article
+    provider:
+      name: WeLiveSecurity
+      domain: welivesecurity.com
+    quality: 24
+    images:
+      - url: "https://www.welivesecurity.com/wp-content/uploads/2023/02/chatgpt-malware-machine-learning-abilities.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Best ChatGPT AI Alternatives You Need To Try in 2023"
     excerpt: "We've taken a closer look at the top alternatives to ChatGPT currently available, including ChatSonic, YouChat and OpenAI Playground."
     publishedDateTime: 2023-02-16T13:42:00Z

@@ -1,0 +1,109 @@
+---
+category: news
+title: "Jasper's Generative AI Conference Breathes New Optimism Into The Beaten Down Tech Industry"
+excerpt: "Experts from industry-leading companies such as OpenAI, Anthropic, Replit, and Stability were featured in the event."
+publishedDateTime: 2023-02-20T11:37:00Z
+originalUrl: "https://www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/"
+webUrl: "https://www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/"
+ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/amp/"
+type: article
+quality: 77
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63f3691c813c6c8f7ded2983/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "It’s Always Sunny Inside a Generative AI Conference"
+    excerpt: "AI-powered chatbots will only make us more efficient, according to the companies selling said AI-powered chatbots."
+    publishedDateTime: 2023-02-16T22:04:00Z
+    webUrl: "https://www.wired.com/story/jasper-generative-ai-conference-2023/"
+    ampWebUrl: "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/63ee93cc1b87b32b35988c95/master/pass/Gear_Gen-AI-attendees-take-part-in-Jasper-Art-immersive-experience-at-Gen-AI-at-Pier-27-in-San-Francisco.-Photo-courtesy-of-Jasper.jpg"
+        width: 2400
+        height: 1597
+        isCached: true
+  - title: "The Problematic Nature Of Generative AI"
+    excerpt: "We’re the only species capable of synthesizing ideas, forming opinions and making decisions based on ethical principles. Let’s use this moment in history to embrace the future while investing in our humanity."
+    publishedDateTime: 2023-02-16T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/16/the-problematic-nature-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63eceeda75188ac6692ed0f8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The cost and sustainability of generative AI"
+    excerpt: "All the people using DALL-E to create images or letting ChatGPT write their term papers are eating up a lot of cloud resources. Who’s going to pay for all this?"
+    publishedDateTime: 2023-02-17T10:36:00Z
+    webUrl: "https://www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688348/the-cost-and-sustainability-of-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.techhive.com/images/article/2017/03/ai_agriculture_primary-100715481-large.jpg?auto=webp&quality=85,70"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Generative AI is here, along with critical legal implications"
+    excerpt: "AI is in its relative infancy. As AI and generative AI evolves, regulators and litigants will increasingly reckon with the technologies."
+    publishedDateTime: 2023-02-18T16:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-is-here-along-with-critical-legal-implications/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1142653244.jpg?fit=800%2C423&strip=all"
+        width: 800
+        height: 423
+        isCached: true
+  - title: "Veritone Continues to Innovate and Make AI More Accessible, Deploying Generative AI Across Its Leading aiWARE Platform"
+    excerpt: "With this major advancement, Veritone is empowering enterprises to create and extend content and data at an unprecedented scale beyond the power of human capabilities. Veritone Ge"
+    publishedDateTime: 2023-02-16T13:56:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/16/9761663.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "fNqkB2IH/2zB2oVU0LXLlTWi+0dF7Xswee1ZK/l8ZTN3xnhMsEkT13UkmtxDs75nuPEnASNOqXpQ1MNrMGbtZ8AsASIPzu0orTXVUGKNYwzgxNl3LvLpONa5RMVQoPocbg0xrXXetJVTND8d9gv8bdoc7YerzRnNPU6FFuC/IH+PkblLBjLlsPk+V/15et8S+Uzkf2+yKJjvaD0yPECqSMokngszJBle93ujHThpzaj+tXX25GVDANjP3Cp12Dfy9JxcA/DdYsxpSsWvWm/z0Agkf1wEF8KnWUJXGtrC8gagdhQbkDyYgPEUMvYAunL243USpZIu4dKqW2Zd058CkxYIMZ9qsFbi5F/YKy8AibM=;+ZO/v7JYIJscbcwHGP4Bug=="
+---
+

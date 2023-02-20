@@ -50,6 +50,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
+    excerpt: "Zoox deployed a fleet of Toyota Highlanders, equipped with the same software and hardware that power its robotaxis. Unlike the robotaxi, the Highlanders have a steering wheel, ped"
+    publishedDateTime: 2023-02-20T11:15:00Z
+    webUrl: "https://richmond.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_bafdb78c-b0a3-5527-aa82-f7242d546c06.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/b/af/bafdb78c-b0a3-5527-aa82-f7242d546c06/63f1b9d8a4381.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9NcKQI6UXqgsjXFoO2OeqRN8bzbMyptkPjvEj2Fh7yzSWejM6VVBbYitqIngDtGCGKCuedg3iWNUcCJ/ppA+I9JOK8iaPX9OWuRk21fQ77OjhGbM/8l/dkqdxiPJ6bjJbEUBkdrzfZjyI9HYmeyGPEpoIWKboo5sBW+54d0t1z7jB/kgzSC42odKjX8++x1md7RSmxAPn01JCohpoLcPrHGbUkep2Kd+uAqNeLI4nkwhL7Q8d1/TKagisg9Hh93keR1y5rxsYT/lnBOmnnQAUDJg6Mks7G10i1Roy+9Xa7kCsjW/JCza1FvMAOXwFEEzNyv865mBdVBtO2sRfbkvPF6Ojb7waAhi9F3lza3/p0cVtN8hrHGcczYZJRxaEczsNjGEqU3I38UcKYPB6k0p9o8xwxXNGESZjFtYmRdB54209wUKwPUVRzIBjhuOLhG4BI7GvnhkhjdEZWWD8CeZ5My2s30UKeXHQKVaQXbKNpYIFyKT5MPvJAumcjzmN9Pa0IMErF5V6ZsIMqjGfrAAzQ==;ndZoUEqYxVke2Gjx892Nlg=="
 ---

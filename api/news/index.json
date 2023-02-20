@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-20-ai-still-requires-human-expertise.md",
+      "title": "AI still requires human expertise",
+      "excerpt": "Not only is the AI/software not nearly good enough yet, but the laws still won’t allow a driver to blame the AI for a crash (and there are plenty of crashes —at least 400 last year). ChatGPT is amazing until it starts making up information during the public launch of the new AI-powered Bing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3688331/ai-still-requires-human-expertise.html",
+      "originalUrl": "https://www.infoworld.com/article/3688331/ai-still-requires-human-expertise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3688331/ai-still-requires-human-expertise.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688331/ai-still-requires-human-expertise.amp.html",
+      "publishedDateTime": "2023-02-20T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-20-ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya.md",
       "title": "RingCentral Dials In Strategic Partnerships With AWS And Avaya",
       "excerpt": "Vice President and Principal Analyst, Melody Brue dives in as this week, RingCentral announced two important partnerships—one with AWS, the other with Avaya.",
@@ -115,7 +166,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 392,
+      "heat": 402,
       "tags": null,
       "images": [
         {
@@ -272,7 +323,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-2028-by-product-type-end-user-capacity-and-geography-2023-02-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -556,7 +607,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/computing-pioneer-criticizes-chatgpt-ai-tech-for-making-things-up/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -946,6 +997,49 @@
       ]
     },
     {
+      "path": "_news/2023-02-18-top-trends-in-robotics-in-2023.md",
+      "title": "Top trends in robotics in 2023",
+      "excerpt": "The easy-to-use software paired with an intuitive user experience replaces extensive robotics programming and opens up new robotics automation opportunities: Software start-ups are ... 4 – Artificial Intelligence and digital automation Propelled by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/top_trends_in_robotics_in_2023",
+      "originalUrl": "https://www.logisticsmgmt.com/article/top_trends_in_robotics_in_2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scmr.com/images/2021_article/Top_5_robotic_trends_in_2023.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai.md",
       "title": "Chuck Todd: 'Are we ready for a potential brave new world of AI?'",
       "excerpt": "Lawmakers raise concerns over the spread of unregulated artificial intelligence, which can lead to false narratives and misinformation.",
@@ -1144,109 +1238,6 @@
         "AI",
         "AI in Marketing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-gamings-renewal-of-vows-with-hollywood-and-more-on-ugcgenerative-ai-the-deanbeat.md",
-      "title": "Gaming’s renewal of vows with Hollywood and more on UGC/generative AI | The DeanBeat",
-      "excerpt": "It’s vibrant because we’ve seen gaming and Hollywood get married again, thanks to the huge success of The Last of Us television show on HBO, which continues to see millions of people watching every week and boosting sales of the game series.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/",
-      "originalUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/hbo-last-of-us.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/amp/",
-      "publishedDateTime": "2023-02-17T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-roblox-is-bringing-generative-ai-to-its-gaming-universe.md",
-      "title": "Roblox Is Bringing Generative AI to Its Gaming Universe",
-      "excerpt": "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
-      "originalUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ef9162ec9575838d5299ab/master/pass/Roblox-Generative-AI-Materials_science.jpg",
-          "width": 1728,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roblox-generative-ai-gaming-universe/amp",
-      "publishedDateTime": "2023-02-17T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

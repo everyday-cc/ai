@@ -8,7 +8,7 @@ webUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligen
 ampWebUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
 cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.nbcbayarea.com/2023/02/Generic-Students.png?resize=1200%2C675&quality=85&strip=all"
@@ -42,6 +43,22 @@ related:
       - url: "https://media.wired.com/photos/5f0fb43a92cb35f94cf6a0ed/master/w_450,h_400,c_limit/Carve_Fast%20Forward%20newsletter.jpg"
         width: 450
         height: 400
+        isCached: true
+  - title: "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'"
+    excerpt: "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ..."
+    publishedDateTime: 2023-02-20T11:06:00Z
+    webUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Convertobot Reviews - AI Chatbot Social Media Platform For Leads And Sales"
     excerpt: "ConvertoBot is easy to use, and in under five minutes, you can get started with a bot on your WhatsApp, Facebook, Messenger, or business website."

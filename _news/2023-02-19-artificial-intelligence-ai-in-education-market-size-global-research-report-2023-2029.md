@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19"
 type: article
 quality: 92
-heat: 392
+heat: 402
 published: true
 
 provider:
@@ -286,6 +286,20 @@ related:
     excerpt: "Facial Recognition, Object Recognition, Others]that held the largest Image Recognition in Retail market share In 2022. Short Description About Image Recognition in Retail Market: The Global Image Recognition in Retail market is anticipated to rise at a ..."
     publishedDateTime: 2023-02-16T01:55:00Z
     webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New “Deep Learning System Market” Research Report Reveals Market Dynamics and Growth Factors for 2023"
+    excerpt: "Global Deep Learning System Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions,"
+    publishedDateTime: 2023-02-20T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-deep-learning-system-market-research-report-reveals-market-dynamics-and-growth-factors-for-2023-2023-02-20"
     type: article
     provider:
       name: MarketWatch

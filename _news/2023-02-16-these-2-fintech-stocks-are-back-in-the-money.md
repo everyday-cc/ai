@@ -77,6 +77,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "UK FinTech investment down by 'almost 60%' in 2022"
+    excerpt: "Investment in the UK’s FinTech sector slumped by almost 60 per cent in 2022, according to new research. <br /> <br /> KPMG’s study found that 593 UK FinTech deals were completed in 2022, down from 724 in 2021,"
+    publishedDateTime: 2023-02-20T12:38:00Z
+    webUrl: "https://www.fstech.co.uk/fst/UK_FinTech_investment_down_by_almost_60_in_2022.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
+        width: 4096
+        height: 2304
+        isCached: true
   - title: "Fintech Bytes: Crypto winter continues"
     excerpt: "Crypto giant Binance could be next and is considering pulling out of its U.S. operations. Crypto investors whose accounts have been frozen are now facing tax bills, and former NBA star Paul Pierce agreed to pay $1."
     publishedDateTime: 2023-02-17T19:26:00Z

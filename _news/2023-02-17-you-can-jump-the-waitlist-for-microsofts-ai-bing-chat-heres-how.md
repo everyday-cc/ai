@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "‘I want to be human.’ My intense, unnerving chat with Microsoft’s AI chatbot"
-    excerpt: "It’s important to understand what makes Bing Chat special in the first place, though. Unlike ChatGPT and other AI chatbots, Bing Chat takes context into account. It can understand your previous conversation fully, synthesize information from multiple ..."
-    publishedDateTime: 2023-02-15T20:39:00Z
-    webUrl: "https://www.digitaltrends.com/computing/chatgpt-bing-hands-on/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/chatgpt-bing-hands-on/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/chatgpt-bing-hands-on/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 101
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/bing-chat-want-human.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft is looking for ways to rein in Bing AI chatbot after troubling responses"
     excerpt: "Microsoft on Thursday said it’s looking at ways to rein in its Bing AI chatbot after a number of users highlighted examples of concerning responses from it this week, including confrontational remarks and troubling fantasies. In a blog post, Microsoft ..."
     publishedDateTime: 2023-02-17T17:42:00Z
@@ -372,22 +356,6 @@ related:
       - url: "https://images.wsj.net/im-728157/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams"
-    excerpt: "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ..."
-    publishedDateTime: 2023-02-15T20:38:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams"
-    ampWebUrl: "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 74
-    images:
-      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02"
-        width: 1440
-        height: 500
         isCached: true
   - title: "Microsoft now says AI-powered Bing chatbot is ‘not a replacement or substitute for the search engine’"
     excerpt: "Microsoft was clear from the start that its limited preview of the new technology ... strengths and surprising weaknesses in a lengthy exchange last week, when the AI chatbot made complex inferences and proactively conducted advanced research, while ..."

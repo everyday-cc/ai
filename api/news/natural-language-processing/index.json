@@ -1046,6 +1046,49 @@
       ]
     },
     {
+      "path": "_news/2023-02-09-the-road-to-new-recognition-for-lift-every-voice-and-sing.md",
+      "title": "The road to new recognition for ‘Lift Every Voice and Sing’",
+      "excerpt": "W. Bush’s presidential inauguration to Super Bowl Sunday. Now, the hymn, “Lift Every Voice and Sing,” known as the Black National Anthem is on the road to new recognition. First performed by a group of school children, it should come as no surprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/",
+      "originalUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/02/snapshot-3.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/amp/",
+      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/amp/",
+      "publishedDateTime": "2023-02-08T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-google-translate-is-adding-contextual-translations-for-words-with-multiple-meanings.md",
       "title": "Google Translate is adding contextual translations for words with multiple meanings",
       "excerpt": "At today's AI-focused event in Paris ... In fact, if you ever tried to use Translate to complete your language homework in high school, you know poorly this sort of thing can turn out. With this contextual upgrade, Google will provide multiple meanings ...",
@@ -1414,50 +1457,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-using-deep-learning-to-detect-depression-from-speech.md",
-      "title": "Using deep learning to detect depression from speech",
-      "excerpt": "Artificial intelligence (AI) tools have achieved promising results on numerous tasks and could soon assist professionals in various settings. In recent years, computer scientists have been exploring the potential of these tools for detecting signs of different physical and psychiatric conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-deep-learning-to.jpg",
-          "width": 1142,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deep-depression-speech.amp",
-      "publishedDateTime": "2023-02-07T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

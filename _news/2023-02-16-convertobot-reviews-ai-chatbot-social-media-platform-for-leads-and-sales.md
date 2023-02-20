@@ -44,6 +44,22 @@ related:
         width: 450
         height: 400
         isCached: true
+  - title: "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'"
+    excerpt: "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ..."
+    publishedDateTime: 2023-02-20T11:06:00Z
+    webUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How will AI change mathematics? Rise of chatbots highlights discussion"
     excerpt: "Machine learning tools already help mathematicians to formulate new theories and solve tough problems. But they’re set to shake up the field even more."
     publishedDateTime: 2023-02-17T15:41:00Z
@@ -58,6 +74,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ChatGPT Likely Helped Student Cheat in Ethics Course About Artificial Intelligence"
+    excerpt: "He believes one of his students used ChatGPT to produce an essay that he then attempted to pass off as his own in class – essentially using artificial intelligence to cheat in Green’s course on ‘Ethics in Artificial Intelligence.’ “The irony is ..."
+    publishedDateTime: 2023-02-16T23:51:00Z
+    webUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/"
+    ampWebUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 70
+    images:
+      - url: "https://media.nbcbayarea.com/2023/02/Generic-Students.png?resize=1200%2C675&quality=85&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "You.com thinks the future of AI chatbots is (gasp) images"
     excerpt: "You.com's futuristic YouChat 2.0 AI chatbot has migrated to adding charts, graphs, code, and more inside of its AI-powered search engine."
     publishedDateTime: 2023-02-16T09:45:00Z
@@ -71,22 +103,6 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2023/02/Youchat-1.png?w=1024"
         width: 1023
         height: 562
-        isCached: true
-  - title: "ChatGPT Likely Helped Student Cheat in Ethics Course About Artificial Intelligence"
-    excerpt: "He believes one of his students used ChatGPT to produce an essay that he then attempted to pass off as his own in class – essentially using artificial intelligence to cheat in Green’s course on ‘Ethics in Artificial Intelligence.’ “The irony is ..."
-    publishedDateTime: 2023-02-16T23:51:00Z
-    webUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/"
-    ampWebUrl: "https://www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/investigations/chatgpt-artificial-intelligence-schools-silicon-valley/3159151/?amp=1"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 68
-    images:
-      - url: "https://media.nbcbayarea.com/2023/02/Generic-Students.png?resize=1200%2C675&quality=85&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "OpenAI-backed startup brings chatbot technology to first major law firm"
     excerpt: "Allen & Overy partners with legal startup Harvey Harvey received $5 million in a funding round led by the OpenAI Startup Fund last year (Reuters) - Harvey AI, an artificial intelligence startup ..."

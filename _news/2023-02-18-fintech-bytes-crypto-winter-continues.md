@@ -81,6 +81,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "UK FinTech investment down by 'almost 60%' in 2022"
+    excerpt: "Investment in the UK’s FinTech sector slumped by almost 60 per cent in 2022, according to new research. <br /> <br /> KPMG’s study found that 593 UK FinTech deals were completed in 2022, down from 724 in 2021,"
+    publishedDateTime: 2023-02-20T12:38:00Z
+    webUrl: "https://www.fstech.co.uk/fst/UK_FinTech_investment_down_by_almost_60_in_2022.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
+        width: 4096
+        height: 2304
+        isCached: true
 
 secured: "dV8+Cj3FBiHEVq0ua/kaNPAqEMA/FIGPV+9KojzyyQZn9mSmGN0l597b2DwGRVDIvBaZNTxIo6w00m9GC33hI3HlHJJKiLNcFiXc2nLBxmFFLPJg1VIfnekEBXRkb3hnH3phXmHuxLKbVEBIGoN5AybhcdmEAPJjE0EGk+BCH+sMgfL3n8ldZOBfWS4dznddd4MmyfiA+JJ7OSXDAWGm3DaS8On0p9rlPHkSnqH7L/gPaiBaMdw+TZp3TXo+SbMYDJitawS4DxoJmkMfOs8AZ0up6sBW8M6r2iPRVI9kYt46weCacr6TvJLxr/xClQYpkDQ0YMQ0f50+GCd+/JM/fiKMuSuJcyjSj5c00qobajodkGtKF5RU/V5yiNiM6RePUzCZbMsNQT3rzbEzXtBEfeI2oBU9eVtO/bkshTUFoFBEgYacTYsVE/m0Q9qoTP7f7ufM+8366S5HdWavy8SBRlwqI0XAQy3+tKLGyAoUG7LTCfIfMBveuTaU3RLZrDGQasR4713Vm1g6DZJcOFnO0w==;R89sEsPgHD83/WICsJM9uw=="
 ---

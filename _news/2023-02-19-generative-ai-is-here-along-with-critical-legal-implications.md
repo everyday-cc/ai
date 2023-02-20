@@ -78,6 +78,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Jasper's Generative AI Conference Breathes New Optimism Into The Beaten Down Tech Industry"
+    excerpt: "Experts from industry-leading companies such as OpenAI, Anthropic, Replit, and Stability were featured in the event."
+    publishedDateTime: 2023-02-20T11:37:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/jaspers-generative-ai-conference-breathes-new-optimism-into-the-beaten-down-tech-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f3691c813c6c8f7ded2983/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Veritone Continues to Innovate and Make AI More Accessible, Deploying Generative AI Across Its Leading aiWARE Platform"
     excerpt: "With this major advancement, Veritone is empowering enterprises to create and extend content and data at an unprecedented scale beyond the power of human capabilities. Veritone Ge"
     publishedDateTime: 2023-02-16T13:56:00Z

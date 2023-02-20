@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence based Personalization Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence based Personalization Market\" Report covers specified competitive outlook consisting of the"
+    publishedDateTime: 2023-02-20T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Social Media Market 2023 Top Companies, Industry Outlook | In-depth Analysis Business Opportunities and Demand to 2029"
     excerpt: "The major players covered in the AI in Social Media market report are: North America is expected to have the largest market size in the AI in social media market, while APAC is expected to grow at the highest CAGR during the forecast period."
     publishedDateTime: 2023-02-16T04:08:00Z
