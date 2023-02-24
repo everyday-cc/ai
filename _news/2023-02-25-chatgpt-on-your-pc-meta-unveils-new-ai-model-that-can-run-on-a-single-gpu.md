@@ -1,0 +1,24 @@
+---
+category: news
+title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
+excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
+publishedDateTime: 2023-02-24T20:02:00Z
+originalUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+type: article
+
+provider:
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+secured: "5N897+hwThPOmDxJln/ihgfoQA09Vppbb62eZRT/FgHohzMgEfy2jcnSHOII3hoOSxvvRBTn2pGor79gFHoEkB1MepHRZIOahEsNcRijfz42GkEyjSHQXqEeRav437yZXb5DoWD25TNx04isT3L/Wml7uw06nKcFeSvEHqczn8w/kZRTStQRETqHbTL8C2zynTElFPv0cLc2v7VUwSq96oTssYMDhjOXLTAXPZp/pPX8K8NxiasPD8Qmyy8BpErF0AdJmvvMJBSSHC5yvB4fYHQkmwOPyiG24XEKtlb+FQXFnuszYcYpkoKEAAm2oZpk+pwJ+KEwnaWUx2LsdDkCwqX5Wa23raXisTsUJTWR7ZM=;UIF8wdx1GfAMrYgY+oOJpw=="
+---
+

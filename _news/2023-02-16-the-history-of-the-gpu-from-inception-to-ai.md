@@ -2,23 +2,25 @@
 category: news
 title: "The History of the GPU: From Inception to AI"
 excerpt: "The GPU has gone from an esoteric semiconductor of ... It powers our smartphones, automobiles, virtual and augmented reality, video games, and AI training. Where did these ubiquitous and amazing ..."
-publishedDateTime: 2023-02-16T07:55:00Z
-originalUrl: "https://www.marketwatch.com/press-release/the-history-of-the-gpu-from-inception-to-ai-2023-02-16"
-webUrl: "https://www.marketwatch.com/press-release/the-history-of-the-gpu-from-inception-to-ai-2023-02-16"
+publishedDateTime: 2023-02-16T13:15:00Z
+originalUrl: "https://www.eagletribune.com/region/the-history-of-the-gpu-from-inception-to-ai/article_fc7e54dd-4dc4-5f62-ab3b-f7ca082285a2.html"
+webUrl: "https://www.eagletribune.com/region/the-history-of-the-gpu-from-inception-to-ai/article_fc7e54dd-4dc4-5f62-ab3b-f7ca082285a2.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "XXDG0hypnJAwcPnpMc5stHMSG8oFT8mL7Ow/pyV8p3Ta+F9lCT1uy25+Kv5yc0KVd4qyTb59eBnnCPSXpQnmBDZ9/oqg6yhnzdG9k9Y8tMpkT9J7mz/nwNqPZtCsdSuxNsY8GLFBSBkafpf8Z/PmkyF5GJYMuaKgZal6oOyCZ84Q+DMPfKbEj44s/ueFTz+2pyfyjl79CM+Ti1oRr3JRZ6dU16x7ZwTACCukCokJXbVeuy0cjqoXSUk1SIuots02vXe+YlPwUQaBKXA89A7Ketm7C1qAmwZ7nqayfk9ajHJRv2kL15e+RRS/v8EcKPOw/j2/nV3eEBLav0NEgZiQNCqkcEFlP5YRH2zvBXO6QsE=;ROEkq00zuVrDhHmozrr2pw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/22/122457b9-d302-5439-9f2f-09f36db71050/63ee29efd70d3.image.jpg?crop=912%2C479%2C30%2C0&resize=912%2C479&order=crop%2Cresize"
+    width: 912
+    height: 479
+    isCached: true
+
+secured: "J/vylX4WbNWDlR6t3dhW5sJHwcW0i9ahBxF5ohRSkRA2lhujNcpLeiE6ZhesmRHd5qnW8+txz7anobAeHIp5Su+skrbeRlmLccYVTe5eoRcfN5tEwgzSlc7iaWTcJV55EhhHtHihUdpXUslEOB+rPynvDRYCjYpqbLfotbu7CrAGlicmJh0AVtwlVrh3rX1SncNKPmiP/tCCJlmeaZZ+IbL+Gxa842/on16JpncITMh/xd01eWJ08gMLxlG9x3s7fQkPnpoWObD11annRNDrsYFtQqc6YrpCesEtvrk/5XgIta+YaIo1KnYFDzElCr25D0sjaAOH2tj9cWWvKVcYyGjXN6Sdn7OnUhDtcS+TYnM=;JtKyY4z6XMOxyEHVC/slag=="
 ---
 

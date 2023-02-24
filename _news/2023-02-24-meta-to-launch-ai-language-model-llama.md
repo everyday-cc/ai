@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg"
@@ -38,6 +39,6 @@ related:
       domain: nhonews.com
     quality: 19
 
-secured: "RJFpTnN2svwZdoQHczo9XjOhGdsA0Hh5/RQqXtDfGu1DiG9mVmTBvAt5f62LVPYsDZx9tBLI7U52VkMqnGBQPuZQk3jPEXIUUha00Jj+zA/5INFctGwRVKzJfoStKdP1ArmxPIPu/i6mqd9VJSP0ii2KOAI40YeFwK5SWjrnts9a0DpEEHIhlzxNwuyQIMdbf0xZmzV6Hmc2tgdm+DWXSPt6QlFGfy71sokqwNLzXBOP9+MeIpnkk9m8RCdG5jE8v1cX48S7MT4SIIUQoopWtsjyvLVZJgfTRP/dBolF2lhQDs0cmW+zQffi40qzUqRCA4FJwAGFnblXULOh4y+mYNuNAzGp2Z8IG3lCCVaVbnA=;rL0HbX/gRU3SROoun0545g=="
+secured: "H8iYfMBfrskNFS1YWlnJ2e2rOaKjOWzFXxkiJqIlu1DlKe4EnzoJpHXl1oYP7Vvk5LSILbSVpOAITVHmlSpBHx6IajwynUIJL20xbuhl1dXj/dTT3ntCB2yB7b6PVnKN3PdN4xLXi0Z5G17ug6auRTegjFnXGE0eZr9xZd5K1AMcPliKBN5UwrkvPjJhEgige+2zpFDHjYe9n5qY2aM4YgJTkT6d6ifIQnNEh3EOev1z1TggZJ47FHK5fRpmI/jDKJ7rRS2DToPB+bVO57UDIdTY+8eM4bgjYdHjULun8auv3OqqxGE72w1zpIj6qNa3NxM5HoA2I2HvvIIQ4DFBLJFm5DjcaeCTbcutTmBTvMt5tHHAnnDSKZaJhTSX2DUNK2vtloVDpS5vVNa8XensQtf29ZNO+YjccM5c9bJUWn/3Vd1A/5y1ZTzUEGAAC7D7psRJ1Xza9hk4ejd4vZwYTgkwdkDecaNh6r8rZAKeFbepMM/Bv9sG/aT5MrY6QZOJ+r3ObiKFjBIdG0j4xkC7gQ==;KQ6KfBEwH1u8QJ4qrCciQA=="
 ---
 

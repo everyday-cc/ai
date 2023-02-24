@@ -6,35 +6,15 @@ publishedDateTime: 2023-02-24T15:02:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-how-big-business-integrating-artificial-intelligence-a-rapid-/2023/02/24/9766176.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-how-big-business-integrating-artificial-intelligence-a-rapid-/2023/02/24/9766176.htm"
 type: article
-quality: 13
-heat: -1
-published: false
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-related:
-  - title: "How machine learning is revolutionizing CX outsourcing"
-    excerpt: "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world."
-    publishedDateTime: 2023-02-24T11:17:00Z
-    webUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127"
-    ampWebUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 59
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/02/24/161618.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "xsKbGiwYXYikm+eic4AGCbuarrWBE5y1P7N2H/sVjON4f1EmXabNSkEt2v3dNl+CJA6HPoM6YYR/MUVMugcWZB2vXK+awtBfOsJZrwZgOcZ3+HDwt6KiqzAfgn/O2dL3luCIO1oJSaHIZOgFdFcejsx8itrZEgpzWRp5CH7LigigOqgrCJIHysYbhiVJKlSbBmMEKKnFyJUEwPE8x2cr+wCGqgVTobpwS1j9NFIqkJZZ/HnFAEzJnCpu4lSV6av5h0pIFmTYZQwFlQbN1i5Ht8ymzwvXfZgcSawqpBtnqHRm1zjJixRPg19xO9ZUMp99FeqhK25fLhWtrnF60l7QmvLXBt1TxsfGh8Qj+3BBPvs=;X4mVJtvtM958uix973q/Bw=="
+secured: "3q4fUTIYn0ehTk+y9Qjam+M9ibB5GRZijUH/akCOaont2cv8mvU8Q38N0s7tdSzOlVklXKufUQoTGI6DLWO4/cbQbQ31XEetB7LwfiUkG3E2KeS4PEkd5zBd4n80x5O29hBTY8ZH+Ce0yr9nen+/jOCe7/5upK7Sq/ZFYfaJ3dNiG6L+buDsRMV12Zyuj+2I7b6gbV1jzlx0DXKYY9HpB8J67cPpzOA10kwq9EtRp1fYbB8P3Rg5bYxuGJX71eV++Tcpz6kO6KLtVpJlvgDwj3Z0kzSYu5Z5JSSYxOOwLNkqmJcgiUUSvr1MeZWgEI/5niQctT9O+PvBXGvfSqMmR3ZnPdShcViVWmOz3QSntwQ=;brbY2emrWhLbR0rzBaGyFA=="
 ---
 

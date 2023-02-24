@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f"
@@ -69,6 +70,6 @@ related:
       domain: bgr.com
     quality: 17
 
-secured: "SDFKJwNPQRzAO6k6qHQTMJxDe37G0WB+ciCMNlnmbtDBkKsLoD71vwCUwlYAOsGjHZ/De2FXOPR4K8e9gQhWZTU0J/sSAk4ov0h9mihH5Ty9qAwihtIvTMLxeaf0AM4PQD/P1ZnM3G3VypDM5rTRc7hlAN3opun1AtoaE5RG4U5RnEcQS8yDACaMH5Uuw2sb86ZYSH0oT3HAAMwuK7JJXMiXdy4+XM6LKPrIZZt7H0DO2+hqv+DZAfBTeIYkspxiwy34+y405LgsEM69lAkZkOWPtL+ewt7cgdhpXnD4FAqBojv8qSzX8CWRjt3DFFZdsFt5LjrA1+NMeoL+TveruFyHNU8wFjrusHN4F+AhJDk=;rX7MGmO9HEifzwtv8TWBWw=="
+secured: "cEMqJrrdADTaxeJ8NmPc95Xt/HcA8aKDmleBGb0EPxb29N1DhTC9EdnHvdO8YDH3uXUTnjf3S1WF41e2pyqWdmpnALWmJI+UBp3t994KBNsG5Uxm56thS2JUdIGLVaJN1bFQ1t0uMfrKlksnAlka3mSSGupPNtYtTsP2EvbM8WzOSv00sapvvImqyvRNQGkQYWEREqLImZf8wncZUZg0lk/lEG+d6rF0ABa0pOFZCYJk0LQgYiMmUVkulpfj3Xc/O4vje1rKsT+liYblLEXdVMgCSVXbReX/1hJWFJ5GMGd2TaWMAllCMfPOjgv3rex77YdpM7uvGpQ2rAhjybB1vAY7dyIoWXJmcnJk3yoV8U+mqxpBlNi26+Ze6InhstZs5+aryk3pcsSTUeRaqPxe8mL6cIonm/6Q2R0zvOyR5qiZnXvaXxUUl3pOo8pn53WQajB/XD4nKlddpntzBh/LYyetElj77i27JmjUm+Lj/nJ8hTBHprtootzFEGFQxj+Dp9vFkPyZTRIQCqq6M00/Ww==;dcLOCWw7Tf0Av4u65N5NRg=="
 ---
 
